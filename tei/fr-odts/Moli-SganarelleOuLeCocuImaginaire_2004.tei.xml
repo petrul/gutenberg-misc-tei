@@ -1,0 +1,1395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sganarelle, ou le Cocu imaginaire</title>
+            <author>Molière</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-01T19:48:49Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">odts/fr-odts/Moli-SganarelleOuLeCocuImaginaire_2004.epub.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Molière</name>
+               <date>2024-01-01T19:48:49Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Sganarelle, ou le Cocu imaginaire</head>
+         <author>Molière</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">odts/fr-odts/Moli-SganarelleOuLeCocuImaginaire_2004.epub.odt</p>
+         <p>Produced by Laurent Le Guillou</p>
+         <p>Source:</p>
+         <p>Jean-Baptiste Poquelin (1620-1673), alias Molière,<lb/>"Oeuvres de Molière, avec des notes de tous les commentateurs",<lb/>Tome Premier,<lb/>Paris, Librarie de Firmin-Didot et Cie,<lb/>Imprimeurs de l'Institut, rue Jacob, 56,<lb/>1890.<lb/>
+         </p>
+         <p>Pages 181-207.</p>
+         <p>[Spelling of the 1890 edition. Footnotes have been retained because they provide the meanings of old French words or expressions. Footnotes are indicated by numbers in brackets, and are grouped at the end of the Etext. Text encoding is iso-8859-1.]</p>
+         <p>————————————————————————————————————-</p>
+         <pb/>
+         <div type="div1">
+            <head>SGANARELLE</head>
+            <p rend="justify">ou</p>
+            <pb/>
+            <div type="div2">
+               <head>LE COCU IMAGINAIRE</head>
+               <p rend="justify">Comédie (1660).</p>
+               <div type="div3">
+                  <head>PERSONNAGES ACTEURS</head>
+                  <lg>
+                     <l>Gorgibus, bourgeois de Paris. L'Espy.</l>
+                     <l>Célie, sa fille. Mlle Du Parc.</l>
+                     <l>Lélie, amant de Célie. La Grange.</l>
+                     <l>Gros-René, valet de Lélie. Du Parc.</l>
+                     <l>Sganarelle, bourgeois de Paris,</l>
+                     <l>et cocu imaginaire (0). Molière.</l>
+                     <l>La femme de Sganarelle. Mlle De Brie.</l>
+                     <l>Vilebrequin, père de Valère. De Brie.</l>
+                     <l>La suivante de Célie. Magd. Béjart.</l>
+                     <l>Un parent de la femme de Sganarelle.</l>
+                  </lg>
+                  <p rend="justify">La scène est dans une place publique.</p>
+                  <p rend="justify">SCÈNE PREMIÈRE. - Gorgibus, Célie, la suivante de Célie.</p>
+                  <p rend="justify">- Célie -</p>
+                  <p rend="justify">(sortant toute éplorée, et son père la suivant.)</p>
+                  <p rend="justify">Ah ! n'espérez jamais que mon coeur y consente.</p>
+                  <p rend="justify">- Gorgibus -</p>
+                  <lg>
+                     <l>Que marmottez-vous là, petite impertinente ?</l>
+                     <l>Vous prétendez choquer ce que j'ai résolu ?</l>
+                     <l>Je n'aurai pas sur vous un pouvoir absolu ?</l>
+                     <l>Et par sottes raisons, votre jeune cervelle</l>
+                     <l>Voudrait régler ici la raison paternelle ?</l>
+                     <l>Qui de nous deux à l'autre a droit de faire loi ?</l>
+                     <l>A votre avis, qui mieux, ou de vous ou de moi,</l>
+                     <l>O sotte ! peut juger ce qui vous est utile ?</l>
+                     <l>Par la corbleu ! gardez d'échauffer trop ma bile ;</l>
+                     <l>Vous pourriez éprouver, sans beaucoup de longueur,</l>
+                     <l>Si mon bras sait encor montrer quelque vigueur.</l>
+                     <l>Votre plus court sera, madame la mutine,</l>
+                     <l>D'accepter sans façons l'époux qu'on vous destine.</l>
+                     <l>J'ignore, dites-vous, de quelle humeur il est,</l>
+                     <l>Et dois auparavant consulter s'il vous plaît :</l>
+                     <l>Informé du grand bien qui lui tombe en partage,</l>
+                     <l>Dois-je prendre le soin d'en savoir davantage ?</l>
+                     <l>Et cet époux, ayant vingt mille bons ducats,</l>
+                     <l>Pour être aimé de vous doit-il manquer d'appas ?</l>
+                     <l>Allez, tel qu'il puisse être, avecque cette somme</l>
+                     <l>Je vous suis caution qu'il est très honnête homme.</l>
+                  </lg>
+                  <p rend="justify">- Célie -</p>
+                  <p rend="justify">Hélas !</p>
+                  <p rend="justify">- Gorgibus -</p>
+                  <lg>
+                     <l>        Eh bien, hélas ! Que veut dire ceci ?</l>
+                     <l>Voyez le bel hélas qu'elle nous donne ici !</l>
+                     <l>Eh ! que si la colère une fois me transporte,</l>
+                     <l>Je vous ferai chanter hélas de belle sorte !</l>
+                     <l>Voilà, voilà le fruit de ces empressements</l>
+                     <l>Qu'on vous voit nuit et jour à lire vos romans ;</l>
+                     <l>De quolibets d'amour votre tête est remplie,</l>
+                     <l>Et vous parlez de Dieu bien moins que de Clélie (1).</l>
+                     <l>Jetez-moi dans le feu tous ces méchants écrits</l>
+                     <l>Qui gâtent tous les jours tant de jeunes esprits ;</l>
+                     <l>Lisez-moi comme il faut, au lieu de ces sornettes,</l>
+                     <l>Les Quatrains de Pibrac, et les doctes Tablettes (2)</l>
+                     <l>Du conseiller Matthieu ; l'ouvrage est de valeur,</l>
+                     <l>Et plein de beaux dictons à réciter par coeur.</l>
+                     <l>Le Guide des pécheurs (3) est encore un bon livre,</l>
+                     <l>C'est là qu'en peu de temps on apprend à bien vivre ;</l>
+                     <l>Et si vous n'aviez lu que ces moralités,</l>
+                     <l>Vous sauriez un peu mieux suivre mes volontés.</l>
+                  </lg>
+                  <p rend="justify">- Célie -</p>
+                  <lg>
+                     <l>Quoi ? vous prétendez donc, mon père, que j'oublie</l>
+                     <l>La constante amitié que je dois à Lélie ?</l>
+                     <l>J'aurais tort si, sans vous, je disposais de moi ;</l>
+                     <l>Mais vous-même à ses voeux engageâtes ma foi.</l>
+                  </lg>
+                  <p rend="justify">- Gorgibus -</p>
+                  <lg>
+                     <l>Lui fût-elle engagée encore davantage,</l>
+                     <l>Un autre est survenu dont le bien l'en dégage.</l>
+                     <l>Lélie est fort bien fait ; mais apprends qu'il n'est rien</l>
+                     <l>Qui ne doive céder au soin d'avoir du bien ;</l>
+                     <l>Que l'or donne aux plus laids certains charmes pour plaire,</l>
+                     <l>Et que sans lui le reste est une triste affaire.</l>
+                     <l>Valère, je crois bien, n'est pas de toi chéri ;</l>
+                     <l>Mais, s'il ne l'est amant, il le sera mari.</l>
+                     <l>Plus que l'on ne le croit, ce nom d'époux engage,</l>
+                     <l>Et l'amour est souvent un fruit du mariage.</l>
+                     <l>Mais suis-je pas bien fat de vouloir raisonner</l>
+                     <l>Où de droit absolu j'ai pouvoir d'ordonner ?</l>
+                     <l>Trêve donc, je vous prie, à vos impertinences.</l>
+                     <l>Que je n'entende plus vos sottes doléances.</l>
+                     <l>Ce gendre doit venir vous visiter ce soir ;</l>
+                     <l>Manquez un peu, manquez à le bien recevoir :</l>
+                     <l>Si je ne vous lui vois faire fort bon visage,</l>
+                     <l>Je vous… Je ne veux pas en dire davantage.</l>
+                  </lg>
+                  <p rend="justify">—————-</p>
+                  <p rend="justify">SCÈNE II. - Célie, la suivante de Célie.</p>
+                  <p rend="justify">- La suivante -</p>
+                  <lg>
+                     <l>Quoi ? refuser, Madame, avec cette rigueur,</l>
+                     <l>Ce que tant d'autres gens voudraient de tout leur coeur !</l>
+                     <l>A des offres d'hymen répondre par des larmes,</l>
+                     <l>Et tarder tant à dire un oui si plein de charmes !</l>
+                     <l>Hélas ! que ne veut-on aussi me marier !</l>
+                     <l>Ce ne serait pas moi qui se ferait prier ;</l>
+                     <l>Et loin qu'un pareil oui me donnât de la peine,</l>
+                     <l>Croyez que j'en dirais bien vite une douzaine.</l>
+                     <l>Le précepteur qui fait répéter la leçon</l>
+                     <l>A votre jeune frère a fort bonne raison</l>
+                     <l>Lorsque, nous discourant des choses de la terre,</l>
+                     <l>Il dit que la femelle est ainsi que le lierre,</l>
+                     <l>Qui croît beau tant qu'à l'arbre il se tient bien serré,</l>
+                     <l>Et ne profite point s'il en est séparé.</l>
+                     <l>Il n'est rien de plus vrai, ma très-chère maîtresse,</l>
+                     <l>Et je l'éprouve en moi, chétive pécheresse !</l>
+                     <l>Le bon Dieu fasse paix à mon pauvre Martin !</l>
+                     <l>Mais j'avais, lui vivant, le teint d'un chérubin,</l>
+                     <l>L'embonpoint merveilleux, l'oeil gai, l'âme contente ;</l>
+                     <l>Et je suis maintenant ma commère dolente.</l>
+                     <l>Pendant cet heureux temps passé comme un éclair,</l>
+                     <l>Je me couchais sans feu dans le fort de l'hiver ;</l>
+                     <l>Sécher même les draps me semblait ridicule,</l>
+                     <l>Et je tremble à présent dedans la canicule.</l>
+                     <l>Enfin il n'est rien tel, Madame, croyez-moi,</l>
+                     <l>Que d'avoir un mari la nuit auprès de soi ;</l>
+                     <l>Ne fût-ce que pour l'heur d'avoir qui vous salue</l>
+                     <l>D'un : Dieu vous soit en aide ! alors qu'on éternue.</l>
+                  </lg>
+                  <p rend="justify">- Célie -</p>
+                  <lg>
+                     <l>Peux-tu me conseiller de commettre un forfait,</l>
+                     <l>D'abandonner Lélie, et prendre ce mal fait ?</l>
+                  </lg>
+                  <p rend="justify">- La suivante -</p>
+                  <lg>
+                     <l>Votre Lélie aussi n'est, ma foi, qu'une bête,</l>
+                     <l>Puisque si hors de temps son voyage l'arrête ;</l>
+                     <l>Et la grande longueur de son éloignement</l>
+                     <l>Me le fait soupçonner de quelque changement.</l>
+                  </lg>
+                  <p rend="justify">- Célie -</p>
+                  <p rend="justify">(lui montrant le portrait de Lélie.)</p>
+                  <lg>
+                     <l>Ah ! ne m'accable point par ce triste présage.</l>
+                     <l>Vois attentivement les traits de ce visage :</l>
+                     <l>Ils jurent à mon coeur d'éternelles ardeurs ;</l>
+                     <l>Je veux croire, après tout, qu'ils ne sont pas menteurs,</l>
+                     <l>Et que, comme c'est lui que l'art y représente,</l>
+                     <l>Il conserve à mes feux une amitié constante.</l>
+                  </lg>
+                  <p rend="justify">- La suivante -</p>
+                  <lg>
+                     <l>Il est vrai que ces traits marquent un digne amant,</l>
+                     <l>Et que vous avez lieu de l'aimer tendrement.</l>
+                  </lg>
+                  <p rend="justify">- Célie -</p>
+                  <p rend="justify">Et cependant il faut… Ah ! soutiens-moi.</p>
+                  <p rend="justify">(Elle laisse tomber le portrait de Lélie.)</p>
+                  <p rend="justify">- La suivante -</p>
+                  <lg>
+                     <l>                                           Madame,</l>
+                     <l>D'où vous pourrait venir… Ah ! bons dieux ! elle pâme !</l>
+                     <l>Hé ! vite, holà ! quelqu'un.</l>
+                  </lg>
+                  <p rend="justify">—————-</p>
+                  <p rend="justify">SCÈNE III. - Célie, Sganarelle, la suivante de Célie.</p>
+                  <p rend="justify">- Sganarelle -</p>
+                  <p rend="justify">Qu'est-ce donc ? me voilà.</p>
+                  <p rend="justify">- La suivante -</p>
+                  <p rend="justify">Ma maîtresse se meurt.</p>
+                  <p rend="justify">- Sganarelle -</p>
+                  <lg>
+                     <l>                       Quoi ! ce n'est que cela ?</l>
+                     <l>Je croyais tout perdu, de crier de la sorte.</l>
+                     <l>Mais approchons pourtant. Madame, êtes-vous morte ?</l>
+                     <l>Ouais ! Elle ne dit mot.</l>
+                  </lg>
+                  <p rend="justify">- La suivante -</p>
+                  <lg>
+                     <l>                         Je vais faire venir</l>
+                     <l>Quelqu'un pour l'emporter ; veuillez la soutenir.</l>
+                  </lg>
+                  <p rend="justify">—————-</p>
+                  <p rend="justify">SCÈNE IV. - Célie, Sganarelle, la femme de Sganarelle.</p>
+                  <p rend="justify">- Sganarelle -</p>
+                  <p rend="justify">(en passant la main sur le sein de Célie.)</p>
+                  <lg>
+                     <l>Elle est froide partout, et je ne sais qu'en dire.</l>
+                     <l>Approchons-nous pour voir si sa bouche respire.</l>
+                     <l>Ma foi ! je ne sais pas ; mais j'y trouve encor, moi,</l>
+                     <l>Quelque signe de vie.</l>
+                  </lg>
+                  <p rend="justify">- La femme de Sganarelle -</p>
+                  <p rend="justify">(regardant par la fenêtre.)</p>
+                  <lg>
+                     <l>                      Ah ! qu'est-ce que je voi ?</l>
+                     <l>Mon mari dans ses bras… Mais je m'en vais descendre ;</l>
+                     <l>Il me trahit sans doute, et je veux le surprendre.</l>
+                  </lg>
+                  <p rend="justify">- Sganarelle -</p>
+                  <lg>
+                     <l>Il faut se dépêcher de l'aller secourir ;</l>
+                     <l>Certes, elle aurait tort de se laisser mourir.</l>
+                     <l>Aller en l'autre monde est très grande sottise,</l>
+                     <l>Tant que dans celui-ci l'on peut être de mise.</l>
+                  </lg>
+                  <p rend="justify">(Il l'emporte avec un homme que la suivante amène.)</p>
+                  <p rend="justify">—————-</p>
+                  <p rend="justify">SCÈNE V. - La femme de Sganarelle.</p>
+                  <p rend="justify">- La femme de Sganarelle -</p>
+                  <lg>
+                     <l>Il s'est subitement éloigné de ces lieux,</l>
+                     <l>Et sa fuite a trompé mon désir curieux.</l>
+                     <l>Mais de sa trahison je ne suis plus en doute,</l>
+                     <l>Et le peu que j'ai vu me la découvre toute.</l>
+                     <l>Je ne m'étonne plus de l'étrange froideur</l>
+                     <l>Dont je le vois répondre à ma pudique ardeur :</l>
+                     <l>Il réserve, l'ingrat, ses caresses à d'autres,</l>
+                     <l>Et nourrit leurs plaisirs par le jeûne des nôtres.</l>
+                     <l>Voilà de nos maris le procédé commun ;</l>
+                     <l>Ce qui leur est permis leur devient importun.</l>
+                     <l>Dans le commencements ce sont toutes merveilles,</l>
+                     <l>Ils témoignent pour nous des ardeurs nonpareilles ;</l>
+                     <l>Mais les traîtres bientôt se lassent de nos feux,</l>
+                     <l>Et portent autre part ce qu'ils doivent chez eux.</l>
+                     <l>Ah ! que j'ai de dépit que la loi n'autorise</l>
+                     <l>A changer de mari comme on fait de chemise !</l>
+                     <l>Cela serait commode ; et j'en sais telle ici</l>
+                     <l>Qui comme moi, ma foi, le voudrait bien aussi.</l>
+                  </lg>
+                  <p rend="justify">(En ramassant le portrait que Célie avait laissé tomber.)</p>
+                  <lg>
+                     <l>Mais quel est ce bijou que le sort me présente ?</l>
+                     <l>L'émail en est fort beau, la gravure charmante.</l>
+                     <l>Ouvrons.</l>
+                  </lg>
+                  <p rend="justify">—————-</p>
+                  <p rend="justify">SCÈNE VI. - Sganarelle, La femme de Sganarelle.</p>
+                  <p rend="justify">- Sganarelle -</p>
+                  <p rend="justify">(se croyant seul.)</p>
+                  <lg>
+                     <l>         On la croyait morte, et ce n'était rien.</l>
+                     <l>Il n'en faut plus qu'autant : elle se porte bien.</l>
+                     <l>Mais j'aperçois ma femme.</l>
+                  </lg>
+                  <p rend="justify">- La femme de Sganarelle -</p>
+                  <p rend="justify">(se croyant seule.)</p>
+                  <lg>
+                     <l>                          O ciel ! c'est miniature !</l>
+                     <l>Et voilà d'un bel homme une vive peinture !</l>
+                  </lg>
+                  <p rend="justify">- Sganarelle -</p>
+                  <p rend="justify">(à part, et regardant par-dessus l'épaule de sa femme.)</p>
+                  <lg>
+                     <l>Que considère-t-elle avec attention ?</l>
+                     <l>Ce portrait, mon honneur, ne vous dit rien de bon.</l>
+                     <l>D'un fort vilain soupçon je me sens l'âme émue.</l>
+                  </lg>
+                  <p rend="justify">- La femme de Sganarelle -</p>
+                  <p rend="justify">(sans apercevoir son mari.)</p>
+                  <lg>
+                     <l>Jamais rien de plus beau ne s'offrit à ma vue ;</l>
+                     <l>Le travail plus que l'or s'en doit encor priser.</l>
+                     <l>Oh ! que cela sent bon !</l>
+                  </lg>
+                  <p rend="justify">- Sganarelle -</p>
+                  <p rend="justify">(à part.)</p>
+                  <lg>
+                     <l>                         Quoi ! peste, le baiser ?</l>
+                     <l>Ah ! j'en tiens !</l>
+                  </lg>
+                  <p rend="justify">- La femme de Sganarelle -</p>
+                  <p rend="justify">(poursuit.)</p>
+                  <lg>
+                     <l>                  Avouons qu'on doit être ravie</l>
+                     <l>Quand d'un homme ainsi fait on se peut voir servie,</l>
+                     <l>Et que, s'il en contait avec attention,</l>
+                     <l>Le penchant serait grand à la tentation.</l>
+                     <l>Ah ! que n'ai-je un mari d'une aussi bonne mine !</l>
+                     <l>Au lieu de mon pelé, de mon rustre…</l>
+                  </lg>
+                  <p rend="justify">- Sganarelle -</p>
+                  <p rend="justify">(lui arrachant le portrait.)</p>
+                  <lg>
+                     <l>                                      Ah ! mâtine !</l>
+                     <l>Nous vous y surprenons en faute contre nous,</l>
+                     <l>Et diffamant l'honneur de votre cher époux.</l>
+                     <l>Donc, à votre calcul, ô ma trop digne femme,</l>
+                     <l>Monsieur, tout bien compté, ne vaut pas bien Madame ?</l>
+                     <l>Et, de par Belzébut, qui vous puisse emporter,</l>
+                     <l>Quel plus rare parti pourriez-vous souhaiter ?</l>
+                     <l>Peut-on trouver en moi quelque chose à redire ?</l>
+                     <l>Cette taille, ce port que tout le monde admire,</l>
+                     <l>Ce visage, si propre à donner de l'amour,</l>
+                     <l>Pour qui mille beautés soupirent nuit et jour ;</l>
+                     <l>Bref, en tout et partout, ma personne charmante</l>
+                     <l>N'est donc pas un morceau dont vous soyez contente ?</l>
+                     <l>Et, pour rassasier votre appétit gourmand,</l>
+                     <l>Il faut au mari le ragoût d'un galant ?</l>
+                  </lg>
+                  <p rend="justify">- La femme de Sganarelle -</p>
+                  <lg>
+                     <l>J'entends à demi-mot où va la raillerie.</l>
+                     <l>Tu crois par ce moyen…</l>
+                  </lg>
+                  <p rend="justify">- Sganarelle -</p>
+                  <lg>
+                     <l>                         A d'autres ; je vous prie.</l>
+                     <l>La chose est avérée, et je tiens dans mes mains</l>
+                     <l>Un bon certificat du mal dont je me plains.</l>
+                  </lg>
+                  <p rend="justify">- La femme de Sganarelle -</p>
+                  <lg>
+                     <l>Mon courroux n'a déjà que trop de violence,</l>
+                     <l>Sans le charger encor d'une nouvelle offense.</l>
+                     <l>Écoute, ne crois pas retenir mon bijou,</l>
+                     <l>Et songe un peu…</l>
+                  </lg>
+                  <p rend="justify">- Sganarelle -</p>
+                  <lg>
+                     <l>                   Je songe à te rompre le cou.</l>
+                     <l>Que ne puis-je, aussi bien que je tiens la copie,</l>
+                     <l>Tenir l'original !</l>
+                  </lg>
+                  <p rend="justify">- La femme de Sganarelle -</p>
+                  <p rend="justify">Pourquoi ?</p>
+                  <p rend="justify">- Sganarelle -</p>
+                  <lg>
+                     <l>                              Pour rien, ma mie.</l>
+                     <l>Doux objet de mes voeux ; j'ai grand tort de crier,</l>
+                     <l>Et mon front de vos dons vous doit remercier.</l>
+                  </lg>
+                  <p rend="justify">(Regardant le portrait de Lélie.)</p>
+                  <lg>
+                     <l>Le voilà ! le beau-fils, le mignon de couchette,</l>
+                     <l>Le malheureux tison de ta flamme secrète,</l>
+                     <l>Le drôle avec lequel…</l>
+                  </lg>
+                  <p rend="justify">- La femme de Sganarelle -</p>
+                  <p rend="justify">Avec lequel… poursuis.</p>
+                  <p rend="justify">- Sganarelle -</p>
+                  <p rend="justify">Avec lequel, te dis-je…, et j'en crève d'ennuis.</p>
+                  <p rend="justify">- La femme de Sganarelle -</p>
+                  <p rend="justify">Que me veut donc conter par là ce maître ivrogne ?</p>
+                  <p rend="justify">- Sganarelle -</p>
+                  <lg>
+                     <l>Tu ne m'entends que trop, madame la carogne.</l>
+                     <l>Sganarelle est un nom qu'on ne me dira plus,</l>
+                     <l>Et l'on va m'appeler seigneur Cornélius :</l>
+                     <l>J'en suis pour mon honneur ; mais à toi, qui me l'ôtes,</l>
+                     <l>Je t'en ferai du moins pour un bras ou deux côtes.</l>
+                  </lg>
+                  <p rend="justify">- La femme de Sganarelle -</p>
+                  <p rend="justify">Et tu m'oses tenir de semblables discours ?</p>
+                  <p rend="justify">- Sganarelle -</p>
+                  <p rend="justify">Et tu m'oses jouer de ces diables de tours ?</p>
+                  <p rend="justify">- La femme de Sganarelle -</p>
+                  <p rend="justify">Et quels diables de tours ? Parle donc sans rien feindre.</p>
+                  <p rend="justify">- Sganarelle -</p>
+                  <lg>
+                     <l>Ah ! cela ne vaut pas la peine de se plaindre !</l>
+                     <l>D'un panache de cerf sur le front me pourvoir,</l>
+                     <l>Hélas ! voilà vraiment un beau venez-y voir !</l>
+                  </lg>
+                  <p rend="justify">- La femme de Sganarelle -</p>
+                  <lg>
+                     <l>Donc, après m'avoir fait la plus sensible offense</l>
+                     <l>Qui puisse d'une femme exciter la vengeance,</l>
+                     <l>Tu prends d'un feint courroux le vain amusement</l>
+                     <l>Pour prévenir l'effet de mon ressentiment ?</l>
+                     <l>D'un pareil procédé l'insolence est nouvelle !</l>
+                     <l>Celui qui fait l'offense est celui qui querelle.</l>
+                  </lg>
+                  <p rend="justify">- Sganarelle -</p>
+                  <lg>
+                     <l>Eh ! la bonne effrontée ! A voir ce fier maintien,</l>
+                     <l>Ne la croirait-on pas une femme de bien ?</l>
+                  </lg>
+                  <p rend="justify">- La femme de Sganarelle -</p>
+                  <lg>
+                     <l>Va, poursuis ton chemin, cajole tes maîtresses,</l>
+                     <l>Adresse-leur tes voeux, et fais-leur des caresses :</l>
+                     <l>Mais rends-moi mon portrait sans te jouer de moi.</l>
+                  </lg>
+                  <p rend="justify">(Elle lui arrache le portrait et s'enfuit.)</p>
+                  <p rend="justify">- Sganarelle -</p>
+                  <p rend="justify">(Courant après elle.)</p>
+                  <p rend="justify">Oui, tu crois m'échapper… ; je l'aurai malgré toi.</p>
+                  <p rend="justify">—————-</p>
+                  <p rend="justify">SCÈNE VII. - Lélie, Gros-René.</p>
+                  <p rend="justify">- Gros-René -</p>
+                  <lg>
+                     <l>Enfin, nous y voici. Mais, Monsieur, si je l'ose,</l>
+                     <l>Je voudrais vous prier de me dire une chose.</l>
+                  </lg>
+                  <p rend="justify">- Lélie -</p>
+                  <p rend="justify">Eh bien ! parle.</p>
+                  <p rend="justify">- Gros-René -</p>
+                  <lg>
+                     <l>                 Avez-vous le diable dans le corps,</l>
+                     <l>Pour ne pas succomber à de pareils efforts ?</l>
+                     <l>Depuis huit jours entiers, avec vos longues traites,</l>
+                     <l>Nous sommes à piquer de chiennes de mazettes,</l>
+                     <l>De qui le train maudit nous a tant secoués,</l>
+                     <l>Que je m'en sens pour moi tous les membres roués ;</l>
+                     <l>Sans préjudice encor d'un accident bien pire,</l>
+                     <l>Qui m'afflige un endroit que je ne veux pas dire :</l>
+                     <l>Cependant, arrivé, vous sortez bien et beau,</l>
+                     <l>Sans prendre de repos, ni manger un morceau.</l>
+                  </lg>
+                  <p rend="justify">- Lélie -</p>
+                  <lg>
+                     <l>Ce grand empressement n'est point digne de blâme :</l>
+                     <l>De l'hymen de Célie on alarme mon âme ;</l>
+                     <l>Tu sais que je l'adore ; et je veux être instruit,</l>
+                     <l>Avant tout autre soin, de ce funeste bruit.</l>
+                  </lg>
+                  <p rend="justify">- Gros-René -</p>
+                  <lg>
+                     <l>Oui, mais un bon repas vous serait nécessaire,</l>
+                     <l>Pour s'aller éclaircir, Monsieur, de cette affaire ;</l>
+                     <l>Et votre coeur, sans doute, en deviendrait plus fort</l>
+                     <l>Pour pouvoir résister aux attaques du sort :</l>
+                     <l>J'en juge par moi-même, et la moindre disgrâce,</l>
+                     <l>Lorsque je suis à jeun, me saisit, me terrasse ;</l>
+                     <l>Mais quand j'ai bien mangé, mon âme est ferme à tout,</l>
+                     <l>Et les plus grands revers n'en viendraient pas à bout.</l>
+                     <l>Croyez-moi, bourrez-vous, et sans réserve aucune,</l>
+                     <l>Contre les coups que peut vous porter la fortune ;</l>
+                     <l>Et, pour fermer chez vous l'entrée à la douleur,</l>
+                     <l>De vingt verres de vin entourez votre coeur.</l>
+                  </lg>
+                  <p rend="justify">- Lélie -</p>
+                  <p rend="justify">Je ne saurais manger.</p>
+                  <p rend="justify">- Gros-René -</p>
+                  <p rend="justify">(bas, à part.)</p>
+                  <p rend="justify">Si ferai bien, je meure. (4)</p>
+                  <p rend="justify">(Haut.)</p>
+                  <p rend="justify">Votre dîner pourtant serait prêt tout à l'heure.</p>
+                  <p rend="justify">- Lélie -</p>
+                  <p rend="justify">Tais-toi, je te l'ordonne.</p>
+                  <p rend="justify">- Gros-René -</p>
+                  <p rend="justify">Ah ! quel ordre inhumain !</p>
+                  <p rend="justify">- Lélie -</p>
+                  <p rend="justify">J'ai de l'inquiétude, et non pas de la faim.</p>
+                  <p rend="justify">- Gros-René -</p>
+                  <lg>
+                     <l>Et moi, j'ai de la faim, et de l'inquiétude</l>
+                     <l>De voir qu'un sot amour fait toute votre étude.</l>
+                  </lg>
+                  <p rend="justify">- Lélie -</p>
+                  <lg>
+                     <l>Laisse-moi m'informer de l'objet de mes voeux,</l>
+                     <l>Et, sans m'importuner, va manger si tu veux.</l>
+                  </lg>
+                  <p rend="justify">- Gros-René -</p>
+                  <p rend="justify">Je ne réplique point à ce qu'un maître ordonne.</p>
+                  <p rend="justify">—————-</p>
+                  <p rend="justify">SCÈNE VIII. - Lélie.</p>
+                  <p rend="justify">- Lélie -</p>
+                  <lg>
+                     <l>Non, non, à trop de peur mon âme s'abandonne :</l>
+                     <l>Le père m'a promis, et la fille a fait voir</l>
+                     <l>Des preuves d'un amour qui soutient mon espoir.</l>
+                  </lg>
+                  <p rend="justify">—————-</p>
+                  <p rend="justify">SCÈNE IX. - Sganarelle, Lélie.</p>
+                  <p rend="justify">- Sganarelle -</p>
+                  <p rend="justify">(sans voir Lélie, et tenant dans ses mains le portrait.)</p>
+                  <lg>
+                     <l>Nous l'avons, et je puis voir à l'aise la trogne</l>
+                     <l>Du malheureux pendard qui cause ma vergogne ;</l>
+                     <l>Il ne m'est point connu.</l>
+                  </lg>
+                  <p rend="justify">- Lélie -</p>
+                  <p rend="justify">(à part.)</p>
+                  <lg>
+                     <l>                         Dieux ! qu'aperçois-je ici ?</l>
+                     <l>Et si c'est mon portrait, que dois-je croire aussi ?</l>
+                  </lg>
+                  <p rend="justify">- Sganarelle -</p>
+                  <p rend="justify">(sans voir Lélie.)</p>
+                  <lg>
+                     <l>Ah ! pauvre Sganarelle ! à quelle destinée</l>
+                     <l>Ta réputation est-elle condamnée !</l>
+                     <l>Faut…</l>
+                  </lg>
+                  <p rend="justify">(Apercevant Lélie qui le regarde, il se retourne d'un autre côté.)</p>
+                  <p rend="justify">- Lélie -</p>
+                  <p rend="justify">(à part.)</p>
+                  <lg>
+                     <l>       Ce gage ne peut, sans alarmer ma foi,</l>
+                     <l>Être sorti des mains qui le tenaient de moi.</l>
+                  </lg>
+                  <p rend="justify">- Sganarelle -</p>
+                  <p rend="justify">(à part.)</p>
+                  <lg>
+                     <l>Faut-il que désormais à deux doigts l'on te montre,</l>
+                     <l>Qu'on te mette en chansons, et qu'en toute rencontre</l>
+                     <l>On te rejette au nez le scandaleux affront</l>
+                     <l>Qu'une femme mal née imprime sur ton front ?</l>
+                  </lg>
+                  <p rend="justify">- Lélie -</p>
+                  <p rend="justify">(à part.)</p>
+                  <p rend="justify">Me trompé-je ?</p>
+                  <p rend="justify">- Sganarelle -</p>
+                  <p rend="justify">(à part.)</p>
+                  <lg>
+                     <l>               Ah ! truande (5) ! as-tu bien le courage</l>
+                     <l>De m'avoir fait cocu dans la fleur de mon âge ?</l>
+                     <l>Et, femme d'un mari qui peut passer pour beau,</l>
+                     <l>Faut-il qu'un marmouset, un maudit étourneau…</l>
+                  </lg>
+                  <p rend="justify">- Lélie -</p>
+                  <p rend="justify">(à part, et regardant encore le portrait que tient Sganarelle.)</p>
+                  <p rend="justify">Je ne m'abuse point : c'est mon portrait lui-même.</p>
+                  <p rend="justify">- Sganarelle -</p>
+                  <p rend="justify">(lui tourne le dos.)</p>
+                  <p rend="justify">Cet homme est curieux.</p>
+                  <p rend="justify">- Lélie -</p>
+                  <p rend="justify">(à part.)</p>
+                  <p rend="justify">Ma surprise est extrême !</p>
+                  <p rend="justify">- Sganarelle -</p>
+                  <p rend="justify">(à part.)</p>
+                  <p rend="justify">A qui donc en a-t-il ?</p>
+                  <p rend="justify">- Lélie -</p>
+                  <p rend="justify">(à part.)</p>
+                  <p rend="justify">Je le veux accoster.</p>
+                  <p rend="justify">(Haut.)</p>
+                  <p rend="justify">Puis-je… ?</p>
+                  <p rend="justify">(Sganarelle veut s'éloigner.)</p>
+                  <p rend="justify">Eh ! de grâce, un mot.</p>
+                  <p rend="justify">- Sganarelle -</p>
+                  <p rend="justify">(à part, s'éloignant encore.)</p>
+                  <p rend="justify">Que me veut-il conter ?</p>
+                  <p rend="justify">- Lélie -</p>
+                  <lg>
+                     <l>Puis-je obtenir de vous de savoir l'aventure</l>
+                     <l>Qui fait dedans vos mains trouver cette peinture ?</l>
+                  </lg>
+                  <p rend="justify">- Sganarelle -</p>
+                  <p rend="justify">(à part.)</p>
+                  <p rend="justify">D'où lui vient ce désir ? Mais je m'avise ici…</p>
+                  <p rend="justify">(Il examine Lélie et le portrait qu'il tient.)</p>
+                  <lg>
+                     <l>Ah ! ma foi, me voilà de son trouble éclairci !</l>
+                     <l>Sa surprise à présent n'étonne plus mon âme :</l>
+                     <l>C'est mon homme ; ou plutôt c'est celui de ma femme.</l>
+                  </lg>
+                  <p rend="justify">- Lélie -</p>
+                  <p rend="justify">Retirez-moi de peine, et dites d'où vous vient…</p>
+                  <p rend="justify">- Sganarelle -</p>
+                  <lg>
+                     <l>Nous savons, Dieu merci, le souci qui vous tient ;</l>
+                     <l>Ce portrait qui vous fâche est votre ressemblance ;</l>
+                     <l>Il était en des mains de votre connaissance ;</l>
+                     <l>Et ce n'est pas un fait qui soit secret pour nous</l>
+                     <l>Que les douces ardeurs de la dame et de vous.</l>
+                     <l>Je ne sais pas si j'ai, dans sa galanterie,</l>
+                     <l>L'honneur d'être connu de votre seigneurie ;</l>
+                     <l>Mais faites-moi celui de cesser désormais</l>
+                     <l>Un amour qu'un mari peut trouver fort mauvais,</l>
+                     <l>Et songez que les noeuds du sacré mariage…</l>
+                  </lg>
+                  <p rend="justify">- Lélie -</p>
+                  <p rend="justify">Quoi ? celle, dites-vous, dont vous tenez ce gage…</p>
+                  <p rend="justify">- Sganarelle -</p>
+                  <p rend="justify">Est ma femme, et je suis son mari.</p>
+                  <p rend="justify">- Lélie -</p>
+                  <p rend="justify">Son mari ?</p>
+                  <p rend="justify">- Sganarelle -</p>
+                  <lg>
+                     <l>Oui, son mari, vous dis-je, et mari très marri (6) ;</l>
+                     <l>Vous en savez la cause, et je m'en vais l'apprendre</l>
+                     <l>Sur l'heure à ses parents.</l>
+                  </lg>
+                  <p rend="justify">—————-</p>
+                  <p rend="justify">SCÈNE X. - Lélie.</p>
+                  <p rend="justify">- Lélie -</p>
+                  <lg>
+                     <l>                           Ah ! que viens-je d'entendre !</l>
+                     <l>L'on me avait bien dit, et que c'était de tous</l>
+                     <l>L'homme le plus mal fait qu'elle avait pour époux.</l>
+                     <l>Ah ! quand mille serments de ta bouche infidèle</l>
+                     <l>Ne m'auraient pas promis une flamme éternelle,</l>
+                     <l>Le seul mépris d'un choix si bas et si honteux</l>
+                     <l>Devait bien soutenir l'intérêt de mes feux,</l>
+                     <l>Ingrate ! et quelque bien… Mais ce sensible outrage,</l>
+                     <l>Se mêlant aux travaux d'un assez long voyage,</l>
+                     <l>Me donne tout à coup un choc si violent,</l>
+                     <l>Que mon coeur devient faible, et mon corps chancelant.</l>
+                  </lg>
+                  <p rend="justify">—————-</p>
+                  <p rend="justify">SCÈNE XI. - Lélie, La femme de Sganarelle.</p>
+                  <p rend="justify">- La femme de Sganarelle -</p>
+                  <p rend="justify">(se croyant seule.)</p>
+                  <p rend="justify">Malgré moi mon perfide…</p>
+                  <p rend="justify">(Apercevant Lélie.)</p>
+                  <lg>
+                     <l>                          Hélas ! quel mal vous presse ?</l>
+                     <l>Je vous vois prêt, Monsieur, à tomber en faiblesse.</l>
+                  </lg>
+                  <p rend="justify">- Lélie -</p>
+                  <p rend="justify">C'est un mal qui m'a pris assez subitement.</p>
+                  <p rend="justify">- La femme de Sganarelle -</p>
+                  <lg>
+                     <l>Je crains ici pour vous l'évanouissement ;</l>
+                     <l>Entrez dans cette salle, en attendant qu'il passe.</l>
+                  </lg>
+                  <p rend="justify">- Lélie -</p>
+                  <p rend="justify">Pour un moment ou deux j'accepte cette grâce.</p>
+                  <p rend="justify">—————-</p>
+                  <p rend="justify">SCÈNE XII. - Sganarelle, un parent de la femme de Sganarelle.</p>
+                  <p rend="justify">- Le parent -</p>
+                  <lg>
+                     <l>D'un mari sur ce point j'approuve le souci ;</l>
+                     <l>Mais c'est prendre la chèvre un peu bien vite aussi (7) :</l>
+                     <l>Et tout ce que de vous je viens d'ouïr contre elle</l>
+                     <l>Ne conclut point, parent, qu'elle soit criminelle :</l>
+                     <l>C'est un point délicat, et de pareils forfaits,</l>
+                     <l>Sans les bien avérer, ne s'imputent jamais.</l>
+                  </lg>
+                  <p rend="justify">- Sganarelle -</p>
+                  <p rend="justify">C'est-à-dire qu'il faut toucher au doigt la chose.</p>
+                  <p rend="justify">- Le parent -</p>
+                  <lg>
+                     <l>Le trop de promptitude à l'erreur nous expose.</l>
+                     <l>Qui sait comme en ses mains ce portrait est venu,</l>
+                     <l>Et si l'homme, après tout, lui peut être connu ?</l>
+                     <l>Informez-vous-en donc ; et si c'est ce qu'on pense,</l>
+                     <l>Nous serons les premiers à punir son offense.</l>
+                  </lg>
+                  <p rend="justify">—————-</p>
+                  <p rend="justify">SCÈNE XIII. - Sganarelle.</p>
+                  <p rend="justify">- Sganarelle -</p>
+                  <lg>
+                     <l>On ne peut pas mieux dire ; en effet, il est bon</l>
+                     <l>D'aller tout doucement. Peut-être, sans raison</l>
+                     <l>Me suis-je en tête mis ces visions cornues (8),</l>
+                     <l>Et les sueurs au front m'en sont trop tôt venues.</l>
+                     <l>Par ce portrait enfin dont je suis alarmé,</l>
+                     <l>Mon déshonneur n'est pas tout à fait confirmé.</l>
+                     <l>Tâchons donc par nos soins…</l>
+                  </lg>
+                  <p rend="justify">—————-</p>
+                  <p rend="justify">SCÈNE XIV. - Sganarelle, la femme de Sganarelle, sur la porte de sa maison, reconduisant Lélie ; Lélie.</p>
+                  <p rend="justify">- Sganarelle -</p>
+                  <p rend="justify">(à part, les voyant.)</p>
+                  <lg>
+                     <l>                               Ah ! que vois-je ? Je meure !</l>
+                     <l>Il n'est plus question de portrait à cette heure :</l>
+                     <l>Voici, ma foi, la chose en propre original.</l>
+                  </lg>
+                  <p rend="justify">- La femme de Sganarelle -</p>
+                  <lg>
+                     <l>C'est par trop vous hâter, Monsieur ; et votre mal,</l>
+                     <l>Si vous sortez si tôt, pourra bien vous reprendre.</l>
+                  </lg>
+                  <p rend="justify">- Lélie -</p>
+                  <lg>
+                     <l>Non, non, je vous rends grâce, autant qu'on puisse rendre</l>
+                     <l>Du secours obligeant que vous m'avez prêté.</l>
+                  </lg>
+                  <p rend="justify">- Sganarelle -</p>
+                  <p rend="justify">(à part.)</p>
+                  <p rend="justify">La masque encore après lui fait civilité !</p>
+                  <p rend="justify">(La femme de Sganarelle rentre dans sa maison.)</p>
+                  <p rend="justify">—————-</p>
+                  <p rend="justify">SCÈNE XV. - Sganarelle, Lélie.</p>
+                  <p rend="justify">- Sganarelle -</p>
+                  <p rend="justify">(à part.)</p>
+                  <p rend="justify">Il m'aperçoit ; voyons ce qu'il me pourra dire.</p>
+                  <p rend="justify">- Lélie -</p>
+                  <p rend="justify">(à part.)</p>
+                  <lg>
+                     <l>Ah ! mon âme s'émeut, et cet objet m'inspire…</l>
+                     <l>Mais je dois condamner cet injuste transport,</l>
+                     <l>Et n'imputer mes maux qu'aux rigueurs de mon sort.</l>
+                     <l>Envions seulement le bonheur de sa flamme.</l>
+                  </lg>
+                  <p rend="justify">(En s'approchant de Sganarelle.)</p>
+                  <p rend="justify">Oh ! trop heureux d'avoir une si belle femme !</p>
+                  <p rend="justify">—————-</p>
+                  <p rend="justify">SCÈNE XVI. - Sganarelle ; Célie, à sa fenêtre, voyant Lélie qui s'en va.</p>
+                  <p rend="justify">- Sganarelle -</p>
+                  <p rend="justify">(seul.)</p>
+                  <lg>
+                     <l>Ce n'est point s'expliquer en termes ambigus.</l>
+                     <l>Cet étrange propos me rend aussi confus</l>
+                     <l>Que s'il était venu des cornes à la tête.</l>
+                  </lg>
+                  <p rend="justify">(Regardant le côté par où Lélie est sorti.)</p>
+                  <p rend="justify">Allez, ce procédé n'est point du tout honnête.</p>
+                  <p rend="justify">- Célie -</p>
+                  <p rend="justify">(à part, en rentrant.)</p>
+                  <lg>
+                     <l>Quoi ! Lélie a paru tout à l'heure à mes yeux !</l>
+                     <l>Qui pourrait me cacher son retour en ces lieux ?</l>
+                  </lg>
+                  <p rend="justify">- Sganarelle -</p>
+                  <p rend="justify">(sans voir Célie.)</p>
+                  <lg>
+                     <l>Oh ! trop heureux d'avoir une si belle femme !</l>
+                     <l>Malheureux bien plutôt de l'avoir cette infâme,</l>
+                     <l>Dont le coupable feu, trop bien vérifié,</l>
+                     <l>Sans respect ni demi nous a cocufié !</l>
+                     <l>Mais je le laisse aller après un tel indice,</l>
+                     <l>Et demeure les bras croisés comme un jocrisse (9) !</l>
+                     <l>Ah ! je devais du moins lui jeter son chapeau,</l>
+                     <l>Lui ruer quelque pierre, ou crotter son manteau,</l>
+                     <l>Et sur lui hautement, pour contenter ma rage,</l>
+                     <l>Faire au larron d'honneur crier le voisinage.</l>
+                  </lg>
+                  <lg>
+                     <l>          (Pendant le discours de Sganarelle, Célie s'approche peu à peu,</l>
+                     <l>           et attend, pour lui parler, que son transport soit fini.)</l>
+                  </lg>
+                  <p rend="justify">- Célie -</p>
+                  <p rend="justify">(à Sganarelle.)</p>
+                  <lg>
+                     <l>Celui qui maintenant devers vous est venu,</l>
+                     <l>Et qui vous a parlé, d'où vous est-il connu ?</l>
+                  </lg>
+                  <p rend="justify">- Sganarelle -</p>
+                  <lg>
+                     <l>Hélas ! ce n'est pas moi qui le connaît, Madame ;</l>
+                     <l>C'est ma femme.</l>
+                  </lg>
+                  <p rend="justify">- Célie -</p>
+                  <p rend="justify">Quel trouble agite ainsi votre âme !</p>
+                  <p rend="justify">- Sganarelle -</p>
+                  <lg>
+                     <l>Ne me condamnez point d'un deuil hors de saison,</l>
+                     <l>Et laissez-moi pousser des soupirs à foison.</l>
+                  </lg>
+                  <p rend="justify">- Célie -</p>
+                  <p rend="justify">D'où vous peuvent venir ces douleurs non communes ?</p>
+                  <p rend="justify">- Sganarelle -</p>
+                  <lg>
+                     <l>Si je suis affligé, ce n'est pas pour des prunes (10),</l>
+                     <l>Et je le donnerais à bien d'autres qu'à moi,</l>
+                     <l>De se voir sans chagrin au point où je me voi.</l>
+                     <l>Des maris malheureux vous voyez le modèle :</l>
+                     <l>On dérobe l'honneur au pauvre Sganarelle ;</l>
+                     <l>Mais c'est peu que l'honneur dans mon affliction :</l>
+                     <l>L'on me dérobe encor la réputation.</l>
+                  </lg>
+                  <p rend="justify">- Célie -</p>
+                  <p rend="justify">Comment ?</p>
+                  <p rend="justify">- Sganarelle -</p>
+                  <lg>
+                     <l>          Ce damoiseau, parlant par révérence,</l>
+                     <l>Me fait cocu, Madame, avec toute licence ;</l>
+                     <l>Et j'ai su par mes yeux avérer aujourd'hui</l>
+                     <l>Le commerce secret de ma femme et de lui.</l>
+                  </lg>
+                  <p rend="justify">- Célie -</p>
+                  <p rend="justify">Celui qui maintenant…</p>
+                  <p rend="justify">- Sganarelle -</p>
+                  <lg>
+                     <l>                        Oui, oui, me déshonore ;</l>
+                     <l>Il adore ma femme, et ma femme l'adore.</l>
+                  </lg>
+                  <p rend="justify">- Célie -</p>
+                  <lg>
+                     <l>Ah ! j'avais bien jugé que ce secret retour</l>
+                     <l>Ne pouvait me couvrir que quelque lâche tour ;</l>
+                     <l>Et j'ai tremblé d'abord, en le voyant paraître,</l>
+                     <l>Par un pressentiment de ce qui devait être.</l>
+                  </lg>
+                  <p rend="justify">- Sganarelle -</p>
+                  <lg>
+                     <l>Vous prenez ma défense avec trop de bonté ;</l>
+                     <l>Tout le monde n'a pas la même charité ;</l>
+                     <l>Et plusieurs qui tantôt ont appris mon martyre,</l>
+                     <l>Bien loin d'y prendre part, n'en ont rien fait que rire.</l>
+                  </lg>
+                  <p rend="justify">- Célie -</p>
+                  <lg>
+                     <l>Est-il rien de plus noir que ta lâche action ?</l>
+                     <l>Et peut-on lui trouver une punition ?</l>
+                     <l>Dois-tu ne te pas croire indigne de la vie,</l>
+                     <l>Après t'être souillé de cette perfidie ?</l>
+                     <l>Ô ciel ! est-il possible ?</l>
+                  </lg>
+                  <p rend="justify">- Sganarelle -</p>
+                  <p rend="justify">Il est trop vrai pour moi.</p>
+                  <p rend="justify">- Célie -</p>
+                  <p rend="justify">Ah ! traître ! scélérat ! âme double et sans foi !</p>
+                  <p rend="justify">- Sganarelle -</p>
+                  <p rend="justify">La bonne âme !</p>
+                  <p rend="justify">- Célie -</p>
+                  <lg>
+                     <l>               Non, non, l'enfer n'a point de gêne</l>
+                     <l>Qui ne soit pour ton crime une trop douce peine.</l>
+                  </lg>
+                  <p rend="justify">- Sganarelle -</p>
+                  <p rend="justify">Que voilà bien parler !</p>
+                  <p rend="justify">- Célie -</p>
+                  <lg>
+                     <l>                        Avoir ainsi traité</l>
+                     <l>Et la même innocence et la même bonté !</l>
+                  </lg>
+                  <p rend="justify">- Sganarelle -</p>
+                  <p rend="justify">(soupire haut.)</p>
+                  <p rend="justify">Haie !</p>
+                  <p rend="justify">- Célie -</p>
+                  <lg>
+                     <l>       Un coeur qui jamais n'a fait la moindre chose</l>
+                     <l>À mériter l'affront où ton mépris l'expose !</l>
+                  </lg>
+                  <p rend="justify">- Sganarelle -</p>
+                  <p rend="justify">Il est vrai.</p>
+                  <p rend="justify">- Célie -</p>
+                  <lg>
+                     <l>             Qui bien loin… Mais c'est trop, et ce coeur</l>
+                     <l>Ne saurait y songer sans mourir de douleur.</l>
+                  </lg>
+                  <p rend="justify">- Sganarelle -</p>
+                  <lg>
+                     <l>Ne vous fâchez pas tant, ma très chère Madame,</l>
+                     <l>Mon mal vous touche trop, et vous me percez l'âme.</l>
+                  </lg>
+                  <p rend="justify">- Célie -</p>
+                  <lg>
+                     <l>Mais ne t'abuse pas jusqu'à te figurer</l>
+                     <l>Qu'à des plaintes sans fruit j'en veuille demeurer :</l>
+                     <l>Mon coeur, pour se venger, sait ce qu'il te faut faire,</l>
+                     <l>Et j'y cours de ce pas ; rien ne m'en peut distraire.</l>
+                  </lg>
+                  <p rend="justify">—————-</p>
+                  <p rend="justify">SCÈNE XVII. - Sganarelle.</p>
+                  <p rend="justify">- Sganarelle -</p>
+                  <lg>
+                     <l>Que le ciel la préserve à jamais de danger !</l>
+                     <l>Voyez quelle bonté de vouloir me venger !</l>
+                     <l>En effet, son courroux, qu'excite ma disgrâce,</l>
+                     <l>M'enseigne hautement ce qu'il faut que je fasse ;</l>
+                     <l>Et l'on ne doit jamais souffrir, sans dire mot,</l>
+                     <l>De semblables affronts, à moins qu'être un vrai sot.</l>
+                     <l>Courons donc le chercher, ce pendard qui m'affronte :</l>
+                     <l>Montrons notre courage à venger notre honte.</l>
+                     <l>Vous apprendrez, maroufle, à rire à nos dépens,</l>
+                     <l>Et, sans aucun respect, faire cocus les gens.</l>
+                  </lg>
+                  <p rend="justify">(Il revient après avoir fait quelques pas.)</p>
+                  <lg>
+                     <l>Doucement, s'il vous plaît ; cet homme a bien la mine</l>
+                     <l>D'avoir le sang bouillant et l'âme un peu mutine ;</l>
+                     <l>Il pourrait bien, mettant affront dessus affront,</l>
+                     <l>Charger de bois mon dos comme il a fait mon front.</l>
+                     <l>Je hais de tout mon coeur les esprits colériques,</l>
+                     <l>Et porte grand amour aux hommes pacifiques ;</l>
+                     <l>Je ne suis point battant, de peur d'être battu,</l>
+                     <l>Et l'humeur débonnaire est ma grande vertu.</l>
+                     <l>Mais mon honneur me dit que d'une telle offense</l>
+                     <l>Il faut absolument que je prenne vengeance :</l>
+                     <l>Ma foi ! laissons-le dire autant qu'il lui plaira :</l>
+                     <l>Au diantre qui pourtant rien du tout en fera !</l>
+                     <l>Quand j'aurai fait le brave, et qu'un fer, pour ma peine,</l>
+                     <l>M'aura d'un vilain coup transpercé la bedaine,</l>
+                     <l>Que par la ville ira le bruit de mon trépas,</l>
+                     <l>Dites-moi, mon honneur, en serez-vous plus gras ?</l>
+                     <l>La bière est un séjour par trop mélancolique,</l>
+                     <l>Et trop malsain pour ceux qui craignent la colique.</l>
+                     <l>Et quant à moi, je trouve, ayant tout compassé,</l>
+                     <l>Qu'il vaut mieux être encor cocu que trépassé :</l>
+                     <l>Quel mal cela fait-il ? la jambe en devient-elle</l>
+                     <l>Plus tortue, après tout, et la taille moins belle ?</l>
+                     <l>Peste soit qui premier trouva l'invention</l>
+                     <l>De s'affliger l'esprit de cette vision,</l>
+                     <l>Et d'attacher l'honneur de l'homme le plus sage</l>
+                     <l>Aux choses que peut faire une femme volage !</l>
+                     <l>Puisqu'on tient, à bon droit, tout crime personnel,</l>
+                     <l>Que fait là notre honneur pour être criminel ?</l>
+                     <l>Des actions d'autrui l'on nous donne le blâme :</l>
+                     <l>Si nos femmes sans nous ont un commerce infâme,</l>
+                     <l>Il faut que tout le mal tombe sur notre dos :</l>
+                     <l>Elles font la sottise, et nous sommes les sots.</l>
+                     <l>C'est un vilain abus, et les gens de police</l>
+                     <l>Nous devraient bien régler une telle injustice.</l>
+                     <l>N'avons-nous pas assez des autres accidents</l>
+                     <l>Qui nous viennent happer en dépit de nos dents ?</l>
+                     <l>Les querelles, procès, faim, soif et maladie,</l>
+                     <l>Troublent-ils pas assez le repos de la vie,</l>
+                     <l>Sans s'aller de surcroît aviser sottement</l>
+                     <l>De se faire un chagrin qui n'a nul fondement ?</l>
+                     <l>Moquons-nous de cela, méprisons les alarmes,</l>
+                     <l>Et mettons sous nos pieds les soupirs et les larmes.</l>
+                     <l>Si ma femme a failli, qu'elle pleure bien fort ;</l>
+                     <l>Mais pourquoi, moi, pleurer, puisque je n'ai point tort ?</l>
+                     <l>En tout cas, ce qui peut m'ôter ma fâcherie,</l>
+                     <l>C'est que je ne suis pas seul de ma confrérie.</l>
+                     <l>Voir cajoler sa femme, et n'en témoigner rien,</l>
+                     <l>Se pratique aujourd'hui par force gens de bien.</l>
+                     <l>N'allons donc point chercher à faire une querelle</l>
+                     <l>Pour un affront qui n'est que pure bagatelle.</l>
+                     <l>L'on m'appellera sot, de ne me venger pas :</l>
+                     <l>Mais je le serais fort, de courir au trépas.</l>
+                  </lg>
+                  <p rend="justify">(Mettant la main sur sa poitrine.)</p>
+                  <lg>
+                     <l>Je me sens là pourtant remuer une bile</l>
+                     <l>Qui veut me conseiller quelque action virile.</l>
+                     <l>Oui, le courroux me prend ; c'est trop être poltron :</l>
+                     <l>Je veux résolument me venger du larron.</l>
+                     <l>Déjà, pour commencer, dans l'ardeur qui m'enflamme,</l>
+                     <l>Je vais dire partout qu'il couche avec ma femme.</l>
+                  </lg>
+                  <p rend="justify">—————-</p>
+                  <p rend="justify">SCÈNE XVIII. - Gorgibus, Célie, la suivante de Célie.</p>
+                  <p rend="justify">- Célie -</p>
+                  <lg>
+                     <l>Oui, je veux bien subir une si juste loi,</l>
+                     <l>Mon père, disposez de mes voeux et de moi ;</l>
+                     <l>Faites, quand vous voudrez, signer cet hyménée :</l>
+                     <l>À suivre mon devoir je suis déterminée ;</l>
+                     <l>Je prétends gourmander mes propres sentiments,</l>
+                     <l>Et me soumettre en tout à vos commandements.</l>
+                  </lg>
+                  <p rend="justify">- Gorgibus -</p>
+                  <lg>
+                     <l>Ah ! voilà qui me plaît, de parler de la sorte.</l>
+                     <l>Parbleu, si grande joie à l'heure me transporte,</l>
+                     <l>Que mes jambes sur l'heure en caprioleraient (11),</l>
+                     <l>Si nous n'étions point vus de gens qui s'en riraient !</l>
+                     <l>Approche-toi de moi, viens çà ; que je t'embrasse.</l>
+                     <l>Une telle action n'a pas mauvaise grâce ;</l>
+                     <l>Un père, quand il veut, peut sa fille baiser,</l>
+                     <l>Sans que l'on ait sujet de s'en scandaliser.</l>
+                     <l>Va, le contentement de te voir si bien née</l>
+                     <l>Me fera rajeunir de dix fois une année.</l>
+                  </lg>
+                  <p rend="justify">—————-</p>
+                  <p rend="justify">SCÈNE XIX. - Célie, la suivante de Célie.</p>
+                  <p rend="justify">- La suivante -</p>
+                  <p rend="justify">Ce changement m'étonne.</p>
+                  <p rend="justify">- Célie -</p>
+                  <lg>
+                     <l>                        Et lorsque tu sauras</l>
+                     <l>Par quel motif j'agis, tu m'en estimeras.</l>
+                  </lg>
+                  <p rend="justify">- La suivante -</p>
+                  <p rend="justify">Cela pourrait bien être.</p>
+                  <p rend="justify">- Célie -</p>
+                  <lg>
+                     <l>                         Apprends donc que Lélie</l>
+                     <l>A pu blesser mon coeur par une perfidie ;</l>
+                     <l>Qu'il était en ces lieux sans…</l>
+                  </lg>
+                  <p rend="justify">- La suivante -</p>
+                  <p rend="justify">Mais il vient à nous.</p>
+                  <p rend="justify">—————-</p>
+                  <p rend="justify">SCÈNE XX. - Lélie, Célie, la suivante de Célie.</p>
+                  <p rend="justify">- Lélie -</p>
+                  <lg>
+                     <l>Avant que pour jamais je m'éloigne de vous,</l>
+                     <l>Je veux vous reprocher au moins en cette place…</l>
+                  </lg>
+                  <p rend="justify">- Célie -</p>
+                  <p rend="justify">Quoi ! me parler encore ! avez-vous cette audace ?</p>
+                  <p rend="justify">- Lélie -</p>
+                  <lg>
+                     <l>Il est vrai qu'elle est grande ; et votre choix est tel,</l>
+                     <l>Qu'à vous rien reprocher je serais criminel.</l>
+                     <l>Vivez, vivez contente, et bravez ma mémoire,</l>
+                     <l>Avec le digne époux qui vous comble de gloire.</l>
+                  </lg>
+                  <p rend="justify">- Célie -</p>
+                  <lg>
+                     <l>Oui, traître, j'y veux vivre ; et mon plus grand désir,</l>
+                     <l>Ce serait que ton coeur en eût du déplaisir.</l>
+                  </lg>
+                  <p rend="justify">- Lélie -</p>
+                  <p rend="justify">Qui rend donc contre moi ce courroux légitime ?</p>
+                  <p rend="justify">- Célie -</p>
+                  <p rend="justify">Quoi ? tu fais le surpris, et demandes ton crime ?</p>
+                  <p rend="justify">—————-</p>
+                  <p rend="justify">SCÈNE XXI. - Célie, Lélie, Sganarelle, armé de pied en cap ; la suivante de Célie.</p>
+                  <p rend="justify">- Sganarelle -</p>
+                  <lg>
+                     <l>Guerre ! guerre mortelle à ce larron d'honneur</l>
+                     <l>Qui, sans miséricorde, a souillé notre honneur !</l>
+                  </lg>
+                  <p rend="justify">- Célie -</p>
+                  <p rend="justify">(à Lélie, lui montrant Sganarelle.)</p>
+                  <p rend="justify">Tourne, tourne les yeux, sans me faire répondre.</p>
+                  <p rend="justify">- Lélie -</p>
+                  <p rend="justify">Ah ! je vois…</p>
+                  <p rend="justify">- Célie -</p>
+                  <p rend="justify">Cet objet suffit pour te confondre.</p>
+                  <p rend="justify">- Lélie -</p>
+                  <p rend="justify">Mais pour vous obliger bien plutôt à rougir.</p>
+                  <p rend="justify">- Sganarelle -</p>
+                  <p rend="justify">(à part.)</p>
+                  <lg>
+                     <l>Ma colère à présent est en état d'agir ;</l>
+                     <l>Dessus ses grands chevaux est monté mon courage (12),</l>
+                     <l>Et si je le rencontre, on verra du carnage.</l>
+                     <l>Oui, j'ai juré sa mort ; rien ne peut l'empêcher.</l>
+                     <l>Où je le trouverai, je le veux dépêcher.</l>
+                  </lg>
+                  <p rend="justify">(Tirant son épée à demi, il approche de Lélie.)</p>
+                  <p rend="justify">Au beau milieu du coeur il faut que je lui donne…</p>
+                  <p rend="justify">- Lélie -</p>
+                  <p rend="justify">(se retournant.)</p>
+                  <p rend="justify">A qui donc en veut-on ?</p>
+                  <p rend="justify">- Sganarelle -</p>
+                  <p rend="justify">Je n'en veux à personne.</p>
+                  <p rend="justify">- Lélie -</p>
+                  <p rend="justify">Pourquoi ces armes-là ?</p>
+                  <p rend="justify">- Sganarelle -</p>
+                  <lg>
+                     <l>                        C'est un habillement</l>
+                     <l>Que j'ai pris pour la pluie.</l>
+                  </lg>
+                  <p rend="justify">(à part.)</p>
+                  <lg>
+                     <l>                             Ah ! quel contentement</l>
+                     <l>J'aurais à le tuer ! Prenons-en le courage.</l>
+                  </lg>
+                  <p rend="justify">- Lélie -</p>
+                  <p rend="justify">(se retournant encore.)</p>
+                  <p rend="justify">Hai ?</p>
+                  <p rend="justify">- Sganarelle -</p>
+                  <p rend="justify">Je ne parle pas.</p>
+                  <p rend="justify">(A part, après s'être donné des soufflets pour s'exciter.)</p>
+                  <lg>
+                     <l>                Ah ! poltron, dont j'enrage,</l>
+                     <l>Lâche, vrai coeur de poule !</l>
+                  </lg>
+                  <p rend="justify">- Célie -</p>
+                  <p rend="justify">(à Lélie.)</p>
+                  <lg>
+                     <l>                             Il t'en doit dire assez,</l>
+                     <l>Cet objet dont tes yeux nous paraissent blessés.</l>
+                  </lg>
+                  <p rend="justify">- Lélie -</p>
+                  <lg>
+                     <l>Oui, je connais par là que vous êtes coupable</l>
+                     <l>De l'infidélité la plus inexcusable</l>
+                     <l>Qui jamais d'un amant puisse outrager la foi.</l>
+                  </lg>
+                  <p rend="justify">- Sganarelle -</p>
+                  <p rend="justify">(à part.)</p>
+                  <p rend="justify">Que n'ai-je un peu de coeur !</p>
+                  <p rend="justify">- Célie -</p>
+                  <lg>
+                     <l>                              Ah ! cesse devant moi,</l>
+                     <l>Traître, de ce discours l'insolence cruelle !</l>
+                  </lg>
+                  <p rend="justify">- Sganarelle -</p>
+                  <p rend="justify">(à part.)</p>
+                  <lg>
+                     <l>Sganarelle, tu vois qu'elle prend ta querelle !</l>
+                     <l>Courage, mon enfant, sois un peu vigoureux.</l>
+                     <l>Là, hardi ! tâche à faire un effort généreux,</l>
+                     <l>En le tuant tandis qu'il tourne le derrière.</l>
+                  </lg>
+                  <p rend="justify">- Lélie -</p>
+                  <p rend="justify">(faisant deux ou trois pas sans dessein, fait retourner Sganarelle qui s'approchait pour le tuer.)</p>
+                  <lg>
+                     <l>Puisqu'un pareil discours émeut votre colère,</l>
+                     <l>Je dois de votre coeur me montrer satisfait,</l>
+                     <l>Et l'applaudir ici du beau choix qu'il a fait.</l>
+                  </lg>
+                  <p rend="justify">- Célie -</p>
+                  <p rend="justify">Oui, oui, mon choix est tel qu'on n'y peut rien reprendre.</p>
+                  <p rend="justify">- Lélie -</p>
+                  <p rend="justify">Allez, vous faites bien de le vouloir défendre.</p>
+                  <p rend="justify">- Sganarelle -</p>
+                  <lg>
+                     <l>Sans doute, elle fait bien de défendre mes droits.</l>
+                     <l>Cette action, Monsieur, n'est point selon les lois :</l>
+                     <l>J'ai raison de m'en plaindre ; et, si je n'étais sage,</l>
+                     <l>On verrait arriver un étrange carnage.</l>
+                  </lg>
+                  <p rend="justify">- Lélie -</p>
+                  <p rend="justify">D'où vous naît cette plainte, et quel chagrin brutal… ?</p>
+                  <p rend="justify">- Sganarelle -</p>
+                  <lg>
+                     <l>Suffit. Vous savez bien où le bât me fait mal ;</l>
+                     <l>Mais votre conscience et le soin de votre âme</l>
+                     <l>Vous devraient mettre aux yeux que ma femme est ma femme :</l>
+                     <l>Et vouloir, à ma barbe, en faire votre bien,</l>
+                     <l>Que ce n'est pas du tout agir en bon chrétien.</l>
+                  </lg>
+                  <p rend="justify">- Lélie -</p>
+                  <lg>
+                     <l>Un semblable soupçon est bas et ridicule.</l>
+                     <l>Allez, dessus ce point n'ayez aucun scrupule :</l>
+                     <l>Je sais qu'elle est à vous, et, bien loin de brûler…</l>
+                  </lg>
+                  <p rend="justify">- Célie -</p>
+                  <p rend="justify">Ah ! qu'ici tu sais bien, traître, dissimuler !</p>
+                  <p rend="justify">- Lélie -</p>
+                  <lg>
+                     <l>Quoi ? me soupçonnez-vous d'avoir une pensée</l>
+                     <l>De qui son âme ait lieu de se croire offensée ?</l>
+                     <l>De cette lâcheté voulez-vous me noircir ?</l>
+                  </lg>
+                  <p rend="justify">- Célie -</p>
+                  <p rend="justify">Parle, parle à lui-même, il pourra t'éclaircir.</p>
+                  <p rend="justify">- Sganarelle -</p>
+                  <p rend="justify">(à Célie.)</p>
+                  <lg>
+                     <l>Vous me défendez mieux que je ne saurais faire :</l>
+                     <l>Et du biais qu'il faut vous prenez cette affaire.</l>
+                  </lg>
+                  <p rend="justify">—————-</p>
+                  <p rend="justify">SCÈNE XXII. - Célie, Lélie, Sganarelle, la femme de Sganarelle, la suivante de Célie.</p>
+                  <p rend="justify">- La femme de Sganarelle -</p>
+                  <lg>
+                     <l>Je ne suis point d'humeur à vouloir contre vous</l>
+                     <l>Faire éclater, Madame, un esprit trop jaloux ;</l>
+                     <l>Mais je ne suis point dupe, et vois ce qui se passe :</l>
+                     <l>Il est de certains feux de fort mauvaise grâce ;</l>
+                     <l>Et votre âme devrait prendre un meilleur emploi,</l>
+                     <l>Que de séduire un coeur qui doit n'être qu'à moi.</l>
+                  </lg>
+                  <p rend="justify">- Lélie -</p>
+                  <p rend="justify">La déclaration est assez ingénue.</p>
+                  <p rend="justify">- Sganarelle -</p>
+                  <p rend="justify">(à sa femme.)</p>
+                  <lg>
+                     <l>L'on ne demandait pas, carogne, ta venue :</l>
+                     <l>Tu la viens quereller lorsqu'elle me défend,</l>
+                     <l>Et tu trembles de peur qu'on t'ôte ton galant.</l>
+                  </lg>
+                  <p rend="justify">- Célie -</p>
+                  <p rend="justify">Allez, ne croyez pas que l'on en ait envie.</p>
+                  <p rend="justify">(Se tournant vers Lélie.)</p>
+                  <p rend="justify">Tu vois si c'est mensonge ; et j'en suis fort ravie.</p>
+                  <p rend="justify">- Lélie -</p>
+                  <p rend="justify">Que me veut-on conter ?</p>
+                  <p rend="justify">- La suivante -</p>
+                  <lg>
+                     <l>                        Ma foi, je ne sais pas</l>
+                     <l>Quand on verra finir ce galimatias ;</l>
+                     <l>Déjà depuis longtemps je tâche à le comprendre,</l>
+                     <l>Et si, plus je l'écoute (13), et moins je puis l'entendre,</l>
+                     <l>Je vois bien à la fin que je m'en dois mêler.</l>
+                  </lg>
+                  <p rend="justify">(Elle se met entre Lélie et sa maîtresse.)</p>
+                  <p rend="justify">Répondez-moi par ordre, et me laissez parler.</p>
+                  <p rend="justify">(A Lélie.)</p>
+                  <p rend="justify">Vous, qu'est-ce qu'à son coeur peut reprocher le vôtre ?</p>
+                  <p rend="justify">- Lélie -</p>
+                  <lg>
+                     <l>Que l'infidèle a pu me quitter pour un autre ;</l>
+                     <l>Que lorsque, sur le bruit de son hymen fatal,</l>
+                     <l>J'accours tout transporté d'un amour sans égal,</l>
+                     <l>Dont l'ardeur résistait à se croire oubliée,</l>
+                     <l>Mon abord en ces lieux la trouve mariée.</l>
+                  </lg>
+                  <p rend="justify">- La suivante -</p>
+                  <p rend="justify">Mariée ! à qui donc ?</p>
+                  <p rend="justify">- Lélie -</p>
+                  <p rend="justify">(Montrant Sganarelle.)</p>
+                  <p rend="justify">A lui.</p>
+                  <p rend="justify">- La suivante -</p>
+                  <p rend="justify">Comment, à lui ?</p>
+                  <p rend="justify">- Lélie -</p>
+                  <p rend="justify">Oui-dà !</p>
+                  <p rend="justify">- La suivante -</p>
+                  <p rend="justify">Qui vous l'a dit ?</p>
+                  <p rend="justify">- Lélie -</p>
+                  <p rend="justify">C'est lui-même, aujourd'hui.</p>
+                  <p rend="justify">- La suivante -</p>
+                  <p rend="justify">(à Sganarelle.)</p>
+                  <p rend="justify">Est-il vrai ?</p>
+                  <p rend="justify">- Sganarelle -</p>
+                  <lg>
+                     <l>              Moi ? J'ai dit que c'était à ma femme,</l>
+                     <l>Que j'étais marié.</l>
+                  </lg>
+                  <p rend="justify">- Lélie -</p>
+                  <lg>
+                     <l>                   Dans un grand trouble d'âme,</l>
+                     <l>Tantôt de mon portrait je vous ai vu saisi.</l>
+                  </lg>
+                  <p rend="justify">- Sganarelle -</p>
+                  <p rend="justify">Il est vrai : le voilà.</p>
+                  <p rend="justify">- Lélie -</p>
+                  <p rend="justify">(à Sganarelle.)</p>
+                  <p rend="justify">Vous m'avez dit aussi Que celle aux mains de qui vous aviez pris ce gage était liée à vous des noeuds du mariage.</p>
+                  <p rend="justify">- Sganarelle -</p>
+                  <p rend="justify">(montrant sa femme.)</p>
+                  <lg>
+                     <l>Sans doute. Et je l'avais de ses mains arraché ;</l>
+                     <l>Et n'eusse pas sans lui découvert son péché.</l>
+                  </lg>
+                  <p rend="justify">- La femme de Sganarelle -</p>
+                  <lg>
+                     <l>Que me viens-tu conter par ta plainte importune ?</l>
+                     <l>Je l'avais sous mes pieds rencontré par fortune ;</l>
+                     <l>Et même, quand, après ton injuste courroux,</l>
+                  </lg>
+                  <p rend="justify">(Montrant Lélie.)</p>
+                  <lg>
+                     <l>J'ai fait, dans sa faiblesse, entrer monsieur chez nous,</l>
+                     <l>Je n'ai pas reconnu les traits de sa peinture.</l>
+                  </lg>
+                  <p rend="justify">- Célie -</p>
+                  <lg>
+                     <l>C'est moi qui du portrait ai causé l'aventure ;</l>
+                     <l>Et je l'ai laissé choir en cette pâmoison,</l>
+                  </lg>
+                  <p rend="justify">(À Sganarelle.)</p>
+                  <p rend="justify">Qui m'a fait par vos soins remettre à la maison.</p>
+                  <p rend="justify">- La suivante -</p>
+                  <lg>
+                     <l>Vous voyez que sans moi vous y seriez encore,</l>
+                     <l>Et vous aviez besoin de mon peu d'ellébore.</l>
+                  </lg>
+                  <p rend="justify">- Sganarelle -</p>
+                  <p rend="justify">(à part.)</p>
+                  <lg>
+                     <l>Prendrons-nous tout ceci pour de l'argent comptant ?</l>
+                     <l>Mon front l'a, sur mon âme, eu bien chaude pourtant.</l>
+                  </lg>
+                  <p rend="justify">- la femme de Sganarelle -</p>
+                  <lg>
+                     <l>Ma crainte toutefois n'est pas trop dissipée,</l>
+                     <l>Et, d'où que soit le mal, je crains d'être trompée.</l>
+                  </lg>
+                  <p rend="justify">- Sganarelle -</p>
+                  <p rend="justify">(à sa femme.)</p>
+                  <lg>
+                     <l>Hé ! mutuellement, croyons-nous gens de bien ;</l>
+                     <l>Je risque plus du mien que tu ne fais du tien.</l>
+                     <l>Accepte sans façon le parti qu'on propose.</l>
+                  </lg>
+                  <p rend="justify">- la femme de Sganarelle -</p>
+                  <p rend="justify">Soit. Mais gare le bois si j'apprends quelque chose !</p>
+                  <p rend="justify">- Célie -</p>
+                  <p rend="justify">(à Lélie, après avoir parlé bas ensemble.)</p>
+                  <lg>
+                     <l>Ah ! dieux ! s'il est ainsi, qu'est-ce donc que j'ai fait ?</l>
+                     <l>Je dois de mon courroux appréhender l'effet.</l>
+                     <l>Oui, vous croyant sans foi, j'ai pris pour ma vengeance</l>
+                     <l>Le malheureux secours de mon obéissance ;</l>
+                     <l>Et depuis un moment, mon coeur vient d'accepter</l>
+                     <l>Un hymen que toujours j'eus lieu de rebuter.</l>
+                     <l>J'ai promis à mon père ; et ce qui me désole…</l>
+                     <l>Mais je le vois venir.</l>
+                  </lg>
+                  <p rend="justify">- Lélie -</p>
+                  <p rend="justify">Il me tiendra parole.</p>
+                  <p rend="justify">—————-</p>
+                  <p rend="justify">SCÈNE XXIII. - Gorgibus, Célie, Lélie, Sganarelle, la femme de Sganarelle, la suivante de Célie.</p>
+                  <p rend="justify">- Lélie -</p>
+                  <lg>
+                     <l>Monsieur, vous me voyez en ces lieux de retour,</l>
+                     <l>Brûlant des mêmes feux ; et mon ardent amour</l>
+                     <l>Verra, comme je crois, la promesse accomplie</l>
+                     <l>Qui me donna l'espoir de l'hymen de Célie.</l>
+                  </lg>
+                  <p rend="justify">- Gorgibus -</p>
+                  <lg>
+                     <l>Monsieur, que je revois en ces lieux de retour,</l>
+                     <l>Brûlant des mêmes feux, et dont l'ardente amour</l>
+                     <l>Verra, que vous croyez, la promesse accomplie</l>
+                     <l>Qui vous donne l'espoir de l'hymen de Célie,</l>
+                     <l>Très humble serviteur à Votre seigneurie.</l>
+                  </lg>
+                  <p rend="justify">- Lélie -</p>
+                  <p rend="justify">Quoi ? Monsieur, est-ce ainsi qu'on trahit mon espoir ?</p>
+                  <p rend="justify">- Gorgibus -</p>
+                  <lg>
+                     <l>Oui, Monsieur, c'est ainsi que je fais mon devoir :</l>
+                     <l>Ma fille en suit les lois.</l>
+                  </lg>
+                  <p rend="justify">- Célie -</p>
+                  <lg>
+                     <l>                           Mon devoir m'intéresse,</l>
+                     <l>Mon père, à dégager vers lui votre promesse.</l>
+                  </lg>
+                  <p rend="justify">- Gorgibus -</p>
+                  <lg>
+                     <l>Est-ce répondre en fille à mes commandements ?</l>
+                     <l>Tu te démens bientôt de tes bons sentiments.</l>
+                     <l>Pour Valère tantôt… Mais j'aperçois son père :</l>
+                     <l>Il vient assurément pour conclure l'affaire.</l>
+                  </lg>
+                  <p rend="justify">—————-</p>
+                  <p rend="justify">SCÈNE XXIV. - Villebrequin, Gorgibus, Célie, Lélie, Sganarelle, la femme de Sganarelle, la suivante de Célie.</p>
+                  <p rend="justify">- Gorgibus -</p>
+                  <p rend="justify">Qui vous amène ici, seigneur Villebrequin ?</p>
+                  <p rend="justify">- Villebrequin -</p>
+                  <lg>
+                     <l>Un secret important, que j'ai su ce matin,</l>
+                     <l>Qui rompt absolument ma parole donnée.</l>
+                     <l>Mon fils, dont votre fille acceptait l'hyménée,</l>
+                     <l>Sous des liens cachés trompant les yeux de tous,</l>
+                     <l>Vit depuis quatre mois avec Lise en époux,</l>
+                     <l>Et, comme des parents le bien et la naissance</l>
+                     <l>M'ôtent tout le pouvoir d'en casser l'alliance,</l>
+                     <l>Je vous viens…</l>
+                  </lg>
+                  <p rend="justify">- Gorgibus -</p>
+                  <lg>
+                     <l>                 Brisons là. Si, sans votre congé,</l>
+                     <l>Valère votre fils ailleurs s'est engagé,</l>
+                     <l>Je ne vous puis celer que ma fille Célie</l>
+                     <l>Dès longtemps par moi-même est promise à Lélie ;</l>
+                     <l>Et que, riche en vertus, son retour aujourd'hui</l>
+                     <l>M'empêche d'agréer un autre époux que lui.</l>
+                  </lg>
+                  <p rend="justify">- Villebrequin -</p>
+                  <p rend="justify">Un tel choix me plaît fort.</p>
+                  <p rend="justify">- Lélie -</p>
+                  <lg>
+                     <l>                            Et cette juste envie</l>
+                     <l>D'un bonheur éternel va couronner ma vie.</l>
+                  </lg>
+                  <p rend="justify">- Gorgibus -</p>
+                  <p rend="justify">Allons choisir le jour pour se donner la foi.</p>
+                  <p rend="justify">- Sganarelle -</p>
+                  <p rend="justify">(seul.)</p>
+                  <lg>
+                     <l>A-t-on mieux cru jamais être cocu que moi !</l>
+                     <l>Vous voyez qu'en ce fait la plus forte apparence</l>
+                     <l>Peut jeter dans l'esprit une fausse créance.</l>
+                     <l>De cet exemple-ci ressouvenez-vous bien ;</l>
+                     <l>Et, quand vous verriez tout, ne croyez jamais rien.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>FIN DE SGANARELLE.</head>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

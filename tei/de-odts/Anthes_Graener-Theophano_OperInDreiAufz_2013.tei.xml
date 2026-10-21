@@ -1,0 +1,1643 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Theophano: Oper in drei Aufzügen</title>
+            <author>Paul Graener</author>
+            <author>Otto Anthes</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-01T18:35:37Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">odts/de-odts/Anthes_Graener-Theophano_OperInDreiAufz_2013.epub.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Paul Graener; Otto Anthes</name>
+               <date>2024-01-01T18:35:37Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Theophano: Oper in drei Aufzügen</head>
+         <author>Paul Graener</author>
+         <author>Otto Anthes</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">odts/de-odts/Anthes_Graener-Theophano_OperInDreiAufz_2013.epub.odt</p>
+         <p>
+            <hi rend="bold">Anmerkungen zur Transkription:</hi>
+         </p>
+         <p>Schreibweise und Interpunktion des Originaltextes wurden übernommen. Inkonsistenzen im Gebrauch des Apostrophs (z.B. stehn vs. steh'n) wurden belassen. Es wurden lediglich offensichtliche Druckfehler korrigiert. Änderungen sind im Text gekennzeichnet, der Originaltext erscheint beim Überfahren mit der Maus.</p>
+         <pb/>
+         <div type="div1">
+            <head>Theophano</head>
+            <p rend="justify">
+               <hi rend="italic">Oper in drei Aufzügen</hi>
+            </p>
+            <p rend="justify">Dichtung von Otto Anthes</p>
+            <p rend="justify">Musik von Paul Graener</p>
+            <p rend="justify">Ornament</p>
+            <p rend="justify">Alle Rechte, insbesondere das Übersetzungsrecht vorbehalten.</p>
+            <p rend="justify">Universal-Edition</p>
+            <p rend="justify">Drei Masken-Verlag</p>
+            <p rend="justify">Aktien-Gesellschaft</p>
+            <p rend="justify">G. m. b. H.</p>
+            <p rend="justify">Wien.</p>
+            <p rend="justify">Leipzig.</p>
+            <p rend="justify">Berlin.</p>
+            <p rend="justify">München.</p>
+            <p rend="justify">Den Bühnen und Vereinen gegenüber als Manuskript gedruckt. Dasselbe darf nur dann zu Bühnenzwecken verwendet werden, wenn vorher das Bühnen-Aufführungsrecht durch den</p>
+            <p rend="justify">Drei Masken-Verlag G. m. b. H., Berlin,</p>
+            <p rend="justify">oder dessen Vertreter im Auslande rechtmäßig erworben wurde.</p>
+            <p rend="justify">Paul Graener.              Otto Anthes.</p>
+            <p rend="justify">Copyright 1918 by Universal-Edition.</p>
+            <p rend="justify">Nachdruck verboten. Aufführungs-, Arrangements-, Vervielfältigungs- und Übersetzungsrechte für alle Länder vorbehalten (für Rußland laut dem russischen Autorengesetz vom 20. März 1911 und der Deutsch-russischen Übereinkunft vom 28. Februar 1913, desgleichen für Holland nach dem holländischen Autorengesetz vom 1. November 1912).</p>
+            <p rend="justify">Universal-Edition Aktiengesellschaft.</p>
+            <p rend="justify">Drei Masken-Verlag G. m. b. H.</p>
+            <p rend="justify">Personen:</p>
+            <p rend="justify">
+               <hi rend="italic">Alexios</hi>, der junge Kaiser der Romäer</p>
+            <p rend="justify">
+               <hi rend="italic">Theophano</hi>, seine Zwillingsschwester</p>
+            <p rend="justify">
+               <hi rend="italic">Harald</hi>, der Waräger, des Alexios Jugendgespiele</p>
+            <p rend="justify">
+               <hi rend="italic">Eudokia</hi>, Hofdame der Theophano</p>
+            <p rend="justify">
+               <hi rend="italic">Der Abbas</hi>  des Klosters Laura am Athosgebirge</p>
+            <p rend="justify">
+               <hi rend="italic">Erster</hi>
+            </p>
+            <p rend="justify">}</p>
+            <p rend="justify">
+               <hi rend="italic">Zweiter</hi>
+            </p>
+            <p rend="justify">
+               <hi rend="italic">Archont</hi>
+            </p>
+            <p rend="justify">
+               <hi rend="italic">Dritter</hi>
+            </p>
+            <p rend="justify">
+               <hi rend="italic">Ein Getreuer</hi>  des Kaisers</p>
+            <p rend="justify">Mönche des Klosters Laura, Archonten, Generale, Soldaten, Gefolge des Kaisers, Sklaven und Sklavinnen der Theophano, Tänzer und Tänzerinnen, ein Henker und zwei Gehilfen.</p>
+            <p rend="justify">Die Handlung des ersten Aufzuges geht im Hofe des Klosters Laura vor sich; der zweite und dritte Aufzug spielen im Kaiserpalast zu Byzanz.</p>
+            <p rend="justify">Zeit: Das frühe Mittelalter.</p>
+            <p rend="justify">Ornament</p>
+            <pb/>
+            <div type="div2">
+               <head>Erster Aufzug.</head>
+               <p rend="justify">Der Hof im Kloster Laura am Athosgebirge. Links, sich in die Tiefe der Bühne erstreckend, das Klostergebäude; das Erdgeschoß massiv, fensterlos; das Stockwerk mit zahlreichen kleinen vergitterten Fenstern versehen. Ganz vorn ein gewölbter Durchgang, der die ganze Höhe des Erdgeschosses einnimmt und in den äußeren Klosterhof führt. Weiter zurück eine kleine Pforte, zu der zwei Stufen emporsteigen. Das ganze Haus nicht sehr hoch, so daß darüber hinweg eine mächtig anstrebende Felswand sichtbar wird, in deren Spalten vereinzelte Taxusbäume und seltsame, große Blumen wachsen. An dem Hause entlang läuft, durch eine niedere Mauer gegen den Abgrund abgegrenzt, ein schmaler Gang, der in der Tiefe der Bühne um das Gebäude herumbiegt.</p>
+               <p rend="justify">Nach rückwärts ist der Hof ebenfalls durch eine niedrige Mauer geschlossen, die sich in der Mitte etwa zu einem hinausspringenden Balkon ausbuchtet. Darüber hinweg sieht man in der Tiefe das ägäische Meer, tiefblau, mit einzelnen fernen, weißschimmernden Inseln.</p>
+               <p rend="justify">Rechts die Kirche; das Mauerwerk plump, massig, schmucklos. Das Portal mit Mosaik und Gold schier überladen. Breite Stufen führen zum Portal hinauf. Im Winkel zwischen Kirche und Hofmauer hängt unter einem Holzdach eine Glocke, die mit der Hand geschlagen wird. Hinter der Kirche hervor zieht sich das Waldgebirge im Bogen gegen die Mitte des Hintergrundes, um in einem trotzigen Vorgebirge zu enden.</p>
+               <p rend="justify">Im Hof ein alter Brunnen, aus dessen innerem Mauerrand ein Ölbaum hervorwächst. Eine primitive Schöpfvorrichtung. Eine Steinbank an der Mauer im Hintergrund. Zwischen Bank und Balkon in der Mauer befestigt, ein plumpes Holzkreuz, der Gekreuzigte mit grellen Farben bemalt.</p>
+               <p rend="justify">Es ist Morgen. Gleißender Sonnenschein liegt auf dem Hofe, auf den weißen Mauern, über der blauenden Ferne.</p>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>  und <hi rend="italic">Harald</hi>
+               </p>
+               <p rend="justify">(beide in weißer, klösterlicher Tracht, treten aus der kleinen Pforte links).</p>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>:</p>
+               <p rend="justify">Wie dieses Morgens Schönheit<lb/>mit Weh die Seele füllt!</p>
+               <p rend="justify">
+                  <hi rend="italic">Harald</hi>:</p>
+               <p rend="justify">Warum mit Weh?</p>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>:</p>
+               <lg>
+                  <l>Als raffte meine Jugendwelt</l>
+                  <l>all' ihre Köstlichkeit in eins,</l>
+                  <l>um mir den Abschied zu erschweren.</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Harald</hi>:</p>
+               <p rend="justify">
+                  <hi rend="italic">Mir</hi>  steht die Welt in <hi rend="italic">Festes</hi>flammen,<lb/>und diese Sonne jauchzt <hi rend="italic">Triumph</hi>.</p>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>:</p>
+               <p rend="justify">Hast du, mein Freund, niemals empfunden,<lb/>daß Sonne – <hi rend="italic">droht</hi>?</p>
+               <p rend="justify">
+                  <hi rend="italic">Harald</hi>  (den Kopf schüttelnd):</p>
+               <lg>
+                  <l>Ich bin des Nordens Enkelkind.</l>
+                  <l>Hab' ich das düst're Land</l>
+                  <l>auch selber nie geseh'n –</l>
+                  <l>der Väter Seele lebt in mir</l>
+                  <l>und ihre wilde, wehe Sucht,</l>
+                  <l>der Sonne nachzuzieh'n.</l>
+                  <l>Wallfahrten geht des Nordens Herz</l>
+                  <l>viel hundert Jahre schon</l>
+                  <l>dem Süden zu.</l>
+                  <l>Mit süßen Schmerzen lockt sein Gold,</l>
+                  <l>sein Purpur und sein Blut.</l>
+               </lg>
+               <p rend="justify">(Er breitet sehnsüchtig die Arme nach dem Meer.)</p>
+               <lg>
+                  <l>– Nun wird die Sucht gestillt.</l>
+                  <l>Dort liegt Byzanz!</l>
+                  <l>Und morgen</l>
+                  <l>sind unter Segel wir dahin.</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>:</p>
+               <lg>
+                  <l>Byzanz! Hast du vergessen,</l>
+                  <l>daß wir Byzanz schon einmal sahen?</l>
+                  <l>Daß wir als Kinder schon einmal</l>
+                  <l>sein wildes Schrein vernahmen?</l>
+                  <l>Klingt in den Ohren dir nicht mehr</l>
+                  <l>  das Wutgebrüll des Volks,</l>
+                  <l>das, meinen Vater hingeschlachtet,</l>
+                  <l>den Purpur von dem Leichnam riß</l>
+                  <l>und kam, den Sohn zu töten?</l>
+                  <l>Weißt du nicht mehr, wie wir bei Nacht</l>
+                  <l>davongetragen wurden, weinend?</l>
+                  <l>Wie wir von Schiffes Bord</l>
+                  <l>die Flammen grausend sahen,</l>
+                  <l>die Palast und Haus verzehrten?</l>
+                  <l>Byzanz, die Mörderin!</l>
+                  <l>So seh' ich sie.</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Harald</hi>:</p>
+               <lg>
+                  <l>Nur umso stolzer macht mich das.</l>
+                  <l>Als Flüchtling gingst du einst,</l>
+                  <l>als <hi rend="italic">Kaiser</hi>  kehrst du wieder!</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>:</p>
+               <lg>
+                  <l>Als Kaiser! Ich versteh' es nicht.</l>
+                  <l>Dasselbe Volk,</l>
+                  <l>nach meinem Blute schrie es damals;</l>
+                  <l>nun holt es mich hervor</l>
+                  <l>aus meiner Einsamkeit,</l>
+                  <l>daß ich es knechten soll.</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Harald</hi>:</p>
+               <lg>
+                  <l>So knechte es! Wie's ihm gebührt.</l>
+                  <l>Steh' auf der kaiserlichen Höh',</l>
+                  <l>unnahbar!</l>
+                  <l>
+                     <hi rend="italic">Mir</hi>  doch gib dein Schwert!</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>:</p>
+               <p rend="justify">Mich lockt es nicht wie dich.</p>
+               <p rend="justify">(Auf den Balkon im Hintergrunde tretend.)</p>
+               <lg>
+                  <l>Wie lebt' ich still und friedlich</l>
+                  <l>in diesen Klostermauern!</l>
+                  <l>Rein war die Luft und rein das Herz.</l>
+                  <l>Die böse Welt, sie lag dahinten,</l>
+                  <l>das blaue Meer</l>
+                  <l>war Grenze meines Seins.</l>
+                  <l>Und wenn mein Sehnen jene Inseln</l>
+                  <l>mit heißem Wünschen überflog,</l>
+                  <l>wars um die Schwester nur.</l>
+                  <l>Theophano!</l>
+                  <l>Nicht um des Thrones schimmernde Pracht,</l>
+                  <l>um dich allein, Theophano!</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Harald</hi>:</p>
+               <p rend="justify">Liebst du sie so,<lb/>die du doch kaum gekannt?</p>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>  (weich):</p>
+               <lg>
+                  <l>Die Zwillingsschwester!</l>
+                  <l>Mir ist, als wäre</l>
+                  <l>meines Wesens Hälfte dort.</l>
+                  <l>An <hi rend="italic">einer</hi>  Mutter Herz zugleich</l>
+                  <l>sind wir gelegen im Dunkel des Werdens.</l>
+                  <l>
+                     <hi rend="italic">Ein</hi>  Herzschlag hat uns belebt,</l>
+                  <l>
+                     <hi rend="italic">ein</hi>  Blut uns genährt.</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Harald</hi>:</p>
+               <p rend="justify">Ob sie wohl schön geworden ist?</p>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>:</p>
+               <lg>
+                  <l>Seltene Kunde</l>
+                  <l>kam mir von ihr.</l>
+                  <l>Eine große Prinzessin</l>
+                  <l>ist sie im Kaiserpalast.</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Harald</hi>:</p>
+               <p rend="justify">Eine große Prinzessin!</p>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>:</p>
+               <p rend="justify">Goldgestickte Seide<lb/>fließt um ihren Leib.</p>
+               <p rend="justify">
+                  <hi rend="italic">Harald</hi>:</p>
+               <p rend="justify">Seide um ihren Leib!</p>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>:</p>
+               <p rend="justify">Und der Sklavinnen Schar<lb/>zittert vor ihrem Wink.</p>
+               <p rend="justify">
+                  <hi rend="italic">Harald</hi>:</p>
+               <p rend="justify">Schöner Sklavinnen Schar!</p>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>:</p>
+               <lg>
+                  <l>Ihre rufende Stimme</l>
+                  <l>dringt an mein brüderlich Ohr.</l>
+                  <l>Byzanz, die Mörderin – sei ihr's vergeben!</l>
+                  <l>Byzanz, die Brennerin – sei ihr's verzieh'n!</l>
+                  <l>Denn sie umschließt</l>
+                  <l>was ich liebend ersehne.</l>
+                  <l>  Aus dem düsteren Grauen,</l>
+                  <l>das mir die schreckliche Stadt umhüllt,</l>
+                  <l>winkt mir der Schwester weißleuchtende Hand.</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Harald</hi>:</p>
+               <lg>
+                  <l>Byzanz, die Spenderin</l>
+                  <l>köstlicher Freuden,</l>
+                  <l>wie ich sie lechzend ersehne!</l>
+                  <l>Wunderschöne Frauen</l>
+                  <l>winken mir lächelnd mit weißer Hand.</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Ein Mönch</hi>
+               </p>
+               <p rend="justify">(ist aus dem Hintergrunde den Gang am Haus entlang gekommen und zur Glocke gegangen, die er nun schlägt):</p>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>  (zusammenfahrend):</p>
+               <lg>
+                  <l>Die Stunde schlägt. Harald,</l>
+                  <l>meines kindlichen Jammers Gefährte,</l>
+                  <l>meiner Einsamkeit Gespiel' –</l>
+                  <l>bleibe bei mir! Verlaß mich nicht,</l>
+                  <l>wenn sie mich mit der Krone beladen!</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Harald</hi>:</p>
+               <p rend="justify">Faß dich, Alexios!</p>
+               <p rend="justify">
+                  <hi rend="italic">Die Mönche</hi>  und <hi rend="italic">Knaben</hi>
+               </p>
+               <p rend="justify">(des Klosters kommen, zwei und zwei, den Gang entlang und ziehen zur Kirche, indem sie psalmodieren):</p>
+               <lg>
+                  <l>Ich will in dein Haus gehen auf deine große Güte</l>
+                  <l>  und anbeten gehen deinen heiligen Tempel in deiner Furcht.</l>
+                  <l>Küsset den Sohn, daß er nicht zürne.</l>
+                  <l>Dienet dem Herrn mit Furcht</l>
+                  <l>und freuet euch mit Zittern.</l>
+                  <l>Küsset den Sohn, daß er nicht zürne,</l>
+                  <l>daß ihr nicht umkommt auf dem Wege.</l>
+                  <l>Denn sein Zorn wird bald entbrennen.</l>
+                  <l>Wohl aber denen, die auf ihn trauen.</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>:</p>
+               <p rend="justify">Küsset den Sohn,<lb/>daß ihr nicht umkommet auf dem Wege.</p>
+               <p rend="justify">
+                  <hi rend="italic">Der Abbas</hi>
+               </p>
+               <p rend="justify">(von zwei dienenden Mönchen gestützt, tritt aus der kleinen Pforte links. Nachdem sie ihm die Stufen herabgeholfen haben, bleiben sie wartend links stehen.)</p>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>  (dem Abbas entgegen):</p>
+               <p rend="justify">Heiliger Vater, muß ich nun scheiden?</p>
+               <p rend="justify">
+                  <hi rend="italic">Abbas</hi>:</p>
+               <p rend="justify">Ich scheide nicht von dir.<lb/>Meine Gebete folgen dir nach.</p>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>:</p>
+               <p rend="justify">Lieber Vater!</p>
+               <p rend="justify">
+                  <hi rend="italic">Abbas</hi>:</p>
+               <lg>
+                  <l>Vater ist Einer!</l>
+                  <l>Dem Heimatlosen</l>
+                  <l>  Hab' ich die himmlische Heimat gewiesen.</l>
+                  <l>Nun führt dich eine kleine Weile</l>
+                  <l>Der Herr auf einem anderen Weg.</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>:</p>
+               <p rend="justify">Mir graut vor diesem Weg.</p>
+               <p rend="justify">
+                  <hi rend="italic">Abbas</hi>:</p>
+               <lg>
+                  <l>In deinem Herzen hab ich</l>
+                  <l>ein himmlisch Licht entzündet.</l>
+                  <l>Trag's in das düstre Grauen,</l>
+                  <l>und die Nacht wird hell.</l>
+                  <l>Christus hat dich erwählt,</l>
+                  <l>Christus hat dich gestählt,</l>
+                  <l>sein Werkzeug zu sein.</l>
+                  <l>Viele Kaiser hat es gesehen,</l>
+                  <l>das hehre Byzanz.</l>
+                  <l>In Sünden auf den Thron gestiegen,</l>
+                  <l>in Sünden geherrscht,</l>
+                  <l>in Sünden gefallen –</l>
+                  <l>sei du ein reiner Kaiser!</l>
+                  <l>Laß der Reinheit weiße Sonne</l>
+                  <l>nun mit mildem Freudenschein</l>
+                  <l>strahlen über sie!</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>  (mit leuchtendem Angesicht):</p>
+               <lg>
+                  <l>Ja, ich will vor dem Throne stehn</l>
+                  <l>als ein Diener Christ's des Herrn.</l>
+                  <l>Lächelnder Friede soll vom Palaste</l>
+                  <l>durch die schauernden Gassen geh'n.</l>
+               </lg>
+               <p rend="justify">(ganz entzückt):</p>
+               <lg>
+                  <l>Über das Meer wie weiße Schwäne</l>
+                  <l>  sollen die Schiffe die Flügel heben.</l>
+                  <l>Und am fernsten Waldgebirge</l>
+                  <l>blase der Hirt die Friedensschalmei.</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Abbas</hi>:</p>
+               <p rend="justify">Amen.</p>
+               <p rend="justify">(Er winkt den beiden Mönchen, sie treten an den Brunnen heran.)</p>
+               <p rend="justify">
+                  <hi rend="italic">Der erste Mönch</hi>
+               </p>
+               <p rend="justify">(senkt den Krug in die Tiefe und zieht ihn wieder herauf, füllt einen Becher, der in einer kleinen Vertiefung des Brunnenrandes steht, und reicht ihn dem Abbas.)</p>
+               <p rend="justify">
+                  <hi rend="italic">Abbas</hi>
+               </p>
+               <p rend="justify">(reicht ihn dem Alexios, feierlich):</p>
+               <lg>
+                  <l>Trinke, mein Sohn!</l>
+                  <l>Keusches Wasser aus heiligem Felsen,</l>
+                  <l>kühl und rein,</l>
+                  <l>heilige dich in dieser Stunde</l>
+                  <l>wider den heißen,</l>
+                  <l>trüben Trank der Welt!</l>
+               </lg>
+               <p rend="justify">(Er winkt dem zweiten Mönch.)</p>
+               <p rend="justify">
+                  <hi rend="italic">Der zweite Mönch</hi>
+               </p>
+               <p rend="justify">(bricht einen Zweig vom Ölbaum und reicht ihn dem Abbas.)</p>
+               <p rend="justify">
+                  <hi rend="italic">Abbas</hi>
+               </p>
+               <p rend="justify">(reicht ihn dem Alexios, wie oben):</p>
+               <p rend="justify">Dies Zweiglein mahne dich<lb/>an deiner Jugend seligen Frieden.</p>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>:</p>
+               <p rend="justify">An meiner Jugend seligen Frieden.</p>
+               <p rend="justify">(Er birgt den Zweig auf seiner Brust und sinkt vor dem Abbas aufs Knie. Von draußen hört man Trompeten der Abgesandten von Byzanz.)</p>
+               <p rend="justify">
+                  <hi rend="italic">Abbas</hi>:</p>
+               <p rend="justify">Der Ruf ertönt. Nun folge deiner Pflicht!</p>
+               <p rend="justify">(Indem er Alexios noch einmal segnet, schreitet er langsam, auf die beiden Mönche gestützt der Kirche zu.)</p>
+               <p rend="justify">(Aus dem Durchgang links kommt der Zug der <hi rend="italic">Byzantiner</hi>. Antike <hi rend="italic">Trompeten</hi>  voran. <hi rend="italic">Archonten</hi>  mit ihren Pagen, <hi rend="italic">Generale</hi>, <hi rend="italic">Soldaten</hi>.)</p>
+               <p rend="justify">
+                  <hi rend="italic">Erster Archont</hi>:</p>
+               <lg>
+                  <l>Alexios,</l>
+                  <l>des Alexios Sohn,</l>
+                  <l>Purpurgeborener!</l>
+                  <l>Das Volk der Romäer, das uns gesandt,</l>
+                  <l>aus Wirrsal und Not Erlösung heischend,</l>
+                  <l>deines ruhmreichen Stammes gedenkend,</l>
+                  <l>ruft dich zum Kaiser durch mich.</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>:</p>
+               <p rend="justify">Ich bin bereit.</p>
+               <p rend="justify">(Es nähern sich der <hi rend="italic">zweite</hi>  und der <hi rend="italic">dritte Archont</hi>, jeder von <hi rend="italic">einem Pagen</hi>  gefolgt. Der erste <hi rend="italic">Page</hi>  trägt auf einem Kissen die roten Schuhe, der <hi rend="italic">zweite</hi>  den Purpurmantel.)</p>
+               <p rend="justify">
+                  <hi rend="italic">Erster Archont</hi>:</p>
+               <lg>
+                  <l>Laß dich mit Kaisers Gewand bekleiden,</l>
+                  <l>daß du geheiligt die Schwelle beschreitest</l>
+                  <l>  unserer Hagia Sophia,</l>
+                  <l>wo du am Altar die Krone dir nimmst!</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Zweiter Archont</hi>
+               </p>
+               <p rend="justify">(nimmt die roten Schuhe und zieht sie dem Alexios an.)</p>
+               <p rend="justify">
+                  <hi rend="italic">Erster Archont</hi>:</p>
+               <lg>
+                  <l>Heilig dein Fuß!</l>
+                  <l>Heilig die Erde, die er betritt!</l>
+                  <l>Heilig die Erde,</l>
+                  <l>die dein Fuß betritt!</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Dritter Archont</hi>
+               </p>
+               <p rend="justify">(legt dem Alexios den Purpurmantel um.)</p>
+               <p rend="justify">
+                  <hi rend="italic">Erster Archont</hi>:</p>
+               <lg>
+                  <l>Heilig dein Leib,</l>
+                  <l>vom ewigen römischen Purpur umwallt!</l>
+                  <l>Alexios, Kaiser der Romäer!</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Zweiter</hi>  und <hi rend="italic">dritter Archont</hi>:</p>
+               <p rend="justify">Heilig die Erde, die dein Fuß betritt!<lb/>Heilig dein Leib im ewigen Purpur Roms!</p>
+               <p rend="justify">(Alle, mit Ausnahme Alexios und Haralds, fallen zu Boden nieder.)</p>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>  (zu Harald):</p>
+               <lg>
+                  <l>Es schauert mich.</l>
+                  <l>Mir ist, als wär' ich in ein Meer</l>
+                  <l>von Blut getreten,</l>
+                  <l>und blutig flösse es herab</l>
+                  <l>  von meinen Schultern.</l>
+                  <l>Nur noch das Haupt ist frei und rein,</l>
+                  <l>und seiner harrt die Perlenbinde</l>
+                  <l>in Hagia Sophia.</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Harald</hi>:</p>
+               <p rend="justify">Sei stark! Und laß die andern zittern!</p>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>
+               </p>
+               <p rend="justify">(sich fassend, zu den Byzantinern):</p>
+               <p rend="justify">Steht auf!</p>
+               <p rend="justify">(Die Byzantiner erheben sich.)</p>
+               <p rend="justify">
+                  <hi rend="italic">Die drei Archonten</hi>:</p>
+               <lg>
+                  <l>Christus erhalte Deinen Ruhm!</l>
+                  <l>Herr der Welt, allmächtiger Gott –</l>
+                  <l>Der wunderbar aus dem Grab Erstandene,</l>
+                  <l>Er erhalte dich lange Zeit!</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Alle Byzantiner</hi>:</p>
+               <lg>
+                  <l>Christus erhalte seinen Ruhm</l>
+                  <l>noch lange im kaiserlichen Purpur!</l>
+                  <l>Er gewähre dir viele Jahre,</l>
+                  <l>er erhalte dich lange Zeit!</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>
+               </p>
+               <p rend="justify">(grüßt mit der Hand und wendet sich der Kirche zu. Die Kirchentüren werden aufgestoßen, Mönche und Knaben, an der Spitze der Abbas, treten aus der Kirche und bleiben auf den Stufen des Portals stehen.)</p>
+               <p rend="justify">
+                  <hi rend="italic">Die Mönche und Knaben</hi>:</p>
+               <p rend="justify">Herr, der König freuet sich in deiner Kraft,<lb/>und wie fröhlich ist er über deine Hilfe!</p>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>:</p>
+               <p rend="justify">Herr, der König ängstet sich<lb/>und bangt nach deiner Hilfe.</p>
+               <p rend="justify">
+                  <hi rend="italic">Die Mönche und Knaben</hi>:</p>
+               <lg>
+                  <l>Du gibst ihm seines Herzens Wunsch,</l>
+                  <l>Du weigerst nicht, was sein Mund bittet.</l>
+                  <l>Du überschüttest ihn mit gutem Segen,</l>
+                  <l>Du setzest eine goldne Krone auf sein Haupt.</l>
+               </lg>
+               <p rend="justify">(Der <hi rend="italic">Abbas</hi>, <hi rend="italic">Alexios</hi>  und <hi rend="italic">Harald</hi>  treten in die Kirche. Während die anderen folgen, schließt sich der Vorhang.)</p>
+               <p rend="justify">Ornament</p>
+               <p rend="justify">Ornament</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Zweiter Aufzug.</head>
+               <p rend="justify">Haus der Prinzessin Theophano in den großen kaiserlichen Gärten zu Byzanz. Der Vordergrund stellt eine nach rückwärts offene, von schlanken Säulen getragene Halle dar. Mosaikfußboden. Die Öffnungen zwischen den Säulen können durch Vorhänge geschlossen werden. Nach hinten schweift der Blick in einen weiten Garten. Der Hintergrund ist durch eine weiße Mauer geschlossen. Darüber hinweg sieht man die Kuppeln und Türme von Byzanz vor einem dunkelglühenden Abendhimmel. Links läuft den Garten entlang ein goldschimmernder Gang in die Tiefe. Ganz hinten nach links hin der Ausgang ins Freie. In der Mitte der linken Seitenwand eine Tür für die Dienerschaft. Vorn eine andere, groß, vergoldet, von einem schweren Vorhang überhangen. Dieser Tür gegenüber endet die Außenwand des Ganges in einer mächtigen Ecksäule, die in Sehhöhe das blasse Gesicht Christi mit der Dornenkrone wie aufgemalt zeigt. Rechts ist in den Garten hinaus ein runder Pavillon eingebaut, um einige Stufen erhöht, mit zierlichen Säulchen, die ein Kuppeldach tragen. Unten schmiegt sich an die Rundung des Pavillons eine mit Kissen belegte Marmorbank. In der Halle Sessel und zierliche runde Tischchen.</p>
+               <p rend="justify">Den Gang herauf kommen als Trabanten <hi rend="italic">zwei riesenhafte </hi>
+                  <hi rend="italic">  Neger</hi>  mit gezogenen Schwertern; hinter ihnen der <hi rend="italic">Haushofmeister</hi>  der Prinzessin mit dem goldenen Stab. Dann <hi rend="italic">Theophano</hi>  in Mantel und Schleier, ein kostbares Gebetbuch vor der Brust tragend. Hinter ihr <hi rend="italic">Eudokia</hi>, noch weiter zurück <hi rend="italic">mehrere Sklavinnen</hi>, zuletzt abermals Trabanten.</p>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>
+               </p>
+               <p rend="justify">(geht noch ein paar Schritte innerhalb des Hauses langsam und mit gesenktem Kopf, wie in frommes Sinnen verloren. Dann plötzlich – nachdem der Haushofmeister und die beiden Neger links Aufstellung genommen haben – wirft sie den Kopf zurück und kommt schnell nach vorn. Sie verneigt sich flüchtig vor dem Haupt mit der Dornenkrone und reicht das Buch der Eudokia, die es ihrerseits an die Sklavinnen weitergibt):</p>
+               <lg>
+                  <l>Hier nimm! Das Buch!</l>
+                  <l>Nimm mir den Schleier ab! –</l>
+                  <l>Den Mantel auch! – Und fort damit! –</l>
+                  <l>Und fort sie alle!</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Eudokia</hi>
+               </p>
+               <p rend="justify">(spreizt die Finger der rechten Hand radförmig gegen das Gefolge, das sich daraufhin zurückzieht).</p>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>
+               </p>
+               <p rend="justify">(wirft sich in einen Sessel).</p>
+               <p rend="justify">
+                  <hi rend="italic">Eudokia</hi>
+               </p>
+               <p rend="justify">(steht abwartend daneben).</p>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>:</p>
+               <lg>
+                  <l>Immer hängt das Geplärre der Priester</l>
+                  <l>mir in den schmerzenden Ohren. –</l>
+                  <l>Und ein Nebel von Weihrauch</l>
+                  <l>füllt mir den armen Kopf. –</l>
+               </lg>
+               <p rend="justify">(Plötzlich):</p>
+               <p rend="justify">Hast du ihn angesehen?</p>
+               <p rend="justify">
+                  <hi rend="italic">Eudokia</hi>:</p>
+               <p rend="justify">Den Kaiser? – Ja. Er sah so bleich.</p>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>:</p>
+               <p rend="justify">Mir scheint, du siehst<lb/>stets nur den Kaiser.</p>
+               <p rend="justify">
+                  <hi rend="italic">Eudokia</hi>:</p>
+               <lg>
+                  <l>Er ist so schön.</l>
+                  <l>Wenn am Altar er steht –</l>
+                  <l>nur die Flügel fehlen ihm,</l>
+                  <l>daß er ein Engel wäre.</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>:</p>
+               <p rend="justify">Seit wann, verkappte kleine Heidin,<lb/>glaubst du an Engel?</p>
+               <p rend="justify">
+                  <hi rend="italic">Eudokia</hi>  (spitzbübisch):</p>
+               <p rend="justify">Wenn Engel – Männer sind.</p>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>
+               </p>
+               <p rend="justify">(lacht; dann plötzlich ernst werdend, erhebt sie sich und tritt dicht vor Eudokia):</p>
+               <p rend="justify">Ehrgeizige Närrin!</p>
+               <p rend="justify">  Schau ich in deine listige Seele:<lb/>Daß du mir Kaiserin werden willst?</p>
+               <p rend="justify">
+                  <hi rend="italic">Eudokia</hi>
+               </p>
+               <p rend="justify">(verbeugt sich tief, indem sie mit den Händen eine abwehrende Geste macht).</p>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>  (herrisch):</p>
+               <lg>
+                  <l>Sag mir's noch einmal,</l>
+                  <l>wie schon so oft:</l>
+                  <l>Wo stammst du her?</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Eudokia</hi>:</p>
+               <p rend="justify">Aus Athen.</p>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>:</p>
+               <p rend="justify">Wer ist dein Vater?</p>
+               <p rend="justify">
+                  <hi rend="italic">Eudokia</hi>:</p>
+               <p rend="justify">Ein Philosoph.</p>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>:</p>
+               <p rend="justify">Ein Schwätzer von Beruf (lacht höhnisch, kehrt zu ihrem Sitz zurück, plötzlich umgestimmt):</p>
+               <lg>
+                  <l>Eudokia,</l>
+                  <l>du willst meine Freundin sein</l>
+                  <l>und hast ihn nicht einmal angeseh'n!</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Eudokia</hi>  (neben ihrem Sessel knieend):</p>
+               <p rend="justify">Wen, meine Prinzessin?</p>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>  (ihren Arm umklammernd):</p>
+               <p rend="justify">Wen? – Harald!</p>
+               <p rend="justify">
+                  <hi rend="italic">Eudokia</hi>:</p>
+               <p rend="justify">Das blonde Bild!</p>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>:</p>
+               <lg>
+                  <l>Das blonde Bild!</l>
+                  <l>Ich zittere, es in meinen Armen</l>
+                  <l>zum Leben zu erwecken. –</l>
+                  <l>Was weißt du, spielendes Kätzchen,</l>
+                  <l>von Weiberschmerzen? –</l>
+               </lg>
+               <p rend="justify">(Mehr für sich, als zu ihr):</p>
+               <lg>
+                  <l>An diesem Hof,</l>
+                  <l>wo alles Spiel ist:</l>
+                  <l>Liebe und Haß,</l>
+                  <l>Wollust und Mord –</l>
+                  <l>geh' ich umher und suche</l>
+                  <l>den schauernden Ernst der Lust;</l>
+                  <l>suche ich den,</l>
+                  <l>der meine Seele trunken macht.</l>
+                  <l>Schamlos wie je ein Weib,</l>
+                  <l>schäm' ich mich mehr als je ein Weib,</l>
+                  <l>daß ich mich immer verschwendet habe,</l>
+                  <l>Reichtum nie mit Reichtum getauscht.</l>
+               </lg>
+               <p rend="justify">(Mit ihren Fäusten ihre Brust schlagend):</p>
+               <lg>
+                  <l>Wieder die Stimme,</l>
+                  <l>die mich verlockt: Bist du's,</l>
+                  <l>der meine Seele trunken macht?</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Eudokia</hi>:</p>
+               <lg>
+                  <l>Wessen bedarf es,</l>
+                  <l>  als eines Winks,</l>
+                  <l>daß er zu deinen Füßen liegt?</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>  (aufstehend):</p>
+               <lg>
+                  <l>Nein! –</l>
+                  <l>Wenn mein Bruder nicht wäre,</l>
+                  <l>der liebe Narr,</l>
+                  <l>der in weißen Wolken wandelt!</l>
+                  <l>Er ist sein Freund –</l>
+                  <l>ich wag' es nicht.</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Eudokia</hi>:</p>
+               <p rend="justify">Wag' es nur immer!</p>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>  (herrisch):</p>
+               <p rend="justify">Schweig!</p>
+               <p rend="justify">(Es tritt eine plötzliche Stille ein. Man hört von draußen verworrenen Lärm, der sich nähert.)</p>
+               <p rend="justify">
+                  <hi rend="italic">Eudokia</hi>  (den Gang hinabspähend):</p>
+               <p rend="justify">Der Kaiser!</p>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>
+               </p>
+               <p rend="justify">(mit großem Gefolge durch das Tor im Hintergrund. Auf seinen Wink bleibt alles in der Tiefe der Bühne zurück. Er selbst kommt, nur von Harald gefolgt, den Gang herauf).</p>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>  (verbeugt sich tief).</p>
+               <p rend="justify">
+                  <hi rend="italic">Eudokia</hi>  (fällt zur Erde).</p>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>
+               </p>
+               <p rend="justify">(macht an der Ecksäule halt, küßt das Bild und kniet davor nieder, in langes, brünstiges Gebet versinkend).</p>
+               <p rend="justify">
+                  <hi rend="italic">Harald</hi>
+               </p>
+               <p rend="justify">(hinter ihm stehend, heftet seine Augen unverwandt auf Theophano).</p>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>
+               </p>
+               <p rend="justify">(richtet sich wieder auf und erwidert seinen Blick).</p>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>
+               </p>
+               <p rend="justify">(erhebt sich nach einer geraumen Weile, macht das Zeichen des Kreuzes und wendet sich dann endlich zu Theophano, die sich wiederum tief verneigt. Er hebt sie auf und küßt sie auf die Stirn):</p>
+               <lg>
+                  <l>Theophano,</l>
+                  <l>geliebte Schwester.</l>
+                  <l>Nicht der Kaiser,</l>
+                  <l>der Bruder kommt zu dir.</l>
+                  <l>Lass' mich ein Weilchen bei dir sein!</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>  (auf einen Sessel weisend):</p>
+               <p rend="justify">Mein kaiserlicher Herr und Bruder!</p>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>  (sich niederlassend):</p>
+               <p rend="justify">Sitzen – ach ja!<lb/>Ich bin so müd' – und traurig.</p>
+               <p rend="justify">(Vor sich hinstarrend):</p>
+               <lg>
+                  <l>Die Bosheit einer Welt</l>
+                  <l>Liegt schwer auf meinem Herzen.</l>
+                  <l>  Grinsende, feile Begierde</l>
+                  <l>seh' ich in jedem Aug',</l>
+                  <l>geifernde, tückische Rache</l>
+                  <l>lauert in jedem Wort.</l>
+                  <l>In einer Wolke von Weihrauch</l>
+                  <l>spür ich geheimes Gift.</l>
+                  <l>Ich flüchte mich zu dir,</l>
+                  <l>Theophano –</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>
+               </p>
+               <p rend="justify">(die, vor ihm stehend, den hinter ihm stehenden Harald nicht aus den Augen gelassen, schrickt leicht zusammen und beugt sich über seine Hand):</p>
+               <p rend="justify">Mein Herr und Bruder!</p>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>  (abwehrend):</p>
+               <p rend="justify">Nicht so, Schwester!</p>
+               <p rend="justify">(Er erblickt Eudokia, die noch immer kniet.)</p>
+               <p rend="justify">Wer ist das dort! – Steh' auf!</p>
+               <p rend="justify">
+                  <hi rend="italic">Eudokia</hi>  (erhebt sich).</p>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>:</p>
+               <p rend="justify">Eudokia, meine Dame<lb/>und Freundin auch.</p>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>:</p>
+               <lg>
+                  <l>Komm!</l>
+                  <l>Wenn du der Schwester Freundin bist,</l>
+                  <l>bist du mir lieb.</l>
+                  <l>Woher bist du?</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Eudokia</hi>:</p>
+               <p rend="justify">Aus Athen.</p>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>:</p>
+               <p rend="justify">Eines Philosophen Töchterlein.</p>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>  (unangenehm berührt):</p>
+               <p rend="justify">Athen ist schlimm. Und Philosophen<lb/>sollten nicht Töchter haben.</p>
+               <p rend="justify">
+                  <hi rend="italic">Eudokia</hi>:</p>
+               <p rend="justify">Ich möcht' ein Leiden kennen,<lb/>um meine Herkunft abzubüßen.</p>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>  (aufstehend):</p>
+               <lg>
+                  <l>Nicht leiden! Der Herr am Kreuz</l>
+                  <l>hat für uns alle alles einst gelitten,</l>
+                  <l>damit die Welt des <hi rend="italic">Leidens</hi>  ledig sei.</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Eudokia</hi>:</p>
+               <p rend="justify">Wenn Leiden aber <hi rend="italic">Wonne</hi>  wäre?</p>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>  (ungeduldig):</p>
+               <lg>
+                  <l>Nein!</l>
+                  <l>Ich will das reine Glück der Welt.</l>
+                  <l>Die Welt will Wermut in den Wein.</l>
+               </lg>
+               <p rend="justify">(Sich zu Theophano wendend):</p>
+               <lg>
+                  <l>Schwester!</l>
+                  <l>Du fühlst wie ich.</l>
+                  <l>Wenn mich keiner versteht,</l>
+                  <l>du kannst nicht mißverstehen.</l>
+                  <l>  Du bist ich,</l>
+                  <l>ich bin du.</l>
+                  <l>Zwillingsgeschwister sind eins.</l>
+                  <l>Aus aller Not</l>
+                  <l>flieht mein Herz zu dir,</l>
+                  <l>flieht es zu sich selber,</l>
+                  <l>findet sich wieder bei dir.</l>
+               </lg>
+               <p rend="justify">(Er faßt sie bei der Hand und tritt mit ihr in den Garten hinaus.)</p>
+               <p rend="justify">
+                  <hi rend="italic">Eudokia</hi>  (sich Harald nähernd):</p>
+               <p rend="justify">Ob ich den Kaiser gekränkt?</p>
+               <p rend="justify">
+                  <hi rend="italic">Harald</hi>
+               </p>
+               <p rend="justify">(in den Garten starrend, abwesend):</p>
+               <p rend="justify">Der Kaiser ist gut.</p>
+               <p rend="justify">
+                  <hi rend="italic">Eudokia</hi>:</p>
+               <p rend="justify">So schön ist er und traurig.</p>
+               <p rend="justify">
+                  <hi rend="italic">Harald</hi>  (wie oben):</p>
+               <p rend="justify">Schön ist Theophano.<lb/>Die Düstere möcht' ich leuchten seh'n.</p>
+               <p rend="justify">
+                  <hi rend="italic">Eudokia</hi>  (zugleich):</p>
+               <lg>
+                  <l>So schön ist er und traurig.</l>
+                  <l>Ich möcht' ihn lachen seh'n,</l>
+                  <l>den traurigen Kaiser.</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>
+               </p>
+               <p rend="justify">(winkt Harald mit erhobener Hand).</p>
+               <p rend="justify">
+                  <hi rend="italic">Harald</hi>  (tritt eilig hinaus).</p>
+               <p rend="justify">
+                  <hi rend="italic">Eudokia</hi>  (in zitternder Erregung):</p>
+               <lg>
+                  <l>Einmal – einmal –</l>
+                  <l>ein glückliches Wort</l>
+                  <l>schenkt mir, ihr hehren</l>
+                  <l>Götter auf heimischer Burg!</l>
+                  <l>Oder auch du, heilige Jungfrau!</l>
+                  <l>Schenkt mir das Wort!</l>
+                  <l>Wer es auch sei,</l>
+                  <l>ich will ihn preisen,</l>
+                  <l>will zu ihm beten,</l>
+                  <l>wie nie ich getan.</l>
+                  <l>Dirnen haben den Thron bestiegen,</l>
+                  <l>Gauklerinnen schon Kaiser gebannt –</l>
+                  <l>ich will hinauf,</l>
+                  <l>ich will siegen:</l>
+                  <l>Götter – Satan –</l>
+                  <l>schenkt mir das Wort!</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>
+               </p>
+               <p rend="justify">(kommt beruhigt und glücklich durch den Garten geschritten, hier einen Strauch liebkosend, dort sich zu einer Blume beugend).</p>
+               <p rend="justify">
+                  <hi rend="italic">Eudokia</hi>  (leise):</p>
+               <lg>
+                  <l>Wie schön er ist! –</l>
+                  <l>Schenkt mir das Wort! –</l>
+                  <l>Das Wort!</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>  (für sich):</p>
+               <p rend="justify">Wie ich die Stille liebe<lb/>  und dieses Gartens Duft! –</p>
+               <p rend="justify">(Eudokia gewahrend und zu ihr tretend):</p>
+               <p rend="justify">Hab ich dir wehgetan,<lb/>Kind von Athen?</p>
+               <p rend="justify">
+                  <hi rend="italic">Eudokia</hi>:</p>
+               <p rend="justify">Was du auch tust,<lb/>ist selige Wohltat, Herr.</p>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>  (sie aufhebend):</p>
+               <lg>
+                  <l>Keinem möchte ich Schmerzen bereiten,</l>
+                  <l>und wenn ich strafe,</l>
+                  <l>blutet mein Herz!</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Eudokia</hi>:</p>
+               <lg>
+                  <l>Straf mich wieder!</l>
+                  <l>Strafe mich immer!</l>
+                  <l>Strafe von dir ist köstliche Lust.</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>:</p>
+               <p rend="justify">Bist du so böse, Kind von Athen?</p>
+               <p rend="justify">
+                  <hi rend="italic">Eudokia</hi>  (leise):</p>
+               <p rend="justify">Ja, ich bin bös. Deine himmlische Güte<lb/>hat mich, wie bös' ich bin, erst gelehrt.</p>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>:</p>
+               <p rend="justify">Lästere nicht!</p>
+               <p rend="justify">
+                  <hi rend="italic">Eudokia</hi>  (sich vor ihm niederwerfend):</p>
+               <lg>
+                  <l>Sei barmherzig!</l>
+                  <l>  Tritt in den Staub mich!</l>
+                  <l>Und ich küsse den heiligen Fuß.</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>  (zurückweichend):</p>
+               <p rend="justify">Wesen, wer bist du?</p>
+               <p rend="justify">
+                  <hi rend="italic">Eudokia</hi>
+               </p>
+               <p rend="justify">(außer sich, ihm auf Knien nachrutschend):</p>
+               <lg>
+                  <l>Ich bin ein Weib.</l>
+                  <l>Ich kann leiden,</l>
+                  <l>ich kann beglücken,</l>
+                  <l>kann beglücken und leiden in eins.</l>
+                  <l>Gib mir die Stunde,</l>
+                  <l>daß ich dir's weise,</l>
+                  <l>daß ich das süße</l>
+                  <l>Geheimnis dir enthülle,</l>
+                  <l>das Geheimnis,</l>
+                  <l>wie ich gekreuzigte Göttin dir bin.</l>
+               </lg>
+               <p rend="justify">(Sie umschlingt seine Knie.)</p>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>  (aufschreiend):</p>
+               <lg>
+                  <l>Satan, Satan,</l>
+                  <l>weiche von mir! –</l>
+                  <l>Christ, Überwinder</l>
+                  <l>höllischer Mächte,</l>
+                  <l>stehe mir bei! –</l>
+                  <l>Hinaus, hinweg,</l>
+                  <l>Höllendirne!</l>
+               </lg>
+               <p rend="justify">(Zu Theophano, die mit Harald herbeieilt):</p>
+               <lg>
+                  <l>Schick sie hinweg noch diese Stunde!</l>
+                  <l>Schick sie ins Kloster!</l>
+                  <l>  Ein Meer dazwischen!</l>
+                  <l>Daß ich niemals wieder</l>
+                  <l>einen Boden mit ihr trete!</l>
+               </lg>
+               <p rend="justify">(Er geht in höchster Erregung, von Harald gefolgt, durch den Gang ab. Das Gefolge läßt ihn hindurch und schließt sich an.)</p>
+               <p rend="justify">
+                  <hi rend="italic">Eudokia</hi>  (liegt vernichtet am Boden).</p>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>
+               </p>
+               <p rend="justify">(steht an eine Säule gelehnt und betrachtet sie höhnisch):</p>
+               <lg>
+                  <l>Kleine Eudokia,</l>
+                  <l>listige, kluge,</l>
+                  <l>ist dir dein Streich mißglückt?</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Eudokia</hi>
+               </p>
+               <p rend="justify">(auf den Knien zu ihr herankriechend):</p>
+               <p rend="justify">Gnade, Gnade!</p>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>:</p>
+               <lg>
+                  <l>Kleine Tochter</l>
+                  <l>des Philosophen</l>
+                  <l>streckt ihre Hände</l>
+                  <l>der Krone zu.</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Eudokia</hi>  (näher):</p>
+               <lg>
+                  <l>Nicht ins Kloster!</l>
+                  <l>Hab' Erbarmen!</l>
+                  <l>Lass' deine Magd,</l>
+                  <l>deine letzte, mich sein!</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>:</p>
+               <lg>
+                  <l>Alles weiß sie,</l>
+                  <l>die list'ge Dirne.</l>
+                  <l>Nur, daß das Gold</l>
+                  <l>der Krone brennt,</l>
+                  <l>dieses eine wußte sie nicht.</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Eudokia</hi>:</p>
+               <lg>
+                  <l>Lass' mich die niedrigsten</l>
+                  <l>Werke verrichten!</l>
+                  <l>Nur aus Byzanz</l>
+                  <l>verbann mich nicht!</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>:</p>
+               <p rend="justify">Was kann ich tun,<lb/>da der Kaiser gesprochen?</p>
+               <p rend="justify">
+                  <hi rend="italic">Eudokia</hi>:</p>
+               <lg>
+                  <l>Dich liebt der Kaiser</l>
+                  <l>mehr als sein Leben.</l>
+                  <l>Leid' es nicht,</l>
+                  <l>daß ich fern vergehe.</l>
+                  <l>Sprich du ein Wort,</l>
+                  <l>ein einziges nur –</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>:</p>
+               <p rend="justify">Warum nur sollt' ich?</p>
+               <p rend="justify">
+                  <hi rend="italic">Eudokia</hi>
+               </p>
+               <p rend="justify">(da Theophano lacht, mit flehend emporgehobenen Händen):</p>
+               <lg>
+                  <l>Lass' einen großen</l>
+                  <l>  Dienst mich dir tun!</l>
+                  <l>Etwas gewaltiges,</l>
+                  <l>etwas, das niemand anders dir tut!</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>
+               </p>
+               <p rend="justify">(sie plötzlich bei den Händen fassend):</p>
+               <lg>
+                  <l>Etwas, das niemand anders mir tut?</l>
+                  <l>– Schaffe ihn mir!</l>
+                  <l>Den blonden Waräger!</l>
+                  <l>Schaff' ihn zur Stunde</l>
+                  <l>hierher zu mir!</l>
+                  <l>Such' ihn und hol' ihn,</l>
+                  <l>wo du ihn findest;</l>
+                  <l>hol' ihn vom Sessel</l>
+                  <l>des Kaisers hinweg!</l>
+                  <l>Denn ich begehre ihn</l>
+                  <l>mit meiner Seele</l>
+                  <l>heißesten Gluten.</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Eudokia</hi>  (aufstehend):</p>
+               <p rend="justify">Ich schaff' ihn dir. (Ab.)</p>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>
+               </p>
+               <p rend="justify">(tritt an die große Tür links und schlägt ein Gong. Der Haushofmeister erscheint.)</p>
+               <p rend="justify">
+                  <hi rend="italic">Haushofmeister</hi>:</p>
+               <p rend="justify">Was befiehlt die große Prinzessin?</p>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>:</p>
+               <p rend="justify">Sklaven und Tänzer herbei! Ich fei're heut<lb/>ein Fest.</p>
+               <p rend="justify">
+                  <hi rend="italic">Haushofmeister</hi>
+               </p>
+               <p rend="justify">(verbeugt sich und steht zögernd).</p>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>  (ungeduldig):</p>
+               <p rend="justify">Was zögerst du?</p>
+               <p rend="justify">
+                  <hi rend="italic">Haushofmeister</hi>:</p>
+               <p rend="justify">Herrin, bange Sorge treibt mich, zu reden.<lb/>Es droht Gefahr.</p>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>:</p>
+               <p rend="justify">Wem? Mir?</p>
+               <p rend="justify">
+                  <hi rend="italic">Haushofmeister</hi>:</p>
+               <p rend="justify">Dem Kaiser.</p>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>:</p>
+               <p rend="justify">Wie? Woher?</p>
+               <p rend="justify">
+                  <hi rend="italic">Haushofmeister</hi>:</p>
+               <lg>
+                  <l>Rings im Palaste wispert Verrat,</l>
+                  <l>und das Volk auf der Gasse draußen</l>
+                  <l>wartet, daß einer ihm das Zeichen gebe.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="italic">Theophano</hi>:</l>
+                  <l>Sind sie des Psalmenbetens müde?</l>
+                  <l>
+                     <hi rend="italic">Haushofmeister</hi>:</l>
+                  <l>Er ist der Kaiser nicht von Byzanz, er ist ein Priester.</l>
+               </lg>
+               <lg>
+                  <l>  Schwerer dünkt dem Volk sein Joch als harte Fron.</l>
+                  <l>Soeben erließ er den Befehl, der in Byzanz</l>
+                  <l>für einen Monat Tanz, Lustbarkeit und weltlich Spiel verbietet,</l>
+                  <l>damit das Volk in stiller Buße für seine Sünden um Vergebung flehe.</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>:</p>
+               <p rend="justify">Was sagst du? Das befahl er?</p>
+               <p rend="justify">
+                  <hi rend="italic">Haushofmeister</hi>:</p>
+               <lg>
+                  <l>Soeben hat er die Archonten versammelt</l>
+                  <l>und ihnen seinen kaiserlichen Willen kundgetan.</l>
+                  <l>Darum erschreckt es mich, daß du o Herrin,</l>
+                  <l>heut Abend hier ein Freudenfest befiehlst.</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>  (herrisch):</p>
+               <p rend="justify">Tu, was ich dir sagte!</p>
+               <p rend="justify">(Nimmt einen goldenen Reif von ihrem Arm und gibt ihn ihm):</p>
+               <lg>
+                  <l>Und sei bedankt!</l>
+                  <l>Heute will ich lustig sein.</l>
+                  <l>Morgen – vielleicht – – –</l>
+                  <l>– – Wie sagte er? – – (im Abgehen für sich):</l>
+                  <l>Draußen wartet das Volk,</l>
+                  <l>„daß einer ihm das Zeichen gebe“ – –</l>
+               </lg>
+               <p rend="justify">(Ab durch die Tür links.)</p>
+               <p rend="justify">
+                  <hi rend="italic">Haushofmeister</hi>
+               </p>
+               <p rend="justify">(klatscht in die Hände).</p>
+               <p rend="justify">(Sklaven erscheinen, die auf seinen Befehl das Tor im Hintergrunde schließen und einen starken Querbalken davor legen. <hi rend="italic">Andere</hi>  ziehen währenddessen die Vorhänge zu und entzünden Lichter in der Halle. <hi rend="italic">Tänzer</hi>  und <hi rend="italic">Tänzerinnen</hi>  kommen aus der mittleren Tür, stehen in Gruppen zusammen, schwatzen und versuchen Stellungen, Tanzschritte. Unterdrücktes Gelächter. Der Haushofmeister treibt sie allgemach in den Garten hinaus. Die beiden Neger, halb nackt, treten, bloße, breite Schwerter vor den Leib haltend, in den Gang und schließen ihn nach rückwärts ab. Haushofmeister und Sklaven verschwinden.)</p>
+               <p rend="justify">
+                  <hi rend="italic">Eudokia</hi>  (aus der mittleren Tür).</p>
+               <p rend="justify">
+                  <hi rend="italic">Harald</hi>
+               </p>
+               <p rend="justify">(hinter ihr, von ihr an der Hand gezogen; er ist befangen. Sie stehen wartend bis Theophano aus der Tür links erscheint.)</p>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>
+               </p>
+               <p rend="justify">(aus der Tür links).</p>
+               <p rend="justify">
+                  <hi rend="italic">Eudokia</hi>  (zu ihr hin):</p>
+               <p rend="justify">Süßeste Herrin,<lb/>dein Wunsch ist erfüllt.</p>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>
+               </p>
+               <p rend="justify">(ohne auf sie zu achten, Harald mit flammenden Blicken messend):</p>
+               <p rend="justify">Wie ich ihn liebe,<lb/>der meine Seele trunken macht?</p>
+               <p rend="justify">
+                  <hi rend="italic">Eudokia</hi>:</p>
+               <p rend="justify">Süßeste Herrin,<lb/>du hast mir versprochen –</p>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>:</p>
+               <p rend="justify">Wie ich ihn liebe! Wie er schön ist!</p>
+               <p rend="justify">
+                  <hi rend="italic">Eudokia</hi>:</p>
+               <lg>
+                  <l>Süßeste Herrin,</l>
+                  <l>wirst du nun Gnade</l>
+                  <l>deiner treuesten Dienerin leih'n?</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>:</p>
+               <p rend="justify">Ist das die Stunde für Sklavenwünsche,<lb/>wenn die Herrin im Fieber glüht?</p>
+               <p rend="justify">
+                  <hi rend="italic">Eudokia:</hi>
+               </p>
+               <p rend="justify">Süßeste Herrin, ein Wort nur –</p>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>:</p>
+               <p rend="justify">Kupplerin! Weiche!<lb/>Sonst lass' ich dich peitschen.</p>
+               <p rend="justify">
+                  <hi rend="italic">Eudokia</hi>:</p>
+               <p rend="justify">(taumelt empor, zur Tür links, wirft einen haßerfüllten, drohenden Blick zurück und verschwindet).</p>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>
+               </p>
+               <p rend="justify">(steht und schaut Harald unverwandt an).</p>
+               <p rend="justify">
+                  <hi rend="italic">Harald</hi>
+               </p>
+               <p rend="justify">(läßt sich zögernd auf ein Knie nieder).</p>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>  (schnell zu ihm hin):</p>
+               <lg>
+                  <l>Knie nicht, du Tor!</l>
+                  <l>  – Du süßer Tor!</l>
+                  <l>Du sollst in mir</l>
+                  <l>nicht die Prinzessin seh'n.</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Harald</hi>  (leise):</p>
+               <p rend="justify">Ich seh in dir<lb/>das schönste Weib der Erde.</p>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>  (ebenso):</p>
+               <p rend="justify">Harald!</p>
+               <p rend="justify">(Ergreift ihn bei der Hand und führt ihn zur Marmorbank.)</p>
+               <p rend="justify">
+                  <hi rend="italic">Harald</hi>
+               </p>
+               <p rend="justify">(sitzt am äußersten Ende der Bank, nach dem Garten hin):</p>
+               <lg>
+                  <l>In jenen Klostermauern,</l>
+                  <l>da meine Jugend wuchs,</l>
+                  <l>sah ich mit Augen nur ernste Mönche,</l>
+                  <l>hört' ich mit Ohren nur Singen und Beten.</l>
+                  <l>Doch in mir lebte ein andres Leben;</l>
+                  <l>woher mir's gekommen, ich weiß es nicht.</l>
+                  <l>Brennende Sehnsucht lohte in mir</l>
+                  <l>nach Glanz und Pracht,</l>
+                  <l>nach rauschenden Festen,</l>
+                  <l>nach stürmischer Stunden süßer Gewalt.</l>
+                  <l>Und schöne Frauen</l>
+                  <l>schritten durch meine Träume,</l>
+                  <l>liebreich und hold,</l>
+                  <l>daß mir die Tränen entstürzten,</l>
+                  <l>wenn ich jählings erwacht.</l>
+                  <l>Dann kam die Stunde – dann kam Byzanz:</l>
+                  <l>  Und ich sah dich, Theophano!</l>
+                  <l>Du Strahlende,</l>
+                  <l>vor dir versinkt die Pracht Byzanz',</l>
+                  <l>Du einzig Schöne, mit dir</l>
+                  <l>will ich die purpurnen Feste feiern,</l>
+                  <l>die meine trunkene Seele sah.</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>:</p>
+               <lg>
+                  <l>Mit mir</l>
+                  <l>sollst du die purpurnen Feste feiern,</l>
+                  <l>die deine trunkene Seele sah.</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Harald</hi>:</p>
+               <p rend="justify">Theophano!</p>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>:</p>
+               <p rend="justify">Harald!</p>
+               <p rend="justify">(Sie umarmen sich. Dann reißt sie sich von ihm los, läuft die Stufen hinauf zum Pavillon. Sich von oben über ihn beugend):</p>
+               <lg>
+                  <l>Sünder!</l>
+                  <l>Böser Sünder!</l>
+                  <l>Was wird der Kaiser sagen,</l>
+                  <l>wenn er dich so erblickt?</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Harald</hi>
+               </p>
+               <p rend="justify">(den Kopf rückwärts an die Rundung der Pavillonmauer gelehnt, zu ihr hinauf):</p>
+               <lg>
+                  <l>Der Kaiser?</l>
+                  <l>Lass' ihn beten</l>
+                  <l>zu seinen Heiligen!</l>
+                  <l>Ich, ich bete zu dir.</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>:</p>
+               <p rend="justify">Zitterst du nicht, ihn tötlich zu kränken?</p>
+               <p rend="justify">
+                  <hi rend="italic">Harald</hi>:</p>
+               <p rend="justify">Waräger zittern nie.</p>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>:</p>
+               <p rend="justify">Er ist der Herr der Welt.</p>
+               <p rend="justify">
+                  <hi rend="italic">Harald</hi>:</p>
+               <lg>
+                  <l>Hab' er die Welt!</l>
+                  <l>Eins hat er nicht,</l>
+                  <l>nicht die köstliche Schwester,</l>
+                  <l>die mir sich neigt.</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>:</p>
+               <p rend="justify">Höhnst du ihn noch?</p>
+               <p rend="justify">
+                  <hi rend="italic">Harald</hi>:</p>
+               <p rend="justify">Ich lache sein.</p>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>:</p>
+               <lg>
+                  <l>Kannst du ermessen,</l>
+                  <l>wie edel heiliges Kaisergeblüt?</l>
+                  <l>Menschen leben im Staub der Erde,</l>
+                  <l>bäumen sich, strecken sich</l>
+                  <l>nach dem Erhabenen,</l>
+                  <l>fallen zurück ins klanglose Nichts.</l>
+                  <l>Purpurgeborne schreiten in Höhen,</l>
+                  <l>Kaiserthrone stehen erhaben</l>
+                  <l>  an den Pforten des Himmelssaals,</l>
+                  <l>Kaiserblut ist Gotte verwandt.</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Harald</hi>:</p>
+               <lg>
+                  <l>Wenn ich einst alt bin</l>
+                  <l>will ich wohl glauben</l>
+                  <l>an einen Himmel wie ihr – vielleicht.</l>
+                  <l>Vielleicht auch kehr' ich</l>
+                  <l>zur Heimat zurück.</l>
+                  <l>Dort gibt's keinen Himmel,</l>
+                  <l>noch Engel und Psalmen.</l>
+                  <l>Odin tafelt beim Becherklang</l>
+                  <l>in Walhalls fröhlichen Räumen.</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>:</p>
+               <p rend="justify">Hier oben ist Walhall.<lb/>Komm herauf zu mir!</p>
+               <p rend="justify">
+                  <hi rend="italic">Harald</hi>
+               </p>
+               <p rend="justify">(aufstehend und sich an die Mauer lehnend):</p>
+               <p rend="justify">Noch bin ich im Leben.<lb/>Komm herab zu mir!</p>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>:</p>
+               <p rend="justify">Helden müssen den Himmel stürmen.</p>
+               <p rend="justify">
+                  <hi rend="italic">Harald</hi>:</p>
+               <p rend="justify">Sterbliche Weiber müssen sich neigen.</p>
+               <p rend="justify">(Er steht am Fuße der Treppe, mit ausgebreiteten Armen.)</p>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>
+               </p>
+               <p rend="justify">(fliegt die Stufen herab in seine Arme).</p>
+               <p rend="justify">
+                  <hi rend="italic">Beide</hi>:</p>
+               <lg>
+                  <l>Höchste Wonne, im Sturm zu stehen,</l>
+                  <l>kühn den taumelnden Kopf gereckt!</l>
+                  <l>Höchste Wonne, in Liebe vergehen,</l>
+                  <l>Wenn die Flamme zum Leben erweckt</l>
+               </lg>
+               <p rend="justify">(Theophano rührt an den nächsten Vorhang. Alle Vorhänge fliegen mit eins zurück. Der nächtliche Garten liegt in magischer Beleuchtung. Tänzer und Tänzerinnen stehen als Götterstatuen in den Nischen der rückwärtigen Mauer: in der Mitte Aphrodite, rechts Apollo, links Dionysos. Die übrigen Tänzer und Tänzerinnen als verehrende Festversammlung davor liegend und knieend. Apollo steigt zu ihnen herab und führt sie an zu einem Tanz voll strenger Schönheit. Dann mischt sich Dionys dazwischen. Wilde rauschende Lust quillt auf. Theophano mischt sich in den Strudel der Tanzenden. Alle fallen, ihr huldigend, zu Boden. Sie allein tanzt weiter. Harald springt dazwischen, fängt Theophano auf und trägt sie zur großen verhangenen Tür links. In diesem Augenblicke wird der Vorhang von oben nach unten gerissen, fällt zur Erde und bauscht sich um die Füße des)</p>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>
+               </p>
+               <p rend="justify">(der totenbleich im Türrahmen steht. Hinter ihm)</p>
+               <p rend="justify">
+                  <hi rend="italic">Bewaffnete</hi>
+               </p>
+               <p rend="justify">(dazwischen)</p>
+               <p rend="justify">
+                  <hi rend="italic">Eudokia</hi>.</p>
+               <p rend="justify">
+                  <hi rend="italic">Harald</hi>
+               </p>
+               <p rend="justify">(lacht wild auf und preßt Theophano an sich):</p>
+               <p rend="justify">Heissa! Schätzchen!</p>
+               <p rend="justify">  Dein frommer Bruder<lb/>kommt zur Hochzeit.</p>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>:</p>
+               <p rend="justify">Reißt das doppelköpfige<lb/>Tier entzwei!</p>
+               <p rend="justify">
+                  <hi rend="italic">Bewaffnete</hi>
+               </p>
+               <p rend="justify">(stürzen sich auf die beiden und reißen sie auseinander).</p>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>:</p>
+               <p rend="justify">In Ketten ihn!<lb/>Und in den tiefsten Kerker!</p>
+               <p rend="justify">
+                  <hi rend="italic">Harald</hi>  (wird abgeführt).</p>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>:</p>
+               <p rend="justify">Theophano!</p>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>
+               </p>
+               <p rend="justify">(ohne ihn zu beachten, zu Eudokia):</p>
+               <p rend="justify">Kleine Tochter des Philosophen,<lb/>hast du dein Mütchen gekühlt?</p>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>:</p>
+               <lg>
+                  <l>In ihr Gemach!</l>
+                  <l>Wächter davor – (Er wankt.)</l>
+                  <l>kein Mensch soll sie sprechen – (Er will fallen.)</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Eudokia</hi>
+               </p>
+               <p rend="justify">(springt vor und will ihn halten):</p>
+               <p rend="justify">Angebeteter –</p>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>  (schleudert sie weg):</p>
+               <p rend="justify">Rühr' mich nicht an!<lb/>Verfluchte!</p>
+               <p rend="justify">
+                  <hi rend="italic">Vorhang.</hi>
+               </p>
+               <p rend="justify">Ornament</p>
+               <p rend="justify">Ornament</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Dritter Aufzug.</head>
+               <p rend="justify">Die Szene zeigt einen düsteren Saal, der sein Licht irgendwoher aus der Höhe bekommt. Eine breite Treppe steigt im Hintergrund auf, Straßeneingang. In der <hi rend="italic">rechten</hi> Seitenwand eine mächtige Bronzetür, erhöht, über zwei Stufen zu erreichen. Weiter zurück eine kleinere Tür. Links ebenfalls zwei Türen. Der Thronstuhl des Kaisers steht rechts vorn, überragt von einem holzgeschnitzten und buntbemalten Gekreuzigten.</p>
+               <p rend="justify">Man hört draußen das dumpfe Branden der Volkserregung, aus der sich ab und zu ein heller Schrei losringt. <hi rend="italic">Der Henker</hi>  mit zwei Gehilfen kommt aus der kleinen Tür rechts, bezeigt dem Gekreuzigten seine Verehrung und geht links vorn ab.</p>
+               <p rend="justify">Ein <hi rend="italic">General</hi>  mit mehreren Soldaten eben daher, ab durch die zweite Tür links. Indem er hinaus ist und die Türe offen läßt, drängen die <hi rend="italic">Frauen</hi>  der Theophano herein, scheu, mit starrer Angst in den Zügen. Sie stellen sich rechts und links von der Tür auf.</p>
+               <p rend="justify">
+                  <hi rend="italic">Archonten</hi>  und <hi rend="italic">Generale</hi>  aus der zweiten Tür rechts, von Soldaten gefolgt. Sie lauschen auf das Toben des Volkes und stecken die Köpfe zusammen.</p>
+               <p rend="justify">
+                  <hi rend="italic">Erster Archont</hi>:</p>
+               <p rend="justify">Das Volk von Byzanz?</p>
+               <p rend="justify">
+                  <hi rend="italic">Zweiter Archont</hi>:</p>
+               <p rend="justify">Ein Wort genügt!</p>
+               <p rend="justify">(Auf den Wink eines Generals besetzen Soldaten die Treppe im Hintergrund. Eine silberne Glocke läutet lang und heftig von draußen. Die Flügel der Bronzetür fliegen auf.)</p>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>
+               </p>
+               <p rend="justify">(mit großem Gefolge tritt auf die Treppe heraus).</p>
+               <p rend="justify">
+                  <hi rend="italic">Männerstimmen</hi>:</p>
+               <p rend="justify">Christus erhalte deinen Ruhm.</p>
+               <p rend="justify">
+                  <hi rend="italic">Frauenstimmen</hi>:</p>
+               <p rend="justify">Christus erhalte deinen Ruhm<lb/>noch lange im – – –</p>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>
+               </p>
+               <p rend="justify">(winkt ab. Die Männer verstummen, die Frauen plärren weiter):</p>
+               <p rend="justify">Schweigt stille!<lb/>Mein Ruhm ist nicht fein.</p>
+               <p rend="justify">(Er steigt langsam die Treppe hernieder, indes alle niederfallen. Er neigt sich tief vor dem Bild des Gekreuzigten):</p>
+               <lg>
+                  <l>Gekreuzigter! Gequälter!</l>
+                  <l>Immer von neuem kreuzigt man dich!</l>
+                  <l>Wende dein schmerzgezeichnetes Antlitz</l>
+               </lg>
+               <p rend="justify">  bis ich gerichtet hab'.</p>
+               <p rend="justify">(Er tritt auf die Erhöhung, auf der der Thronstuhl steht, läßt sich auf ihn nieder und winkt.)</p>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>
+               </p>
+               <p rend="justify">(aus der zweiten Tür links, gefolgt vom General und den Soldaten. Sie ist in ein ganz weißes Gewand gekleidet, ein weißer Schleier, zu beiden Seiten des Kopfes lang herabhängend, läßt nur ein längliches, viereckiges Stück ihres Gesichtes frei. Sie schreitet zwischen den Frauen hindurch, die bei ihrem Anblick zum Teil aufschluchzen. Sie weist sie mit einer herrischen Gebärde zur Ruhe, stellt sich, halb nach vorn gewendet, auf und wirft einen fragenden Blick zu den Archonten und Generälen hinüber. Die verneigen sich tief.)</p>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>
+               </p>
+               <p rend="justify">(der sich langsam erhoben hatte, sinkt, da sie ihn gar nicht beachtet, in seinen Sitz zurück und gibt ein zweites Zeichen).</p>
+               <p rend="justify">
+                  <hi rend="italic">Harald</hi>
+               </p>
+               <p rend="justify">(wird vom Henker und seinen Gehilfen hereingebracht. Er ist mit Ketten beladen, aber aufrecht, ein wildes Feuer in seinen Augen. Sobald er auftritt fährt sein Kopf nach dem Hintergrund herum, wo die Frauen stehen. Da er Theophano gewahrt, richtet er sich noch höher auf und grüßt sie mit seinem Blick. Dann schweift sein Auge über die Versammlung der Männer und bleibt schließlich hohnglühend auf Alexios haften).</p>
+               <p rend="justify">
+                  <hi rend="italic">Harald</hi>:</p>
+               <lg>
+                  <l>Wie groß und feierlich!</l>
+                  <l>Die Feste folgen sich,</l>
+                  <l>doch gleichen sie sich nicht.</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>:</p>
+               <p rend="justify">Harald! Warägersohn!<lb/>Aus niederem Stande aufgestiegen – – –</p>
+               <p rend="justify">
+                  <hi rend="italic">Harald</hi>:</p>
+               <p rend="justify">Krieger waren die Ahnen alle!</p>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>  (sich gewaltsam beherrschend):</p>
+               <lg>
+                  <l>– – – aus niederem Stande.</l>
+                  <l>Eines Kaisers Gunst und Gnade</l>
+                  <l>machte dich zum Gespielen des Sohnes.</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Harald</hi>:</p>
+               <p rend="justify">In langer, trauriger Klosterfron<lb/>hab' ich es abgedient.</p>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>:</p>
+               <p rend="justify">Ein unerhörtes Glück erhob<lb/>dich zum Freunde des Kaisers – – –</p>
+               <p rend="justify">
+                  <hi rend="italic">Harald</hi>:</p>
+               <p rend="justify">Und zum Geliebten der Schwester!</p>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>:</p>
+               <lg>
+                  <l>Rasender!</l>
+                  <l>denkst du daran:</l>
+                  <l>  An meiner Gnade hängt dein Leben!</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Harald</hi>  (lacht):</p>
+               <lg>
+                  <l>Gnade! Du Frömmler!</l>
+                  <l>Glaub' mir, ich kenn' dich!</l>
+                  <l>Eher vergehst du, eh' du verzeihst,</l>
+                  <l>was ich getan!</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>:</p>
+               <lg>
+                  <l>Was du getan!</l>
+                  <l>Mußt du mich mahnen?</l>
+                  <l>Ja, Unsel'ger, wisse, du stehst vorm Tode!</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Harald</hi>:</p>
+               <lg>
+                  <l>Heia, der Tod!</l>
+                  <l>Wie ich ihn grüße!</l>
+                  <l>Jauchzend sind die Warägersöhne</l>
+                  <l>immer dem Tod entgegengestürmt!</l>
+                  <l>Glaubst du, daß ich ihn greinend empfange?</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>:</p>
+               <p rend="justify">Harald, Unsel'ger!</p>
+               <p rend="justify">
+                  <hi rend="italic">Harald</hi>:</p>
+               <lg>
+                  <l>Nicht dein Himmel,</l>
+                  <l>nicht die Erlösung,</l>
+                  <l>selber der Tod ist jubelnde Lust!</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>:</p>
+               <p rend="justify">Läst're nicht!</p>
+               <p rend="justify">
+                  <hi rend="italic">Harald</hi>  (in dämonischer Glut):</p>
+               <lg>
+                  <l>Wenn ich den tötlichen Streich empfange,</l>
+                  <l>strahlt in meinem Blick noch einmal auf</l>
+                  <l>des Lebens Flamme in heller Glut!</l>
+                  <l>Und im letzten Blitz des Denkens</l>
+                  <l>nehm ich mir das Weib,</l>
+                  <l>das mir Tod und Leben einet –</l>
+                  <l>deiner Schwester Leib!</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>:</p>
+               <p rend="justify">Halt ein! – Verruchter!</p>
+               <p rend="justify">
+                  <hi rend="italic">Harald</hi>:</p>
+               <lg>
+                  <l>Einmal noch abwärts</l>
+                  <l>die schneeige Halde ihrer Schultern</l>
+                  <l>gleitet mein Blick,</l>
+                  <l>Einmal noch strahlt ihr heißes Auge</l>
+                  <l>meine wilden Wünsche zurück,</l>
+                  <l>Einmal noch zittert in meinen Armen –</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>:</p>
+               <p rend="justify">Hör' auf! Hör' auf!</p>
+               <p rend="justify">
+                  <hi rend="italic">Harald</hi>:</p>
+               <lg>
+                  <l>– – – ihrer Glieder geschmeidige Pracht,</l>
+                  <l>Einmal noch drängt sich</l>
+                  <l>in heißester Sehnsucht</l>
+                  <l>an mich ihr Leib mit zärtlicher Macht –</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>  (rasend):</p>
+               <p rend="justify">Henker! Henker!<lb/>Schnell! Tu' dein Amt!</p>
+               <p rend="justify">
+                  <hi rend="italic">Harald</hi>
+               </p>
+               <p rend="justify">(vom Henker und seinen Gehilfen rückwärts gerissen):</p>
+               <lg>
+                  <l>Ewig das Wort vor Augen dir steht</l>
+                  <l>in blutigem Schein –</l>
+                  <l>deine Schwester ist mein!</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>
+               </p>
+               <p rend="justify">(die der Szene mit glühender Anteilnahme gefolgt ist, springt mit einem jubelnden Aufschrei vor, die Gehilfen des Henkers weichen zurück. Sie reißt dem Henker das Schwert aus der Hand, wirft es zu Boden, setzt den Fuß darauf und blickt mit wildem Triumph den Kaiser an. Ein Ruck geht durch die Archonten und Generale, die sich nunmehr schon auf die Seite der Theophano schieben):</p>
+               <p rend="justify">Keines Henkers Schwert<lb/>soll ihn berühren!</p>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>:</p>
+               <p rend="justify">Theophano! Purpurgeborene!</p>
+               <p rend="justify">(Zu den anderen):</p>
+               <lg>
+                  <l>Nein – fort mit euch allen!</l>
+                  <l>Laßt uns allein!</l>
+                  <l>Was kümmert euch</l>
+                  <l>der Purpurgebornen Sache!</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>:</p>
+               <p rend="justify">Nein – bleibt alle hier!<lb/>Was hier geschieht, geht alle an!</p>
+               <p rend="justify">(an Haralds Halse):</p>
+               <p rend="justify">Einziger du, der meine Seele<lb/>trunken macht!</p>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>:</p>
+               <p rend="justify">Soll ich die Zwillingsschwester,<lb/>soll ich mein anderes Ich zerstören?</p>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>:</p>
+               <lg>
+                  <l>Dein <hi rend="italic">anderes</hi>  Ich!</l>
+                  <l>Begreifst du das nun?</l>
+                  <l>Ein <hi rend="italic">anderes</hi>  Ich ist deine Schwester!</l>
+                  <l>Heiße Sehnsucht wohnt in uns beiden,</l>
+                  <l>wandert durch unser Blut ohne Rast.</l>
+                  <l>Weiße Flamme ward sie in dir,</l>
+                  <l>die sich verehrend zum Himmel wendet.</l>
+                  <l>In rote Gluten bin ich getaucht!</l>
+                  <l>Der Erde Freuden begehr' ich mir!</l>
+                  <l>Nimm deinen Himmel,</l>
+                  <l>Laß uns das Leben!</l>
+                  <l>Laß uns das lebenbegehrende,</l>
+                  <l>jauchzende Kaiser-Byzanz!</l>
+               </lg>
+               <p rend="justify">(Jubelnder Zuruf der Archonten und Generale, die sich jetzt alle auf Seiten der Theophano schieben. Nur ein einziger Getreuer bleibt bei Alexios.)</p>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>:</p>
+               <p rend="justify">Laß euch die Sünde und das Verderben!<lb/>Führt sie zum Tode alle beide!</p>
+               <p rend="justify">
+                  <hi rend="italic">Theophano</hi>  (auflachend):</p>
+               <p rend="justify">Wer soll uns führen?</p>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>:</p>
+               <p rend="justify">Das Urteil ist gefällt!<lb/>Ist niemand hier, es zu vollstrecken?</p>
+               <p rend="justify">(Aufschreiend):</p>
+               <p rend="justify">  So muß ich selbst – – –</p>
+               <p rend="justify">(Alexios läuft die Stufen des Thrones herab, ergreift das am Boden liegende Schwert des Henkers und stürzt sich auf Harald. Alles schreit auf, nur Harald bleibt ruhig. Indem er Alexios furchtlos entgegensieht, hebt er ein wenig die gefesselten Hände. Da läßt Alexios das Schwert zu Boden fallen.)</p>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>:</p>
+               <p rend="justify">Nein, ich kann nicht,<lb/>ich darf nicht töten!</p>
+               <p rend="justify">(Alexios schreitet zu der Christusfigur am Thronsessel und wirft sich vor ihr nieder):</p>
+               <lg>
+                  <l>Herr Jesus Christ, sei bedankt,</l>
+                  <l>daß du das Schwert mir schlugst</l>
+                  <l>aus der Hand!</l>
+                  <l>Herr Jesus Christ, nun führe mich du</l>
+                  <l>auf deinem Weg zum Frieden!</l>
+               </lg>
+               <p rend="justify">(Auf einen Wink Theophanos tritt jetzt der Henker herzu und entfesselt Harald. Der reckt die Arme hoch empor und tut einen Schritt auf den noch immer knieenden Alexios zu. Von Theophanos Hand wird er zurückgehalten. Alexios erhebt sich. Indem er sich der Versammlung zuwendet, nimmt er von seiner Brust den Ölzweig, das Geschenk des Abbas. Sein Blick, der zuerst die Anwesenden umfaßte, scheint nun ins Weite, Leere gerichtet. Ganz entrückt, visionär):</p>
+               <lg>
+                  <l>Ich wollt' am Throne steh'n,</l>
+                  <l>als ein Diener Christ's des Herrn.</l>
+                  <l>Lächelnden Frieden wollt' ich führen</l>
+                  <l>Durch die schauernden Gassen der Stadt.</l>
+               </lg>
+               <p rend="justify">  Die Stadt will meinen Frieden nicht – – –<lb/>Die Schwester selbst ist wider mich.</p>
+               <p rend="justify">(Er läßt den Purpurmantel von den Schultern fallen und nimmt den Reifen von der Stirn):</p>
+               <p rend="justify">Nehmt zurück, was ihr mir brachtet,<lb/>dieser Welt Herr kann ich nicht sein!</p>
+               <p rend="justify">(Langsam schreitet Alexios die Stufen des Thrones herab, durch die schweigende Versammlung dem Tor im Hintergrunde zu.)</p>
+               <p rend="justify">
+                  <hi rend="italic">Ein Getreuer</hi>
+               </p>
+               <p rend="justify">(sich ihm in den Weg werfend):</p>
+               <lg>
+                  <l>Erhabener, geh' nicht hinaus,</l>
+                  <l>sie werden dich töten!</l>
+                  <l>Schone den jungen, geheiligten Leib!</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Alexios</hi>
+               </p>
+               <p rend="justify">(wehrt den Getreuen sanft ab und schreitet weiter, die Stufen hinauf zu dem großen Tor im Hintergrunde. Er stößt das große Tor auf. Man erblickt die tosende Volksmenge, deren Gebrüll beim Anblick des Kaisers mächtig anschwillt. Furchtlos steht Alexios da, bis das Geschrei schwächer wird und endlich nach Aufheben seiner Hände ganz verstummt. Da schreitet der Kaiser in die lautlose Menge hinein, die ihm unwillkürlich eine Gasse bildet. Wieder wächst das Gemurmel des Volkes. Plötzlich ertönt ein einzelner furchtbarer Aufschrei. Darauf Totenstille. Der Getreue, der dem Kaiser von der Höhe der Treppe nachgespäht hat, dreht sich um und erdolcht sich. Theophano ergreift Haralds Hand und schreitet mit ihm, hocherhobenen Hauptes, dem Thronsessel zu. Während sie sich mit Stirnreif und Purpurmantel bekleidet, fallen alle huldigend auf die Knie, erheben sich dann und brechen in den größten Jubel aus.)</p>
+               <p rend="justify">
+                  <hi rend="italic">Ende</hi>.</p>
+               <p rend="justify">Ornament</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

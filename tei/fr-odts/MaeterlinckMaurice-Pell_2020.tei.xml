@@ -1,0 +1,1400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pelléas et Mélisande: Drame lyrique en cinq actes / Tiré du théâtre de Maurice Maeterlinck; Musique de Claude Debussy</title>
+            <author>Maurice Maeterlinck</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-01T19:41:52Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">odts/fr-odts/MaeterlinckMaurice-Pell_2020.epub.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Maurice Maeterlinck</name>
+               <date>2024-01-01T19:41:52Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Pelléas et Mélisande: Drame lyrique en cinq actes / Tiré du théâtre de Maurice Maeterlinck; Musique de Claude Debussy</head>
+         <author>Maurice Maeterlinck</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">odts/fr-odts/MaeterlinckMaurice-Pell_2020.epub.odt</p>
+         <p>
+            <hi rend="bold">Nouvelle édition, modifiée conformément aux représentations de l'Opéra-Comique</hi>
+         </p>
+         <head>PELLÉAS<lb/>ET<lb/>MÉLISANDE</head>
+         <p>DRAME LYRIQUE EN CINQ ACTES<lb/>TIRÉ DU THÉÂTRE DE<lb/>MAURICE MAETERLINCK</p>
+         <p>MUSIQUE DE<lb/>CLAUDE DEBUSSY</p>
+         <p>BRUXELLES<lb/>Paul LACOMBLEZ, Éditeur<lb/>31, RUE DES PAROISSIENS, 31</p>
+         <p>1907</p>
+         <p>Dépôt pour Paris: CALMANN-LÉVY, 3, rue Auber.</p>
+         <pb/>
+         <div type="div1">
+            <head>Pelléas et Mélisande: Drame lyrique en cinq actes / Tiré du théâtre de Maurice Maeterlinck; Musique de Claude Debussy</head>
+            <pb/>
+            <div type="div2">
+               <head>DU MÊME AUTEUR:</head>
+               <p rend="justify">Serres chaudes suivies de quinze chansons. Un volume in-18 jésus</p>
+               <p rend="justify">3.00</p>
+               <p rend="justify">L'Ornement des Noces Spirituelles de <hi rend="italic">Ruysbroeck l'admirable</hi>, traduit du flamand et accompagné d'une Introduction. Un volume in-16, sur papier à la main</p>
+               <p rend="justify">5.00</p>
+               <p rend="justify">Les Disciples à Saïs et les Fragments de <hi rend="italic">Novalis</hi>, traduits de l'allemand et précédés d'une Introduction. Un volume in-18 jésus</p>
+               <p rend="justify">4.00</p>
+               <p rend="justify">Les Sept Princesses, drame. Un petit volume in-18 jésus</p>
+               <p rend="justify">2.00</p>
+               <p rend="justify">Le Temple enseveli. Un volume in-18 jésus</p>
+               <p rend="justify">3.50</p>
+               <p rend="justify">Le Trésor des Humbles. Un volume in 18 jésus</p>
+               <p rend="justify">3.50</p>
+               <p rend="justify">La Sagesse et la Destinée. Un volume in 18 jésus</p>
+               <p rend="justify">3.50</p>
+               <p rend="justify">La Vie des Abeilles. Un volume in-18 jésus</p>
+               <p rend="justify">3.50</p>
+               <p rend="justify">Théâtre Tome I: <hi rend="italic">La Princesse Maleine.</hi>—<hi rend="italic">L'Intruse.</hi>—<hi rend="italic">Les Aveugles</hi>
+               </p>
+               <p rend="justify">3.50</p>
+               <p rend="justify">Théâtre Tome II: <hi rend="italic">Pelléas et Mélisande.</hi>—<hi rend="italic">Alladine et Palomides.</hi>—<hi rend="italic">Intérieur.</hi>—<hi rend="italic">La mort de Tintagiles</hi>
+               </p>
+               <p rend="justify">3.50</p>
+               <p rend="justify">Théâtre Tome III: <hi rend="italic">Aglavaine et Sélysette.</hi>—<hi rend="italic">Ariane et Barbe-bleue.</hi>—<hi rend="italic">Sœur Béatrice</hi>
+               </p>
+               <p rend="justify">3.50</p>
+               <p rend="justify">CHEZ LE MÊME ÉDITEUR:</p>
+               <p rend="justify">Sept Essais d'Emerson, traduits par I. Will, avec une préface de <hi rend="italic">Maurice Maeterlinck</hi>. Un volume in-18 jésus</p>
+               <p rend="justify">3.50</p>
+               <p rend="justify">
+                  <hi rend="bold">Pelléas et Mélisande</hi>
+               </p>
+               <p rend="justify">DRAME LYRIQUE</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>PERSONNAGES.</head>
+               <list rend="bulleted">
+                  <item>ARKEL, roi d'Allemonde.</item>
+                  <item>GENEVIÈVE, mère de Pelléas et de Golaud.</item>
+                  <item>PELLÉAS, GOLAUD, petits-fils d'Arkël.</item>
+                  <item>MÉLISANDE.</item>
+                  <item>Le petit YNIOLD, fils de Golaud (d'un premier lit).</item>
+                  <item>Un médecin.</item>
+                  <item>Servantes, pauvres, etc.</item>
+               </list>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>ACTE I</head>
+               <div type="div3">
+                  <head>SCÈNE I</head>
+                  <p rend="justify">
+                     <hi rend="bold">Une forêt.</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="italic">On découvre Mélisande au bord d'une fontaine.—Entre Golaud.</hi>
+                  </p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Je ne pourrai plus sortir de cette forêt.—Dieu sait jusqu'où cette bête m'a mené. Je croyais cependant l'avoir blessée à mort; et voici des traces de sang. Mais maintenant, je l'ai perdue de vue; je crois que je me suis perdu moi-même—et mes chiens ne me retrouvent plus—je vais revenir sur mes pas…—J'entends pleurer… Oh! oh! qu'y a-t-il là au bord de l'eau?… Une petite fille qui pleure au bord de l'eau? <hi rend="italic">Il tousse.</hi>—Elle ne m'entend pas. Je ne vois pas son visage. <hi rend="italic">Il s'approche et touche Mélisande à l'épaule.</hi>  Pourquoi pleures-tu? <hi rend="italic">Mélisande tressaille, se dresse et veut fuir.</hi>—N'ayez pas peur. Vous n'avez rien à craindre. Pourquoi pleurez-vous ici toute seule?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Ne me touchez pas! ne me touchez pas!</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">N'ayez pas peur… Je ne vous ferai pas… Oh! vous êtes belle!</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Ne me touchez pas! Ne me touchez pas! ou je me jette à l'eau!…</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Je ne vous touche pas… Voyez, je resterai ici, contre l'arbre. N'ayez pas peur. Quelqu'un vous a-t-il fait du mal?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Oh! oui! oui, oui!…</p>
+                  <p rend="justify">
+                     <hi rend="italic">Elle sanglote profondément.</hi>
+                  </p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Qui est-ce qui vous a fait du mal?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Tous! tous!</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Quel mal vous a-t-on fait?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Je ne veux pas le dire! je ne peux pas le dire!…</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Voyons; ne pleurez pas ainsi. D'où venez-vous?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Je me suis enfuie!… enfuie… enfuie!</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Oui; mais d'où vous êtes-vous enfuie?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Je suis perdue!… perdue ici… Je ne suis pas d'ici… Je ne suis pas née là…</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">D'où êtes-vous? Où êtes-vous née?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Oh! oh! loin d'ici… loin… loin…</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Qu'est-ce qui brille ainsi au fond de l'eau?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Où donc—Ah! c'est la couronne qu'il m'a donnée. Elle est tombée en pleurant.</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Une couronne?—Qui est-ce qui vous a donné une couronne?—Je vais essayer de la prendre…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Non, non; je n'en veux plus! Je n'en veux plus! Je préfère mourir tout de suite…</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Je pourrais la retirer facilement. L'eau n'est pas très profonde.</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Je n'en veux plus! Si vous la retirez, je me jette à sa place!…</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Non, non; je la laisserai là; on pourrait la prendre sans peine cependant. Elle semble très belle.—Y a-t-il longtemps que vous avez fui?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Oui, oui… qui êtes-vous?</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Je suis le prince Golaud—le petit-fils d'Arkël, le vieux roi d'Allemonde…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Oh! vous avez déjà les cheveux gris…</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Oui; quelques-uns, ici, près des tempes…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Et la barbe aussi… Pourquoi me regardez-vous ainsi?</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Je regarde vos yeux.—Vous ne fermez jamais les yeux?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Si, si; je les ferme la nuit…</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Pourquoi avez-vous l'air si étonné?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Vous êtes un géant?</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Je suis un homme comme les autres…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Pourquoi êtes-vous venu ici?</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Je n'en sais rien moi-même. Je chassais dans la forêt. Je poursuivais un sanglier. Je me suis trompé de chemin.—Vous avez l'air très jeune. Quel âge avez-vous?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Je commence à avoir froid…</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Voulez-vous venir avec moi?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Non, non; je reste ici…</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Vous ne pouvez pas rester seule. Vous ne pouvez pas rester ici toute la nuit… Comment vous nommez-vous?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Mélisande.</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Vous ne pouvez pas rester ici, Mélisande. Venez avec moi…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Je reste ici…</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Vous aurez peur, toute seule. On ne sait pas ce qu'il y a ici… Toute la nuit… Toute seule, ce n'est pas possible. Mélisande, venez, donnez-moi la main…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Oh! ne me touchez pas!…</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Ne criez pas… Je ne vous toucherai plus. Mais venez avec moi. La nuit sera très noire et très froide. Venez avec moi…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Où allez-vous?</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Je ne sais pas… Je suis perdu aussi…</p>
+                  <p rend="justify">
+                     <hi rend="italic">Ils sortent.</hi>
+                  </p>
+               </div>
+               <div type="div3">
+                  <head>SCÈNE II</head>
+                  <p rend="justify">
+                     <hi rend="bold">Une salle dans le château.</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="italic">On découvre Arkël et Geneviève.</hi>
+                  </p>
+                  <p rend="justify">GENEVIÈVE.</p>
+                  <p rend="justify">Voici ce qu'il écrit à son frère Pelléas: «Un soir, je l'ai trouvée tout en pleurs au bord d'une fontaine, dans la forêt où je m'étais perdu. Je ne sais ni son âge, ni qui elle est, ni d'où elle vient et je n'ose pas l'interroger, car elle doit avoir eu une grande épouvante, et quand on lui demande ce qui lui est arrivé, elle pleure tout à coup comme un enfant et sanglote si profondément qu'on a peur. Il y a maintenant six mois que je l'ai épousée et je n'en sais pas plus qu'au jour de notre rencontre. En attendant, mon cher Pelléas, toi que j'aime plus qu'un frère, bien que nous ne soyons pas nés du même père; en attendant, prépare mon retour… Je sais que ma mère me pardonnera volontiers. Mais j'ai peur d'Arkël, malgré toute sa bonté, car j'ai déçu, par ce mariage étrange, tous ses projets politiques, et je crains que la beauté de Mélisande n'excuse pas à ses yeux, si sages, ma folie. S'il consent néanmoins à l'accueillir comme il accueillerait sa propre fille, le troisième soir qui suivra cette lettre, allume une lampe au sommet de la tour qui regarde la mer. Je l'apercevrai du pont de notre navire; sinon, j'irai plus loin et ne reviendrai plus…» Qu'en dites-vous!</p>
+                  <p rend="justify">ARKEL.</p>
+                  <p rend="justify">Je n'en dis rien. Cela peut nous paraître étrange, parce que nous ne voyons jamais que l'envers des destinées… Il avait toujours suivi mes conseils jusqu'ici; j'avais cru le rendre heureux en l'envoyant demander la main de la princesse Ursule… Il ne pouvait pas rester seul, et depuis la mort de sa femme il était triste d'être seul; et ce mariage allait mettre fin à de longues guerres et à de vieilles haines… Il ne l'a pas voulu ainsi. Qu'il en soit comme il a voulu: je ne me suis jamais mis en travers d'une destinée: il sait mieux que moi son avenir. Il n'arrive peut-être pas d'événements inutiles…</p>
+                  <p rend="justify">GENEVIÈVE.</p>
+                  <p rend="justify">Il a toujours été prudent, si grave et si ferme… Depuis la mort de sa femme il ne vivait plus que pour son fils, le petit Yniold. Il a tout oublié…—Qu'allons-nous faire?</p>
+                  <p rend="justify">
+                     <hi rend="italic">Entre Pelléas.</hi>
+                  </p>
+                  <p rend="justify">ARKEL.</p>
+                  <p rend="justify">Qui est-ce qui entre là?</p>
+                  <p rend="justify">GENEVIÈVE.</p>
+                  <p rend="justify">C'est Pelléas. Il a pleuré.</p>
+                  <p rend="justify">ARKEL.</p>
+                  <p rend="justify">Est-ce toi Pelléas?—Viens un peu plus près, que je te voie dans la lumière.</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Grand-père, j'ai reçu, en même temps que la lettre de mon frère, une autre lettre; une lettre de mon ami Marcellus… Il va mourir et il m'appelle.</p>
+                  <p rend="justify">Il dit qu'il sait exactement le jour où la mort doit venir… Il me dit que je puis arriver avant elle si je veux, mais qu'il n'y a pas de temps à perdre.</p>
+                  <p rend="justify">ARKEL.</p>
+                  <p rend="justify">Il faudrait attendre quelque temps cependant… Nous ne savons pas ce que le retour de ton frère nous prépare. Et d'ailleurs ton père n'est-il pas ici, au-dessus de nous, plus malade peut-être que ton ami… Pourras-tu choisir entre le père et l'ami?…</p>
+                  <p rend="justify">
+                     <hi rend="italic">Il sort.</hi>
+                  </p>
+                  <p rend="justify">GENEVIÈVE.</p>
+                  <p rend="justify">Aie soin d'allumer la lampe dès ce soir, Pelléas…</p>
+                  <p rend="justify">
+                     <hi rend="italic">Ils sortent séparément.</hi>
+                  </p>
+               </div>
+               <div type="div3">
+                  <head>SCÈNE III</head>
+                  <p rend="justify">
+                     <hi rend="bold">Devant le château.</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="italic">Entrent Geneviève et Mélisande.</hi>
+                  </p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Il fait sombre dans les jardins. Et quelles forêts, quelles forêts autour des palais!…</p>
+                  <p rend="justify">GENEVIÈVE.</p>
+                  <p rend="justify">Oui; cela m'étonnait aussi quand je suis arrivée ici, et cela étonne tout le monde. Il y a des endroits où l'on ne voit jamais le soleil. Mais l'on s'y fait si vite… Il y a longtemps, il y a longtemps… Il y a près de quarante ans que je vis ici… Regardez de l'autre côté, vous aurez la clarté de la mer…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">J'entends du bruit au-dessous de nous…</p>
+                  <p rend="justify">GENEVIÈVE.</p>
+                  <p rend="justify">Oui; c'est quelqu'un qui monte vers nous… Ah! C'est Pelléas… Il semble encore fatigué de vous avoir attendue si longtemps…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Il ne nous a pas vues.</p>
+                  <p rend="justify">GENEVIÈVE.</p>
+                  <p rend="justify">Je crois qu'il nous a vues, mais il ne sait ce qu'il doit faire… Pelléas, Pelléas, est-ce toi?</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Oui!… Je venais du côté de la mer…</p>
+                  <p rend="justify">GENEVIÈVE.</p>
+                  <p rend="justify">Nous aussi; nous cherchions la clarté. Ici, il fait un peu plus clair qu'ailleurs! et cependant la mer est sombre.</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Nous aurons une tempête cette nuit; il y en a toutes les nuits depuis quelque temps… et cependant elle est si calme ce soir… On s'embarquerait sans le savoir et l'on ne reviendrait plus.</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Quelque chose sort du port…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Il faut que ce soit un grand navire… Les lumières sont très hautes, nous le verrons tout à l'heure quand il entrera dans la bande de clarté…</p>
+                  <p rend="justify">GENEVIÈVE.</p>
+                  <p rend="justify">Je ne sais si nous pourrons le voir… il y a encore une brume sur la mer…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">On dirait que la brume s'élève lentement…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Oui; j'aperçois, là-bas, une petite lumière que je n'avais pas vue…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">C'est un phare; il y en a d'autres que nous ne voyons pas encore.</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Le navire est dans la lumière… Il est déjà bien loin…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Il s'éloigne à toutes voiles…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">C'est le navire qui m'a menée ici. Il a de grandes voiles… Je le reconnais à ses voiles…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Il aura mauvaise mer cette nuit…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Pourquoi s'en va-t-il cette nuit?… On ne le voit presque plus… Il fera peut-être naufrage…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">La nuit tombe très vite…</p>
+                  <p rend="justify">
+                     <hi rend="italic">Un silence.</hi>
+                  </p>
+                  <p rend="justify">GENEVIÈVE.</p>
+                  <p rend="justify">Il est temps de rentrer. Pelléas, montre la route à Mélisande. Il faut que j'aille voir, un instant, le petit Yniold.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Elle sort.</hi>
+                  </p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">On ne voit plus rien sur la mer…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Je vois d'autres lumières.</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Ce sont les autres phares… Entendez-vous la mer?… C'est le vent qui s'élève… Descendons par ici. Voulez-vous me donner la main?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Voyez, voyez, j'ai les mains pleines de fleurs.</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Je vous soutiendrai par le bras, le chemin est escarpé et il y fait très sombre… Je pars peut-être demain…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Oh!… Pourquoi partez-vous?</p>
+                  <p rend="justify">
+                     <hi rend="italic">Ils sortent.</hi>
+                  </p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>ACTE II</head>
+               <div type="div3">
+                  <head>SCÈNE I</head>
+                  <p rend="justify">
+                     <hi rend="bold">Une fontaine dans le parc.</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="italic">Entrent Pelléas et Mélisande.</hi>
+                  </p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Vous ne savez pas où je vous ai menée?—Je viens souvent m'asseoir ici, vers midi, lorsqu'il fait trop chaud dans les jardins. On étouffe, aujourd'hui, même à l'ombre des arbres.</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Oh! L'eau est claire…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Elle est fraîche comme l'hiver. C'est une vieille fontaine abandonnée. Il paraît que c'était une fontaine miraculeuse,—elle ouvrait les yeux des aveugles.—On l'appelle encore la «fontaine des aveugles».</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Elle n'ouvre plus les yeux des aveugles?</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Depuis que le roi est presque aveugle lui-même, on n'y vient plus…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Comme on est seul ici… On n'entend rien.</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Il y a toujours un silence extraordinaire… On entendrait dormir l'eau… Voulez-vous vous asseoir au bord du bassin de marbre? Il y a un tilleul où le soleil n'entre jamais…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Je vais me coucher sur le marbre.—Je voudrais voir le fond de l'eau…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">On ne l'a jamais vu.—Elle est peut-être aussi profonde que la mer.</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Si quelque chose brillait au fond, on le verrait peut-être…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Ne vous penchez pas ainsi…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Je voudrais toucher l'eau…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Prenez garde de glisser… Je vais vous tenir la main…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Non, non, je voudrais y plonger mes deux mains… On dirait que mes mains sont malades aujourd'hui…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Oh! oh! prenez garde! prenez garde! Mélisande!… Mélisande!—Oh! votre chevelure!…</p>
+                  <p rend="justify">MÉLISANDE, <hi rend="italic">se redressant.</hi>
+                  </p>
+                  <p rend="justify">Je ne peux pas, je ne peux pas l'atteindre.</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Vos cheveux ont plongé dans l'eau…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Oui, ils sont plus longs que mes bras… Ils sont plus longs que moi…</p>
+                  <p rend="justify">
+                     <hi rend="italic">Un silence.</hi>
+                  </p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">C'est au bord d'une fontaine aussi, qu'il vous a trouvée?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Oui…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Que vous a-t-il dit?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Rien;—je ne me rappelle plus…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Était-il tout près de vous?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Oui, il voulait m'embrasser…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Et vous ne vouliez pas?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Non.</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Pourquoi ne vouliez-vous pas?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Oh! oh! j'ai vu passer quelque chose au fond de l'eau…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Prenez garde! prenez garde!—Vous allez tomber!—Avec quoi jouez-vous?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Avec l'anneau qu'il m'a donné…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Ne jouez pas ainsi, au-dessus d'une eau si profonde…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Mes mains ne tremblent pas.</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Comme il brille au soleil!—Ne le jetez pas si haut vers le ciel!…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Oh!…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Il est tombé?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Il est tombé dans l'eau!…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Où est-il? Où est-il?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Je ne le vois pas descendre…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Je crois que je la vois briller…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Ma bague?</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Oui, oui,… Là-bas…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Oh! Oh! elle est si loin de nous!… non, non, ce n'est pas elle… ce n'est plus elle… Elle est perdue… perdue… Il n'y a plus qu'un grand cercle sur l'eau… Qu'allons-nous faire maintenant?…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Il ne faut pas s'inquiéter ainsi pour une bague. Ce n'est rien… nous la retrouverons peut-être. Ou bien nous en retrouverons une autre.</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Non, non, nous ne la retrouverons plus, nous n'en trouverons pas d'autres non plus… Je croyais l'avoir dans les mains cependant… J'avais déjà fermé les mains, et elle est tombée malgré tout… Je l'ai jetée trop haut, du côté du soleil…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Venez, nous reviendrons un autre jour… venez, il est temps. On irait à notre rencontre… Midi sonnait au moment où l'anneau est tombé…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Qu'allons-nous dire à Golaud s'il demande où il est?</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">La vérité, la vérité, la vérité…</p>
+                  <p rend="justify">
+                     <hi rend="italic">Ils sortent.</hi>
+                  </p>
+               </div>
+               <div type="div3">
+                  <head>SCÈNE II</head>
+                  <p rend="justify">
+                     <hi rend="bold">Un appartement dans le château.</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="italic">On découvre Golaud étendu sur son lit; Mélisande est à son chevet.</hi>
+                  </p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Ah! ah! tout va bien, cela ne sera rien. Mais je ne puis m'expliquer comment cela s'est passé. Je chassais tranquillement dans la forêt. Mon cheval s'est emporté tout à coup, sans raison. A-t-il vu quelque chose d'extraordinaire?… Je venais d'entendre sonner les douze coups de midi. Au douzième coup, il s'effraie subitement, et court, comme un aveugle fou, contre un arbre. Je ne sais plus ce qui est arrivé. Je suis tombé, et lui doit être tombé sur moi. Je croyais avoir toute la forêt sur la poitrine; je croyais que mon cœur était déchiré. Mais mon cœur est solide. Il paraît que ce n'est rien…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Voulez-vous boire un peu d'eau?</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Merci, je n'ai pas soif.</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Voulez-vous un autre oreiller?… Il y a une petite tache de sang sur celui-ci.</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Non, non; ce n'est pas la peine.</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Est-ce bien sûr?… Vous ne souffrez pas trop?</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Non, non, j'en ai vu bien d'autres. Je suis fait au fer et au sang…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Fermez les yeux et tâchez de dormir. Je resterai ici toute la nuit…</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Non, non; je ne veux pas que tu te fatigues ainsi. Je n'ai besoin de rien; je dormirai comme un enfant… Qu'y a-t-il, Mélisande? Pourquoi pleures-tu tout à coup?…</p>
+                  <p rend="justify">MÉLISANDE, <hi rend="italic">fondant en larmes</hi>.</p>
+                  <p rend="justify">Je suis… Je suis malade ici…</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Tu es malade?… Qu'as-tu donc, qu'as-tu donc, Mélisande?…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Je ne sais pas… Je suis malade ici… Je préfère vous le dire aujourd'hui; seigneur, je ne suis pas heureuse ici…</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Qu'est-il donc arrivé?… Quelqu'un t'a fait du mal?… Quelqu'un t'aurait-il offensée?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Non, non; personne ne m'a fait le moindre mal… Ce n'est pas cela…</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Mais tu dois me cacher quelque chose?… Dis-moi toute la vérité, Mélisande… Est-ce le roi?… Est-ce ma mère?… Est-ce Pelléas?…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Non, non; ce n'est pas Pelléas. Ce n'est personne… Vous ne pouvez pas me comprendre… C'est quelque chose qui est plus fort que moi…</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Voyons; sois raisonnable, Mélisande.—Que veux-tu que je fasse?—Tu n'es plus une enfant.—Est-ce moi que tu voudrais quitter?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Oh! non; ce n'est pas cela… Je voudrais m'en aller avec vous… C'est ici, que je ne peux plus vivre… Je sens que je ne vivrai plus longtemps…</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Mais il faut une raison cependant. On va te croire folle. On va croire à des rêves d'enfant.—Voyons, est-ce Pelléas, peut-être?—Je crois qu'il ne te parle pas souvent…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Si, si; il me parle parfois. Il ne m'aime pas, je crois; je l'ai vu dans ses yeux… Mais il me parle quand il me rencontre…</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Il ne faut pas lui en vouloir. Il a toujours été ainsi. Il est un peu étrange. Il changera, tu verras; il est jeune…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Mais ce n'est pas cela… Ce n'est pas cela…</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Qu'est-ce donc?—Ne peux-tu pas te faire à la vie qu'on mène ici? Fait-il trop triste ici?—Il est vrai que ce château est très vieux et très sombre… Il est très froid et très profond. Et tous ceux qui l'habitent sont déjà vieux. Et la campagne peut sembler bien triste aussi, avec toutes ses forêts, toutes ses vieilles forêts sans lumière. Mais on peut égayer tout cela si l'on veut. Et puis, la joie, la joie, on n'en a pas tous les jours; il faut prendre les choses comme elles sont. Mais dis-moi quelque chose; n'importe quoi; je ferai tout ce que tu voudras…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Oui, c'est vrai… On ne voit jamais le ciel clair… Je l'ai vu pour la première fois ce matin…</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">C'est donc cela qui te fait pleurer, ma pauvre Mélisande?—Ce n'est donc que cela?—Tu pleures de ne pas voir le ciel?—Voyons, tu n'es plus à l'âge où l'on peut pleurer pour ces choses… Et puis l'été n'est-il pas là? Tu vas voir le ciel tous les jours.—Et puis l'année prochaine… Voyons, donne-moi ta main; donne-moi tes deux petites mains. <hi rend="italic">Il lui prend les mains.</hi>  Oh! ces petites mains que je pourrais écraser comme des fleurs…—Tiens, où est l'anneau que je t'avais donné?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">L'anneau?</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Oui; la bague de nos noces, où est-elle?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Je crois… Je crois qu'elle est tombée…</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Tombée?—Où est-elle tombée?…—Tu ne l'as pas perdue?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Non, elle est tombée… elle doit être tombée… Mais je ne sais pas où elle est…</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Où est-elle?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Vous savez bien… vous savez bien… la grotte au bord de la mer?</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Oui.</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Eh bien, c'est là… Il faut que ce soit là… Oui, oui; je me rappelle… J'y suis allée ce matin, ramasser des coquillages pour le petit Yniold… Il y en a de très beaux… Elle a glissé de mon doigt… puis la mer est entrée; et j'ai dû sortir avant de l'avoir retrouvée.</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Es-tu sûre que ce soit là?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Oui, oui; tout à fait sûre… Je l'ai sentie glisser…</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Il faut aller la chercher tout de suite.</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Maintenant?—tout de suite?—dans l'obscurité?</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Maintenant, tout de suite, dans l'obscurité. J'aimerais mieux avoir perdu tout ce que j'ai plutôt que d'avoir perdu cette bague. Tu ne sais pas ce que c'est. Tu ne sais pas d'où elle vient. La mer sera très haute cette nuit. La mer viendra la prendre avant toi… Dépêche-toi.</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Je n'ose pas… Je n'ose pas aller seule…</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Vas-y, vas-y avec n'importe qui. Mais il faut y aller tout de suite, entends-tu?—Dépêche-toi; demande à Pelléas d'y aller avec toi.</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Pelléas?—Avec Pelléas?—Mais Pelléas ne voudra pas…</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Pelléas fera tout ce que tu lui demandes. Je connais Pelléas mieux que toi. Vas-y, hâte-toi. Je ne dormirai pas avant d'avoir la bague.</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Oh! oh! Je ne suis pas heureuse!… Je ne suis pas heureuse!</p>
+                  <p rend="justify">
+                     <hi rend="italic">Elle sort en pleurant.</hi>
+                  </p>
+               </div>
+               <div type="div3">
+                  <head>SCÈNE III</head>
+                  <p rend="justify">
+                     <hi rend="bold">Devant une grotte.</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="italic">Entrent Pelléas et Mélisande.</hi>
+                  </p>
+                  <p rend="justify">PELLÉAS, <hi rend="italic">parlant avec une grande agitation.</hi>
+                  </p>
+                  <p rend="justify">Oui; c'est ici, nous y sommes. Il fait si noir que l'entrée de la grotte ne se distingue pas du reste de la nuit… Il n'y a pas d'étoiles de ce côté. Attendons que la lune ait déchiré ce grand nuage; elle éclairera toute la grotte et alors nous pourrons entrer sans danger. Il y a des endroits dangereux et le sentier est très étroit, entre deux lacs dont on n'a pas encore trouvé le fond. Je n'ai pas songé à emporter une torche ou une lanterne, mais je pense que la clarté du ciel nous suffira.—Vous n'avez jamais pénétré dans cette grotte?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Non…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Entrons-y… Il faut pouvoir décrire l'endroit où vous avez perdu la bague, s'il vous interroge… Elle est très grande et très belle. Elle est pleine de ténèbres bleues. Quand on y allume une petite lumière, on dirait que la voûte est couverte d'étoiles, comme le ciel. Donnez-moi la main, ne tremblez pas, ne tremblez pas ainsi. Il n'y a pas de danger: nous nous arrêterons au moment que nous n'apercevrons plus la clarté de la mer… Est-ce le bruit de la grotte qui vous effraie? Entendez-vous la mer derrière nous?—Elle ne semble pas heureuse cette nuit… Ah! Voici la clarté!</p>
+                  <p rend="justify">
+                     <hi rend="italic">La lune éclaire largement l'entrée et une partie des ténèbres de la grotte; et l'on aperçoit, à une certaine profondeur, trois vieux pauvres à cheveux blancs, assis côte à côte, se soutenant les uns les autres, et endormis contre un quartier de roc.</hi>
+                  </p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Ah!</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Qu'y a-t-il?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Il y a… Il y a…</p>
+                  <p rend="justify">
+                     <hi rend="italic">Elle montre les trois pauvres.</hi>
+                  </p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Oui, oui; je les ai vus aussi…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Allons-nous en!… Allons-nous en!…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Ce sont trois vieux pauvres qui se sont endormis… Pourquoi sont-ils venus dormir ici?… Il y aura une famine dans le pays.</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Allons-nous en!… Venez… Allons-nous en!…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Prenez garde, ne parlez pas si fort… Ne les éveillons pas… Ils dorment encore profondément… Venez.</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Laissez-moi; je préfère marcher seule…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Nous reviendrons un autre jour…</p>
+                  <p rend="justify">
+                     <hi rend="italic">Ils sortent.</hi>
+                  </p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>ACTE III</head>
+               <div type="div3">
+                  <head>SCÈNE I</head>
+                  <p rend="justify">
+                     <hi rend="bold">Une des tours du château.—Un chemin de ronde passe sous une fenêtre de la tour.</hi>
+                  </p>
+                  <p rend="justify">MÉLISANDE, <hi rend="italic">à la fenêtre, tandis qu'elle peigne ses cheveux dénoués.</hi>
+                  </p>
+                  <p rend="justify">Mes longs cheveux descendent jusqu'au seuil de la tour!</p>
+                  <p rend="justify">Mes cheveux vous attendent tout le long de la tour!</p>
+                  <p rend="justify">Et tout le long du jour!</p>
+                  <p rend="justify">Et tout le long du jour!</p>
+                  <p rend="justify">Saint Daniel et saint Michel,</p>
+                  <p rend="justify">Saint Michel et saint Raphaël,</p>
+                  <p rend="justify">Je suis née un Dimanche!</p>
+                  <p rend="justify">Un Dimanche à midi!</p>
+                  <p rend="justify">
+                     <hi rend="italic">Entre Pelléas par le chemin de ronde.</hi>
+                  </p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Holà! Holà! ho!</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Qui est là?</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Moi, moi, et moi!… Que fais-tu là à la fenêtre en chantant comme un oiseau qui n'est pas d'ici?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">J'arrange mes cheveux pour la nuit…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">C'est là ce que je vois sur le mur!… Je croyais que c'était un rayon de lumière…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">J'ai ouvert la fenêtre. Il fait trop chaud dans la tour, il fait beau cette nuit.</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Il y a d'innombrables étoiles; je n'en ai jamais vu autant que ce soir;… mais la lune est encore sur la mer… Ne reste pas dans l'ombre, Mélisande, penche-toi un peu, que je voie tes cheveux dénoués.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Mélisande se penche à la fenêtre.</hi>
+                  </p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Je suis affreuse ainsi.</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Oh! Mélisande!… oh! tu es belle!… tu es belle ainsi!… penche-toi! penche-toi!… laisse-moi venir plus près de toi…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Je ne puis pas venir plus près de toi… Je me penche tant que je peux…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Je ne puis pas monter plus haut… donne-moi du moins ta main ce soir… avant que je m'en aille… Je pars demain…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Non, non, non…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Si, si; je pars, je partirai demain… donne-moi ta main, ta main, ta petite main sur mes lèvres…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Je ne te donne pas ma main si tu pars…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Donne, donne, donne…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Tu ne partiras pas?…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">J'attendrai, j'attendrai.</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Je vois une rose dans les ténèbres…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Où donc?… Je ne vois que les branches du saule qui dépassent le mur…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Plus bas, plus bas, dans le jardin; là-bas, dans le vert sombre.</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Ce n'est pas une rose… J'irai voir tout à l'heure, mais donne-moi ta main d'abord; d'abord ta main…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Voilà, voilà;… Je ne puis me pencher davantage…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Mes lèvres ne peuvent pas atteindre ta main…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Je ne puis me pencher davantage… Je suis sur le point de tomber…—Oh! oh! mes cheveux descendent de la tour!…</p>
+                  <p rend="justify">
+                     <hi rend="italic">Sa chevelure se révulse tout à coup, tandis qu'elle se penche ainsi et inonde Pelléas.</hi>
+                  </p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Oh! oh! qu'est-ce que c'est?… Tes cheveux, tes cheveux descendent vers moi!… Toute ta chevelure, Mélisande, toute ta chevelure est tombée de la tour!… Je les tiens dans les mains, je les tiens dans la bouche… Je les tiens dans les bras, je les mets autour de mon cou… Je n'ouvrirai plus les mains cette nuit…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Laisse-moi! Laisse-moi!… Tu vas me faire tomber!…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Non, non, non;… Je n'ai jamais vu de cheveux comme les tiens, Mélisande!… Vois, vois, vois, ils viennent de si haut et ils m'inondent jusqu'au cœur… Ils m'inondent encore jusqu'aux genoux… Et ils sont doux, ils sont doux comme s'ils tombaient du ciel!… Je ne vois plus le ciel à travers tes cheveux. Tu vois, tu vois, mes mains ne peuvent plus les tenir… Il y en a jusque sur les branches du saule… Ils vivent comme des oiseaux dans mes mains… et ils m'aiment, ils m'aiment mille fois mieux que toi!</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Laisse-moi… laisse-moi… Quelqu'un pourrait venir…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Non, non, non; je ne te délivre pas cette nuit… Tu es ma prisonnière cette nuit; toute la nuit, toute la nuit…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Pelléas! Pelléas!</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Tu ne t'en iras plus… Je les noue, je les noue aux branches du saule, tes cheveux. Je ne souffre plus au milieu de tes cheveux. Tu entends mes baisers le long de tes cheveux? Ils montent le long de tes cheveux. Il faut que chacun t'en apporte. Tu vois, tu vois, je puis ouvrir les mains… Tu vois, j'ai les mains libres et tu ne peux plus m'abandonner…</p>
+                  <p rend="justify">
+                     <hi rend="italic">Des colombes sortent de la tour et volent autour d'eux dans la nuit.</hi>
+                  </p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Oh! oh! tu m'as fait mal!… Qu'y a-t-il, Pelléas?—Qu'est-ce qui vole autour de moi?</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Ce sont les colombes qui sortent de la tour… Je les ai effrayées; elles s'envolent.</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Ce sont mes colombes, Pelléas.—Allons-nous en, laisse-moi; elles ne reviendraient plus…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Pourquoi ne reviendraient-elles plus?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Elles se perdront dans l'obscurité… Laisse-moi relever la tête… J'entends un bruit de pas… Laisse-moi!—C'est Golaud!… Je crois que c'est Golaud!… Il nous a entendus…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Attends! Attends!… Tes cheveux sont autour des branches… Ils se sont accrochés dans l'obscurité. Attends! attends!… il fait noir…</p>
+                  <p rend="justify">
+                     <hi rend="italic">Entre Golaud par le chemin de ronde.</hi>
+                  </p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Que faites-vous ici?</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Ce que je fais ici?… Je…</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Vous êtes des enfants… Mélisande, ne te penche pas ainsi à la fenêtre, tu vas tomber… Vous ne savez pas qu'il est tard?—Il est près de minuit.—Ne jouez pas ainsi dans l'obscurité.—Vous êtes des enfants… <hi rend="italic">Riant nerveusement.</hi>  Quels enfants! Quels enfants!…</p>
+                  <p rend="justify">
+                     <hi rend="italic">Il sort avec Pelléas.</hi>
+                  </p>
+               </div>
+               <div type="div3">
+                  <head>SCÈNE II</head>
+                  <p rend="justify">
+                     <hi rend="bold">Les souterrains du château.</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="italic">Entrent Golaud et Pelléas.</hi>
+                  </p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Prenez garde; par ici, par ici.—Vous n'avez jamais pénétré dans ces souterrains?</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Si, une fois, dans le temps; mais il y a longtemps…</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Eh bien! Voici l'eau stagnante dont je vous parlais… Sentez-vous l'odeur de mort qui monte!—Allons jusqu'au bout de ce rocher qui surplombe et penchez-vous un peu. Elle viendra vous frapper au visage. Penchez-vous; n'ayez pas peur… Je vous tiendrai… donnez-moi… non, non, pas la main… elle pourrait glisser… le bras… Voyez-vous le gouffre?… Pelléas? Pelléas?…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Oui, je crois que je vois le fond du gouffre… Est-ce la lumière qui tremble ainsi?… Vous…</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Oui; c'est la lanterne… Voyez, je l'agitais pour éclairer les parois.</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">J'étouffe ici… Sortons.</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Oui, sortons…</p>
+                  <p rend="justify">
+                     <hi rend="italic">Ils sortent en silence.</hi>
+                  </p>
+               </div>
+               <div type="div3">
+                  <head>SCÈNE III</head>
+                  <p rend="justify">
+                     <hi rend="bold">Une terrasse au sortir des souterrains.</hi>
+                  </p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Ah! Je respire enfin! J'ai cru un instant que j'allais me trouver mal dans ces énormes grottes; j'ai été sur le point de tomber… Il y a là un air humide et lourd comme une rosée de plomb, et des ténèbres épaisses comme une pâte empoisonnée. Et maintenant tout l'air de toute la mer!… Il y a un vent frais, voyez; frais comme une feuille qui vient de s'ouvrir, sur les petites lames vertes. Tiens! On vient d'arroser les fleurs au bord de la terrasse et l'odeur de la verdure et des roses mouillées monte jusqu'ici… Il doit être près de midi, elles sont déjà dans l'ombre de la tour. Il est midi; j'entends sonner les cloches et les enfants descendent sur la plage pour se baigner.</p>
+                  <p rend="justify">Tiens, voilà notre mère et Mélisande à une fenêtre de la tour.</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Oui; elles se sont réfugiées du côté de l'ombre. A propos de Mélisande, j'ai entendu ce qui s'est passé et ce qui s'est dit hier au soir. Je le sais bien, ce sont là jeux d'enfants; mais il ne faut pas que cela se répète. Elle est très délicate et il faut qu'on la ménage, d'autant plus qu'elle sera peut-être bientôt mère et la moindre émotion pourrait amener un malheur. Ce n'est pas la première fois que je remarque qu'il pourrait y avoir quelque chose entre vous. Vous êtes plus âgé qu'elle; il suffira de vous l'avoir dit… Évitez-la autant que possible; mais sans affectation d'ailleurs; sans affectation.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Ils sortent.</hi>
+                  </p>
+               </div>
+               <div type="div3">
+                  <head>SCÈNE IV</head>
+                  <p rend="justify">
+                     <hi rend="bold">Devant le château.</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="italic">Entrent Golaud et le petit Yniold.</hi>
+                  </p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Viens, nous allons nous asseoir ici, Yniold; viens sur mes genoux: nous verrons d'ici ce qui se passe dans la forêt. Je ne te vois plus du tout depuis quelque temps. Tu m'abandonnes aussi; tu es toujours chez petite-mère… Tiens, nous sommes tout juste assis sous les fenêtres de petite-mère.—Elle fait peut-être sa prière du soir en ce moment… Mais dis-moi, Yniold, elle est souvent avec ton oncle Pelléas, n'est-ce pas?</p>
+                  <p rend="justify">YNIOLD.</p>
+                  <p rend="justify">Oui, oui; toujours, petit-père; quand vous n'êtes pas là.</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Ah! Tiens, quelqu'un passe avec une lanterne dans le jardin.—Mais on m'a dit qu'ils ne s'aimaient pas… Il paraît qu'ils se querellent souvent… non? Est-ce vrai?</p>
+                  <p rend="justify">YNIOLD.</p>
+                  <p rend="justify">Oui, c'est vrai.</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Oui?—Ah! ah!—Mais à propos de quoi se querellent-ils?</p>
+                  <p rend="justify">YNIOLD.</p>
+                  <p rend="justify">A propos de la porte.</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Comment? A propos de la porte?—Qu'est-ce que tu racontes là?—Mais voyons, explique-toi; pourquoi se querellent-ils à propos de la porte?</p>
+                  <p rend="justify">YNIOLD.</p>
+                  <p rend="justify">Parce qu'elle ne peut pas être ouverte.</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Qui ne veut pas qu'elle soit ouverte?—Voyons, pourquoi se querellent-ils?</p>
+                  <p rend="justify">YNIOLD.</p>
+                  <p rend="justify">Je ne sais pas, petit-père, à propos de la lumière.</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Je ne te parle pas de la lumière: je te parle de la porte… Ne mets pas ainsi la main dans la bouche… voyons…</p>
+                  <p rend="justify">YNIOLD.</p>
+                  <p rend="justify">Petit-père! petit-père!… Je ne le ferai plus…</p>
+                  <p rend="justify">
+                     <hi rend="italic">Il pleure.</hi>
+                  </p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Voyons; pourquoi pleures-tu? Qu'est-il arrivé?</p>
+                  <p rend="justify">YNIOLD.</p>
+                  <p rend="justify">Oh! oh! petit-père, vous m'avez fait mal…</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Je t'ai fait mal?—Où t'ai-je fait mal! C'est sans le vouloir…</p>
+                  <p rend="justify">YNIOLD.</p>
+                  <p rend="justify">Ici, à mon petit bras…</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">C'est sans le vouloir; voyons, ne pleure plus, je te donnerai quelque chose demain…</p>
+                  <p rend="justify">YNIOLD.</p>
+                  <p rend="justify">Quoi, petit-père?</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Un carquois et des flèches; mais dis-moi ce que tu sais de la porte.</p>
+                  <p rend="justify">YNIOLD.</p>
+                  <p rend="justify">De grandes flèches?</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Oui, de très grandes flèches.—Mais pourquoi ne veulent-ils pas que la porte soit ouverte?—Voyons, réponds-moi à la fin!—non, non; n'ouvre pas la bouche pour pleurer. Je ne suis pas fâché. De quoi parlent-ils quand ils sont ensemble?</p>
+                  <p rend="justify">YNIOLD.</p>
+                  <p rend="justify">Pelléas et petite-mère?</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Oui; de quoi parlent-ils?</p>
+                  <p rend="justify">YNIOLD.</p>
+                  <p rend="justify">De moi; toujours de moi.</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Et que disent-ils de toi?</p>
+                  <p rend="justify">YNIOLD.</p>
+                  <p rend="justify">Ils disent que je serai très grand.</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Ah! Misère de ma vie!… je suis ici comme un aveugle qui cherche son trésor au fond de l'océan!… Je suis ici comme un nouveau-né perdu dans la forêt et vous… Mais voyons, Yniold, j'étais distrait; nous allons causer sérieusement. Pelléas et petite-mère ne parlent-ils jamais de moi quand je ne suis pas là?</p>
+                  <p rend="justify">YNIOLD.</p>
+                  <p rend="justify">Si, si, petit-père.</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Ah!… Et que disent-ils de moi?</p>
+                  <p rend="justify">YNIOLD.</p>
+                  <p rend="justify">Ils disent que je deviendrai aussi grand que vous.</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Tu es toujours près d'eux?</p>
+                  <p rend="justify">YNIOLD.</p>
+                  <p rend="justify">Oui, oui; toujours, petit-père.</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Ils ne te disent jamais d'aller jouer ailleurs?</p>
+                  <p rend="justify">YNIOLD.</p>
+                  <p rend="justify">Non, petit-père; ils ont peur quand je ne suis pas là.</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Ils ont peur?… à quoi vois-tu qu'ils ont peur?</p>
+                  <p rend="justify">YNIOLD.</p>
+                  <p rend="justify">Ils pleurent toujours dans l'obscurité.</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Ah! ah!…</p>
+                  <p rend="justify">YNIOLD.</p>
+                  <p rend="justify">Cela fait pleurer aussi…</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Oui, oui…</p>
+                  <p rend="justify">YNIOLD.</p>
+                  <p rend="justify">Elle est pâle, petit-père!</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Ah! ah!… patience, mon Dieu, patience…</p>
+                  <p rend="justify">YNIOLD.</p>
+                  <p rend="justify">Quoi, petit-père?</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Rien, rien mon enfant.—J'ai vu passer un loup dans la forêt.—Ils s'embrassent quelquefois?—Non?</p>
+                  <p rend="justify">YNIOLD.</p>
+                  <p rend="justify">Ils s'embrassent, petit-père?—Non, non.—Ah! si, petit-père, si; une fois… une fois qu'il pleuvait…</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Ils se sont embrassés?—Mais comment, comment se sont-ils embrassés?—</p>
+                  <p rend="justify">YNIOLD.</p>
+                  <p rend="justify">Comme ça, petit-père, comme ça!… <hi rend="italic">Il lui donne un baiser sur la bouche; riant.</hi>  Ah! ah! votre barbe, petit-père!… Elle pique! elle pique! Elle devient toute grise, petit-père, et vos cheveux aussi; tout gris, tout gris… <hi rend="italic">La fenêtre sous laquelle ils sont assis s'éclaire en ce moment, et sa clarté vient tomber sur eux.</hi>  Ah! ah! petite-mère a allumé la lampe. Il fait clair, petit-père; il fait clair.</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Oui; il commence à faire clair…</p>
+                  <p rend="justify">YNIOLD.</p>
+                  <p rend="justify">Allons-y aussi, petit-père…</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Où veux-tu aller?</p>
+                  <p rend="justify">YNIOLD.</p>
+                  <p rend="justify">Où il fait clair, petit-père.</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Non, non, mon enfant; restons encore un peu dans l'ombre… On ne sait pas, on ne sait pas encore… Je crois que Pelléas est fou…</p>
+                  <p rend="justify">YNIOLD.</p>
+                  <p rend="justify">Non, petit-père, il n'est pas fou, mais il est très bon.</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Veux-tu voir petite-mère?</p>
+                  <p rend="justify">YNIOLD.</p>
+                  <p rend="justify">Oui, oui; je veux la voir!</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Ne fais pas de bruit; je vais te hisser jusqu'à la fenêtre. Elle est trop haute pour moi, bien que je sois si grand… <hi rend="italic">Il soulève l'enfant.</hi>  Ne fais pas le moindre bruit; petite-mère aurait terriblement peur… La vois-tu?—Est-elle dans la chambre?</p>
+                  <p rend="justify">YNIOLD.</p>
+                  <p rend="justify">Oui… Oh! il fait clair!</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Elle est seule?</p>
+                  <p rend="justify">YNIOLD.</p>
+                  <p rend="justify">Oui… Non, non! mon oncle Pelléas y est aussi.</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Il!…</p>
+                  <p rend="justify">YNIOLD.</p>
+                  <p rend="justify">Ah! ah! petit-père! vous m'avez fait mal!…</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Ce n'est rien; tais-toi; je ne le ferai plus; regarde, regarde, Yniold!… J'ai trébuché; parle plus bas. Que font-ils?—</p>
+                  <p rend="justify">YNIOLD.</p>
+                  <p rend="justify">Ils ne font rien, petit-père.</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Est-ce qu'ils parlent?</p>
+                  <p rend="justify">YNIOLD.</p>
+                  <p rend="justify">Non, petit-père; ils ne parlent pas.</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Mais que font-ils?</p>
+                  <p rend="justify">YNIOLD.</p>
+                  <p rend="justify">Ils regardent la lumière.</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Tous les deux?</p>
+                  <p rend="justify">YNIOLD.</p>
+                  <p rend="justify">Oui, petit-père.</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Ils ne disent rien?</p>
+                  <p rend="justify">YNIOLD.</p>
+                  <p rend="justify">Non, petit-père; ils ne ferment pas les yeux.</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Ils ne s'approchent pas l'un de l'autre?</p>
+                  <p rend="justify">YNIOLD.</p>
+                  <p rend="justify">Non, petit-père; ils ne bougent pas, ils ne ferment jamais les yeux… J'ai terriblement peur…</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">De quoi donc as-tu peur? Regarde! Regarde!</p>
+                  <p rend="justify">YNIOLD.</p>
+                  <p rend="justify">Petit-père, laissez-moi descendre!</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Regarde!</p>
+                  <p rend="justify">YNIOLD.</p>
+                  <p rend="justify">Oh! je vais crier, petit-père! Laissez-moi descendre! laissez-moi descendre!</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Viens! nous allons voir ce qui est arrivé.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Ils sortent.</hi>
+                  </p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>ACTE IV</head>
+               <div type="div3">
+                  <head>SCÈNE I</head>
+                  <p rend="justify">
+                     <hi rend="bold">Un corridor dans le château.</hi>
+                  </p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Où vas-tu? Il faut que je te parle ce soir. Te verrai-je?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Oui.</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Je sors de la chambre de mon père. Il va mieux. Le médecin nous a dit qu'il était sauvé. Il m'a reconnu. Il m'a pris la main, et il m'a dit de cet air étrange qu'il a depuis qu'il est malade: «Est-ce toi, Pelléas? Tiens, je ne l'avais jamais remarqué, mais tu as le visage grave et amical de ceux qui ne vivront pas longtemps. Il faut voyager; il faut voyager…» C'est étrange; je vais lui obéir… Ma mère l'écoutait et pleurait de joie. Tu ne t'en es pas aperçue? Toute la maison semble déjà revivre, on entend respirer, on entend marcher… Écoute, j'entends parler derrière cette porte. Vite, vite, réponds vite, où te verrai-je?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Où veux-tu?</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Dans le parc: près de la fontaine des aveugles? Veux-tu? Viendras-tu?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Oui.</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Ce sera le dernier soir. Je vais voyager comme mon père l'a dit. Tu ne me verras plus…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Ne dis pas cela, Pelléas… Je te verrai toujours; je te regarderai toujours…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Tu auras beau regarder… Je serai si loin que tu ne pourras plus me voir.</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Qu'est-il arrivé, Pelléas? Je ne comprends plus ce que tu dis…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Va-t'en, va-t'en, séparons-nous. J'entends parler derrière cette porte.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Ils sortent séparément.</hi>
+                     <lb/>
+                     <hi rend="italic">Puis Arkël entre accompagné de Mélisande.</hi>
+                  </p>
+                  <p rend="justify">ARKEL.</p>
+                  <p rend="justify">Maintenant que le père de Pelléas est sauvé, et que la maladie, la vieille servante de la mort, a quitté le château, un peu de joie et un peu de soleil vont enfin rentrer dans la maison… Il était temps!—Car depuis ta venue, on n'a vécu ici qu'en chuchotant autour d'une chambre fermée… Et vraiment, j'avais pitié de toi, Mélisande… Je t'observais, tu étais là, insouciante peut-être, mais avec l'air étrange et égaré de quelqu'un qui attendrait toujours un grand malheur, au soleil, dans un beau jardin… Je ne puis pas expliquer… Mais j'étais triste de te voir ainsi; car tu es trop jeune et trop belle pour vivre déjà, jour et nuit, sous l'haleine de la mort… Mais à présent tout cela va changer. A mon âge,—et c'est peut-être là le fruit le plus sûr de ma vie,—à mon âge, j'ai acquis je ne sais quelle foi à la fidélité des événements, et j'ai toujours vu que tout être jeune et beau, créait autour de lui des événements jeunes, beaux et heureux… Et c'est toi, maintenant, qui vas ouvrir la porte à l'ère nouvelle que j'entrevois… Viens ici; pourquoi restes-tu là sans répondre et sans lever les yeux?—Je ne t'ai embrassée qu'une seule fois jusqu'ici, le jour de ta venue; et cependant, les vieillards ont besoin de toucher quelquefois de leurs lèvres, le front d'une femme ou la joue d'un enfant, pour croire encore à la fraîcheur de la vie et éloigner un moment les menaces de la mort. As-tu peur de mes vieilles lèvres? Comme j'avais pitié de toi ces mois-ci!…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Grand-père, je n'étais pas malheureuse…</p>
+                  <p rend="justify">ARKEL.</p>
+                  <p rend="justify">Laisse-moi te regarder ainsi, de tout près, un moment… on a tant besoin de beauté aux côtés de la mort…</p>
+                  <p rend="justify">
+                     <hi rend="italic">Entre Golaud.</hi>
+                  </p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Pelléas part ce soir.</p>
+                  <p rend="justify">ARKEL.</p>
+                  <p rend="justify">Tu as du sang sur le front.—Qu'as-tu fait?</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Rien, rien… J'ai passé au travers d'une haie d'épines…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Baissez un peu la tête, seigneur… Je vais essuyer votre front…</p>
+                  <p rend="justify">GOLAUD, <hi rend="italic">la repoussant.</hi>
+                  </p>
+                  <p rend="justify">Je ne veux pas que tu me touches, entends-tu? Va-t'en, va-t'en!—Je ne te parle pas.—Où est mon épée?—Je venais chercher mon épée…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Ici; sur le prie-Dieu.</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Apporte-la. <hi rend="italic">A Arkël.</hi>  On vient encore de trouver un paysan mort de faim, le long de la mer. On dirait qu'ils tiennent tous à mourir sous nos yeux.—<hi rend="italic">A Mélisande.</hi>  Eh bien, mon épée?—Pourquoi tremblez-vous ainsi? Je ne vais pas vous tuer. Je voulais simplement examiner la lame. Je n'emploie pas l'épée à ces usages. Pourquoi m'examinez-vous comme un pauvre?—Je ne viens pas vous demander l'aumône. Vous espérez voir quelque chose dans mes yeux, sans que je voie quelque chose dans les vôtres?—Croyez-vous que je sache quelque chose?—<hi rend="italic">A Arkël.</hi>  Voyez-vous ces grands yeux?—On dirait qu'ils sont fiers d'être riches…</p>
+                  <p rend="justify">ARKEL.</p>
+                  <p rend="justify">Je n'y vois qu'une grande innocence…</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Une grande innocence!… Ils sont plus grands que l'innocence!… Ils sont plus purs que les yeux d'un agneau… Ils donneraient à Dieu des leçons d'innocence! Une grande innocence! Écoutez: j'en suis si près que je sens la fraîcheur de leurs cils quand ils clignent; et cependant, je suis moins loin des grands secrets de l'autre monde que du plus petit secret de ces yeux!… Une grande innocence!… Plus que de l'innocence! On dirait que les anges du ciel y célèbrent sans cesse un baptême!… Je les connais ces yeux! Je les ai vus à l'œuvre! Fermez-les! Fermez-les! ou je vais les fermer pour longtemps!…—Ne mettez pas ainsi votre main à la gorge; je dis une chose très simple… Je n'ai pas d'arrière-pensée… Si j'avais une arrière-pensée, pourquoi ne la dirais-je pas? Ah! ah!—ne tâchez pas de fuir!—Ici!—Donnez-moi cette main!—Ah! vos mains sont trop chaudes… Allez-vous-en! Votre chair me dégoûte!… Il ne s'agit plus de fuir à présent!—<hi rend="italic">Il la saisit par les cheveux.</hi>—Vous allez me suivre à genoux!—A genoux!—A genoux devant moi!—Ah! ah! vos longs cheveux servent enfin à quelque chose!… A droite et puis à gauche!—A gauche et puis à droite!—Absalon! Absalon!—En avant! en arrière! Jusqu'à terre! jusqu'à terre!… Vous voyez, vous voyez; je ris déjà comme un vieillard…</p>
+                  <p rend="justify">ARKEL, <hi rend="italic">accourant.</hi>
+                  </p>
+                  <p rend="justify">Golaud!…</p>
+                  <p rend="justify">GOLAUD, <hi rend="italic">affectant un calme soudain.</hi>
+                  </p>
+                  <p rend="justify">Vous ferez comme il vous plaira, voyez-vous.—Je n'attache aucune importance à cela.—Je suis trop vieux; et puis, je ne suis pas un espion. J'attendrai le hasard; et alors… Oh! alors!… simplement parce que c'est l'usage; simplement parce que c'est l'usage…</p>
+                  <p rend="justify">
+                     <hi rend="italic">Il sort.</hi>
+                  </p>
+                  <p rend="justify">ARKEL.</p>
+                  <p rend="justify">Qu'a-t-il donc?—Il est ivre?</p>
+                  <p rend="justify">MÉLISANDE, <hi rend="italic">en larmes.</hi>
+                  </p>
+                  <p rend="justify">Non, non; mais il ne m'aime plus… Je ne suis pas heureuse!…</p>
+                  <p rend="justify">ARKEL.</p>
+                  <p rend="justify">Si j'étais Dieu, j'aurais pitié du cœur des hommes…</p>
+               </div>
+               <div type="div3">
+                  <head>SCÈNE II</head>
+                  <p rend="justify">
+                     <hi rend="bold">Une terrasse, dans la brume.</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="italic">On aperçoit le petit Yniold qui cherche à soulever un quartier de roc.</hi>
+                  </p>
+                  <p rend="justify">YNIOLD.</p>
+                  <p rend="justify">Oh! Cette pierre est lourde… elle est plus lourde que moi.—Elle est plus lourde que tout le monde.—Elle est plus lourde que tout.</p>
+                  <p rend="justify">Je vois ma balle d'or entre le rocher et cette méchante pierre. Et je ne puis pas y atteindre… Mon petit bras n'est pas assez long—et cette pierre ne veut pas être soulevée… On dirait qu'elle a des racines dans la terre.</p>
+                  <p rend="justify">
+                     <hi rend="italic">On entend au loin les bêlements d'un troupeau.</hi>
+                  </p>
+                  <p rend="justify">Oh! oh! J'entends pleurer les moutons.—Tiens! Il n'y a plus de soleil!—Ils arrivent les petits moutons; ils arrivent… Il y en a!… Il y en a!… Ils ont eu peur du noir… Ils se serrent. Ils se serrent! Ils pleurent… et ils vont vite!… Il y en a qui voudraient prendre à droite… Ils voudraient tous aller à droite. Ils ne peuvent pas!… Le berger leur jette de la terre!… Ah! ah!… Ils vont passer par ici… Je vais les voir de près.—Comme il y en a!…—Maintenant, ils se taisent tous. Berger? Pourquoi ne parlent-ils plus?</p>
+                  <p rend="justify">LE BERGER, <hi rend="italic">qu'on ne voit pas.</hi>
+                  </p>
+                  <p rend="justify">Parce que ce n'est pas le chemin de l'étable!—</p>
+                  <p rend="justify">YNIOLD.</p>
+                  <p rend="justify">Où vont-ils? Berger? Berger? Où vont-ils?… Il ne m'entend plus. Ils sont déjà trop loin… Ils ne font plus de bruit.—Ce n'est pas le chemin de l'étable… Où vont-ils dormir cette nuit?… Oh! oh! il fait trop noir… Je vais dire quelque chose à quelqu'un!</p>
+                  <p rend="justify">
+                     <hi rend="italic">Il sort.</hi>
+                  </p>
+               </div>
+               <div type="div3">
+                  <head>SCÈNE III</head>
+                  <p rend="justify">
+                     <hi rend="bold">Une fontaine dans le parc.</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="italic">Entre Pelléas.</hi>
+                  </p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">C'est le dernier soir… Le dernier soir… Il faut que tout finisse… J'ai joué comme un enfant autour d'une chose que je ne soupçonnais pas… J'ai joué en rêve autour des pièges de la destinée… Qui est-ce qui m'a réveillé tout à coup? Je vais fuir en criant de joie et de douleur comme un aveugle qui fuirait l'incendie de sa maison… Je vais lui dire que je vais fuir… Il est tard; elle ne vient pas… Je ferais mieux de m'en aller sans la revoir… Il faut que je la regarde bien cette fois-ci… Il y a des choses que je ne me rappelle plus… on dirait, par moment, qu'il y a plus de cent ans que je ne l'ai vue… Et je n'ai pas encore regardé son regard… Il ne me reste rien si je m'en vais ainsi. Et tous ces souvenirs… c'est comme si j'emportais un peu d'eau dans un sac de mousseline… Il faut que je la voie une dernière fois, jusqu'au fond de son cœur… Il faut que je lui dise tout ce que je n'ai pas dit…</p>
+                  <p rend="justify">
+                     <hi rend="italic">Entre Mélisande.</hi>
+                  </p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Pelléas?</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Mélisande!—Est-ce toi, Mélisande?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Oui.</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Viens ici: ne reste pas au bord du clair de lune.—Viens ici. Nous avons tant de choses à nous dire… Viens ici dans l'ombre du tilleul.</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Laisse-moi dans la clarté…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">On pourrait nous voir des fenêtres de la tour. Viens ici; ici, nous n'avons rien à craindre.—Prends garde; on pourrait nous voir…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Je veux qu'on me voie…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Qu'as-tu donc?—Tu as pu sortir sans qu'on s'en soit aperçu?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Oui; votre frère dormait…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Il est tard.—Dans une heure on fermera les portes. Il faut prendre garde. Pourquoi es-tu venue si tard?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Votre frère avait un mauvais rêve. Et puis ma robe s'est accrochée aux clous de la porte. Voyez, elle est déchirée. J'ai perdu tout ce temps et j'ai couru…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Ma pauvre Mélisande!… J'aurais presque peur de te toucher… Tu es encore hors d'haleine comme un oiseau pourchassé… C'est pour moi, pour moi que tu fais tout cela?… J'entends battre ton cœur comme si c'était le mien… Viens ici… plus près, plus près de moi.</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Pourquoi riez-vous?</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Je ne ris pas;—ou bien je ris de joie, sans le savoir… Il y aurait plutôt de quoi pleurer…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Nous sommes venus ici il y a bien longtemps… Je me rappelle.</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Oui… Il y a de longs mois.—Alors, je ne savais pas… Sais-tu pourquoi je t'ai demandé de venir ce soir?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Non.</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">C'est peut-être la dernière fois que je te vois… Il faut que je m'en aille pour toujours…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Pourquoi dis-tu toujours que tu t'en vas?…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Je dois te dire ce que tu sais déjà!—Tu ne sais pas ce que je vais te dire?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Mais non, mais non; je ne sais rien…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Tu ne sais pas pourquoi il faut que je m'éloigne… <hi rend="italic">Il l'embrasse brusquement.</hi>  Tu ne sais pas que c'est parce que je t'aime…</p>
+                  <p rend="justify">MÉLISANDE, <hi rend="italic">à voix basse.</hi>
+                  </p>
+                  <p rend="justify">Je t'aime aussi…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Oh! Qu'as-tu dit, Mélisande! Je ne l'ai presque pas entendu!… On a brisé la glace avec des fers rougis!… Tu dis cela d'une voix qui vient du bout du monde!… Je ne t'ai presque pas entendue… Tu m'aimes?—Tu m'aimes aussi?… Depuis quand m'aimes-tu?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Depuis toujours… Depuis que je t'ai vu…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Oh! comme tu dis cela!… On dirait que ta voix a passé sur la mer au printemps!… je ne l'ai jamais entendue jusqu'ici… on dirait qu'il a plu sur mon cœur! Tu dis cela si franchement!… Comme un ange qu'on interroge!… Je ne puis pas le croire, Mélisande!… Pourquoi m'aimerais-tu?—Mais pourquoi m'aimes-tu!—Est-ce vrai ce que tu dis?—Tu ne me trompes pas?—Tu ne mens pas un peu, pour me faire sourire?…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Non; je ne mens jamais; je ne mens qu'à ton frère…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Oh! Comme tu dis cela!… Ta voix! ta voix… Elle est plus fraîche et plus franche que l'eau!… On dirait de l'eau pure sur mes lèvres!… On dirait de l'eau pure sur mes mains… Donne-moi, donne-moi tes mains. Oh! tes mains sont petites!… Je ne savais pas que tu étais si belle!… Je n'avais jamais rien vu d'aussi beau, avant toi… J'étais inquiet, je cherchais partout dans la maison… Je cherchais partout dans la campagne… Et je ne trouvais pas la beauté… Et maintenant je t'ai trouvée!… Je t'ai trouvée!… Je ne crois pas qu'il y ait sur la terre une femme plus belle!… Où es-tu?—Je ne t'entends plus respirer…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">C'est que je te regarde…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Pourquoi me regardes-tu si gravement!—Nous sommes déjà dans l'ombre.—Il fait trop noir sous cet arbre. Viens dans la lumière. Nous ne pouvons pas voir combien nous sommes heureux. Viens, viens; il nous reste si peu de temps…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Non, non; restons ici… Je suis plus près de toi dans l'obscurité…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Où sont tes yeux?—Tu ne vas pas me fuir?—Tu ne songes pas à moi en ce moment.</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Mais si, mais si, je ne songe qu'à toi…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Tu regardais ailleurs…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Je te voyais ailleurs…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Tu es distraite. Qu'as-tu donc?—Tu ne me sembles pas heureuse…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Si, si; je suis heureuse, mais je suis triste…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Quel est ce bruit?—On ferme les portes!…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Oui, on a fermé les portes…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Nous ne pouvons plus rentrer!—Entends-tu les verrous?—Écoute! écoute!… les grandes chaînes!… Il est trop tard, il est trop tard!…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Tant mieux! Tant mieux!</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Tu?… Voilà, voilà!… Ce n'est plus nous qui le voulons!… Tout est perdu, tout est sauvé! tout est sauvé ce soir!—Viens! viens… Mon cœur bat comme un fou jusqu'au fond de ma gorge… <hi rend="italic">Il l'enlace.</hi>  Écoute! mon cœur est sur le point de m'étrangler… Viens! viens!… Ah! qu'il fait beau dans les ténèbres!…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Il y a quelqu'un derrière nous!…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Je ne vois personne…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">J'ai entendu du bruit…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Je n'entends que ton cœur dans l'obscurité…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">J'ai entendu craquer les feuilles mortes…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">C'est le vent qui s'est tû tout à coup… Il est tombé pendant que nous nous embrassions…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Comme nos ombres sont grandes ce soir!…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Elles s'enlacent jusqu'au fond du jardin… Oh! qu'elles s'embrassent loin de nous!… Regarde! Regarde!…</p>
+                  <p rend="justify">MÉLISANDE, <hi rend="italic">d'une voix étouffée.</hi>
+                  </p>
+                  <p rend="justify">A-a-h!—Il est derrière un arbre!</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Qui?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Golaud!</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Golaud?—où donc?—je ne vois rien…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Là… au bout de nos ombres…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Oui, oui; je l'ai vu… Ne nous retournons pas brusquement…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Il a son épée…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Je n'ai pas la mienne…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Il a vu que nous nous embrassions…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Il ne sait pas que nous l'avons vu… Ne bouge pas; ne tourne pas la tête… Il se précipiterait… Il nous observe… Il est encore immobile… Va-t'en, va-t'en tout de suite par ici… Je l'attendrai… Je l'arrêterai…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Non, non, non!…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Va-t'en! va-t'en! Il a tout vu!… Il nous tuera!…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Tant mieux! tant mieux! tant mieux!…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Il vient! il vient!… Ta bouche!… Ta bouche!…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Oui!… Oui!… Oui!…</p>
+                  <p rend="justify">
+                     <hi rend="italic">Ils s'embrassent éperdument.</hi>
+                  </p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Oh! oh! Toutes les étoiles tombent…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Sur moi aussi! sur moi aussi!…</p>
+                  <p rend="justify">PELLÉAS.</p>
+                  <p rend="justify">Toutes! toutes! toutes!…</p>
+                  <p rend="justify">
+                     <hi rend="italic">Golaud se précipite sur eux l'épée à la main, et frappe Pelléas, qui tombe au bord de la fontaine. Mélisande fuit épouvantée.</hi>
+                  </p>
+                  <p rend="justify">MÉLISANDE, <hi rend="italic">fuyant.</hi>
+                  </p>
+                  <p rend="justify">Oh! oh! Je n'ai pas de courage!… Je n'ai pas de courage!…</p>
+                  <p rend="justify">
+                     <hi rend="italic">Golaud la poursuit à travers le bois, en silence.</hi>
+                  </p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>ACTE V</head>
+               <div type="div3">
+                  <head>SCÈNE I</head>
+                  <p rend="justify">
+                     <hi rend="bold">Un appartement dans le château.</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="italic">On découvre Arkël, Golaud et le médecin dans un coin de la chambre. Mélisande est étendue sur son lit.</hi>
+                  </p>
+                  <p rend="justify">LE MÉDECIN.</p>
+                  <p rend="justify">Ce n'est pas de cette petite blessure qu'elle peut mourir; un oiseau n'en serait pas mort… ce n'est donc pas vous qui l'avez tuée, mon bon seigneur; ne vous désolez pas ainsi… Et puis, il n'est pas dit que nous ne la sauverons pas…</p>
+                  <p rend="justify">ARKEL.</p>
+                  <p rend="justify">Non, non; il me semble que nous nous taisons trop, malgré nous, dans sa chambre… Ce n'est pas un bon signe… Regardez comme elle dort… lentement, lentement… on dirait que son âme a froid pour toujours…</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">J'ai tué sans raison! Est-ce que ce n'est pas à faire pleurer les pierres!… Ils s'étaient embrassés comme des petits enfants… Ils étaient frère et sœur… Et moi, moi tout de suite!… Je l'ai fait malgré moi, voyez-vous… Je l'ai fait malgré moi…</p>
+                  <p rend="justify">LE MÉDECIN.</p>
+                  <p rend="justify">Attention; je crois qu'elle s'éveille…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Ouvrez la fenêtre… ouvrez la fenêtre…</p>
+                  <p rend="justify">ARKEL.</p>
+                  <p rend="justify">Veux-tu que j'ouvre celle-ci, Mélisande?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Non, non; la grande fenêtre… c'est pour voir…</p>
+                  <p rend="justify">ARKEL.</p>
+                  <p rend="justify">Est-ce que l'air de la mer n'est pas trop froid ce soir?</p>
+                  <p rend="justify">LE MÉDECIN.</p>
+                  <p rend="justify">Faites, faites…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Merci… Est-ce le soleil qui se couche?</p>
+                  <p rend="justify">ARKEL.</p>
+                  <p rend="justify">Oui; c'est le soleil qui se couche sur la mer; il est tard.—Comment te trouves-tu, Mélisande?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Bien, bien.—Pourquoi demandez-vous cela? Je n'ai jamais été mieux portante.—Il me semble cependant que je sais quelque chose…</p>
+                  <p rend="justify">ARKEL.</p>
+                  <p rend="justify">Que dis-tu?—Je ne te comprends pas…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Je ne comprends pas non plus tout ce que je dis, voyez-vous… Je ne sais pas ce que je dis… Je ne sais pas ce que je sais… Je ne dis plus ce que je veux…</p>
+                  <p rend="justify">ARKEL.</p>
+                  <p rend="justify">Mais si, mais si… Je suis tout heureux de t'entendre parler ainsi; tu as eu un peu de délire ces jours-ci, et l'on ne te comprenait plus… Mais maintenant, tout cela est bien loin…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Je ne sais pas…—Êtes-vous tout seul dans la chambre, grand-père?</p>
+                  <p rend="justify">ARKEL.</p>
+                  <p rend="justify">Non; il y a encore le médecin qui t'a guérie…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Ah!…</p>
+                  <p rend="justify">ARKEL.</p>
+                  <p rend="justify">Et puis il y a encore quelqu'un…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Qui est-ce?</p>
+                  <p rend="justify">ARKEL.</p>
+                  <p rend="justify">C'est… il ne faut pas t'effrayer… Il ne te veut pas le moindre mal, sois-en sûre… Si tu as peur, il s'en ira… Il est très malheureux…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Qui est-ce?</p>
+                  <p rend="justify">ARKEL.</p>
+                  <p rend="justify">C'est… c'est ton mari… c'est Golaud…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Golaud est ici? Pourquoi ne vient-il pas près de moi?</p>
+                  <p rend="justify">GOLAUD, <hi rend="italic">se traînant vers le lit.</hi>
+                  </p>
+                  <p rend="justify">Mélisande… Mélisande…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Est-ce vous, Golaud? Je ne vous reconnaissais presque plus… C'est que j'ai le soleil du soir dans les yeux… Pourquoi regardez-vous les murs? Vous avez maigri et vieilli… Y a-t-il longtemps que nous ne nous sommes vus?</p>
+                  <p rend="justify">GOLAUD, <hi rend="italic">à Arkël et au médecin.</hi>
+                  </p>
+                  <p rend="justify">Voulez-vous vous éloigner un instant, mes pauvres amis… Je laisserai la porte grande ouverte… Un instant seulement… Je voudrais lui dire quelque chose; sans cela je ne pourrais pas mourir… Voulez-vous?—Vous pouvez revenir tout de suite… Ne me refusez pas cela… Je suis un malheureux… <hi rend="italic">Sortent Arkël et le médecin.</hi>  Mélisande, as-tu pitié de moi, comme j'ai pitié de toi?… Mélisande?… Me pardonnes-tu, Mélisande?…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Oui, oui, je te pardonne… Que faut-il pardonner?</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Je t'ai fait tant de mal, Mélisande… Je ne puis pas te dire le mal que je t'ai fait… Mais je le vois, je le vois si clairement aujourd'hui… depuis le premier jour… Et tout est de ma faute, tout ce qui est arrivé, tout ce qui va arriver… Si je pouvais le dire, tu verrais comme je le vois!… Je vois tout, je vois tout!… Mais je t'aimais tant!… Je t'aimais tant!… Mais maintenant, quelqu'un va mourir… C'est moi qui vais mourir… Et je voudrais savoir… Je voudrais te demander… Tu ne m'en voudras pas?… Il faut dire la vérité à quelqu'un qui va mourir… Il faut qu'il sache la vérité, sans cela il ne pourrait pas dormir… Me jures-tu de dire la vérité?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Oui.</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">As-tu aimé Pelléas?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Mais oui; je l'ai aimé. Où est-il?</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Tu ne me comprends pas?—Tu ne veux pas me comprendre?—Il me semble… Il me semble… Eh bien, voici: Je te demande si tu l'as aimé d'un amour défendu?… As-tu… Avez-vous été coupables? Dis, dis, oui, oui, oui?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Non, non; nous n'avons pas été coupables.—Pourquoi demandez-vous cela?</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Mélisande!… Dis-moi la vérité pour l'amour de Dieu!</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Pourquoi n'ai-je pas dit la vérité?</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Ne mens plus ainsi, au moment de mourir!</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Qui est-ce qui va mourir?—Est-ce moi?</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Toi, toi! et moi, moi aussi, après toi!… Et il nous faut la vérité… Il nous faut enfin la vérité, entends-tu!… Dis-moi tout! Dis-moi tout! Je te pardonne tout!…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Pourquoi vais-je mourir?—Je ne le savais pas…</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Tu le sais maintenant… Il est temps!… Il est temps!… Vite! vite!… La vérité! la vérité!…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">La vérité… la vérité…</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Où es-tu?—Mélisande!—Où es-tu?—Ce n'est pas naturel! Mélisande! Où es-tu? <hi rend="italic">Apercevant Arkël et le médecin à la porte de la chambre.</hi>—Oui, oui; vous pouvez rentrer… Je ne sais rien; c'est inutile… Elle est déjà trop loin de nous… Je ne saurai jamais!… Je vais mourir ici comme un aveugle!…</p>
+                  <p rend="justify">ARKEL.</p>
+                  <p rend="justify">Qu'avez-vous fait? Vous allez la tuer…</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Je l'ai déjà tuée…</p>
+                  <p rend="justify">ARKEL.</p>
+                  <p rend="justify">Mélisande…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Est-ce vous, grand-père?</p>
+                  <p rend="justify">ARKEL.</p>
+                  <p rend="justify">Oui, ma fille… Que veux-tu que je fasse?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Est-il vrai que l'hiver commence?</p>
+                  <p rend="justify">ARKEL.</p>
+                  <p rend="justify">Pourquoi demandes-tu cela?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">C'est qu'il fait froid et qu'il n'y a plus de feuilles…</p>
+                  <p rend="justify">ARKEL.</p>
+                  <p rend="justify">Tu as froid?—Veux-tu qu'on ferme les fenêtres?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Non, non… jusqu'à ce que le soleil soit au fond de la mer.—Il descend lentement, alors c'est l'hiver qui commence?</p>
+                  <p rend="justify">ARKEL.</p>
+                  <p rend="justify">Oui.—Tu n'aimes pas l'hiver?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Oh! non. J'ai peur du froid!—Ah! J'ai peur des grands froids…</p>
+                  <p rend="justify">ARKEL.</p>
+                  <p rend="justify">Te sens-tu mieux?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Oui, oui; je n'ai plus toutes ces inquiétudes…</p>
+                  <p rend="justify">ARKEL.</p>
+                  <p rend="justify">Veux-tu voir ton enfant?</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Quel enfant?</p>
+                  <p rend="justify">ARKEL.</p>
+                  <p rend="justify">Ton enfant, ta petite fille…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Où est-elle?</p>
+                  <p rend="justify">ARKEL.</p>
+                  <p rend="justify">Ici…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">C'est étrange… Je ne peux pas lever les bras pour la prendre…</p>
+                  <p rend="justify">ARKEL.</p>
+                  <p rend="justify">C'est que tu es encore très faible… Je la tiendrai moi-même; regarde…</p>
+                  <p rend="justify">MÉLISANDE.</p>
+                  <p rend="justify">Elle ne rit pas… Elle est petite… Elle va pleurer aussi… J'ai pitié d'elle…</p>
+                  <p rend="justify">
+                     <hi rend="italic">La chambre est envahie, peu à peu, par les servantes du château, qui se rangent en silence le long des murs et attendent.</hi>
+                  </p>
+                  <p rend="justify">GOLAUD, <hi rend="italic">se levant brusquement.</hi>
+                  </p>
+                  <p rend="justify">Qu'y a-t-il?—Qu'est-ce que toutes ces femmes viennent faire ici?</p>
+                  <p rend="justify">LE MÉDECIN.</p>
+                  <p rend="justify">Ce sont les servantes…</p>
+                  <p rend="justify">ARKEL.</p>
+                  <p rend="justify">Qui est-ce qui les a appelées?</p>
+                  <p rend="justify">LE MÉDECIN.</p>
+                  <p rend="justify">Ce n'est pas moi…</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Que venez-vous faire ici?—Personne ne vous a demandées… Que venez-vous faire ici?—Mais qu'est-ce que donc! Répondez!…</p>
+                  <p rend="justify">
+                     <hi rend="italic">Les servantes ne répondent pas.</hi>
+                  </p>
+                  <p rend="justify">ARKEL.</p>
+                  <p rend="justify">Ne parlez pas trop fort… Elle va dormir; elle a fermé les yeux…</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Ce n'est pas?…</p>
+                  <p rend="justify">LE MÉDECIN.</p>
+                  <p rend="justify">Non, non; voyez, elle respire…</p>
+                  <p rend="justify">ARKEL.</p>
+                  <p rend="justify">Ses yeux sont pleins de larmes.—Maintenant c'est son âme qui pleure… Pourquoi étend-elle ainsi les bras? Que veut-elle?</p>
+                  <p rend="justify">LE MÉDECIN.</p>
+                  <p rend="justify">C'est vers l'enfant sans doute. C'est la lutte de la mère contre la mort…</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">En ce moment?—En ce moment?—Il faut le dire, dites! dites!</p>
+                  <p rend="justify">LE MÉDECIN.</p>
+                  <p rend="justify">Peut-être…</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Tout de suite?… Oh! Oh! Il faut que je lui dise…—Mélisande! Mélisande!… Laissez-moi seul! laissez-moi seul avec elle!…</p>
+                  <p rend="justify">ARKEL.</p>
+                  <p rend="justify">Non, non, n'approchez pas… Ne la troublez pas… Ne lui parlez plus… Vous ne savez pas ce que c'est que l'âme…</p>
+                  <p rend="justify">GOLAUD.</p>
+                  <p rend="justify">Ce n'est pas ma faute, ce n'est pas ma faute!</p>
+                  <p rend="justify">ARKEL.</p>
+                  <p rend="justify">Attention… Attention… Il faut parler à voix basse.—Il ne faut plus l'inquiéter… L'âme humaine est très silencieuse… L'âme humaine aime à s'en aller seule… Elle souffre si timidement… Mais la tristesse, Golaud… mais la tristesse de tout ce que l'on voit!… Oh! oh! oh!…</p>
+                  <p rend="justify">
+                     <hi rend="italic">En ce moment, toutes les servantes tombent subitement à genoux au fond de la chambre.</hi>
+                  </p>
+                  <p rend="justify">ARKEL, <hi rend="italic">se retournant.</hi>
+                  </p>
+                  <p rend="justify">Qu'y a-t-il?</p>
+                  <p rend="justify">LE MÉDECIN, <hi rend="italic">s'approchant du lit et tâtant le corps.</hi>
+                  </p>
+                  <p rend="justify">Elles ont raison…</p>
+                  <p rend="justify">
+                     <hi rend="italic">Un long silence.</hi>
+                  </p>
+                  <p rend="justify">ARKEL.</p>
+                  <p rend="justify">Je n'ai rien vu.—Êtes-vous sûr?…</p>
+                  <p rend="justify">LE MÉDECIN.</p>
+                  <p rend="justify">Oui, oui.</p>
+                  <p rend="justify">ARKEL.</p>
+                  <p rend="justify">Je n'ai rien entendu… Si vite, si vite… Tout à coup… Elle s'en va sans rien dire…</p>
+                  <p rend="justify">GOLAUD, <hi rend="italic">sanglotant.</hi>
+                  </p>
+                  <p rend="justify">Oh! oh! oh!…</p>
+                  <p rend="justify">ARKEL.</p>
+                  <p rend="justify">Ne restez pas ici, Golaud… Il lui faut le silence, maintenant… Venez, venez… C'est terrible, mais ce n'est pas votre faute… C'était un petit être si tranquille, si timide et si silencieux… C'était un pauvre petit être mystérieux, comme tout le monde… Elle est là, comme si elle était la grande sœur de son enfant…—Venez; il ne faut pas que l'enfant reste ici dans cette chambre… Il faut qu'il vive, maintenant, à sa place… C'est au tour de la pauvre petite…</p>
+                  <p rend="justify">
+                     <hi rend="italic">Ils sortent en silence.</hi>
+                  </p>
+                  <p rend="justify">FIN.</p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

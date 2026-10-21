@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La tête de Martin: Comédie en un acte</title>
+            <author>Eugène Grangé</author>
+            <author>Adrien Decourcelle</author>
+            <author>Théodore Barrière</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-01T19:55:47Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">odts/fr-odts/re_Decourcelle_-LaT_2004.epub.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Eugène Grangé; Adrien Decourcelle; Théodore Barrière</name>
+               <date>2024-01-01T19:55:47Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>La tête de Martin: Comédie en un acte</head>
+         <author>Eugène Grangé</author>
+         <author>Adrien Decourcelle</author>
+         <author>Théodore Barrière</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">odts/fr-odts/re_Decourcelle_-LaT_2004.epub.odt</p>
+         <head>LA TÊTE DE MARTIN</head>
+         <head>COMÉDIE EN UN ACTE</head>
+         <pb/>
+         <div type="div1">
+            <head>La tête de Martin: Comédie en un acte</head>
+            <pb/>
+            <div type="div2">
+               <head>PAR</head>
+               <div type="div3">
+                  <head>
+                     <label>MM.</label>E. Grangé, Decourcelle et Th. Barrière.</head>
+                  <p rend="justify">QUATRE PERSONNAGES.</p>
+                  <p rend="justify">Arrangée pour cercles de jeunes gens,</p>
+                  <p rend="justify">par RÉGIS ROY.</p>
+                  <p rend="justify">MONTRÉAL</p>
+                  <p rend="justify">C.O. BEAUCHEMIN &amp; FILS, LIBRAIRES-IMPRIMEURS<lb/>256 et 258, rue St-Paul</p>
+                  <p rend="justify">1900</p>
+               </div>
+               <div type="div3">
+                  <head>LA TÊTE DE MARTIN<lb/>COMÉDIE EN UN ACTE.</head>
+                  <lg>
+                     <l>À</l>
+                     <l>M. ÉDOUARD CHATEAUVERT</l>
+                     <l>OTTAWA</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="bold">DISTRIBUTION DE LA PIÈCE:</hi>
+                     </l>
+                     <l/>
+                     <l>DURAND (de Hull), 50 ans.</l>
+                     <l>VENCESLAS DURAND, son neveu, 28 ans.</l>
+                     <l>ISIDORE MARTIN, 28 ans.</l>
+                     <l>BERTRAND, hôtelier.</l>
+                  </lg>
+                  <p rend="justify">(La scène est de nos jours, dans un hôtel garni. Une salle avec plusieurs portes surmontées de numéros. Entrée par le fond.)</p>
+               </div>
+               <div type="div3">
+                  <head>SCÈNE I</head>
+                  <p rend="justify">BERTRAND, <hi rend="italic">seul</hi>.<lb/>(<hi rend="italic">Il est assis devant une table à droite</hi>).</p>
+                  <p rend="justify">Maintenant, voyons si l'on a bien inscrit tous les voyageurs... (<hi rend="italic">Il ouvre un registre</hi>). M, Dubois, très bien; M. Lefèvre; M. Coquelet, très bien; au numéro 9, M. Martin, profession, propriétaire; au numéro 11, M. Martin... Tiens, encore un Martin! profession: professeur de prothèse dentaire; au numéro 13, M. Martin!... Ah! çà, il n'y a donc que des Martin cette année?... profession: clerc de notaire et célibataire!... Ah! je le connais, celui-là... c'est le casse-cou qui est ici depuis un mois.</p>
+               </div>
+               <div type="div3">
+                  <head>SCÈNE II</head>
+                  <p rend="justify">BERTRAND, DURAND, puis VENCESLAS.</p>
+                  <p rend="justify">DURAND (<hi rend="italic">du seuil de la porte</hi>).</p>
+                  <p rend="justify">Pardon, monsieur, n'auriez-vous pas ici un nommé Martin?</p>
+                  <p rend="justify">BERTRAND.</p>
+                  <p rend="justify">Oui, Monsieur; j'en ai même plusieurs.</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Plusieurs Martin valent mieux qu'un. (<hi rend="italic">À la cantonade</hi>.) Viens, Venceslas.</p>
+                  <p rend="justify">BERTRAND.</p>
+                  <p rend="justify">Monsieur désire une chambre?</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Deux; une pour moi, et une pour mon neveu.</p>
+                  <p rend="justify">BERTRAND. (<hi rend="italic">désignant 2 portes à gauche</hi>).</p>
+                  <p rend="justify">Voici justement deux chambres qui se touchent.</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Très bien!</p>
+                  <p rend="justify">BERTRAND.</p>
+                  <p rend="justify">Monsieur veut-il me dire son nom?</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Durand; Maleck-Adel Durand. Ce prénom vous étonne; ça ne m'étonne pas. Voici comment je le reçus: ma mère venait de lire le roman de Madame Cottin, lorsque je vins au monde, jeune, mais bien constitué pour mon âge. Elle désira que le nom du héros turc devînt le mien. Le bedeau fit quelques objections, à cause de Maleck, qui n'est pas dans le calendrier; mais on lui fit observer qu'Adèle s'y trouvait; cette considération vainquit ses scrupules; et je fus nommé Maleck-Adel... Mettez Durand seulement.</p>
+                  <p rend="justify">BERTRAND (<hi rend="italic">écrivant</hi>).</p>
+                  <p rend="justify">M. Durand... Dernière résidence?</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Hull, patrie de Eddy, des allumettes souffrées et des piles de planches... Mettez Hull seulement; rue des Trois-Cailloux, vingt-deux (les deux cocottes)... mettez seulement 22.</p>
+                  <p rend="justify">BERTRAND (<hi rend="italic">désignant Venceslas</hi>).</p>
+                  <p rend="justify">Et Monsieur...</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">C'est Venceslas Durand, mon neveu; 28 ans; un coeur d'or et des bras de boulanger... Mettez seulement Venceslas Durand. (<hi rend="italic">Venceslas va s'asseoir au fond, à droite.</hi>)</p>
+                  <p rend="justify">BERTRAND.</p>
+                  <p rend="justify">C'est ce que j'ai fait.</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Et bien vous fîtes.</p>
+                  <p rend="justify">BERTRAND.</p>
+                  <p rend="justify">Monsieur est-il à Ottawa pour longtemps?</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Ah! je donnerais une forte prime à celui qui pourrais me le dire!...</p>
+                  <p rend="justify">BERTRAND.</p>
+                  <p rend="justify">Monsieur vient sans doute pour affaires?</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Connaissez-vous l'article 1983?</p>
+                  <p rend="justify">BERTRAND.</p>
+                  <p rend="justify">L'article 1983?</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Du Code Civil?—je l'ai toujours sur moi—pas l'article; le Code; mais, puisque, quand j'ai le Code, j'ai l'article, ça peut se dire. Écoutez-le; vous comprendrez alors la fausse position dans laquelle je me trouve et vous pourrez peut-être m'aider à en sortir.</p>
+                  <p rend="justify">BERTRAND.</p>
+                  <p rend="justify">Moi?</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">On a souvent besoin d'un plus petit que soi. Voici ce que chante cet article:—je ne sais pas l'air. (<hi rend="italic">Il rit. lisant.</hi>) "Le propriétaire d'une rente viagère ne peut en demander les arrérages qu'en justifiant de son existence ou de celle de la personne sur la tête de laquelle elle a été constituée, quand elle est constituée sur la tête d'un tiers."—Vous avez entendu?</p>
+                  <p rend="justify">BERTRAND.</p>
+                  <p rend="justify">Oh! parfaitement, mais je n'ai pas compris.</p>
+                  <p rend="justify">DURAND (<hi rend="italic">à part</hi>).</p>
+                  <p rend="justify">C'est une bûche. (<hi rend="italic">Haut</hi>). Je m'explique; j'ai une rente de $1.000 constituée sur la tête d'un tiers (que je ne connais pas et que je n'ai jamais vu) répondant au nom de...</p>
+                  <p rend="justify">BERTRAND. (<hi rend="italic">l'interrompant</hi>).</p>
+                  <p rend="justify">Qu'entendez-vous par constituée sur la tête d'un tiers?</p>
+                  <p rend="justify">DURAND (<hi rend="italic">à part</hi>).</p>
+                  <p rend="justify">Mettons-nous à sa portée. (<hi rend="italic">Haut.</hi>) Je suppose que je veuille vous faire $1.000 de rente (mais je ne le veux pas). Eh bien, je vous dis: Je vous assure $1.000 par an, votre vie durant (Durand c'est mon nom, mais je l'emploie ici adverbialement). C'est ainsi que cela se mijote habituellement. Mais, au lieu d'agir aussi simplement, je puis vous dire: je vous servirai $1.000 par an, tant que vivra votre domestique. C'est un droit que j'ai, Comprenez-vous?</p>
+                  <p rend="justify">BERTRAND.</p>
+                  <p rend="justify">Très bien.</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">C'est heureux. Or, Jean Martin, mon parent éloigné, mais mon parent, m'a constitué une rente du chiffre précité sur la tête de son neveu.</p>
+                  <p rend="justify">BERTRAND.</p>
+                  <p rend="justify">Pourquoi cela?</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Ah; pourquoi cela? nous y voilà!—Monsieur, il n'y a pas de jour, que dis-je? d'heure... que dis-je? de minute, où je ne me pose cette question; mais pourquoi diable cet animal-là m'a-t-il constitué une rente sur la tête de son neveu? S'il voulait me faire une politesse... viagère, il était si simple de me l'adresser directement; il m'eût épargné bien des tribulations... C'est au point que je commence à croire que son bienfait est une vengeance habillée en piastres.</p>
+                  <p rend="justify">BERTRAND</p>
+                  <p rend="justify">C'est un joli costume.</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Joli, au premier abord, mais difficile à endosser. Hier, je vais chez Maître Tétreau, notaire à Hull, et je lui dis:—Tétreau, je viens toucher ma rente.—Très bien, me dit-il; mais tu sais que pour toucher tu dois prouver l'existence de Martin. Prouve et je paie.—Prouver, comment? Martin n'est pas ici.—Où est-il? me dit-il.—Je n'en sais rien, lui dis-je—Eh bien, me dit-il, cherche, apporte et tu toucheras. Alors, l'oeil morne et la tête baissée, je suis venu jusqu'ici, demandant à chacun en route, s'il n'avait pas par aventure vu M. Martin. Mais j'eus beau demander, personne ne put me renseigner. Et vous dites que vous avez des locataires de ce nom?</p>
+                  <p rend="justify">BERTRAND. Trois, monsieur; l'un au 9; l'autre au 11, et le troisième...</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Je vais interroger le 9... Venceslas! (<hi rend="italic">Venceslas sur une chaise, au fond à droite, dort</hi>). Il dort!</p>
+                  <p rend="justify">BERTRAND.</p>
+                  <p rend="justify">C'est sans doute la fatigue du voyage?</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Ça m'étonnerait, attendu qu'il est à Ottawa depuis huit jours.</p>
+                  <p rend="justify">BERTRAND.</p>
+                  <p rend="justify">Ah!</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Il m'y avait précédé pour l'achat de la corbeille, car Venceslas va devenir mon bru... Mon cher hôte, je vous prie d'annoncer ma visite au numéro 9. (<hi rend="italic">Il sort avec Bertrand.</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>SCÈNE III</head>
+                  <p rend="justify">VENCESLAS (<hi rend="italic">seul, se levant</hi>).</p>
+                  <p rend="justify">Tiens! je crois que je m'étais endormi... Oh! quand le père Durand se met à raconter des histoires, j'ai beau faire, il me semble que j'avale une potée d'opium.</p>
+               </div>
+               <div type="div3">
+                  <head>SCÈNE IV</head>
+                  <p rend="justify">VENCESLAS, DURAND.</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Je suis fumé! Je sors du 9, ce n'est pas mon homme; mais, ce qu'il y a de particulier, c'est que, de même que je l'ai pris pour le Martin que je cherche, de même il m'a pris pour un Durand qui le poursuit. Or, ce Durand est un huissier, de sorte qu'il m'a menacé de me jeter par la fenêtre. Il allait perpétrer ce délit, quand, fort heureusement, le quiproquo s'est découvert. Il m'a serré la main, et nous avons ri beaucoup, cette canaille et moi.</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Encore une histoire! Cet homme-là a servi dans les <hi rend="italic">Mille et une Nuits</hi>, bien sûr.</p>
+                  <p rend="justify">DURAND. Mais, ça n'est pas tout ça, il me faut mon Martin. L'hôtelier m'a parlé du n° 11... Allons-y. Enfant, je reviens (<hi rend="italic">il sort</hi>).</p>
+               </div>
+               <div type="div3">
+                  <head>SCÈNE V</head>
+                  <p rend="justify">VENCESLAS, BERTRAND, puis DURAND.</p>
+                  <p rend="justify">BERTRAND (<hi rend="italic">entrant</hi>).</p>
+                  <p rend="justify">La chambre de monsieur est prête.</p>
+                  <p rend="justify">VENCESLAS (<hi rend="italic">se promenant les mains derrière le dos).</hi>
+                  </p>
+                  <p rend="justify">Bon!</p>
+                  <p rend="justify">BERTRAND.</p>
+                  <p rend="justify">Monsieur aime mieux rester ici?</p>
+                  <p rend="justify">VENCESLAS (<hi rend="italic">se promenant</hi>).</p>
+                  <p rend="justify">Oui.</p>
+                  <p rend="justify">BERTRAND.</p>
+                  <p rend="justify">Comme monsieur voudra.</p>
+                  <p rend="justify">VENCESLAS (<hi rend="italic">même jeux</hi>).</p>
+                  <p rend="justify">Certes.</p>
+                  <p rend="justify">BERTRAND.</p>
+                  <p rend="justify">Monsieur attend sans doute le retour de son oncle?</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Oui.</p>
+                  <p rend="justify">BERTRAND.</p>
+                  <p rend="justify">C'est un drôle de particulier que l'oncle de monsieur.</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Hein?...</p>
+                  <p rend="justify">BERTRAND.</p>
+                  <p rend="justify">Il a l'air un peu toqué. (<hi rend="italic">Venceslas ne lui répond pas; il prend une chaise qu'il enlève à bras tendu</hi>). Diable! monsieur est fort! (<hi rend="italic">Venceslas ne répond pas; il appuie sa main sur l'épaule de Bertrand, qui fléchit, et rebondit à la troisième fois, sautant à droite</hi>). Pourquoi donc me dérangez-vous comme ça?</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">C'est pour vous montrer ce que je pourrais faire de vous dans le cas où vous parleriez mal de mes parents... j'ai dit. (<hi rend="italic">Il recommence à se promener</hi>).</p>
+                  <p rend="justify">BERTRAND (<hi rend="italic">à part</hi>).</p>
+                  <p rend="justify">Quelle drôle de famille!</p>
+                  <p rend="justify">DURAND (<hi rend="italic">rentrant</hi>).</p>
+                  <p rend="justify">Ah! monsieur Bertrand, que le bon Dieu vous patafiole!</p>
+                  <p rend="justify">BERTRAND.</p>
+                  <p rend="justify">Moi, monsieur?</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Vous me dites que mon Martin est au n° 11, et vous me lancez sur un sexagénaire, sourd, aveugle et myope; tandis que mon Martin a 3O ans tout au plus et jouit de tous ses organes.</p>
+                  <p rend="justify">BERTRAND.</p>
+                  <p rend="justify">Ce n'est pas ma faute, moi... Si monsieur veut voir celui du 13?</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Merci, j'en ai assez comme ça... je veux, au préalable, aller prendre des renseignement au poste de police. De cette façon, je ne serai pas exposé à bassiner un tas de braves gens, qui me le rendraient bien.</p>
+                  <p rend="justify">BERTRAND.</p>
+                  <p rend="justify">Comme monsieur voudra. (<hi rend="italic">Il sort.</hi>)</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Toi, Venceslas, prends ton parapluie, ton plan d'Ottawa, et suis-moi.</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Nous irons donc à pied?</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Certes oui! je me fais une fête de marcher sur les trottoirs en asphalte. Viens! (<hi rend="italic">Ils vont pour sortir, Durand se heurte contre un jeune homme qui entre brusquement.</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>SCÈNE VI</head>
+                  <p rend="justify">DURAND, VENCESLAS, MARTIN.</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Ah!</p>
+                  <p rend="justify">MARTIN.</p>
+                  <p rend="justify">Oh!</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Faites donc attention!</p>
+                  <p rend="justify">MARTIN</p>
+                  <p rend="justify">Faites attention vous-même.</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Maladroit!</p>
+                  <p rend="justify">MARTIN.</p>
+                  <p rend="justify">Imbécile!</p>
+                  <p rend="justify">DURAND</p>
+                  <p rend="justify">Vous avez dit?...</p>
+                  <p rend="justify">MARTIN. (<hi rend="italic">bien tranquillement</hi>).</p>
+                  <p rend="justify">J'ai dit: imbécile.</p>
+                  <p rend="justify">DURAND</p>
+                  <p rend="justify">Vous n'êtes pas poli, monsieur.</p>
+                  <p rend="justify">MARTIN.</p>
+                  <p rend="justify">Vous non plus, monsieur.</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Moi, monsieur, j'ai cinquante-deux ans.</p>
+                  <p rend="justify">MARTIN</p>
+                  <p rend="justify">Et moi, monsieur, vingt-neuf.</p>
+                  <p rend="justify">DURAND</p>
+                  <p rend="justify">C'est justement pour cela...</p>
+                  <p rend="justify">MARTIN (<hi rend="italic">l'interrompant</hi>).</p>
+                  <p rend="justify">Qu'étant mon aîné de vingt-trois ans, vous devez être vingt-trois fois plus poli que moi.</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Et s'il me plait d'être vingt-trois fois plus grossier, moi?</p>
+                  <p rend="justify">MARTIN (<hi rend="italic">allant s'asseoir</hi>).</p>
+                  <p rend="justify">Ah! vous m'ennuyez!...</p>
+                  <p rend="justify">DURAND</p>
+                  <p rend="justify">Jeune homme!...</p>
+                  <p rend="justify">MARTIN.</p>
+                  <p rend="justify">Allez au diable!...</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Vous m'en rendrez raison aujourd'hui même...</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Mon oncle!</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Dans la personne de mon neveu.</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Plaît-il?</p>
+                  <p rend="justify">DURAND (<hi rend="italic">répétant</hi>).</p>
+                  <p rend="justify">Dans la personne de mon neveu.</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Pardon, mais...</p>
+                  <p rend="justify">DURAND (<hi rend="italic">bas</hi>).</p>
+                  <p rend="justify">La main d'Aménaïde est à ce prix.</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Quoi! vous voulez que j'aille frapper mon semblable?</p>
+                  <p rend="justify">MARTIN.</p>
+                  <p rend="justify">Son semblable!... monsieur, je vous prie de ne pas me dire d'injures.</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Tu l'entends, il t'invective!</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Bah! ça ne fait rien, je n'ai pas compris.</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Comment! tu refuses de laver mes cheveux blancs?</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Permettez donc...</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Venceslas, n'aurais-tu rien dans la poitrine, à gauche? Venceslas, serais-tu un lâche?</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Un lâche, moi? (<hi rend="italic">À part, levant les yeux au ciel.</hi>) O ma mère! (<hi rend="italic">s'approchant de Martin</hi>). Monsieur...</p>
+                  <p rend="justify">MARTIN.</p>
+                  <p rend="justify">Eh bien, après? Qu'est-ce que vous voulez?</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Monsieur, savez-vous que je suis extrêmement fort?</p>
+                  <p rend="justify">MARTIN.</p>
+                  <p rend="justify">Qu'est-ce que ça me fait?</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Savez-vous que je vous mettrais en morceaux extrêmement minces?</p>
+                  <p rend="justify">MARTIN (<hi rend="italic">ironiquement</hi>).</p>
+                  <p rend="justify">En vérité?</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">En cannelle, monsieur, en poussière, monsieur.</p>
+                  <p rend="justify">MARTIN.</p>
+                  <p rend="justify">Vous?</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Moi.</p>
+                  <p rend="justify">MARTIN.</p>
+                  <p rend="justify">Vous?</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Moi.</p>
+                  <p rend="justify">MARTIN.</p>
+                  <p rend="justify">As-tu fini! (<hi rend="italic">Il lui enfonce son chapeau jusqu'aux oreilles.</hi>)</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Oh! (<hi rend="italic">Il veut se jeter sur Martin, Durand se met en travers.</hi>)</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Venceslas, l'honneur des Durand est endommagé dans la personne de ton chapeau. Le fer seul peur le retaper.</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Il me semble que le premier chapelier venu... Joseph Côté, par exemple!...</p>
+                  <p rend="justify">DURAND</p>
+                  <p rend="justify">La main d'Aménaïde est à ce prix.</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Vous êtes charmant... mais si je succombe?</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Aménaïde ira déposer des tulipes sur ta tombe... Et moi aussi...</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Vous me le promettez?</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Je te le jure.</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Allons, ça me décide... (<hi rend="italic">À martin.</hi>) Votre heure. monsieur?</p>
+                  <p rend="justify">MARTIN.</p>
+                  <p rend="justify">La vôtre?</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">À midi, dans huit jours.</p>
+                  <p rend="justify">MARTIN.</p>
+                  <p rend="justify">J'aimerais mieux aujourd'hui.</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Bon! où ça?</p>
+                  <p rend="justify">MARTIN.</p>
+                  <p rend="justify">Où vous voudrez.</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Devant le Bureau de Poste.</p>
+                  <p rend="justify">MARTIN.</p>
+                  <p rend="justify">J'aimerais mieux le bois McKay.</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Va pour le bois McKay... avec quoi nous taperons-nous?</p>
+                  <p rend="justify">MARTIN.</p>
+                  <p rend="justify">Choisissez vous-même les armes.</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Eh bien, le pistolet... À cent pas.</p>
+                  <p rend="justify">MARTIN.</p>
+                  <p rend="justify">J'aimerais mieux à vingt-cinq.</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">À vingt-cinq, c'est convenu. À l'épée.</p>
+                  <p rend="justify">MARTIN.</p>
+                  <p rend="justify">Dans une heure je viendrai vous chercher.</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Dans une heure!</p>
+                  <p rend="justify">MARTIN.</p>
+                  <p rend="justify">Messieurs, enchanté d'avoir fait votre connaissance. Une affaire m'appelle ailleurs.</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Nous nous reverrons bientôt.</p>
+                  <p rend="justify">(<hi rend="italic">Martin sort.</hi>)</p>
+               </div>
+               <div type="div3">
+                  <head>SCÈNE VII</head>
+                  <p rend="justify">DURAND, VENCESLAS.</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Eh bien, êtes-vous content?</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Je suis ravi. Tu me rappelles toute l'histoire humaine et une partie de l'Égypte. (<hi rend="italic">Il va pour sortir.</hi>)</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Où allez-vous donc?</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">À la recherche de mon Martin...</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Et vous ne m'emmenez pas?</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Non; il vaut mieux que tu restes ici à te refaire un peu la main. D'ailleurs, ne faut-il pas que tu écrives à ta fiancée, mon pauvre garçon?</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Comment, écrire?</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Dame; si par malheur tu allais...</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Comme c'est adroit de me dire ça!</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Il faut tout prévoir. Adieu, je vais faire mes courses. (<hi rend="italic">Il remonte. Déclamant.</hi>) "Sors vainqueur d'un combat dont Naïde est le prix." Adieu, mon petit Ceslas. Si j'ai le temps, j'achèterai quelques tulipes, à tout hasard... Adieu, mon petit Ceslas; je vole, vole, vole...</p>
+               </div>
+               <div type="div3">
+                  <head>SCÈNE VIII</head>
+                  <p rend="justify">VENCESLAS (<hi rend="italic">seul</hi>).</p>
+                  <p rend="justify">Vieux hanneton! le diable l'emporte avec ses tulipes! Quand je pense que c'est pour lui que je vais risquer ma peau... Quand je dis pour lui, c'est pour Naïde... puisque sa main dépend de ce tournoi... Elle est si belle, ma cousine!... Elle a parfois un peu l'air d'une grue; mais c'est égal, c'est une femme bien agréable! (<hi rend="italic">Après un moment.</hi>) Pourvu que mon adversaire n'aille pas me faire de mal! Peuh! il n'a pas grande apparence. Et puis, je tire assez proprement, moi! À Hull, je passe pour une fine lame! Du reste, je le verrai venir, et s'il m'a l'air de savoir son affaire, je vous lui allonge un petit coup en quarte basse... que je connais, rien de plus traître... (<hi rend="italic">Faisant des armes avec la main.</hi>) Une, deux! (<hi rend="italic">Bruit de voix en dehors.</hi>) Tiens, on dirait le creux de mon oncle. (<hi rend="italic">Allant regarder au fond.</hi>) Mais oui, c'est lui, avec... Viendraient-ils déjà me chercher?</p>
+               </div>
+               <div type="div3">
+                  <head>SCÈNE IX</head>
+                  <p rend="justify">VENCESLAS, DURAND, MARTIN</p>
+                  <p rend="justify">DURAND (<hi rend="italic">à Martin</hi>).</p>
+                  <p rend="justify">Non, jeune homme, vous ne me quitterez pas avant que je vous aie accablé du poids de ma reconnaissance.</p>
+                  <p rend="justify">VENCESLAS (<hi rend="italic">étonné, à part</hi>).</p>
+                  <p rend="justify">Sa reconnaissance!</p>
+                  <p rend="justify">MARTIN.</p>
+                  <p rend="justify">Eh! mon Dieu, je vous répète que ça ne vaut pas la peine...</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Pas la peine!... Lorsque sans vous je pouvais être broyé.</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Broyé?</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Ah; quel événement!... J'en suis encore tout perplexe... (<hi rend="italic">À Venceslas.</hi>) Figure-toi...</p>
+                  <p rend="justify">VENCESLAS (<hi rend="italic">à part</hi>).</p>
+                  <p rend="justify">Bon! troisième histoire!</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Figure-toi, dis-je, qu'en sortant d'ici, je me décide à monter en fiacre.</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Mais vous vouliez aller à pied?...</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Je le voulais, et point ne le fis. Que n'ai-je persisté dans cette résolution! Elle m'eût économisé une forte venette. Enfin, je monte en fiacre. À peine, eûmes-nous fait quelques pas, que, par un hasard sans précédent dans l'histoire moderne, les chevaux prennent le mors aux dents...</p>
+                  <p rend="justify">VENCESLAS</p>
+                  <p rend="justify">Des chevaux de fiacre?</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Frappé de terreur, je crie au cocher de retenir ses coursiers. Il veut les rappeler, mais sa voix les effraye. Deux flèches, Venceslas, deux flèches... lancées à toute vapeur et des cahots... à désarticuler mes bretelles. C'était effrayant!... je me trouvais dans la position d'Hippolyte sur son char... Seulement, au lieu d'être dessus, j'étais dedans. Bref, une catastrophe devenait imminente... lorsque, tout à coup, cet intrépide jeune homme s'élance, au péril de sa vie... saisit les rênes, arrête la machine... et j'ai la satisfaction de me retrouver sur le pavé, le sein palpitant, mais sain et sauf.</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Comment, c'est monsieur qui?...</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Oui, c'est monsieur qui a exécuté ce brillant sauvetage.</p>
+                  <p rend="justify">MARTIN.</p>
+                  <p rend="justify">Oh! calmez-vous! j'en aurais fait autant pour le premier venu...</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Cela ne diminue pas votre mérite à mes yeux! Ah! jeune homme, que n'ai-je sur moi un balancier! je vous frapperais incontinent une médaille commémorative. Mais si, à défaut de cet ornement, une modeste côtelette...</p>
+                  <p rend="justify">MARTIN.</p>
+                  <p rend="justify">Merci, j'ai déjeuné.</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Il est désintéressé comme un terre-neuve.</p>
+                  <p rend="justify">MARTIN (<hi rend="italic">à part</hi>).</p>
+                  <p rend="justify">Ah! il m'ennuie, ce gros-là; je suis fâché d'avoir arrêté son sapin. (<hi rend="italic">Il entre au n° 13.</hi>)</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Mais au moins, dites-moi le nom de mon sauveur!</p>
+               </div>
+               <div type="div3">
+                  <head>SCÈNE X</head>
+                  <p rend="justify">DURAND, VENCESLAS, BERTRAND.</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Eh bien! eh bien! il s'en va sans m'apprendre son noble nom.</p>
+                  <p rend="justify">BERTRAND (<hi rend="italic">qui vient d'entrer</hi>).</p>
+                  <p rend="justify">Son nom!... vous ne le savez pas?... c'est monsieur Isidore Martin.</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Isidore Martin?</p>
+                  <p rend="justify">BERTRAND.</p>
+                  <p rend="justify">Du numéro 13. Le neveu d'un brave capitaine...</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Le capitaine Martin?</p>
+                  <p rend="justify">BERTRAND.</p>
+                  <p rend="justify">Précisément.</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">C'est lui!</p>
+                  <p rend="justify">BERTRAND.</p>
+                  <p rend="justify">Qui, lui?</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Le Martin que je cherche.</p>
+                  <p rend="justify">BERTRAND.</p>
+                  <p rend="justify">Et que vous n'avez pas voulu voir!</p>
+                  <p rend="justify">DURAND (<hi rend="italic">avec joie</hi>).</p>
+                  <p rend="justify">Enfin, je le tiens!... (<hi rend="italic">Tout à coup en jetant un cri.</hi>) Ah! grand Dieu!</p>
+                  <p rend="justify">BERTRAND.</p>
+                  <p rend="justify">Quoi donc?</p>
+                  <p rend="justify">VENCESLAS</p>
+                  <p rend="justify">Qu'est-ce qui vous prend?</p>
+                  <p rend="justify">DURAND, Quand je songe que tout à l'heure, il pouvait être escoffié par les chevaux du fiacre!... Je perdais, hélas!...</p>
+                  <p rend="justify">BERTRAND</p>
+                  <p rend="justify">Un ami qui vous est bien cher?</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Non... mille piastres de rente...</p>
+                  <p rend="justify">BERTRAND.</p>
+                  <p rend="justify">Oh! du reste, il ne faut pas que ça vous étonne... Monsieur Isidore n'en fait jamais d'autres.</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Comment! tous les matins il arrête un fiacre emporté!</p>
+                  <p rend="justify">BERTRAND.</p>
+                  <p rend="justify">Non, mais il ne se passe guère de jour sans qu'il risque les siens pour sauver quelqu'un ou quelque chose.</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Hein?... qu'est-ce que j'apprends là!... mais c'est donc une manie!</p>
+                  <p rend="justify">BERTRAND.</p>
+                  <p rend="justify">Ah! c'est un bien bon garçon que monsieur Martin, mais un fameux braque et qui ne tient pas plus à sa vie...</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Mais j'y tiens, moi, j'y tiens à sa vie!... Heureusement me voici près de lui, et... (<hi rend="italic">Jetant un nouveau cri.</hi>) Ah! grand Dieu! (<hi rend="italic">Bertrand impatienté sort.</hi>)</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Quoi donc encore?... vous m'avez fait peur!...</p>
+                  <p rend="justify">DURAND. Et ce duel, ce malheureux duel!</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Ah! dame, c'est vous qui m'avez aguiché...</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Tu ne te battras pas.</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Mais, mon oncle...</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Tu ne te battras pas!... La main d'Aménaïde est à ce prix!...</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Ah! ça, permettez...</p>
+               </div>
+               <div type="div3">
+                  <head>SCÈNE XI</head>
+                  <p rend="justify">
+                     <hi rend="italic">Les mêmes,</hi> MARTIN (<hi rend="italic">avec des épées</hi>).</p>
+                  <p rend="justify">MARTIN.</p>
+                  <p rend="justify">Messieurs, quand il vous plaira...</p>
+                  <p rend="justify">DURAND (<hi rend="italic">à Martin</hi>).</p>
+                  <p rend="justify">Nous sommes à vous, (<hi rend="italic">À Venceslas.</hi>) Tu vas lui faire des excuses.</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Des excuses! pour le renfoncement qu'il m'a donné.</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Un renfoncement n'est pas un soufflet... Ah! si c'était un soufflet; mais c'est un renfoncement!...</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">C'est déjà bien gentil comme ça.</p>
+                  <p rend="justify">MARTIN.</p>
+                  <p rend="justify">Eh bien! messieurs, les fleurets s'impatientent.</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Voilà!... (<hi rend="italic">Il fait un pas pour sortir.</hi>)</p>
+                  <p rend="justify">DURAND (<hi rend="italic">vivement</hi>).</p>
+                  <p rend="justify">Venceslas, je vous défends!... (<hi rend="italic">à Martin.</hi>) Un instant, jeune homme. Avant tout, que diantre! il faut s'expliquer...</p>
+                  <p rend="justify">MARTIN.</p>
+                  <p rend="justify">C'est inutile!</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">C'est inutile!...</p>
+                  <p rend="justify">DURAND (<hi rend="italic">sévèrement</hi>).</p>
+                  <p rend="justify">Venceslas!... (<hi rend="italic">À Martin.</hi>) Voyons, jeune homme, voyons... mon neveu est un peu vif; il a eu des torts...</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Moi?</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Tu en as eu... mais tu les reconnais.</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Comment! je...</p>
+                  <p rend="justify">DURAND (à Martin).</p>
+                  <p rend="justify">Il les reconnaît.</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Mais non; marchons.</p>
+                  <p rend="justify">MARTIN.</p>
+                  <p rend="justify">Marchons!</p>
+                  <p rend="justify">DURAND (<hi rend="italic">aux cent coups, à part</hi>).</p>
+                  <p rend="justify">Mon Dieu! comment le désarmer?... Ah! (<hi rend="italic">A Martin.</hi>) Monsieur, le pauvre garçon est idiot...</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Moi?...</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Hier encore, il était à la Longue-Pointe, section des abrutis.</p>
+                  <p rend="justify">VENCESLAS (<hi rend="italic">furieux</hi>).</p>
+                  <p rend="justify">Mais sacrebleu!</p>
+                  <p rend="justify">DURAND (<hi rend="italic">bas, à Venceslas</hi>).</p>
+                  <p rend="justify">Dis que tu es idiot, et je double la dot.</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Vous doublez la dot? c'est différent.</p>
+                  <p rend="justify">DURAND (<hi rend="italic">à part</hi>).</p>
+                  <p rend="justify">J'aime mieux ça que de tout perdre.</p>
+                  <p rend="justify">VENCESLAS (<hi rend="italic">à Martin</hi>).</p>
+                  <p rend="justify">Monsieur, croyez bien que je suis...</p>
+                  <p rend="justify">MARTIN.</p>
+                  <p rend="justify">Il suffit, monsieur, et puisque vous êtes idiot...</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Pardon, je...</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Oui, il est satisfait; je suis satisfait; l'honneur est satisfait; nous sommes tous satisfait. (<hi rend="italic">À Venceslas.</hi>) Va faire un tour, mon garçon!</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Mais je ne puis lui laisser croire...</p>
+                  <p rend="justify">DURAND (<hi rend="italic">le poussant dehors</hi>).</p>
+                  <p rend="justify">Va mon garçon, va!... Enfin je respire!</p>
+               </div>
+               <div type="div3">
+                  <head>SCÈNE XII</head>
+                  <p rend="justify">DURAND, MARTIN.</p>
+                  <p rend="justify">MARTIN.</p>
+                  <p rend="justify">Ah! vous êtes bien bon de vous être donné tant de mal.</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Moi, dont vous avez sauvé les jours, devrais-je souffrir que vous risquassiez les vôtres?</p>
+                  <p rend="justify">MARTIN.</p>
+                  <p rend="justify">Tenez, s'il faut vous l'avouer, je n'acceptais ce combat que comme un moyen d'en finir...</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Vous dites?...</p>
+                  <p rend="justify">MARTIN (<hi rend="italic">tirant sa montre</hi>).</p>
+                  <p rend="justify">Il est midi... Eh bien, mon brave homme, il se peut qu'à une heure je me fasse sauter la cervelle.</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Sauter la cervelle! à une heure... (<hi rend="italic">À part.</hi>) Saperlotte! et ma rente!... (<hi rend="italic">Haut.</hi>) Vous avancez, jeune homme... vous avancez!</p>
+                  <p rend="justify">MARTIN.</p>
+                  <p rend="justify">Oh! pour quelques minutes de plus ou de moins...</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Mais, malheureux! pourquoi cette résolution, que je qualifie d'insensée?</p>
+                  <p rend="justify">MARTIN.</p>
+                  <p rend="justify">Parce que... (<hi rend="italic">S'arrêtant.</hi>) Mais, bah! à quoi bon vous narrer?...</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Narrez toujours... Je vous porte beaucoup, mais beaucoup d'intérêt; vous m'avez rendu un grand service, et si je pouvais à mon tour...</p>
+                  <p rend="justify">MARTIN.</p>
+                  <p rend="justify">Vous? allons donc! il s'agit de peines de coeur...</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Vous êtes amoureux?</p>
+                  <p rend="justify">MARTIN.</p>
+                  <p rend="justify">D'une femme...</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Je m'en doutais!</p>
+                  <p rend="justify">MARTIN.</p>
+                  <p rend="justify">Qui, depuis huit jours, me fait tourner...</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">En bourrique je connais ça! Et c'est pour une pareille vétille que vous iriez... Eh! mon Dieu! les peines de coeur autant en emporte le vent! vous ferez comme moi, vous oublierez.</p>
+                  <p rend="justify">MARTIN.</p>
+                  <p rend="justify">Oublier?... encore un! merci! L'hiver dernier, je me mets à aimer une jeune fille; un beau matin, j'achète des gants pour aller lui demander l'adresse de son père; va te promener!... partie pour la ville!... pour je ne sais où en province... Je me dis comme vous: faut l'oublier!... Je parviens à en aimer une autre; et cette autre...</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">J'en conviens, c'est désagréable; mais que diable! prenez patience; votre Célimène finira par s'humaniser. J'entends qu'elle s'humanise...</p>
+                  <p rend="justify">MARTIN.</p>
+                  <p rend="justify">Vous?</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Moi! donnez-moi son adresse; j'irai la voir, je lui parlerai à votre endroit; et, dans un mois, je veux danser à votre noce.</p>
+                  <p rend="justify">MARTIN.</p>
+                  <p rend="justify">Non. J'ai promis d'attendre, j'attendrai... j'attendrai encore un peu... et si je ne retrouve pas mon Aménaïde...</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Aménaïde?</p>
+                  <p rend="justify">MARTIN.</p>
+                  <p rend="justify">Aménaïde Durand.</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Mais c'est ma fille!</p>
+                  <p rend="justify">MARTIN.</p>
+                  <p rend="justify">Ah!... c'est votre fille?... Eh bien! nous avons dansé et valsé ensemble l'hiver dernier; ça m'a suffi pour apprécier les qualités de son coeur; et je vous demande sa main. Voilà!</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Mais je l'ai donnée à Venceslas.</p>
+                  <p rend="justify">MARTIN.</p>
+                  <p rend="justify">Eh bien! vous la reprendrez...</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Mais...</p>
+                  <p rend="justify">MARTIN.</p>
+                  <p rend="justify">Sa main! ou vous aurez ma mort sur la conscience.</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Allons, bon!</p>
+                  <p rend="justify">MARTIN.</p>
+                  <p rend="justify">Décidez-vous.</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Mais ce pauvre Venceslas... comment me dégager!... Ah! j'ai un moyen! je l'enverrai faire lanlaire! c'est entendu! Vous l'aurez, mon ami... vous l'épouserez!</p>
+               </div>
+               <div type="div3">
+                  <head>SCÈNE XIII</head>
+                  <p rend="justify">
+                     <hi rend="italic">Les mêmes,</hi> VENCESLAS.</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">L'épouser? ma cousine?... eh bien! et moi?</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Toi? tu iras te faire lanlaire... c'est convenu entre nous.</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Mais, sapristi, mous m'avez donné votre parole!...</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Eh bien! oui, je t'ai donné ma parole, et je lui donne ma fille; je ne peux pas tout donner au même.</p>
+                  <p rend="justify">VENCESLAS.</p>
+                  <p rend="justify">Eh bien! si je n'ai pas la main d'Aménaïde, je tuerai monsieur.</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Ciel!</p>
+                  <p rend="justify">MARTIN.</p>
+                  <p rend="justify">Et si monsieur épouse Aménaïde, je me tue!</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Double ciel! mes amis... mes bons amis... (<hi rend="italic">Avec désespoir</hi>). Mais pourquoi donc cet animal de capitaine MARTIN va-t-il me constituer une rente sur la tête de son neveu?</p>
+               </div>
+               <div type="div3">
+                  <head>SCÈNE XIV</head>
+                  <p rend="justify">
+                     <hi rend="italic">Les mêmes,</hi> BERTRAND (<hi rend="italic">une lettre à la main</hi>).</p>
+                  <p rend="justify">BERTRAND (<hi rend="italic">à Durand</hi>).</p>
+                  <p rend="justify">Une lettre pour M. Durand.</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">Donnez! (<hi rend="italic">Il parcourt la lettre.</hi>) C'est du capitaine Martin. Il me donne le mot du logogriphe. "Mon cher ami, sachant mon neveu très braque et très écervelé, j'ai constitué ta rente sur sa tête, afin de t'obliger par là à veiller sur lui".</p>
+                  <p rend="justify">MARTIN (<hi rend="italic">à part</hi>). C'est donc pour cela qu'il tenait tant à ma vie?</p>
+                  <p rend="justify">DURAND.</p>
+                  <p rend="justify">"Mais maintenant que je suis de retour, ce soin me regarde. J'ai régularisé les choses en transférant la rente sur la tête de ta fille Aménaïde". Enfin, j'échappe donc à la pression de ce vampire! (<hi rend="italic">À Martin</hi>). Cher ami, tu n'auras pas ma fille!</p>
+                  <p rend="justify">VENCESLAS (<hi rend="italic">avec joie</hi>).</p>
+                  <p rend="justify">Oh bonheur!... et moi, j'aurais...</p>
+                  <p rend="justify">DURAND.</p>
+                  <lg>
+                     <l>Toi, je t'ai promis des tulipes, tu auras tes tulipes.</l>
+                     <l>DURAND (<hi rend="italic">au public</hi>).</l>
+                     <l>AIR: <hi rend="italic">de Céline.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>J'eus toujours l'âme tendre et bonne,</l>
+                     <l>Les moeurs douces, le coeur aimant;</l>
+                     <l>Je ne veux la mort de personne;</l>
+                     <l>Je suis bien vu dans mon département.</l>
+                     <l>Eh bien! malgré cette humeur débonnaire,</l>
+                     <l>J'éprouverais un plaisir... enfantin,</l>
+                     <l>Si je voyais la salle entière</l>
+                     <l>Applaudir la têt'de Martin!...</l>
+                     <l>Je voudrais que la salle entière</l>
+                     <l>Applaudît la têt'de Martin!!!</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>FIN</head>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,2208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La Légende des sexes: Poëmes hystériques</title>
+            <author>Edmond Haraucourt</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-01T19:26:50Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">odts/fr-odts/HaraucourtEdmond-LaL_2017.epub.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Edmond Haraucourt</name>
+               <date>2024-01-01T19:26:50Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>La Légende des sexes: Poëmes hystériques</head>
+         <author>Edmond Haraucourt</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">odts/fr-odts/HaraucourtEdmond-LaL_2017.epub.odt</p>
+         <p>Au lecteur</p>
+         <p>Table</p>
+         <p>LE SIRE DE CHAMBLEY</p>
+         <p>(Edmond H...)</p>
+         <head>LA LÉGENDE<lb/>DES SEXES</head>
+         <p>Poëmes Hystériques</p>
+         <p>1882</p>
+         <p>IMPRIMÉ A BRUXELLES POUR L’AUTEUR</p>
+         <p>
+            <hi rend="italic">Il a été tiré de cet ouvrage deux cents exemplaires, en deux séries,</hi>
+            <lb/>
+            <hi rend="italic">et douze exemplaires sur Japon.</hi>
+         </p>
+         <p>
+            <hi rend="italic">Ces volumes, tous numérotés et paraphés par l’auteur,</hi>
+            <lb/>
+            <hi rend="italic">ne pourront être vendus.</hi>
+         </p>
+         <p>
+            <hi rend="italic">L’hymne des Noyés fait partie de "La Légende des Sexes", mais n’a été achevé qu’après la publication de ce livre, qui a été tiré à un très petit nombre d’exemplaires et dont les originaux sont fort rares. Ils portent tous la signature de l’auteur. De nombreuses contrefaçons ont été faites sans qu’il soit possible de se défendre.</hi>
+         </p>
+         <p>L’HYMNE DES NOYÉS</p>
+         <pb/>
+         <div type="div1">
+            <head>La Légende des sexes: Poëmes hystériques</head>
+            <pb/>
+            <div type="div2">
+               <head>L’HYMNE DES NOYÉS</head>
+               <lg>
+                  <l>La Seine se déploie en frémissements vagues</l>
+                  <l>Où le reflet du gaz agite un rouge éclair,</l>
+                  <l>Tandis qu’un courant fuit dans la fuite des vagues,</l>
+                  <l>Plus opaque et pourtant plus clair;</l>
+                  <l>Il glisse, lourd comme une lave,</l>
+                  <l>Sur le flanc des piliers qu’il lave,</l>
+                  <l>Et voici qu’un hymne humble et grave</l>
+                  <l>Monte dans l’air.</l>
+                  <l>«Nous sommes les noyés des grandes nuits lascives,</l>
+                  <l>Les doux inachevés, les chauds et courts destins;</l>
+                  <l>Nous sommes le flot blanc des races convulsives</l>
+                  <l>Qui jaillit des soirs aux matins:</l>
+                  <l>Nous ruisselons comme des fleuves,</l>
+                  <l>Fils de nonnes et fils de veuves,</l>
+                  <l>Fils de vierges prudemment neuves,</l>
+                  <l>Fils de catins.</l>
+                  <l>«Pollen des lits bourgeois et des ennuis nocturnes,</l>
+                  <l>Fleurs d’amour, fleurs sans fruit des soirs sans lendemain,</l>
+                  <l>Nous chantons notre glas dans l’eau froide des urnes,</l>
+                  <l>Au clapotis rose des mains;</l>
+                  <l>Nous passons sans que nul nous voie,</l>
+                  <l>Mais avant d’être ceux qu’on noie,</l>
+                  <l>Nous noyons dans des mers de joie</l>
+                  <l>Les cœurs humains.</l>
+                  <l>  «Nous sommes les enfants ignorés de leurs mères;</l>
+                  <l>Nés d’un frisson d’amour, nous mourons de frissons,</l>
+                  <l>Et plus que les fœtus nous sommes éphémères,</l>
+                  <l>Nous, leurs frères, qui nous berçons</l>
+                  <l>Dans nos berceaux de porcelaine</l>
+                  <l>Accrochés aux duvets de l’aine,</l>
+                  <l>Comme au long des sentiers la laine</l>
+                  <l>Pend aux buissons.</l>
+                  <l>«Et tous, assassinés par l’onde du baptême</l>
+                  <l>Dans les Saxe et les Chine ou dans les grès rugueux,</l>
+                  <l>Dans les fleurs des faïences ou les fleurs de Bohème,</l>
+                  <l>Nous fluons à l’égout fongueux:</l>
+                  <l>Puis notre flotte erre et navigue</l>
+                  <l>Dans l’écluse, contre la digue</l>
+                  <l>Et sous le pont où la fatigue</l>
+                  <l>Endort les gueux.</l>
+                  <l>«Nous en avons tant vu grelotter sous les arches</l>
+                  <l>Que nous en avons pris en pitié les vivants;</l>
+                  <l>Tant vu qui regardaient, assis aux bords des marches,</l>
+                  <l>Courir leurs rêves décevants;</l>
+                  <l>Et mieux vaut le peu que nous sommes</l>
+                  <l>Que d’être devenus des hommes</l>
+                  <l>Essayant de pénibles sommes</l>
+                  <l>A tous les vents!</l>
+                  <l>«Nous aurions pu peupler cent mille fois la terre,</l>
+                  <l>Être héros, rois, dieux, avoir soif, avoir faim;</l>
+                  <l>Nous étions tout, étant le nombre et le mystère,</l>
+                  <l>L’ébauche du projet divin:</l>
+                  <l>Mais nous roulons, tourbe inféconde,</l>
+                  <l>Vers l’inféconde mer qui gronde,</l>
+                  <l>Vers la mer cuvette du monde,</l>
+                  <l>Sans fond, sans fin!»</l>
+                  <l>Le sire de Chambley.</l>
+               </lg>
+               <p rend="justify">IL N’A ÉTÉ TIRÉ DE CE POËME<lb/>
+                  <hi rend="italic">que cinquante Exemplaires numérotés</hi>
+               </p>
+               <p rend="justify">N<hi rend="sup">o</hi>  12</p>
+               <p rend="justify">LA LÉGENDE DES SEXES</p>
+               <p rend="justify">
+                  <hi rend="italic">Noctù qui juvenis leget hæc mea carmina solus</hi>
+                  <lb/>
+                  <hi rend="italic">Ardentem librum tollat utrâque manu.</hi>
+               </p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>PRÉFACE</head>
+               <p rend="justify">Ce livre est l’épopée du bas-ventre.</p>
+               <p rend="justify">La <hi rend="italic">Légende des sexes</hi>  n’est point une parodie, elle est un complément: le complément d’une œuvre gigantesque et lumineuse, mais incomplète à notre sens.</p>
+               <p rend="justify">Prenant l’être, Victor Hugo le regarda sous trois faces et crut l’avoir vu tout entier.</p>
+               <p rend="justify">Après qu’il eût dressé le grand miroir triangulaire de sa légende, il le fit tourner sur l’axe d’une idée préconçue: la constatation du progrès.</p>
+               <p rend="justify">Il l’avoue: il vit l’Homme, il vit le Mal, il vit l’Infini; le progressif, le relatif, l’absolu; et il en fit trois chants: la Légende des Siècles, la Fin de Satan, Dieu.</p>
+               <p rend="justify">Entendez bien ceci: il vit l’Homme, le progressif...</p>
+               <p rend="justify">Mais l’homme progresse-t-il tout entier? N’est-il pas en lui des Facultés et des Sens, des parties de l’âme, si j’ose dire, qui eurent dès la première heure toute la puissance du plein développement; des perfections innées et instinctives; des modes de faire qui atteignirent d’un bond les hauteurs que les races épurées n’ont pu et ne pourront dépasser?</p>
+               <p rend="justify">Certes, il en existe: tels l’Art et la Science du Rut et du Coït.</p>
+               <p rend="justify">Qui le nierait? Qu’avons-nous ajouté au passé?</p>
+               <p rend="justify">Rien!—Je suis comme Faust: j’ai travaillé beaucoup, beaucoup étudié, et je ne sais rien de plus que mes aïeux.</p>
+               <p rend="justify">Si reculée que puisse être l’apparition de l’Épicier sur le globe terrestre; qu’il remonte à Vespuce qui trouva l’Amérique ou à Hérodote qui courut l’Orient, croyez-vous que ce premier préposé aux denrées coloniales créa le simple mode qui aujourd’hui porte modestement son nom?</p>
+               <p rend="justify">Point... Pindare en parle, les bas-reliefs en vivent. Adam, s’il exista, en fit peut-être l’invention de la première heure, quand, affolé de désirs inconscients par la contemplation des splendeurs inconnues du corps féminin, il rugit, halluciné, fauve, et se jeta, face contre face, sur cette chair vivante et vibrante qui s’étalait et se déroulait devant lui, dans l’herbe épaisse.</p>
+               <p rend="justify">Las, il connut la Paresse, invention de la deuxième heure.</p>
+               <p rend="justify">Plus las, il gisait. Pour le subjuguer à sa tyrannique féminie, à sa luxure qui s’émeut lentement et commence à s’éveiller quand la nôtre s’endort, Éva eut l’invention de la troisième heure.—Qu’est-ce que ce nom moderne de «Gamin»?—Une usurpation du parisianisme sur la nature, un vol de nom, une contrefaçon de l’antique!</p>
+               <p rend="justify">Avant nous les Latins disaient <hi rend="italic">equus hectoreus</hi>; les Grecs avaient dit: <hi rend="italic">péribasiè</hi>.</p>
+               <p rend="justify">Prétendrez-vous qu’une civilisation altérée d’inconnu nous poussa à la dégradante imitation des bêtes? Erreur et présomption!</p>
+               <p rend="justify">La Levrette, cet aristocratique animal du faubourg Saint-Germain, ne nous a rien appris. Louis XVI connut avant nous les charmes qu’elle goûte: et naquit le Dauphin qui ne serait pas né.—Le siècle dernier nommait «le coup royal» ce qu’Ovide et Lucrèce scandaient <hi rend="italic">more ferarum</hi>.</p>
+               <p rend="justify">Anacréon avait cette délicieuse image: <hi rend="italic">Aphroditès armà</hi>, le char de Vénus; et le bon et simple Homère appelait cela <hi rend="italic">philotès</hi>.</p>
+               <p rend="justify">  Sennecourt disait peut-être vrai:</p>
+               <p rend="justify">Sic primi . . . . . . . . . . . . . . . . . . . . . . . . . . parentes.</p>
+               <p rend="justify">Sic tentabat amor, tunc puer, artis inops.</p>
+               <p rend="justify">Donc, dans le coït, rien; à côté, rien.</p>
+               <p rend="justify">Avons-nous essayé les premiers la force contractile du sphincter anal?—Caïn et Abel voulurent ensemble imiter Père et Mère, et attendirent ainsi qu’il leur naquît une sœur.</p>
+               <p rend="justify">Avons-nous inventé le travail des langues, et le baiser adultère des taureaux ou des cygnes?</p>
+               <p rend="justify">Rien! nous n’avons rien fait, et nous ne ferons rien!</p>
+               <p rend="justify">Il ne nous reste qu’un espoir, qu’un rêve irréalisé encore: l’application de l’envahissante électricité au travail voluptueux de nos sens.</p>
+               <p rend="justify">Et même doutons-nous, misérables que nous sommes, dans notre espérance dernière: car peut-être l’amour et le désir ne sont-ils que des phénomènes dynamo-électriques; nos sexes, des accumulateurs ou des piles chargés de voltes et d’ampères, et desquels jaillit, par l’approche d’un pôle contraire, la resplendissante électricité de l’amour.</p>
+               <p rend="justify">Donc, je nie le vœu du Maître, et je pose cet axiome: à côté du progressible, il est en nous des choses immuables, éternelles, et qui pourtant ont leur histoire.</p>
+               <p rend="justify">Elle manquait à la Légende, cette partie de la chronologie universelle.</p>
+               <p rend="justify">Je l’essaie.</p>
+               <p rend="justify">Et si Victor Hugo, jaloux de voir reprendre et parachever son œuvre, insinue méchamment que je me suis taillé une plume érotique sur l’aile de son aigle, que je titille une Muse nymphomane du frottement de ma pensée: Victor Hugo est injuste, et il est petit.</p>
+               <p rend="justify">  J’insiste, et je cherche les causes.</p>
+               <p rend="justify">Pourquoi le poète, faisant une œuvre grande, fit-il une œuvre incomplète?</p>
+               <p rend="justify">Pourquoi ce romantique oublia-t-il la parole de Gœthe: «N’écris rien sans y mettre un grain de folie»? Pourquoi négligea-t-il le point le plus puissamment humain de l’histoire humaine?</p>
+               <p rend="justify">Il a dit l’Homme; il a dit la Femme. Pourquoi n’a-t-il pas dit l’Homme sur la Femme?</p>
+               <p rend="justify">L’oublia-t-il?—Non: on n’oublie pas la Volupté: demandez aux saints. Hugo la connut.</p>
+               <p rend="justify">Il eut deux raisons pour la négliger.</p>
+               <p rend="justify">Il soutenait une thèse, il voulait un principe: l’Homme progressible et progressant. La volupté, une et constante, le gênait: il supprima la Volupté.</p>
+               <p rend="justify">L’autre raison, nous la trouvons dans la vie intime du poète.—Il fut aimé jeune: il se tut. On parle peu de ce qu’on fait beaucoup.</p>
+               <p rend="justify">Et ne nous dites pas qu’il se tut par pudeur!</p>
+               <p rend="justify">La pudeur est une convention sociale, un préjugé sans consistance, une hérésie à la religion de Nature.—Virginie eut tort d’en mourir, Bernardin de Saint-Pierre a tort devant Zola.</p>
+               <p rend="justify">La pudeur est un mot; la Volupté est une force.</p>
+               <p rend="justify">La Volupté est sainte et féconde: la chanter, c’est peupler.</p>
+               <p rend="justify">C’est échauffer la femme au sein glacé; c’est réveiller la jeunesse dormant dans les testicules du vieillard et du prêtre.—Œuvre d’humanité et de patriotisme!—C’est donner des bras à l’agriculture; des soldats à la défense du sol; des têtes à la pensée et au travail du Progrès.</p>
+               <p rend="justify">  L’Allemagne se double en un siècle; il en faut deux à la France!</p>
+               <p rend="justify">Je travaille à la revanche.</p>
+               <p rend="justify">Et c’est une tâche auguste, et Satan la bénit.</p>
+               <p rend="justify">La finirons-nous?—Le Destin le sait.</p>
+               <p rend="justify">N’importe: nous commençons.</p>
+               <p rend="justify">Rechercher quels furent les embrassements célèbres ou marquant une époque dans les phases de la grande Légende. Tout voir, dire un type de tout.</p>
+               <p rend="justify">Depuis l’accouplement de ces deux corps sans nom que Leibnitz a rêvés, et du baiser desquels naquit la molécule; jusqu’à ce qui se fera dans le monde des âmes, par delà l’heure où le clairon fatal aura sonné, quand l’essence de notre être moral, sans sexe, sans corps, s’abîmera, plein de religieuse lumière, dans une jouissance d’onanisme divin...</p>
+               <p rend="justify">  Tout voir, sous tous les cieux, sous tous les Dieux.</p>
+               <p rend="justify">La Genèse: Adam et le premier coït; les Anges amoureux de la Femme; Sodome près de Gomorrhe, et les mâles consolés de la froideur du sexe faible; Onan, fils de Juda, qui frustrait son épouse au profit de sa dextre.</p>
+               <p rend="justify">L’Inde et Bouddha; la Chine et Koung-Fou-Tseu, porté cent ans au ventre de sa mère; la petite Kéops, pyramide vénérienne, lente pyramide où l’amour venait chaque matin poser une pierre nouvelle, apportée chaque nuit à la fille du Pharaon par un nouvel amant qui payait son bonheur en granit; et l’Égypte morte, après des siècles et des siècles, dans la dernière nuit de Cléopâtre.</p>
+               <p rend="justify">Le Paganisme Grec, avec Pasiphaë se damnant aux bras d’un taureau; Narcisse et ses soliloques; Danaé et ses divines erreurs; et Sapho, l’aïeule des Paule Giraud; et Batyle, pâmé sous Anacréon; et Diogène polluant de spermatozoaires le pallium des Corinthiens.</p>
+               <p rend="justify">Le Paganisme à Rome: jours de Saturne, jeux d’Isis, fêtes du Phallus; scènes où la couche nuptiale est sans rideaux; Messaline impératrice de lupanar; Néron empereur amoureux d’une blessure...</p>
+               <p rend="justify">Puis le Christianisme et ses premiers adeptes: Philippus le Diacre, et Magdeleine la repentante.</p>
+               <p rend="justify">Et ce sera la grande épopée du Moyen Age, les Roland et les Olivier, ces preux sans fatigue.</p>
+               <p rend="justify">Et les ans passeront, et les temps nouveaux apporteront les cours d’amour, les congrès, les épreuves du couchier et les droits de jambage.</p>
+               <p rend="justify">Rabelais nous prêtera ses moines et son roi.</p>
+               <p rend="justify">  Notre ère de Progrès montrera ses collèges, ses couvents et ses bouges; Chlorose régnant sur la vertu et Syphilis présidant à l’Hymen.</p>
+               <p rend="justify">Nous exciterons l’homme grave, nous effrayerons le lycéen, ayant placé le correctif à côté de l’érectif.</p>
+               <p rend="justify">Et tout cela jeté pêle-mêle, au hasard de la conception, sans ordre, sans méthode, abandonné au tact et aux connaissances du lecteur qui classera les camées à leur âge.</p>
+               <p rend="justify">Peu de pastiches: autant que le caprice nous demandera d’en faire.</p>
+               <p rend="justify">Peut-être aussi ne trouvera-t-on rien de ce que nous promettons dans cette manière de table... Qu’importe? C’est d’un droit que nous usons. Les préfaces sont, comme les proclamations politiques, destinées uniquement à annoncer ce qui ne sera pas, ou à grandir une œuvre qui n’est point grande.</p>
+               <p rend="justify">  D’ailleurs, nous affrontons tout: s’ils nous lisent, les poncifs et les pontifes nous couvriront d’ignominie et nous fleurdeliseront du mot de pornographe; les artistes seuls et les femmes comprendront que nous ne sommes qu’un lyrique, jouant au bilboquet avec la boule de son hystérie sur le manche de ses érections.</p>
+               <p rend="justify">Et si, malgré le soin porté par nous à quelques pièces, l’œuvre paraît ainsi trop facile et trop lâche en ses formes, nous répéterons encore que notre but fut moral avant tout, puisque nous rentrons dans la sainte Nature: et nous avons fait tâche, moins souvent de Littérateur, que de Philosophe humanitaire et cynique.</p>
+               <p rend="justify">Edmond de Chambley.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>LE COÏT DES ATOMES</head>
+               <p rend="justify">
+                  <hi rend="italic">A Fernand Icres.</hi>
+               </p>
+               <lg>
+                  <l>Rien n’était. Le Néant s’étalait dans la nuit.</l>
+                  <l>Nul frisson n’annonçait un monde qui commence.</l>
+                  <l>Sans forme, sans couleur, sans mouvement, sans bruit,</l>
+                  <l>Les germes confondus flottaient dans l’ombre immense.</l>
+                  <l>Le froid stérilisait les espaces sans fin:</l>
+                  <l>L’essence de la vie et la source des causes</l>
+                  <l>Sommeillaient lourdement dans le chaos divin.</l>
+                  <l>L’âme de Pan nageait dans la vapeur des choses.</l>
+                  <l>  L’originelle Mort, d’où l’univers est né,</l>
+                  <l>Engourdissait dans l’œuf l’innommable matière;</l>
+                  <l>Et sans force, impuissant, le Verbe consterné</l>
+                  <l>Pesait dans l’infini son œuvre tout entière.</l>
+                  <l>Soudain, sous l’œil de Dieu qui regardait, sans but,</l>
+                  <l>Frémit une lueur vague de crépuscule.</l>
+                  <l>L’atome vit l’atome: il bougea. L’amour fut;</l>
+                  <l>Et du premier Coït naquit la molécule.</l>
+                  <l>Or l’Esprit, stupéfait de ces accouplements</l>
+                  <l>Qui grouillaient dans l’abîme insondé du désordre,</l>
+                  <l>Vit, dans la profondeur des nouveaux firmaments,</l>
+                  <l>D’infimes embryons se chercher et se tordre.</l>
+                  <l>Pleins de lenteur pénible et d’efforts caressants,</l>
+                  <l>Les corps erraient, tournaient et s’accrochaient, sans nombre:</l>
+                  <l>L’amour inespéré subtilisait leurs sens;</l>
+                  <l>La lumière naissait des frottements de l’ombre.</l>
+                  <l>Et les astres germaient. O splendeur! O matins!</l>
+                  <l>Chaudes affinités des êtres et des formes!</l>
+                  <l>Les soleils s’envolaient sur les orbes lointains,</l>
+                  <l>Entraînant par troupeaux les planètes énormes.</l>
+                  <l>  Des feux tourbillonnants fendaient l’immensité,</l>
+                  <l>Et les sphères en rut roulaient leurs masses rondes;</l>
+                  <l>Leurs flancs brûlés d’amour et de fécondité</l>
+                  <l>Crachaient à pleins volcans le sperme ardent des mondes.</l>
+                  <l>Puis les éléments lourds s’ordonnaient, divisés:</l>
+                  <l>Les terres s’habillaient de roches et de plantes;</l>
+                  <l>L’air tiède enveloppait les globes de baisers,</l>
+                  <l>Et les mers aux flots bleus chantaient leurs hymnes lentes.</l>
+                  <l>C’est alors, qu’au milieu du monde épais et brut,</l>
+                  <l>Debout, fier, et criant l’éternelle victoire,</l>
+                  <l>Chef-d’œuvre de l’amour, l’Être Vivant parut!</l>
+                  <l>—Et Dieu sentit l’horreur d’être seul dans sa gloire.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>PHILOSOPHIE</head>
+               <p rend="justify">SONNET HONTEUX</p>
+               <p rend="justify">
+                  <hi rend="italic">A Émile Goudeau.</hi>
+               </p>
+               <lg>
+                  <l>L ’anus profond de Dieu s’ouvre sur le Néant,</l>
+                  <l>Et, noir, s’épanouit sous la garde d’un ange.</l>
+                  <l>Assis au bord des cieux qui chantent sa louange,</l>
+                  <l>Dieu fait l’homme, excrément de son ventre géant.</l>
+                  <l>Pleins d’espoir, nous roulons vers le sphincter béant</l>
+                  <l>Notre bol primitif de lumière et de fange;</l>
+                  <l>Et, las de triturer l’indigeste mélange,</l>
+                  <l>Le Créateur pensif nous pousse en maugréant.</l>
+                  <l>  Un être naît: salut! Et l’homme fend l’espace</l>
+                  <l>Dans la rapidité d’une chute qui passe:</l>
+                  <l>Corps déjà disparu sitôt qu’il apparaît.</l>
+                  <l>C’est la Vie: on s’y jette, éperdu, puis on tombe;</l>
+                  <l>Et l’Orgue intestinal souffle un adieu distrait</l>
+                  <l>Sur ce vase de nuit qu’on appelle la tombe.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>L’ÉDEN</head>
+               <p rend="justify">
+                  <hi rend="italic">A Florent Scheving.</hi>
+               </p>
+               <p rend="justify">Dans l’éther infini, plein de profonds mirages,</p>
+               <p rend="justify">Dans l’azur insondable et vierge de nuages,</p>
+               <p rend="justify">Le grand soleil montait lentement, gravement:</p>
+               <p rend="justify">Et l’Éden, ébloui du long rayonnement,</p>
+               <p rend="justify">S’éveilla. La nature amoureuse et ravie</p>
+               <p rend="justify">Entonna le concert éclatant de la vie.</p>
+               <p rend="justify">Tout remuait: Adam, le seul et le dernier,</p>
+               <p rend="justify">Dormait les poings fermés, à l’ombre d’un pommier.</p>
+               <p rend="justify">De larges ronflements bourdonnaient sur sa lèvre:</p>
+               <p rend="justify">Il avait eu, la nuit, des douleurs et la fièvre;</p>
+               <p rend="justify">Il avait fait un rêve, il avait mal aux reins:</p>
+               <p rend="justify">Il avait cru voir Dieu, du haut des cieux sereins,</p>
+               <p rend="justify">  Descendre à petits pas, et la dextre divine</p>
+               <p rend="justify">Avait pendant longtemps fouillé dans sa poitrine</p>
+               <p rend="justify">Pour y ravir un os qu’elle avait emporté...</p>
+               <p rend="justify">Adam dormait toujours. Debout à son côté,</p>
+               <p rend="justify">Ève le regardait, soucieuse, étonnée.</p>
+               <p rend="justify">Le jour venait de naître où la femme était née.</p>
+               <p rend="justify">L’homme ronflait. Une heure entière s’écoula;</p>
+               <p rend="justify">Ève, agacée enfin de le voir toujours là,</p>
+               <p rend="justify">Ève, maligne et femme, Ève prit une pomme</p>
+               <p rend="justify">Et la laissa tomber sur l’œil du premier homme.</p>
+               <p rend="justify">Adam se redressa d’un seul bond: «Mille dieux!»</p>
+               <p rend="justify">Mais il aperçut Ève en se frottant les yeux.</p>
+               <p rend="justify">Homme sans le savoir et galant de naissance,</p>
+               <p rend="justify">Il fit une profonde et grave révérence:</p>
+               <p rend="justify">—«Dieu fait bien ce qu’il fait; Éblis seul fait le mal.»</p>
+               <p rend="justify">Il s’assit:—«Quel est donc ce nouvel animal?</p>
+               <p rend="justify">Et d’où vient qu’on ne peut rien trouver à lui dire?»</p>
+               <p rend="justify">Il se tut un instant, puis, avec un sourire:</p>
+               <p rend="justify">—«Il fait bien chaud!...</p>
+               <p rend="justify">Ève</p>
+               <p rend="justify">Oh oui.</p>
+               <p rend="justify">Adam</p>
+               <p rend="justify">Le soleil est très-fort!</p>
+               <p rend="justify">  Ève</p>
+               <p rend="justify">Oh oui.</p>
+               <p rend="justify">Adam</p>
+               <p rend="justify">C’est étonnant avec ce vent du nord...</p>
+               <p rend="justify">Car c’est le vent du Nord qui vient de la montagne.</p>
+               <p rend="justify">Ève</p>
+               <p rend="justify">Ah!</p>
+               <p rend="justify">Adam</p>
+               <p rend="justify">Oui... Connaissez-vous un peu notre campagne?</p>
+               <p rend="justify">Ève</p>
+               <p rend="justify">Moi? non. Je viens de naître.</p>
+               <p rend="justify">Adam</p>
+               <p rend="justify">Ah! de naître... Aujourd’hui?</p>
+               <p rend="justify">Ève</p>
+               <p rend="justify">Oui.</p>
+               <p rend="justify">Adam</p>
+               <p rend="justify">Je vous félicite... Éden vous plaît-il?</p>
+               <p rend="justify">Ève</p>
+               <p rend="justify">Oui.</p>
+               <p rend="justify">  Adam</p>
+               <p rend="justify">Pensez-vous y rester quelque temps?</p>
+               <p rend="justify">Ève</p>
+               <p rend="justify">C’est probable.</p>
+               <p rend="justify">Adam</p>
+               <p rend="justify">Ah, tant mieux. Vous verrez: c’est un séjour aimable.</p>
+               <p rend="justify">Je vous promènerai dans notre paradis,</p>
+               <p rend="justify">Aimez-vous à causer?</p>
+               <p rend="justify">Ève</p>
+               <p rend="justify">Que dites-vous?</p>
+               <p rend="justify">Adam</p>
+               <p rend="justify">Je dis:</p>
+               <p rend="justify">Aimez-vous à causer?</p>
+               <p rend="justify">Ève</p>
+               <p rend="justify">Je ne sais pas encore;</p>
+               <p rend="justify">Je ne peux pas savoir: je suis née à l’aurore.»</p>
+               <p rend="justify">Il se fit un silence: Adam, pâle et songeur,</p>
+               <p rend="justify">Promenait brusquement ses deux mains sur son cœur.</p>
+               <p rend="justify">  Ève</p>
+               <p rend="justify">«Vous cherchez quelque chose?</p>
+               <p rend="justify">Adam</p>
+               <p rend="justify">Il me manque une côte!</p>
+               <p rend="justify">Ève</p>
+               <p rend="justify">Dieu m’a créée avec: ce n’est pas de ma faute.</p>
+               <p rend="justify">Adam</p>
+               <p rend="justify">Tiens... La drôle d’idée! Et quel est votre nom?</p>
+               <p rend="justify">Ève</p>
+               <p rend="justify">Ève.</p>
+               <p rend="justify">Adam</p>
+               <p rend="justify">Oh, le joli nom!</p>
+               <p rend="justify">Ève</p>
+               <p rend="justify">Vous me flattez...</p>
+               <p rend="justify">Adam</p>
+               <p rend="justify">Mais non.</p>
+               <p rend="justify">Moi je m’appelle Adam.</p>
+               <p rend="justify">Ève</p>
+               <p rend="justify">Adam...»</p>
+               <p rend="justify">Nouveau silence:</p>
+               <p rend="justify">  Tous deux s’étonnaient de tant de différence</p>
+               <p rend="justify">Dans les formes du corps et les tons de la peau.</p>
+               <p rend="justify">Adam la trouvait belle; Ève le trouvait beau.</p>
+               <p rend="justify">Ils se taisaient, mais ils raisonnaient en revanche.</p>
+               <p rend="justify">Adam reprit enfin:—«Comme vous êtes blanche!</p>
+               <p rend="justify">Pourquoi Dieu vous a-t-il mis des cheveux si longs?</p>
+               <p rend="justify">Les miens sont courts et noirs et les vôtres tout blonds.</p>
+               <p rend="justify">C’est vraiment très-joli, ces lourdes tresses blondes...</p>
+               <p rend="justify">Ève</p>
+               <p rend="justify">Vous trouvez?</p>
+               <p rend="justify">Adam</p>
+               <p rend="justify">Très-joli... Mais ces machines rondes,</p>
+               <p rend="justify">Là, sur votre poitrine: A quoi cela sert-il?</p>
+               <p rend="justify">Ève</p>
+               <p rend="justify">Je n’en sais rien. Mais vous, au-dessous du nombril,</p>
+               <p rend="justify">Qu’est-ce que vous portez dans cette touffe noire,</p>
+               <p rend="justify">Sur ce double coussin?</p>
+               <p rend="justify">Adam</p>
+               <p rend="justify">Je m’en sers... après boire.</p>
+               <p rend="justify">  Ève</p>
+               <p rend="justify">Seulement?—Cela doit vous gêner pour marcher?</p>
+               <p rend="justify">Adam</p>
+               <p rend="justify">Pas trop... On s’habitue.</p>
+               <p rend="justify">Ève</p>
+               <p rend="justify">Est-ce qu’on peut toucher?</p>
+               <p rend="justify">Adam</p>
+               <p rend="justify">Si vous le désirez...</p>
+               <p rend="justify">Ève</p>
+               <p rend="justify">Je suis si curieuse.</p>
+               <p rend="justify">Alors vous permettez?...»</p>
+               <p rend="justify">Ève, blanche et rieuse,</p>
+               <p rend="justify">Avança doucement ses petits doigts rosés,</p>
+               <p rend="justify">Puis, s’arrêtant soudain:</p>
+               <p rend="justify">«Je n’ose pas!</p>
+               <p rend="justify">Adam</p>
+               <p rend="justify">Osez!</p>
+               <p rend="justify">Est-ce qu’il vous fait peur?</p>
+               <p rend="justify">  Ève</p>
+               <p rend="justify">Peur? Oh non: je suis brave.</p>
+               <p rend="justify">Tiens! C’est tout rouge au bout. On dirait une rave.</p>
+               <p rend="justify">C’est pour le protéger, sans doute, cette peau?</p>
+               <p rend="justify">Ce n’est pas laid du tout.</p>
+               <p rend="justify">Adam</p>
+               <p rend="justify">Oh... Ce n’est pas très-beau.</p>
+               <p rend="justify">Ève</p>
+               <p rend="justify">Mais si: c’est très-gentil.»</p>
+               <p rend="justify">Et les mignons doigts roses</p>
+               <p rend="justify">Allaient, couraient, venaient, faisaient de courtes poses,</p>
+               <p rend="justify">Comme des papillons voltigeant sur des fleurs.</p>
+               <p rend="justify">Ève</p>
+               <p rend="justify">«Oh mais, regardez donc. Il a pris des couleurs.</p>
+               <p rend="justify">Comme c’est drôle! Il est plus grand que tout à l’heure.</p>
+               <p rend="justify">Il se dresse: il frémit. Ciel! une larme: il pleure!»</p>
+               <p rend="justify">Ève essuya la larme à ses cheveux dorés.</p>
+               <p rend="justify">Ève</p>
+               <p rend="justify">«Il pleure! Il pleure encore! Est-ce que vous souffrez?</p>
+               <p rend="justify">Adam</p>
+               <p rend="justify">Au contraire.</p>
+               <p rend="justify">Ève</p>
+               <p rend="justify">Oh, Monsieur Adam! il est énorme,</p>
+               <p rend="justify">Maintenant! Il n’a plus du tout la même forme.</p>
+               <p rend="justify">C’est très-raide et très-dur... A quoi peut-il servir?»</p>
+               <p rend="justify">Adam lui répondit, dans un profond soupir:</p>
+               <p rend="justify">«Est-ce que vous croyez qu’il sert à quelque chose?</p>
+               <p rend="justify">Ève</p>
+               <p rend="justify">Je n’en suis pas très-sûre: au moins, je le suppose.</p>
+               <p rend="justify">Vous m’avez dit tantôt: «Dieu fait bien ce qu’il fait.»</p>
+               <p rend="justify">Toute chose a son but si ce monde est parfait.</p>
+               <p rend="justify">Adam</p>
+               <p rend="justify">Oui, si Dieu m’avait dit ce qu’il veut que je fasse</p>
+               <p rend="justify">De ce... Mais vous, comment?...</p>
+               <p rend="justify">Ève</p>
+               <p rend="justify">Moi je n’ai que la place.</p>
+               <p rend="justify">C’est peut-être un oubli: voyez.</p>
+               <p rend="justify">Adam (<hi rend="italic">cherchant trop haut.</hi>)</p>
+               <p rend="justify">Je ne vois rien.</p>
+               <p rend="justify">Ève</p>
+               <p rend="justify">Non: pas là, maladroit! Ici... Regardez bien.</p>
+               <p rend="justify">Adam</p>
+               <p rend="justify">C’est juste! on vous a même arraché la racine!</p>
+               <p rend="justify">La fosse est encor fraîche... Est-ce que la voisine</p>
+               <p rend="justify">Communique?... Pour voir, si j’y mettais le doigt?</p>
+               <p rend="justify">Ève</p>
+               <p rend="justify">Mettez ce qu’il faudra.</p>
+               <p rend="justify">Adam</p>
+               <p rend="justify">Diable! C’est bien étroit!»</p>
+               <p rend="justify">Il glissa sous la femme une main caressante...</p>
+               <p rend="justify">Ève bondit, l’œil clos, la croupe frémissante,</p>
+               <p rend="justify">Les seins tendus, les poings crispés dans ses cheveux.</p>
+               <p rend="justify">Tout son être frémit d’un long frisson nerveux,</p>
+               <p rend="justify">Et le soupir mourut entre ses dents serrées.</p>
+               <p rend="justify">  «Encore!» Elle entr’ouvrit ses deux cuisses cambrées,</p>
+               <p rend="justify">Et le premier puceau vint tomber dans ses bras!</p>
+               <p rend="justify">«Encore! Cherche encore! Oui. Tant que tu voudras.»</p>
+               <p rend="justify">Comme il croisait ses mains sous deux épaules blanches,</p>
+               <p rend="justify">Adam sentit deux pieds se croiser sur ses hanches.</p>
+               <p rend="justify">Leurs membres innocents s’enlaçaient, s’emmêlaient.</p>
+               <p rend="justify">S’ils avaient pu savoir, au moins, ce qu’ils voulaient!</p>
+               <p rend="justify">O pucelage! Alors, presque sans le comprendre,</p>
+               <p rend="justify">Tous deux en même temps, d’une voix faible et tendre,</p>
+               <p rend="justify">Murmurèrent: «Je t’aime». Et le premier baiser</p>
+               <p rend="justify">Vint, en papillonnant, en riant, se poser</p>
+               <p rend="justify">Et chanter doucement sur leurs lèvres unies.</p>
+               <p rend="justify">Dieu, pour les ignorants, créa deux bons génies:</p>
+               <p rend="justify">L’Instinct et le Hasard. Or, au bout d’un instant,</p>
+               <p rend="justify">Ève avait deviné ce qui l’intriguait tant.</p>
+               <p rend="justify">Avez-vous jamais vu le serpent que l’on chasse?</p>
+               <p rend="justify">De droite à gauche, errant, affolé, tête basse,</p>
+               <p rend="justify">En avant, en arrière, il va sans savoir où.</p>
+               <p rend="justify">  Il s’élance; il recule; il cherche; il veut un trou,</p>
+               <p rend="justify">Un asile où cacher sa fureur écumante.</p>
+               <p rend="justify">Il cherche: il ne voit rien, et son angoisse augmente.</p>
+               <p rend="justify">Mais, lorsqu’il aperçoit l’abri qu’il a rêvé,</p>
+               <p rend="justify">Il entre et ne sort plus.—Adam avait trouvé!</p>
+               <p rend="justify">Un cri, puis des soupirs: l’homme a compris la femme.</p>
+               <p rend="justify">Les deux corps enlacés semblaient n’avoir qu’une âme.</p>
+               <p rend="justify">Ils se serraient, ils se tordaient, ils bondissaient.</p>
+               <p rend="justify">Les chairs en feu frottaient les chairs, s’électrisaient.</p>
+               <p rend="justify">Les veines se gonflaient. Les langues acérées</p>
+               <p rend="justify">Cherchaient une morsure entre les dents serrées.</p>
+               <p rend="justify">Des nerfs tendus et fous, des muscles contractés,</p>
+               <p rend="justify">Des élans furieux, des bonds de voluptés...</p>
+               <p rend="justify">Plus fort! Plus vite! Enfin c’est la suprême étreinte,</p>
+               <p rend="justify">Le frisson convulsif...</p>
+               <p rend="justify">Ève, alanguie, éteinte,</p>
+               <p rend="justify">Se pâme en un soupir et fléchit sur ses reins;</p>
+               <p rend="justify">Ses yeux cherchent le ciel; son cœur bat sous ses seins.</p>
+               <p rend="justify">Son beau corps souple, frêle, et blanc comme la neige,</p>
+               <p rend="justify">S’arrondit, s’abandonne au bras qui la protège.</p>
+               <p rend="justify">  Adam, heureux et las, se couche à son côté.</p>
+               <p rend="justify">Puis, tous deux, lourds, le sein doucement agité</p>
+               <p rend="justify">Comme s’ils écoutaient de tendres harmonies,</p>
+               <p rend="justify">Rêvent, dans la langueur des voluptés finies.</p>
+               <p rend="justify">Mais Ève: «—Dieu, vois-tu, ne fait rien sans raisons.</p>
+               <p rend="justify">Dieu fait bien ce qu’il fait... Viens là! Recommençons...»</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>SOLITUDE</head>
+               <p rend="justify">
+                  <hi rend="italic">A M</hi>
+                  <hi rend="sup italic">e</hi>
+                  <hi rend="italic">  Etienne D..., magistrat.</hi>
+               </p>
+               <lg>
+                  <l>Pendant que je suis là sur mon lit, seul et nu,</l>
+                  <l>Tendant les mains à l’inconnu;</l>
+                  <l>Cherchant dans l’ombre épaisse une forme vivante</l>
+                  <l>Pour l’étreindre de mes deux bras;</l>
+                  <l>Inventant tout ce que la solitude invente</l>
+                  <l>Pour se dédoubler dans les draps;</l>
+                  <l>Pendant que le sang bout dans tes nobles artères,</l>
+                  <l>Sceptre rutilant de mes pères;</l>
+                  <l>Pendant que je te tiens, raidi, gonflé, tendu,</l>
+                  <l>Sous l’édredon que tu soulèves;</l>
+                  <l>Pendant que je m’épuise à noyer ma vertu</l>
+                  <l>Dans l’humidité de mes rêves.</l>
+                  <l>  Pendant que je me tords sur mon axe viril</l>
+                  <l>Comme saint Laurent sur son gril:</l>
+                  <l>—O femmes! Qui dira la foule involontaire</l>
+                  <l>Des pucelles qu’on fait moisir?</l>
+                  <l>Qui dira les doigts blancs dont l’effort solitaire</l>
+                  <l>Gratte l’écorce du plaisir?</l>
+                  <l>A vous! Je songe à vous, chastes filles du monde</l>
+                  <l>Que nul ne titille ou ne sonde;</l>
+                  <l>Clitoris sans amour des vierges par devoir,</l>
+                  <l>Muqueuses en rut, cœurs en peine,</l>
+                  <l>C’est pour vous que j’agite et que je fais pleuvoir</l>
+                  <l>Ce qui vous manque et qui me gêne.</l>
+                  <l>Car j’ai votre idéal, si vous avez le mien!</l>
+                  <l>Venez. Prenez: C’est votre bien.</l>
+                  <l>Vous pour moi, moi pour vous; qu’on aime et qu’on se serre!</l>
+                  <l>Libre échange! Secours mutuel!</l>
+                  <l>Ah, venez! Unissons notre double misère:</l>
+                  <l>Nos deux enfers feront un ciel.</l>
+                  <l>  Au festin de l’amour nous ferons table rase.</l>
+                  <l>J’ai la liqueur et vous le vase...</l>
+                  <l>Vous tendrez votre coupe à mes deux échansons.</l>
+                  <l>Moi généreux et vous avide:</l>
+                  <l>Fête longue et vins chauds! A nos santés: versons</l>
+                  <l>Mon trop plein dans votre trop vide!</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>BALLADE DES MALSEANS PUCELAIGES</head>
+               <p rend="justify">
+                  <hi rend="italic">A Maistre François Villon, souteneur et poète.</hi>
+               </p>
+               <lg>
+                  <l>Oncques n’amai la preude gent pucelle.</l>
+                  <l>Servent à quoi? N’usent fors qu’en pissant.</l>
+                  <l>Craignent toujours que rumpiez leur vesselle.</l>
+                  <l>Tant l’huis d’amour que les tettes mussant,</l>
+                  <l>S’en vont, nez bas comme barbet qui sent.</l>
+                  <l>Du col aux mols, sont drapel et drapille.</l>
+                  <l>Male heur sur vous si les touchez, disant:</l>
+                  <l>«Ouvre ton caz qu’y boute une cheville!»</l>
+                  <l>Or, Dieu ne fait le beau pour qu’on le cèle;</l>
+                  <l>Fait pour monter femme et cheval de sang;</l>
+                  <l>Pucelles fait, pour qu’on les despucelle;</l>
+                  <l>Pour cent perthuis fait de bouchons un cent.</l>
+                  <l>Lors, par despit, quand une ne consent,</l>
+                  <l>Il sonne un pet sonnant comme trompille,</l>
+                  <l>Et peu se fault qu’il ne clame en tançant:</l>
+                  <l>«Ouvre ton caz qu’y boute une cheville!»</l>
+                  <l>  Mieulz vault Margot que Kathe de Vausselle:</l>
+                  <l>Sade à chascun, hobe soubz tout passant.</l>
+                  <l>Tousiours à dos pour qu’on lui grimpe en selle,</l>
+                  <l>Huche au second quand le premier descend.</l>
+                  <l>Sans cryz, sans plours, et ses cottes troussant,</l>
+                  <l>Elle vous doint son oystre sans coquille</l>
+                  <l>Et doulz, très-doulz, d’un fin det caressant</l>
+                  <l>Ouvre son caz et boute la cheville.</l>
+               </lg>
+               <p rend="justify">ENVOI</p>
+               <lg>
+                  <l>Prince, si grant que soyez, et puissant,</l>
+                  <l>Point ne régnez, si déboute une fille,</l>
+                  <l>Quand requérez, votre Sceptre dressant:</l>
+                  <l>«Ouvre ton caz, qu’y boute une cheville!»</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>PASIPHAË</head>
+               <p rend="justify">
+                  <hi rend="italic">A Victor d’Auriac.</hi>
+               </p>
+               <p rend="justify">Hic crudelis amor tauri, suppostaque furto<lb/>Pasiphaë.</p>
+               <p rend="justify">Virgile (Énéide, Liv. VI.)</p>
+               <p rend="justify">L’infamia di Creta era distesa<lb/>Che fut concetta nella falsa vacca.</p>
+               <lg>
+                  <l>Dante (Enfer.)</l>
+                  <l>Midi! Le ciel profond est d’un cobalt intense,</l>
+                  <l>Comme une lampe d’or pendue au zénith bleu,</l>
+                  <l>Le soleil qui montait s’arrête et se balance:</l>
+                  <l>Ses rayons verticaux vibrent dans l’air en feu.</l>
+                  <l>Les monts, les champs, baignés de clartés odorantes,</l>
+                  <l>Rêvent sans mouvement dans leur vaste sommeil.</l>
+                  <l>L’île nage, au milieu des vagues transparentes</l>
+                  <l>Dont chacune miroite et reflète un soleil.</l>
+                  <l>  La mer chante: le flot, tiède et blanchi d’écume,</l>
+                  <l>Lèche le sable ardent qui fume dans le port.</l>
+                  <l>Le parfum lourd des fleurs pèse, comme une brume,</l>
+                  <l>Dans l’atmosphère épaisse où la brise s’endort.</l>
+                  <l>La sève bout; le fruit est mûr; la vie éclate:</l>
+                  <l>Les muscats jaunissants cuisent sur les coteaux;</l>
+                  <l>Le pâtre, désertant la lande aride et plate,</l>
+                  <l>Sous les blancs oliviers a conduit ses troupeaux.</l>
+                  <l>Et dans le bois sacré, sa royale retraite,</l>
+                  <l>Sous les myrtes neigeux du temple d’Astarté,</l>
+                  <l>La fille du Soleil, Pasiphaë de Crète,</l>
+                  <l>Moule dans les coussins sa brune nudité.</l>
+                  <l>Les tons mats de sa chair ont des reflets d’ivoire;</l>
+                  <l>Ses cheveux sur son sein roulent comme des flots,</l>
+                  <l>Et l’éclair brille, au fond de sa prunelle noire,</l>
+                  <l>Sous le voile lascif des cils à demi clos.</l>
+                  <l>La voilà! C’est la Reine aux fureurs hystériques:</l>
+                  <l>Pour éteindre l’ardeur de ses sens allumés,</l>
+                  <l>La voilà se cabrant, frottant ses chairs lubriques</l>
+                  <l>Sur le baiser soyeux des tissus parfumés.</l>
+                  <l>  Hélios! Tu la vois, crispant ses membres lisses,</l>
+                  <l>Mordant ses propres bras et tordant ses cheveux;</l>
+                  <l>Une peau de lion serrée entre ses cuisses,</l>
+                  <l>Elle s’arque, du cou jusqu’aux jarrets nerveux!</l>
+                  <l>En vain trente guerriers, les plus beaux de la Grèce,</l>
+                  <l>Ont sous leurs reins musclés pétri son torse nu:</l>
+                  <l>Surexcités par leur impuissante caresse,</l>
+                  <l>Ses flancs inassouvis ont rêvé d’inconnu.</l>
+                  <l>En vain, pour la calmer, Bacchantes et Tribades</l>
+                  <l>De leurs touchers savants ont énervé son corps;</l>
+                  <l>Elle a pris en dégoût ces voluptés trop fades:</l>
+                  <l>La Fille du Soleil veut des muscles plus forts!</l>
+                  <l>Or, elle a vu là-bas, sur les fauves lagunes,</l>
+                  <l>Dans la chaleur du rut passer un taureau blanc:</l>
+                  <l>Il allait, bondissant sur les génisses brunes,</l>
+                  <l>Et ses rouges naseaux aspiraient l’air brûlant.</l>
+                  <l>Et la Reine le veut, le fier taureau de Crète!</l>
+                  <l>Elle veut son amour profond et vigoureux.</l>
+                  <l>Dédale l’a comprise et la statue est prête:</l>
+                  <l>La génisse de bronze entr’ouvre ses flancs creux.</l>
+               </lg>
+               <lg>
+                  <l>  Qu’elle est superbe et vraie! On la dirait vivante:</l>
+                  <l>Les cornes de son front sont droites vers les cieux;</l>
+                  <l>Un rêve inconscient dort au fond de ses yeux;</l>
+                  <l>Son poitrail s’arrondit; sa large queue évente</l>
+                  <l>Et bat sa hanche aux poils soyeux!</l>
+                  <l>Sur les voluptueux tapis du gouffre vide,</l>
+                  <l>Pasiphaë, l’œil fixe et le sein haletant,</l>
+                  <l>S’agenouille et s’écarte. Elle a peur un instant;</l>
+                  <l>Puis, la croupe levée, impatiente, avide,</l>
+                  <l>La voici prête: elle l’attend!</l>
+                  <l>Il a mugi! C’est lui! C’est son pas! Il s’élance.</l>
+                  <l>Il embrasse l’airain sous son ventre puissant:</l>
+                  <l>La voûte en retentit. Plein des fureurs du sang,</l>
+                  <l>Il cherche: son désir oscille et se balance.</l>
+                  <l>Enfin, il trouve. Elle le sent!</l>
+                  <l>Sa main prompte a saisi le trait qui la caresse;</l>
+                  <l>Sa main douce le guide. Ici, monstre indompté!</l>
+                  <l>Un cri!... Mort ou bonheur? Torture ou volupté?</l>
+                  <l>Les chairs bâillent: il glisse, il pénètre, il se dresse</l>
+                  <l>Dans sa mâle rigidité!</l>
+                  <l>  Aux fonds inexplorés de la gorge féconde!</l>
+                  <l>Au fond de l’être! Au fond des canaux convulsés!</l>
+                  <l>Comme un fer rouge! Encore! Oh pitié! C’est assez.</l>
+                  <l>Le glaive secoué la déchire, la sonde,</l>
+                  <l>Et met en sang ses reins brisés!</l>
+                  <l>Pas de grâce, non! Grâce! Il avance; il se pousse!</l>
+                  <l>Où donc s’arrêtera son intraitable effort?</l>
+                  <l>Il se roidit. Toujours plus loin, toujours plus fort!</l>
+                  <l>Pasiphaë bondit, et pour chaque secousse</l>
+                  <l>Elle râle, hurle et se tord!</l>
+                  <l>Ses dents grincent; sa lèvre écume de salive;</l>
+                  <l>Ses doigts ensanglantés meurtrissent ses seins blancs.</l>
+                  <l>Elle ondule et frémit sur ses genoux tremblants;</l>
+                  <l>Ses muscles contractés serrent la force active</l>
+                  <l>Qui fouille la nuit dans ses flancs!</l>
+                  <l>O volupté! Douleurs! Spasmes! Rage inouïe!</l>
+                  <l>Oh! quelque chose à mordre, une lèvre, un baiser!</l>
+                  <l>Le sang bout dans la veine et bout à la briser!</l>
+                  <l>Il court en jets de feu, comme un torrent de pluie,</l>
+                  <l>Dans les chairs qu’il vient arroser!</l>
+                  <l>  Soudain, le nerf gonflé se tend et la soulève:</l>
+                  <l>Palpitante, pendue à ce levier vainqueur,</l>
+                  <l>Elle a senti jaillir une épaisse liqueur</l>
+                  <l>Qui coule, lave ardente, intarissable sève,</l>
+                  <l>Et regorge jusqu’à son cœur.</l>
+                  <l>Elle s’ouvre et déborde! Elle étrangle, elle presse</l>
+                  <l>Le dard chaud qui s’agite avec des élans fous!</l>
+                  <l>C’est le dernier frisson, le plus fort, le plus doux.</l>
+                  <l>Enfin lasse, inondée, et ruisselant d’ivresse,</l>
+                  <l>Elle fléchit sur les genoux.</l>
+                  <l>Son beau corps assouvi roule comme une masse</l>
+                  <l>Sur les coussins froissés de sa prison d’airain.</l>
+                  <l>—Mais déjà le Taureau hume le vent marin,</l>
+                  <l>Et rêve, en regardant l’horizon qui s’efface</l>
+                  <l>Dans la vague du ciel serein.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>LA FLUTE</head>
+               <p rend="justify">TRIOLETS</p>
+               <p rend="justify">
+                  <hi rend="italic">A Léopold Allard.</hi>
+               </p>
+               <lg>
+                  <l>Quand les vers m’auront désossé,</l>
+                  <l>Tout nu, tout sec, dans mes six planches;</l>
+                  <l>Fait de trous comme un bas percé,</l>
+                  <l>Quand les vers m’auront désossé;</l>
+                  <l>Quand le Temps grave aura lissé</l>
+                  <l>Mon vieux squelette aux maigreurs blanches;</l>
+                  <l>Quand les vers m’auront désossé,</l>
+                  <l>Tout nu, tout sec, dans mes six planches:</l>
+                  <l>  Alors, gaiement, venez me voir,</l>
+                  <l>Chœur lascif des vierges à naître</l>
+                  <l>Qui vivrez trop tard pour m’avoir...</l>
+                  <l>Alors, gaiement, venez me voir!</l>
+                  <l>Vous lèverez le marbre noir,</l>
+                  <l>Et me creusant une fenêtre,</l>
+                  <l>Alors, gaiement, venez me voir,</l>
+                  <l>Chœur lascif des vierges à naître.</l>
+                  <l>Vous chercherez parmi mes os</l>
+                  <l>Cet os viril qui fut mon membre:</l>
+                  <l>Près des fémurs, au bas du dos,</l>
+                  <l>Vous chercherez parmi mes os.</l>
+                  <l>Roide encore dans son repos</l>
+                  <l>Comme un athlète qui se cambre,</l>
+                  <l>Vous chercherez parmi mes os</l>
+                  <l>Cet os viril qui fut mon membre.</l>
+                  <l>Vous le verrez très-long, très-fort,</l>
+                  <l>Dur aux contours, et creux au centre;</l>
+                  <l>Veuf de son double contrefort,</l>
+                  <l>Vous le verrez très-long, très-fort,</l>
+                  <l>  L’os vaillant qui sous son effort</l>
+                  <l>Fora tant d’isthmes au bas ventre:</l>
+                  <l>Vous le verrez très-long, très-fort,</l>
+                  <l>Dur aux contours, et creux au centre.</l>
+                  <l>Hélas, j’en aurai fait mon deuil:</l>
+                  <l>Emportez-le, je vous le donne.</l>
+                  <l>Il fut ma force et mon orgueil,</l>
+                  <l>Hélas, j’en aurai fait mon deuil!</l>
+                  <l>Dans le célibat du cercueil,</l>
+                  <l>On dort seul, et la mort chaponne...</l>
+                  <l>Hélas, j’en aurai fait mon deuil:</l>
+                  <l>Emportez-le, je vous le donne!</l>
+                  <l>Vous percerez sept trous, sept trous,</l>
+                  <l>Et le canal deviendra flûte:</l>
+                  <l>Dans l’os sonore aux reflets roux,</l>
+                  <l>Vous percerez sept trous, sept trous,</l>
+                  <l>Pour accompagner les froufrous</l>
+                  <l>Des jupons que froisse la lutte:</l>
+                  <l>Vous percerez sept trous, sept trous,</l>
+                  <l>Et le canal deviendra flûte.</l>
+                  <l>  Sur la gamme des baisers nus</l>
+                  <l>L’Amour va chanter sa romance:</l>
+                  <l>Souffle dans ma flûte, ô Vénus!</l>
+                  <l>Sur la gamme des baisers nus</l>
+                  <l>Souffle tes airs les plus connus:</l>
+                  <l>Voici le bal qui recommence;</l>
+                  <l>Sur la gamme des baisers nus</l>
+                  <l>L’Amour va chanter sa romance.</l>
+                  <l>Do, ré, mi, fa, sol, la, si, do:</l>
+                  <l>La valse horizontale danse,</l>
+                  <l>Tourne, ondule sous le rideau;</l>
+                  <l>Do, ré, mi, fa, sol, la, si, do...</l>
+                  <l>La flûte suit le crescendo</l>
+                  <l>Et rhythme l’amour en cadence.</l>
+                  <l>Do, ré, mi, fa, sol, la, si, do:</l>
+                  <l>La valse horizontale danse!</l>
+                  <l>Et l’os vibre sous le baiser,</l>
+                  <l>Au souffle de la lèvre rose:</l>
+                  <l>L’air chaud le gonfle à le briser!</l>
+                  <l>  Et l’os vibre sous le baiser</l>
+                  <l>Du doigt blanc qui court se poser,</l>
+                  <l>Va, revient, remonte, et se pose...</l>
+                  <l>Et l’os vibre sous le baiser</l>
+                  <l>Au souffle de la lèvre rose!</l>
+                  <l>Ainsi j’attendrai doucement,</l>
+                  <l>Sur la bouche des belles filles,</l>
+                  <l>L’heure auguste du Jugement.</l>
+                  <l>Ainsi j’attendrai doucement,</l>
+                  <l>Joyeux de pouvoir en dormant</l>
+                  <l>Conduire encor les chauds quadrilles:</l>
+                  <l>Ainsi j’attendrai doucement,</l>
+                  <l>Sur la bouche des belles filles.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>SONNET POINTU</head>
+               <p rend="justify">Reviens sur moi! Je sens ton amour qui se dresse;</p>
+               <p rend="justify">Viens. J’ouvre mon désir au tien, mon jeune amant.</p>
+               <p rend="justify">Là... Tiens... Doucement... Va plus doucement...</p>
+               <p rend="justify">Je sens tout au fond ta chair qui me presse.</p>
+               <p rend="justify">Rhythme ton ardente caresse</p>
+               <p rend="justify">Au gré de mon balancement.</p>
+               <p rend="justify">O mon âme... Lentement,</p>
+               <p rend="justify">Prolongeons l’instant d’ivresse</p>
+               <p rend="justify">Là... Vite! Plus longtemps!</p>
+               <p rend="justify">Je fonds! Attends</p>
+               <p rend="justify">Oui... Je t’adore...</p>
+               <p rend="justify">Va! Va! Va!</p>
+               <p rend="justify">Encore!</p>
+               <p rend="justify">Ha!</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>A UNE VIERGE</head>
+               <lg>
+                  <l>Je veux cueillir la fleur de ta virginité,</l>
+                  <l>Savourer à longs traits les sucs de son calice:</l>
+                  <l>Comme le frelon ivre et lourd d’avoir fêté</l>
+                  <l>Les corolles, je veux que ma lèvre pâlisse</l>
+                  <l>A boire tes mortels parfums de volupté.</l>
+                  <l>Fais chanter ton baiser: c’est le roi des poèmes.</l>
+                  <l>J’apporte l’Infini que ton rêve a cherché:</l>
+                  <l>C’est moi qui t’ouvrirai le Ciel, puisque tu m’aimes,</l>
+                  <l>Et tu la connaîtras, l’extase du péché</l>
+                  <l>Qui fait les cœurs pâmés et qui fait les fronts blêmes!</l>
+                  <l>C’est la fin, c’est le but sacré de tous nos vœux;</l>
+                  <l>C’est le levier du monde et le ressort de l’âme;</l>
+                  <l>C’est la Force qui crée et fait dire: «Je veux!»</l>
+                  <l>C’est le sceptre que Dieu mit aux mains de la femme,</l>
+                  <l>Et la couronne d’or qui luit dans ses cheveux.</l>
+                  <l>  C’est elle qui me fait ta chose et ton esclave,</l>
+                  <l>Courbe à tes pieds mon col et mes genoux brisés,</l>
+                  <l>Et fait bouillir mon sang comme un torrent de lave.</l>
+                  <l>Mère des Univers et fille des Baisers,</l>
+                  <l>Elle ne souille pas, la divine: elle lave!</l>
+                  <l>Car c’est l’amour qui rend meilleur. Et rien n’est vrai</l>
+                  <l>Hormis la volupté qui te créa si belle,</l>
+                  <l>Qui me versa le vin dont je t’enivrerai,</l>
+                  <l>Qui fit ta lèvre rose et noire ta prunelle,</l>
+                  <l>Qui fit que je t’adore et que j’en ai pleuré.</l>
+                  <l>Viens au ciel, Ange, viens au ciel! Tu veux; j’implore:</l>
+                  <l>Silence à ton orgueil! Viens, et quand tu sauras</l>
+                  <l>Quel est ce paradis que ta jeunesse ignore,</l>
+                  <l>Tes désirs suppliants me prendront dans leurs bras</l>
+                  <l>Pour me baiser la bouche et murmurer: «Encore!»</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="italic">AUX INTERNES DE LOURCINE,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">PRÊTRES DU TEMPLE DE DÉESSE VÉROLE,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">JE DÉDIE CES HIDEUX TERCETS, ÉCRITS EN LEUR HONNEUR.</hi>
+                  </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>PORTES D’ENFER</head>
+               <p rend="justify">... O horror, horror, horror! Tongue nor heart</p>
+               <p rend="justify">Cannot conceive nor name thee!</p>
+               <p rend="justify">(Shakespeare, <hi rend="italic">Macbeth</hi>, Acte II, Scène I.)</p>
+               <lg>
+                  <l>Or, j’étais descendu par les routes de Dante,</l>
+                  <l>Et j’entendais au loin le cri sourd des démons</l>
+                  <l>Qui tournent les damnés dans la fournaise ardente.</l>
+                  <l>Et j’allais..... Et j’allais, escaladant les monts,</l>
+                  <l>Traversant les forêts, et longeant sur les plages</l>
+                  <l>Les lacs lourds, qui dormaient dans l’algue et les limons.</l>
+                  <l>Seul, j’allais, sous le ciel tout saignant des nuages,</l>
+                  <l>Dans la lumière fauve et louche du couchant.</l>
+                  <l>Et j’allais... Je marchai bien longtemps, bien des âges.</l>
+                  <l>  Ainsi je vins, au seuil qu’habite le Méchant,</l>
+                  <l>Vers les replis squameux des cols Syphilitiques:</l>
+                  <l>Là, mon être en frayeur s’arrêta, trébuchant.</l>
+                  <l>Deux chaînons colossaux de montagnes antiques</l>
+                  <l>S’étalaient, convergeant en un point de la nuit,</l>
+                  <l>Comme un écartement de cuisses fantastiques.</l>
+                  <l>Effroyablement nus et froids, sans fleur, sans fruit,</l>
+                  <l>Ces monts cyclopéens étaient de marbre rose,</l>
+                  <l>Et leurs formes avaient la rondeur qui séduit.</l>
+                  <l>Leur angle obtus s’ouvrait, lascif, dans une pose</l>
+                  <l>D’attente féminine; et loin dans le lointain,</l>
+                  <l>Le méat infernal bâillait, fente mal close...</l>
+                  <l>—Jour de Dieu! J’en ai vu, le soir ou le matin,</l>
+                  <l>J’en ai touché du doigt, des cons et des matrices</l>
+                  <l>Éprouvés et meurtris par les coups du destin;</l>
+                  <l>J’ai vu des périnés marqués de cicatrices,</l>
+                  <l>Et j’ai vu, distendu par les efforts du temps,</l>
+                  <l>Le sourire plissé des lèvres de nourrices,</l>
+                  <l>  J’ai vu culs bourgeonneux comme vigne au printemps;</l>
+                  <l>J’ai vu, laids et railleurs dans leur barbe de Faune,</l>
+                  <l>Sur de vieux clitoris des capuchons flottants;</l>
+                  <l>Et des canaux ocreux coulant comme le Rhône;</l>
+                  <l>Et des lèvres de femme usée au braquemart,</l>
+                  <l>Dont chaque pli pendait, rouge, bleu, noir ou jaune.</l>
+                  <l>Cons pourris de Lourcine, et cons morts de Clamart,</l>
+                  <l>Je vous ai vus, baignés d’un jus multicolore,</l>
+                  <l>Nager, flasques, dans une odeur de vieux homard.</l>
+                  <l>Mais j’en jure Duval, Inès et veuve Laure,</l>
+                  <l>Je n’avais jamais vu si terrible hideur,</l>
+                  <l>Et rien qu’au souvenir mes mains tremblent encore!...</l>
+                  <l>—Un vaste Hymalaïa, fendu par l’impudeur,</l>
+                  <l>Entr’ouvrait sur la nuit deux lèvres titanesques</l>
+                  <l>Dont des rides sans fond sillonnaient la raideur.</l>
+                  <l>L’usnée avait plaqué ses vertes arabesques;</l>
+                  <l>Et l’eau, lourde de soufre et de fer, suintait,</l>
+                  <l>Peignant sur les rocs bruns de grands chancres en fresques.</l>
+                  <l>  En bas, un lac gluant de flueurs clapotait,</l>
+                  <l>Et noirâtre, il luisait dans ses grèves d’écume,</l>
+                  <l>Miroir géant, que la pourriture argentait.</l>
+                  <l>Un vent soufflait, chargé de naphte et de bitume:</l>
+                  <l>Sa puanteur avait de telles densités</l>
+                  <l>Qu’on la voyait passer dans l’air, comme une brume.</l>
+                  <l>Et tout en haut, perdu dans les obscurités,</l>
+                  <l>Sur le mont de Vénus, un bois d’arbres farouches</l>
+                  <l>Tordait ses troncs noueux sous les cieux empestés.</l>
+                  <l>Par centaines, velus et roulant leurs yeux louches,</l>
+                  <l>Des poux rôdeurs, plus hauts que de vieux éléphants,</l>
+                  <l>Rampaient, collant au sol les suçoirs de leurs bouches.</l>
+                  <l>—Or, Satan, père et dieu des Chancres triomphants,</l>
+                  <l>A gravé sur le seuil le grand vers de Florence</l>
+                  <l>Qui fait devant la Vulve hésiter les enfants:</l>
+                  <l>Vous qui pénétrez là laissez toute espérance.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>OUVRE</head>
+               <lg>
+                  <l>Ouvre les yeux, réveille-toi;</l>
+                  <l>Ouvre l’oreille; ouvre ta porte:</l>
+                  <l>C’est l’Amour qui sonne, et c’est moi</l>
+                  <l>Qui te l’apporte.</l>
+                  <l>Ouvre la fenêtre à tes seins;</l>
+                  <l>Ouvre ton corsage de soie;</l>
+                  <l>Ouvre ta robe sur tes reins:</l>
+                  <l>Ouvre qu’on voie!</l>
+                  <l>Ouvre à mon cœur ton cœur trop plein:</l>
+                  <l>J’irai le boire sur ta bouche.</l>
+                  <l>Ouvre ta chemise de lin:</l>
+                  <l>Ouvre qu’on touche!</l>
+                  <l>  Ouvre les plis de tes rideaux;</l>
+                  <l>Ouvre ton lit que je t’y traîne:</l>
+                  <l>Il va s’échauffer sous ton dos.</l>
+                  <l>Ouvre l’arène.</l>
+                  <l>Ouvre tes bras pour m’enlacer.</l>
+                  <l>Ouvre tes seins que je m’y pose.</l>
+                  <l>Ouvre aux fureurs de mon baiser</l>
+                  <l>Ta lèvre rose!</l>
+                  <l>Ouvre tes jambes; prends mes flancs</l>
+                  <l>Dans ces rondeurs blanches et lisses;</l>
+                  <l>Ouvre tes deux genoux tremblants...</l>
+                  <l>Ouvre tes cuisses!</l>
+                  <l>Ouvre tout ce qu’on peut ouvrir</l>
+                  <l>Dans les chauds trésors de ton ventre:</l>
+                  <l>J’inonderai sans me tarir</l>
+                  <l>L’abîme où j’entre!</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>SONNET A MA MIE</head>
+               <lg>
+                  <l>Je regrète le tems où, tout bardé de fer,</l>
+                  <l>Hampe au poing, dague au flanc, on errait par le monde;</l>
+                  <l>Le temps où l’on vêtait le heaume à grille ronde,</l>
+                  <l>Le gorgerin de cuir, la gambe et le hauber.</l>
+                  <l>Coups de masse et d’estoc! On était fort et fier:</l>
+                  <l>On se navrait gaiement pour le los de sa blonde;</l>
+                  <l>Le cœur était loyal et la valeur féconde:</l>
+                  <l>Les gentils preux n’avaient souci que de l’Enfer.</l>
+                  <l>  On ne se cachait point pour rêver à sa mie:</l>
+                  <l>On s’aimait sans remors, et nul n’en gaussait mie:</l>
+                  <l>Seul, le parjure aux vœux d’amour était félon.</l>
+                  <l>Beau tems! J’eusse porté tes couleurs, ta devise,</l>
+                  <l>Et ton nom brodé d’or sur mon blanc gonfalon.</l>
+                  <l>—Une nuit m’eût faict roi, qui t’eût faicte marquise.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>DANAÉ</head>
+               <p rend="justify">
+                  <hi rend="italic">A Paul et Gustave Philippart.</hi>
+               </p>
+               <p rend="justify">Le soleil meurt: Hesper flambe.</p>
+               <p rend="justify">La tour d’Argos</p>
+               <p rend="justify">Est de bronze massif et ses murs sont bien clos.</p>
+               <p rend="justify">Trente Achaïens, héros de haute et forte taille,</p>
+               <p rend="justify">Casqués et cuirassés comme pour la bataille,</p>
+               <p rend="justify">Le javelot au poing et le glaive au côté,</p>
+               <p rend="justify">Veillent, gardiens jurés d’une virginité.</p>
+               <p rend="justify">Donc, Acrise a bâti dans la voûte sonore</p>
+               <p rend="justify">Un cachot que Phoïbos Hékébolos ignore:</p>
+               <p rend="justify">Quinze verrous d’airain que l’on ferme à secret</p>
+               <p rend="justify">En défendent l’entrée à l’Eros indiscret.</p>
+               <p rend="justify">C’est là que Danaé, l’Argienne aux nattes blondes,</p>
+               <p rend="justify">La fille aux languissants regards, aux fesses rondes,</p>
+               <p rend="justify">Sans amour, à vingt ans, se déflore et languit.</p>
+               <p rend="justify">  «—Oh, vivre ainsi loin d’eux, loin du ciel, loin du bruit!</p>
+               <p rend="justify">Vénus, je veux aimer!» Et débordant de sève,</p>
+               <p rend="justify">Elle tord sur le lit, complice de son rêve,</p>
+               <p rend="justify">Les longs et chauds ennuis de sa lourde vertu.</p>
+               <p rend="justify">Elle a senti le soir, et son cœur a battu.</p>
+               <p rend="justify">«—Seule une nuit encor, hélas!» Elle soupire.</p>
+               <p rend="justify">Car c’est l’heure d’aimer! C’est l’heure où le Satyre</p>
+               <p rend="justify">Poursuit par les bois sourds et les sentiers ombreux</p>
+               <p rend="justify">La Dryade qui rit et fuit vers l’antre creux.</p>
+               <p rend="justify">C’est l’heure où le soleil se penche sur la terre;</p>
+               <p rend="justify">L’heure où les myrtes blancs de Gnide et de Cythère</p>
+               <p rend="justify">Aux chansons des baisers mêlent des chants d’oiseaux;</p>
+               <p rend="justify">L’heure où le vent lascif caresse les roseaux,</p>
+               <p rend="justify">Tout plein de voluptés et de senteurs de roses.</p>
+               <p rend="justify">C’est l’heure de l’amour! C’est le réveil des Causes!</p>
+               <p rend="justify">—«Seule encor!» Danaé se pleure dans la nuit.</p>
+               <p rend="justify">Mais, là haut, l’œil d’un dieu la guette et la poursuit.</p>
+               <p rend="justify">Elle a mis dans ses mains son beau front qui s’incline:</p>
+               <p rend="justify">Elle songe aux raideurs de la chair masculine;</p>
+               <p rend="justify">Aux grands boucs qu’elle a vus courir parmi les prés,</p>
+               <p rend="justify">Serrant la chèvre en rut contre leurs dards pourprés,</p>
+               <p rend="justify">  Aux taureaux traversant le flanc des vaches rousses,</p>
+               <p rend="justify">Et par élans fougueux, par bonds et par secousses,</p>
+               <p rend="justify">Devenant tout d’un coup semblables à des dieux!</p>
+               <p rend="justify">Elle songe aux assauts de l’amant radieux,</p>
+               <p rend="justify">Aux muscles étreignant le baiser qui s’y plonge,</p>
+               <p rend="justify">Au frottement qui brûle et qui noie! Elle songe...</p>
+               <p rend="justify">Silence! Elle s’endort les deux bras grands ouverts....</p>
+               <p rend="justify">Il pleut de l’or, il pleut!</p>
+               <p rend="justify">Des plafonds découverts,</p>
+               <p rend="justify">Le scintillant métal miroite et tombe en pluie.</p>
+               <p rend="justify">Et la vierge, les yeux fermés, mais éblouie,</p>
+               <p rend="justify">Voit passer dans le bleu des gouttes de soleil.</p>
+               <p rend="justify">C’est bien de l’or: il pleut! A travers son sommeil</p>
+               <p rend="justify">Elle rit à la blonde averse. Goutte à goutte!</p>
+               <p rend="justify">Or, azur! Que c’est beau! Comme il pleut! Elle écoute:</p>
+               <p rend="justify">Chaque perle en passant siffle gaîment dans l’air,</p>
+               <p rend="justify">Et dans le cœur qui bat son crépitement clair</p>
+               <p rend="justify">Fait chanter un écho qui vibre avec sa chute.</p>
+               <p rend="justify">L’orage étincelant grossit. Chaque minute</p>
+               <p rend="justify">Verse par milliers les belles larmes d’or.</p>
+               <p rend="justify">  Le flot torrentiel se presse. Encor! Encor!</p>
+               <p rend="justify">Le sol a disparu. L’or coule, l’or ruisselle.</p>
+               <p rend="justify">Rien que de l’or; de l’or partout. L’or s’amoncelle:</p>
+               <p rend="justify">Ici, là. Sur le sol, la couche et les coussins;</p>
+               <p rend="justify">Sur elle: sur le front, les bras, le cou, les seins;</p>
+               <p rend="justify">Sur les flancs arrondis, sur le ventre qu’il baise;</p>
+               <p rend="justify">La poitrine se gonfle et palpite. L’or pèse,</p>
+               <p rend="justify">Lourd, massif, étouffant, sur ce corps endormi.</p>
+               <p rend="justify">Il s’échauffe,—il s’anime...</p>
+               <p rend="justify">O Pan! Il a frémi.</p>
+               <p rend="justify">Les molécules d’or se cherchent et s’unissent.</p>
+               <p rend="justify">C’est comme un cœur qui bat. Les formes s’arrondissent.</p>
+               <p rend="justify">Il prend un corps! Il prend une âme...</p>
+               <p rend="justify">Un homme? Un Dieu?</p>
+               <p rend="justify">Qu’importe, puisqu’il vit, que sa lèvre est en feu,</p>
+               <p rend="justify">Et que son bras musclé sait étreindre une femme.</p>
+               <p rend="justify">Il vit, il sait! Il a la vigueur et la flamme!</p>
+               <p rend="justify">C’est un être viril: la Vierge l’a compris!</p>
+               <p rend="justify">C’est le mâle rêvé qui l’assiège... Oh, ces cris!</p>
+               <p rend="justify">Elle ouvre ses genoux, ses baisers, tout son être.</p>
+               <p rend="justify">  L’or brûlant se raidit, se tend... L’or la pénètre...</p>
+               <p rend="justify">Zeus! Au fond! Zeus, plus loin! Le Dieu peut ce qu’il veut.</p>
+               <p rend="justify">Il pleut! Mais ce n’est plus de l’or! Il pleut! Il pleut!</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>L’ÉTERNITÉ</head>
+               <p rend="justify">
+                  <hi rend="italic">A un compositeur de musique religieuse.</hi>
+               </p>
+               <p rend="justify">L​’Éternité!—Dieu m’en préserve;</p>
+               <p rend="justify">C’est assez de vivre une fois.</p>
+               <p rend="justify">Moisir à l’état de conserve</p>
+               <p rend="justify">Comme un bocal de petits pois.</p>
+               <p rend="justify">Dieu m’en préserve!</p>
+               <p rend="justify">L’Éternité!—Point ne m’en faut.</p>
+               <p rend="justify">C’est tentant comme un jour de pluie:</p>
+               <p rend="justify">Un Enfer où l’on a trop chaud,</p>
+               <p rend="justify">Un Paradis où l’on s’ennuie.</p>
+               <p rend="justify">Point ne m’en faut!</p>
+               <p rend="justify">  L’Éternité!—C’est dérisoire:</p>
+               <p rend="justify">Pas de corps, des âmes partout:</p>
+               <p rend="justify">Rien à peloter, rien à boire;</p>
+               <p rend="justify">Pas moyen de tirer son coup.</p>
+               <p rend="justify">C’est dérisoire!</p>
+               <p rend="justify">L’Éternité! L’Éternité!</p>
+               <p rend="justify">Sans amour que faire d’une âme?</p>
+               <p rend="justify">Mahomet m’eût bien mieux tenté.</p>
+               <p rend="justify">Ah! si l’on passait sur la femme</p>
+               <p rend="justify">L’Éternité!</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>RONDEL MÉLANCHOLIQUE</head>
+               <p rend="justify">
+                  <hi rend="italic">A Jules Lévy.</hi>
+               </p>
+               <lg>
+                  <l>Véez mes plours, oyez mes cryz:</l>
+                  <l>J’ai d’amour mon aame férue,</l>
+                  <l>Et comme un bœuf tirant charrue,</l>
+                  <l>Je trayne mon cueur mal espris.</l>
+                  <l>Ma belle m’a gaussé de ryz</l>
+                  <l>Et s’en est ma tendresse accrue:</l>
+                  <l>Véez mes plours, oyez mes cryz.</l>
+                  <l>  Las! Pour endormir ses mespris,</l>
+                  <l>Je l’ai de mes plaintes recrue;</l>
+                  <l>Mais pour que ma peine soit crue,</l>
+                  <l>L’or me fault, à payer son prix:</l>
+                  <l>Véez mes plours, oyez mes cryz!</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>LA VIEILLE</head>
+               <p rend="justify">
+                  <hi rend="italic">A Maurice Rollinat.</hi>
+               </p>
+               <lg>
+                  <l>Belle à faire damner les anges et les saints,</l>
+                  <l>Elle trôna vingt ans, sans amour et sans joie,</l>
+                  <l>Étouffant la splendeur mouvante de ses seins</l>
+                  <l>Dans des murs de velours et des prisons de soie.</l>
+                  <l>Fermant son cœur d’ascète aux hommes méprisés,</l>
+                  <l>Elle régnait, d’en haut, froide comme une Hécate;</l>
+                  <l>Et jamais, jour ou nuit, un frisson de baisers</l>
+                  <l>N’effleura les duvets de sa chair délicate.</l>
+                  <l>Quand elle agenouillait son orgueil aux autels,</l>
+                  <l>Elle remerciait la vierge d’Idumée</l>
+                  <l>D’avoir lavé sa peau de nos désirs mortels,</l>
+                  <l>Et mis dans son corps pur le dégoût d’être aimée.</l>
+                  <l>  Une auréole d’or sur l’or de ses cheveux,</l>
+                  <l>Elle allait par la vie, implacable et sereine,</l>
+                  <l>Et riait d’écouter le sanglot de nos vœux</l>
+                  <l>Qui râlaient dans les plis de sa robe de reine.</l>
+                  <l>Vingt ans, et puis trente ans encore elle attendit.</l>
+                  <l>Sa vertu, comme un tigre indompté qu’on affame,</l>
+                  <l>Aiguisa cinquante ans son vorace appétit,</l>
+                  <l>Puis, soudaine, hurla: la statue était femme!</l>
+                  <l>—Le serpent du désir déroule ses anneaux,</l>
+                  <l>Et le remord tardif siffle au cœur qui s’éveille.</l>
+                  <l>L’impassible se tord sur ses draps virginaux:</l>
+                  <l>La Vénus qui se venge écorche sa chair vieille.</l>
+                  <l>Oh, les chassés d’hier, s’ils venaient à présent!</l>
+                  <l>En foule, s’ils passaient! Tour à tour, tous ensemble,</l>
+                  <l>S’ils daignaient la pétrir et sucer jusqu’au sang</l>
+                  <l>Sa mamelle qui glisse et son ventre qui tremble!</l>
+                  <l>Dieu! Comme on vautrerait ses lèvres sous leurs crins!</l>
+                  <l>Dans quelle immense extase on boirait leurs caresses,</l>
+                  <l>Et comme à deux genoux on lécherait leurs reins</l>
+                  <l>Pour y puiser sans fin l’ivresse des ivresses!</l>
+                  <l>  Mais les jours sont passés de triomphe et d’orgueil!</l>
+                  <l>Dans l’âpre isolement de sa couche dernière,</l>
+                  <l>Crispant ses membres secs sous ses rideaux en deuil,</l>
+                  <l>Elle bave d’amour en attendant sa bière.</l>
+                  <l>Trop tard! Trop tard! Ses doigts se fouillent en chemin:</l>
+                  <l>Elle tord ses yeux blancs où luit l’éclair d’un rêve;</l>
+                  <l>Et sa virginité d’antique parchemin</l>
+                  <l>Craque, comme la peau d’un vieux tambour qu’on crève.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>LA JEUNE</head>
+               <p rend="justify">SONNET</p>
+               <lg>
+                  <l>
+                     <hi rend="italic">A Charles Buet</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>J’ai rêvé d’une vierge impeccable, aux yeux froids,</l>
+                  <l>Qui, d’un bond, émergeant des moiteurs de sa couche,</l>
+                  <l>Vient accrocher le poids de son corps à ma bouche</l>
+                  <l>Et pointe sur mon cœur le roc de ses seins droits.</l>
+                  <l>Longtemps, pieuse et chaste, elle a porté la croix</l>
+                  <l>De l’orgueil vertueux que nul désir ne touche;</l>
+                  <l>Mais voilà que le rut s’est éveillé, farouche,</l>
+                  <l>Et la chair en révolte a réclamé ses droits...</l>
+                  <l>  Elle plaque à ma peau la peau d’un ventre ferme,</l>
+                  <l>Et furieusement crispée, elle m’enferme</l>
+                  <l>Dans l’effort ingénu de sa lubricité.</l>
+                  <l>Ses canines d’enfant mordent ma chair de mâle...</l>
+                  <l>A moi, toute! Et la fleur de sa nubilité,</l>
+                  <l>Pourpre, s’épanouit sous l’onde baptismale.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>L’OBSESSION</head>
+               <p rend="justify">
+                  <hi rend="italic">A Charles Morice.</hi>
+               </p>
+               <lg>
+                  <l>O vase de volupté,</l>
+                  <l>Je t’aime, Femme, Beauté!</l>
+                  <l>Je suis un Faune hanté</l>
+                  <l>Par la luxure:</l>
+                  <l>Brute vouée au plaisir,</l>
+                  <l>Chair condamnée à gésir</l>
+                  <l>Sous la meule du désir</l>
+                  <l>Qui me pressure.</l>
+                  <l>Un rut fou tient mon destin:</l>
+                  <l>Mais j’adore le festin</l>
+                  <l>Que du soir jusqu’au matin</l>
+                  <l>Mon sang arrose;</l>
+                  <l>Je suis le joyeux martyr</l>
+                  <l>Qui se grise de sentir</l>
+                  <l>Sa chair vive s’engloutir</l>
+                  <l>Sous la dent rose.</l>
+                  <l>  Chaque femme, je la veux!</l>
+                  <l>Des talons jusqu’aux cheveux</l>
+                  <l>J’emprisonne dans mes vœux</l>
+                  <l>Les inconnues:</l>
+                  <l>Sous leurs jupons empesés</l>
+                  <l>Mes rêves inapaisés</l>
+                  <l>Glissent de sournois baisers</l>
+                  <l>Vers leurs peaux nues.</l>
+                  <l>Je déshabille leurs seins:</l>
+                  <l>Mes caresses, par essaims,</l>
+                  <l>S’abattent sur les coussins</l>
+                  <l>De leurs poitrines;</l>
+                  <l>Je me vautre sur leurs flancs,</l>
+                  <l>Ivre des parfums troublants</l>
+                  <l>Qui montent des ventres blancs</l>
+                  <l>A mes narines.</l>
+                  <l>Vous aussi, Nymphes, splendeurs</l>
+                  <l>Que pour mes fauves ardeurs</l>
+                  <l>L’art du pinceau sans pudeurs</l>
+                  <l>A dévêtues:</l>
+                  <l>Vos formes, obstinément,</l>
+                  <l>Me tirent comme un aimant;</l>
+                  <l>J’ai de longs regards d’amant</l>
+                  <l>Pour les statues.</l>
+                  <l>  Doux, je promène ma main</l>
+                  <l>Aux rondeurs du marbre humain,</l>
+                  <l>Et j’y cherche le chemin</l>
+                  <l>Où vont mes lèvres.</l>
+                  <l>Ma langue en fouille les plis;</l>
+                  <l>Et sur les torses polis,</l>
+                  <l>Buvant les divins oublis,</l>
+                  <l>J’endors mes fièvres.</l>
+                  <l>—Ainsi, toujours tourmenté</l>
+                  <l>Par des soifs de volupté,</l>
+                  <l>J’emplis de lubricité</l>
+                  <l>Mes vers eux-mêmes;</l>
+                  <l>Et quand mes nerfs sont lassés,</l>
+                  <l>Quand ma bête crie: assez,</l>
+                  <l>J’onanise mes pensers</l>
+                  <l>Dans des poèmes!</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>EUROPE</head>
+               <p rend="justify">
+                  <hi rend="italic">A Eugène d’Argence.</hi>
+               </p>
+               <p rend="justify">La fille d’Agénor et de Telephasa</p>
+               <p rend="justify">Est si belle que nul, jusqu’à ce jour, n’osa</p>
+               <p rend="justify">Toucher à la splendeur de sa chair surhumaine.</p>
+               <p rend="justify">Elle attend qu’un époux la supplie et l’emmène;</p>
+               <p rend="justify">Mais la beauté céleste est faite pour les cieux,</p>
+               <p rend="justify">Et les mortels ont peur d’être rivaux des dieux.</p>
+               <p rend="justify">Ainsi, les jours divins se traînent, monotones;</p>
+               <p rend="justify">Les Hivers, les Printemps, les Étés, les Automnes</p>
+               <p rend="justify">Suivent cruellement leur immuable cours;</p>
+               <p rend="justify">Vingt fois ils sont passés.—Europe attend toujours.</p>
+               <p rend="justify">Triste comme le flot qui chante sur la berge,</p>
+               <p rend="justify">Elle pleure. La vierge est lasse d’être vierge.</p>
+               <p rend="justify">  Seule, et tordant ses bras lassés d’un long repos,</p>
+               <p rend="justify">Elle roule son corps sur le poil blond des peaux.</p>
+               <p rend="justify">Elle presse ses poings fermés contre ses tempes.</p>
+               <p rend="justify">La voilà, haute et nue, à la lueur des lampes,</p>
+               <p rend="justify">Devant le grand miroir qui vit tant de secrets:</p>
+               <p rend="justify">Sa grâce qu’elle admire excite ses regrets.</p>
+               <p rend="justify">Sous le chatouillement lubrique des mains blanches,</p>
+               <p rend="justify">Un frisson vient de naître et court le long des hanches.</p>
+               <p rend="justify">Elle a pris ses deux seins dans ses mains:</p>
+               <p rend="justify">—«O Vénus!</p>
+               <p rend="justify">«Regarde ces beaux fruits d’amour, ces fruits charnus,</p>
+               <p rend="justify">«Fermes et veloutés comme une pêche mûre.</p>
+               <p rend="justify">«Le teint en est si frais et la forme si pure</p>
+               <p rend="justify">«Qu’à moins d’être un profane on craindrait d’y poser</p>
+               <p rend="justify">«Un autre attouchement que celui du baiser.</p>
+               <p rend="justify">«Lorsque sur eux, le soir, je croise et je ramène</p>
+               <p rend="justify">«Mes bras, plus blancs que ceux de l’Héra Leucolène,</p>
+               <p rend="justify">«On croit voir, s’enroulant comme les flots du Styx,</p>
+               <p rend="justify">«Deux torrents de lait clair sur deux roches d’onyx.</p>
+               <p rend="justify">«Ma hanche s’arrondit comme une amphore pleine,</p>
+               <p rend="justify">«Et mon ventre, pareil à l’urne de Silène,</p>
+               <p rend="justify">«Est dur et lisse, avec le reflet chatoyant</p>
+               <p rend="justify">«Des tissus satinés qu’on trame en Orient.</p>
+               <p rend="justify">  «Ma jambe qui s’évase est une urne d’ivoire;</p>
+               <p rend="justify">«Bien douce est au toucher l’épaisse touffe noire</p>
+               <lg>
+                  <l>«Que le ciseau sacré coupe au front des brebis,</l>
+                  <l>«Mais plus doux est le poil qui frise à mon pubis</l>
+                  <l>«Là, tout près... N’est-ce pas, déesse de Cythère,</l>
+                  <l>«Je suis belle parmi les filles de la terre?</l>
+                  <l>«La fleur de ma jeunesse est éclose: mon sang</l>
+                  <l>«Bouillonne à flots pressés dans mon cœur bondissant;</l>
+                  <l>«Mon torse d’indomptée est mûr pour tes caresses,</l>
+                  <l>«N’est-ce pas? Et pourtant, ô Mère des Ivresses,</l>
+                  <l>«Personne, entre les fiers et bruns Phéniciens,</l>
+                  <l>«N’a serré mes flancs nus sur la chaleur des siens!</l>
+                  <l>«Oh! prends pitié de moi, Reine! Grâce... Je souffre!</l>
+                  <l>«Comme un enfant qui, seul, se penche au bord d’un gouffre</l>
+                  <l>«J’ai le vertige. Grâce... Un baiser! Un amant...</l>
+                  <l>«Des hommes! Oh, je brûle!»</l>
+                  <l>Elle dit.</l>
+                  <l>Lourdement</l>
+                  <l>La vierge se laissa retomber sur sa couche.</l>
+                  <l>Les seins dressés, collant son bras chaud sur sa bouche,</l>
+                  <l>Elle se tord, comme un bois vert sur les tisons;</l>
+                  <l>Ses os craquent. Son doigt, sous les folles toisons,</l>
+                  <l>  S’égare, chatouilleux, dans l’ombre qu’il pénètre:</l>
+                  <l>Un spasme d’infini court et crispe son être.</l>
+                  <l>—«Des hommes, Astarté, des hommes!...»</l>
+                  <l>Elle a pris</l>
+                  <l>Et serre avec fureur contre ses seins meurtris</l>
+                  <l>Les coussins qu’elle étouffe et mord.—Menteuse ivresse!</l>
+                  <l>La soie et le velours, sous le corps qui les presse,</l>
+                  <l>Restent froids comme un marbre et mous comme un vieillard.</l>
+                  <l>Rien sur soi! Rien en soi! Blond Phoïbos, prête un dard!</l>
+                  <l>Trois fois la volupté la trompe!—Enfin, brisée,</l>
+                  <l>Râlante, le corps moite, elle s’est affaissée.</l>
+                  <l>Elle s’endort...</l>
+                  <l>Kronos pousse l’instant qui fuit.</l>
+                  <l>Mais Zeus, dont l’œil sait voir au travers de la nuit,</l>
+                  <l>A penché vers le lit son front chargé de nues;</l>
+                  <l>Et, léchant du regard la blancheur des chairs nues,</l>
+                  <l>Il rêve aux lents efforts du baiser virginal,</l>
+                  <l>Aux soupirs étonnés du bonheur qui fait mal,</l>
+                  <l>Aux cris, à la fraîcheur des caresses timides...</l>
+                  <l>  Il songe: le désir ferme ses yeux humides</l>
+                  <l>Et dans son cœur divin monte comme les flots.</l>
+                  <l>Il s’enivre, écoutant encor les courts sanglots</l>
+                  <l>Dont le charme lascif envahit l’Empyrée.</l>
+                  <l>La chair gonfle les plis de sa robe sacrée.</l>
+                  <l>Zeus veut; Eros sourit; et les dieux immortels,</l>
+                  <l>Oublieux des parfums brûlés sur leurs autels,</l>
+                  <l>S’écartent, croyant voir un signe de colère</l>
+                  <l>Dans la flamme qui luit sous les grands cils du Père.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>LE CRANE</head>
+               <p rend="justify">
+                  <hi rend="italic">Envoi d’une teste de mort à une jeune artiste.</hi>
+               </p>
+               <lg>
+                  <l>Cy, dure boëte à cervelle.</l>
+                  <l>L’ame, par perthuis des yeux ronds,</l>
+                  <l>Dévallant vers sphère nouvelle,</l>
+                  <l>Yssit du monde où nous entrons.</l>
+                  <l>Se fut maulvaise ou se fut bonne,</l>
+                  <l>Point ne le sçais et rien n’en dis:</l>
+                  <l>Maulvaise, que Dieu lui pardonne;</l>
+                  <l>Bonne, la boute ès paradis.</l>
+                  <l>Mais seur, chez vous, aura martyre</l>
+                  <l>Et chauldes tortures d’Enfer,</l>
+                  <l>Ce dit chief viril de Satyre</l>
+                  <l>Qu’esmorcha l’appetit du ver.</l>
+                  <l>  Crasne de masle! Vuide teste!</l>
+                  <l>Las! Mains souëfes t’arresseront;</l>
+                  <l>Ongles rondis se feront feste</l>
+                  <l>De s’esbaudir emmi ton front.</l>
+                  <l>Ardera ta cervelle absente</l>
+                  <l>Au tact errant des detz rosés,</l>
+                  <l>De ne pouvoir, sans qu’elle y sente,</l>
+                  <l>Lui vestir les bras de baisers.</l>
+                  <l>Et la nuyct, la véant ès plumes,</l>
+                  <l>Sise en chair et blanche de pel.</l>
+                  <l>Tes vielz os, prins de ruyts posthumes,</l>
+                  <l>Pourbondiront dans leur tumbel!</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>LA SOURCE</head>
+               <p rend="justify">SONNET</p>
+               <p rend="justify">
+                  <hi rend="italic">A Gaston Béthune.</hi>
+               </p>
+               <lg>
+                  <l>Source vénérienne où vont boire les mâles!</l>
+                  <l>Fissure de porphyre où frise un brun gazon,</l>
+                  <l>Qui, fin comme un duvet, chaud comme une toison,</l>
+                  <l>Moutonne dans un bain de senteurs animales...</l>
+                  <l>Quand un homme a trempé dans tes eaux baptismales</l>
+                  <l>Les désirs turgescents qui troublaient sa raison,</l>
+                  <l>Il en garde à jamais la soif du cher poison</l>
+                  <l>Dont s’imprégna sa peau dans tes lèvres thermales.</l>
+                  <l>  O Jouvence des cœurs! Fontaine des plaisirs!</l>
+                  <l>Abreuvoir où descend le troupeau des désirs</l>
+                  <l>Pour s’y gorger d’amour, de parfums et d’extases!</l>
+                  <l>Il coule de tes flancs, le nectar enchanté,</l>
+                  <l>Elixir de langueur, crème de volupté...</l>
+                  <l>Et pour le recueillir nos baisers sont des vases!</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>SYMPHONIE</head>
+               <lg>
+                  <l>Ton corps est une symphonie</l>
+                  <l>De parfums qui chantent en chœur.</l>
+                  <l>Et dont la troublante harmonie</l>
+                  <l>M’emplit d’extase et de langueur:</l>
+                  <l>Ils s’envolent comme des trilles,</l>
+                  <l>Perlant la gamme des plaisirs,</l>
+                  <l>Et rhythmant du front aux chevilles</l>
+                  <l>Une sonate de désirs.</l>
+                  <l>Quand ta bouche s’ouvre et se mouille,</l>
+                  <l>On dirait que tu bois du ciel;</l>
+                  <l>Et pour mes lèvres qu’elle fouille,</l>
+                  <l>Ta langue a le goût blond du miel.</l>
+                  <l>  Ta salive sent les dragées,</l>
+                  <l>Lorsque dans nos baisers mordants</l>
+                  <l>J’aspire par longues gorgées</l>
+                  <l>Ton âme qui vient sur tes dents.</l>
+                  <l>Ta nuque a des senteurs fragrantes,</l>
+                  <l>Et tes lourds cheveux, sous ma main,</l>
+                  <l>Ont les souplesses odorantes</l>
+                  <l>Du chèvrefeuille et du jasmin.</l>
+                  <l>Ta peau fleure l’iris et l’ambre</l>
+                  <l>Dont elle imprègne les coussins,</l>
+                  <l>Et le mystère de ta chambre</l>
+                  <l>S’embaume aux chaleurs de tes seins.</l>
+                  <l>Sous tes bras de Junon antique</l>
+                  <l>Tu couves des ferments salins</l>
+                  <l>Dont la tiédeur aromatique</l>
+                  <l>Flotte autour des duvets câlins.</l>
+                  <l>Et ta corolle, demi-close</l>
+                  <l>Sous ton ventre de satin clair,</l>
+                  <l>Exhale un relent moite et rose</l>
+                  <l>Dont l’âcreté nage dans l’air.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>MÉLANCOLIE BLENNORHAGIQUE</head>
+               <lg>
+                  <l>Petit anneau de chair; petite fente laide;</l>
+                  <l>Petit sphincter païen;</l>
+                  <l>Petit coin toujours moite empoisonné d’air tiède;</l>
+                  <l>Petit trou; petit rien!</l>
+                  <l>Es-tu laid quand tu ris de ta lèvre lippue,</l>
+                  <l>Es-tu laid quand tu dors!</l>
+                  <l>Laid, toi que Dieu cacha dans cet angle qui pue,</l>
+                  <l>Près des égouts du corps!</l>
+                  <l>Ah, tu peux pourlécher ta babine rosée,</l>
+                  <l>Vilain monstre d’orgueil!</l>
+                  <l>Tu peux, ouvrant ta gueule à crinière frisée,</l>
+                  <l>Bâiller comme un cercueil!</l>
+                  <l>  Ventouse venimeuse, insatiable gouffre</l>
+                  <l>Si funeste et si cher:</l>
+                  <l>Je veux te mépriser, toi par qui pleure et souffre</l>
+                  <l>Le meilleur de ma chair.</l>
+                  <l>Je veux te détester à toujours, chose infâme,</l>
+                  <l>Toi qui rends mal pour bien:</l>
+                  <l>Petit néant creusé dans le bas de la femme,</l>
+                  <l>Petit trou, petit rien!</l>
+               </lg>
+               <lg>
+                  <l>Et dire que c’est là que Satan met son trône</l>
+                  <l>Et l’homme son honneur!</l>
+                  <l>Là que la poésie a placé ta couronne,</l>
+                  <l>Eros, Dieu du bonheur!</l>
+                  <l>Et dire que c’est là que l’idéal du rêve</l>
+                  <l>Vient toujours aboutir:</l>
+                  <l>Là que meurt,—agonie ineffable et trop brève,—</l>
+                  <l>L’amour vierge et martyr!</l>
+                  <l>  Que c’est, quand nous naissons, par cette plaie immonde</l>
+                  <l>Que le jour nous sourit;</l>
+                  <l>Et par elle, quand Dieu voulut sauver le monde,</l>
+                  <l>Qu’entra le Saint-Esprit!</l>
+                  <l>Dire que c’est par là que Junon perdit Troie,</l>
+                  <l>Que Ninive croula;</l>
+                  <l>Dire que tout, espoir, force, courage et joie</l>
+                  <l>Nous vient de ce trou-là!</l>
+                  <l>Et qu’il est le chemin du Ciel, la grande porte</l>
+                  <l>Qu’Ève ouvrit d’un recul:</l>
+                  <l>Et dire qu’une femme, et vieille et laide, porte</l>
+                  <l>L’Infini sous son cul!</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>VŒU</head>
+               <p rend="justify">SONNET</p>
+               <lg>
+                  <l>
+                     <hi rend="italic">A Edouard d’Otémar.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Non, non! L’accouplement que je voudrais connaître,</l>
+                  <l>Ce n’est plus aujourd’hui ce coït impuissant</l>
+                  <l>Qui fouille un peu de chair et verse un peu de sang</l>
+                  <l>Au bord d’une blessure où sa langueur pénètre.</l>
+                  <l>Je veux, ô femme, entrer tout entier dans ton être:</l>
+                  <l>Il hurlera d’amour, ton ventre bondissant,</l>
+                  <l>Comme hurle, trop pleine, une mère qui sent</l>
+                  <l>L’effort intérieur d’un géant qui va naître.</l>
+                  <l>  C’est mon rêve: Je veux, dans ton torse en débris,</l>
+                  <l>Sentir mes os broyés et mes muscles meurtris</l>
+                  <l>Sous les spasmes vengeurs de ta chair envahie.</l>
+                  <l>Et dans ce rut suprême et ses derniers élans,</l>
+                  <l>Je veux, pour féconder ta vie avec ma vie,</l>
+                  <l>T’éjaculer mon âme et mourir dans tes flancs!</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>LES GANTS</head>
+               <p rend="justify">
+                  <hi rend="italic">A très-haulte Princesse Russiane, qui m’avoit convié à venir en son logis.</hi>
+               </p>
+               <lg>
+                  <l>Ce fut escript, o livre fatidicque</l>
+                  <l>Où male chance et meschiefs sont escripts,</l>
+                  <l>Qu’onc ne pourrai, si grand désir m’en picque,</l>
+                  <l>Vous joindre un soir en ce mauvais Paris.</l>
+                  <l>Berçais ce veuil, tant doulz à ma pensée,</l>
+                  <l>De heurter l’huis à vos armes et scel:</l>
+                  <l>Las! L’espérance en fut tost trespassée,</l>
+                  <l>Comme ces fils qui meurent au bercel.</l>
+                  <l>  Pire viage encor que cil d’Ulysse</l>
+                  <l>Qu’Homère eust dict en devis élégans:</l>
+                  <l>Cy l’essaierai, pour qu’un chascun paslisse</l>
+                  <l>Au mal dangier qu’est d’oblier ses gants.</l>
+                  <l>Tout rez de frez, pigné, camise nette,</l>
+                  <l>Dextre en mon col et cravaté de blanc,</l>
+                  <l>Jà je tangeais des detz à la sonnette,</l>
+                  <l>Quand vis main nüe, et fut mon cueur dolent.</l>
+                  <l>Lors, de courir dévallant par les rues,</l>
+                  <l>Cherchant gantiers, et gantières aussi.</l>
+                  <l>Rode, cochier, emmi neiges accrues:</l>
+                  <l>Paouvre cheval s’en va soufflant merci...</l>
+                  <l>Pied cy, pied là: ne gantier, ne gantière;</l>
+                  <l>Tous mercerots sont clos o boulevard!</l>
+                  <l>Rode, cochier, de par la ville entière,</l>
+                  <l>Tant et si long que vécy qu’il est tard.</l>
+                  <l>Doncques, piteux et l’ame desconfite,</l>
+                  <l>Reprins ma route ainsi qu’estais venu;</l>
+                  <l>Le bon cheval, s’enhortant d’aller vite,</l>
+                  <l>Comme pehon, partit, trottant menu.</l>
+                  <l>  Me conduisit lors en ces lieux infâmes,</l>
+                  <l>Où tous nos maulx se résolvent en ruyt.</l>
+                  <l>Car l’obli gist dans les grèves des femmes;</l>
+                  <l>N’est tel chagrin qu’un souëf caz ne destruyt.</l>
+                  <l>Sur culs vénals et nombrils de louaige,</l>
+                  <l>La pleine nuyct musai, fesses en l’air,</l>
+                  <l>Hobant des reins et besongnant d’oultraige,</l>
+                  <l>Et de mon sang esmorchant le plus cler.</l>
+                  <l>Quand j’eus parfaict mainctes et mainctes courses,</l>
+                  <l>L’heure sonnant d’yssir des bas mestiers,</l>
+                  <l>Sec, ars, meurdri, vuide en toutes mes bourses,</l>
+                  <l>Vers mon logis revins, très-lent des piéz...</l>
+                  <l>Et tout au cours pendaient par grand malice</l>
+                  <l>Ces rouges gants d’enseignes, me narguans;</l>
+                  <l>Et cy l’escris, pour qu’un chascun paslisse</l>
+                  <l>Au mal dangier qu’est d’oblier ses gants.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>LE BOUCLIER</head>
+               <p rend="justify">
+                  <hi rend="italic">A Émile Goubert.</hi>
+               </p>
+               <lg>
+                  <l>Le ventre de la femme est comme un bouclier</l>
+                  <l>Taillé dans un métal lumineux et sans tache,</l>
+                  <l>Dont la blancheur se bombe et descend se plier</l>
+                  <l>Vers sa pointe où frise un panache.</l>
+                  <l>Depuis l’angle d’or brun jusqu’au pied des seins nus,</l>
+                  <l>Il s’étale, voûtant sa courbe grasse et pleine,</l>
+                  <l>Et l’arc majestueux de ses rebords charnus</l>
+                  <l>Glisse dans les sillons de l’aine.</l>
+                  <l>Tandis que, ciselé sur l’écusson mouvant</l>
+                  <l>Où s’abritent la source et les germes du monde,</l>
+                  <l>Le nombril resplendit comme un soleil vivant,</l>
+                  <l>Un vivant soleil de chair blonde!</l>
+                  <l>  —Magique Bouclier dont j’ai couvert mes reins!</l>
+                  <l>Égide de Vénus, ô Gorgone d’ivoire</l>
+                  <l>Dont la splendeur joyeuse éblouit mes chagrins</l>
+                  <l>Et rayonne dans ma nuit noire!</l>
+                  <l>Méduse qui fais fuir de mon cœur attristé</l>
+                  <l>Le dragon de l’Ennui dont rien ne me délivre;</l>
+                  <l>Arme de patience avec qui j’ai lutté</l>
+                  <l>Contre tous les dégoûts de vivre!</l>
+                  <l>Je t’aime d’un amour fanatique et navrant:</l>
+                  <l>Car mes seuls vrais oublis sont nés dans tes luxures,</l>
+                  <l>Et j’ai dormi sur toi comme un soldat mourant</l>
+                  <l>Qui ne compte plus ses blessures.</l>
+                  <l>C’est pourquoi ma douleur t’a dressé des autels</l>
+                  <l>Dans les temples obscurs de mon âme embrunie,</l>
+                  <l>Et j’y viens adorer les charmes immortels</l>
+                  <l>De ta consolante harmonie!</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>PARISIENNE</head>
+               <p rend="justify">SONNET</p>
+               <p rend="justify">
+                  <hi rend="italic">A Achille Mélandri.</hi>
+               </p>
+               <lg>
+                  <l>Redressant les rondeurs de son buste replet,</l>
+                  <l>Droite, le nez railleur et la lèvre mutine,</l>
+                  <l>Elle va... Son regard qui voltige et butine</l>
+                  <l>Se pose au bord de tout, prend à tout un reflet.</l>
+                  <l>Elle va. Sous les plis susurrants de l’ourlet</l>
+                  <l>Son pied vif, provocant et plein d’esprit, trottine,</l>
+                  <l>Rase l’asphalte et rit au fond de la bottine</l>
+                  <l>De se voir si petit et si près du mollet.</l>
+                  <l>  La main gantée, au bord de la manchette blanche,</l>
+                  <l>Berce l’en-cas qui pend et caresse la hanche,</l>
+                  <l>Rhythmant au bruit des pas son doux balancement.</l>
+                  <l>Un sillage odorant la suit: senteurs de femme,</l>
+                  <l>Parfums de fleurs; et souple, elle marche, semant</l>
+                  <l>Le germe des désirs chauds et virils dans l’âme.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>LA CHANSON DU VIEUX MOINE</head>
+               <p rend="justify">(<hi rend="italic">Cette pièce, étant inconvenante, a été supprimée par l’auteur.</hi>)</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>BRUNE</head>
+               <p rend="justify">
+                  <hi rend="italic">A toi, Louise.</hi>
+               </p>
+               <lg>
+                  <l>Ton corps nu, plus doré qu’un blond matin d’avril,</l>
+                  <l>Dormait dans les parfums lascifs que tu distilles.</l>
+                  <l>Battant l’aile et vibrant, tout mon désir viril</l>
+                  <l>Frôlait, comme un essaim tournoyant de myrtilles,</l>
+                  <l>Ton corps nu, plus doré qu’un blond matin d’avril.</l>
+                  <l>Et tes pores brûlaient, vivantes cassolettes,</l>
+                  <l>L’encens vénérien qui fleurit sur ta chair:</l>
+                  <l>Dans l’air tiède, imprégné d’ambre et de violette,</l>
+                  <l>Je humais le vertige énervant qui m’est cher,</l>
+                  <l>Et tes pores brûlaient, vivantes cassolettes.</l>
+                  <l>  Brune, sur la blancheur provocante des draps,</l>
+                  <l>Parmi les serpents lourds de ta crinière noire,</l>
+                  <l>Tu dormais, et l’extase avait ouvert tes bras</l>
+                  <l>Comme un vieux Christ en croix ciselé dans l’ivoire:</l>
+                  <l>Brune, sur la blancheur provocante des draps!</l>
+                  <l>Tes seins fiers, dressant haut leur couronne cuivrée,</l>
+                  <l>Se soulevaient au rhythme égal de ton sommeil.</l>
+                  <l>Une ondulation, calme et lourde marée,</l>
+                  <l>Descendait lentement vers ton ventre vermeil,</l>
+                  <l>Des seins fiers, dressant haut leur couronne cuivrée!</l>
+                  <l>Et ta tête roulait des coussins écrasés;</l>
+                  <l>Tes cils mal clos luisaient des larmes d’Aphrodite;</l>
+                  <l>Ta lèvre souriante et lasse de baisers</l>
+                  <l>Sur l’émail de tes dents saignait, rouge et maudite:</l>
+                  <l>Et ta tête roulait des coussins écrasés.</l>
+                  <l>Oh, depuis ce soir-là, la vision me hante</l>
+                  <l>De ton corps nu, plus pur qu’un rêve de Paros!</l>
+                  <l>Et quand l’obsession d’être un dieu me tourmente,</l>
+                  <l>Quand tu crispes ma chair, Eros, Hymen Eros,</l>
+                  <l>Oh, depuis ce soir-là la vision me hante!</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>ADULTÈRE</head>
+               <p rend="justify">SONNET</p>
+               <lg>
+                  <l>Je t’apprendrai l’amour stérile, et le secret</l>
+                  <l>Des bonheurs trop savants qu’ignore l’hyménée.</l>
+                  <l>Je veux t’ouvrir un monde où nul ne t’a menée,</l>
+                  <l>Si beau qu’on n’en revient qu’en pleurant de regret.</l>
+                  <l>Oh, l’art du long baiser qui court, profond, discret,</l>
+                  <l>Sur le ravissement de la chair étonnée!</l>
+                  <l>L’art que ne savaient point ceux qui t’ont profanée</l>
+                  <l>Sur la couche brutale où ton cœur s’enivrait!</l>
+                  <l>  Viens! Ce que tu rêvas sans le pouvoir connaître,</l>
+                  <l>Je te le donnerai: tu te sentiras naître;</l>
+                  <l>Tes grands yeux dessillés verront dans l’infini;</l>
+                  <l>Et tous deux, emportés sur un rêve sublime,</l>
+                  <l>Nous aurons, pour bénir encor l’amour béni,</l>
+                  <l>L’immense volupté qu’on appelle le crime!</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>LE COCU</head>
+               <p rend="justify">RONDEL</p>
+               <p rend="justify">
+                  <hi rend="italic">A Léon Bloy, célibataire.</hi>
+               </p>
+               <lg>
+                  <l>Le Cocu s’en va par le monde,</l>
+                  <l>L’œil béat et le front serein.</l>
+                  <l>Il vient d’être père et parrain;</l>
+                  <l>L’Ami veille la moribonde.</l>
+                  <l>Raillant les maris qu’on seconde</l>
+                  <l>Et dont on bêche le terrain,</l>
+                  <l>Le Cocu s’en va par le monde,</l>
+                  <l>L’œil béat et le front serein.</l>
+                  <l>  La femme est fausse comme l’onde:</l>
+                  <l>Son nombril est un champ forain.</l>
+                  <l>Mais la sienne, vertu d’airain,</l>
+                  <l>Est fidèle, austère,—et féconde.</l>
+                  <l>Le Cocu s’en va par le monde...</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>LE BAPTÊME</head>
+               <p rend="justify">(FRAGMENTS)</p>
+               <lg>
+                  <l>En ce temps-là, Jésus Christus, fils de Marie,</l>
+                  <l>Était mort au Calvaire entre les deux larrons:</l>
+                  <l>Philippus s’en allait de par la Samarie,</l>
+                  <l>Confessant tous les cœurs et lavant tous les fronts.</l>
+                  <l>Or, une vierge vint du pays de Candace,</l>
+                  <l>Corps sans tache, âme blanche et sans soupçon du mal:</l>
+                  <l>Le front auréolé de candeur et d’audace,</l>
+                  <l>Elle entra toute nue au fleuve baptismal.</l>
+               </lg>
+               <lg>
+                  <l>Le baptême ruisselle et suit les pentes douces:</l>
+                  <l>Une goutte a tremblé, rose, au bord des seins blancs;</l>
+                  <l>Une autre: elle a tremblé; d’autres... Et par secousses,</l>
+                  <l>L’eau qui tremblait descend vers la chaleur des flancs.</l>
+                  <l>  Le torrent tiédi court dans les formes marbrées</l>
+                  <l>Son méandre lascif se tord au pli des reins,</l>
+                  <l>Roule, coule, et perdu dans les sentes ambrées,</l>
+                  <l>Glisse, tombe, lent de regrets, lent de chagrins.</l>
+               </lg>
+               <lg>
+                  <l>Amour, rage des sens! Amour, baume de l’âme!</l>
+                  <l>C’est toi qui nous fais dieux, fils terrestre du ciel.</l>
+                  <l>Amour! C’est toi qui fais que la vierge se pâme,</l>
+                  <l>Qu’elle comprend la vie et bénit l’Éternel!</l>
+                  <l>C’est toi le vrai Sauveur et toi le vrai Messie.</l>
+                  <l>Arbre de la science, Amour et voluptés,</l>
+                  <l>C’est vous que promettait l’antique prophétie,</l>
+                  <l>Seul don de Jéhovah à ses déshérités!</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>BALLADE DES PUCELAIGES MORTS</head>
+               <p rend="justify">
+                  <hi rend="italic">A Louis Jullien.</hi>
+               </p>
+               <p rend="justify">Souvent ce vueil s’esveigle en ma pensée</p>
+               <p rend="justify">De cognoistre où dévalent et comment,</p>
+               <p rend="justify">Après le heurt de la prime poussée,</p>
+               <p rend="justify">Les beaux hymens morts par esclatement.</p>
+               <p rend="justify">Sont-ils eslus ou damnés malement?</p>
+               <p rend="justify">Quel aultre monde assemble leurs colléges?</p>
+               <p rend="justify">Le Ciel o luz ou l’Enfer o torment?</p>
+               <p rend="justify">Mais qui Dieu sçait où sont les pucelaiges?</p>
+               <lg>
+                  <l>Desfait ès-draps ou sus herbe froissée,</l>
+                  <l>Soubs lambrys d’or ou chaulme de caymant;</l>
+                  <l>De royne, nonne, ou ruste mal facée;</l>
+                  <l>  Estroit ou lé, Lorrain, Bret ou Flamand:</l>
+                  <l>Trestous, occis par l’espoux ou l’amant,</l>
+                  <l>De mesme mort meurent sans privileges,</l>
+                  <l>Un soir de ruyt escachés follement...</l>
+                  <l>Mais qui Dieu sçait où sont les pucelaiges?</l>
+                  <l>Las! Chaque dame, ains que d’estre percée,</l>
+                  <l>Avoyt le sien et l’amoyt tendrement.</l>
+                  <l>Qu’en remaint-il quand la feste est passée?</l>
+                  <l>Regret sans fin pour soulas d’un moment!</l>
+                  <l>Car l’aage vient, qu’en vain le cueur dément.</l>
+                  <l>D’un peu d’amour seuls ses detz lui sont pleiges:</l>
+                  <l>Masle n’y voult planter son ornement.</l>
+                  <l>Mais qui Dieu sçait où sont les pucelaiges?</l>
+               </lg>
+               <p rend="justify">ENVOI</p>
+               <lg>
+                  <l>Prince des caz, Cupidon, Dieu charmant,</l>
+                  <l>Quantz en foras par traicts ou sortilèges?</l>
+                  <l>Onc n’en prins un, dont je geins lubrement</l>
+                  <l>Mais qui Dieu sçait où sont les pucelaiges?</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>MADRIGAL</head>
+               <p rend="justify">SONNET</p>
+               <lg>
+                  <l>Madame, vous avez une tête de mort.</l>
+                  <l>Votre front vaste et jaune et votre face glabre,</l>
+                  <l>Vos pommettes que l’âge ossifie et délabre</l>
+                  <l>Vont me hanter la nuit, comme hante un remord.</l>
+                  <l>Quand votre bouche rit, soupire, chante ou mord,</l>
+                  <l>Le triangle effrayé de votre nez se cabre,</l>
+                  <l>Et le reflet vitreux d’une danse macabre</l>
+                  <l>Tremble en vos yeux falots où sommeille la Mort.</l>
+                  <l>  Sur un ventre fumeux que ravinent les rides,</l>
+                  <l>Vos seins pendants et longs comme deux gourdes vides</l>
+                  <l>Ballottent flasquement au moindre de vos pas;</l>
+                  <l>Et Satan aurait peur de s’écorcher la langue,</l>
+                  <l>Si Vénus lui prêtait, pour y planter son cas,</l>
+                  <l>Le sourire tanné de votre vulve exsangue.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>IMPUISSANCE</head>
+               <lg>
+                  <l>Non, tu ne m’auras pas, malgré mon désir fou!</l>
+                  <l>Tes baisers affamés peuvent pomper mes lèvres,</l>
+                  <l>Et, courant par troupeaux de mes reins à mon cou,</l>
+                  <l>Sur mon torse fiévreux brouter comme des chèvres,</l>
+                  <l>En vain tes doigts de fée en rut, tes doigts nerveux</l>
+                  <l>Dansent sur le sommeil de mes chairs résignées,</l>
+                  <l>Et pour me rajeunir glissent sur mes cheveux,</l>
+                  <l>Peuple souple et taquin de roses araignées.</l>
+                  <l>A l’apparition de ton corps éclatant,</l>
+                  <l>Un calme maladif s’est assis sur ma bête;</l>
+                  <l>Et pour avoir touché ce dont je rêvais tant,</l>
+                  <l>Tout le sang de mon cœur est monté dans ma tête.</l>
+                  <l>  Oh rage! T’avoir là, béante, devant moi,</l>
+                  <l>Sans frotter à tes nerfs mes nerfs que je renie,</l>
+                  <l>Moi qui voudrais t’emplir jusqu’à mourir de toi,</l>
+                  <l>Et râler sur tes dents mon sanglot d’agonie!</l>
+                  <l>Sentir ton ventre chaud houler comme une mer</l>
+                  <l>Qui dans un golfe blond meurt sous sa mousse blonde,</l>
+                  <l>Sans rouler ma fureur dans le varech amer</l>
+                  <l>Qui s’imprégna des sels et des vapeurs de l’onde!</l>
+                  <l>Voir ta lascivité qui m’ouvre le chemin,</l>
+                  <l>Et, voyageur perdu sous les bois qu’il traverse,</l>
+                  <l>Ne pas pousser ma route, un bâton à la main,</l>
+                  <l>Dans les ravins glissants détrempés par l’averse!</l>
+                  <l>Ah, que je vais t’aimer, quand je ne t’aurai plus!</l>
+                  <l>Seul, raidissant ma force impérieuse et dure,</l>
+                  <l>Je noierai mon lit veuf de regrets superflus,</l>
+                  <l>Pour me punir encor des douleurs que j’endure.</l>
+                  <l>Ton souvenir vengeur harcèlera mes sens;</l>
+                  <l>Mes bras t’appelleront sous ma luxure avide!</l>
+                  <l>—Telle une cassolette où, trop tard, les encens</l>
+                  <l>Dans un temple désert brûlent sur l’autel vide.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>L’HOMME D’ÉTAT</head>
+               <p rend="justify">SONNET</p>
+               <p rend="justify">
+                  <hi rend="italic">A Antonio Gandara.</hi>
+               </p>
+               <lg>
+                  <l>Là-bas, dans la tiédeur et la lumière brune</l>
+                  <l>De l’alcôve où l’air âcre aigrit les odorats,</l>
+                  <l>Un cul parlementaire enfle l’ampleur des draps,</l>
+                  <l>Et, large, s’arrondit comme une pleine lune.</l>
+                  <l>Dans les fesses qu’il fit, Rubens n’en fit aucune</l>
+                  <l>De majesté plus noble et de contours plus gras;</l>
+                  <l>Obéron ne saurait les tenir dans ses bras,</l>
+                  <l>Et Vénus Callipyge en garderait rancune.</l>
+                  <l>  Si vertueux qu’on soit et malgré la pudeur,</l>
+                  <l>Rien qu’à voir cette ferme et virile rondeur,</l>
+                  <l>On sent lever en soi des désirs monastiques.</l>
+                  <l>On contemple: on voudrait. Et le rêve mutin</l>
+                  <l>Flotte à l’entour, avec des langueurs extatiques,</l>
+                  <l>Cependant que le cul chante un hymne au matin.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>RÊVE</head>
+               <p rend="justify">
+                  <hi rend="italic">A Léon Cladel.</hi>
+               </p>
+               <lg>
+                  <l>Je me rappelle un soir de rage et d’hystérie</l>
+                  <l>Où, soûl de notre amour et bleui de baisers,</l>
+                  <l>J’étais tombé d’un bloc, pâmé, l’âme tarie,</l>
+                  <l>Le cœur vide et les reins brisés.</l>
+                  <l>Je dormais. Et noyé dans l’extase des rêves,</l>
+                  <l>J’évoquais l’idéal d’un paradis charnel</l>
+                  <l>Où de blondes houris, belles comme des Èves,</l>
+                  <l>Donnaient le coït éternel.</l>
+                  <l>Lascivement, sous la transparence des voiles,</l>
+                  <l>Les nombrils caressants me baisaient au nombril,</l>
+                  <l>Et passaient plus nombreux que le troupeau d’étoiles</l>
+                  <l>Qui passe au ciel des nuits d’avril.</l>
+                  <l>  Sans cesse! Mes désirs chantaient l’épithalame;</l>
+                  <l>Ma virilité fière ardait comme un grand feu,</l>
+                  <l>Et sous le vent du rut pourléchait de sa flamme</l>
+                  <l>L’autel où l’homme devient dieu.</l>
+                  <l>Superbe, elle vibrait sur les chairs qu’on titille,</l>
+                  <l>Et fouillait, sous le poil qui frise à l’Occident,</l>
+                  <l>L’ombre chaude, où l’orgueil de ma force érectile</l>
+                  <l>Plantait son baiser fécondant.</l>
+                  <l>Elle allait, jamais lasse et jamais assouvie,</l>
+                  <l>Et sous l’étranglement mouillé des spasmes nus,</l>
+                  <l>Elle crachait à flots les germes de la vie</l>
+                  <l>Au creuset rose de Vénus!</l>
+                  <l>Les bras blancs m’étouffaient sur les poitrines blanches;</l>
+                  <l>Les bustes, sous mon corps, se tordaient, pantelants;</l>
+                  <l>De longs frissons crispaient la ronde ampleur des hanches:</l>
+                  <l>Les genoux craquaient sur mes flancs!</l>
+                  <l>Puis, c’était la douceur des doigts errants sur l’aine,</l>
+                  <l>L’effleurement lascif et rôdeur des seins lourds,</l>
+                  <l>Et la langue, au milieu des parfums de l’haleine,</l>
+                  <l>Posant ses touchers de velours.</l>
+                  <l>  Et c’était cette soif lubrique de vampire</l>
+                  <l>Qui colle ses suçoirs sur l’homme turgescent;</l>
+                  <l>Qui, s’enivrant des sucs masculins qu’elle aspire,</l>
+                  <l>Va puiser l’âme au fond du sang!</l>
+                  <l>C’était plus qu’on ne rêve et plus qu’on ne devine,</l>
+                  <l>Ce que nul être humain n’a conçu ni chanté:</l>
+                  <l>C’était tout ce que peut l’érection divine</l>
+                  <l>Travaillant dans l’éternité.</l>
+                  <l>Oh, ce que j’ai connu dans cette heure sublime:</l>
+                  <l>L’immensité d’un rut peuplant les Univers,</l>
+                  <l>Et ma sève, coulant à remplir un abîme</l>
+                  <l>Plus insondable que les mers!</l>
+                  <l>Tout ce que j’ai goûté d’indicibles ivresses!</l>
+                  <l>Les siècles de coït passaient comme des jours,</l>
+                  <l>Et j’aimais en un jour des milliers de maîtresses,</l>
+                  <l>Et toujours... Toujours... Et toujours!</l>
+                  <l>Rêve, hélas! Et depuis qu’il leurra ma pensée,</l>
+                  <l>Je traîne dans mon cœur l’impuissance d’un vœu</l>
+                  <l>Et l’âpre souvenir de ma force passée,</l>
+                  <l>Moi qui suis homme,—et qui fus dieu!</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>REINE DU MONDE</head>
+               <p rend="justify">RONDEL</p>
+               <p rend="justify">
+                  <hi rend="italic">A Georges Lorin.</hi>
+               </p>
+               <lg>
+                  <l>O Luxure, reine du monde,</l>
+                  <l>Baume qui guéris nos rancœurs!</l>
+                  <l>Tu mets l’infini dans nos cœurs,</l>
+                  <l>Tu fais deux dieux d’un couple immonde.</l>
+                  <l>C’est toi la déesse féconde,</l>
+                  <l>Hébé des célestes liqueurs,</l>
+                  <l>O Luxure, reine du monde,</l>
+                  <l>Baume qui guéris nos rancœurs!</l>
+                  <l>  Aux maudits que l’angoisse inonde</l>
+                  <l>Tu permets les oublis moqueurs,</l>
+                  <l>Quand tes baisers chantent en chœurs</l>
+                  <l>Dans les taudis où le vent gronde.</l>
+                  <l>O Luxure, reine du monde!</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>ENVOI</head>
+               <p rend="justify">
+                  <hi rend="italic">A Gaston Béthune</hi>
+               </p>
+               <lg>
+                  <l>Frère, le plus aimé de mes plus chers amis,</l>
+                  <l>Esprit vibrant et souple où la nature a mis</l>
+                  <l>Des grandeurs de poëte et des douceurs de femme;</l>
+                  <l>Toi qui me consolais dans mes jours de rancœur;</l>
+                  <l>Qui réchauffais mon âme aux chaleurs de ton âme</l>
+                  <l>Quand le dégoût d’être homme humiliait mon cœur;</l>
+                  <l>  Toi qui lis dans ma vie, et qui sauras peut-être</l>
+                  <l>Le lourd secret que nul ne doit jamais connaître</l>
+                  <l>Et qui me fait pleurer, le soir, comme un enfant:</l>
+                  <l>En souvenir de moi, je te donne ce livre</l>
+                  <l>Où mon rut exalté se dresse, triomphant;</l>
+                  <l>Ceux qui passeront là pourront m’entendre vivre.</l>
+                  <l>J’ai tiré les rideaux de mon lit, grands ouverts;</l>
+                  <l>Je n’ai honte de rien, et je crie à pleins vers</l>
+                  <l>Quand l’amour bienfaisant descend sur ma torture.</l>
+                  <l>Plus corrompu que nous, le siècle n’aime pas</l>
+                  <l>Qu’on se souvienne d’être un fils de la nature,</l>
+                  <l>Et qu’on dise tout haut ce qu’il pense tout bas;</l>
+                  <l>Il veut qu’on soit poncif et qu’on chante les roses,</l>
+                  <l>Les bois, les vingt printemps et les hivers moroses;</l>
+                  <l>Il faut rougir d’être homme et renier sa chair.</l>
+                  <l>Ah, qui nous rendra l’âge où la grâce était nue?</l>
+                  <l>L’âpre splendeur du vrai rendait le beau plus cher,</l>
+                  <l>Et la pudeur dormait, hérésie inconnue;</l>
+                  <l>  Tous les bonheurs humains s’appelaient par leur nom,</l>
+                  <l>Et nul n’aurait osé trouver leur culte immonde...</l>
+                  <l>—«Tu vas châtrer ton art, et mentir»—Eh bien, non!</l>
+                  <l>Le monde en rugira: nous méprisons le monde!</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>TABLE</head>
+               <table rend="frame" xml:id="Table1">
+                  <row>
+                     <cell> </cell>
+                     <cell>Pages</cell>
+                  </row>
+                  <row>
+                     <cell>L’Hymne des Noyés</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Préface.</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>Le Coït des Atomes.</cell>
+                     <cell>21</cell>
+                  </row>
+                  <row>
+                     <cell>Philosophie.</cell>
+                     <cell>25</cell>
+                  </row>
+                  <row>
+                     <cell>L’Éden.</cell>
+                     <cell>27</cell>
+                  </row>
+                  <row>
+                     <cell>Solitude.</cell>
+                     <cell>41</cell>
+                  </row>
+                  <row>
+                     <cell>Ballade des Malséans pucelaiges.</cell>
+                     <cell>45</cell>
+                  </row>
+                  <row>
+                     <cell>Pasiphaë.</cell>
+                     <cell>47</cell>
+                  </row>
+                  <row>
+                     <cell>La Flûte.</cell>
+                     <cell>53</cell>
+                  </row>
+                  <row>
+                     <cell>Sonnet pointu.</cell>
+                     <cell>59</cell>
+                  </row>
+                  <row>
+                     <cell>A une Vierge.</cell>
+                     <cell>61</cell>
+                  </row>
+                  <row>
+                     <cell>Portes d’Enfer.</cell>
+                     <cell>63</cell>
+                  </row>
+                  <row>
+                     <cell>Ouvre.</cell>
+                     <cell>67</cell>
+                  </row>
+                  <row>
+                     <cell>Sonnet à ma mie.</cell>
+                     <cell>69</cell>
+                  </row>
+                  <row>
+                     <cell>Danaé.</cell>
+                     <cell>71</cell>
+                  </row>
+                  <row>
+                     <cell>L’Éternité.</cell>
+                     <cell>77</cell>
+                  </row>
+                  <row>
+                     <cell>Rondel mélancholique.</cell>
+                     <cell>79</cell>
+                  </row>
+                  <row>
+                     <cell>La Vieille.</cell>
+                     <cell>81</cell>
+                  </row>
+                  <row>
+                     <cell>La Jeune.</cell>
+                     <cell>85</cell>
+                  </row>
+                  <row>
+                     <cell>L’Obsession.</cell>
+                     <cell>87</cell>
+                  </row>
+                  <row>
+                     <cell>Europe.</cell>
+                     <cell>91</cell>
+                  </row>
+                  <row>
+                     <cell>Le Crâne.</cell>
+                     <cell>97</cell>
+                  </row>
+                  <row>
+                     <cell>La Source.</cell>
+                     <cell>99</cell>
+                  </row>
+                  <row>
+                     <cell>Symphonie.</cell>
+                     <cell>101</cell>
+                  </row>
+                  <row>
+                     <cell>Mélancolie blennorhagique.</cell>
+                     <cell>103</cell>
+                  </row>
+                  <row>
+                     <cell>Vœu.</cell>
+                     <cell>107</cell>
+                  </row>
+                  <row>
+                     <cell>Les Gants.</cell>
+                     <cell>109</cell>
+                  </row>
+                  <row>
+                     <cell>Le Bouclier.</cell>
+                     <cell>113</cell>
+                  </row>
+                  <row>
+                     <cell>Parisienne.</cell>
+                     <cell>115</cell>
+                  </row>
+                  <row>
+                     <cell>La Chanson du vieux Moine.</cell>
+                     <cell>117</cell>
+                  </row>
+                  <row>
+                     <cell>Brune.</cell>
+                     <cell>119</cell>
+                  </row>
+                  <row>
+                     <cell>Adultère.</cell>
+                     <cell>121</cell>
+                  </row>
+                  <row>
+                     <cell>Le Cocu.</cell>
+                     <cell>123</cell>
+                  </row>
+                  <row>
+                     <cell>Le Baptême.</cell>
+                     <cell>125</cell>
+                  </row>
+                  <row>
+                     <cell>Ballade des pucelaiges morts.</cell>
+                     <cell>127</cell>
+                  </row>
+                  <row>
+                     <cell>Madrigal.</cell>
+                     <cell>129</cell>
+                  </row>
+                  <row>
+                     <cell>Impuissance.</cell>
+                     <cell>131</cell>
+                  </row>
+                  <row>
+                     <cell>L’Homme d’État.</cell>
+                     <cell>133</cell>
+                  </row>
+                  <row>
+                     <cell>Rêve.</cell>
+                     <cell>135</cell>
+                  </row>
+                  <row>
+                     <cell>Reine du monde.</cell>
+                     <cell>139</cell>
+                  </row>
+                  <row>
+                     <cell>Envoi.</cell>
+                     <cell>141</cell>
+                  </row>
+               </table>
+               <p rend="justify">ACHEVÉ D’IMPRIMER</p>
+               <p rend="justify">
+                  <hi rend="italic">Le quinze avril mil huit cent quatre-vingt-trois.</hi>
+               </p>
+               <p rend="justify">Au lecteur.</p>
+               <p rend="justify">Ce livre électronique reproduit intégralement le texte original, et l’orthographe d’origine a été conservée. Seules quelques erreurs typographiques évidentes ont été corrigées. Ces corrections sont soulignées en pointillés dans le texte. Placez le curseur sur le mot pour voir l'orthographe originale.</p>
+               <p rend="justify">La ponctuation a également fait l'objet de quelques corrections mineures.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

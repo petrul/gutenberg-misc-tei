@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Kriminal-Sonette</title>
+            <author>Ludwig Rubiner</author>
+            <author>Livingstone Hahn</author>
+            <author>Friedrich Eisenlohr</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-01T18:44:01Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">odts/de-odts/Eisenlohr_Hahn_Rubiner-Kriminal-Sonette_2014.epub.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Ludwig Rubiner; Livingstone Hahn; Friedrich Eisenlohr</name>
+               <date>2024-01-01T18:44:01Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Kriminal-Sonette</head>
+         <author>Ludwig Rubiner</author>
+         <author>Livingstone Hahn</author>
+         <author>Friedrich Eisenlohr</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">odts/de-odts/Eisenlohr_Hahn_Rubiner-Kriminal-Sonette_2014.epub.odt</p>
+         <head>KRIMINAL-SONETTE</head>
+         <p>VON<lb/>FRIEDRICH EISENLOHR, LIVINGSTONE HAHN,<lb/>LUDWIG RUBINER</p>
+         <p>1913<lb/>Kurt Wolff Verlag, Leipzig</p>
+         <p>Copyright by Kurt Wolff Verlag, Leipzig 1913</p>
+         <p>Diese Verse<lb/>widmet seinen lieben Freunden<lb/>Livingstone Hahn und Friedrich Eisenlohr<lb/>LUDWIG RUBINER</p>
+         <p>widmet seinen lieben Freunden<lb/>Friedrich Eisenlohr und Ludwig Rubiner<lb/>LIVINGSTONE HAHN</p>
+         <p>widmet seinen lieben Freunden<lb/>Ludwig Rubiner und Livingstone Hahn<lb/>FRIEDRICH EISENLOHR</p>
+         <p>Paris, im Frühjahr 1913</p>
+         <pb/>
+         <div type="div1">
+            <head>Kriminal-Sonette</head>
+            <pb/>
+            <div type="div2">
+               <head>Inhalt</head>
+               <table rend="frame" xml:id="Table1">
+                  <row>
+                     <cell> </cell>
+                     <cell>Seite</cell>
+                  </row>
+                  <row>
+                     <cell>Das Kriminalsonett</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>Kapital:</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Gold</cell>
+                     <cell>11</cell>
+                  </row>
+                  <row>
+                     <cell>Das Holzbein</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>Die Schreckenskammer</cell>
+                     <cell>13</cell>
+                  </row>
+                  <row>
+                     <cell>Die Ahnengruft</cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>In Serbien</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>Der Juliusturm</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>Die Haft</cell>
+                     <cell>17</cell>
+                  </row>
+                  <row>
+                     <cell>Detektivisches:</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Das Rentamt</cell>
+                     <cell>21</cell>
+                  </row>
+                  <row>
+                     <cell>Der Postsack</cell>
+                     <cell>22</cell>
+                  </row>
+                  <row>
+                     <cell>Karnevalslist</cell>
+                     <cell>23</cell>
+                  </row>
+                  <row>
+                     <cell>Der Diebstahl im Louvre</cell>
+                     <cell>24</cell>
+                  </row>
+                  <row>
+                     <cell>Das Wunder</cell>
+                     <cell>25</cell>
+                  </row>
+                  <row>
+                     <cell>Der Festschmaus</cell>
+                     <cell>26</cell>
+                  </row>
+                  <row>
+                     <cell>Menschlichkeit:</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Der Rennskandal</cell>
+                     <cell>29</cell>
+                  </row>
+                  <row>
+                     <cell>Der Zahnarzt</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>Heinz</cell>
+                     <cell>31</cell>
+                  </row>
+                  <row>
+                     <cell>Bluff:</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Der Kettensprenger</cell>
+                     <cell>35</cell>
+                  </row>
+                  <row>
+                     <cell>Der Mord im Keller</cell>
+                     <cell>36</cell>
+                  </row>
+                  <row>
+                     <cell>Die Pariser Robe</cell>
+                     <cell>37</cell>
+                  </row>
+                  <row>
+                     <cell>Die Hinrichtung</cell>
+                     <cell>38</cell>
+                  </row>
+                  <row>
+                     <cell>Politik:</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Das Attentat</cell>
+                     <cell>41</cell>
+                  </row>
+                  <row>
+                     <cell>Der Stierkampf</cell>
+                     <cell>42</cell>
+                  </row>
+                  <row>
+                     <cell>Der Papst</cell>
+                     <cell>43</cell>
+                  </row>
+                  <row>
+                     <cell>Das Duell</cell>
+                     <cell>44</cell>
+                  </row>
+                  <row>
+                     <cell>Liebe:</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Der weiße Tod</cell>
+                     <cell>47</cell>
+                  </row>
+                  <row>
+                     <cell>Auf Helgoland</cell>
+                     <cell>48</cell>
+                  </row>
+                  <row>
+                     <cell>Die Texasbahn</cell>
+                     <cell>49</cell>
+                  </row>
+                  <row>
+                     <cell>Don Juan</cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell>Das Ende</cell>
+                     <cell>51</cell>
+                  </row>
+               </table>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Das Kriminal-Sonett</head>
+               <p rend="justify">Auf steilen Dächern rennt ein Herr im Frack,</p>
+               <p rend="justify">Ein Polizeihelm stieg aus dunklem Schachte.</p>
+               <p rend="justify">In Höfen ward es laut. Ein Browning krachte.</p>
+               <p rend="justify">Man prügelt Fremde. Einen rührt der Schlag.</p>
+               <p rend="justify">Im Haus der Gräfin tanzte man und lachte;</p>
+               <p rend="justify">Die Kenner freuten sich am Japan-Lack.</p>
+               <p rend="justify">FRED nebenan schob Erb-Schmuck in den Sack,</p>
+               <p rend="justify">Indes DER FREUND die offne Tür bewachte.</p>
+               <p rend="justify">Der Spürhund wedelt eifrig durch die Stadt;</p>
+               <p rend="justify">Ein Kommissar führt wichtig seine Liste.</p>
+               <p rend="justify">Die Zeugensprüche füllen manches Blatt.</p>
+               <p rend="justify">Zu Haus greift Fred in die Importenkiste.</p>
+               <p rend="justify">Der Freund am Spiegel streicht den Scheitel glatt.</p>
+               <p rend="justify">Dann führt man Tagebuch als Belletriste.</p>
+            </div>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>Kapital</head>
+            <pb/>
+            <div type="div2">
+               <head>  Gold</head>
+               <p rend="justify">FRED wird in einem braunen Tabakballen</p>
+               <p rend="justify">Vom Hafen auf die Zollstation getragen.</p>
+               <p rend="justify">Dort schläft er, bis die Schiffsuhr zwölf geschlagen.</p>
+               <p rend="justify">Erwacht und schleicht sich in die Lagerhallen.</p>
+               <p rend="justify">Am Gold-Depot, wo trunkne Wächter lallen,</p>
+               <p rend="justify">Läßt er den kleinen Mörtelfresser nagen,</p>
+               <p rend="justify">Bis wie beim Kartenhaus die Mauern fallen.</p>
+               <p rend="justify">Dann lädt er Gold in einen Grünkohlwagen.</p>
+               <p rend="justify">Als Bauer fährt er sächselnd durch den Zoll.</p>
+               <p rend="justify">Doch dort verraten ihn zwei blanke Barren.</p>
+               <p rend="justify">Berittne jagen den Gemüsekarren.</p>
+               <p rend="justify">Fred sinnt verwirrt, wie er sich retten soll.</p>
+               <p rend="justify">Da sitzt DER FREUND in hoher Eberesche</p>
+               <p rend="justify">Und schießt ihm pfeiferauchend eine Bresche.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Das Holzbein</head>
+               <p rend="justify">FRED hatte sich ein Holzbein vorgeschnallt</p>
+               <p rend="justify">Und hockt am Kaufhaus, wo die Droschken stehn.</p>
+               <p rend="justify">Nach hinten greift er mit den freien Zeh’n.</p>
+               <p rend="justify">Es reicht DER FREUND ihm aus dem Kellerspalt</p>
+               <p rend="justify">Das Kontobuch mit dem Bilanzvergehn.</p>
+               <p rend="justify">Notizen in der Zeitung „Volksgewalt“.</p>
+               <p rend="justify">Dem Aufsichtsrate wird es heiß und kalt.</p>
+               <p rend="justify">Der Aktiensturz läßt sich nicht übersehn.</p>
+               <p rend="justify">Zwei Ledersessel vor dem Samowar.</p>
+               <p rend="justify">Direktor Clifford bietet immer mehr.</p>
+               <p rend="justify">(In faulen Wechseln. — Fred besteht auf bar. —)</p>
+               <p rend="justify">Der Handel schwankt gerissen hin und her.</p>
+               <p rend="justify">Ruin? Fred lacht gefährlich wie ein Zar:</p>
+               <p rend="justify">Schlag zwölf Uhr ist er Kaufhaus-Sozietär.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Die Schreckenskammer</head>
+               <p rend="justify">Der Bankherr führt ins Wachspanoptikum</p>
+               <p rend="justify">Die junge Braut. FRED an der Guillotine,</p>
+               <p rend="justify">In Henkersmantel und maskierter Miene,</p>
+               <p rend="justify">Steht täuschend wächsern, steifgereckt und stumm.</p>
+               <p rend="justify">DER FREUND, als Führer, zeigt die „Folterbiene“.</p>
+               <p rend="justify">Die „Daumenschrauben“, das „Bein-dreh-dich-um“,</p>
+               <p rend="justify">Die Totenmaske von Napolium —</p>
+               <p rend="justify">Und weist erklärend auf die Mordmaschine.</p>
+               <p rend="justify">Der Snob, gereizt, versucht den kleinen Witz.</p>
+               <p rend="justify">Fred drückt gelassen auf den Messerknopf:</p>
+               <p rend="justify">Die Schneide saust herab gleich einem Blitz.</p>
+               <p rend="justify">Sie hält drei Millimeter überm Kopf.</p>
+               <p rend="justify">Die Freunde nehmen dem Millionenfex</p>
+               <p rend="justify">Brillanten, Uhr, sowie die Reiseschecks.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Die Ahnengruft</head>
+               <p rend="justify">Mit Chopins Trauermarsch vorm Leichenwagen</p>
+               <p rend="justify">Begräbt man FRED. DER FREUND, vom Kutschbock, lenkt.</p>
+               <p rend="justify">Als der Kaplan des Toten warm gedenkt,</p>
+               <p rend="justify">Hat Fred bereits sechs Särge aufgeschlagen.</p>
+               <p rend="justify">Er wühlt die Perlen aus den Knochenlagen,</p>
+               <p rend="justify">Die Barbarossa dem Geschlecht geschenkt;</p>
+               <p rend="justify">Vom Seil, das nachts der Freund herabgesenkt,</p>
+               <p rend="justify">Wird er gleich einem Taucher hochgetragen.</p>
+               <p rend="justify">Aus dem Erlös kauft Fred den Hydroplan</p>
+               <p rend="justify">Der Deutschen Adlerwerke, und erringt</p>
+               <p rend="justify">Den Damenpreis von San Sebastian.</p>
+               <p rend="justify">Der Freund erwartet ihn am Stromboli.</p>
+               <p rend="justify">Ein Fest im Krater, wo Caruso singt:</p>
+               <p rend="justify">Fred liebt doch so Puccinis: „O Mimi . . .“!</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>In Serbien</head>
+               <p rend="justify">Am grauzerfallnen Schloß im Land der Serben</p>
+               <p rend="justify">Putzt FRED den Rost der alten Eingangstür.</p>
+               <p rend="justify">Tags drauf erweist man gastliche Gebühr</p>
+               <p rend="justify">Dem südaustralischen Milliarden-Erben.</p>
+               <p rend="justify">Fred streift bei Tisch die Sage vom Vampyr,</p>
+               <p rend="justify">„Der brachte manchem Fremdling schon Verderben.“</p>
+               <p rend="justify">Der Gast lacht kühl. Doch Fred wird heimlich färben</p>
+               <p rend="justify">Ein großes Tuch mit Phosphor-Cyanür.</p>
+               <lg>
+                  <l>Nachts wird dem jungen Zweifler plötzlich kraus:</l>
+                  <l>Das Bett springt hoch; ein Leuchten von Skeletten,</l>
+                  <l>Und Flügel einer Riesenfledermaus.</l>
+                  <l>Der Gast fühlt sich gepackt wie eine Laus.</l>
+                  <l>In Todesnöten schreibt er einen fetten</l>
+                  <l>Betrag: die Seele des Vampyrs zu retten.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Der Juliusturm</head>
+               <p rend="justify">Durch Spandau tummelt FRED als Sonntagsreiter.</p>
+               <p rend="justify">Da alarmiert DER FREUND die Feuerglocken.</p>
+               <p rend="justify">Die Wachmannschaft läßt sich vom Lärm verlocken.</p>
+               <p rend="justify">Fred stiehlt hiebei die große Rettungsleiter,</p>
+               <p rend="justify">Und trabt zum Juliusturm. Auf Gummisocken</p>
+               <p rend="justify">Schleicht er sich an. Schon röchelt ein Gefreiter.</p>
+               <p rend="justify">Es naht der Freund auf seinem Fiatgleiter;</p>
+               <p rend="justify">Man packt das Kriegsgold auf wie Semmelbrocken.</p>
+               <p rend="justify">Das schlechte Goldfeld „Puck“ in Uruguay</p>
+               <p rend="justify">Wird mit dem eingeschmolznen Schatz gesalzt.</p>
+               <p rend="justify">Die Minenjobber landen in der Bai.</p>
+               <p rend="justify">Die Puckshares gehn in niegeahnte Hausse.</p>
+               <p rend="justify">Fred, der bei Rotschild fette Austern schnalzt,</p>
+               <p rend="justify">Funkt selbst den Börsenkrach an Rudolf Mosse.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Die Haft</head>
+               <p rend="justify">Das Feuerzeichen winkt. FRED in der Zelle</p>
+               <p rend="justify">Erkennt DEN FREUND. Das Gitter bricht zerfeilt.</p>
+               <p rend="justify">Er hat sich mit dem Bettuch angeseilt.</p>
+               <p rend="justify">Hell gellt Alarm von der Gefängnisschelle.</p>
+               <p rend="justify">Die Wache schießt, da er zur Mauer eilt.</p>
+               <p rend="justify">Schon steht er oben. Schwarz gähnt das Gefälle.</p>
+               <p rend="justify">Die Kugeln schwirrn um ihn wie Kinderbälle,</p>
+               <p rend="justify">Als ein Aeroplan die Luft zerteilt.</p>
+               <p rend="justify">Befreit. Hoch überm Lichtmeer schräg und blank</p>
+               <p rend="justify">Surrt der Propeller scharf wie eine Fräse.</p>
+               <p rend="justify">Sie landen auf dem Dach der Deutschen Bank.</p>
+               <p rend="justify">Sirenensang von einem Knallgebläse.</p>
+               <p rend="justify">Man legt Termit ans kleine Loch im Schrank —</p>
+               <p rend="justify">Der Arnheim bröckelt wie ein Roquefortkäse.</p>
+            </div>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>Detektivisches</head>
+            <pb/>
+            <div type="div2">
+               <head>  Das Rentamt</head>
+               <p rend="justify">FRED in der Maske eines Rechnungsrats</p>
+               <p rend="justify">Schritt bärtig auf das Zimmer Nummer Vier.</p>
+               <p rend="justify">Er wühlt gelassen unterm Amtspapier,</p>
+               <p rend="justify">Verlangt die Kassenschlüssel; und man tats.</p>
+               <p rend="justify">DER FREUND erwartet ihn beim Pilsner Bier</p>
+               <p rend="justify">Im Kinderkragen eines Kieler Maats.</p>
+               <p rend="justify">Man lebt bescheiden von dem Geld des Staats</p>
+               <p rend="justify">(Die Bombe brütet schon im Safe-Revier).</p>
+               <p rend="justify">Das Rentamt platzt um neun mit dumpfem Knall.</p>
+               <p rend="justify">Der Stadtteil brennt. Im Opelwagen fuhren</p>
+               <p rend="justify">Fred und der Freund zum Bayreuth-Parsifal.</p>
+               <p rend="justify">GREIFF (Meisterdetektiv) hat ihre Spuren.</p>
+               <p rend="justify">Noch muß er warten in dem Festspielschwall.</p>
+               <p rend="justify">Man harrt des Kampfs und lächelt wie Auguren.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Der Postsack</head>
+               <p rend="justify">Als der Expreß auf offnem Felde stand,</p>
+               <p rend="justify">Durchschritt DER FREUND die aufgestörten Wagen.</p>
+               <p rend="justify">Die Maske vor, den Browning angeschlagen</p>
+               <p rend="justify">Rief er mit sanfter Stimme: „Hoch die Hand!“</p>
+               <p rend="justify">FRED hat bereits den Postsack weggetragen.</p>
+               <p rend="justify">Das Auto nimmt sie auf am Waldesrand.</p>
+               <p rend="justify">Zehn Stunden Fahrt. Ein Schiff, das sie bemannt,</p>
+               <p rend="justify">Muß den Rekord „Prinzeß Luise“ schlagen.</p>
+               <p rend="justify">DETEKTIV GREIFF folgt auf armierter Jacht.</p>
+               <p rend="justify">Fred sichtet ihn; er prüft die Wassertanke.</p>
+               <p rend="justify">Ein Seegefecht in einer Tropennacht.</p>
+               <p rend="justify">Freds Stückschuß trifft ihn zischend in die Flanke.</p>
+               <p rend="justify">Ein Feuerschein. Die Pulverkammer kracht.</p>
+               <p rend="justify">Greiff rettet sich auf einer schmalen Planke.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Karnevalslist</head>
+               <p rend="justify">DETEKTIV GREIFF in violetter Seide</p>
+               <p rend="justify">Verfolgt zwei Masken hinters Karussell;</p>
+               <p rend="justify">DER FREUND als Doge, FRED als Wilhelm Tell</p>
+               <p rend="justify">Bezeichnen einen Baum mit weißer Kreide.</p>
+               <p rend="justify">Dann tönen Käuzchenschrei und Hundsgebell.</p>
+               <p rend="justify">Zwei Männer nahn verkappt im Frauenkleide.</p>
+               <p rend="justify">Vier gegen eins! Man schleppt Greiff in die Haide</p>
+               <p rend="justify">Und näht ihn hurtig in ein Eisbärfell.</p>
+               <p rend="justify">Der Ferndraht spielt bis zu den Balearen.</p>
+               <p rend="justify">Der schweren Suche läßt sichs nicht verdrießen</p>
+               <p rend="justify">Ein Aufgebot von fünfzehn Kommissaren.</p>
+               <p rend="justify">Man findet einen Sack, der Sack muß nießen.</p>
+               <p rend="justify">Greiff wird befreit, doch mit gebleichten Haaren:</p>
+               <p rend="justify">Fred und der Freund sind gegen Blutvergießen.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Der Diebstahl im Louvre</head>
+               <p rend="justify">Schon barg DER FREUND im Beinkleid den Giorgione</p>
+               <p rend="justify">Und hinkt zum Ausgang wie ein Känguruh,</p>
+               <p rend="justify">DETEKTIV GREIFF hält ihm die Türe zu</p>
+               <p rend="justify">Und präpariert die erste blaue Bohne.</p>
+               <p rend="justify">Indes zieht FRED den Browning aus dem Schuh</p>
+               <p rend="justify">Und lädt ihn mit der Chloroformpatrone.</p>
+               <p rend="justify">Man läßt dem steifen Greiff in hellem Hohne</p>
+               <p rend="justify">Ein Aktenstück. (Die Pläne zu dem Coup.)</p>
+               <p rend="justify">Das Bildnis reist in einem Teleskope</p>
+               <p rend="justify">Nach Mexico zum großen Kupfer-King.</p>
+               <p rend="justify">In der Kapelle segnet es sein Pope.</p>
+               <p rend="justify">Man tröstet Greiff, der schon am Stricke hing.</p>
+               <p rend="justify">Fred fährt als reicher Forscher in die Trope</p>
+               <p rend="justify">Und fängt dort den Hyänen-Schmetterling.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Das Wunder</head>
+               <p rend="justify">DER FREUND versucht sein Glück auf eigne Faust.</p>
+               <p rend="justify">Im dunklen Saal der reichen Spiritisten</p>
+               <p rend="justify">Lärmt er als Geist in streng verschlossnen Kisten.</p>
+               <p rend="justify">Wonach er goldne Taschenuhren maust.</p>
+               <p rend="justify">GREIFF hat das Glück, ihn schnell zu überlisten.</p>
+               <p rend="justify">Das Licht flammt auf. Der Dieb wird arg gezaust.</p>
+               <p rend="justify">Als ihm der Klopftisch in den Nacken saust,</p>
+               <p rend="justify">Sehnt er sich so nach Fred, dem hart vermißten.</p>
+               <p rend="justify">Da donnerts unterm Saal. Das Licht wird grün.</p>
+               <p rend="justify">Aus schwarzem Loch steigt bleich der Alte Fritz.</p>
+               <p rend="justify">Im Hintergrund sieht man drei Eichen blühn.</p>
+               <p rend="justify">Den Wagehals umarmt FRED (denn er wars)!</p>
+               <p rend="justify">Sie tauchen unter im Magnesiumblitz.</p>
+               <p rend="justify">Zum Trost führt Fred den Freund in kleine Bars.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Der Festschmaus</head>
+               <p rend="justify">Vergiftet sind die gelben Berberfische,</p>
+               <p rend="justify">Eh noch der Wagen mit den Trustherrn naht.</p>
+               <p rend="justify">DETEKTIV GREIFF erfährt dies durch Verrat.</p>
+               <p rend="justify">FRED schleppt den Fallschirm in die Schloßturmnische.</p>
+               <p rend="justify">DER FREUND — das keiner aus dem Haus entwische</p>
+               <p rend="justify">Vom prassenden Getreidesyndikat —</p>
+               <p rend="justify">Legt um den runden Saal Elektrodraht.</p>
+               <p rend="justify">Die Gäste stürzen sterbend auf die Tische.</p>
+               <p rend="justify">Greiff hat das Schloß mit Militär umstellt.</p>
+               <p rend="justify">Der Luftschirm trägt die Freunde fort und fällt.</p>
+               <p rend="justify">Man dringt ins Haus. Greiff tritt auf den Kontakt.</p>
+               <p rend="justify">Spät birgt man Leichen, blutig und zerhackt.</p>
+               <p rend="justify">Fred fälscht indes der Trustherrn Testamente,</p>
+               <p rend="justify">Und zieht als Erbe eine Krösusrente.</p>
+            </div>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>Menschlichkeit</head>
+            <pb/>
+            <div type="div2">
+               <head>  Der Rennskandal</head>
+               <p rend="justify">Am Sattelplatz hört man die Tips laut nennen.</p>
+               <p rend="justify">FRED ist im Stall auf kurze Zeit allein:</p>
+               <p rend="justify">Er dopt den schlechten Starter „Sonnenschein“</p>
+               <p rend="justify">(Der Gaul geht glänzend ab, und macht das Rennen.)</p>
+               <p rend="justify">Zwei Jockeys, die den Schwindel gleich erkennen,</p>
+               <p rend="justify">Beweisen ihn, umdrängt von dichten Reihn.</p>
+               <p rend="justify">Schon stellt der Toto seine Zahlung ein.</p>
+               <p rend="justify">Das Volk radaut. Und die Tribünen brennen.</p>
+               <p rend="justify">Als erster stürzt DER FREUND sich auf die Kasse,</p>
+               <p rend="justify">Und trägt die Scheine im Zylinder fort.</p>
+               <p rend="justify">Die Mailcoach wartet schon an der Terrasse.</p>
+               <p rend="justify">In Alabama treffen sich die beiden.</p>
+               <p rend="justify">Der Freund errichtet einen Kinderhort.</p>
+               <p rend="justify">Fred übt den Lassofang auf Rinderweiden.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Der Zahnarzt</head>
+               <p rend="justify">FRED ölt die Bohrmaschine als Dentist.</p>
+               <p rend="justify">DER FREUND, im weißen Kittel, fesselt schon</p>
+               <p rend="justify">An seinen Stuhl den dicken Herrn Baron</p>
+               <p rend="justify">Und Bankier Epstein (fünfzig Jahre, Christ).</p>
+               <p rend="justify">Dann fängt Fred an, ihn ernstlich zu bedrohn.</p>
+               <p rend="justify">Da er zu keinem Opfer willig ist</p>
+               <p rend="justify">— Indes der Bohrer immer tiefer frißt —</p>
+               <p rend="justify">Greift er zum Hebel für die Extraktion.</p>
+               <p rend="justify">Fred fordert nun ein Wöchnerinnenhaus.</p>
+               <p rend="justify">Der Bankherr zögert lang mit dem Akzept.</p>
+               <p rend="justify">Da werden neue Zangen hergeschleppt.</p>
+               <p rend="justify">Herr Epstein füllt sofort den Wechsel aus.</p>
+               <p rend="justify">Und in der Angst um seine letzten Zähne</p>
+               <p rend="justify">Stützt er Freds Kunstzeitschrift: „Die Innenträne“.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Heinz</head>
+               <p rend="justify">FRED lernt einmal auf einer Luxusreise</p>
+               <p rend="justify">Frau Lippmann, eine reiche Witwe, kennen.</p>
+               <p rend="justify">Als kurz vor Petersburg die Wagen brennen</p>
+               <p rend="justify">Trägt er sie schwer verstümmelt vom Geleise.</p>
+               <p rend="justify">Im Fieber fängt sie an nach „Heinz“ zu flennen.</p>
+               <p rend="justify">Und stirbt. Fred fälscht die Erbbeweise.</p>
+               <p rend="justify">DER FREUND vergiftet die Familiengreise.</p>
+               <p rend="justify">Fred wird sich beim Termin „H. Lippmann“ nennen.</p>
+               <p rend="justify">Der echte Heinz putzt in Chicago Schuhe.</p>
+               <p rend="justify">Zur Wichsbank dient ihm die Familientruhe.</p>
+               <p rend="justify">Fred kreuzt den Weg als bummelnder Verschwender.</p>
+               <p rend="justify">Fred, der des Schicksals grelles Spiel erriet,</p>
+               <p rend="justify">Schenkt ihm gerührt sein Banken-Deposit.</p>
+               <p rend="justify">Dann reist er arm in unbekannte Länder.</p>
+            </div>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>Bluff</head>
+            <pb/>
+            <div type="div2">
+               <head>  Der Kettensprenger</head>
+               <p rend="justify">Houdini ringelt sich aus seinen Ketten.</p>
+               <p rend="justify">Das Zuchthausgitter auf der Bühne bricht.</p>
+               <p rend="justify">FRED, im Parkett mit höhnischem Gesicht</p>
+               <p rend="justify">Beginnt die Handgelenke einzufetten.</p>
+               <p rend="justify">Als Amateur steigt er ins Rampenlicht.</p>
+               <p rend="justify">DER FREUND entriert nie dagewesne Wetten.</p>
+               <p rend="justify">Fred knickt die Stäbe durch wie Zigaretten:</p>
+               <p rend="justify">Die Welt durchfliegt der Sensationsbericht.</p>
+               <p rend="justify">Fred mietet in New York ein Variété.</p>
+               <p rend="justify">Am Eingang, wo sich stets die Menge rauft,</p>
+               <p rend="justify">Steht schon am frühen Morgen: „Ausverkauft“.</p>
+               <p rend="justify">Houdini stürzt sich in den Bodensee.</p>
+               <p rend="justify">Krupp-Essen laboriert im Prüfungssaal,</p>
+               <p rend="justify">Und sucht verzweifelt einen neuen Stahl.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Der Mord im Keller</head>
+               <p rend="justify">Im Raum der unterirdischen Apaschen</p>
+               <p rend="justify">Warf FRED ins Glas dem Fremden Kokain.</p>
+               <p rend="justify">DER FREUND, der hilfereich als Arzt erschien,</p>
+               <p rend="justify">Fischt dem Betäubten in den Manteltaschen.</p>
+               <p rend="justify">Ein Polizist will seinen Browning ziehn.</p>
+               <p rend="justify">Fred mußte ihn von hinten überraschen.</p>
+               <p rend="justify">Ein Schuß. Gebrüll. Ein Scherbenberg von Flaschen.</p>
+               <p rend="justify">Ein Toter! Fred und sein Genosse fliehn.</p>
+               <p rend="justify">Zu Haus ölt Fred die Falltür zum Verschwinden.</p>
+               <p rend="justify">Die Polizei kordont den Häuserblock.</p>
+               <p rend="justify">(Die Doppeltüren knarren in den Spinden.)</p>
+               <p rend="justify">— Bei der Beschießung schreibt ein Zeitungsschmock. —</p>
+               <p rend="justify">Tief im Gebirge wird sie niemand finden;</p>
+               <p rend="justify">Fred liegt im Bett, der Freund kocht steifen Grog.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Die Pariser Robe</head>
+               <p rend="justify">Im weltberühmten Haus der Frühjahrsmoden</p>
+               <p rend="justify">Entwirft der Chef die neuste Creation:</p>
+               <p rend="justify">Die Seide singt wie blauer Flötenton.</p>
+               <p rend="justify">FRED, ganz devot, in schlappem Hut und Loden</p>
+               <p rend="justify">Steht mit dabei, und handelt um den Lohn</p>
+               <p rend="justify">Als Hauspoet für die Reklame-Oden.</p>
+               <p rend="justify">Die Muster gibt er schnell von Englands Boden</p>
+               <p rend="justify">Ins neuerfundne Bildtelegraphon.</p>
+               <p rend="justify">Drei Tage später trägt schon ganz New York</p>
+               <p rend="justify">Die Schöpfung, die Paris noch gar nicht kennt.</p>
+               <p rend="justify">(Das Haus „Paquin et Fils“ fällt um wie Kork.)</p>
+               <p rend="justify">Fred weist den Modezeichnern neue Spur:</p>
+               <p rend="justify">Denn, siegt Amerika als Konkurrent</p>
+               <p rend="justify">Bleibt für Paris doch nur die Nacktkultur.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Die Hinrichtung</head>
+               <p rend="justify">DER FREUND sitzt im Gefängnis von Sing-Sing.</p>
+               <p rend="justify">Der Priester kommt, der ihn zum Tod bereitet.</p>
+               <p rend="justify">Er wird auf den Elektrostuhl geleitet,</p>
+               <p rend="justify">Da man ihn jüngst bei einem Morde fing.</p>
+               <p rend="justify">FRED, der als Techniker zur Rettung schreitet,</p>
+               <p rend="justify">Ist am Zentraldynamo in Verding.</p>
+               <p rend="justify">Er transformiert durch einen Tesla-Ring</p>
+               <p rend="justify">Den Wechselstrom, daß er vom Körper gleitet.</p>
+               <p rend="justify">Der Henker knipst, bis er die Platze kriegt.</p>
+               <p rend="justify">Der Freund summt sich ein Walzerlied in Moll;</p>
+               <p rend="justify">Als der Plafond lautlos in Splitter fliegt.</p>
+               <p rend="justify">Von oben saugt die Vacuum-Maschine,</p>
+               <p rend="justify">Und schlürft den Freund mitsamt dem Protokoll.</p>
+               <p rend="justify">Im Blau verschwinden gelb zwei Zeppeline.</p>
+            </div>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>Politik</head>
+            <pb/>
+            <div type="div2">
+               <head>  Das Attentat</head>
+               <p rend="justify">Am Flügel sitzt DER FREUND mit der Sonate.</p>
+               <p rend="justify">FRED reizt indes die Kili-Kili-Schlange.</p>
+               <p rend="justify">Dann klemmt er sie mit einer Christbaumzange</p>
+               <p rend="justify">In einen Rosenstrauß zum Attentate.</p>
+               <p rend="justify">Als sich der Großfürst breit im Wagen nahte</p>
+               <p rend="justify">Streift ihn der Strauß an seiner rechten Wange.</p>
+               <p rend="justify">Im Séparé stirbt er beim zweiten Gange,</p>
+               <p rend="justify">Miß Lily zieht entsetzt den Wirt zu Rate.</p>
+               <p rend="justify">Die Polizei stellt sorgsam ihre Netze.</p>
+               <p rend="justify">Scheinwerfer nachts bei wilder Dächerhetze.</p>
+               <p rend="justify">Die Freunde flüchten in die Kohlenzechen.</p>
+               <p rend="justify">Dort trifft man sich zu heimlicher Verschwörung.</p>
+               <p rend="justify">Die Nihilisten feiern das Verbrechen.</p>
+               <p rend="justify">Im Lande schwelt die Flamme der Empörung.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Der Stierkampf</head>
+               <p rend="justify">Durch die Arena rast das Beifallsschrein.</p>
+               <p rend="justify">Torero FRED dankt mit dem blutigen Degen:</p>
+               <p rend="justify">Er winkt DEM FREUND die Hebel zu bewegen;</p>
+               <p rend="justify">Wo der Infant sitzt, stürzt der Boden ein.</p>
+               <p rend="justify">Der Freund fängt ihn geschickt im Trümmerregen;</p>
+               <p rend="justify">Betäubt ihn hurtig mit gewürztem Wein;</p>
+               <p rend="justify">Dann trägt man ihn bei rotem Fackelschein</p>
+               <p rend="justify">Zu einem Haus, verschanzt und abgelegen.</p>
+               <p rend="justify">Der Festtag wandelt sich zum <hi rend="italic">dies ater</hi>.</p>
+               <p rend="justify">Es wächst ein europäischer Skandal.</p>
+               <p rend="justify">Man spricht von Freds Audienz im Escorial.</p>
+               <p rend="justify">Fred rettet flugs das Kind aus dem Verließ.</p>
+               <p rend="justify">Als Lohn begehrt er nur das „Goldene Vließ“.</p>
+               <p rend="justify">Und einen Brief nach Rom zum Heiligen Vater.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Der Papst</head>
+               <p rend="justify">FRED geht zur Teezeit in den Vatikan.</p>
+               <p rend="justify">Die Kardinäle sind beim süßen Eis.</p>
+               <p rend="justify">Der Papst sitzt auf dem Thron in lichtem Weiß,</p>
+               <p rend="justify">Und Fred entwickelt seinen Schlachtenplan.</p>
+               <p rend="justify">„Man kauft Europas Heer um jeden Preis</p>
+               <p rend="justify">(Chicago liefert Feldzugs-Pemmikan).</p>
+               <p rend="justify">Der Kirchenstaat erhebt sich wie ein Schwan.</p>
+               <p rend="justify">Diktator wird der Papst vom Weltenkreis.“</p>
+               <p rend="justify">Im Petersdom dampft Amber auf und Narde . .</p>
+               <p rend="justify">(DER FREUND befehligt schon die Nobelgarde,</p>
+               <p rend="justify">Indessen Fred als Schatzverwalter gilt.)</p>
+               <p rend="justify">In dunkler Nacht verschwindet Fred nach Brüssel,</p>
+               <p rend="justify">Ein Sammler übernimmt den Peters-Schlüssel,</p>
+               <p rend="justify">Doch Petri goldnen Stuhl kauft Vanderbilt.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Das Duell</head>
+               <p rend="justify">FRED schlürft in Bonn die Rheinluft mit Behagen.</p>
+               <p rend="justify">Da naht „Borussias“ Zweibändermann</p>
+               <p rend="justify">Und redet Fred mit: „Servus Bauer“ an.</p>
+               <p rend="justify">Fred dreht sich um und boxt ihn in den Magen.</p>
+               <p rend="justify">Am nächsten Tag steht man befrackt in Tann.</p>
+               <p rend="justify">Freds Kraftblick läßt des Gegners Schuß versagen.</p>
+               <p rend="justify">Er selbst trifft ihn am Halse überm Kragen.</p>
+               <p rend="justify">(Ein Kindermädchen trauert in Lausanne.)</p>
+               <p rend="justify">Freds Haft vergeht nicht tatenlos auf Metz.</p>
+               <p rend="justify">Bei jedem Morgenrundgang kinoskopt</p>
+               <p rend="justify">Er aus dem steifen Hut das Festungsnetz.</p>
+               <p rend="justify">Die Pläne, die Fred nach Paris verpfeift,</p>
+               <p rend="justify">Druckt der „Matin“. Der Deutsche Reichstag tobt.</p>
+               <p rend="justify">Metz, als strategisch wertlos, wird geschleift.</p>
+            </div>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>Liebe</head>
+            <pb/>
+            <div type="div2">
+               <head>  Der weiße Tod</head>
+               <p rend="justify">Der müde Prinz warnt vor dem Gletscherspalt.</p>
+               <p rend="justify">Der Milliardär verdaut die Table d’hôte.</p>
+               <p rend="justify">Der Konsul spricht vom Unterwasserboot.</p>
+               <p rend="justify">Der Opernstar, am Flügel, nachtigallt.</p>
+               <p rend="justify">FREDS Finger sind am Halse von Miß Maud.</p>
+               <p rend="justify">Er scherzt dabei; sie lacht in weichem Alt.</p>
+               <p rend="justify">Schon ist das Perlenband in Freds Gewalt,</p>
+               <p rend="justify">Da dröhnt Lawinensturz: der weiße Tod!</p>
+               <p rend="justify">Die Eingeschlossnen brechen in die Knie.</p>
+               <p rend="justify">Freds kühle Ruhe mildert das Entsetzen,</p>
+               <p rend="justify">Er unterhält sie durch Salon-Magie.</p>
+               <p rend="justify">Fred, mit Lyddit, sprengt gleich den Schnee zu Fetzen.</p>
+               <p rend="justify">Von Maud umarmt verläßt er Chamonix.</p>
+               <p rend="justify">(In Wien wird Aronsohn die Perlen schätzen.)</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Auf Helgoland</head>
+               <p rend="justify">FRED räkelt sich im weißen Ufersand.</p>
+               <p rend="justify">Frau Ulla lächelt hinter ihrem Schal.</p>
+               <p rend="justify">Vom Stahlmast gibt ihr Mann, der Admiral,</p>
+               <p rend="justify">Depeschen. Fred küßt ihr vertraut die Hand.</p>
+               <p rend="justify">Nachts öffnet die Geheimtür sich („brillant!“).</p>
+               <p rend="justify">Der Gatte präsidiert beim Liebesmahl,</p>
+               <p rend="justify">Als Fred geschickt den Chiffren-Schlüssel stahl.</p>
+               <p rend="justify">Frau Ulla harrt umsonst im Schlafgewand.</p>
+               <p rend="justify">In England baut man flugs zwei Dreadnoughts mehr.</p>
+               <p rend="justify">Im Oberhause stürmen die Debatten.</p>
+               <p rend="justify">Es hetzt die Presse gegen Deutschlands Heer.</p>
+               <p rend="justify">Erregt kauft ganz Europa Panzerplatten.</p>
+               <p rend="justify">Fred, der vorm Weltkrieg in die Schweiz entfloh,</p>
+               <p rend="justify">Eröffnet ein Spion-Expreß-Bureau.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Die Texasbahn</head>
+               <lg>
+                  <l>Auf Mitteltexas dämmert letzte Helle.</l>
+                  <l>FRED, der die Bahnzeit nach den Sternen schätzt,</l>
+                  <l>Entfernt die Schrauben aus der Schienenschwelle.</l>
+                  <l>Schon kommt erdonnernd roter Schein gehetzt.</l>
+                  <l>Der Zug, der in die losen Schienen fetzt,</l>
+                  <l>Springt hoch wie die getroffene Gazelle.</l>
+                  <l>Fred trägt aus Leichenhaufen unverletzt</l>
+                  <l>Miß Madderson. An einer nahen Quelle</l>
+                  <l>Schlummert sie sorglos wie ein kleines Kind.</l>
+                  <l>Blaß liegt der Mond. Der Kürbisklopfer flötet,</l>
+                  <l>Bis daß der Tag durch die Agaven rinnt.</l>
+                  <l>Und sie wacht auf und nestelt an den Haaren:</l>
+                  <l>„Hast du auch meinen Vater gut getötet? —</l>
+                  <l>Dann laß uns, bitte, nach Venedig fahren!“</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Don Juan</head>
+               <p rend="justify">Ein Teetisch ist verliebt für zwei gedeckt.</p>
+               <p rend="justify">DER FREUND naht, von YVONNE lang erwartet;</p>
+               <p rend="justify">Sie hat ein böses Rachespiel gestartet</p>
+               <p rend="justify">(MISS ROAD sitzt auch schon hinterm Schrank versteckt).</p>
+               <p rend="justify">LUISE weiß, was beide abgekartet.</p>
+               <p rend="justify">Die alte Liebe zittert, neu geweckt.</p>
+               <p rend="justify">Sie läuft zu FRED. In wildestem Affekt:</p>
+               <p rend="justify">„Ich bin das Mädchen, das ihr alle narrtet . . .!“</p>
+               <p rend="justify">Aus grünen Flaschen spritzt schon Vitriol.</p>
+               <p rend="justify">Der Freund verschanzt sich hinterm Himmelbette.</p>
+               <p rend="justify">Den Riegel sprengt der Schuß aus Freds Pistol.</p>
+               <p rend="justify">Im Auto tadelt Fred: „Ich war bereit</p>
+               <p rend="justify">Den ganzen Tag zu unserm Schluß-Sonette.</p>
+               <p rend="justify">Was kosten deine Frauen mich für Zeit!“</p>
+            </div>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>Das Ende</head>
+            <p rend="justify">Man sieht drei Männer sich zusammenrotten.</p>
+            <p rend="justify">Die Feder wühlt in ungeheuren Dingen.</p>
+            <p rend="justify">Revolver. Damenpreise. Sturmflugschwingen.</p>
+            <p rend="justify">Gift. Banken. Päpste. Masken. Mördergrotten.</p>
+            <p rend="justify">Gefängnis. Erben. Alte Meister. Flotten.</p>
+            <p rend="justify">Agaven. Bettler. Knallgebläse. Schlingen.</p>
+            <p rend="justify">Eilzüge. Schmöcke. Perlen. Todesklingen.</p>
+            <p rend="justify">Sprengstoff. Lawinen. Kieler Kindersprotten.</p>
+            <p rend="justify">FRED surrt auf kleinen Röllchen nach dem Pol;</p>
+            <p rend="justify">DER FREUND, am andern, sitzt auf allen Vieren.</p>
+            <p rend="justify">Sie spiegeln sich als deutsches Volksidol.</p>
+            <p rend="justify">Zum Affenhause wird der ganze Kies.</p>
+            <p rend="justify">GREIFF (Meisterdetektiv) geht drin spazieren.</p>
+            <p rend="justify">Man wundert sich. Und draußen liegt Paris.</p>
+            <p rend="justify">Druck von Breitkopf &amp; Härtel in Leipzig</p>
+         </div>
+      </body>
+   </text>
+</TEI>

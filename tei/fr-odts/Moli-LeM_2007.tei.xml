@@ -1,0 +1,1650 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le médecin malgré lui</title>
+            <author>Molière</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-01T19:48:34Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">odts/fr-odts/Moli-LeM_2007.epub.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Molière</name>
+               <date>2024-01-01T19:48:34Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Le médecin malgré lui</head>
+         <author>Molière</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">odts/fr-odts/Moli-LeM_2007.epub.odt</p>
+         <pb/>
+         <div type="div1">
+            <head>Le médecin malgré lui</head>
+            <pb/>
+            <div type="div2">
+               <head>LES PIÈCES DE MOLIÈRE</head>
+            </div>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>LE MÉDECIN MALGRÉ LUI</head>
+            <p rend="justify">TIRAGE À PETIT NOMBRE</p>
+            <p rend="justify">Il a été tiré en outre:</p>
+            <p rend="justify">20 exemplaires sur papier du Japon, avec triple épreuve de la gravure (n<hi rend="sup">os</hi>  1 à 20).</p>
+            <p rend="justify">25 exemplaires sur papier de Chine fort, avec double épreuve de la gravure (n<hi rend="sup">os</hi>  21 à 45).</p>
+            <p rend="justify">25 exemplaires sur papier Whatman, avec double épreuve de la gravure (n<hi rend="sup">os</hi>  46 à 70).</p>
+            <p rend="justify">70 exemplaires, numérotés.</p>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>MOLIÈRE</head>
+            <pb/>
+            <div type="div2">
+               <head>LE<lb/>MÉDECIN MALGRÉ LUI</head>
+               <p rend="justify">COMÉDIE EN TROIS ACTES AVEC UNE NOTICE ET DES NOTES</p>
+               <p rend="justify">PAR</p>
+               <p rend="justify">GEORGES MONVAL</p>
+               <p rend="justify">
+                  <hi rend="italic">Dessin de L. Leloir</hi>
+               </p>
+               <p rend="justify">GRAVÉ À L'EAU-FORTE PAR CHAMPOUION</p>
+               <p rend="justify">PARIS</p>
+               <p rend="justify">LIBRAIRIE DES BIBLIOPHILES</p>
+               <p rend="justify">E. FLAMMARION SUCCESSEUR Rue Racine, 26, près de l'Odéon</p>
+               <p rend="justify">M DCCC XCII</p>
+               <table rend="frame" xml:id="Table1">
+                  <row>
+                     <cell>
+                        <hi rend="bold">NOTICE SUR LE MÉDECIN MALGRÉ LUI</hi>
+                        <lb/>
+                        <hi rend="bold">ACTE PREMIER</hi>
+                        <lb/>
+                        <hi rend="bold">ACTE II</hi>
+                        <lb/>
+                        <hi rend="bold">ACTE III</hi>
+                        <lb/>
+                     </cell>
+                  </row>
+               </table>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>NOTICE SUR <hi rend="italic">LE MÉDECIN MALGRÉ LUI</hi>
+               </head>
+               <p rend="justify">S'il <hi rend="italic">en faut croire Grimarest, Molière n'eut pas beaucoup de peine à «fabriquer» rapidement son</hi> Médicin malgré lui: <hi rend="italic">il n'aurait eu presque qu'à transcrire</hi> le Fagotier, <hi rend="italic">l'une des petites farces que sa troupe représentait à l'improvisade dès les premiers temps de son arrivée à Paris.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Le sujet est tiré d'un fabliau du XIII</hi>
+                  <hi rend="sup">e</hi>
+                  <hi rend="italic">siècle,</hi>  le Médecin de Bray, <hi rend="italic">ou</hi>  le Vilain Mire <hi rend="italic">(le Paysan médecin), qui serait parvenu à la connaissance de Molière soit par la tradition orale, soit par des relations de voyage de Grolius ou d'Œlschlager.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Un riche paysan épouse la fille d'un pauvre chevalier, «moult belle et moult courtoise». Pour la garder de toute tentation mauvaise, il la bat dès le matin: la pauvrette passe le jour à pleurer et n'a pas le temps de songer à mal. Elle songe toutefois que son mari, qui la bat si bien, n'a jamais été battu, et que, s'il connaissait le goût du bâton, il ne lui en donnerait pas tant.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Cependant qu'elle se désole et rumine dans sa tête, passent deux messagers du roi. Ils vont en Angleterre quérir un médecin pour la fille de leur maître qui ne peut ni manger ni boire depuis qu'une arête de poisson s'est arrêtée dans son gosier: «Vous n'avez pas besoin d'aller si loin, leur dit la femme du vilain; mon mari est bon médecin, il en sait plus qu'Hippocrate. Mais c'est un médecin singulier: il ne ferait rien pour personne si d'abord on ne le battait comme il faut.—S'il ne tient qu'à battre, disent les envoyés, tout ira bien!» Et ils l'emmènent de force à la cour, où, grâce au bâton, le vilain promet de guérir la princesse sans délai. En effet, il la fait tant rire que l'arête sort du gosier. Le bruit de cette cure merveilleuse se répandit rapidement et tous les malades du pays le vinrent consulter.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Il retourna enfin chez lui, et ne battit plus sa femme, qui l'avait fait docteur sans avoir étudié.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Telle est l'analyse très sommaire du fabliau du</hi>  Vilain Mire, <hi rend="italic">qui ne comprend pas moins de 392 vers de huit pieds</hi>[1].</p>
+               <p rend="justify">
+                  <hi rend="italic">Bruzen de la Martinière prétendait tenir d'une personne fort âgée que, quelqu'un ayant raconté en prétence du roi une histoire à peu près semblable arrivée du temps de François I</hi>
+                  <hi rend="sup">er</hi>, <hi rend="italic">Molière la trouva très propre à être accommodée en farce, et qu'avec quelques changements il en fit sa comédie du</hi>  Médecin malgré lui.</p>
+               <p rend="justify">Le Fagotier <hi rend="italic">faisait probablement partie du répertoire de Molière en province, comme</hi>  la Jalousie du Barbouillé <hi rend="italic">et</hi>  Gorgibus dans le sac. <hi rend="italic">Par une suite d'expériences sans cesse renouvelées devant des publics divers, ces petites farces ont éliminé successivement tout ce qu'elles pouvaient renfermer d'inutile ou de grossier: elles n'ont conservé que les effets sûrs, ayant porté aussi bien sur le marchand de petite ville que sur le gentillâtre campagnard; d'où la perfection absolue, la forme précise, le caractère définitif de ces pièces en apparence écrites à la hâte, et qui réellement ont pu bénéficier des longs tâtonnements et des mûres réflexions,</hi>  le Médecin malgré lui, George Dandin, les Fourberires de Scapin, <hi rend="italic">que l'auteur lui-même ne regardait que comme de «petites bagatelles». Mais avec Molière il ne faut jamais dire «bagatelles».</hi>  Le Médecin malgré lui <hi rend="italic">est un chef-d'œuvre dans son genre, et la seule chose qui doive étonner, c'est qu'il ait pu sortir, à quelques semaines de distance, de la même plume que</hi>  le Misanthrope, <hi rend="italic">et que dans une même soirée Molière ait dit la chanson du Roi Henry et chanté celle des «petits glougloux» avec un égal succès; qu'après avoir quitté les rubans verts de l'homme aux haines vigoureuses, il ait presque aussitôt reparu sous la casaque jaune et vert du jovial fagotier. Molière voulut sans doute s'amuser lui-même, Lucullus soupa chez Lucullus. Après la satire sociale et l'éloquence austère d'Alceste, voici la haute bouffonnerie, la gaieté jaillissante et intarissable, la verve folle, le sel gaulois lancé à pleines mains. Molière est bien ici le fils de Rabelais.</hi>
+               </p>
+               <p rend="justify">Le Médecin malgré lui <hi rend="italic">est de toutes ses pièces la plus franchement, la plus continûment et la plus irrésistiblement gaie; elle guérirait l'hypocondrie la plus sombre. C'est une cure de rire, qu'il faut ordonner aux mélancoliques. Car Molière est un grand médecin, il possède la panacée universelle, et peut à bon droit s'écrier ici comme l'opérateur de ses intermèdes:</hi>
+               </p>
+               <p rend="justify">O grande puissance de l'orviétan!</p>
+               <p rend="justify">
+                  <hi rend="italic">Aussi est-ce de toutes les farces de Molière la plus populaire et la plus répandue. Je l'ai vue, dans mon enfance, représentée par des marionnettes de campagne, devant un auditoire de paysans qui ne l'avaient et ne l'auraient certainement jamais lue. Ils n'y cherchaient pas malice, et s'en donnaient à cœur joie, sans se soucier de l'origine probable de l'œuvre, non plus que du nom de l'auteur.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Ne pouvant imiter leur sagesse, rappelons que</hi>  le Médecin malgré lui <hi rend="italic">fut représenté pour la première fois, sur le théâtre du Palais-Royal, le vendredi 6 août 1666, deux mois après la première du</hi>  Misanthrope, <hi rend="italic">dont le succès commençait à se ralentir au bout de 21 représentations. On le donna, comme «petite pièce», à la suite de</hi>  la Mère coquette, <hi rend="italic">du</hi>  Favori, <hi rend="italic">des</hi>  Facheux <hi rend="italic">puis avec</hi>  le Misanthrope, <hi rend="italic">qu'il accompagna souvent du 3 septembre au 21 novembre. Ce fut encore par</hi>  le Médicin <hi rend="italic">qu'on rouvrit le théâtre en février 1667, après trois mois d'interruption.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Molière créa Sganarelle, M</hi>
+                  <hi rend="sup">lle</hi>
+                  <hi rend="italic">Molière, Lucinde. Pour les autres rôles, nous n'avons que des conjectures. Mais, d'après l'état de la troupe et l'emploi des comédiens, nous pouvons donner comme à peu près certaine la distribution suivante:</hi>
+               </p>
+               <table rend="frame" xml:id="Table2">
+                  <row>
+                     <cell>Sganarelle.</cell>
+                     <cell>Molière.</cell>
+                  </row>
+                  <row>
+                     <cell>Valère.</cell>
+                     <cell>Du Croisy.</cell>
+                  </row>
+                  <row>
+                     <cell>Léandre.</cell>
+                     <cell>La Grange.</cell>
+                  </row>
+                  <row>
+                     <cell>Géronte.</cell>
+                     <cell>L. Béjart.</cell>
+                  </row>
+                  <row>
+                     <cell>Lucas.</cell>
+                     <cell>La Thorillière.</cell>
+                  </row>
+                  <row>
+                     <cell>M. Robert.</cell>
+                     <cell>De Brie.</cell>
+                  </row>
+                  <row>
+                     <cell>Perrin.</cell>
+                     <cell>De Brie.</cell>
+                  </row>
+                  <row>
+                     <cell>Thibaut.</cell>
+                     <cell>Hubert.</cell>
+                  </row>
+                  <row>
+                     <cell>Lucinde.</cell>
+                     <cell>M<hi rend="sup">lles</hi>Molière.</cell>
+                  </row>
+                  <row>
+                     <cell>Martine.</cell>
+                     <cell>De Brie.</cell>
+                  </row>
+                  <row>
+                     <cell>Jacqueline.</cell>
+                     <cell>Madeleine Béjart.</cell>
+                  </row>
+               </table>
+               <p rend="justify">
+                  <hi rend="italic">Depuis Molière, la tradition de Sganarelle s'est transmise par Rosimond, Poisson, La Thorillière, Montmény, Préville, Dugazon, La Rochelle, Thénard, Cartigny, Monrose, Samson, Régnier, jusqu'à M. Got, qui le joue actuellement, et qui ne compte pat de meilleur rôle dans le vieux répertoire.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">La pièce fut publiée au commencement de 1667, chez le libraire Ribou. L'édition originale, achevée d'imprimerie 24 décembre 1666, renferme un frontispice gravé qui est bien curieux à étudier au point de vue des costumes de Géronte en Pantalon de la Comédie Italienne, et de Sganarelle en robe de médecin, avec le chapeau «des plus pointus» dont parle la brochure.</hi> [15]</p>
+               <p rend="justify">
+                  <hi rend="italic">On supprime depuis plus d'un siècle à la Comédie-Française la scène des paysans Thibaut et Perrin</hi>  (III, ii), <hi rend="italic">qui est cependant des plus divertissantes. Elle vient trop tard, allègue-t-on, et ne produit que peu d'effet après les étincelantes folies du second acte. Il faudrait au moins tenter l'expérience. Selon nous, Molière doit toujours être joué dans son intégralité. L'épisode, ici, tient bien à la pièce et ne saurait ralentir l'action, puisqu'il donne à Sganarelle l'occasion d'exercer impunément le pouvoir de sa prétendue science, en fournissant à Molière de nouveaux traits contre les médecins, qu'il n'attaquera plus que deux fois, dans</hi>  Pourceaugnac <hi rend="italic">et</hi>  le Malade imaginaire.</p>
+               <p rend="justify">
+                  <hi rend="italic">Pourquoi, dans cette dernière pièce, supprime-t-on la moitié du rôle de Béralde, sous prétexte qu'une discussion sur la médecine fait longueur, n'arrivant qu'au troisième acte, après la grande scène de MM. Diafoirus père et fils, où le rire atteint son maximum d'intensité? C'est, à mon sens, priver la pièce de ce qu'elle a de plus profond et de plus durable</hi>.</p>
+               <p rend="justify">GEORGES MONVAL.<lb/>
+               </p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>LE MÉDECIN MALGRÉ LUI</head>
+               <p rend="justify">COMÉDIE EN TROIS ACTES</p>
+               <p rend="justify">LES PERSONNAGES</p>
+               <lg>
+                  <l>SGANARELLE, mari de Martine.</l>
+                  <l>MARTINE, femme de Sganarelle.</l>
+                  <l>M. ROBERT, voisin de Sganarelle.</l>
+                  <l>VALÈRE, domestique de Géronte.</l>
+                  <l>LUCAS, mari de Jacqueline.</l>
+                  <l>GÉRONTE, père de Lucinde.</l>
+                  <l>JACQUELINE, nourrice chez Géronte, et femme de Lucas.</l>
+                  <l>LUCINDE, fille de Géronte.</l>
+                  <l>LÉANDRE, amant de Lucinde.</l>
+                  <l>THIBAUT, père de Perrin, paysan.</l>
+                  <l>PERRIN, fils de Thibaut, paysan.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>ACTE PREMIER</head>
+               <p rend="justify">
+                  <lb/>SCÈNE PREMIÈRE</p>
+               <lg>
+                  <l>SGANARELLE, MARTINE,</l>
+                  <l>
+                     <hi rend="italic">paroissant sur le théâtre en se querellant</hi>.</l>
+                  <l> </l>
+               </lg>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Non, je te dis que je n'en veux rien faire, et que c'est à moi de parler et d'être le maître.</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Et je te dis, moi, que je veux que tu vives à ma fantaisie, et que je ne me suis point mariée avec toi pour souffrir tes fredaines.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">O la grande fatigue que d'avoir une femme! et qu'Aristote a bien raison quand il dit qu'une femme est pire qu'un démon!</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Voyez un peu l'habile homme, avec son benêt d'Aristote!</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Oui, habile homme. Trouve-moi un faiseur de fagots qui sache, comme moi, raisonner des choses, qui ait servi six ans un fameux médecin, et qui ait su dans son jeune âge son rudiment par cœur.</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Peste du fou fieffé!</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Peste de la carogne!</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Que maudit soit l'heure et le jour où je m'avisai d'aller dire oui!</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Que maudit soit le bec cornu[2]  de notaire qui me fit signer ma ruine!</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">C'est bien à toi vraiment à te plaindre de cette affaire! Devrois-tu être un seul moment sans rendre grâce au Ciel de m'avoir pour ta femme? et méritois-tu d'épouser une personne comme moi?</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Il est vrai que tu me fis trop d'honneur et que j'eus lieu de me louer la première nuit de nos noces. Hé! morbleu! ne me fais point parler là-dessus, je dirois de certaines choses...</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Quoi? que dirois-tu?</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Baste! laissons là ce chapitre; il suffit que nous savons ce que nous savons, et que tu fus bien heureuse de me trouver.</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Qu'appelles-tu bien heureuse de te trouver? Un homme qui me réduit à l'hôpital, un débauché, un traître qui me mange tout ce que j'ai...</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Tu as menti, j'en bois une partie.[3]</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Qui me vend pièce à pièce tout ce qui est dans le logis...</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">C'est vivre de ménage.[4]</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Qui m'a ôté jusqu'au lit que j'avois...</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Tu t'en lèveras plus matin.</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Enfin, qui ne laisse aucun meuble dans toute la maison...</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">On en déménage plus aisément.</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Et qui, du matin jusqu'au soir, ne fait que jouer et que boire.</p>
+               <p rend="justify">SGANARELLE.</p>
+               <p rend="justify">C'est pour ne me point ennuyer.</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Et que veux-tu, pendant ce temps, que je fasse avec ma famille?</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Tout ce qu'il te plaira.</p>
+               <p rend="justify">martine.</p>
+               <p rend="justify">J'ai quatre pauvres petits enfants sur les bras.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Mets-les à terre.</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Qui me demandent à toute heure du pain.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Donne-leur le fouet. Quand j'ai bien bu et bien mangé, je veux que tout le monde soit saoul dans ma maison.</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Et tu prétends, ivrogne, que les choses aillent toujours de même?...</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Ma femme, allons tout doucement, s'il vous plaît.</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Que j'endure éternellement tes insolences et tes débauches?...</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Ne nous emportons point, ma femme.</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Et que je ne sache pas trouver le moyen de te ranger à ton devoir?</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Ma femme, vous savez que je n'ai pas l'âme endurante, et que j'ai le bras assez bon.</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Je me moque de tes menaces.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Ma petite femme, ma mie, votre peau vous démange, à votre ordinaire.</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Je te montrerai bien que je ne te crains nullement.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Ma chère moitié, vous avez envie de me dérober quelque chose.</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Crois-tu que je m'épouvante de tes paroles?</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Doux objet de mes vœux, je vous frotterai les oreilles.</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Ivrogne que tu es!</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Je vous battrai.</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Sac à vin!</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Je vous rosserai.</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Infime!</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Je vous étrillerai.</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Traître, insolent, trompeur, lâche, coquin, pendard, gueux, bélître, fripon, maraut, voleur!...</p>
+               <p rend="justify">Sganarelle.<lb/>(<hi rend="italic">Il prend un bâton, et lui en donne.</hi>)</p>
+               <p rend="justify">Ah! vous en voulez donc?</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Ah! ah! ah! ah!</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Voilà le vrai moyen de vous apaiser.</p>
+               <p rend="justify">
+                  <lb/>SCÈNE II</p>
+               <p rend="justify">MONSIEUR ROBERT, SGANARELLE, MARTINE.<lb/> </p>
+               <p rend="justify">M. Robert.</p>
+               <p rend="justify">Holà! holà! holà! Fi! Qu'est-ce ci? quelle infamie! Peste soit le coquin, de battre ainsi sa femme!</p>
+               <p rend="justify">Martine,<lb/>
+                  <hi rend="italic">les mains sur les côtés, lui parle en le faisant reculer, et à la fin lui donne un soufflet.</hi>
+               </p>
+               <p rend="justify">Et je veux qu'il me batte, moi.</p>
+               <p rend="justify">M. Robert.</p>
+               <p rend="justify">Ah! j'y consens de tout mon cœur.</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">De quoi vous mêlez-vous?</p>
+               <p rend="justify">M. Robert.</p>
+               <p rend="justify">J'ai tort.</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Est-ce là votre affaire?</p>
+               <p rend="justify">M. Robert.</p>
+               <p rend="justify">Vous avez raison.</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Voyez un peu cet impertinent qui veut empêcher les maris de battre leurs femmes!</p>
+               <p rend="justify">M. Robert.</p>
+               <p rend="justify">Je me rétracte.</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Qu'avez-vous à voir là-dessus?</p>
+               <p rend="justify">M. Robert.</p>
+               <p rend="justify">Rien.</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Est-ce à vous d'y mettre le nez?</p>
+               <p rend="justify">M. Robert.</p>
+               <p rend="justify">Non.</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Mêlez-vous de vos affaires.</p>
+               <p rend="justify">M. Robert.</p>
+               <p rend="justify">Je ne dis plus mot.</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Il me plaît d'être battue.</p>
+               <p rend="justify">M. Robert.</p>
+               <p rend="justify">D'accord.</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Ce n'est pas à vos dépens.</p>
+               <p rend="justify">M. Robert.</p>
+               <p rend="justify">Il est vrai.</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Et vous êtes un sot de venir vous fourrer où vous n'avez que faire.</p>
+               <p rend="justify">M. Robert.</p>
+               <p rend="justify">(<hi rend="italic">Il passe ensuite vers le mari, qui pareillement lui parle toujours en le faisant reculer, le frappe avec le mime bâton et le met en fuite. Il dit à la fin:</hi>)</p>
+               <p rend="justify">Compère, je vous demande pardon de tout mon cœur; faites, rossez, battez comme il faut votre femme; je vous aiderai, si vous le voulez.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Il ne me plaît pas, moi.</p>
+               <p rend="justify">M. Robert.</p>
+               <p rend="justify">Ah! c'est une autre chose.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Je la veux battre si je le veux, et ne la veux pas battre si je le ne veux pas.</p>
+               <p rend="justify">M. Robert.</p>
+               <p rend="justify">Fort bien.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">C'est ma femme, et non pas la vôtre.</p>
+               <p rend="justify">M. Robert.</p>
+               <p rend="justify">Sans doute.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Vous n'avez rien à me commander.</p>
+               <p rend="justify">M. Robert.</p>
+               <p rend="justify">D'accord.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Je n'ai que faire de votre aide.</p>
+               <p rend="justify">M. Robert.</p>
+               <p rend="justify">Très volontiers.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Et vous êtes un impertinent de vous ingérer des affaires d'autrui. Apprenez que Cicéron dit qu'entre l'arbre et le doigt il ne faut point mettre l'écorce.[5]</p>
+               <p rend="justify">(<hi rend="italic">Ensuite, il revient vers sa femme, et lui dit en lui pressant la main:</hi>)</p>
+               <p rend="justify">O ça, faisons la paix nous deux. Touche là.</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Oui! après m'avoir ainsi battue.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Cela n'est rien. Touche.</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Je ne veux pas.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Hé?</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Non.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Ma petite femme!</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Point.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Allons, te dis-je.</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Je n'en ferai rien.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Viens, viens, viens.</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Non, je veux être en colère.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Fi! c'est une bagatelle; allons, allons.</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Laisse-moi là.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Touche, te dis-je.</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Tu m'as trop maltraitée.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Eh bien, va, je te demande pardon; mets là ta main.</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Je te pardonne; (<hi rend="italic">elle dit le reste bas</hi>) mais tu le payeras.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Tu es une folle de prendre garde à cela. Ce sont petites choses qui sont de temps en temps nécessaires dans l'amitié; et cinq ou six coups de bâton, entre gens qui s'aiment, ne font que ragaillardir l'affection. Va, je m'en vais au bois, et je te promets aujourd'hui plus d'un cent de fagots.</p>
+               <p rend="justify">
+                  <lb/>SCÈNE III</p>
+               <lg>
+                  <l>MARTINE,</l>
+                  <l>
+                     <hi rend="italic">seule</hi>.</l>
+                  <l> </l>
+               </lg>
+               <p rend="justify">Va, quelque mine que je fasse, je n'oublie pas mon ressentiment, et je brûle en moi-même de trouver les moyens de te punir des coups que tu me donnes. Je sais bien qu'une femme a toujours dans les mains de quoi se venger d'un mari; mais c'est une punition trop délicate pour mon pendart. Je veux une vengeance qui se fasse un peu mieux sentir, et ce n'est pas contentement pour l'injure que j'ai reçue.</p>
+               <p rend="justify">
+                  <lb/>SCÈNE IV</p>
+               <p rend="justify">VALÈRE, LUCAS, MARTINE.<lb/> </p>
+               <p rend="justify">Lucas.</p>
+               <p rend="justify">Parguenne! j'avons pris là tous deux une gueble de commission; et je ne sai pas, moi, ce que je pensons attraper.</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Que veux-tu, mon pauvre nourricier? il faut bien obéir à notre maître; et puis nous avons intérêt l'un et l'autre à la santé de sa fille, notre maîtresse; et sans doute son mariage, différé par sa maladie, nous vaudroit quelque récompense. Horace, qui est libéral, a bonne part aux prétentions qu'on peut avoir sur sa personne, et, quoi-qu'elle ait fait voir de l'amitié pour un certain Léandre, tu sais bien que son père n'a jamais voulu consentir à le recevoir pour son gendre.</p>
+               <p rend="justify">Martine,<lb/>
+                  <hi rend="italic">rêvant à part elle</hi>.</p>
+               <p rend="justify">Ne puis-je point trouver quelque invention pour me venger?</p>
+               <p rend="justify">Lucas.</p>
+               <p rend="justify">Mais quelle fantaisie s'est-il boutée là dans la tête, puisque les médecins y avont tous pardu leur latin?</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">On trouve quelquefois, à force de chercher, ce qu'on ne trouve pas d'abord; et souvent, en de simples lieux...</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Oui, il faut que je m'en venge à quelque prix que ce soit: ces coups de bâton me reviennent au cœur, je ne les saurois digérer, et... (<hi rend="italic">Elle dit tout ceci en rivant, de sorte que, ne prenant pas garde à ces deux hommes, elle les heurte en se retournant, et leur dit</hi>:) Ah! Messieurs! je vous demande pardon, je ne vous voyois pas, et cherchois dans ma tête quelque chose qui m'embarrasse.</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Chacun a ses soins dans le monde, et nous cherchons aussi ce que nous voudrions bien trouver.</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Seroit-ce quelque chose où je vous puisse aider?</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Cela se pourroit faire; et nous tâchons de rencontrer quelque habile homme, quelque médecin particulier, qui pût donner quelque soulagement à la fille de notre maître, attaquée d'une maladie qui lui a ôté tout d'un coup l'usage de la langue. Plusieurs médecins ont déjà épuisé toute leur science après elle; mais on trouve parfois des gens avec des secrets admirables, de certains remèdes particuliers, qui font le plus souvent ce que les autres n'ont su faire, et c'est là ce que nous cherchons.</p>
+               <p rend="justify">Martine.<lb/>(<hi rend="italic">Elle dit ces premières lignes bas.</hi>)</p>
+               <p rend="justify">Ah! que le Ciel m'inspire une admirable invention pour me venger de mon pendart! (<hi rend="italic">Haut</hi>.) Vous ne pouviez jamais vous mieux adresser pour rencontrer ce que vous cherchez, et nous avons ici un homme, le plus merveilleux homme du monde, pour les maladies désespérées.</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Et, de grâce, où pouvons-nous le rencontrer?</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Vous le trouverez maintenant vers ce petit lieu que voilà, qui s'amuse à couper du bois.</p>
+               <p rend="justify">Lucas.</p>
+               <p rend="justify">Un médecin qui coupe du bois?</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Qui s'amuse à cueillir des simples, voulez-vous dire?</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Non, c'est un homme extraordinaire, qui se plaît à cela, fantasque, bizarre, quinteux, et que vous ne prendriez jamais pour ce qu'il est. Il va vêtu d'une façon extravagante, affecte quelquefois de paroître ignorant, tient sa science renfermée, et ne fuit rien tant tous les jours que d'exercer les merveilleux talents qu'il a eus du Ciel pour la médecine.</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">C'est une chose admirable, que tous les grands hommes ont toujours du caprice, quelque petit grain de folie mêlé à leur science.[6]</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">La folie de celui-ci est plus grande qu'on ne peut croire, car elle va parfois jusqu'à vouloir être battu pour demeurer d'accord de sa capacité; et je vous donne avis que vous n'en viendrez point à bout, qu'il n'avouera jamais qu'il est médecin, s'il se le met en fantaisie, que vous ne preniez chacun un bâton, et ne le réduisiez, à force de coups, à vous confesser à la fin ce qu'il vous cachera d'abord. C'est ainsi que nous en usons quand nous avons besoin de lui.</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Voilà une étrange folie!</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Il est vrai; mais, après cela, vous verrez qu'il fait des merveilles.</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Comment s'appelle-t-il?</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Il s'appelle Sganarelle; mais il est aisé à connoître: c'est un homme qui a une large barbe noire, et qui porte une fraise, avec un habit jaune et vert.[7]</p>
+               <p rend="justify">Lucas.</p>
+               <p rend="justify">Un habit jaune et vart! C'est donc le médecin des paroquets?</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Mais est-il bien vrai qu'il soit si habile que vous le dites?</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Comment! c'est un homme qui fait des miracles. Il y a six mois qu'une femme fut abandonnée de tous les autres médecins: on la tenoit morte il y avoit déjà six heures, et l'on se disposoit à l'ensevelir, lorsqu'on y fit venir de force l'homme dont nous parlons. Il lui mit, l'ayant vue, une petite goutte de je ne sais quoi dans la bouche, et dans le même instant elle se leva de son lit et se mit aussitôt à se promener dans sa chambre, comme si de rien n'eût été.</p>
+               <p rend="justify">Lucas.</p>
+               <p rend="justify">Ah!</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Il falloit que ce fût quelque goutte d'or potable.[8]</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Cela pourroit bien être. Il n'y a pas trois semaines encore qu'un jeune enfant de douze ans tomba du haut du clocher en bas, et se brisa sur le pavé la tête, les bras et les jambes. On n'y eut pas plus tôt amené notre homme qu'il le frotta par tout le corps d'un certain onguent qu'il sait faire, et l'enfant aussitôt se leva sur ses pieds et courut jouer à la fossette.[9]</p>
+               <p rend="justify">Lucas.</p>
+               <p rend="justify">Ah!</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Il faut que cet homme-là ait la médecine universelle.</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Qui en doute?</p>
+               <p rend="justify">Lucas.</p>
+               <p rend="justify">Testigué! velà justement l'homme qu'il nous faut; allons vite le charcher.</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Nous vous remercions du plaisir que vous nous faites.</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Mais souvenez-vous bien au moins de l'avertissement que je vous ai donné.</p>
+               <p rend="justify">Lucas.</p>
+               <p rend="justify">Hé! morguenne! laissez-nous faire; s'il ne tient qu'à battre, la vache est à nous.[11]</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Nous sommes bien heureux d'avoir fait cette rencontre, et j'en conçois, pour moi, la meilleure espérance du monde.</p>
+               <p rend="justify">
+                  <lb/>SCÈNE V</p>
+               <p rend="justify">SGANARELLE, VALÈRE, LUCAS.<lb/> </p>
+               <p rend="justify">Sganarelle<lb/>
+                  <hi rend="italic">entre sur le théâtre en chantant et tenant une bouteille</hi>.</p>
+               <p rend="justify">La! la! la!</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">J'entends quelqu'un qui chante et qui coupe du bois.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">La! la! la!... Ma foi, c'est assez travaillé pour un coup: prenons un peu d'haleine. (<hi rend="italic">Il boit, et dit après avoir bu</hi>:) Voilà du bois qui est salé comme tous les diables.</p>
+               <lg>
+                  <l>Qu'ils sont doux,</l>
+                  <l>  Bouteille jolie,</l>
+                  <l>  Qu'ils sont doux</l>
+                  <l>  Vos petits glou-gloux!</l>
+                  <l>  Mais mon sort feroit bien des jaloux</l>
+                  <l>  Si vous étiez toujours remplie.</l>
+                  <l>  Ah! bouteille, ma mie,</l>
+                  <l>  Pourquoi vous videz-vous?</l>
+               </lg>
+               <p rend="justify">Allons, morbleu! il ne faut point engendrer de mélancolie.</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Le voilà lui-même.</p>
+               <p rend="justify">Lucas.</p>
+               <p rend="justify">Je pense que vous dites vrai, et que j'avons bouté le nez dessus.</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Voyons de près.</p>
+               <p rend="justify">Sganarelle,<lb/>
+                  <hi rend="italic">les apercevant, les regarde en se tournant vers l'un et puis vers l'autre, tt, abaissant sa voix, dit</hi>:</p>
+               <p rend="justify">Ah! ma petite friponne, que je t'aime, mon petit bouchon!</p>
+               <lg>
+                  <l>...Mon sort... feroit... bien des... jaloux,</l>
+                  <l>  Si...</l>
+               </lg>
+               <p rend="justify">Que diable! à qui en veulent ces gens-là?</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">C'est lui assurément.</p>
+               <p rend="justify">Lucas.</p>
+               <p rend="justify">Le velà tout craché comme on nous l'a défiguré.</p>
+               <p rend="justify">Sganarelle,<lb/>
+                  <hi rend="italic">à part</hi>.</p>
+               <p rend="justify">(<hi rend="italic">Ici il pose sa bouteille à terre, et, Valère se baissant pour le saluer, comme il croit que c'est à dessein de la prendre, il la met de l'autre côté; ensuite de quoi, Lucas faisant la même chose, il la reprend et la tient contre son estomac, avec divers gestes qui font un grand jeu de théâtre.</hi>)</p>
+               <p rend="justify">Ils consultent en me regardant; quel dessein auroient-ils?</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Monsieur, n'est-ce pas vous qui vous appelez Sganarelle?</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Hé! quoi?</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Je vous demande si ce n'est pas vous qui se nomme Sganarelle?</p>
+               <p rend="justify">Sganarelle,<lb/>
+                  <hi rend="italic">se tournant vers Valère, puis vers Lucas</hi>.</p>
+               <p rend="justify">Oui et non, selon ce que vous lui voulez.</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Nous ne voulons que lui faire toutes les civilités que nous pourrons.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">En ce cas, c'est moi qui se nomme Sganarelle.</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Monsieur, nous sommes ravis de vous voir. On nous a adressés à vous pour ce que nous cherchons, t nous venons implorer votre aide, dont nous avons besoin.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Si c'est quelque chose, Messieurs, qui dépende de mon petit négoce, je suis tout prêt à vous rendre service.</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Monsieur, c'est trop de grâce que vous nous faites. Mais, Monsieur, couvrez-vous, s'il vous plaît, le soleil pourrait vous incommoder.</p>
+               <p rend="justify">Lucas.</p>
+               <p rend="justify">Monsieu, boutez dessus.</p>
+               <p rend="justify">Sganarelle, <hi rend="italic">bas</hi>.</p>
+               <p rend="justify">Voici des gens bien pleins de cérémonie.</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Monsieur, il ne faut pas trouver étrange que nous venions à vous: les habiles gens sont toujours recherchés, et nous sommes instruits de votre capacité.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Il est vrai, Messieurs, que je suis le premier homme du monde pour faire des fagots.</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Ah! Monsieur!...</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Je n'y épargne aucune chose, et les fais d'une façon qu'il n'y a rien à dire.</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Monsieur, ce n'est pas cela dont il est question.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Mais aussi je les vends cent dix sols le cent.</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Ne parlons point de cela, s'il vous plaît.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Je vous promets que je ne saurois les donner à moins.</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Monsieur, nous savons les choses.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Si vous savez les choses, vous savez que je les vends cela.</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Monsieur, c'est se moquer que...</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Je ne me moque point, je n'en puis rien rabattre.</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Parlons d'autre façon, de grâce.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Vous en pourrez trouver autre part à moins: il y a fagots et fagots;[12]  mais pour ceux que je fais...</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Hé! Monsieur, laissons là ce discours.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Je vous jure que vous ne les auriez pas, s'il s'en falloit un double.[13]</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Hé! fi!</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Non, en conscience, vous en payerez cela. Je vous parle sincèrement, et je ne suis pas homme à surfaire.</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Faut-il, Monsieur, qu'une personne comme vous s'amuse à ces grossières feintes, s'abaisse à parler de la sorte? qu'un homme si savant, un fameux médecin, comme vous êtes, veuille se déguiser aux yeux du monde, et tenir enterrés les beaux talents qu'il a?</p>
+               <p rend="justify">Sganarelle,<lb/>
+                  <hi rend="italic">à part</hi>.</p>
+               <p rend="justify">Il est fou.</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">De grâce, Monsieur, ne dissimulez point avec nous.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Comment?</p>
+               <p rend="justify">Lucas.</p>
+               <p rend="justify">Tout ce tripotage ne sart de rian, je sçavons çen que je sçavons.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Quoi donc? que me voulez-vous dire? Pour qui me prenez-vous?</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Pour ce que vous êtes, pour un grand médecin.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Médecin vous-même: je ne le suis point, et ne l'ai jamais été.</p>
+               <p rend="justify">Valère,<lb/>
+                  <hi rend="italic">bas</hi>.</p>
+               <p rend="justify">Voilà sa folie qui le tient. (<hi rend="italic">Haut</hi>.) Monsieur, ne veuillez point nier les choses davantage, et n'en venons point, s'il vous plait, à de fâcheuses extrémités.</p>
+               <p rend="justify">SGANARELLE.</p>
+               <p rend="justify">À quoi donc?</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">À de certaines choses dont nous serions marris.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Parbleu! venez-en à tout ce qu'il vous plaira; je ne suis point médecin, et ne sais ce que vous me voulez dire.</p>
+               <p rend="justify">Valère,<lb/>
+                  <hi rend="italic">bas</hi>.</p>
+               <p rend="justify">Je vois bien qu'il faut se servir du remède. (<hi rend="italic">Haut</hi>.) Monsieur, encore un coup, je vous prie d'avouer ce que vous êtes.</p>
+               <p rend="justify">Lucas.</p>
+               <p rend="justify">Et testigué! ne lantiponez point davantage, et confessez à la franquette que v'estes médecin.[14]</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">J'enrage!</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">À quoi bon nier ce qu'on sait?</p>
+               <p rend="justify">Lucas.</p>
+               <p rend="justify">Pourquoi toutes ces fraimes-là? à quoi est-ce que ça vous sart?</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Messieurs, en un mot autant qu'en deux mille, je vous dis que je ne suis point médecin.</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Vous n'êtes point médecin?</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Non.</p>
+               <p rend="justify">Lucas.</p>
+               <p rend="justify">V'n'estes pas médecin!</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Non, vous dis-je.</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Puisque vous le voulez, il faut s'y résoudre. (<hi rend="italic">Ils prennent un bâton et le frappent.</hi>)</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Ah! ah! ah! Messieurs, je suis tout ce qu'il vous plaira.</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Pourquoi, Monsieur, nous obligez-vous à cette violence?</p>
+               <p rend="justify">Lucas.</p>
+               <p rend="justify">À quoi bon nous bailler la peine de vous battre?</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Je vous assure que j'en ai tous les regrets du monde.</p>
+               <p rend="justify">Lucas.</p>
+               <p rend="justify">Par ma figué! j'en sis fâché, franchement.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Que diable est-ce ci, Messieurs? De grâce, est-ce pour rire, ou si tous deux vous extravaguez, de vouloir que je sois médecin?</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Quoi! vous ne vous rendez pas encore, et vous vous défendez d'être médecin?</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Diable emporte si je le suis!</p>
+               <p rend="justify">Lucas.</p>
+               <p rend="justify">Il n'est pas vrai qu'ous sayez médecin?</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Non, la peste m'étouffe! (<hi rend="italic">Là, ils recommencent de le battre.</hi>) Ah! ah! Eh bien, Messieurs, oui, puisque vous le voulez, je suis médecin, je suis médecin; apothicaire encore, si vous le trouvez bon. (<hi rend="italic">À part.</hi>) J'aime mieux consentir à tout que de me faire assommer.</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Ah! voilà qui va bien, Monsieur; je suis ravi de vous voir raisonnable.</p>
+               <p rend="justify">Lucas.</p>
+               <p rend="justify">Vous me boutez la joie au cœur quand je vous voi parler comme ça.</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Je vous demande pardon de toute mon âme.</p>
+               <p rend="justify">Lucas.</p>
+               <p rend="justify">Je vous demandons excuse de la libarté que j'avons prise.</p>
+               <p rend="justify">Sganarelle,<lb/>
+                  <hi rend="italic">à part</hi>.</p>
+               <p rend="justify">Ouais! seroit-ce bien moi qui me tromperois, et serois-je devenu médecin sans m'en être aperçu?</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Monsieur, vous ne vous repentirez pas de nous montrer ce que vous êtes, et vous verrez assurément que vous en serez satisfait.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Mais, Messieurs, dites-moi, ne vous trompez-vous point vous-mêmes? Est-il bien assuré que je sois médecin?</p>
+               <p rend="justify">Lucas.</p>
+               <p rend="justify">Oui, par ma figue!</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Tout de bon?</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Sans doute.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Diable emporte si je le savois!</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Comment! vous êtes le plus habile médecin du monde.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Ah! ah!</p>
+               <p rend="justify">Lucas.</p>
+               <p rend="justify">Un médecin qui a guari je ne sais combien de maladies.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Tudieu!</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Une femme étoit tenue pour morte il y avoit six heures; elle étoit prête à ensevelir, lorsqu'avec une goutte de quelque chose vous la fîtes revenir et marcher d'abord par la chambre.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Peste!</p>
+               <p rend="justify">Lucas.</p>
+               <p rend="justify">Un petit enfant de douze ans se laissit choir du haut d'un clocher, de quoi il eut la tête, les jambes et les bras cassés; et vous, avec je ne sai quel onguent, vous fîtes qu'aussitôt il se relevit sur ses pieds et s'en fut jouer à la fossette.[10]</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Diantre!</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Enfin, Monsieur, vous aurez contentement avec nous, et vous gagnerez ce que vous voudrez en vous laissant conduire où nous prétendons vous mener.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Je gagnerai ce que je voudrai?</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Oui.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Ah! Je suis médecin, sans contredit. Je l'avois oublié, mais je m'en ressouviens. De quoi est-il question? où faut-il se transporter?</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Nous vous conduirons. Il est question d'aller voir une fille qui a perdu la parole.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Ma foi, je ne l'ai pas trouvée.</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Il aime à rire. Allons, Monsieur.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Sans une robe de médecin?</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Nous en prendrons une.</p>
+               <p rend="justify">Sganarelle,<lb/>
+                  <hi rend="italic">présentant sa bouteille à Valère</hi>. Tenez cela, vous: voilà où je mets mes juleps.</p>
+               <p rend="justify">(<hi rend="italic">Puis, se tournant vers Lucas en crachant.</hi>) Vous, marchez là-dessus, par ordonnance du médecin.</p>
+               <p rend="justify">Lucas.</p>
+               <p rend="justify">Palsanguenne! velà un médecin qui me plaît. Je pense qu'il réussira, car il est bouffon.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>ACTE II</head>
+               <p rend="justify">
+                  <lb/>SCÈNE PREMIÈRE</p>
+               <p rend="justify">GÉRONTE, VALÈRE, LUCAS, JACQUELINE.</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Oui, Monsieur, je crois que vous serez satisfait, et nous vous avons amené le plus grand médecin du monde.</p>
+               <p rend="justify">Lucas.</p>
+               <p rend="justify">Oh! morguenne! il faut tirer l'échelle après ceti-là, et tous les autres ne sont pas daignes de li déchausser ses souillez.</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">C'est un homme qui a fait des cures merveilleuses.</p>
+               <p rend="justify">Lucas.</p>
+               <p rend="justify">Qui a gari des gens qui estiant morts.</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Il est un peu capricieux, comme je vous ai dit, et parfois il a des moments où son esprit s'échappe et ne paroît pas ce qu'il est.</p>
+               <p rend="justify">Lucas.</p>
+               <p rend="justify">Oui, il aime à bouffonner, et l'an diroit par fois, ne v's en déplaise, qu'il a quelque petit coup de hache à la tête.</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Mais, dans le fond, il est toute science, et bien souvent il dit des choses tout à fait relevées.</p>
+               <p rend="justify">Lucas.</p>
+               <p rend="justify">Quand il s'y boute, il parle tout fin drait comme s'il lisoit dans un livre.</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Sa réputation s'est déjà répandue ici, et tout le monde vient à lui.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Je meurs d'envie de le voir, faites-le moi vite venir.</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Je le vais quérir.</p>
+               <p rend="justify">Jacqueline.</p>
+               <p rend="justify">Par ma fi! Monsieu, ceti-ci fera justement ce qu'ant fait les autres. Je pense que ce sera queussi queumi; et la meilleure médeçaine que l'an pourroit bailler à votre fille, ce seroit, selon moi, un biau et bon mari pour qui allé eût de l'amiquié.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Ouais! nourrice, ma mie, vous vous mêlez de bien des choses!</p>
+               <p rend="justify">Lucas.</p>
+               <p rend="justify">Taisez-vous, notre ménagère Jacquelaine: ce n'est pas à vous à bouter là votre nez.</p>
+               <p rend="justify">Jacqueline.</p>
+               <p rend="justify">Je vous dis et vous douze que tous ces médecins n'y feront rian que de l'iau claire, que votre fille a besoin d'autre chose que de ribarbe et desené, et qu'un mari est une emplâtre qui garit tous les maux des filles.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Est-elle en état maintenant qu'on s'en voulût charger, avec l'infirmité qu'elle a? Et lorsque j'ai été dans le dessein de la marier, ne s'est-elle pas opposée à mes volontés?</p>
+               <p rend="justify">Jacqueline.</p>
+               <p rend="justify">Je le crois bian! vous li vouilliez bailler eun homme qu'allé n'aime point. Que ne preniais-vous ce monsieu Liandre, qui li touchoit au cœur? Allé auroit été fort obéissante; et je m'en vas gager qu'il la prendroit, li, comme allé est, si vous la li vouillais donner.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Ce Léandre n'est pas ce qu'il lui faut: il n'a pas du bien comme l'autre.</p>
+               <p rend="justify">Jacqueline.</p>
+               <p rend="justify">Il a un oncle qui est si riche, dont il est hériquié.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Tous ces biens à venir me semblent autant de chansons. Il n'est rien tel que ce qu'on tient, et l'on court grand risque de s'abuser lorsque l'on compte sur le bien qu'un autre vous garde. La mort n'a pas toujours les oreilles ouvertes aux vœux et aux prières de messieurs les héritiers, et l'on a le temps d'avoir les dents longues lorsqu'on attend, pour vivre, le trépas de quelqu'un.</p>
+               <p rend="justify">Jacqueline.</p>
+               <p rend="justify">Enfin, j'ai toujours ouï dire qu'en mariage, comme ailleurs, contentement passe richesse. Les pères et les mères ant cette maudite couteume de demander toujours: «Qu'a-t-il?» et: «Qu'a-t-elle?» Et le compère Piarre a marié sa fille Simonnette au gros Thomas pour un quarquié de vaigne qu'il avoit davantage que le jeune Robin, où allé avoit bouté son amiquié; et velà que la pauvre creiature en est devenue jaune comme eun coing, et n'a point profité tout depuis ce temps-là. C'est un bel exemple pour vous, Monsieu. On n'a que son plaisir en ce monde; et j'aimerois mieux bailler à ma fille un bon mari qui li fût agriable que toutes les rentes de la Biausse.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Peste, Madame la nourrice! comme vous dégoisez! Taisez-vous, je vous prie; vous prenez trop de soin, et vous échauffez votre lait.</p>
+               <p rend="justify">Lucas.<lb/>(<hi rend="italic">En disant ceci, il frappe sur la poitrine à Géronte.</hi>)</p>
+               <p rend="justify">Morgue! tais-toi, t'es eune impartinante. Monsieu n'a que faire de tes discours, et il sait ce qu'il a à faire. Mêle-toi de donner à téter à ton enfant, sans tant faire la raisonneuse. Monsieu est le père de sa fille, et il est bon et sage pour voir ce qu'il li faut.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Tout doux! oh! tout doux!</p>
+               <p rend="justify">Lucas.</p>
+               <p rend="justify">Monsieu, je veux un peu la mortifier et li apprendre le respect qu'allé vous doit.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Oui; mais ces gestes ne sont pas nécessaires.</p>
+               <p rend="justify">
+                  <lb/>SCÈNE II</p>
+               <p rend="justify">VALÈRE, SGANARELLE, GÉRONTE, LUCAS, JACQUELINE.<lb/> </p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Monsieur, préparez-vous, voici notre médecin qui entre.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Monsieur, je suis ravi de vous voir chez moi, et nous avons grand besoin de vous.</p>
+               <p rend="justify">Sganarelle,<lb/>
+                  <hi rend="italic">en robe de médecin, avec un chapeau des plus pointus</hi>.</p>
+               <p rend="justify">Hippocrate dit... que nous nous couvrions tous deux.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Hippocrate dit cela?</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Oui.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Dans quel chapitre, s'il vous plaît?</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Dans son chapitre des chapeaux.[16]</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Puisqu'Hippocrate le dit, il le faut faire.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Monsieur le médecin, ayant appris les merveilleuses choses...</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">À qui parlez-vous, de grâce?</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">À vous.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Je ne suis pas médecin.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Vous n'êtes pas médecin?</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Non vraiment.</p>
+               <p rend="justify">Sganarelle.<lb/>(<hi rend="italic">Il prend ici un bâton, et le bat comme on l'a battu.</hi>)</p>
+               <p rend="justify">Tout de bon?</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Tout de bon. Ah! ah! ah!</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Vous êtes médecin maintenant: je n'ai jamais eu d'autres licences.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Quel diable d'homme m'avez-vous là amené?</p>
+               <p rend="justify">Valère.</p>
+               <p rend="justify">Je vous ai bien dit que c'étoit un médecin goguenard.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Oui. Mais je l'envoirois promener avec ses goguenarderies.</p>
+               <p rend="justify">Lucas.</p>
+               <p rend="justify">Ne prenez pas garde à ça, Monsieu, ce n'est que pour rire.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Cette raillerie ne me plaît pas.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Monsieur, je vous demande pardon de la liberté que j'ai prise.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Monsieur, je suis votre serviteur.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Je suis fâché...</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Cela n'est rien.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Des coups de bâton...</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Il n'y a pas de mal.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Que j'ai eu l'honneur de vous donner.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Ne parlons plus de cela. Monsieur, j'ai une fille qui est tombée dans une étrange maladie.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Je suis ravi, Monsieur, que votre fille ait besoin de moi; et je souhaiterois de tout mon cœur que vous en eussiez besoin aussi, vous et toute votre famille, pour vous témoigner l'envie que j'ai de vous servir.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Je vous suis obligé de ces sentiments.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Je vous assure que c'est du meilleur de mon âme que je vous parle.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">C'est trop d'honneur que vous me faites.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Comment s'appelle votre fille?</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Lucinde.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Lucinde! Ah! beau nom à médicamenter! Lucinde!</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Je m'en vais voir un peu ce qu'elle fait.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Qui est cette grande femme-là?</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">C'est la nourrice d'un petit enfant que j'ai.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Peste! le joli meuble que voilà! Ah! nourrice, charmante nourrice, ma médecine est la très humble esclave de votre nourricerie, et je voudrois bien être le petit poupon fortuné qui tétât le lait (<hi rend="italic">il lui porte la main sur le sein</hi>) de vos bonnes grâces. Tous mes remèdes, toute ma science, toute ma capacité est à votre service, et...</p>
+               <p rend="justify">Lucas.</p>
+               <p rend="justify">Avec votre parmission, Monsieu le médecin, laissez là ma femme, je vous prie.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Quoi! est-elle votre femme?</p>
+               <p rend="justify">Lucas.</p>
+               <p rend="justify">Oui.</p>
+               <p rend="justify">Sganarelle.<lb/>(<hi rend="italic">Il fait semblant d'embrasser Lucas, et, se tournant du côté de la nourrice, il l'embrasse.</hi>)</p>
+               <p rend="justify">Ah! vraiment, je ne savois pas cela, et je m'en réjouis pour l'amour de l'on et de l'antre.</p>
+               <p rend="justify">Lucas.<lb/>
+                  <hi rend="italic">en le tirant</hi>.</p>
+               <p rend="justify">Tout doucement, s'il vous plaît.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Je vous assure que je suis ravi que vous soyez unis ensemble. Je la félicite d'avoir (<hi rend="italic">il fait encore semblant d'embrasser Lucas, et, passant dessous ses bras, se jette au col de sa femme</hi>) un mari comme vous; et je vous félicite, vous, d'avoir une femme si belle, si sage, et si bien faite comme elle est.</p>
+               <p rend="justify">Lucas.<lb/>
+                  <hi rend="italic">en le tirant encore</hi>.</p>
+               <p rend="justify">Eh! testigué! point tant de compliment, je vous supplie.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Ne voulez-vous pas que je me réjouisse avec vous d'un si bel assemblage?</p>
+               <p rend="justify">Lucas.</p>
+               <p rend="justify">Avec moi, tant qu'il vous plaira; mais avec ma femme, trêve de sarimonie.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Je prends part également au bonheur de tous deux, et (<hi rend="italic">il continue le mime jeu</hi>), si je vous embrasse pour vous en témoigner ma joie, je l'embrasse de même pour lui en témoigner aussi.</p>
+               <p rend="justify">Lucas.<lb/>
+                  <hi rend="italic">en le tirant derechef</hi>.</p>
+               <p rend="justify">Ah! vartigué, Monsieu le médecin, que de lantiponages!</p>
+               <p rend="justify">
+                  <lb/>SCÈNE III</p>
+               <p rend="justify">SGANARELLE, GÉRONTE, LUCAS, JACQUELINE.<lb/> </p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Monsieur, voici tout à l'heure ma fille qu'on va vous amener.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Je l'attends, Monsieur, avec toute la médecine.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Où est-elle?</p>
+               <p rend="justify">Sganarelle,<lb/>
+                  <hi rend="italic">se touchant le front</hi>.</p>
+               <p rend="justify">Là dedans.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Fort bien.</p>
+               <p rend="justify">Sganarelle,<lb/>
+                  <hi rend="italic">en voulant toucher les tétons de la nourrice</hi>.</p>
+               <p rend="justify">Mais, comme je m'intéresse à toute votre famille, il faut que j'essaye un peu le lait de votre nourrice et que je visite son sein.</p>
+               <p rend="justify">Lucas.<lb/>
+                  <hi rend="italic">le tirant et lui faisant faire la pirouette</hi>.</p>
+               <p rend="justify">Nanin, nanin, je n'avons que faire de ça.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">C'est l'office du médecin de voir les tétons des nourrices.</p>
+               <p rend="justify">Lucas.</p>
+               <p rend="justify">Il gnia office qui quienne, je sis votte sarviteur.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">As-tu bien la hardiesse de t'opposer au médecin? Hors de là!</p>
+               <p rend="justify">Lucas.</p>
+               <p rend="justify">Je me moque de ça.</p>
+               <p rend="justify">Sganarelle,<lb/>
+                  <hi rend="italic">en le regardant de travers</hi>.</p>
+               <p rend="justify">Je te donnerai la fièvre.</p>
+               <p rend="justify">Jacqueline,<lb/>
+                  <hi rend="italic">prenant Lucas par le bras et lui faisant aussi faire la pirouette</hi>.</p>
+               <p rend="justify">Ote-toi de là aussi. Est-ce que je ne sis pas assez grande pour me défendre moi-même, s'il me fait queuque chose qui ne soit pas à faire?</p>
+               <p rend="justify">Lucas.</p>
+               <p rend="justify">Je ne veux pas qu'il te tâte, moi.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Fi, le vilain, qui est jaloux de sa femme!</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Voici ma fille.</p>
+               <p rend="justify">
+                  <lb/>SCÈNE IV</p>
+               <p rend="justify">LUCINDE, VALÈRE, GÉRONTE, LUCAS, SGANARELLE, JACQUELINE.<lb/> </p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Est-ce là la malade?</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Oui, je n'ai qu'elle de fille, et j'aurois tous les regrets du monde si elle venoit à mourir.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Qu'elle s'en garde bien! il ne faut pas qu'elle meure sans l'ordonnance du médecin.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Allons, un siège.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Voilà une malade qui n'est pas tant dégoûtante, et je tiens qu'un homme bien sain s'en accommoderoit assez.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Vous l'avez fait rire, Monsieur.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Tant mieux: lorsque le médecin fait rire le malade, c'est le meilleur signe du monde. Eh bien, de quoi est-il question? qu'avez-vous? quel est le mal que vous sentez?</p>
+               <p rend="justify">Lucinde,<lb/>
+                  <hi rend="italic">répond par signes, en portant sa main à sa bouche, à sa tête et sous son menton</hi>.</p>
+               <p rend="justify">Han, hi, hom, han.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Eh! que dites-vous?</p>
+               <p rend="justify">Lucinde.<lb/>
+                  <hi rend="italic">continue les mêmes gestes</hi>.</p>
+               <p rend="justify">Han, hi, hom, han, han, hi, hom.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Quoi?</p>
+               <p rend="justify">Lucinde.</p>
+               <p rend="justify">Han, hi, hom!</p>
+               <p rend="justify">Sganarelle,<lb/>
+                  <hi rend="italic">la contrefaisant</hi>.</p>
+               <p rend="justify">Han, hi, hom, han, ha. Je ne vous entends point. Quel diable de langage est-ce là?</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Monsieur, c'est là sa maladie. Elle est devenue muette, sans que jusques ici on en ait pu savoir la cause; et c'est un accident qui a fait reculer son mariage.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Et pourquoi?</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Celui qu'elle doit épouser veut attendre sa guérison pour conclure les choses.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Et qui est ce sot-là qui ne veut pas que sa femme soit muette? Plût à Dieu que la mienne eût cette maladie! je me garderais bien de la vouloir guérir.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Enfin, Monsieur, nous vous prions d'employer tous vos soins pour la soulager de son mal.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Ah! ne vous mettez pas en peine. Dites-moi un peu, ce mal l'oppresse-t-il beaucoup?</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Oui, Monsieur.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Tant mieux. Sent-elle de grandes douleurs?</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Fort grandes.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">C'est fort bien fait. Va-t-elle où vous savez?</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Oui.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Copieusement?</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Je n'entends rien à cela.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">La matière est-elle louable?</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Je ne me connois pas à ces choses.</p>
+               <p rend="justify">Sganarelle,<lb/>
+                  <hi rend="italic">se tournant vers la malade</hi>.</p>
+               <p rend="justify">Donnez-moi votre bras. Voilà un pouls qui marque que votre fille est muette.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Eh! oui, Monsieur, c'est là son mal; vous l'avez trouvé tout du premier coup.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Ah! ah!</p>
+               <p rend="justify">Jacqueline.</p>
+               <p rend="justify">Voyez comme il a deviné sa maladie!</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Nous autres grands médecins, nous connoissons d'abord les choses. Un ignorant auroit été embarrassé, et vous eût été dire: c'est ceci, c'est cela; mais, moi, je touche au but du premier coup, et je vous apprends que votre fille est muette.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Oui; mais je voudrois bien que vous me pussiez dire d'où cela vient?</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Il n'est rien de plus aisé. Cela vient de ce qu'elle a perdu la parole.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Fort bien; mais la cause, s'il vous plait, qui fait qu'elle a perdu la parole?</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Tous nos meilleurs auteurs vous diront que c'est l'empêchement de l'action de sa langue.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Mais encore, vos sentiments sur cet empêchement de l'action de sa langue?</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Aristote là-dessus dit... de fort belles choses.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Je le crois.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Ah! c'étoit un grand homme!</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Sans doute.</p>
+               <p rend="justify">Sganarelle,<lb/>
+                  <hi rend="italic">levant son bras depuis le coude</hi>.</p>
+               <p rend="justify">Grand homme tout à fait, un homme qui étoit plus grand que moi de tout cela. Pour revenir donc à notre raisonnement, je tiens que cet empêchement de l'action de sa langue est causé par de certaines humeurs, qu'entre nous autres savants nous appelons humeurs peccantes; peccantes, c'est-à-dire... humeurs peccantes: d'autant que les vapeurs formées par les exhalaisons des influences qui s'élèvent dans la région des maladies, venant... pour ainsi dire... à... Entendez-vous le latin?</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">En aucune façon..</p>
+               <p rend="justify">Sganarelle,<lb/>
+                  <hi rend="italic">se levant avec étonnement</hi>.</p>
+               <p rend="justify">Vous n'entendez point le latin!</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Non.</p>
+               <p rend="justify">Sganarelle,<lb/>
+                  <hi rend="italic">en faisant diverses plaisantes postures</hi>.</p>
+               <p rend="justify">
+                  <hi rend="italic">Cabricias, arci thuram, catalamus, singulariter, nominativo, hæc Musa,</hi>  «la Muse»; <hi rend="italic">bonus, bona, bonum; Deus sanctus, estne oratio latinas</hi>? <hi rend="italic">Etiam</hi>, «oui.» <hi rend="italic">Quare</hi>? «pourquoi?» <hi rend="italic">Quia substantivo et adjectivum concordat in generi, numerum et casus.</hi>[17]</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Ah! que n'ai-je étudié!</p>
+               <p rend="justify">Jacqueline.</p>
+               <p rend="justify">L'habile homme que velà!</p>
+               <p rend="justify">Lucas.</p>
+               <p rend="justify">Oui, ça est si biau que je n'y entends goutte.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Or, ces vapeurs dont je vous parle venant à passer du côté gauche, où est le foie, au côté droit, où est le cœur, il se trouve que le poumon, que nous appelons en latin armyan, ayant communication avec le cerveau, que nous nommons en grec nasmus, par le moyen de la veine cave, que nous appelons en hébreu <hi rend="italic">cubile</hi>, rencontre en son chemin lesdites vapeurs qui remplissent les ventricules de l'omoplate; et parce que lesdites vapeurs... comprenez bien ce raisonnement, je vous prie; et parce que lesdites vapeurs ont une certaine malignité... écoutez bien ceci, je vous conjure.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Oui.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Ont une certaine malignité qui est causée... soyez attentif, s'il vous plaît.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Je le suis.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Qui est causée par l'âcreté des humeurs engendrées dans la concavité du diaphragme, il arrive que ces vapeurs... <hi rend="italic">Ossabandus, nequeys, nequer, potarinum, quipsa milus.</hi>  Voilà justement ce qui fait que votre fille est muette.</p>
+               <p rend="justify">Jacqueline.</p>
+               <p rend="justify">Ah! que ça est bian dit, notte homme!</p>
+               <p rend="justify">Lucas.</p>
+               <p rend="justify">Que n'ai-je la langue aussi bian pendue!</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">On ne peut pas mieux raisonner, sans doute. Il n'y a qu'une seule chose qui m'a choqué, c'est l'endroit du foie et du cœur. Il me semble que vous les placez autrement qu'ils ne sont; que le cœur est du côté gauche, et le foie du côté droit.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Oui, cela étoit autrefois ainsi; mais nous avons changé tout cela, et nous faisons maintenant la médecine d'une méthode toute nouvelle.[18]</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">C'est ce que je ne savois pas, et je vous demande pardon de mon ignorance.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Il n'y a point de mal, et vous n'êtes pas obligé d'être aussi habile que nous.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Assurément. Mais, Monsieur, que croyez-vous qu'il faille faire à cette maladie?</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Ce que je crois qu'il faille faire?</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Oui.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Mon avis est qu'on la remette sur son lit, et qu'on lui fasse prendre pour remède quantité de pain trempé dans du vin.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Pourquoi cela, Monsieur?</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Parce qu'il y a dans le vin et le pain mêlés ensemble une vertu sympathique qui fait parler. Ne voyez-vous pas bien qu'on ne donne autre chose aux perroquets, et qu'ils apprennent à parler en mangeant de cela?</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Cela est vrai. Ah! le grand homme! Vite, quantité de pain et de vin!</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Je reviendrai voir, sur le soir, en quel état elle, sera. (<hi rend="italic">À la nourrice</hi>.) Doucement, vous. Monsieur, voilà une nourrice à laquelle il faut que je fasse quelques petits remèdes.</p>
+               <p rend="justify">Jacqueline.</p>
+               <p rend="justify">Qui? moi? Je me porte le mieux du monde.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Tant pis, nourrice, tant pis. Cette grande santé est à craindre, et il ne sera pas mauvais de vous faire quelque petite saignée amiable, de vous donner quelque petit clistère dulcifiant.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Mais, Monsieur, voilà une mode que je ne comprends point. Pourquoi s'aller faire saigner quand on n'a point de maladie?</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Il n'importe, la mode en est salutaire; et, comme on boit pour la soif à venir, il faut se faire aussi saigner pour la maladie à venir.</p>
+               <p rend="justify">Jacqueline, <hi rend="italic">en se retirant</hi>.</p>
+               <p rend="justify">Ma fi! je me moque de ça, et je ne veux point faire de mon corps une boutique d'apothicaire.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Vous êtes rétive aux remèdes, mais nous saurons vous soumettre à la raison. (<hi rend="italic">Parlant à Géronte.</hi>) Je vous donne le bonjour.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Attendez un peu, s'il vous plaît.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Que voulez-vous faire?</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Vous donner de l'argent, Monsieur.</p>
+               <p rend="justify">Sganarelle,<lb/>
+                  <hi rend="italic">tendant sa main derrière, par-dessous sa robe, tandis que Géronte ouvre sa bourse</hi>.</p>
+               <p rend="justify">Je n'en prendrai pas, Monsieur.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Monsieur...</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Point du tout.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Un petit moment.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">En aucune façon.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">De grâce!</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Vous vous moquez.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Voilà qui est fait.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Je n'en ferai rien.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Hé!</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Ce n'est pas l'argent qui me fait agir.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Je le crois.</p>
+               <p rend="justify">Sganarelle,<lb/>
+                  <hi rend="italic">après avoir pris l'argent</hi>.</p>
+               <p rend="justify">Cela est-il de poids?</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Oui, Monsieur.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Je ne suis pas un médecin mercenaire.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Je le sais bien.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">L'intérêt ne me gouverne point.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Je n'ai pas cette pensée.</p>
+               <p rend="justify">
+                  <lb/>SCÈNE V</p>
+               <p rend="justify">SGANARELLE, LÉANDRE.<lb/> </p>
+               <p rend="justify">Sganarelle,<lb/>
+                  <hi rend="italic">regardant son argent</hi>.</p>
+               <p rend="justify">Ma foi, cela ne va pas mal, et pourvu que...</p>
+               <p rend="justify">Léandre.</p>
+               <p rend="justify">Monsieur, il y a longtemps que je vous attends, et je viens implorer votre assistance.</p>
+               <p rend="justify">Sganarelle,<lb/>
+                  <hi rend="italic">lui prenant le poignet</hi>.</p>
+               <p rend="justify">Voilà un pouls qui est fort mauvais.</p>
+               <p rend="justify">Léandre.</p>
+               <p rend="justify">Je ne suis point malade, Monsieur, et ce n'est pas pour cela que je viens à vous.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Si vous n'êtes pas malade, que diable ne le dites-vous donc?</p>
+               <p rend="justify">Léandre.</p>
+               <p rend="justify">Non. Pour vous dire la chose en deux mots, je m'appelle Léandre, qui suis amoureux de Lucinde, que vous venez de visiter; et, comme, par la mauvaise humeur de son père, toute sorte d'accès m'est fermé auprès d'elle, je me hasarde à vous prier de vouloir servir mon amour, et de me donner lieu d'exécuter un stratagème que j'ai trouvé pour lui pouvoir dire deux mots d'où dépendent absolument mon bonheur et ma vie.</p>
+               <p rend="justify">Sganarelle,<lb/>
+                  <hi rend="italic">paroissant en colère</hi>.</p>
+               <p rend="justify">Pour qui me prenez-vous? Comment! oser vous adresser à moi pour vous servir dans votre amour, et vouloir ravaler la dignité de médecin à des emplois de cette nature!</p>
+               <p rend="justify">Léandre.</p>
+               <p rend="justify">Monsieur, ne faites point de bruit.</p>
+               <p rend="justify">Sganarelle,<lb/>
+                  <hi rend="italic">en le faisant reculer</hi>.</p>
+               <p rend="justify">J'en veux faire, moi. Vous êtes un impertinent.</p>
+               <p rend="justify">Léandre.</p>
+               <p rend="justify">Hé! Monsieur, doucement.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Un malavisé.</p>
+               <p rend="justify">Léandre.</p>
+               <p rend="justify">De grâce!</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Je vous apprendrai que je ne suis point homme à cela, et que c'est une insolence extrême...</p>
+               <p rend="justify">Léandre,<lb/>
+                  <hi rend="italic">tirant une bourse qu'il lui donne</hi>.</p>
+               <p rend="justify">Monsieur!</p>
+               <p rend="justify">Sganarelle,<lb/>
+                  <hi rend="italic">tenant la bourse</hi>.</p>
+               <p rend="justify">De vouloir m'employer... Je ne parle pas pour vous, car vous êtes honnête homme, et je serois ravi de vous rendre service. Mais il y a de certains impertinents au monde qui viennent prendre les gens pour ce qu'ils ne sont pas, et je vous avoue que cela me met en colère.</p>
+               <p rend="justify">Léandre.</p>
+               <p rend="justify">Je vous demande pardon, Monsieur, de la liberté que...</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Vous vous moquez! De quoi est-il question?</p>
+               <p rend="justify">Léandre.</p>
+               <p rend="justify">Vous saurez donc, Monsieur, que cette maladie que vous voulez guérir est une feinte maladie. Les médecins ont raisonné là-dessus comme il faut, et ils n'ont pas manqué de dire que cela procédoit, qui du cerveau, qui des entrailles, qui de la rate, qui du foie. Mais il est certain que l'amour en est la véritable cause, et que Lucinde n'a trouvé cette maladie que pour se délivrer d'un mariage dont elle étoit importunée. Mais de crainte qu'on ne nous voie ensemble, retirons-nous d'ici, et je vous dirai en marchant ce que je souhaite de vous.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Allons, Monsieur: vous m'avez donné pour votre amour une tendresse qui n'est pas concevable, et j'y perdrai toute ma médecine: ou la malade crèvera, ou bien elle sera à vous.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>ACTE III</head>
+               <p rend="justify">
+                  <lb/>SCÈNE PREMIÈRE</p>
+               <p rend="justify">SGANARELLE, LÉANDRE.</p>
+               <p rend="justify">Léandre.</p>
+               <p rend="justify">Il me semble que je ne suis pas mal ainsi pour un apothicaire; et, comme le père ne m'a guère vu, ce changement d'habit et de perruque est assez capable, je crois, de me déguiser à ses yeux.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Sans doute.</p>
+               <p rend="justify">Léandre.</p>
+               <p rend="justify">Tout ce que je souhaiterois seroit de savoir cinq ou six grands mots de médecine, pour parer mon discours et me donner l'air d'habile homme.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Allez, allez, tout cela n'est pas nécessaire; il suffit de l'habit, et je n'en sais pas plus que vous.</p>
+               <p rend="justify">Léandre.</p>
+               <p rend="justify">Comment?</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Diable emporte si j'entends rien en médecine! Vous êtes honnête homme, et je veux bien me confier à vous, comme vous vous confiez à moi.</p>
+               <p rend="justify">Léandre.</p>
+               <p rend="justify">Quoi! vous n'êtes pas effectivement...</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Non, vous dis-je; ils m'ont fait médecin malgré mes dents. Je ne m'étois jamais mêlé d'être si savant que cela, et toutes mes études n'ont été que jusqu'en sixième. Je ne sais point sur quoi cette imagination leur est venue; mais, quand j'ai TU qu'à toute force ils vouloient que je fusse médecin, je me suis résolu de l'être aux dépens de qui il appartiendra. Cependant vous ne sauriez croire comment l'erreur s'est répandue, et de quelle façon chacun est endiablé à me croire habile homme. On me vient chercher de tous les côtés; et, si les choses vont toujours de même, je suis d'avis de m'en tenir toute ma vie à la médecine. Je trouve que c'est le métier le meilleur de tous: car, soit qu'on fasse bien, ou soit qu'on fasse mal, on est toujours payé de même sorte. La méchante besogne ne retombe jamais sur notre dos, et nous taillons comme il nous plaît sur l'étoffe où nous travaillons. Un cordonnier, en faisant des souliers, ne sauroit gâter un morceau de cuir qu'il n'en paye les pots cassés; mais ici l'on peut gâter un homme sans qu'il en coûte rien. Les bévues ne sont point pour nous, et c'est toujours la faute de celui qui meurt. Enfin le bon de cette profession est qu'il y a parmi les morts une honnêteté, une discrétion la plus grande du monde, et jamais on n'en voit se plaindre du médecin qui l'a tué.[19]</p>
+               <p rend="justify">Léandre.</p>
+               <p rend="justify">Il est vrai que les morts sont fort honnêtes gens sur cette matière.</p>
+               <p rend="justify">Sganarelle,<lb/>
+                  <hi rend="italic">voyant des hommes qui viennent vers lui</hi>.</p>
+               <p rend="justify">Voilà des gens qui ont la mine de me venir consulter. Allez toujours m'attendre auprès du logis de votre maîtresse.</p>
+               <p rend="justify">
+                  <lb/>SCÈNE II</p>
+               <p rend="justify">THIBAUT, PERRIN, SGANARELLE.<lb/> </p>
+               <p rend="justify">Thibaut.</p>
+               <p rend="justify">Monsieu, je venons vous charcher, mon fils Perrin et moi.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Qu'y a-t-il?</p>
+               <p rend="justify">Thibaut.</p>
+               <p rend="justify">Sa pauvre mère, qui a nom Parette, est dans un Ut, malade, il y a six mois.</p>
+               <p rend="justify">Sganarelle,<lb/>
+                  <hi rend="italic">tendant la main comme pour recevoir de l'argent</hi>.</p>
+               <p rend="justify">Que voulez-vous que j'y fasse?</p>
+               <p rend="justify">Thibaut.</p>
+               <p rend="justify">Je voudrions, Monsieu, que vous nous baillissiez quelque petite drôlerie pour la garir.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Il faut voir de quoi est-ce qu'elle est malade.</p>
+               <p rend="justify">Thibaut.</p>
+               <p rend="justify">Allé est malade d'hypocrisie, Monsieu.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">D'hypocrisie?</p>
+               <p rend="justify">Thibaut.</p>
+               <p rend="justify">Oui, c'est-à-dire qu'allé est enflée par tout, et l'an dit que c'est quantité de sériosités qu'allé a dans le corps, et que son foie, son ventre ou sa rate, comme vous voudrais l'appeler, au glieu de faire du sang, ne fait plus que de l'iau. Allé a, de deux jours l'un, la fièvre quotiguenne, avec des lasstules et des douleurs dans les mufles des jambes. On entend dans sa gorge des fleumes qui sont tout prêts à l'étouffer, et par fois il lui prend des sincoles et des conversions, que je crayons qu'alle est passée. J'avons dans notte village un apothicaire, révérence parler, qui li a donné je ne sais combien d'histoires; et il m'en coûte plus d'eune douzaine de bons écus en lavements, ne v's en déplaise, en apostumes qu'on li a fait prendre, en infections de jacinthe, et en portions cordales. Mais tout ça, comme dit l'autre, n'a été que de l'onguent miton-mitaine.[20]  Il veloit li bailler d'eune certaine drogue que l'on appelle du vin amétile;[21]  mais j'ai-s-eu peur franchement que ça l'envoyît à <hi rend="italic">patres</hi>; et l'an dit que ces gros médecins tuont je ne sai combien de monde avec cette invention-là.</p>
+               <p rend="justify">Sganarelle,<lb/>
+                  <hi rend="italic">tendant toujours la main et la branlant, comme pour signe qu'il demande de forgent</hi>.</p>
+               <p rend="justify">Venons au fait, mon ami, venons au fait.</p>
+               <p rend="justify">Thibaut.</p>
+               <p rend="justify">Le fait est, Monsieu, que je venons vous prier de nous dire ce qu'il faut que je fassions.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Je ne vous entends point du tout.</p>
+               <p rend="justify">Perrin.</p>
+               <p rend="justify">Monsieu, ma mère est malade; et velà deux écus que je vous apportons pour nous bailler queuque remède.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Ah! je vous entends, vous. Voilà un garçon qui parle clairement, et qui s'explique comme il faut. Vous dites que votre mère est malade d'hydropisie, qu'elle est enflée par tout le corps, qu'elle a la fièvre, avec des douleurs dans les jambes, et qu'il lui prend parfois des syncopes et des convulsions, c'est-à-dire des évanouissements?</p>
+               <p rend="justify">Perrin.<lb/>Hé! oui, Monsieu, c'est justement ça.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">J'ai compris d'abord vos paroles. Vous avez un père qui ne sait ce qu'il dit. Maintenant vous me demandez un remède?</p>
+               <p rend="justify">Perrin.</p>
+               <p rend="justify">Oui, Monsieu.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Un remède pour la guérir.</p>
+               <p rend="justify">Perrin.</p>
+               <p rend="justify">C'est comme je l'entendons.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Tenez, voilà un morceau de fromage qu'il faut que vous lui fassiez prendre.</p>
+               <p rend="justify">Perrin.</p>
+               <p rend="justify">Du fromage, Monsieu?</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Oui, c'est un fromage préparé, où il entre de l'or, du coral et des perles, et quantité d'autres choses précieuses.</p>
+               <p rend="justify">Perrin.</p>
+               <p rend="justify">Monsieu, je vous sommes bien obligez, et j'allons li faire prendre ça tout à l'heure.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Allez. Si elle meurt, ne manquez pas de la faire enterrer du mieux que vous pourrez.</p>
+               <p rend="justify">
+                  <lb/>SCÈNE III</p>
+               <p rend="justify">JACQUELINE, SGANARELLE, LUCAS.<lb/> </p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Voici la belle nourrice. Ah! nourrice de mon cœur, je suis ravi de cette rencontre, et votre vue est la rhubarbe, la casse et le séné qui purgent toute la mélancolie de mon âme.</p>
+               <p rend="justify">Jacqueline.</p>
+               <p rend="justify">Par ma figue! Monsieur le médecin, ça est trop bian dit pour moi, et je n'entends rien à tout votte latin.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Devenez malade, nourrice, je vous prie, devenez malade pour l'amour de moi. J'aurois toutes les joies du monde de vous guérir.</p>
+               <p rend="justify">Jacqueline.</p>
+               <p rend="justify">Je sis votte sarvante, j'aime bian mieux qu'an ne me guérisse pas.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Que je vous plains, belle nourrice, d'avoir un mari jaloux et fâcheux comme celui que vous avez!</p>
+               <p rend="justify">Jacqueline.</p>
+               <p rend="justify">Que velez-vous, Monsieu? C'est pour la pénitence de mes fautes; et là où la chèvre est liée, il faut bian qu'allé y broute.[22]</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Comment! un rustre comme cela! un homme qui vous observe toujours, et ne veut pas que personne vous parle!</p>
+               <p rend="justify">Jacqueline.</p>
+               <p rend="justify">Hélas! vous n'avez rien vu encore, et ce n'est qu'un petit échantillon de sa mauvaise humeur.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Est-il possible? et qu'un homme ait l'âme assez basse pour maltraiter une personne comme vous? Ah! que j'en sais, belle nourrice, et qui ne sont pas loin d'ici, qui se tiendroient heureux de baiser seulement les petits bouts de vos petons! Pourquoi faut-il qu'une personne si bien faite soit tombée en de telles mains, et qu'un franc animal, un brutal, un stupide, un sot!... Pardonnez-moi, nourrice, si je parle ainsi de votre mari.</p>
+               <p rend="justify">Jacqueline.</p>
+               <p rend="justify">Eh! Monsieu, je sais bien qu'il mérite tous ces noms-là.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Oui, sans doute, nourrice, il les mérite; et il mériteroit encore que vous lui missiez quelque chose sur la tête, pour le punir des soupçons qu'il a.</p>
+               <p rend="justify">Jacqueline.</p>
+               <p rend="justify">Il est bien vrai que, si je n'avois devant les jeux que son intérêt, il pourroit m'obliger à queuque étrange chose.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Ma foi, vous ne feriez pas mal de vous venger de lui avec quelqu'un. C'est un homme, je vous le dis, qui mérite bien cela; et, si j'étois assez heureux, belle nourrice, pour être choisi pour...</p>
+               <p rend="justify">(<hi rend="italic">En cet endroit, tous deux apercevant Lucas, qui étoit derrière eux et entendait leur dialogue, chacun te retire de son côté, mais le médecin d'une manière fort plaisante.</hi>)</p>
+               <p rend="justify">
+                  <lb/>SCÈNE IV</p>
+               <p rend="justify">GÉRONTE, LUCAS.<lb/> </p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Holà! Lucas, n'as-tu point vu ici notre médecin?</p>
+               <p rend="justify">Lucas.</p>
+               <p rend="justify">Et oui, de par tous les diantres! je l'ai vu, et ma femme aussi.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Où est-ce donc qu'il peut être?</p>
+               <p rend="justify">Lucas.</p>
+               <p rend="justify">Je ne sais; mais je voudrois qu'il fût à tous les guebles.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Va-t'en voir un peu ce que fait ma fille.</p>
+               <p rend="justify">
+                  <lb/>SCÈNE V</p>
+               <p rend="justify">SGANARELLE, LÉANDRE, GÉRONTE.<lb/> </p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Ah! Monsieur, je demandois où vous étiez.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Je m'étois amusé, dans votre cour, à expulser le superflu de la boisson. Comment se porte la malade?</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Un peu plus mal depuis votre remède.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Tant mieux: c'est signe qu'il opère.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Oui; mais, en opérant, je crains qu'il ne l'étouffé.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Ne vous mettez pas en peine: j'ai des remèdes qui se moquent de tout, et je l'attends à l'agonie.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Qui est cet homme-là que vous amenez?</p>
+               <p rend="justify">Sganarelle,<lb/>
+                  <hi rend="italic">faisant des signes avec la main que c'est un apothicaire</hi>.</p>
+               <p rend="justify">C'est...</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Quoi?</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Celui...</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Eh?</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Qui...</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Je vous entends.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Votre fille en aura besoin.</p>
+               <p rend="justify">
+                  <lb/>SCÈNE VI</p>
+               <p rend="justify">JACQUELINE, LUCINDE, GÉRONTE, LÉANDRE, SGANARELLE.<lb/> </p>
+               <p rend="justify">Jacqueline.</p>
+               <p rend="justify">Monsieu, velà votre fille qui veut un peu marcher.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Cela lui fera du bien. Allez-vous-en, Monsieur l'apothicaire, tâter un peu son pouls, afin que je raisonne tantôt avec vous de sa maladie.</p>
+               <p rend="justify">(<hi rend="italic">En cet endroit, il tire Géronte à un bout du théâtre, et, lui passant un bras sur les épaules, lui rabat la main sous le menton, avec laquelle il le fait retourner vers lui lorsqu'il veut regarder ce que sa fille et l'apothicaire font ensemble, lui tenant cependant le discours suivant pour l'amuser.</hi>)</p>
+               <p rend="justify">Monsieur, c'est une grande et subtile question entre les doctes, de savoir si les femmes sont plus faciles à guérir que les hommes. Je vous prie d'écouter ceci, s'il vous plaît. Les uns disent que non, les autres disent que oui; et moi, je dis que oui et non. D'autant que, l'incongruité des humeurs opaques qui se rencontrent au tempérament naturel des femmes étant cause que la partie brutale[23]  veut toujours prendre empire sur la sensitive, on voit que l'inégalité de leurs opinions dépend du mouvement oblique du cercle de la lune; et, comme le soleil, qui darde ses rayons sur la concavité de la terre, trouve...</p>
+               <p rend="justify">Lucinde.</p>
+               <p rend="justify">Non, je ne suis point du tout capable de changer de sentiments.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Voilà ma fille qui parle! O grande vertu du remède! ô admirable médecin! Que je vous suis obligé, Monsieur, de cette guérison merveilleuse! Et que puis-je faire pour vous après un tel service?</p>
+               <p rend="justify">Sganarelle,<lb/>
+                  <hi rend="italic">se promenant sur le théâtre et s'essuyant le front</hi>.</p>
+               <p rend="justify">Voilà une maladie qui m'a bien donné de la peine!</p>
+               <p rend="justify">Lucinde.</p>
+               <p rend="justify">Oui, mon père, j'ai recouvré la parole; mais je l'ai recouvrée pour vous dire que je n'aurai jamais d'autre époux que Léandre, et que c'est inutilement que vous voulez me donner Horace.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Mais...</p>
+               <p rend="justify">Lucinde.</p>
+               <p rend="justify">Rien n'est capable d'ébranler la résolution que j'ai prise.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Quoi...?</p>
+               <p rend="justify">Lucinde.</p>
+               <p rend="justify">Vous m'opposerez en vain de belles raisons.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Si...</p>
+               <p rend="justify">Lucinde.</p>
+               <p rend="justify">Tous vos discours ne serviront de rien.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Je...</p>
+               <p rend="justify">Lucinde.</p>
+               <p rend="justify">C'est une chose où je suis déterminée.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Mais...</p>
+               <p rend="justify">Lucinde.</p>
+               <p rend="justify">Il n'est puissance paternelle qui me puisse obliger à me marier malgré moi.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">J'ai...</p>
+               <p rend="justify">Lucinde.</p>
+               <p rend="justify">Vous avez beau faire tous vos efforts.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Il...</p>
+               <p rend="justify">Lucinde.</p>
+               <p rend="justify">Mon cœur ne sauroit se soumettre à cette tyrannie.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Là...</p>
+               <p rend="justify">Lucinde.</p>
+               <p rend="justify">Et je me jetterai plutôt dans un convent que d'épouser un homme que je n'aime point.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Mais...</p>
+               <p rend="justify">Lucinde,<lb/>
+                  <hi rend="italic">parlant d'un ton de voix à étourdir</hi>.</p>
+               <p rend="justify">Non. En aucune façon. Point d'affaire. Vous perdez le temps. Je n'en ferai rien. Cela est résolu.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Ah! quelle impétuosité de paroles! Il n'y a pas moyen d'y résister. Monsieur, je vous prie de la faire redevenir muette.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">C'est une chose qui m'est impossible. Tout ce que je puis faire pour votre service est de vous rendre sourd, si vous voulez.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Je vous remercie. Penses-tu donc...</p>
+               <p rend="justify">Lucinde.</p>
+               <p rend="justify">Non, toutes vos raisons ne gagneront rien sur mon âme.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Tu épouseras Horace dès ce soir.</p>
+               <p rend="justify">Lucinde.</p>
+               <p rend="justify">J'épouserai plutôt la mort.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Mon Dieu, arrêtez-vous, laissez-moi médicamenter cette affaire. C'est une maladie qui la tient, et je sais le remède qu'il y faut apporter.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Seroit-il possible, Monsieur, que vous pussiez aussi guérir cette maladie d'esprit?</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Oui, laissez-moi faire, j'ai des remèdes pour tout, et notre apothicaire nous servira pour cette cure. (<hi rend="italic">Il appelle l'apothicaire et lui parle.</hi>)</p>
+               <p rend="justify">Un mot. Vous voyez que l'ardeur qu'elle a pour ce Léandre est tout à fait contraire aux volontés du père, qu'il n'y a point de temps à perdre, que les humeurs sont fort aigries, et qu'il est nécessaire de trouver promptement un remède à ce mal, qui pourroit empirer par le retardement. Pour moi, je n'y en vois qu'un seul, qui est une prise de fuite purgative, que vous mêlerez comme il faut avec deux drachmes de <hi rend="italic">matrimonium</hi>  en pilules.[24]  Peut-être fera-t-elle quelque difficulté à prendre ce remède; mais, comme vous êtes habile homme dans votre métier, c'est à vous de l'y résoudre et de lui faire avaler la chose du mieux que vous pourrez. Allez-vous-en lui faire faire un petit tour de jardin, afin de préparer les humeurs, tandis que j'entretiendrai ici son père; mais surtout ne perdez point de temps. Au remède, vite, au remède spécifique.[25]</p>
+               <p rend="justify">
+                  <lb/>SCÈNE VII</p>
+               <p rend="justify">GÉRONTE, SGANARELLE.<lb/> </p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Quelles drogues, Monsieur, sont celles que vous venez de dire? Il me semble que je ne les ai jamais ouï nommer.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Ce sont drogues dont on se sert dans les nécessités urgentes.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Avez-vous jamais vu une insolence pareille à la sienne?</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Les filles sont quelquefois un peu têtues.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Vous ne sauriez croire comme elle est affolée de ce Léandre.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">La chaleur du sang fait cela dans les jeunes esprits.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Pour moi, dès que j'ai eu découvert la violence de cet amour, j'ai su tenir toujours ma fille renfermée.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Vous avez fait sagement.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Et j'ai bien empêché qu'ils n'aient eu communication ensemble.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Fort bien.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Il seroit arrivé quelque folie si j'avois souffert qu'ils se fussent vus.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Sans doute.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Et je crois qu'elle auroit été fille à s'en aller avec lui.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">C'est prudemment raisonné.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">On m'avertit qu'il fait tous ses efforts pour lui parler.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Quel drôle!</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Mais il perdra son temps.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Ah! ah!</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Et j'empêcherai bien qu'il ne la voie.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Il n'a pas affaire à un sot, et vous savez des rubriques qu'il ne sait pas.[26]  Plus fin que vous n'est pas bête.</p>
+               <p rend="justify">
+                  <lb/>SCÈNE VIII</p>
+               <p rend="justify">LUCAS. GÉRONTE, SGANARELLE.<lb/> </p>
+               <p rend="justify">Lucas.</p>
+               <p rend="justify">Ah! palsanguenne, Monsieu, vaici bian du tintamarre. Votte fille s'en est enfuie avec son Liandre. C'étoit lui qui étoit l'apothicaire, et velà monsieu le médecin qui a fait cette belle opération-là.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Comment! m'assassiner de la façon? Allons, un commissaire, et qu'on empêche qu'il ne sorte. Ah! traître, je vous ferai punir par la justice.</p>
+               <p rend="justify">Lucas.</p>
+               <p rend="justify">Ah! par ma fi, Monsieu le médecin, vous serez pendu. Ne bougez de là seulement.</p>
+               <p rend="justify">
+                  <lb/>SCÈNE IX</p>
+               <p rend="justify">MARTINE, SGANARELLE, LUCAS.<lb/> </p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Ah! mon Dieu, que j'ai eu de peine à trouver ce logis! Dites-moi un peu des nouvelles du médecin que je vous ai donné.</p>
+               <p rend="justify">Lucas.</p>
+               <p rend="justify">Le velà qui va être pendu.</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Quoi! mon mari pendu! Hélas! et qu'a-t-il fait pour cela?</p>
+               <p rend="justify">Lucas.</p>
+               <p rend="justify">Il a fait enlever la fille de notte maître.</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Hélas! mon cher mari, est-il bien vrai qu'on te va pendre?</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Tu vois. Ah!</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Faut-il que tu te laisses mourir en présence de tant de gens?</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Que veux-tu que j'y fasse?</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Encore, si tu avois achevé de couper notre bois, je prendrois quelque consolation.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Retire-toi de là, tu me fends le cœur.</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Non, je veux demeurer pour t'encourager à la mort, et je ne te quitterai point que je ne t'aie vu pendu.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Ah!</p>
+               <p rend="justify">
+                  <lb/>SCÈNE X</p>
+               <p rend="justify">GÉRONTE, SGANARELLE, MARTINE, LUCAS.<lb/> </p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Le commissaire viendra bientôt, et l'on s'en va vous mettre en lieu où l'on me répondra de vous.</p>
+               <p rend="justify">Sganarelle,<lb/>
+                  <hi rend="italic">le chapeau à la main</hi>.</p>
+               <p rend="justify">Hélas! cela ne se peut-il point changer en quelques coups de bâton?</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Non, non, la justice en ordonnera... Mais que vois-je?</p>
+               <p rend="justify">
+                  <lb/>SCÈNE XI ET DERNIÈRE</p>
+               <p rend="justify">LÉANDRE, LUCINDE, JACQUELINE, LUCAS, GÉRONTE, SGANARELLE, MARTINE.<lb/> </p>
+               <p rend="justify">Léandre.</p>
+               <p rend="justify">Monsieur, je viens faire paraître Léandre à vos yeux et remettre Lucinde en votre pouvoir. Nous avons eu dessein de prendre la fuite nous deux, et de nous aller marier ensemble; mais cette entreprise a fait place à un procédé plus honnête: je ne prétends point vous voler votre fille, et ce n'est que de votre main que je veux la recevoir. Ce que je vous dirai, Monsieur, c'est que je viens tout à l'heure de recevoir des lettres par où j'apprends que mon oncle est mort, et que je suis héritier de tous ses biens.</p>
+               <p rend="justify">Géronte.</p>
+               <p rend="justify">Monsieur, votre vertu m'est tout à fait considérable, et je vous donne ma fille avec la plus grande joie du monde.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">La médecine l'a échappé belle!</p>
+               <p rend="justify">Martine.</p>
+               <p rend="justify">Puisque tu ne seras point pendu, rends-moi grâce d'être médecin, car c'est moi qui t'ai procuré cet honneur.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Oui, c'est toi qui m'as procuré je ne sais combien de coups de bâton.</p>
+               <p rend="justify">Léandre.</p>
+               <p rend="justify">L'effet en est trop beau pour en garder du ressentiment.</p>
+               <p rend="justify">Sganarelle.</p>
+               <p rend="justify">Soit. Je te pardonne ces coups de bâton en faveur de la dignité où tu m'as élevé; mais prépare-toi désormais à vivre dans un grand respect avec un homme de ma conséquence, et songe que la colère d'un médecin est plus à craindre qu'on ne peut croire.</p>
+               <div type="div3">
+                  <head>NOTES:</head>
+                  <p rend="justify">[1] On trouve d'ailleurs le sujet du «Médecin par force» dans les fragments de Jacques de Vitry, évéque de Tusculum, dans une <hi rend="italic">Relation</hi> de Grotius, et aussi dans le <hi rend="italic">Voyage en Moscova et en Perse</hi> d'Adam Olearius (Œlschlager) que venait de traduire M. de Wicquefort en 1656.</p>
+                  <p rend="justify">ACTE PREMIER.</p>
+                  <p rend="justify">[2]  P. 4, 1. 12. <hi rend="italic">Bec cornu</hi>. C'est la traduction de l'italien <hi rend="italic">becco cornuto</hi>  (bouc cornu), qui veut dire cornard, ou cocu, parce que le bouc, qui a de fort grandes cornes, est le seul animal qui voie avec plaisir que ses compagnons couvrent sa femelle. (<hi rend="italic">Sorberiana</hi>, p. 74.) Cf. <hi rend="italic">École des Femmes</hi>, acte IV, sc. vi.</p>
+                  <p rend="justify">[3]  5, 19. <hi rend="italic">J'en bois une partie</hi>. V. la <hi rend="italic">Comédie des Proverbes</hi>  (1633): «Ils ont la mine de ne manger pas tout leur bien, <hi rend="italic">ils en boivent une</hi>  bonne <hi rend="italic">partie</hi>.» (Acte II, sc. iii.)</p>
+                  <p rend="justify">[4]  —24. <hi rend="italic">C'est vivre de ménage</hi>. On lit dans <hi rend="italic">la Vengeance des Femmes</hi>, d'Etienne Denise (1557):</p>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Nous avons vu tant de bons ménagers</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">Pour chopiner se mettre en grands dangers,</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">Vendre joyaux, mettre bagua en gage;</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">Eh bien! cela, c'est vivre de ménage.</hi>
+                     </l>
+                  </lg>
+                  <p rend="justify">«Tu m'appelles ivrogne? dira plus tard Tabarin. Y a-t-il homme qui vive plus de ménage que moi?—Vraiment oui, répond Francisquine, <hi rend="italic">vous vivez de ménage</hi>: toute notre vaisselle est engagée! Maudite soit l'heure que je vous vis jamais!»</p>
+                  <p rend="justify">Citons encore les <hi rend="italic">Contens et Mécontens sur le sujet du temps</hi>  (1649):</p>
+                  <p rend="justify">«Je connoit un graveur qui, n'ayant du pain, est réduit à vendre tes meubles pièce à pièce.—C'est le moyen de <hi rend="italic">vivre de minage</hi>», répliquai-je.</p>
+                  <p rend="justify">Chevalier s'est souvenu de ce jeu de mots dans son <hi rend="italic">Intrigue des Carrosses à cinq sols</hi>, qui n'est que de quatre ans l'aînée du <hi rend="italic">Médecin malgré lui</hi>:</p>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Diable! quel ménager! On voit sur son visage</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">Qu'il vendra tout dans peu pour</hi>  vivre de minage.</l>
+                  </lg>
+                  <p rend="justify">Voir enfin dans les <hi rend="italic">Nouveaux Contes pouf rire</hi>  (Cologne, 1722, I, 72) le chapitre intitulé: «Ce que c'est que <hi rend="italic">vivre de ménage</hi>.»</p>
+                  <p rend="justify">[5]  12, 4. <hi rend="italic">Entre l'arbre et le doigt.</hi>  Sganarelle estropie plaisamment le proverbe «entre l'écorce et le bois on ne doit mettre le doigt», recueilli par Henri Estienne dans sa <hi rend="italic">Précellence du langage françois</hi>  (1579).</p>
+                  <p rend="justify">[6]  17, 20. <hi rend="italic">Quelque petit grain de folie mêlé à leur science</hi>  «Nullum magnum ingenium sine mixtura dementiæ.» (Sénèque, <hi rend="italic">De la tranquillité de l'âme</hi>, d'après Aristote, <hi rend="italic">Problèmes</hi>, xxx, i.) Diderot en fait un proverbe sous la forme suivante: «Il n'y a point de grands esprits sans un grain de folle (<hi rend="italic">le Neveu de Rameau</hi>, édition de la Bibliothèque Elzévirienne, 1891, p. 13.)</p>
+                  <p rend="justify">[7]  18, 15. <hi rend="italic">Fraise, habit jaune et vert</hi>. Le costume complet du fagotier est ainsi décrit dans l'inventaire dressé après la mort de Molière: «Pourpoint, haut-de-chausses, col, ceinture, <hi rend="italic">fraise</hi>  et bas de laine et escarcelle, le tout de serge <hi rend="italic">jaune</hi>, garni de padou <hi rend="italic">vert</hi>.</p>
+                  <p rend="justify">[8]  19, 9. <hi rend="italic">Or potable</hi>. Prétendue panacée universelle dont il est déjà question du temps de Louis XI, sous le nom <hi rend="italic">d'aurum potabile</hi>, et dans laquelle il entrait du chlorure d'or, qui est soluble.</p>
+                  <p rend="justify">[9]  —12. <hi rend="italic">Un jeune enfant de douze ans</hi>. Lemazurier, qui, l'année même où il fut nommé secrétaire-archiviste du Théâtre-Français, publia sa <hi rend="italic">Récolte de l'Hermite</hi>  (Paris, Chaumerot, 1813), y rappelle, à la page 152, une légende que Molière a pu recueillir pendant ses séjours dans le Midi: Un petit garçon, étant monté sur une des tours du palais des Papes, à Avignon, pour dénicher des oiseaux, se laissa tomber du haut en bas et fut mis en pièces. Sa mère ramassa les membres fracturés de cet enfant, les mit dans un sac et les porta sur le tombeau du cardinal Pierre de Luxembourg, mort en 1387 et enterré dans l'église des Célestins. «Pendant qu'elle était en prières, on vit remuer le sac et sortir l'enfant, qui d'abord demanda où était son nid d'oiseaux.»</p>
+                  <p rend="justify">[10]  19, 18. <hi rend="italic">Jouer à la fossette.</hi>  Sorte de jeu, aussi appelé <hi rend="italic">bloquette</hi>, auquel les enfants s'amusent arec des noyaux, des chiques ou des billes.</p>
+                  <p rend="justify">[11]  20, 9. <hi rend="italic">La vache est à nous.</hi>  On trouve cette expression dans <hi rend="italic">l'Amant indiscret</hi>, de Quinault, imprimé en 1656.</p>
+                  <p rend="justify">[12]  24, 17. <hi rend="italic">Il y a fagots et fagots.</hi>  Sur cette expression, de venue proverbiale, voir dans le Moliériste un ingénieux et spirituel article de M. Éd. Thierry (1, p. 11 à 14), 1879.</p>
+                  <p rend="justify">[13]  25, 5. <hi rend="italic">Un double</hi>, c'est-à-dire un double denier, ou la sixième partie d'un sou.</p>
+                  <p rend="justify">[14]  26, 17. <hi rend="italic">Lantiponer</hi>, mot populaire qui signifie lanterner, tenir des discours frivoles, inutiles et interminables. V. à la page 43, l. 2, le mot lantiponage.</p>
+                  <p rend="justify">ACTE DEUXIEME.</p>
+                  <p rend="justify">[15]  38, 4. <hi rend="italic">Un chapeau du plus pointus.</hi>  Ce n'était plus la mode des chapeaux pointus. «Elle avait cessé, dit Le Noble (préface d'<hi rend="italic">Ildegerte</hi>), avec celle des grands romans, qui avaient longtemps fait les délices de la cour.»</p>
+                  <p rend="justify">[16]  —15. Hippocrate dit, <hi rend="italic">dans ton chapitre des chapeaux</hi>. Hippocrate est cité dans un livre publié à Lyon l'année même où Molière séjournait dans cette ville (1655): <hi rend="italic">Tractatut de pileo, cæterisque capitis tegminibus tam sacris quam profanis</hi>, par Anselme Solerius.</p>
+                  <p rend="justify">On trouve le même genre de facétie dans les <hi rend="italic">Fanfares et courvées abbadesques des Roule Bontemps</hi>  (1613):</p>
+                  <p rend="justify">«Galien et Aristote, au livre des <hi rend="italic">Grosses et grasses</hi>. Cicéron, au livre V de sa <hi rend="italic">Divination</hi>, section i, Du fromage a 24 sous la livre.»</p>
+                  <p rend="justify">Et encore, dans le <hi rend="italic">Nouveau Recueil de Farces françaises</hi>  de Picot et Nyrop, p. 191:</p>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Ces paroles, on trouvera</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">Au livre des tripes d'un veau.</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">Capitula plein d'herbe verde.</hi>
+                     </l>
+                  </lg>
+                  <p rend="justify">Deux ans après le <hi rend="italic">Médecin</hi>, l'Intimé dira dans <hi rend="italic">les Plaideurs</hi>:</p>
+                  <p rend="justify">
+                     <hi rend="italic">De vi, paragrapho.</hi>  Messieurs, <hi rend="italic">Caponibus</hi>.<lb/>
+                  </p>
+                  <p rend="justify">[17]  50, 6. <hi rend="italic">Deus sanctus</hi>, etc. Ce galimatias est une citation estropiée des <hi rend="italic">Rudimenta</hi>  de Despautère.</p>
+                  <p rend="justify">V. aussi <hi rend="italic">la Sœur</hi>, comédie de Rotrou, acte III, sc. v.</p>
+                  <p rend="justify">[18]  51, 25. <hi rend="italic">Nous avons changé tout cela</hi>. Voir deux articles du <hi rend="italic">Moliériste: l'Abbé de Monligny et Grosley</hi>  (t. III, p. 205-307), et <hi rend="italic">Foie à gauche, cœur à droite</hi>  (t. V, p. 119-121), ainsi que les <hi rend="italic">Mémoires de Guy-Joly</hi>, Rotterdam, 1718 (t. I, p. 115-116).</p>
+                  <p rend="justify">ACTE TROISIEME.</p>
+                  <p rend="justify">[19]  61, 8. <hi rend="italic">Se plaindre du médecin qui l'a tué.</hi>  Imitation du <hi rend="italic">Licencié Vidriera</hi>, nouvelle de Cervantes signalée dès 1648 par Ch. Sorel dans la deuxième partie de <hi rend="italic">Polyandre</hi>, et dont Quinault a tiré son <hi rend="italic">Docteur de verre</hi>, troisième acte de la <hi rend="italic">Comédie sans comédie</hi>  (1654, Théâtre du Marais).</p>
+                  <p rend="justify">Sc. ii. Supprimée depuis plus d'un siècle à la Comédie-Française, quoique fort plaisante. Je l'ai vu jouer à Toulouse il y a vingt-cinq ans, et elle ne ralentissait nullement l'action principale.</p>
+                  <p rend="justify">[20]  63, 6. <hi rend="italic">Onguent miton mitaine</hi>, qui ne fait ni bien ni mal.</p>
+                  <p rend="justify">[21]  63, 7. <hi rend="italic">Vin amétile</hi>. Sur le vin émétique, qui faisait alors «bruire ses fuseaux», voir <hi rend="italic">Don Juan</hi>  (acte III, sc. i).</p>
+                  <p rend="justify">[22]  66, 5. <hi rend="italic">Là où la chèvre est liée.</hi>
+                     <hi rend="italic">L'Enterrement du Dictionnaire de l'Académie</hi>  (1697) prétend que ce proverbe «ne se dit pas ainsi, car cela aurait peu de sens», mais qu'on dit qu'<hi rend="italic">où la chèvre trouve à brouter, il faut qu'elle soit attachée</hi>, c'est-à-dire figurément qu'il faut s'arrêter et planter le piquet où l'on trouve à vivre. (Deuxième partie, Remarqua critiques, p. 291.)</p>
+                  <p rend="justify">[23]  70, 18. <hi rend="italic">La partie brutale.</hi>  Molière ici s'emprunte à lui-même:</p>
+                  <lg>
+                     <l>
+                        <hi rend="italic">La partie brutale alors veut prendre empire</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">Dessus la sensitive...</hi>
+                     </l>
+                  </lg>
+                  <p rend="justify">dit Gros René dans le <hi rend="italic">Dépit amoureux</hi>  (acte IV, sc. ii).</p>
+                  <p rend="justify">[24]  74, 9. <hi rend="italic">Deux drachmes de matrimonium en pilules.</hi>  Deux gros de mariage en pilules, drogue inconnue au Codex.</p>
+                  <p rend="justify">[25]  —17. <hi rend="italic">Remède spécifique</hi>, souverain, qui guérit constamment et par un mécanisme inconnu certaines maladies, comme le quinquina les fièvres intermittentes. (Littré.)</p>
+                  <p rend="justify">[26]  76, 20. Vous savez des <hi rend="italic">rubriques</hi>. Des finesses, des tours, des ruses. C'est dans ce sens familier que Thomas Corneille a dit, dans <hi rend="italic">l'Amour à la mode</hi>  (1653):</p>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Vous y savez, Monsieur, d'admirables rubriques.</hi>
+                     </l>
+                     <l>  (Acte I, sc. iii.)</l>
+                  </lg>
+                  <p rend="justify">À PARIS</p>
+                  <p rend="justify">DES PRESSES DE D. JOUAUST</p>
+                  <p rend="justify">Rue de Lille, 7</p>
+                  <p rend="justify">M DCCC XCII</p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

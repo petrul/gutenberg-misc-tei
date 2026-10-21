@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Malva: Kertomus</title>
+            <author>Maksim Gorky</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-01T19:55:48Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">odts/fi-odts/GorkyMaksim-Malva_Kertomus_2017.epub.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Maksim Gorky</name>
+               <date>2024-01-01T19:55:48Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Malva: Kertomus</head>
+         <author>Maksim Gorky</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">odts/fi-odts/GorkyMaksim-Malva_Kertomus_2017.epub.odt</p>
+         <p>E-text prepared by Tapio Riikonen</p>
+         <pb/>
+         <div type="div1">
+            <head>Malva: Kertomus</head>
+            <pb/>
+            <div type="div2">
+               <head>MALVA</head>
+               <p rend="justify">Kertomus</p>
+               <p rend="justify">Kirj.</p>
+               <div type="div3">
+                  <head>MAKSIM GORKI</head>
+                  <p rend="justify">Suomentanut Viljami Ventola</p>
+                  <p rend="justify">Helsingissä, Suomen Sos.-dem Nuorisoliiton kustannuksella, 1919.</p>
+                  <p rend="justify">Savon Kansan Kirjapaino Osakeyhtiö.</p>
+                  <p rend="justify">1.</p>
+                  <p rend="justify">Meri hymyi…</p>
+                  <p rend="justify">Lauhkean tuulen hellät hyväilyt synnyttivät meren pintaan hienon väreen, mihin auringon häikäisevä loiste heijastui kultaisena kimmeltäin kohti taivaan sineä. Taivaan ja meren väliseen avaruuteen kaikui laineitten ilakoiva loiske, kun ne viskautuivat hiekkasärkän matalaan rantaan. Tuo laineitten synnyttämä omituinen sävel auringon loisteessa päilyvän meren kera sulautui lakkaamattomaan ailahteluun, täynnä sopusointua ja elämäniloa. Aurinko onnellisena paistoi täydeltä terältään, ja meri puolestaan riemuitsi ollessaan tuon säteilyn kuvastimena.</p>
+                  <p rend="justify">Tuuli leppoisana viilsi meren mahtavaa, sileätä pintaa ja aurinko poltti sitä tulisäteillään; huoaten syvään se näihin hyväilyihin kyllääntyneenä hengitti tuohon tukahduttavaan ilmaan kirpeätä suolatuoksuaan. Vihreähköt laineet vyöryivät keltaiselle hiekalle jättäen jälelle valkean vaahtonsa, mikä sähisten suli kuumaan hiekkaan ja kastoi sen. Pitkähkö, kaita maakaistale muistutti rannalta mereen kaatunutta suurta jättiläistornia. Sen terävä huippu ulottui pitkälle kimmeltävän meren äärettömyyteen, kun taas perusta katosi kauas etäisyyteen sumun peittämään mannermaahan. Sieltä toi tuuli tullessaan ummehtuneen löyhkän, mikä tuntui selittämättömältä täällä puhtaan, aavan meren helmassa kirkkaan-sinisen taivaan alla.</p>
+                  <p rend="justify">Kalansuomujen peittämään hiekkaan pistetyt puiset paalut ja niihin ripustetut kalaverkot loivat omituisia varjokuvia maahan. Hiekalla makasi rinnakkain joukko suuria veneitä ja näiden joukossa yksi pieni vene. Näytti kuin rantaa huuhtovat laineet olisivat tahtoneet houkutella ne puoleensa.</p>
+                  <p rend="justify">Airot, köydet, pärekopat ja tynnörit olivat sikinsokin maakaistaleella ja keskellä kaikkea tätä sekasotkua kohosi pajunoksista, puunkaarnasta ja kaislasta rakennettu kalastaja-maja. Oksaisella tukilla oven edustalla näkyi saapaspari pohjat käännettyinä taivasta kohti. Ylinnä kohosi tanko ja sen päässä tuulessa liehuva punainen vaatekaistale.</p>
+                  <p rend="justify">Erään veneen varjossa makasi Vasili Legostew, kauppias Grebentschikoffin kalastamon vahti. Hän loikoili vatsallaan nojaten päänsä käsien varaan ja tähysteli tarkkaavaisena meren takaa etäältä häämöittävää rantaa. Kaukana merellä näkyi nimittäin pieni musta piste ja Vasili riemuitsi nähdessään sen yhä suurenevan ja lähestyvän.</p>
+                  <p rend="justify">Hän siristi silmänsä suojaksi auringon säteiltä ja meren kimaltelulta. Se oli Malva. Hän tulee, nauraa houkuttelevana, syleilee voimakkailla ja pehmeillä käsivarsillaan, suutelee ja lopuksi hän kertoo uutisia tuolta rannikolta niin äänekkäästi, että kalalokit pelosta lähtevät lentoon. Sitten keittävät he maukkaan kalakeiton, ottavat viinaryypyn, kierivät jutellen, hellästi toisiaan hyväillen rannan hiekassa ja pimeän tullen valmistavat he teetä itselleen, juovat sen maukkaitten leivosten kera mennen sitten levolle.</p>
+                  <p rend="justify">Tällaista on heillä joka sunnuntai ja pyhinä keskellä viikkoa. Varhain aamulla, päivänkoitteessa soutaa Vasili sitten tytön takaisin rantaan yli uinuvan veden. Malva istuu silloin uneliaana peräsimessä, hän puolestaan soutaa tyttöä katsellen. Tyttö onkin silloin tavallisesti erittäin hupaisa, hupaisa ja herttainen kuin kylläinen kissanpoikanen. Kenties vaipuu hän tällöin alas penkiltä veneen pohjalle, nukahtaa siihen keräksi kyyristyneenä. Niin käy tytölle usein…</p>
+                  <p rend="justify">Tänä päivänä ovat kalalokitkin kuumuuden uuvuttamat. Ne istuvat rivittäin rannan hiekalla avoimin suin ja laahustavin siivin tai keinuvat velttoina laineilla äänettöminä päästämättä ilmoille piileksivää petomaista rohkeuttaan.</p>
+                  <p rend="justify">Auringon tulikuumassa hyväilyssä kohottaa meri povensa, ja ilmassa leijaa hurmaava velttous… Vasilin silmissä näytti kun ei Malva olisikaan yksin veneessä. Olisikohan Serjoschka taaskin tuppautunut seuraan. Vasili kääntäikse raskaasti hiekalla, istuutui, varjosti kädellään silmiään ja rupesi suuttuneena katsomaan merelle päästäkseen selville veneessä olijoista. Malva istui peräsimessä. Soutaja soutaa kyllä voimakkaasti, vaan taitamattomasti — se ei siis ollutkaan Serjoschka; olisipa hän vain matkassa, ei tarvitsisi Malvan istua peräsimessä.</p>
+                  <p rend="justify">"Ohoi", huusi Vasili tyytymättömänä.</p>
+                  <p rend="justify">Kalalokit rannalla pyrähtivät lentoon ja kuuntelivat.</p>
+                  <p rend="justify">"Ohoi, ohoi", kuului veneestä Malvan heleä ääni vastaavan.</p>
+                  <p rend="justify">"Kuka on seurassasi?"</p>
+                  <p rend="justify">Vastauksena kuului vain nauru.</p>
+                  <p rend="justify">"Kirottu nainen", sähisi Vasili itsekseen ja sylkäsi suuttuneena.</p>
+                  <p rend="justify">Hän oli utelias tietämään kuka tulokas mahtoikaan olla ja pyörittäessään itselleen tupakan tarkkaili hän väsymättä soutajan niskaa ja selkää veneen yhä lähestyessä. Sen keulassa kohisi vesi voimakkaista airojen liikkeistä, ja hiekka poltti vartijan paljaita jalkoja hänen siinä seistessään odottaen tyytymättömänä.</p>
+                  <p rend="justify">"Kuka on seurassasi", kysyi hän huomatessaan omituisen hymyn Malvan täyteläisillä kasvoilla.</p>
+                  <p rend="justify">"Odotahan, niin saat nähdä", vastasi hän nauraen.</p>
+                  <p rend="justify">Soutajakin kääntyi rantaan päin ja katsoi nauraen Vasilia.</p>
+                  <p rend="justify">Vartija rypisti silmäkulmiaan koettaessaan muistutella, kuka tämä niin tutulta näyttävä nuorukainen oli.</p>
+                  <p rend="justify">"Kisko lujemmin", komensi Malva.</p>
+                  <p rend="justify">Laineen harjalla viskautui vene puoliksi hiekalle, mihin se kallistui kyljelleen aallon vieriessä takaisin mereen. Soutaja hyppäsi maalle, meni Vasilin luo sanoen:</p>
+                  <p rend="justify">"Hyvää päivää, isä!"</p>
+                  <p rend="justify">"Jakow", virkkoi Vasili enemmän hämmästyneenä kuin iloisena.</p>
+                  <p rend="justify">He syleilivät, suutelivat kolmasti toisiaan huulille ja poskille, jolloin Vasilin kasvoilla yhtaikaa kuvastui sekä hämmästystä että riemua.</p>
+                  <p rend="justify">"Siksipä minä katsoinkin niin tarkkaan tuloanne… ja sydämessä tuntui niin oudolta. Ah sinä — miten olet tänne tullut? Mikä yllätys! Ja minä istuin ja katselin luullen Serjoschkaa tulijaksi. Ja sinä se olitkin!"</p>
+                  <p rend="justify">Toisella kädellään Vasili silitteli partaansa, toinen viittoili ilmaa. Oikeastaan tahtoi hän katsella Malvaa, mutta pojan hymyilevät silmät sen estivät ja sitäpaitsi häntä hämmästytti niiden omituinen kirkkaus. Tyytyväisyydentunne, jota hän tunsi omistaessaan noin reippaan ja kauniin pojan taisteli rakastetun tytön läsnäolon herättämän tunteen kanssa. Milloin seisoi hän toisella milloin taas toisella jalallaan ja teki pojalleen joukon kysymyksiä lainkaan odottamatta niihin vastausta. Hänen päänsä oli vallan sekasin, ja huonolle tuulelle joutui hän Malvan pilkatessa:</p>
+                  <p rend="justify">"Älä nyt noin hirveästi tanssi — pelkästä ilosta! Vie hänet majaan ja tarjoa hänelle jotakin…"</p>
+                  <p rend="justify">Vasili kääntyi häntä katsomaan. Malvan huulilla leikki taaskin sama omituinen hymy kuin taannoin, ja vaikkakin tyttö oli yhtä täyteläisen raikas kuin ennenkin, tuntui hän nyt Vasilin mielestä toiselta, uudelta olennolta, miltei vieraalta. Malva suuntasi viheriät silmänsä vuoroin isään, vuoroin taas poikaan, samalla kun hän pienillä, valkeilla hampaillaan nakerteli arbuusin siemeniä. Jakow katseli myös hymyillen molempia. Syntyi hetkisen äänettömyys, mikä Vasilia tuskastutti.</p>
+                  <p rend="justify">"Tulen heti takaisin", sanoi äkkiä Vasili mennen majaa kohti. "Menkää pois auringolta… minä noudan vettä, niin keitämme kalakeiton. Tarjoonpa sinulle, Jakow, kalakeittoa, minkä veroista et ennen ole syönyt! Istukaa täällä niinkauan, tulen heti takaisin."</p>
+                  <p rend="justify">Hän otti maasta majan vierestä pienen kattilan ja katosi nopeasti verkkojen suojiin.</p>
+                  <p rend="justify">Malva ja Jakow menivät myöskin majaan.</p>
+                  <p rend="justify">"Niin, rakas poikani, nyt olen siis saattanut sinut isäsi luokse", sanoi Malva katsellen pojan uhkeata ulkomuotoa sivulta.</p>
+                  <p rend="justify">Jakow käänsi ruskeapartaisen päänsä ja sanoi säihkyvin silmin:</p>
+                  <p rend="justify">"Niin, täällä me nyt olemme… Miten kaunista täällä on… entä tuo meri sitten!"</p>
+                  <p rend="justify">"Se on mahtava… No, onko isä mielestäsi paljonkin vanhentunut?"</p>
+                  <p rend="justify">"Eipä juuri. Luulin häntä harmaahapsiseksi, vaan ei hänellä ole montakaan harmaata hiuskarvaa… ja muutenkin on hän voimakas…"</p>
+                  <p rend="justify">"Kauanko siitä onkaan, kun toisenne tapasitte?"</p>
+                  <p rend="justify">"Viitisen vuotta. Kun hän kotoa läksi, olin seitsentoistavuotias."</p>
+                  <lg>
+                     <l>He astuivat majaan, missä ilma oli ummehtunut ja löyhkäsi suolakalalle.</l>
+                     <l>He istuutuivat. Jakow istuutui eräälle poikkisahatulle puupölkylle ja</l>
+                     <l>nurkkaan, mihin oli kasattu tyhjiä säkkejä viskautui Malva istumaan.</l>
+                     <l>Heidän välillään oli poikkisahattu tynnöri, jonka pohja oli pöytänä.</l>
+                     <l>Istuttuaan paikalleen katselivat he ääneti toisiaan.</l>
+                  </lg>
+                  <p rend="justify">"Sinä siis etsit työtä täältä", kysyi Malva.</p>
+                  <p rend="justify">"En oikeastaan vielä tiedä. Jos täällä sellaista tarjoutuu, jään tietenkin."</p>
+                  <p rend="justify">"Täällä kyllä aina on jotain saatavissa", lupasi Malva luottavasti yhä katsoen poikaa vihreillä, salaperäisesti kiiluvilla silmillään.</p>
+                  <p rend="justify">Jakow ei katsonut häntä, vaan kuivasi paidanhiallaan hikeä kasvoiltaan.</p>
+                  <p rend="justify">Äkkiä remahti tyttö nauruun.</p>
+                  <p rend="justify">"Äiti kotoa lähetti kai mukanasi joukon tehtäviä ja paljon terveisiä isälle?"</p>
+                  <p rend="justify">Jakow katseli häntä, rypisti silmäkulmiansa ja vastasi lyhyeen:</p>
+                  <p rend="justify">"Niinpä kylläkin… Entä sitten?"</p>
+                  <p rend="justify">"Ei mitään." Ja tyttö nauroi.</p>
+                  <p rend="justify">Hänen naurunsa ei näyttänyt miellyttävän Jakowia, päinvastoin se kiusasi poikaa. Hän käänsihe poispäin Malvasta koettaen muistutella äitinsä antamia tehtäviä.</p>
+                  <p rend="justify">Äiti oli saattanut poikansa kylän laitaan, siellä nojautunut aitaa vasten ja puhunut vilkuillen kuivilla silmillään:</p>
+                  <p rend="justify">"Sano isällesi Jaschka… Jumalan nimessä, sano isälle… äiti yksin on kotosalla, sano hänelle se… Nyt on viisi vuotta kulunut, ja yhä on hän yksin!… Äiti käy vanhaksi! Sano hänelle näin Jumalan tähden. Kohtapuoleen on äiti jo vanhus… hän on yksin, alati yksin, alituisessa työssä. Sano se hänelle, Herran nimeen…"</p>
+                  <p rend="justify">Ja sitten oli äiti hiljaa itkenyt, peittäen kasvonsa esiliinaan.</p>
+                  <p rend="justify">Sinä hetkenä ei Jakow säälinyt äitiään, mutta nyt se häneen koski… Hän katsoi Malvaa, rypisti ankarana kulmakarvojaan ja häntä halutti lausua tytölle katkeria sanoja.</p>
+                  <lg>
+                     <l>"Kas niin, nyt olen taaskin täällä", sanoi Vasili tullessaan majaan.</l>
+                     <l>Toisessa kädessään oli hänellä elävä kala, toisessa piteli hän puukkoa.</l>
+                  </lg>
+                  <p rend="justify">Hän oli jo päässyt ensi hämmästyksestään, kätkenyt sen sydämensä pohjalle ja katseli nyt tyynenä ja tyytyväisenä nuoria; vain hänen liikkeissään saattoi huomata jonkunmoisen joustavuuden, mikä muulloin oli hänelle vierasta.</p>
+                  <p rend="justify">"Heti sytytettyäni tulen palamaan, tulen luoksenne ja sitten voimme jutella rauhassa ja sovussa. Sinä oletkin varttunut suureksi ja komeaksi, Jakow!"</p>
+                  <p rend="justify">Sen sanottuaan meni hän jälleen ulos. Malva yhä nakerteli hedelmiään ja katseli tarkkaavaisena poikaa, joka puolestaan koetti olla katsomatta tyttöön vaikkakin tunsi siihen suurta halua. Hän ajatteli:</p>
+                  <p rend="justify">"Täällä näköjään eletään hyvin ja huolettomasti… tyttö on niin täyteläinen ja hyvinvoipa ja isä myöskin."</p>
+                  <p rend="justify">Kun sitten äänettömyys rupesi häntä vaivaamaan, sanoi hän:</p>
+                  <p rend="justify">"Huomaan unohtaneeni eväspussini veneeseen, käyn sen noutamassa!"</p>
+                  <p rend="justify">Hän nousi verkkaan ja meni ulos majasta. Hänen mentyään tuli Vasili ja sanoi tuiman äkäisenä Malvalle:</p>
+                  <p rend="justify">"Miksi tulit tänne hänen seurassaan? Mitä hänelle sanon sinusta? Miten voin selittää sinun suhteesi minuun?"</p>
+                  <p rend="justify">"Minä vain tulin, siinä koko juttu", vastasi Malva lyhyeen.</p>
+                  <p rend="justify">"Ah, sinä olet kerrassaan ajattelematon tyttönen! Ehtimiseen sinä teet tyhmyyksiä; niistä ei ole vähääkään hyötyä. Mitä nyt teenkään? Näin päätäpahkaa saattaa sinut hänen kasvojensa eteen — minullahan on kotona toinen vaimo, hänen äitinsä… Se pitäisi toki sinunkin ymmärtää!"</p>
+                  <p rend="justify">"Mitä tuossa on ymmärtämistä? Pelkäänkö minä ehkä häntä — tai kenties sinua", sanoi tyttö sulkien halveksivasti vihreänhohteiset silmänsä. "Miten äsken teeskentelitkään hänen edessään! Kerrassaan naurettavaa!"</p>
+                  <p rend="justify">"Niin, sinä voit kylläkin nauraa… sinä! Vaan mitäpä minä nyt teen?"</p>
+                  <p rend="justify">"Tuota olisit ennemmin ajatellut!"</p>
+                  <p rend="justify">"Saatoinko edes aavistaa hänen saapuvan tänne noin äkkiarvaamatta?"</p>
+                  <p rend="justify">Hiekka narskui Jakowin askeleista ja he katkaisivat keskustelunsa. Jakow tuli majaan eväspussineen, viskasi sen nurkkaan ja loi Malvaan vihaisen silmäyksen.</p>
+                  <p rend="justify">Malva vain innokkaana pureskeli siemeniään kun Vasili istuutui pölkylle, ja hieroen polviaan puheli hämmästyneenä hymyillen:</p>
+                  <p rend="justify">"Vai niin, että oletkin tullut tänne!… Miten rupesitkaan sellaista suunnittelemaan?"</p>
+                  <p rend="justify">"Niin tuota… olemmehan sinulle kirjoittaneet…"</p>
+                  <p rend="justify">"En ole saanut mitään kirjettä… se on sitten varmaankin hävinnyt matkalla", sanoi Vasili suuttuneena. "Piru olkoon, juuri kun sellaista kipeimmin tarvitsee, silloin se häviää…"</p>
+                  <p rend="justify">"Sinä et edes aavista, millä kannalla asiat kotona ovat", kyseli Jakow katsellen epäillen isäänsä.</p>
+                  <p rend="justify">"Ei, kuinka voisin sellaista tietää? Enhän ole edes saanut kirjettännekään!"</p>
+                  <p rend="justify">Silloin kertoi Jakow isälleen hevosen kuolleen, että leipä kotona, oli syöty loppuun jo helmikuun alussa, sekä ettei ollut minkäänlaista mahdollisuutta työansioon. Ei heinäkään riittänyt, joten lehmä oli vähällä kuolla nälkään. Hädintuskin päästiin huhtikuuhun. Silloin päätettiin, että Jakow heti kynnön jälkeen lähtisi isän luo kolmeksi kuukaudeksi koettaakseen työllään ansaita jotain. Siitä olivat he kirjeessäkin maininneet… Sitten myivät he kolme lammasta, ostivat leipää ja heinää ja sitten oli Jakow lähtenyt matkalle.</p>
+                  <p rend="justify">"Vai niin, silläkö tavalla", virkahti Vasili. "Vai niin, hm… Vaan kuinka tuo kaikki on mahdollista?… Olenhan lähettänyt rahaa…"</p>
+                  <p rend="justify">"Paljonko sitä nyt oli? Tupaakin on vähän korjailtu… Marja on mennyt naimisiin… ja sitten ostin päälle päätteeksi auran. Ja onhan siitä kulunut kokonaista viisi vuotta!"</p>
+                  <p rend="justify">"Nii-in luonnollisestikin! Vai ei se riittänyt? Hm… Mutta keitto varmaankin kuohuu!" Hän nousi ja meni ulos.</p>
+                  <p rend="justify">Hän kumartui katselemaan tulta, minkä yllä kiehuva kattila riippui, kuori rasvan pois ja vaipui aatoksiin. Pojan kertomus ei tosin häneen sen syvemmin koskenut, päinvastoin sai se hänet suuttumaan vaimoonsa ja poikaansa. Miten paljon rahaa olikaan hän heille lähettänyt viitenä vuotena, ja sittenkään eivät pystyneet kunnolla taloa pystyssä pitämään! Ellei Malva olisi ollut läsnä, olisi poika todellakin saanut kuulla kunniansa. Ominpäin, isän suostumuksetta, oli hän lähtenyt kotoa — siihen riitti hänen ymmärryksensä — mutta taloa hän ei pystynyt hoitamaan. Ja tuo talo, jota ei Vasili mukavuudessaan edes viitsinyt ajatellakaan, tuntui nyt hänestä pohjattomalta kuilulta, mihin hän viiden vuoden aikana oli viskannut rahojansa; sillä ei ollut mitään merkitystä hänen elämässään. Hän huokasi syvään kauhalla hämmentäessään keittoa.</p>
+                  <p rend="justify">Auringonpaisteessa näytti tuo pieni tuli kalpealta ja mitättömältä. Ohut sininen sauhu laskeutui merelle kuin aaltoja vaimentaakseen. Vasili katseli sitä mietteissään ajatellen poikaansa, Malvaa ja sitäkin, ettei hän enää olisi yhtä vapaa kuin tähän saakka. Jakow jo kyllä aavisti, mikä Malva oli…</p>
+                  <p rend="justify">Ja Malva istui majassa hämmästyttäen poikaa rohkeilla silmäyksillään, joissa alituinen hymy leikki.</p>
+                  <lg>
+                     <l>"Sinä olet kai jättänyt morsiamesi kylään", kysyi hän äkkiä katsellen</l>
+                     <l>Jakowia suoraan silmiin.</l>
+                  </lg>
+                  <p rend="justify">"Ehkäpä", vastasi hän vastenmielisesti sisimmässään tuntien suuttumusta tyttöön.</p>
+                  <p rend="justify">"Onko hän kauniskin", kysyi Malva näennäisesti välinpitämättömänä.</p>
+                  <p rend="justify">Jakow vaikeni.</p>
+                  <p rend="justify">"Miksi et vastaa? Onko hän minua kauniimpi tai eikö ole?"</p>
+                  <p rend="justify">Vasten tahtoaan katsoi hän tyttöön. Malvalla oli pyöreät, päivänpolttamat posket ja mehukkaat huulet avautuivat rohkeaan hymyyn. Ohut pusero mukautui hyvin ruumiin eri muotoihin, joten tytön pyöreät olkapäät ja korkea povi näkyivät edukseen. Mutta Jakow ei voinut sietää hänen salakavalasti välkkyviä, vihreitä, nauravia silmiään.</p>
+                  <p rend="justify">"Miksi noin puhut", sanoi hän rukoilevalla äänellä tietämättään huoaten, vaikka hän olikin päättänyt puhutella tyttöä vakavasti ja ankarasti.</p>
+                  <p rend="justify">"Mitenkä voisin muulla tavalla puhua", nauroi Malva vastaan.</p>
+                  <p rend="justify">"Ja sitten vielä naurat — mille?"</p>
+                  <p rend="justify">"Nauran sinulle…"</p>
+                  <p rend="justify">"Mitä sinä oikeastaan minusta tahdot", kysyi hän huolestuneena ja katsoi alas välttääkseen tytön katseita.</p>
+                  <p rend="justify">Tyttö ei vastannut.</p>
+                  <p rend="justify">Jakow aavisti, missä suhteissa Malva oli isään ja se esti häntä vapaasti puhumasta. Tämä ajatus ei itse asiassa häntä hämmästyttänyt, sillä olihan hän kuullut kalastamoissa vietettävän vapaata elämää, eikä sitäpaitsi isäntapainen terve ja voimakas mies kauankaan voinut olla ilman vaimoa. Mutta sittenkin tuntui vastenmieliseltä olla tytön ja isän seurassa. Ja sitten ajatteli hän äitiään, katkeroitunutta ja väsähtänyttä naista, joka lakkaamatta työskenteli kotosalla…</p>
+                  <p rend="justify">"Kalakeitto on valmis", sanoi Vasili majaan tullessaan. "Ota esille lusikat, Malva!"</p>
+                  <p rend="justify">Jakow katsoi isäänsä ajatellen:</p>
+                  <p rend="justify">"Huomaa kyllä hänen täällä usein oleilevan, koskapa tietää missä yksin lusikatkin säilytetään!"</p>
+                  <p rend="justify">Malva haki esille lusikat sanoen menevänsä rantaan niitä pesemään; hänellä oli sitäpaitsi pullollinen viinaa siellä piilossa.</p>
+                  <p rend="justify">Isä ja poika seurasivat katseillaan tyttöä ja yksin jäätyään he istuivat hetkisen ääneti.</p>
+                  <p rend="justify">"Miten satuitkaan yhteen hänen kanssaan", kysyi Vasili.</p>
+                  <p rend="justify">"Hän oli konttorissa, kun sinua sieltä kyselin… ja silloin sanoi tyttö: Et tarvitse jalkasin kulkea hiekassa, saat kanssani soutaa veneessä. Minä näet myöskin lähden sinne! ja niin läksimme tänne."</p>
+                  <p rend="justify">"Niinkö, niin… Monasti olen miettinyt miten Jakow-poikani jaksaa."</p>
+                  <p rend="justify">Poika hymyili hyväntahtoisesti isälleen, mikä antoi Vasilille uutta rohkeutta. "No… mitä arvelet tytöstä?"</p>
+                  <p rend="justify">"Kyllä vaan… hyvin mukiinmenevä", vastasi Jakow epävarmana siristellen silmiään.</p>
+                  <p rend="justify">"Tätä ei itse pirukaan voinut auttaa, poikaseni", virkkoi Vasili käsiään hieroen. "Ensin kyllä koetin karttaa… se ei onnistunut! Tottumus, katsos… olenhan nainut mies, ja sitten paikkailee hän vaatteitani ja paljon muutakin… ja lukuunottamatta sitäkin… Ah niin! Naisväkeä ei voi välttää enempää kuin kuolemaakaan", sanoi hän lopettaen avomielisen selittelynsä.</p>
+                  <p rend="justify">"Mitäpä se minulle kuuluu", sanoi Jakow. "Oma asiasi… enhän ole tuomarisi."</p>
+                  <p rend="justify">Mutta itsekseen ajatteli hän: "Kaikkea vielä… hänen kaltaisensa ei paikkaile housujasi…"</p>
+                  <p rend="justify">"Ja sitten olen vasta viisiviidettä vuotta. Eikä hän paljoakaan minulle tuota kuluja, kun ei edes ole vaimonikaan", sanoi Vasili.</p>
+                  <p rend="justify">"Ei tietystikään", myönteli Jakow, mutta ajatteli: "Kyllä hän sittekin sinulta rahat peijaa."</p>
+                  <p rend="justify">Malva tuli samassa tuoden viinapullon ja muutaman vehnäleivän, ja he rupesivat kalakeittoaan syömään. Ääneti he söivät. Makeasti maiskuttaen imivät he kalaruodot ja sylkäsivät ne suustaan hiekalle oven viereen. Jakow söi ahnaasti; tämä huvitti Malvaa erinomaisesti, koskapa hän ystävällisesti hymyili nähdessään pojan levittävän päivän polttamat poskensa ja liikuttavan sukkelaan paksuja, kosteita huuliaan. Vasili taas söi vain hiukkasen, vaikkakin ahkerasti askarteli ruuan ääressä — tämän teki hän voidakseen Jakowin ja Malvan huomaamatta punnita omaa suhdettaan heihin.</p>
+                  <p rend="justify">Laineitten ilakoivan ja hivelevän soiton katkaisi äkkiä kalalokkien petomaisen ilkamoiva rohkean voitokas kirkuna. Kuumuus oli nyt siedettävämpi ja majaan puhalsi tuon tuostakin viileä tuulenhenki raikkaalta mereltä.</p>
+                  <lg>
+                     <l>Syötyään maukkaan kalakeiton ja nautittuaan muutaman ryypyn, rupesivat</l>
+                     <l>Jakowin silmät painumaan kiinni. Hän naureskeli vallan mielettömästi,</l>
+                     <l>nikotti, haukotteli ja katsoi Malvaan lakkaamatta; tämän johdosta</l>
+                     <l>Vasili katsoi olevansa oikeutettu huomauttamaan:</l>
+                  </lg>
+                  <p rend="justify">"Rupea tähän makuulle, kunnes tee joutuu… me kyllä sinut herätämme…"</p>
+                  <p rend="justify">"Sehän käy päinsä vallan hyvin…", myönsi Jakow ja heittäytyi pitkäkseen tyhjille säkeille. "Entä te… minne te menette? Ha-ha!"</p>
+                  <p rend="justify">Vasili hämmästyi tuota naurua, poistui nopeasti majasta, kun taas Malva puolestaan puri huulensa yhteen, rypisti silmäkulmiaan ja vastasi:</p>
+                  <lg>
+                     <l>"Se ei sinulle kuulu, minne me menemme! Mikä oletkaan olevinasi?</l>
+                     <l>Parraton poikanulikka… et mitään muuta!" ja hänkin poistui.</l>
+                  </lg>
+                  <p rend="justify">"Sekö olen? O-o-dotahan vain", huusi Jakow hänen jälkeensä. "Ha-ha-ha! Minä sinulle vielä näytän, minä! Katsos vaan! Luulet kaikitenki olevasi oikea… neitsykäinen!"</p>
+                  <p rend="justify">Vielä hän jotain mutisi itsekseen, vaan nukahti sitten tyytyväisyyden ilme juopumuksesta hehkuvilla poskillaan.</p>
+                  <p rend="justify">Vasili pisti kolme seivästä hiekkaan, sitoi yhteen niitten yläpäät ja viskasi sitten vaatteen näiden yli. Tällä yksinkertaisella tavalla hankittuaan itselleen varjopaikan, ojentautui hän pitkäkseen käsivarret pään alla katsellen taivasta. Kun Malva tuli ja istuutui hiekalle hänen viereensä, käänsi hän kasvonsa tyttöön päin, jotta tämä huomaisi katkeran ja tyytymättömän ilmeen niissä.</p>
+                  <p rend="justify">"No, isäukko", sanoi Malva nauraen. "Etkö iloitse poikasi tulosta?"</p>
+                  <p rend="justify">"Hän nauraa suorastaan minulle… Ja tiedätkö miksi? Sinun tähtesi", virkkoi Vasili synkkänä.</p>
+                  <p rend="justify">"Soo-o? Minunko tähteni", toisti Malva muka ihmetellen.</p>
+                  <p rend="justify">"Niin juuri! Miksi sitten…"</p>
+                  <p rend="justify">"Voi sinua raukkaa! Miten silloin käynee? Enkö enää tulekaan luoksesi, mitä? No, silloinhan voin yhtä hyvin olla tulematta…"</p>
+                  <p rend="justify">"Mikä velho oletkaan", sanoi Vasili moittien. "Miten käyttäydyttekään, te molemmat nuoret! Hän nauraa ja sinä naurat myöskin… ja kumpainenkin olette kuitenkin maailmassa minua lähinnä. Ja mille te oikeastaan nauratte? Pahus vieköön!" — Hän kääntyi tytöstä poispäin ja vaikeni.</p>
+                  <p rend="justify">Malva istui kädet ristissä polvien yli hiljaa keinutellen ruumistaan. Lakkaamatta katsoi hän kimmeltävää merta vihreillä silmillään voitokkaana hymyillen kauneutensa voimasta tietoisten naisten tapaan.</p>
+                  <p rend="justify">Purjevene kiiti yli meren suuren harmaasiipisen linnun tavoin. Se tuli etäiseltä rannalta ja pyrki kauas, missä taivas ja maa sulautuivat yhteen tummansiniseen äärettömyyteen, houkutellen puoleensa juhlallisella äänettömyydellään.</p>
+                  <p rend="justify">"Miksi olet niin vaitelias", kysyi Vasili.</p>
+                  <p rend="justify">"Minä mietin", sanoi Malva.</p>
+                  <p rend="justify">"Mitä?"</p>
+                  <p rend="justify">"Oi, eipä juuri mitään…", hän liikutti silmäluomiaan ja jatkoi hetkisen jälkeen: "poikasi on kaunis."</p>
+                  <p rend="justify">"Mitä sinä hänestä tahdot", virkkoi Vasili mustasukkainen sävy äänessään.</p>
+                  <p rend="justify">"Se on minun asiani…"</p>
+                  <p rend="justify">"Kuulehan… varo itseäsi!" Hän loi tyttöön epäluuloisen, ankaran katseen. "Älä suunnittele minkäänlaisia tyhmyyksiä! Olen tosin kyllä tyyni, vaan älä minua ärsytä… kuuletko?"</p>
+                  <p rend="justify">Vasili puri yhteen hampaansa, puristi kätensä nyrkkiin ja jatkoi:</p>
+                  <p rend="justify">"Jo tänään tänne tullessasi huomasin sinulla olevan jotain pahaa mielessä. Tosin en vielä tiedä aikeitasi, mutta kyllä niistä saan selvän ja silloin on parasta että olet varuillasi! Sinun hymysi ei ole sama kuin ennen, ja sitten on vielä muutakin… Kyllä ymmärrän sinunlaisiakin ihmisiä, jos niikseen tulee…"</p>
+                  <p rend="justify">"Älä uhkaile, Vasja…", pyyteli hän välinpitämättömänä edes katsomatta mieheen.</p>
+                  <p rend="justify">"Siis älä edes yritäkään…"</p>
+                  <p rend="justify">"Vaan älä peloita!"</p>
+                  <p rend="justify">"Ruoskin sinut ruskeaksi ja siniseksi, ellet vaan pysy aisoissasi…", uhkasi suuttunut Vasili.</p>
+                  <p rend="justify">"Aijotko minua lyödä", kysyi uteliaana Malva kääntyen miehen puoleen.</p>
+                  <p rend="justify">"Niin, oletko sinä kenties joku kreivitär? Totta totisesti kuritan sinua…"</p>
+                  <p rend="justify">"Luulet kai minua vaimoksesi", kysyi Malva tyyneesti, ja odottamatta vastausta jatkoi: "Olet tottunut syyttä pieksämään vaimoasi, milloin on vain itseäsi huvittanut ja nyt luulet tekeväsi samoin minulle? Mutta ei! Minä olen vapaa. Olen oma herrani, enkä ketään pelkää. Mutta sinä sensijaan pelkäät omaa poikaasi: mitenkäs jo tänne tullessamme kääntelit ja vääntelit itseäsi hänen edessään! Kerrassaan häpeällistä! Ja sitten vielä uhkailet minua!"</p>
+                  <p rend="justify">Malva nakkasi halveksivasti niskojaan ja vaikeni. Hänen kylmät, ärtyisät sanansa yhä enemmän suututtivat Vasilia. Mutta toiselta puolen ei Malva milloinkaan ollut niin kaunis kuin juuri nyt ja vihan vimmassakin Vasili katsoi häneen ihastuksella.</p>
+                  <p rend="justify">"Kas vaan, kuinka oletkin ollaksesi…", sanoi hän.</p>
+                  <p rend="justify">"Sanon sinulle vieläkin yhden asian. Serjoschkalle olet kehunut, etten voi elää sinutta, yhtä vähän kuin leivättä tulen toimeen. Mutta siinäpä isket harhaan… Kenties en sinua rakasta ollenkaan enkä sinun tähtesi tänne tule… jos rakastankin vain tätä ihanaa paikkaa…", hänen kätensä piirti laajan ympyrän. "Ehkä pidänkin vain tästä autiosta tyhjyydestä… merestä ja taivaasta, ja siitä, että täällä tuntee olevansa kaukana pahoista ihmisistä. Minulle on yhdentekevää, oletko sinä edes täällä. Sinulle osoittama hellyyteni on vain korvauksena täällä olostani… Olisipa Serjoschka täällä, niin hänen luokseen tulisin; samoin tekisin jos olisi täällä oma poikasi. Parasta, ettei täällä olisi ketään, te olette minulle kaikki samantekeviä. Jospa vain tahdon, saan kyllä kauneudellani haluamani miehen… sinua paljoa paremman…"</p>
+                  <p rend="justify">"Vai niin, onko asia sillä kannalla", sähisi Vasili, raivoissaan tarttuen tyttöä kurkkuun. "Onko asia sillä kannalla?"</p>
+                  <p rend="justify">Vasili rutisti pahasti tyttöä, joka ei puolustautunut, vaikkakin kasvot punottivat ja silmiä veresti. Malva vain asetti molemmat kätensä Vasilin kurkkua kuristaville käsille ja katsoi miestä lakkaamatta silmiin.</p>
+                  <p rend="justify">"Vai niin, tuollaistako kannat sisimmässäsi", huusi hän yhä raivostuen. "Etkö ole mitään sanonut, senkin rutka… Olet minua vain syleillyt… suudellut… Minä kyllä sinut opetan!"</p>
+                  <p rend="justify">Hän painoi tytön maata vasten ja voimakkaalla kädellään löi hän kerran, löi toisenkin iskun niskaan. Hän suorastaan nautti, kun kätensä sattui tytön täyteläiseen, pyöreään kaulaan.</p>
+                  <p rend="justify">"Kas niin! Mitä on sinulla sanottavaa, senkin kyykäärme", kysyi hän, voitonriemuisena viskaten tytön luotaan.</p>
+                  <p rend="justify">Malva kaatui selälleen hiljaisena ja tyyneenä päästämättä ainoatakaan huokausta ja hän oli vieläkin yhtä kaunis, vaikka kasvot olivat käyneet punottaviksi. Tyttö katseli silmäkulmiensa alitse ja hänen vihreissä silmissään hehkui viha. Vaan Vasili ei tätä huomannut, ja kun hän hengästyneenä ja tyytyväisenä vihansa purkautumisesta voitonvarmana kääntyi Malvan puoleen, hymyili hän.</p>
+                  <p rend="justify">Ensin Malvan täyteläiset huulet omituisesti värisivät, sitten kiiluivat silmät, posket tulivat kuopalle ja hän ratkesi nauruun. Vasili katsoi hämmästyneenä, mutta tyttö yhä nauroi äänekkäästi ja tyytyväisenä kuin ei olisi häntä ollenkaan lyöty.</p>
+                  <p rend="justify">"Itse paholainenko sinua riivaa", huusi hän pelokkaana tuimasti tarttuen tytön käteen.</p>
+                  <p rend="justify">"Vaska… Oletko minua lyönyt", kysyi hän kuiskaten.</p>
+                  <p rend="justify">"Olenpa tietenkin, kuka muuten?"</p>
+                  <p rend="justify">Hän katsoi tyttöön ymmärtämättä suorastaan mitään eikä tiennyt, mitä tehdä. Löisikö hän vielä kerran? Mutta hänen vihansa oli jo talttunut eikä hän siksi enää voinut kohottaa kättään tyttöä lyödäkseen.</p>
+                  <lg>
+                     <l>"Rakastatko minua", kysyi Malva uudelleen ja hänen kuiskiva äänensä sai</l>
+                     <l>Vasilin veren kuohumaan.</l>
+                  </lg>
+                  <p rend="justify">"Kas niin… nyt riittää jo tällä kertaa", sanoi hän äreänä. "Enemmän olisit vielä sietänyt!"</p>
+                  <p rend="justify">"Vaska! Ja minä kun luulin, ettet minua enää rakastaisi; ajattelin… nyt on hän saanut poikansa luokseen, nyt on minun poistuttava tämän tieltä…"</p>
+                  <p rend="justify">Ja Malva yhä nauroi tuota avomielistä nauruaan.</p>
+                  <p rend="justify">"Hupakko", sanoi Vasili hymyillen vasten tahtoaan. "Poikani… onko hänellä oikeus lukea minulle lakia?"</p>
+                  <p rend="justify">Vasili häpesi tyttöä ja tunsi sääliä häntä kohtaan, mutta samalla muisti hän tytön sanat ja sanoi vihaisena:</p>
+                  <p rend="justify">"Pojallani ei ole mitään sanomista tähän asiaan… Ja lyönneistä saat syyttää itseäsi, miksi minua kiusasit?"</p>
+                  <p rend="justify">"Tein sen tahallani, koska tahdoin sinua koetella": ja hellästi hymyillen koetti hän lähennellä Vasilia.</p>
+                  <p rend="justify">Salaa katsellen majaa kohti syleili hän Malvaa.</p>
+                  <p rend="justify">"Koetella, niin! Mitäpä koettelemista tässä on? Tuon siitä sitten sait."</p>
+                  <p rend="justify">"Ei haittaa", sanoi Malva tyyneesti puoleksi sulkien silmänsä. "En ole suuttunut! Rakkaudestahan minua löit! Ja minä sen kyllä sinulle palkitsen…"</p>
+                  <p rend="justify">Hän tarkkaili Vasilia, ojentautui ja toisti matalalla äänellä:</p>
+                  <p rend="justify">"Oh, minä kyllä sen sinulle palkitsen!"</p>
+                  <p rend="justify">Vasili luuli tämän lauseen sisältävän jonkun viehättävän lupauksen ja kysyi siksi tyytyväisyydestä hymyillen:</p>
+                  <p rend="justify">"Miten sen palkitset?"</p>
+                  <p rend="justify">"Sen saat nähdä", sanoi Malva rauhallisesti. Hän sanoi sanottavansa näennäisen tyyneesti, mutta huulensa värähtelivät.</p>
+                  <p rend="justify">"Oi rakkaani", virkkoi Vasili, puristaen lujasti tyttöä rintaansa vasten. "Tiedätkö, tuon kohtauksen jälkeen olet käynyt minulle vielä rakkaammaksi! Niin todellakin! Olet tullut minua lähemmäksi… tai miten sanoisinkaan?"</p>
+                  <p rend="justify">Kalalokit lensivät heidän ylitseen. Hyväilevät tuulahdukset heittivät aallot kauas rannalle miltei heidän jaloilleen, ja meren loppumaton hymy vaikutti tyynnyttävästi mieliin.</p>
+                  <p rend="justify">"Niin, tämä on omituista", sanoi Vasili hengittäen syvään, ja ajatuksissaan hyväillen luokseen hiipivää tyttöä. "Ja miten ihmeellisen taitavasti onkaan kaikki täällä maailmassa järjestetty — mikä on syntiä, se on ihanaa. Sinä et tuollaista lainkaan ymmärrä… mutta kun joskus ajattelen elämää, tulen oikein ikävälle tuulelle. Varsinkin unettomina öinä. Edessään näkee meren, yllään taivaan ja yltympäri on kaikki pimeätä ja synkkää… ja minä olen täällä ypöyksin. Silloin tunnen itseni mitättömän pieneksi, tunnen kuin maa vajoaisi jalkojeni alla, eikä olisi ketään täällä paitsi minä. Jos edes sinä olisit silloin täällä, olisi meitä toki kaksi…"</p>
+                  <p rend="justify">Malva lepäsi suljetuin silmin hänen polvillaan ja vaikeni. Vasilin karkeat ja ahavoittuneet kasvot kumartuivat hänen ylitseen, ja suuri, auringon paahtama parta kosketteli tytön kaulaa. Malva ei edes liikahtanut, vain povi säännöllisesti nousi. Vasilin katse harhaili milloin merellä, milloin se taas unohtui katsomaan immen povea, mikä oli häntä tässä niin lähellä. Ja hän puhui, miten ikävää oli yksin elää ja miten tuskallisia olivat unettomat yöt synkkine ongelmoineen. Sitten suuteli hän tyttöä suulle hartaasti ja äänekkäästi kuin olisi hän syönyt kuumaa puuroa.</p>
+                  <p rend="justify">Täällä oleilivat he kolmisen tuntia, ja kun aurinko rupesi painumaan meren puoleen, sanoi Vasili tyytymättömänä:</p>
+                  <p rend="justify">"Nyt on minun mentävä teetä keittämään… Kai vieraammekin kohta herää."</p>
+                  <p rend="justify">Malva vetäytyi syrjään kuin laiska, auringossa makaava kissa, ja Vasili lähti vastahakoisena majalle. Tyttö kohotti velttona silmäluomiaan, ja katsellen miehen jälkeen huokasi hän kuin vapautuneena ylen raskaasta taakasta.</p>
+                  <p rend="justify">Vielä vierähti tunti ja niin istuivat kaikki kolme höyryävän teekattilan luona teetä juoden ja rupatellen.</p>
+                  <p rend="justify">Aurinko jo kultasi meren iltaruskon lumoaviin väreihin, ja viheriät aallot kimmelsivät purppurassa ja ruusunpunaisina. Teetä juodessaan valkeasta savimaljasta kyseli Vasili pojaltaan kylän kuulumisia, samalla kertoen omia muistelmiaan. Malva kuunteli heidän varovaista keskusteluaan ottamatta lainkaan siihen osaa.</p>
+                  <p rend="justify">"Miten he oikeastaan kotona voivat?"</p>
+                  <p rend="justify">"Oh, eihän siellä ainakaan liikoja herkutella…", vastasi Jakow.</p>
+                  <p rend="justify">"Me talonpojat emme saakaan olla niin ylen vaativia. Pieni tupapahanen ja riittävästi leipää… ja sitten juhlapäivinä ryyppy. Siinä kaikki. Vaan ei edes sitäkään ole meillä. Olisinko minä lähtenyt tänne, jos talossa olisi ollut tarpeeksi ruokaa? Kotonahan on oma herransa… aivan toisten veroinen… vaan täällä olen toisen renkinä."</p>
+                  <p rend="justify">"Vaan sensijaan saa täällä syödä tarpeekseen, ja työkin on kevyempää."</p>
+                  <p rend="justify">"No, eipähän sitä juuri saata sanoa! Toisinaan sattuu saamaan säryn ruumiiseensa kuin aimo selkäsaunan jälkeen… ja sitten tehdään täällä työ vieraalle, vaan kotona itselleen."</p>
+                  <p rend="justify">"Mutta täällä ansaitsee enemmän", sanoi Jakow tyyneesti.</p>
+                  <p rend="justify">Sisimmässään oli Vasili poikansa kanssa samaa mieltä, sillä maalla on elämä ja työ raskaampaa kuin täällä, siitä ei päässyt yli eikä ympäri. Mutta jostakin syystä ei hän tahtonut tätä pojalleen ilmaista. Siksi sanoi hän ankarasti:</p>
+                  <p rend="justify">"Oletko kenties laskenut, mitä täällä ansaitsee? Maalla veliseni…"</p>
+                  <p rend="justify">"… on pimeätä ja ahdasta kuin maakuopassa ikään", sanoi hymyillen Malva. "Erittäinkin naisten elämä siellä… ei muuta kuin kyyneleitä."</p>
+                  <p rend="justify">"Naisten elämä on kaikkialla yhtä kurjaa… ja maailma on kaikkialla kaltaisensa, samoinkuin aurinkokin", sanoi Vasili synkkänä katsellen Malvaa.</p>
+                  <p rend="justify">"Se ei ole totta", sanoi Malva vilkastuen. "Maalla on minun mentävä miehelään, jos sitten tahdon tai en. Ja naimisissa oleva nainen on ikipäiviksi orjatar, hänen täytyy rouhia heinät, kehrätä, hoitaa elukat ja synnyttää lapsia. Mitä on sellaisella naisella jälellä itsestään? Ei muuta kuin miehen lyönnit ja haukkumasanat…"</p>
+                  <p rend="justify">"Onhan sitä sentään muutakin", puuttui Vasili sanomaan.</p>
+                  <p rend="justify">"… ja täällä en kuulu kenellekään", jatkoi Malva välittämättä miehen puheesta. "Täällä olen vapaa kuin ilmassa lentävä kalalokki! Lennän kulloinkin minne vain haluan! Ei kukaan voi minua estää sitä tekemästä. Kukaan ei edes uskalla minuun koskea!"</p>
+                  <p rend="justify">"Mutta jospa sinuun sittenkin uskaltaa koskea", kysyi Vasili hymyillen kuin tahtoen jostain muistuttaa.</p>
+                  <p rend="justify">"No… silloin osaan sen kyllä kostaa", sanoi hän hiljaa, ja loisto sammui silmistä.</p>
+                  <p rend="justify">Vasili hymyili ylpeästi.</p>
+                  <p rend="justify">"Oi sinua… yksinkertainen olet kaikessa ylpeydessäsi! Tuo kaikki on vaan turhaa jaaritusta! Maalla on nainen ihminen, tarpeellinen elämässä… täällä on hän vain huvina…"</p>
+                  <lg>
+                     <l>Ja hetken kuluttua lisäsi hän: "Vietelläkseen syntiin…"</l>
+                     <l>Kun keskustelu oli päättynyt, sanoi Jakow huoaten:</l>
+                     <l>"On kuin olisi tämä meri ääretön."</l>
+                     <l>Kaikki katselivat ääneti vesierämaata edessään.</l>
+                  </lg>
+                  <p rend="justify">"Olisipa tämä kaikki maata", virkkoi Jakow, ja hänen kätensä piirsi laajan ympyrän, "ja vielä pelkkää mustaa multaa! Ja saisi sen sitten auralla kyntää!"</p>
+                  <p rend="justify">"Sehän jotain olisi", nauroi Vasili hyvätuulisena katsellen poikaansa, jonka posket punottivat tuosta voimakkaasti lausutusta toiveesta. Häntä miellytti poikansa sanoissa ilmennyt talonpojan isiltä peritty rakkaus omaan maatilkkaan ja hän ajatteli tämän rakkauden ehkä piankin vastustamattomasti voittavan Jakowin puolelleen pois vapaan kalastajaelämän viettelyksistä. Silloin hän jälleen jäisi yksin Malvan seuraan, ja elämä kulkisi vanhaa latuaan.</p>
+                  <p rend="justify">"Siinä olet oikeassa, Jakow! Noin on talonpojan ajateltava! juuri maa tekee talonpojan voimakkaaksi; siinä pysyessään hän elää; jos hän sen jättää, on hän mennyttä miestä. Talonpoika maata vailla on kun juureton puu — hän tosin kelpaa työhön, vaan ei sillä kauan elä; hän suorastaan mätänee. Eikä hän enää ole niin kaunis kun seisoessaan omassa metsässään; hän on oksaton, vailla kuorta, eikä hänestä juuri mihinkään ole! Kerrassaan mainiosti sanoit äsken, Jakow."</p>
+                  <p rend="justify">Meri otti auringon helmaansa tervehtien tulokasta leikkiväin laineitten ihanin sävelin, mikä sulautui sen viimeisiin kullassa kimmeltäviin säteihin. Tuo jumalainen, eloa ja valoa pulppuava lähde jätti nyt tällä loistavalla värikokoomuksellaan jäähyväisensä merelle herättääkseen välkkyvän aamuruskon ensi huomenellaan jonkun etäisyydessä uinuvan maan kaukana kolmesta ihmisolennosta, jotka tätä näkyä katseillaan seurasivat.</p>
+                  <p rend="justify">"On kuin sydän minussa sulaisi katsoessani auringonlaskua… kautta Jumalani… niin on todellakin asia", sanoi Vasili, kääntyen Malvan puoleen.</p>
+                  <p rend="justify">Tyttö vaikeni. Jakowin siniset silmät hymyilivät harhaillessaan meren laajalla lakeudella. Kaikki kolme katselivat kauan mietteissään sinne, minne päivän viimeiset säteet sulautuivat sammuen. Heidän edessään hehkuivat hiilet teekattilan alla. Heidän takanaan levitti jo yö varjonsa taivaalle. Keltainen hiekka tummeni, kalalokit olivat poissa — heidän ympärillään muuttui kaikki niin hiljaiseksi, vienon uneksivaksi. Eivätkä nuo hiekkarantaa huuhtovat laineetkaan enää olleet niin vilkkaat ja eloisat kuin sydänpäivällä.</p>
+                  <p rend="justify">"Miksi tässä enää istun", sanoi Malva. "Minun on lähdettävä."</p>
+                  <p rend="justify">Vasili hätkähti ja katsoi poikaansa.</p>
+                  <p rend="justify">"Mihin sinulla on niin kiirettä", mutisi hän tyytymättömänä. "Odotahan, kohta nousee kuu."</p>
+                  <p rend="justify">"Miksi minä kuun nousua odottaisin? Enhän pelkää… eikähän ole ensimäinen kerta kun täältä keskiyöllä poistun!"</p>
+                  <p rend="justify">Jakow katsoi isäänsä ja sulki silmänsä salatakseen niissä leikkivän hymyn; sitten katsoi hän Malvaan ja kohtasi tytön katseen, mikä teki vastenmielisen vaikutuksen häneen.</p>
+                  <p rend="justify">"No, lähde sitten", sanoi Vasili tyytymättömänä.</p>
+                  <p rend="justify">Malva nousi, jätti hyvästi ja asteli verkkaan rantaa pitkin, missä laineet hyväili hänen jalkojaan kuin tahtoen leikkiä lyödä. Taivaalla kimmelsivät tähdet — taivaan kultakukat. Vasili ja hänen poikansa seurasivat katseillaan Malvan vaalean puseron katoamista hämärään.</p>
+                  <p rend="justify">"Ystävä parhain, lohtuni mun, käy luokseni, sylihis' sulje!"</p>
+                  <p rend="justify">lauloi Malva kovalla äänellä.</p>
+                  <p rend="justify">Vasilista tuntui kuin olisi tyttö pysähtynyt ja odottaisi jotain. Hän sylkäsi katkerana ja mietti:</p>
+                  <p rend="justify">"Tuon tekee hän tahallaan… vain minua kiusatakseen, tuo kirottu velho!"</p>
+                  <p rend="justify">"Kas vaan! Hän vielä laulaa", hymyili Jakow.</p>
+                  <p rend="justify">Heidän silmissään oli tyttö vain enää harmaa pilkku pimeydessä.</p>
+                  <p rend="justify">"Sua mun mieleni yhä kaipaa, tunne, kuin rajuna syömmein lyö!"</p>
+                  <p rend="justify">kaikui Malvan ääni meren yli.</p>
+                  <p rend="justify">"Ei… mutta kuulkaahan toki", virkkoi Jakow, koko ruumiillaan kumartuen sinnepäin, "mistä nuo kiehtovat sanat kuuluivat?"</p>
+                  <p rend="justify">"Et siis ole kyennyt tyydyttävästi järjestämään maataloutta siellä kotona", kuului Vasilin matala, äreä ääni. Jakow katsoi hämmästyneenä isäänsä vaipuen sitten entiseen asentoonsa.</p>
+                  <lg>
+                     <l>Etäällä aaltojen takaa kuului heidän korviinsa katkonaisia sanoja</l>
+                     <l>Malvan kutsuvasta laulusta:</l>
+                  </lg>
+                  <lg>
+                     <l>    "Oi rakasta … aarteeni kallis,</l>
+                     <l>    … yksin … tummassa yössä!"</l>
+                  </lg>
+                  <p rend="justify">"Miten täällä on tukahduttavaa", virkkoi Vasili levottomana viskautuen edestakaisin hiekalla. "Nyt on jo yö, ja kuitenkin on helle yhtä polttava! Kirottu paikka tämä."</p>
+                  <p rend="justify">"Hiekka sen vaikuttaa — se näet päivällä kuumenee", sanoi Jakow kääntyen poispäin ja vaikeni.</p>
+                  <p rend="justify">"Mikä sinun on? Nauratko?" Isän ääni oli äreä.</p>
+                  <p rend="justify">"Minäkö", vastasi Jakow viattomana. "Millekä nauraisin?"</p>
+                  <p rend="justify">"Niin, ei minustakaan ole tässä minkäänlaista naurun syytä."</p>
+                  <p rend="justify">Ja niin vaikenivat molemmat.</p>
+                  <p rend="justify">Aaltojen loiskeen lomassa kuului yhä hiljainen, huokaava, hyväilevän kutsuva sävel.</p>
+                  <p rend="justify">2.</p>
+                  <p rend="justify">Kaksi viikkoa oli kulunut ja taas oli sunnuntai. Vasili Legostew makasi jälleen rantahiekalla majansa vieressä ja katseli merelle odottaen Malvaa. Autio meri hymyili leikkien sen pintaan kuvastuvan auringon kera ja tuhansia laineita syntyi, vyöryen rannalla peittäen sen valkealla vaahdollaan taas uudelleen sulautuen meren helmaan. Kaikki oli ennallaan kuin neljätoista päivää sitten. Ainoa ero siinä, että Vasili nyt rauhattomana odotti rakastajatartaan. Viime sunnuntaina ei hän lainkaan saapunut, mutta tänään oli hän varmastikin tuleva. Eikä hän Malvan tuloa oikeastaan epäillytkään, kunhan vain mahdollisimman pian saisi tytön näkyviinsä. Jakow ei heitä tällä kertaa häiritsisi — kaksi päivää sitten oli hän muitten työläisten seurassa käynyt nuottaa vetämässä ja silloin sanonut sunnuntaiaamuna lähtevänsä kaupunkiin liinapaitojen ostoon. Hän oli saanut työtä kalastamoissa viidentoista ruplan kuukausipalkalla, ollut jo muutaman kerran ulkona kalassakin ja näytti nyt reippaalta ja iloiselta. Toisten tavoin tuoksui Jakowkin suolakalalle ollen yhtä likainen ja ryysyinen kuin toverinsakin. Vasili huokasi syvään ajatellessaan poikaansa.</p>
+                  <p rend="justify">"Jospa hän vain jäisi sellaiseksi kuin on… mutta, hän kyllä turmeltuu toisten kaltaiseksi ja silloin hän ei ehkä enää haluakaan kotiin… Silloin on minun lähdettävä sinne."</p>
+                  <p rend="justify">Paitsi kalalokkeja ei merellä näkynyt mitään muuta. Missä hiekkainen rantasärkkä erotti meren taivaasta, liikkui kylläkin pieniä, mustia pisteitä edestakaisin, mutta mitään venettä ei näkynyt tulevaksi, vaikkakin jo oli keskipäivä ja auringonsäteet miltei kohtisuoraan pistivät mereen. Tähän aikaan oli Malva jo tavallisesti ollut perillä.</p>
+                  <p rend="justify">Kaksi lokkia tappeli keskenään ilmassa niin että höyhenet pyörähteli ympärillä. Niitten vihlovan raivokas kirkuna särkee armotta laineitten ilakoivan laulun, mikä sointuu loistavan taivaan juhlalliseen hiljaisuuteen ja auringonsäteitten karkeloon meren pinnalla. Lokit putoavat ilmasta mereen yhä tapellen ja kirkuvat tuskasta ja raivosta, minkä jälkeen taas kohoutuvat ilmaan hurjina toisiaan ajaen… Eivätkä näiden lukuisat toverit lainkaan ole huomaavinaan tätä katkeraa taistelua, ne vain ahneesti iskevät kaloja viheriässä, kuultavassa vedessä.</p>
+                  <p rend="justify">Vasili katsoo lintuja tullen surumieliseksi. Miksi tappelevat ne? Eikö ole meressä kaloja tarpeeksi? Näin tärvelevät ihmisetkin elämän toisiltaan. Jos valitset itsellesi maapalasen, yrittää toinen sen heti riistää — miksi? Onhan maailmassa toki toisia paloja — miksi siis riistää toiselta hänen jo omistamansa? Toisinaan syttyy rämä kateellinen kamppailu naisen tähden — yhdellä on vaimo, minkä toinen häneltä ottaa suostutellen puolelleen. Miksi — eikö siis ole maailmassa riittämään asti joutilaita naisia, kenellekään kuulumattomia? Kaikki tällainen on perin typerää ja aikaansaa sekaannusta.</p>
+                  <p rend="justify">Meri jäi yhä tyhjäksi ja autioksi. Tuota tutunomaista mustaa pistettä tuolla etäisellä rannalla ei näkynytkään.</p>
+                  <p rend="justify">"Hän ei tule", sanoi Vasili ääneen. "No, samantekevä! Mitä viitsinkään kuvitella?"</p>
+                  <p rend="justify">Ja hän sylkäsi halveksivasti rantaan päin.. Meri hymyi.</p>
+                  <p rend="justify">Vasili nousi mennen majaan keittääkseen itselleen päivällisen, mutta silloin juolahtikin hänen mieleensä ettei hänen ollutkaan nälkä ja niin tuli hän entiselle paikalleen ruveten siihen pitkäkseen. "Tulisipa edes Serjoschka tänne", ajatteli hän ja rupesi tuumimaan tätä. "Hän on tosin sellainen myrkkysieni. Hän pilkkaa kaikkia ihmisiä antaen heidän maistaa kouriensa kovuutta. Reipas ja voimakas on hän, osaa lukea ja kirjoittaa, on sitäpaitsi ollut monessa eri paikassa — mutta juo aivan hurjasti. Hänen seurassaan on hupaista. Naisväki on häneen kerrassaan hullaantunut ja vaikkakaan ei hän täällä ole pitkää aikaa ollut, juoksevat he kaikki hänen perässään. Kaikki, lukuunottamatta Malvaa — hän pysytteleikse etäällä miehestä. Hän vaan ei tule, tuo kirottu tyttö! Ehkä on hän suutuksissaan tuosta selkäsaunasta? Mutta oliko siinä jotain uutta tytölle? Eiväthän toiset vaan lie pistäneet sormiaan peliin! Ja oppiahan tyttö tarvitsi…"</p>
+                  <p rend="justify">Vasili ajatteli vuoroin poikaansa, vuoroin taas Serjoschkaa, vaan eniten kuitenkin Malvaa ja kääntyi odottaen yhä. Hänen levoton mielialansa muuttui huomaamatta salaiseksi epäluuloksi, jota hän ei kuitenkaan millään tahtonut tunnustaa edes omalle itselleen. Niin teki hän iltamyöhään: toisinaan hän nousi kävellen edestakaisin rannalla, toisinaan hän taas rupesi pitkäkseen hiekalle. Meri rupesi jo pimenemään, mutta hän yhä katsoi kauas etäisyyteen ja odotti veneen näkymistä.</p>
+                  <p rend="justify">Mutta Malva ei sinä päivänä tullut.</p>
+                  <p rend="justify">Mennessään levolle Vasili epätoivoissaan kirosi tämän toimensa, mikä hänet esti lähtemästä tuonne rannalle, ja ennen nukahtamistaan hypähti hän usein jaloilleen — puoliunessa kuuli hän etäiset aironlyönnit. Silloin hän käsillään varjosti silmiään katsoen yli pimeän meren. Rannalla kalastamojen luona paloi kyllä kahdetkin valkeat, mutta merellä ei vaan ketään näkynyt.</p>
+                  <p rend="justify">"Odotahan vain, senkin kirottu velho", uhkaili Vasili — ja vaipui raskaaseen uneen.</p>
+                  <p rend="justify">Rannalla oli sillävälin sattunut seuraavat tapahtumat.</p>
+                  <p rend="justify">Jakow nousi varhain aamulla, ennenkuin aurinko vielä kuumana poltti ja kun vielä mereltä tuulahti raikkaasti. Hän meni asuntolasta meren rannalle peseytymään ja tultuaan sinne huomasi hän Malvan. Tyttö istui rannassa olevan suuren veneen peräpuolessa paljaat jalat riippuen laidan yli ja suori märkiä hiuksiaan.</p>
+                  <p rend="justify">Jakow pysähtyi katselemaan häntä uteliain katsein.</p>
+                  <p rend="justify">Pusero oli avattu rinnuksista, ja oli solunut alas toiselta olalta, mikä loisti niin valkeana että siihen suorastaan teki mieli hampaillaan purra. Laineet keinuttelivat venettä, ja Malva nousi vuoroin korkealle yli merenpinnan, vuoroin vaipui hän taas niin syvään, että paljaat jalat miltei vettä tapailivat.</p>
+                  <p rend="justify">"Oletko kylpenyt", huusi Jakow tytölle.</p>
+                  <p rend="justify">Malva kääntyi päin, vilkaisi jalkojaan ja ruveten jälleen suorimaan tukkaansa vastasi hän:</p>
+                  <p rend="justify">"Olen kuin olenkin kylpenyt… Miksi niin varhain olet jalkeilla?"</p>
+                  <p rend="justify">"Varhaisempihan sinä olet."</p>
+                  <p rend="justify">"Olenko minä esikuvasi?"</p>
+                  <p rend="justify">Jakow vaikeni.</p>
+                  <p rend="justify">"Jos minun laillani tahdot elää, on sinun vaikeata pysytellä pystyssä", sanoi hän.</p>
+                  <p rend="justify">"Soo-o? Vallanhan säikähdytät minut", hymyili Jakow kumartuen rannalle peseytymään.</p>
+                  <p rend="justify">Hän otti vettä kouraansa ja virutteli kasvojaan ähkien ja puhkuen, sillä sen kylmyys kirveli. Sitten kuivasi hän itsensä paitansa helmalla ja kysyi Malvalta:</p>
+                  <p rend="justify">"Miksi minua aina tahdot pelottaa?"</p>
+                  <p rend="justify">"Ja miksi sinä aina mulkoilet minuun?"</p>
+                  <p rend="justify">Jakow ei oikeastaan ollut varma siitä, oliko hän katsellut Malvaa enemmän kuin toisiakaan kalastamon tyttöjä, vaan yhtäkaikki sanoi hän.</p>
+                  <p rend="justify">"Siksi kun olet niin soma, että tekisi mieleni syödä sinut!"</p>
+                  <p rend="justify">"Jos isäsi vain saa vihiäkään vehkeistäsi, niin kyllä saat kuulla kunniasi!"</p>
+                  <p rend="justify">Tyttö katsoi häntä silmiin omituisen kiehtovasti.</p>
+                  <p rend="justify">Jakow vain nauroi ja kapusi purteen. Hän ei oikeastaan käsittänyt Malvan sanojen tarkoitusta, mutta koska tyttö tuolla tavalla puhui, oli hän varmaankin liiaksi liehakoinut. Ja poika tunsi olevansa iloinen ja reipas tietämättä siihen syytä.</p>
+                  <lg>
+                     <l>"Mitäpä se isälle kuuluu", sanoi hän mennessään kannen yli tytön luo.</l>
+                     <l>"Onko hän kenties lunastanut sinut omakseen?"</l>
+                  </lg>
+                  <p rend="justify">Hän istuutui Malvan viereen lakkaamatta katsellen tämän valkeata olkaa, puolialastonta rintaa ja koko tuota merelle tuoksuvaa tervettä, voimakasta olentoa.</p>
+                  <p rend="justify">"Mikä valkea kala oletkaan", virkkoi hän haltioituneena tarkkaan tyttöä katseltuaan.</p>
+                  <p rend="justify">"En ainakaan sinulle mikään", selitteli Malva lyhyeen edes katsomatta puhuttelijaan ja järjestämättä pukuaan.</p>
+                  <p rend="justify">Jakow huokasi.</p>
+                  <p rend="justify">Heidän eteensä avautui ääretön meri aamuauringon loisteessa. Tuulen hellän hyväilyn synnyttämät pienet, vallattomat laineet läikkyivät hiljaa purren kupeeseen. Maakaistale kaukana merellä näytti vain ohuelta viirulta. Siellä kohoutui tanko heikkona viivana kohti taivaan sinistä taustaa, ja saattoi nähdä sen huipussa punaisen vaatteen tuulessa liehuvan.</p>
+                  <p rend="justify">"Niin poikaseni", sanoi Malva katsomatta Jakowiin, "soma olen kylläkin, vaan ei siitä sinulle ole iloa. Kukaan ei myöskään ole minua ostanut, eikä isälläsikään ole mitään valtaa ylitseni. Elän vain itselleni. Vaan minua älä liehakoi, en näet tahdo olla sinun ja Vasilin välillä… En halua rakentaa epäsopua enkä riitaa… ymmärrätkö?"</p>
+                  <p rend="justify">"Mitä olenkaan sitten tehnyt", kysyi Jakow kummastellen. "Enhän sinuun edes koske… istun vain tässä!"</p>
+                  <p rend="justify">"Et uskallakaan minuun koskea", sanoi Malva.</p>
+                  <p rend="justify">Hän sanoi tuon niin halveksivasti, että Jakow tunsi itseään loukatuksi sekä miehenä että ihmisenä. Vastustamaton taisteluhalu, miltei vihanvimma valtasi hänet ja silmät hehkuivat tulena.</p>
+                  <p rend="justify">"Niinkö! Enkö muka uskaltaisi", virkkoi hän siirtyen tyttöä lähemmäksi.</p>
+                  <p rend="justify">"Et… et vaan uskalla!"</p>
+                  <p rend="justify">"Soo-o? Jos sittenkin uskallan?"</p>
+                  <p rend="justify">"Koetahan vain!"</p>
+                  <p rend="justify">"Mitä siitä seuraa?"</p>
+                  <p rend="justify">"Silloin saat sellaisen korvatillikan, että keikahdat mereen."</p>
+                  <p rend="justify">"Lyöppäs vaan!"</p>
+                  <p rend="justify">"Koskehan vain minuun!"</p>
+                  <p rend="justify">Jakow katsoi tyttöön säihkyvin silmin, pistäen äkkiä käsivartensa hänen ympärilleen ja puristi lujasti rintaa ja selkää. Kosketus Malvan lämpöiseen, jänterään vartaloon tulistutti hänet yhä enemmän ja kurkussa tuntui jotain ahdistavaa.</p>
+                  <p rend="justify">"Kas niin! Nyt lyöt minua! Täytä uhkauksesi!"</p>
+                  <p rend="justify">"Päästä minut, Jaschka", sanoi Malva tyyneesti, yrittäen vapautua nuorukaisen tulisesta otteesta.</p>
+                  <p rend="justify">"Sinunhan oli määrä lyödä minua korvalle."</p>
+                  <p rend="justify">"Päästä minut. Muuten käy sinulle hullusti!"</p>
+                  <p rend="justify">"Et minua säikytä! Mesimarjani, sinä!"</p>
+                  <p rend="justify">Hän puristi tytön itseänsä vasten ja imeytyi paksuilla huulillaan tytön punottavaan poskeen.</p>
+                  <p rend="justify">Malva naurahti houkuttelevana, tarttui lujasti Jakowin käsiin ja kumartui voimakkaasti eteenpäin ruumiinsa koko painolla. Lujasti toisiinsa kiintyneinä putosivat molemmat mereen kadoten korkealle räiskyviin kuohuihin. Hetkisen kuluttua ilmestyi pinnalle Jakowin märkä pää kauhun ilme kasvoilla ja aivan hänen vieressään sukeltautui Malva esiin kalalokin lailla. Jakow huitoi epätoivoisena käsillään vedessä, kirkui ja ulisi, kun taas Malva ääneensä nauraen uiden kiersi hänet, pirskotellen vettä pojan kasvoille ja sukelsi veteen säästyäkseen pitkien käsivarsien otteesta.</p>
+                  <lg>
+                     <l>"Tuhat tulimmaista", huokui Jakow. "Minä uppoan. Jo riittää… Kautta</l>
+                     <l>Jumalan… minä hukun! Vesi on niin… suolaista!… Ah, sinä senkin…</l>
+                     <l>Minä uppoan, kuuletko!"</l>
+                  </lg>
+                  <p rend="justify">Malva jätti uhrinsa vihdoinkin rauhaan ja ui rantaan voimakkain liikkein. Siellä hän notkeana nousi purteen, asettui peräpuolelle, mistä nauraen katsoi purtta kohti hätäisesti uivaa Jakowia. Märät vaatteet sulautuivat tiiviisti ihoon kuvastaen ruumiin eri muodot polvesta ylös kaulaan ja Jakow, joka vihdoinkin oli päässyt purren luo ja piteli toisella kädellään kiinni sen laidasta, katsoi ahnein katsein tätä märkää, miltei alastonta naista tämän siinä avomielisesti nauraessa.</p>
+                  <p rend="justify">"No, yritähän kömpiä kuiville senkin valaskala", sanoi tyttö ruveten polvilleen ja ojentaessaan toisen kätensä Jakowille toisella kädellään pidellen kiinni purren laidasta.</p>
+                  <p rend="justify">Jakow tarttui Malvan ojennettuun käteen ja huusi mielissään:</p>
+                  <p rend="justify">"Odotahan niin saat nähdä! Minä sinut kylvetän, minä!"</p>
+                  <p rend="justify">Hän kiskoi tytön puoleensa seisten vedessä hartioihin saakka; laineet huuhtoivat yli pään murskautuen purren laitaan ja viskaten vesipisaroita Malvan kasvoille. Tyttö ummisti silmänsä ja nauroi, äkkiä hän huudahti, hypähti veteen, missä hän ruumiinsa painolla kaasi Jakowin kumoon.</p>
+                  <p rend="justify">Ja taas uudistui sama hurja leikki; kuin kaksi suurta kalaa he sukelsivat vihreässä vedessä ähkien ja puhkien ja pärskytellen vettä toistensa päälle.</p>
+                  <p rend="justify">Ylhäällä katseli aurinko heitä hymyillen ja kalastamon akkunatkin hymyilivät kuvastaessaan nauravan auringon ensi säteilyä. Laineet loiskien ilakoivat näkymättömän voiman nostattamina ja kalalokit lensivät kirkuen ilmaan heidän päänsä ylitse, pelästyneinä siitä melusta, minkä nämä kaksi ihmistä saivat aikaan.</p>
+                  <p rend="justify">Vihdoinkin nousivat he väsyneinä, hengästyneinä ja yskien kylmästä kylvystä asettuen rannalle auringonpaisteessa lepäämään.</p>
+                  <p rend="justify">"Hyi", sylkäsi Jakow hymyillen happamalla naamallaan. "Kuinka vastenmielistä onkaan tuo vesi! Sitävarten sitä onkin niin paljon maailmassa!"</p>
+                  <p rend="justify">"Maailmassa onkin aina paljon sellaista, mikä on kehnoa ja alhaista… esimerkiksi juuri poikia… niitä on täällä aivan yllinkyllin", nauroi Malva kiertäen vettä tukastaan.</p>
+                  <p rend="justify">Hänen tukkansa oli tumma ja tuuhea ja kähärä.</p>
+                  <p rend="justify">"Siksikö sinäkin olet omaksesi valinnut vanhuksen", nauroi Jakow pilkallisesti tuupaten tyttöä kyynärpäällään kylkeen.</p>
+                  <p rend="justify">"Vanhukset ovatkin usein nuoria paremmat."</p>
+                  <p rend="justify">"Vaan jos kerran vanhus on hyvä, täytyy pojan olla sitä parempi."</p>
+                  <p rend="justify">"Soo! Missä olet tuolla tavalla oppinut kehuskelemaan?"</p>
+                  <p rend="justify">"Kotikylän tytöt ovat usein sanoneet, etten ole lainkaan hullumpi miehenä."</p>
+                  <p rend="justify">"Eivät tytöt sellaista ymmärrä! Kysyisivät minulta."</p>
+                  <p rend="justify">"Etkö sinä sitten olekaan tyttö?"</p>
+                  <p rend="justify">Malva katsoi terävästi pilkallisesti hymyilevään nuorukaiseen. Tullen äkkiä totiseksi, sanoi hän suuttuneena:</p>
+                  <p rend="justify">"Olen näet kerran saanut lapsen."</p>
+                  <p rend="justify">"Eipä juuri mikään kiitettävä asianhaara", sanoi Jakow yhä nauraen.</p>
+                  <p rend="justify">"Tyhmä nauta", virkkoi tyttö suuttuneena kääntäen hänelle selkänsä.</p>
+                  <p rend="justify">Jakow hämmästyi tuota puhetta, ja puristaen huulensa yhteen hän vaikeni.</p>
+                  <p rend="justify">Miltei puolisen tuntia olivat molemmat ääneti; he vain kääntelivät itseään auringossa kuivattaen saatteitaan.</p>
+                  <p rend="justify">Kaukana asuntoloissa — noissa pitkissä likaisissa ladoissa kaltevine kattoineen — heräsivät jo työläiset. Näin etäältä — olihan välimatka noin puolitoista sataa syltä — olivat he kaikki toistensa kaltaisia, repaleisia, ryysyisiä ja avojalkaisia. Heidän käheä äänensä kuului rantaan saakka; joku siellä vasaralla koputteli tyhjän tynnörin pohjaa — se kuulosti rummunlyönniltä. Kaksi naista riiteli kimakalla, kirkuvalla äänellä, ja jossakin haukkui koira.</p>
+                  <p rend="justify">"Siellä jo herätään", sanoi Jakow. "Ja minä kun suunnittelin varhaista kaupunkiinlähtöä… nyt olen sinun seurassasi tuhlannut aikani."</p>
+                  <p rend="justify">"Minulta ei milloinkaan ole mitään hyvää odotettavissa", sanoi Malva puoliksi leikillä, puoliksi vakavana.</p>
+                  <p rend="justify">"Miksi minua aina tahdot peloitella", uteli Jakow ihmetyksen hymyily huulillaan.</p>
+                  <p rend="justify">"Saatpa itse kokea sen, kun isäsi sinut yllättää…"</p>
+                  <p rend="justify">Tuo isästä muistuttaminen Jakowia suututti.</p>
+                  <p rend="justify">"Isä? Entäpä sitten", sanoi hän raa'asti. "Mitä tekemistä on isällä siihen asiaan? En enää ole mikään lapsi. Mitäpä siis hänestä välitän? Enhän ole sokea… näen kyllä miten tässä maailmassa on elettävä. Eikä isä itsekään ole mikään pyhimys, hän näet ei kieltäydy mistään. Niin ollen ei ole paikallaan, että hän yrittää minultakaan kieltää…"</p>
+                  <p rend="justify">Malva katsoi nuorukaista halveksien, kysyen uteliaana:</p>
+                  <p rend="justify">"Mitä isäsi ei saa sinulta kieltää? Mitä aijotkaan tehdä?"</p>
+                  <p rend="justify">"Minäkö?" Hän pullisti poskensa ja kohotti rintansa kuin aikoen tehdä jonkun voimakokeen. "Minäkö? Minä voin tehdä paljonkin, minä! Raikas meri-ilma on näet yltäni tuulettanut kaiken ummehtuneen maalaispölyn."</p>
+                  <p rend="justify">"Sepä on käynyt nopeasti", huudahti Malva pilkallisesti.</p>
+                  <p rend="justify">"Niin on! Mitä sanoisitkaan, jos noin ykskaks sieppaisin sinut isältäni?"</p>
+                  <p rend="justify">"Ei, se ei liene mahdollista?"</p>
+                  <p rend="justify">"Luuletko kenties minun pelkäävän?"</p>
+                  <p rend="justify">"Mitä puhutkaan!"</p>
+                  <lg>
+                     <l>"Kuulehan, sinä", virkkoi Jakow tuskallisesti, "älä minua ärsytä!</l>
+                     <l>Minä… odotahan vain!"</l>
+                  </lg>
+                  <p rend="justify">"Mitä odottaisin", kysyi Malva tyynesti.</p>
+                  <p rend="justify">"Et mitään."</p>
+                  <p rend="justify">Jakow kääntyi poispäin tytöstä itsetietoinen ilme kasvoillaan.</p>
+                  <p rend="justify">"Sinä olet ylpeä itsestäsi. Oletko nähnyt katsastusmiehen mustaa koirapenikkaa? Se on aivan kaltaisesi. Sekin jo etäältä haukahtaa uhaten purra, mutta lähemmäksi tultuaan pistää se häntänsä koipien väliin ja juoksee tiehensä."</p>
+                  <p rend="justify">"No, hyvähän jos niin olisi", virkkoi Jakow katkeroituneena. "Odotahan vain! Vielä saat nähdä minkälainen olen, sen varmasti saat!"</p>
+                  <p rend="justify">Mutta Malva vain nauroi hänelle vasten kasvoja.</p>
+                  <p rend="justify">Verkkaan astuen ja ruumistaan kahden puolen heiluttaen lähestyi pitkähkö, laiha pronssivärinen mies päässään kokonainen metsikkö tuuheata tulipunaista tukkaa. Vyöttämätön, punainen pumpulipaita oli halennut selästä miltei ylös kaulaan asti, ja etteivät hihat putoaisi kokonaan pois, olivat ne käärityt olkaan saakka. Housut olivat erisuuruisten reikien mallinäytteenä ja jalat olivat paljaat. Rokonarpisissa kasvoissa loistivat suuret, siniset silmät rohkeina, ja leveä, litteä nenä antoi kasvoille huolettoman leiman. Tultuaan heidän luokseen hän pysähtyi, rykäisi äänekkäästi, katsoi kysyvästi heihin ja irvisteli hullunkurisesti.</p>
+                  <p rend="justify">"Eilen Serjoschka joi itsensä pieneen humalaan ja tänään on hänen taskunsa kun pohjaton pärevasu… Lainaa minulle kaksikymmentä kopekkaa… takaisin niitä en aiokkaan maksaa." Jakow nauroi iloisena miehen sukkeluudelle ja Malvakin naurahti katsoessaan tuota risaista olentoa.</p>
+                  <p rend="justify">"Annahan jo hemmetissä! Vihkaisen teidät kahdellakymmenellä kopekalla… haluatteko?"</p>
+                  <p rend="justify">"Ah, senkin veitikka! Oletko olevinasi pappi muka", nauroi Jakow.</p>
+                  <lg>
+                     <l>"Tyhmeliini! Olen palvellut portinvartijana eräässä pappilassa</l>
+                     <l>Uglitschin kuvernementissä… Anna tänne kaksikymmentä kopekkaa."</l>
+                  </lg>
+                  <p rend="justify">"En halua itseäni vihityttää", sanoi Jakow.</p>
+                  <p rend="justify">"Yhdentekevä; anna vain raha tähän käteen, niin olen kertomatta isällesi, että mielistelet hänen mielitiettyään", intti Serjoschka kielellään kastaen kuivia, halkinaisia huuliaan.</p>
+                  <p rend="justify">"Kieli vain huoleti, ei hän sinua kuitenkaan usko."</p>
+                  <lg>
+                     <l>"Valehtelen niin taitavasti, että hän sen todeksi uskoo", uhkasi</l>
+                     <l>Serjoschka, "ja silloin hän sinua kurittaa oikein isän kädellä!"</l>
+                  </lg>
+                  <p rend="justify">"En pelkää", sanoi Jakow hymyillen.</p>
+                  <p rend="justify">"No silloin tulen itse sinne pieksämään", selitteli Serjoschka sulkien silmänsä.</p>
+                  <p rend="justify">Jakow ei mielellään olisi halunnut tuhlata rahojaan, mutta toiselta puolen oli aina varoitettu kenenkään antautumasta riitaan Serjoschkan kanssa: oli näet aina viisainta täyttää hänen pikkuoikkujaan. Paljoa hän ei koskaan pyytänytkään, vaan ellei sitäkään saanut, muisti hän kyllä valmistaa jonkun ilkeän kepposen työmaalla, tai sitten saattoi odottaa saavansa selkäsaunan ilman pienintäkään syytä. Jakow muisteli kaikkea tätä, huokasi ja pisti kätensä taskuun.</p>
+                  <p rend="justify">"Kas niin, sepä oikein tehty", sanoi Serjoschka mielissään ruveten pitkäkseen hiekalle Jakowin viereen. "Kuuntele aina minua, niin tulet viisaaksi. Ja sinä", hän kääntyi Malvan puoleen, "joko piankin aiot ruveta aviovaimokseni? Jouduhan sinä… en kauan enää odota."</p>
+                  <p rend="justify">"Sinähän et omista muuta kuin ryysyjä… parsi ensin riekaleesi ennenkuin sellaisesta voidaan puhua", vastasi Malva.</p>
+                  <p rend="justify">Serjoschka katseli arvostelevasti risojaan ja puisti päätään.</p>
+                  <p rend="justify">"Lainaahan minulle siksi aikaa hameesi niin kyllä paikkailen."</p>
+                  <p rend="justify">"Kuulkaahan miehen puhetta", nauroi Malva.</p>
+                  <p rend="justify">"Totta puhuen, anna se minulle… onhan sinulla joku vanha siksi aikaa?"</p>
+                  <p rend="justify">"Osta mieluummin rahoillasi housupari itsellesi", neuvoi Malva.</p>
+                  <p rend="justify">"Ei, parempi on ryypätä rahat suuhunsa!"</p>
+                  <p rend="justify">"Pidätkö sen parempana", naurahti Jakow pidellen kädessään noita kahtakymmentä kopekkaa.</p>
+                  <p rend="justify">"Tietystikin! Pappikin sanoi minulle, ettei ihmisen tule murehtia ruumistaan vaan sieluaan. Ja minun sieluni himoitsee viinaa, eikä housuja. Tänne rahat! Kas niin, nyt saadaan ryyppy murheeseen… Ja isällesi kielin sittenkin."</p>
+                  <p rend="justify">"Kieli vain!" Jakow ojenteli välinpitämättömänä kättänsä, ja katseli merkitsevästi Malvaan kosketellen häntä olkaan.</p>
+                  <p rend="justify">Serjoschka tämän huomasi, sylkäsi pitkään luvaten edelleen:</p>
+                  <p rend="justify">"Enkä myöskään unohda sinua kurittaa. Kunhan vaan saan riittävästi aikaa valmistan sinulle kelpo selkäsaunan!"</p>
+                  <p rend="justify">"Mutta mistä syystä", kysyi Jakow levottomana.</p>
+                  <lg>
+                     <l>"Syyn tiedät kyllä… No, menemmekö piankin naimisiin", sanoi</l>
+                     <l>Serjoschka kääntyen Malvan puoleen.</l>
+                  </lg>
+                  <p rend="justify">"Kerrohan ensiksi mitä teemme ja mitä elämismahdollisuuksia meillä on, niin tuumin asiaa", vastasi tyttö vakavana.</p>
+                  <p rend="justify">Serjoschka siristi silmiään katsellen yli meren, kostutteli huuliaan kielellään ja sanoi:</p>
+                  <p rend="justify">"Emme tee suorastaan mitään… kierrämme vain maailmaa."</p>
+                  <p rend="justify">"Ja mistä saamme syötävää?"</p>
+                  <p rend="justify">"Kaikkea vielä…", Serjoschka kohautti olkapäitään, "sinä puhut samaan nuottiin kuin äitinikin. Miten ja mistä? Te naiset olette toki sietämättömät! Tiedänkö minä miten ja mistä? Nyt menen tästä ryypylle…"</p>
+                  <p rend="justify">Hän nousi ja meni: Malva hymyili oudon hellästi miehen jälkeen, mutta Jakowin silmissä paloi vihan liekki katseillaan seuratessaan poistuvan jälkiä.</p>
+                  <p rend="justify">"Kas vaan, miten hän komentelee", sanoi hän, kun Serjoschka oli ehtinyt kuulumattomiin. "Kotona kylässä tuollaisen suunsoittajan suu kyllä piankin tukittaisiin. Hänelle olisi annettu aimo selkäsauna ja niin olisi asia selvä. Mutta täällä ollaankin pelkureita…"</p>
+                  <p rend="justify">Malva katsoi häneen ja puhui hampaittensa välistä:</p>
+                  <p rend="justify">"Voi sinuas, penikka! Etkö käsitä, minkä arvoinen hän on?"</p>
+                  <p rend="justify">"Mitäpä käsittämätöntä tuossa! Tuollaisia suulaita miekkosia saa viidellä kopeekalla kokonaisen kantamuksen ja sellaisessa on niitä satakunta kappaletta!"</p>
+                  <p rend="justify">"Vai niin, sekö on mielestäsi hinta", virkkoi Malva pilkallisesti. "Ja hän… hän on ollut kaikkialla, kierrellyt koko maailmaa, eikä ketään pelkää."</p>
+                  <p rend="justify">"Ja ketä luulet minun sitten pelkäävän", kysyi Jakow rohkein mielin.</p>
+                  <p rend="justify">Malva ei vastannut, vaan seurasi miettivänä laineitten karkeloa, ne kun vyöryivät rantaan keinutellen raskasta purtta sinne-tänne. Masto viskautui puolelta toiselle ja peräpuoli vuoroin nousi ja laski synnyttäen kärsimättömän ja äreän loiskeen. Oli kuin tahtoisi pursi riistäytyä irti rannasta uidakseen vapaalle, laajalle ulapalle ja nyt suuttuneena riuhtoi sitä pidättävää köyttä.</p>
+                  <p rend="justify">"No, minkätähden et jo mene", kysyi Malva.</p>
+                  <p rend="justify">"Minne menisin", vastasi Jakow.</p>
+                  <p rend="justify">"Ajattelithan kaupunkiin lähtöä…"</p>
+                  <p rend="justify">"Sitä en enää ajattele."</p>
+                  <p rend="justify">"No, sitten lähdet isäsi luo."</p>
+                  <p rend="justify">"Entä sinä?"</p>
+                  <p rend="justify">"Minä?"</p>
+                  <p rend="justify">"Lähdetkö matkaan?"</p>
+                  <p rend="justify">"En…"</p>
+                  <p rend="justify">"Silloin en minäkään lähde."</p>
+                  <p rend="justify">"Aijotko koko pitkän päivän roikkua jälessäni", kysyi Malva tyyneesti.</p>
+                  <p rend="justify">"En lainkaan kaipaa sinun seuraasi…", vastasi Jakow loukkautuneena ja nousi mennäkseen. Mutta hän suuresti erehtyi sanoessaan ettei kaipaisi tyttöä. Hänen seurattaan oli nuorukaisella ikävä. Omituinen tunne hänessä heräsi tyttöä näin puhuteltuaan — salainen tyytymättömyys ja vastenmielisyys isää kohtaan. Vielä eilen ei hän sellaista tuntenut, eikä tänäänkään ennen Malvan tapaamista. Ja nyt tuntui kuin olisi isä hänen tiellään, vaikkakin tämä oli tuolla etäällä merellä, paljailla silmillä miltei näkymättömällä maakaistaleella… Hän luuli lisäksi huomaavansa Malvankin isää pelkäävän. Ellei tyttö olisi pelännyt… olisi hän kyllä onnistunut solmimaan lähempiä suhteita. Nyt kulki hän kaivaten tyttöä, vaikkakaan hän ei aamulla tätä edes ajatellutkaan.</p>
+                  <p rend="justify">Ja hän asteli rannalla kuin unessakävijä, katsoi veltosti vastaantulevia ja vaihtoi heidän kanssaan korkeintaan pari kolme jokapäiväisintä sanaa.</p>
+                  <p rend="justify">Erään asumuksen varjossa istuu Serjoschka eräällä tynnörillä nappaillen balalaikaa ja laulaa hoilotellen:</p>
+                  <p rend="justify">"Oi herra poliisi! Kilttejä jos kaikki olisi ei teitä tarvittaisi… Viekää minut talteen hyvään että mieleni rauhan saisi — etten lankeis ojaan syvään…"</p>
+                  <p rend="justify">Parisenkymmentä hänen kaltaistaan ryysyläistä seisoo ympärillä ja tuoksuvat — kuten kaikki täällä kalastamossa — kalalle ja suolalle. Neljä rumaa, likaista naista istuu hiekalla jonkun matkan päässä juoden teetä, minkä he kaatavat suuresta peltisestä astiasta. Ja tuossa on muuan näin varhain aamulla juopunut työmies: hän kierii hiekalla, yrittää nousta, mutta kaatuu taas. Jostakin kuuluu naisen itku ja valitus. Toisaalta kuuluu kuluneen hanurin rämisevä soitto… ja kaikkialla on kalansuomuja hiekassa.</p>
+                  <p rend="justify">Keskipäivän tienoilla etsi Jakow itselleen varjopaikan tyhjien tynnörien välissä, rupesi makuulle ja nukkui iltaan. Herättyään hän jälleen rupesi kulkemaan rannikolla ilman minkäänlaista päämäärää ja sydämessään kaihoten jotakin epämääräistä, tietämättä itsekään mitä…</p>
+                  <p rend="justify">Parisen tuntia näin kulettuaan kohtasi hän Malvan erään pajupensaikon siimeksessä etäällä kalastamosta. Tyttö makasi toisella kyljellään kädessään risanen kirja ja katsoi hymyillen tulijaa.</p>
+                  <p rend="justify">"Vai niin, täälläkö sinä olet", hän sanoi istuutuen Malvan viereen.</p>
+                  <p rend="justify">"Oletko jo kauankin minua etsinyt", kysyi tyttö voitonvarmana.</p>
+                  <p rend="justify">"Olenko sinua etsinyt", virkkoi Jakow samassa käsittäen asian todellakin niin olevan. Aamusta saakka oli hän tietämättään lakkaamatta etsinyt tyttöä. Mutta sittenkin puisti hän muka hämmästyneenä päätään.</p>
+                  <p rend="justify">"Osaatko lukea", kysyi Malva.</p>
+                  <p rend="justify">"Kyllähän juuri osaan, mutta huonoa se on… Olen näetkös kaikkityyni unohtanut."</p>
+                  <p rend="justify">"Minäkin luen huonosti… Koulussako olet taitosi oppinut?"</p>
+                  <p rend="justify">"Niin."</p>
+                  <p rend="justify">"Vaan minäpä olen itsekseni oppinut…"</p>
+                  <p rend="justify">"Todellako?"</p>
+                  <p rend="justify">"Niin… Olin keittäjättärenä eräällä asianajajalla Astrakanissa ja hänen poikansa opetti minut lukemaan."</p>
+                  <p rend="justify">"Mutta silloinhan et ominpäin olekaan opetellut…", tuumaili Jakow.</p>
+                  <p rend="justify">Malva katsoi häneen ja kysyi uudelleen:</p>
+                  <p rend="justify">"Miellyttävätkö sinua kirjat?"</p>
+                  <p rend="justify">"Minua? Eipä juuri… mitä hyötyä niistä on?"</p>
+                  <p rend="justify">"Minä niistä niin äärettömästi pidän… tämänkin kirjan olen itselleni kerjännyt katsastusmiehen vaimolta ja luen siinä…"</p>
+                  <p rend="justify">"Mistä siinä luetaan?"</p>
+                  <p rend="justify">"Alekseista… jumalanseuraajasta."</p>
+                  <p rend="justify">Malva kertoi haltioituneena miten tämä nuorukainen jätti rikkaat, ylhäiset vanhempansa hyljäten kaiken onnensa ja miten hän jälleen kotiin palattuaan köyhänä ja repaleisena eleli kuolemaansa saakka koirien parissa ilmaisematta itseään. Sitten hän kuiskaten kysyi Jakowilta:</p>
+                  <p rend="justify">"Miksi teki hän niin?"</p>
+                  <p rend="justify">"Kukapa sen tietää", vastasi Jakow välinpitämättömänä.</p>
+                  <p rend="justify">He istuivat hiekkasärkkien välissä, mitkä aallot ja tuuli oli rannalle kulettanut. Etäältä kalastamosta kuului hiljainen, epäselvä melu, ja aurinko meni mailleen kullaten hiekan purppurallaan. Miltei alastomat pajupensaan oksat liikahtivat tuskin huomattavasti vienossa iltatuulessa.</p>
+                  <p rend="justify">Malva vaikeni ja näytti kuuntelevan jotain.</p>
+                  <p rend="justify">"Miksi et tänään lähtenytkään tuonne kauas… hiekkasärkälle?"</p>
+                  <p rend="justify">"Mitäpä se sinulle kuuluu?"</p>
+                  <p rend="justify">Jakow taittoi pensaasta pajulehden ja rupesi pureksimaan sitä salaa katsellen tyttöä. Hän mietti miettimistään miten saisi sanottavansa sanotuksi.</p>
+                  <p rend="justify">"Kun olen yksin ja kaikki ympärilläni on hiljaista… silloin mielin itkeä… taikka laulaa. Mutta kauniita lauluja en osaa ja itkeä häpeän…"</p>
+                  <p rend="justify">Jakow kuunteli kyllä mielellään tuota hellää, sointuvaa ääntä, mutta sanojen sisältö oli hänestä yhdentekevää; hänen kaipuunsa sai vain kaikesta tästä varmemman muodon.</p>
+                  <p rend="justify">"Kuulehan sinä", alotteli Jakow tuskin kuuluvasti lähestyen tyttöä, mutta silti häneen katsomatta, "minulla on sinulle jotain sanottavaa… Olen nuori mies…"</p>
+                  <p rend="justify">"Ja sitäpaitsi tyhmä, voi miten tyhmä", virkkoi Malva vakuuttavasti puistaen päätään.</p>
+                  <lg>
+                     <l>"Olkoonpa niinkin, että olen tyhmä", sanoi Jakow oudolla hehkulla.</l>
+                     <l>"Mutta tarvitaanko tässä sitten ymmärrystä? No hyvä, minä olen tyhmä.</l>
+                     <l>Tahdoinkin vain kysyä sinulta… haluatko ruveta vaimokseni…"</l>
+                  </lg>
+                  <p rend="justify">"Älä lainkaan kysy… en kuitenkaan tahdo…"</p>
+                  <p rend="justify">"Ja mikset?"</p>
+                  <p rend="justify">"Koska kerran en tahdo!"</p>
+                  <p rend="justify">"Älä puhele tyhmyyksiä…", ja Jakow hyväili varovasti tytön avointa olkaa. "Ajattelehan toki asiaa…"</p>
+                  <p rend="justify">"Korjaa luusi täältä, Jaschka", sanoi Malva koettaen vapautua hänen otteestaan. — "Mene!"</p>
+                  <p rend="justify">Jakow nousi ja katsoi ympärilleen.</p>
+                  <p rend="justify">"No… jos niin on… minusta on se yhdentekevää! Täällä on kyllä toisia riittämään saakka tarjolla… Tai luulotteletko kenties olevasi toisia parempi?"</p>
+                  <p rend="justify">"Sinä olet vaivainen penikka", sanoi tyttö tyyneesti noustessaan ja puhdistaen hiekan vaatteistaan.</p>
+                  <p rend="justify">Ja he kulkivat yhdessä kalastamoon.</p>
+                  <p rend="justify">Matka kului hitaasti, koska jalat vajosivat hiekkaan. Jakow yritti joko hyvällä tai pahalla saada tyttöä suostumaan tuumiinsa ja sanoi pilkallisesti, ettei Malva ollut ainoa nainen kalastamossa eikä toisia naisia parempi. Malva hymyili kylmän tyyneesti ja osasi kyllä vastata samalla mitalla.</p>
+                  <p rend="justify">Kun he jo olivat ehtineet työläisasuntojen kohdalle, pysähtyi hän äkkiä ja tarttui tyttöä olkaan. "Tahallasi vain ärsyttelet minua! Miksi niin teet? Odotahan vain!"</p>
+                  <p rend="justify">"Anna minun olla rauhassa, sanon minä!"</p>
+                  <p rend="justify">Hän riistäytyi irti Jakowin otteesta ja kulki edelleen. Samassa tuli Serjoschka näkyviin asuntolan nurkan takaa ja sanoi uhkaavasti ravistaen takkuista, tulipunasta päätään:</p>
+                  <p rend="justify">"Vai niin, olette olleet ulkona kävelyllä? Vallan mainiota!"</p>
+                  <p rend="justify">"Menkää hiiteen kaikki järjestään", huusi Malva raivossaan.</p>
+                  <p rend="justify">Jakow pysähtyi Serjoschkan eteen ja katsoi tuimana häneen. Miehet seisoivat noin kymmenen askeleen päässä toisistaan. Serjoschkakin iski silmänsä vastustajaansa. Hetkisen siinä seisottuaan valmiina kahden villipedon tavoin iskemään yhteen, läksivät he vaieten kumpikin omalle taholleen.</p>
+                  <p rend="justify">Meri lepäili sileänä ja punertavana auringonlaskussa, yli kalastamon kuului outo, hiljainen hälinä… Muuan juopunut naisääni kuului laulavan muutamia katkonaisia sanoja:</p>
+                  <lg>
+                     <l>    "Tagarga, matagarga</l>
+                     <l>    Matanischka, ystäväin.</l>
+                     <l>    Olen juonut ja ryypiskellyt</l>
+                     <l>    ja katkeruus on mielessäin!"</l>
+                  </lg>
+                  <p rend="justify">Harmaan ikävänä kaikui tämä hoilotus kautta suolalta ja kalalta tuoksuvan kalastamon armotta särkien laineitten hyväilevän säveleen, mikä ilmassa häilyi.</p>
+                  <p rend="justify">3.</p>
+                  <p rend="justify">Aamuruskon hellässä hohteessa uinui rauhaisa meri kuvastaen ylhäällä helmeileviä pilviä. Hiekkasärkällä uneliaat kalastajat lastasivat kalastusvehkeitä purteen. Se kävi vanhaan tapaan, äänettömästi ja nopeasti. Harmaa nuotta kiskottiin miehissä hiekan yli purteen ja asetettiin sen pohjalle.</p>
+                  <p rend="justify">Tapansa mukaan puolialastonna ja päähineettä seisoi Serjoschka purren perällä ja kiirehti miehiä käheällä, juopuneella äänellään. Tuuli leikki rikkinäisen paidan liepeissä ja punertavissa hiustukoissa.</p>
+                  <p rend="justify">"Vasili! Missä ovat vihreät airot", joku huutaen kysyi. Vasili, synkkänä kuin syksyinen päivä, kokosi nuottaa asettaen sen purren pohjalle. Serjoschka katseli miehen kumartunutta selkää ja kasteli kielellään huuliaan janonsa lievikkeeksi.</p>
+                  <p rend="justify">"Onko sinulla viinaa", hän kysyi.</p>
+                  <p rend="justify">"On", vastasi Vasili lyhyeen.</p>
+                  <p rend="justify">"Silloin en lähdekään matkalle… jään rannalle kiskomaan maaköyttä."</p>
+                  <p rend="justify">"Valmista", kuului hiekkasärkältä.</p>
+                  <p rend="justify">"Päästäkää irti", komenteli Serjoschka noustessaan purresta rannalle. "Lähtekäähän vain matkaan… minä jään tänne. Katsokaa eteenne… lähtekää niin eräälle, ettei nuotta sotkeudu… Ja laskekaa se tasaisesti, ettei synny solmuja… Päästäkää irti!"</p>
+                  <p rend="justify">Pursi työnnettiin vesille, kalastajat hyppäsivät siihen, tarttuivat airoihin nostaen ne ilmaan. He odottivat komentoa.</p>
+                  <p rend="justify">"Yksi!"</p>
+                  <p rend="justify">Yhtaikaa iskivät airot veteen ja pursi syöksyi eteenpäin yli laajan, kimmeltävän vedenpinnan.</p>
+                  <p rend="justify">"Kaksi", komensi perämies ja jättiläiskilpikonnan jalkojen tavoin nousivat airot purren sivuilla. "Yksi!… Kaksi!…"</p>
+                  <p rend="justify">Kuljettaakseen nuottaa maalta käsin oli viisi miestä jäänyt rannalle — Serjoschka, Vasili ja kolme muuta. Yksi viimemainituista heittäysi pitkäkseen hiekalle sanoen:</p>
+                  <p rend="justify">"Minä rupean vielä levolle…"</p>
+                  <p rend="justify">Toisetkin kaksi seurasivat esimerkkiä ja pian makasi hiekalla kolme ryysyistä olentoa lankakeriksi kyyristyneinä.</p>
+                  <p rend="justify">"Miksi et sunnuntaina ollut täällä", kysyi Vasili Serjoschkalta, kun he seurasivat toisiaan majalle.</p>
+                  <p rend="justify">"Ei ollut aikaa tulla…"</p>
+                  <p rend="justify">"Olitko juovuksissa?"</p>
+                  <lg>
+                     <l>"En. Pidin vain silmällä poikaasi ja hänen kälyään…", selitteli</l>
+                     <l>Serjoschka tyyneesti.</l>
+                  </lg>
+                  <p rend="justify">"Minkälaisia huolia viitsitkään itsellesi ottaa", hymähti Vasili väkinäisesti. "Eiväthän hekään enää pikkulapsia ole!"</p>
+                  <p rend="justify">"Asia on vielä pahempi… Toinen on suuri nauta ja toinen ilvehti ja…"</p>
+                  <p rend="justify">"Onko Malva ilvehtijä", kysyi Vasili ja hänen silmänsä liekehtivät vihaa.</p>
+                  <p rend="justify">"Onpa kylläkin…"</p>
+                  <p rend="justify">"Kauanko on hän sellainen ollut?"</p>
+                  <p rend="justify">"Sitä on hän ollut ikänsä. Hänellä näet on sielu, mikä ei sovi hänen ruumiiseensa, veli Vasja… Käsitätkö sitä?"</p>
+                  <p rend="justify">"Olen sen kylläkin käsittänyt… hänellä on kerrassaan kehno sielu."</p>
+                  <p rend="justify">Serjoschka katsahti häneen pilkallisesti virnistellen.</p>
+                  <p rend="justify">"Kehno! Voi teitä tyhmiä moukkia! Te ette ymmärrä niin rahtuistakaan tästä elämästä.. Jos naisella vain on pyöreä povi on teistä yhdentekevää onko hänellä luonnetta lainkaan… Mutta luonne on sittenkin ihmisen arvon määrä! Nainen <hi rend="italic">luonteeltaan</hi>  on kuin suolaton leipä. Voiko sinua huvittaa kieletön balalaika? Tyhmä koira sinä!"</p>
+                  <p rend="justify">"Eilen ryypiskelit kaiketi tavallista tuimemmin, koskapa tuolla tavalla intoilet", sanoi Vasili pilkaten.</p>
+                  <p rend="justify">Mielellään olisi hän kysynyt, missä ja miten Serjoschka edellisenä päivänä oli yllättänyt nuorikot, mutta häpesi tehdä sitä. Tultuaan majaan kaatoi hän Serjoschkalle viinaa täysinäisen teelasin, salaa toivoen että mies tämän nautittuaan juopuisi ja kysymättä itsestään kertoisi kaikki.</p>
+                  <p rend="justify">Mutta Serjoschka tyhjensi lasin pohjaan, rykäsi, tuli mahdollisimman selvälle päälle ja istuutui oven suuhun haukotellen ja venytellen itseään.</p>
+                  <p rend="justify">"Juotuaan viinaa on kuin syttyisi tuli rinnassa", sanoi hän.</p>
+                  <p rend="justify">"Mutta kyllä sinä sitä juotkin", virkkoi Vasili hämmästyen sitä nopeutta, millä Serjoschka tyhjensi lasinsa.</p>
+                  <p rend="justify">"Sitä kyllä osaan…", hän nyökkäsi punatukkaista päätään, kuivasi käsillään viiksensä ja jatkoi rohkeaan ja ylimieliseen tapaan: "Sitä kyllä osaan, veli hyvä! Teen kaiken nopeaan ja asiallisesti. Ei mutkittelua — suoraan asiaan käsiksi ja sillä hyvä! Minne ikinä joutunenkin on asianlaita sama! Maapallolta ei kuitenkaan joudu muuanne kuin — maan poveen…"</p>
+                  <p rend="justify">"Olithan aikeessa lähteä Kaukaasiaan, vai kuinka", kysyi Vasili varovasti koettaen päästä päämääräänsä.</p>
+                  <p rend="justify">"Lähden minne ikinä minua vain haluttaa. Kun jotakin oikein vakavasti tahdon, teen yhtäkkiä päätöksen — ja niin on kaikki valmista! joko silloin saan tahtoni perille ajetuksi taikka — kuulan otsaani. Se on hyvin yksinkertaista!"</p>
+                  <p rend="justify">"Perin yksinkertaista! Niinhän elät, kuin olisit järkeä vailla…"</p>
+                  <p rend="justify">Serjoschka katsahti pilkallisesti Vasilia.</p>
+                  <p rend="justify">"Entä sinä, senkin viisastelija, miten monta kertaa olet saanut tuntea raippojen iskut kirvelevän selässäsi kyläoikeuden tuomioiden määrääminä?"</p>
+                  <p rend="justify">Vasili katsoi häneen ja vaikeni.</p>
+                  <p rend="justify">"Kylliksi usein, luullakseni… Onpa toiseltapuolen hyväkin, että viranomaiset piiskalla iskevät järkeä kalloonne… Voi sinuas mitä olet viisaudellasi saanut aikaan? Miten pitkälle sillä pääset? Ja mitä viisauksia lateletkaan? Vaan minä — tyhmeliini — minä käyn suoraan asiaan ja sillä hyvä. Ja loppujen lopuksi pääsen pitemmälle kuin sinä…"</p>
+                  <lg>
+                     <l>"Niinpä kylläkin…", nauroi Vasili pilkallisesti. "Ehkäpä kerkiät aina</l>
+                     <l>Siperiaan saakka…"</l>
+                  </lg>
+                  <p rend="justify">"Hyi, aivanhan minua pelotat!"</p>
+                  <p rend="justify">Ja Serjoschka nauroi sydämellisesti.</p>
+                  <p rend="justify">Vasilia suututti se seikka, ettei mies juopunutkaan. Eikä hän ollut halukas tarjoomaan uutta lasillista, vaikkakin toiseltapuolen hyvin tiesi ettei Serjoschka selvänä mitään kertoisi. Silloin Serjoschka itse selvitteli pulman.</p>
+                  <p rend="justify">"Miksi et utele mitään Malvan suhteen?"</p>
+                  <p rend="justify">"Mitäpä minä hänestä", sanoi Vasili välinpitämättömänä salaa aavistaen jotain.</p>
+                  <p rend="justify">"Tyttöhän ei sunnuntaina ollut luonasi… Etkö edes ole utelias tietämään, missä hän tämän ajan on ollut… Tiedänhän sinun olevan mustasukkainen, senkin vanha saatana!"</p>
+                  <p rend="justify">"Sellaisista ihmisistä ei ole puutetta", sanoi Vasili halveksivalla liikkeellä.</p>
+                  <p rend="justify">"Sellaisia ihmisiä", matki Serjoschka. "Voi teitä tyhmiä moukkia! Jos teille tarjoo hunajaa tai tervaa, on se mielestänne samaa ruisvelliä…"</p>
+                  <p rend="justify">"Miksi häntä alati ylistelet? Oletko kenties tullut tänne meitä naittamaan? Sen seikan olen itse jo kauan sitten järjestänyt", sanoi Vasili.</p>
+                  <lg>
+                     <l>Serjoschka katsoi mieheen, oli hetkisen vaiti ja laskien kätensä</l>
+                     <l>Vasilin olalle lausui hän painolla:</l>
+                  </lg>
+                  <p rend="justify">"Sen tiedän… Tiedän senkin, että tyttö on suhteissa sinuun… En ole sinua sen johdosta edes moittinutkaan — se ei ollut tarpeen. Mutta nyt rupeaa poikasi Jaschka virittämään tytölle ansojaan — kurita häntä oikein isän kouralla, kuuletko! Muuten teen sen itse puolestani… Sinä olet kunnon mies… vaikkakin toisinaan oikea <hi rend="italic">emäntä</hi>… Sinun tiellesi en milloinkaan ole astunut, muista se!"</p>
+                  <lg>
+                     <l>"Katsos vaan! Sinäkin näköjään Malvaa liehakoit, vai kuinka", kysyi</l>
+                     <l>Vasili synkkänä.</l>
+                  </lg>
+                  <p rend="justify">"Minä myöskin! Jospa sen tekisinkin… niin kylläpä hyvin yksinkertaisesti raivaisin teidät kaikki tieltäni — ja sillä hyvä! Vaan mitä minä tytöstä?"</p>
+                  <p rend="justify">"Miksi siis sekaannut tähän asiaan", kysyi Vasili epäillen.</p>
+                  <p rend="justify">Tämä yksinkertainen kysymys näytti hämmästyttävän Serjoschkaa. Hän katseli suurin silmin Vasiliin ja purskahti nauruun.</p>
+                  <p rend="justify">"Miksikö sekaannun?… Sen piru yksin tietää… Siinä on näet tyttö, joka johonkin kykenee… hänessä on tarpeeksi pippuria… Minä hänestä suorastaan pidän… ja siksi tunnen sääliä…"</p>
+                  <p rend="justify">Vasili katsoi Serjoschkaa epäillen, vaikkakin tämän nauru ja puhe oli vilpitöntä, vailla minkäänlaisia aikeita Malvan suhteen. Siitä huolimatta sanoi hän kuitenkin:</p>
+                  <p rend="justify">"Niin, olisipa hän vain kunniallinen ja viaton nainen, niin voisihan tässä käydä sääliksi. Vaan nyt… tämä on hullunkurista!"</p>
+                  <p rend="justify">Serjoschka katsoi merellä liukuvaa purtta, mikä laajan puoliympyrän tehtyään taas käänsi kokkansa maata kohti. Hänen rokonarpiset kasvonsa ilmaisevat tällä kertaa hyvyyttä ja avomielisyyttä. Vasili tunsi lauhtuvansa miestä katsellessaan.</p>
+                  <p rend="justify">"Olet oikeassa… hän on kelpo tyttö… kuitenkin hänen luonteensa on kovin vaihteleva!… Mutta Jaschka… no, hän kyllä tulee saamaan ansaitun osansa! Millainen penikka mieheksi!"</p>
+                  <p rend="justify">"En tule toimeen hänen kanssaan… Hän haiskahtaa talonpojalta jo pitkän matkan päästä… ja sellaista en minä voi sietää", selitteli Serjoschka.</p>
+                  <p rend="justify">"Mielisteleekö hän tyttöä", kysyi Vasili hampaittensa välistä silitellen partaansa.</p>
+                  <p rend="justify">"Mielisteleekö hän tyttöä? Saatpa nähdä hänen tunkeutuvan välillenne", sanoi Serjoschka vakuuttavasti.</p>
+                  <p rend="justify">"Minä kyllä hänet opetan vielä!"</p>
+                  <p rend="justify">Yli meren syttyi ruusunpunainen sädekehä. Auringon ylempi reuna jo pilkisti esiin kullassa kimmeltävästä vedestä. Halki laineitten tyrskyn kuului purresta heikko huuto:</p>
+                  <p rend="justify">"Vetäkää-ää!"</p>
+                  <p rend="justify">"Ylös pojat! Hei! Vetäkää nuotta maihin", komenteli Serjoschka nousten.</p>
+                  <p rend="justify">Pian kiskoivat kaikki viisi nuottaa. Pitkä, jouseksi jännittynyt köysi ulottui merestä rannalle, ja kiinnitettyään vetohihnansa tähän, kiskoivat kalastajat tästä ponnistaen jaloillaan hiekkaan. Kuljettuaan näin kymmenen tai parikymmentä askelta siirrettiin vetohihna lähemmäksi, tartuttiin uudelleen ja kiskottiin taas nuottaa kohti rantaa.</p>
+                  <p rend="justify">Nuotan toisen pään kuljetti laineilla hyppelehtivä pursi rantaan; sen masto pisti tummana viivana esiin viskautuen sinne tänne tuulessa.</p>
+                  <p rend="justify">Aurinko kohosi merestä majesteetillisena ja loistavana.</p>
+                  <p rend="justify">"Jos näet Jakowin, niin pyydä häntä tulemaan luokseni huomenna", pyyteli Vasili Serjoschkaa.</p>
+                  <p rend="justify">"Hyvä."</p>
+                  <p rend="justify">Pursi joutui jo rantaan, kalastajat nousivat siitä, ruveten puolestaan kiskomaan nuotan toista päätä. Molemmat ryhmät vähitellen lähestyivät toisiaan, ja nuotan merkkilastut keinuivat laineilla säännöllisessä puoliympyrässä.</p>
+                  <p rend="justify">4.</p>
+                  <p rend="justify">Myöhään samana iltana, kun kalastamon työläiset jo olivat syöneet illallisensa, istui Malva väsyneenä ja miettiväisenä nurinkäännetyn venehylkiön pohjalla katsellen jo hämärään verhoutunutta merta. Kaukana loisti palava tuli, ja Malva tiesi sen näkyvän Vasilin luota. Yksinäisenä, eksyneenä meren mustaan äärettömyyteen paloi tuli vuoroin kirkkaana, vuoroin taas sammuen kuin väsähtäneenä. Ja Malva kävi surulliseksi katsellessaan tuota pientä punaista valopilkettä, mikä hukuttautuneena äärettömyyteen heikkona tuikki aaltojen lakkaamattomassa, salaperäisessä kohinassa.</p>
+                  <p rend="justify">"Miksi täällä istut", kuului Serjoschkan ääni hänen takanaan.</p>
+                  <p rend="justify">"Mitä siitä tahdot", kysyi tyttö lyhyeen edes kääntymättä.</p>
+                  <p rend="justify">"Se olisi minusta hupaista tietää."</p>
+                  <p rend="justify">Katsellen tyttöä vaikeni Serjoschka, otti taskustaan tupakan, minkä sytytettyään hän hajareisin istuutui veneen pohjalle. Tuntien tytön olevan haluttoman puhumaan, sanoi hän ystävällisesti:</p>
+                  <p rend="justify">"Sinä olet kerrassaan oikukas naikkonen — vuoroin pakenet kaikkia, kun taas toisinaan roikui miltei jokaisen kaulassa."</p>
+                  <p rend="justify">"Olenko riippunut sinunkin kaulassasi?" kysyi Malva välinpitämättömänä.</p>
+                  <p rend="justify">"Ei minun — vaan Jaschkan."</p>
+                  <p rend="justify">"Käykö kateeksi?"</p>
+                  <p rend="justify">"Hm… puhukaamme avonaista, suoraa kieltä", ehdotti Serjoschka lyöden tyttöä olalle. Malva istui häneen sivuttain, eikä hän niinollen voinut tarkata tytön kasvoja tämän lyhyesti vastatessa:</p>
+                  <p rend="justify">"Puhu sinä."</p>
+                  <p rend="justify">"Oletko Vasilin hyljännyt, mitä?"</p>
+                  <p rend="justify">"Sitä en tiedä", vastasi tyttö hetkisen äänettömyyden jälkeen. "Miksi sinä sitä kysyt?"</p>
+                  <p rend="justify">"Oo… vain huvikseni."</p>
+                  <p rend="justify">"Olen tällä hetkellä häneen suuttunut."</p>
+                  <p rend="justify">"Miksi niin?"</p>
+                  <p rend="justify">"Hän on minua lyönyt!"</p>
+                  <p rend="justify">"Mitä kuulen?… Onko hän!… Millainen hylkiö… hyi! ja sinä… sallit sellaista tapahtuvan! Ai, ai!"</p>
+                  <p rend="justify">Serjoschka oli vallan hämmästynyt kuulemastaan. Hän katsahti tyttöön pilkallisesti.</p>
+                  <p rend="justify">"Jos olisin tahtonut, ei hän sitä olisi uskaltanut tehdä", jatkoi Malva vihaisena.</p>
+                  <p rend="justify">"No, mikä sinua silloin riivasi?"</p>
+                  <p rend="justify">"En tahtonut."</p>
+                  <p rend="justify">"Silloin olet vallan pahasti rakastunut tuohon vanhaan kollikissaan", sanoi Serjoschka ivaten puhaltaissaan savua tupakastaan tyttöä kohti "Minkälaisia juttuja! ja minä luulin sinun olevan aivan toista maata…"</p>
+                  <p rend="justify">"En rakasta teistä ketään", sanoi hän taas välinpitämättömänä käsillään torjuen savun luotaan.</p>
+                  <p rend="justify">"Tuon varmasti valehtelet!"</p>
+                  <lg>
+                     <l>"Miksikä valehtelisin", kysyi Malva ja äänestä päättäen saattoi</l>
+                     <l>Serjoschka ymmärtää tytön puhuvan totta.</l>
+                  </lg>
+                  <p rend="justify">"Vaan ellet häntä rakasta, miksi sallit itseäsi piestävän", kysyi hän vakavana.</p>
+                  <p rend="justify">"Tiedänkö minä sen? Miksi minua tässä kiusaat?"</p>
+                  <p rend="justify">"Tämäpä mutkallista", sanoi Serjoschka päätään puistaen.</p>
+                  <p rend="justify">Ja niin vaikenivat molemmat pitkäksi aikaa.</p>
+                  <p rend="justify">Yö joutui. Taivaalla verkkaan purjehtivat pilvet synnyttivät varjoja meren pintaan. Aallot kuohuivat. Vasilin luona palanut tuli oli jo sammunut, mutta yhä katsoi Malva sinne, la Serjoschka vuorostaan katseli tyttöä.</p>
+                  <p rend="justify">"Kuulehan", hän sanoi. "Tiedätkö mitä tahdot?"</p>
+                  <p rend="justify">"Jospa sen tietäisin", vastasi Malva hiljaa, syvästi huoaten.</p>
+                  <p rend="justify">"Siis et sitä tiedä? Se on paha", selitteli Serjoschka päättävästi. "Minä tiedän kyllä", ja surullisella äänenpainolla hän jatkoi: "vaan harvoinpa mitään tahdonkaan."</p>
+                  <p rend="justify">"Minä taas tahdon aina jotain", sanoi Malva miettiväisenä. "Vaan mitä — sitä en tiedä. Toisinaan tahtoisin istahtaa veneeseen ja lähteä merelle. Kauas, kauas pois! Etten milloinkaan enää tarvitsisi nähdä ihmisiä. Toisinaan taas tahtoisin vääntää kaikki ihmiset nurinniskoin ja antaa niitten hyrrän tavoin tanssia ympärilläni. Silloin mielisin heitä katsella ja nauraa. Toisinaan säälin kaikkia ja eniten tietysti itseäni, taikka tahtoisin kaikki tappaa ja itseni viimeiseksi… jollakin kauhealla tavalla. Ja minä olen vihainen ja iloinen… Mutta ihmiset ovat kaikki kuin puusta veistettyjä."</p>
+                  <p rend="justify">"Mädäntyneitä he ovat", puuttui Serjoschka puheeseen matalalla äänellä. "Vaan sinua katsellessani huomaankin, ettet ole kissa etkä kala etkä lintu… Mutta hiukan tuota kaikkea piilee sinussa joka tapauksessa. Et ole toisten naisten kaltainen…"</p>
+                  <p rend="justify">"Jumalan kiitos", hymyili Malva.</p>
+                  <p rend="justify">Hiekkasärkkien takaa heidän vasemmalla puolellaan nousi kuu valaen hopeahohdettaan merelle ja heidän ylitseen. Suurena ja hiljaisena se sousi siniselle taivaanlaelle ja tähtien kirkkaus kalpeni ja heikentyi sen tasaisessa, uneksivassa loisteessa.</p>
+                  <p rend="justify">"Sinä ajattelet — siinä koko juttu", sanoi Serjoschka päättävästi viskatessaan tupakkansa ilmaan. "Ja ken ajattelee… hän kyllästyy piankin elämään. Täytyy aina tehdä jotain, jotta ihmiset ympärillä joutuvat mukana liikkeeseen ja tuntevat elävänsä… Täytyy hyöriä elämässä, se muuten happanee… Kulkea sinne ja kulkea tänne, niin kauan kuin voimasi ovat tallella… silloin on hauskuutta ympärilläsi…"</p>
+                  <p rend="justify">Malva nauroi.</p>
+                  <p rend="justify">"Sinä olet oikeassa… Toisinaan ihmettelen, miltä tuntuisi jonakin kauniina yönä sytyttää tuleen nuo työläisasumukset — ajatteles, minkälainen hälinä siitä syntyisi!"</p>
+                  <p rend="justify">"Niin, sellaista minäkin ymmärrän", virkkoi Serjoschka ihastuneena taputellen tyttöä olalle. "Tiedätkö… sanon sinulle jotakin… tahdotko olla osallisena johonkin oikein hupaisaan?"</p>
+                  <p rend="justify">"Missä sitten", kysyi Malva innostuneena.</p>
+                  <p rend="justify">"Se koskee Jaschkaa… oletko sytyttänyt hänessä oikein tulisen lemmenliekin?"</p>
+                  <p rend="justify">"Hän on vallan ilmitulessa", hymyili tyttö.</p>
+                  <p rend="justify">"No… usuttele yhteenotteluun isä ja poika! Kautta Jumalan, saisi sille nauraa itsensä kipeäksi! He iskevät yhteen kahden karhun lailla… Oleile edelleenkin ukon luona ja liehakoi samalla myöskin poikaa… Ja sitten päästämme ne yhteen… mitä sanot?"</p>
+                  <p rend="justify">Malva kääntyi hänen puoleensa tarkkaavasti katsoen rokonarpisia, iloisesti hymyileviä kasvoja. Kuun valossa eivät ne näyttäneet niin pilkullisilta kun päivällä auringon paisteessa. Niissä ei ollut jälkeäkään mistään ilkeämielisyydestä tai pahuudesta; vain hyvätuulisuus niissä loisti rohkean hymyn ohella ja jonkunmoinen vastauksen kaipuu.</p>
+                  <p rend="justify">"Mikset heistä pidä", kysyi Malva epäilevästi.</p>
+                  <p rend="justify">"Minäkö?… Vasilia vastaan ei ole minulla mitään muistuttamista… hän on kelpo mies. Mutta Jaschka sensijaan… hän on kerrassaan kehno. En näet voi pitää talonpojista — ne ovat viheliäistä joukkoa! He teeskentelevät olevansa köyhiä, isättömiä ja äidittömiä — ja silloin niille annetaan runsaasti leipää ja paljon muuta!… Heillähän on oma semstvonsa, mikä huoltaa kaikki heidän asiansa… Heillä on kartanonsa, maansa, karjansa… Olen palvellut maalla piirilääkärin kuskina ja jo silloin kyllästyin heihin… Ja senjälkeen olen kierrellyt miltei kaikkialla. Kun saapuu kylään pyytämään leipäpalasta, ovat he heti paikalla tulijan kimpussa! Ken olet sinä ja mitä haluat ja missä on passisi? Miten monasti eivätkö he ole minua lyöneet ja piesseet! Toisinaan epäiltiin minua hevosvarkaaksi, toisinaan pistettiin minut noin vaan ilman muuta vankilaan… He valittavat tekeytyen muka onnettomiksi, mutta itse asiassa ei ole heillä hätäpäivääkään — heillähän on jotain, mihin voi turvautua, nimittäin maa. Mitä olenkaan minä heihin verrattuna?"</p>
+                  <p rend="justify">"Etkö sinä olekaan talonpoika", katkaisi Malva tarkkaavaisena kuunneltuaan miehen puhetulvaa.</p>
+                  <p rend="justify">"Olen porvarisukua", sanoi Serjoschka jonkunmoisella ylpeydellä, "porvarisukua Uglitschin kaupungista."</p>
+                  <p rend="justify">"Ja minä olen Pavlischin kaupungista", kertoili Malva miettiväisenä.</p>
+                  <p rend="justify">"Ei ole minulla ketään, joka minusta huolehtisi. Vaan talonpoikia… niillä piruilla ei ole hätää. Heillä on semstvonsa ja paljon muuta."</p>
+                  <p rend="justify">"Semstvo, mitä se on", kysyi Malva.</p>
+                  <p rend="justify">"Mitäkö se on? Pahus sen tietää, mitä se on! Se on perustettu yksin vain talonpoikia varten ja on heidän oma liittonsa. Viis siitä… puhukaamme mieluummin tuosta pienestä seikkailustamme… Sinähän järjestät pienen tappelun heidän välilleen, vai kuinka? Eihän se ole vaarallista — pieksävät vain toisiaan jonkunverran… Ja minä puolestani sinua kyllä autan. Vasilihan on sinua lyönyt? No, silloinhan voi hänen oma poikansa puolestasi kuitata saamasi lyönnit."</p>
+                  <p rend="justify">"Sanotko niin", hymyili Malva. "Se ei todellakaan olisi hullumpaa."</p>
+                  <p rend="justify">"Ajattelehan vain… eikö olisi hauska nähdä kaksi ihmistä lyövän toisiltaan kylkiluut poikki sinun tähtesi? Vain pari sanaa sinun puoleltasi… liikuttelet kieltäsi kerran… tai kaksi… ja niin on kaikki valmista!"</p>
+                  <p rend="justify">Serjoschka puhui vielä kauan ihastuneena siitä, kuinka hauskaa olisi näytellä Malvan osaa tuossa komediassa. Hän samalla kertaa oli sekä leikillinen että vakava siitä puhuessaan ja ylpeili suuresti keksinnöstään.</p>
+                  <p rend="justify">"Ah, jospa olisin minä kaunis nainen! Silloin vasta kääntäisin maailman ylös-alasin", sanoi hän lopuksi tarttuen molemmilla käsillään päähänsä, puristi sitä, sulki silmänsä ja vaikeni.</p>
+                  <p rend="justify">Heidän erotessaan oli jo kuu korkealla taivaalla. Poistumalla he vain lisäsivät yön ihanuutta. Nyt oli enää jälellä vain tuo rajaton, majesteetillinen, kuun hopeassa kimmeltävä meri ja sininen tähtitaivas. Olihan siinä sentään muutama hiekkasärkkä, jokunen vaivainen pajupensas ja kaksi pitkää, likaista rakennusta muistuttaen paria suurta, karkeasti kokoonkyhättyä ruumisarkkua. Mutta tuo kaikki oli kuitenkin mitättömän pientä ja vähäpätöistä mahtavan meren rinnalla, ja tähdetkin taivaalla kiiluivat kylminä.</p>
+                  <p rend="justify">5.</p>
+                  <p rend="justify">Isä ja poika istuivat majassa toisiaan vastapäätä viinaa juoden. Viinan oli poika tuonut tullessaan, ettei isän luona istuminen kävisi liian ikäväksi ja myöskin sen kautta saattaakseen ukon lauhkeammalle tuulelle. Serjoschka oli näet Jakowille uskotellut isän olevan hänelle suutuksissaan Malvan tähden ja uhkaavan miltei piestä tytön kuoliaaksi. Malvakin muka tiesi tästä uhkauksesta, eikä niin ollen uskaltanut antautua Jakowille. Serjoschka puolestaan nauroi häijysti hänelle.</p>
+                  <p rend="justify">"Hän tulee sinulle maksamaan velkansa, usko pois — kiskomaan korvat ulos päästäsi kokonaisen kyynärän pituisiksi. On parasta pysytellä hänen näkyvistään!"</p>
+                  <p rend="justify">Tuon punatukkaisen, vastenmielisen rentun pilkkapuheet saivat Jakowin katkerasti vihaamaan isäänsä. Ja Malva näytti yhä edelleen horjuvan sinne tänne, loi nuorukaiseen vuoroin kiihkeitä, vuoroin surumielisiä katseita, siten äärimmilleen kiihoittaen hänen kaipuunsa omistaa tyttö kokonaan… Ja hänkin lakkaamatta muistutteli isästä.</p>
+                  <p rend="justify">Ja nyt oli Jakow tullut isän luo ja hänestä tuntui, kuin olisi tämä kivenä hänen tiellään, mistä ei päässyt yli eikä ympäri. Vaan koskapa ei poika tuntenut Vasilia pelkäävänsä, katsoi hän varmana isänsä synkkiin, vihaisiin silmiin kuin tahtoen sanoa:</p>
+                  <p rend="justify">"Koske minuun, jos uskallat!"</p>
+                  <p rend="justify">He olivat jo juoneet kaksi lasillista puhumatta toisilleen muuta kuin parisen merkityksetöntä sanaa kalastajaelämästä. Silmä vasten silmää keskellä aavaa merta he siinä vielä istuivat kuin säästäen toisiltaan molemminpuolista katkeroitumista, vaikkakin hyvin tiesivät sen kohta liekehtivän ilmituleen ja nielevän heidät kitaansa.</p>
+                  <p rend="justify">Majan seinämän muodostavat peitteet liikkuivat tuulessa, puun kaarnat hankautuivat toisiinsa ja punainen vaate tangon päässä liehui ja paukkui. Kaikki nämä äänet olivat varovaisen hillityt, muistuttaen etäistä, epämääräistä, rukoilevaa kuisketta. Mutta meren aallot kuohuivat kuten aina — vapaina ja tuskattomina.</p>
+                  <p rend="justify">"Yhäkö vielä Serjoschka juo", kysyi Vasili synkkänä.</p>
+                  <p rend="justify">"Kyllä vaan… joka ilta on hän juopunut", vastasi poika kaataen laseihin viinaa.</p>
+                  <p rend="justify">"Hän ei pysy pinnalla… Sellaista on tuo vapaa elämä… vailla minkäänlaista pakkoa. Sinäkin painut samaa tietä…"</p>
+                  <p rend="justify">Ei Jakowkaan pitänyt siitä miehestä, siksipä hän vastasikin lyhyeen:</p>
+                  <p rend="justify">"Hänen kaltaisekseen en kuitenkaan tule!"</p>
+                  <p rend="justify">"Etkö tule", kysyi Vasili rypistäen silmäluomiaan. "Minä kyllä tiedän, mitä puhun… Miten kauan oletkaan jo täällä ollut? Taitaa jo kolmas kuukausi olla menossa; pian saat täältä lähteä kotiin ja paljonko on sinulla rahaa mukanasi täältä?"</p>
+                  <p rend="justify">Mieletönnä nieli hän ryypyn, jonka poikansa vasta oli lasiin kaatanut, tarttui sitten partaansa, mistä kiskoi niin lujasti, että pää nytkähti.</p>
+                  <lg>
+                     <l>"Niin lyhyessä ajassa on tuiki mahdotonta paljoakaan ansaita", vastasi</l>
+                     <l>Jakow rikkiviisaasti.</l>
+                  </lg>
+                  <p rend="justify">"Jos asia on niin, on sinun aivan turha täällä vetelehtiä… lähde taas matkalle."</p>
+                  <p rend="justify">Jakow nauroi hiljaa.</p>
+                  <p rend="justify">"Mitä siinä virnistelet", virkkoi Vasili uhkaavasti yhä enemmän katkeroituen poikansa tyyneydestä. "Isäsi sinulle puhuu ja sinä vain naurat! Varo vaan, ettet liian varhain rupea omintakeiseksi! Kyllä vielä pystyn pistämään sinulle suitset suuhun…"</p>
+                  <p rend="justify">Jakow kaasi itselleen ryypyn ja joi sen. Tällainen röyhkeä tapa etsiä riitaa oikeastaan haavoitti ja suututti häntä, mutta hilliten itsensä ei hän lausunut ajatuksiaan, koskapa isä vain olisi tästä enemmän ärsyyntynyt. Nyt häntä hiukan peloitti nuo vihaa leimuavat silmät.</p>
+                  <p rend="justify">Vaan kun Vasili näki poikansa juovan yksinään kaatamatta mitään hänen lasiinsa, suuttui hän vielä enemmän; tästä oli seurauksena, että hän lausui sanottavansa tyyneemmin ja terävämmin.</p>
+                  <p rend="justify">"Isäsi sinua kehoittaa lähtemään kotiin ja sinä vain naurat hänelle päin naamaa! Mutta kylläpä sinut pidän kurissa… Lauantaina pyydä saada palkkasi ja sitten… mars matkalle kotikylään! Ymmärrätkö?"</p>
+                  <p rend="justify">"En lähde", sanoi Jakow varmalla äänellä rohkeasti nostaen päänsä pystyyn, vaikkakin koko ruumis vapisi.</p>
+                  <p rend="justify">"Mitä kuulenkaan", ärjäsi Vasili nousten pystyyn ja nojautuen tynnöriin. "Puhunko sinulle vai enkö? Mitenkä uskallatkaan uhmata isääsi, penikka? Oletko kokonaan unohtanut voivani tehdä kanssasi mieleni mukaan? Oletko sen unohtanut?"</p>
+                  <p rend="justify">Hänen huulensa värähtivät oudosti ja kasvot vääntyivät tuskasta; kaksi verisuonta paisui ohimoilla.</p>
+                  <p rend="justify">"En ole mitään unohtanut…", vastasi Jakow puoliääneen isäänsä edes katsomatta, "mutta itse puolestasi saat muistaa…"</p>
+                  <p rend="justify">"Minua neuvomaan et sinä pysty! Isken sinut palasiksi…"</p>
+                  <p rend="justify">Jakow väistyi isänsä kättä, mikä suunnattiin hänen päähänsä ja tuntiessaan tästä raivostuvansa sanoi hän hampaitaan purren:</p>
+                  <p rend="justify">"Älä koske minuun… Emmehän ole enää kotikylässä."</p>
+                  <p rend="justify">"Vaiti! Kaikkialla olen isäsi."</p>
+                  <p rend="justify">"Täällä et voi saattaa minua kyläoikeuden piestäväksi — koskapa täällä ei sellaista ole…", nauroi Jakow isälleen hitaasti nousten paikaltaan.</p>
+                  <p rend="justify">He seisoivat vastakkain. Verestävin silmin ja kädet nyrkissä ojentautui Vasili poikansa puoleen antaen hänen kasvoillaan tuntea kuuman, viinalle haisevan hengityksensä; Jakow kumartui taapäin seuraten synkin katsein isänsä pienimpiäkin liikkeitä valmiina torjumaan lyönnit ja näytti ulkonaisesti tyyneeltä, vaikkakin hiessä kylpi. Heidän välillään oli tynnöri, jota käytettiin pöytänä.</p>
+                  <p rend="justify">"Enkö pystyisi sinua pieksämään", kysyi Vasili ääni käheänä ja hän taivutti selkänsä kuin hyppyyn valmistautuva kissa.</p>
+                  <p rend="justify">"Täällä ovat kaikki tasa-arvoisia… Sinä olet työläinen kuten minäkin."</p>
+                  <p rend="justify">"Tuohan kuulostaa joltain uudelta!"</p>
+                  <p rend="justify">"Juuri niin on asia! Miksi hyökkäät kimppuuni? Luuletko kenties, etten mitään ymmärrä? Itsehän ensiksi olet…"</p>
+                  <p rend="justify">Vasili karjasi pahasti ja kohotti kätensä niin nopeasti, ettei Jakow ehtinyt väistää. Isku sattui päähän, hän horjahti ja katsoi raivostunutta isäänsä, joka taas kohotti kätensä.</p>
+                  <p rend="justify">"Varo itseäsi…", varoitti Jakow puistellen nyrkkejään.</p>
+                  <p rend="justify">"Kyllä minä sinut varotan…"</p>
+                  <p rend="justify">"Ole lyömättä, sanon minä!"</p>
+                  <p rend="justify">"Kas vaan sinua!… Tahdot opettaa isääsi?… isääsi?… Isääsi?…"</p>
+                  <p rend="justify">Huone kävi heille liian ahtaaksi, heidän jalkansa tarttuivat säkkeihin, he kompastuivat tynnöriin ja pölkkyyn, jota käytettiin istuimena.</p>
+                  <p rend="justify">Yhä nyrkeillään yrittäen torjua isänsä lyönnit Jakow hitaasti peräytyi kalpeana ja hiestyneenä, purren hampaansa yhteen ja silmät hehkuen kuin sudella. Isä häntä seurasi hurjasti huitoen käsillään ilmaa, sokeana, hurjana vihassaan ja tukka pystyssä päässä kuin raivoisan villisian.</p>
+                  <p rend="justify">"Annahan olla… lopeta… riittää jo täksi kertaa", sanoi Jakow uhkaavasti mennen ovesta ulos.</p>
+                  <p rend="justify">Isä juoksi kiljuen hänen perässään, mutta hänen iskunsa torjui poika nyrkeillään.</p>
+                  <p rend="justify">"Huomaathan itsekin, ettet kykene… katsos nyt", ärsytti Jakow tietäessään olevansa isäänsä notkeampi eikä niin ollen pelännyt.</p>
+                  <p rend="justify">"Odotahan vain… odotahan…"</p>
+                  <p rend="justify">Mutta Jakow hypähti syrjään ruveten juoksemaan rantaa kohti.</p>
+                  <p rend="justify">Vasili seurasi häntä pää kumarassa ja ojennetuin käsin, mutta kompastui ja kaatui eteenpäin. Hän nousi nopeasti polvilleen ja istuutui nojaten käsillään hiekkaan. Hän oli vallan väsynyt tappelusta ja ulvoi valittaen kostonhimossaan ja katkerassa tietoisuudessa omasta heikkoudestaan…</p>
+                  <p rend="justify">"Kirottu ole sinä", sanoi hän käheänä ojentaen kaulansa poikaansa kohti samassa sylkien vaahdon väriseviltä huuliltaan.</p>
+                  <p rend="justify">Jakow nojautui veneeseen katsoen terävästi isäänsä ja hieroi kädellään särkevää päätään. Toinen paidan hiha oli riekaleena vain muutaman langan varassa; kauluskin oli repaleinen ja valkea, hikinen rinta kiilsi auringossa kuin rasvattuna. Jakow tunsi nyt halveksivansa isäänsä; oikeastaan oli hän luullut miestä väkevämmäksikin ja kun hän nyt näki riitakumppaninsa istuvan tuossa hiekalla surkuteltavana ja pahasti lyötynä yhä nyrkeillään uhaten, hymyili hän väkevämmän ylimielisellä halveksivalla tavalla heikompaansa.</p>
+                  <p rend="justify">"Iskeköön salama sinuun! Ole kirottu… ikuisesti."</p>
+                  <p rend="justify">Vasili huusi tämän kirouksensa niin äänekkäästi, että Jakow vastenmielisesti loi katseen yli meren kalastamoa kohti kuin peläten tuon sairaan valitushuudon kuuluvan sinne saakka.</p>
+                  <p rend="justify">Mutta siellä näkyi vain aaltoileva meri ja aurinko. Silloin hän sylkäsi sivulle sanoen:</p>
+                  <p rend="justify">"Huuda sinä vaan! Se ei ketään vahingoita — muuta kuin itseäsi… Mutta koska välimme on mennyt näin pitkälle, tahdon sinulle sanoa erään asian… saadaksemme yhdellä kertaa kaikki selväksi…"</p>
+                  <p rend="justify">"Vaiti!… Pois silmäini edestä… pois…", huusi Vasili.</p>
+                  <p rend="justify">"Kotiin kylään en palaa… jään tänne koko talveksi", sanoi Jakow lainkaan välittämättä isänsä huudoista, vaikkakin hän piti tarkkaan silmällä tämän liikkeitä. "Täällä on minulla parempi olla… niin tyhmä en ole, etten tuota ymmärtäisi. Täällä on työ kevyempää… ja olo kaikinpuolin vapaampaa… Kotona komentaisit minua mielinmäärin, mutta täällä… saitkos pitkännenän?"</p>
+                  <p rend="justify">Hän pisti isänsä kiusaksi peukalon sormiensa väliin ja nauroi ilkkuen; nauru ei ollut äänekästä mutta sittenkin Vasili tästä uudelleen raivostuneena kivahti pystyyn, tarttui airoon ja hyökkäsi ähkien poikaansa kohti:</p>
+                  <p rend="justify">"Noinko isällesi ilkkuilet? Omalle isällesi? Minä sinut tapan…"</p>
+                  <p rend="justify">Mutta kun hän raivonsa sokaisemana ehti veneen luo, oli Jakow jo kaukana siitä. Hän juoksi ja rikkinäinen paidanhiha liehui tuulessa.</p>
+                  <p rend="justify">Vasili viskasi airon hänen jälkeensä kuitenkaan osaamatta ja uudelleen tuntiessaan voimattomuutensa kaatui hän eteenpäin venettä kohti iskien kyntensä puuhun ja katsoi poikansa jälkeen tämän jo etäältä huutaessa:</p>
+                  <p rend="justify">"Sinun pitäisi hävetä! Harmaahapsisena tuolla lailla raivostua naisen tähden! Hyi! Ja kotiin minä en lähde… sitä en tee! Lähde itse sinne, sinä… täällä ei ole sinulla enää mitään tekemistä!"</p>
+                  <p rend="justify">"Tuki suusi, Jaschka", karjui Vasili lujalla äänellä. "Jaschka! Minä tapan sinut… Pois täältä! Pois!"</p>
+                  <p rend="justify">Nauraen oli jo Jakow poistunut kuulematta isänsä sanoja.</p>
+                  <p rend="justify">Tylsällä, mielettömällä katseella seurasi Vasili poikansa poistumista. Nyt oli hän käynyt lyhemmäksi… jalat olivat ikäänkuin uponneet hiekkaan… nyt ulettui jo hiekka keskiruumiiseen… hartioihin… päähän. Hän oli poissa. Hetkinen myöhemmin pisti pää jälleen esiin etäämpänä… sitten hartiat… ja lopuksi koko ruumis… Kuitenkin näytti hän nyt pienemmältä. Jakow kääntyy, katsoo ja huutaa jotain.</p>
+                  <p rend="justify">"Kirottu olet sinä! Kirottu! Kirottu!", vastaa Vasili poikansa huutoon. Tämä näytti viittaavan kädellään ja käveli eteenpäin… jälleen kadoten hiekkasärkän taa.</p>
+                  <p rend="justify">Vasili katseli vielä sinnepäin, kunnes tunsi selässään kipua epämukavasta asennostaan; hän näet makasi nojaten veneeseen polvet hiekassa. Väsyneenä hän nousi hoiperrellen jäsentensä kirvelevästä tuskasta. Vyö oli soljunut ylös kainaloon; kankein sormin hän sen irroitti, piti sen silmäinsä edessä ennenkuin viskasi sen luotaan. Sitten asteli hän majaa kohti, pysähtyi katselemaan muuatta syvennystä hiekassa, muisti juuri tähän kohtaan kompastuneensa ja ellei niin onnettomasti olisi käynyt, olisi hän varmaankin tavoittanut poikansa. Majassa oli kaikki sikin sokin. Vasili etsi silmillään viinapulloa, keksi sen säkkien keskeltä ja otti sen käteensä. Tulppa oli lujasti suulla ja viina oli kaikki tallella. Varovasti irroitti hän tulpan, asetti pullon suulleen aikoen juoda. Mutta lasi kalisi vasten hampaita ja viina valui suusta yli parran rinnalle. Ei sillä ollut entistä makua… oli kuin vettä…</p>
+                  <p rend="justify">Hän tunsi sydäntään ahdistavan, päänsä kävi raskaaksi ja selkää kirveli.</p>
+                  <p rend="justify">"Olen tullut vanhaksi…", hän ääneen puhui vaipuessaan hiekalle majan edustalle.</p>
+                  <p rend="justify">Hänen eteensä avautui meri — suurena ja mahtavana, ijäti lainehtivana, täynnä voimaa ja kauneutta.</p>
+                  <p rend="justify">Aallot tapansa mukaan nauroivat mellastaen ja leikkiä lyöden. Vasili katsoi kauan yli veden ja mieleensä muistui poikansa harras toivomus:</p>
+                  <p rend="justify">"Ah, olisipa tämä kaikki maata! Ja lisäksi mustaa multaa! Ja siihen saisi pistää auransa!"</p>
+                  <p rend="justify">Polttavan tuskastuttava tunne valtasi talonpojan. Hän hieroi lujasti rintaansa, katsoi ympärilleen ja huokasi syvään. Pää painui alas ja selkä kävi köyryyn kuin raskaan taakan painamana. Kurkku kuristui kokoon kuin tukahtuessa. Vasili yskäsi saadakseen ilmaa ja kohti taivasta katsoen teki hän ristinmerkin. Tuskallinen ajatus valtasi hänet.</p>
+                  <p rend="justify">… Irtolaisnaisen tähden hän oli hyljännyt vaimonsa, jonka kanssa oli elänyt enemmän kuin viisitoista vuotta rehellisessä, molemminpuolisessa yhteistyössä, ja siksi rankaisi Jumala häntä poikansa uppiniskaisuudella. Niin on, Taivaallinen isä!</p>
+                  <p rend="justify">Poika oli häntä ivannut, armotta särkenyt sydämen palasiksi… kuolemakin oli liian pieni rangaistus sellaisesta rikoksesta! Ja miksi tämä kaikki? Kevytmielisen, epäsäännöllistä elämää viettävän naisen tähden… Oli suorastaan synti näin vanhan miehen antautua hänen pauloihinsa unohtaen vaimonsa ja poikansa…</p>
+                  <p rend="justify">Ja pyhässä vihassaan muistutti nyt Jumala häntä tästä lähettäen poikansa muodossa hänelle ansaitun rangaistuksen… Niin on, Jumala!</p>
+                  <p rend="justify">Vasili istui kokoonkyyristyneenä tehden ristinmerkkejä ja räpäytti usein silmäluomiaan ajaakseen katsetta himmentävät kyyneleet tiehensä.</p>
+                  <p rend="justify">Aurinko painui mereen ja taivaalla sammui hiljalleen purppurainen iltarusko. Hiljaisesta etäisyydestä puhalsi lämmin tuuli talonpojan kyyneltyneille kasvoille. Syviin katumusmietteisiin vaipuneena hän siinä istui kunnes nukahti. Tämä tapahtui vasta aamun jo sarastaessa.</p>
+                  <p rend="justify">6.</p>
+                  <p rend="justify">Tuon riitapäivän jälkeisenä aamuna lähti Jakow muitten työläisten kera höyryn vetämällä purrella taimenen pyyntiin erääseen lahdelmaan, joka sijaitsi kolmenkymmenen virstan päässä. Viisi päivää myöhemmin palasi hän kalastamoon purjeveneellä — hänet oli lähetetty muonitusta noutamaan. Hän tuli päivällisen aikaan, juuri kun työläiset lepäsivät päivällistä syötyään. Oli sietämättömän kuuma: hehkuva hiekka poltti jalkojen alla ja kalojen suomut ja ruodot pistivät niihin kuin neulat. Jakow asteli varovasti työläisasuntolain luo kiroten sitä, ettei ottanut saappaita jalkaansa. Hän oli liian laiska kääntyäkseen takaisin veneelle ja sitäpaitsi tahtoi hän saada jotain syödäkseen ja tavata Malvan. Merellä oleskellessaan oli hän usein kaiholla muistellut tyttöä. Ja nyt halusi Jakow saada kuulla, oliko hän tavannut isää ja mitä tämä oli sanonut… Ehkä oli hän tyttöä lyönyt? Ei olisi haitaksi, vaikkakin tyttö joskus saisi selkäänsä. Muuten pysyi hän liian ylpeänä ja julkeana…</p>
+                  <p rend="justify">Kalastamossa näytti kaikki autiolta ja tyhjältä. Akkunat asuntoloissa olivat avoinna ja nämä suuret puiset laatikotkin näyttivät menehtyvän kuumuudessa. Asuntolain takana olevassa konttorissa kuului muuan lapsi huutavan täyttä kurkkua. Erään tynnöriröykkiön takaa kuului kuiskaavia ääniä.</p>
+                  <p rend="justify">Jakow asteli nopeasti sinnepäin, sillä hän luuli sieltä kuulevansa Malvankin äänen. Mutta tultuaan perille ja luotuaan katseensa sen taakse, astui hän askeleen taaksepäin ja pysähtyi rypistäen otsansa.</p>
+                  <p rend="justify">Tynnörien varjossa makasi näet punatukkainen Serjoschka selällään kädet ristissä pään alla. Toisella puolella istui Jakowin isä, toisella Malva.</p>
+                  <p rend="justify">Jakow ihmetteli miksi isä täällä oli. Oliko hän jättänyt rauhallisen vartijatoimensa ja muuttanut tänne kalastamoon ollakseen Malvaa lähempänä ja pitääkseen häntä loitolla tytöstä? Oi, tuo vanha kettu! Ajattelehan, jospa äiti tietäisi hänen kujeistaan… Menisikö hän heidän luokseen, vai ei?</p>
+                  <lg>
+                     <l>"Vai niin…", sanoi Serjoschka. "Olet siis tullut jättämään hyvästejä?</l>
+                     <l>No niin, lähde vain huoleti maata tonkimaan…"</l>
+                  </lg>
+                  <p rend="justify">Jakow säpsähti ja vilkkui iloisesti silmillään.</p>
+                  <p rend="justify">"Niin, minä lähden…", sanoi isä.</p>
+                  <p rend="justify">Silloin astui Jakow rohkeana esiin ja tervehti:</p>
+                  <p rend="justify">"Hyvää päivää, arvon herrasväki."</p>
+                  <p rend="justify">Isä katsoi vain vilaukselta häntä ja käänsi päänsä sivulle, Malva ei edes räpäyttänyt silmäluomiaankaan ja Serjoschka potkasi jalallaan sanoen matalalla äänellä:</p>
+                  <p rend="justify">"Kas, tässähän saapuu rakastettu poikamme Jaschka kotiin kaukaisilta mailta…", ja lisäsi sitten tavallisella äänellään: "Nylje häneltä nahka… kuten lampaalta turkki…"</p>
+                  <p rend="justify">Malva nauroi puhumatta sanaakaan.</p>
+                  <p rend="justify">"Miten täällä on kuuma", sanoi Jakow istuutuen heidän viereensä.</p>
+                  <p rend="justify">Vasili katsoi poikaansa vastenmielisesti.</p>
+                  <p rend="justify">"Olen sinua täällä odottanut aamusta saakka, Jakow. Tarkastaja sanoi minulle eilen että tulisit…", virkkoi hän.</p>
+                  <p rend="justify">Isän ääni tuntui nyt entistä hiljaisemmalta ja kasvojenkin ilme oli muuttunut.</p>
+                  <lg>
+                     <l>"Olen täällä noutamassa ruokavaroja…", kertoi hän pyytäen</l>
+                     <l>Serjoschkalta tupakkaa savukkeen tekoon.</l>
+                  </lg>
+                  <lg>
+                     <l>"Sinun varaltasi ei minun tupakkani ole, senkin pässinpää", sanoi</l>
+                     <l>Serjoschka itseään edes liikuttamatta.</l>
+                  </lg>
+                  <p rend="justify">"Minä lähden kotia, Jakow", sanoi Vasili painavasti sormellaan piirustellen hiekkaan.</p>
+                  <p rend="justify">"Miksi…", kysyi Jakow katsoen viattomasti isäänsä.</p>
+                  <p rend="justify">"No… ja sinä… jäätkö sinä?"</p>
+                  <p rend="justify">"Kyllä,… minä jään… Mitäpä me molemmat kotona tekisimme?"</p>
+                  <p rend="justify">"No… en sano mitään… Tee mielesi mukaan… ethän enää ole mikään lapsi. Mutta yksi asia tulee sinun muistaa… minä näet en kauan enää kestä. Elää voin vielä kauankin… mutta tehdä työtä… siinä suhteessa en tiedä kuinka tulee käymään… Olen näet tottumaton maatyöhön… Muista, että kotona on sinulla äiti."</p>
+                  <lg>
+                     <l>Hän tuntui puhuvan vaikeasti — sanat aivankuin takertuivat kurkkuun.</l>
+                     <l>Vapisevalla kädellään hän silitteli partaansa.</l>
+                  </lg>
+                  <p rend="justify">Malva häneen lakkaamatta katsoi. Serjoschka sulki toisen silmänsä; toinen tuli aivan pyöreäksi ja sillä hän katsoi Jakowia silmiin. Jakov, oli hyvin iloinen, mutta sitä salatakseen hän vaikeni ja katseli jalkojaan.</p>
+                  <p rend="justify">"Älä siis unohda äitiäsi, Jakow… Muista hänellä olevan vain sinut enää", sanoi Vasili.</p>
+                  <p rend="justify">"Entä sitten", sanoi Jakow kohottaen rintaansa. "Senhän kyllä tiedän."</p>
+                  <p rend="justify">"Hyvä on, jos sen tiedät", sanoi isä luoden poikaansa epäilevän katseen. "Sanonkin vain: älä unohda…"</p>
+                  <p rend="justify">"No…"</p>
+                  <p rend="justify">Vasili huokasi syvään. Pitkän tuokion vaikenivat kaikki neljä. Vihdoin sanoi Malva:</p>
+                  <p rend="justify">"Työkello kai heti soi."</p>
+                  <p rend="justify">"Niin, minä menen", selitti Vasili nousten. Kaikki toisetkin nousivat.</p>
+                  <p rend="justify">"Jää hyvästi, Sergei… Kun tulet Volga-alueelle, älä unohda meitä käydä tervehtimässä… Ja Simbirskan alueella, Maslon kylässä, Nikolo-Lykowskan piirissä…"</p>
+                  <p rend="justify">"Hyvä", sanoi Serjoschka puristaen vanhuksen ojennettua kättä, jota kauan piti omassa, luisessa, punakarvaisessa kourassaan samalla hymyillen katsoen tämän surullisiin, vakaviin kasvoihin.</p>
+                  <p rend="justify">"Lykovo-Nikolskoje on suuri kirkonkylä… Se on laajalti ympäristössä tunnettu ja me asumme siitä neljä virstaa", selitteli Vasili.</p>
+                  <p rend="justify">"Niin, niin… Minä kyllä tulen… jos sinnepäin joudun…"</p>
+                  <p rend="justify">"Hyvästi!"</p>
+                  <p rend="justify">"Hyvästi, rakas ystävä!"</p>
+                  <p rend="justify">"Hyvästi Malva", sanoi Vasili välinpitämättömällä äänellä tyttöön edes katsomatta.</p>
+                  <p rend="justify">Pitämättä lainkaan kiirettä pyyhki tyttö hialla huuliaan, asetti sitten valkeat kätensä vanhuksen olalle ja suuteli häntä äänettömänä ja vakavana kolme kertaa poskille ja suulle.</p>
+                  <p rend="justify">Vasili hämmästyi mutisten jotain käsittämätöntä. Jakow painoi alas päänsä salatakseen hymyilynsä, mutta Serjoschka oli puolestaan aivan välinpitämätön, katseli vain kohti taivasta ja — haukotteli.</p>
+                  <p rend="justify">"Sinulle tulee kuuma kävellä", hän sanoi.</p>
+                  <p rend="justify">"Ei haittaa mitään… No hyvästi, Jakow!"</p>
+                  <p rend="justify">"Hyvästi!"</p>
+                  <p rend="justify">He seisoivat vastakkain tietämättä mitä tehdä. Tuo surullinen sana "hyvästi", mikä tänä hetkenä useasti ja kolkkona oli ilmassa kuulunut, herätti Jakowin povessa hellän tunteen isäänsä kohtaan, mutta hän ei tiennyt, miten saisi sen ilmaistuksi — syleilisikö hän isäänsä kuten Halvakin, vain puristaisiko hänen kättään niinkuin Serjoschka? Vasili puolestaan tunsi tuon poikansa epäilyksen, mikä ilmeni asemasta ja kasvojen ilmeestä, itseään loukkaavan ja sitäpaitsi hänkin tunsi samallaista ujoutta Jakowia kohtaan. Malvan suutelot ja kohtaus hiekkasärkällä tuon tunteen hänessä herättivät.</p>
+                  <p rend="justify">"Niin… muistahan äitiäsi", sanoi Vasili lopuksi.</p>
+                  <p rend="justify">"Kyllä, kyllä, ole vain huoleti", virkkoi Jakow sydämellisesti hymyillen. "Kyllä minä…" Ja varmuudeksi nyökkäsi hän päällään.</p>
+                  <p rend="justify">"No… sitten ei ole muuta enää! Eläkää onnellisina ja olkoon Jumala kanssanne… älkää minusta pahaa ajatelko!… Kuulehan Serjoschka. kattilan olen kaivanut hiekkaan, vihreän veneen perän kohdalle."</p>
+                  <p rend="justify">"Mitä nyt enää kattilalla teemme", kysyi Jakow samassa.</p>
+                  <p rend="justify">"Hän on perinyt paikkani… tuolla hiekkasärkällä…", selitti Vasili.</p>
+                  <p rend="justify">Jakow katsoi kadehtien Serjoschkaa, loi sitten katseensa Malvaan ja painoi päänsä alas salatakseen riemunvälkkeen silmissään.</p>
+                  <p rend="justify">"Hyvästi veljet… nyt menen!"</p>
+                  <p rend="justify">Vasili kumarsi heille ja meni. Malva häntä seurasi.</p>
+                  <p rend="justify">"Seuraan sinua pienen matkan…"</p>
+                  <p rend="justify">Serjoschka ojentautui hiekalle ja tarttui Jakowin jalkaan, juuri kun tämä oli aikeessa seurata mukana.</p>
+                  <p rend="justify">"Ptruu! Minne matka?"</p>
+                  <p rend="justify">"Kas niin, päästä minut…" Jakow tahtoi riistäytyä irti.</p>
+                  <p rend="justify">Mutta Serjoschka tarttui hänen toiseenkin jalkaansa.</p>
+                  <p rend="justify">"Jää tänne luokseni sinä…"</p>
+                  <p rend="justify">"Mitä vehkeilyä se on?"</p>
+                  <p rend="justify">"Ei se mitään vehkeilyä ole… Istu tuohon!"</p>
+                  <p rend="justify">Jakow kiristi hampaitaan ja istuutui.</p>
+                  <p rend="justify">"Mitä minusta tahdot?"</p>
+                  <p rend="justify">"Odota! Ole hiljaa ja anna minun miettiä, niin saat sitten kuulla…"</p>
+                  <p rend="justify">Hän katsoi nuorukaiseen julkeilla silmillään ja Jakow mukautui…</p>
+                  <p rend="justify">Malva ja Vasili kulkivat hetkisen ääneti. Tyttö katsoi sivulta vanhuksen kasvoja ja hänen silmissään paloi outo loisto. Vasili katsoi eteensä ja vaikeni. Heidän askeleistaan vajosi hiekka, ja kulku oli hidasta.</p>
+                  <p rend="justify">"Vassja!"</p>
+                  <p rend="justify">"Mikä on?"</p>
+                  <p rend="justify">Vasili katsoi tyttöön, mutta kääntyi heti pois.</p>
+                  <p rend="justify">"Olen tahallani järjestänyt tämän epäsovun sinun ja poikasi välille. Voisitte ehkä elää yhdessä täällä riitelemättä", sanoi hän tyyneesti: hänen äänensä ei ilmaissut jälkeäkään mistään katumuksesta.</p>
+                  <p rend="justify">"Miksi sen teit", kysyi Vasili silmänräpäyksen vaiettuaan.</p>
+                  <p rend="justify">"En tiedä… Se nyt kävi niin!"</p>
+                  <p rend="justify">Nauraen tyttö kohotti olkapäitään.</p>
+                  <p rend="justify">"Mitä oletkaan saanut aikaan! Voi sinua!" Vasili nuhteli tyttöä ankaralla äänellä.</p>
+                  <p rend="justify">Malva vaikeni.</p>
+                  <p rend="justify">"Sinä turmelet minulta pojan, vallan pahasti hänet turmelet! Sinä, senkin velho… Et sinä edes Jumalaa pelkää… etkä edes tunne häpeääkään… mitä oikeastaan teetkään?"</p>
+                  <p rend="justify">"Mitä minun sitte pitää tehdä", kysyi hän. Kysymyksessä oli puoleksi katumusta, puoleksi suuttumusta.</p>
+                  <p rend="justify">"Mitäkö? Voi sinua!…", virkkoi Vasili tuntien vihan syttyvän sisimmässään.</p>
+                  <p rend="justify">Hän tunsi tuskallista halua lyödä tuota naista, syöstä hänet nurin hiekalle ja polkea häntä jalallaan, potkaista häntä saappaillaan rintaan ja kasvoihin. Hän puristi kätensä nyrkkiin ja katsoi ympärilleen.</p>
+                  <p rend="justify">Tuolla tynnörien luona olivat Jakow ja Serjoschka ja he katsoivat yhä menijöitä.</p>
+                  <p rend="justify">"Mene tiehesi… mene! Voisin vaikka lyödä sinut kuoliaaksi…"</p>
+                  <p rend="justify">Hän pysähtyi syytäen joukon haukkumasanoja tyttöä vasten kasvoja. Hänen silmänsä verestivät, parta tutisi ja kätensä vastenmielisesti kopeloivat tytön tukkaa, mikä pilkisti esiin kaulahuivin alta.</p>
+                  <p rend="justify">Mutta Malva vain tyyneesti katsoi miestä vihreillä silmillään.</p>
+                  <p rend="justify">"Minun pitäisi tappaa sinut, senkin portto! Mutta odotahan… kyllä sinunkin hetkesi vielä tulee… aina joku kopauttaa kalloosi."</p>
+                  <p rend="justify">Tyttö hymyili, vaikeni hetkisen ja sanoi sitten syvään huoaten:</p>
+                  <p rend="justify">"Jo riittää… Hyvästi!"</p>
+                  <p rend="justify">Ja samassa hän kääntyi lähtien samaa tietä takaisin.</p>
+                  <p rend="justify">Vasili karjasi jotain hänen jälkeensä purren hampaitaan. Malva yritti paluumatkallaan astua Vasilin saappaitten jättämiin syviin jälkiin hiekassa, ja milloin tämä onnistui, silitti hän jalallaan huolellisesti jäljet. Niin asteli hän verkkaan takaisin tynnörien luo, missä Serjoschka otti hänet vastaan kysyen:</p>
+                  <p rend="justify">"No, oletko nyt saattanut Vasilin?"</p>
+                  <p rend="justify">Malva nyökkäsi myöntävästi päällään istuutuen kysyjän viereen. Jakow katseli tyttöä hellästi, hyväilevin katsein ja liikutti huuliaan kuin jotain kuiskatakseen, mutta sitä ei kukaan kuullut.</p>
+                  <p rend="justify">"Olet saattanut ja nyt häntä suret", kysyi Serjoschka uudelleen muistutellen laulun sanoja.</p>
+                  <p rend="justify">"Milloin lähdet tuonne kauas pois, hiekkasärkille", kysyi Malva puolestaan nyökäten päällään kohti merta.</p>
+                  <p rend="justify">"Tänä iltana."</p>
+                  <p rend="justify">"Minä seuraan mukanasi…"</p>
+                  <p rend="justify">"Hyvä!… Siitä olen mielissäni…"</p>
+                  <p rend="justify">"Minä seuraan myös mukana", sanoi Jakow päättävästi.</p>
+                  <p rend="justify">"Kuka sinua sinne on pyytänyt tulemaan", kysyi Serjoschka siristäen silmiään.</p>
+                  <p rend="justify">Särkyneen kellon rämisevä ääni kuului nyt — se kutsui työhön. Lyöntien äänet ajoivat kiireesti toisiaan ilmassa kuin peläten tulevansa liian myöhään tai hukkuvansa aaltojen iloiseen loiskintaan.</p>
+                  <p rend="justify">"Malva kyllä pyytää minut", sanoi Jakow ja katsoi vaativana Malvaa.</p>
+                  <p rend="justify">"Minäkö? Mitäpä minä sinusta", tuumaili tyttö.</p>
+                  <p rend="justify">"Puhukaamme selvää kieltä, Jaschka…", sanoi Serjoschka röyhkeästi nousten seisaalleen. "Ellet anna hänen olla rauhassa, isken sinut palasiksi pitkin ja poikin. Jos vain sormellakaan häneen kosket, murskaan sinut kuin kärpäsen! Lyön sinua kalloon… ja niin ovat päiväsi luetut! Minä puolestani olen aina harrastanut yksinkertaista ja avomielistä menettelyä!"</p>
+                  <p rend="justify">Hänen kasvonsa ja koko olentonsa ja varsinkin nuo luiset kädet, mitkä uhkasivat Jakowin kurkkua, puhuivat epäilemättä puolestaan miten yksinkertaista hänestä tosiaankin oli ihmisen tappaminen.</p>
+                  <p rend="justify">Jakow astui askeleen taaksepäin ja sanoi pelokkaasti:</p>
+                  <p rend="justify">"Odotahan hetkinen! Itsehän Malva on…"</p>
+                  <p rend="justify">"Suu kiinni — nyt on tarpeeksi siitä asiasta puhuttu! Mitä olet sinä oikeastaan miehiäsi? Sinulle ei kuulu, senkin koira, syödä lammas suihisi — ole kiitollinen, jos eteesi viskataan luut jyrsittäväksi… No?… Mitä siinä töllistelet?"</p>
+                  <p rend="justify">Jakow katsoi Malvaa. Tytön vihreät silmät katsoivat häneen pilkallisesti, halveksivasti ja hän hiipi hellänä Serjoschkan puoleen; hiki virtasi Jakowin ohimoilla.</p>
+                  <p rend="justify">Molemmat he rinnakkain kulkivat hänen luotaan pois ja päästyään hiukan etäämmälle purskahtivat he raikkaaseen nauruun. Jakow painoi oikean jalkansa syvälle hiekkaan, jääden siihen asentoonsa kuin kivettyneenä seisomaan hehkuvin poskin ja raskaasti huokaavin rinnoin.</p>
+                  <p rend="justify">Kaukana etäisyydessä liikkui pieni tumma ihmisolento — keltaisia, kuolleita hiekkalaineita: oikealla kimmelsi auringossa iloitseva mahtava meri ja vasemmalla ulottui synkkä, yksitoikkoinen, autio hiekkaerämaa loppumattomiin. Jakow katseli yksinäistä olentoa ja räpäytti silmiään, joissa loukkaantunut ylpeys taisteli taisteluaan ja hieroi lujasti rintaansa molemmilla käsillään…</p>
+                  <lg>
+                     <l>Kalastamossa oli työ täydessä käynnissä.</l>
+                     <l>Jakow kuuli Malvan syvän, heleän äänen lujaa huutavan:</l>
+                     <l>"Kuka on ottanut puukkoni?…"</l>
+                     <l>Laineet lauloivat, aurinko kimmelsi, meri hymyi…</l>
+                  </lg>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

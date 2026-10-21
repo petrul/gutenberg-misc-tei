@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Les Précieuses ridicules</title>
+            <author>Molière</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-01T19:48:35Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">odts/fr-odts/Moli-LesPr_2004.epub.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Molière</name>
+               <date>2024-01-01T19:48:35Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Les Précieuses ridicules</head>
+         <author>Molière</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">odts/fr-odts/Moli-LesPr_2004.epub.odt</p>
+         <p>Produced by Laurent Le Guillou</p>
+         <p>Les Précieuses Ridicules</p>
+         <p>Source:</p>
+         <p>Jean-Baptiste Poquelin (1620-1673), alias Molière,<lb/>"Oeuvres de Molière, avec des notes de tous les commentateurs",<lb/>Tome Premier,<lb/>Paris, Librarie de Firmin-Didot et Cie,<lb/>Imprimeurs de l'Institut, rue Jacob, 56,<lb/>1890.<lb/>
+         </p>
+         <p>Pages 151-181.</p>
+         <p>[Spelling of the 1890 edition. Footnotes have been retained because they provide the meanings of old French words or expressions. Footnote are indicated by numbers in brackets, and are grouped at the end of the Etext. Text encoding is iso-8859-1.]</p>
+         <p>————————————————————————————————————-</p>
+         <pb/>
+         <div type="div1">
+            <head>Les Précieuses ridicules</head>
+            <pb/>
+            <div type="div2">
+               <head>PRÉFACE DES PRÉCIEUSES RIDICULES</head>
+               <p rend="justify">C'est une chose étrange qu'on imprime les gens malgré eux ! Je ne vois rien de si injuste, et je pardonnerais toute autre violence plutôt que celle-là.</p>
+               <p rend="justify">Ce n'est pas que je veuille faire ici l'auteur modeste, et mépriser par honneur ma comédie. J'offenserais mal à propos tout Paris, si je l'accusais d'avoir pu applaudir à une sottise ; comme le public est le juge absolu de ces sortes d'ouvrages, il y aurait de l'impertinence à moi de le démentir ; et quand j'aurais eu la plus mauvaise opinion du monde de mes "Précieuses ridicules" avant leur représentation, je dois croire maintenant qu'elles valent quelque chose, puisque tant de gens ensemble en ont dit du bien. Mais comme une grande partie des grâces qu'on y a trouvées dépendent de l'action et du ton de la voix, il m'importait qu'on ne les dépouillât pas de ces ornements, et je trouvais que le succès qu'elles avaient eu dans la représentation était assez beau pour en demeurer là. J'avais résolu, dis-je, de les faire voir qu'à la chandelle, pour ne point donner lieu à quelqu'un de dire le proverbe (1), et je ne voulais pas qu'elles sautassent du théâtre de Bourbon dans la galerie du Palais. Cependant je n'ai pu l'éviter, et je suis dans la disgrâce de voir une copie dérobée de ma pièce entre les mains des libraires, accompagnée d'un privilège obtenu par surprise. j'ai eu beau crier : O temps ! ô moeurs ! on m'a fait voir une nécessité pour moi d'être imprimé, ou d'avoir un procès ; et le dernier mal est encore pire que le premier. Il faut donc se laisser aller à la destinée, et consentir à une chose qu'on ne laisserait pas de faire sans moi.</p>
+               <p rend="justify">Mon Dieu ! l'étrange embarras qu'un livre à mettre au jour ; et qu'un auteur est neuf la première fois qu'on l'imprime ! Encore si l'on m'avait donné du temps, j'aurais pu mieux songer à moi, et j'aurais pris toutes les précautions que messieurs les auteurs, à présent mes confrères, ont coutume de prendre en semblables occasions. Outre quelque grand seigneur que j'aurais été prendre malgré lui pour protecteur de mon ouvrage, et dont j'aurais tenté la libéralité par une épître dédicatoire bien fleurie, j'aurais tâché de faire une belle et docte préface ; et je ne manque point de livres qui m'auraient fourni tout ce qu'on peut dire de savant sur la tragédie et la comédie, l'étymologie de toutes deux, leur origine, leur définition, et le reste.</p>
+               <p rend="justify">J'aurais aussi parlé à mes amis, qui, pour la recommandation de ma pièce, ne m'auraient pas refusé ou des vers français, ou des vers latins. j'en ai même qui m'auraient loué en grec ; et l'on n'ignore pas qu'une louange en grec est d'une merveilleuse efficace à la tête d'un livre. Mais on me met au jour sans me donner le loisir de me reconnaître ; et je ne puis même obtenir la liberté de dire deux mots pour justifier mes intentions sur le sujet de cette comédie. j'aurais voulu faire voir qu'elle se tient partout dans les bornes de la satire honnête et permise ; que les plus excellentes choses sont sujettes à être copiées par de mauvais singes qui méritent d'être bernés ; que ces vicieuses imitations de ce qu'il y a de plus parfait ont été de tout temps la matière de la comédie, et que, par la même raison que les véritables savants et les vrais braves ne se sont point encore avisés de s'offenser du Docteur de la comédie, et du Capitan, non plus que les juges, les princes et les rois de voir Trivelin (2), ou quelque autre, sur le théâtre, faire ridiculement le juge, le prince, ou le roi ; aussi les véritables précieuses auraient tort de se piquer lorsqu'on joue les ridicules qui les imitent mal. Mais enfin, comme j'ai dit, on ne me laisse pas le temps de respirer, et M. de Luynes (3) veut m'aller faire relier de ce pas : à la bonne heure, puisque Dieu l'a voulu.</p>
+               <p rend="justify">—————-</p>
+               <p rend="justify">(1) Molière fait allusion à ce proverbe : "Elle est belle à la chandelle, mais le grand jour gâte tout."</p>
+               <p rend="justify">—————-</p>
+               <p rend="justify">(2) Le "Docteur", le "Capitan" et "Trivelin", étaient trois personnages ou caractères appartenant à la farce italienne.</p>
+               <p rend="justify">—————-</p>
+               <p rend="justify">(3) Ce de Luynes était un libraire qui avait sa boutique dans la galerie du Palais.</p>
+               <p rend="justify">—————-</p>
+               <p rend="justify">————————————————————————————————————-</p>
+            </div>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>LES PRÉCIEUSES RIDICULES</head>
+            <p rend="justify">Comédie (1659).</p>
+            <pb/>
+            <div type="div2">
+               <head>PERSONNAGES ACTEURS</head>
+               <lg>
+                  <l>La Grange, La Grange.</l>
+                  <l>Du Croisy, amants rebutés. Du Croisy.</l>
+                  <l>Gorgibus, bon bourgeois. L'Espy.</l>
+                  <l>Madelon, fille de Gorgibus, Mlle De Brie.</l>
+                  <l>Cathos, nièce de Gorgibus, précieuses ridicules. Mlle Du Parc.</l>
+                  <l>Marotte, servante des précieuses ridicules. Madel. Béjart.</l>
+                  <l>Almanzor, laquais des précieuses ridicules. De Brie.</l>
+                  <l>Le Marquis de Mascarille, valet de la Grange. Molière.</l>
+                  <l>Le Vicomte de Jodelet, valet de du Croisy. Brécourt.</l>
+                  <l>Deux porteurs de chaise.</l>
+                  <l>Voisines.</l>
+                  <l>Violons.</l>
+               </lg>
+               <p rend="justify">La scène à Paris, dans la maison de Gorgibus.</p>
+               <p rend="justify">SCÈNE PREMIÈRE. - La Grange, Du Croisy.</p>
+               <p rend="justify">- Du Croisy -</p>
+               <p rend="justify">Seigneur la Grange…</p>
+               <p rend="justify">- La Grange -</p>
+               <p rend="justify">Quoi ?</p>
+               <p rend="justify">- Du Croisy -</p>
+               <p rend="justify">Regardez-moi un peu sans rire.</p>
+               <p rend="justify">- La Grange -</p>
+               <p rend="justify">Eh bien ?</p>
+               <p rend="justify">- Du Croisy -</p>
+               <p rend="justify">Que dites-vous de notre visite ? En êtes-vous fort satisfait ?</p>
+               <p rend="justify">- La Grange -</p>
+               <p rend="justify">A votre avis, avons-nous sujet de l'être tous deux ?</p>
+               <p rend="justify">- Du Croisy -</p>
+               <p rend="justify">Pas tout à fait, à dire vrai.</p>
+               <p rend="justify">- La Grange -</p>
+               <p rend="justify">Pour moi, je vous avoue que j'en suis tout scandalisé. A-t-on jamais vu, dites-moi, deux pecques (1) provinciales faire plus les renchéries que celles-là, et deux hommes traités avec plus de mépris que nous ? A peine ont-elles pu se résoudre à nous faire donner des sièges. Je n'ai jamais vu tant parler à l'oreille qu'elles ont fait entre elles, tant baîller, tant se frotter les yeux, et demander tant de fois : Quelle heure est-il ? Ont-elles répondu que Oui et Non à tout ce que nous avons pu leur dire ? Et ne m'avouerez-vous pas enfin que, quand nous aurions été les dernières personnes du monde, on ne pouvait nous faire pis qu'elles ont fait ?</p>
+               <p rend="justify">- Du Croisy -</p>
+               <p rend="justify">Il me semble que vous prenez la chose fort à coeur.</p>
+               <p rend="justify">- La Grange -</p>
+               <p rend="justify">Sans doute, je l'y prends, et de telle façon, que je me veux venger de cette impertinence. Je connais ce qui nous a fait mépriser. L'air précieux n'a pas seulement infecté Paris, il s'est aussi répandu dans les provinces, et nos donzelles ridicules en ont humé leur bonne part. En un mot, c'est un ambigu (2) de précieuse et de coquette que leur personne. Je vois ce qu'il faut être pour en être bien reçu ; et, si vous m'en croyez, nous leur jouerons tous deux une pièce qui leur fera voir leur sottise, et pourra leur apprendre à connaître un peu mieux leur monde.</p>
+               <p rend="justify">- Du Croisy -</p>
+               <p rend="justify">Et comment, encore ?</p>
+               <p rend="justify">- La Grange -</p>
+               <p rend="justify">J'ai un certain valet, nommé Mascarille, qui passe au sentiment de beaucoup de gens, pour une manière de bel esprit, car il n't a rien de meilleur marché que le bel esprit maintenant. C'est un extravagant qui s'est mis en tête de vouloir faire l'homme de condition. Il se pique ordinairement de galanterie et de vers, et dédaigne les autres valets, jusqu'à les appeler brutaux.</p>
+               <p rend="justify">- Du Croisy -</p>
+               <p rend="justify">Eh bien ! qu'en prétendez-vous faire ?</p>
+               <p rend="justify">- La Grange -</p>
+               <p rend="justify">Ce que j'en prétends faire ? Il faut… Mais sortons d'ici auparavant.</p>
+               <p rend="justify">—————-</p>
+               <p rend="justify">SCÈNE II. - Gorgibus (3), Du Croisy, La Grange.</p>
+               <p rend="justify">- Gorgibus -</p>
+               <p rend="justify">Eh bien ! vous avez vu ma nièce et ma fille ? Les affaires iront-elles bien ? Quel est le résultat de cette visite ?</p>
+               <p rend="justify">- La Grange -</p>
+               <p rend="justify">C'est une chose que vous pourrez mieux apprendre d'elles que de nous. Tout ce que nous pouvons vous dire, c'est que nous vous rendons grâce de la faveur que vous nous avez faite, et demeurons vos très humbles serviteurs.</p>
+               <p rend="justify">- Du Croisy -</p>
+               <p rend="justify">Vos très humbles serviteurs.</p>
+               <p rend="justify">- Gorgibus -</p>
+               <p rend="justify">(seul.)</p>
+               <p rend="justify">Ouais ! il semble qu'ils sortent mal satisfaits d'ici. D'où pourrait venir leur mécontentement ? Il faut savoir un peu ce que c'est. Holà !</p>
+               <p rend="justify">—————-</p>
+               <p rend="justify">SCÈNE III. - Gorgibus, Marotte.</p>
+               <p rend="justify">- Marotte -</p>
+               <p rend="justify">Que désirez-vous, Monsieur ?</p>
+               <p rend="justify">- Gorgibus -</p>
+               <p rend="justify">Où sont vos maîtresses ?</p>
+               <p rend="justify">- Marotte -</p>
+               <p rend="justify">Dans leur cabinet.</p>
+               <p rend="justify">- Gorgibus -</p>
+               <p rend="justify">Que font-elles ?</p>
+               <p rend="justify">- Marotte -</p>
+               <p rend="justify">De la pommade pour les lèvres.</p>
+               <p rend="justify">- Gorgibus -</p>
+               <p rend="justify">C'est trop pommadé. Dites-leur qu'elles descendent.</p>
+               <p rend="justify">—————-</p>
+               <p rend="justify">SCÈNE IV. - Gorgibus.</p>
+               <p rend="justify">- Gorgibus -</p>
+               <p rend="justify">Ces pendardes-là, avec leur pommade, ont, je pense, envie de me ruiner. Je ne vois partout que blancs d'oeufs, lait virginal, et mille autres brimborions que je ne connais point. Elles ont usé, depuis que nous sommes ici, le lard d'une douzaine de cochons, pour le moins ; et quatre valets vivraient tous les jours des pieds de mouton qu'elles emploient.</p>
+               <p rend="justify">—————-</p>
+               <p rend="justify">SCÈNE V. - Madelon, Cathos, Gorgibus.</p>
+               <p rend="justify">- Gorgibus -</p>
+               <p rend="justify">Il est bien nécessaire, vraiment, de faire tant de dépense pour vous graisser le museau ! Dites-moi un peu ce que vous avez fait à ces messieurs, que je les vois sortir avec tant de froideur ? Vous avais-je pas commandé de les recevoir comme des personnes que je voulais vous donner pour maris ?</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Et quelle estime, mon père, voulez-vous que nous fassions du procédé irrégulier de ces gens-là ?</p>
+               <p rend="justify">- Cathos -</p>
+               <p rend="justify">Le moyen, mon oncle, qu'une fille un peu raisonnable se pût accommoder de leur personne ?</p>
+               <p rend="justify">- Gorgibus -</p>
+               <p rend="justify">Et qu'y trouvez-vous à redire ?</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">La belle galanterie que la leur ! Quoi ! débuter d'abord par le mariage ?</p>
+               <p rend="justify">- Gorgibus -</p>
+               <p rend="justify">Et par où veux-tu donc qu'ils débutent ? par le concubinage ? N'est-ce pas un procédé dont vous avez sujet de vous louer toutes deux, aussi bien que moi ? Est-il rien de plus obligeant que cela ? Et ce lien sacré où ils aspirent n'est-il pas un témoignage de l'honnêteté de leurs intentions ?</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Ah ! mon père, ce que vous dites là est du dernier bourgeois. Cela me fait honte de vous ouïr parler de la sorte, et vous devriez un peu vous faire apprendre le bel air des choses.</p>
+               <p rend="justify">- Gorgibus -</p>
+               <p rend="justify">Je n'ai que faire ni d'air ni de chanson. Je te dis que le mariage est une chose sainte et sacrée, et que c'est faire en honnêtes gens que de débuter par là.</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Mon Dieu ! que si tout le monde vous ressemblait, un roman serait bientôt fini ! La belle chose que ce serait, si d'abord Cyrus épousait Mandane, et qu'Aronce de plain-pied fût marié à Clélie (4) !</p>
+               <p rend="justify">- Gorgibus -</p>
+               <p rend="justify">Que me vient conter celle-ci ?</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Mon père, voilà ma cousine qui vous dira aussi bien que moi que le mariage ne doit jamais arriver qu'après les autres aventures. Il faut qu'un amant, pour être agréable, sache débiter les beaux sentiments, pousser le doux, le tendre et le passionné (5), et que sa recherche soit dans les formes. Premièrement, il doit voir au temple, ou à la promenade, ou dans quelque cérémonie publique, la personne dont il devient amoureux ; ou bien être conduit fatalement chez elle par un parent ou un ami, et sortir de là tout rêveur et mélancolique. Il cache un temps sa passion à l'objet aimé, et cependant lui rend plusieurs visites, où l'on ne manque jamais de mettre sur le tapis une question galante qui exerce les esprits de l'assemblée. Le jour de la déclaration arrive, qui se doit faire ordinairement dans une allée de quelque jardin, tandis que la compagnie s'est un peu éloignée : et cette déclaration est suivie d'un prompt courroux, qui paraît à notre rougeur, et qui, pour un temps, bannit l'amant de notre présence. Ensuite il trouve moyen de nous apaiser, de nous accoutumer insensiblement au discours de sa passion, et de tirer de nous cet aveu qui fait tant de peine. Après cela viennent les aventures, les rivaux qui se jettent à la traverse d'une inclination établie, les persécutions des pères, les jalousies conçues sur de fausses apparences, les plaintes, les désespoirs, les enlèvements, et ce qui s'ensuit. Voilà comme les choses se traitent dans les belles manières, et ce sont des règles dont, en bonne galanterie, on ne saurait se dispenser. Mais en venir de but en blanc à l'union conjugale, ne faire l'amour qu'en faisant le contrat du mariage, et prendre justement le roman par la queue ; encore un coup, mon père, il ne se peut rien de plus marchand que ce procédé ; et j'ai mal au coeur de la seule vision que cela me fait.</p>
+               <p rend="justify">- Gorgibus -</p>
+               <p rend="justify">Quel diable de jargon entends-je ici ? Voici bien du haut style.</p>
+               <p rend="justify">- Cathos -</p>
+               <p rend="justify">En effet, mon oncle, ma cousine donne dans le vrai de la chose. Le moyen de bien recevoir des gens qui sont tout à fait incongrus en galanterie ! Je m'en vais gager qu'ils n'ont jamais vu la carte de Tendre, et que Billets-Doux, Petits-Soins, Billets-Galants et Jolis-Vers sont des terres inconnues pour eux (6). Ne voyez-vous pas que toute leur personne marque cela, et qu'ils n'ont point cet air qui donne d'abord bonne opinion des gens ? Venir en visite amoureuse avec une jambe toute unie, un chapeau désarmé de plumes, une tête irrégulière en cheveux, et un habit qui souffre une indigence de rubans ; mon Dieu, quels amants sont-ce là ! Quelle frugalité d'ajustements, et quelle sécheresse de conversation ! On n'y dure point, on n'y tient pas. J'ai remarqué encore que leurs rabats (7) ne sont pas de la bonne faiseuse, et qu'il s'en faut plus d'un grand demi-pied que leurs hauts-de-chausses ne soient assez larges.</p>
+               <p rend="justify">- Gorgibus -</p>
+               <p rend="justify">Je pense qu'elles sont folles toutes deux, et je ne puis rien comprendre à ce baragouin. Cathos, et vous, Madelon…</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Eh ! de grâce, mon père, défaites-vous de ces noms étranges et nous appelez autrement.</p>
+               <p rend="justify">- Gorgibus -</p>
+               <p rend="justify">Comment, ces noms étranges ? Ne sont-ce pas vos noms de baptême ?</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Mon Dieu, que vous êtes vulgaire ! Pour moi, un de mes étonnements, c'est que vous ayez pu faire une fille si spirituelle que moi. A-t-on jamais parlé, dans le beau style, de Cathos ni de Madelon, et ne m'avouerez-vous pas que ce serait assez d'un de ces noms pour décrier le plus beau roman du monde ?</p>
+               <p rend="justify">- Cathos -</p>
+               <p rend="justify">Il est vrai, mon oncle, qu'une oreille un peu délicate pâtit furieusement à entendre prononcer ces mots-là ; et le nom de Polyxène que ma cousine a choisi, et celui d'Aminte que je me suis donné, ont une grâce dont il faut que vous demeuriez d'accord.</p>
+               <p rend="justify">- Gorgibus -</p>
+               <p rend="justify">Ecoutez, il n'y a qu'un mot qui serve. Je n'entends point que vous ayez d'autres noms que ceux qui vous ont été donnés par vos parrains et marraines ; et pour ces messieurs dont il est question, je connais leurs familles et leurs biens, et je veux résolument que vous vous disposiez à les recevoir pour maris. Je me lasse de vous avoir sur les bras, et la garde de deux filles est une charge un peu trop pesante pour un homme de mon âge.</p>
+               <p rend="justify">- Cathos -</p>
+               <p rend="justify">Pour moi, mon oncle, tout ce que je vous puis dire, c'est que je trouve le mariage une chose tout à fait choquante. Comment est-ce qu'on peut souffrir la pensée de coucher contre un homme vraiment nu ?</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Souffrez que nous prenions un peu haleine parmi le beau monde de Paris, où nous ne faisons que d'arriver. Laissez-nous faire à loisir le tissu de notre roman, et n'en pressez point tant la conclusion.</p>
+               <p rend="justify">- Gorgibus -</p>
+               <p rend="justify">(à part.)</p>
+               <p rend="justify">Il n'en faut point douter, elles sont achevées.</p>
+               <p rend="justify">(Haut.)</p>
+               <p rend="justify">Encore un coup, je n'entends rien à toutes ces balivernes : je veux être maître absolu : et pour trancher toutes sortes de discours, ou vous serez mariées toutes deux avant qu'il soit peu, ou, ma foi, vous serez religieuses ; j'en fais un bon serment.</p>
+               <p rend="justify">—————-</p>
+               <p rend="justify">SCÈNE VI. - Cathos, Madelon.</p>
+               <p rend="justify">- Cathos -</p>
+               <p rend="justify">Mon Dieu, ma chère, que ton père a la forme enfoncée dans la matière ! que son intelligence est épaisse, et qu'il fait sombre dans son âme !</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Que veux-tu, ma chère ? J'en suis en confusion pour lui. J'ai peine à me persuader que je puisse être véritablement sa fille, et je crois que quelque aventure un jour me viendra développer une naissance plus illustre.</p>
+               <p rend="justify">- Cathos -</p>
+               <p rend="justify">Je le croirais bien ; oui, il y a toutes les apparences du monde ; et, pour moi, quand je me regarde aussi…</p>
+               <p rend="justify">—————-</p>
+               <p rend="justify">SCÈNE VII. - Cathos, Madelon, Marotte.</p>
+               <p rend="justify">- Marotte -</p>
+               <p rend="justify">Voilà un laquais qui demande si vous êtes au logis, et dit que son maître vous veut venir voir.</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Apprenez, sotte, à vous énoncer moins vulgairement. Dites : Voilà un nécessaire qui demande si vous êtes en commodité d'être visibles.</p>
+               <p rend="justify">- Marotte -</p>
+               <p rend="justify">Dame ! je n'entends point le latin : et je n'ai pas appris comme vous, la filophie dans le grand Cyre.</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">L'impertinente ! Le moyen de souffrir cela ! Et qui est-il le maître de ce laquais ?</p>
+               <p rend="justify">- Marotte -</p>
+               <p rend="justify">Il me l'a nommé le marquis de Mascarille.</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Ah ! ma chère, un marquis ! un marquis ! Oui, allez dire qu'on nous peut voir. C'est sans doute un bel esprit qui aura ouï parler de nous.</p>
+               <p rend="justify">- Cathos -</p>
+               <p rend="justify">Assurément, ma chère.</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Il faut le recevoir dans cette salle basse, plutôt qu'en notre chambre. Ajustons un peu nos cheveux au moins, et soutenons notre réputation. Vite, venez nous tendre ici dedans le conseiller des grâces.</p>
+               <p rend="justify">- Marotte -</p>
+               <p rend="justify">Par ma foi ! je ne sais point quelle bête c'est là ; il faut parler chrétien (8), si vous voulez que je vous entende.</p>
+               <p rend="justify">- Cathos -</p>
+               <p rend="justify">Apportez-nous le miroir, ignorante que vous êtes, et gardez-vous bien d'en salir la glace par la communication de votre image.</p>
+               <p rend="justify">(Elles sortent.)</p>
+               <p rend="justify">—————-</p>
+               <p rend="justify">SCÈNE VIII. - Mascarille, deux porteurs.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Holà ! porteurs, holà ! Là, là, là, là, là, là. Je pense que ces marauds-là ont dessein de me briser, à force de heurter contre les murailles et les pavés.</p>
+               <p rend="justify">- Premier porteur -</p>
+               <p rend="justify">Dame ! c'est que la porte est étroite. Vous avez voulu aussi que nous soyons entrés jusqu'ici.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Je le crois bien. Voudriez-vous, faquins, que j'exposasse l'embonpoint de mes plumes aux inclémences de la saison pluvieuse, et que j'allasse imprimer mes souliers en boue ? Allez, ôtez votre chaise d'ici.</p>
+               <p rend="justify">- Deuxième porteur -</p>
+               <p rend="justify">Payez-nous donc, s'il vous plaît, Monsieur.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Hein !</p>
+               <p rend="justify">- Deuxième porteur -</p>
+               <p rend="justify">Je dis, Monsieur, que vous nous donniez de l'argent, s'il vous plaît.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">(lui donnant un soufflet.)</p>
+               <p rend="justify">Comment, coquin ! demander de l'argent à une personne de ma qualité !</p>
+               <p rend="justify">- Deuxième porteur -</p>
+               <p rend="justify">Est-ce ainsi qu'on paye les pauvres gens ? et votre qualité nous donne-t-elle à dîner ?</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Ah ! ah ! je vous apprendrai à vous connaître ! Ces canailles-là s'osent jouer à moi.</p>
+               <p rend="justify">- Premier porteur -</p>
+               <p rend="justify">(Prenant un des bâtons de sa chaise.)</p>
+               <p rend="justify">Cà, payez-nous vitement.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Quoi ?</p>
+               <p rend="justify">- Premier porteur -</p>
+               <p rend="justify">Je dis que je veux avoir de l'argent tout à l'heure.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Il est raisonnable, celui-là.</p>
+               <p rend="justify">- Premier porteur -</p>
+               <p rend="justify">Vite donc !</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Oui-da ! Tu parles comme il faut, toi ; mais l'autre est un coquin qui ne sait ce qu'il dit. Tiens, es-tu content ?</p>
+               <p rend="justify">- Premier porteur -</p>
+               <p rend="justify">Non, je ne suis pas content : vous avez donné un soufflet à mon camarade, et…</p>
+               <p rend="justify">(Levant son bâton.)</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Doucement ! Tiens, voilà pour le soufflet. On obtient tout de moi quand on s'y prend de la bonne façon. Allez, venez me reprendre tantôt pour aller au Louvre, au petit coucher.</p>
+               <p rend="justify">—————-</p>
+               <p rend="justify">SCÈNE IX. - Marotte, Mascarille.</p>
+               <p rend="justify">- Marotte -</p>
+               <p rend="justify">Monsieur, voilà mes maîtresses qui vont venir tout à l'heure.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Qu'elles ne se pressent point : je suis ici posté commodément pour attendre.</p>
+               <p rend="justify">- Marotte -</p>
+               <p rend="justify">Les voici.</p>
+               <p rend="justify">—————-</p>
+               <p rend="justify">SCÈNE X. - Madelon, Cathos, Mascarille, Almanzor.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">(après avoir salué.)</p>
+               <p rend="justify">Mesdames, vous serez surprises sans doute de l'audace de ma visite ; mais votre réputation vous attire cette méchante affaire, et le mérite a pour moi des charmes si puissants, que je cours partout après lui.</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Si vous poursuivez le mérite, ce n'est pas sur nos terres que vous devez chasser.</p>
+               <p rend="justify">- Cathos -</p>
+               <p rend="justify">Pour voir chez nous le mérite, il a fallu que vous l'y ayez amené.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Ah ! je m'inscris en faux contre vos paroles. La renommée accuse juste en contant ce que vous valez ; et vous allez faire pic, repic et capot tout ce qu'il y a de galant dans Paris.</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Votre complaisance pousse un peu trop avant la libéralité de ses louanges ; et nous n'avons garde, ma cousine et moi, de donner de notre sérieux dans le doux de votre flatterie.</p>
+               <p rend="justify">- Cathos -</p>
+               <p rend="justify">Ma chère, il faudrait faire donner des sièges.</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Holà ! Almanzor.</p>
+               <p rend="justify">- Almanzor -</p>
+               <p rend="justify">Madame ?</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Vite, voiturez-nous ici les commodités de la conversation.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Mais, au moins, y a-t-il sûreté ici pour moi ?</p>
+               <p rend="justify">(Almanzor sort.)</p>
+               <p rend="justify">- Cathos -</p>
+               <p rend="justify">Que craignez-vous ?</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Quelque vol de mon coeur, quelque assassinat de ma franchise. Je vois ici des yeux qui ont la mine d'être de fort mauvais garçons, de faire insulte aux libertés, et de traiter une âme de Turc à More (9). Comment, diable ! d'abord qu'on les approche, ils se mettent sur leur garde meurtrière. Ah ! par ma foi, je m'en défie ! et je m'en vais gagner au pied, ou je veux caution bourgeoise (10) qu'ils ne me feront point de mal.</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Ma chère, c'est le caractère enjoué.</p>
+               <p rend="justify">- Cathos -</p>
+               <p rend="justify">Je vois bien que c'est un Amilcar (11).</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Ne craignez rien : nos yeux n'ont point de mauvais desseins, et votre coeur peut dormir en assurance sur leur prud'homie.</p>
+               <p rend="justify">- Cathos -</p>
+               <p rend="justify">Mais de grâce, Monsieur, ne soyez pas inexorable à ce fauteuil qui vous tend les bras il y a un quart d'heure ; contentez un peu l'envie qu'il a de vous embrasser.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">(après s'être peigné et avoir ajusté ses canons.)</p>
+               <p rend="justify">Eh bien, Mesdames, que dites-vous de Paris ?</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Hélas ! qu'en pourrions-nous dire ? Il faudrait être l'antipode de la raison, pour ne pas confesser que Paris est le grand bureau des merveilles, le centre du bon goût, du bel esprit, et de la galanterie.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Pour moi, je tiens que hors de Paris il n'y a point de salut pour les honnêtes gens.</p>
+               <p rend="justify">- Cathos -</p>
+               <p rend="justify">C'est une vérité incontestable.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Il y fait un peu crotté ; mais nous avons la chaise.</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Il est vrai que la chaise est un retranchement merveilleux contre les insultes de la boue et du mauvais temps.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Vous recevez beaucoup de visites ? Quel bel esprit est des vôtres ?</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Hélas ! nous ne sommes pas encore connues ; mais nous sommes en passe de l'être ; et nous avons une amie particulière qui nous a promis d'amener ici tous ces messieurs du Recueil des pièces choisies.</p>
+               <p rend="justify">- Cathos -</p>
+               <p rend="justify">Et certains autres qu'on nous a nommés aussi pour être les arbitres souverains des belles choses.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">C'est moi qui ferai votre affaire mieux que personne ; ils me rendent tous visite ; et je puis dire que je ne me lève jamais sans une demi-douzaine de beaux esprits.</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Eh ! mon Dieu ! nous vous serons obligées de la dernière obligation, si vous nous faites cette amitié ; car enfin il faut avoir la connaissance de tous ces messieurs-là, si l'on veut être du beau monde. Ce sont ceux qui donnent le branle à la réputation dans Paris ; et vous savez qu'il y en a tel dont il ne faut que la seule fréquentation pour vous donner bruit de connaisseuse, quand il n'y aurait rien autre chose que cela. Mais, pour moi, ce que je considère particulièrement, c'est que, par le moyen de ces visites spirituelles, on est instruite de cent choses qu'il faut savoir de nécessité, et qui sont de l'essence d'un bel esprit. On apprend par là chaque jour les petites nouvelles galantes, les jolies commerces de prose et de vers. On sait à point nommé : Un tel a composé la plus jolie pièce du monde sur un tel sujet ; une telle a fait des paroles sur un tel air ; celui-ci a fait un madrigal sur une jouissance ; celui-là a composé des stances sur une infidélité ; monsieur un tel écrivit hier au soir un sixain à Mademoiselle une telle, dont elle lui a envoyé la réponse ce matin sur les huit heures ; un tel auteur a fait un tel dessein ; celui-là en est à la troisième partie de son roman ; cet autre met ses ouvrages sous la presse. C'est là ce qui vous fait valoir dans les compagnies, et si l'on ignore ces choses, je ne donnerais pas un clou de tout l'esprit qu'on peut avoir.</p>
+               <p rend="justify">- Cathos -</p>
+               <p rend="justify">En effet, je trouve que c'est renchérir sur le ridicule, qu'une personne se pique d'esprit, et ne sache pas jusqu'au moindre petit quatrain qui se fait chaque jour ; et pour moi, j'aurais toutes les hontes du monde, s'il fallait qu'on vînt à me demander si j'aurais vu quelque chose de nouveau que je n'aurais pas vu.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Il est vrai qu'il est honteux de n'avoir pas des premiers tout ce qui se fait ; mais ne vous mettez pas en peine : je veux établir chez vous une académie de beaux esprits, et je vous promets qu'il ne se fera pas un bout de vers dans Paris, que vous ne sachiez par coeur avant tous les autres. Pour moi, tel que vous me voyez, je m'en escrime un peu quand je veux ; et vous verrez courir de ma façon dans les belles ruelles (12) de Paris, deux cents chansons, autant de sonnets, quatre cents épigrammes et plus de mille madrigaux, sans compter les énigmes et les portraits.</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Je vous avoue que je suis furieusement pour les portraits : je ne vois rien de si galant que cela.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Les portraits sont difficiles, et demandent un esprit profond : vous en verrez de ma manière qui ne vous déplairont pas.</p>
+               <p rend="justify">- Cathos -</p>
+               <p rend="justify">Pour moi, j'aime terriblement les énigmes.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Cela exerce l'esprit, et j'en ai fait quatre encore ce matin, que je vous donnerai à deviner.</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Les madrigaux sont agréables, quand ils sont bien tournés.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">C'est mon talent particulier ; et je travaille à mettre en madrigaux toute l'histoire romaine.</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Ah ! certes, cela sera du dernier beau : j'en retiens un exemplaire au moins, si vous le faites imprimer.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Je vous en promets à chacune un, et des mieux reliés. Cela est au-dessous de ma condition ; mais je le fais seulement pour donner à gagner aux libraires, qui me persécutent.</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Je m'imagine que le plaisir est grand de se voir imprimé.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Sans doute. Mais, à propos, il faut que je vous die un impromptu que je fis hier chez une duchesse de mes amies que je fus visiter ; car je suis diablement fort sur les impromptus.</p>
+               <p rend="justify">- Cathos -</p>
+               <p rend="justify">L'impromptu est justement la pierre de touche de l'esprit.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Ecoutez donc.</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Nous y sommes de toutes nos oreilles.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Oh ! oh ! je n'y prenais pas garde : tandis que, sans songer à mal, je vous regarde, votre oeil en tapinois me dérobe mon coeur ; Au voleur ! au voleur ! au voleur ! au voleur !</p>
+               <p rend="justify">- Cathos -</p>
+               <p rend="justify">Ah ! mon Dieu, voilà qui est poussé dans le dernier galant.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Tout ce que je fais a l'air cavalier ; cela ne sent point le pédant.</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Il en est éloigné de plus de deux mille lieues.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Avez-vous remarqué ce commencement : "Oh ! oh !" voilà qui est extraordinaire : "oh ! oh !" Comme un homme qui s'avise tout d'un coup, "oh ! oh !" La surprise, "oh ! oh !"</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Oui, je trouve ce "oh ! oh !" admirable.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Il semble que cela ne soit rien.</p>
+               <p rend="justify">- Cathos -</p>
+               <p rend="justify">Ah ! mon Dieu, que dites-vous ? Ce sont là de ces sortes de choses qui ne se peuvent payer.</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Sans doute ; et j'aimerais mieux avoir fait ce "oh ! oh !" qu'un poème épique.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Tudieu ! vous avez le goût bon.</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Hé ! je ne l'ai pas tout à fait mauvais.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Mais n'admirez-vous pas aussi "je n'y prenais pas garde " ? "Je n'y prenais pas garde", je ne m'apercevais pas de cela : façon de parler naturelle : "je n'y prenais pas garde". "Tandis que, sans songer à mal", tandis qu'innocemment, sans malice, comme un pauvre mouton ; "je vous regarde", c'est-à-dire, je m'amuse à vous considérer, je vous observe, je vous contemple ; "votre oeil en tapinois…" Que vous semble de ce mot "tapinois" ? n'est-il pas bien choisi ?</p>
+               <p rend="justify">- Cathos -</p>
+               <p rend="justify">Tout à fait bien.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">"Tapinois", en cachette ; il semble que ce soit un chat qui vienne de prendre une souris : "tapinois".</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Il ne se peut rien de mieux.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">"Me dérobe mon coeur", me l'emporte, me le ravit. "Au voleur ! au voleur ! au voleur ! au voleur !" Ne diriez-vous pas que c'est un homme qui crie et court après un voleur pour le faire arrêter ? "Au voleur ! au voleur ! au voleur ! au voleur !"</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Il faut avouer que cela a un tour spirituel et galant.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Je veux vous dire l'air que j'ai fait dessus.</p>
+               <p rend="justify">- Cathos -</p>
+               <p rend="justify">Vous avez appris la musique ?</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Moi ? Point du tout.</p>
+               <p rend="justify">- Cathos -</p>
+               <p rend="justify">Et comment donc cela se peut-il ?</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Les gens de qualité savent tout sans avoir jamais rien appris.</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Assurément, ma chère.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Ecoutez si vous trouverez l'air à votre goût. "Hem, hem, la, la, la, la, la". La brutalité de la saison a furieusement outragé la délicatesse de ma voix ; mais il n'importe, c'est à la cavalière.</p>
+               <p rend="justify">(Il chante.)</p>
+               <p rend="justify">Oh ! oh ! je n'y prenais pas garde, etc.</p>
+               <p rend="justify">- Cathos -</p>
+               <p rend="justify">Ah ! que voilà un air qui est passionné ! Est-ce qu'on n'en meurt point ?</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Il y a de la chromatique là dedans.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Ne trouvez-vous pas la pensée bien exprimée dans le chant ? "Au voleur ! au voleur !" Et puis, comme si l'on criait bien fort : "au, au, au, au, au, voleur !" Et tout d'un coup, comme une personne essoufflée : "au voleur !"</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">C'est là savoir le fin des choses, le grand fin, le fin du fin. Tout est merveilleux, je vous assure ; je suis enthousiasmée de l'air et des paroles.</p>
+               <p rend="justify">- Cathos -</p>
+               <p rend="justify">Je n'ai encore rien vu de cette force-là.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Tout ce que je fais me vient naturellement, c'est sans étude.</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">La nature vous a traité en vraie mère passionnée, et vous en êtes l'enfant gâté.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">A quoi donc passez-vous le temps, Mesdames ?</p>
+               <p rend="justify">- Cathos -</p>
+               <p rend="justify">A rien du tout.</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Nous avons été jusqu'ici dans un jeûne effroyable de divertissements.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Je m'offre à vous mener l'un de ces jours à la comédie, si vous voulez ; aussi bien, on en doit jouer une nouvelle que je serai bien aise que nous voyions ensemble.</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Cela n'est pas de refus.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Mais je vous demande d'applaudir comme il faut, quand nous serons là ; car je me suis engagé de faire valoir la pièce, et l'auteur m'en est venu prier encore ce matin. C'est la coutume ici qu'à nous autres gens de condition les auteurs viennent lire leurs pièces nouvelles, pour nous engager à les trouver belles, et leur donner de la réputation ; et je vous laisse à penser si, quand nous disons quelque chose, le parterre ose nous contredire ! Pour moi, j'y suis fort exact ; et quand j'ai promis à quelque poète, je crie toujours : Voilà qui est beau ! devant que les chandelles soient allumées.</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Ne m'en parlez point : c'est un admirable lieu que Paris ; il s'y passe cent choses tous les jours, qu'on ignore dans les provinces, quelque spirituelle qu'on puisse être.</p>
+               <p rend="justify">- Cathos -</p>
+               <p rend="justify">C'est assez : puisque nous sommes instruites, nous ferons notre devoir de nous écrier comme il faut sur tout ce qu'on dira.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Je ne sais si je me trompe, mais vous avez toute la mine d'avoir fait quelque comédie.</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Hé ! il pourrait être quelque chose de ce que vous dites.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Ah ! ma foi ! il faudra que nous la voyions. Entre nous, j'en ai composé une que je veux faire représenter.</p>
+               <p rend="justify">- Cathos -</p>
+               <p rend="justify">Et à quels comédiens la donnerez-vous ?</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Belle demande ! Aux grands comédiens ; il n'y a qu'eux qui soient capables de faire valoir les choses ; les autres sont des ignorants qui récitent comme l'on parle ; il ne savent pas faire ronfler les vers, et s'arrêter au bel endroit : eh ! le moyen de connaître où est le beau vers, si le comédien ne s'y arrête, et ne vous avertit par là qu'il faut faire le brouhaha ?</p>
+               <p rend="justify">- Cathos -</p>
+               <p rend="justify">En effet, il y a manière de faire sentir aux auditeurs les beautés d'un ouvrage ; et les choses ne valent que ce qu'on les fait valoir.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Que vous semble de ma petite oie (13) ? La trouvez-vous congruente à l'habit ?</p>
+               <p rend="justify">- Cathos -</p>
+               <p rend="justify">Tout à fait.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Le ruban en est-il bien choisi ?</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Furieusement bien. C'est Perdrigeon tout pur (14).</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Que dites-vous de mes canons (15) ?</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Ils ont tout à fait bon air.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Je puis me vanter au moins qu'ils ont un grand quartier de plus que ceux qu'on fait.</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Il faut avouer que je n'ai jamais vu porter si haut l'élégance de l'ajustement.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Attachez un peu sur ces gants la réflexion de votre odorat.</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Ils sentent terriblement bon.</p>
+               <p rend="justify">- Cathos -</p>
+               <p rend="justify">Je n'ai jamais respiré une odeur mieux conditionnée.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Et celle-là ?</p>
+               <p rend="justify">(Il donne à sentir les cheveux poudrés de sa perruque.)</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Elle est tout à fait de qualité ; le sublime en est touché délicieusement.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Vous ne me dites rien de mes plumes ! Comment les trouvez-vous ?</p>
+               <p rend="justify">- Cathos -</p>
+               <p rend="justify">Effroyablement belles.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Savez-vous que le brin me coûte un louis d'or ? Pour moi, j'ai cette manie de vouloir donner généralement sur tout ce qu'il y a de plus beau.</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Je vous assure que nous sympathisons vous et moi. J'ai une délicatesse furieuse pour tout ce que je porte ; et, jusqu'à mes chaussettes, je ne puis rien souffrir qui ne soit de la bonne faiseuse.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">(s'écriant brusquement.)</p>
+               <p rend="justify">Ahi ! ahi ! ahi ! doucement. Dieu me damne, Mesdames, c'est fort mal en user ; j'ai à me plaindre de votre procédé ; cela n'est pas honnête.</p>
+               <p rend="justify">- Cathos -</p>
+               <p rend="justify">Qu'est-ce donc ? qu'avez-vous ?</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Quoi ! toutes deux contre mon coeur en même temps ! M'attaquer à droite et à gauche ! Ah ! c'est contre le droit des gens ; la partie n'est pas égale, et je m'en vais crier au meurtre.</p>
+               <p rend="justify">- Cathos -</p>
+               <p rend="justify">Il faut avouer qu'il dit les choses d'une manière particulière.</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Il a un tour admirable dans l'esprit.</p>
+               <p rend="justify">- Cathos -</p>
+               <p rend="justify">Vous avez plus de peur que de mal, et votre coeur crie avant qu'on l'écorche.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Comment, diable ! il est écorché depuis la tête jusqu'aux pieds.</p>
+               <p rend="justify">—————-</p>
+               <p rend="justify">SCÈNE XI. - Cathos, Madelon, Mascarille, Marotte.</p>
+               <p rend="justify">- Marotte -</p>
+               <p rend="justify">Madame, on demande à vous voir.</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Qui ?</p>
+               <p rend="justify">- Marotte -</p>
+               <p rend="justify">Le vicomte de Jodelet.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Le vicomte de Jodelet ?</p>
+               <p rend="justify">- Marotte -</p>
+               <p rend="justify">Oui, Monsieur.</p>
+               <p rend="justify">- Cathos -</p>
+               <p rend="justify">Le connaissez-vous ?</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">C'est mon meilleur ami.</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Faites entrer vitement.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Il y a quelque temps que nous ne nous sommes vus, et je suis ravi de cette aventure.</p>
+               <p rend="justify">- Cathos -</p>
+               <p rend="justify">Le voici.</p>
+               <p rend="justify">—————-</p>
+               <p rend="justify">SCÈNE XII. - Cathos, Madelon, Jodelet, Mascarille, Marotte, Almanzor.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Ah ! vicomte !</p>
+               <p rend="justify">- Jodelet -</p>
+               <p rend="justify">(Ils s'embrassent l'un l'autre.)</p>
+               <p rend="justify">Ah ! marquis !</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Que je suis aise de te rencontrer !</p>
+               <p rend="justify">- Jodelet -</p>
+               <p rend="justify">Que j'ai de joie de te voir ici !</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Baise-moi donc encore un peu, je te prie.</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">(à Cathos.)</p>
+               <p rend="justify">Ma toute bonne, nous commençons d'être connues ; voilà le beau monde qui prend le chemin de nous venir voir.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Mesdames, agréez que je vous présente ce gentilhomme-ci : sur ma parole, il est digne d'être connu de vous.</p>
+               <p rend="justify">- Jodelet -</p>
+               <p rend="justify">Il est juste de venir vous rendre ce qu'on vous doit ; et vos attraits exigent leurs droits seigneuriaux sur toutes sortes de personnes.</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">C'est pousser vos civilités jusqu'aux derniers confins de la flatterie.</p>
+               <p rend="justify">- Cathos -</p>
+               <p rend="justify">Cette journée doit être marquée dans notre almanach comme une journée bien heureuse.</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">(à Almanzor.)</p>
+               <lg>
+                  <l>Allons, petit garçon, faut-il toujours vous répéter les choses ?</l>
+                  <l>Voyez-vous pas qu'il faut le surcroît d'un fauteuil ?</l>
+               </lg>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Ne vous étonnez pas de voir le vicomte de la sorte ; il ne fait que sortir d'une maladie qui lui a rendu le visage pâle comme vous le voyez.</p>
+               <p rend="justify">- Jodelet -</p>
+               <p rend="justify">Ce sont fruits des veilles de la cour, et des fatigues de la guerre.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Savez-vous, Mesdames, que vous voyez dans le vicomte un des vaillants hommes du siècle ? C'est un brave à trois poils (16).</p>
+               <p rend="justify">- Jodelet -</p>
+               <p rend="justify">Vous ne m'en devez rien, marquis ; et nous savons ce que vous savez faire aussi.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Il est vrai que nous nous sommes vus tous deux dans l'occasion.</p>
+               <p rend="justify">- Jodelet -</p>
+               <p rend="justify">Et dans des lieux où il faisait fort chaud.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">(regardant Cathos et Madelon.)</p>
+               <p rend="justify">Oui, mais non pas si chaud qu'ici. Hai, hai, hai.</p>
+               <p rend="justify">- Jodelet -</p>
+               <p rend="justify">Notre connaissance s'est faite à l'armée ; et la première fois que nous nous vîmes, il commandait un régiment de cavalerie sur les galères de Malte.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Il est vrai ; mais vous étiez pourtant dans l'emploi avant que j'y fusse ; et je me souviens que je n'étais que petit officier encore, que vous commandiez deux mille chevaux.</p>
+               <p rend="justify">- Jodelet -</p>
+               <p rend="justify">La guerre est une belle chose ; mais, ma foi, la cour récompense bien mal aujourd'hui les gens de service comme nous.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">C'est ce qui fait que je veux pendre l'épée au croc.</p>
+               <p rend="justify">- Cathos -</p>
+               <p rend="justify">Pour moi, j'ai un furieux tendre pour les hommes d'épée.</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Je les aime aussi ; mais je veux que l'esprit assaisonne la bravoure.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Te souvient-il, vicomte, de cette demi-lune que nous emportâmes sur les ennemis au siége d'Arras ?</p>
+               <p rend="justify">- Jodelet -</p>
+               <p rend="justify">Que veux-tu dire, avec ta demi-lune ? C'était bien une lune toute entière.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Je pense que tu as raison.</p>
+               <p rend="justify">- Jodelet -</p>
+               <p rend="justify">Il m'en doit bien souvenir, ma foi ! j'y fus blessé à la jambe d'un coup de grenade, dont je porte encore les marques. Tâtez un peu, de grâce ; vous sentirez quelque coup c'était là.</p>
+               <p rend="justify">- Cathos -</p>
+               <p rend="justify">(après avoir touché l'endroit.)</p>
+               <p rend="justify">Il est vrai que la cicatrice est grande.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Donnez-moi un peu votre main, et tâtez celui-ci ; là, justement au derrière de la tête. Y êtes-vous ?</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Oui, je sens quelque chose.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">C'est un coup de mousquet que je reçus, la dernière campagne que j'ai faite.</p>
+               <p rend="justify">- Jodelet -</p>
+               <p rend="justify">(découvrant sa poitrine.)</p>
+               <lg>
+                  <l>Voici un autre coup qui me perça de part en part à l'attaque de</l>
+                  <l>Gravelines (17).</l>
+               </lg>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">(Mettant la main sur le bouton de son haut-de-chausses.)</p>
+               <p rend="justify">Je vais vous montrer une furieuse plaie.</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Il n'est pas nécessaire : nous le croyons sans y regarder.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Ce sont des marques honorables qui font voir ce qu'on est.</p>
+               <p rend="justify">- Cathos -</p>
+               <p rend="justify">Nous ne doutons point de ce que vous êtes.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Vicomte, as-tu là ton carrosse ?</p>
+               <p rend="justify">- Jodelet -</p>
+               <p rend="justify">Pourquoi ?</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Nous mènerions promener ces dames hors des portes, et leur donnerions un cadeau (18).</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Nous ne saurions sortir aujourd'hui.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Ayons donc les violons pour danser.</p>
+               <p rend="justify">- Jodelet -</p>
+               <p rend="justify">Ma foi, c'est bien avisé.</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Pour cela, nous y consentons : mais il faut donc quelque surcroît de compagnie.</p>
+               <p rend="justify">- Mascarille -</p>
+               <lg>
+                  <l>Holà ! Champagne, Picard, Bourguignon, Cascaret, Basque, la Verdure,</l>
+                  <l>Lorrain, Provençal, la Violette ! Au diable soient tous les laquais !</l>
+                  <l>Je ne pense pas qu'il y ait gentilhomme en France plus mal servi que</l>
+                  <l>moi. Ces canailles me laissent toujours seul.</l>
+               </lg>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Almanzor, dites aux gens de monsieur le marquis qu'ils aillent quérir des violons, et nous faites venir ces messieurs et ces dames d'ici près, peupler la solitude de notre bal.</p>
+               <p rend="justify">(Almanzor sort.)</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Vicomte, que dis-tu de ces yeux ?</p>
+               <p rend="justify">- Jodelet -</p>
+               <p rend="justify">Mais toi-même, marquis, que t'en semble ?</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Moi, je dis que nos libertés auront peine à sortir d'ici les braies (19) nettes. Au moins, pour moi, je reçois d'étranges secousses, et mon coeur ne tient plus qu'à un filet.</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Que tout ce qu'il dit est naturel ! Il tourne les choses le plus agréablement du monde.</p>
+               <p rend="justify">- Cathos -</p>
+               <p rend="justify">Il est vrai qu'il fait une furieuse dépense en esprit.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Pour vous montrer que je suis véritable, je veux faire un impromptu là-dessus.</p>
+               <p rend="justify">(Il médite.)</p>
+               <p rend="justify">- Cathos -</p>
+               <p rend="justify">Hé ! je vous en conjure de toute la dévotion de mon coeur, que nous oyons quelque chose qu'on ait fait pour nous.</p>
+               <p rend="justify">- Jodelet -</p>
+               <p rend="justify">J'aurais envie d'en faire autant ; mais je me trouve un peu incommodé de la veine poétique, pour la quantité des saignées que j'y ai faites ces jours passés.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Que diable est-ce là ? Je fais toujours bien le premier vers, mais j'ai peine à faire les autres. Ma foi, ceci est un peu trop pressé : je vous ferai un impromptu à loisir, que vous trouverez le plus beau du monde.</p>
+               <p rend="justify">- Jodelet -</p>
+               <p rend="justify">Il a de l'esprit comme un démon.</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Et du galant, et du bien tourné.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Vicomte, dis-moi un peu, y a-t-il longtemps que tu n'as vu la comtesse ?</p>
+               <p rend="justify">- Jodelet -</p>
+               <p rend="justify">Il y a plus de trois semaines que je ne lui ai rendu visite.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Sais-tu bien que le duc m'est venu voir ce matin, et m'a voulu mener à la campagne courir un cerf avec lui ?</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Voici nos amies qui viennent.</p>
+               <p rend="justify">—————-</p>
+               <lg>
+                  <l>SCÈNE XIII. - Lucile, Célimène, Cathos, Madelon, Mascarille,</l>
+                  <l>              Jodelet, Marotte, Almanzor, violons.</l>
+               </lg>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Mon Dieu, mes chères (20), nous vous demandons pardon. Ces messieurs ont eu fantaisie de nous donner les âmes des pieds, et nous vous avons envoyé quérir pour remplir les vides de notre assemblée.</p>
+               <p rend="justify">- Lucile -</p>
+               <p rend="justify">Vous nous avez obligées, sans doute.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Ce n'est ici qu'un bal à la hâte ; mais l'un de ces jours, nous vous en donnerons un dans les formes. Les violons sont-ils venus ?</p>
+               <p rend="justify">- Almanzor -</p>
+               <p rend="justify">Oui, Monsieur ; ils sont ici.</p>
+               <p rend="justify">- Cathos -</p>
+               <p rend="justify">Allons donc, mes chères, prenez place.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">(dansant lui seul comme par prélude.)</p>
+               <p rend="justify">La, la, la, la, la, la, la, la.</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Il a tout à fait la taille élégante.</p>
+               <p rend="justify">- Cathos -</p>
+               <p rend="justify">Et a la mine de danser proprement (21).</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">(ayant pris Madelon.)</p>
+               <p rend="justify">Ma franchise va danser la courante aussi bien que mes pieds. En cadence, violons, en cadence ! Oh ! quels ignorants ! Il n'y a pas moyen de danser avec eux. Le diable vous emporte ! ne sauriez-vous jouer en mesure ? La, la, la, la, la, la, la, la. Ferme ! O violons de village !</p>
+               <p rend="justify">- Jodelet -</p>
+               <p rend="justify">(dansant ensuite.)</p>
+               <p rend="justify">Holà ! ne pressez pas si fort la cadence : je ne fais que sortir de maladie.</p>
+               <p rend="justify">—————-</p>
+               <lg>
+                  <l>SCÈNE XIV. - Du Croisy, La Grange, Cathos, Madelon, Lucile, Célimène,</l>
+                  <l>             Jodelet, Mascarille, Marotte, violons.</l>
+               </lg>
+               <p rend="justify">- La Grange -</p>
+               <p rend="justify">(un bâton à la main.)</p>
+               <p rend="justify">Ah ! ah ! coquins, que faites-vous ici ? Il y a trois heures que nous vous cherchons.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">(se sentant battre.)</p>
+               <p rend="justify">Ahi ! ahi ! ahi ! vous ne m'aviez pas dit que les coups en seraient aussi.</p>
+               <p rend="justify">- Jodelet -</p>
+               <p rend="justify">Ahi ! ahi ! ahi !</p>
+               <p rend="justify">- La Grange -</p>
+               <p rend="justify">C'est bien à vous, infâme que vous êtes, à vouloir faire l'homme d'importance !</p>
+               <p rend="justify">- Du Croisy -</p>
+               <p rend="justify">Voilà qui vous apprendra à vous connaître.</p>
+               <p rend="justify">—————-</p>
+               <lg>
+                  <l>SCÈNE XV. - Cathos, Madelon, Lucile, Célimène, Jodelet, Mascarille,</l>
+                  <l>            Marotte, violons.</l>
+               </lg>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Que veut donc dire ceci ?</p>
+               <p rend="justify">- Jodelet -</p>
+               <p rend="justify">C'est une gageure.</p>
+               <p rend="justify">- Cathos -</p>
+               <p rend="justify">Quoi ! vous laisser battre de la sorte !</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Mon Dieu ! je n'ai pas voulu faire semblant de rien ; car je suis violent, et je me serais emporté.</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Endurer un affront comme celui-là en notre présence !</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Ce n'est rien : ne laissons pas d'achever. Nous nous connaissons il y a longtemps ; et, entre amis, on ne va pas se piquer pour si peu de chose.</p>
+               <p rend="justify">—————-</p>
+               <lg>
+                  <l>SCÈNE XVI. - Du Croisy, La Grange, Madelon, Cathos, Célimène, Lucile,</l>
+                  <l>             Mascarille, Jodelet, Marotte, violons.</l>
+               </lg>
+               <p rend="justify">- La Grange -</p>
+               <lg>
+                  <l>Ma foi, marauds, vous ne vous rirez pas de nous, je vous promets.</l>
+                  <l>Entrez, vous autres.</l>
+               </lg>
+               <p rend="justify">(Trois ou quatre spadassins entrent.)</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Quelle est donc cette audace, de venir nous troubler de la sorte dans notre maison !</p>
+               <p rend="justify">- Du Croisy -</p>
+               <p rend="justify">Comment, Mesdames, nous endurerons que nos laquais soient mieux reçus que nous ; qu'ils viennent vous faire l'amour à nos dépens, et vous donnent le bal !</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Vos laquais !</p>
+               <p rend="justify">- La Grange -</p>
+               <p rend="justify">Oui, nos laquais : et cela n'est ni beau ni honnête de nous les débaucher comme vous faites.</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">O ciel ! quelle insolence !</p>
+               <p rend="justify">- La Grange -</p>
+               <p rend="justify">Mais ils n'auront pas l'avantage de se servir de nos habits pour vous donner dans la vue ; et si vous les voulez aimer, ce sera, ma foi, pour leurs beaux yeux. Vite, qu'on les dépouille sur-le-champ.</p>
+               <p rend="justify">- Jodelet -</p>
+               <p rend="justify">Adieu notre braverie.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Voilà le marquisat et la vicomté à bas.</p>
+               <p rend="justify">- Du Croisy -</p>
+               <p rend="justify">Ah ! ah ! coquins, vous avez l'audace d'aller sur nos brisées ! Vous irez chercher autre part de quoi vous rendre agréables aux yeux de vos belles, je vous en assure.</p>
+               <p rend="justify">- La Grange -</p>
+               <p rend="justify">C'est trop que de nous supplanter, et de nous supplanter avec nos propres habits.</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">O fortune ! quelle est ton inconstance !</p>
+               <p rend="justify">- Du Croisy -</p>
+               <p rend="justify">Vite, qu'on leur ôte jusqu'à la moindre chose.</p>
+               <p rend="justify">- La Grange -</p>
+               <p rend="justify">Qu'on emporte toutes ces hardes, dépêchez. Maintenant, Mesdames, en l'état qu'ils sont, vous pouvez continuer vos amours avec eux tant qu'il vous plaira ; nous vous laissons toute sorte de liberté pour cela, et nous vous protestons, Monsieur et moi, que nous n'en serons aucunement jaloux.</p>
+               <p rend="justify">—————-</p>
+               <p rend="justify">SCÈNE XVII. - Madelon, Cathos, Jodelet, Mascarille, violons.</p>
+               <p rend="justify">- Cathos -</p>
+               <p rend="justify">Ah ! quelle confusion !</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Je crève de dépit.</p>
+               <p rend="justify">- Un des Violons -</p>
+               <p rend="justify">(à Mascarille.)</p>
+               <p rend="justify">Qu'est-ce donc que ceci ? Qui nous payera nous autres ?</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Demandez à monsieur le vicomte.</p>
+               <p rend="justify">- Un des Violons -</p>
+               <p rend="justify">(à Jodelet.)</p>
+               <p rend="justify">Qui est-ce qui nous donnera de l'argent ?</p>
+               <p rend="justify">- Jodelet -</p>
+               <p rend="justify">Demandez à monsieur le marquis.</p>
+               <p rend="justify">—————-</p>
+               <p rend="justify">SCÈNE XVIII. - Gorgibus, Madelon, Cathos, Jodelet, Mascarille, violons.</p>
+               <p rend="justify">- Gorgibus -</p>
+               <p rend="justify">Ah ! coquines que vous êtes, vous nous mettez dans de beaux draps blancs, à ce que je vois ; et je viens d'apprendre de belles affaires, vraiment, de ces messieurs qui sortent.</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Ah ! mon père, c'est une pièce sanglante qu'ils nous ont faite.</p>
+               <p rend="justify">- Gorgibus -</p>
+               <p rend="justify">Oui, c'est une pièce sanglante, mais qui est un effet de votre impertinence, infâmes ! Ils se sont ressentis du traitement que vous leur avez fait, et cependant, malheureux que je suis, il faut que je boive l'affront.</p>
+               <p rend="justify">- Madelon -</p>
+               <p rend="justify">Ah ! je jure que nous en serons vengés, ou que je mourrai en la peine. Et vous, marauds, osez-vous vous tenir ici après votre insolence ?</p>
+               <p rend="justify">- Mascarille -</p>
+               <p rend="justify">Traiter comme cela un marquis ! Voilà ce que c'est que du monde : la moindre disgrâce nous fait mépriser de ceux qui nous chérissaient. Allons, camarade, allons chercher fortune autre part ; je vois bien qu'on n'aime ici que la vaine apparence, et qu'on n'y considère point la vertu toute nue.</p>
+               <p rend="justify">—————-</p>
+               <p rend="justify">SCÈNE XIX. - Gorgibus, Madelon, Cathos, violons.</p>
+               <p rend="justify">- Un des Violons -</p>
+               <p rend="justify">Monsieur, nous entendons que vous nous contentiez, à leur défaut, pour ce que nous avons joué ici.</p>
+               <p rend="justify">- Gorgibus -</p>
+               <p rend="justify">(les battant.)</p>
+               <p rend="justify">Oui, oui, je vous vais contenter ; et voici la monnaie dont je vous veux payer. Et vous, pendardes, je ne sais qui me tient que je ne vous en fasse autant ; nous allons servir de fable et de risée à tout le monde, et voilà ce que vous vous êtes attiré par vos extravagances. Allez vous cacher, vilaines, allez vous cacher pour jamais.</p>
+               <p rend="justify">(Seul.)</p>
+               <p rend="justify">Et vous, qui êtes cause de leur folie, sottes billevesées (22), pernicieux amusements des esprits oisifs, romans, vers, chansons, sonnets et sonnettes, puissiez-vous être à tous les diables !</p>
+               <div type="div3">
+                  <head>FIN DES PRÉCIEUSES RIDICULES.</head>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

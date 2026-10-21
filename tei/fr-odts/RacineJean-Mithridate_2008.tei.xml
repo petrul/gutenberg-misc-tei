@@ -1,0 +1,2964 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mithridate</title>
+            <author>Jean Racine</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-01T19:55:14Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">odts/fr-odts/RacineJean-Mithridate_2008.epub.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Jean Racine</name>
+               <date>2024-01-01T19:55:14Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Mithridate</head>
+         <author>Jean Racine</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">odts/fr-odts/RacineJean-Mithridate_2008.epub.odt</p>
+         <p>Produced by Daniel Fromont</p>
+         <p>[Transcriber's note: Jean Racine (1639-1699), <hi rend="italic">Mithridate</hi>  (1673)<lb/>Le texte est en français moderne.]<lb/>
+         </p>
+         <pb/>
+         <div type="div1">
+            <head>Mithridate</head>
+            <pb/>
+            <div type="div2">
+               <head>MITHRIDATE</head>
+               <p rend="justify">Tragédie</p>
+               <p rend="justify">1673</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>PERSONNAGES</head>
+               <p rend="justify">MITHRIDATE, roi de Pont, et de quantité d'autres royaumes.</p>
+               <p rend="justify">MONIME, accordée avec Mithridate, et déjà déclarée reine.</p>
+               <p rend="justify">PHARNACE et XIPHARÈS, fils de Mithridate, mais de différentes mères.</p>
+               <p rend="justify">ARBATE, confident de Mithridate, et gouverneur de la place de Nymphée.</p>
+               <p rend="justify">PHOEDIME, confidente de Monime.</p>
+               <p rend="justify">ARCAS, domestique de Mithridate.</p>
+               <div type="div3">
+                  <head>GARDES.</head>
+                  <lg>
+                     <l>La scène est à Nymphée, port de mer sur le Bosphore Cimmérien, dans la</l>
+                     <l>Taurique Chersonèse.</l>
+                  </lg>
+                  <div type="div4">
+                     <head>PRÉFACE</head>
+                     <p rend="justify">Il n'y a guère de nom plus connu que celui de Mithridate. Sa vie et sa mort font une partie considérable de l'histoire romaine. Et sans compter les victoires qu'il a remportées, on peut dire que ses seules défaites ont fait presque toute la gloire de trois des plus grands capitaines de la République: c'est à savoir, de Sylla, de Lucullus et de Pompée. Ainsi je ne pense pas qu'il soit besoin de citer ici mes auteurs. Car, excepté quelque événement que j'ai un peu rapproché par le droit que donne la poésie, tout le monde reconnaîtra aisément que j'ai suivi l'histoire avec beaucoup de fidélité. En effet, il n'y a guère d'actions éclatantes dans la vie de Mithridate qui n'aient trouvé place dans ma tragédie. J'y ai inséré tout ce qui pouvait mettre en jour les moeurs et les sentiments de ce prince, je veux dire sa haine violente contre les Romains, son grand courage, sa finesse, sa dissimulation, et enfin cette jalousie qui lui était si naturelle, et qui a tant de fois coûté la vie à ses maîtresses. La seule chose qui pourrait n'être pas aussi connue que le reste, c'est le dessein que je lui fais prendre de passer dans l'Italie. Comme ce dessein m'a fourni une des scènes qui ont le plus réussi dans ma tragédie, je crois que le plaisir du lecteur pourra redoubler, quand il verra que presque tous les historiens ont ait ce que je fais dire ici à Mithridate. Florus, Plutarque et Dion Cassius nomment les pays par où il devait passer. Appien d'Alexandrie entre plus dans le détail. Et après avoir marqué les facilités et les secours que Mithridate espérait trouver dans sa marche, il ajoute que ce projet fut le prétexte dont Pharnace se servit pour faire révolter toute l'armée, et que les soldats, effrayés de l'entreprise de son père, la regardèrent comme le désespoir d'un prince qui ne cherchait qu'à périr avec éclat. Ainsi elle fut en partie cause de sa mort, qui est l'action de ma tragédie. J'ai encore lié ce dessein de plus près à mon sujet. Je m'en suis servi pour faire connaître à Mithridate les secrets sentiments de ses deux fils. On ne peut prendre trop de précaution pour ne rien mettre sur le théâtre qui ne soit très nécessaire. Et les plus belles scènes sont en danger d'ennuyer, du moment qu'on les peut séparer de l'action, et qu'elles l'interrompent au lieu de la conduire vers la fin.</p>
+                     <p rend="justify">Voici la réflexion que fait Dion Cassius sur ce dessein de Mithridate: " Cet homme était véritablement né pour entreprendre de grandes choses. Comme il avait souvent éprouvé la bonne et la mauvaise fortune, il ne croyait rien au-dessus de ses espérances et de son audace, et mesurait ses desseins bien plus à la grandeur de son courage qu'au mauvais état de ses affaires. Bien résolu, si son entreprise ne réussissait point, de faire une fin digne d'un grand roi, et de s'ensevelir lui-même sous les ruines de son Empire, plutôt que de vivre dans l'obscurité et dans la bassesse."</p>
+                     <p rend="justify">J'ai choisi Monime entre les femmes que Mithridate a aimées. Il paraît que c'est celle de toutes qui a été la plus vertueuse, et qu'il a aimée le plus tendrement. Plutarque semble avoir pris plaisir à décrire le malheur et les sentiments de cette princesse. C'est lui qui m'a donné l'idée de Monime; et c'est en partie sur la peinture qu'il en a faite que j'ai fondé un caractère que je puis dire qui n'a point déplu. Le lecteur trouvera bon que je rapporte ses paroles telles qu'Amyot les a traduites. Car elles ont une grâce dans le vieux style de ce traducteur, que je ne crois point pouvoir égaler dans notre langue moderne</p>
+                     <p rend="justify">Cette-cy estoit fort renommée entre les Grecs, pource que quelques sollicitations que luy sceust faire le Roy en estant amoureux, jamais ne voulut entendre à toutes ses poursuites jusqu'à ce qu'il y eust accord de mariage passé entre-eux, et qu'il luy eust envoyé le diadème ou bandeau royal, et appellée royne. La pauvre dame, depuis que ce roy l'eût espousée, avoit vécu en grande déplaisance, ne faisant continuellement autre chose que de plorer la malheureuse beauté de son corps, laquelle au lieu d'un mary luy avoit donne un maistre, et au lieu de compagnie conjugale, et que doit avoir une dame d'honneur, luy avoit baillé une garde et garnison d 'hommes barbares qui la tenoient comme prisonnière loin du doux païs de la Grèce, en lieu où elle n'avoit qu'un songe et une ombre de biens, et au contraire avoit réellement perdu les véritables, dont elle jouissoit au païs de sa naissance. Et quand l'eunuque fut arrivé devers elle, et luy eut fait commandement de par le Roy qu'elle eust à mourir, adonc elle s'arracha d'alentour de la teste son bandeau royal, et se le nouant alentour du col s'en pendit. Mais le bandeau ne fut pas assez fort, et se rompit incontinent. Et lors elle se prit à dire: "Ô maudit et malheureux tissu, ne me serviras-tu point au moins à ce triste service?" En disant ces paroles, elle le jeta contre terre, crachant dessus, et tendit la gorge à l'eunuque.</p>
+                     <p rend="justify">Xipharès était fils de Mithridate et d'une de ses femmes qui se nommait Stratonice. Elle livra aux Romains une place de grande importance, où étaient les trésors de Mithridate, pour mettre son fils Xipharès dans les bonnes grâces de Pompée. Il y a des historiens qui prétendent que Mithridate fit mourir ce jeune prince, pour se venger de la perfidie de sa mère.</p>
+                     <p rend="justify">Je ne dis rien de Pharnace. Car qui ne sait pas que ce fut lui qui souleva contre Mithridate ce qui lui restait de troupes, et qui força ce prince à se vouloir empoisonner, et à se passer son épée au travers du corps pour ne pas tomber entre les mains de ses ennemis? C'est ce même Pharnace qui fut vaincu depuis par Jules César, et qui fut tué ensuite dans une autre bataille.</p>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>ACTE PREMIER</head>
+               <div type="div3">
+                  <head>SCÈNE PREMIÈRE</head>
+                  <div type="div4">
+                     <head>XIPHARÈS, ARBATE</head>
+                     <div type="div5">
+                        <head>XIPHARÈS</head>
+                        <lg>
+                           <l>On nous faisait, Arbate, un fidèle rapport:</l>
+                           <l>Rome en effet triomphe, et Mithridate est mort.</l>
+                           <l>Les Romains, vers l'Euphrate, ont attaqué mon père,</l>
+                           <l>Et trompé dans la nuit sa prudence ordinaire.</l>
+                           <l>Après un long combat, tout son camp dispersé</l>
+                           <l>Dans la foule des morts en fuyant l'a laissé,</l>
+                           <l>Et j'ai su qu'un soldat dans les mains de Pompée</l>
+                           <l>Avec son diadème a remis son épée.</l>
+                           <l>Ainsi ce roi qui seul a durant quarante ans</l>
+                           <l>Lassé tout ce que Rome eut de chefs importants,</l>
+                           <l>Et qui dans l'Orient balançant la fortune,</l>
+                           <l>Vengeait de tous les rois la querelle commune,</l>
+                           <l>Meurt, et laisse après lui, pour venger son trépas,</l>
+                           <l>Deux fils infortunés qui ne s'accordent pas.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ARBATE</head>
+                        <lg>
+                           <l>Vous, Seigneur! Quoi? l'ardeur de régner en sa place</l>
+                           <l>Rend déjà Xipharès ennemi de Pharnace?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>XIPHARÈS</head>
+                        <lg>
+                           <l>Non, je ne prétends point, cher Arbate, à ce prix</l>
+                           <l>D'un malheureux Empire acheter le débris.</l>
+                           <l>Je sais en lui des ans respecter l'avantage;</l>
+                           <l>Et content des États marqués pour mon partage,</l>
+                           <l>Je verrai sans regret tomber entre ses mains</l>
+                           <l>Tout ce que lui promet l'amitié des Romains.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ARBATE</head>
+                        <lg>
+                           <l>L'amitié des Romains? Le fils de Mithridate,</l>
+                           <l>Seigneur! Est-il bien vrai?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>XIPHARÈS</head>
+                        <lg>
+                           <l>N'en doute point, Arbate.</l>
+                           <l>Pharnace, dès longtemps tout Romain dans le coeur,</l>
+                           <l>Attend tout maintenant de Rome et du vainqueur.</l>
+                           <l>Et moi, plus que jamais à mon père fidèle,</l>
+                           <l>Je conserve aux Romains une haine immortelle.</l>
+                           <l>Cependant et ma haine et ses prétentions</l>
+                           <l>Sont les moindres sujets de nos divisions.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ARBATE</head>
+                        <p rend="justify">Et quel autre intérêt contre lui vous anime?</p>
+                     </div>
+                     <div type="div5">
+                        <head>XIPHARÈS</head>
+                        <lg>
+                           <l>Je m'en vais t'étonner. Cette belle Monime,</l>
+                           <l>Qui du Roi notre père attira tous les voeux,</l>
+                           <l>Dont Pharnace, après lui, se déclare amoureux…</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ARBATE</head>
+                        <p rend="justify">Hé bien, Seigneur?</p>
+                     </div>
+                     <div type="div5">
+                        <head>XIPHARÈS</head>
+                        <lg>
+                           <l>Je l'aime, et ne veux plus m'en taire</l>
+                           <l>Puisque enfin pour rival je n'ai plus que mon frère.</l>
+                           <l>Tu ne t'attendais pas sans doute à ce discours;</l>
+                           <l>Mais ce n'est point, Arbate, un secret de deux jours.</l>
+                           <l>Cet amour s'est longtemps accru dans le silence.</l>
+                           <l>Que n'en puis-je à tes yeux marquer la violence,</l>
+                           <l>Et mes premiers soupirs, et mes derniers ennuis?</l>
+                           <l>Mais en l'état funeste où nous sommes réduits,</l>
+                           <l>Ce n'est guère le temps d'occuper ma mémoire</l>
+                           <l>À rappeler le cours d'une amoureuse histoire.</l>
+                           <l>Qu'il te suffise donc, pour me justifier,</l>
+                           <l>Que je vis, que j'aimai la Reine le premier;</l>
+                           <l>Que mon père ignorait jusqu'au nom de Monime,</l>
+                           <l>Quand je conçus pour elle un amour légitime.</l>
+                           <l>Il la vit. Mais au lieu d'offrir à ses beautés</l>
+                           <l>Un hymen, et des voeux dignes d'être écoutés,</l>
+                           <l>Il crut que sans prétendre une plus haute gloire,</l>
+                           <l>Elle lui céderait une indigne victoire.</l>
+                           <l>Tu sais par quels efforts il tenta sa vertu,</l>
+                           <l>Et que lassé d'avoir vainement combattu,</l>
+                           <l>Absent, mais toujours plein de son amour extrême,</l>
+                           <l>Il lui fit par tes mains porter son diadème.</l>
+                           <l>Juge de mes douleurs, quand des bruits trop certains</l>
+                           <l>M'annoncèrent du Roi l'amour et les desseins,</l>
+                           <l>Quand je sus qu'à son lit Monime réservée</l>
+                           <l>Avait pris avec toi le chemin de Nymphée.</l>
+                           <l>Hélas! ce fut encor dans ce temps odieux</l>
+                           <l>Qu'aux offres des Romains ma mère ouvrit les yeux;</l>
+                           <l>Ou pour venger sa foi par cet hymen trompée,</l>
+                           <l>Ou ménageant pour moi la faveur de Pompée,</l>
+                           <l>Elle trahit mon père, et rendit aux Romains</l>
+                           <l>La place et les trésors confiés en ses mains.</l>
+                           <l>Que devins-je au récit du crime de ma mère!</l>
+                           <l>Je ne regardai plus mon rival dans mon père;</l>
+                           <l>J'oubliai mon amour par le sien traversé:</l>
+                           <l>Je n'eus devant les yeux que mon père offensé.</l>
+                           <l>J'attaquai les Romains; et ma mère éperdue</l>
+                           <l>Me vit, en reprenant cette place rendue,</l>
+                           <l>À mille coups mortels contre eux me dévouer,</l>
+                           <l>Et chercher en mourant à la désavouer.</l>
+                           <l>L'Euxin, depuis ce temps, fut libre, et l'est encore;</l>
+                           <l>Et des rives de Pont aux rives du Bosphore,</l>
+                           <l>Tout reconnut mon père, et ses heureux vaisseaux</l>
+                           <l>N'eurent plus d'ennemis que les vents et les eaux.</l>
+                           <l>Je voulais faire plus. Je prétendais, Arbate,</l>
+                           <l>Moi-même à son secours m'avancer vers l'Euphrate.</l>
+                           <l>Je fus soudain frappé du bruit de son trépas.</l>
+                           <l>Au milieu de mes pleurs, je ne le cèle pas,</l>
+                           <l>Monime, qu'en tes mains mon père avait laissée,</l>
+                           <l>Avec tous ses attraits revint en ma pensée.</l>
+                           <l>Que dis-je? en ce malheur je tremblai pour ses jours;</l>
+                           <l>Je redoutai du Roi les cruelles amours.</l>
+                           <l>Tu sais combien de fois ses jalouses tendresses</l>
+                           <l>Ont pris soin d'assurer la mort de ses maîtresses.</l>
+                           <l>Je volai vers Nymphée; et mes tristes regards</l>
+                           <l>Rencontrèrent Pharnace au pied de ses remparts.</l>
+                           <l>J'en conçus, je l'avoue, un présage funeste.</l>
+                           <l>Tu nous reçus tous deux, et tu sais tout le reste.</l>
+                           <l>Pharnace, en ses desseins toujours impétueux,</l>
+                           <l>Ne dissimula point ses voeux présomptueux. -</l>
+                           <l>De mon père à la Reine il conta la disgrâce,</l>
+                           <l>L'assura de sa mort, et s'offrit en sa place.</l>
+                           <l>Comme il le dit, Arbate, il veut l'exécuter.</l>
+                           <l>Mais enfin, à mon tour, je prétends éclater.</l>
+                           <l>Autant que mon amour respecta la puissance</l>
+                           <l>D'un père à qui je fus dévoué dès l'enfance,</l>
+                           <l>Autant ce même amour, maintenant révolté,</l>
+                           <l>De ce nouveau rival brave l'autorité.</l>
+                           <l>Ou Monime, à ma flamme elle-même contraire,</l>
+                           <l>Condamnera l'aveu que je prétends lui faire;</l>
+                           <l>Ou bien, quelques malheurs qu'il en puisse avenir,</l>
+                           <l>Ce n'est que par ma mort qu'on la peut obtenir.</l>
+                           <l>Voilà tous les secrets que je voulais t'apprendre.</l>
+                           <l>C'est à toi de choisir quel parti tu dois prendre,</l>
+                           <l>Qui des deux te paraît plus digne de ta foi,</l>
+                           <l>L'esclave des Romains, ou le fils de ton roi.</l>
+                           <l>Fier de leur amitié, Pharnace croit peut-être</l>
+                           <l>Commander dans Nymphée, et me parler en maître.</l>
+                           <l>Mais ici mon pouvoir ne connaît point le sien:</l>
+                           <l>Le Pont est son partage, et Colchos est le mien;</l>
+                           <l>Et l'on sait toujours que la Colchide et ses princes</l>
+                           <l>Ont compté ce Bosphore au rang de leurs provinces.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ARBATE</head>
+                        <lg>
+                           <l>Commandez-moi, Seigneur. Si j'ai quelque pouvoir,</l>
+                           <l>Mon choix est déjà fait, je ferai mon devoir.</l>
+                           <l>Avec le même zèle, avec la même audace</l>
+                           <l>Que je servais le père et gardais cette place,</l>
+                           <l>Et contre votre frère, et même contre vous,</l>
+                           <l>Après la mort du Roi je vous sers contre tous.</l>
+                           <l>Sans vous, ne sais-je pas que ma mort assurée</l>
+                           <l>De Pharnace en ces lieux allait suivre l'entrée?</l>
+                           <l>Sais-je pas que mon sang, par ses mains répandu,</l>
+                           <l>Eût souillé ce rempart contre lui défendu?</l>
+                           <l>Assurez-vous du coeur et du choix de la Reine.</l>
+                           <l>Du reste, ou mon crédit n'est plus qu'une ombre vaine,</l>
+                           <l>Ou Pharnace, laissant le Bosphore en vos mains,</l>
+                           <l>Ira jouir ailleurs des bontés des Romains.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>XIPHARÈS</head>
+                        <lg>
+                           <l>Que ne devrai-je point à cette ardeur extrême!</l>
+                           <l>Mais on vient. Cours, ami: c'est Monime elle-même.</l>
+                        </lg>
+                     </div>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>SCÈNE II</head>
+                  <div type="div4">
+                     <head>MONIME, XIPHARÈS</head>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <lg>
+                           <l>Seigneur, je viens à vous. Car enfin aujourd'hui,</l>
+                           <l>Si vous m'abandonnez, quel sera mon appui?</l>
+                           <l>Sans parents, sans amis, désolée et craintive,</l>
+                           <l>Reine longtemps de nom, mais en effet captive,</l>
+                           <l>Et veuve maintenant sans avoir eu d'époux,</l>
+                           <l>Seigneur, de mes malheurs ce sont là les plus doux.</l>
+                           <l>Je tremble à vous nommer l'ennemi qui m'opprime.</l>
+                           <l>J'espère toutefois qu'un coeur si magnanime</l>
+                           <l>Ne sacrifîra point les pleurs des malheureux</l>
+                           <l>Aux intérêts du sang qui vous unit tous deux.</l>
+                           <l>Vous devez à ces mots reconnaître Pharnace.</l>
+                           <l>C'est lui, Seigneur, c'est lui dont la coupable audace</l>
+                           <l>Veut, la force à la main, m'attacher à son sort</l>
+                           <l>Par un hymen pour moi plus cruel que la mort.</l>
+                           <l>Sous quel astre ennemi faut-il que je sois née?</l>
+                           <l>Au joug d'un autre hymen sans amour destinée,</l>
+                           <l>À peine je suis libre et goûte quelque paix,</l>
+                           <l>Qu'il faut que je me livre à tout ce que je hais.</l>
+                           <l>Peut-être je devrais, plus humble en ma misère,</l>
+                           <l>Me souvenir du moins que je parle à son frère.</l>
+                           <l>Mais, soit raison, destin, soit que ma haine en lui</l>
+                           <l>Confonde les Romains dont il cherche l'appui,</l>
+                           <l>Jamais hymen formé sous le plus noir auspice</l>
+                           <l>De l'hymen que je crains n'égala le supplice.</l>
+                           <l>Et si Monime en pleurs ne vous peut émouvoir,</l>
+                           <l>Si je n'ai plus pour moi que mon seul désespoir,</l>
+                           <l>Au pied du même autel où je suis attendue,</l>
+                           <l>Seigneur, vous me verrez, à moi-même rendue,</l>
+                           <l>Percer ce triste coeur qu'on veut tyranniser,</l>
+                           <l>Et dont jamais encor je n'ai pu disposer.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>XIPHARÈS</head>
+                        <lg>
+                           <l>Madame, assurez-vous de mon obéissance;</l>
+                           <l>Vous avez dans ces lieux une entière puissance.</l>
+                           <l>Pharnace ira, s'il veut, se faire craindre ailleurs.</l>
+                           <l>Mais vous ne savez pas encor tous vos malheurs.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <lg>
+                           <l>Hé! quel nouveau malheur peut affliger Monime,</l>
+                           <l>Seigneur?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>XIPHARÈS</head>
+                        <lg>
+                           <l>Si vous aimer c'est faire un si grand crime,</l>
+                           <l>Pharnace n'en est pas seul coupable aujourd'hui;</l>
+                           <l>Et je suis mille fois plus criminel que lui.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <p rend="justify">Vous!</p>
+                     </div>
+                     <div type="div5">
+                        <head>XIPHARÈS</head>
+                        <lg>
+                           <l>Mettez ce malheur au rang des plus funestes;</l>
+                           <l>Attestez, s'il le faut, les puissances célestes</l>
+                           <l>Contre un sang malheureux, né pour vous tourmenter,</l>
+                           <l>Père, enfants, animés à vous persécuter.</l>
+                           <l>Mais avec quelque ennui que vous puissiez apprendre</l>
+                           <l>Cet amour criminel qui vient de vous surprendre,</l>
+                           <l>Jamais tous vos malheurs ne sauraient approcher</l>
+                           <l>Des maux que j'ai soufferts en le voulant cacher.</l>
+                           <l>Ne croyez point pourtant que semblable à Pharnace,</l>
+                           <l>Je vous serve aujourd'hui pour me mettre en sa place.</l>
+                           <l>Vous voulez être à vous, j'en ai donné ma foi,</l>
+                           <l>Et vous ne dépendrez ni de lui ni de moi.</l>
+                           <l>Mais quand je vous aurai pleinement satisfaite,</l>
+                           <l>En quels lieux avez-vous choisi votre retraite?</l>
+                           <l>Sera-ce loin, Madame, ou près de mes États?</l>
+                           <l>Me sera-t-il permis d'y conduire vos pas?</l>
+                           <l>Verrez-vous d'un même oeil le crime et l'innocence?</l>
+                           <l>En fuyant mon rival fuirez-vous ma présence?</l>
+                           <l>Pour prix d'avoir si bien secondé vos souhaits,</l>
+                           <l>Faudra-t-il me résoudre à ne vous voir jamais?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <p rend="justify">Ah! que m'apprenez-vous?</p>
+                     </div>
+                     <div type="div5">
+                        <head>XIPHARÈS</head>
+                        <lg>
+                           <l>Hé quoi? belle Monime,</l>
+                           <l>Si le temps peut donner quelque droit légitime,</l>
+                           <l>Faut-il vous dire ici que le premier de tous</l>
+                           <l>Je vous vis, je formai le dessein d'être à vous,</l>
+                           <l>Quand vos charmes naissants, inconnus à mon père,</l>
+                           <l>N'avaient encor paru qu'aux yeux de votre mère?</l>
+                           <l>Ah! si par mon devoir forcé de vous quitter,</l>
+                           <l>Tout mon amour alors ne put pas éclater,</l>
+                           <l>Ne vous souvient-il plus, sans compter tout le reste,</l>
+                           <l>Combien je me plaignis de ce devoir funeste?</l>
+                           <l>Ne vous souvient-il plus, en quittant vos beaux yeux,</l>
+                           <l>Quelle vive douleur attendrit mes adieux?</l>
+                           <l>Je m'en souviens tout seul. Avouez-le, Madame,</l>
+                           <l>Je vous rappelle un songe effacé de votre âme.</l>
+                           <l>Tandis que loin de vous, sans espoir de retour,</l>
+                           <l>Je nourrissais encor un malheureux amour,</l>
+                           <l>Contente, et résolue à l'hymen de mon père,</l>
+                           <l>Tous les malheurs du fils ne vous affligeaient guère.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <p rend="justify">Hélas!</p>
+                     </div>
+                     <div type="div5">
+                        <head>XIPHARÈS</head>
+                        <p rend="justify">Avez-vous plaint un moment mes ennuis?</p>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <p rend="justify">Prince… n'abusez point de l'état où je suis.</p>
+                     </div>
+                     <div type="div5">
+                        <head>XIPHARÈS</head>
+                        <lg>
+                           <l>En abuser, ô ciel! Quand je cours vous défendre,</l>
+                           <l>Sans vous demander rien, sans oser rien prétendre;</l>
+                           <l>Que vous dirai-je enfin? lorsque je vous promets</l>
+                           <l>De vous mettre en état de ne me voir jamais.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <p rend="justify">C'est me promettre plus que vous ne sauriez faire.</p>
+                     </div>
+                     <div type="div5">
+                        <head>XIPHARÈS</head>
+                        <lg>
+                           <l>Quoi? malgré mes serments, vous croyez le contraire?</l>
+                           <l>Vous croyez qu'abusant de mon autorité,</l>
+                           <l>Je prétends attenter à votre liberté!</l>
+                           <l>On vient, Madame, on vient… Expliquez-vous, de grâce.</l>
+                           <l>Un mot.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <lg>
+                           <l>Défendez-moi des fureurs de Pharnace.</l>
+                           <l>Pour me faire, Seigneur, consentir à vous voir,</l>
+                           <l>Vous n'aurez pas besoin d'un injuste pouvoir.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>XIPHARÈS</head>
+                        <p rend="justify">Ah! Madame…</p>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <p rend="justify">Seigneur, vous voyez votre frère.</p>
+                     </div>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>SCÈNE III</head>
+                  <div type="div4">
+                     <head>MONIME, PHARNACE, XIPHARÈS</head>
+                     <div type="div5">
+                        <head>PHARNACE</head>
+                        <lg>
+                           <l>Jusques à quand, Madame, attendrez-vous mon père?</l>
+                           <l>Des témoins de sa mort viennent à tous moments</l>
+                           <l>Condamner votre doute et vos retardements.</l>
+                           <l>Venez, fuyez l'aspect de ce climat sauvage,</l>
+                           <l>Qui ne parle à vos yeux que d'un triste esclavage.</l>
+                           <l>Un peuple obéissant vous attend à genoux</l>
+                           <l>Sous un ciel plus heureux et plus digne de vous.</l>
+                           <l>Le Pont vous reconnaît dès longtemps pour sa reine;</l>
+                           <l>Vous en portez encor la marque souveraine;</l>
+                           <l>Et ce bandeau royal fut mis sur votre front</l>
+                           <l>Comme un gage assuré de l'empire de Pont.</l>
+                           <l>Maître de cet État que mon père me laisse,</l>
+                           <l>Madame, c'est à moi d'accomplir sa promesse.</l>
+                           <l>Mais il faut, croyez-moi, sans attendre plus tard,</l>
+                           <l>Ainsi que notre hymen presser notre départ.</l>
+                           <l>Nos intérêts communs et mon coeur le demandent.</l>
+                           <l>Prêts à vous recevoir, mes vaisseaux vous attendent.</l>
+                           <l>Et du pied de l'autel vous y pouvez monter,</l>
+                           <l>Souveraine des mers qui vous doivent porter.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <lg>
+                           <l>Seigneur, tant de bontés ont lieu de me confondre.</l>
+                           <l>Mais puisque le temps presse, et qu'il faut vous répondre,</l>
+                           <l>Puis-je, laissant la feinte et les déguisements,</l>
+                           <l>Vous découvrir ici mes secrets sentiments?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PHARNACE</head>
+                        <p rend="justify">Vous pouvez tout.</p>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <lg>
+                           <l>Je crois que je vous suis connue.</l>
+                           <l>Éphèse est mon pays; mais je suis descendue</l>
+                           <l>D'aïeux, ou rois, Seigneur, ou héros, qu'autrefois</l>
+                           <l>Leur vertu, chez les Grecs, mit au-dessus des rois.</l>
+                           <l>Mithridate me vit. Éphèse, et l'Ionie,</l>
+                           <l>À son heureux empire était alors unie.</l>
+                           <l>Il daigna m'envoyer ce gage de sa foi.</l>
+                           <l>Ce fut pour ma famille une suprême loi:</l>
+                           <l>Il fallut obéir. Esclave couronnée,</l>
+                           <l>Je partis pour l'hymen où j'étais destinée.</l>
+                           <l>Le Roi, qui m'attendait au sein de ses États,</l>
+                           <l>Vit emporter ailleurs ses desseins et ses pas,</l>
+                           <l>Et tandis que la guerre occupait son courage,</l>
+                           <l>M'envoya dans ces lieux éloignés de l'orage.</l>
+                           <l>J'y vins: j'y suis encor. Mais cependant, Seigneur,</l>
+                           <l>Mon père paya cher ce dangereux honneur,</l>
+                           <l>Et les Romains vainqueurs, pour première victime,</l>
+                           <l>Prirent Philopoemen, le père de Monime.</l>
+                           <l>Sous ce titre funeste il se vit immoler;</l>
+                           <l>Et c'est de quoi, Seigneur, j'ai voulu vous parler.</l>
+                           <l>Quelque juste fureur dont je sois animée,</l>
+                           <l>Je ne puis point à Rome opposer une armée;</l>
+                           <l>Inutile témoin de tous ses attentats,</l>
+                           <l>Je n'ai pour me venger ni sceptre ni soldats;</l>
+                           <l>Enfin, je n'ai qu'un coeur. Tout ce que je puis faire,</l>
+                           <l>C'est de garder la foi que je dois à mon père,</l>
+                           <l>De ne point dans son sang aller tremper mes mains</l>
+                           <l>En épousant en vous l'allié des Romains.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PHARNACE</head>
+                        <lg>
+                           <l>Que parlez-vous de Rome et de son alliance?</l>
+                           <l>Pourquoi tout ce discours et cette défiance?</l>
+                           <l>Qui vous dit qu'avec eux je prétends m'allier?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <lg>
+                           <l>Mais vous-même, Seigneur, pouvez-vous le nier?</l>
+                           <l>Comment m'offririez-vous l'entrée et la couronne</l>
+                           <l>D'un pays que partout leur armée environne,</l>
+                           <l>Si le traité secret qui vous lie aux Romains</l>
+                           <l>Ne vous en assurait l'empire et les chemins?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PHARNACE</head>
+                        <lg>
+                           <l>De mes intentions je pourrais vous instruire,</l>
+                           <l>Et je sais les raisons que j'aurais à vous dire,</l>
+                           <l>Si laissant en effet les vains déguisements,</l>
+                           <l>Vous m'aviez expliqué vos secrets sentiments.</l>
+                           <l>Mais enfin je commence, après tant de traverses,</l>
+                           <l>Madame, à rassembler vos excuses diverses;</l>
+                           <l>Je crois voir l'intérêt que vous voulez celer,</l>
+                           <l>Et qu'un autre qu'un père ici vous fait parler.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>XIPHARÈS</head>
+                        <lg>
+                           <l>Quel que soit l'intérêt qui fait parler la Reine,</l>
+                           <l>La réponse, Seigneur, doit-elle être incertaine?</l>
+                           <l>Et contre les Romains votre ressentiment</l>
+                           <l>Doit-il pour éclater balancer un moment?</l>
+                           <l>Quoi! nous aurons d'un père entendu la disgrâce,</l>
+                           <l>Et lents à le venger, prompts à remplir sa place,</l>
+                           <l>Nous mettrons notre honneur et son sang en oubli?</l>
+                           <l>Il est mort: savons-nous s'il est enseveli?</l>
+                           <l>Qui sait si dans le temps que votre âme empressée</l>
+                           <l>Forme d'un doux hymen l'agréable pensée,</l>
+                           <l>Ce roi, que l'Orient tout plein de ses exploits</l>
+                           <l>Peut nommer justement le dernier de ses rois,</l>
+                           <l>Dans ses propres États privé de sépulture,</l>
+                           <l>Ou couché sans honneur dans une foule obscure,</l>
+                           <l>N'accuse point le ciel qui le laisse outrager,</l>
+                           <l>Et des indignes fils qui n'osent le venger?</l>
+                           <l>Ah! ne languissons plus dans un coin du Bosphore.</l>
+                           <l>Si dans tout l'univers quelque roi libre encore,</l>
+                           <l>Parthe, Scythe ou Sarmate, aime sa liberté,</l>
+                           <l>Voilà nos alliés: marchons de ce côté,</l>
+                           <l>Vivons ou périssons dignes de Mithridate,</l>
+                           <l>Et songeons bien plutôt, quelque amour qui nous flatte,</l>
+                           <l>À défendre du joug et nous et nos États,</l>
+                           <l>Qu'à contraindre des coeurs qui ne se donnent pas.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PHARNACE</head>
+                        <lg>
+                           <l>Il sait vos sentiments. Me trompais-je, Madame?</l>
+                           <l>Voilà cet intérêt si puissant sur votre âme,</l>
+                           <l>Ce père, ces Romains que vous me reprochez.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>XIPHARÈS</head>
+                        <lg>
+                           <l>J'ignore de son coeur les sentiments cachés;</l>
+                           <l>Mais je m'y soumettrais sans vouloir rien prétendre,</l>
+                           <l>Si, comme vous, Seigneur, je croyais les entendre.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PHARNACE</head>
+                        <lg>
+                           <l>Vous feriez bien; et moi, je fais ce que je doi:</l>
+                           <l>Votre exemple n'est pas une règle pour moi.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>XIPHARÈS</head>
+                        <lg>
+                           <l>Toutefois en ces lieux je ne connais personne</l>
+                           <l>Qui ne doive imiter l'exemple que je donne.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PHARNACE</head>
+                        <p rend="justify">Vous pourriez à Colchos vous expliquer ainsi.</p>
+                     </div>
+                     <div type="div5">
+                        <head>XIPHARÈS</head>
+                        <p rend="justify">Je le puis à Colchos, et je le puis ici.</p>
+                     </div>
+                     <div type="div5">
+                        <head>PHARNACE</head>
+                        <p rend="justify">Ici? Vous y pourriez rencontrer votre perte…</p>
+                     </div>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>SCÈNE IV</head>
+                  <div type="div4">
+                     <head>MONIME, PHARNACE, XIPHARÈS, PHOEDIME</head>
+                     <div type="div5">
+                        <head>PHOEDIME</head>
+                        <lg>
+                           <l>Princes, toute h mer est de vaisseaux couverte,</l>
+                           <l>Et bientôt, démentant le faux bruit de sa mort,</l>
+                           <l>Mithridate lui-même arrive dans le port.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <p rend="justify">Mithridate!</p>
+                     </div>
+                     <div type="div5">
+                        <head>XIPHARÈS</head>
+                        <p rend="justify">Mon père!</p>
+                     </div>
+                     <div type="div5">
+                        <head>PHARNACE</head>
+                        <p rend="justify">Ah! que viens-je d'entendre?</p>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEDIME</head>
+                        <lg>
+                           <l>Quelques vaisseaux légers sont venus nous l'apprendre:</l>
+                           <l>C'est lui-même; et déjà, pressé de son devoir,</l>
+                           <l>Arbate loin du bord l'est allé recevoir.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>XIPHARÈS</head>
+                        <p rend="justify">Qu'avons-nous fait!</p>
+                        <p rend="justify">MONIME, à Xipharès.</p>
+                        <p rend="justify">Adieu, Prince. Quelle nouvelle!</p>
+                     </div>
+                     <div type="div5">
+                        <head>SCÈNE V</head>
+                     </div>
+                     <div type="div5">
+                        <head>PHARNACE, XIPHARÈS</head>
+                     </div>
+                     <div type="div5">
+                        <head>PHARNACE</head>
+                        <lg>
+                           <l>Mithridate revient? Ah! fortune cruelle!</l>
+                           <l>Ma vie et mon amour tous deux courent hasard,</l>
+                           <l>Les Romains que j'attends arriveront trop tard.</l>
+                        </lg>
+                        <p rend="justify">À Xipharès.</p>
+                        <lg>
+                           <l>Comment faire? J'entends que votre coeur soupire,</l>
+                           <l>Et j'ai conçu l'adieu qu'elle vient de vous dire,</l>
+                           <l>Prince; mais ce discours demande un autre temps:</l>
+                           <l>Nous avons aujourd'hui des soins plus importants.</l>
+                           <l>Mithridate revient, peut-être inexorable.</l>
+                           <l>Plus il est malheureux, plus il est redoutable.</l>
+                           <l>Le péril est pressant plus que vous rie pensez.</l>
+                           <l>Nous sommes criminels, et vous le connaissez.</l>
+                           <l>Rarement l'amitié désarme sa colère;</l>
+                           <l>Ses propres fils n'ont point de juge plus sévère;</l>
+                           <l>Et nous l'avons vu même à ses cruels soupçons</l>
+                           <l>Sacrifier deux fils pour de moindres raisons.</l>
+                           <l>Craignons pour vous, pour moi, pour la Reine elle-même:</l>
+                           <l>Je la plains, d'autant plus que Mithridate l'aime.</l>
+                           <l>Amant avec transport, mais jaloux sans retour,</l>
+                           <l>Sa haine va toujours plus loin que son amour.</l>
+                           <l>Ne vous assurez point sur l'amour qu'il vous porte:</l>
+                           <l>Sa jalouse fureur n'en sera que plus forte.</l>
+                           <l>Songez-y. Vous avez la faveur des soldats,</l>
+                           <l>Et j'aurai des secours que je n'explique pas.</l>
+                           <l>M'en croirez-vous? Courons assurer notre grâce:</l>
+                           <l>Rendons-nous, vous et moi, maîtres de cette place,</l>
+                           <l>Et faisons qu'à ses fils il ne puisse dicter</l>
+                           <l>Que les conditions qu'ils voudront accepter.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>XIPHARÈS</head>
+                        <lg>
+                           <l>Je sais quel est mon crime, et je connais mon père;</l>
+                           <l>Et j'ai par-dessus vous le crime de ma mère;</l>
+                           <l>Mais quelque amour encor qui me pût éblouir,</l>
+                           <l>Quand mon père paraît, je ne sais qu'obéir.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PHARNACE</head>
+                        <lg>
+                           <l>Soyons-nous donc au moins fidèles l'un à l'autre.</l>
+                           <l>Vous savez mon secret, j'ai pénétré le vôtre</l>
+                           <l>Le Roi, toujours fertile en dangereux détours,</l>
+                           <l>S'armera contre nous de nos moindres discours.</l>
+                           <l>Vous savez sa coutume, et sous quelles tendresses</l>
+                           <l>Sa haine sait cacher ses trompeuses adresses.</l>
+                           <l>Allons. Puisqu'il le faut, je marche sur vos pas.</l>
+                           <l>Mais en obéissant ne nous trahissons pas.</l>
+                        </lg>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>ACTE II</head>
+               <div type="div3">
+                  <head>SCÈNE PREMIÈRE</head>
+                  <div type="div4">
+                     <head>MONIME, PHOEDIME</head>
+                     <div type="div5">
+                        <head>PHOEDIME</head>
+                        <lg>
+                           <l>Quoi? vous êtes ici quand Mithridate arrive,</l>
+                           <l>Quand, pour le recevoir, chacun court sur la rive?</l>
+                           <l>Que faites-vous, Madame? et quel ressouvenir</l>
+                           <l>Tout à coup vous arrête, et vous fait revenir?</l>
+                           <l>N'offenserez-vous point un roi qui vous adore,</l>
+                           <l>Qui presque votre époux…</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <lg>
+                           <l>Il ne l'est pas encore,</l>
+                           <l>Phoedime; et jusque-là je crois que mon devoir</l>
+                           <l>Est de l'attendre ici, sans l'aller recevoir.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEDIME</head>
+                        <lg>
+                           <l>Mais ce n'est point, Madame, un amant ordinaire.</l>
+                           <l>Songez qu'à ce grand roi promise par un père,</l>
+                           <l>Vous avez de ses feux un gage solennel,</l>
+                           <l>Qu'il peut, quand il voudra, confirmer à l'autel.</l>
+                           <l>Croyez-moi, montrez-vous, venez à sa rencontre.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <lg>
+                           <l>Regarde en quel état tu veux que je me montre.</l>
+                           <l>Vois ce visage en pleurs; et loin de le chercher,</l>
+                           <l>Dis-moi plutôt, dis-moi que je m'aille cacher.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEDIME</head>
+                        <p rend="justify">Que dites-vous? Ô Dieux!</p>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <lg>
+                           <l>Ah! retour qui me tue!</l>
+                           <l>Malheureuse! Comment paraîtrai-je à sa vue,</l>
+                           <l>Son diadème au front, et dans le fond du coeur,</l>
+                           <l>Phoedime… Tu m'entends, et tu vois ma rougeur.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEDIME</head>
+                        <lg>
+                           <l>Ainsi vous retombez dans les mêmes alarmes</l>
+                           <l>Qui vous ont dans la Grèce arraché tant de larmes?</l>
+                           <l>Et toujours Xipharès revient vous traverser?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <lg>
+                           <l>Mon malheur est plus grand que tu ne peux penser.</l>
+                           <l>Xipharès ne s'offrait alors à ma mémoire</l>
+                           <l>Que tout plein de vertus, que tout brillant de gloire;</l>
+                           <l>Et je ne savais pas que pour moi plein de feux,</l>
+                           <l>Xipharès des mortels est le plus amoureux.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEDIME</head>
+                        <p rend="justify">Il vous aime, Madame! Et ce héros aimable…</p>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <lg>
+                           <l>Est aussi malheureux que je suis misérable.</l>
+                           <l>Il m'adore, Phoedime; et les mêmes douleurs</l>
+                           <l>Qui m'affligeaient ici le tourmentaient ailleurs.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEDIME</head>
+                        <lg>
+                           <l>Sait-il en sa faveur jusqu'où va votre estime?</l>
+                           <l>Sait-il que vous l'aimez?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <lg>
+                           <l>Il l'ignore, Phoedime.</l>
+                           <l>Les Dieux m'ont secourue; et mon coeur affermi</l>
+                           <l>N'a rien dit, ou du moins n'a parlé qu'à demi.</l>
+                           <l>Hélas! si tu savais, pour garder le silence,</l>
+                           <l>Combien ce triste coeur s'est fait de violence!</l>
+                           <l>Quels assauts, quels combats j'ai tantôt soutenus!</l>
+                           <l>Phoedime, si je puis je ne le verrai plus.</l>
+                           <l>Malgré tous les efforts que je pourrais me faire,</l>
+                           <l>Je verrais ses douleurs, je ne pourrais me taire.</l>
+                           <l>Il viendra, malgré moi, m'arracher cet aveu.</l>
+                           <l>Mais n'importe, s'il m'aime il en jouira peu;</l>
+                           <l>Je lui vendrai si cher ce bonheur qu'il ignore,</l>
+                           <l>Qu'il vaudrait mieux pour lui qu'il l'ignorât encore.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEDIME</head>
+                        <p rend="justify">On vient. Que faites-vous, Madame?</p>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <lg>
+                           <l>Je ne puis.</l>
+                           <l>Je ne paraîtrai point dans le trouble où je suis.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>SCÈNE II</head>
+                     </div>
+                     <div type="div5">
+                        <head>MITHRIDATE, PHARNACE, XIPHARÈS, ARBATE, GARDES</head>
+                     </div>
+                     <div type="div5">
+                        <head>MITHRIDATE</head>
+                        <lg>
+                           <l>Princes, quelques raisons que vous me puissiez dire,</l>
+                           <l>Votre devoir ici n'a point dû vous conduire,</l>
+                           <l>Ni vous faire quitter, en de si grands besoins,</l>
+                           <l>Vous le Pont, vous Colchos, confiés à vos soins.</l>
+                           <l>Mais vous avez pour juge un père qui vous aime.</l>
+                           <l>Vous avez cru des bruits que j'ai semés moi-même;</l>
+                           <l>Je vous crois innocents, puisque vous le voulez,</l>
+                           <l>Et je rends grâce au ciel qui nous a rassemblés.</l>
+                           <l>Tout vaincu que je suis, et voisin du naufrage,</l>
+                           <l>Je médite un dessein digne de mon courage.</l>
+                           <l>Vous en serez tantôt instruits plus amplement.</l>
+                           <l>Allez, et laissez-moi reposer un moment.</l>
+                        </lg>
+                     </div>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>SCÈNE III</head>
+                  <div type="div4">
+                     <head>MITHRIDATE, ARBATE</head>
+                     <div type="div5">
+                        <head>MITHRIDATE</head>
+                        <lg>
+                           <l>Enfin, après un an, tu me revois, Arbate,</l>
+                           <l>Non plus comme autrefois cet heureux Mithridate</l>
+                           <l>Qui de Rome toujours balançant le destin,</l>
+                           <l>Tenait entre elle et moi l'univers incertain.</l>
+                           <l>Je suis vaincu. Pompée a saisi l'avantage</l>
+                           <l>D'une nuit qui laissait peu de place au courage.</l>
+                           <l>Mes soldats presque nus, dans l'ombre intimidés,</l>
+                           <l>Les rangs de toutes parts mal pris et mal gardés,</l>
+                           <l>Le désordre partout redoublant les alarmes,</l>
+                           <l>Nous-mêmes contre nous tournant nos propres armes,</l>
+                           <l>Les cris que les rochers renvoyaient plus affreux,</l>
+                           <l>Enfin toute l'horreur d'un combat ténébreux:</l>
+                           <l>Que pouvait la valeur dans ce trouble funeste?</l>
+                           <l>Les uns sont morts, la fuite a sauvé tout le reste;</l>
+                           <l>Et je ne dois la vie, en ce commun effroi,</l>
+                           <l>Qu'au bruit de mon trépas que je laisse après moi.</l>
+                           <l>Quelque temps inconnu, j'ai traversé le Phase;</l>
+                           <l>Et de là, pénétrant jusqu'au pied du Caucase,</l>
+                           <l>Bientôt dans des vaisseaux sur l'Euxin préparés,</l>
+                           <l>J'ai rejoint de mon camp les restes séparés.</l>
+                           <l>Voilà par quels malheurs poussé dans le Bosphore,</l>
+                           <l>J'y trouve des malheurs qui m'attendaient encore.</l>
+                           <l>Toujours du même amour tu me vois enflammé:</l>
+                           <l>Ce coeur nourri de sang, et de guerre affamé,</l>
+                           <l>Malgré le faix des ans et du sort qui m'opprime,</l>
+                           <l>Traîne partout l'amour qui l'attache à Monime,</l>
+                           <l>Et n'a point d'ennemis qui lui soient odieux</l>
+                           <l>Plus que deux fils ingrats que je trouve en ces lieux.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ARBATE</head>
+                        <p rend="justify">Deux fils, Seigneur?</p>
+                     </div>
+                     <div type="div5">
+                        <head>MITHRIDATE</head>
+                        <lg>
+                           <l>Écoute. À travers ma colère,</l>
+                           <l>Je veux bien distinguer Xipharès de son frère.</l>
+                           <l>Je sais que de tout temps à mes ordres soumis,</l>
+                           <l>Il hait autant que moi nos communs ennemis;</l>
+                           <l>Et j'ai vu sa valeur, à me plaire attachée,</l>
+                           <l>Justifier pour lui ma tendresse cachée.</l>
+                           <l>Je sais même, je sais avec quel désespoir</l>
+                           <l>À tout autre intérêt préférant son devoir,</l>
+                           <l>Il courut démentir une mère infidèle,</l>
+                           <l>Et tira de son crime une gloire nouvelle;</l>
+                           <l>Et je ne puis encor ni n'oserais penser</l>
+                           <l>Que ce fils si fidèle ait voulu m'offenser.</l>
+                           <l>Mais tous deux en ces lieux que pouvaient-ils attendre?</l>
+                           <l>L'un et l'autre à la Reine ont-ils osé prétendre?</l>
+                           <l>Avec qui semble-t-elle en secret s'accorder?</l>
+                           <l>Moi-même de quel oeil dois-je ici l'aborder?</l>
+                           <l>Parle. Quelque désir qui m'entraîne auprès d'elle,</l>
+                           <l>Il me faut de leurs coeurs rendre un compte fidèle.</l>
+                           <l>Qu'est-ce qui s'est passé? Qu'as-tu vu? Que sais-tu?</l>
+                           <l>Depuis quel temps, pourquoi, comment t'es-tu rendu?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ARBATE</head>
+                        <lg>
+                           <l>Seigneur, depuis huit jours l'impatient Pharnace</l>
+                           <l>Aborda le premier au pied de cette place,</l>
+                           <l>Et de votre trépas autorisant le bruit</l>
+                           <l>Dans ces murs aussitôt voulut être introduit.</l>
+                           <l>Je ne m'arrêtai point à ce bruit téméraire;</l>
+                           <l>Et je n'écoutais rien, si le prince son frère,</l>
+                           <l>Bien moins par ses discours, Seigneur, que par ses pleurs,</l>
+                           <l>Ne m'eût en arrivant confirmé vos malheurs.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MITHRIDATE</head>
+                        <p rend="justify">Enfin que firent-ils?</p>
+                     </div>
+                     <div type="div5">
+                        <head>ARBATE</head>
+                        <lg>
+                           <l>Pharnace entrait à peine</l>
+                           <l>Qu'il courut de ses feux entretenir la Reine,</l>
+                           <l>Et s'offrir d'assurer par un hymen prochain</l>
+                           <l>Le bandeau qu'elle avait reçu de votre main.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MITHRIDATE</head>
+                        <lg>
+                           <l>Traître! sans lui donner le loisir de répandre</l>
+                           <l>Les pleurs que son amour aurait dus à ma cendre!</l>
+                           <l>Et son frère?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ARBATE</head>
+                        <lg>
+                           <l>Son frère, au moins jusqu'à ce jour,</l>
+                           <l>Seigneur, dans ses desseins n'a point marque d'amour,</l>
+                           <l>Et toujours avec vous son coeur d'intelligence</l>
+                           <l>N'a semblé respirer que guerre et que vengeance.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MITHRIDATE</head>
+                        <p rend="justify">Mais encor quel dessein le conduisait ici?</p>
+                     </div>
+                     <div type="div5">
+                        <head>ARBATE</head>
+                        <p rend="justify">Seigneur, vous en serez tôt ou tard éclairci.</p>
+                     </div>
+                     <div type="div5">
+                        <head>MITHRIDATE</head>
+                        <p rend="justify">Parle, je te l'ordonne, et je veux tout apprendre.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ARBATE</head>
+                        <lg>
+                           <l>Seigneur, jusqu'à ce jour, ce que j'ai pu comprendre,</l>
+                           <l>Ce prince a cru pouvoir, après votre trépas,</l>
+                           <l>Compter cette province au rang de ses États:</l>
+                           <l>Et sans connaître ici de lois que son courage,</l>
+                           <l>Il venait par la force appuyer son partage.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MITHRIDATE</head>
+                        <lg>
+                           <l>Ah! c'est le moindre prix qu'il se doit proposer,</l>
+                           <l>Si le ciel de mon sort me laisse disposer.</l>
+                           <l>Oui, je respire, Arbate, et ma joie est extrême.</l>
+                           <l>Je tremblais, je l'avoue, et pour un fils que j'aime,</l>
+                           <l>Et pour moi, qui craignais de perdre un tel appui,</l>
+                           <l>Et d'avoir à combattre un rival tel que lui.</l>
+                           <l>Que Pharnace m'offense, il offre à ma colère</l>
+                           <l>Un rival dès longtemps soigneux de me déplaire,</l>
+                           <l>Qui toujours des Romains admirateur secret,</l>
+                           <l>Ne s'est jamais contre eux déclaré qu'à regret.</l>
+                           <l>Et s'il faut que pour lui Monime prévenue</l>
+                           <l>Ait pu porter ailleurs une amour qui m'est due,</l>
+                           <l>Malheur au criminel qui vient me la ravir,</l>
+                           <l>Et qui m'ose offenser et n'ose me servir!</l>
+                           <l>L'aime-t-elle?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ARBATE</head>
+                        <p rend="justify">Seigneur, je vois venir la Reine.</p>
+                     </div>
+                     <div type="div5">
+                        <head>MITHRIDATE</head>
+                        <lg>
+                           <l>Dieux, qui voyez ici mon amour et ma haine,</l>
+                           <l>Épargnez mes malheurs, et daignez empêcher</l>
+                           <l>Que je ne trouve encor ceux que je vais chercher.</l>
+                           <l>Arbate, c'est assez: qu'on me laisse avec elle.</l>
+                        </lg>
+                     </div>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>SCÈNE IV</head>
+                  <div type="div4">
+                     <head>MITHRIDATE, MONIME</head>
+                     <div type="div5">
+                        <head>MITHRIDATE</head>
+                        <lg>
+                           <l>Madame, enfin le ciel près de vous me rappelle,</l>
+                           <l>Et secondant du moins mes plus tendres souhaits,</l>
+                           <l>Vous rend à mon amour plus belle que jamais.</l>
+                           <l>Je ne m'attendais pas que de notre hyménée</l>
+                           <l>Je dusse voir si tard arriver la journée,</l>
+                           <l>Ni qu'en vous retrouvant, mon funeste retour</l>
+                           <l>Fît voir mon infortune, et non pas mon amour.</l>
+                           <l>C'est pourtant cet amour, qui de tant de retraites</l>
+                           <l>Ne me laisse choisir que les lieux où vous êtes;</l>
+                           <l>Et les plus grands malheurs pourront me sembler doux,</l>
+                           <l>Si ma présence ici n'en est point un pour vous.</l>
+                           <l>C'est vous en dire assez, si vous voulez m'entendre.</l>
+                           <l>Vous devez à ce jour dès longtemps vous attendre,</l>
+                           <l>Et vous portez, Madame, un gage de ma foi</l>
+                           <l>Qui vous dit tous les jours que vous êtes à moi.</l>
+                           <l>Allons donc assurer cette foi mutuelle.</l>
+                           <l>Ma gloire loin d'ici vous et moi nous appelle,</l>
+                           <l>Et sans perdre un moment pour ce noble dessein,</l>
+                           <l>Aujourd'hui votre époux, il faut partir demain.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <lg>
+                           <l>Seigneur, vous pouvez tout. Ceux par qui je respire</l>
+                           <l>Vous ont cédé sur moi leur souverain empire;</l>
+                           <l>Et quand vous userez de ce droit tout-puissant,</l>
+                           <l>Je ne vous répondrai qu'en vous obéissant.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MITHRIDATE</head>
+                        <lg>
+                           <l>Ainsi, prête à subir un joug qui vous opprime,</l>
+                           <l>Vous n'allez à l'autel que comme une victime;</l>
+                           <l>Et moi, tyran d'un coeur qui se refuse au mien,</l>
+                           <l>Même en vous possédant je ne vous devrai rien.</l>
+                           <l>Ah! Madame, est-ce là de quoi me satisfaire?</l>
+                           <l>Faut-il que désormais, renonçant à vous plaire,</l>
+                           <l>Je ne prétende plus qu'à vous tyranniser?</l>
+                           <l>Mes malheurs, en un mot, me font-ils mépriser?</l>
+                           <l>Ah! pour tenter encor de nouvelles conquêtes,</l>
+                           <l>Quand je ne verrais pas des routes toutes prêtes,</l>
+                           <l>Quand le sort ennemi m'aurait jeté plus bas,</l>
+                           <l>Vaincu, persécuté, sans secours, sans États,</l>
+                           <l>Errant de mers en mers, et moins roi que pirate,</l>
+                           <l>Conservant pour tous biens le nom de Mithridate,</l>
+                           <l>Apprenez que suivi d'un nom si glorieux,</l>
+                           <l>Partout de l'univers j'attacherais les yeux,</l>
+                           <l>Et qu'il n'est point de rois, s'ils sont dignes de l'être,</l>
+                           <l>Qui, sur le trône assis, n'enviassent peut-être</l>
+                           <l>Au-dessus de leur gloire un naufrage élevé,</l>
+                           <l>Que Rome et quarante ans ont à peine achevé.</l>
+                           <l>Vous-même, d'un autre oeil me verriez-vous, Madame,</l>
+                           <l>Si ces Grecs vos aïeux revivaient dans votre âme?</l>
+                           <l>Et puisqu'il faut enfin que je sois votre époux,</l>
+                           <l>N'était-il pas plus noble, et plus digne de vous,</l>
+                           <l>De joindre à ce devoir votre propre suffrage,</l>
+                           <l>D'opposer votre estime au destin qui m'outrage,</l>
+                           <l>Et de me rassurer, en flattant ma douleur,</l>
+                           <l>Contre la défiance attachée au malheur?</l>
+                           <l>Hé quoi? n'avez-vous rien, Madame, à me répondre?</l>
+                           <l>Tout mon empressement ne sert qu'à vous confondre.</l>
+                           <l>Vous demeurez muette; et loin de me parler,</l>
+                           <l>Je vois, malgré vos soins, vos pleurs prêts à couler.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <lg>
+                           <l>Moi, Seigneur? Je n'ai point de larmes à répandre.</l>
+                           <l>J'obéis. N'est-ce pas assez me faire entendre?</l>
+                           <l>Et ne suffit-il pas…</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MITHRIDATE</head>
+                        <lg>
+                           <l>Non, ce n'est pas assez.</l>
+                           <l>Je vous entends ici mieux que vous ne pensez.</l>
+                           <l>Je vois qu'on m'a dit vrai. Ma juste jalousie</l>
+                           <l>Par vos propres discours est trop bien éclaircie.</l>
+                           <l>Je vois qu'un fils perfide, épris de vos beautés,</l>
+                           <l>Vous a parlé d'amour, et que vous l'écoutez.</l>
+                           <l>Je vous jette pour lui dans des craintes nouvelles.</l>
+                           <l>Mais il jouira peu de vos pleurs infidèles,</l>
+                           <l>Madame, et désormais tout est sourd à mes lois,</l>
+                           <l>Ou bien vous l'avez vu pour la dernière fois.</l>
+                           <l>Appelez Xipharès.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <lg>
+                           <l>Ah! que voulez-vous faire?</l>
+                           <l>Xipharès…</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MITHRIDATE</head>
+                        <lg>
+                           <l>Xipharès n'a point trahi son père.</l>
+                           <l>Vous vous pressez en vain de le désavouer,</l>
+                           <l>Et ma tendre amitié ne peut que s'en louer.</l>
+                           <l>Ma honte en serait moindre, ainsi que votre crime,</l>
+                           <l>Si ce fils en effet digne de votre estime</l>
+                           <l>À quelque amour encore avait pu vous forcer.</l>
+                           <l>Mais qu'un traître, qui n'est hardi qu'à m'offenser,</l>
+                           <l>De qui nulle vertu n'accompagne l'audace,</l>
+                           <l>Que Pharnace, en un mot, ait pu prendre ma place?</l>
+                           <l>Qu'il soit aimé, Madame, et que je sois haï?</l>
+                        </lg>
+                     </div>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>SCÈNE V</head>
+                  <div type="div4">
+                     <head>MITHRIDATE, MONIME, XIPHARÈS</head>
+                     <div type="div5">
+                        <head>MITHRIDATE</head>
+                        <lg>
+                           <l>Venez, mon fils, venez, votre père est trahi.</l>
+                           <l>Un fils audacieux insulte à ma ruine,</l>
+                           <l>Traverse mes desseins, m'outrage, m'assassine,</l>
+                           <l>Aime la Reine enfin, lui plaît, et me ravit</l>
+                           <l>Un coeur que son devoir à moi seul asservit.</l>
+                           <l>Heureux pourtant, heureux que dans cette disgrâce</l>
+                           <l>Je ne puisse accuser que la main de Pharnace;</l>
+                           <l>Qu'une mère infidèle, un frère audacieux</l>
+                           <l>Vous présentent en vain leur exemple odieux!</l>
+                           <l>Oui, mon fils, c'est vous seul sur qui je me repose,</l>
+                           <l>Vous seul qu'aux grands desseins que mon coeur se propose</l>
+                           <l>J'ai choisi dès longtemps pour digne compagnon,</l>
+                           <l>L'héritier de mon sceptre, et surtout de mon nom.</l>
+                           <l>Pharnace, en ce moment, et ma flamme offensée</l>
+                           <l>Ne peuvent pas tout seuls occuper ma pensée.</l>
+                           <l>D'un voyage important les soins et les apprêts,</l>
+                           <l>Mes vaisseaux qu'à partir il faut tenir tout prêts,</l>
+                           <l>Mes soldats dont je veux tenter la complaisance,</l>
+                           <l>Dans ce même moment demandent ma présence.</l>
+                           <l>Vous cependant ici veillez pour mon repos.</l>
+                           <l>D'un rival insolent arrêtez les complots.</l>
+                           <l>Ne quittez point la Reine, et s'il se peut, vous-même</l>
+                           <l>Rendez-la moins contraire aux voeux d'un roi qui l'aime.</l>
+                           <l>Détournez-la mon fils, d'un choix injurieux.</l>
+                           <l>Juge sans intérêt, vous la convaincrez mieux.</l>
+                           <l>En un mot, c'est assez éprouver ma faiblesse:</l>
+                           <l>Qu'elle ne pousse point cette même tendresse,</l>
+                           <l>Que sais-je? à des fureurs dont mon coeur outragé</l>
+                           <l>Ne se repentirait qu'après s'être vengé.</l>
+                        </lg>
+                     </div>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>SCÈNE VI</head>
+                  <div type="div4">
+                     <head>MONIME, XIPHARÈS</head>
+                     <div type="div5">
+                        <head>XIPHARÈS</head>
+                        <lg>
+                           <l>Que dirai-je, Madame? Et comment dois-je entendre</l>
+                           <l>Cet ordre, ce discours que je ne puis comprendre?</l>
+                           <l>Serait-il vrai, grands Dieux! que trop aimé de vous,</l>
+                           <l>Pharnace eût en effet mérité ce courroux?</l>
+                           <l>Pharnace aurait-il part à ce désordre extrême?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <lg>
+                           <l>Pharnace? ô ciel! Pharnace? Ah! qu'entends-je moi-même?</l>
+                           <l>Ce n'est donc pas assez que ce funeste jour</l>
+                           <l>À tout ce que j'aimais m'arrache sans retour,</l>
+                           <l>Et que, de mon devoir esclave infortunée,</l>
+                           <l>À d'éternels ennuis je me voie enchaînée?</l>
+                           <l>Il faut qu'on joigne encor l'outrage à mes douleurs.</l>
+                           <l>À l'amour de Pharnace on impute mes pleurs.</l>
+                           <l>Malgré toute ma haine, on veut qu'il m'ait su plaire.</l>
+                           <l>Je le pardonne au Roi, qu'aveugle sa colère,</l>
+                           <l>Et qui de mes secrets ne peut être éclairci.</l>
+                           <l>Mais vous, Seigneur, mais vous, me traitez-vous ainsi?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>XIPHARÈS</head>
+                        <lg>
+                           <l>Ah! Madame, excusez un amant qui s'égare,</l>
+                           <l>Qui lui-même, lié par un devoir barbare,</l>
+                           <l>Se voit prêt de tout perdre, et n'ose se venger.</l>
+                           <l>Mais des fureurs du Roi que puis-je enfin juger?</l>
+                           <l>Il se plaint qu'à ses voeux un autre amour s'oppose.</l>
+                           <l>Quel heureux criminel en peut être la cause?</l>
+                           <l>Qui? Parlez.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <lg>
+                           <l>Vous cherchez, Prince, à vous tourmenter.</l>
+                           <l>Plaignez votre malheur sans vouloir l'augmenter.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>XIPHARÈS</head>
+                        <lg>
+                           <l>Je sais trop quel tourment je m'apprête moi-même.</l>
+                           <l>C'est peu de voir un père épouser ce que j'aime:</l>
+                           <l>Voir encore un rival honoré de vos pleurs,</l>
+                           <l>Sans doute c'est pour moi le comble des malheurs;</l>
+                           <l>Mais dans mon désespoir je cherche à les accroître.</l>
+                           <l>Madame, par pitié, faites-le-moi connaître.</l>
+                           <l>Quel est-il, cet amant? Qui dois-je soupçonner?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <lg>
+                           <l>Avez-vous tant de peine à vous l'imaginer?</l>
+                           <l>Tantôt, quand je fuyais une injuste contrainte,</l>
+                           <l>À qui contre Pharnace ai-je adressé ma plainte?</l>
+                           <l>Sous quel appui tantôt mon coeur s'est-il jeté?</l>
+                           <l>Quel amour ai-je enfin sans colère écouté?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>XIPHARÈS</head>
+                        <lg>
+                           <l>Ô ciel! Quoi? je serais ce bienheureux coupable</l>
+                           <l>Que vous avez pu voir d'un regard favorable?</l>
+                           <l>Vos pleurs pour Xipharès auraient daigné couler?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <lg>
+                           <l>Oui, Prince, il n'est plus temps de le dissimuler.</l>
+                           <l>Ma douleur pour se taire a trop de violence.</l>
+                           <l>Un rigoureux devoir me condamne au silence;</l>
+                           <l>Mais il faut bien enfin, malgré ses dures lois,</l>
+                           <l>Parler pour la première et la dernière fois.</l>
+                           <l>Vous m'aimez dès longtemps. Une égale tendresse</l>
+                           <l>Pour vous depuis longtemps m'afflige et m'intéresse,</l>
+                           <l>Songez depuis quel jour ces funestes appas</l>
+                           <l>Firent naître un amour qu'ils ne méritaient pas;</l>
+                           <l>Rappelez un espoir qui ne vous dura guère,</l>
+                           <l>Le trouble où vous jeta l'amour de votre père,</l>
+                           <l>Le tourment de me perdre et de le voir heureux,</l>
+                           <l>Les rigueurs d'un devoir contraire à tous vos voeux:</l>
+                           <l>Vous n'en sauriez, Seigneur, retracer la mémoire,</l>
+                           <l>Ni conter vos malheurs, sans conter mon histoire,</l>
+                           <l>Et lorsque ce matin j'en écoutais le cours,</l>
+                           <l>Mon coeur vous répondait tous vos mêmes discours.</l>
+                           <l>Inutile, ou plutôt funeste sympathie!</l>
+                           <l>Trop parfaite union par le sort démentie!</l>
+                           <l>Ah! par quel soin cruel le ciel avait-il joint</l>
+                           <l>Deux coeurs que l'un pour l'autre il ne destinait point?</l>
+                           <l>Car quel que soit vers vous le penchant qui m'attire,</l>
+                           <l>Je vous le dis, Seigneur, pour ne plus vous le dire,</l>
+                           <l>Ma gloire me rappelle et m'entraîne à l'autel</l>
+                           <l>Où je vais vous jurer un silence éternel.</l>
+                           <l>J'entends, vous gémissez. Mais telle est ma misère.</l>
+                           <l>Je ne suis point à vous, je suis à votre père.</l>
+                           <l>Dans ce dessein, vous-même, il faut me soutenir,</l>
+                           <l>Et de mon faible coeur m'aider à vous bannir.</l>
+                           <l>J'attends du moins, j'attends de votre complaisance</l>
+                           <l>Que désormais partout vous fuirez ma présence.</l>
+                           <l>J'en viens de dire assez pour vous persuader</l>
+                           <l>Que j'ai trop de raisons de vous le commander.</l>
+                           <l>Mais après ce moment, si ce coeur magnanime</l>
+                           <l>D'un véritable amour a brûlé pour Monime,</l>
+                           <l>Je ne reconnais plus la foi de vos discours</l>
+                           <l>Qu'au soin que vous prendrez de m'éviter toujours.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>XIPHARÈS</head>
+                        <lg>
+                           <l>Quelle marque, grands Dieux, d'un amour déplorable!</l>
+                           <l>Combien en un moment heureux et misérable!</l>
+                           <l>De quel comble de gloire et de félicités,</l>
+                           <l>Dans quel abîme affreux vous me précipitez!</l>
+                           <l>Quoi! j'aurai pu toucher un coeur comme le vôtre?</l>
+                           <l>Vous aurez pu m'aimer? et cependant un autre</l>
+                           <l>Possédera ce coeur dont j'attirais les voeux?</l>
+                           <l>Père injuste, cruel, mais d'ailleurs malheureux!</l>
+                           <l>Vous voulez que je fuie et que je vous évite?</l>
+                           <l>Et cependant le Roi m'attache à votre suite.</l>
+                           <l>Que dira-t-il?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <lg>
+                           <l>N'importe, il me faut obéir.</l>
+                           <l>Inventez des raisons qui puissent l'éblouir.</l>
+                           <l>D'un héros tel que vous c'est là l'effort suprême:</l>
+                           <l>Cherchez, Prince, cherchez, pour vous trahir vous-même,</l>
+                           <l>Tout ce que, pour jouir de leurs contentements,</l>
+                           <l>L'amour fait inventer aux vulgaires amants.</l>
+                           <l>Enfin je me connais, il y va de ma vie.</l>
+                           <l>De mes faibles efforts ma vertu se défie.</l>
+                           <l>Je sais qu'en vous voyant, un tendre souvenir</l>
+                           <l>Peut m'arracher du coeur quelque indigne soupir;</l>
+                           <l>Que je verrai mon âme, en secret déchirée,</l>
+                           <l>Revoler vers le bien dont elle est séparée.</l>
+                           <l>Mais je sais bien aussi que s'il dépend de vous</l>
+                           <l>De me faire chérir un souvenir si doux,</l>
+                           <l>Vous n'empêcherez pas que ma gloire offensée</l>
+                           <l>N'en punisse aussitôt la coupable pensée;</l>
+                           <l>Que ma main dans mon coeur ne vous aille chercher,</l>
+                           <l>Pour y laver ma honte, et vous en arracher.</l>
+                           <l>Que dis-je? En ce moment, le dernier qui nous reste,</l>
+                           <l>Je me sens arrêter par un plaisir funeste.</l>
+                           <l>Plus je vous parle, et plus, trop faible que je suis,</l>
+                           <l>Je cherche à prolonger le péril que je fuis.</l>
+                           <l>Il faut pourtant, il faut se faire violence,</l>
+                           <l>Et sans perdre en adieux un reste de constance,</l>
+                           <l>Je fuis. Souvenez-vous, Prince, de m'éviter,</l>
+                           <l>Et méritez les pleurs que vous m'allez coûter.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>XIPHARÈS</head>
+                        <lg>
+                           <l>Ah! Madame… Elle fuit, et ne veut plus m'entendre.</l>
+                           <l>Malheureux Xipharès, quel parti dois-tu prendre?</l>
+                           <l>On t'aime, on te bannit; toi-même tu vois bien</l>
+                           <l>Que ton propre devoir s'accorde avec le sien.</l>
+                           <l>Cours par un prompt trépas abréger ton supplice.</l>
+                           <l>Toutefois attendons que son sort s'éclaircisse,</l>
+                           <l>Et s'il faut qu'un rival la ravisse à ma foi,</l>
+                           <l>Du moins, en expirant, ne la cédons qu'au Roi.</l>
+                        </lg>
+                     </div>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>ACTE III</head>
+                  <div type="div4">
+                     <head>SCÈNE PREMIÈRE</head>
+                     <div type="div5">
+                        <head>MITHRIDATE, PHARNACE, XIPHARÈS</head>
+                     </div>
+                     <div type="div5">
+                        <head>MITHRIDATE</head>
+                        <lg>
+                           <l>Approchez, mes enfants. Enfin l'heure est venue</l>
+                           <l>Qu'il faut que mon secret éclate à votre vue.</l>
+                           <l>À mes nobles projets je vois tout conspirer;</l>
+                           <l>Il ne me reste plus qu'à vous les déclarer.</l>
+                           <l>Je fuis, ainsi le veut la fortune ennemie.</l>
+                           <l>Mais vous savez trop bien l'histoire de ma vie</l>
+                           <l>Pour croire que longtemps soigneux de me cacher,</l>
+                           <l>J'attende en ces déserts qu'on me vienne chercher.</l>
+                           <l>La guerre a ses faveurs, ainsi que ses disgrâces.</l>
+                           <l>Déjà plus d'une fois, retournant sur mes traces,</l>
+                           <l>Tandis que l'ennemi, par ma fuite trompé,</l>
+                           <l>Tenait après son char un vain peuple occupé,</l>
+                           <l>Et gravant en airain ses frêles avantages,</l>
+                           <l>De mes États conquis enchaînait les images,</l>
+                           <l>Le Bosphore m'a vu, par de nouveaux apprêts,</l>
+                           <l>Ramener la terreur du fond de ses marais,</l>
+                           <l>Et chassant les Romains de l'Asie étonnée,</l>
+                           <l>Renverser en un jour l'ouvrage d'une année.</l>
+                           <l>D'autres temps, d'autres soins. L'Orient accablé</l>
+                           <l>Ne peut plus soutenir leur effort redoublé.</l>
+                           <l>Il voit plus que jamais ses campagnes couvertes</l>
+                           <l>De Romains que la guerre enrichit de nos pertes.</l>
+                           <l>Des biens des nations ravisseurs altérés,</l>
+                           <l>Le bruit de nos trésors les a tous attirés:</l>
+                           <l>Ils y courent en foule, et jaloux l'un de l'autre</l>
+                           <l>Désertent leur pays pour inonder le nôtre.</l>
+                           <l>Moi seul je leur résiste. Ou lassés, ou soumis,</l>
+                           <l>Ma funeste amitié pèse à tous mes amis:</l>
+                           <l>Chacun à ce fardeau veut dérober sa tête.</l>
+                           <l>Le grand nom de Pompée assure sa conquête.</l>
+                           <l>C'est l'effroi de l'Asie. Et loin de l'y chercher,</l>
+                           <l>C'est à Rome, mes fils, que je prétends marcher.</l>
+                           <l>Ce dessein vous surprend; et vous croyez peut-être</l>
+                           <l>Que le seul désespoir aujourd'hui le fait naître.</l>
+                           <l>J'excuse votre erreur; et pour être approuvés,</l>
+                           <l>De semblables projets veulent être achevés.</l>
+                           <l>Ne vous figurez point que de cette contrée</l>
+                           <l>Par d'éternels remparts Rome soit séparée</l>
+                           <l>Je sais tous les chemins par où je dois passer;</l>
+                           <l>Et si la mort bientôt ne me vient traverser,</l>
+                           <l>Sans reculer plus loin l'effet de ma parole,</l>
+                           <l>Je vous rends dans trois mois au pied du Capitole.</l>
+                           <l>Doutez-vous que l'Euxin ne me porte en deux jours</l>
+                           <l>Aux lieux où le Danube y vient finir son cours?</l>
+                           <l>Que du Scythe avec moi l'alliance jurée</l>
+                           <l>De l'Europe en ces lieux ne me livre l'entrée?</l>
+                           <l>Recueilli dans leurs ports, accru de leurs soldats,</l>
+                           <l>Nous verrons notre camp grossir à chaque pas.</l>
+                           <l>Daces, Pannoniens, la fière Germanie,</l>
+                           <l>Tous n'attendent qu'un chef contre la tyrannie.</l>
+                           <l>Vous avez vu l'Espagne, et surtout les Gaulois,</l>
+                           <l>Contre ces mêmes murs qu'ils ont pris autrefois</l>
+                           <l>Exciter ma vengeance, et jusque dans la Grèce</l>
+                           <l>Par des ambassadeurs accuser ma paresse.</l>
+                           <l>Ils savent que sur eux prêt à se déborder,</l>
+                           <l>Ce torrent, s'il m'entraîne, ira tout inonder;</l>
+                           <l>Et vous les verrez tous, prévenant son ravage,</l>
+                           <l>Guider dans l'Italie et suivre mon passage.</l>
+                           <l>C'est là qu'en arrivant, plus qu'en tout le chemin,</l>
+                           <l>Vous trouverez partout l'horreur du nom romain,</l>
+                           <l>Et la triste Italie encor toute fumante</l>
+                           <l>Des feux qu'a rallumés sa liberté mourante.</l>
+                           <l>Non, Princes, ce n'est point au bout de l'univers</l>
+                           <l>Que Rome fait sentir tout le poids de ses fers;</l>
+                           <l>Et de près inspirant les haines les plus fortes,</l>
+                           <l>Tes plus grands ennemis, Rome, sont à tes portes.</l>
+                           <l>Ah! s'ils ont pu choisir pour leur libérateur</l>
+                           <l>Spartacus, un esclave, un vil gladiateur,</l>
+                           <l>S'ils suivent au combat des brigands qui les vengent,</l>
+                           <l>De quelle noble ardeur pensez-vous qu'ils se rangent</l>
+                           <l>Sous les drapeaux d'un roi longtemps victorieux,</l>
+                           <l>Qui voit jusqu'à Cyrus remonter ses aïeux?</l>
+                           <l>Que dis-je? En quel état croyez-vous la surprendre?</l>
+                           <l>Vide de légions qui la puissent défendre,</l>
+                           <l>Tandis que tout s'occupe à me persécuter,</l>
+                           <l>Leurs femmes, leurs enfants pourront-ils m'arrêter?</l>
+                           <l>Marchons, et dans son sein rejetons cette guerre</l>
+                           <l>Que sa fureur envoie aux deux bouts de la terre.</l>
+                           <l>Attaquons dans leurs murs ces conquérants si fiers;</l>
+                           <l>Qu'ils tremblent à leur tour pour leurs propres foyers.</l>
+                           <l>Annibal l'a prédit, croyons-en ce grand homme,</l>
+                           <l>Jamais on ne vaincra les Romains que dans Rome.</l>
+                           <l>Noyons-la dans son sang justement répandu.</l>
+                           <l>Brûlons ce Capitole où j'étais attendu.</l>
+                           <l>Détruisons ses honneurs, et faisons disparaître</l>
+                           <l>La honte de cent rois, et la mienne peut-être;</l>
+                           <l>Et la flamme à la main effaçons tous ces noms</l>
+                           <l>Que Rome y consacrait à d'éternels affronts.</l>
+                           <l>Voilà l'ambition dont mon âme est saisie.</l>
+                           <l>Ne croyez point pourtant qu'éloigné de l'Asie,</l>
+                           <l>J'en laisse les Romains tranquilles possesseurs.</l>
+                           <l>Je sais où je lui dois trouver des défenseurs.</l>
+                           <l>Je veux que d'ennemis partout enveloppée,</l>
+                           <l>Rome rappelle en vain le secours de Pompée.</l>
+                           <l>Le Parthe, des Romains comme moi la terreur,</l>
+                           <l>Consent de succéder à ma juste fureur.</l>
+                           <l>Prêt d'unir avec moi sa haine et sa famille,</l>
+                           <l>Il me demande un fils pour époux à sa fille.</l>
+                           <l>Cet honneur vous regarde, et j'ai fait choix de vous,</l>
+                           <l>Pharnace. Allez, soyez ce bienheureux époux.</l>
+                           <l>Demain, sans différer, je prétends que l'Aurore</l>
+                           <l>Découvre mes vaisseaux déjà loin du Bosphore.</l>
+                           <l>Vous que rien n'y retient, partez dès ce moment,</l>
+                           <l>Et méritez mon choix par votre empressement.</l>
+                           <l>Achevez cet hymen; et repassant l'Euphrate,</l>
+                           <l>Faites voir à l'Asie un autre Mithridate.</l>
+                           <l>Que nos tyrans communs en pâlissent d'effroi,</l>
+                           <l>Et que le bruit à Rome en vienne jusqu'à moi.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PHARNACE</head>
+                        <lg>
+                           <l>Seigneur, je ne vous puis déguiser ma surprise.</l>
+                           <l>J'écoute avec transport cette grande entreprise;</l>
+                           <l>Je l'admire. Et jamais un plus hardi dessein</l>
+                           <l>Ne mit à des vaincus les armes à la main.</l>
+                           <l>Surtout j'admire en vous ce coeur infatigable</l>
+                           <l>Qui semble s'affermir sous le faix qui l'accable.</l>
+                           <l>Mais si j'ose parler avec sincérité,</l>
+                           <l>En êtes-vous réduit à cette extrémité?</l>
+                           <l>Pourquoi tenter si loin des courses inutiles</l>
+                           <l>Quand vos États encor vous offrent tant d'asiles,</l>
+                           <l>Et vouloir affronter des travaux infinis,</l>
+                           <l>Dignes plutôt d'un chef de malheureux bannis</l>
+                           <l>Que d'un roi qui naguère, avec quelque apparence,</l>
+                           <l>De l'aurore au couchant portait son espérance,</l>
+                           <l>Fondait sur trente États son trône florissant,</l>
+                           <l>Dont le débris est même un Empire puissant?</l>
+                           <l>Vous seul, Seigneur, vous seul, après quarante années,</l>
+                           <l>Pouvez encor lutter contre les destinées</l>
+                           <l>Implacable ennemi de Rome et du repos,</l>
+                           <l>Comptez-vous vos soldats pour autant de héros?</l>
+                           <l>Pensez-vous que ces coeurs, tremblants de leur défaite,</l>
+                           <l>Fatigués d'une longue et pénible retraite,</l>
+                           <l>Cherchent avidement sous un ciel étranger</l>
+                           <l>La mort et le travail, pire que le danger?</l>
+                           <l>Vaincus plus d'une fois aux yeux de la patrie,</l>
+                           <l>Soutiendront-ils ailleurs un vainqueur en furie?</l>
+                           <l>Sera-t-il moins terrible, et le vaincront-ils mieux</l>
+                           <l>Dans le sein de sa Ville, à l'aspect de ses Dieux?</l>
+                           <l>Le Parthe vous recherche et vous demande un gendre.</l>
+                           <l>Mais ce Parthe, Seigneur, ardent à nous défendre</l>
+                           <l>Lorsque tout l'univers semblait nous protéger,</l>
+                           <l>D'un gendre sans appui voudra-t-il se charger?</l>
+                           <l>M'en irai-je moi seul, rebut de la fortune,</l>
+                           <l>Essuyer l'inconstance au Parthe si commune,</l>
+                           <l>Et peut-être, pour fruit d'un téméraire amour,</l>
+                           <l>Exposer votre nom au mépris de sa cour?</l>
+                           <l>Du moins, s'il faut céder, si contre notre usage</l>
+                           <l>Il faut d'un suppliant emprunter le visage,</l>
+                           <l>Sans m'envoyer du Parthe embrasser les genoux,</l>
+                           <l>Sans vous-même implorer des rois moindres que vous,</l>
+                           <l>Ne pourrions-nous pas prendre une plus sûre voie?</l>
+                           <l>Jetons-nous dans les bras qu'on nous tend avec joie.</l>
+                           <l>Rome en votre faveur facile à s'apaiser…</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>XIPHARÈS</head>
+                        <lg>
+                           <l>Rome, mon frère, ô ciel! Qu'osez-vous proposer?</l>
+                           <l>Vous voulez que le Roi s'abaisse et s'humilie?</l>
+                           <l>Qu'il démente en un jour tout le cours de sa vie?</l>
+                           <l>Qu'il se fie aux Romains, et subisse des lois</l>
+                           <l>Dont il a quarante ans défendu tous les rois?</l>
+                           <l>Continuez, Seigneur. Tout vaincu que vous êtes,</l>
+                           <l>La guerre, les périls sont vos seules retraites.</l>
+                           <l>Rome poursuit en vous un ennemi fatal,</l>
+                           <l>Plus conjuré contre elle et plus craint qu'Annibal.</l>
+                           <l>Tout couvert de son sang, quoi que vous puissiez faire,</l>
+                           <l>N'en attendez jamais qu'une paix sanguinaire,</l>
+                           <l>Telle qu'en un seul jour un ordre de vos mains</l>
+                           <l>La donna dans l'Asie à cent mille Romains.</l>
+                           <l>Toutefois épargnez votre tête sacrée.</l>
+                           <l>Vous-même n'allez point, de contrée en contrée,</l>
+                           <l>Montrer aux nations Mithridate détruit,</l>
+                           <l>Et de votre grand nom diminuer le bruit.</l>
+                           <l>Votre vengeance est juste, il la faut entreprendre:</l>
+                           <l>Brûlez le Capitole, et mettez Rome en cendre.</l>
+                           <l>Mais c'est assez pour vous d'en ouvrir les chemins:</l>
+                           <l>Faites porter ce feu par de plus jeunes mains;</l>
+                           <l>Et tandis que l'Asie occupera Pharnace,</l>
+                           <l>De cette autre entreprise honorez mon audace.</l>
+                           <l>Commandez. Laissez-nous, de votre nom suivis,</l>
+                           <l>Justifier partout que nous sommes vos fils.</l>
+                           <l>Embrasez par nos mains le couchant et l'aurore;</l>
+                           <l>Remplissez l'univers, sans sortir du Bosphore;</l>
+                           <l>Que les Romains, pressés de l'un à l'autre bout,</l>
+                           <l>Doutent où vous serez, et vous trouvent partout.</l>
+                           <l>Dès ce même moment ordonnez que je parte.</l>
+                           <l>Ici tout vous retient. Et moi, tout m'en écarte.</l>
+                           <l>Et si ce grand dessein surpasse ma valeur,</l>
+                           <l>Du moins ce désespoir convient à mon malheur.</l>
+                           <l>Trop heureux d'avancer la fin de ma misère,</l>
+                           <l>J'irai… j'effacerai le crime de ma mère, Seigneur.</l>
+                           <l>Vous m'en voyez rougir à vos genoux;</l>
+                           <l>J'ai honte de me voir si peu digne de vous;</l>
+                           <l>Tout mon sang doit laver une tache si noire.</l>
+                           <l>Mais je cherche un trépas utile à votre gloire,</l>
+                           <l>Et Rome, unique objet d'un désespoir si beau,</l>
+                           <l>Du fils de Mithridate est le digne tombeau.</l>
+                        </lg>
+                        <p rend="justify">MITHRIDATE, se levant.</p>
+                        <lg>
+                           <l>Mon fils, ne parlons plus d'une mère infidèle.</l>
+                           <l>Votre père est content, il connaît votre zèle,</l>
+                           <l>Et ne vous verra point affronter de danger</l>
+                           <l>Qu'avec vous son amour ne veuille partager.</l>
+                           <l>Vous me suivrez, je veux que rien ne nous sépare.</l>
+                           <l>Et vous, à m'obéir, Prince, qu'on se prépare.</l>
+                           <l>Les vaisseaux sont tout prêts. J'ai moi-même ordonné</l>
+                           <l>La suite et l'appareil qui vous est destiné.</l>
+                           <l>Arbate, à cet hymen chargé de vous conduire,</l>
+                           <l>De votre obéissance aura soin de m'instruire.</l>
+                           <l>Allez; et soutenant l'honneur de vos aïeux,</l>
+                           <l>Dans cet embrassement recevez mes adieux.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PHARNACE</head>
+                        <p rend="justify">Seigneur…</p>
+                     </div>
+                     <div type="div5">
+                        <head>MITHRIDATE</head>
+                        <lg>
+                           <l>Ma volonté, Prince, vous doit suffire.</l>
+                           <l>Obéissez. C'est trop vous le faire redire.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PHARNACE</head>
+                        <lg>
+                           <l>Seigneur, si pour vous plaire il ne faut que périr,</l>
+                           <l>Plus ardent qu'aucun autre on m'y verra courir.</l>
+                           <l>Combattant à vos yeux, permettez que je meure.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MITHRIDATE</head>
+                        <lg>
+                           <l>Je vous ai commandé de partir tout à l'heure.</l>
+                           <l>Mais après ce moment… Prince, vous m'entendez,</l>
+                           <l>Et vous êtes perdu si vous me répondez.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PHARNACE</head>
+                        <lg>
+                           <l>Dussiez-vous présenter mille morts à ma vue,</l>
+                           <l>Je ne saurais chercher une fille inconnue.</l>
+                           <l>Ma vie est en vos mains.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MITHRIDATE</head>
+                        <lg>
+                           <l>Ah! c'est où je t'attends.</l>
+                           <l>Tu ne saurais partir, perfide, et je t'entends.</l>
+                           <l>Je sais pourquoi tu fuis l'hymen où je t'envoie:</l>
+                           <l>Il te fâche en ces lieux d'abandonner ta proie;</l>
+                           <l>Monime te retient. Ton amour criminel</l>
+                           <l>Prétendait l'arracher à l'hymen paternel.</l>
+                           <l>Ni l'ardeur dont tu sais que je l'ai recherchée,</l>
+                           <l>Ni déjà sur son front ma couronne attachée,</l>
+                           <l>Ni cet asile même où je la fais garder,</l>
+                           <l>Ni mon juste courroux n'ont pu t'intimider.</l>
+                           <l>Traître, pour les Romains tes lâches complaisances</l>
+                           <l>N'étaient pas à mes yeux d'assez noires offenses.</l>
+                           <l>Il te manquait encor ces perfides amours</l>
+                           <l>Pour être le supplice et l'horreur de mes jours.</l>
+                           <l>Loin de t'en repentir, je vois sur ton visage</l>
+                           <l>Que ta confusion ne part que de ta rage.</l>
+                           <l>Il te tarde déjà qu'échappé de mes mains</l>
+                           <l>Tu ne coures me perdre, et me vendre aux Romains.</l>
+                           <l>Mais avant que partir, je me ferai justice:</l>
+                           <l>Je te l'ai dit.</l>
+                        </lg>
+                     </div>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>SCÈNE II</head>
+                  <div type="div4">
+                     <head>MITHRIDATE, PHARNACE, XIPHARÈS, GARDES</head>
+                     <div type="div5">
+                        <head>MITHRIDATE</head>
+                        <lg>
+                           <l>Holà! gardes. Qu'on le saisisse.</l>
+                           <l>Oui, lui-même, Pharnace. Allez, et de ce pas</l>
+                           <l>Qu'enfermé dans la tour on ne le quitte pas.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PHARNACE</head>
+                        <lg>
+                           <l>Hé bien! sans me parer d'une innocence vaine,</l>
+                           <l>Il est vrai, mon amour mérite votre haine.</l>
+                           <l>J'aime: l'on vous a fait un fidèle récit.</l>
+                           <l>Mais Xipharès, Seigneur, ne vous a pas tout dit.</l>
+                           <l>C'est le moindre secret qu'il pouvait vous apprendre;</l>
+                           <l>Et ce fils si fidèle a dû vous faire entendre</l>
+                           <l>Que des mêmes ardeurs dès longtemps enflammé,</l>
+                           <l>Il aime aussi la Reine, et même en est aimé.</l>
+                        </lg>
+                     </div>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>SCÈNE III</head>
+                  <div type="div4">
+                     <head>MITHRIDATE, XIPHARÈS</head>
+                     <div type="div5">
+                        <head>XIPHARÈS</head>
+                        <p rend="justify">Seigneur, le croirez-vous qu'un dessein si coupable…</p>
+                     </div>
+                     <div type="div5">
+                        <head>MITHRIDATE</head>
+                        <lg>
+                           <l>Mon fils, je sais de quoi votre frère est capable.</l>
+                           <l>Me préserve le ciel de soupçonner jamais</l>
+                           <l>Que d'un prix si cruel vous payez mes bienfaits;</l>
+                           <l>Qu'un fils, qui fut toujours le bonheur de ma vie,</l>
+                           <l>Ait pu percer ce coeur qu'un père lui confie!</l>
+                           <l>Je ne le croirai point. Allez. Loin d'y songer,</l>
+                           <l>Je ne vais désormais penser qu'à nous venger.</l>
+                        </lg>
+                     </div>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>SCÈNE IV</head>
+                  <div type="div4">
+                     <head>MITHRIDATE</head>
+                     <lg>
+                        <l>Je ne le croirai point? Vain espoir qui me flatte!</l>
+                        <l>Tu ne le crois que trop, malheureux Mithridate.</l>
+                        <l>Xipharès mon rival? et d'accord avec lui</l>
+                        <l>La Reine aurait osé me tromper aujourd'hui?</l>
+                        <l>Quoi! de quelque côté que je tourne la vue,</l>
+                        <l>La foi de tous les coeurs est pour moi disparue?</l>
+                        <l>Tout m'abandonne ailleurs? Tout me trahit ici?</l>
+                        <l>Pharnace, amis, maîtresse. Et toi, mon fils, aussi?</l>
+                        <l>Toi de qui la vertu consolant ma disgrâce…</l>
+                        <l>Mais ne connais-je pas le perfide Pharnace?</l>
+                        <l>Quelle faiblesse à moi d'en croire un furieux</l>
+                        <l>Qu'arme contre son frère un courroux envieux,</l>
+                        <l>Ou dont le désespoir me troublant par des fables</l>
+                        <l>Grossit, pour se sauver, le nombre des coupables!</l>
+                        <l>Non, ne l'en croyons point. Et sans trop nous presser,</l>
+                        <l>Voyons, examinons. Mais par où commencer?</l>
+                        <l>Qui m'en éclaircira? Quels témoins? Quel indice?</l>
+                        <l>Le ciel en ce moment m'inspire un artifice.</l>
+                        <l>Qu'on appelle la Reine. Oui, sans aller plus loin,</l>
+                        <l>Je veux l'ouïr. Mon choix s'arrête à ce témoin.</l>
+                        <l>L'amour avidement croit tout ce qui le flatte.</l>
+                        <l>Qui peut de son vainqueur mieux parler que l'ingrate?</l>
+                        <l>Voyons qui son amour accusera des deux.</l>
+                        <l>S'il n'est digne de moi, le piège est digne d'eux.</l>
+                        <l>Trompons qui nous trahit. Et pour connaître un traître,</l>
+                        <l>Il n'est point de moyens… Mais je la vois paraître:</l>
+                        <l>Feignons; et de son coeur, d'un vain espoir flatté,</l>
+                        <l>Par un mensonge adroit tirons la vérité.</l>
+                     </lg>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>SCÈNE V</head>
+                  <div type="div4">
+                     <head>MITHRIDATE, MONIME</head>
+                     <div type="div5">
+                        <head>MITHRIDATE</head>
+                        <lg>
+                           <l>Enfin j'ouvre les yeux, et je me fais justice.</l>
+                           <l>C'est faire à vos beautés un triste sacrifice,</l>
+                           <l>Que de vous présenter, Madame, avec ma foi,</l>
+                           <l>Tout l'âge et le malheur que je traîne avec moi.</l>
+                           <l>Jusqu'ici la fortune et la victoire mêmes</l>
+                           <l>Cachaient mes cheveux blancs sous trente diadèmes.</l>
+                           <l>Mais ce temps-là n'est plus. Je régnais, et je fuis.</l>
+                           <l>Mes ans se sont accrus; mes honneurs sont détruits;</l>
+                           <l>Et mon front, dépouillé d'un si noble avantage,</l>
+                           <l>Du temps, qui l'a flétri, laisse voir tout l'outrage.</l>
+                           <l>D'ailleurs mille desseins partagent mes esprits:</l>
+                           <l>D'un camp prêt à partir vous entendez les cris;</l>
+                           <l>Sortant de mes vaisseaux, il faut que j'y remonte.</l>
+                           <l>Quel temps pour un hymen qu'une fuite si prompte,</l>
+                           <l>Madame! Et de quel front vous unir à mon sort,</l>
+                           <l>Quand je ne cherche plus que la guerre et la mort?</l>
+                           <l>Cessez pourtant, cessez de prétendre à Pharnace.</l>
+                           <l>Quand je me fais justice, il faut qu'on se la fasse.</l>
+                           <l>Je ne souffrirai point que ce fils odieux,</l>
+                           <l>Que je viens pour jamais de bannir de mes yeux,</l>
+                           <l>Possédant une amour qui me fut déniée,</l>
+                           <l>Vous fasse des Romains devenir l'alliée.</l>
+                           <l>Mon trône vous est dû. Loin de m'en repentir,</l>
+                           <l>Je vous y place même, avant que de partir,</l>
+                           <l>Pourvu que vous vouliez qu'une main qui m'est chère,</l>
+                           <l>Un fils, le digne objet de l'amour de son père,</l>
+                           <l>Xipharès. en un mot, devenant votre époux,</l>
+                           <l>Me venge de Pharnace, et m'acquitte envers vous.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <p rend="justify">Xipharès! Lui, Seigneur?</p>
+                     </div>
+                     <div type="div5">
+                        <head>MITHRIDATE</head>
+                        <lg>
+                           <l>Oui, lui-même, Madame.</l>
+                           <l>D'où peut naître à ce nom le trouble de votre âme?</l>
+                           <l>Contre un si juste choix qui peut vous révolter?</l>
+                           <l>Est-ce quelque mépris qu'on ne puisse dompter?</l>
+                           <l>Je le répète encor: c'est un autre moi-même,</l>
+                           <l>Un fils victorieux, qui me chérit, que j'aime,</l>
+                           <l>L'ennemi des Romains, l'héritier et l'appui</l>
+                           <l>D'un Empire et d'un nom qui va renaître en lui;</l>
+                           <l>Et quoi que votre amour ait osé se promettre,</l>
+                           <l>Ce n'est qu'entre ses mains que je puis vous remettre.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <lg>
+                           <l>Que dites-vous? Ô ciel! Pourriez-vous approuver…</l>
+                           <l>Pourquoi, Seigneur, pourquoi voulez-vous m'éprouver?</l>
+                           <l>Cessez de tourmenter une âme infortunée.</l>
+                           <l>Je sais que c'est à vous que je fus destinée;</l>
+                           <l>Je sais qu'en ce moment, pour ce noeud solennel,</l>
+                           <l>La victime, Seigneur, nous attend à l'autel.</l>
+                           <l>Venez.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MITHRIDATE</head>
+                        <lg>
+                           <l>Je le vois bien: quelque effort que je fasse,</l>
+                           <l>Madame, vous voulez vous garder à Pharnace.</l>
+                           <l>Je reconnais toujours vos injustes mépris,</l>
+                           <l>Ils ont même passé sur mon malheureux fils.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <p rend="justify">Je le méprise!</p>
+                     </div>
+                     <div type="div5">
+                        <head>MITHRIDATE</head>
+                        <lg>
+                           <l>Hé bien! n'en parlons plus,</l>
+                           <l>Madame. Continuez: brûlez d'une honteuse flamme.</l>
+                           <l>Tandis qu'avec mon fils je vais, loin de vos yeux,</l>
+                           <l>Chercher au bout du monde un trépas glorieux,</l>
+                           <l>Vous cependant ici servez avec son frère,</l>
+                           <l>Et vendez aux Romains le sang de votre père.</l>
+                           <l>Venez. Je ne saurais mieux punir vos dédains,</l>
+                           <l>Qu'en vous mettant moi-même en ses serviles mains;</l>
+                           <l>Et sans plus me charger du soin de votre gloire,</l>
+                           <l>Je veux laisser de vous jusqu'à votre mémoire.</l>
+                           <l>Allons, Madame, allons. Je m'en vais vous unir.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <p rend="justify">Plutôt de mille morts dussiez-vous me punir!</p>
+                     </div>
+                     <div type="div5">
+                        <head>MITHRIDATE</head>
+                        <p rend="justify">Vous résistez en vain, et j'entends votre fuite.</p>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <lg>
+                           <l>En quelle extrémité, Seigneur, suis-je réduite?</l>
+                           <l>Mais enfin je vous crois, et je ne puis penser</l>
+                           <l>Qu'à feindre si longtemps vous puissiez vous forcer.</l>
+                           <l>Les Dieux me sont témoins qu'à vous plaire bornée,</l>
+                           <l>Mon âme à tout son sort s'était abandonnée.</l>
+                           <l>Mais si quelque faiblesse avait pu m'alarmer,</l>
+                           <l>Si de tous ses efforts mon coeur a dû s'armer,</l>
+                           <l>Ne croyez point, Seigneur, qu'auteur de mes alarmes,</l>
+                           <l>Pharnace m'ait jamais coûté les moindres larmes.</l>
+                           <l>Ce fils victorieux que vous favorisez,</l>
+                           <l>Cette vivante image en qui vous vous plaisez,</l>
+                           <l>Cet ennemi de Rome, et cet autre vous-même,</l>
+                           <l>Enfin ce Xipharès que vous voulez que j'aime…</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MITHRIDATE</head>
+                        <p rend="justify">Vous l'aimez?</p>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <lg>
+                           <l>Si le sort ne m'eût donnée à vous,</l>
+                           <l>Mon bonheur dépendait de l'avoir pour époux.</l>
+                           <l>Avant que votre amour m'eût envoyé ce gage,</l>
+                           <l>Nous nous aimions… Seigneur, vous changez de visage.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MITHRIDATE</head>
+                        <lg>
+                           <l>Non, Madame. Il suffit. Je vais vous l'envoyer.</l>
+                           <l>Allez. Le temps est cher. Il le faut employer.</l>
+                           <l>Je vois qu'à m'obéir vous êtes disposée.</l>
+                           <l>Je suis content.</l>
+                        </lg>
+                        <p rend="justify">MONIME, en s'en allant.</p>
+                        <p rend="justify">Ô ciel! Me serais-je abusée?</p>
+                     </div>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>SCÈNE VI</head>
+                  <div type="div4">
+                     <head>MITHRIDATE</head>
+                     <lg>
+                        <l>Ils s'aiment. C'est ainsi qu'on se jouait de nous.</l>
+                        <l>Ah! fils ingrat. Tu vas me répondre pour tous.</l>
+                        <l>Tu périras. Je sais combien ta renommée</l>
+                        <l>Et tes fausses vertus ont séduit mon armée</l>
+                        <l>Perfide, je te veux porter des coups certains:</l>
+                        <l>Il faut, pour te mieux perdre, écarter les mutins,</l>
+                        <l>Et faisant à mes yeux partir les plus rebelles,</l>
+                        <l>Ne garder près de moi que des troupes fidèles.</l>
+                        <l>Allons. Mais sans montrer un visage offensé,</l>
+                        <l>Dissimulons encor, comme j'ai commencé.</l>
+                     </lg>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>ACTE IV</head>
+                  <div type="div4">
+                     <head>SCÈNE PREMIÈRE</head>
+                     <div type="div5">
+                        <head>MONIME, PHOEDIME</head>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <lg>
+                           <l>Phoedime, au nom des Dieux, fais ce que je désire:</l>
+                           <l>Va voir ce qui se passe, et reviens me le dire.</l>
+                           <l>Je ne sais; mais mon coeur ne se peut rassurer.</l>
+                           <l>Mille soupçons affreux viennent me déchirer.</l>
+                           <l>Que tarde Xipharès? et d'où vient qu'il diffère</l>
+                           <l>À seconder des voeux qu'autorise son père?</l>
+                           <l>Son père, en me quittant, me l'allait envoyer.</l>
+                           <l>Mais il feignait peut-être: il fallait tout nier.</l>
+                           <l>Le Roi feignait? Et moi, découvrant ma pensée…</l>
+                           <l>Ô Dieux, en ce péril m'auriez-vous délaissée?</l>
+                           <l>Et se pourrait-il bien qu'à son ressentiment</l>
+                           <l>Mon amour indiscret eût livré mon amant?</l>
+                           <l>Quoi, Prince! quand, tout plein de ton amour extrême,</l>
+                           <l>Pour savoir mon secret tu me pressais toi-même,</l>
+                           <l>Mes refus trop cruels vingt fois te l'ont caché,</l>
+                           <l>Je t'ai même puni de l'avoir arraché;</l>
+                           <l>Et quand de toi peut-être un père se défie,</l>
+                           <l>Que dis-je? quand peut-être il y va de ta vie,</l>
+                           <l>Je parle; et trop facile à me laisser tromper,</l>
+                           <l>Je lui marque le coeur où sa main doit frapper.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEDIME</head>
+                        <lg>
+                           <l>Ah! traitez-le, Madame, avec plus de justice:</l>
+                           <l>Un grand roi descend-il jusqu'à cet artifice?</l>
+                           <l>À prendre ce détour qui l'aurait pu forcer?</l>
+                           <l>Sans murmure, à l'autel vous l'alliez devancer.</l>
+                           <l>Voulait-il perdre un fils qu'il aime avec tendresse?</l>
+                           <l>Jusqu'ici les effets secondent sa promesse:</l>
+                           <l>Madame, il vous disait qu'un important dessein,</l>
+                           <l>Malgré lui, le forçait à vous quitter demain;</l>
+                           <l>Ce seul dessein l'occupe; et hâtant son voyage,</l>
+                           <l>Lui-même ordonne tout, présent sur le rivage.</l>
+                           <l>Ses vaisseaux en tous lieux se chargent de soldats,</l>
+                           <l>Et partout Xipharès accompagne ses pas.</l>
+                           <l>D'un rival en fureur est-ce là la conduite?</l>
+                           <l>Et voit-on ses discours démentis par la suite?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <lg>
+                           <l>Pharnace cependant, par son ordre arrêté,</l>
+                           <l>Trouve en lui d'un rival toute la dureté.</l>
+                           <l>Phoedime, à Xipharès fera-t-il plus de grâce?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEDIME</head>
+                        <lg>
+                           <l>C'est l'ami des Romains qu'il punit en Pharnace.</l>
+                           <l>L'amour a peu de part à ses justes soupçons.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <lg>
+                           <l>Autant que je le puis, je cède à tes raisons.</l>
+                           <l>Elles calment un peu l'ennui qui me dévore.</l>
+                           <l>Mais pourtant Xipharès ne paraît point encore.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEDIME</head>
+                        <lg>
+                           <l>Vaine erreur des amants qui, pleins de leurs désirs,</l>
+                           <l>Voudraient que tout cédât au soin de leurs plaisirs!</l>
+                           <l>Qui prêts à s'irriter contre le moindre obstacle…</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <lg>
+                           <l>Ma Phoedime, et qui peut concevoir ce miracle?</l>
+                           <l>Après deux ans d'ennuis, dont tu sais tout le poids,</l>
+                           <l>Quoi! je puis respirer pour la première fois?</l>
+                           <l>Quoi! cher Prince, avec toi je me verrais unie?</l>
+                           <l>Et loin que ma tendresse eût exposé ta vie,</l>
+                           <l>Tu verrais ton devoir, je verrais ma vertu</l>
+                           <l>Approuver un amour si longtemps combattu?</l>
+                           <l>Je pourrais tous les jours t'assurer que je t'aime?</l>
+                           <l>Que ne viens-tu…</l>
+                        </lg>
+                     </div>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>SCÈNE II</head>
+                  <div type="div4">
+                     <head>MONIME, XIPHARÈS, PHOEDIME</head>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <lg>
+                           <l>Seigneur, je parlais de vous-même.</l>
+                           <l>Mon âme souhaitait de vous voir en ce lieu,</l>
+                           <l>Pour vous…</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>XIPHARÈS</head>
+                        <p rend="justify">C'est maintenant qu'il faut vous dire adieu.</p>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <p rend="justify">Adieu! Vous?</p>
+                     </div>
+                     <div type="div5">
+                        <head>XIPHARÈS</head>
+                        <p rend="justify">Oui, Madame, et pour toute ma vie.</p>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <p rend="justify">Qu'entends-je? On me disait… Hélas! ils m'ont trahie.</p>
+                     </div>
+                     <div type="div5">
+                        <head>XIPHARÈS</head>
+                        <lg>
+                           <l>Madame, je ne sais quel ennemi couvert,</l>
+                           <l>Révélant nos secrets, vous trahit et me perd.</l>
+                           <l>Mais le Roi, qui tantôt n'en croyait point Pharnace,</l>
+                           <l>Maintenant dans nos coeurs sait tout ce qui se passe.</l>
+                           <l>Il feint, il me caresse, et cache son dessein;</l>
+                           <l>Mais moi, qui dès l'enfance élevé dans son sein,</l>
+                           <l>De tous ses mouvements ai trop d'intelligence,</l>
+                           <l>J'ai lu dans ses regards sa prochaine vengeance.</l>
+                           <l>Il presse, il fait partir tous ceux dont mon malheur</l>
+                           <l>Pourrait à la révolte exciter la douleur.</l>
+                           <l>De ses fausses bontés j'ai connu la contrainte.</l>
+                           <l>Un mot même d'Arbate a confirmé ma crainte.</l>
+                           <l>Il a su m'aborder; et les larmes aux yeux:</l>
+                           <l>On sait tout, m'a-t-il dit: sauvez-vous de ces lieux.</l>
+                           <l>Ce mot m'a fait frémir du péril de ma Reine,</l>
+                           <l>Et ce cher intérêt est le seul qui m'amène.</l>
+                           <l>Je vous crains pour vous-même, et je viens à genoux</l>
+                           <l>Vous prier, ma Princesse, et vous fléchir pour vous.</l>
+                           <l>Vous dépendez ici d'une main violente,</l>
+                           <l>Que le sang le plus cher rarement épouvante;</l>
+                           <l>Et je n'ose vous dire à quelle cruauté</l>
+                           <l>Mithridate jaloux s'est souvent emporté.</l>
+                           <l>Peut-être c'est moi seul que sa fureur menace.</l>
+                           <l>Peut-être, en me perdant, il veut vous faire grâce.</l>
+                           <l>Daignez, au nom des Dieux, daignez en profiter.</l>
+                           <l>Par de nouveaux refus n'allez point l'irriter.</l>
+                           <l>Moins vous l'aimez, et plus tâchez de lui complaire.</l>
+                           <l>Feignez. Efforcez-vous. Songez qu'il est mon père.</l>
+                           <l>Vivez, et permettez que dans tous mes malheurs</l>
+                           <l>Je puisse à votre amour ne coûter que des pleurs.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <p rend="justify">Ah! je vous ai perdu!</p>
+                     </div>
+                     <div type="div5">
+                        <head>XIPHARÈS</head>
+                        <lg>
+                           <l>Généreuse Monime,</l>
+                           <l>Ne vous imputez point le malheur qui m'opprime.</l>
+                           <l>Votre seule bonté n'est point ce qui me nuit:</l>
+                           <l>Je suis un malheureux que le destin poursuit;</l>
+                           <l>C'est lui qui m'a ravi l'amitié de mon père,</l>
+                           <l>Qui le fit mon rival, qui révolta ma mère,</l>
+                           <l>Et vient de susciter, dans ce moment affreux,</l>
+                           <l>Un secret ennemi pour nous trahir tous deux.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <p rend="justify">Hé quoi? cet ennemi, vous l'ignorez encore?</p>
+                     </div>
+                     <div type="div5">
+                        <head>XIPHARÈS</head>
+                        <lg>
+                           <l>Pour surcroît de douleur, Madame, je l'ignore.</l>
+                           <l>Heureux si je pouvais, avant que m immoler,</l>
+                           <l>Percer le traître coeur qui m'a pu déceler!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <lg>
+                           <l>Hé bien! Seigneur, il faut vous le faire connaître.</l>
+                           <l>Ne cherchez point ailleurs cet ennemi, ce traître:</l>
+                           <l>Frappez. Aucun respect ne vous doit retenir.</l>
+                           <l>J'ai tout fait; et c'est moi que vous devez punir.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>XIPHARÈS</head>
+                        <p rend="justify">Vous!</p>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <lg>
+                           <l>Ah! si vous saviez, Prince, avec quelle adresse</l>
+                           <l>Le cruel est venu surprendre ma tendresse!</l>
+                           <l>Quelle amitié sincère il affectait pour vous,</l>
+                           <l>Content, s'il vous voyait devenir mon époux!</l>
+                           <l>Qui n'aurait cru… Mais non, mon amour plus timide</l>
+                           <l>Devait moins vous livrer à sa bonté perfide.</l>
+                           <l>Les Dieux qui m'inspiraient, et que j'ai mal suivis,</l>
+                           <l>M'ont fait taire trois fois par de secrets avis.</l>
+                           <l>J'ai dû continuer. J'ai dû dans tout le reste…</l>
+                           <l>Que sais-je enfin? j'ai dû vous être moins funeste;</l>
+                           <l>J'ai dû craindre du Roi les dons empoisonnés,</l>
+                           <l>Et je m'en punirai si vous me pardonnez.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>XIPHARÈS</head>
+                        <lg>
+                           <l>Quoi! Madame, c'est vous, c'est l'amour qui m'expose?</l>
+                           <l>Mon malheur est parti d'une si belle cause?</l>
+                           <l>Trop d'amour a trahi nos secrets amoureux?</l>
+                           <l>Et vous vous excusez de m'avoir fait heureux?</l>
+                           <l>Que voudrais-je de plus? Glorieux et fidèle,</l>
+                           <l>Je meurs. Un autre sort au trône vous appelle.</l>
+                           <l>Consentez-y, Madame; et sans plus résister,</l>
+                           <l>Achevez un hymen qui vous y fait monter.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <lg>
+                           <l>Quoi? vous me demandez que j'épouse un barbare</l>
+                           <l>Dont l'odieux amour pour jamais nous sépare?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>XIPHARÈS</head>
+                        <lg>
+                           <l>Songez que ce matin, soumise à ses souhaits,</l>
+                           <l>Vous deviez l'épouser et ne me voir jamais.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <lg>
+                           <l>Et connaissais-je alors toute sa barbarie?</l>
+                           <l>Ne voudriez-vous point qu'approuvant sa furie,</l>
+                           <l>Après vous avoir vu tout percé de ses coups,</l>
+                           <l>Je suivisse à l'autel un tyrannique époux,</l>
+                           <l>Et que dans une main de votre sang fumante</l>
+                           <l>J'allasse mettre, hélas! la main de votre amante?</l>
+                           <l>Allez, de ses fureurs songez à vous garder,</l>
+                           <l>Sans perdre ici le temps à me persuader:</l>
+                           <l>Le ciel m'inspirera quel parti je dois prendre.</l>
+                           <l>Que serait-ce, grands Dieux! s'il venait vous surprendre?</l>
+                           <l>Que dis-je? On vient. Allez. Courez. Vivez enfin,</l>
+                           <l>Et du moins attendez quel sera mon destin.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>SCÈNE III</head>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME, PHOEDIME</head>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEDIME</head>
+                        <lg>
+                           <l>Madame, à quels périls il exposait sa vie!</l>
+                           <l>C'est le Roi.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <lg>
+                           <l>Cours l'aider à cacher sa sortie.</l>
+                           <l>Va, ne le quitte point; et qu'il se garde bien</l>
+                           <l>D'ordonner de son sort, sans être instruit du mien.</l>
+                        </lg>
+                     </div>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>SCÈNE IV</head>
+                  <div type="div4">
+                     <head>MITHRIDATE, MONIME</head>
+                     <div type="div5">
+                        <head>MITHRIDATE</head>
+                        <lg>
+                           <l>Allons, Madame, allons. Une raison secrète</l>
+                           <l>Me fait quitter ces lieux et hâter ma retraite.</l>
+                           <l>Tandis que mes soldats, prêts à suivre leur roi,</l>
+                           <l>Rentrent dans mes vaisseaux pour partir avec moi</l>
+                           <l>Venez, et qu'à l'autel ma promesse accomplie</l>
+                           <l>Par des noeuds éternels l'un à l'autre nous lie.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <p rend="justify">Nous, Seigneur?</p>
+                     </div>
+                     <div type="div5">
+                        <head>MITHRIDATE</head>
+                        <p rend="justify">Quoi Madame! osez-vous balancer?</p>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <p rend="justify">Et ne m'avez-vous pas défendu d'y penser?</p>
+                     </div>
+                     <div type="div5">
+                        <head>MITHRIDATE</head>
+                        <lg>
+                           <l>J'eus mes raisons alors. Oublions-les, Madame.</l>
+                           <l>Ne songez maintenant qu'à répondre à ma flamme.</l>
+                           <l>Songez que votre coeur est un bien qui m'est dû.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <p rend="justify">Hé! pourquoi donc, Seigneur, me l'avez-vous rendu?</p>
+                     </div>
+                     <div type="div5">
+                        <head>MITHRIDATE</head>
+                        <lg>
+                           <l>Quoi! pour un fils ingrat toujours préoccupée,</l>
+                           <l>Vous croiriez…</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <p rend="justify">Quoi Seigneur! vous m'auriez donc trompée?</p>
+                     </div>
+                     <div type="div5">
+                        <head>MITHRIDATE</head>
+                        <lg>
+                           <l>Perfide! Il vous sied bien de tenir ce discours,</l>
+                           <l>Vous, qui gardant au coeur d'infidèles amours,</l>
+                           <l>Quand je vous élevais au comble de la gloire,</l>
+                           <l>M'avez des trahisons préparé la plus noire.</l>
+                           <l>Ne vous souvient-il plus, coeur ingrat et sans foi,</l>
+                           <l>Plus que tous les Romains conjurés contre moi,</l>
+                           <l>De quel rang glorieux j'ai bien voulu descendre,</l>
+                           <l>Pour vous porter au trône où vous n'osiez prétendre?</l>
+                           <l>Ne me regardez point vaincu, persécuté:</l>
+                           <l>Revoyez-moi vainqueur, et partout redouté.</l>
+                           <l>Songez de quelle ardeur dans Éphèse adorée,</l>
+                           <l>Aux filles de cent rois je vous ai préférée,</l>
+                           <l>Et négligeant pour vous tant d'heureux alliés,</l>
+                           <l>Quelle foule d'États je mettais à vos pieds.</l>
+                           <l>Ah! si d'un autre amour le penchant invincible</l>
+                           <l>Dès lors à mes bontés vous rendait insensible,</l>
+                           <l>Pourquoi chercher si loin un odieux époux?</l>
+                           <l>Avant que de partir, pourquoi vous taisiez-vous?</l>
+                           <l>Attendiez-vous, pour faire un aveu si funeste,</l>
+                           <l>Que le sort ennemi m'eût ravi tout le reste,</l>
+                           <l>Et que, de toutes parts me voyant accabler,</l>
+                           <l>J'eusse en vous le seul bien qui me pût consoler?</l>
+                           <l>Cependant, quand je veux oublier cet outrage,</l>
+                           <l>Et cacher à mon coeur cette funeste image,</l>
+                           <l>Vous osez à mes yeux rappeler le passé,</l>
+                           <l>Vous m'accusez encor, quand je suis offensé.</l>
+                           <l>Je vois que pour un traître un fol espoir vous flatte.</l>
+                           <l>À quelle épreuve, ô Ciel, réduis-tu Mithridate!</l>
+                           <l>Par quel charme secret laissé-je retenir</l>
+                           <l>Ce courroux si sévère et si prompt à punir?</l>
+                           <l>Profitez du moment que mon amour vous donne:</l>
+                           <l>Pour la dernière fois, venez, je vous l'ordonne:</l>
+                           <l>N'attirez point sur vous des périls superflus,</l>
+                           <l>Pour un fils insolent que vous ne verrez plus.</l>
+                           <l>Sans vous parer pour lui d'une foi qui m'est due,</l>
+                           <l>Perdez-en la mémoire aussi bien que la vue;</l>
+                           <l>Et désormais sensible à ma seule bonté,</l>
+                           <l>Méritez le pardon qui vous est présenté.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <lg>
+                           <l>Je n'ai point oublié quelle reconnaissance,</l>
+                           <l>Seigneur, m'a dû ranger sous votre obéissance.</l>
+                           <l>Quelque rang où jadis soient montés mes aïeux,</l>
+                           <l>Leur gloire de si loin n'éblouit point mes yeux.</l>
+                           <l>Je songe avec respect de combien je suis née</l>
+                           <l>Au-dessous des grandeurs d'un si noble hyménée;</l>
+                           <l>Et malgré mon penchant et mes premiers desseins</l>
+                           <l>Pour un fils, après vous le plus grand des humains,</l>
+                           <l>Du jour que sur mon front on mit ce diadème,</l>
+                           <l>Je renonçai, Seigneur, à ce prince, à moi-même.</l>
+                           <l>Tous deux d'intelligence à nous sacrifier,</l>
+                           <l>Loin de moi, par mon ordre, il courait m'oublier.</l>
+                           <l>Dans l'ombre du secret ce feu s'allait éteindre;</l>
+                           <l>Et même de mon sort je ne pouvais me plaindre,</l>
+                           <l>Puisque enfin, aux dépens de mes voeux les plus doux,</l>
+                           <l>Je faisais le bonheur d'un héros tel que vous.</l>
+                           <l>Vous seul, Seigneur, vous seul, vous m'avez arrachée</l>
+                           <l>À cette obéissance où j'étais attachée;</l>
+                           <l>Et ce fatal amour dont j'avais triomphé,</l>
+                           <l>Ce feu que dans l'oubli je croyais étouffé,</l>
+                           <l>Dont la cause à jamais s'éloignait de ma vue,</l>
+                           <l>Vos détours l'ont surpris, et m en ont convaincue.</l>
+                           <l>Je vous l'ai confessé, je le dois soutenir.</l>
+                           <l>En vain vous en pourriez perdre le souvenir,</l>
+                           <l>Et cet aveu honteux, où vous m'avez forcée,</l>
+                           <l>Demeurera toujours présent à ma pensée.</l>
+                           <l>Toujours je vous croirais incertain de ma foi;</l>
+                           <l>Et le tombeau, Seigneur, est moins triste pour moi</l>
+                           <l>Que le lit d'un époux qui m'a fait cet outrage,</l>
+                           <l>Qui s'est acquis sur moi ce cruel avantage,</l>
+                           <l>Et qui, me préparant un éternel ennui,</l>
+                           <l>M'a fait rougir d'un feu qui n'était pas pour lui.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MITHRIDATE</head>
+                        <lg>
+                           <l>C'est donc votre réponse? Et sans plus me complaire,</l>
+                           <l>Vous refusez l'honneur que je voulais vous faire?</l>
+                           <l>Pensez-y bien. J'attends pour me déterminer.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <lg>
+                           <l>Non, Seigneur, vainement vous croyez m'étonner.</l>
+                           <l>Je vous connais: je sais tout ce que je m'apprête,</l>
+                           <l>Et je vois quels malheurs j'assemble sur ma tête.</l>
+                           <l>Mais le dessein est pris. Rien ne peut m'ébranler.</l>
+                           <l>Jugez-en, puisque ainsi je vous ose parler,</l>
+                           <l>Et m'emporte au-delà de cette modestie</l>
+                           <l>Dont jusqu'à ce moment je n'étais point sortie.</l>
+                           <l>Vous vous êtes servi de ma funeste main</l>
+                           <l>Pour mettre à votre fils un poignard dans le sein</l>
+                           <l>De ses feux innocents j'ai trahi le mystère;</l>
+                           <l>Et quand il n'en perdrait que l'amour de son père,</l>
+                           <l>Il en mourra, Seigneur. Ma foi ni mon amour</l>
+                           <l>Ne seront point le prix d'un si cruel détour.</l>
+                           <l>Après cela, jugez. Perdez une rebelle;</l>
+                           <l>Armez-vous du pouvoir qu'on vous donna sur elle:</l>
+                           <l>J'attendrai mon arrêt, vous pouvez commander.</l>
+                           <l>Tout ce qu'en vous quittant j'ose vous demander,</l>
+                           <l>Croyez (à la vertu je dois cette justice)</l>
+                           <l>Que je vous trahis seule, et n'ai point de complice,</l>
+                           <l>Et que d'un plein succès vos voeux seraient suivis</l>
+                           <l>Si j'en croyais, Seigneur, les voeux de votre fils.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>SCÈNE V</head>
+                     </div>
+                     <div type="div5">
+                        <head>MITHRIDATE</head>
+                        <lg>
+                           <l>Elle me quitte! Et moi, dans un lâche silence,</l>
+                           <l>Je semble de sa fuite approuver l'insolence?</l>
+                           <l>Peu s'en faut que mon coeur, penchant de son côté,</l>
+                           <l>Ne me condamne encor de trop de cruauté!</l>
+                           <l>Qui suis-je? Est-ce Monime? Et suis-je Mithridate?</l>
+                           <l>Non, non, plus de pardon, plus d'amour pour l'ingrate.</l>
+                           <l>Ma colère revient, et je me reconnois.</l>
+                           <l>Immolons, en partant, trois ingrats à la fois.</l>
+                           <l>Je vais à Rome, et c'est par de tels sacrifices</l>
+                           <l>Qu'il faut à ma fureur rendre les Dieux propices.</l>
+                           <l>Je le dois, je le puis; ils n'ont plus de support:</l>
+                           <l>Les plus séditieux sont déjà loin du bord.</l>
+                           <l>Sans distinguer entre eux qui je hais ou qui j'aime,</l>
+                           <l>Allons, et commençons par Xipharès lui-même.</l>
+                           <l>Mais quelle est ma fureur? et qu'est-ce que je dis?</l>
+                           <l>Tu vas sacrifier, qui? malheureux! Ton fils!</l>
+                           <l>Un fils que Rome craint? qui peut venger son père?</l>
+                           <l>Pourquoi répandre un sang qui m'est si nécessaire?</l>
+                           <l>Ah! dans l'état funeste où ma chute m'a mis,</l>
+                           <l>Est-ce que mon malheur m'a laissé trop d'amis?</l>
+                           <l>Songeons plutôt, songeons à gagner sa tendresse:</l>
+                           <l>J'ai besoin d'un vengeur, et non d'une maîtresse.</l>
+                           <l>Quoi! ne vaut-il pas mieux, puisqu'il faut m'en priver,</l>
+                           <l>La céder à ce fils que je veux conserver? Cédons-la.</l>
+                           <l>Vains efforts, qui ne font que m'instruire</l>
+                           <l>Des faiblesses d'un coeur qui cherche à se séduire!</l>
+                           <l>Je brûle, je l'adore; et loin de la bannir…</l>
+                           <l>Ah! c'est un crime encor dont je la veux punir.</l>
+                           <l>Quelle pitié retient mes sentiments timides?</l>
+                           <l>N'en ai-je pas déjà puni de moins perfides?</l>
+                           <l>Ô Monime! ô mon fils! inutile courroux!</l>
+                           <l>Et vous, heureux Romains, quel triomphe pour vous,</l>
+                           <l>Si vous saviez ma honte, et qu'un avis fidèle</l>
+                           <l>De mes lâches combats vous portât la nouvelle!</l>
+                           <l>Quoi! des plus chères mains craignant les trahisons,</l>
+                           <l>J'ai pris soin de m'armer contre tous les poisons;</l>
+                           <l>J'ai su, par une longue et pénible industrie,</l>
+                           <l>Des plus mortels venins prévenir la furie.</l>
+                           <l>Ah! qu'il eût mieux valu, plus sage et plus heureux,</l>
+                           <l>Et repoussant les traits d'un amour dangereux,</l>
+                           <l>Ne pas laisser remplir d'ardeurs empoisonnées</l>
+                           <l>Un coeur déjà glacé par le froid des années!</l>
+                           <l>De ce trouble fatal par où dois-je sortir?</l>
+                        </lg>
+                     </div>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>SCÈNE VI</head>
+                  <div type="div4">
+                     <head>MITHRIDATE, ARBATE</head>
+                     <div type="div5">
+                        <head>ARBATE</head>
+                        <lg>
+                           <l>Seigneur, tous vos soldats refusent de partir.</l>
+                           <l>Pharnace les retient, Pharnace leur révèle</l>
+                           <l>Que vous cherchez à Rome une guerre nouvelle.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MITHRIDATE</head>
+                        <p rend="justify">Pharnace?</p>
+                     </div>
+                     <div type="div5">
+                        <head>ARBATE</head>
+                        <lg>
+                           <l>Il a séduit ses gardes les premiers,</l>
+                           <l>Et le seul nom de Rome étonne les plus fiers.</l>
+                           <l>De mille affreux périls ils se forment l'image,</l>
+                           <l>Les uns avec transport embrassent le rivage,</l>
+                           <l>Les autres qui partaient s'élancent dans les flots,</l>
+                           <l>Ou présentent leurs dards aux yeux des matelots.</l>
+                           <l>Le désordre est partout; et loin de nous entendre,</l>
+                           <l>Ils demandent la paix, et parlent de se rendre.</l>
+                           <l>Pharnace est à leur tête; et flattant leurs souhaits,</l>
+                           <l>De la part des Romains il leur promet la paix.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MITHRIDATE</head>
+                        <lg>
+                           <l>Ah le traître! Courez. Qu'on appelle son frère;</l>
+                           <l>Qu'il me suive, qu'il vienne au secours de son père.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ARBATE</head>
+                        <lg>
+                           <l>J'ignore son dessein. Mais un soudain transport</l>
+                           <l>L'a déjà fait descendre et courir vers le port.</l>
+                           <l>Et l'on dit que, suivi d'un gros d'amis fidèles,</l>
+                           <l>On l'a vu se mêler au milieu des rebelles.</l>
+                           <l>C'est tout ce que j'en sais.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MITHRIDATE</head>
+                        <lg>
+                           <l>Ah! qu'est-ce que j'entends?</l>
+                           <l>Perfides, ma vengeance a tardé trop longtemps.</l>
+                           <l>Mais je ne vous crains point. Malgré leur insolence,</l>
+                           <l>Les mutins n'oseraient soutenir ma présence.</l>
+                           <l>Je ne veux que les voir, je ne veux qu'à leurs yeux</l>
+                           <l>Immoler de ma main deux fils audacieux.</l>
+                        </lg>
+                     </div>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>SCÈNE VII</head>
+                  <div type="div4">
+                     <head>MITHRIDATE, ARBATE, ARCAS</head>
+                     <div type="div5">
+                        <head>ARCAS</head>
+                        <lg>
+                           <l>Seigneur, tout est perdu. Les rebelles, Pharnace,</l>
+                           <l>Les Romains sont en foule autour de cette place.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MITHRIDATE</head>
+                        <p rend="justify">Les Romains!</p>
+                     </div>
+                     <div type="div5">
+                        <head>ARCAS</head>
+                        <lg>
+                           <l>De Romains le rivage est chargé,</l>
+                           <l>Et bientôt dans ces murs vous êtes assiégé.</l>
+                        </lg>
+                        <p rend="justify">MITHRIDATE, à Arcas.</p>
+                        <lg>
+                           <l>Ciel! Courons. Écoutez… Du malheur qui me presse</l>
+                           <l>Tu ne jouiras pas, infidèle princesse.</l>
+                        </lg>
+                     </div>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>ACTE V</head>
+                  <div type="div4">
+                     <head>SCÈNE PREMIÈRE</head>
+                     <div type="div5">
+                        <head>MONIME, PHOEDIME</head>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEDIME</head>
+                        <lg>
+                           <l>Madame, où courez-vous? Quels aveugles transports</l>
+                           <l>Vous font tenter sur vous de criminels efforts?</l>
+                           <l>Hé quoi! vous avez pu, trop cruelle à vous-même,</l>
+                           <l>Faire un affreux lien d'un sacré diadème?</l>
+                           <l>Ah! ne voyez-vous pas que les Dieux, plus humains,</l>
+                           <l>Ont eux-mêmes rompu ce bandeau dans vos mains?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <lg>
+                           <l>Hé! par quelle fureur obstinée à me suivre,</l>
+                           <l>Toi-même, malgré moi, veux-tu me faire vivre?</l>
+                           <l>Xipharès ne vit plus. Le Roi désespéré</l>
+                           <l>Lui-même n'attend plus qu'un trépas assuré.</l>
+                           <l>Quel fruit te promets-tu de ta coupable audace?</l>
+                           <l>Perfide, prétends-tu me livrer à Pharnace?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEDIME</head>
+                        <lg>
+                           <l>Ah! du moins attendez qu'un fidèle rapport</l>
+                           <l>De son malheureux frère ait confirmé la mort.</l>
+                           <l>Dans la confusion que nous venons d'entendre,</l>
+                           <l>Les yeux peuvent-ils pas aisément se méprendre?</l>
+                           <l>D'abord, vous le savez, un bruit injurieux</l>
+                           <l>Le rangeait du parti d'un camp séditieux;</l>
+                           <l>Maintenant on vous dit que ces mêmes rebelles</l>
+                           <l>Ont tourné contre lui leurs armes criminelles.</l>
+                           <l>Jugez de l'un par l'autre. Et daignez écouter…</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <lg>
+                           <l>Xipharès ne vit plus, il n'en faut point douter.</l>
+                           <l>L'événement n'a point démenti mon attente.</l>
+                           <l>Quand je n'en aurais pas la nouvelle sanglante,</l>
+                           <l>Il est mort, et j'en ai pour garants trop certains</l>
+                           <l>Son courage et son nom trop suspects aux Romains.</l>
+                           <l>Ah! que d'un si beau sang dès longtemps altérée</l>
+                           <l>Rome tient maintenant sa victoire assurée!</l>
+                           <l>Quel ennemi son bras leur allait opposer!</l>
+                           <l>Mais sur qui, malheureuse, oses-tu t'excuser?</l>
+                           <l>Quoi? tu ne veux pas voir que c'est toi qui l'opprimes,</l>
+                           <l>Et dans tous ses malheurs reconnaître tes crimes?</l>
+                           <l>De combien d'assassins l'avais-je enveloppé!</l>
+                           <l>Comment à tant de coups serait-il échappé?</l>
+                           <l>Il évitait en vain les Romains et son frère:</l>
+                           <l>Ne le livrais-je pas aux fureurs de son père?</l>
+                           <l>C'est moi qui les rendant l'un de l'autre jaloux,</l>
+                           <l>Vins allumer le feu qui les embrase tous,</l>
+                           <l>Tison de la discorde, et fatale furie,</l>
+                           <l>Que le démon de Rome a formée et nourrie.</l>
+                           <l>Et je vis? Et j'attends que de leur sang baigné,</l>
+                           <l>Pharnace des Romains revienne accompagné!</l>
+                           <l>Qu'il étale à mes yeux sa parricide joie!</l>
+                           <l>La mort au désespoir ouvre plus d'une voie.</l>
+                           <l>Oui, cruelles, en vain vos injustes secours</l>
+                           <l>Me ferment du tombeau les chemins les plus courts,</l>
+                           <l>Je trouverai la mort jusque dans vos bras même.</l>
+                           <l>Et toi, fatal tissu, malheureux diadème,</l>
+                           <l>Instrument et témoin de toutes mes douleurs,</l>
+                           <l>Bandeau que mille fois j'ai trempé de mes pleurs,</l>
+                           <l>Au moins, en terminant ma vie et mon supplice,</l>
+                           <l>Ne pouvais-tu me rendre un funeste service?</l>
+                           <l>À mes tristes regards, va, cesse de t'offrir:</l>
+                           <l>D'autres armes sans toi sauront me secourir;</l>
+                           <l>Et périsse le jour et la main meurtrière</l>
+                           <l>Qui jadis sur mon front t'attacha la première.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEDIME</head>
+                        <lg>
+                           <l>On vient, Madame, on vient; et j'espère qu'Arcas</l>
+                           <l>Pour bannir vos frayeurs porte vers vous ses pas.</l>
+                        </lg>
+                     </div>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>SCÈNE II</head>
+                  <div type="div4">
+                     <head>MONIME, PHOEDIME, ARCAS</head>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <p rend="justify">En est-ce fait, Arcas? et le cruel Pharnace</p>
+                     </div>
+                     <div type="div5">
+                        <head>ARCAS</head>
+                        <lg>
+                           <l>Ne me demandez rien de tout ce qui se passe,</l>
+                           <l>Madame: on m'a chargé d'un plus funeste emploi,</l>
+                           <l>Et ce poison vous dit la volonté du Roi.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEDIME</head>
+                        <p rend="justify">Malheureuse princesse!</p>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <lg>
+                           <l>Ah! quel comble de joie!</l>
+                           <l>Donnez. Dites, Arcas, au Roi qui me l'envoie,</l>
+                           <l>Que de tous les présents que m'a faits sa bonté,</l>
+                           <l>Je reçois le plus cher et le plus souhaité.</l>
+                           <l>À la fin je respire; et le ciel me délivre</l>
+                           <l>Des secours importuns qui me forçaient de vivre</l>
+                           <l>Maîtresse de moi-même, il veut bien qu'une fois</l>
+                           <l>Je puisse de mon sort disposer à mon choix.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEDIME</head>
+                        <p rend="justify">Hélas!</p>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <lg>
+                           <l>Retiens tes cris, et par d'indignes larmes</l>
+                           <l>De cet heureux moment ne trouble point les charmes.</l>
+                           <l>Si tu m'aimais, Phoedime, il fallait me pleurer</l>
+                           <l>Quand d'un titre funeste on me vint honorer,</l>
+                           <l>Et lorsque m'arrachant du doux sein de la Grèce,</l>
+                           <l>Dans ce climat barbare on traîna ta maîtresse.</l>
+                           <l>Retourne maintenant chez ces peuples heureux;</l>
+                           <l>Et si mon nom encor s'est conservé chez eux,</l>
+                           <l>Dis-leur ce que tu vois, et de toute ma gloire,</l>
+                           <l>Phoedime, conte-leur la malheureuse histoire.</l>
+                           <l>Et toi, qui de ce coeur, dont tu fus adoré,</l>
+                           <l>Par un jaloux destin fus toujours séparé,</l>
+                           <l>Héros, avec qui même en terminant ma vie,</l>
+                           <l>Je n'ose en un tombeau demander d'être unie,</l>
+                           <l>Reçois ce sacrifice, et puisse en ce moment</l>
+                           <l>Ce poison expier le sang de mon amant!</l>
+                        </lg>
+                     </div>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>SCÈNE III</head>
+                  <div type="div4">
+                     <head>MONIME, ARBATE, PHOEDIME, ARCAS</head>
+                     <div type="div5">
+                        <head>ARBATE</head>
+                        <p rend="justify">Arrêtez! arrêtez!</p>
+                     </div>
+                     <div type="div5">
+                        <head>ARCAS</head>
+                        <p rend="justify">Que faites-vous, Arbate?</p>
+                     </div>
+                     <div type="div5">
+                        <head>ARBATE</head>
+                        <p rend="justify">Arrêtez! J'accomplis l'ordre de Mithridate.</p>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <p rend="justify">Ah! laissez-moi..</p>
+                        <p rend="justify">ARBATE, jetant le poison</p>
+                        <lg>
+                           <l>Cessez, vous dis-je, et laissez-moi,</l>
+                           <l>Madame, exécuter les volontés du Roi.</l>
+                           <l>Vivez. Et vous, Arcas, du succès de mon zèle</l>
+                           <l>Courez à Mithridate apprendre la nouvelle.</l>
+                        </lg>
+                     </div>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>SCÈNE IV</head>
+                  <div type="div4">
+                     <head>MONIME, ARBATE, PHOEDIME</head>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <lg>
+                           <l>Ah! trop cruel Arbate, à quoi m'exposez-vous?</l>
+                           <l>Est-ce qu'on croit encor mon supplice trop doux?</l>
+                           <l>Et le Roi m'enviant une mort si soudaine,</l>
+                           <l>Veut-il plus d'un trépas pour contenter sa haine?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ARBATE</head>
+                        <lg>
+                           <l>Vous l'allez voir paraître, et j'ose m'assurer</l>
+                           <l>Que vous-même avec moi vous allez le pleurer.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <p rend="justify">Quoi! le Roi…</p>
+                     </div>
+                     <div type="div5">
+                        <head>ARBATE</head>
+                        <lg>
+                           <l>Le Roi touche à son heure dernière,</l>
+                           <l>Madame, et ne voit plus qu'un reste de lumière.</l>
+                           <l>Je l'ai laissé sanglant, porté par des soldats,</l>
+                           <l>Et Xipharès en pleurs accompagne leurs pas.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <lg>
+                           <l>Xipharès? Ah! grands Dieux! Je doute si je veille,</l>
+                           <l>Et n'ose qu'en tremblant en croire mon oreille.</l>
+                           <l>Xipharès vit encor? Xipharès, que mes pleurs…</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ARBATE</head>
+                        <lg>
+                           <l>Il vit chargé de gloire, accablé de douleurs.</l>
+                           <l>De sa mort en ces lieux la nouvelle semée</l>
+                           <l>Ne vous a pas vous seule et sans cause alarmée.</l>
+                           <l>Les Romains, qui partout l'appuyaient par des cris,</l>
+                           <l>Ont par ce bruit fatal glacé tous les esprits.</l>
+                           <l>Le Roi, trompé lui-même, en a versé des larmes;</l>
+                           <l>Et désormais certain du malheur de ses armes,</l>
+                           <l>Par un rebelle fils de toutes parts pressé,</l>
+                           <l>Sans espoir de secours tout prêt d'être forcé,</l>
+                           <l>Et voyant pour surcroît de douleur et de haine,</l>
+                           <l>Parmi ses étendards porter l'aigle romaine,</l>
+                           <l>Il n'a plus aspiré qu'à s'ouvrir des chemins</l>
+                           <l>Pour éviter l'affront de tomber dans leurs mains.</l>
+                           <l>D'abord il a tenté les atteintes mortelles</l>
+                           <l>Des poisons que lui-même a cru les plus fidèles.</l>
+                           <l>Il les a trouvés tous sans force et sans vertu.</l>
+                           <l>Vain secours, a-t-il dit, que j'ai trop combattu!</l>
+                           <l>Contre tous les poisons soigneux de me défendre,</l>
+                           <l>J'ai perdu tout le fruit que j'en pouvais attendre.</l>
+                           <l>Essayons maintenant des secours plus certains,</l>
+                           <l>Et cherchons un trépas plus funeste aux Romains.</l>
+                           <l>Il parle: et défiant leurs nombreuses cohortes,</l>
+                           <l>Du palais, à ces mots, il fait ouvrir les portes.</l>
+                           <l>À l'aspect de ce front dont la noble fureur</l>
+                           <l>Tant de fois dans leurs rangs répandit la terreur,</l>
+                           <l>Vous les eussiez vus tous, retournant en arrière,</l>
+                           <l>Laisser entre eux et nous une large carrière;</l>
+                           <l>Et déjà quelques-uns couraient épouvantés</l>
+                           <l>Jusque dans les vaisseaux qui les ont apportés.</l>
+                           <l>Mais, le dirai-je? ô ciel! rassurés par Pharnace,</l>
+                           <l>Et la honte en leurs coeurs réveillant leur audace,</l>
+                           <l>Ils reprennent courage, ils attaquent le Roi,</l>
+                           <l>Qu'un reste de soldats défendait avec moi.</l>
+                           <l>Qui pourrait exprimer par quels faits incroyables,</l>
+                           <l>Quels coups, accompagnés de regards effroyables,</l>
+                           <l>Son bras, se signalant pour la dernière fois,</l>
+                           <l>A de ce grand héros terminé les exploits?</l>
+                           <l>Enfin las, et couvert de sang et de poussière,</l>
+                           <l>Il s'était fait de morts une noble barrière.</l>
+                           <l>Un autre bataillon s'est avancé vers nous;</l>
+                           <l>Les Romains, pour le joindre, ont suspendu leurs coups.</l>
+                           <l>Ils voulaient tous ensemble accabler Mithridate.</l>
+                           <l>Mais lui: C'en est assez, m'a-t-il dit, cher Arbate;</l>
+                           <l>Le sang et la fureur m'emportent trop avant.</l>
+                           <l>Ne livrons pas surtout Mithridate vivant.</l>
+                           <l>Aussitôt dans son sein il plonge son épée.</l>
+                           <l>Mais la mort fuit encor sa grande âme trompée.</l>
+                           <l>Ce héros dans mes bras est tombé tout sanglant,</l>
+                           <l>Faible, et qui s'irritait contre un trépas si lent;</l>
+                           <l>Et se plaignant à moi de ce reste de vie,</l>
+                           <l>Il soulevait encor sa main appesantie,</l>
+                           <l>Et marquant à mon bras la place de son coeur,</l>
+                           <l>Semblait d'un coup plus sûr implorer la faveur.</l>
+                           <l>Tandis que possédé de ma douleur extrême,</l>
+                           <l>Je songe bien plutôt à me percer moi-même,</l>
+                           <l>De grands cris ont soudain attiré mes regards.</l>
+                           <l>J'ai vu, qui l'aurait cru? j'ai vu de toutes parts</l>
+                           <l>Vaincus et renversés les Romains et Pharnace,</l>
+                           <l>Fuyant vers leurs vaisseaux, abandonner la place;</l>
+                           <l>Et le vainqueur vers nous s'avançant de plus près,</l>
+                           <l>À mes yeux éperdus a montré Xipharès.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <p rend="justify">Juste ciel!</p>
+                     </div>
+                     <div type="div5">
+                        <head>ARBATE</head>
+                        <lg>
+                           <l>Xipharès, toujours resté fidèle,</l>
+                           <l>Et qu'au fort du combat une troupe rebelle</l>
+                           <l>Par ordre de son frère avait enveloppé,</l>
+                           <l>Mais qui d'entre leurs bras à la fin échappé,</l>
+                           <l>Forçant les plus mutins, et regagnant le reste,</l>
+                           <l>Heureux et plein de joie en ce moment funeste,</l>
+                           <l>À travers mille morts, ardent, victorieux,</l>
+                           <l>S'était fait vers son père un chemin glorieux.</l>
+                           <l>Jugez de quelle horreur cette joie est suivie.</l>
+                           <l>Son bras aux pieds du Roi l'allait jeter sans vie;</l>
+                           <l>Mais on court, on s'oppose à son emportement.</l>
+                           <l>Le Roi m'a regardé dans ce triste moment,</l>
+                           <l>Et m'a dit d'une voix qu'il poussait avec peine:</l>
+                           <l>S'il en est temps encor, cours, et sauve la Reine.</l>
+                           <l>Ces mots m'ont fait trembler pour vous, pour Xipharès:</l>
+                           <l>J'ai craint, j'ai soupçonné quelques ordres secrets</l>
+                           <l>Tout lassé que j'étais, ma frayeur et mon zèle</l>
+                           <l>M'ont donné pour courir une force nouvelle;</l>
+                           <l>Et malgré nos malheurs, je me tiens trop heureux</l>
+                           <l>D'avoir paré le coup qui vous perdait tous deux.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <lg>
+                           <l>Ah! que de tant d'horreurs justement étonnée,</l>
+                           <l>Je plains de ce grand roi la triste destinée!</l>
+                           <l>Hélas! Et plût aux Dieux qu'à son sort inhumain</l>
+                           <l>Moi-même j'eusse pu ne point prêter la main,</l>
+                           <l>Et que simple témoin du malheur qui l'accable,</l>
+                           <l>Je le pusse pleurer sans en être coupable!</l>
+                           <l>Il vient. Quel nouveau trouble excite en mes esprits</l>
+                           <l>Le sang du père, ô ciel, et les larmes du fils!</l>
+                        </lg>
+                     </div>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>SCÈNE DERNIÈRE</head>
+                  <lg>
+                     <l>MITHRIDATE, MONIME, XIPHARÈS, ARBATE, ARCAS, GARDES, qui soutiennent</l>
+                     <l>Mithridate.</l>
+                  </lg>
+                  <div type="div4">
+                     <head>MONIME</head>
+                     <p rend="justify">Ah! que vois-je, Seigneur, et quel sort est le vôtre!</p>
+                     <div type="div5">
+                        <head>MITHRIDATE</head>
+                        <p rend="justify">Cessez et retenez vos larmes l'un et l'autre.</p>
+                        <p rend="justify">En montrant Xipharès.</p>
+                        <lg>
+                           <l>Mon sort de sa tendresse et de votre amitié</l>
+                           <l>Veut d'autres sentiments que ceux de la pitié;</l>
+                           <l>Et ma gloire, plutôt digne d'être admirée,</l>
+                           <l>Ne doit point par des pleurs être déshonorée.</l>
+                           <l>J'ai vengé l'univers autant que je l'ai pu:</l>
+                           <l>La mort dans ce projet m'a seule interrompu.</l>
+                           <l>Ennemi des Romains et de la tyrannie,</l>
+                           <l>Je n'ai point de leur joug subi l'ignominie;</l>
+                           <l>Et j'ose me flatter qu'entre les noms fameux</l>
+                           <l>Qu'une pareille haine a signalés contre eux,</l>
+                           <l>Nul ne leur a plus fait acheter la victoire,</l>
+                           <l>Ni de jours malheureux plus rempli leur histoire.</l>
+                           <l>Le ciel n'a pas voulu qu'achevant mon dessein,</l>
+                           <l>Rome en cendre me vît expirer dans son sein.</l>
+                           <l>Mais au moins quelque joie en mourant me console:</l>
+                           <l>J'expire environné d'ennemis que j'immole;</l>
+                           <l>Dans leur sang odieux j'ai pu tremper mes mains,</l>
+                           <l>Et mes derniers regards ont vu fuir les Romains.</l>
+                           <l>À mon fils Xipharès je dois cette fortune:</l>
+                           <l>Il épargne à ma mort leur présence importune.</l>
+                           <l>Que ne puis-je payer ce service important</l>
+                           <l>De tout ce que mon trône eut de plus éclatant!</l>
+                           <l>Mais vous me tenez lieu d'Empire, de couronne;</l>
+                           <l>Vous seule me restez; souffrez que je vous donne,</l>
+                           <l>Madame; et tous ces voeux que j'exigeais de vous,</l>
+                           <l>Mon coeur pour Xipharès vous les demande tous.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <lg>
+                           <l>Vivez, Seigneur, vivez, pour le bonheur du monde,</l>
+                           <l>Et pour sa liberté qui sur vous seul se fonde;</l>
+                           <l>Vivez, pour triompher d'un ennemi vaincu,</l>
+                           <l>Pour venger…</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MITHRIDATE</head>
+                        <lg>
+                           <l>C'en est fait, Madame, et j'ai vécu.</l>
+                           <l>Mon fils, songez à vous. Gardez-vous de prétendre</l>
+                           <l>Que de tant d'ennemis vous puissiez vous défendre</l>
+                           <l>Bientôt tous les Romains, de leur honte irrités,</l>
+                           <l>Viendront ici sur vous fondre de tous côtés</l>
+                           <l>Ne perdez point le temps que vous laisse leur fuite</l>
+                           <l>À rendre à mon tombeau des soins dont je vous quitte.</l>
+                           <l>Tant de Romains sans vie, en cent lieux dispersés,</l>
+                           <l>Suffisent à ma cendre et l'honorent assez.</l>
+                           <l>Cachez-leur pour un temps vos noms et votre vie.</l>
+                           <l>Allez, réservez-vous…</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>XIPHARÈS</head>
+                        <lg>
+                           <l>Moi, Seigneur, que je fuie!</l>
+                           <l>Que Pharnace impuni, les Romains triomphants</l>
+                           <l>N'éprouvent pas bientôt…</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MITHRIDATE</head>
+                        <lg>
+                           <l>Non, je vous le défends.</l>
+                           <l>Tôt ou tard il faudra que Pharnace périsse.</l>
+                           <l>Fiez-vous aux Romains du soin de son supplice.</l>
+                           <l>Mais je sens affaiblir ma force et mes esprits.</l>
+                           <l>Je sens que je me meurs. Approchez-vous, mon fils.</l>
+                           <l>Dans cet embrassement dont la douceur me flatte,</l>
+                           <l>Venez, et recevez l'âme de Mithridate.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MONIME</head>
+                        <p rend="justify">Il expire.</p>
+                     </div>
+                     <div type="div5">
+                        <head>XIPHARÈS</head>
+                        <lg>
+                           <l>Ah! Madame, unissons nos douleurs,</l>
+                           <l>Et par tout l'univers cherchons-lui des vengeurs.</l>
+                        </lg>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

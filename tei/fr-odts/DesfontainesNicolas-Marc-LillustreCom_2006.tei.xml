@@ -1,0 +1,3059 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'illustre comédien, ou Le martyre de Sainct Genest</title>
+            <author>Nicolas-Marc Desfontaines</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-01T19:10:09Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">odts/fr-odts/DesfontainesNicolas-Marc-LillustreCom_2006.epub.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Nicolas-Marc Desfontaines</name>
+               <date>2024-01-01T19:10:09Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>L'illustre comédien, ou Le martyre de Sainct Genest</head>
+         <author>Nicolas-Marc Desfontaines</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">odts/fr-odts/DesfontainesNicolas-Marc-LillustreCom_2006.epub.odt</p>
+         <p>Produced by Carlo Traverso, Laurent Vogel and the Online</p>
+         <p>Distributed Proofreading Team at http://www.pgdp.net (This file was produced from images generously made available by the Bibliothèque nationale de France (BnF/Gallica) at http://gallica.bnf.fr)</p>
+         <head>L'ILLUSTRE COMEDIEN, OU LE MARTYRE DE SAINCT GENEST.</head>
+         <subtitle>TRAGEDIE.</subtitle>
+         <subtitle>[EX DOLORE GAUDIUM]</subtitle>
+         <subtitle>À PARIS,</subtitle>
+         <p>                      Chez CARDIN BESONGNE, au Palais,<lb/>                au haut de la Montée de la saincte Chappelle,<lb/>                          aux Roses Vermeilles.<lb/>
+         </p>
+         <subtitle>M. DC. XLV.</subtitle>
+         <subtitle>
+            <hi rend="italic">AVEC PRIVILEGE DU ROY.</hi>
+         </subtitle>
+         <p>Advis au Lecteur.</p>
+         <p>
+            <hi rend="italic">L'Autheur ayant esté commandé par son Altesse Royalle de le suivre en son Voyage de Bourbon, n'a peu estre present à l'impression de ce livre, ny mesme faire son Epistre liminaire: ce que le Lecteur excusera quand il sçaura que nous avons eu le soin de faire voir les espreuves à un Seigneur de condition qui nous l'a rendu fort correct.</hi>
+         </p>
+         <p>
+            <hi rend="italic">Extraict du Privilege du Roy.</hi>
+         </p>
+         <p>Par grace &amp; Privilege du Roy donné à Paris le dernier Avril 1645. signé par le Roy en son Conseil, CROISET, il est permis à Cardin Besongne, Marchand Libraire à Paris, d'imprimer, vendre &amp; distribuer un livre intitulé, <hi rend="italic">L'Illustre Comedien, ou le Martyre de sainct Genest</hi>: Et deffences sont faites à toutes sortes de personnes que ce soit de l'imprimer ny faire imprimer, vendre ny debiter pendant le temps de sept ans, sur peine de mil livres d'amende, &amp; de tous despens dommages &amp; interests, comme plus amplement est contenu par lesdites lettres de Privilege.</p>
+         <p>
+            <hi rend="italic">Achevé d'imprimer le 8. May 1645.</hi>
+         </p>
+         <pb/>
+         <div type="div1">
+            <head>L'illustre comédien, ou Le martyre de Sainct Genest</head>
+            <pb/>
+            <div type="div2">
+               <head>LES ACTEURS.</head>
+               <lg>
+                  <l>DIOCLETIAN, Empereur Romain.</l>
+                  <l>AQUILLIN, Favory de l'Empereur.</l>
+                  <l>RUTILE, Conseiller d'Estat de l'Empereur.</l>
+                  <l>GENEST, Comedien.</l>
+                  <l>ARISTIDE, Confident de Genest.</l>
+                  <l>ANTHENOR, Pere de Genest.</l>
+                  <l>PAMPHILIE, Maistresse de Genest.</l>
+                  <l>LUCIANE, Soeur d'Anthenor.</l>
+                  <l>DEUX GARDES.</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">La Scene est à Rome dans une Salle du Palais de l'Empereur.</hi>
+               </p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>L'ILLUSTRE COMEDIEN, OU LE MARTYRE DE SAINCT GENEST.</head>
+               <div type="div3">
+                  <head>TRAGEDIE.</head>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>ACTE PREMIER.</head>
+               <div type="div3">
+                  <head>SCENE PREMIERE.</head>
+                  <p rend="justify">Diocletian. Aquillin. Rutile. &amp; deux Gardes.</p>
+                  <div type="div4">
+                     <head>AQUILLIN.</head>
+                     <lg>
+                        <l>  Ta puissance, Cesar, est en fin sans seconde.</l>
+                        <l>  Rome en te couronnant te soubsmet tout le monde,</l>
+                        <l>  Et rend en mesme temps ton sort si glorieux,</l>
+                        <l>  Que tu ne connois plus de Rivaux que les Dieux:</l>
+                        <l>  Comme eux tu peux tout perdre, &amp; comme eux tout absoudre,</l>
+                        <l>  Tes aigles icy bas sont armez d'une foudre,</l>
+                        <l>  Qu'au gré de tes desirs tu peux mettre en tes mains,</l>
+                        <l>  Et comme Jupiter en punit les humains:</l>
+                        <l>  Vous commandez tous deux avec mesme advantage,</l>
+                        <l>  S'il regne dans le Ciel, la terre est ton partage,</l>
+                        <l>  Et si cent deitez en reverent les loix,</l>
+                        <l>  Tu voids quand il te plaist à tes pieds mille Roys,</l>
+                        <l>  Dont le pouvoir defere à ta grandeur supréme,</l>
+                        <l>  Et se change en respect devant ton diadesme,</l>
+                        <l>  Les perses sont deffaits, Carinus est soubsmis,</l>
+                        <l>  Horsmis quelques Chrestiens tu n'as plus d'ennemis,</l>
+                        <l>  Et cette secte impie alors qu'elle conspire,</l>
+                        <l>  Ne s'attaque qu'aux Dieux &amp; non à ton Empire.</l>
+                     </lg>
+                     <div type="div5">
+                        <head>DIOCLETIAN.</head>
+                        <lg>
+                           <l>  C'est en vain Aquillin que tu penses flatter,</l>
+                           <l>  Un mal que cet Empire a lieu de redouter,</l>
+                           <l>  Puis qu'en choquant les Dieux protecteurs des couronnes,</l>
+                           <l>  Il sappe de l'Estat les plus fermes colonnes:</l>
+                           <l>  Je suis grand, il est vray, tout flechit soubs mes loix,</l>
+                           <l>  Et parmy mes sujets je puis compter des Roys,</l>
+                           <l>  Mais si dans Rome mesme une secte me brave,</l>
+                           <l>  C'est paroistre Empereur, &amp; souffrir en esclave;</l>
+                           <l>  C'est tenant asservy le reste des humains,</l>
+                           <l>  Au milieu de ma Cour avoir des souverains.</l>
+                           <l>  Leur projet me dis-tu ne tend pas à l'Empire,</l>
+                           <l>  Ils n'en veulent qu'aux Dieux, quel mal peut estre pire?</l>
+                           <l>  Et pourquoy penses-tu que ces audacieux,</l>
+                           <l>  Considerent les Roys s'ils mesprisent les Dieux?</l>
+                           <l>  Non, non, ce mal est grand dez qu'il commence à naistre</l>
+                           <l>  Il le faut estouffer pour l'empescher de croistre,</l>
+                           <l>  Et venger par l'effect de nos justes arrests</l>
+                           <l>  De la Terre &amp; des Cieux les communs interests.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>RUTILE.</head>
+                        <lg>
+                           <l>  Suspends un peu, Seigneur, un decret si severe,</l>
+                           <l>  Donne quelque relache à ta juste colere,</l>
+                           <l>  Espargne Rome enfin, &amp; par d'autres moyens</l>
+                           <l>  Au respect de tes loix range ses citoyens:</l>
+                           <l>  Tes boureaux ont sur eux assez fait de carnages</l>
+                           <l>  Les gesnes ont assez exercé leurs courages,</l>
+                           <l>  Et jusqu'icy tes yeux (equitable Empereur)</l>
+                           <l>  N'ont desja que trop veu de spectacles d'horreur:</l>
+                           <l>  Ce n'est pas que je sois du party des rebelles,</l>
+                           <l>  J'ay trop d'aversion pour les sectes nouvelles,</l>
+                           <l>  Comme toy je condamne, &amp; je hay les Chrestiens,</l>
+                           <l>  Tes desirs sont mes voeux &amp; mes dieux sont les tiens,</l>
+                           <l>  Mais comme les erreurs de cette troupe infame</l>
+                           <l>  Sont enfin des deffaux qui s'attachent à l'ame,</l>
+                           <l>  Je treuve que l'on fait d'inutiles efforts</l>
+                           <l>  Pour guerir les esprits d'en affliger les corps,</l>
+                           <l>  Cette superieure &amp; plus noble partie</l>
+                           <l>  Par des effets si bas n'est point assujettie</l>
+                           <l>  Elle brave ses fers, &amp; rit de sa prison,</l>
+                           <l>  Pour suivre seulement les loix de la raison:</l>
+                           <l>  Elle seule la dompte, elle seule est sa Reine,</l>
+                           <l>  Et sur elle, elle seule agit en souveraine;</l>
+                           <l>  Pour ranger les Chrestiens aux termes du devoir</l>
+                           <l>  Une fois, ô Cesar, sers toy de son pouvoir:</l>
+                           <l>  Faits agir la raison, laisse agir les exemples,</l>
+                           <l>  Tasche par la douceur de les mener aux Temples,</l>
+                           <l>  Et sans plus les forcer, donne leur le loisir,</l>
+                           <l>  D'examiner un peu ce qu'ils doivent choisir.</l>
+                           <l>  L'aspect de tes boureaux rend leur ame interdite,</l>
+                           <l>  Le fer les effarouche, &amp; le sang les irrite,</l>
+                           <l>  Au lieu que ta bonté peut remettre leurs sens</l>
+                           <l>  Et faire offrir aux Dieux des voeux &amp; de l'encens.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>DIOCLETIAN.</head>
+                        <lg>
+                           <l>  Rutile, ton conseil promet de belles choses:</l>
+                           <l>  Mais fais voir les effets de ce que tu proposes,</l>
+                           <l>  Et puis que les tourmens ont si peu reussy,</l>
+                           <l>  Tente ce beau moyen dont tu parles icy,</l>
+                           <l>  Je commets à tes soings cette affaire importante,</l>
+                           <l>  Ton esprit est adroit, &amp; ta langue eloquente,</l>
+                           <l>  Tu n'auras pas fait peu si calmant ma fureur</l>
+                           <l>  Tu peux par tes raisons vaincre aussi leur erreur.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>AQUILLIN.</head>
+                        <p rend="justify">L'espoir en est fort beau, mais l'effet difficile.</p>
+                     </div>
+                     <div type="div5">
+                        <head>RUTILE.</head>
+                        <lg>
+                           <l>  Il est vray que l'effort en peut estre inutile,</l>
+                           <l>  Et je ne voudrois pas respondre absolument</l>
+                           <l>  Qu'il ayt selon nos voeux un bel evenement:</l>
+                           <l>  Mais on peut sans hazard esprouver cette voye,</l>
+                           <l>  Et ce fidele advis que le ciel vous envoye</l>
+                           <l>  Pour calmer doucement les esprits furieux,</l>
+                           <l>  Et les ranger apres au service des Dieux.</l>
+                           <l>  Ces arbitres prudens des affaires du monde,</l>
+                           <l>  Bien qu'ils soient tout-puissans, veulent qu'on les seconde,</l>
+                           <l>  Et se servent souvent des objets moins parfaits</l>
+                           <l>  Pour produire icy bas d'admirables effets.</l>
+                           <l>  Sçache donc, ô Cesar, quelle est mon entreprise,</l>
+                           <l>  Tu la croiras d'abord digne qu'on la mesprise,</l>
+                           <l>  Mais si ta Majesté la peze meurement,</l>
+                           <l>  Elle en verra l'adresse avec estonnement.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>DIOCLETIAN.</head>
+                        <lg>
+                           <l>  Quel peut estre ce rare &amp; nouveau stratageme</l>
+                           <l>  Dont tu veux te servir.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>RUTILE.</head>
+                        <lg>
+                           <l>                          Tu le verras toy-mesme.</l>
+                           <l>  Et pourveu qu'à mes soins tu vueilles consentir,</l>
+                           <l>  Je pourray m'acquitter &amp; te bien divertir.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>DIOCLETIAN.</head>
+                        <p rend="justify">Que faut-il pour dompter ces coeurs opiniâtres.</p>
+                     </div>
+                     <div type="div5">
+                        <head>RUTILE.</head>
+                        <lg>
+                           <l>  Changer les eschaffauts en superbes Theatres,</l>
+                           <l>  Et là, leur faire voir dans la derision</l>
+                           <l>  L'erreur &amp; les abus de leur Religion,</l>
+                           <l>  Tu sçais combien, Genest, cet Illustre Comique</l>
+                           <l>  A de grace &amp; d'addresse en tout ce qu'il pratique,</l>
+                           <l>  Et qu'au gré de sa voix, &amp; de ses actions,</l>
+                           <l>  Il peut comme il luy plaist changer nos passions,</l>
+                           <l>  Esgayer nos esprits, les rendre solitaires,</l>
+                           <l>  Amoureux, mesprisans, pitoyables, coleres,</l>
+                           <l>  Et par un souverain &amp; merveilleux pouvoir</l>
+                           <l>  Imprimer en nos coeurs tout ce qu'il nous fait voir,</l>
+                           <l>  Commande luy, Seigneur, d'exposer sur la scene</l>
+                           <l>  Les superstitions d'une trouppe peu saine</l>
+                           <l>  Qui se nourrit d'espoir, &amp; pour de faux appas,</l>
+                           <l>  Quitte l'heur qui la suit &amp; qui luy tend les bras,</l>
+                           <l>  Si tu doutes encor des traits de ta science</l>
+                           <l>  Tu peux dans ton Palais en faire experience,</l>
+                           <l>  Et par un coup d'essay de cét art merveilleux</l>
+                           <l>  En toy-mesme esprouver ce qu'il pourra sur eux.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>DIOCLETIAN.</head>
+                        <lg>
+                           <l>  Je le veux. Aquillin, faites qu'on me l'amene,</l>
+                           <l>  Despeschez.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>AQUILLIN.</head>
+                        <p rend="justify">J'obeis.</p>
+                     </div>
+                     <div type="div5">
+                        <head>RUTILE.</head>
+                        <lg>
+                           <l>                       Sans qu'il ayt cette peine</l>
+                           <l>  Ce Garde que voila le peut faire avancer.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>DIOCLETIAN.</head>
+                        <p rend="justify">Est-il là?</p>
+                     </div>
+                     <div type="div5">
+                        <head>RUTILE.</head>
+                        <lg>
+                           <l>             Ouy, Seigneur, je le viens de laisser</l>
+                           <l>  Avec ses compagnons dans la sale prochaine</l>
+                           <l>  Où depuis quelque temps je croy qu'il se promene</l>
+                           <l>  Attendant les moyens &amp; la commodité</l>
+                           <l>  De se venir offrir à vostre Majesté.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>DIOCLETIAN.</head>
+                        <p rend="justify">Qu'il entre.</p>
+                     </div>
+                     <div type="div5">
+                        <head>AQUILLIN.</head>
+                        <p rend="justify">Garde, allez.</p>
+                     </div>
+                     <div type="div5">
+                        <head>RUTILE.</head>
+                        <lg>
+                           <l>                             Cette Troupe est fort belle,</l>
+                           <l>  Et de plus, pour vous plaire elle a beaucoup de zele.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>UN GARDE.</head>
+                        <p rend="justify">Le voila.</p>
+                     </div>
+                     <div type="div5">
+                        <head>DIOCLETIAN.</head>
+                        <p rend="justify">Qu'il advance.</p>
+                     </div>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>SCENE II.</label>
+                  </head>
+                  <lg>
+                     <l>  Genest. Pamphilie. Luciane. Anthenor. Aristide. Diocletian.</l>
+                     <l>  Aquillin. Rutile. Un Garde.</l>
+                  </lg>
+                  <div type="div4">
+                     <head>GENEST.</head>
+                     <lg>
+                        <l>                           Invincible Empereur,</l>
+                        <l>  Puis que ta Majesté nous accorde l'honneur,</l>
+                        <l>  De donner quelquefois aux esbas du Theatre</l>
+                        <l>  Cette presence Auguste &amp; que Rome idolatre,</l>
+                        <l>  Souffre aujourd'huy, Seigneur, que j'expose à tes yeux,</l>
+                        <l>  Quelques foibles crayons de tes faits glorieux,</l>
+                        <l>  Et que par le recit de tes hautes merveilles</l>
+                        <l>  Du peuple &amp; de ta Cour nous charmions les oreilles.</l>
+                        <l>  Je ne puis, ô Cesar, t'offrir rien de plus beau,</l>
+                        <l>  Qu'en faisant de toy-mesme un Illustre tableau,</l>
+                        <l>  Sans que j'aye recours aux communes Histoires,</l>
+                        <l>  Permets moy de parler de tes belles Victoires,</l>
+                        <l>  Et d'apprendre aux Romains par tes rares exploits,</l>
+                        <l>  Combien ils sont heureux de vivre soubs tes loix:</l>
+                        <l>  Permets moy d'estaler tes qualitez diverses,</l>
+                        <l>  Tant de fameux lauriers emportez sur les Perses,</l>
+                        <l>  Les Barbares deffaits, Carinus surmonté,</l>
+                        <l>  Et tout le monde en fin, ou soubsmis, ou dompté,</l>
+                        <l>  Dans un si noble employ me rendant admirable,</l>
+                        <l>  Je te rendray, Seigneur, à chacun adorable,</l>
+                        <l>  Mesme à tes envieux tu paroistras parfait.</l>
+                     </lg>
+                     <div type="div5">
+                        <head>DIOCLETIAN.</head>
+                        <lg>
+                           <l>  Non, Amy, de ton art, je veux un autre effet,</l>
+                           <l>  La Renommée icy parle assez de ma gloire,</l>
+                           <l>  Et Rome de mes faits ne perd point la memoire,</l>
+                           <l>  Rutile vous dira quelle est ma volonté.</l>
+                           <l>  Donnez ordre, Aquillin, que tout soit appresté,</l>
+                           <l>  Qu'il ne leur manque rien.</l>
+                        </lg>
+                     </div>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>SCENE III.</label>
+                  </head>
+                  <p rend="justify">Rutile. Genest. Pamphilie. Luciane. Anthenor. Aristide.</p>
+                  <div type="div4">
+                     <head>RUTILE.</head>
+                     <lg>
+                        <l>                             Si vous desirez plaire,</l>
+                        <l>  Apprenez, mes amis, ce que vous devez faire,</l>
+                        <l>  Cesar est ennemy de ces lâches mortels,</l>
+                        <l>  Qui refusent l'encens qu'on doit à nos autels,</l>
+                        <l>  Et d'un nouveau Prophete approuvant l'imposture</l>
+                        <l>  L'adorent comme autheur de toute la nature.</l>
+                        <l>  Faites voir leurs abus, descouvrez leur erreur,</l>
+                        <l>  Rendez les des humains &amp; la honte, &amp; l'horreur,</l>
+                        <l>  Mocquez-vous de leur foy, riez de leurs mysteres,</l>
+                        <l>  Des superstitions de leurs regles austeres,</l>
+                        <l>  Et des appas trompeurs de tant d'illusions</l>
+                        <l>  Qui seduisent leurs sens &amp; leurs opinions.</l>
+                        <l>  Rendez-les en un mot de tout poinct ridicules:</l>
+                        <l>  Mais d'ailleurs exaltez Jupiter, nos Hercules,</l>
+                        <l>  Nos Mars, nos Apollons, &amp; tous les autres Dieux</l>
+                        <l>  Qu'ont icy de tout temps adoré nos ayeux.</l>
+                        <l>  Je ne vous puis donner de conseil plus utile.</l>
+                     </lg>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <lg>
+                           <l>  Ny prescrire d'employ qui nous soit plus facile,</l>
+                           <l>  Ces Rebelles, des Dieux &amp; des hommes hays,</l>
+                           <l>  M'ont fait abandonner mon Pere, &amp; mon Pays,</l>
+                           <l>  Où ne pouvant souffrir leurs coupables maximes</l>
+                           <l>  Je me suis par ma fuitte affranchy de leurs crimes</l>
+                           <l>  De sorte que contre eux justement animé,</l>
+                           <l>  Je feray voir l'abus dont ce peuple est charmé:</l>
+                           <l>  Et que le vain espoir qui le flatte &amp; le lie</l>
+                           <l>  N'est rien qu'une chimere, un songe, une folie,</l>
+                           <l>  Qui s'estans emparez de ces foibles esprits</l>
+                           <l>  Les rend de l'univers la fable &amp; le mespris.</l>
+                           <l>  Est-il rien de plaisant comme l'erreur extreme</l>
+                           <l>  D'un mystere nouveau qu'ils appellent Baptéme,</l>
+                           <l>  Où de trois gouttes d'eau legerement lavez,</l>
+                           <l>  Ils se pensent desja dans les cieux eslevez?</l>
+                           <l>  Certes on ne peut trop admirer leurs manies</l>
+                           <l>  De croire que deux mots, &amp; des ceremonies</l>
+                           <l>  Puissent en un moment les rendre glorieux,</l>
+                           <l>  Au point que d'aspirer au partage des Cieux.</l>
+                           <l>  C'est par cette action si digne de risée,</l>
+                           <l>  Et des meilleurs esprits de tout temps mesprisée</l>
+                           <l>  Que je veux commencer les divertissemens,</l>
+                           <l>  Que l'Empereur attend de nos raisonnemens,</l>
+                           <l>  Nous ne sçaurions choisir de plus belle matiere.</l>
+                           <l>  C'est là que me donnant une libre cariere,</l>
+                           <l>  Je mettray les Chrestiens en un si mauvais point</l>
+                           <l>  Qu'ils seront insensez s'ils ne se changent point.</l>
+                           <l>  Ces moyens, quoy que doux, peuvent plus que les gesnes,</l>
+                           <l>  Et la honte souvent fait bien plus que les peines.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>RUTILE.</head>
+                        <lg>
+                           <l>  C'est ce qu'à l'Empereur j'ay pû faire esperer,</l>
+                           <l>  Ne perdez point de temps, allez vous preparer,</l>
+                           <l>  Et taschez de remplir une si belle attente.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <p rend="justify">Nous rendrons sur ce poinct sa Majesté contente.</p>
+                     </div>
+                     <div type="div5">
+                        <head>RUTILE.</head>
+                        <p rend="justify">Si Cesar est content, vous le serez aussi.</p>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <lg>
+                           <l>  Nous pouvons sans sortir nous concerter icy,</l>
+                           <l>  Et sans qu'il soit besoin d'aprests ny de theatre,</l>
+                           <l>  Icy mesme Cesar de nostre art idolatre</l>
+                           <l>  Peut voir nos actions avec tant de plaisirs</l>
+                           <l>  Qu'ils passeront l'espoir &amp; vaincront ses desirs.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>RUTILE.</head>
+                        <p rend="justify">Le permettent les Dieux! mais adieu, je vous laisse.</p>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <p rend="justify">Dans deux heures au plus vous verrez nostre adresse.</p>
+                     </div>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>SCENE IV.</label>
+                  </head>
+                  <p rend="justify">Genest. Pamphilie. Luciane. Anthenor. Aristide.</p>
+                  <div type="div4">
+                     <head>GENEST.</head>
+                     <lg>
+                        <l>  Amys, c'est à ce coup qu'il faut que nos esprits</l>
+                        <l>  Devant un Empereur se disputent le prix,</l>
+                        <l>  Et que chacun de nous amoureux de la gloire</l>
+                        <l>  Tasche sur son Rival d'emporter la victoire.</l>
+                        <l>  Cet employ glorieux peut changer nostre sort,</l>
+                        <l>  Combattons ses rigueurs par un illustre effort,</l>
+                        <l>  Et par une action qui ne soit pas commune</l>
+                        <l>  Acquerons pour amis Cesar, &amp; la Fortune.</l>
+                        <l>  Ce bon heur aujourd'huy ne depend pas de nous,</l>
+                        <l>  Vous sçavez comme moy ce qu'on attend de vous,</l>
+                        <l>  Et sans beaucoup resver il nous sera facile</l>
+                        <l>  De reduire en effects les advis de Rutile.</l>
+                     </lg>
+                     <div type="div5">
+                        <head>ANTHENOR.</head>
+                        <lg>
+                           <l>  Mais quelle Histoire enfin peut servir de sujet</l>
+                           <l>  Et propre &amp; convenable à ce rare projet?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ARISTIDE.</head>
+                        <lg>
+                           <l>  Celle d'Ardaleon, ou celle de Porphire,</l>
+                           <l>  Qui tous deux bien aymez des maistres de l'Empire,</l>
+                           <l>  Furent par les Chrestiens tellement abusez</l>
+                           <l>  Qu'ils suivirent des voeux qu'ils avoient mesprisez,</l>
+                           <l>  Et par une folie à nulle autre seconde</l>
+                           <l>  Se rendirent l'opprobre &amp; la fable du monde.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>LUCIANE.</head>
+                        <p rend="justify">Tous deux ont exercé nostre profession.</p>
+                     </div>
+                     <div type="div5">
+                        <head>PAMPHILIE.</head>
+                        <lg>
+                           <l>  Et le baptesme fut la premiere action</l>
+                           <l>  Qui flattant de ces fous la ridicule envie</l>
+                           <l>  Leur fit perdre à tous deux &amp; les biens &amp; la vie.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <lg>
+                           <l>  Des principes pareils ont souvent chez les grands</l>
+                           <l>  Produit à leurs autheurs des succez differents,</l>
+                           <l>  Nous pouvons profiter icy de leur exemple,</l>
+                           <l>  Et les suivre au Theatre, &amp; non pas dans le Temple</l>
+                           <l>  Où leur aveuglement leur fit trouver dans l'eau,</l>
+                           <l>  Le funeste poison qui les mit au tombeau.</l>
+                           <l>  Mais sans chercher si loing le secours d'une Histoire</l>
+                           <l>  Qui nous pourroit charger l'esprit &amp; la memoire:</l>
+                           <l>  Nous pouvons rencontrer dans nostre propre sort,</l>
+                           <l>  De quoy plaire à Cesar qui nous prisera fort</l>
+                           <l>  Si par un trait adroit &amp; de haute industrie,</l>
+                           <l>  Il sçait que nous aurons quitté nostre Patrie,</l>
+                           <l>  Nos parens &amp; nos biens pour venir en ces lieux,</l>
+                           <l>  Loing de ses ennemis rendre hommage à ses dieux.</l>
+                           <l>  Voicy donc quel sera l'ordre de ce mystere,</l>
+                           <l>  Il faudra qu'Anthenor represente mon Pere:</l>
+                           <l>  Et que par un flatteur, quoy que faux entretien,</l>
+                           <l>  Il feigne qu'il me veut aussi rendre Chrestien.</l>
+                           <l>  Ma soeur qui me portoit à cette loy prophane</l>
+                           <l>  Avoit, vous le sçavez, de l'air de Luciane,</l>
+                           <l>  Qui sçaura je m'asseure en cette occasion,</l>
+                           <l>  Imiter son humeur &amp; son affection.</l>
+                           <l>  Aristide d'ailleurs pour vaincre sa folie,</l>
+                           <l>  Se dira parmy nous frere de Pamphilie,</l>
+                           <l>  Et me conjurera par l'esclat de ses yeux,</l>
+                           <l>  De ne la point trahir, aussi bien que nos Dieux.</l>
+                           <l>  Voila sur ce sujet tout ce qui vous regarde,</l>
+                           <l>  Le reste. Mais que veut Aquillin, &amp; ce Garde?</l>
+                        </lg>
+                     </div>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>SCENE V.</label>
+                  </head>
+                  <lg>
+                     <l>  Aquillin. Genest. Pamphilie. Luciane. Aristide. Anthenor.</l>
+                     <l>  Un Garde tenant des presens.</l>
+                  </lg>
+                  <div type="div4">
+                     <head>AQUILLIN.</head>
+                     <lg>
+                        <l>  Le Ciel vous ayme Amis, la fortune vous rit,</l>
+                        <l>  Le peuple vous admire, &amp; Cesar vous cherit,</l>
+                        <l>  Ce que je vous apporte en sont de bonnes marques,</l>
+                        <l>  Recevez ces presens du plus grand des Monarques,</l>
+                        <l>  Et croyez toutesfois que ces rares bienfaits</l>
+                        <l>  Ne sont de ses bontez que les moindres effets.</l>
+                     </lg>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <lg>
+                           <l>  Ces magnifiques dons d'une illustre personne,</l>
+                           <l>  Marquent la dignité de la main qui les donne,</l>
+                           <l>  Et nous n'ignorons pas qu'il est en son pouvoir</l>
+                           <l>  De porter ses bienfaits plus loing que nostre espoir,</l>
+                           <l>  Mais de tant de faveurs dont Cesar nous accable,</l>
+                           <l>  Sa presence nous est la plus considerable,</l>
+                           <l>  Et le soing de luy plaire en ma profession,</l>
+                           <l>  Borne tous mes desirs &amp; mon ambition.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PAMPHILIE.</head>
+                        <lg>
+                           <l>  Il n'en est point icy qui ne parle de mesme,</l>
+                           <l>  Envers sa Majesté nostre zele est extréme,</l>
+                           <l>  Et tous esgalement nous nous sentons ravir:</l>
+                           <l>  À l'inclination qu'il a de le servir.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>AQUILLIN.</head>
+                        <lg>
+                           <l>  Tant de civilitez veulent que je confesse,</l>
+                           <l>  Que nostre cour n'a pas toute la politesse,</l>
+                           <l>  Puis qu'on la void en vous en un point si parfait,</l>
+                           <l>  Que quiconque vous parle en admire l'effect.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ARISTIDE.</head>
+                        <lg>
+                           <l>  Ha! Seigneur, il suffit de vostre bien-veillance,</l>
+                           <l>  Sans que vous confondiez avec vostre esloquence,</l>
+                           <l>  Ceux que tant de faveurs &amp; de bienfaits receûs,</l>
+                           <l>  De Cesar &amp; de vous rendent assez confus.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>LUCIANE.</head>
+                        <p rend="justify">Ouy Seigneur…</p>
+                     </div>
+                     <div type="div5">
+                        <head>AQUILLIN.</head>
+                        <lg>
+                           <l>                  Brisons là: mes yeux &amp; mes oreilles,</l>
+                           <l>  Charmez d'ouir &amp; voir tant de rares merveilles,</l>
+                           <l>  Font qu'insensiblement m'arrestant en ces lieux,</l>
+                           <l>  Je vous derobe un temps qui vous est precieux.</l>
+                           <l>  L'Empereur vous attend.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ANTHENOR.</head>
+                        <p rend="justify">Rien plus ne nous arreste.</p>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <lg>
+                           <l>  Vous pouvez l'asseurer que nostre bande est preste,</l>
+                           <l>  Et que nous n'attendons que son commandement,</l>
+                           <l>  Pour luy donner icy du divertissement.</l>
+                        </lg>
+                        <p rend="justify">
+                           <hi rend="italic">Fin du premier Acte.</hi>
+                        </p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>ACTE SECOND.</head>
+               <div type="div3">
+                  <head>SCENE PREMIERE.</head>
+                  <p rend="justify">Diocletian. Aquillin. Rutile. &amp; suitte.</p>
+                  <div type="div4">
+                     <head>DIOCLETIAN.</head>
+                     <lg>
+                        <l>  Rutile, nous verrons si cette haute estime,</l>
+                        <l>  Où tu mets nos acteurs est juste &amp; legitime,</l>
+                        <l>  Et si ces grands esprits que tu tiens si parfaits,</l>
+                        <l>  Produiront sur le mien de semblables effets.</l>
+                        <l>  Si l'on croit tes discours, ma cour n'a point de grace,</l>
+                        <l>  Que la leur aisement ne surmonte, &amp; n'efface,</l>
+                        <l>  Et mesme l'on diroit que les perfections,</l>
+                        <l>  Naissent de leur parole, &amp; de leurs actions.</l>
+                     </lg>
+                     <div type="div5">
+                        <head>AQUILLIN.</head>
+                        <lg>
+                           <l>  Quelque approbation que Rutile leur donne,</l>
+                           <l>  Son sentiment est juste &amp; n'a rien qui m'estonne:</l>
+                           <l>  Bien que quelques brutaux ayent leur art à mespris,</l>
+                           <l>  Il n'admet point pourtant de vulgaires esprits,</l>
+                           <l>  De corps mal composez, &amp; de qui l'apparence,</l>
+                           <l>  Ne puisse au moins donner quelque belle esperance.</l>
+                           <l>  Le Theatre est severe, &amp; veut des qualitez,</l>
+                           <l>  Qui puissent faire aux grands admirer ses beautez:</l>
+                           <l>  Le charme de la voix est sa moindre partie,</l>
+                           <l>  Si de l'intelligence elle n'est assortie,</l>
+                           <l>  Et le geste pour elle est un foible secours,</l>
+                           <l>  Si ce rayon divin ne regle ses discours,</l>
+                           <l>  Outre le jugement, l'adresse, &amp; la memoire,</l>
+                           <l>  L'asseurance est aussi necessaire à sa gloire,</l>
+                           <l>  Et la propreté mesme en son habillement,</l>
+                           <l>  N'est point pour un acteur un petit ornement.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>DIOCLETIAN.</head>
+                        <lg>
+                           <l>  Hé bien nous en verrons bien tost l'experience:</l>
+                           <l>  Faites les commencer, &amp; qu'on preste silence.</l>
+                        </lg>
+                     </div>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>SCENE II.</label>
+                  </head>
+                  <p rend="justify">Luciane. Genest.</p>
+                  <div type="div4">
+                     <head>LUCIANE.</head>
+                     <lg>
+                        <l>  Ha! mon frere, si rien ne vous peut esmouvoir,</l>
+                        <l>  Considerez des pleurs.</l>
+                     </lg>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <lg>
+                           <l>                         Qui seront sans pouvoir.</l>
+                           <l>  Ha! c'est trop, levez vous, c'est en vain Luciane</l>
+                           <l>  Que l'on croit me porter à cette loy prophane,</l>
+                           <l>  Dont un nouveau Prophete, &amp; trop foible Docteur,</l>
+                           <l>  Se rendit autresfois le ridicule Autheur,</l>
+                           <l>  Je ne me repais point de ces vaines chimeres,</l>
+                           <l>  Dont il sçeût esblouyr les esprits des nos peres,</l>
+                           <l>  Je sçay mieux me servir des droits de ma raison:</l>
+                           <l>  Et parmy le nectar discerner le poison.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>LUCIANE.</head>
+                        <p rend="justify">Pleûst au Ciel!</p>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <lg>
+                           <l>                  Vos souhaits aussi bien que vos larmes,</l>
+                           <l>  Pour vaincre mon esprit sont d'inutiles armes.</l>
+                           <l>  Croyez vous pour me voir de parens obsedé:</l>
+                           <l>  Que par de vains transports je sois persuadé?</l>
+                           <l>  Non non, mon Jugement plus ferme, &amp; plus solide,</l>
+                           <l>  Ne sçauroit escouter un conseil si perfide,</l>
+                           <l>  Pour suivre un inconnu qui fut mis aux liens,</l>
+                           <l>  Et dans son triste sort abandonné des siens.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>LUCIANE.</head>
+                        <lg>
+                           <l>  Mais cet abandonné que vostre esprit abhorre,</l>
+                           <l>  Est ce Dieu tout puissant que le Ciel mesme adore,</l>
+                           <l>  Qui comble tout de gloire à son auguste aspect,</l>
+                           <l>  Et fait trembler là haut les Anges de respect.</l>
+                           <l>  Il naquit sans grandeur, sans esclat, &amp; sans lustre;</l>
+                           <l>  Mais dans l'obscurité son berceau fut illustre,</l>
+                           <l>  Puis qu'à peine il parut qu'on redouta ses loix,</l>
+                           <l>  Et qu'encor tout enfant il fit trembler des Roys.</l>
+                           <l>  Si des siecles passez nous croyons les plus sages,</l>
+                           <l>  Des Princes d'Orient il reçeut les hommages,</l>
+                           <l>  Et l'astre qui guida ces Mages en ce lieu,</l>
+                           <l>  Fit bien voir que c'estoit la demeure d'un Dieu.</l>
+                           <l>  Il vescut, dites vous, ainsi qu'on le raconte,</l>
+                           <l>  Dedans l'ignominie, &amp; mourut dans la honte,</l>
+                           <l>  Abandonné des siens, trahy, desadvoué,</l>
+                           <l>  Sur un infame bois honteusement cloué;</l>
+                           <l>  Mais c'est par ce moyen si difficile à croire,</l>
+                           <l>  Qu'il pretend sur sa honte establir vostre gloire,</l>
+                           <l>  Et par l'unique prix de son sang precieux</l>
+                           <l>  Qu'il vous veut acheter le partage des Cieux.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <lg>
+                           <l>  Que d'un trompeur espoir vostre ame est possedée,</l>
+                           <l>  S'il n'a pour fondement que cette vaine idée!</l>
+                           <l>  Et qu'un bonheur est faux, quand par un triste effort</l>
+                           <l>  La honte le produit aussi bien que la mort.</l>
+                           <l>  Rangez-vous du party de ces hautes puissances</l>
+                           <l>  Qui donnent à nos voeux d'illustres recompences,</l>
+                           <l>  Qui se font adorer en cent climats divers,</l>
+                           <l>  Et rendent nos Cesars Maistres de l'Univers.</l>
+                           <l>  Nous ne sçaurions faillir en suivant leurs exemples;</l>
+                           <l>  Comme dans leurs Palais suivons-les dans les Temples,</l>
+                           <l>  Et puis que le destin nous a faits leurs sujets,</l>
+                           <l>  N'ayons pas en nos voeux de differents objets.</l>
+                           <l>  Mais changeons de discours: Anthenor qui s'advance,</l>
+                           <l>  Ne prendroit pas plaisir à cette conference:</l>
+                           <l>  Sans doute que blessé d'un mesme traict que vous,</l>
+                           <l>  Il me vient assaillir, &amp; seconder vos coups.</l>
+                        </lg>
+                     </div>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>SCENE III.</label>
+                  </head>
+                  <p rend="justify">Anthenor. Genest. Luciane.</p>
+                  <div type="div4">
+                     <head>ANTHENOR.</head>
+                     <p rend="justify">Hé bien, s'est-il rendu ce rebelle courage?</p>
+                     <div type="div5">
+                        <head>LUCIANE.</head>
+                        <lg>
+                           <l>  Aussi peu qu'un Rocher qui battu de l'orage</l>
+                           <l>  Mesprise les assauts, &amp; de l'onde &amp; du vent,</l>
+                           <l>  Et paroit à nos yeux plus ferme que devant.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <lg>
+                           <l>  Cette comparaison n'est pas mal assortie,</l>
+                           <l>  Mon coeur &amp; le Rocher ont de la sympathie,</l>
+                           <l>  Car si l'un par les vents ne se peut esmouvoir,</l>
+                           <l>  Les souspirs ont sur l'autre aussi peu de pouvoir.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ANTHENOR.</head>
+                        <lg>
+                           <l>  Ha, mon fils! si ce coeur te permets de connoistre</l>
+                           <l>  Que celuy qui te parle est l'autheur de ton estre,</l>
+                           <l>  Fust-il cent fois plus ferme, &amp; plus dur qu'un Rocher,</l>
+                           <l>  Cette obligation a droit de le toucher.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <lg>
+                           <l>  Ouy, je vous dois le jour, je vous dois ma naissance,</l>
+                           <l>  Et ce corps pour ce droict vous doit obeissance:</l>
+                           <l>  Mais l'esprit qui m'anime, &amp; que je tiens des Cieux</l>
+                           <l>  Est un noble tribut que je ne dois qu'aux Dieux.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ANTHENOR.</head>
+                        <p rend="justify">Mais à ce Dieu puissant…</p>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <lg>
+                           <l>                             Qui n'est qu'une chimere</l>
+                           <l>  Qu'autrefois vous blasmiez.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ANTHENOR.</head>
+                        <p rend="justify">Qu'à present je revere.</p>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <p rend="justify">Dites plutost un Dieu que vous avez resvé.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ANTHENOR.</head>
+                        <lg>
+                           <l>  Un Dieu par qui tout vit, &amp; tout est conservé,</l>
+                           <l>  Et qui pour te donner une immortelle vie</l>
+                           <l>  Voulut bien qu'icy bas elle luy fust ravie.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <lg>
+                           <l>  Pour moy? je desadvoue un si puissant effort,</l>
+                           <l>  Et ne tiens pas ma vie un effet de sa mort.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ANTHENOR.</head>
+                        <p rend="justify">Horrible impieté! detestable blasphéme!</p>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <p rend="justify">Mais qu'on peut effacer avec l'eau du Baptéme.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ANTHENOR.</head>
+                        <p rend="justify">Ouy, mon fils, vien m'y suivre.</p>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <p rend="justify">Ha! ne me pressez pas.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ANTHENOR.</head>
+                        <p rend="justify">Quoy d'un si beau sentier tu retires tes pas?</p>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <lg>
+                           <l>  Ouy, je m'en veux tirer comme d'un precipice,</l>
+                           <l>  Où vous avez dessein qu'avec vous je perisse.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ANTHENOR.</head>
+                        <p rend="justify">Mais plutost où je veux te sauver avec moy.</p>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <p rend="justify">Ayez soing de vous seul, &amp; me laissez.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ANTHENOR.</head>
+                        <p rend="justify">Pourquoy?</p>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <lg>
+                           <l>  Parce qu'importuné de vos contes frivoles</l>
+                           <l>  Je me lasse d'ouyr tant de vaines paroles.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ANTHENOR.</head>
+                        <lg>
+                           <l>  Hé bien, puis que ma voix ne te peut esmouvoir,</l>
+                           <l>  Cessant de m'escouter, cesse aussi de me voir:</l>
+                           <l>  Va, Monstre, je suivray la loy que tu me donnes,</l>
+                           <l>  Et t'abandonneray comme tu m'abandonnes.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>LUCIANE.</head>
+                        <p rend="justify">Mon frere!</p>
+                     </div>
+                     <div type="div5">
+                        <head>ANTHENOR.</head>
+                        <lg>
+                           <l>             Laissez-là cet objet odieux</l>
+                           <l>  Implorer à loisir le secours de ses dieux:</l>
+                           <l>  Ils vont en un haut poinct eslever sa fortune,</l>
+                           <l>  Et vostre affection le choque, &amp; l'importune.</l>
+                        </lg>
+                     </div>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>SCENE IV.</label>
+                  </head>
+                  <p rend="justify">Genest. Pamphilie. Aristide.</p>
+                  <div type="div4">
+                     <head>GENEST.</head>
+                     <lg>
+                        <l>  Cet orage, Anthenor, touche peu mes esprits,</l>
+                        <l>  Comme je l'attendois il ne m'a pas surpris,</l>
+                        <l>  Et depuis quelque temps j'ay bien pû me resoudre</l>
+                        <l>  En ayant veu l'esclair, d'ouyr gronder la foudre.</l>
+                        <l>  Mais ainsi que l'esclat du celeste flambeau</l>
+                        <l>  Qu'on voit apres l'orage &amp; plus clair, &amp; plus beau,</l>
+                        <l>  Les divines clartez des yeux de Pamphilie</l>
+                        <l>  Viennent chasser l'horreur de ma melancholie,</l>
+                        <l>  Et par les doux regards de ces astres d'amour</l>
+                        <l>  Dans mon adversité me rendre un plus beau jour.</l>
+                        <l>  Exemple merveilleux d'une rare constance,</l>
+                        <l>  Cher objet de mes voeux, &amp; de mon esperance,</l>
+                        <l>  C'est de vous seule enfin qui gouvernez mon sort</l>
+                        <l>  Que j'attends desormais ou ma vie ou ma mort.</l>
+                        <l>  Tout me trahit, Madame, &amp; tout me persecute,</l>
+                        <l>  Aux plus grands des malheurs le ciel m'a mis en butte,</l>
+                        <l>  Et leurs traits toutesfois me sembleroient bien doux</l>
+                        <l>  S'ils me laissoient l'honneur d'estre estimé de vous.</l>
+                        <l>  Cet espoir tient encor ma fortune en balance,</l>
+                        <l>  Luy seul est le secours qui reste en ma deffence,</l>
+                        <l>  Et comme vostre coeur est grand &amp; genereux,</l>
+                        <l>  Je n'oze pas encor me dire malheureux.</l>
+                     </lg>
+                     <div type="div5">
+                        <head>PAMPHILIE.</head>
+                        <lg>
+                           <l>  Quel est vostre malheur, &amp; quelle est cette crainte?</l>
+                           <l>  Desja sans les sçavoir j'en partage l'atteinte,</l>
+                           <l>  Et mon amour est tel que vous luy feriez tort</l>
+                           <l>  De le croire sujet aux caprices du sort.</l>
+                           <l>  Vos rares qualitez, vos voeux, &amp; vostre flame</l>
+                           <l>  L'ont depuis trop long-temps imprimé dans mon ame,</l>
+                           <l>  Et malgré vos soupçons je vous puis asseurer,</l>
+                           <l>  Qu'il n'est point de malheur qui le puisse alterer.</l>
+                           <l>  Mais enfin dictes nous quelle est vostre infortune?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <lg>
+                           <l>  C'est une passion à mes veux importune,</l>
+                           <l>  Un zele sans raison, un desir dereglé,</l>
+                           <l>  Et le pouvoir enfin d'un esprit aveuglé.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PAMPHILIE.</head>
+                        <lg>
+                           <l>  Un pere asseurement vous veut porter au change?</l>
+                           <l>  Et que soubs d'autres loix l'inconstance vous range?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <lg>
+                           <l>  Il le veut, Pamphilie, il le veut: mais apprends</l>
+                           <l>  Que d'injustes desirs me sont indifferends,</l>
+                           <l>  Et qu'avant que mon coeur consente à cette envie,</l>
+                           <l>  Mon amour à tes pieds immolera ma vie.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PAMPHILIE.</head>
+                        <lg>
+                           <l>  Je ne souhaitte pas un si funeste effet,</l>
+                           <l>  Et peut estre son choix est-il assez parfait</l>
+                           <l>  Pour porter son esprit à ces douces contraintes</l>
+                           <l>  Qui causent vos transports, &amp; peut estre vos feintes.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <lg>
+                           <l>  Ha! de tous les malheurs dont je ressens les coups,</l>
+                           <l>  Voila le plus sensible, &amp; plus rude de tous!</l>
+                           <l>  Quoy? quand tout m'est fatal, lors que tout m'abandonne,</l>
+                           <l>  Pamphilie elle mesme aujourd'huy me soupçonne?</l>
+                           <l>  Non non, Madame, non, ne me soupçonnez pas,</l>
+                           <l>  D'avoir voulu trahir mes voeux, ny vos appas;</l>
+                           <l>  Ce change malheureux que mon pere m'ordonne,</l>
+                           <l>  Regarde nos autels, &amp; non vostre personne;</l>
+                           <l>  Il ne m'empesche pas que j'adore vos yeux,</l>
+                           <l>  Mais il veut pour le sien que je quitte nos Dieux,</l>
+                           <l>  Et que suivant l'abus de son erreur extréme,</l>
+                           <l>  Contre mes sentimens je le suive au baptéme.</l>
+                           <l>  Mais plutot que je change ou d'amour, ou de loy,</l>
+                           <l>  Plutost que je viole ou mes voeux, ou ma foy,</l>
+                           <l>  Que ces puissantes mains qui gouvernent la foudre,</l>
+                           <l>  D'un rouge traict de feu me reduisent en poudre.</l>
+                           <l>  Puissé-je estre des Dieux, &amp; des hommes l'horreur,</l>
+                           <l>  De tous les elemens esprouver la fureur,</l>
+                           <l>  Et si jusqu'à ce point mon jugement s'oublie,</l>
+                           <l>  Que je sois à jamais hay de Pamphilie.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ARISTIDE.</head>
+                        <lg>
+                           <l>  Quoy, c'est là le sujet qui te trouble si fort?</l>
+                           <l>  C'est là l'occasion qui cause ton transport?</l>
+                           <l>  Et l'importunité d'une soeur, &amp; d'un Pere,</l>
+                           <l>  Est le mal qui t'afflige, &amp; qui te desespere?</l>
+                           <l>  Tesmoigne, cher Amy, tesmoigne plus de coeur,</l>
+                           <l>  Mesprise leurs discours, &amp; brave leur rigueur;</l>
+                           <l>  C'est dedans les malheurs, &amp; les plus grands orages,</l>
+                           <l>  Que se font admirer les plus fermes courages.</l>
+                           <l>  Laisse, laisse esclatter ce foudre, &amp; ces esclairs,</l>
+                           <l>  Dont les traits impuissans ne frapent que les airs,</l>
+                           <l>  Les Dieux interessez en ces vaines menaces,</l>
+                           <l>  Arresteront bientot le cours de tes disgraces,</l>
+                           <l>  Et quand mesme le sort les voudroit achever,</l>
+                           <l>  Il ne t'abaisseroit que pour te relever,</l>
+                           <l>  Que pour rendre dans peu ton ame plus contente,</l>
+                           <l>  Ta fortune plus haute, &amp; bien plus esclattante,</l>
+                           <l>  Et te faire advouer qu'il ne t'est rigoureux,</l>
+                           <l>  Que pour te faire un jour plus grand, &amp; plus heureux.</l>
+                           <l>  Tous les jours le Soleil sort d'une couche noire,</l>
+                           <l>  Et la honte est souvent un chemin à la gloire.</l>
+                           <l>  Il est vray que chocquant un injuste pouvoir,</l>
+                           <l>  Tu peux perdre tes biens, mais non pas ton espoir,</l>
+                           <l>  Puis que des immortels la haute providence</l>
+                           <l>  Peut donner à ta perte une ample recompence,</l>
+                           <l>  Et te faire trouver loing d'un pere irrité</l>
+                           <l>  Les fruicts de ton courage, &amp; de ta pieté.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <lg>
+                           <l>  Aristide croy moy; le soin de ma fortune,</l>
+                           <l>  N'est point dans mes malheurs ce qui plus m'importune,</l>
+                           <l>  Puis que comme tu dis, je puis trouver ailleurs,</l>
+                           <l>  Et de plus doux espoirs, &amp; des destins meilleurs.</l>
+                           <l>  Mais comment penses tu que l'amour qui me lie,</l>
+                           <l>  Me permette jamais de quitter Pamphilie?</l>
+                           <l>  Peux tu t'imaginer qu'il soit en mon pouvoir,</l>
+                           <l>  L'aymant infiniment de vivre sans la voir?</l>
+                           <l>  Non, non, loing des attraits de ses graces divines,</l>
+                           <l>  Les plus aymables fleurs me seroient des espines,</l>
+                           <l>  Je hayrois un trosne, &amp; des sceptres offerts</l>
+                           <l>  Me plairoient beaucoup moins que l'honneur de mes fers.</l>
+                           <l>  Mais si la cruauté d'un pere inexorable,</l>
+                           <l>  A moy mesme aujourd'huy me rend mesconnoissable,</l>
+                           <l>  S'il faut que je demeure en ce funeste Estat,</l>
+                           <l>  Qui m'oste mes Amis, mes biens, &amp; mon esclat,</l>
+                           <l>  (Pardonnez ce discours à ma melancholie,)</l>
+                           <l>  Que deviendront nos feux aymable Pamphilie?</l>
+                           <l>  Je sçay que vostre coeur est grand, &amp; genereux,</l>
+                           <l>  Mais quoy, vous estes femme, &amp; je suis malheureux.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PAMPHILIE.</head>
+                        <lg>
+                           <l>  Il est vray, je suis femme, &amp; je le tiens à gloire,</l>
+                           <l>  Puis qu'aujourd'huy ce nom releve ma victoire,</l>
+                           <l>  Et faict voir en mon sexe un esprit assez fort,</l>
+                           <l>  Pour vaincre mieux que vous les malices du sort,</l>
+                           <l>  Je ne rediray point icy que je vous ayme,</l>
+                           <l>  Qu'ainsi que vos vertus mon amour est extréme,</l>
+                           <l>  Mes yeux &amp; mes souspirs vous l'ont dit mille fois,</l>
+                           <l>  Et vous l'ont exprimé beaucoup mieux que ma voix:</l>
+                           <l>  Mais de quelques rigueurs dont le sort vous accable,</l>
+                           <l>  Fussiez vous en un point encor plus deplorable,</l>
+                           <l>  Je vous puis asseurer que ma fidelité</l>
+                           <l>  Sera jusqu'au tombeau sans inegalité.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <lg>
+                           <l>  He! bien, je croiray donc dans le mal qui m'afflige,</l>
+                           <l>  Que la nature en vous aura faict un prodige,</l>
+                           <l>  Et qu'en vous faisant naistre elle aura mis au jour,</l>
+                           <l>  Un miracle parfaict de constance, &amp; d'amour,</l>
+                           <l>  Bien qu'en cette bonté dont mon ame se flatte,</l>
+                           <l>  Vostre adresse plutot que mon bon heur esclatte,</l>
+                           <l>  Je veux bien toutesfois pour calmer ma fureur,</l>
+                           <l>  Decevoir mon esprit d'une si douce erreur.</l>
+                           <l>  Ouy, Madame, je veux que mon ame soit vaine,</l>
+                           <l>  Jusqu'à vous croire atteinte, &amp; sensible à ma peine,</l>
+                           <l>  Et me persuader qu'un feu si bien espris,</l>
+                           <l>  Au delà de vos jours touchera vos esprits;</l>
+                           <l>  Mais encor qu'à ce point vous soyez genereuse,</l>
+                           <l>  Pouray-je consentir à vous voir malheureuse,</l>
+                           <l>  Et que tacitement il vous soit imputé:</l>
+                           <l>  Que sans moy vous seriez dans la prosperité?</l>
+                           <l>  Ha! Madame? souffrez qu'en ce desordre extréme,</l>
+                           <l>  Ma raison une fois parle contre moy-mesme,</l>
+                           <l>  Et qu'agissant pour vous, elle monstre en ce jour,</l>
+                           <l>  Par un estrange effect un veritable amour.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ARISTIDE.</head>
+                        <lg>
+                           <l>  Ta flame, cher Amy, nous est assez connue:</l>
+                           <l>  Je voids en tes discours ton ame toute nue,</l>
+                           <l>  Et parmy l'embaras de tant de passions</l>
+                           <l>  Je descouvre aisément tes inclinations.</l>
+                           <l>  Je sçay bien que ton coeur &amp; constant &amp; fidele,</l>
+                           <l>  Pour l'objet qu'il adore a tousjours mesme zele,</l>
+                           <l>  Et que tu trouverois un Empire importun,</l>
+                           <l>  Si ce rare bonheur ne nous estoit commun,</l>
+                           <l>  Mais je sçay bien aussi que ton noble courage,</l>
+                           <l>  A peine à consentir qu'il ayt quelque advantage,</l>
+                           <l>  Et ces deux mouvemens succedans tour à tour,</l>
+                           <l>  Font combattre ta gloire avecque ton amour.</l>
+                           <l>  Mais veux tu t'affranchir de cette incertitude,</l>
+                           <l>  Qui nourit tes transports, &amp; ton inquietude:</l>
+                           <l>  Escoute les conseils que je te veux donner:</l>
+                           <l>  Tu nous dis qu'Anthenor te veut abandonner,</l>
+                           <l>  Et te priver à tort des droits de ton partage,</l>
+                           <l>  Si tu ne suis l'erreur où son ame s'engage,</l>
+                           <l>  Dy luy pour parvenir au but où tu pretens:</l>
+                           <l>  Que tu rendras ses voeux, &amp; ses desirs contens;</l>
+                           <l>  Et feints pour cét effect par un beau stratagéme,</l>
+                           <l>  Que tu veux comme luy recevoir le baptéme.</l>
+                           <l>  Suivant l'opinion de leur bizare loy,</l>
+                           <l>  Leurs mysteres sont vains quand on manque de foy;</l>
+                           <l>  De sorte qu'en ton coeur mesprisant leurs manies,</l>
+                           <l>  Tu n'auras observé que des ceremonies,</l>
+                           <l>  Qui n'ayans pas rendu le baptéme parfait:</l>
+                           <l>  N'auront produit en toy qu'un ridicule effect.</l>
+                           <l>  Acquiers toy de vrays biens avec de faux hommages:</l>
+                           <l>  Un peu d'eau, Cher Amy, calme de grands orages;</l>
+                           <l>  Fay que celle qui nuit à tous ses partizans,</l>
+                           <l>  Pour toy seule aujourd'hui produise des presens,</l>
+                           <l>  Et se rende pareille apres ton entreprise,</l>
+                           <l>  A la pluye envoyée à la fille d'Acrise.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <p rend="justify">L'effect de ce conseil offenceroit les Dieux.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ARISTIDE.</head>
+                        <lg>
+                           <l>  L'effect de ce conseil leur sera glorieux,</l>
+                           <l>  Puis qu'à l'aversion de cette loy nouvelle,</l>
+                           <l>  Tu joindras les mespris que ton coeur a pour elle,</l>
+                           <l>  Reservant à l'honneur de nos sacrez autels:</l>
+                           <l>  Une ame toute pure, &amp; des voeux immortels.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <p rend="justify">À quoy me resoudray-je, aymable Pamphilie?</p>
+                     </div>
+                     <div type="div5">
+                        <head>PAMPHILIE.</head>
+                        <p rend="justify">Je crains.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ARISTIDE.</head>
+                        <p rend="justify">Que craignez vous?</p>
+                     </div>
+                     <div type="div5">
+                        <head>PAMPHILIE.</head>
+                        <p rend="justify">Tout.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ARISTIDE.</head>
+                        <lg>
+                           <l>                                      Dieux! quelle folie?</l>
+                           <l>  Vous craignez, dites vous, Quoy? que deux gouttes d'eau</l>
+                           <l>  De son ardente amour esteignent le flambeau?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PAMPHILIE.</head>
+                        <lg>
+                           <l>  Non, mais que cette erreur à la fin ne luy plaise,</l>
+                           <l>  Et qu'elle n'ayt pour nous une suitte mauvaise.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <p rend="justify">Ha! ne me croyez pas d'un esprit si peu sain.</p>
+                     </div>
+                     <div type="div5">
+                        <head>PAMPHILIE.</head>
+                        <p rend="justify">Vous pouvez donc agir, &amp; suivre ce dessein.</p>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <p rend="justify">Il faut adroitement conduire ceste affaire.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ARISTIDE.</head>
+                        <lg>
+                           <l>  Laissez m'en le soucy, je verray vostre Pere,</l>
+                           <l>  Et je sçauray si bien mesnager ses esprits,</l>
+                           <l>  Qu'aveuglé de l'appas du dessein entrepris,</l>
+                           <l>  Il ne pourra jamais à travers mon adresse,</l>
+                           <l>  Se douter seulement du piege qu'on luy dresse;</l>
+                           <l>  Cependant finissant de si longs entretiens</l>
+                           <l>  Allez tous deux m'attendre au Temple des Chrestiens.</l>
+                        </lg>
+                        <p rend="justify">
+                           <hi rend="italic">Fin du second Acte.</hi>
+                        </p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>ACTE TROISIEME.</head>
+               <div type="div3">
+                  <head>SCENE PREMIERE.</head>
+                  <p rend="justify">Diocletian. Aquillin. Rutile.</p>
+                  <div type="div4">
+                     <head>DIOCLETIAN.</head>
+                     <lg>
+                        <l>  Rutile, je l'advoue, ils sont incomparables,</l>
+                        <l>  Et tous en leurs projets me semblent admirables;</l>
+                        <l>  Que l'accord de leurs voix, &amp; de leurs actions,</l>
+                        <l>  Exprime adroittement toutes leurs passions!</l>
+                        <l>  Qu'ils se sçavent bien plaindre, ou feindre une colere!</l>
+                        <l>  Que l'amour en leur bouche est capable de plaire!</l>
+                        <l>  Et que leur industrie a de grace &amp; d'appas</l>
+                        <l>  À dépeindre un tourment qu'ils ne ressentent pas!</l>
+                        <l>  N'as tu point remarqué ce qu'a dit Luciane</l>
+                        <l>  En faveur des Chrestiens &amp; de leur loy prophane?</l>
+                        <l>  Elle en a soustenu l'erreur avec tant d'art,</l>
+                        <l>  Que j'ay creû quelque temps qu'elle parloit sans fard,</l>
+                        <l>  Et que le trait dont lors elle sembloit atteinte,</l>
+                        <l>  Estoit un pur effect, &amp; non pas une feinte.</l>
+                     </lg>
+                     <div type="div5">
+                        <head>RUTILE.</head>
+                        <lg>
+                           <l>  Il est vrai, mais, Seigneur, n'as-tu pas entendu,</l>
+                           <l>  Ce que Genest a dit quand il s'est deffendu?</l>
+                           <l>  Avec combien d'esprit, d'adresse, &amp; de courage,</l>
+                           <l>  Il a de nos autels conservé l'advantage?</l>
+                           <l>  Et par quel art enfin, &amp; quelle invention,</l>
+                           <l>  Il se porte au mespris de leur religion?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>DIOCLETIAN.</head>
+                        <p rend="justify">Ouy, sa subtilité n'eût jamais de pareilles.</p>
+                     </div>
+                     <div type="div5">
+                        <head>AQUILLIN.</head>
+                        <lg>
+                           <l>  Attends un peu, Seigneur, tu verras des merveilles</l>
+                           <l>  Qui raviront tes sens avecque tant d'appas,</l>
+                           <l>  Que mesme en les voyant tu ne le croiras pas.</l>
+                        </lg>
+                     </div>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>SCENE II.</label>
+                  </head>
+                  <lg>
+                     <l>  Diocletian. Aquillin. Rutile, &amp; suitte. Genest. Pamphilie.</l>
+                     <l>  Aristide. Luciane. Anthenor.</l>
+                  </lg>
+                  <div type="div4">
+                     <head>GENEST.</head>
+                     <lg>
+                        <l>  Où suis-je? Qu'ay-je veu? Quelle divine flame,</l>
+                        <l>  Vient d'esblouïr mes yeux, &amp; d'esclairer mon ame?</l>
+                        <l>  Quel rayon de lumiere espurant mes esprits,</l>
+                        <l>  A dissippé l'erreur qui les avoit surpris?</l>
+                        <l>  Je croy, je suis Chrestien; &amp; cette grace extréme,</l>
+                        <l>  Dont je sens les effects est celle du Baptéme.</l>
+                     </lg>
+                     <div type="div5">
+                        <head>PAMPHILIE.</head>
+                        <p rend="justify">Chrestien? Qui vous l'a faict?</p>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <p rend="justify">Je le suis.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ARISTIDE.</head>
+                        <p rend="justify">Resvez vous?</p>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <p rend="justify">Un Ange m'a faict tel.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ANTHENOR.</head>
+                        <p rend="justify">Devant qui?</p>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <p rend="justify">Devant tous.</p>
+                     </div>
+                     <div type="div5">
+                        <head>LUCIANE.</head>
+                        <p rend="justify">Personne toutesfois n'a veu cette adventure.</p>
+                        <p rend="justify">RUTILE, <hi rend="italic">à l'Empereur</hi>.</p>
+                        <p rend="justify">Il leur va debiter quelque estrange imposture.</p>
+                     </div>
+                     <div type="div5">
+                        <head>AQUILLIN.</head>
+                        <p rend="justify">Qu'il feint bien!</p>
+                     </div>
+                     <div type="div5">
+                        <head>DIOCLETIAN.</head>
+                        <lg>
+                           <l>                    Il est vray qu'on ne peut feindre mieux,</l>
+                           <l>  Et qu'il charme l'oreille aussi bien que les yeux.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <lg>
+                           <l>  Quoy, vous n'avez pas veu cette clarté brillante,</l>
+                           <l>  Dont l'effect merveilleux surpassant mon attente,</l>
+                           <l>  Avecque tant d'eclat a paru dans ce lieu</l>
+                           <l>  Alors qu'il a reçeu le ministre d'un Dieu.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ARISTIDE.</head>
+                        <p rend="justify">Quel Ministre? Quel Dieu? Tu nous contes des fables.</p>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <lg>
+                           <l>  Non, Amys, je vous dis des choses veritables,</l>
+                           <l>  Nagueres quand icy j'ay paru devant vous:</l>
+                           <l>  Les yeux levez au Ciel, teste nue, à genoux,</l>
+                           <l>  Je voyois, ô merveille à peine concevable!</l>
+                           <l>  À travers ce lambris un prodige admirable,</l>
+                           <l>  Un Ange mille fois plus beau que le Soleil,</l>
+                           <l>  Et qui me promettant un bonheur sans pareil,</l>
+                           <l>  M'a dit qu'il ne venoit, si je le voulois croire,</l>
+                           <l>  Que pour me revestir des rayons de sa gloire.</l>
+                           <l>  Lors tous mes sens ravis d'un espoir si charmant:</l>
+                           <l>  Ont porté mon esprit à ce consentement,</l>
+                           <l>  Qui remplissant mon coeur d'une joye infinie</l>
+                           <l>  A fait voir à mes yeux cette ceremonie,</l>
+                           <l>  L'Ange, dont la presence estonnoit mon esprit,</l>
+                           <l>  En l'une de ses mains tenoit un livre escrit,</l>
+                           <l>  Où la bonté du Ciel secondant mon envie,</l>
+                           <l>  Je lisois aisément les crimes de ma vie,</l>
+                           <l>  Mais avec un peu d'eau que l'autre main versoit,</l>
+                           <l>  Je voyoit aussi-tost que l'escrit s'effaçoit,</l>
+                           <l>  Et que par un effect qui passe la nature,</l>
+                           <l>  Mon coeur estoit plus calme, &amp; mon ame plus pure.</l>
+                           <l>  Voila ce que j'ay veu, voila ce que je sens,</l>
+                           <l>  Et qui produit en moy des transports si puissans.</l>
+                           <l>  Loing de moy desormais estres imaginaires,</l>
+                           <l>  Fleaux des foibles esprits, &amp; des Ames vulgaires,</l>
+                           <l>  Faux Dieux, ce n'est plus vous aujourd'huy que je crains,</l>
+                           <l>  Ny ce foudre impuissant que l'on peint en vos mains:</l>
+                           <l>  Je ne vous connois plus, allez, je vous deteste,</l>
+                           <l>  Et mon coeur embrazé d'une flame celeste,</l>
+                           <l>  Adore un Dieu vivant dont l'extréme pouvoir,</l>
+                           <l>  Se faict craindre par tout, &amp; par tout se faict voir.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>DIOCLETIAN.</head>
+                        <lg>
+                           <l>  Cette feinte, Aquillin commence à me desplaire,</l>
+                           <l>  Qu'on cesse.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <lg>
+                           <l>               Il n'est pas temps, ô Cesar! de me taire;</l>
+                           <l>  Ce Seigneur des Seigneurs, &amp; ce grand Roy des Roys,</l>
+                           <l>  De qui tout l'univers doit reverer les loix,</l>
+                           <l>  Soubs qui l'Enfer fremit, &amp; que le Ciel adore,</l>
+                           <l>  Veut que je continue, &amp; que je parle encore,</l>
+                           <l>  Sçache donc, Empereur, que ce Dieu souverain</l>
+                           <l>  De qui j'ay ressenty la puissance, &amp; la main,</l>
+                           <l>  Lors que je me pensois rire de ses oracles,</l>
+                           <l>  Vient d'operer en moy le plus grand des miracles,</l>
+                           <l>  Changeant un idolatre en son adorateur,</l>
+                           <l>  Et faisant un sujet de son persecuteur.</l>
+                           <l>  Ne pensant divertir, ô prodiges estranges!</l>
+                           <l>  Que de simples mortels, j'ay resjouy des Anges,</l>
+                           <l>  Et dedans le dessein de complaire à tes yeux,</l>
+                           <l>  J'ay pleû sans y penser à l'Empereur des Cieux.</l>
+                           <l>  Il est vray que privé de ses graces extrémes,</l>
+                           <l>  J'ay tantost contre luy vomy mille blasphémes,</l>
+                           <l>  Mais dans ces faux discours que ma langue estaloit,</l>
+                           <l>  Ce n'estoit que l'Enfer, &amp; non moy qui parloit,</l>
+                           <l>  Ce commun Ennemy de tout ce qui respire,</l>
+                           <l>  Qui par le crime seul establit son Empire:</l>
+                           <l>  Ayant trompé mes sens, &amp; seduit ma raison,</l>
+                           <l>  M'avoit mis dans le coeur ce dangereux poison:</l>
+                           <l>  Mais enfin de mon Dieu les bontez infinies,</l>
+                           <l>  Ont toutes ces horreurs de mon Ame bannies,</l>
+                           <l>  Et je veux, ô Cesar! qu'on sçache à l'advenir,</l>
+                           <l>  Que je n'ay plus de voix qu'affin de le benir,</l>
+                           <l>  Qu'affin de publier aux deux bouts de la terre,</l>
+                           <l>  Qu'il est seul souverain, seul maistre du tonnerre,</l>
+                           <l>  Des cieux, des elemens, des Anges, des mortels,</l>
+                           <l>  Et digne seul enfin, &amp; d'encens, &amp; d'autels.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>DIOCLETIAN.</head>
+                        <lg>
+                           <l>  Il a perdu le sens, &amp; son ame troublée,</l>
+                           <l>  Rend comme son esprit sa langue dereglée.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <lg>
+                           <l>  Non, non, mon jugement ne fut jamais plus sain</l>
+                           <l>  Qu'alors qu'il a chocqué tes Dieux, &amp; ton dessein,</l>
+                           <l>  Et si je l'ay perdu, c'est lors que mes paroles</l>
+                           <l>  D'un accent criminel ont flatté tes idoles.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>DIOCLETIAN.</head>
+                        <lg>
+                           <l>  Ha! ne m'irrite pas, insolent, c'est assez.</l>
+                           <l>  Ou l'on te traittera comme les insensez.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <lg>
+                           <l>  Ce traittement n'est pas celuy que je souhaitte,</l>
+                           <l>  Car on me traitteroit ainsi que l'on te traitte.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>DIOCLETIAN.</head>
+                        <p rend="justify">On me traitte en Cesar, en Empereur Romain.</p>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <lg>
+                           <l>  On te traitte en esclave, &amp; non en souverain,</l>
+                           <l>  Puis que loing d'escouter cette bonté supréme,</l>
+                           <l>  Ce Dieu de qui les Roys tiennent leur diadéme,</l>
+                           <l>  Souvent tu rens hommage au gré d'un courtizan,</l>
+                           <l>  À l'ouvrage imparfaict d'un chetif Artizan,</l>
+                           <l>  Qui suivant son caprice, ou celuy de ces traistres,</l>
+                           <l>  Te compose des Dieux, &amp; te donne des Maistres.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>DIOCLETIAN.</head>
+                        <lg>
+                           <l>  Voyez l'audacieux! il croit possible encor,</l>
+                           <l>  Faire sur un Theatre ou l'Achile, ou l'Hector.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <lg>
+                           <l>  Non, non, par ma raison mon ame mieux guidée,</l>
+                           <l>  Ne souffre plus en elle une si vaine Idée,</l>
+                           <l>  Je me connois, Cesar, je sçais ce que je suis.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>DIOCLETIAN.</head>
+                        <p rend="justify">Mais sçais-tu bien aussi, traistre, ce que je puis?</p>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <lg>
+                           <l>  Ouy, ton pouvoir n'est pas un effect que j'ignore,</l>
+                           <l>  Je sçay que l'on te craint, &amp; que Rome t'adore,</l>
+                           <l>  Mais je sçay bien aussi ce qu'un Dieu me prescrit:</l>
+                           <l>  Tu peux tout sur mon corps, &amp; rien sur mon esprit.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>DIOCLETIAN.</head>
+                        <p rend="justify">Nous allons esprouver cette haute constance.</p>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <lg>
+                           <l>  Tu peux dés à present en faire experience.</l>
+                           <l>  Commande à tes boureaux qu'ils m'accablent de fers.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>DIOCLETIAN.</head>
+                        <lg>
+                           <l>  Perfide, ils t'apprendront le respect que tu pers,</l>
+                           <l>  Si tu ne te resous à changer de langage.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <p rend="justify">On ne change jamais quand on a du courage.</p>
+                     </div>
+                     <div type="div5">
+                        <head>DIOCLETIAN.</head>
+                        <p rend="justify">Si faut-il toutesfois ou changer ou perir.</p>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <lg>
+                           <l>  He! bien me voila prest, Tyran, allons mourir.</l>
+                           <l>  Apportez, apportez ces bienheureuses chaines,</l>
+                           <l>  Instrumens de ma gloire ainsi que de mes peines,</l>
+                        </lg>
+                        <p rend="justify">
+                           <hi rend="italic">Luy rejettant son Escharpe.</hi>
+                        </p>
+                        <lg>
+                           <l>  Et reprends desormais ces liens odieux,</l>
+                           <l>  Qui me rendoient naguere esclave de tes Dieux.</l>
+                           <l>  Que ceux qui n'ont pas veu les divines merveilles,</l>
+                           <l>  Qui viennent de ravir mes yeux &amp; mes oreilles,</l>
+                           <l>  De tes vaines grandeurs se rendent partizans,</l>
+                           <l>  Et d'un oeil envieux regardent tes presens.</l>
+                           <l>  Pour moy qui viens de voir de plus illustres marques,</l>
+                           <l>  Du pouvoir de celuy qui commande aux Monarques,</l>
+                           <l>  Je n'ay plus de desirs qui soient si criminels;</l>
+                           <l>  Tes dons sont passagers, les siens sont eternels,</l>
+                           <l>  Ses faveurs sont d'un Dieu, tes caresses d'un homme;</l>
+                           <l>  Et les honneurs du Ciel valent bien ceux de Rome.</l>
+                           <l>  Parle donc, Empereur, &amp; haste mes tourmens;</l>
+                           <l>  Tu differes ma gloire, &amp; mes contentemens,</l>
+                           <l>  Fay souffrir à mon corps les peines les plus dures,</l>
+                           <l>  Irrite tes boureaux, invente des tortures,</l>
+                           <l>  Et par un sentiment qui ne t'est pas nouveau</l>
+                           <l>  Qu'un deluge de sang te venge d'un peu d'eau,</l>
+                           <l>  Dont le divin effect m'a donné tant de graces,</l>
+                           <l>  Qu'à tes yeux aujourd'huy je brave tes menaces.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>DIOCLETIAN.</head>
+                        <lg>
+                           <l>  Tu me braves, mutin, mais de ta trahison,</l>
+                           <l>  Et la flame, &amp; le fer me feront la raison!</l>
+                           <l>  Qu'on l'oste de mes yeux, soldats, que l'on l'entraine;</l>
+                           <l>  Faictes qu'en mesme temps on l'applique à la gesne,</l>
+                           <l>  Et qu'il ressente là de si vives douleurs,</l>
+                           <l>  Qu'il estime la mort moindre que ses malheurs.</l>
+                           <l>  Va les suivre, Rutile, &amp; voy s'il est possible,</l>
+                           <l>  De reprimer l'orgueil de ce coeur invincible:</l>
+                           <l>  Menace, flatte, prie, importune, promets,</l>
+                           <l>  Offre luy des tresors, ouy, je te le permets,</l>
+                           <l>  Des charges, des honneurs, &amp; tout ce qui dans Rome,</l>
+                           <l>  Peut le mieux assouvir l'esperance d'un homme.</l>
+                           <l>  S'il se veut reconnoistre, &amp; quitter son erreur,</l>
+                           <l>  Son remords peut encor desarmer ma fureur;</l>
+                           <l>  Mais s'il s'obstine plus à faire le rebelle:</l>
+                           <l>  Qu'on l'expose aux ardeurs d'une flame cruelle,</l>
+                           <l>  Qui sur son corps perfide agissant peu à peu,</l>
+                           <l>  Avec mille douleurs le brule à petit feu.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>RUTILE.</head>
+                        <p rend="justify">J'observeray cét ordre.</p>
+                     </div>
+                     <div type="div5">
+                        <head>DIOCLETIAN.</head>
+                        <p rend="justify">Allez.</p>
+                     </div>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>SCENE III.</label>
+                  </head>
+                  <p rend="justify">Diocletian. Aquillin. Anthenor. Pamphilie. Luciane. Aristide.</p>
+                  <div type="div4">
+                     <head>DIOCLETIAN.</head>
+                     <lg>
+                        <l>                                 Lasches complices!</l>
+                        <l>  C'est vous que je destine aux plus aspres suplices:</l>
+                        <l>  Vous l'avez suborné, vos propos l'ont seduit,</l>
+                        <l>  Mais de vos trahisons vous recevrez le fruit,</l>
+                        <l>  Ouy, je me vengeray d'un si sensible outrage,</l>
+                        <l>  Sans qu'on respecte en vous ny le sexe, ny l'âge,</l>
+                        <l>  Sans qu'aucune pitié flechisse mon couroux.</l>
+                        <l>  Aquillin.</l>
+                     </lg>
+                     <div type="div5">
+                        <head>LUCIANE.</head>
+                        <p rend="justify">Ha! Seigneur, j'embrasse tes genoux.</p>
+                     </div>
+                     <div type="div5">
+                        <head>DIOCLETIAN.</head>
+                        <p rend="justify">Importune.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ANTHENOR.</head>
+                        <p rend="justify">Cesar.</p>
+                     </div>
+                     <div type="div5">
+                        <head>DIOCLETIAN.</head>
+                        <lg>
+                           <l>                    C'est en vain que vos larmes,</l>
+                           <l>  À ma juste rigueur pensent oster les armes;</l>
+                           <l>  Apres m'avoir bravé dans mon propre Palais,</l>
+                           <l>  Quelle grace osez vous esperer desormais?</l>
+                           <l>  Auriez vous bien pensé qu'apres tant d'insolence</l>
+                           <l>  Il suffise aujourd'huy d'implorer ma clemence?</l>
+                           <l>  Non, non, des crimes tels ne sont jamais remis</l>
+                           <l>  Aussi facilement qu'ils ont esté commis,</l>
+                           <l>  Et vostre impunité feroit des temeraires</l>
+                           <l>  Si je ne vous donnois des chastimens severes,</l>
+                           <l>  Il faut donc…</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PAMPHILIE.</head>
+                        <lg>
+                           <l>                  Ha, Cesar! Quel extreme malheur</l>
+                           <l>  Nous peut rendre aujourd'huy suspects à ta grandeur?</l>
+                           <l>  Qu'avons-nous fait, Seigneur, qui chocque ta puissance?</l>
+                           <l>  Sommes-nous criminels par nostre obeïssance?</l>
+                           <l>  Tu nous as commandé, nous t'avons obey:</l>
+                           <l>  Suivre tes volontez est-ce t'avoir trahy?</l>
+                           <l>  Quel est donc le forfait qui nous rend si coupables?</l>
+                           <l>  De quelles trahisons nous penses-tu capables?</l>
+                           <l>  Nous n'avons point chocqué ny les Dieux ny l'Estat,</l>
+                           <l>  Et nostre seul malheur est tout nostre attentat.</l>
+                           <l>  Ce n'est pas que je veuille en parlant de la sorte</l>
+                           <l>  Arrester les effets du courroux qui t'emporte</l>
+                           <l>  Au deplorable poinct où m'a mise le sort,</l>
+                           <l>  Je ne me promets plus de calme ny de port,</l>
+                           <l>  Et je croirois avoir une trop lasche envie</l>
+                           <l>  Si ma voix te parloit en faveur de ma vie:</l>
+                           <l>  Non, n'attends point de moy des sentimens si bas;</l>
+                           <l>  Prononce si tu veux l'arrest de mon trespas,</l>
+                           <l>  Tu me verras mourir &amp; constante &amp; contente;</l>
+                           <l>  Mais espargne, ô Cesar, une troupe innocente,</l>
+                           <l>  Qui dans tous ses desseins a tousjours prudemment</l>
+                           <l>  Regardé son devoir, &amp; ton contentement.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>DIOCLETIAN.</head>
+                        <lg>
+                           <l>  Quoy donc, vostre devoir consiste à me desplaire?</l>
+                           <l>  À promettre une chose, &amp; tenir le contraire?</l>
+                           <l>  À venir suborner un sujet à mes yeux,</l>
+                           <l>  Et le forcer enfin d'abandonner nos Dieux?</l>
+                           <l>  Vous appellez peut estre une telle impudence</l>
+                           <l>  Un divertissement, un jeu plein d'innocence?</l>
+                           <l>  Mais croyez si ce traict se passe impunément</l>
+                           <l>  Que je suis sans memoire &amp; sans ressentiment:</l>
+                           <l>  Non, non, perfides, non; apres un tel outrage</l>
+                           <l>  Ne vous figurez pas que je sois sans courage;</l>
+                           <l>  Ainsi que vostre sort vostre crime vous joint,</l>
+                           <l>  Qu'un destin different ne vous separe point,</l>
+                           <l>  Vous avez mesme but &amp; mesme intelligence,</l>
+                           <l>  Et vous esprouverez une mesme vengeance.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ARISTIDE.</head>
+                        <lg>
+                           <l>  Cesar, au nom des Dieux, escoute moy parler,</l>
+                           <l>  Voy quels sont les objets que tu veux immoler;</l>
+                           <l>  Si ton juste courroux demande des victimes,</l>
+                           <l>  Prends garde pour le moins qu'elles soient legitimes,</l>
+                           <l>  Et qu'un injuste arrest aussi prompt que cruel,</l>
+                           <l>  Ne perde l'innocent avec le criminel.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>AQUILLIN.</head>
+                        <lg>
+                           <l>  Il est vray qu'on pouroit avec quelque apparence,</l>
+                           <l>  Mettre entre leurs forfaits beaucoup de difference,</l>
+                           <l>  Anthenor, &amp; sa fille…</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ANTHENOR.</head>
+                        <lg>
+                           <l>                          Invincible Empereur,</l>
+                           <l>  Permets qu'en quatre mots je te tire d'erreur,</l>
+                           <l>  Luciane, Seigneur, ne fut jamais ma fille,</l>
+                           <l>  Je n'eûs jamais d'enfans, je n'ay point de famille,</l>
+                           <l>  Et bien que nous ayons imité les Chrestiens,</l>
+                           <l>  Nous n'avons point pourtant d'autres Dieux que les tiens.</l>
+                           <l>  Tous ces noms supposez &amp; de fils, &amp; de pere,</l>
+                           <l>  Ses desirs simulez, &amp; sa feinte colere,</l>
+                           <l>  N'estoient que des effets que nous avoit prescrits,</l>
+                           <l>  Ce traistre dont le change estonne nos esprits.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>LUCIANE.</head>
+                        <lg>
+                           <l>  Non, Seigneur, si Genest contre nostre esperance,</l>
+                           <l>  A perdu le respect, &amp; changé de creance,</l>
+                           <l>  Luy seul a faict son crime, &amp; luy seul aujourd'huy,</l>
+                           <l>  En cette occasion doit respondre de luy,</l>
+                           <l>  Nous n'avons jamais pris de part en son audace,</l>
+                           <l>  Et nous n'en devons point avoir en sa disgrace,</l>
+                           <l>  Qu'il fasse l'insensé, l'insolent, le mutin,</l>
+                           <l>  Faut-il que son malheur change nostre destin?</l>
+                           <l>  Et devons nous icy passer pour ses complices,</l>
+                           <l>  Si nous n'avons jamais approuvé ses caprices?</l>
+                           <l>  Dez l'instant qu'il s'est mis du party des Chrestiens,</l>
+                           <l>  Nous avons separé nos interests des siens,</l>
+                           <l>  Et de ses passions nos ames desunies,</l>
+                           <l>  Ont plaint en mesme temps &amp; blamé ses manies,</l>
+                           <l>  Condamné son orgueil, detesté sa fureur,</l>
+                           <l>  Et veû son insolence avec beaucoup d'horreur.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>DIOCLETIAN.</head>
+                        <lg>
+                           <l>  De qui donc teniez vous ces coupables maximes,</l>
+                           <l>  Qui tantot des Chrestiens authorisoient les crimes?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>LUCIANE.</head>
+                        <lg>
+                           <l>  D'un desir curieux qui ne te peut chocquer,</l>
+                           <l>  Puis que je ne l'avois qu'affin de m'en mocquer,</l>
+                           <l>  Et qu'encor aujourd'huy ces Illustres mensonges,</l>
+                           <l>  Passent dans mon esprit seulement pour des songes.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>DIOCLETIAN.</head>
+                        <lg>
+                           <l>  Si tu repugnes tant aux abus des Chrestiens,</l>
+                           <l>  Fay nous voir des effets du discours que tu tiens,</l>
+                           <l>  Va t'en trouver Genest, &amp; t'efforce d'abattre,</l>
+                           <l>  Par de vives raisons ce coeur opiniatre.</l>
+                           <l>  L'adresse de l'esprit jointe aux graces du corps,</l>
+                           <l>  Faict ordinairement d'admirables efforts:</l>
+                           <l>  Employe un peu tes yeux au secours de ta bouche,</l>
+                           <l>  Il n'est point de mutins qu'un bel objet ne touche;</l>
+                           <l>  Desja mon courroux cesse, &amp; cede à tes attraits,</l>
+                           <l>  Fay que Genest encor en ressente les traits,</l>
+                           <l>  Et que son coeur vaincu par de si belles armes,</l>
+                           <l>  Nous rende redevable au pouvoir de tes charmes.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>LUCIANE.</head>
+                        <lg>
+                           <l>  Je suis preste, ô Cesar! de suivre aveuglément,</l>
+                           <l>  Et tes intentions, &amp; ton commandement,</l>
+                           <l>  Bien que je ne sois pas assez presomptueuse</l>
+                           <l>  Pour en ozer attendre une fin glorieuse:</l>
+                           <l>  Pourtant, puis qu'il te plaist, je ne m'en deffends pas,</l>
+                           <l>  Et j'emploiray l'adresse au deffaut des appas:</l>
+                           <l>  Mais enfin souvien toy, Seigneur, que Pamphilie,</l>
+                           <l>  A sur luy dez long-temps sa puissance establie,</l>
+                           <l>  Et que l'heureux effort de ce coup glorieux,</l>
+                           <l>  Appartient à sa langue aussi bien qu'à ses yeux.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PAMPHILIE.</head>
+                        <lg>
+                           <l>  Ha! change de discours, &amp; cesse Luciane,</l>
+                           <l>  De vanter un pouvoir dont l'effect te condamne:</l>
+                           <l>  Son funeste projet ne m'a que trop appris,</l>
+                           <l>  Que je suis à ses yeux un objet de mespris,</l>
+                           <l>  Et que la passion que tu crois qui le dompte</l>
+                           <l>  N'est plus qu'un foible feu qui ne luit qu'à ma honte,</l>
+                           <l>  Que veux tu donc enfin que je fasse aujourd'huy?</l>
+                           <l>  Quoy? que ma lacheté m'abaisse contre luy?</l>
+                           <l>  Qu'apres son changement je flatte son audace?</l>
+                           <l>  Que je verse des pleurs? Que j'implore sa grace?</l>
+                           <l>  Non, non, sa trahison le rend trop odieux,</l>
+                           <l>  Et je me veux venger aussi bien que nos Dieux.</l>
+                           <l>  Cesar, si cet ingrat ne change de courage,</l>
+                           <l>  Espargne tes boureaux, il suffit de ma rage,</l>
+                           <l>  Tu ne le peux fraper d'un coup plus inhumain;</l>
+                           <l>  Laisse donc desormais cét office à ma main,</l>
+                           <l>  Et tu reconnoistras que le fer, &amp; la flame,</l>
+                           <l>  N'ont rien de comparable au couroux d'une femme,</l>
+                           <l>  À qui par imprudence, ou par legereté,</l>
+                           <l>  On a manqué d'amour, ou de fidelité.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>DIOCLETIAN.</head>
+                        <lg>
+                           <l>  J'approuve ton courage aussi bien que ton zele;</l>
+                           <l>  He bien! ne vas point voir cet Amant infidele;</l>
+                           <l>  Mais si dans sa fureur il demeure obstiné,</l>
+                           <l>  Je veux qu'à ton courroux il soit abandonné,</l>
+                           <l>  Que tout chargé de fers à tes pieds on l'ameine,</l>
+                           <l>  Et puis s'il ne se rend, qu'on l'immole à ta hayne.</l>
+                        </lg>
+                        <p rend="justify">
+                           <hi rend="italic">Fin du troisiesme Acte.</hi>
+                        </p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>ACTE QUATRIESME.</head>
+               <div type="div3">
+                  <head>SCENE PREMIERE.</head>
+                  <p rend="justify">Pamphilie. Aristide.</p>
+                  <div type="div4">
+                     <head>PAMPHILIE.</head>
+                     <p rend="justify">Quoy, rien ne peut flechir ce courage obstiné?</p>
+                     <div type="div5">
+                        <head>ARISTIDE.</head>
+                        <lg>
+                           <l>  Non, bientost devant vous il doit estre amené,</l>
+                           <l>  Je vous en donne advis.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PAMPHILIE.</head>
+                        <p rend="justify">Où?</p>
+                     </div>
+                     <div type="div5">
+                        <head>ARISTIDE.</head>
+                        <lg>
+                           <l>                              Dedans cette salle,</l>
+                           <l>  Affin que s'il se peut, cette ame desloyale</l>
+                           <l>  Renonce son erreur dedans les mesmes lieux,</l>
+                           <l>  Où son crime a chocqué l'Empereur &amp; les Dieux.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PAMPHILIE.</head>
+                        <p rend="justify">Comment le sçavez vous?</p>
+                     </div>
+                     <div type="div5">
+                        <head>ARISTIDE.</head>
+                        <lg>
+                           <l>                          De l'ordre de Rutile,</l>
+                           <l>  Qui voyant qu'on prenoit une peine inutile,</l>
+                           <l>  Et que tous nos efforts agissoient vainement,</l>
+                           <l>  Pour guerir cet esprit de son aveuglément,</l>
+                           <l>  M'a dit qu'il vous alloit envoyer ce rebelle,</l>
+                           <l>  Et que je vous en vinsse apporter la nouvelle,</l>
+                           <l>  Affin que vostre esprit se puisse preparer,</l>
+                           <l>  À luy lancer des traicts qu'il ne puisse parer.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PAMPHILIE.</head>
+                        <p rend="justify">En cette occasion que feray-je Aristide?</p>
+                     </div>
+                     <div type="div5">
+                        <head>ARISTIDE.</head>
+                        <p rend="justify">Vous sçavez mieux que moy l'humeur de ce Perfide.</p>
+                     </div>
+                     <div type="div5">
+                        <head>PAMPHILIE.</head>
+                        <p rend="justify">Il m'a pourtant trompée autant &amp; plus que vous.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ARISTIDE.</head>
+                        <p rend="justify">C'est de vous seule aussi dont il craint le courroux.</p>
+                     </div>
+                     <div type="div5">
+                        <head>PAMPHILIE.</head>
+                        <p rend="justify">Il me craint.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ARISTIDE.</head>
+                        <p rend="justify">Je le crois.</p>
+                     </div>
+                     <div type="div5">
+                        <head>PAMPHILIE.</head>
+                        <lg>
+                           <l>                             Et sur quelle apparence?</l>
+                           <l>  Ne me traitte-t-il pas avec indifference,</l>
+                           <l>  Et ne luy suis-je pas un objet de mespris?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ARISTIDE.</head>
+                        <lg>
+                           <l>  Vostre nom toutesfois touche encor ses esprits,</l>
+                           <l>  Car il n'a pu jamais au recit de vos charmes,</l>
+                           <l>  Estouffer ses soupirs ny retenir ses larmes.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PAMPHILIE.</head>
+                        <lg>
+                           <l>  Apres ses trahisons &amp; des mespris si grands,</l>
+                           <l>  Ses pleurs &amp; ses souspirs sont de foibles garands:</l>
+                           <l>  Il a changé l'ingrat, &amp; quoy que l'on presume,</l>
+                           <l>  Ce qu'il fit par amour il le fait par coustume.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ARISTIDE.</head>
+                        <lg>
+                           <l>  Pour complaire à Cesar, il le faut esprouver,</l>
+                           <l>  C'est l'ordre de Rutile.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PAMPHILIE.</head>
+                        <lg>
+                           <l>                           He bien va le trouver</l>
+                           <l>  Et dis que pour dompter ce superbe courage,</l>
+                           <l>  Ma hayne &amp; mon amour mettront tout en usage.</l>
+                           <l>  Va laisse moy resver à ce fascheux soucy.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ARISTIDE.</head>
+                        <p rend="justify">Adieu, dans un moment vous le verrez icy.</p>
+                     </div>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>SCENE II.</label>
+                  </head>
+               </div>
+               <div type="div3">
+                  <head>PAMPHILIE.</head>
+                  <lg>
+                     <l>      Aveugles Tyrans de mon ame,</l>
+                     <l>      Qui regnez sur moy tour à tour,</l>
+                     <l>      Hayne, mespris, vengeance, Amour,</l>
+                     <l>  Où se termineront mes fureurs, ou ma flame?</l>
+                     <l>      Hayne, dois-je suivre tes loix?</l>
+                     <l>      Amour dois-je escouter ta voix?</l>
+                     <l>      Dois-je courir à la vengeance?</l>
+                     <l>      Ou par un plus noble mespris,</l>
+                     <l>      Chercheray-je mon allegeance</l>
+                     <l>  Dans l'oubly des ardeurs dont mon coeur est epris?</l>
+                  </lg>
+                  <lg>
+                     <l>      Ha! dieux que je suis incertaine,</l>
+                     <l>      De mon choix, &amp; de mes desirs,</l>
+                     <l>      Que de larmes, &amp; de souspirs,</l>
+                     <l>  S'opposeroient encore à la fin de ma peine!</l>
+                     <l>      Non mes yeux ne le voyons pas,</l>
+                     <l>      Laissons le trainer au trespas,</l>
+                     <l>      Rendons nostre hayne assouvie;</l>
+                     <l>      Ou puis qu'il vous nommoit à tort,</l>
+                     <l>      Jadis les Astres de sa vie,</l>
+                     <l>  Soyez doresnavant les flambeaux de sa mort.</l>
+                  </lg>
+                  <lg>
+                     <l>      Mais, Helas! quelle est mon envie?</l>
+                     <l>      Quel est mon aveugle transport?</l>
+                     <l>      Puis-je consentir à sa mort,</l>
+                     <l>  Sans qu'au mesme moment je renonce à ma vie?</l>
+                     <l>      Non, retire toy ma fureur,</l>
+                     <l>      Malgré son crime &amp; son erreur,</l>
+                     <l>      Je sens bien encor que je l'ayme,</l>
+                     <l>      Et je reconnois aujourd'huy,</l>
+                     <l>      Que je t'arme contre moy-mesme,</l>
+                     <l>  Lors que ma cruauté t'anime contre luy.</l>
+                  </lg>
+                  <lg>
+                     <l>  Mais voicy cét ingrat, cachons nostre foiblesse,</l>
+                     <l>  Ha! cet abord me tue.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>SCENE III.</label>
+                  </head>
+                  <p rend="justify">Pamphilie. Genest. Deux gardes.</p>
+                  <div type="div4">
+                     <head>PAMPHILIE.</head>
+                     <lg>
+                        <l>                        He bien! ame traistresse,</l>
+                        <l>  Te voila dans les fers, &amp; ces honteux liens,</l>
+                        <l>  Sont plus chers à tes yeux &amp; plus doux que les miens?</l>
+                        <l>  Peut estre qu'à ton coeur mon joug estoit trop rude,</l>
+                        <l>  Je payois tes devoirs avec ingratitude,</l>
+                        <l>  Je recevois tes voeux avec trop de froideur,</l>
+                        <l>  Ou je t'importunois d'une trop vive ardeur.</l>
+                        <l>  Ha! je l'avois bien dit, que tes lasches contraintes,</l>
+                        <l>  Non plus que tes souspirs n'estoient rien que des feintes,</l>
+                        <l>  Et que ton desespoir conceû hors de saison,</l>
+                        <l>  Tendoit secrettement à quelque trahison!</l>
+                        <l>  Mais ne presume pas, desloyal, que j'endure,</l>
+                        <l>  Que l'on fasse à mes voeux cette sensible injure,</l>
+                        <l>  Je veux qu'un châtiment aussi rude que prompt,</l>
+                        <l>  Dans ton perfide sang en efface l'affront,</l>
+                        <l>  Et montre que par moy ton destin sera pire:</l>
+                        <l>  Que pour avoir chocqué ny les Dieux ny l'Empire.</l>
+                     </lg>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <lg>
+                           <l>  He bien! executez cét illustre courroux;</l>
+                           <l>  C'est pour ce sujet seul que je suis devant vous.</l>
+                           <l>  Me voila prest Madame, &amp; victime enchaisnée,</l>
+                           <l>  Sans regret, à vos pieds j'attends ma destinée:</l>
+                           <l>  Vos yeux pour cét effect aydans vostre rigueur,</l>
+                           <l>  Montreront à vos mains le chemin de mon coeur,</l>
+                           <l>  Ou s'ils ne veulent pas se donner cette peine,</l>
+                           <l>  Armez vous, le voila, frappez belle inhumaine,</l>
+                           <l>  Aussi bien de vos Dieux les foudres impuissans,</l>
+                           <l>  Ont ils de foibles traits pour estonner mes sens,</l>
+                           <l>  Achevez, Pamphilie, achevez vostre ouvrage,</l>
+                           <l>  Mon coeur ne tremble point pour un si foible orage,</l>
+                           <l>  Vous le voyez naguere amoureux &amp; brulant,</l>
+                           <l>  Pour vous mieux contenter voyez le tout sanglant,</l>
+                           <l>  Mais si je puis encore esperer quelque grace,</l>
+                           <l>  Souffrez qu'auparavant le coup qui me menace,</l>
+                           <l>  J'ose vous demander quel estrange forfaict,</l>
+                           <l>  Vous anime, Madame, à ce cruel effect?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PAMPHILIE.</head>
+                        <lg>
+                           <l>  Quel forfaict, desloyal? ô Dieux quelle impudence!</l>
+                           <l>  Il est la vertu mesme; &amp; la mesme innocence,</l>
+                           <l>  Il n'a jamais manqué ny d'amour ny de foy,</l>
+                           <l>  Il n'a jamais trahy ny l'Empereur ny moy,</l>
+                           <l>  Il ne parla jamais en faveur du Baptesme,</l>
+                           <l>  Sa bouche n'a jamais proferé de blasphéme,</l>
+                           <l>  Des crimes, justes Dieux! il n'en a point commis,</l>
+                           <l>  Et vous avez grand tort d'estre ses ennemis:</l>
+                           <l>  Insolent, est-ce ainsi que tu veux qu'on te flatte?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <lg>
+                           <l>  Non, non, que contre moy vostre courroux esclatte,</l>
+                           <l>  Et s'il ne suffit pas pour vous vanger assez,</l>
+                           <l>  Joignez y l'Empereur &amp; vos Dieux offencez,</l>
+                           <l>  Mais quand vous me traittez de traistre &amp; de parjure,</l>
+                           <l>  Je ne sçaurois souffrir l'une ny l'autre injure,</l>
+                           <l>  Veu qu'icy malgré vous les cieux me sont tesmoins,</l>
+                           <l>  Que jamais mon amour ne les merita moins,</l>
+                           <l>  Il est vray qu'autrefois je meritois ce blame,</l>
+                           <l>  Quand pour flatter vos yeux je trahissois vostre ame,</l>
+                           <l>  Et portois vos esprits à des impressions,</l>
+                           <l>  Qui n'estoient en effect que des illusions,</l>
+                           <l>  Ouy, je vous trahissois, quand mon ame aveuglée,</l>
+                           <l>  Ne concevoit pour vous qu'une ardeur dereglée,</l>
+                           <l>  Et subornant mon coeur par d'injustes desirs,</l>
+                           <l>  Vous aymoit beaucoup moins que ses propres plaisirs,</l>
+                           <l>  Mais, Madame, aujourd'huy que ma flame est plus pure,</l>
+                           <l>  Que le feu n'est là haut au lieu de sa nature,</l>
+                           <l>  Qu'un veritable amour me porte à vous cherir,</l>
+                           <l>  Jusqu'à vouloir pour vous tout quitter &amp; mourir;</l>
+                           <l>  Me pouvez vous sans tort appeller infidele,</l>
+                           <l>  Traistre, parjure, ingrat, inconstant, &amp; rebelle?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PAMPHILIE.</head>
+                        <lg>
+                           <l>  Quels noms penses tu donc qu'on te doive donner,</l>
+                           <l>  Quand on te void tout fuir, &amp; tout abandonner?</l>
+                           <l>  Quand pressé des vapeurs de ta melancolie,</l>
+                           <l>  Pour des illusions tu quittes Pamphilie?</l>
+                           <l>  Quand tu pers tout respect? quand tu changes de loy?</l>
+                           <l>  Quand tu trahis tes Dieux, &amp; ton Prince, &amp; ta foy?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <lg>
+                           <l>  Ha! que la trahison est innocente &amp; belle!</l>
+                           <l>  Et la fidelité blamable &amp; criminelle,</l>
+                           <l>  Quand leur effect regarde un Tyran, &amp; des Dieux,</l>
+                           <l>  Qui n'ont rien que d'horrible &amp; de pernicieux,</l>
+                           <l>  Qu'il est doux de sortir d'un joug si detestable,</l>
+                           <l>  Pour entrer soubs les loix d'un Monarque adorable</l>
+                           <l>  Qui tient dedans les Cieux son Palais &amp; sa Cour;</l>
+                           <l>  Et qui n'est que douceur, que justice, &amp; qu'amour.</l>
+                           <l>  Ha! si vous connoissiez, ma chere Pamphilie,</l>
+                           <l>  La nuit où vostre erreur vous tient ensevelie,</l>
+                           <l>  Et si par le secours de cét astre charmant,</l>
+                           <l>  Dont l'esclat m'a tiré de mon aveuglement,</l>
+                           <l>  Vous pouviez recevoir un rayon de la grace,</l>
+                           <l>  Qui met dedans mon coeur une si noble audace</l>
+                           <l>  Qu'au prix de vostre sort vous beniriez le mien,</l>
+                           <l>  Que vous estimeriez le bonheur d'un Chrestien?</l>
+                           <l>  Et que pour en porter les glorieuses marques,</l>
+                           <l>  Vous feriez peu d'estat de celles des Monarques.</l>
+                           <l>  C'est par ce beau moyen que je veux en ce jour,</l>
+                           <l>  Vous témoigner, Madame, un veritable amour,</l>
+                           <l>  Et vous faire advouer que je ne fus volage,</l>
+                           <l>  Qu'affin de vous cherir à present davantage,</l>
+                           <l>  Seigneur, si ta bonté daigne escouter mes voeux,</l>
+                           <l>  Accorde à Pamphilie.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PAMPHILIE.</head>
+                        <lg>
+                           <l>                       Arreste malheureux,</l>
+                           <l>  Que veux tu demander?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <lg>
+                           <l>                        Que sa bonté supréme,</l>
+                           <l>  Sauve l'autre moitié qui reste de moy-mesme,</l>
+                           <l>  Et souffre pour le moins qu'auparavant ma mort,</l>
+                           <l>  Je luy tende la main pour la mener au port.</l>
+                           <l>  Si j'obstiens dessus vous cette illustre victoire,</l>
+                           <l>  Que son heureux effect augmentera ma gloire!</l>
+                           <l>  Que mon sort sera doux, que je mouray content,</l>
+                           <l>  Si je puis achever ce dessein important,</l>
+                           <l>  Ne le differons point, escoutez moy Madame.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PAMPHILIE.</head>
+                        <p rend="justify">Tu fais de vains efforts pour seduire mon ame.</p>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <lg>
+                           <l>  Ha! croyez seulement, &amp; lors le Roy des Cieux</l>
+                           <l>  Levera le bandeau qui vous couvre les yeux,</l>
+                           <l>  Et vous descouvrira ces clartez nompareilles,</l>
+                           <l>  Dont on ne sçauroit trop admirer les merveilles,</l>
+                           <l>  Servez vous aujourd'huy du flambeau de la foy.</l>
+                           <l>  Ou s'il vous esblouit, du moins escoutez moy:</l>
+                           <l>  Mais examinez bien le poids de mes paroles,</l>
+                           <l>  Dites moy quels effects produisent vos idoles?</l>
+                           <l>  Qu'ont elles icy bas jamais executé,</l>
+                           <l>  Qui marque leur puissance, ou leur divinité?</l>
+                           <l>  Pensez vous que des Dieux de bois, d'or ou de pierre,</l>
+                           <l>  Et dont l'estre est borné dans l'ombre qui l'enserre,</l>
+                           <l>  Des Dieux qui ne sont rien que corps inanimez,</l>
+                           <l>  Que la main d'un mortel &amp; le fer ont formez,</l>
+                           <l>  Ayent pu d'une parolle en miracles feconde,</l>
+                           <l>  Créer l'homme, le Ciel, l'air, &amp; la terre &amp; l'onde,</l>
+                           <l>  Regler les elemens, semer d'astres les Cieux,</l>
+                           <l>  Faire tant de beautez qui brillent à nos yeux,</l>
+                           <l>  Et par tout establir cet ordre incomparable,</l>
+                           <l>  Qui maintient l'Univers &amp; le rend admirable,</l>
+                           <l>  Non, non, tous ces demons, tous ces Dieux impuissans,</l>
+                           <l>  À qui si vainement vous offrez vos encens,</l>
+                           <l>  N'ont jamais, quelque appuy qu'ait eu leur imposture,</l>
+                           <l>  Produit un seul atosme en toute la nature,</l>
+                           <l>  Et cét ouvrage enfin si grand &amp; si parfaict,</l>
+                           <l>  De ce Dieu que j'adore est un illustre effect,</l>
+                           <l>  Ouy, Madame, il en est &amp; l'auteur &amp; le maistre,</l>
+                           <l>  Je l'ignorois tantost, il me l'a faict connoistre,</l>
+                           <l>  Et pourveu que vostre ame ayt desir de le voir,</l>
+                           <l>  Cette mesme faveur est en vostre pouvoir,</l>
+                           <l>  Ne la refusez point, ma chere Pamphilie,</l>
+                           <l>  Que par elle vostre ame à la mienne s'allie,</l>
+                           <l>  Et souffrez qu'aujourd'huy par un si beau lien,</l>
+                           <l>  J'unisse pour jamais vostre coeur &amp; le mien,</l>
+                           <l>  Voyez combien pour vous mon amour est extréme.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PAMPHILIE.</head>
+                        <p rend="justify">Tu m'aimes.</p>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <lg>
+                           <l>              Ouy, Madame, &amp; bien plus que moy-mesme,</l>
+                           <l>  Puisque pour vous sauver &amp; pour vous acquerir,</l>
+                           <l>  Quelques rudes tourmens qu'il me faille souffrir,</l>
+                           <l>  Quelque suplice affreux que la rage desploye,</l>
+                           <l>  On m'y verra courir avec beaucoup de joye,</l>
+                           <l>  Pourveu que par mon sang je vous puisse achepter,</l>
+                           <l>  Un bonheur qu'avec moy vous devez souhaiter.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PAMPHILIE.</head>
+                        <p rend="justify">Helas!</p>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <lg>
+                           <l>         Vous souspirez, ha! sans doute la crainte,</l>
+                           <l>  Combat vostre desir, &amp; le tient en contrainte,</l>
+                           <l>  Vous redoutez la mort, un Tyran vous faict peur.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PAMPHILIE.</head>
+                        <lg>
+                           <l>  Non, non, ne pense pas que je manque de coeur,</l>
+                           <l>  Ce souspirs qu'a produit une sainte tendresse</l>
+                           <l>  Montre mon repentir, &amp; non pas ma foiblesse,</l>
+                           <l>  Je te suy, cher Amant, je te cede, &amp; je croy;</l>
+                           <l>  Ton Dieu regne en mon coeur, &amp; triomphe de moy.</l>
+                           <l>  Desja de ce bonheur je suis toute ravie,</l>
+                           <l>  Et regardant tes fers avec un oeil d'envie,</l>
+                           <l>  Je brule qu'un Tyran n'ordonne à ses boureaux,</l>
+                           <l>  De passer en mes mains ces illustres fardeaux.</l>
+                           <l>  Ne pouvant les ravir qu'au moins je les soustienne,</l>
+                           <l>  Ouy ces fers sont mes fers, cette chaine est la mienne,</l>
+                           <l>  Puisque par les effects d'une douce rigueur,</l>
+                           <l>  Elle passe à present de tes mains à mon coeur.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <p rend="justify">Pamphilie, ô transports qui me comblez de gloire!</p>
+                     </div>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>SCENE IV.</label>
+                  </head>
+                  <lg>
+                     <l>  Diocletian. Aquillin. Rutile. Genest. Anthenor. Aristide.</l>
+                     <l>  Luciane. &amp; les Gardes.</l>
+                  </lg>
+                  <p rend="justify">RUTILE, <hi rend="italic">à l'Empereur</hi>.</p>
+                  <lg>
+                     <l>  Seigneur elle a sans doute emporté la victoire,</l>
+                     <l>  Une visible joye esclatte dans ses yeux.</l>
+                  </lg>
+                  <p rend="justify">DIOCLETIAN, <hi rend="italic">à Pamphilie</hi>.</p>
+                  <p rend="justify">He bien! qu'avez vous faict en faveur de nos Dieux.</p>
+                  <div type="div4">
+                     <head>PAMPHILIE.</head>
+                     <p rend="justify">Plus que je ne devois.</p>
+                     <div type="div5">
+                        <head>DIOCLETIAN.</head>
+                        <lg>
+                           <l>                         C'est orgueilleux peut estre,</l>
+                           <l>  À peine de fleschir &amp; de se reconnoistre.</l>
+                           <l>  Et d'autant que vos voeux ne sont pas achevez,</l>
+                           <l>  Vous dites avoir faict plus que vous ne devez.</l>
+                           <l>  Il est vray qu'on fait trop pour un esprit coupable,</l>
+                           <l>  Alors qu'il ne veut pas se rendre raisonnable,</l>
+                           <l>  Et qu'au mesme moment qu'il refuse à ceder,</l>
+                           <l>  Une extréme rigueur le doit persuader:</l>
+                           <l>  Mais quoy que vos raisons combattans ce rebelle,</l>
+                           <l>  N'ayent pas rendu son coeur plus humble ou plus fidelle,</l>
+                           <l>  Je ne veux point pourtant vous desrober le prix</l>
+                           <l>  Que nous devons aux soins que vous en avez pris,</l>
+                           <l>  Comme vous, Anthenor, Luciane, Aristide,</l>
+                           <l>  Ont fait de vains efforts aupres de ce perfide,</l>
+                           <l>  Et j'ay rendu pourtant leur sort si glorieux</l>
+                           <l>  Qu'ils ne se plaindront pas ny de moy ny des Dieux.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ARISTIDE.</head>
+                        <lg>
+                           <l>  Non, Seigneur, le haut rang où nous met ta puissance</l>
+                           <l>  Tesmoigne ta grandeur &amp; ta magnificence,</l>
+                           <l>  Et nous serions ingrats envers les Dieux &amp; toy</l>
+                           <l>  Si nous manquions jamais ou de zele ou de foy:</l>
+                           <l>  Ouy, commande, Cesar, nous suivrons ton envie,</l>
+                           <l>  Fallust-il mille fois exposer nostre vie,</l>
+                           <l>  Et chercher au plus fort des plus aspres combas</l>
+                           <l>  Parmy tes ennemis un glorieux trespas.</l>
+                           <l>  Admire avecque nous, admire Pamphilie,</l>
+                           <l>  Les adorables noeuds dont l'Empereur nous lie,</l>
+                           <l>  Son Espargne est pour nous prodigue de presens,</l>
+                           <l>  Nous sommes honorez parmi ses Courtisans,</l>
+                           <l>  Et par une bonté qu'à peine je puis croire</l>
+                           <l>  Nous passons du neant au faiste de la gloire.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PAMPHILIE.</head>
+                        <lg>
+                           <l>  Esclave volontaire, &amp; timide flateur,</l>
+                           <l>  Qui mesme des deffauts te rends adorateur,</l>
+                           <l>  J'ay honte de penser à la bassesse infame</l>
+                           <l>  Qui pour un faux bonheur te fait trahir ton ame,</l>
+                           <l>  Au lieu de te flatter d'un credit si puissant</l>
+                           <l>  N'avance qu'avec peur dans un pas si glissant,</l>
+                           <l>  Aux pieds des grands Rochers sont les grands precipices,</l>
+                           <l>  Et souvent le regret suit de prés les delices.</l>
+                           <l>  Plaints au lieu d'admirer ces presents criminels,</l>
+                           <l>  Qui te vont procurer des malheurs eternels,</l>
+                           <l>  Et d'un coeur genereux rejette cette pompe</l>
+                           <l>  Dont le funeste esclat vous seduit &amp; vous trompe,</l>
+                           <l>  Ou si tu ne peux pas detacher tes desirs</l>
+                           <l>  De ces honteux honneurs, de ces lasches plaisirs,</l>
+                           <l>  Adore si tu veux la chaine qui te lie,</l>
+                           <l>  Mais voicy les liens que cherit Pamphilie.</l>
+                           <l>  Liens que tu devrois comme moy desirer,</l>
+                           <l>  Et soubs qui nous serions trop heureux d'expirer.</l>
+                           <l>  Ouy, voila mon espoir, voila ma recompence,</l>
+                           <l>  Accorde les, Cesar, à mon impatience,</l>
+                           <l>  Et par ce beau present que tu dois à mes voeux</l>
+                           <l>  Tu feras plus pour moy que tu n'as fait pour eux.</l>
+                           <l>  Je suis Chrestienne.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>LUCIANE.</head>
+                        <p rend="justify">Helas!</p>
+                     </div>
+                     <div type="div5">
+                        <head>ANTHENOR.</head>
+                        <p rend="justify">Le traistre l'a charmée.</p>
+                     </div>
+                     <div type="div5">
+                        <head>DIOCLETIAN.</head>
+                        <lg>
+                           <l>  De quelle rage, ô Dieux, est mon ame enflammée!</l>
+                           <l>  Quoy? loing de nous servir on se mocque de nous?</l>
+                           <l>  On nous joue? on nous brave? ha! c'est trop, mon couroux,</l>
+                           <l>  C'est trop se retenir, lance, lance la foudre,</l>
+                           <l>  Frappe ces insolens, &amp; les reduits en poudre</l>
+                           <l>  Va, Rutile.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>RUTILE.</head>
+                        <p rend="justify">Où, Seigneur?</p>
+                     </div>
+                     <div type="div5">
+                        <head>DIOCLETIAN.</head>
+                        <lg>
+                           <l>                            Emmener ce mutin,</l>
+                           <l>  Tu sçais mon ordre.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>RUTILE.</head>
+                        <p rend="justify">Allons.</p>
+                     </div>
+                     <div type="div5">
+                        <head>GENEST.</head>
+                        <lg>
+                           <l>                              Ô trop heureux destin!</l>
+                           <l>  Ma Pamphilie, Adieu.</l>
+                        </lg>
+                     </div>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>SCENE V.</label>
+                  </head>
+                  <p rend="justify">Diocletian. Pamphilie. Luciane. Anthenor. Aristide. Aquillin.</p>
+                  <div type="div4">
+                     <head>PAMPHILIE.</head>
+                     <p rend="justify">Quoy donc, on nous separe?</p>
+                     <div type="div5">
+                        <head>DIOCLETIAN.</head>
+                        <p rend="justify">Non, non, vous le suivrez.</p>
+                     </div>
+                     <div type="div5">
+                        <head>PAMPHILIE.</head>
+                        <lg>
+                           <l>                             Pourquoy donc, ô Barbare!</l>
+                           <l>  Ne me permets-tu point d'accompagner ses pas?</l>
+                           <l>  Croy-tu que tes grandeurs ayent pour moy des appas.</l>
+                           <l>  Non, non, ce faux bonheur flatte peu mon envie,</l>
+                           <l>  Il va finir ses jours, finis aussi ma vie,</l>
+                           <l>  Aussi bien verras-tu, quoy qu'il faille endurer,</l>
+                           <l>  Que ce qu'amour a joint ne se peut separer.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>DIOCLETIAN.</head>
+                        <p rend="justify">Tu ferois beaucoup mieux d'implorer ma clemence.</p>
+                     </div>
+                     <div type="div5">
+                        <head>PAMPHILIE.</head>
+                        <lg>
+                           <l>  Ta fureur a pour moy trop peu de violence:</l>
+                           <l>  Quelle raison, Tyran, en retarde l'effet?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>DIOCLETIAN.</head>
+                        <lg>
+                           <l>  C'est donc là ton desir? il sera satisfait,</l>
+                           <l>  Mais apres ce refus n'espere plus de grace,</l>
+                           <l>  Un mesme sort suivra vostre commune audace,</l>
+                           <l>  Et puis qu'un mesme crime a bien pû vous unir,</l>
+                           <l>  Un mesme chastiment vous peut aussi punir.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PAMPHILIE.</head>
+                        <p rend="justify">Comme mesmes tourmens, nous aurons mesme gloire.</p>
+                     </div>
+                     <div type="div5">
+                        <head>AQUILLIN.</head>
+                        <lg>
+                           <l>  Mais avant le combat tu chantes la victoire,</l>
+                           <l>  La mort aux plus hardis donne de la terreur.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PAMPHILIE.</head>
+                        <lg>
+                           <l>  Les lasches comme toy l'ont tousjours en horreur,</l>
+                           <l>  Son seul nom te fait peur, mais un noble courage</l>
+                           <l>  En affronte les traicts sans changer de visage.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>DIOCLETIAN.</head>
+                        <lg>
+                           <l>  Tu te fies peut estre au secours de ce Dieu</l>
+                           <l>  Qu'un fourbe comme luy t'a promis en ce lieu:</l>
+                           <l>  Mais ton espoir est vain en ce peril extreme,</l>
+                           <l>  Il feroit plus pour toy qu'il ne fit pour luy-mesme,</l>
+                           <l>  S'il t'ostoit d'un trespas qu'il ne pût eviter</l>
+                           <l>  Et que de mon pouvoir tu devrois redouter.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PAMPHILIE.</head>
+                        <lg>
+                           <l>      Collosse de boue &amp; d'argile,</l>
+                           <l>      Qu'idolatre un peuple fragile,</l>
+                           <l>  Ozes-tu bien tenir ce propos criminel?</l>
+                           <l>  Ozes-tu mesurer ta grandeur à la sienne,</l>
+                           <l>  Et ne connois-tu pas, miserable mortel,</l>
+                           <l>      Qu'il faut que sa bonté soustienne</l>
+                           <l>  Que ce Dieu te peut mettre en poudre dés demain</l>
+                           <l>        En retirant sa main?</l>
+                        </lg>
+                        <lg>
+                           <l>      Vous qu'il a faits à son image,</l>
+                           <l>      Roys qui luy ravissez l'hommage</l>
+                           <l>  Qu'on rend à ses Autels par un juste devoir,</l>
+                           <l>  Pour un petit bandeau qui couronne vos testes</l>
+                           <l>  Osez-vous, orgueilleux, oublier son pouvoir,</l>
+                           <l>      Et sans connoistre qui vous estes</l>
+                           <l>  Faire comparaison de vostre qualité</l>
+                           <l>        Avec sa Majesté?</l>
+                        </lg>
+                        <lg>
+                           <l>      Est-ce à vous petits Salmonées</l>
+                           <l>      À gouverner les destinées?</l>
+                           <l>  Est-ce à vous à regir les hommes &amp; leur sort?</l>
+                           <l>  Avez-vous le pouvoir de leur rendre la vie</l>
+                           <l>  Vous qui prenez celuy de leur donner la mort</l>
+                           <l>      Pour satisfaire à vostre envie,</l>
+                           <l>  Et quel droit vous permet d'affermir vos projets</l>
+                           <l>        Du sang de ses subjets?</l>
+                        </lg>
+                        <lg>
+                           <l>      La terre qu'il a suspendue,</l>
+                           <l>      A-t-elle dans son estendue,</l>
+                           <l>  Des corps que vostre voix puisse faire mouvoir?</l>
+                           <l>  Et vous qui ne sçauriez en toute la nature,</l>
+                           <l>  Produire un seul atosme avec vostre pouvoir,</l>
+                           <l>      Vous deffaites sa creature,</l>
+                           <l>  Tous les jours à ses yeux vous brisez inhumains</l>
+                           <l>        L'ouvrage de ses mains.</l>
+                        </lg>
+                        <lg>
+                           <l>      Mais le sang qui se mesle aux larmes</l>
+                           <l>      De ceux qui tombent soubs tes armes</l>
+                           <l>  Pousse leurs justes cris jusqu'à son tribunal,</l>
+                           <l>  Ses sujets oppressez reclament sa justice,</l>
+                           <l>  Et leur plainte va faire ouvrir son arsenal</l>
+                           <l>      Pour en tirer un tel supplice,</l>
+                           <l>  Que tu seras contraint d'advouer en ce lieu</l>
+                           <l>        Que luy seul est ton Dieu.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>DIOCLETIAN.</head>
+                        <lg>
+                           <l>  Et mon juste couroux te fera reconnoistre</l>
+                           <l>  Que je suis malgré luy ton Seigneur, &amp; ton Maistre:</l>
+                           <l>  Despeschez, Aquillin, qu'on l'oste promptement,</l>
+                           <l>  Et qu'on l'aille esgorger aux yeux de son Amant.</l>
+                        </lg>
+                        <p rend="justify">
+                           <hi rend="italic">Fin du quatriesme Acte.</hi>
+                        </p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>ACTE CINQUIESME.</head>
+               <div type="div3">
+                  <head>SCENE PREMIERE.</head>
+                  <p rend="justify">Anthenor. Luciane. Aristide.</p>
+                  <div type="div4">
+                     <head>ANTHENOR.</head>
+                     <lg>
+                        <l>  Si proche d'adjouster à tant de recompences,</l>
+                        <l>  L'effect de vos desirs, &amp; de vos esperances,</l>
+                        <l>  Dans un si haut degré de gloire &amp; de faveur</l>
+                        <l>  Qui vous rend Aristide aujourd'huy si resveur?</l>
+                        <l>  Quel soudain changement abat vostre courage?</l>
+                        <l>  Vous regardez les Cieux, vous changez de visage,</l>
+                        <l>  Vous soupirez,</l>
+                     </lg>
+                     <div type="div5">
+                        <head>ARISTIDE.</head>
+                        <p rend="justify">Helas!</p>
+                     </div>
+                     <div type="div5">
+                        <head>ANTHENOR.</head>
+                        <lg>
+                           <l>                        À quelle occasion,</l>
+                           <l>  Pouvez vous tesmoigner tant d'alteration,</l>
+                           <l>  Le destin qui vous fut autresfois si contraire,</l>
+                           <l>  N'a pour vous desormais ny hayne, ny colere,</l>
+                           <l>  Et la bonté des Dieux vous l'a rendu si doux,</l>
+                           <l>  Que vos prosperitez produisent des jaloux.</l>
+                           <l>  Que vous manque-t-il plus pour un bonheur extreme?</l>
+                           <l>  L'empereur vous cherit, Luciane vous ayme,</l>
+                           <l>  Et ce divin object de vos affections</l>
+                           <l>  Respond avec ardeur à vos intentions:</l>
+                           <l>  Qui peut donc vous causer cette humeur importune,</l>
+                           <l>  Et qui convient si mal avec vostre fortune?</l>
+                           <l>  Cher Aristide au moins tirez nous de soucy,</l>
+                           <l>  Obligez Anthenor, &amp; Luciane aussi.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ARISTIDE.</head>
+                        <lg>
+                           <l>  Ha! que cette demande est ridicule &amp; vaine!</l>
+                           <l>  Pouvez-vous ignorer le sujet de ma peine?</l>
+                           <l>  Les traits qui m'ont blessé ne vous touchent-ils pas?</l>
+                           <l>  Vostre Compagne, ô Dieux! est proche du trespas,</l>
+                           <l>  Et celuy qui pour vous avoit tantost des charmes</l>
+                           <l>  L'accompagne à la mort, &amp; vos yeux sont sans larmes.</l>
+                           <l>  Ô ciel, qu'un foible effort change nostre destin</l>
+                           <l>  S'il ne peut estre ferme &amp; constant un matin!</l>
+                           <l>  Quoy donc, brave Genest, &amp; rare Pamphilie,</l>
+                           <l>  On vous laisse mourir, de plus on vous oublie!</l>
+                           <l>  Et par des laschetez que je ne puis souffrir</l>
+                           <l>  On censure mes pleurs quand je vous voids perir,</l>
+                           <l>  Mesme on veut que mon front tesmoigne de la joye.</l>
+                           <l>  Mais que plutost le Ciel à vos yeux me foudroye,</l>
+                           <l>  Et perce de ses traits cét insensible coeur</l>
+                           <l>  Qu'on m'impute jamais une telle rigueur.</l>
+                           <l>  Non, non, ce coeur est grand, mais il n'est point barbare,</l>
+                           <l>  Et le sort des objets de qui l'on nous separe</l>
+                           <l>  Est trop infortuné pour ne pas arracher</l>
+                           <l>  Des regrets qu'ils pourroient attendre d'un Rocher.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>LUCIANE.</head>
+                        <lg>
+                           <l>  Certes ces sentimens ont beaucoup de tendresse,</l>
+                           <l>  Et si je ne me trompe encore plus d'adresse,</l>
+                           <l>  Puis qu'ils sçavent si bien desguiser en ce jour</l>
+                           <l>  D'un masque de pitié ta feinte, &amp; ton amour.</l>
+                           <l>  Mais c'est en vain ingrat que ton ame insensée</l>
+                           <l>  Presume me cacher le traict qui l'a blessée,</l>
+                           <l>  Ton alteration ne me fait que trop voir</l>
+                           <l>  La cause de ta flame &amp; de ton desespoir,</l>
+                           <l>  Quand par des coups si grands un coeur se sent atteindre</l>
+                           <l>  Il est bien malaisé de souffrir &amp; de feindre,</l>
+                           <l>  La langue quelquefois peut bien dissimuler,</l>
+                           <l>  Mais quand elle se tait, les yeux sçavent parler,</l>
+                           <l>  Et le coeur trop pressé des ardeurs de sa flame</l>
+                           <l>  Montre par ses souspirs les blessures de l'ame.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ARISTIDE.</head>
+                        <lg>
+                           <l>  C'est ainsi qu'autresfois n'osant vous declarer</l>
+                           <l>  L'ardeur qui me faisoit sans cesse souspirer,</l>
+                           <l>  Mes yeux &amp; mes transports vous firent reconnoistre</l>
+                           <l>  Bien mieux que mes discours que vous l'avez fait naistre.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>LUCIANE.</head>
+                        <lg>
+                           <l>  C'est ainsi qu'autrefois tes feintes passions</l>
+                           <l>  Trompoient mon innocence, &amp; mes affections:</l>
+                           <l>  C'est ainsi qu'autrefois Luciane abusée,</l>
+                           <l>  N'estoit à ton esprit qu'un objet de risée,</l>
+                           <l>  Cependant que ton coeur autre-part arresté,</l>
+                           <l>  Brusloit secretement pour une autre beauté:</l>
+                           <l>  Mais enfin aujourd'huy ma raison mieux reglée</l>
+                           <l>  Dechire le bandeau qui m'avoit aveuglée,</l>
+                           <l>  Et s'il me reste encor quelque feu dans le sein,</l>
+                           <l>  J'en conserve l'ardeur pour un autre dessein.</l>
+                           <l>  Ayme, ayme desloyal, ayme ta Pamphilie,</l>
+                           <l>  Suy mesme apres sa mort la chaine qui te lie,</l>
+                           <l>  Et si ta lascheté n'empesche un coup si beau,</l>
+                           <l>  Va, malheureux amant la rejoindre au tombeau:</l>
+                           <l>  Va, que differes-tu? ne croy plus me surprendre.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ARISTIDE.</head>
+                        <p rend="justify">Ha! Madame, escoutez.</p>
+                     </div>
+                     <div type="div5">
+                        <head>LUCIANE.</head>
+                        <lg>
+                           <l>                        Je ne te puis entendre.</l>
+                           <l>  Je n'ay que trop ouy ce langage trompeur</l>
+                           <l>  Qui m'avoit cy-devant mis l'amour dans le coeur,</l>
+                           <l>  Et qui par les effets d'un trop visible outrage</l>
+                           <l>  Y produit à present le despit &amp; la rage.</l>
+                           <l>  Mais suy moy, deloyal, tu verras mon projet,</l>
+                           <l>  Tu n'as jusques icy regretté qu'un objet,</l>
+                           <l>  Tu pourras bien encore en regretter un autre,</l>
+                           <l>  Tu sçais le sort de l'un, viens apprendre le nostre,</l>
+                           <l>  Et si comme tu dis ton coeur est genereux</l>
+                           <l>  Vien par un noble effort les imiter tous deux,</l>
+                           <l>  Adieu.</l>
+                        </lg>
+                     </div>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>SCENE II.</label>
+                  </head>
+                  <p rend="justify">Aristide. Anthenor.</p>
+                  <div type="div4">
+                     <head>ARISTIDE.</head>
+                     <lg>
+                        <l>         De quelle foudre est mon ame frappée,</l>
+                        <l>  Quoy donc pour une plainte à ma bouche eschappée,</l>
+                        <l>  Et quelques sentimens d'une juste pitié</l>
+                        <l>  Qu'exigeoit de mon coeur une longue amitié,</l>
+                        <l>  Luciane, bons Dieux, me traitte de perfide?</l>
+                        <l>  Attendez, belle ingratte, attendez Aristide,</l>
+                        <l>  Et son coeur arraché que vous blasmez à tort</l>
+                        <l>  Vous fera voir au moins mon amour par ma mort.</l>
+                        <l>  Mais je l'appelle en vain, allons, allons la suivre,</l>
+                        <l>  Et la desabusons, ou bien cessons de vivre.</l>
+                        <l>  Allons.</l>
+                     </lg>
+                     <div type="div5">
+                        <head>ANTHENOR.</head>
+                        <lg>
+                           <l>          Ha! moderez ce transport qui vous nuit,</l>
+                           <l>  Laissez, laissez passer ce torrent qui s'enfuit:</l>
+                           <l>  Son orgueil s'enfleroit par vostre resistance,</l>
+                           <l>  Et porteroit son cours à plus de violence:</l>
+                           <l>  Souffrez que sa fureur se puisse reposer,</l>
+                           <l>  Vous verrez ces grands flots d'eux mesme s'appaiser,</l>
+                           <l>  Et faire succeder à ce facheux orage</l>
+                           <l>  Un calme dont l'effet vous plaira davantage</l>
+                           <l>  Provenant d'un esprit vaincu par la raison</l>
+                           <l>  Que par mille transports produits hors de saison.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ARISTIDE.</head>
+                        <lg>
+                           <l>  Ha! tu ne connois pas combien cette inhumaine</l>
+                           <l>  A l'humeur orgueilleuse, insensible &amp; hautaine,</l>
+                           <l>  On ne la dompte pas ainsi facilement;</l>
+                           <l>  Ce mespris serviroit à son ressentiment,</l>
+                           <l>  Et luy feroit sans doute un certain tesmoignage</l>
+                           <l>  De tout ce qu'elle croit à mon desavantage.</l>
+                           <l>  Allons donc, aussi bien avec cette fureur,</l>
+                           <l>  Ne veux-je point paroistre aux yeux de l'Empereur,</l>
+                           <l>  Le voila, passons viste.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ANTHENOR.</head>
+                        <p rend="justify">Allons.</p>
+                     </div>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>SCENE III.</label>
+                  </head>
+                  <p rend="justify">Diocletian. Rutile. &amp; suitte.</p>
+                  <div type="div4">
+                     <head>DIOCLETIAN.</head>
+                     <lg>
+                        <l>                          Enfin, Rutile,</l>
+                        <l>  Les tourmens n'ont produit qu'un effet inutile,</l>
+                        <l>  Et ce desesperé souffre sans murmurer</l>
+                        <l>  Tout ce que sans mourir on sçauroit endurer?</l>
+                     </lg>
+                     <div type="div5">
+                        <head>RUTILE.</head>
+                        <lg>
+                           <l>  Ouy, Cesar, il endure &amp; brave les supplices.</l>
+                           <l>  On diroit que son coeur y trouve des delices,</l>
+                           <l>  Et qu'alors que son sang coule de tous costez</l>
+                           <l>  Il nage dans un bain parmy des voluptez.</l>
+                           <l>  Il n'est point de tourment qu'on n'ait mis en usage,</l>
+                           <l>  Il les a tous soufferts sans changer de visage,</l>
+                           <l>  Et la flame &amp; le fer qui l'ont sçeu dechirer,</l>
+                           <l>  N'ont pas pû seulement le faire souspirer.</l>
+                           <l>  Son courage s'augmente, &amp; s'accroit par les gesnes,</l>
+                           <l>  Les boureaux plus que luy sont touchez de ses peines,</l>
+                           <l>  Et tandis que chacun plaint ou pleure son sort,</l>
+                           <l>  Luy seul void sans trembler l'appareil de sa mort.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>DIOCLETIAN.</head>
+                        <lg>
+                           <l>  Sans doute il s'est muny de la force des charmes:</l>
+                           <l>  Mais qu'a fait Pamphilie en ses tristes alarmes?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>RUTILE.</head>
+                        <lg>
+                           <l>  Te le pourray-je dire, &amp; pourras-tu l'ouïr?</l>
+                           <l>  Il faut ou te desplaire, ou te desobeïr:</l>
+                           <l>  Et je crains, ô Cesar, que mon obeïssance</l>
+                           <l>  Ne soit contrainte icy de commettre une offence,</l>
+                           <l>  Si ma bouche te fait le recit ennuyeux</l>
+                           <l>  E'un spectacle où j'ay peine à bien croire mes yeux.</l>
+                           <l>  Pourtant puis qu'il te plaist, escoute une advanture</l>
+                           <l>  Inouye &amp; nouvelle à toute la nature.</l>
+                           <l>  Suivant l'ordre &amp; l'arrest par toy-mesme donnez,</l>
+                           <l>  Desja nos criminels au suplice menez,</l>
+                           <l>  Et suivis des boureaux &amp; de la populace,</l>
+                           <l>  Estoient l'un devant l'autre exposez sur la place,</l>
+                           <l>  Quand Genest destournant ses yeux de toutes parts,</l>
+                           <l>  A dessus Pamphilie arresté ses regards,</l>
+                           <l>  Qui sans estre troublée, &amp; sans parestre emeue,</l>
+                           <l>  A mutuellement sur luy jetté la veue:</l>
+                           <l>  Ces muets truchemens des esprits plus adroits,</l>
+                           <l>  Ayant faict quelque temps l'office de leur voix,</l>
+                           <l>  Ont fait tréve à la fin &amp; permis à leur langue,</l>
+                           <l>  De proferer tout haut cette triste harangue.</l>
+                           <l>  Voids, a dit Pamphilie, ô merveilleux vainqueur,</l>
+                           <l>  Voids, ô mon cher Amant, si je manque de coeur,</l>
+                           <l>  Si proche du trespas regarde si je tremble.</l>
+                           <l>  Non, non, je ne crains rien, mourons, mourons ensemble,</l>
+                           <l>  Et puis qu'un sainct Hymen nous doit joindre là haut,</l>
+                           <l>  Que nostre sang versé sur ce cher eschaffaut</l>
+                           <l>  En signe les accords, &amp; soit le premier gage</l>
+                           <l>  Que nous aurons donné de nostre mariage.</l>
+                           <l>  Ces fers nous tiendront lieu de joyaux precieux,</l>
+                           <l>  Ce funebre appareil de lit delicieux,</l>
+                           <l>  Les boureaux d'Officiers, &amp; toute l'assistance</l>
+                           <l>  De pompe, d'ornement, &amp; de magnificence.</l>
+                           <l>  À ces mots son amant d'un visage serain</l>
+                           <l>  A reparty des yeux, &amp; luy tendant la main</l>
+                           <l>  A fait connoistre assez qu'il avoit agreable</l>
+                           <l>  De ce superbe objet la constance admirable:</l>
+                           <l>  Enfin estans tous deux en estat de souffrir</l>
+                           <l>  On les void à l'envy l'un &amp; l'autre s'offrir,</l>
+                           <l>  Et comme en un combat plein d'honneur &amp; de gloire</l>
+                           <l>  Se disputer tous deux cette triste victoire</l>
+                           <l>  Dont le sanglant effet estonne les esprits,</l>
+                           <l>  Et de qui le trespas est la fin &amp; le prix.</l>
+                           <l>  D'abord pour effrayer cette jeune arrogante,</l>
+                           <l>  L'executeur en main prend une torche ardente,</l>
+                           <l>  Et sur Genest enfin commençant ses efforts</l>
+                           <l>  Fait agir sans pitié la flame sur son corps,</l>
+                           <l>  Le feu court, &amp; produit un effet pitoyable;</l>
+                           <l>  Il touche tout le monde horsmis ce miserable,</l>
+                           <l>  Qui d'une vive ardeur à demy consumé</l>
+                           <l>  Semble au lieu d'en mourir en paroistre animé.</l>
+                           <l>  Nous restons tous confus, le boureau perd courage.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>DIOCLETIAN.</head>
+                        <lg>
+                           <l>  Et je creve en mon coeur de despit &amp; de rage</l>
+                           <l>  Que de mes propres mains ne le puis-je estouffer.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>RUTILE.</head>
+                        <lg>
+                           <l>  Alors apres la flame on a recours au fer,</l>
+                           <l>  À coup d'ongles d'acier un Soldat le dechire,</l>
+                           <l>  Le sang jallit à flots sur celuy qui le tire:</l>
+                           <l>  Mais la mesme couleur dont chaque objet rougit</l>
+                           <l>  Sur le peuple estonné differemment agit.</l>
+                           <l>  Quelques-uns de pitié sentent leur ame atteinte,</l>
+                           <l>  Les autres sont touchez ou d'horreur, ou de crainte,</l>
+                           <l>  Et parmi tant de gens interdits à ce point,</l>
+                           <l>  Le coupable est le seul qui ne s'en emeut point.</l>
+                           <l>  Voyant de ce costé nos ordonnances vaines,</l>
+                           <l>  Nous exposons l'ingrat à de nouvelles peines,</l>
+                           <l>  Et pour le tourmenter avec plus de rigueur</l>
+                           <l>  Nous cherchons par ses yeux le chemin de son coeur.</l>
+                           <l>  Mais inutilement nous tentons cette voye,</l>
+                           <l>  Comme luy Pamphilie en tressaille de joye,</l>
+                           <l>  Et voyant approcher les boureaux sans horreur</l>
+                           <l>  Tasche par ses discours d'exciter leur fureur.</l>
+                           <l>  On diroit que d'abord cette beauté les charme,</l>
+                           <l>  Que malgré leur rigueur sa grace les desarme,</l>
+                           <l>  Et que ce fier orgueil qu'on void en son aspect</l>
+                           <l>  Loing de les irriter leur donne du respect.</l>
+                           <l>  Toutesfois leur devoir ou ma voix les anime,</l>
+                           <l>  Et de leur deité faisant une victime,</l>
+                           <l>  L'un d'eux hausse le bras, &amp; d'un soudain effort</l>
+                           <l>  Acheve en un moment &amp; sa vie &amp; son sort.</l>
+                           <l>  Genest s'impatiente, &amp; brule de la suivre,</l>
+                           <l>  Il dit que de ses maux le plus grand est de vivre,</l>
+                           <l>  Et je crois, ô Cesar, qu'il n'en faut pas douter:</l>
+                           <l>  Mais d'ailleurs s'il ne meurt il est à redouter;</l>
+                           <l>  Et je crains que le peuple esmeu de sa constance</l>
+                           <l>  Ne se porte à la fin à quelque violence,</l>
+                           <l>  Voila l'occasion qui me rameine icy.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>DIOCLETIAN.</head>
+                        <lg>
+                           <l>  Retourne, &amp; sur le champ qu'on l'expedie aussi,</l>
+                           <l>  Delivre promptement Rome de cette peste</l>
+                           <l>  Avant qu'à nos Estats elle soit plus funeste.</l>
+                           <l>  Va.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>RUTILE.</head>
+                        <p rend="justify">J'obey, Seigneur.</p>
+                     </div>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>SCENE IV.</label>
+                  </head>
+                  <p rend="justify">Diocletian. &amp; suitte.</p>
+                  <div type="div4">
+                     <head>DIOCLETIAN.</head>
+                     <lg>
+                        <l>                        Quoy donc ces enragez</l>
+                        <l>  Ayment mieux estre ensemble en public esgorgez,</l>
+                        <l>  Que d'adorer nos Dieux, que d'implorer ma grace,</l>
+                        <l>  Et parmy les douceurs d'une heureuse bonace</l>
+                        <l>  Vivre dans les plaisirs, les honneurs, &amp; les biens?</l>
+                        <l>  Ha! Dieux, quelle fureur agite les Chrestiens?</l>
+                        <l>  Ils respandent leur sang, ils prodiguent leur vie,</l>
+                        <l>  Et dez qu'un faux espoir a charmé ces impies</l>
+                        <l>  Il n'est point de supplice, il n'est point de tourment</l>
+                        <l>  Qui les puisse tirer de leur aveuglement.</l>
+                        <l>  Si faut-il toutesfois ou dompter leur audace,</l>
+                        <l>  Ou jusques au dernier en esteindre la race.</l>
+                        <l>  Mais que veut Aquillin? il paroit tout esmeu.</l>
+                     </lg>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>SCENE V.</label>
+                  </head>
+                  <p rend="justify">Diocletian. Aquillin. &amp; suitte.</p>
+                  <div type="div4">
+                     <head>AQUILLIN.</head>
+                     <p rend="justify">Cesar, je suis confus apres ce que j'ay veu.</p>
+                     <div type="div5">
+                        <head>DIOCLETIAN.</head>
+                        <lg>
+                           <l>  Qu'est-ce donc? parle-tost, qu'est-ce que tu consultes?</l>
+                           <l>  Les Chrestiens ont-ils fait naistre quelques tumultes?</l>
+                           <l>  Quelques seditieux se sont-ils revoltez</l>
+                           <l>  Au mespris de mon ordre &amp; de mes volontez?</l>
+                           <l>  Parle, ne me tiens pas plus long-temps en balance.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>AQUILLIN.</head>
+                        <lg>
+                           <l>  Non, Seigneur, tout le peuple ayme ou craint ta puissance,</l>
+                           <l>  Et la peur du trespas, ou le respect des Dieux,</l>
+                           <l>  Tiendra dans le devoir les plus audacieux.</l>
+                           <l>  Aussi n'est-ce pas là le sujet qui me trouble,</l>
+                           <l>  Mais un triste accident.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>DIOCLETIAN.</head>
+                        <lg>
+                           <l>                           Quel? ma crainte redouble.</l>
+                           <l>  Je tremble en mesme temps, &amp; brusle de sçavoir</l>
+                           <l>  Quels estranges malheurs te peuvent esmouvoir.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>AQUILLIN.</head>
+                        <lg>
+                           <l>  Rends le calme à tes sens, &amp; bannis cette crainte</l>
+                           <l>  Dont icy sans sujet ta belle ame est atteinte:</l>
+                           <l>  Ce que j'ay veu, Cesar, me touche au dernier point,</l>
+                           <l>  Mais ce triste accident ne te regarde point,</l>
+                           <l>  Si la compassion peut estre ne t'engage</l>
+                           <l>  À plaindre comme moy ceux qu'un excez de rage</l>
+                           <l>  Dans le Tibre à mes yeux vient de faire perir,</l>
+                           <l>  Sans que jamais aucun les ait pû secourir.</l>
+                           <l>  Apres avoir conduit Pamphilie à la place</l>
+                           <l>  Où son trespas devoit expier son audace,</l>
+                           <l>  Je retournois icy quand j'ay veu devant moy</l>
+                           <l>  Un spectacle d'horreur, de tendresse &amp; d'effroy.</l>
+                           <l>  De quelque desplaisir Luciane blessée</l>
+                           <l>  S'est du plus haut du pont dans le Tybre eslancée,</l>
+                           <l>  Où son corps quelques temps roulant au gré des flots,</l>
+                           <l>  A fait quoy que tout mort naistre d'autres complots,</l>
+                           <l>  Aristide voyant par un malheur extréme,</l>
+                           <l>  Perir ce qu'il aymoit à l'esgal de luy-mesme,</l>
+                           <l>  Veut suivre son destin, &amp; par un mesme effort,</l>
+                           <l>  Cherche dessoubs les eaux une pareille mort.</l>
+                           <l>  Anthenor qui prevoit un projet si funeste,</l>
+                           <l>  Oppose à sa fureur la vigueur qui luy reste,</l>
+                           <l>  Mais comme elle est plus forte en un corps furieux,</l>
+                           <l>  Le desespoir d'un seul les emporte touts deux,</l>
+                           <l>  Attachez l'un à l'autre ils tombent soubs les ondes,</l>
+                           <l>  Leur cheute fait ouvrir leurs entrailles profondes,</l>
+                           <l>  Qui les ayant trois fois &amp; rendus &amp; repris,</l>
+                           <l>  Pour jamais à la fin estouffent leurs esprits,</l>
+                           <l>  Voila ce que j'ay veu, juge s'il est possible</l>
+                           <l>  De voir un tel malheur &amp; paroistre insensible,</l>
+                           <l>  Non, Cesar, &amp; quiconque a du coeur &amp; des yeux,</l>
+                           <l>  Ne void point sans pitié ces coups prodigieux.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>DIOCLETIAN.</head>
+                        <lg>
+                           <l>  Je l'advoue avec toy, cette estrange adventure</l>
+                           <l>  Auroit esté sensible à l'ame la plus dure,</l>
+                           <l>  Et le coeur d'un barbare en cette occasion,</l>
+                           <l>  Eust eu tes sentimens, &amp; ta compassion,</l>
+                           <l>  Mais oublie, Aquillin, une pitié si tendre,</l>
+                           <l>  Dont pour quelques sujets tu n'as pu te deffendre,</l>
+                           <l>  Et reserve ta voix, tes souspirs, &amp; tes pleurs,</l>
+                           <l>  À plaindre desormais l'excez de mes malheurs,</l>
+                           <l>  Ouy, ouy garde à mon sort ta pitié toute entiere,</l>
+                           <l>  Elle ne peut avoir de plus ample matiere.</l>
+                           <l>  Puis que ceux que le ciel void d'un oeil rigoureux</l>
+                           <l>  Peuvent au prix de moy se reputer heureux.</l>
+                           <l>  Ouy, malgré mes grandeurs &amp; les pompes de Rome,</l>
+                           <l>  Je connois, Aquillin, enfin que je suis homme,</l>
+                           <l>  Mais homme abandonné, mais un homme odieux,</l>
+                           <l>  Mais un homme l'horreur des hommes &amp; des Dieux.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>AQUILLIN.</head>
+                        <lg>
+                           <l>  Que dites vous, Seigneur, quelle douleur si forte</l>
+                           <l>  Peut si soudainement vous troubler de la sorte?</l>
+                           <l>  Tout vous craint, tout flechit, tout revere vos loix,</l>
+                           <l>  Et seul vous commandez à la Royne des roys,</l>
+                           <l>  Chassez donc la frayeur dont vostre ame est atteinte,</l>
+                           <l>  Le trosne est un azile où ne va pas la crainte,</l>
+                           <l>  Tout le monde sur vous ayant les yeux ouvers</l>
+                           <l>  Vous ne sçauriez perir qu'avec tout l'univers.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>DIOCLETIAN.</head>
+                        <lg>
+                           <l>  Ha! que pour me guerir du mal qui me possede</l>
+                           <l>  Un langage flatteur est un foible remede,</l>
+                           <l>  Et que pour m'arracher aux douleurs que je sens</l>
+                           <l>  Les soins de mes sujets sont des soins impuissans.</l>
+                           <l>  En vain je porte un sceptre, en vain une couronne,</l>
+                           <l>  En vain un monde entier me suit &amp; m'environne,</l>
+                           <l>  En vain je suis Monarque, &amp; Monarque vainqueur,</l>
+                           <l>  Si tous mes ennemis sont desja dans mon coeur,</l>
+                           <l>  Si je sens en mon ame une guerre cruelle,</l>
+                           <l>  Si je me suis moy-mesme à moy-mesme rebelle,</l>
+                           <l>  Et si par tout en fin je traine avecque moy</l>
+                           <l>  L'horreur, le desespoir, le remords &amp; l'effroy,</l>
+                           <l>  Tout me paroit fatal, tout me semble funeste,</l>
+                           <l>  Le jour troublé d'esclairs, l'air infecté de peste,</l>
+                           <l>  Le ciel rouge de feux, &amp; la terre de sang,</l>
+                           <l>  Le Soleil sans lumiere &amp; sorty de son rang.</l>
+                           <l>  Ô Dieux! ne vois-tu pas ces fantosmes terribles</l>
+                           <l>  Qui font autour de moy des hurlemens horribles?</l>
+                           <l>  Entends-tu comme moy ces longs gemissemens</l>
+                           <l>  Dont les tristes accens troublent mes sentimens?</l>
+                           <l>  Ô rage, ô desespoir, ô douleur qui me tue!</l>
+                           <l>  Mais quel astre nouveau brille dans cette nue?</l>
+                           <l>  Quelle divinité plus belle que le jour</l>
+                           <l>  Daigne encore esclairer ce funeste sejour?</l>
+                           <l>  Ha! ma douleur s'appaise &amp; ma frayeur s'oublie,</l>
+                           <l>  Au ciel je vois Genest avecque Pamphilie,</l>
+                           <l>  De mille beaux objets tous deux environnez,</l>
+                           <l>  Tous deux la palme en main, &amp; tous deux couronnez.</l>
+                           <l>  Cheres ombres, pardon, &amp; du ciel où vous estes</l>
+                           <l>  Calmez de mon esprit les horribles tempestes,</l>
+                           <l>  Je fus en vostre endroit cruel, &amp; furieux;</l>
+                           <l>  Mais je vous vay ranger au nombre de nos dieux.</l>
+                           <l>  Je vay vous eslever d'illustres mausolées</l>
+                           <l>  Qui toucheront du faiste aux voultes estoilées,</l>
+                           <l>  Et serviront de marque aux siecles à venir,</l>
+                           <l>  Et de vostre innocence, &amp; de mon repentir.</l>
+                           <l>  Mais, helas! tout à coup ces clartez disparoissent,</l>
+                           <l>  Mon desespoir revient, &amp; mes craintes renaissent:</l>
+                           <l>  Ô Dieux, injustes Dieux, qui voyez mes ennuis,</l>
+                           <l>  Qui voyez mes tourmens, &amp; l'horreur où je suis,</l>
+                           <l>  Moderez, inhumains, les douleurs que j'endure,</l>
+                           <l>  J'ay vangé vos autels, j'ay vangé vostre injure,</l>
+                           <l>  Et si vous ne voulez qu'on vous croye impuissans</l>
+                           <l>  Vous devez appaiser les tourmens que je sens.</l>
+                           <l>  Mais s'il faut, Dieux ingrats, enfin que je perisse,</l>
+                           <l>  Achevez vos rigueurs, &amp; hastez mon supplice.</l>
+                        </lg>
+                     </div>
+                  </div>
+                  <div type="div4">
+                     <head>FIN.</head>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

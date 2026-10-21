@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hier beghint die hystorie Vanden grooten Coninck Alexander</title>
+            <author>Anonymous</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-01T18:00:45Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">odts/nl-odts/Anonymous-HierBeghintDieHystorieVandenGrootenConinckAlexander_2020.epub.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Anonymous</name>
+               <date>2024-01-01T18:00:45Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Hier beghint die hystorie Vanden grooten Coninck Alexander</head>
+         <author>Anonymous</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">odts/nl-odts/Anonymous-HierBeghintDieHystorieVandenGrootenConinckAlexander_2020.epub.odt</p>
+         <p>Noten bij de transcriptie:</p>
+         <list rend="bulleted">
+            <item>Dit 15e eeuwse boek is geschreven in een gotische drukletter. In dit lettertype komen lettertekens en diacrieten voor die in het hedendaagse alfabet niet voorkomen. Deze lettertekens en diacrieten zijn in de onderstaande tekst uitgeschreven tussen blokhaken, bijvoorbeeld "[ver]dreef" en "m[~ij]e". Het tilde-teken boven klinkers is zeer vaak gebruikt in plaats van de letter "n" of "m". Bijvoorbeeld "Alexãder" staat voor "Alexander" en "vindẽ" voor "vinden". Het tilde-teken in "eñ" is een afkorting voor "ende".</item>
+            <item>Qua spelling en (afwezigheid van) leestekens is zoveel mogelijk de oorspronkelijke tekst aangehouden. Wel zijn woorden die gesplitst waren over twee regels (met of zonder koppelteken) weer samengevoegd tot één woord. De in die tijd gebruikelijke wisselingen tussen "i" en "j", en tussen "u", "v" en "n" zijn gehandhaafd.</item>
+            <item>Getallen in deze tekst zijn in het Romeinse talstelsel. Bij grote getallen worden de getallen vaak fonetisch Romeins geschreven. Bijvoorbeeld het getal 70.700 ("zeventig-duizend en zeven-honderd") wordt geschreven als "lxx: m: eñ vij: C:"</item>
+            <item>In de hoofdstuknummering kwamen meerdere druk- en zetfouten voor, bijvoorbeeld twee keer opeenvolgend hoofdstuk "viij", maar geen hoofdstuk "vij". Daar waar het juiste hoofdstuknummer eenvoudig af te leiden was, zijn deze nummers aangepast. Het dubbel gebruik van hoofdstuknummer "xi" komt in meerdere drukken van dit boek voor.</item>
+            <item>In het boek was geen inhoudsopgave aanwezig. Deze is bij het maken van de transcriptie toegevoegd tot gemak van de lezer.</item>
+         </list>
+         <head>Hier beghint die hystorie Vanden grooten Coninck Alexander</head>
+         <pb/>
+         <div type="div1">
+            <head>Hier beghint die hystorie Vanden grooten Coninck Alexander</head>
+            <pb/>
+            <div type="div2">
+               <head>Inhoudsopgave</head>
+               <table rend="frame" xml:id="Table1">
+                  <row>
+                     <cell>i</cell>
+                     <cell>Dat eerste cap</cell>
+                  </row>
+                  <row>
+                     <cell>ij</cell>
+                     <cell>Hoe Neptanabus Alexander wan</cell>
+                  </row>
+                  <row>
+                     <cell>iij</cell>
+                     <cell>Hoe hẽ Neptanabus [ver]schiep in een draeck</cell>
+                  </row>
+                  <row>
+                     <cell>iiij</cell>
+                     <cell>Hoe dat die grooten Alexander gheboren wort</cell>
+                  </row>
+                  <row>
+                     <cell>v</cell>
+                     <cell>Hoe Alexander Neptanabus dode</cell>
+                  </row>
+                  <row>
+                     <cell>vi</cell>
+                     <cell>Hoe Alexander Pucifael bereedt</cell>
+                  </row>
+                  <row>
+                     <cell>vij</cell>
+                     <cell>Hoe Alexander den prijs te Pysen wan</cell>
+                  </row>
+                  <row>
+                     <cell>viij</cell>
+                     <cell>Vanden wijsen ende waerachtighen man Socrathes</cell>
+                  </row>
+                  <row>
+                     <cell>ix</cell>
+                     <cell>Hoe Philippus Macedonien wan</cell>
+                  </row>
+                  <row>
+                     <cell>x</cell>
+                     <cell>Hoe dat Alexander Darius dẽ tyns ontseide</cell>
+                  </row>
+                  <row>
+                     <cell>xi</cell>
+                     <cell>Hoe Philippus sijn doot wraecte</cell>
+                  </row>
+                  <row>
+                     <cell>xi</cell>
+                     <cell>Hoe Alexander sijn rijck ontfinc</cell>
+                  </row>
+                  <row>
+                     <cell>xij</cell>
+                     <cell>Hoe Alexander sijn heer vergaderde</cell>
+                  </row>
+                  <row>
+                     <cell>xiij</cell>
+                     <cell>Hoe Alexander Cyrien eñ Tyren beleyde. eñ hoe dat hijse te samen verwan</cell>
+                  </row>
+                  <row>
+                     <cell>xiiij</cell>
+                     <cell>Hoe Darius Alexander brieuen screef</cell>
+                  </row>
+                  <row>
+                     <cell>xv</cell>
+                     <cell>Hoe Alexãder Darius weder screef</cell>
+                  </row>
+                  <row>
+                     <cell>xvi</cell>
+                     <cell>Hoe Darius tegen Alexander street</cell>
+                  </row>
+                  <row>
+                     <cell>xvij</cell>
+                     <cell>Hoe Alexander Thebeen destrueerde</cell>
+                  </row>
+                  <row>
+                     <cell>xviij</cell>
+                     <cell>Hoe Alexander Darius sochte</cell>
+                  </row>
+                  <row>
+                     <cell>xix</cell>
+                     <cell>Hoe Alexander Darius scat verwerf</cell>
+                  </row>
+                  <row>
+                     <cell>xx</cell>
+                     <cell>Van Alexander opten berch Gariesim</cell>
+                  </row>
+                  <row>
+                     <cell>xxi</cell>
+                     <cell>Hoe Alexander tot Iadus dẽ groten pape van Iherusalem om succoers sende</cell>
+                  </row>
+                  <row>
+                     <cell>xxij</cell>
+                     <cell>Hoe Alexander ons heren naem aenbede</cell>
+                  </row>
+                  <row>
+                     <cell>xxiij</cell>
+                     <cell>Hoe Alexander voer tot Amons tempel</cell>
+                  </row>
+                  <row>
+                     <cell>xxiiij</cell>
+                     <cell>Hoe hem Darius eñ Alexãder ouer screuẽ</cell>
+                  </row>
+                  <row>
+                     <cell>xxv</cell>
+                     <cell>Hoe Alexander mit Darius at</cell>
+                  </row>
+                  <row>
+                     <cell>xxvi</cell>
+                     <cell>Hoe Darius eñ alexander te samen stredẽ</cell>
+                  </row>
+                  <row>
+                     <cell>xxvij</cell>
+                     <cell>Hoe Darius an Alexander õ genade screef</cell>
+                  </row>
+                  <row>
+                     <cell>xxviij</cell>
+                     <cell>Hoe Darius vã sinen luden geslegen wort</cell>
+                  </row>
+                  <row>
+                     <cell>xxix</cell>
+                     <cell>Dit waren Darius woorden voor sijnre doot eer dat hi sterf</cell>
+                  </row>
+                  <row>
+                     <cell>xxx</cell>
+                     <cell>Van coninc Darius graue</cell>
+                  </row>
+                  <row>
+                     <cell>xxxi</cell>
+                     <cell>Van Philo Anaxigenes eñ vã Epicurus</cell>
+                  </row>
+                  <row>
+                     <cell>xxxij</cell>
+                     <cell>Hoe Alexander sijn zeden verwandelde</cell>
+                  </row>
+                  <row>
+                     <cell>xxxiij</cell>
+                     <cell>Hoe Alexander die x. gheslachten vã israhel besloet.</cell>
+                  </row>
+                  <row>
+                     <cell>xxxiiij</cell>
+                     <cell>Vander poorten vã Caspien</cell>
+                  </row>
+                  <row>
+                     <cell>xxxv</cell>
+                     <cell>Die wrake vã coninc Darius doot</cell>
+                  </row>
+                  <row>
+                     <cell>xxxvi</cell>
+                     <cell>Hoe Alexander Clit[us] doot sloech</cell>
+                  </row>
+                  <row>
+                     <cell>xxxvij</cell>
+                     <cell>Hoe Alexander Calistines doode</cell>
+                  </row>
+                  <row>
+                     <cell>xxxviij</cell>
+                     <cell>Hoe Alexander in Indien voer</cell>
+                  </row>
+                  <row>
+                     <cell>xxxix</cell>
+                     <cell>Hoe Alexander in Indien eenen zone wan</cell>
+                  </row>
+                  <row>
+                     <cell>xl</cell>
+                     <cell>Hoe Alexander Porrius eyschte te campe</cell>
+                  </row>
+                  <row>
+                     <cell>xli</cell>
+                     <cell>Van Porrius rijcheyt eñ macht</cell>
+                  </row>
+                  <row>
+                     <cell>xlij</cell>
+                     <cell>Hoe dat Alexander in een stat spranc</cell>
+                  </row>
+                  <row>
+                     <cell>xliij</cell>
+                     <cell>Hoe Alexander die dõcker zee bestont</cell>
+                  </row>
+                  <row>
+                     <cell>xliiij</cell>
+                     <cell>Van Candax der coninginnen</cell>
+                  </row>
+                  <row>
+                     <cell>xlv</cell>
+                     <cell>Hoe Alexander doer die roetsche villede</cell>
+                  </row>
+                  <row>
+                     <cell>xlvi</cell>
+                     <cell>Van den serpenten eñ anderen dieren die alexãder vreesden</cell>
+                  </row>
+                  <row>
+                     <cell>xlvij</cell>
+                     <cell>Hoe Alexander binnẽ Indien waert voer</cell>
+                  </row>
+                  <row>
+                     <cell>xlviij</cell>
+                     <cell>Vanden wonderen die in Indien sijn</cell>
+                  </row>
+                  <row>
+                     <cell>xlix</cell>
+                     <cell>Vander zõnen eñ manen boom</cell>
+                  </row>
+                  <row>
+                     <cell>l</cell>
+                     <cell>Hoe Alexander sijn eerste antwoorde ontfinc vander zõnen boom</cell>
+                  </row>
+                  <row>
+                     <cell>li</cell>
+                     <cell>Hoe der manẽ boom Alexander anderwerf ãtwoorde</cell>
+                  </row>
+                  <row>
+                     <cell>liij</cell>
+                     <cell>Hoe der zonnen boom coninc Alexãder die derde vraghe antwoorde</cell>
+                  </row>
+                  <row>
+                     <cell>liiij</cell>
+                     <cell>Van Alexanders [ver]waentheden</cell>
+                  </row>
+                  <row>
+                     <cell>lv</cell>
+                     <cell>Hoe Alexander der maechdẽ lant wan</cell>
+                  </row>
+                  <row>
+                     <cell>lvi</cell>
+                     <cell>Hoe Alexander die Bracmãnen bestoet</cell>
+                  </row>
+                  <row>
+                     <cell>lvij</cell>
+                     <cell>Hoe Alexander dẽ Bracmãnen weder screef</cell>
+                  </row>
+                  <row>
+                     <cell>lviij</cell>
+                     <cell>Een antwoorde vã Didimus tot Alexander</cell>
+                  </row>
+                  <row>
+                     <cell>lix</cell>
+                     <cell>Hoe dat Alexander Didimus antwoorde</cell>
+                  </row>
+                  <row>
+                     <cell>lx</cell>
+                     <cell>Hoe Didimus Alexãder antwoorde</cell>
+                  </row>
+                  <row>
+                     <cell>lxi</cell>
+                     <cell>Hoe Alexander weder ãtwoorde</cell>
+                  </row>
+                  <row>
+                     <cell>lxij</cell>
+                     <cell>Hoe Alexander te Babilonien quam tot s[~ij]re doot waert</cell>
+                  </row>
+                  <row>
+                     <cell>lxiij</cell>
+                     <cell>Van Alexanders feest eñ zijn vermeten</cell>
+                  </row>
+                  <row>
+                     <cell>lxiiij</cell>
+                     <cell>Hoe Alexander vergeuen wort</cell>
+                  </row>
+                  <row>
+                     <cell>lxv</cell>
+                     <cell>Van Alexanders doot</cell>
+                  </row>
+                  <row>
+                     <cell>lxvi</cell>
+                     <cell>Van Alexanders vromicheit</cell>
+                  </row>
+                  <row>
+                     <cell>lxvij</cell>
+                     <cell>Van Alexanders begrauinghe</cell>
+                  </row>
+               </table>
+               <p rend="justify">Hier beghint die Hystorie dat leuen ende dat regiment des alre grootsten eñ machtichsten conincx Alexander Die heere ende prince was van alle die werelt</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Dat eerste cap:</head>
+               <p rend="justify">Tot deser tijt dat Othus Artaxarses zone regneerde in. Persen eñ in Meden: eñ hi in sijn tiende iaer was van sijnen rijcke, Eñ int laetste iaer dat Philippus regneerde in, Macedonien Eñ int laetste iaer dat Neptanabus crone ghedraghen hadde in Egipten Soe ghenas Olymphias van Alexander. alsoe men vindẽ mach in sinen gesten Maer veel lieden segghen dat die coninc Philippus Olymphias man Alexander an haer niet en wan: maer een ander mã wan hẽ aen haer Want die coninc Othus vã Persen doe hi Egipten wan soe [ver]dreef hi Neptanabus dẽ coninc vanden lande in deser manieren als wi scriuen sullẽ Wãt Neptanabus die coninc vã Egipten hildt sijn lant mit touerien eñ niet mit stridẽ Wãt als hi plach te vernemen datter eenich coninc of heer op hẽ quã om tegen hem ende in sijn lant te oerloghen: Soe ghinc hi alleen in een camere: eñ daer dede hi mit groter toueryen ende nigromancien dat alle sijne vyanden scepen versoncken mit ten volcke in die zee ende verdroncken: Ende doe hi vernam dat die coninc Othus op hẽ quã mit een groot heer so loech Neptanabus daer om: want hi meende hẽ te doden als hi die ander ghedaen hadde Maer hi verstont vanden god daer hi sijn touerye mede doen wilde soe hi plach dat hi verwõnen soude bliuen eñ geuangen worden, ten ware dat hi haestelic wt den lande vloghe Doe dede hi sijn haer eñ sijnen baert of scheren: eñ hi nã sijn beste iuweelen mit hem eñ vloech te Macedonien waert: Eñ daer wort hi vermaert voor een groot astronomijn. eñ Olymphias Philippus vrouwe ontboet hẽ om raet an hẽ te nemen van saken die sy begheerde. want haer man die coninck Philippus was doe wten lande:</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe Neptanabus Alexander wan</head>
+               <p rend="justify">Ca. ij</p>
+               <p rend="justify">Als Neptanabus tot deser vrouwen quã eñ hi sach dat sy zeer schoone was Soe wort hi haer zeer beminnende: eñ hi gaf haer te verstaen dat sy eenen zone dragen soude die alsoe machtich wesen soude: Al waert dat Philippus haer mã haer verdriuen wilde haer zone soudese wel te rechte houden. Eñ hi seide haer dat sy dien zone aen eenen god winnen soude. Hier om wort sy zeer bescaemt eñ veruaert: eñ sy vraechde hẽ Wat god salt sijn Neptanabus antwoorde haer: segghende Het sal wesen Ammon die god vã Libra Hier om bereyde di tamelic eñ eerlick datstu waerdich moechste wesen alsulkẽ god te ontfaen. eñ du sulste gaen tot deser stat daer sal hi tot v comẽ inder gedaente van eenen drake In deser manieren so bedroech dese touenaer Olymphias eñ hi quam seluer tot haer in eens draken ghedaente. want hi conste hẽ seluen wel verscheppen Dus lach hi bi haer eñ wan aen haer den stoutẽ Alexander Des nachts dede hi dit Philippus dẽ coninc Olymphias mã in een droom te voren comen daer hi lach voor een stat Eñ Philippus die coninc ontboet een droom beduder die zeer wijs was. eñ seide hẽ: Mi docht d[at] ic in een droom sach datter een schoen god mit grauwen hare die twee clare ramshoren hadde bi m[~ij]re vrouwen Olymphias lach en sliep Eñ doe hi sinen wille mit haer gedaen hadde: soe dochte mi dat hi seyde Wijf ghi hebt vã mi ontfanghen eenen zone een wreeker Die meester antwoorde daer op Dijn vrouwe heeft eenen zone ontfangen in haer lichaem van een god Eñ om dat ghi docht dat hi graeu gehaeret was eñ ghehorent als een ram: dat beduydet dat sy dat kint ontfanghen heeft van Ammon den god van Libra, Hier om wort die coninc Philippus harde gram eñ hi liet sijn oerloghen staen eñ hi keerde haestelic te Macedonien waert Olymphias was doe zeer versaeghet ende sy onthaelde den coninc bloedelijck Eñ hi seide. Wijf ic weet wel hoet mit v [ver]gaẽ is: want dat kint datstu drages en hebstu van ghenen mã ontfãgen mer vã een god. Aldus troeste hi die vrouwe die in vresen was mit behendichedẽ. mer sijn hert was hẽ zeer tõvreden</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe hẽ Neptanabus [ver]schiep in een draeck</head>
+               <p rend="justify">Cap. iij</p>
+               <p rend="justify">Hier nae [ver]stont Neptanabus dat Philippus die coninc Olymphias s[~ij]re vrouwẽ te harder was Eñ tot eenre feesten daer dẽ coninc sat eñ at mit sijn volc so dede hi dit wonder Eñ om dat die coninc tegen s[~ij]re vrouwẽ fel ghelaet toende. so versciep hẽ Neptanabus in eenẽ draeck eñ hi quã midden inder feesten. Doe wordẽ alle die ghene die daer waren zeer veruaert. want hi was in sinen ganc zeer schone om te aensiene Eñ hi wort soe vreeselic wispelende datter alle die zale of beefde: eñ sij waren alle in grooten anxte. sonder Olymphias Philippus wijf Wãt die draeck boet haer sijn hant eñ hi was bereyt te doen wat sy wilde. eñ hi leyde sijn hooft in haren schoot eñ custe haer Hier nae wort vanden draeke een aern. eñ hi vloech wten huyse Doe wort die coninc blijde eñ seyde Ick was sot dat ic mi balch op mijn vrouwe. want nv sye ick wel dat dit een god was. maer niet wel en weet ic oft Ammõ was om dat hi in eenen draecke openbaerde. ofte oec Iupiter om dat hi naemaels een aern wort Doe antwoorde hem sijn vrouwe Olymphias eñ sy seide dattet die god Ammon was. Op eenre tijt hier nae soe quam een henne daer die coninc Philippus sat eñ sy leyde een ey in sinen schoot eñ doe voer sy wech Ende dit ey viel van sinen schoot aen stucken: ende doe quam daer een cleyn draecxken wt. eñ hi liep al daer omme. recht of hi gherne weder in die eyscale geweest hadde: Eñ doe die drake daer immer in wesen wilde soe viel hi doot op die aerde Doe seyde hem een wijs man Di sal eẽ zone gheboren worden die heere wesen sal bouen alle die werelt: maer als hi die werelt gewonnen sal hebbẽ eñ hi tot sinen lande sal keren willen soe sal hi steruen Dit beduydet dit wonder van desen eye. eñ oeck mede van desen draecke:</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe dat die grooten Alexander gheboren wort:</head>
+               <p rend="justify">Capittel iiij:</p>
+               <p rend="justify">Tot deser tijt ginc Olymphias swaer vã kinde Eñ Neptanabus was altijt bi haer doe sy in arbeyde lach vãdẽ kinde: eñ hi was onledich mit s[~ij]re touerien õ dat hi haer seggẽ soude die geluckichste vre dat sy dat kint barẽ soude: Eñ soe haest als Olymphias gelegen was vãden kinde soe stormdet eñ donrede eñ blixẽdet zeer: eñ oec in veel steden beefde die aerde Eñ opt huys daer die coninginne dat kint gebaerde vochten alle die nacht twee aernen die een tegen den anderen. tot dat die een dẽ anderen Eñ hier bi wort beduydet dat hi winnen soude Asyen eñ Europẽ Philippus die coninc hiet desen zone Alexander. want hi hadde te voren eenẽ anderen gehadt die oec alsoe hiet Dit kint was blijde van aensichte eñ een deel ghehaert eñ dat haer was gelublont als leeuwẽ haer: Hi hadde schone blijde oghen. maer sijn luchtere oghe was graeu eñ sijn rechter oghe was bruyn Aldusdanich was dat kint eñ dat maecsel van Alexander Sijn vriendinne hiet Alatrine eñ sy was een edel schone ioncfrouwe Sijn touenaer hiet Alitus Eñ Polonitus leerde hẽ letteren Olymphias leerde hẽ singen Anaxigenes leerde hẽ die rethorike Menedas leerde hẽ geometrie Arestotiles philosophie.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe Alexander Neptanabus dode</head>
+               <p rend="justify">Ca: v</p>
+               <p rend="justify">Als Alexander xij: iaer out was soe wilde hi rijden mit sijnen vader: want hi minde doe zeer die wapen Eñ doe begonste hi wapen te dragen: eñ hi voer dicke int heer: eñ daer hildt hi hẽ soe vromelic oft hi langhe ridderscap geplogen hadde. Eñ hi bat Neptanabus dat hi hem wilde leeren in die sterren te syen: eñ hi dedet gherne also dat hi [ver]standel daer in wort Eñ Neptanabus leyde alexander op enẽ nacht op enen hoghen berch daer een diep dal onder lach. ende daer seyde Neptanabus veel wonders dat hi inder sterren sach Doe vraechde hem Alexãder of hi daer inne wel sach wat dinghen datter geschien souden Neptanabus antwoorde hẽ Iae ic Doe nam hem Alexander eñ stacken vanden berghe dat hi viel eñ brack sinen hals Doe seide Alexander Waer om en voorsaecht ghi niet dat v dit ongeual geuallẽ soude Licht v nv opwaert eñ besyet die sterrẽ Neptanabus antwoorde hẽ eñ seide Nyemant en mach ontulyen dat hẽ die goden gheset hebben te geschien. want ouer langhen tijt heb ic geweten eñ nv weet ic bet dat mi mijn kint doden soude: Doe vraechde Alexander oft hi dan sijn vader was Neptanabus seide hẽ Iae ic eñ hi belijede hoe hi sijn moeder bedrogen hadde eñ hi seide hẽ al wat hi haer te verstaen hadde gegheuen. eñ nae desen woorden eynde hi sijn leuẽ Doe nam hẽ Alexander op sinen hals wt vaderlicker minnen eñ hi droech hẽ in die zale eñ dede hem eerlick begrauen Eñ als hijt sijnre moeder vertelde so hadde sy des groot wõder dat sy alsoe bedroghen was: eñ sy seide haren zone alle dat gheene dat haer geboert eñ gheschiet was Ende sy seyde hem alle dingen alsoe die gheuallen waren.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe Alexander Pucifael bereedt.</head>
+               <p rend="justify">Ca. vi</p>
+               <p rend="justify">Philippus die coninck van Macedonien seynde in Delfos tot Appollijn den afgod een groot present om hem te vragen: wye nae hẽ regneren soude in sijn conincrike. Doe antwoorde die afgod Appollijn Die so vroem is dat hi Pucifael beriden mach: die sal coninc wesen vã dinen conincrijke eñ oec van al die werelt Dit Pucifael was een wreet wildt ors als een lybaert eñ het was zeer groot snel eñ goet. maer het hadde menighen man ghedoot want het en liet nyemant op hem sitten Desẽ ors hildt Philippus beslotẽ in een stal Op een tijt ghinc Alexãder voerby den stal. eñ hi hoorde dat ors neyen zeer vreeselick Doe vraechde hi Ist een lybaert of een paert dat ic daer hore neyen Ptholomeus die mit hẽ ghinc seide hem Het is dat ors Pucifael dat alle die luden verbijt Doe dede Alexander den stal ontsluten: eñ alsoe haest als dat ors buten quã soe spranc hi daer op eñ reedtet waer dat hi woude: sonder enich bant of breydel Dat nochtans menigen mensche wonder gaf. want Alexander noch niet en was dan een kint van vijftien iaren: Doe liep daer een sargant tot Philipp[us] eñ hij dochte dat Appollijn dit voorseyt hadde Ende die coninc quã haestelic tot sinen zone zeer blijde eñ vroylick. eñ hi gruetede hem als een heere van alle die werelt.</p>
+               <p rend="justify">Hoe Alexander doe hij vijftien iaer out was hoorde dat te Pysen een steeckspul beroepen was Ende hoe Alexander daer den prijs wan.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe Alexander den prijs te Pysen wan:</head>
+               <p rend="justify">Cap:vij</p>
+               <p rend="justify">Als Alexander die ionghelinc in sijn vijftiende iaer ghinc soe [ver]nam hi dat te Pysen een spul van wapenen beroepen was Eñ hi badt sinen vader dat hi hem tot dien spele varen liet Eñ sijn vader dede hem daer toe ghereyden paerden eñ ander dingen die daer toe behoerden: eñ hi liet hẽ eerlic derwaert varen Doe ginc Alexãder te scepe eñ hi quã cortelic te Pysen geseylt Als hi gelandt was, beual hi sinẽ knecht die paerden eñ ginc selue die stat besyen Daer hi dus ghinc soe ontmoette hẽ een coninc gehieten Nicola[us] vã Acernae daer hi mede ter scolẽ gegaen had mer die coninc onthaelde hẽ onwerdelick Doe antwoorde hẽ Alexãder Bijder trouwen die ic sculdich ben minen vader eñ m[~ij]re moeder Ic sal di morgen moede vechtens maken. Want kijuen is een bloode mans aert: mer een stout man becortet mittẽ swaerde Eñ dit geuiel also want Alexander verwan den coninc Nicola[us] inden tornoy. eñ oec so proefde hi hẽ wel in allen anderen saken eñ tgheuiel alsoe dat hij dẽ prijs eñ die crone vanden spele wan Eñ also keerde hi weder om te lande. ende hi vant dat sijn vader sijnre moeder verstoten hadde: eñ hi wilde een ander wijf nemen die Cleopatra genaemt was: Ende het geboerde dat Alexander opten seluen dach daer quam datmen die bruyloft hildt. eñ hi brocht die crone vandẽ prise eñ presenteerdese sinen vader ende hi seyde Neemt heer vader die eerste crone van minen ridderscap. Ende hi settese hem op sijn hooft. Seggende Vader om minen wille sult ghi dese bruyloft laten. ende mijnre moeder weder nemen Daer nae ghinc hi sitten teghen sinen vader ouer. eñ daer was een groot heere die des onwaerdt hadde eñ hi hildt sinen spot mit alexander. Doe seide hẽ Alexander: dat hi sijn spotten laeten soude. oft het soude hẽ rouwen daer quaem of wat dat mochte Maer die here en wildet niet laten Doe nã hi een croes van der tafelen eñ hi sloech hem daer mede op sijn hooft also stijue dat hi mitten slage doot bleef Hier om wort Philippus die coninc vã Macedonien soe gram op sinen zone Alexander dat hi op stõt om hẽ te slaen. eñ doe quetsede Alexander den coninc Philips diemen hildt voor sinen vader in sijn been. ende hi iaechde alle die ghene die teghen hẽ waren wten palayse mit sinen swaerde Eñ als Philippus alexanders vader genesen was soe versoende hi tegen s[~ij] zone: eñ hi haelde Olymphias alexãders moeder weder om:</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Vanden wijsen ende waerachtighen man Socrathes.</head>
+               <p rend="justify">Capittel viij:</p>
+               <p rend="justify">Tot desen tijden was die wijse Socrathes vermaert. eñ hi was soe waerachtich in sinen woorden. soe wat dat hi seide. datmens al geloefde sonder eedt Op eenre tijt hadde hi te Athenen ghenoech gedroncken: eñ hi ghinc doen voor menigen iongelinc ligghen mitten hoofde inder schoonster ioncfrouwen schoot die binnen alle die stadt ghemeen sat om ghelt Ende doe wedden die ionghelingen tegen dat ghemeen wijf dat sy nv noch nimmermeer en soude moghen doen wat sy oec daer toe dede. dat hi haers pleghen soude moghen Eñ doen dede dat wijf mit hem al dat sy woude: maer niet en woude hi bi haer ligghen. Doe seyden die ionghelingen Wij hebbent ghewonnẽ. Sy antwoorde daer op Ic waende gewedt te hebben eñ pandt gheset te hebben van enen man die vleysch eñ beenen ghehadt hadde. maer hi dunct mi bet een steen te wesen dan een meusche Dese Socrathes plach te seggen Ic hebbe dicwijls ghesproken datter mi afterdeel of gecomen is: maer van zwygen en quam mi nye scade noch scande daer ic afterdeel in hadde</p>
+               <p rend="justify">Hoe dat Macedonien teghen den coninc Philippus op steken woude Ende hoe Philippus Macedonien wan:</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe Philippus Macedonien wan</head>
+               <p rend="justify">Ca. ix</p>
+               <p rend="justify">Tot deser tijt quam Philippus dẽ coninc nyeumare dat Macedonien teghens hem op steken wilde Doe vergaderde hi een groot heer eñ hi beleyde die stede Ende hem wort van opter muren sijn rechter oghe wt ghescoten Maer nochtãs en liet hi sijn oerlogen daer om niet. want waer datmen street eñ stormde daer was hij oeck mitten anderen Eñ al wortet aldus wt gescoten nochtã was hi der stat niet te felre Wãt doe die vã binnen an hẽ genade sochtẽ: soe dede hi al dat sij hẽ baden eñ hi was hẽ zeer goedertieren indẽ pays te makẽ In deser tijt warẽ oec in gryekẽ veel vaster stedẽ die wel beuest eñ bemuert waren. eñ elck wilde die stercste wesen: eñ sij droegen ouer een die een den anderẽ bij te staen in haere noot eñ dat hildẽ sij wel Desen steden lach hi aen mit behendicheden die een na die ander soe dat hijse al onder hẽ brochte. eñ al dat lant van Gryeken mede:</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe dat Alexander Darius dẽ tyns ontseide</head>
+               <p rend="justify">Capittel x:</p>
+               <p rend="justify">Als Othus die coninc vã Persen xxvi iaer gheregneert hadde soe sterf hi. eñ sijn zone Erges die oec arsamus hiet regneerde nae hẽ vier iaer Eñ als hi sterf so regneerde Dari[us] sijn zone in Persen eñ in Meden Maer Alexãder Philippus zone wan hẽ den strijt vromelic of Tot dien tijdẽ staken die vã Macedoniẽ tegen Philippus harẽ coninc Doe sende Philippus sinẽ zone alexan[der] mit een groot heer om die stat te winnen Alexander beleyde die stat eñ hadse cortelic tot sinen wille Eñ als hi weder õ gecomen was eñ sinen vader die tijdinge brocht dat hi die stat gewõnen hadde Soe sach hi in die zale staen vremde luden wt verren lãde: want hi kendese aen die vreemde clederen Hi vraechde hẽluden van waen dat sij warẽ, eñ wat sij begeerden Sij seiden hẽ dat sij waren boden des conincx Darius vã Persen: eñ sy quamen daer van sinen weghen om te ontfãgen den tyns eñ dẽ tribuyt vanden lãde eñ vanden water datter doer loept Alexander [ver]wonderde hẽ zeer van desen eysch eñ zedẽ Eñ hi seide tot een vã desen boden aldus Hoe is dit vercopẽ vã Persen aldus. en heeft god niet den luden die elementen ghegeuen eñ gedeylt dat sijse ghebruyken sullẽ tot hare nootdrufte int ghemeen Segghet Darius dat hi dese castumen of legghe: eer ic daer om vergramt worde: Of seght hẽ en wil hijs niet doen. dat hem Alexander alsoe nae comen sal dat hi des grã wordẽ sal Daer om vaert haestelic wech. ende seght uwen here dat hẽ hier cleyn noch groot geboeren en sal Hier en binnen stac daer een ander stat op tegen dẽ coninc Philippus. eñ hi gaf alexander een groot heer om die stat mede te bestriden Als Alexander wech was so quã daer een groot heere genaemt Pansames die zeer fyer van hẽ seluen was. eñ hi wort alexanders moeder zeer beminnẽde Doe dese Pansames bodẽ van minnen an Olymphias sende Soe ontboet sy hẽ weder. dat sy hẽ gherne te mãne nemen soude: waer die coninc Philippus haer man doot ware</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe Philippus sijn doot wraecte</head>
+               <p rend="justify">Capit xi:</p>
+               <p rend="justify">Pansames hadde gewacht dat alexander in oerlogen lach mit een groot heer Wãt alexander wort op die tijt also zeer [ver]maert vã vromicheden datmen hẽ zeer ontsach: Dese Pansames quã mit groter macht op Philippus dẽ coninc ter wijlen dat Alexander wech was eñ hi wilde Philippus ter doot brengen, eñ hi nã Olymphias die coninghinne mit crafte Maer die auẽture geuiel also dat alexãder thuis quã varen ter wijlen dattet gheuechte was. eñ hi vinc dien Pansames. Als alexander vernam dat sijn vader noch leefde soe brocht hi Pãsames voor hẽ. eñ hi gaf hẽ een bloot swaert in sijn hant eñ hi hiet hẽ dat hi hẽ seluen wreken soude ouer sinen vyãt Eñ Philippus stac Pãsames doer sijn gemacht dat hi doot bleef Eñ doe Philippus cranc begonst te wordẽ so seide hi Mi en is niet leet dat ic steruẽ sal: wãt hi is doot die mi geslegen heeft: Mer Alexander lieue zone ic peynse om die woordẽ die mi v moeder seide als sy v droech Ic heb begheert eenen wreker. eñ mit desen woordẽ so sterf hi Die coninc Philippus conste veel vã wapenen ende vã ridderscap eñ hi was een cloec orlochs mã eñ hi was altijt wel versyen vã wapenen eñ van scatte om te wederstaẽ al wes hi te doen hadde Hi was altijt op sijn hoede eñ nimmer meer en was hi moede rouens. als nv was hi ontfermhertich eñ als nv loos Eñ ten dochte hẽ gheen misdaet al haette hi enen man altijt noch hoe hi hẽ verwinnẽ mochte wast heymelic of mit logenẽ Hi was goedertierẽ eñ moordadich eñ hi beloefde meer dan hi dede: hi was vrient daert hẽ vromen mochte: maer anders en mocht nyemãt aen hem comen. Hi toende vrientscap dẽ gheenen die hi haette: eñ die vriẽden waren maecte hi tonvriende Eñ hi conste hẽ wel an beyde syden vriendelic gelaten. om vordeel daer an te verweruẽ. hi was oec zeer scalc in s[~ij]re talen Valerius scrijft oec vã Philippus dat hẽ eens ontboden was dat alexãder sijn zone vrientscap beiaghen wilde an enighe ludẽ mit gelde Doe screef hi an hem O Alexander lieue zone Waer hebt ghi gheleert dat ghi vriendẽ mit gelde copen wilt daer gheen trouwe in wesen en mach: Want die vrienden die men mit gelde coept alsmen hem niet meer en gheeft so is die vrientscap al gedaen Hi scrijft oeck hoe Appollijn Philippus ontboet een teyken s[~ij]re doot aldus: want hi hiet hẽ wachten vanden waghen Hier om brac die coninc Philippus alle die waghenen van sinen lande eñ hi dede karren daer voor makẽ Mer Apollijn die meende dat die waghen die in Pansames swaert gescreuen stõt een teyken daer Philippus mede [ver]slagen was Philippus die coninck van Macedonien badt sinen zone Alexãder d[at] hi mit schone woordẽ die ghemeente te vriende soude houden. eñ dat hijse vriendelick toe spreken soude als hijse gemoette. eñ oec dat hi die ridders vrientscap soude bewijsen als hijse gemoette eñ dat hijse mit hẽ ten eten soude leydẽ Orosius scrijft dat Philippus die coninck des daechs te vorẽ eer hi gheslegen was gevraecht wort. wat doot dat hi alre liefst te steruen had Hi antwoorde Ic prijse datmen enen grotẽ here nae veel zegen eñ eeren die hi gewõnen heuet: datmen hẽ sonder vreese oft verradenisse verslae als hi sittet in payse eñ in groter eren eñ dat hi dan sterue sonder euel of ziecheit Eñ dit selue geschiede hem: eñ die goden en mochtent niet beletten. al hadde hi haer luttel eren gedaen Wãt al hadde hi haren tempel eñ haer outaer beroeft. nochtãs en mochten sijt niet beletten hi en sterf alsoe hi begeerde Hi plach oec haer beelden te breken an stuckẽ om die giericheyt vãden goude daer sij of gemaect warẽ</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe Alexander sijn rijck ontfinc</head>
+               <p rend="justify">Ca:ix</p>
+               <p rend="justify">Als die coninc Philippus doot was. so õtfinc alexander sijn zone altemael sijn rijcke Maer Alexander was quaeder eñ vromer dan sijn vader was Sinte Augustin[us] bescrijft dat Alexander eñ sijn vader altijt naerstelick stonden om die zeghe te winnen Mer alexan[der] auentuerde hẽ seluen opẽbaerlick om die zeghe te crigen sõder verradenis: eñ Philips die vader gaf hẽ node in die auenture. mer al slupende eñ mit verradenis plach hi meer s[~ij] vyandẽ te verwinnẽ Hier om was hi die wijste diemẽ vandt: mer alexander sijn zone was meerder vã moede Philippus als hi toornich was. so bedecte hi dat als een wijs man. maer alexander en micte daer niet op. wãt als hi grã was soe en wasser gheen maete noch redene inne: Beyde drõcken sij gherne wijn eñ dicke warẽ sij droncken Maer haer drõckenscap was twederhaude: wãt als Philippus drõcken was so en achte hi niet hoe verre eñ onueruaerliken dat hi liep onder sijn vyandẽ. Mer als alexander drõcken was soe moestent sijn vriendẽ ontgelden Alexander wilde ontsyen wesen. mer sijn vader wilde gemint wesen: Philips was vol sorgen eñ wel sprekende. eñ alexander en brack nyemande trouwe Philips was ghenadich eñ zeer goedertieren op die gheene die hi verwan: mer alexander was des veel te stouter eñ te ouerdadigher Doe Philippus gestoruen was soe dede hẽ alexander eerlick ter aerden doen. ghelijck alst hem betaemde nae sijn coninclike werdicheit Doe dede alexãder cleyn eñ groot al ontliuen die hulp raet of daet tot Philippus s[~ij]s vaders doot gegeuen haddẽ: sõder alexãder sinen broeder Ende dat was om dat hi hẽ gruetede ouer coninc dat eerste dat hi hem ghemoete Hi dede doden Mercenarus s[~ij] broeder van sijns vaders weghen. om dat hi seide dat hẽ dat rijcke mit rechte toebehoorde</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe Alexander sijn heer vergaderde</head>
+               <p rend="justify">Ca. xij:</p>
+               <p rend="justify">Nee Philippus des conincx doot wort Alexander gecroent coninck in Corinthen dat is die hooftstadt in Gryeken Eñ doe vergaderde hi alle sijn heer eñ hi wan Athenen eñ Thebeen Op eenen nacht als Alexander op sijn bedde lach eñ hi peynsde hoe hi Asyen winnen mochte. Soe quam god voor hẽ staen gecyert mitten ghewade dat der Ioden groote pape an plach te hebbẽ in sijnen dienst indẽ tempel Eñ mit sijne claerheit wort den nacht inder zalen lichter eñ claerdere dan die dach wesen mochte Eñ hi sprac Alexander aen eñ seide. dat hi in hem betrouwede Ende dat hi trecken soude ten rijcke vã oesten wert want hi soude hem helpen dat hijt al winnen soude Ende doe vraechde hem alexander wye dat hi was eñ hoe hi hiete Die god seide hem Waer bi soe vraechstu minen naem die alte zere wonderlick is: doet dat ic di segghe Eñ den mensche dien ghi syen sult in deser gelikenisse doet hem doch eere: Eñ hier mede so ontuoer hem god Tot dier tijt plach men oeck eñ daer te voren te doen: dat elck mensche nae s[~ij] doot oft oec nae sinen lieuen vriendt dede makẽ een beelde dat zeer properlic eñ hem wel ghelijck was Eñ dit dede Alexander oec doen Eñ doe ginc hi staen voor Philippus sijns vaders beelde eñ hi seide tot sijnen volcke Die hem totter wapenen willen gheuen mit mi Alexander. hi bereyde hem nv Want het dunct mi nv tijt wesen eñ het is wel recht dat wij eerst beginnen te striden opten ghenen die ons nv hier voortijts bescadicht hebbẽ. eñ op die ghene die ons nv alle onse vryheit nemen willẽ. Alle die ridders eñ alle dat edel volck warens alexander toe in deser saken Doe ontsloet alexander s[~ij] vaders scat eñ hi gaf soudie gout eñ siluer eñ hi gaf wapen alle die ghene diet te doen haddẽ Hier mede vergaderde hi een groot heer. õder te paerde eñ te voet lxx: m: eñ vij: C: eñ iiij: C. stouter mannen: onder ionghelinghen: oude. eñ graeuwe. die hier voortijts mit hẽ eñ sinen vader geoerloecht haddẽ Want in alexanders heer en hadde nyemant voechdije noch heerscappie hi en was tseuentich iaer oudt Eñ binnen alle sijn heer soe en peynsde nyemant om te vlyen: maer sij peynsden altijs om die zeghe eñ om te verwinnen Ende hi nam sijn costen mildelijc wt sijns vaders scat. eñ hi dede veel scepen maken eñ daer mede voer hi te creten eñ in lythonien Eñ al dat lãt toech hi mit subtijlheit aen hẽ. eñ hier nae wan hi Cecilien Eñ corts daer na voer hi doer Ytalien eñ daer õtfinc hẽ die stadt van Romen eerlick ende wel. Want sij senden hẽ heymelic in sijn ghemoet: daer alle die stat vã Romen te samen an stont eñ die Romeynen brochten alexander eẽ schone duerbaer crone ghemaect van finen goude eñ ghesteenten Eñ dese crone gaf hi hẽ in een teyken eñ tot eenre gedenckenisse om dat die vrientscap vã hemluden langhe dueren soude Alexander ontfinck dese crone herde gherne. eñ hi onthaelde Elminisse harde wel mit veel schoonre talen die hi wel conste: eñ daer nae liet hi hẽ vriendelick van hẽ scheyden Hier bouen senden die Romeynen alexander twee: m. mans eñ xl: pont ghewegens gouts Aldus so voer alexander te Affriken waert Eñ hi reet sonder eenige wederstoet mit al sijn heer alle Lybien doer: eñ hi quam aldus mit alle sijnen volcke in Egipten mit scepen te water ende te lande Doe hi in Egipten quam soe ontfinghen hẽ eerlic eñ sij hilden hem voor haren heere</p>
+               <p rend="justify">Hoe Alexander Cyrien eñ Tyren beleyde. eñ hoe dat hijse te samen verwan:</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe Alexander Cyrien eñ Tyren beleyde. eñ hoe dat hijse te samen verwan:</head>
+               <p rend="justify">Capittel xiij.</p>
+               <p rend="justify">Alexander sach in Egipten staen een beelde ghemaect van swarten marbersteene Doe vraechde hi wat dat beelde beduyde Dat beelde antwoorde hem ende seide. dattet was Neptanabus die wel eer die vã Persen õtulogen was wt Egipten eñ liet sijn rijck als hem Othus die coninc vã Persen [ver]dreef Want die auenture liep Neptanabus soe teghens daer niette bliuen Als alexander dit [ver]stont so dede hi dien beelde eere als sijnen vader. eñ hi aenbedet eñ gruetedet oetmoedelic eñ hi seide dat hi Neptanabus zone was Wt Egiptẽ quã alexander in Syrien: eñ tot wat steden dat hi quã die toech hi an hem Maer doe hi te Tyren quã so sloten die vã binnen die poorten voer hẽ Doe beleyde Alexãder die stat om te winnẽ wãt hi meende die stadt te winnen mit eenen storm. mer daer bleuen veel vã sijn luden doot Hier om toech alexander bet afterwaert. om sijns gemacx wille eñ hi beleyde die stat sterkelic eñ hi dreychdese zeer dat hijse winnẽ soude Eñ alexander seynde bodẽ mit brieuen in die stede die aldus spraken Ons hadde genoech geweest eñ recht ghedocht dat ghi ons goedertirenlic uwe stadt op gegeuen hadt: wij soudẽ v hoeschelic ontfangen hebbẽ. Maer om dat ghi die eerste sijt die tegen ons te striden begint. so sal alle die werelt een vreeselic exempel an v luden nemen. Wãt ghi sult corts weten of die Gryeken stridẽ kõnen of niet: eñ sijt ghi wijs so sijt ghi gesont. mer sijt ghi onwijs soe suldt onlange ghesont wesẽ: ist dat ghi inden wille blijft daer ghi nv in sijt. Die heren vãder stat deden alle die boden die die brieuẽ brochten doden eñ aen een cruyce slaen Als Alexander dat vernã soe toech hi derwert al verwoet eñ hi wan ter stont die vaste stede eñ hi vernieldese eñ verbrandese Eñ hi dedet al doot slaen wijf eñ kiut eñ alle datter inne was cleyn eñ groot Eenighe willen seggen dat Alexander Darius tweewerf in stride verwonnen hadde eer hi Tyren beleyde eñ wan</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe Darius Alexander brieuen screef</head>
+               <p rend="justify">Ca xiiij</p>
+               <p rend="justify">Doe Alexander Syrien gewõnen hadde: soe seynde hẽ Darius brieuen: die aldus spraken Ic Darius coninc der coningen eñ der goden vrient aen Alexander sinen knecht Ick beuele v alexãder dat ghi weder keert tot uwe magen die mijn dienaers sijn: eñ keert weder in dijns moeders schoot eñ leert wat manlicheit eñ stouticheit is Hier toe heb ic v oeck ghesondẽ een geessel eñ een bal eñ oec enen sack mit gelde: Bi die geessele sult ghi verstaen dat ghi noch noot hebt vã dwange Den bal sende ic v dat ghi daer mede spelen sult alsoet v kinsheit toe behoort. want v en betaemt noch niet eenighe wapẽ an te vaten Maer ghi hebt ghedaen als een rouer eñ kintschelic ons rijck aẽgegaen. Want al hadt ghi alle die rouers van den lande vergadert mit v: soe en moecht ghi dat rijck vã Persen niet doer varen alsoe veel volcx hebbic mit mi dattet ghelijc is den zande dat ander zee leyt Voort soe ben ic alsoe rijcke van siluer eñ van goude dat ick alle die aerde daer mede soude mogen bedecken dat ic wilde Hier om sende ic di ghelt om datstu daer mede sult copen dij eñ dinen heer dat sij behoeuẽ int weder keren: tot d[~ij]re teringen Maer en wilt ghi ons ghebot niet doen. soe sal ic luden op v senden die v vanghen sullen eñ slaen als een sot. eñ sij sullen v gebonden voor õs brengen.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe Alexãder Darius weder screef</head>
+               <p rend="justify">Ca: xv</p>
+               <p rend="justify">Dusdanighe letterẽ eñ talen en behaechdẽ die princen niet wel. eñ sij waren versaghet Doe seide alexander hẽluden Ontsyet ghi v vã hogen woordẽ daer niet an en leit. dit en is gheene wijsheit maer het is die cleyne hondekens maniere. wãt soe sij crancker sijn so si meer grimmen: Doe riep alexander den bode die dese boetscap brocht voor alle sijn edel ludẽ eñ hi ghaf hem alle dat ghelt dat sij brochten. Eñ hi gaf hẽ brieuen die aldus sprakẽ Ic Alexander heer der coningen eñ der goden maech ontbiet Darius saluut eñ ic segge dat hẽ naerstich is dat soe groten coninck als ghi v beroemet dat ghi in soe swaren bedwaughe comen moet onder soe cleynen volc als mit mi is Iae oec dat ghi mi alexander te dienste staen moet Wat meent ghi dat ghi v alsoe rijcke scrijft te wesen vã siluer ende goude En weet ghi niet dat alle volc gemeenlic niet en begerẽ dã gout eñ siluer Hier om sullen wi veel te stouteliker op v striden om v dat grote goet of te winnen onse sculden mede te betaelen Ghi hebt mi een gheessel eñ een bal ghesent eñ oec mede ghelt: mer mi dunct dat dit grote dingen beduyt Die geessel beduyt dat ic v cortelic in bedwanc hebben sal Den bal beduyt al die werelt dat icker here of wesen sal Eñ dat gelt dat ghi mi sendt beduyt dat alle v goet cortelic mijn wesen sal.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe Darius tegen Alexander street</head>
+               <p rend="justify">Ca. xvi</p>
+               <p rend="justify">Alsmen voor Darius dese letterẽ las. soe wort hi daer õ zeer toornich Eñ hi screef narstelic tot alle sijn princen die daer woendẽ ouer dẽ berch Taurus binnen sinẽ rijcke eñ seide Ic heb vernomẽ dat Alexander een iõgelinc Philippus zone vã Macedoniẽ mit cleyn volc Asyen moyet. eñ ic gebiede v dat ghi hẽ haestelic vaet eñ slaet eñ cleedt hem mit purpure eñ seyndten ons also gheuãgen: Mer sijn scepen eñ sijn heer cleyn eñ groot dat doet versinckẽ in die zee: Eñ sijn ridders eñ soudeniers worden geuãgen op die roode zee Hier en binnen screef Darius weder so grote eñ sware woorden an alexander dat der talen eñ weder talẽ anders niet en warẽ dan datmẽt mittẽ swaerde becorten soude Also Iustinus scrijft soe [ver]gaderde Darius doe te stride seuen C:M: mãs dat alle ridders waren Alexander eñ sijn volc vochten daer soe vromelic tegen Darius volc. dat Darius eñ sijn heer zeer gescoffiert wordẽ Want sij sagen dat grote onweder: als hagel eñ wint eñ regen op hẽ vallen quam Soe dat hẽ dochte dat die goden mit alexander eñ tegẽ hem vochten: eñ sij vlogen alle wech die ontulieden mochten Ende Darius was die eerste die daer vloech. want hi verloes sinen wagen eñ hi sat op een paert eñ hi ontreedt haestelic Hier wort veel vã Darius volc verslagen Desen strijt bestõt Alexander mit ix. M. mans te voet eñ M: ridders Maer vãden regen eñ onweder dat op die van Persen viel. dat en õderscheyt nyemãt dan alexãders hystorie die also seyt Dat alexãder sijn heeren eñ sijn dode mãnen eerlick dede begrauen Eñ dat om dese victorie eñ zeghe alle die meeste heeren vã Asyen aen alexander vielen eñ hulde eñ vrientscap mit hem maecten.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe Alexander Thebeen destrueerde</head>
+               <p rend="justify">Capittel xvij:</p>
+               <p rend="justify">Hier na quã alexander weder in Gryekẽ mit grooter macht õ een meerre heer te vergaderen eñ machtelicker teghen Darius te stridẽ: mer hi moeste liden doer die stat Thebea Mer die stat wilde tegen hẽ striden eñ si slotẽ die poortẽ voor hẽ Doe viel Alexander voor de stat mit sinen volcke õ die vã binnen deser eeren te dãcken Doe quã daer een mã genaemt Cleades mit eenre herpẽ eñ viel voor alexan[der]s voeten eñ speelde zeer soetelic eñ hi sanck dit lydekijn voor alle sijn heeren O Alexander coninc der coningen heere: Ghi moecht dese stat noode bederuẽ die die ontsterffelike godẽ eerst maecten eñ die daer in waren geboren Want Liberbatus eñ die groote god Hercules warẽ in dese stadt geboren Asyon maecte dese vestẽ. Dan hẽ sijn comen alle die voorbarichste van dinen geslachte Maer alexander en achte niet op desen sanc eñ hi was so gram dat hi al die stadt dede slechten eñ [ver]barnen Hier na beleyde hi Athenen die oec gekeert was mit die vã Persen bi Domestenes rade eñ die vã Lacedomen wãt Domestenes had hier of gehadt grooten scat Ochines gaf die vã binnen raet dat sy hẽ op geuen soudẽ: mer Dyomedes ontriedet ende hi wilde datmen die stat tegens hẽ hilde. Doe vraechde die stat Domestenes dat hi seggen soude wyens raet dat hem beste dochte vã desen tween Hi seide datmẽ Ochines raet doen soude Eñ men koes Domestenes dat hi die boetscap doen soude an Alexander eñ dat hi hẽ brochte een gulden crone. eñ dat dede hi: Doe Athenen mit alexander [ver]soent was. soe versoende oec Lacedomen. eñ sij brochten alexander oec een guldẽ crone Iustinus scrijft dat dit gheuiel eer alexãder in Asyen quã eñ eer hi tegen Darius street Dyomedes seit een woort dat zeer an te merckẽ is Doe ict: laet ict. nv merct dit: ic hebbẽ ewelic verlorẽ: nv kyest die scade of dẽ toren</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe Alexander Darius sochte</head>
+               <p rend="justify">Ca. xviij</p>
+               <p rend="justify">Alexander bereyde hem anderweruen tot Darius wert: eñ hij bestont eenen swaren wech Want Darius lach doen mit sijnen heer op die Tygre: eñ hi hadde daer tot s[~ij]re hulpe vier hõdert duysent mannen te voete eñ C.m: vrome ridders als Iustinus bescrijft: Doe alexander dit vernã soe badt hi sinẽ here dat sij willichlic vechten soudẽ õ des ghewins wille eñ niet wt vreesen Als Alexander tot Darius waert reedt soe voer in sijn heer mit hẽ een ridder wt Persen gewapẽt als die grieken Dese ridder stont eñ wachte een wijle eñ meende Alexander doot te slaen: mer dat benã een polette die hi op sijn hooft hadde Ter stõt soe wort dese ridder gevangen eñ men brocht hẽ voor alexãder Eñ hi vraechde hem. Wat hi hem wilde Die ridder antwoorde hẽ In enen vermeten bẽ ic hier gecomẽ Wãt had ic v doot geslagen eñ ic dã ontreden hadde so soude mi Darius sijn dochter hebbẽ gegeven. eñ een groten deel vã sinen rijcke Alexander prijsde hem dese vromicheit eñ hi hiet hẽ vry wech rijden. Als Alexander Darius naecte soe dede hi een wõderlic dinc Hij dede veel beesten vergaderẽ eñ hi dede hẽ an die hoornen eñ sterten rijsen binden. om dattet een woudt eñ een bosch soude schijnen van veere Ende om dat hi mitten rijsen die sij nae hem sleepten aenden stert die droghe mollen of sant zeer soude doen stuuen. eñ datmen also niet en soude mogen bekẽnen dat heer datter after quam Men beghan daer te vechten eñ alexander wort daer ghequetst: Ende den strijt wort soe sterck. datmen lange twijfelde wye die zeghe hebbẽ soude Maer int eynde vloet Darius eñ alle sijn heer mit hem: Eñ vas sinen heer worden verslagen lxiij:m. mans te voet eñ x:m. ridders. eñ daer waren geuangen lx:m: mãnen. Hier teghen verloes Alexander van sijnen luden hondert eñ xxx. mannen. noch hondert eñ L: Ende aldus soe verginc den strijt.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe Alexander Darius scat verwerf</head>
+               <p rend="justify">Capit: xix</p>
+               <p rend="justify">An deser tijt wan alexãder op Darius eẽ ontallich scat: wãt daer was also menich C. marck gouts dattet Alexãder des groot wonder gaf Hier vinck alexander Darius moeder sijn wijf sijn kint eñ sinen broeder Maer den scat eñ dat goet dat hi hier wan dede hẽ alte zeer verheffen. wãt hier nae volchde hi ouerdaet eñ weeldicheit eñ hi leyde alle sijn herte an vrouwẽ Eñ sõderlinge wort hi minnende een wijf die hi geuãgen hadde genaemt Barsenes Eñ hi wan an haer een zone die hi Ercul[us] dede hieten. maer altijt docht hem dat Darius noch leefde Doe benal alexander Persemone dat hi voer op die zee vã Persen eñ dat hi niet anders en dede dan dat hi alle die scepen vinghe die hi vonde vã Darius syden Alle die heren vãden lande daer ontrent vernamen vã der victorien die alexander hadde: ende sij quamen allegader tot hẽ eñ gaven hẽ op al haer landt eñ goet Eñ Alexander settede sijn vriẽden daer in alsoe hi wilde. eñ hi gaf hẽ groot goet eñ rijcheden nae dat hẽ elck waert docht eñ nae dat sij hẽ vrientscap trouwe eñ bijstãt bewesen eñ gedaen hadden:</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Van Alexander opten berch Gariesim.</head>
+               <p rend="justify">Capit. xx.</p>
+               <p rend="justify">Doen Darius sijn heer eerst vergaderde. om tegen alexander te striden So wort Sarabella [ver]blijt dien hi prince gemaect hadde ouer die ryuiere vã Eufrates Eñ hi pensde d[at] hi Darius te gemoete varen soude als hi Alexander [ver]wonnen hadde. eñ bidden om oerlof dat hi Manasses sinẽ behuweden zone een tẽpel maken mochte op dẽ berch Garisien Want Sarabella was soe out dat hi ter oerlogẽ niet en voer Mer het geuiel anders dã hi meende Wãt Alexander eñ die Gryeken verwonnen Darius eñ sijn heer. eñ sij vingen sijn moeder sijn wijf. s[~ij] kint eñ sinen broeder als voerseit is Nae desen strijt houdẽ sõmighe boeken dat alexander eerst quã Syrien eñ vã Damas eñ Sydonen eñ beleyde Tyren Doe nã Sarabela mit hem viij:m: mãnen eñ voer Alexander te hulpe: eñ hi seide dat hi hẽ lieuer te dienen had dan Darius: eñ dat hi hẽ op soude geuẽ die steden die onder hẽ waren Alexander ontfinck hẽ eerlick: Eñ als Sarabella den tijt te punte sach so seide hi alexander dat hi hadde eenẽ behuwelicten zone Manasses die des princen vã den ioden papen broeder was. eñ dat veel ioden mit hem waren eñ sij seiden dat si gherne soudẽ maken bi sinen oerlof op een sonderlinghe stat enen tẽpel Eñ hi seide dat die Alexander zeer oerbaerlic wesen soude Want waren der ioden macht aldus in tween ghedeelt. soe en souden sij niet teghen hẽ steken Doe gaf hẽ Alexander oerlof Eñ doe ginc Sarabella zeer naerstelic enen tempel eñ een outaer stichten opten berch Garisiem Desen tempel stont tot datten die Romeynẽ destrueerden: eñ hier in maecte hi Manasses prince vãden papen</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe Alexander tot Iadus dẽ groten pape van Iherusalem om succoers sende</head>
+               <p rend="justify">Ca. xxi</p>
+               <p rend="justify">Als Alexander Tyren beleydt hadde soe screef hi tot Iadus den prince vãden papen in Iherusalem. eñ hi badt hem dat hi hem succoers senden wilde eñ dat hi vytaelge dede bereydẽ tot sijns heers behoef: eñ dat hi hẽ den tribuyt sende die hi Darius te geuen plach Iadus die prince vãden papen antwoorde dat hi Darius eedt gedaen hadde eñ dat hi dien niet breken en mochte also lãge als Darius leefde Doe wort Alexander gram eñ hi dreychde die ioden: eñ seide dat sij aen hem gewaer souden worden wyen sij schuldich waren beloften te houden Daer na dede alexãder grote drachten draghen inder zee totter muren van Tyrẽ dat men te voete gaen mocht an die muren. want Tyrus stont datter die zee al õme liep Eñ doe Nabugodonosor daer voor lach so dede hi an die een syde veel steens dragen om sinen heer eenẽ wech te maken totter poorten: mer õ dat die stat hẽ op gaf so en volmaecte hi den wech niet: mer Alexander volmaecten nv Doe Alexander Tyren geslecht hadde so beleide hi Gasam. eñ daer bleef Sarabella doot Als alexãder Gasam te wille hadde soe haeste hi hẽ zeer te Iherusalem waert Eñ doe die iodẽ dat [ver]namen soe ontsagen sij hẽ zeer: eñ sij baden gode dat hijse vertroesten soude: Eñ sij deden haer offerhande Doe badt Iadus die pape ouer alle dat volc Eñ als hi nader sacrificien in slaepe gewordẽ was: soe opẽbaerde hẽ god eñ hiet hẽ dat hi betrouwen hadde: eñ dat hi die stat mit hoeden eñ mit bãden eñ cronen pelleren soude eñ dat hi sijn bisscops gewaede an dede eñ dat hi mitten papen alsoe wt ghinge Alexander te ghemoete Eñ als Iadus vãden slape õtwaecte soe seide hi alle den volcke dit vysioen Eñ als hi wiste dat Alexander niet verre van der stat en was soe ghinc hi wt als voorseit is mitten papẽ mit eenre schoonre menichte vã poorters tot eenre stadt diemen Sophim hiet: ende van daen mochtmen lichtelick Iherusalẽ ende den tempel syen:</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe Alexander ons heren naem aenbede:</head>
+               <p rend="justify">Capittel xxij.</p>
+               <p rend="justify">Hier geuiel dat nyemãt van alle den ghene die den coninc volchden ghemeent en hadde Want doe alexander den prince vãden papen ansach gecleedt mit des bisscops gewaden Eñ op sijne myter die gulden plaete daer ons heren naem Tetagramaton in ghegroueret was Soe gedochte hi gods die hem opẽbaerde daer hi in sijn bedde lach eñ die hem beloeft hadde dat hi hẽ helpen soude dat hi wonne dat rijck vã Oesten Doe stont Alexander haestelic van sinen paerde eñ hi ghinc alleen tot voor den prince vanden papen. eñ hij viel langhes voor hẽ op die aerde. eñ aenbede ons heeren naem eñ hi dede den bisscop eere. Die princen van sinen here haddẽ des alte groot wonder: eñ sij meendẽ dat des conincx herte in bedwãghe gheweest hadde Maer Pertemeus die sijn sõderlinge vrient was vraechde hẽ: waer om dat hi der ioden pape angebeden hadde Die coninc antwoorde hẽ eñ seide Ic en aenbede den pape niet: maer ic aenbede god wyens dienste dat hi doet Want doe ic was in Lycie in Macedonien landt soe sach ic hẽ in desen habite Eñ doe ic pensde of ic soude mogen verwinnẽ soe hiet hi mi dat ic gelouen soude: want hi soude mijn heer geleydẽ eñ leuerẽ int rijck vã Persẽ Want eerst sach ic in desen pape sijn gelikenisse eñ ic heb dat vast geloue dat mi geschieden sal dat hi mi beloeft heeft. Hier om aenbede ic gode eñ ic dede den man eere Doe dede Alexãder sijn heer after treckẽ. eñ hi voer mit luttel luden in Iherusalem eñ dede gode offerhande inden tẽpel alsoe hem Iadus die prince vanden papen wijsde eñ hiete Doe brochten sij voordẽ coninc Daniels boekẽ eñ toenden hẽ datter in gescreuen was hoe dat een Griex coninck die macht vã Persen tonder doen soude Alexander was hier om zeer blijde. wãt hi hoepte dat dit van hẽ geseit was Eñ des anderen daechs dede hi dat volck vergaderen eñ hiet hẽ eyschẽ wat sij wilden Eñ om haer versoeck so oerlouede hi hem dat die ioden alle die werelt doer waer sij waren haer wet houden mochtẽ: eñ hi scout hẽ quijt van alle tribuyten vanden seuenden iare om die vierten vãden lande Hier nae toech hi totten anderen stedẽ waert Als die vã Samarien saghen die grote miltheit eñ gauen die alexander den ioden gedaen hadde. soe quamẽ sij tot hẽ eñ seiden dat sij der ioden magen waren Eñ sij rekenden haer geboertẽ vã effraym eñ van Manasses. eñ sij baden dẽ coninck dat hi haren tempel in Garisiem eere doen wilde Eñ hi beloefdet hem te doen als hi weder om keeren soude eñ sij baden hem dat hi hẽ den tribuyt vãden seuenden iare verliet Hi vraechde hẽ wye sij warẽ Sy seiden dat sij hebreeusche waren Die coninc vraechde of sij Ioden waren. doe seydẽ sy Neen Doe seide hẽ alexãder dat hijt den ioden gegeuen hadde eñ nyemãt anders Want het was der samaritanen maniere. als sij sagen dattet dẽ ioden wel ghinc soe seidẽ sij dat sij haer maghen waren maer alst dẽ ioden qualic ghinc soe seidẽ sij dat sij hẽ niet en bestonden</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe Alexander voer tot Amons tempel</head>
+               <p rend="justify">Ca. xxiij</p>
+               <p rend="justify">Hier nae so voer alexander in Lybien tot Amons tẽpel. om dat hi te kennẽ geuen wilde dat hi van enen god gewõnen was eñ om dat hi s[~ij]re moeder zuueren soude van haren dorperlijcken naem eñ vã haren ouerspele Alexander seynde voor hem mit sinen bode groote presentẽ tot Amons papen. om dat die papen seggen soudẽ dat alexander gheseit wilde hebbẽ Alexander quã seluer binnen de lande eñ reedt op dat zant in die zee. maer hi lyetter een deel luden die hẽ volgen wilden eñ si verdrõcken Maer alexander quam ghesont ouer totten tempel Eñ die pape quam wt tegen hẽ. eñ hi seide dat Iupiter sijn vader was. diemẽ in dat lant Ammon hiet Alsoe als hier vorẽ geseit is so reedt Darius wten stride die welc hi verloes hier te voren: eñ hi quam int landt van Babiloniẽ eñ hi vernã dat Alexander weder van Ammons tẽpel ghekeert was in Egipten. eñ dat hi daer dede maken Alexandrien de hooftstadt vãden lande Darius screef oetmoedelike letteren an alexander dat hi weder om seynden soude sijn gheuangen. eñ namer also veel gouts voor als hi wilde Alexander eyschte ouer dat gelt eñ goet alle sijn landt Darius screef weder tot alexander dat hi sijn oerlogẽ liet staen eñ dat hi sijn dochter te wijue name hi soude hẽ daer mede geuen een groot deel vã sinen rijcke Alexander eyschte echter sijn rike altemael. wãt het ware sijn Eñ hi ontboet hẽ dat hi eñ sijn volck oetmoedelic wt quamen teghen hẽ eñ dat sijt hẽ op gauen recht of hijt al gewonnen hadde:</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe hem Darius eñ Alexãder ouer screuẽ.</head>
+               <p rend="justify">Capit. xxiiij</p>
+               <p rend="justify">Iustinus scrijft dat Darius nv wel sach dattet hẽ niet en halp wat hi Alexander nv vã vrientscap bade: Eñ hi vergaderde weder vier hondert dusent mannen te paerde eñ hõdert dusent ridders. eñ hi bereyde hẽ weder tegen alexander te striden: eñ als hi tot alexãder rijden soude So quã hẽ inden wech een nie mare dat sijn wijf doot was eñ dat alexãder groten rouwe hadde om haer doot eñ dat hij haer zeer beweende. eñ dat hijse eerlick begrauen dede Mer men seide hẽ dat dit alexander niet en dede om eenighe outamelicheyt die hi mit haer had noch õ minne want hi en hadde in sulckẽ saeken an haer gheen scult eñ dese eer dede hi haer vã hoescheden eñ vã edelheden Want zynt dat hijse geuãgen hadde so ghinc hi dicke tot haer eñ totten kinderen: eñ hi troestese vaderlic Als Darius dit hoorde. so docht hẽ dat hi alexander altemael verwõnẽ hadde om dat hi nae soe groten strijt die hi tegen hẽ gehadt had hẽ aldus verwã mit doecht eñ mit eere Eñ Darius rekendet nv voor grote eer dat hẽ alsulcke prince verwã nae dat hij [ver]wonnen bliuẽ moeste Doe screef Darius weder an alexander eñ dancten zeer dat hi totten sinen waert die hi geuãgen had nye dorperh[eit] noch oneere gedaen en hadde Eñ hi boot hem veel meer vã sinen lande dan hi gedaen hadde eñ voort boot hi hẽ voor die gheuangen acht dusent talenten gouts Alexander screef Darius weder Ic en acht niet op m[~ij]s vyants danc eñ om m[~ij]s vyants wille en heb ic niet gedaẽ Wãt in oerloge oft in payse seide hi dat hi nie en begeerde ouerspel ofte oneere: Mer hadde hi yet gedaen: dat hadde die doecht van hẽ ghedaen Want hi was wijs genoech tegen sinen vyant eñ tegen sijn begeerte te striden. eñ dat dede hij al om der eeren wille Voort ontboet hi Darius dat hi dit soude moghen proeuen in hẽ op dat hi hẽ onderdaen wesen soude Want hi seide dat twee heeren die werelt niet en souden mogen regeren sõder oerlogen eñ striden want ghelijc die zõne al die werelt verlicht. so ist opẽbaer datter mer een heer en is bouen al die werelt Hier om Darius neemt een corte beraet dat ghi ons in hãden comẽ wilt of bereit v ten naesten dage tot eenen nieuwen stride</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe Alexander mit Darius at</head>
+               <p rend="justify">Ca. xxv</p>
+               <p rend="justify">Alexander lach lange mit sijn heer op die ryuiere genaemt die strange. eñ hi wort te raede dat hi seluer spreken wilde mitten coninc Darius Eñ hij nam mit hẽ Emendus die bi hẽ was eñ noch een ander eñ hi voer haestelic totter ryuiere strãge die tusschen beyde die heren liep Nv is die ryuiere vã sulcke nature dat sij dicke bi nachte eñ bi daghe bevriest dat daer een geladẽ wagen ouer varen mach Alexander liet Emendus daer bliuen eñ hi reet tot Darius die sijn heer op die tijt al omme voor besyen hadde Eñ als alexander Darius te gemoete quã. soe gruette hi hẽ nader zedẽ vãden lande eñ seide Heer Alexãder heeft mi aen v gesõden dat ghi hẽ ontbiet dẽ dach dat ghi striden wilt eñ cort. Wãt men seit dat mijn heere node strijdet om dat hi vermoyet is Eñ aldus beual hi mi dit dit te seggen Hier op antwoorde Darius eñ seide Ick gheloue dat ghi seluer alexander bent Wãt nyemant anders en soude ons so stoutelijc te voren derren leggen vã stridẽ Alexander lochendet eñ hi seide dat hi s[~ij] bode was Doe nam hẽ Darius bider hãt eñ hi leyde hẽ in sijn tente eñ deden mit hẽ eten aen sijne tafele Eñ hi wilde immer dat alexander wt sinẽ nap dranc: eñ hi stacken in sinẽ bosem Dit mercte een mã eñ hi seidet Darius Doe seide Darius dat hi dorperlic dede dat hi sinẽ nap nam Alexander antwoorde hẽ Heere dit en is gheen scande in alexanders hof. Wãt alle die tot sijnre tafelen sitten soe sijn die nappen hare daer si wt drinckẽ Binnen desen bedacht hẽ Passarges dat dit alexander seluer was. wãt hi haddẽ voormaels dicke in Philippus huyse gesien Doe mercte alexander dit: eñ hi ontreet mitten nappe: eñ hi doerstac den knecht die s[~ij] paert hildt mitten swaerde Eñ aldus ontreet hi mit groter auenturen. wãt hẽ en mocht nyemant volghen Darius bedreef groot misbaer om dat hẽ sijn vyant ontreden was. Eñ alexander quã tot sijnen luden eñ vertelde hoe hi mit Darius at. eñ hi toende den nap die hi hem ontdragen hadde tot een litteyken Hier õ waren sijn luden zeer blijde dat hem dese vromicheyt geuallen was: mer Darius was droeue</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe Darius eñ alexander te samen stredẽ</head>
+               <p rend="justify">Capittel xxvi.</p>
+               <p rend="justify">Des anderen daechs haeste hem Darius ten strijde Eñ alexãder hadde langhen tijt in sorghen geweest om den strijt te hebben: soe dat hi binnen al dier nacht niet en konde geslapen: sonder inden morghenstont: Eñ alexander bleef slaepende tot dat alle sijn heer stõt gebattaelgijt om te striden sõder dat hẽ haer coninc gebrac Persenio ginc in alexãders tente daer hi lach eñ sliep Eñ hi vraechde hẽ waer bi dat hẽ die slaep nv so soet was eñ het is nv tijt vã vreese te hebbẽ Alexander antwoorde Nv bẽ ic vã so groter sorghen vry om dat ic hier ter stedẽ striden sal om alle die heirscappie te winnen die Darius gheleesten mach Maer vlyede ic nv eñ vloet hi mi na so waret tijt vã vresen Nv gaet eñ besyet dat nyemant ouer die ryuiere en ware: mer laet Darius eñ sijn heer al ouer comen wãt ic sal te hants bereyt wesen Hier en binnẽ quam Darius ouer een brugghe mit alle sijn heer: Eñ Alexander toech hem teghen mit sijn volck. eñ daer wort anxtelic geuochten Maer die van Persen hadden alte samen dat afterdeel. eñ sij begonnen sterckelic te vlieden: want in ghenen strijt die voor geweest hadde en bleuen soe veel doden alst hier dede Als Darius sach dat sijn volck verwonnen was soe wilde hi hẽ seluen doden of inden strijt steruen eer hi vloede Maer een sijn vriendt ontriedet hem eñ hi deden keeren sijns ondancx ouer een brugge in een stat Eñ hi hiet datmen die brugge breken soude: maer Darius seide datmen des niet doen en soude: Want dat waer iammer dat wi ons ander luden die noch ouer sijn indẽ strijt eñ sullen moeten vlyen dat wi hẽ die vlucht benamen: also dat vã groten drange die opter bruggen was meenich mensche verdranc in die strange Des Alexander zeer blijde was.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe Darius an Alexander õ genade screef</head>
+               <p rend="justify">Cap. xxvij</p>
+               <p rend="justify">Nv hadde Darius alle sijn hope verloren. eñ hi viel neder in sijn zale op die aerde: eñ bedreef groot misbaer. Hier na had hi raet dat hi aldus an Alexander screef Aen alexander sinen heere Darius saluut eñ eere Het ware wel gedaen eñ edelheit wout ghi hẽ genade doen: wãt auenture heeft hẽ di tonder gedaen crachtelic inden velde Ic bidde v dat ghi õtfermet m[~ij]re moeder eñ m[~ij]re kinderẽ alsoe dat toebehoort. eñ dat ghijse ons weder wilt senden Eñ om dier weldaden sal ic v gheuen alle mijn rijck: eñ voort alle mijnen verborgẽ scat eñ daer toe dat rijck vã Persen eñ vã Meden Alexander ontboet hẽ dat hi des niet en dede: Doe ontboet Darius den coninc Porrus van Indien dat hi hẽ te hulpe quame tegen alexander. hi soude hẽ geuen ontalliken scat Als dit alexãder vernam soe haeste hi hẽ dat hi quam ter poorten waert eer Darius te Indien voer. eñ Alexander toech doer dat ys ouer tgeberchte doer een cleyn gat Want buten en leyt ghenen wech. eñ binnen dẽ zomer en is gheen mã die daer doer derf gaen om dat daer veel serpenten sijn Nochtans en isser gheen slot van ysere tegen een heer of tegen volc</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe Darius vã sinen luden geslegen wort</head>
+               <p rend="justify">Ca:xxviij</p>
+               <p rend="justify">Iosephus seit als Alexander liden wilde voor Darius doer die poorten vã Caspiẽ Soe toech hi doer Pansilla eñ daer moeste hi liden doer eẽ grote ryuiere ghelijc een arm vã der zee. eñ daer dede god groot wonder Wãt dat water vãder ryuiere scheyde hẽ in tween eñ alexander reedt daer doer optẽ drogen grõde mit alle sijn heer Dit liet god gheschien om dat hi mit hẽ breken mochte die macht vã Persen Orosins eñ Iustinus seggen dat alexãder in desen lesten stride wan mit crafte dat rijck vã Persen eñ Meden Want daer en was nyemant die hẽ voort meer teghen hem dorsten steken In deser vaert wan alexãder meer gouts eñ roefs dan yemant des ghelouen soude Hi wan oec Persipolea dat die hooftstat was vã den lande van Persen Dese stat hadde langhe gestaen in vreden. eñ sij was vol van groten goede des hẽ nyemant en bewant: eñ dat quã al in alexanders hãden Nv ghinc Darius vlieden wt die eenre stadt in die ander stadt eñ hi meende ergent in vredẽ wesen Eñ Darius had mit hẽ twee valsche princen die hieten Bessus eñ Narbesmes die ouer een droegen. eñ sy beginghen Darius daer hi alleen was eñ sloegẽ hẽ ouer doot eñ lieten hem liggen eñ si vloen haestelic van hẽ totter tijt toe dat sij wel verstonden eñ wisten hoe dattet mit hẽ vergaen was Alexander vernam dattet Darius aldus vergaen was eñ dat hẽ sijn luden gespannen eñ gebonden hadden Eñ alexãder reet haestelick derwaert den naesten wech die hi mochte rijden eñ hi quam tot Darius alsoe dat hi hem noch leuende vandt. eñ hi gaf hem alexander op in sinen handen Ende hi nam hem mitten knyen. eñ hi sprac hem toe alsoe hi alder beste mochte:</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Dit waren Darius woorden voor sijnre doot eer dat hi sterf:</head>
+               <p rend="justify">Cap:xxix.</p>
+               <p rend="justify">Alexander na dien dat mi die auenture geseit heeft soe ist mi vergaen Eñ het is mi nv ter tijt een troestelic dinck dat so groten ende soe machtigen heere als ghi sijt tot mijnder doot wesen sal Hier om bid ic v dat ghi mi eerlic ter aerden laet doen totter stat daer die coningen vã Persen m[~ij] vaders begrauen sijn. Eñ ic bidde v dat ghi v gewaerdigen wilt tot m[~ij]re wtuaert te wesen Ick beueel v oec Rogidimes mijn moeder eñ mijn broeder Moatrus eñ Darius minen zone Voort bid ict v dat ghi Roaxanes m[~ij]re dochter tot eenen wiue wilt nemen Ander gesten hebbẽ bescreuen dat Darius doot was eer hem alexander sach Eñ doe Darius doot was soe bedreef alexander daer groten rouwe om eñ soe groten hant geslach al haddet sijn vader gheweest. eñ hi deden eerlick begrauẽ nader coningen vã Persen zeede Orosi[us] scrijft dat in die drie stridẽ die alexãder op Darius wan doot bleuen xij.C.M: mãnen Iustinus scrijft oec dat Alexãder sijnen volcke deelen dede xiij.M: talenten gouts. ende aldus soe quã die blijscap nae haer pijne Doe dede hi voeren op die stercke stadt Egbetanis C. dusẽt eñ xc: dusent talenten gouts: Van deser stadt maecte hi here Persemoene enen stouten man Alexander wan alle Darius lant binnen den sesten iare nae dat hi began te regneren Hier na eynde dat rijck vã Persen Twelcke gestaẽ hadde twee C. iaer eñ xxxi: Van Tyrus tijt die die eerste coninc van Persen was</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Van coninc Darius graue</head>
+               <p rend="justify">Capit: xxx</p>
+               <p rend="justify">Nv wil ic voort scriuẽ hoe d[at] Darius graf gemaect was Eñ daer warẽ in gescreuẽ eñ geteykent alle die lãden vãder werelt eñ vãden gesten Appelles was meester vã desen graue Eñ het was aldus gemaect als hier na gescreuen staet Het was vã twee zarckẽ ghemaect vã marbersteenẽ die groot goet ghecost haddẽ. eñ sij waren zeer lanck dicke eñ effene. Opten onderstẽ steen maecte hi schoene lijsten den binnen kant vanden zarcke was van claren latoene Eñ opten vier hoecken maecte hi vier silueren colõpnen sterck eñ dicke eñ wel gewrocht: maer die hoeckẽ waren gulden wel eñ costelick gemaect Dese waren ten vier hoeken gesoudeert opten ondersten zarck mit metale Op dese vier colõpnen leydemen den anderen zarck die was vã witten marbersteẽ Op desen zarck hadde Appelles gesoudeert al doer breede lijsten vã finen goude. eñ daer in hadde hi gewrocht die ronde werelt in drien gedeelt: Ghelijckerwijs als hier beneden staet</p>
+               <table rend="frame" xml:id="Table2">
+                  <row>
+                     <cell>Asyen</cell>
+                     <cell>Cam</cell>
+                  </row>
+                  <row>
+                     <cell>Affriken</cell>
+                     <cell>Sem</cell>
+                  </row>
+                  <row>
+                     <cell>Europen</cell>
+                     <cell>Iaphet</cell>
+                  </row>
+               </table>
+               <p rend="justify">Aldus is die werelt in drien gedeelt Want Asyen hout alsoe veel als beyde die ander deelen In elck vã desen deelen hadde Appelles gemaect alle die stedẽ die daer binnen lagen Eñ alle die ryuieren die daer binnẽ liepen eñ wat volck dat daer binnẽ woende: eñ mit wat tõgen datmen daer sprac eñ die grote wõderen die daer binnẽ lagen. eñ oec alle die eylandẽ vãder zee eñ hoe sij hietẽ Dit hadde hi so properlic daer an gewrocht vã weuen. dat eẽ mensche hadde geweest wt alle die werelt eñ hadde hi bi deser tõben ghestaen, hi hadde moghen syen eñ mercken dẽ rechten wech tot sijnen lande waert Oeck hadde hi daer aen ghewrocht die gesten vãden beghin der werelt eñ die striden: eñ hoe dat alexander Dari[us] [ver]wonnen hadde Die landẽ te noemen laet ick after om dat ict corten wil Alle dit werck hadde Appelles ghegrauen eñ gemaect mit eenrehande beesten eñ dieren diemẽ vant Eñ hi hadde dat ouerdect mit eenẽ wercke dattet lichte ghelijck een cristal: mer het was veel claerre eñ schinẽde ghelijc die zõne van claerheden: Hier doer sachmen alle dat werck: eñ Darius verteerde daer hi in gebalsemt lach mit dierẽ specien An deser tõben stont gescreuen hoe langhe dat die werelt gestaẽ hadde tot dat alexander coninc wort: dat was xlviij.C: iaer xxx. iaer min</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Van Philo Anaxigenes eñ vã Epicurus</head>
+               <p rend="justify">Ca. xxxi</p>
+               <p rend="justify">Tot dien tiden was Anaxigenes zeer vermaert in wijsheden Ende hi leerde alexander in s[~ij]re ioecht grote wijsheit eñ doecht Eñ het geuiel dat Alexander die stat destruerẽ wilde daer Anaxigenes in woenachtich was Eñ Anaxigenes ghinc wter stadt tot Alexander om een bede te bidden Mer alexander zwoer dat hi op dien dach gheen bede om hẽ doen en soude Doe sprac die wijse man Nv bidde ic v dat ghi dese stede slechtet: eñ aldus [ver]keerde hi alexander vã sijnen quaden sinnen mit subtijlheden Want alexander hieldt sijne woorden eñ hi en dede sijn bede niet. eñ alsoe bleef die stat staende die alexander meende te slechten Tot desen tiden was Epicurus oec tot Athenen [ver]maert inder stat mer hi dwaelde in eenighe saken Wãt hi seide dat die meeste salicheit vãden menschen was in weeldicheit van vleysche Hi seide oec dat god dese werelt niet en acht eñ dat die zielẽ steruen mitten lichame Hi seide oec eenighe goede puntẽ want hi seide wye wijsheyt wil crigẽ die moet oec alle weeldicheit laten varen. wãt wye der naturẽ recht leuen wil hi en mach nimmermeer arm wordẽ want sulcke comen van groter armoeden tot groten goede. mer dã beginnen sy eerst haer ongeuallicheit Hi seide oec die ergent eten sal sal oec besien mit wyen hi eten sal Dat beghin vã alle doecht is dat een s[~ij] misdaet bekent eñ dat hi peynse dat hi steruẽ moet Men sal dat lijf niet geuen tot gulsicheden: mer tot wijsheit eñ gemaeticheit: wãt van weelden coemt dickwijl gheen bate mer euel eñ ziecte.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe Alexander sijn zeden verwandelde</head>
+               <p rend="justify">Ca.xxxij</p>
+               <p rend="justify">Als Darius doot was eñ begrauen so hief alexander die zeden vã Persen op an s[~ij] cleederen eñ aen sijn ghewaden eñ hi droech die crone vã Persen eñ liet varen die castume van Macedonien Eñ dit beual hi sinen boden seluer te doen die nochtan tegen seidẽ: Hi ginc houdẽ veel wijuen eñ amyen die schoenste die men in al die werelt vinden mochte: Eñ daer mede lach hi nacht eñ dach soe hẽ goet dochte: Hi wort oec alte gulsich vã spijsen eñ drancke om dat hi meende dat die luxurie niet meerderẽ en soude hadde hi gemaet geweest vã spisẽ Hi maecte spelen in s[~ij]re werscap eñ vergat zeere sijn wijsheden. want hi en mercte niet dat sijn rijcheden sijn goede zeden versmoordẽ Hi was als een tyran op sijn volc eñ als een vyãt eñ hi balch hẽ zeer als hẽ yemant seide dat hẽ misstont Hi was zeer toornich datmẽ hẽ philippus zone hiet eñ dat sij seidẽ dat hi die zede vã sinẽ lande verleit hadde: Hier om worden gedoot Fylotes eñ Pinenon sijn vader Aldus soe en maect groote rijcheit nyemãt goet: mer sij versmoort goede zeden Hier na wan Alexãder Sychem eñ alle die luden die onder dẽ berch Tantasus al omme geseten waren. want dit was wilt volc eñ onwetende: eñ nyemãt en cõdese dwingen dã alleen alexander Hier na quam hi ten berge vã Caspien daer die tien geslachtẽ vã israhel in besloten sijn Wãt alsoe inder coningen boec ghescreuen is soe leuerdese god õ haer sõden wille Salmanazer den coninc van Assyrien eñ die voerdese wt harẽ lande eñ hi brochtse hier.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe Alexander die x. gheslachten vã israhel besloet.</head>
+               <p rend="justify">Ca xxxiij</p>
+               <p rend="justify">Doe alexander ghecomen was ten berge vã Caspien soe senden die x: gheslachten van israhel boden an hem Eñ sij baden oerlof dat sij tegen hẽ wt trecken mochten Doe vraechde alexander die saken waer om dat sij soe geuãgen waren Eñ doe sij hẽ seiden dat sij god vã israhel openbaerlic gelaten hadden eñ haddẽ een gulden calf aen ghebeden eñ dat hem god propheten te voren geseynt hadde: dat sij hier om souden worden geuangen geuoert en dat sij nimmermeer weder keeren en souden Doe antwoorde alexander dat hijse noch nauwer besluten soude Eñ doe dede hi die nauwe wegen van die geberchten bemueren: Eñ doe hi sach dat dit werck omleyt was õ te volmakẽ mit menschẽ pinen soe badt hi god vã israhel dat hi dit werck volmaeken wilde Eñ te hãts ghingen die roetsen eñ die bergen die een aen die ander: soe datmẽ daer nẽmermeer ouer comen en mach Eñ hier wort gheopenbaert dat god niet en wilde dat sij nimmermeer wt quamen: Nochtãs seitmen dat sij wt comen sullẽ ten eynde vãder werelt. Eñ si sullẽ groot volc verslaen Doer god so groten daet dede õ een quaet mẽsche: wat sal hi dã doen om dẽ goedẽ</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Vander poorten vã Caspien</head>
+               <p rend="justify">Ca. xxxiiij</p>
+               <p rend="justify">Nv wil Alexander trecken totter poorten van Caspien: Solinus scrijft hoedanich dat dese poortẽ sijn Hi seit het is een enge pat gehouden indẽ roetsen eñ is viij: milen lãc eñ so nauwe datter qualic een wagen doer liden soude In beyde syden sijn die roetsen so hoghe daer sij wt gehouden is. eñ die roetsen tranen altijts vã soute aderen Eñ die verscheit [ver]herdet eñ wort glat oft ys ware. soe dat die wech soe quaet is eñ so nauwe te gaen dats niemãt en soude moghen gelouen Eñ alsmen ten eynde vã desen wege coemt. soe lett an beydẽ sydẽ vã desen weghe wel xiiij milen lanc zants Eñ daer binnẽ en vintmen gheen verscheit Eñ als men ten eynde vãden gate coemt. so comender soe veel serpẽten gelopẽ datter nauwe yemãt mitten liue ontgaen mach ten waer indẽ winter Doe alexander vernã datmen anders niet lijden en mochte totter poortẽ van Caspien so [ver]gaderde hi s[~ij] ridders om dat hi weten soade wye Darius ter doot gebrocht had</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Die wrake vã coninc Darius doot</head>
+               <p rend="justify">Ca: xxxv</p>
+               <p rend="justify">Alexander seide tot sijnen ridders eñ heeren Ghi heren ic ben blijde ende zeer wel te vreden dat Darius mijn vyãt aldus doot is eñ oec bẽ ic den ghenen dien ter doot gebrocht heeft om minẽ wille sculdich groot loon ende eer. eñ dat soude ic doen ou dat ick wiste wye sij warẽ: Daer om biddic of sij hier s[~ij] die dus veel om minen wille gedaen hebbẽ dat sijt mi nv openbaren: want ic meense hoghe heeren te makẽ Doe dit Bessus eñ Narbesmes hoordẽ so warẽ sij blijde eñ quamen alle beyde voort eñ seidẽ dat sij desen moort gedaen haddẽ Ende doe dedese Alexander beyde wel hoge hãgen Eñ hi seide dat hi niet versworen en waer eñ dat hi oec niet en loghe. wãt hi maectese hoghe heerẽ Daer wort oec een ander gheuãgen die dẽ raet eñ den moort vã Darius toe bracht Eñ dien leuerde Alexander darius broeder te wraken Doe toech alexãder haestelick op Terdus die schone ryuiere. eñ daer dede hi een stadt op maken binnen xxij: dagen die hi na hẽ Alexandrien hieten dede. eñ hi muerder eenẽ muer al om die stadt die vi: milen lanc was Eñ hi [ver]gaderde volc wt sõmige stedẽ die Tyrus bi wijlẽ gemaect haddẽ eñ dedese in deser stat woenen Men vindt oec bescreuen dat Alexãder alle iare een stat maken dede die hi Alexandrien dede hieten Eñ dat waren xij: Alexãdrien in die xij iaren dat hi regneerde. eñ in desen steden liet hi luden vã sinen here die te cranc of te oudt geworden waren Eñ hi dede inder muren vã den steden houdẽ dat die stedẽ hadde doen maeken Alexander Iupiters zone Mer dit was eẽ grote sotheyt dat hi hẽ seluen voor god hilt die leuẽ moeste mit spise eñ dranc als ander ludẽ</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe Alexander Clit[us] doot sloech</head>
+               <p rend="justify">Ca: xxxvi</p>
+               <p rend="justify">Op een tijt sat alexander in een feeste eñ hi sat eñ at eñ dranc mit sinen voorbarigẽ heren soe dat hi al drõcken wort Eñ men began daer te spreken vã Philippus alexanders vader Eñ die heren begonsten Philippus te prysen: mer Alexander prees hẽ bouen sinẽ vader eñ verhief hẽ harde zeer Eñ dat meeste deel vã sinen heeren warens hẽ mede: om dat sij hem daer aen lief wilden seggen Maer daer was een ridder die Clitus hiet: eñ hi peynsde hi soude die waerheit segghen hi balchs hẽ wye wilde eñ hi prees meer Philippus. Doe wort alexander op hẽ zeer vertorent eñ hi greep een spere die een knecht in sijn hant hadde eñ hi doerstac dese Clitus die een out vroem ridder was: Eñ doe dese Clitus doot lach soe riep alexãder tot hẽ Besyet wat v Philippus nv helpẽ mach Maer des anderen daeghes als hi nuchteren geworden was eñ gedocht wat hi gedaen hadde soe wilde hi hẽ seluen gedoot hebbẽ vã rouwe. ende hi ghinc eñ wilde Clitus cussen Ende en haddent hem sijn vrienden niet benomen: hi soude hem seluen op die seluer stede gedoot hebbẽ Want hi bedochte hem seluen dat Clit[us] suster sijn amye was: ende dat hi oec om dese selue saeke ghedoot hadde Persemoene ende Fylatone ende veel ander luden van sinen genoeten Dit ghinc Alexander alte zeer beclagẽ. alsoe dat hi in veel daghen niet en at Tot dat hem geboden sijn heeren dat hi ate Eñ sonderlinge Calistines sijn gheselle die mit hem voor Aristotiles ter scholen ghinc. eñ dese was zeer wijs eñ hi was cortelic tot alexander gecomẽ om hem wat goets te raeden.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe Alexander Calistines doode</head>
+               <p rend="justify">Ca. xxxvij</p>
+               <p rend="justify">Hier nae doe alexander weder becomen was eñ hi weder began te oerlogen soe verwan hi tweerehande volck die hẽ op gauẽ eñ brochten hẽ giften Doe gheboet alexander datmen hẽ aenbeden soude als een god Calistines laecte hẽ dit eñ hi seide dat hi pensen soude dat hi sterffelic ware Hier om wort alexander zeer gram eñ hi teech hẽ an dat hi vernomen hadde dat hi hẽ verraden soude Eñ hi dede hẽ alle sijn ledẽ of sniden sijn nose eñ sijn orẽ eñ sijn lippẽ: soe dattet elckẽ mensche ontfermde die hẽ sach Daer nae dede hi hẽ sluten mit wilden honden om datse hẽ verscoren eñ verbitẽ souden: eñ dat die luden die desen syen souden in deser pinen hẽ veruaren soudẽ. Lysimagus een ridder die Calistines discipel plach te wesẽ in s[~ij]re scolen die hadde ontfermenis op sijnẽ meester dat hi hẽ in deser pinen sach Eñ õ dat hi sijn pijne corten wilde soe gaf hi hẽ een cop mit fen[~ij]den dranc õ dat hi te eer steruẽ soude Hier om soe balch hẽ Alexander eñ hi dede hẽ werpen voor eenen leeuwe. nochtãs so liet die leeuwe desen ridder leuen. ende aldus verhief alexander hẽ seluen Mer om datter veel van sinen groten heeren hẽ niet en wilden ontfangen voor haren god: soe dede hijse iammerlijc doden: eñ hi seide hem alle verradenis aen</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe Alexander in Indien voer</head>
+               <p rend="justify">Ca. xxxviij</p>
+               <p rend="justify">Hoe alexãder hier na sijn vaert tot Indien maecte te varen Wãt dit is dat meeste lãtscap vã alder werelt: wãt in dit landt wonen xliiij. manieren van volck Eñ daer staen wel binnen vijf M: hooftsteden die al vol vã rijckheden sijn: wãt dat lantscap hout bi nae dat eẽ derdẽ deel vãder werelt In dit lant sijn alsoe veel wõders datment nyemãt en soude mogẽ vertellen Daer sijn so hoghe bomẽ diemẽ niet en soude mogen op schieten: Alsoe haest als alexander in desen lãde quam: so quam des conincx Porrius bode tegen hem eñ hi brocht hẽ brieuen daer aldusdanige woorden in ghescreuen stõden Hoe bẽt ghi soe sot eñ soe koen dat ghi onsen rijcke naekẽ dorst Ic rade v dat ghi peynset dat ghi een mensche bent. eñ en pijnt v niet tegen gode te doen Ghi moecht wel vernemen wye dat wi sijn want die auenture en vermach teghen ons niet Hier om soe beueel ic v dat ghi wederom te Gryeken waert vaert ende laet v hier mede ghenoegen Want weet dat voorwaer hadde ons v conincrijck ergent ghenoecht of hadden wijt begheert te hebben. onse broeders haddent lange sonder ghedaen Maer wi verõwaerdent als dreck of modder want het is onghelijc onsen rijchedẽ eñ hier õ en begheren wijs niet Eñ alexander en achte op desen brief eñ antwoorde niet want hi kẽnede wel dreyginghe eñ ouertale</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe Alexander in Indien eenen zone wan</head>
+               <p rend="justify">Ca:xxxix</p>
+               <p rend="justify">Iustinus seit Doe alexãder in Indien quã soe dede hi s[~ij]re ridderen ghesmide van haren scilden silueren maken eñ oec haer harnas Eñ cortelick hier nae soe quã hi voor een stat gehieten Mysa. mer dat volc datter binnẽ was en wilde hem niet weren want sij verlieten hẽ op haren god gehieten Liberbatus Hier om hiet alexander datmen die stat vermyden soude Eñ doe hieldt hi daer bi leggen mit sijn heer an eenẽ berch diemen heylich hiet: eñ dat en was niet verde vander poorten: Op desen berch wasset alsoe schone mit wewende ende wijngaert al ouer sonder oefenen Van deser stat voer alexander in eenre coninginnen lãt die Cleophilis hiet Dese vrouwe ghaf haer op in alexanders handen: mer sy breede haer seluen haestelick ende sy dede alexanders wille: Ende hier om gaf hi haer haer lant weder eñ haer vryheit. Ende aen deser vrouwen wan alexander een zone die sy alexander dede hieten: eñ dese alexander wort namaels coninck van Indien Doe vergaderde Porrius mit hem een alten groten heer om te striden tegen alexander Eñ alexander toech oec vast voort om tegen hẽ te striden Eñ beyde die battaelgien [ver]gaderdẽ eñ aen beyden syden bleef zeer groot volck doot Eñ int vergaderen vanden strijde soe reedt Porrius alexãders ors Pucifal doot Doe wort Alexander zeer veruaert eñ droeue om sijn paert: want hi was doe seluer in groter auenturen Eñ die gryeken quamẽ toe slaẽde haren heere te hulpe daer hi te voete stont. eñ daer bleef menich man doot eñ ghewont nohtans holpen sij Alexander wter noot Mer hi liet alle weere eñ gheuecht staen eñ hi nam Pucifael biden stert: eñ hi toecht an die een syde Want hi ontsach hem dattet die vã Indien gheroeft souden hebbẽ eñ dat en hadde hi om gheen goet ghewilt Dus toech alexander achterwaert eñ hi maecte tusschen hẽ beyden een bestandt xx dagen duerende Want binnen die tijt mochtmen ghenesen die gequetsten eñ die doden ter aerden doen nae haer waerdicheyt eñ verdiensten</p>
+               <p rend="justify">Hoe dat Alexander Porrius eyschte te campe Eñ hoe hi Porrius õtboet dattet gheen eere en waer dat lantsherẽ so zere haer heer eñ volc auenturen souden</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe Alexander Porrius eyschte te campe</head>
+               <p rend="justify">Capittel xl.</p>
+               <p rend="justify">Binnen deser tijt beryet hẽ Alexander dat hi Porrius beroepen soude te campe Eñ hi ontboet Porrius dattet scãde waer dat lãtsheren haer heer so zeer auenturen souden Eñ hi ontboet hẽ dat hi tegen hẽ te cãp quam man teghens man: eñ soe wye verwõnen bleef die soude sijn heer mede [ver]wonnen bliuen eñ onderdaen wesen dẽ ghenen dien verwõne Porrius was hier of zeer blijde eñ hi nam dẽ camp aen teghen Alexander Want hi mercte inden strijt dat alexander mer vier cubitus lanck en was. eñ hi was vijf cubitus lanc eñ oec groot eñ sterc Dus ontfinc Porrus dẽ camp te vechtẽ teghen alexander: hi verwõnen wye mochte. Hier en binnen ontteykende hem Alexander eñ voer indẽ berch daer Porrius lach eñ hi geliet hem oft hi copen wilde wijn ende vleysch Eñ doe hi voor Porrius quã: soe vraechde hẽ Porrius wat alexander dede. eñ hoe oudt dat hi was vã iaren Alexander antwoorde Onse coninc hout hẽ als een ionc man plach: want hi sit in sijn tente biden viere als hi ghewoen is eñ hi wermt hẽ Doe wort Porrius zeer blijde om dat hi teghen enen ouden man vechten soude. want hi was ionc eñ onuersaecht Doe antwoorde hi Wat meent alexander eñ waer voor hout hi ons eñ waer om en merct hi sijn outheit niet Alexander antwoorde weder Here ic ben een maet ridder. so dat ic ten nausten niet en weet wat alexander doet Eñ Porrius beryedt hem dat hi Alexander eenen brief gaf daer groot gedreych in ghescreuen stont. eñ hi gheloefde hem groot goet op dat hi desen brief alexander gaue: Ende doen zwoer Alexander seluer dat alexander dien brief sien soude oeck watter nae quame Eñ aldus voer hi weder te sijnen heer waert Daer na vergaderden dese twee coningen indẽ camp eñ als si vochten soe wareu sij lange in twifel in beyde dẽ herẽ wye dattet schoenste hadde: mer alexander was altijt op sijn hoede Eñ daer Porrius bi auenture op sijn volck sien soude soe stack hẽ alexander mitten swaerde een grote wonde eñ hi moest hẽ op geuen tot alexanders wille Doe dit dat volc van Indien sach so liepen sij op alexãder om dit te wreken Maer Alexander die badt hẽ dat sij hem een luttel woude horen spreken Ende doe verwanse alexander mit schonen redenen eñ woorden Alsoe dat sij alexander voor haren heere ontfingen eñ sij bleuen hem daer nae voort onderdanich.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Van Porrius rijcheyt eñ macht</head>
+               <p rend="justify">Capit. xli</p>
+               <p rend="justify">Alexanders hystorie seit dit vanden camp als voorseit is Mer Iustinus bescrijft dat Porrius van alexander zeer gewont was eñ oec geuãgen inden strijt daert ors Pucifael in doot bleef Eñ dat Porrius hier om so drouich was datmen qualic verbliden mocht dat hi hẽ liet ghenesen eñ dat hi ate eñ drõcke Eñ doen Porrius genesen was so gaf hẽ Alexander s[~ij] lant weder mit payse Hier na liet Porrius in die eer vã Alexander drie stedẽ maken Die twee in Pucifals naem dat Porrius doot sloech. eñ die derde hiet Mycia Porrius hadde in sijn heer xl. M. mans te voet eñ acht C. waghenen wel gebattaelgiert eñ gemãnet: eñ in alle syden waren scerpe zekelen daer aen ghemaect die zeere sneden. Hier toe hadde hi vier olyphãten die wel ten stride geleert waren õ die battaelgie daer mede te doer brekẽ Eñ elck olyphãt hadde een stercken toren op daer gewapẽde luden in warẽ eñ scutters Eñ die toernen warẽ binnen wel gespijst. eñ dit was eẽ sterc heer Porrius hadde oec een zale die xxx: colõpnen lanc was eñ die was wel gewrocht van finen goude Eñ die wanden daer of waren al van finen goude gedect vingers dick al ouer eñ ouer: daer binnen hadde hi een wijngaert mit rancken daer die scoten eñ die blad of gemaect waren al vã finen goude Ende die druuen waren gemaect vã mirande eñ vã cristale Daer waren oec an gemaect alte cyerlike asement camerẽ eñ slaepcamerẽ daer die wãden alte properlic ghemaect waren van finen goude: Daer waren in geset carbũkelẽ eñ ander preciose steenẽ Die doren vã desen palayse waren al yuorien Die balcken waren al van ybenen houte. eñ dit palays was al ouer gheweluet mit cypresse Eñ daer stondẽ in gemaect veel beelden groot eñ lanck van finen goude nochtan en waren sij van binnen niet hol Eñ elck beelde had in die hant eenẽ cop vã goude Daer stont oec een platamus vã fijnen goude die groot genoech was in dier gelijcke oft een gulden linde geweest hadde. Daer warẽ oeck veel nappẽ vã preciose steenẽ eñ van cristalle Eñ daer warẽ oec noch veel meer ongeloeflike scatten eñ duerbaer steenen eñ ontallicke duerbaer crudẽ Eñ al dit grote goet quã alexander al tsamen in sijn handen:</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe dat Alexander in een stat spranc</head>
+               <p rend="justify">Ca: xlij</p>
+               <p rend="justify">Nv dede alexander al sijn heer mit goude decken alsoe hi begeerde. alle sijn bãnieren dede hi van goude makẽ. Sy hadden daer so veel gouts dattet die ridders niet voeren en cõsten: nochtans ghingen mitten heer m. olyphãten geladẽ mit goude Al der beesten gesmide was gulden eñ het blicte harde verde mitter zõnen Eñ alle die wagenen vãden heer warẽ gemaect mit scerpe zekelẽ. Alexander hadde in sijn heer xij. C: karren die den heer volchden: Eñ hi hadde xxx: m: stouter ridders te paerder die in alle noot vroem waren Noch hadde hij drie C. M: man te voete Eñ op vijftich stercke mulen voerdemen des conincx harnas Daer waren oeck veel kemels buffelen eñ dromedarien die den heer volchdẽ mit vytaelge. mer dẽ last daer of en mochtmẽ niet [ver]tellen Alexan[der] reedt seluer voor sijn bãnieren: eñ hi verwan vierdhãde volc Mer doe woudẽ alle die heren vã Gryeken weder te lande keren Daer sprac hijse soe vriendelic toe dat sy hẽ beloefden mit hẽ te varen waer hi wilde Doe quã Alexãder tot eenre schoenre ryuieren: eñ daer doer soe voer hi in die zee in eẽ eylant daer hij dat volc dwanc dat Hercules daer geset hadde te wijlẽ dat hi Indien wan. Dit volc was zeer sterc eñ fel eñ quam fellic teghens Alexander mit xxx: dusent mans te voet eñ lx: dusẽt mans te paerde Mer noch dwancse Alexander mit stridẽ so dat sij ontvloden in een stat Subdractas gehieten ende daer beleyde hijse binnen Hier clam alexander eerst op die mure eñ hi spranc inder stat: eñ daer weerde hi tegen menighen man. Mer hi wort gescotẽ mit een gauelote benedẽ s[~ij] spene vã een man vã binnen: mer die man die hẽ schoet sterffer om Eñ Alexanders volck quã in gesprõgen eñ holpẽ hẽ wter noot:</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe Alexander die dõcker zee bestont</head>
+               <p rend="justify">Ca. xliij:</p>
+               <p rend="justify">Alexander wort vã sijnen vriendẽ wter stat gedragen eñ sij beclaechdẽ zeer Eñ alle dat volc vã binnen der stadt sloegen sij doot Hier gedoechde Alexander grote smerte eer hi ghenesen was Eñ hier bekende hi eñ seyde Al hout mi alt volck dat ic iupiters zone bẽ Dese wonde leert mi dat ic een sterffelic mẽsche ben wãt hi conste qualic genesen Eñ doe hi genesẽ was soe bereyde hi hẽ ter stont õ voort te varẽ Mer hi sende Polipertoene mit een schoen here in Babilonien wãt hi was mitten heer verladen: eñ hi was selue beradẽ dat hi die groote zee syen wilde eñ hi ghinc te scepe om dat lant te besien dat daer binnẽ lach Sinte Augustinus seit dat hi op die zee een hooft rouer vincg ghehieten Dyometes Doe vraechde hẽ Alexander wat verwoetheyt dat hẽ daer toe iaechde dat hi mit scepen in die zee voer rouen: Die rouer antwoorde wat duvel iaecht v dat ghi alle die werelt doer roeft Want õ dat ic mi auenture mit cleynre menichtẽ so hietmen mi rouer: eñ v hietmen coninc ende heere om dat ghi meer volcx hebt Want alsmẽ gerechticheit after laet soe en ist conincrijck anders niet dan diefte eñ groten roef. mer dat wi rouers hieten dat is om cleynẽ roef eñ moort die wi doen</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Van Candax der coninginnen</head>
+               <p rend="justify">Ca: xliiij</p>
+               <p rend="justify">Hier mede liep die mare eñ Cãdax die coninginne vã dien lande die zeer subtijle was van sinnen seynde eenen scilder die wel beelden maken conste Eñ sy beual hem dat hi al sijn subtijlheit daer an leyde dat hi alexanders beelde wel maecte na sijn gedaente eñ dat hi haer dan dat brochte Want hier te vorẽ had Alexãder haer brieuen gesent vã grote vrientscap Sy sende hẽ een groot present vãden houte eñ van gout eñ preciosen gesteentẽ. eñ son[der]linge dieren eñ vogelen vã menige manieren Binnẽ dat dit geuiel soe quã candeles haer zoẽ haestelic tot Alexander gevlogen om succoers want hẽ wort s[~ij] wijf ontuoert Alexander settede Ptholomeus in sijn stadt eñ hi dede hẽ seluen hietẽ Antigone eenen matẽ ridder vã alexanders heer Eñ Ptholomeus gebaerde hẽ tot candeles of hi die coninc Alexander gheweest had. eñ hij seide tot alexander Antigone Gaet doet desen man succoers eñ wreeket ouer sijn vyandẽ Alexander nam mit hẽ vier M. rid[der]s: eñ voer mit candeles der coninginnẽ zone eñ hi vinck s[~ij] viandẽ eñ verloste s[~ij] vrouwe Hier om bedancte candeles Ptholome[us] zeer dien hi voor alexander hielt Doe begeerde Ptholomeus als heere dat hi begheerde sijn moedere te sien. mer hi wilde daer te voren seynden Antygone: eñ des was cãdeles harde blijde Aldus voer Alexãder tot die coninginne Candax oft hi Antigonus geweest hadde Doe dit die coninginne Cãdax vernã so quã sy tegen harẽ zone eñ sy cussede alexander zeer om dat sy hẽ eere doen wilde: eñ sy leyde hẽ in alle stedẽ in haer cameren eñ toende hẽ veel rijchedẽ Alexander antwoorde dat hi veel meer rijcheden ghesien hadde in Gryeken dã hi daer vant. Doe seyde die vrouwe tot hẽ Mi dunct immer dat ghi selue alexander bent Hi seide vrouwe ick en ben niet Doe leydẽ sy hẽ in die stat daer sy sijn beelde gheset hadde eñ dedet hem syen eñ sy seide Merct wel eñ besiet hier aen dat die coninginne Candax wijser is dan alexander Doe was alexander zeer veruaert eñ hi beclaechde zeer dat hi daer gecomẽ was Doe seide de coninginne En weest niet veruaert. ghi hebt minẽ zone trouwe gedaen eñ ic salt v lonen Si hieten v Antigonus die willen: maer ghi sijt mijn heer alexander Eñ sy brocht hem weder in sijn behout sõder vrese Nochtãs wilde hi haren ioncsten zone gedoot hebbẽ: om dz hi Porrius dochter te wijue hadde</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe Alexander doer die roetsche villede</head>
+               <p rend="justify">Capittel xlv:</p>
+               <p rend="justify">Binnen enen iare geuiel dit wõder Want alexander verwan Darius in die meye: eñ in die hoymaent verwan hi Porrius Daer nae indẽ oest nam alexander mit hẽ C: eñ l: heren vã Indien die alle die wegen kẽden. eñ hi voer wech õ dat hi alle die wildernissen van Indien sien wilde eñ hi toech doer dat groote santachtige lant dat daer leit: wãt in dat lant vantmen eerst zydẽ werck. eñ daer maectmen zydẽ clederen In desen wech haddẽ alt heer groten noot vã dorst. wãt sij en vondẽ gheen water Mer int heer was een ridder die een helm waters had gecregen mit groter pinen eñ die brocht hi mitten water tot alexander dat hijs loon woude beiaghen Doe nam alexãder den helm mitten water eñ storten wt voor dz heer eñ dese vromicheit benã menighen man sinen dorst Daer nae quamẽ sij tot eenre ryuiere die soe bitter was datter gheen mãnen of beesten of drinckẽ en mochtẽ Hier bi proeftmen dat eẽ mensch meer lijdẽ mach dan een beeste: Want vã groter noot soe licten sij som kout yser eñ som loot: eñ som drõcken si oec vryne eñ olye Ontrent noen quamẽ sij bi eenẽ berch daer sy alle dat volck naect sagen Eñ Alexander badt hẽ dat sij hẽ goet water wijsen soudẽ. mer doe scuylden sij alle neder: eñ men schoet vã ouer dat water nae hẽ: eñ doe decten sij hẽ te meer: Doe beual alexander õ dat hẽ des volcx [ver]wõderde twee C. vã sinen luden ouer die ryuiere te zwẽmen: mer als sij die helft ouer geuaren warẽ soe [ver]betense die water paerdẽ mit groter torment Doe wort Alexander so grã dat hi. C vã sinen leytsmãnen inder ryuiere dede werpen: eñ die water paddẽ haddense haest gegetẽ Corts hier na võden sij ludẽ die hẽ water wiseden. mer als sij totten water quamẽ soe hadden sij alden nacht genoech te doen om tegen die leeuwen te vechtẽ eñ tegen tygren eñ beeren daer sij hẽ mit pinen doer verweerden</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Van den serpenten eñ anderen dieren die alexãder vreesden:</head>
+               <p rend="justify">Capittel xlvi</p>
+               <p rend="justify">Doe Alexander gecomen was tot zuuerẽ water so sloech hi sijn getelde viij: milẽ lanc eñ breet Eñ hi dede xv.C: vieren maeken wãt dat ontsien bitende dieren zeer Daer quamen doe alte veel scorpioenẽ ende terusten die veel quader sijn Daer na quamen menigerhãde serpenten. nv blauwe: nv rode. nv blonde nv scire nv witte: nv swarte. nv ander die die huyt guldẽ haddẽ Eñ te hãts wast vol gerufts dat dese serpẽten maecten: daer na quamen serpentẽ binnen den tenten die cãmen opt hooft haddẽ eñ sij hadden som twee hoofdẽ oft drie eñ haer ogen barndẽ als vuer Alexãder visyerde dat alles s[~ij] heer hẽ battaelgien soude tegen die serpẽten eñ elck soude sijn schilt voor hem houdẽ eñ sprieten eñ speren om die serpenten mede te wederstaẽ In dit geuecht verloes alexander xx. ridders eñ lx. knechts Daer nae quamen witte leeuwen also groot als ossẽ eñ die sloechmen doot mit sprieten Daer nae quamẽ grote eueren eñ pantheren opt heer Eñ daer na quamen vleermusen also groot als duuen Daer na quã een beest meere dan een olyphãt al swart mit drie hoofden Eñ eermen dit dier doden mocht: soe haddet ses en dertich gryekẽ ghedoot eñ liij: ander mannen want het verscoerdet al cleyn eñ groot daert op comen cõste Hier na quamen opt heer musen die groter waren dan vossen Eñ wat beestẽ dat die betẽ die bleuen ter stont doot. mer die ludẽ mochtẽ wel vander beten ghenesen Eñ hier om dede alexander sinen leytsmã doden</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe Alexander binnẽ Indien waert voer:</head>
+               <p rend="justify">Ca: xlvij</p>
+               <p rend="justify">Alexander quam hier na voor een poorte daer die poorters binnẽ hoorden seggen datmen alexãder mit wapenen niet en soude mogen dodẽ Doe visierden sij een ander dinc eñ schoten tot sinen volcke waert mit fen[~ij]de quattelen daer menich man of sterf Eñ Ptholomeus alexãders vrient was oec daer of ghequetst. soe dat alexander een cruyt indẽ drome gewijst wort dat alle dat fenijn verdreef Hier na quam hi tot enen hoghen berch daer groot volc op geuloden was Eñ men seide dat Hercules in dien berch bi wijlen was: mer eẽ grote aertbeuinge dreef hẽ van daer Desen berch wan alexander mit groter pijnen: eñ hi voer daer die gulden palen stõden die Liberbat[us] eñ Hercules setten: tot een teyken dat sij dat lant soe verde wõnen Doe wilde alexander wetẽ of die beelden die daer stõden binnen hol waren of vol. Eñ hi vant dat sij vol waren van finen goude gemaect Hier nae quã hi mit sijn heer daer hi een sterck groote beeste vant mit twee hoofden die getant was op haren rugge als een sage: eñ dit beeste beet hẽ twee ridders doot Eñ dit beeste sloechmẽ mit hamers doot wãt gheen spriet en mocht hẽ deren Daer nae quamen sij op een ryuiere daert heer sat eñ at daer quamẽ veel olyphãten op hẽ gelopẽ: Doe beual Alexander den Tessalen dat sij tegen die olyphãten trecken soudẽ eñ dat si voor hẽ driuen een cudde swijnẽ. want als die olyphãten horen geluyt vãden swijnẽ soe vlyen si Aldus soe sloegen sij doot viii C: eñ lxxx olyphãten eñ si sloeghen die tãden wt eñ voerdense mit hẽ. want het is precioes yuoer</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Vanden wonderen die in Indien sijn</head>
+               <p rend="justify">Ca. xlviij</p>
+               <p rend="justify">Si voeren bet tot Indien waert in eñ quamen daer sij naect volc sagen eñ die waren acht voet lãc Die manier vã dit volc was dat sij altijt in die ryuiere warẽ eñ sij atẽ raeu visch: mer als sij bet naerder comen soudẽ om dit volc te besien soe dokẽ sij alle õder twater Dan daer quamẽ sij in een wout daer sij ludẽ vondẽ die hoofdẽ hadden ghelijc hõden Eñ daer sloech Alexander getelden eñ s[~ij] volc onstac daer menich vuer Mit dien rees een storm soe groot dat alle die tenten auerecht waydẽ. mer Alexander badt dẽ volc dat sij hẽ niet [ver]uaren en souden. Eñ hij seide hem dat dit die goden niet en daden. maer het was den tijt vanden iaer dat doe scheidẽ den herfs eñ den oest ende dẽ winter eñ hi beual dẽ volc dat si eten soudẽ. mer daer viel znee op hẽ soe groot als scaepẽ vlyesen alsoe datter v.C. mãnen of doot vielen Hier na viel groot hagel eñ vier te gader eñ binnẽ drie dagen hier nae en saghen sij die zõne niet Alexanders ridders seidẽ dat dit der goden wrake was: om dat een sterffelijc man also koen was dat hi varẽ dorst ouer Liberbatus eñ Hercules palẽ eñ sij waren gram. Doe quã alexãder ten berge vã Ethiopien eñ daer vant hi open Liberbatus hol: Dat was in een berch die al metalen of guldẽ scheen mer wye int hol ginc die moest in drie dagen steruẽ Wãt als Alexãder in een lant quã soe vraechde hi of daer eenich wõder in dat lant was. eñ als mẽ hẽ van enich wõder seide soe wilde hijt immer besien Het geuiel dat hi twee oude mãnen vãt doe hi in Indien was. eñ sij seidẽ hẽ van twee bomen die dieper int lant stõden Dat een was der zõnen boom eñ dander der manen boom eñ sij seiden elck wat hi begeerde te wetẽ Als alexander hoorde soe was hij grã eñ meende dat sij dit seiden om hẽ te bespottẽ. eñ hi wilde se doden Mer doe sijt hẽ zwoerẽ dattet waer was soe nam hijse mit hẽ eñ hi voer derwert Eñ als hi daer int lant quam soe vant hi daer alle tuolc gecleet mit hudẽ van pantheren eñ sulcke huden leydẽ sij onder eñ bouen daer sij sliepen eñ en hadden onder gheen bedden Dat volck en at anders niet dan colen gemaect vã edelen wyerooc eñ van balsame wãt dit wasset in dat lant zeer veel</p>
+               <p rend="justify">Hoe Alexãder quã bijder zõnen eñ manen boom eñ hoe hẽ een pape te gemoete quam eñ was getant ghelijck een hont</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Vander zõnen eñ manen boom</head>
+               <p rend="justify">Ca: xlix</p>
+               <p rend="justify">Als alexander biden bome quã soe quam haer pape tegen hẽ wt te voete. Ende hi was gecleedt al mit huden. hi stõt ghetant als een hont: eñ sijn oren waren doergaet eñ daer hingen gulden ringen an mit preciosen steenen Die pape vraechde Alexander wat hi daer dede of wat hi wilde Alexander ãtwoorde dat hi syen wilde die heylige bomen vãder zonne eñ van die mane Die pape seide Op dat hi eñ sijn gheselscap zuuer ware eñ sõderlinge van wijuẽ. soe soude hijse sien eñ horen sprekẽ wat hi begeerde te wetẽ Mer hi seide dat der zõnen boom sprac des auõts als die zõne onder ginc eñ des morghens als si op soude gaen. eñ der manen boom des gelijcx Eñ die bomen stondẽ in een bosch int midden dat al omme bemuert was mit een muere Doe sij daer binnen gaen soe hiet die pape hẽ allen of doen haer costelicke clederen eñ schoenẽ eñ haer iuwelen Ende doe sij binnen gegaen waren so sagen sij schone bomen int middẽ staen eñ elck was wel C: voeten hooghe: eñ daer hinc balsame aen die daer of dropen eñ was ghelijc kryeken Ende die coninc eñ sijn gesellen raepten daer balsame om dat sij soe wel roecken. wãt die coninc leyde mit hẽ daer binnẽ wel drie C: van sijnen ridders Eñ om dat dese bomen schoon warẽ eñ mit balsame soe wel gheladen: soe meende alexander dattet daer veel plach te reghenen. Maer die pape swoer datter nye regen noch vogel of beeste en quamẽ Wãt hi seyde hẽ dat die bomen ghewyet warẽ inder zõnen eñ in[der] manen eere. eñ dat sij so lanc eñ so schone waren gewordẽ van heylicheden Doe wilde Alexander den boom offerhãde doen mer die pape verboetet hẽ: eñ hi hiet hẽ eñ sijn luden dat sij den boom anbedẽ eñ cussen souden Dese pape eñ die luden vã desen lande pleghen wel drie hondert iaer te leuen of meer.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe Alexander sijn eerste antwoorde ontfinc vander zõnen boom</head>
+               <p rend="justify">Cap. l:</p>
+               <p rend="justify">Die pape seide tot alexander Hebt v herte eñ v gepeyns voor v: waer of dat ghi weten wilt mer en spreect niet mer peynst mitter herten eñ syet opwaert naden boom Ende hi sal v dan antwoorden soe wat ghi begheert te weten: want sij spreken gryexe eñ ioetsche tale beyde gader zeer wel Die coninck eñ sijn geselscap te samen wachten hẽ van quaden berade eñ sij sagen ten bome waert op Alexander peynsde of hi mit gheluc eñ seghe weder te lande keren soude Doe antwoorde hẽ der zonnen boom eñ seide Alexander ghi sult alle die werelt onder dijn bedwanc doen eñ onuerwõnen bliuen vã striden. eñ heere bouen alle die werelt wesen: mer nẽmermeer en coemt gi te lãde. Dit seide die boom in ioedtscher tale mit cleynre sprakẽ: Mer dit woort misquã alexander harde zeer eñ hẽ was leet dattet alsoe veel vã sinen ridders hoorden. eñ sij begonsten te weenen Eñ alexander [ver]boetet hẽ allen mit giften eñ mit dreygen dat sijt nyemãt en souden seggen dat sij gehoort haddẽ. eñ hi wilde bliuẽ om anderwerf ãtwoorde te ontfaen vander manẽ boom Mer die pape seide hẽ dat dit niet wesen en soude voor ter middernacht dat die mane rijsen soude Hier om so bleef alexander daer. eñ hildt mit hẽ Pernitasse eñ Fylotinen eñ Clytone s[~ij] neuen die cortelic wt gryekẽ gecomen warẽ: Wãt die mane seide hẽ dat hem nyemãt doot slaen en soude mogen eñ hier õ ontsach hi hẽ te min. eñ liet alle die ander ridders wten bosch gaen.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe der manẽ boom Alexander anderwerf ãtwoorde</head>
+               <p rend="justify">Ca:li</p>
+               <p rend="justify">Alexander ghinc inwert totten boom mit sijn drie ridders eñ aenbede dẽ boom: eñ hi peynsde eñ begeerde te weten die stat daer hi in steruẽ soude Eñ als die mane began te risen soe ãtwoorde hẽ die boom in gryxer talen Alexander. uwẽ sterfdach naect zeer: Wãt int naeste iaer ter ix: maent sult ghi sterue te Babilonien: eñ het sal v doen een dijn vriendt daer ghijs niet op en meent Alexander weende harde zeer eñ sijn drie ghesellen die mit hẽ waren Doe wort Alexander in twijfelingen. oft hem eenich vã drien doen soude eñ: hẽ berouwede dat hijs niet gevraecht en hadde wye dattet hẽ doen soude Eñ aldus ghingen sij wt eten mer alexander en mocht niet eten vã droefheden</p>
+               <p rend="justify">Hoe der zõnen boom Alexander die derde vraghe antwoorde eñ seyde:</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe der zonnen boom coninc Alexãder die derde vraghe antwoorde</head>
+               <p rend="justify">Cap: liij.</p>
+               <p rend="justify">Als alexãder gegeten hadde so was hi zeere naerstich om voor den dage te comen totter zonnen boom om weder antwoorde te ontfaen vã dat hi begeerde Eñ hi ginc ter mueren waert vãden bosche mit die drie die mit hẽ waren Eñ doe sij tottẽ pape quamẽ vonden sij hẽ noch slapende eñ gedect mit huden bouẽ eñ beneden. want die ludẽ en hebben anders gheẽ slaeplakens Eñ bi hẽ lach een harde corste op een tafel vã balsame gemaect die hẽ des auõts gebleuẽ was. eñ daer bi lach een mes vã yuorien wãt in dat lãt en is gheen yser noch loot mer daer is alte veel gouts. noch die luden en hebbẽ daer gheen laken: Eñ die pape stont op eñ ghinc mit hẽ binnen: Alexander ginc staen voor der zonnen boom eñ aenbede hẽ Ende hi pensde wye hẽ doden soude eñ wat s[~ij]re moeder eñ s[~ij]re suster geuallen soude Als die zõne began te rijsen: soe antwoorde hẽ der zonnen boom in gryex aldus Alexãder Seydẽ wi v diẽ verrader die v ter doot brengen sal. so soutstu hẽ doden. eñ also soudt ghi dat dinc verdriuen dat immer gheschien moet Wãt ouer een iaer eñ ix: maendẽ sult ghi steruen te Babilonien in die stadt: Maer men en sal di dijn lijf niet nemen mit ysere noch mit stale noch mit metael noch mit siluere noch mit goude Wãt ghi sult mit fenijn vergeuen wordẽ Olymphias sal eẽ iãmerlicke doot steruẽ. eñ men salse onbegrauen latẽ om datse die vogelen eñ beesten eten sullen Dijn suster sal lãge in groter eeren bliuen: al en salse niet lãge leuen Ghi sult al die werelt onder v hebbẽ als een here. Nu gaet henen eñ ruymt onsen bosch eñ en vraghet ons niet meer. eñ vaert haestelijc ter poorten van Faciaten waert daer Porrius eñ dijn heer v wacht Die pape seide v hantgheslach eñ screyinge [ver]torent god zeer eñ dẽ heyligen boom Here coninc ruymt haestelic dat bosch. Veel ludẽ twijfelen wye dese antwoorde gaf. want die bomen en spreken niet: Sulcke luden segghen dattet een engel gods was Ander seggen dattet die duuel was: maer dat en gheloue ic niet Want die duuel en mach alle gepensen vandẽ mensche niet wetẽ. eñ hi en mach niet weten wat daer geschien sal. eñ al seit die duuel somtijt waer nochtãs veynst hi dicke logene Mer om dat stẽme seide al dat waer was soe houde ic nochtans dat sij vã gods wegen was.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Van Alexanders [ver]waentheden</head>
+               <p rend="justify">Ca. liiij</p>
+               <p rend="justify">Daer na voer alexander wech: eñ alle s[~ij] volck eñ sij quamen in een dal daer veel serpenten in waren die den steen Mirauden dragen in haren hals die schone warẽ: eñ dat heer wãner menich: Daer nae quã alexander onder wonderlijke beesten die hoofden haddẽ ghelijc leeuwen Ende daer mede quamen voghel grijpen die hẽ veel quaets deden ende dat heer weerder hem teghens mit speren eñ mit scutten sterckelijc. nochtans lieten si daer wel twee C: mannen doot: maer onder cleyn ende groot sloegen sij daer wel acht duysent beestẽ doot Hier nae quamen sij op een ryuiere ghehieten Ecclinas. eñ dat water is derdalf mijle wijt: eñ an elcke syde stont groot lanc riet dat meerder eñ langer was dan eenich boom wesen mochte. eñ dat riet lach al vol olyphãten. mer sij en deden alexãder noch sijn heer gheẽ quaet Eñ alexander voer mit sinen heer ouer dit water mit scepen vã ryet gemaect Eñ doe sij alle ouer waren so ontfinghense die wilde luden alle dat heer vriendelic Si vonden daer wilde wijuẽ in een water die schoen wit haer hadden eñ schone claere hudẽ Dese wiuen plegen dicwijle mannen te vaen eñ [ver]drenckense of sloeghense doot of brochtense ter doot mit haer grote luxurie Alexander vinc twee van dese wijuẽ die een huyt haddẽ soe wit als znee Van daer quamẽ sij opter ryuiere Gãgres die indẽ bybel Fyson hiet. eñ sij coemt wten paradyse Dese ryuiere is soe wijt datmen vãden enen oeuer anden anderẽ niet ouersien mach Daer nae quamẽ sij daer sy beesten võden die voor wten hoofde quamẽ groote hoornen die ghetant waren als een saghe: eñ vã dien sloegen sij doot viii M: eñ vier C:</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe Alexander der maechdẽ lant wan</head>
+               <p rend="justify">Ca: lv.</p>
+               <p rend="justify">Aldus voer Alexander doer dat wilde Indien eñ hi quã int eylant Faciaten. daer hi Porrius vant die alexander daer ontbeyde mit alle sijn heer Hier om beual alexãder den heeren die hi alle dat lant vã Persen eñ Medẽ beuolen hadde dat sy soudẽ doen maken grote lange colõpnen vã finen goude. eñ dat si alle sijn gesten daer in scriuen souden Eñ dat sijse by Porrius rade voeren soudẽ in dat hoochste Indien: eñ dat sijse verre ouer Liberbatus eñ Hercules palen setten soudẽ. Iae dat sijse oec tien voet hoger setten souden dan haer palen warẽ. wãt hi was dieper int lãt dan sij warẽ Nochtãs verloes hi daer wel M. eñ L: mãnen Seneca spreect van alexanders macht eñ van sinen rijcke aldus Die coninc Alexander was soe fyer dat sijn [ver]waentheit ghinc bouen alle mẽschelicheit. wãt doe hi die werelt [ver]wonnẽ hadde soe wilde hi oec dẽ hemel [ver]winnen Eñ hẽ quã in sijn sinnẽ dat Demetrius geseyt hadde datter veel werelden warẽ Daer om seide alexander: Ay mi keytijf dat ic binnẽ minen leuen een werelt niet ghewonnen en hebbe dat sal mi lange rouwen Nu liet Alexander in Indien een ruwaert eñ hi voer weder te Babilonien. Maer onder weghe dede hi tondere der maechden landt: soe dat sy hẽ tribuyt eñ tijnse gauen Eñ inden weghe quã hẽ die boetscap d[at] hẽ die boden brochten den seghe vã al Europẽ eñ sy gauen hẽ op alle haer lãt: eñ sy brochten hẽ grote presenten Eñ haer tribuyt was van der rijcker stat Cartagien eñ Spaengen lãt eñ van Cecilien eñ vã Gallien dat menighe mijle verre leyt. van Ardennen eñ vã Ytalien Eñ alle desen sijns ontbeyden hẽ in Babilonien mit menighe grote presentẽ Doe haeste hẽ alexander zeer derwaert om dat hi daer die heerlich[eit] van al[der] werelt õtfaen wilde. õ heer daer ouer te wesen Wãt doe hi in Indien soe diep gheuaren was so seide dat volc vãden lande gemeẽlic dat hi nẽmermeer steruẽ en mochte om dat hi so verre ouer Liberbatus eñ Hercules palen geuarẽ was: Hier om en hilt hi daer niet veel of wat hẽ die bomen geseit haddẽ. wãt hi gheloefde bet anderẽ Eñ aldus wort hi bedrogen Nu sult ghi horen hoe Alexander tot die Bracmannen voer</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe Alexander die Bracmãnen bestoet:</head>
+               <p rend="justify">Ca. lvi</p>
+               <p rend="justify">Alexander besocht die wõderen die in Indien warẽ so wilde hi oec der Bracmãnen lãnt winnen Doe seyndẽ hẽ die Bracmãnen aldus. danige brieuẽ Heere onuerwõnen coninc Wij hebbẽ gehoort vã uwe zeghe eñ eere. eñ hier in sijn wij zeer blijde van uwen ghelucke. Weet dat wi gheen dingen en hebbẽ daer ghi op õs om oerlogen derft. wãt ons goet is al gemeẽ: eñ wi eten alle eenrehande spijse Want schone dierbare clederen daer of laten wi ons ghenoegen mit eenre slouen Onse wijuen en blãcketten hẽ niet om datse ons te bet ghenoegen souden. want wympel cleder eñ crone dat is cyerheit mer gheẽ schoonheid: wãt gheen an[der] schoonheit en is dã ons die nature gelaten heuet Wij en hebbẽ anders gheẽ husen dan holen eñ haghedochtẽ eñ daer in wonen wi so lãge als wi leuen. eñ daer in laetmen ons leggen als wi doot sijn Wij hebbẽ eenen coninc maer dat en is daer õ niet dat ons eenighe rechters noot is: maer dat is alleen die edelheit. Want waer ouer soudemen rechtẽ daer nyemant en is die misdoet Als Alexãder die zeer wijs was dit vernam vã haren leuen so liet hijse vry eñ quijt vã alle oerlogen Doe screef hi aldus tot Didimus coninc vãden Bracmãnen</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe Alexander dẽ Bracmãnen weder screef</head>
+               <p rend="justify">Ca. lvij</p>
+               <p rend="justify">Van uwen zeden hebben wi dicwijls ghehoort dat v leuen niet en is ghelijc den leuen dat gemeenlic alle menschen leuen soe dattet ons dunct onmoghelic te wesen en dede dat wijt gehoort hebbẽ Hier om coninc didimus so biddic v dat ghi tot onser lieften ouer wilt scriuen. oft waer is dat wi vã v gehoort hebbẽ eñ maket ons vroet of ghi leeft om exempel te geuen vã uwen leuẽ Eñ dit doet ons: op dat als wi also v leuen horen: dat wi ons daer in kerẽ mogen oft ons alsoe geuallen mochte: Want leeringhe is een vry dinck eñ wijsheit en scaet niet alsmense tottẽ gemeenen profijt gebruyct Ghelijc dattet een barnẽde kaerse niet en scaet al ontsteectmen daer veel ander kaersen aen daer ander luden by syen. want haer licht en wort des niet te minre</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Een antwoorde vã Didimus tot Alexander</head>
+               <p rend="justify">Capit: lviij.</p>
+               <p rend="justify">Didimus die coninc vãdẽ Bracmãnen antwoorde tot alexander aldus Heer coninc ghi versmaet onse bodẽ die wi tot v sendẽ als onwaerdige luden daer ghi nochtãs sulke nie maren vã ons gehoort hebt. Maer nv sal ic v van onsen zedẽ die waerheit segghen Die bracmãnen leuen een simpel leuẽ. eñ minnen alle suuerheit eñ haten alle onreynicheit Si en begeren anders gheen dinc dã die nature [ver]leent Onse lijftocht is simpel eñ onsẽ cost en is niet groot Want wi en begeren gheen lecker morseelẽ: mer wi eten onse spijse onderlinge alsoe die aerde draecht sõder grauẽ eñ ackerẽ Want wi en eten gheen dinc dat leeft. eñ hier om en wort onder õs nyemant zieck noch en quelet: Wy hebbẽ oec een zede dat nyemãt den anderẽ en helpet: want wi sijn altijts alle effen rijck. Hier om soe leuen wij sonder haet eñ nijt. eñ wi hebben alle effen grote armoede En aldus soe sijn wi alle effen rijck vã goede Wi en hebben onder ons gheen wet: wãt onder ons en is nyemãt die misdoet Wi en weten oeck niet vã arbeyde daermen an winnen mach. want die gyericheit is al quaet Ende soe wye datter mede beuãgen wort in sijn herte: sij brenct hem ter armoedẽ eñ scanden wãt die gyericheit en heeft gheen scande noch eynde. eñ soe die gyericheit meer crighet hoe sij meer begeert te hebben Wi en begeren gheen dinc dan dat wi steruen moeten sõder pijn Wij slapen sonder sorghe: eñ wi en eyschen vã nyemant dienst cleyne noch groot Wi sijn alle vry. sõder dat allene ons vleysch onderdaen is onser redene Eñ wi houden ouer felheyt dat wi ons gebueren dwingen souden om ons onderdaen te wesen die die moeder der nature ons ghelijc gemaect heeft. eñ die vader vã hemelrijc tot sijn rijcke geroepen heeft. daermen ewelick in leeft mit blijscappẽ Wij leuen gemackelic in onse holen wãt nyemant en derf ons daer in storen. Eñ wi en dragen oec gheen costelicke clederẽ: wãt wi decken ons al mit papelẽ alsoet tamelic is Wij en willen gheen vrouwẽ om oncuysheit mede te doen. mer om dat wi begeren kinderen daer aen te winnen Onder õs so en sterft nyemãt voor sinen vader eñ mitten doden en maken wij gheen feeste wãt het is mit ons alleens mitten minsten eñ mitten meestẽ: Maer uwe zede is dat ghi groot goet leght an den doden eñ ghi en laet der aerden niet hebben dat haer is: mer ghi ouerdect uwe dooden mit siluere eñ goude eñ ontneemt der aerden aldus dat haer toebehoort. In ons lãt en valt gheen plaghe want wi en ontsuuerẽ die lucht niet mit quaetheden daer die plagen om plegẽ te geschien Die wint eñ dat weder is in onsen lãden ghenoechlick nadẽ tijt vanden iare Wij en houdẽ anders gheen medicijn dã dat wi etẽ soberlic zuuere spijse: wãt vasten doet wel genesen eñ hout ons gesont Wij en plegen gheẽ spel. danssen noch roeyen noch tornoyẽ noch spel van dieren te maken: eñ wi en varen nergent om sulck spel te ansien. want die werelt eñ dẽ hemel geuen õs genoech schoonheden te ansien Wãt wi sien dẽ hemel dat hi schone eñ claer is. eñ allesins wel gecyert is mitten sterren en planeten. Oeck syen wi in die zee die gedaente vã purpure eñ oec van die visschen in menighen manieren daer in spelen ende springhen Dan syen wi voort hoe die zee die aerde allesins omme helset heeft: recht oft haer suster waer Wij hebben oec groote genoechte te syen op die groote weyden die al om ende om mit schoon groene bloemen staen die soe wel eñ soete ruken voor die ogen eñ voor den sin eñ daer hebbẽ wi veel genoechten in Wi hebben oec grote ghenoechte aen te sien die wilde bosschen eñ die groene bomen daer die vogelen soe schoon eñ soet op singhen Dit sijn die rijcheden der naturen eñ haer schoonhedẽ eñ weelden Wij en varen nimmermeer te lande noch ter zee om comenscappe te doen: wãt die rijcheden vã vremden landẽ en sullẽ nimmermeer onsen sin verwinnen Eñ wi en begeren niet meer vã aertschen goeden dan dat wi in armoeden leuẽ mogen blijdelic eñ sonder sorghe Wij en leren oec niet schone spreken wãt daer leyt loosheit in: eñ men becleet die logen mit schoonre talen also schone datter menich man mede bedrogen wort Wãt men ontschuldicht daer mede de misdadighen eñ men [ver]duystert daer mede dat recht Dã prijsen die ghene diet horen dẽ taelman eñ seggẽ dat hi wijs is: mer dit is een onsalich prijs die die cõsciencie besmettet Maer onder ons en doetmen dit nimmermeer. want wi hebben een zeer simpele sprake die altijts wel eñ waersprekende wesen moet Ende wi en willen tot gheenre scholen gaen: anders niet dan daermen leert dat sekerste eñ dat beste. wãt wi en leren anders niet eeren dã dat ouerste goet. Eñ ghi leert te vogelen eñ te doen dat genoechlic is uwẽ vleische Wij en offeren gode gheen beesten. noch en maken hẽ gheen grote costelicke tẽpelen eñ outaren als ghi doet Eñ v luden dunct datter gheen arm ludẽ en sijn die uwes goets te doen hebben Dat is groote misdaet want god wilt gheeert wesen om sijn grootheit mit suueren dienst sonder bloet te storten eñ te offerẽ Wãt alsmen hẽ bidt mit suueren woorden soe doet hi dẽ menschen genade Want god is selue dat woort daer alle dingen bi gemaect sijn eñ alle dingen behoet hout eñ voet Dat woort minnẽ wi. wãt dat heeft ons nv gegeuen onsẽ geest eñ ons leuen. Mer om dat god selue is gheest eñ leuen soe en machmen niet wel gewinnen sijn vrientscap mit desen aertschen goede: mer men wint sijn vrientscap mit suuerẽ leuen eñ datmen hẽ altijt dancke eñ loue Hier om segghen wi dat ghi onsalich volck bent. want ghi en [ver]staet niet dat v beghin is vandẽ hemel. eñ dat ghi maechscap hebt mit gode die alle dinc gescepen heeft Mer mit dorperlike dinghen besmet ghi uwe edelheit altemael om dat ghi die genoechte uwes vleysches volget na sijnre begeerten: ende dat ghi vercoren hebt eñ minnet alle dingen die comen vãder aerden: ende die minne daer of ontsuuert die lucht: dat water ende die aerde Noch doet ghi veel meer quaets want ghi sijt gode al of gegaen eñ ghi aenbedet dode luden recht of sij goden waren want sij sijn moortdadighe luden eñ vyanden die v tot alle scanden brengen</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe dat Alexander Didimus antwoorde</head>
+               <p rend="justify">Ca.lix</p>
+               <p rend="justify">Alexander antwoorde Didimus der Bracmãnen coninc aldus Sijn v dingen also als ghi seght: soe schijnt dat die Bracmãnen alleen leuen sonder sõden op dese werelt na dat v ghescrifte luydet Want ghi en gebruyct niet tot eenigen tijt die weeldicheit die die natuere ghegeuen heeft allen mẽschen eñ leuen naden auenturẽ ghemeen Aldus schijnt dat ghi luden alleene goden sijt oft ghi en acht op gode niet wãt ghi ontseght hẽ dat hi v geuen wil: eñ dit dunc mi bet sotheit wesẽ dan leuẽ na wijsheit</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe Didimus Alexãder antwoorde</head>
+               <p rend="justify">Ca.lx</p>
+               <p rend="justify">Didimus antwoorde hier op aldus Alexander Wij en sijn niet vryelinghen van deser werelt: mer wi sijn hier al gasten want wi en bliuen hier niet geduerich: eñ wij liden doer dese werelt als een pelgrim die tot sinen lande waert vaert so ontcõmert van alle dingen eñ so licht dat õs die sondẽ niet en beswaren. noch gulsicheit noch ãder quaetheit voor gode diemẽ gheenẽ mãtel makẽ en mach Mer wij haesten ons onsen wech ouerlijdende tot gode waert mit zuuere cõsciencien eñ mit een aensicht dat hẽ niet scamen en derf. Eñ wi en willẽ gheen godẽ wesen noch gode achterdeel doen Mer ghi mint tot uwer onsalicheit gode mit cleynre giften: Wij en sijn niet sculdich te verteren noch te begeren al dat wi syen. wãt dat en ware gheen besetheit noch eere Eñ god heeft meenich dinc opter werelt ghemaect om dattet die werelt niet oerbaerlic en ware. noch sonder hẽ niet en soude mogen staen Mer god heeft dẽ mensche gegeuen die nutscap vanden dingen die hi ghemaect heeft tot haren vryen wille die hi hem vry gelaten heeft: Eñ so wye hem dan mit vryen wille hout an dat quaetste eñ laet dat beste. die en vaert bi gode niet. mer hi verdient gods vyantscap daer mede</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe Alexander weder ãtwoorde</head>
+               <p rend="justify">Ca:lxi</p>
+               <p rend="justify">Alexander screef hẽ weder: eñ seide Ic en prijse voor gheen salicheit dat ghi v lant soe vry hiet. wãt het is bet een karcker dã lant om dat ghi nergents en gaet noch en vaert in anderen lãden. Eñ oec õ dat nyemãt op v en acht. Dit dunct ons een crancke salicheit: wãt ghi en sayet noch en plãt bomen noch en maeket huysẽ noch zalẽ. eñ dit dunct ons alle katyuicheit Aldus en gheeft õs gheẽ wõder dat gi leeft als beesten: mer datmẽ reyn leeft in weelden dat is een eerlic dinc Dat ghi mit vrouwẽ niet veel en sijt wye salt v mogen prisen Wãt uwe wijuẽ sijn onbequaem: het waer scãde dat se menich mã begeerde Mer wi gebruykẽ alle dat die aerde draecht mit vryen wille in ons te wachtẽ van sõden eñ ontscult te hebbẽ Aldus soe nam die tale een eynde tusschen alexander eñ die Bracmãnen Maer Alexander seide hier int eynde dat hi wel waer die alsoe dede Mer nochtans bleef Didimus voor eñ int achterste int beste Want sijn geloue schijnt alleheel der kerstenẽ gheloue ghelijc te wesen. daer hi seyt God is dat woort eñ biden woorde wordẽ alle dingen geschepen eñ onthouden</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe Alexander te Babilonien quam tot s[~ij]re doot waert.</head>
+               <p rend="justify">Cap.lxij.</p>
+               <p rend="justify">Als alexander bi Babilonien quã soe hiet hẽ een waersegger dat hi inder stat niet en ghinge: wãt sijn leuen lach daer an Hier õ liet alexander die stat staen eñ hi voer ouer in een stat gehietẽ Bursia daer doe nyemãt in en woende Een vã alexanders vriendẽ die Amoxarcus hiet die seide hẽ datmen gheen waerseggers gelouen en soude want sij plegen veel te lieghen Om dese woorden soe voer alexander te Babilonien binnen Doe seide Corbanes die waerseggher Gheen argher dinc en is aenden mẽsche dã dat een mẽsche plõper is om te doẽ s[~ij]s selfs oerbaer dan eens anders Als Alexander binnẽ die stat quam soe settemen hẽ een crone op s[~ij] hooft gemaect vã yuore eñ goude Eñ Porrius leyde hẽ an die een syde eñ Dari[us] broeder an die ander syde. Eñ als hi te rechte geseten was so quã groot volc voor hẽ eñ clageden hẽ ouer sijn rechters. eñ si vraechdẽ hem oft sinen wille was datmẽse soe iãmerlic tonder dede Als alexander dit hoorde soe dede hij alle sijn rechters doden voor die boden ogen. eñ hier na nam hi Hoaxanes Darius dochter te wijue: Eñ hij hiet dẽ Gryeken dat sij nemen souden vãden schoonsten eñ edelste maechden die hẽ best behaechden vãden ghenen die si wt alle lãden gebrocht hadden Hier na vergaderde hi alle dat ridderscap eñ goedese rijckelick eñ hi gaf hẽ groot goet alsoet elck begheerde: Eñ die oude ridders liet hi vry vã oerloghen. mer in haer stede sette hi iõgelingen Eñ die iõghelingen seidẽ daer zeer teghen: eñ sij baden hẽ dat hijse oec verlaten wilde: mer hi seide hẽ dat hijse om gheenrehõde bede verlatẽ en soude Die boden die hẽ geseynt warẽ wt alle landen eñ die hẽ die heerscappie vã alle landẽ op gauen: quamen tot hẽ mit ontallike presenten vã costeliken gulden iuwelen van gesteenten eñ van zyden wercke. als van wapenen van cronen eñ vã paerden Eñ dese ontfinc hi alle vriendelic eñ hi gaf hẽ schone presenten weder om Hier en binnen seynde hẽ Olymphias sijn moeder brieuen die spraken dat hi hem wachtẽ soude van Antipater dien verrader. want sy hadde anxt dat hi hẽ verradẽ soude. Als Alexander dese brieuen gelesen hadde soe ontboet hi sõder beyden Antipater dat hijs nergents õ laten en soude hi en quaem tot hẽ in Babilonien inder stat Hier om wort Antipater tornich inden weghe doe hi te Babilonien waert quã eñ hi dede maken een fenijn dat inder werelt gheen stercker wesen en mochte</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Van Alexanders feest eñ zijn vermeten</head>
+               <p rend="justify">Ca. lxiij</p>
+               <p rend="justify">Eer Antipater quã so voer alexander binnen eñ butẽ soe hi wilde eñ hi was wel te vreden Mer hẽ ontstarf Ensistien die hi bouen alle sijn princen zeer beminnede: want het was een die schoonste iongelinc diemen in al die werelt vandt Eñ Alexander weende lãge daer om eñ hi dede hẽ een costelic graf maken daer hi veel scats an leyde. wãt het coste hẽ te maken xij.M: talenten gouts. Oeck dede alexander gebieden datmẽ desen iongelinc anbedẽ soude als een god eñ daer voor houdẽ Als dese iongelinc begrauen was soe keerde Alexander weder in Babilonien eñ daer lach hi stille eñ hildt grote feeste. eñ daer ontfinc hi nacht eñ dach die slotelen eñ die presentẽ die hẽ quamen wt alle lãden Mer om dat die vã Romen hẽ nv gheen present en sendẽ soe swoer hi dat hi Romen destrueren soude Eñ om dat hi alle die werelt tonder hadde soe wilde hi voorder oerloghen dan een mensche toe behoort. eñ hi seyde sinen ludẽ dat sij sinen raet doen wilden hi soude hẽ doen weten eñ hebbẽ die heymelicheit der naturen Eñ hi dede noch meer scepẽ maken eñ hi voer in die diepe doncker zee om der naturẽ cracht te dwingen Des balch haer die nature eñ die vier elementẽ mede die altijt mit hem geweest hadde. want die nature was haer vrouwe Doe voer die natuere ter hellen om hulpe te soecken dat sy Alexander ter doot brengen mochte. eñ sy vãt daer hulpe eñ raet want alexander wort wter zee te lãde ghesteken eñ quam weder in Babilonien Antipater was doe oec gecomen in Babiloniẽ: eñ hi hadde drie zonẽ Die eerste hiet Casander. die ander Philippus eñ die derde Yollas Dese warẽ bij Alexander onthoudẽ om dat die een altijt den dranc proefde eer datten alexander dranc: eñ als hijen dã geproeft had soe ontfinc alexan[der] dẽ nap eñ dranc selue Nu had Antipater doen maken so sterckẽ fenijn. dat hi wel seker was hads alexander yet int lijf dat hi steruẽ moeste Want dit fenijn was also sterck datmen niet houden en mochte in vaten van siluer of van goude noch vã yser of vã metael noch in gheẽ vat: sõder in een hoeue van een paert Antipater was oeck soe seker dat alexander daer of steruẽ soude dat hi seide tot Casãder sinẽ zone dat hi dat rijck vã Macedoniẽ behoudẽ soude</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hoe Alexander vergeuen wort</head>
+               <p rend="justify">Ca. lxiiij</p>
+               <p rend="justify">Thessales die node alexander eñ sijn gheselscap mit hẽ ten eten in die stat eñ daer maecte hi hẽ feeste bouen alle feesten eñ hi gaf daer die meeste eñ die costelicste gerechten diemen vinden mochte Eñ Yollas eñ Philippus sijn broeder schencten voordẽ coninc: eñ sij waren wel voersien hoe si alexander souden vergeuen. wãt haer vader hadt hẽ geseyt Doe sy sagen dat Alexander genoech ghedrõcken hadde. soe schencte die een eñ die ander proefde dẽ dranc daer noch gheen fenijn in en was mer daer nae deden sy fonteyn water inden wijn daer dat fenijn in gemenget was Eñ doe gaf men dẽ coninc den nappe eñ hi dranc: mer int middel van sinen toghe soe ontfinc hi binnen eenen anxtelickẽ steke daer hi zeer of veruaert wort Wãt het ghinc hem in sijn lijf oft hi mit een knyf gesteken had geweest: eñ Alexander riep mit groot misbaer Eñ sijn vriendẽ meenden dat hijt wt drõckenscap dede eñ sij bleuen in dat meenẽ: maer het was een quade moort. Doe badt alexander datmen hẽ wech droeghe eñ daermen hem wech droech. so was hi half doot Want hi wort vã binnen also gepinicht dat hi dicwijl een swaert eyschte om hẽ seluen doot te steken eñ om sijn pine te corten Want sijn vrienden die ontrent hem stonden eñ haer handen aen hem deden om hem te helpen soe docht hẽ dat sij hẽ zeere deden als of sij hẽ ghewont haddẽ: want corts te voren daer hi lach en sliep hadde hẽ dit al wel ghedroemt. Opten vierden dach sach hi wel dat hi steruẽ moeste: Eñ hi seide Nv ken ic mijn geual wãt al mijn geslachte dat vã Achilles gecomen is dat is al gestoruẽ ontrent sijn xxx. iaren mit groten euelen Sijn ridders seidẽ dat hi verraden was. eñ sij riepen alte iãmerlicke lude Aylaes wye heuet ons mit soe grotẽ moort beroeft vã onsen coninc Eñ die dit geselscap ghescoert heeft die sal menigen mã sijn leuen benemen: wãt des ghelijcx en wort nye ghesien of geuonden</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Van Alexanders doot</head>
+               <p rend="justify">Ca. lxv.</p>
+               <p rend="justify">Alexander dede hem dragen in een hoghe stat daer hẽ al sijn volck mochte syen liggen in groter pijnẽ Eñ hi lietse alle tot hẽ comen eñ hi beual datmen nyemant [ver]bieden en soude die daer comẽ wilde. Eñ daer quam tot hem menich stout riddere die zeer screyden eñ groot misbaer maecten Hier nae badt Alexander sijn vrienden. als hi doot ware datmen hẽ mit duerbaren specien eñ balsamen begrauen soude Eñ datmẽ hẽ voeren soude nergens dã in Lybia in Amõs sijns vrients schonen tempel daer hi gecroent staet Doe vraechdẽ hem sijne vriendẽ om dat sij sagen dat hi soe cranc was: wye hi wilde dat nae hem sijn crone draghen soude vã sijnen rijcke Hi seide die beste Maer hi en noemde nyemãt. noch Hercules sinẽ zone noch sinen broeder: noch oec dat kint dat Roexanes droech die doe swaer ghinc bi hẽ mit kinde Want alexander dachtet ouer dat hi die soe groten heer was van enighen mã soe groten rijcken heer makẽ soude hi en waert waerdich want hi hads onwaert sulck goet te laten enighen man dies niet waerdich en waere. Ten sesten daghe ontuiel hẽ sijn sprake eñ doe nam hi sijn vingerlinc eñ stact een vãden iongelingen an sijn hant Doe meendẽ veel herẽ die daer waren dat alexander wilde dat hi coninck nae hẽ wesen soude Scolastica historia seit dat alexãders suster hẽ fenijn gaf: om dat sy hoepte eenen grotẽ heer te crigen eñ vrouwe te wesen vã alle sijn rijck Eñ alsoe haest als hi dat fenijn int lijf hadde dat hi doe sijn sprake verloes Eñ om dat hi wilde dat nẽmermeer also groten heere nae hẽ wesen en soude in aertrike als hi doen was. soe screef hi sinen laetsten wille eñ deelde sijn rijck in twalef deelen ende hi gaft twalef vã sinen gesellen die mit hẽ opgeuoet warẽ. eñ dien gaf hi elck een deel van sinen rijcke: Maer die vier verdreuen alle die andere eñ bleuen daer heeren of.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Van Alexanders vromicheit</head>
+               <p rend="justify">Ca: lxvi</p>
+               <p rend="justify">Inder maent Iulius diemẽ hoymaẽt hiet mit ons soe sterf dese grote Alexander doe hij in sijn xxxiij. iaer was Hi was die meeste van moede eñ vã herten die nye in die werelt quã Hi was oec die machtichste mã die nye in die werelt regneerde Hi verloste altijt sijn rid[der]s wt harẽ noot dat sij mit sinen troeste soe stout waren dat hẽ dochte al haddẽ sij alle naect gheweest. hẽ en hadde niet mogen deren als sij hẽ sagen Hẽ en geuiel oec nye dat hi enigen man bestont hi en verwan hẽ. noch nye en bestont hi borch noch stat hoe vaste dat sy warẽ: hi en wanse of hadse tot sinen wille Nye en quam oec volck tegen hẽ te stride hi en [ver]wanse Mer int eynde wort hi selue verwõnen, maer niet mit geuechte mer mit verraderie vã sinẽ dienres die alsoe deerlic vergauen mit fenijn Men leest dat hi enen steen hadde soe wye die steen droech dat hem gheen fenijn deren en mochte Mer daer hi aldus [ver]raden was so was hẽ des nachts dẽ steen benomen om dat dẽ moort voldaen soude wordẽ eñ verholen bliuẽ Mer alst fenijn in die aderen getogen was alsoe dattet die natuere niet en conde gelosen soe wort hẽ sinen steen weder gegeuen al heymelic Eñ aldus verghinc die auenture mit hẽ Als die mare te Babilonien quam dat Alexander gestoruẽ was in die bloeme sijnre ioecht eñ int meeste van sijnre cracht so wort die stat zeer droeuich Maer die luden die hij verwonnen hadde en wouden dat niet gelouen dat hi doot soude wesen: want sij meenden dat hi nimmermeer en soude mogen steruen Sonderlinghe om dat si ghesien hadden dat hi in groter auenturen dicwijls verlost worde vander doot Maer doen sij wel die waerheit wisten dat hi sekere doot was soe beweenden sij hem harde zeere Als Roaxanes Darius dochter Alexanders wijf vernam dat Alexander haer heere doot was. soe hadde sy daer of soe groten rouwe. dat sy daer nae nye en at Maer Alexanders magen wt gryeken en hadden gheenen rouwe om hẽ niet meer dan oft haer vyant geweest hadde: Roaxanes Darius dochter alexanders wijf dede haer gespelinnen doden om dat sy haer an laghen ende rieden dat sy eenen anderen man nemen soude:</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Van Alexanders begrauinghe:</head>
+               <p rend="justify">Cap lxvij</p>
+               <p rend="justify">Men maecte in Babilonien groot geclach eñ hant gheslach van rouwen Maer ick segghe ouer waer dat die dode menschẽ gheen vrienden en hebben. want datmen daerwaert dient dat is al om ghewin. want anden doden en leyt nyemant eñ elck doets hẽ eerst of also hi eerst mach Die na Alexander bleuẽ die bedreuen haer dinc alsoe dat al gemeenlic rijck bleuen Maer daer was ghestrijt een wile om s[~ij] sepulture Die vã Gryeken wilden hẽ ter stont veruoeren tot haren lande waert Mer si droeghen ouer een datmen Iupiter vraghen soude waermen hẽ grauen soude Iupiter ãtwoorde datmen alexander grauen soude in Alexandrien in die groote stadt die hi seluer dede maken in Egipten Dit seide doe Iupiter. eñ men dede daer een schoon costelic graf maken Ende Ptholomeus die nae hem coninc bleef dede hẽ daer zeer rijckelick begrauen. alsoet alsulcken heere ende coninck wel betamelic was: In Alexanders tijden en vantmen ghenen alsoe wijsen coninc als hi was. hadde hi hẽ konnen wachten van veel wijns te drincken: eñ hadde dese grote heere hẽ konnen houden also gemaetich in sijn manieren in sijnre groter rijcheyt als hi dede doe hi arm was. Inder noot en konste hem nyemant bet beuroeden dan hi. maer in sijnre weelden was hi zeer sot: want hi wilde god gehieten wesen Eñ altijts hadde hi tot sinen raede seuen wijse mannen: want dat beual hem die groote philosophe Aristoteles sijn lieue meester Maer als hẽ yet swaers aen quam soe nam hi elcken van desen wijsen mannen alleen eñ hi seide hem sijn dingen eñ ghebreck altemael: eñ dan soe vraechde hi hem sijnen raet. Ende aldus onthieldt hi wel wat hem elcke man riet. eñ ten laetsten nam hi eñ schiep hi wt alle desen den besten raet in hẽ seluen alsoe hi best conste ghemercken Ende dan auentuerde hi den raet Aldus soe wort al niet sijn dinghen die alsoe sterck soe rijck so machtich was. want hi moeste steruen. Eñ hi bleef doot soe voor gheseit is God verleene ons na onsen doot dat eewighe leuẽ eñ die grote blijscappe sonder eynde: Amen:</p>
+               <p rend="justify">Hier eyndt dat regiment eñ dat leuen van den groten eñ moghenden coninc Alexander die een heere was van alle die werelt</p>
+               <p rend="justify">Gheprendt eñ voleyndt te Delf in Hollandt Int iaer ons heren. M:CCCC. eñ xci: op den vijfsten dach van December</p>
+               <p rend="justify">Delf In Hollandt</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

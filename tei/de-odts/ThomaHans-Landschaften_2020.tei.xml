@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Landschaften</title>
+            <author>Hans Thoma</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-01T19:17:08Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">odts/de-odts/ThomaHans-Landschaften_2020.epub.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Hans Thoma</name>
+               <date>2024-01-01T19:17:08Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Landschaften</head>
+         <author>Hans Thoma</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">odts/de-odts/ThomaHans-Landschaften_2020.epub.odt</p>
+         <p>
+            <hi rend="bold">Anmerkungen zur Transkription</hi>
+         </p>
+         <p>Der vorliegende Text wurde anhand der 1909 erschienenen Buchausgabe so weit wie möglich originalgetreu wiedergegeben. Typographische Fehler wurden stillschweigend korrigiert. Ungewöhnliche und heute nicht mehr gebräuchliche Schreibweisen sowie Schreibvarianten bleiben gegenüber dem Original unverändert, sofern der Sinn des Texts dadurch nicht beeinträchtigt wird.</p>
+         <p>Die Seiten mit Buchwerbung  wurden der Übersichtlichkeit halber am Ende des Buches zusammengeführt; das Inhaltsverzeichnis  (Verzeichnis der Abbildungen) wurde dagegen an den Anfang des Textes verschoben. Die Bildunterschriften wurden vom Bearbeiter anhand des Inhaltsverzeichnisses hinzugefügt.</p>
+         <p>Abhängig von der im jeweiligen Lesegerät installierten Schriftart können die im Original <hi rend="italic">gesperrt</hi>  gedruckten Passagen gesperrt, in serifenloser Schrift, oder aber sowohl serifenlos als auch gesperrt erscheinen.</p>
+         <p>Hans Thoma</p>
+         <pb/>
+         <div type="div1">
+            <head>Landschaften</head>
+            <p rend="justify">Mit einem Geleitworte<lb/>von Wilhelm Kotzde</p>
+            <p rend="justify">Dekoration</p>
+            <lg>
+               <l>Herausgegeben von der</l>
+               <l>Freien Lehrervereinigung</l>
+               <l>für Kunstpflege</l>
+            </lg>
+            <p rend="justify">21. bis 30. Tausend</p>
+            <p rend="justify">Signet</p>
+            <p rend="justify">Mainz 1909 · Verlag von Jos. Scholz</p>
+            <p rend="justify">Alle Rechte vorbehalten</p>
+            <p rend="justify">Verzierung Inhaltsverzeichnis</p>
+            <pb/>
+            <div type="div2">
+               <head>Inhaltsverzeichnis</head>
+               <p rend="justify">Dekoration</p>
+               <table rend="frame" xml:id="Table1">
+                  <row>
+                     <cell rend="justify">5</cell>
+                     <cell rend="justify">Abendruhe</cell>
+                  </row>
+                  <row>
+                     <cell rend="justify">7</cell>
+                     <cell rend="justify">Schwarzwaldtanne</cell>
+                  </row>
+                  <row>
+                     <cell rend="justify">9</cell>
+                     <cell rend="justify">Schwarzwaldhöhen</cell>
+                  </row>
+                  <row>
+                     <cell rend="justify">11</cell>
+                     <cell rend="justify">Lichterfülltes Tal</cell>
+                  </row>
+                  <row>
+                     <cell rend="justify">13</cell>
+                     <cell rend="justify">Der Bach im Tal</cell>
+                  </row>
+                  <row>
+                     <cell rend="justify">15</cell>
+                     <cell rend="justify">Taunuskastanien</cell>
+                  </row>
+                  <row>
+                     <cell rend="justify">17</cell>
+                     <cell rend="justify">Taunusbild</cell>
+                  </row>
+                  <row>
+                     <cell rend="justify">19</cell>
+                     <cell rend="justify">Stille vor dem Sturm</cell>
+                  </row>
+                  <row>
+                     <cell rend="justify">21</cell>
+                     <cell rend="justify">Die junge Donau</cell>
+                  </row>
+                  <row>
+                     <cell rend="justify">23</cell>
+                     <cell rend="justify">Weiden am Rhein</cell>
+                  </row>
+                  <row>
+                     <cell rend="justify">25</cell>
+                     <cell rend="justify">Die Birke</cell>
+                  </row>
+                  <row>
+                     <cell rend="justify">27</cell>
+                     <cell rend="justify">Auf dem Pilatus</cell>
+                  </row>
+                  <row>
+                     <cell rend="justify">29</cell>
+                     <cell rend="justify">Oberitalienischer Frühling</cell>
+                  </row>
+                  <row>
+                     <cell rend="justify">31</cell>
+                     <cell rend="justify">Frühling bei Rom</cell>
+                  </row>
+                  <row>
+                     <cell rend="justify">33</cell>
+                     <cell rend="justify">Der Garda-See</cell>
+                  </row>
+                  <row>
+                     <cell rend="justify">36</cell>
+                     <cell rend="justify">Kind und Schicksal</cell>
+                  </row>
+               </table>
+               <p rend="justify">Verzierung Inhaltsverzeichnis</p>
+               <p rend="justify">Der Name Thoma hat für den Deutschen heut einen guten und heimeligen Klang. Es ist uns bei seinem Namen, als sähe uns jemand an mit treuen, deutschen Augen, in denen unendliche Güte und Liebe liegt, Güte für die Menschen und Liebe zu allen Dingen, die um uns sind, die wir von Kindheit her uns gewannen mit suchender, staunender Seele. All das, was uns lieb und wert ist, das zeigt uns Thoma in seiner Kunst, ja er erschließt es uns erst, bringt uns zum Bewußtsein, was in uns schlummerte, daß nun unsere Seele mitschwingt und mitzittert, wenn er das vor uns stellt und sagt: Sieh da, das habe ich geschaut, das habe ich mit liebendem Sinn in mir getragen, und nun will ich’s euch geben, daß es euch freue, wie es mich gefreut hat.</p>
+               <p rend="justify">Aus der Freude an den Dingen ist ja Thomas Kunst geboren. Er ist ein rechter Genosse der Dürer, Schwind und Richter. Es ist das Unaussprechliche in seiner Kunst, das jeder, der unseres Volkes ist, mit seinem Gefühl umgreift, das sich ahnungsvoll in unsere Seele stiehlt und uns froh und glücklich macht.</p>
+               <p rend="justify">Dieses Heitere, Frohe, das Friede- und Ruhevolle ist auch in Thomas Landschaftskunst, die einen wesentlichen Teil seines Schaffensgebietes umfaßt. In traumvoll schönen Bildern erzählt er uns von dem heimischen Schwarzwald, von Rhein und Taunus, von der ewigen Gletscherwelt, vom immer wechselnden Meer und vom heißen, sonnigen Italien. Aber wohin er auch geht, es ist nicht das Äußere, Zufällige, von dem er berichtet. Er nimmt es erst ganz auf in seine Seele, er verarbeitet es innerlich, und dann bannt er das, was ihm bedeutsam erscheint, auf die Leinwand. Er hat ein außerordentliches Erinnerungsvermögen, die Andeutung der Kontur und einige allgemeine Farbbemerkungen genügen ihm, um nach Jahren noch ein Bild in voller Deutlichkeit vor seinen Augen wiedererstehen zu lassen. Sind doch die Hochgebirgsbilder, die zum Gewaltigsten deutscher Landschaftskunst gehören, in der Werkstatt nach flüchtigen Skizzen entstanden. Henry Thode erzählt: „Mich wollte es beim Einblick in Thomas Skizzenbücher bedünken, als gäbe es nicht ein Blättchen, nicht eine Blume, nicht ein Geäst, nicht eine Wolkenform, nicht ein Tier, nicht eine Körperbewegung, über die er sich nicht in seiner Lernzeit mit dem Stifte gewissenhaften Aufschluß verschafft, als habe er die Formen- und Farbensprache der Natur bis in jede Einzelheit auswendig gelernt.“ Daher kommt es denn aber auch, daß er alles Zufällige auszuscheiden weiß, daß er die großen, bedeutenden Züge vereinen kann und so Bilder entstehen, von denen jedes ein anderes ist als das ihm voranging, ein anderes in Stimmung, Aufbau, in der Technik, im ganzen Gehalt.</p>
+               <p rend="justify">Thomas Landschaften gehören ihrem innersten Wesen nach zu den Bildern, welche die großen deutschen Maler der Vergangenheit schufen, wenn sie Landschaften gaben, und zu ihm finden sich die besten Landschafter der Gegenwart. Etwas Gemeinsames ist ihnen allen, und wenn Thoma von dem Franzosen Courbet viel gelernt hat, er gehört doch auch gerade in seinen Landschaften zu den Cranach und Grünewald, Dürer, Caspar David Friedrich, Ludwig Richter, Schwind, Lugo, und zu ihm gehören Haider, Steinhausen, Edmund Steppes.</p>
+               <p rend="justify">Hans Thoma war bis zu seinem 20. Lebensjahr in seinem Heimatdorf, droben im Schwarzwald. Er lebte in und mit der Natur, und daher hat er sich die große Kenntnis der deutschen Landschaft und die Liebe zu ihr geholt. Dieser Schatz, den er in der Jugend gewann, machte ihn reich für sein ganzes Leben. Er geht nicht auf in Farben- und Beleuchtungsproblemen, so ernstlich er mit ihnen gerungen hat und so groß seine Kraft auch war, Sieger über sie zu werden, es ist mehr als das in seinen Bildern.</p>
+               <p rend="justify">Diese Bäche, die von den Bergen rinnen, der Friede über dem Taunuswald, dieses helle Licht im „Lichterfüllten Tal“, der Durchblick unter der „Schwarzwaldtanne“ auf die Häuser mit den tief herabgehenden Dächern, es ist etwas tief Seelisches in ihnen allen.</p>
+               <p rend="justify">Wenn er, wie in so vielen seiner Bilder, uns von Italien erzählt, es ist auch da immer etwas, das uns sofort erkennen läßt: Ein Deutscher schuf diese Bilder, einer, der mit uns lebt und der von unsern Freuden weiß und unsers Herzens ist. Über das heitere und Liebliche hinweg aber schreitet er zum Erhabenen, Gewaltigen der Gletscherwelt. Er hat da Bilder geschaffen, die uns von der Größe des Hochgebirges erzählen, wie vor ihnen nur die Bilder Segantinis. Für viele waren diese Bilder eine Überraschung, für die, welche Thomas Welt sich ganz zu eigen gemacht, waren sie eine frohe Bestätigung dessen, was sie tief innerlich von dem Meister gewußt hatten.</p>
+               <p rend="justify">Wer vor den Bildern Thomas zu schweigen weiß und sie innig betrachtet, mit liebendem Auge eindringt in ihre Welt und sich ihnen öffnet, dem werden sie Stunden froher Offenbarung geben.</p>
+               <p rend="justify">
+                  <hi rend="bold">Thoma-Worte.</hi>
+               </p>
+               <p rend="justify">Das Behagen, das in der Ausübung einer Kunsttätigkeit liegt, ist sehr groß, und man darf wohl annehmen, daß der Künstler ein bevorzugter Mensch sei. Deshalb dürfte auch das bißchen Lebensmisere, auch wenn es oft viel ist, das zudem der Künstler mit allen anderen Menschen gleichmäßig zu tragen hat, nicht zu wichtig genommen werden. Das Verkennen der Mitwelt, das ja leider hier und da auch vorkommt, dürfte auch nur dem Ehrgeiz einen Stoß geben, aber das eigentliche Wesen darf es nicht irritieren.</p>
+               <p rend="justify">Die Anfänge der Kunst werden immer instinktiver Natur sein. Die Erziehung vollzieht sich unbewußt — die Grundlage wird gelegt zu einer nachfolgenden bewußten Erziehung und Ausbildung, welche immer so bewußt sein soll, daß sie die unbewußte Erziehung, dies Kapital, respektiert.</p>
+               <p rend="justify">Die Kunst ist halt doch eine eigene Sache, am Ende ist sie gar kein Prinzip, keine Theorie, sondern eine Lebensäußerung, die an Persönlichkeiten gebunden ist und nur durch Persönlichkeit am Leben erhalten werden kann.</p>
+               <p rend="justify">Nach sechsmonatlichem Unterricht in der Antikenklasse durfte ich Schirmerschüler werden, d. h. ich ging in den Schwarzwald und malte dort nach der Natur, und mit welchem Eifer! Bracht, mein Mitschüler, kam auch, und in unserm Eifer gingen wir oft des Morgens fort, zwei Stunden weit in ein wildes Tal, um — einen Stein, einzelne Pflanzen zu malen, die wir, wie wir eigentlich selber sahen, ebensogut hinter dem Haus in Bernau hätten malen können; wir stritten uns auch wohl um die Motive, die jeder zuerst entdeckt haben wollte, die wir aber doch zuletzt friedlich, meist gemeinschaftlich, malten. Diese Studien waren von äußerster Gründlichkeit und Sachlichkeit — über nichts wurde hinweggegangen. Es gab damals noch keine Theorie „moderner Errungenschaft“ im Farbensehen — das war auch gut für uns.</p>
+               <p rend="justify">Es war anfangs Juni, in Freiburg hatte ich übernachtet und machte mich am Morgen auf zu dem achtstündigen Weg nach Bernau. Das ganze Sommerglück ruhte auf meiner Seele, als ich rüstig durch die Wälder hinan in die Berge hinaufschritt. So ganz im jugendlichen Vollgefühle, der Mittelpunkt der Welt — denn alles gehörte ja mein, was ich sah, für mich war die Welt da. Ich fühlte mich als das, was man seit Nietzsche heutzutag eine „Herrennatur“ nennt. Am Mittage, als ich die höchste Höhe meiner Wanderung erstieg, die „Halde“, ballten sich die den Vormittag verklärenden weißen Wolken zu einem Gewitter zusammen, das über der Rheinebene stand, fast unter mir; seine Blitze zuckten bis in die Berge hinüber, der Donner klang mir wie ein Jauchzen des Übermutes in der Natur — Regenschauer wechselten mit Sonnenblicken. Es kam so etwas wie Schöpferfreude über mich — denn war nicht diese Großartigkeit und Pracht für mich da? — war ich nicht dazu berufen, sie zu sehen? Stille Anbetung und fröhliches Jubeln erfüllten meine Seele, und hätte ich Worte gefunden, so wäre mein Gesang ein Psalm gewesen.</p>
+               <p rend="justify">Die Rückkehr in die kleine Akademie in Karlsruhe schob ich immer so lang wie möglich hinaus. Öfters ging ich, um nicht in Freiburg übernachten zu müssen und den Zug nach Karlsruhe zu erreichen, in Bernau spät nach Mitternacht fort. Durch die schneereiche, mit schwachem Mondlicht beleuchtete Novembernacht, nach schwerem Abschied von den Lieben, ging ich ins Tal hinunter — die Felsen und die rauschenden Wasserfälle gebärdeten sich ganz wild in der unheimlichen Nachtstille; wie war es mir doch so schwer ums Herz, wie so gar dunkel lag die Zukunft vor mir — die Sorge, wie es weiter mit mir gehen werde. Nach vierstündigem Wandern ging der Mond unter, und ich mußte durch einen dunklen Wald, in dem der beschneite Weg mich leitete — aber auch Sorgen machen furchtlos, und sie waren stärker als alle Nachtgespenster. Auf der Haldenhöhe, von wo ich einst in das Sommergewitter hineingejubelt hatte, begann ein Schein, wie von einer schwachen Dämmerung, die Schneehalden aufzuhellen — ein Rosaviolett erhob sich aus dem Dunkel — ein kaum merklicher Farbenhauch, der nur auf der Reinheit des weißen Schnees sich geltend machen konnte — aus diesem Rosa wuchs der Morgen herauf. Auf der letzten Höhe über Freiburg lag dieses und das ganze Rheintal eingehüllt in dichten Nebel — oben auf den Bergen war der helle Morgenschein — die Sonne brach herauf — aber ich mußte hinuntersteigen in den Nebel; grau war Freiburg, grau die Fahrt nach Karlsruhe, und es blieb mir lange das Gefühl, als ob der Schwarzwald golden wäre.</p>
+               <p rend="justify">Abendruhe</p>
+               <p rend="justify">⇒<lb/>GRÖSSERES BILD</p>
+               <p rend="justify">Schwarzwaldtanne</p>
+               <p rend="justify">⇒<lb/>GRÖSSERES BILD</p>
+               <p rend="justify">Schwarzwaldhöhen</p>
+               <p rend="justify">⇒<lb/>GRÖSSERES BILD</p>
+               <p rend="justify">Lichterfülltes Tal</p>
+               <p rend="justify">⇒<lb/>GRÖSSERES BILD</p>
+               <p rend="justify">Der Bach im Tal</p>
+               <p rend="justify">⇒<lb/>GRÖSSERES BILD</p>
+               <p rend="justify">Taunuskastanien</p>
+               <p rend="justify">⇒<lb/>GRÖSSERES BILD</p>
+               <p rend="justify">Taunusbild</p>
+               <p rend="justify">⇒<lb/>GRÖSSERES BILD</p>
+               <p rend="justify">Stille vor dem Sturm</p>
+               <p rend="justify">⇒<lb/>GRÖSSERES BILD</p>
+               <p rend="justify">Die junge Donau</p>
+               <p rend="justify">⇒<lb/>GRÖSSERES BILD</p>
+               <p rend="justify">Weiden am Rhein</p>
+               <p rend="justify">⇒<lb/>GRÖSSERES BILD</p>
+               <p rend="justify">Die Birke</p>
+               <p rend="justify">⇒<lb/>GRÖSSERES BILD</p>
+               <p rend="justify">Auf dem Pilatus</p>
+               <p rend="justify">⇒<lb/>GRÖSSERES BILD</p>
+               <p rend="justify">Oberitalienischer Frühling</p>
+               <p rend="justify">⇒<lb/>GRÖSSERES BILD</p>
+               <p rend="justify">Frühling bei Rom</p>
+               <p rend="justify">⇒<lb/>GRÖSSERES BILD</p>
+               <p rend="justify">Der Garda-See</p>
+               <p rend="justify">⇒<lb/>GRÖSSERES BILD</p>
+               <p rend="justify">Kind und Schicksal</p>
+               <p rend="justify">Kind und Schicksal</p>
+               <table rend="frame" xml:id="Table2">
+                  <row>
+                     <cell rend="justify">Mainzer Volks- und Jugendbücher</cell>
+                     <cell rend="justify">MAINZER VOLKS-<lb/>UND JUGENDBÜCHER</cell>
+                  </row>
+               </table>
+               <p rend="justify">Unter Mitarbeit namhafter zeitgenössischer Schriftsteller herausgegeben von Wilhelm Kotzde</p>
+               <p rend="justify">Verlag von Jos. Scholz in Mainz</p>
+               <p rend="justify">DIE PFAHLBURG</p>
+               <p rend="justify">Eine spannend geschriebene Urzeiterzählung aus Rheinlands Pfahlbürgerzeit.<lb/>
+               </p>
+               <p rend="justify">155 Seiten</p>
+               <p rend="justify">DER DOUGLAS</p>
+               <p rend="justify">Eine anziehende Geschichte aus Schottlands bewegter Vergangenheit.<lb/>
+               </p>
+               <p rend="justify">205 Seiten</p>
+               <p rend="justify">IM SCHILLSCHEN ZUG</p>
+               <p rend="justify">Eine lebendige Darstellung der großen Tage von Kolbergs Verteidigung.<lb/>
+               </p>
+               <p rend="justify">163 Seiten</p>
+               <p rend="justify">DREI GUTE KAMERADEN</p>
+               <p rend="justify">Kinderglück, Kinderleid, behagliche Kleinmalerei und Humor, das alles übersonnt, spinnt diese Geschichte des Dichters, die besonders für Mädchen viel Anziehendes hat.<lb/>
+               </p>
+               <p rend="justify">167 Seiten</p>
+               <p rend="justify">
+                  <hi rend="bold">Der Jugend nur das Beste!</hi>
+               </p>
+               <p rend="justify">Der Erfolg der hundertfältig von maßgebenden pädagogischen und literarischen Blättern empfohlenen „Mainzer Volks- und Jugendbücher“ ist in den Vorzügen begründet, die die Bücher vor allen anderen auszeichnen. Das Charakteristische der Sammlung ist kurz: Größere Erzählungen namhafter zeitgenössischer Schriftsteller. Eigenartiger Stoff, den Bedürfnissen der Jugend entgegenkommend, spannende Handlung, naturwahre Darstellung. Prächtige Schilderung, mustergültige Sprache, vorbildliche Buchausstattung. Bilder von ersten deutschen Künstlern. Bis jetzt liegen zehn in jeder Beziehung bedeutende Bände vor von: Gustav Falke, Carl Ferdinands, Max Geißler, Kurt Geucke, Eberhard König, Wilh. Kotzde, Joseph Lauff, Charlotte Niese. Jedes Buch, in Leinen gebunden, kostet 3 Mark. Weitere Bücher in Vorbereitung. Noch eine ganze Reihe unserer hervorragendsten Dichter und Schriftsteller sagten ihre Mitarbeit zu. Viele Schulbehörden, Ministerien, Regierungen und städtische Schulverwaltungen erkannten den Wert des Unternehmens an und empfohlen die „Mainzer Volks- und Jugendbücher“ nachdrücklich für Schülerbibliotheken. Nicht umsonst nennen sie sich aber auch <hi rend="bold">Volksbücher</hi>. Wie jedes rechte gute Buch, das die Jugend liebt, auch von Erwachsenen gern gelesen wird, so sind die „Mainzer Volks- und Jugendbücher“ berufen, alt und jung gleicherweise Freude zu machen.</p>
+               <p rend="justify">
+                  <hi rend="bold">Außer den nebenstehend abgebildeten 8 Büchern liegen noch vor:</hi>
+                  <lb/>
+                  <hi rend="bold">Carl Ferdinands, „Normannensturm“ und Kurt Geucke, „Der Steiger vom David Richtschacht“. Die Reihe wird fortgesetzt. Preis eines jeden mit Bildern geschmückten Buches</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">ungebunden Mk. 2.50, gebunden Mk. 3.</hi>
+               </p>
+               <p rend="justify">„<hi rend="bold">Das Literarische Echo</hi>“, bekanntlich eines der maßgebendsten Literaturblätter, schreibt: „Mit einem neuen wertvollen Unternehmen tritt der Verlag von Jos. Scholz in Mainz auf den Plan. Er eröffnet eine Sammlung von Erzählungen, die der <hi rend="bold">Aufmerksamkeit aller Eltern und Erzieher nachdrücklichst empfohlen</hi>  werden darf. Der Name des Herausgebers, des vortrefflichen Jugendschriftstellers Wilhelm Kotzde, bürgt für den Ernst und den Geschmack, mit dem die Auswahl der einzelnen Bände getroffen ist, und der Verlag hat den Büchern eine in jedem Betracht <hi rend="bold">vorbildliche und mustergültige Ausstattung</hi>  zuteil werden lassen. Es ist sehr erfreulich, daß mit diesem Unternehmen deutschen Dichtern u. Schriftstellern die Gelegenheit und der Anreiz geboten wird, auch für die deutsche Jugend und die einfacheren Volkskreise zu schreiben. Diese Sammlung neugeschaffener Jugendbücher verspricht dank der Qualität ihrer Mitarbeiter und der Sorgfalt ihrer buchtechnischen Herstellung <hi rend="bold">in ihrer Art die beste</hi>  zu sein, welche wir haben.“</p>
+               <p rend="justify">DER TAG VON RATHENOW</p>
+               <p rend="justify">Eine kraftvolle, fesselnde Erzählung aus der Zeit des Großen Kurfürsten, ein überaus lebensvolles Bild aus der Geschichte Preußens.<lb/>
+               </p>
+               <p rend="justify">213 Seiten</p>
+               <p rend="justify">DER TUCHER VON KÖLN</p>
+               <p rend="justify">Eine wuchtige Schilderung d. Kämpfe der Zünfte wider die Geschlechter, ein lebensvolles Bild der städt. Verfassung Kölns jener Zeit.<lb/>
+               </p>
+               <p rend="justify">208 Seiten</p>
+               <p rend="justify">WAS MICHEL SCHNEIDEWIND ALS JUNGE ERLEBTE</p>
+               <p rend="justify">Aus der Zeit der großen Französischen Revolution. Eine gewaltige Handlung, von der Dichterin mit Wärme u. stillem Humor bemeistert.<lb/>
+               </p>
+               <p rend="justify">201 Seiten</p>
+               <p rend="justify">UMS HEILIGE GRAB</p>
+               <p rend="justify">Erzählung aus der Zeit der Kreuzzüge und der ersten Deutschritterkämpfe in Preußen.<lb/>
+               </p>
+               <p rend="justify">201 Seiten</p>
+               <p rend="justify">Der fruchtbare Gedanke, unsere besten lebenden Erzähler in den Dienst der Jugend zu stellen, ist hier Wirklichkeit geworden.<lb/>
+               </p>
+               <p rend="justify">Literarischer Ratgeber des Dürerbundes.</p>
+               <p rend="justify">
+                  <hi rend="bold">Das Deutsche Jugendbuch</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">Unter Mitarbeit namhafter Schriftsteller und Künstler herausgegeben von Wilhelm Kotzde</hi>
+               </p>
+               <p rend="justify">Das Deutsche Jugendbuch will ein Buch für <hi rend="italic">alle</hi>  Kinder sein, für die großen und für die kleinen. In buntem Wechsel bringt es Märchen, Geschichten, Lieder, Reime, Rätsel und Bilder. Unsere besten Künstler beteiligten sich an dem Buche. Namen wie Blüthgen, Ferdinands, Geucke, Krügel, Kotzde, von Malern Müller-Münster, Schmidhammer, Schroedter, Gebhardt, Mickelait, Weingaertner, Bossert, Stroedel bürgen dafür, daß der Jugend hier in Wort und Bild Gutes und Gediegenes geboten wird. Rätsel, Spiele und Aufgaben mancherlei Art geben dem Kinde Gelegenheit zu heiterer Beschäftigung. Auch die Eltern werden gern in das Buch sehen, und wenn es die Familie zu gemeinsamer Freude zusammenführt, wird es seine Aufgabe recht erfüllt haben.</p>
+               <p rend="justify">Deutsches Jugendbuch</p>
+               <lg>
+                  <l>Das 192 Seiten starke Buch kostet fest gebunden nur</l>
+                  <l>
+                     <hi rend="bold">3 Mark</hi>
+                  </l>
+                  <l>In jedem Jahre wird ein in sich vollständig abgeschlossener, von dem vorhergehenden unabhängiger Band erscheinen</l>
+               </lg>
+               <p rend="justify">Aus dem Inhalte</p>
+               <p rend="justify">
+                  <hi rend="italic">Ludwig Bechstein</hi>: Der wandernde Stab; <hi rend="italic">Victor Blüthgen</hi>: Kinderparadies; <hi rend="italic">Carl Ferdinands</hi>: Mutters Nachtgebet — Der unschlüssige Maikäfer — Hänschen im Postkasten; <hi rend="italic">Konrad Fischer</hi>: Der Vogelhüter; <hi rend="italic">Kurt Geucke</hi>: Unterm Glockenläuten; Goethe: Johanna Sebus — Legende vom Hufeisen; <hi rend="italic">Brüder Grimm</hi>: Das Wasser des Lebens — Der Zaunkönig und der Bär — Der gute Handel — Die beiden Wanderer; <hi rend="italic">Friedrich Halm</hi>: Die Glocke von Innisfare; <hi rend="italic">Friedrich Hebbel</hi>: Ein dithmarscher Bauer; <hi rend="italic">Friedrich Jakobs</hi>: Der Holzhauer; <hi rend="italic">A. Kopisch</hi>: Der scharfe Tabak — Die fexierten Frösche; <hi rend="italic">Wilhelm Kotzde</hi>: Seltsame Wanderschaft — Rotbuckel — Die Freunde — Ostmärkisches Bauernlied, vertont von Rud. Buck — Neckreim; <hi rend="italic">Gerhard Krügel</hi>: Die Baldersage; <hi rend="italic">Meinrad Lienert</hi>: Das Christkind — Der Liebgott, der alles sieht; <hi rend="italic">Mörike</hi>: Der Zauberleuchtturm — Elfenlied; <hi rend="italic">Franz von Pocci</hi>: Die Kinder im Walde; <hi rend="italic">Promber</hi>: Spiele und Aufgaben; <hi rend="italic">Adolf Schmitthenner</hi>: Die vier Fichten; <hi rend="italic">Gustav Schwab</hi>: Johannes Kant; <hi rend="italic">Carl Stöber</hi>: Handwerk hat einen goldenen Boden. Gedichte — Sinnsprüche — Rätsel — Experimentierscherze — Spiele — Kunststückchen — Schnellsprechübungen, Scherzfragen</p>
+               <p rend="justify">
+                  <hi rend="bold">Neue Erzählungsbücher</hi>
+               </p>
+               <p rend="justify">Vom Sonnenberg</p>
+               <p rend="justify">Von Hollas Rocken</p>
+               <p rend="justify">Sieben Schwaben</p>
+               <p rend="justify">Herausgegeben von der Freien Lehrervereinigung für Kunstpflege, Berlin</p>
+               <p rend="justify">Vom Sonnenberg</p>
+               <p rend="justify">Ein Buch für groß und klein von Wilhelm Kotzde. 82 Seiten. Gebunden</p>
+               <p rend="justify">1 Mark</p>
+               <p rend="justify">Das Einbandbild ist eine rechte Zusammenfassung dessen, was das Buch bietet. Freude will es geben für große und kleine Kinder und für die Eltern, die mit ihren Kindern sich freuen können, obendrein. Die besten und bekanntesten Dichter haben sich vereinigt, um in Märchen, Liedern und Geschichten von heiteren und nachdenklichen Dingen zu erzählen. Hermann Berdrow, Karl Bienenstein, Victor Blüthgen, Mart Boelitz, Wolrad Eigenbrod, Gustav Falke, Carl Ferdinands, Max Geißler, Eberhard König, Wilhelm Kotzde, Gerhard Krügel u. Adolf Schmitthenner sind vertreten, und wie die verschiedenartigsten Dichter sich zusammenfanden, so ist auch der Inhalt mannigfachster Art, so daß jedes Kind und jedes Haus in dem reichen Buch für sich etwas finden wird. Dazu hat das Buch einen ungewöhnlich reichen Bildschmuck, und auch da sind es die besten Künstler, die sich beteiligten. Selten ist ein so reichhaltiges, billiges Buch geboten worden, das <hi rend="italic">jedem</hi>  Kinde und <hi rend="italic">jedem</hi>  Hause etwas bringt</p>
+               <p rend="justify">Von Hollas Rocken</p>
+               <p rend="justify">Volksmärchen, neu erzählt von Eberhard König. Bildschmuck von Hans Schroedter. 93 Seiten. Gebunden</p>
+               <p rend="justify">2 Mark</p>
+               <p rend="justify">In den Werken der Forscher ruht noch ein großer Schatz der herrlichsten Volksmärchen verborgen und harrt des Dichters, der ihn hebt. Wie die Brüder Grimm und Ludwig Bechstein ihrem Volke einen unendlichen Reichtum mitteilten, so könnte das auch heute geschehen. Und es ist in diesem Buche geschehen. Ganz prächtige Stücke werden hier gegeben. Das sind Märchen von köstlichstem, überwältigendem Humor, wie „Vom Schneiderlein mit den drei Hunden“, „Das Unglaubliche“, „Der Hasenhirt“, und andere Märchen wieder geben etwas von dem waldumrauschten Zauber deutscher Volksdichtung. „Das Märchen von der schönen Schwanenjungfer“ und „Wie der starke Hans sein Glück fand“ gehören sicherlich zum Schönsten deutscher Märchendichtung. Eine Reihe von farbigen Bildern u. Schwarzweißzeichnungen schmücken das Buch. Sie geben so recht den Zauber dieser Märchen wieder.</p>
+               <p rend="justify">Abenteuer der Sieben Schwaben und des Spiegelschwaben</p>
+               <p rend="justify">Erzählt von Ludwig Aurbacher. Mit Bildschmuck von Max Wulff. 93 Seiten. Preis in Leinen</p>
+               <p rend="justify">2 Mark</p>
+               <p rend="justify">Ein von vielen vergessener Volksdichter, Ludwig Aurbacher, den man wohl neben Claudius und Hebel nennen sollte, hat uns die Abenteuer der Sieben Schwaben und des Spiegelschwaben berichtet. Es ist derselbe Stoff, wie ihn die Brüder Grimm geben, aber viel weiter und reicher. Voll der sonderbarsten Szenen und von so unverwüstlicher Laune, daß man schier nicht aus dem Lachen kommt, nimmt man das Buch einmal zur Hand. Aber es ist doch wenig bekannt geworden, weil es nicht im rechten Gewand geboten wurde. Dazu entschloß sich nun die Freie Lehrervereinigung für Kunstpflege in Berlin. Sie ließ das Buch mit Zeichnungen und farbigen Bildern von Max Wulff reich schmücken, und der Künstler hat in seine Bilder auch den ganzen Übermut gelegt, wie er aus den Abenteuern hervorsprudelt. Man wird das Buch neben den Eulenspiegel und die Schildbürger legen müssen, und jeder, der einmal lachen möchte, sei es groß oder klein, wird das Buch sich nicht entgehen lassen. Es gibt in der deutschen Volksdichtung nicht viel so Herz- und Scherzhaftes wie die Abenteuer der Sieben Schwaben und des Spiegelschwaben.</p>
+               <table rend="frame" xml:id="Table3">
+                  <row>
+                     <cell rend="justify">Das Deutsche Bilderbuch</cell>
+                     <cell rend="justify">Das Deutsche Bilderbuch</cell>
+                     <cell rend="justify">Das Deutsche Bilderbuch</cell>
+                  </row>
+               </table>
+               <p rend="justify">Unter dieser Schutzmarke erscheinen im Verlage von <hi rend="italic">Jos. Scholz</hi>, Graphische Kunstanstalt in Mainz, erstklassige Kinderbücher in sorgfältigster, farbiger Wiedergabe nach Originalen erster deutscher Künstler.</p>
+               <p rend="justify">
+                  <hi rend="bold">Mitarbeiter</hi>: Professor Julius Diez, München, Franz Jüttner, Berlin, H. Lefler, Wien, Professor Ernst Liebermann, München, Adolf Münzer, Berlin, Eugen Oswald, Arpad Schmidhammer, München, Hans Schroedter, Karlsruhe, Professor Hans Thoma, Karlsruhe, J. Urban, Wien u. a.</p>
+               <p rend="justify">Die Vorzüge dieser Ausgaben des Deutschen Bilderbuches beruhen besonders in der echt künstlerischen und doch kindlichen Ausführung der Bilder, in deren sorgfältigster farbigen Wiedergabe und der technisch durchaus vollkommenen und vornehmen Ausstattung der Bücher bei niedrigster Preislage. Charaktervolle Kunst bieten die Bücher an Stelle des vielfach sich breitmachenden Charakterlosen und Süßlichen, Werke, über die der Erwachsene und Kunstverständige nicht lächelnd die Achseln zuckt, sondern deren er sich miterfreuen kann.</p>
+               <p rend="justify">Märchen und Sagen</p>
+               <p rend="justify">Nr. 1. <hi rend="bold">Dornröschen</hi>, gez. v. J. Diez, München</p>
+               <p rend="justify">Nr. 2. <hi rend="bold">Marienkind</hi>, gez. von H. Lefler und J. Urban</p>
+               <p rend="justify">Nr. 3. <hi rend="bold">Aschenputtel</hi>, gez. von A. Münzer</p>
+               <p rend="justify">Nr. 4. <hi rend="bold">Rotkäppchen</hi>, gez. von A. Schmidhammer</p>
+               <p rend="justify">Nr. 5. <hi rend="bold">Hänsel u. Gretel</hi>, gez. von R. Scholz</p>
+               <p rend="justify">Nr. 6. <hi rend="bold">Schneewittchen</hi>, gez. von F. Jüttner</p>
+               <p rend="justify">Nr. 7. <hi rend="bold">Frau Holle</hi>, gez. v. F. Kunz, München</p>
+               <p rend="justify">Nr. 8. <hi rend="bold">Froschkönig</hi>, gez. von Ernst Liebermann</p>
+               <p rend="justify">Nr. 9. <hi rend="bold">Hans im Glück</hi>, gez. v. Hans Schroedter</p>
+               <p rend="justify">Jedes dieser 9 Bücher im Format 22: 29 cm enthält 8 farbige Vollbilder und zahlreiche Textillustrationen. Preis <hi rend="bold">1 Mark</hi>. Je 3 Märchen zusammen gebunden (1 bis 3 usw.) 3 Mark.</p>
+               <p rend="justify">Dornröschen</p>
+               <p rend="justify">Urteile und Empfehlungen</p>
+               <p rend="justify">(Nur einige der zu Hunderten vorliegenden)</p>
+               <p rend="justify">„Wenn zur Weihnachtszeit die Flut der Bilderbücher steigt, so ist es uns ein Gefühl der Beruhigung, wenn wir im Strome einen sicheren Fährmann erblicken, der kundig eine gute Fracht geborgen hat und sie uns darbringt als eine solche, in die wir voll Vertrauen hineingreifen können. Wir fassen stets etwas Gutes. Der Verlag von Jos. Scholz in Mainz hat seinen kultivierenden Geschmack, mit dem er am Erziehungswerk des Kindes arbeitet, aufs neue bewiesen und bringt uns eine Fülle guter, zum Teil ganz vorzüglicher Leistungen.“ Frankfurter Zeitung.</p>
+               <p rend="justify">„Hoffentlich gelingt es diesen Bilderbüchern dank ihres erstaunlich billigen Preises, endlich den fürchterlichen Schund, der übrigens meist erheblich teurer ist, auf diesem Gebiete zu verdrängen.“</p>
+               <p rend="justify">Leipziger Neueste Nachrichten.</p>
+               <p rend="justify">Backe, backe, Kuchen</p>
+               <p rend="justify">Unzerreißbar gebunden 3 Mark.</p>
+               <p rend="justify">Aus: Sonnenscheinchens erste Reise</p>
+               <p rend="justify">Allerlei für die Kleinen und Kleinsten</p>
+               <p rend="justify">Mk.</p>
+               <p rend="justify">
+                  <hi rend="bold">Die Herzen auf.</hi>  Ausgewählte Gedichte von Hoffmann v. Fallersleben mit Bildern von Lena Baurnfeind</p>
+               <p rend="justify">1.—</p>
+               <p rend="justify">
+                  <hi rend="bold">Wie ist doch die Erde so schön.</hi>  Gedichte von Rob. Reinick mit farbigen Bildern von Hans Schroedter</p>
+               <p rend="justify">1.—</p>
+               <p rend="justify">
+                  <hi rend="bold">Jugendland.</hi>  Obige Bücher vereint</p>
+               <p rend="justify">2.—</p>
+               <p rend="justify">
+                  <hi rend="bold">Tierbilder</hi>  von Eugen Oßwald, mit Versen v. Gustav Falke. Bd. I u. II je</p>
+               <p rend="justify">1.—</p>
+               <p rend="justify">Band I und II vereinigt</p>
+               <p rend="justify">2.—</p>
+               <p rend="justify">Unzerreißbar auf Pappe. Band I und II vereinigt</p>
+               <p rend="justify">3.—</p>
+               <p rend="justify">
+                  <hi rend="bold">Backe, backe Kuchen.</hi>  Liebe Kinderreime mit Zeichnungen von Franz Jüttner, Berlin</p>
+               <p rend="justify">3.—</p>
+               <p rend="justify">Dasselbe unzerreißbar auf Pappe</p>
+               <p rend="justify">3.—</p>
+               <p rend="justify">
+                  <hi rend="bold">Schau mich an.</hi>  Erste Anschauungsbilder für die Kleinen farbig gezeichnet von O. Gebhardt. Gebunden</p>
+               <p rend="justify">3.—</p>
+               <p rend="justify">
+                  <hi rend="bold">Sonnenscheinchens erste Reise</hi>  von Clara Hepner, mit Bildschmuck von Hans Schroedter</p>
+               <p rend="justify">2.—</p>
+               <p rend="justify">
+                  <hi rend="bold">Gute Bekannte aus dem Tierreiche.</hi>  Tierbilder von Karl Kappstein, Berlin. 16 farbige Vollbilder und ebenso viele Textseiten in 2 Bänden zu je 1 Mark, in einem Band 2 Mark. Unzerreißbar in einem Band 3 Mark, Prachtausg. in einem Band</p>
+               <p rend="justify">3.—</p>
+               <p rend="justify">
+                  <hi rend="bold">Liebe alte Reime.</hi>  Mit farbigen Bildern von Otto Gebhardt</p>
+               <p rend="justify">2.—</p>
+               <p rend="justify">Dasselbe unzerreißbar auf Pappe</p>
+               <p rend="justify">2.50</p>
+               <p rend="justify">
+                  <hi rend="bold">Das macht Spaß</hi>! Ein Bilderbuch mit lustigen Versen v. Franz Mahler und 16 farbigen Zeichnungen von O. Gebhardt, Berlin</p>
+               <p rend="justify">2.—</p>
+               <p rend="justify">
+                  <hi rend="bold">Neues Bilderbuch</hi>  zum Ausschneiden und Einkleben von Irene Braun</p>
+               <p rend="justify">1.—</p>
+               <p rend="justify">
+                  <hi rend="bold">Der verlorene Pfennig</hi>
+               </p>
+               <p rend="justify">Lustige Bilder und Reime von Arpad Schmidhammer, München Geb. 3 M.</p>
+               <p rend="justify">Eine allerliebste, glücklich erdachte und in seltener, herzlicher Natürlichkeit vorgeführte neue Geschichte von Hans Däumling. Mit etwa 80 wirklich kindlichen Bildern und Versen.</p>
+               <p rend="justify">
+                  <hi rend="bold">Mucki</hi>
+               </p>
+               <p rend="justify">Eine wunderliche Weltreise</p>
+               <p rend="justify">Für unsre Kleinen gereimt und gezeichnet von Arpad Schmidhammer, München</p>
+               <table rend="frame" xml:id="Table4">
+                  <row>
+                     <cell rend="justify">Vornehm gebunden</cell>
+                     <cell rend="justify">3 Mark</cell>
+                  </row>
+                  <row>
+                     <cell rend="justify">Unzerreißbar auf Pappe</cell>
+                     <cell rend="justify">M. 3.50</cell>
+                  </row>
+               </table>
+               <p rend="justify">
+                  <hi rend="bold">Schlimme Streich’</hi>
+               </p>
+               <p rend="justify">von Hans und Grete, Liese, Fritz und Ernst und Käthe</p>
+               <p rend="justify">Bilder und Reime von Arpad Schmidhammer, München</p>
+               <table rend="frame" xml:id="Table5">
+                  <row>
+                     <cell rend="justify">Dauerhaft gebunden</cell>
+                     <cell rend="justify">2 Mark</cell>
+                  </row>
+                  <row>
+                     <cell rend="justify">Unzerreißbar auf Pappe</cell>
+                     <cell rend="justify">Mark 2.50</cell>
+                  </row>
+               </table>
+               <p rend="justify">
+                  <hi rend="bold">Lustige Märchen</hi>
+               </p>
+               <lg>
+                  <l>Von Wilhelm Kotzde</l>
+                  <l>mit Bildern</l>
+                  <l>von Arpad Schmidhammer,</l>
+                  <l>München</l>
+               </lg>
+               <p rend="justify">Gebunden 3 Mark</p>
+               <p rend="justify">
+                  <hi rend="bold">Heinz Sausebraus’ Himmelfahrt</hi>
+               </p>
+               <p rend="justify">(Ein Luftschiffscherz)</p>
+               <p rend="justify">Verse von C. Ferdinands Bilder von Arpad Schmidhammer.</p>
+               <p rend="justify">Gebunden 1 Mark</p>
+               <p rend="justify">Ein prächtiges Familienbuch zur Pflege des deutschen Volksliedes.</p>
+               <p rend="justify">
+                  <hi rend="bold">Kindersang-Heimatklang.</hi>
+               </p>
+               <p rend="justify">Deutsche Kinderlieder. Tonsatz von Prof. Dr. Bernhard Scholz in Frankfurt a. M. Bildschmuck von Ernst Liebermann in München, 24 farbige Bildseiten, 32 Vignetten und 36 Notenseiten nebst unterlegtem Text zu 60 deutschen Liedern. Zwei elegant gebundene Bände zu je 2 Mk. Prachtausgabe in einem Band 5 Mk.</p>
+               <p rend="justify">Es ist ein schöner Gedanke, der hier ausgeführt worden ist, man kann zur Pflege gemütvollen deutschen Familienlebens sich nichts Ansprechenderes denken. Auch die neuen Veröffentlichungen des Scholzschen Verlages zeichnen sich aus durch wertvollen künstlerischen Inhalt und sehr billigen Preis.</p>
+               <p rend="justify">Pädagogische Blätter für Lehrerbildung.</p>
+               <p rend="justify">Kindersang-Heimatklang</p>
+               <p rend="justify">Prof. Hans Thoma: ABC-Bilderbuch mit ausgewählten Gedichten von Wilhelm Hey, nebst Originalbeiträgen v. Mathilde Coester, Kassel. Format 31×23 cm, 48 Seiten mit etwa 60 farbigen Bildern von Prof. Hans Thoma, elegant und dauerhaft gebunden 4 Mark, unzerreißbar ohne Textseiten 5 Mark.</p>
+               <p rend="justify">„Sicher die schönste Fibel, die je erstand! Da ist das Lesenlernen Vergnügen. Das Kind, das dieses Buch hat, kommt fix und freudig als Leser in die Schule und lacht der Qual der anderen. Es sind viele, viele Bilder darin, manche von großem Reiz.“</p>
+               <p rend="justify">Die Kunst im Leben des Kindes.</p>
+               <p rend="justify">„Hier sind Bilderbücher, die auch dem weniger Bemittelten echte Kunst bieten für sein Kind.“<lb/>
+               </p>
+               <p rend="justify">Magdeburgische Zeitung.</p>
+               <p rend="justify">
+                  <hi rend="bold">Hans Thoma, seine Jugend- und Volkskunst</hi>
+               </p>
+               <p rend="justify">D</p>
+               <p rend="justify">Der Meister, dessen Kunst gleich treffsicher das Natürliche und Idyllische ländlichen Lebens, wie das Romantische und Majestätische in der Darstellung verschiedener Landschafts-Charaktere aussprechen, der mit derselben Naivität und Innerlichkeit heitere antikische Stoffe und Phantasien, wie tiefernste christliche Ideen und Vorgänge behandeln kann, begeht am 2. Oktober d. J. seinen 70. Geburtstag. Ein volles halbes Jahrhundert schöpferischer Arbeit und unermüdlichen Schaffens liegt hinter ihm. Überblickt man die ungewöhnlich große Fülle von Werken und Gestaltungen, die Thomas Künstlerwille hervorgebracht hat, so kann man ohne Einwand wohl sagen, daß dem Meister kein Schaffensgebiet verschlossen, keine Ausdrucksweise versagt geblieben sei.</p>
+               <p rend="justify">Reine und nur durch die Gegenwart bedingte Freude an den Dingen, die auch alltägliche Gegenstände und Vorgänge in eine vollkommene und oft traumhafte Schönheit hinaufheben kann, bildet den Urgrund von Thomas Kunst. Solche Unbeschwertheit im Genusse der Erscheinungsformen gehört nur der Jugend als Eigentum an. Es ist deshalb auch leicht begreiflich, daß der schaffensgewaltige Meister ein besonderes und liebevolles Verhältnis zur Jugend hat, und es ist mehr als ein familiärer Zufall, es hat eine tiefe sachliche Bedeutung, wenn Thoma die Bilanz seines menschlichen und künstlerischen Seins im „Herbste des Lebens“ einem Kinde widmet, und wenn er in dem <hi rend="italic">ABC-Bilderbuch</hi>  und in seinen <hi rend="italic">Malbüchern</hi>  einen Extrakt seiner Kunst der Jugend darbietet.</p>
+               <p rend="justify">Es ist wohl ein einziger Fall, daß ein Künstler von der Bedeutung Thomas direkt an die Jugend sich wendet. Nicht etwa, daß er eine Auswahl seiner Werke, in das übliche Albumformat gesammelt, darbietet. Nein, er vereinfacht und überträgt seine Werke geradezu in die jugendlichem Genießen gemäße Einfachheit.</p>
+               <p rend="justify">Das klassische Beispiel dieses Kunstschaffens ist das schon erwähnte <hi rend="italic">ABC-Bilderbuch</hi>  (s. umstehend). Eine ganze Anzahl Thomascher Bilder und Studien hat hier für die einzelnen Buchstaben des Alphabetes den einfachsten und charakteristischsten Ausdruck gefunden. Eine Fibel, ein erstes Lesebuch, ist daraus entstanden, ein ethisches und bildnerisches Erziehungsmittel ersten Ranges.</p>
+               <p rend="justify">Die gleiche glückliche Hand hat Thoma in seinen „<hi rend="italic">Malbüchern</hi>“*  bewiesen.</p>
+               <p rend="justify">1839 Prof. Hans Thoma 1909</p>
+               <p rend="justify">Thoma hat darin Landschaftseinheiten mannigfaltiger Art zu ungewöhnlich vereinfachten Zeichnungen zusammengefaßt und diese Bildungen durch wenige, flächenhaft aufgesetzte Töne zu lebendiger Wirkung gebracht. Wie frische Aquarelle wirken diese ernsten Schwarzwaldmotive, diese heiteren Rheingegenden, diese lachenden Mainlandschaften und diese majestätischen Alpenseen. Eine prachtvolle Vorschule des Schauens und Bildens ist in diesen ungemein lebensvollen Landschaften für die Jugend gegeben. Schon die reizvollen Umschläge verraten den großen und wirkungsvoll gestaltenden Künstler, der die Hefte so reich und instruktiv ausgestattet hat. Form- und Raumbildung lassen sich hier ebenso gründlich studieren, wie der Stimmungsgehalt der Farben und des Lichtes zu seinem Rechte kommt.</p>
+               <p rend="justify">Dem Geist der Zeit folgend, hat der Verlag die obengenannten Malbücher und einen Teil des ABC-Buches auch als <hi rend="italic">Postkarten-Malbücher</hi>  herausgegeben. Auf diese Weise werden die feinen und sinnigen Thomaschen Blätter in erweiterter Weise zweckdienlich und für Sender und Empfänger erfreulich.</p>
+               <p rend="justify">Mit den „<hi rend="italic">Kunstgaben</hi>“**  der Berliner Freien Lehrervereinigung für Kunstpflege — die ebenfalls bei <hi rend="italic">Jos. Scholz</hi>  in <hi rend="italic">Mainz</hi>  verlegt werden — ist der Wirkungskreis Thomascher Kunst wesentlich ausgedehnt worden. Hier erklingt der Ruf nicht nur an die Jugend, sondern ins Volk in seinem breitesten Begriffe. Nicht hoch genug ist dieses kunsterzieherische Unternehmen für die ästhetische Bildung weitester Kreise zu bewerten.</p>
+               <p rend="justify">Man denke: sechzehn ausgezeichnete Reproduktionen nach Gemälden, Lithographien, Radierungen und Federzeichnungen Thomas für eine Mark — <hi rend="italic">eine Mark!</hi>  —: das ist eine Mission zugunsten künstlerischer Gesunderhaltung und Erstarkung von unschätzbarem Wert. Diese Kunstgaben bilden ein kleines Thoma-Museum, das nicht bloß eine Ahnung, sondern einen vollen Einblick in das keusche und große Wesen Thomaschen Schaffens gewährt.</p>
+               <p rend="justify">Landschaft und Figurenbild, Phantasie und Humor, Religiöses und Mythologisches, Idyllisches und Dramatisches ist hier geboten mit einer Einfachheit und Klarheit der Gestaltung, mit einer deutschen Kraft und Innigkeit des Empfindens, daß ein unerschöpflicher Schatz an deutschen Gemütskräften dem empfindenden Betrachter zuteil wird.</p>
+               <p rend="justify">Jugend und Volk, die unter dem erziehlichen Einfluß solch gesunder Kunst stehen, bleiben gesund. Sie sammeln und nehmen mit dieser keuschen, stillen und ergreifenden Schönheit einen Halt ins Leben mit, der durch seine reine Sinnlichkeit sich als das beste Bollwerk gegen die vielfachen sinnlichen Überreizungen der Zeit erweist.</p>
+               <p rend="justify">*</p>
+               <p rend="justify">
+                  <hi rend="bold">Das Deutsche Malbuch.</hi>  4 verschiedene Hefte von Prof. Hans Thoma mit je 8 Bildblättern zum Ausmalen mit Farbe oder Stift, ferner 4 Postkartenhefte mit je 16 Postkarten, versandfertig, je 50 Pfg.</p>
+               <p rend="justify">**</p>
+               <p rend="justify">
+                  <hi rend="bold">Kunstgaben in Bestform.</hi>  (Die schönsten und bedeutendsten Bilder des Meisters in verschiedenfarbiger, vollkommener Doppelton-Wiedergabe, im Formate von 21 : 29 cm.)</p>
+               <p rend="justify"> </p>
+               <p rend="justify">1.</p>
+               <p rend="justify">
+                  <hi rend="italic">Hans Thoma</hi>, ein <hi rend="italic">Buch seiner Kunst</hi>. Mit einer textlichen Einleitung. 1 Mk. 16 Blätter nach Gemälden, Lithographien und Handzeichnungen des Meisters mit meist figürlichen Darstellungen.</p>
+               <p rend="justify"> </p>
+               <p rend="justify">2.</p>
+               <p rend="justify">
+                  <hi rend="italic">Hans Thoma</hi>, <hi rend="italic">Landschaften</hi>. Mit textlicher Einleitung. 1 Mk. 15 Blätter; eine Auswahl der schönsten und besten Landschaften Hans Thomas.</p>
+               <p rend="justify"> </p>
+               <p rend="justify">Als Festgabe zum 70. Geburtstage des Meisters erschien soeben als Doppelheft:</p>
+               <p rend="justify"> </p>
+               <p rend="justify">3.</p>
+               <p rend="justify">
+                  <hi rend="italic">Hans Thoma und seine Weggenossen.</hi>  Eine Kunstgabe, enthaltend 30 Vollbilder nach Werken des Meisters und seiner Weggenossen: Cella Thoma, Arnold Böcklin, Wilh. Leibl, Eugen Bracht, Viktor Müller, Joh. Wilhelm Schirmer, Karl Haider, Louis Eysen, Adolf Stäbli, Otto Frölicher, Peter Burnitz, Albert Lang, Emil Lugo, Wilhelm Trübner, Karl von Pidoll, Wilhelm Steinhausen u. a., sie alle sind mit schönen Werken vertreten. 2 Mk.</p>
+               <p rend="justify">Die hier angezeigten Bücher sind durch alle guten Buch- und Kunsthandlungen zu beziehen<lb/>Man achte beim Kauf auf die Verlagsfirma Jos. Scholz, Mainz oder die Schutzmarke J. S. M. im Dreieck</p>
+               <p rend="justify">Spamersche Buchdruckerei in Leipzig</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

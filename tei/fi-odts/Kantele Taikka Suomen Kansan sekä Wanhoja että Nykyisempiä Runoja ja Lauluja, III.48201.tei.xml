@@ -1,0 +1,1645 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Kantele Taikka Suomen Kansan sekä Wanhoja että Nykyisempiä Runoja ja Lauluja, III</title>
+            <author>Elias Lönnrot</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-01T20:02:34Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">odts/fi-odts/Kantele Taikka Suomen Kansan sekä Wanhoja että Nykyisempiä Runoja ja Lauluja, III.48201.epub.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Elias Lönnrot</name>
+               <date>2024-01-01T20:02:34Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Kantele Taikka Suomen Kansan sekä Wanhoja että Nykyisempiä Runoja ja Lauluja, III</head>
+         <author>Elias Lönnrot</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">odts/fi-odts/Kantele Taikka Suomen Kansan sekä Wanhoja että Nykyisempiä Runoja ja Lauluja, III.48201.epub.odt</p>
+         <p>E-text prepared by Jari Koivisto</p>
+         <p>Note: Project Gutenberg has other volumes of this work. Kantele I: see https://www.gutenberg.org/ebooks/48176 Kantele II: see https://www.gutenberg.org/ebooks/48177 Kantele IV: see https://www.gutenberg.org/ebooks/48202</p>
+         <head>KANTELE III</head>
+         <p>taikka Suomen Kansan sekä Wanhoja että Nykysempiä Runoja ja Lauluja</p>
+         <p>Koonnut ja pränttäyttänyt</p>
+         <subtitle>ELIAS LÖNNROT</subtitle>
+         <p>Philosophian Candidati.</p>
+         <p>HELSINGISSÄ<lb/>Präntätty Waseniuksen luona Wuonna 1830.<lb/>
+         </p>
+         <p>        Niin minun isonen heitti,<lb/>        Kuin on kieron kirweswarren<lb/>        Niin minun emonen heitti,<lb/>        Kuin on wäärän wärttinäsä,<lb/>        Niin on weikko wierastunna,<lb/>        Kuin orawa kuiwaan kuuseen<lb/>        Niin sisko siwute käypi,<lb/>        Kuin kala kiwisen rannan.<lb/>
+         </p>
+         <pb/>
+         <div type="div1">
+            <head>Kantele Taikka Suomen Kansan sekä Wanhoja että Nykyisempiä Runoja ja Lauluja, III</head>
+            <pb/>
+            <div type="div2">
+               <head>SISÄLLÄPITO:</head>
+               <p rend="justify">Lukioillen esipuheeksi.</p>
+               <p rend="justify">Wanhoja Runoja.</p>
+               <lg>
+                  <l> Tanssaja.</l>
+                  <l> Raudan Synty.</l>
+                  <l> Kipusanat.</l>
+                  <l> Hätäsanat.</l>
+                  <l> Tulen Synty.</l>
+                  <l> Sairaita kylwettäissä.</l>
+                  <l> Lääwämadon Synty.</l>
+                  <l> Kuwun Sanat.</l>
+                  <l> Hammasmadon Sanat.</l>
+                  <l> Riiden Sanat.</l>
+                  <l> Ampumista wasten.</l>
+               </lg>
+               <p rend="justify">Nykysempiä Lauluja.</p>
+               <lg>
+                  <l> Wäinämöisen weljen pojasta.</l>
+                  <l> Kahwerokasta.</l>
+                  <l> Ylistysruno Kalle Palmulle.</l>
+               </lg>
+               <p rend="justify">Seurawaisessa Osassa tahdon minä luetella paikkakunnat, joista tämänki Osan Runot ja Laulut owat peräsin, koska tässä sillen ei ole tilaa.</p>
+               <p rend="justify">Lukioille esipuheeksi.</p>
+               <lg>
+                  <l>    Ota kantele käteesi,</l>
+                  <l>    Kultakieli kainaloosi,</l>
+                  <l>    Sormet soitolle sowita,</l>
+                  <l>    Laske ääni laulamahan!</l>
+                  <l>    Joko ruwennet runoihin,</l>
+                  <l>    Tahi lauluja latonet,</l>
+                  <l>    Kyll' on kaunis kumpanenkin,</l>
+                  <l>    Suomen soitanto sulonen,</l>
+                  <l>    Sanat wanhempain wakawat.</l>
+                  <l>    Jos sa sattuisit Sawossa,</l>
+                  <l>    Käyä kerran Karjalassa,</l>
+                  <l>    Kuulisit aholla äänen,</l>
+                  <l>    Lasten laulawan lehossa;</l>
+                  <l>    Tokkos tuonne seisahtaisit</l>
+                  <l>    Luoksi lasten laulawaisten,</l>
+                  <l>    Tuolla wähän wiipyisit,</l>
+                  <l>    Marjaaholla asuisit?</l>
+                  <l>    Tahi jos joukkohin tulisit,</l>
+                  <l>    Poikaparwien parihin,</l>
+                  <l>    Jossa kantele kajuupi,</l>
+                  <l>    Soitto soitolle tajuupi;</l>
+                  <l>    Tokko oisi päiwä pitkä,</l>
+                  <l>    Päiwä pitkä, ilt' ikäwä?</l>
+                  <l>    Waan eipä pojat puoletkahan,</l>
+                  <l>    Eikä lapset lainkahan,</l>
+                  <l>    Mitään tyttöjen tykönä,</l>
+                  <l>    Kestä neitojen keralla.</l>
+                  <l>    Kuin on muista muuramista</l>
+                  <l>    Mesimarja makeampi;</l>
+                  <l>    Niin on poikaisten puheista,</l>
+                  <l>    Lasten pienten lausunnosta,</l>
+                  <l>    Neion soitto sulowampi,</l>
+                  <l>    Taipuwampi tytön ääni.</l>
+                  <l>    Kuin he laulawat kujilla,</l>
+                  <l>    Suoltawat sulosta wirttä</l>
+                  <l>    Mennessänsä mehtimaille,</l>
+                  <l>    Mehtitöillen työntäissä;</l>
+                  <l>    Matka wälttyypi wähäksi,</l>
+                  <l>    Wirsta wiittä lyhemmäksi.</l>
+                  <l>    Sitte tuonne tultuansa,</l>
+                  <l>    Matkan päähän päästyänsä</l>
+                  <l>    Nurminiituilla asuwat,</l>
+                  <l>    Tahi meliwät metässä;</l>
+                  <l>    Alla työnsä aattelewat,</l>
+                  <l>    Sanoja sowittelewat;</l>
+                  <l>    Päiwä kultanen kuluupi,</l>
+                  <l>    Ilta kesken keikahtaapi</l>
+                  <l>    Kuin sitte kotia käywät,</l>
+                  <l>    Illan saatua sulosen,</l>
+                  <l>    Wielä laulawat luhilla,</l>
+                  <l>    Aitoissansa yösialla</l>
+                  <l>    Mik' on mitä, kuk' on kuta,</l>
+                  <l>    Mitä mikäin muisteleepi,</l>
+                  <l>    Mitä mielehen majaapi.</l>
+                  <l>    Hyw' ompi Unosen tulla,</l>
+                  <l>    Simasiiwen löyhytellä,</l>
+                  <l>    Noilla taiwaan tuomisilla,</l>
+                  <l>    Wirttä laittamaan lopulle.</l>
+               </lg>
+               <div type="div3">
+                  <head>E.L.</head>
+                  <p rend="justify">Wanhoja Runoja.</p>
+                  <p rend="justify">Tanssaja.</p>
+                  <lg>
+                     <l>    Hoi isännät, hoi emännät!</l>
+                     <l>    Kell' on kellarin awaimet!</l>
+                     <l>    Täytyykö tätä tupoa,</l>
+                     <l>    Lainataanko lattiata,</l>
+                     <l>    Tanssia tasasten miesten,</l>
+                     <l>    Miesten nuorten notkustella?</l>
+                     <l>    Kuin ei täytyne tupoa,</l>
+                     <l>    Lainattane lattiata;</l>
+                     <l>    Niin mä tansin tantereella,</l>
+                     <l>    Keikun keskellä pihoa;</l>
+                     <l>    Joss' ei pää lakehen koske,</l>
+                     <l>    Oht' ei ortehen kolata,</l>
+                     <l>    Jalat sillan liitoksehen.</l>
+                  </lg>
+                  <lg>
+                     <l>    "Täytyypä tätä tupoa,</l>
+                     <l>    Lainataanpa lattiata,</l>
+                     <l>    Tanssia tasasten miesten,</l>
+                     <l>    Miesten nuorten notkustella."</l>
+                  </lg>
+                  <lg>
+                     <l>    Suur' on kiitos, kost' jumala.</l>
+                     <l>    Kunpa tuoahan olutta,</l>
+                     <l>    Tahi wiinoa wähäsen,</l>
+                     <l>    Niin mä laulan laskettelen.</l>
+                     <l>    Kuin wetonen wierettelee;</l>
+                     <l>    Suusta kuin sulan kynästä,</l>
+                     <l>    Päästä kuin päiwän kakkarasta,</l>
+                     <l>    Suu ei laula suuruksita,</l>
+                     <l>    Rinta raswata ritise.</l>
+                  </lg>
+                  <lg>
+                     <l>    "Niinpä sä laulat lorpottelet,</l>
+                     <l>    Kuin jokonen juoksottelee,</l>
+                     <l>    Niinpä suusta karwasesta,</l>
+                     <l>    Kuin on petran[1] …sehestä;</l>
+                     <l>    Niinpä päästä palliasta,</l>
+                     <l>    Kuin on kuumasta kiwestä.</l>
+                     <l>    Tywin laulan tyhwän kuusen,</l>
+                     <l>    Latwoin lakkapään petäjän,</l>
+                     <l>    Sinun, kurja, kulkkuhusi,</l>
+                     <l>    Heikko henkireikähäsi;</l>
+                     <l>    Ettei kulkkusi kumaja,</l>
+                     <l>    Henkireikäsi heläjä."</l>
+                  </lg>
+                  <p rend="justify">Raudan Synty.</p>
+                  <lg>
+                     <l>    Miss' on rauta säilyletty</l>
+                     <l>    Sinä suurra poutawuonna,</l>
+                     <l>    Seisennä sotakesänä?</l>
+                     <l>    Tuoll' on rauta säilytetty</l>
+                     <l>    Sinä suurra poutawuonna,</l>
+                     <l>    Seisennä sotakesänä:</l>
+                     <l>    Pitkän pilwen rannan päällä,</l>
+                     <l>    Tammen latwassa tasasen.</l>
+                     <l>    Nousi tuuli tuulemahan,</l>
+                     <l>    Ilman ranta riehkimähän;</l>
+                     <l>    Tuuli puut hawuttomaksi,</l>
+                     <l>    Kanarwat kukattomaksi,</l>
+                     <l>    Heinät helpehettömäksi.</l>
+                     <l>    Tuuli taitto tammen latwan</l>
+                     <l>    Rutjan koskehen kowahan,</l>
+                     <l>    Tuosta synty neljä neittä,</l>
+                     <l>    Koko kolme morsianta.</l>
+                     <l>    Rinnoin istuwat itähän,</l>
+                     <l>    Perinpuolin pohjolahan,</l>
+                     <l>    Sekä istuit, että itkit,</l>
+                     <l>    Lypsit maalle maitoasa,</l>
+                     <l>    Niitylle nitusiasa.</l>
+                     <l>    Mikä lypsi mustan maion,</l>
+                     <l>    Siitä synty melto rauta;</l>
+                     <l>    Mikä walkian walutti,</l>
+                     <l>    Siitä tehtihin teräkset;</l>
+                     <l>    Mikä puotti punasen,</l>
+                     <l>    Siit' on tehty rääkky rauta.</l>
+                     <l>    Oh sinua rauta raukka,</l>
+                     <l>    Rauta raukka, koito kuona,</l>
+                     <l>    Teräs terhon päiwällinen</l>
+                     <l>    Joko suureksi sukesit,</l>
+                     <l>    Sekä kaswot karkiaksi;</l>
+                     <l>    Etsä sillon suuri ollut,</l>
+                     <l>    Etkä suuri, etkä pieni,</l>
+                     <l>    Etkä kowin korkiakaan,</l>
+                     <l>    Etkä kowin kipusaskaan;</l>
+                     <l>    Kuin sä suosta sotkettihin,</l>
+                     <l>    Saatihin sawen seasta,</l>
+                     <l>    Koprin kaiwain kankahasta,</l>
+                     <l>    Kynsin mustasta muasta;</l>
+                     <l>    Käsikarwain kastumata,</l>
+                     <l>    Warpain riwestymätä.</l>
+                     <l>    Oh sinua rauta raukka,</l>
+                     <l>    Rauta raukka, koito kuona!</l>
+                     <l>    Etsä silloin suuri ollut,</l>
+                     <l>    Etkä suuri, etkä pieni, j.n.e.</l>
+                     <l>    Seisoit we'ennä selkeänä,</l>
+                     <l>    Läykyit lämmynnä lähennä,[2]</l>
+                     <l>    Alla taiwahan tasasen.</l>
+                     <l>    Oh sinua rauta raukka!</l>
+                     <l>    Etsä silloin suuri ollut j.n.e.</l>
+                     <l>    Kukuit kullassa[3] käkönä</l>
+                     <l>    Alla ahjon Ilmarisen.</l>
+                     <l>    Ei rauta paha olisi</l>
+                     <l>    Ilman käärmehen kähytä,</l>
+                     <l>    Maon mustan mujuhita,</l>
+                     <l>    Kusiaisen kutkelmata.</l>
+                     <l>    Hörhiläinen Hiien lintu</l>
+                     <l>    Wiskasi wihoja noien</l>
+                     <l>    Rautoin rakettawihin,</l>
+                     <l>    Teräksihin tehtäwihin.</l>
+                     <l>    Mehiläinen ilman lintu!</l>
+                     <l>    Lennä tuonne löyhäytä</l>
+                     <l>    Yheksän meren ylite,</l>
+                     <l>    Meri puoli kymmennettä.</l>
+                     <l>    Pistä sulkasi sulassa,</l>
+                     <l>    Siipesi woia simassa,</l>
+                     <l>    Mesi keitä kieleltäsi,</l>
+                     <l>    Sima suustasi juloa,</l>
+                     <l>    Kukan kultasen nenästä,</l>
+                     <l>    Helewästä heinän päästä;</l>
+                     <l>    Siitä kylmästä kylästä,</l>
+                     <l>    Kuss' ei oo nähty, eikä kuultu,</l>
+                     <l>    Ruohon kaiken kaswantoa;</l>
+                     <l>    Kipehille woitehiksi,</l>
+                     <l>    Pahalle parantehiksi,</l>
+                     <l>    Jot' ei wiswoille wirusi,</l>
+                     <l>    Eikä menisi märille,</l>
+                     <l>    Eikä ruohtuisi rupeille.</l>
+                  </lg>
+                  <p rend="justify">Kipusanat:</p>
+                  <lg>
+                     <l>    Kiwut tuonne kiityöhön,</l>
+                     <l>    Waiwat tuonne waipuohon,</l>
+                     <l>    Kiwuttaren kippasehen,</l>
+                     <l>    Wammattaren wakkasehen!</l>
+                     <l>    Kipeä on kiwuissa olla;</l>
+                     <l>    Waikea[4] wammoissa asua.</l>
+                     <l>    Tuonne mä kiroon kipuja,</l>
+                     <l>    Tuonne mä pahoja panen,</l>
+                     <l>    Tuonne tunkeen turmioita:</l>
+                     <l>    Kiwisihin kallioihin,</l>
+                     <l>    Rautasihin raunioihin.</l>
+                     <l>    Kiwutar kipuen eukko!</l>
+                     <l>    Kiwut kääri helmohisi,</l>
+                     <l>    Waiwat wastaan rintoasi;</l>
+                     <l>    Kiwut puohtaa puohtimella,</l>
+                     <l>    Wammat seulalla selitä;</l>
+                     <l>    Kiwiä kiwistämähän,</l>
+                     <l>    Paasia pakottamahan.</l>
+                     <l>    Ei kiwi kipuja itke,</l>
+                     <l>    Paasi waiwoja walita.</l>
+                     <l>    Tuonne mä kiroon kipuja,</l>
+                     <l>    Tuonne mä pahoja panen,</l>
+                     <l>    Tuonne tunkeen turmioita:</l>
+                     <l>    Kipuwuoren kukkulalle,</l>
+                     <l>    Keskellen Kipumakiä.</l>
+                     <l>    Kiwi on keskellä mäkiä</l>
+                     <l>    Reikä keskellä kiweä,</l>
+                     <l>    Sywä syltöä yheksän,</l>
+                     <l>    Kyynäräinen kymmennettä.</l>
+                     <l>    Lyhyt akka Tuonen tyttö,</l>
+                     <l>    Kiwutar kipuin eukko,</l>
+                     <l>    Äkäätär neito äiä;</l>
+                     <l>    Mikä istuupi mäellä,</l>
+                     <l>    Kuka käy pitkin mäkiä,</l>
+                     <l>    Kipuwuoren kukkuloa,</l>
+                     <l>    Kipukintahat käessä,</l>
+                     <l>    Kipukänkä kainalossa;</l>
+                     <l>    Kipuja keräelewät,</l>
+                     <l>    Waiwoja wakoelewat,</l>
+                     <l>    Kirjasehen kippasehen,</l>
+                     <l>    Waskisehen wakkasehen,</l>
+                     <l>    Yhen sormen mentäwähän,</l>
+                     <l>    Peukalon mahuttawahan.</l>
+                     <l>    Siellä keittäwät kipuja,</l>
+                     <l>    Pikkasessa kattilassa,</l>
+                     <l>    Rautasessa riehtilässä,</l>
+                     <l>    Pienen sormen mentäwässä,</l>
+                     <l>    Peukalon mahuttawassa.</l>
+                     <l>    Sinne mä nyt kiroon kipuja,</l>
+                     <l>    Sinne tunkeen tuskapäitä;</l>
+                     <l>    Ei kiwi kipuja itke,</l>
+                     <l>    Paasi waiwoja walita,</l>
+                     <l>    Waikka paljon pantahisi,</l>
+                     <l>    Määrätä mätettähisi,</l>
+                     <l>    Äiin äyskäteltähisi.</l>
+                     <l>    Kiwut sinne kiityöhön,</l>
+                     <l>    Ihosta imehnoraukan;</l>
+                     <l>    Ettei tuskat päällä tunnu,</l>
+                     <l>    Pakko syämelle panete.</l>
+                  </lg>
+                  <p rend="justify">Hätäsanat.</p>
+                  <lg>
+                     <l>    Liikku ennen linnat, järkky järwet,</l>
+                     <l>    Wuoret waskiset wapisi,</l>
+                     <l>    Torit linnain torkatteli,</l>
+                     <l>    Tulless' on jumalan tunnin,</l>
+                     <l>    Tahi herran tammoissa.</l>
+                     <l>    Etkö sinäin liika liiku,</l>
+                     <l>    Etkö sä paha pakene!</l>
+                     <l>    Nyt on liian liikosaika,</l>
+                     <l>    Pahan pakenoaika.</l>
+                     <l>    Wai liikut liikuteltaissa,</l>
+                     <l>    Järkyt järkyteltäissä?</l>
+                     <l>    Mull' on koprat kontiolta,</l>
+                     <l>    Weren juojalta wekarat,</l>
+                     <l>    Linnulta lihan pitimet,</l>
+                     <l>    Hawukalta haarottimet,</l>
+                     <l>    Jolla konnan kopristelen,</l>
+                     <l>    Jolla ilkiän asetan,</l>
+                     <l>    Puremasta, jäytämästä,</l>
+                     <l>    Syömästä, kaluamasta,</l>
+                     <l>    Pahan rakin raatamasta.</l>
+                  </lg>
+                  <p rend="justify">Tulen Synty.</p>
+                  <lg>
+                     <l>    Hara wanha poltettihin,</l>
+                     <l>    Korwalla tulisen kosken,</l>
+                     <l>    Tulikosken kääntemällä.</l>
+                     <l>    Tuohon liina kylwettihin,</l>
+                     <l>    Kypenihin kylwettihin,</l>
+                     <l>    Kypenihin kynnettihin.</l>
+                     <l>    Yöllä liinat kylwettihin,</l>
+                     <l>    Yöllä liinat koirittihin,</l>
+                     <l>    Yöllä liinat nyhettihin,</l>
+                     <l>    Yöllä wietihin wetehen,</l>
+                     <l>    Yöllä weestä nostettihin,</l>
+                     <l>    Yöllä luista luistettihin,</l>
+                     <l>    Yöllä rihmat keträttihin,</l>
+                     <l>    Yöllä werkot kuottihin.</l>
+                     <l>    Werkot on weljesten[5] kutomat,</l>
+                     <l>    Sisaresten[6] keträmät,</l>
+                     <l>    Ison pauloille panemat,</l>
+                     <l>    Weljesten wesille wiemät.</l>
+                     <l>    Weiwät weljekset wesille,</l>
+                     <l>    Kaimakset kalahan läksi.</l>
+                     <l>    Weettiinpä, wemmottiinpa,</l>
+                     <l>    Ei saatu kaloa tuota,</l>
+                     <l>    Jota kilwoin pyyettihin.</l>
+                     <l>    Ite wanha Wäinämöinen</l>
+                     <l>    Wielä werkkoa lisäsi,</l>
+                     <l>    Syltää, seihtemän satoa,</l>
+                     <l>    Wielä köyttä kymmenkunta.</l>
+                     <l>    "Wiekäät werkkone sywille!"</l>
+                     <l>    Werkot wietihin sywille,</l>
+                     <l>    Etäämmäksi ennätettiin.</l>
+                     <l>    Minne sikla heitettihin?</l>
+                     <l>    Tuonne sikla heitettihin;</l>
+                     <l>    Sikla toinen heitettihin</l>
+                     <l>    Karjalaisten kannakselle,</l>
+                     <l>    Niittukannan niemeksehen;</l>
+                     <l>    Toinen sikla heitettihin</l>
+                     <l>    Saralaisten salmen suuhun,</l>
+                     <l>    Lokkiluotoin nenähän.</l>
+                     <l>    Weettiinpa, wemmottiinpa,</l>
+                     <l>    Saatiinpa hapea hauki,</l>
+                     <l>    Jota kilwoin pyyettihin.</l>
+                     <l>    Haettiinpa Manalasta,</l>
+                     <l>    Ehittiinpä maanki alta;</l>
+                     <l>    Ehittiinpä, eipä löytty</l>
+                     <l>    Joka hauin halkasisi.</l>
+                     <l>    Ehittiinpä taiwosesta,</l>
+                     <l>    Tähtitarhojen takoa;</l>
+                     <l>    Ehittiinpä, eipä löytty.</l>
+                     <l>    Sano wanha Wäinämöinen:</l>
+                     <l>    "Wiel' on miesi tieossani,</l>
+                     <l>    Sotisulho suojissani."</l>
+                     <l>    Kaalaapi Kalewan poika</l>
+                     <l>    Rautasissa rukkasissa,</l>
+                     <l>    Waskiwanttuen sisässä.</l>
+                     <l>    Tuulalta näkyy tulewan,</l>
+                     <l>    Yli jänkän pää näkyypi;</l>
+                     <l>    Hyytä hynkiä sylissä,</l>
+                     <l>    Jäätä jänkä kainalossa,</l>
+                     <l>    Hyyssä sukka, jäässä kenkä,</l>
+                     <l>    Hallassa hamosen helmat.</l>
+                     <l>    Tuo halasi hauin wahtan;</l>
+                     <l>    Tääll' oli sokia sorwa.</l>
+                     <l>    Halastiinpa sorwan wahta,</l>
+                     <l>    Tääll' oli sinerwä siika.</l>
+                     <l>    Halastiinpa siian wahta,</l>
+                     <l>    Putosi puna keränen.</l>
+                     <l>    Purettiin puna keränen,</l>
+                     <l>    Siell' oli tulikipuna.</l>
+                     <l>    Suikahti tulikipuna</l>
+                     <l>    Yheksästä ikkunasta,</l>
+                     <l>    Seihtemästä reppänästä,</l>
+                     <l>    Poltti tuo pojilta polwet,</l>
+                     <l>    Rikko rinnat tyttäriltä</l>
+                     <l>    Puhki paarmahat emoilta.</l>
+                     <l>    Weitoset wenoja weisti,</l>
+                     <l>    Kuparia alla kuusen,</l>
+                     <l>    Alla korwen kolkutteli</l>
+                     <l>    Kolmikaarista wenettä.</l>
+                     <l>    Sai wenonen walmihiksi.</l>
+                     <l>    Sampsa poika Pellerwoisen</l>
+                     <l>    Weisti kuusesta meloja,</l>
+                     <l>    Petäjästä jänkäleitä.</l>
+                     <l>    Soutelowat, joutelowat,</l>
+                     <l>    Ympäri newan jokia,</l>
+                     <l>    Newan nientä kiertelewät.</l>
+                     <l>    Tarttuupi wenonen kiinni,</l>
+                     <l>    Ei kiwellen, ei hawolle,</l>
+                     <l>    Hauin suuren hartioille,</l>
+                     <l>    Lohen purstollen punasen.</l>
+                     <l>    Waimo wastahan tuleepi,</l>
+                     <l>    Puhutellen, lausutellen:</l>
+                     <l>    "Mistäs oletta mies parat?"</l>
+                     <l>    "Me olemme keskiilmalta."</l>
+                     <l>    "Minne menettä mies parat?"</l>
+                     <l>    "Menemme tulta tiettämähän,</l>
+                     <l>    Walkiata waatimahan;</l>
+                     <l>    Tuli on tuima tieettäwä,</l>
+                     <l>    Walkiainen waaittawa.</l>
+                     <l>    Jo on tuli tuimat tehny,</l>
+                     <l>    Walkia pahat wahingot,</l>
+                     <l>    Poltti tuo pojilta polwet,</l>
+                     <l>    Rikko rinnat tyttäriltä,</l>
+                     <l>    Puhki paarmahat emoilta.</l>
+                     <l>    Mistäs olet waimo parka?"</l>
+                     <l>    "Mä olen emä Wäinämöisen,</l>
+                     <l>    Ilmarisen isän waimo;</l>
+                     <l>    Minull' on wihki wiien waimon,</l>
+                     <l>    Muoto kolmen morsiamen;</l>
+                     <l>    Minä olen emo imehien,</l>
+                     <l>    Sekä wanhin waimoloista,</l>
+                     <l>    Ensin emä ihtelöistä.</l>
+                     <l>    Ei tuli sywiltä synny,</l>
+                     <l>    Eikä kaswa karkialta,</l>
+                     <l>    Synty Jesuksen sylistä,</l>
+                     <l>    Wyöltä wanhan Wäinämöisen.</l>
+                     <l>    Tuoll' on tulta tuuwiteltu,</l>
+                     <l>    Walkiata waapoteltu,</l>
+                     <l>    Ylähällä taiwosessa,</l>
+                     <l>    Kultasessa kätkyessä,</l>
+                     <l>    Hihnoissa hopeisissa.</l>
+                     <l>    Siell' on nyt tulosen synty;</l>
+                     <l>    Kuin mä huuan huikiasti,</l>
+                     <l>    Tuolta walkia näkyypi,</l>
+                     <l>    Etähältä haalottaapi,</l>
+                     <l>    Takoa meren punasen.</l>
+                     <l>    Jäinen kattila tulella,</l>
+                     <l>    Jäiset hernehet sisässä,</l>
+                     <l>    Jäinen kauha kattilassa.</l>
+                     <l>    Kuin mä huuan hoiwahutan,</l>
+                     <l>    Tulee poika Pohjolasta,</l>
+                     <l>    Mies pitkä Pimentolasta,</l>
+                     <l>    Silmät jäässä, polwet hyyssä,</l>
+                     <l>    Iho kaikki iljenneessä,</l>
+                     <l>    Lattia lumen wäessä:</l>
+                     <l>    Ukon tullessa tupahan,</l>
+                     <l>    Astuissa aimomiehen,</l>
+                     <l>    Lyöpi tulta turkin helmat,</l>
+                     <l>    Säkehitä sääriwarret.</l>
+                     <l>    Jäinen on kattila käessä,</l>
+                     <l>    Jäinen kauha kattilassa,</l>
+                     <l>    Jäiset hernehet sisässä.</l>
+                     <l>    Onko hyytä Pohjolassa,</l>
+                     <l>    Simoa Tapiolassa?</l>
+                     <l>    Noilla hyillä hyywytellös,</l>
+                     <l>    Noilla jäillä jäähytellös,</l>
+                     <l>    Joill' on järwet jäähytelty,</l>
+                     <l>    Joill' on meret hyywytelty.</l>
+                     <l>    O Ukko ylinen herra,</l>
+                     <l>    Mies on wanha taiwahinen!</l>
+                     <l>    Tunkeite tähän tulehen,</l>
+                     <l>    Waiwu tähän walkiaseen.</l>
+                     <l>    Tee tuli tehottomaksi,</l>
+                     <l>    Walkia warattomaksi,</l>
+                     <l>    Siteheksi luojan silkki,</l>
+                     <l>    Luojan kalwe katteheksi.</l>
+                     <l>    Wesi pilwestä putosi,</l>
+                     <l>    Tuokin pikkanen pisara;</l>
+                     <l>    Pisarass' on lampi laaja,</l>
+                     <l>    Lammiss' on wene punanen,</l>
+                     <l>    Wenosess' on kolme miestä</l>
+                     <l>    Nuotpa woiti woitehilla</l>
+                     <l>    Paikkoja palanehita,</l>
+                     <l>    Wiikon wiswan tehnehitä.</l>
+                     <l>    Hyinen eukko tuo tuleepi</l>
+                     <l>    Hyinen kattila käessä</l>
+                     <l>    Tuo tulla tuhutteleepi,</l>
+                     <l>    Hyinen kattila käessä,</l>
+                     <l>    Hyinen nippi kattilassa;</l>
+                     <l>    Jolla tulta tummentelee,</l>
+                     <l>    Palanutta jäähyttelee.</l>
+                     <l>    Onko poltettu porolla</l>
+                     <l>    Tahi ilmiwalkialla,</l>
+                     <l>    Wai lienee weellä warilla?</l>
+                     <l>    Mikä lie poroin palanut,</l>
+                     <l>    Sitä hyyllä hyywytellös;</l>
+                     <l>    Mikä lie wesin palanut,</l>
+                     <l>    Sitä jäällä jäähytellös;</l>
+                     <l>    Mikä lie tulin palanut,</l>
+                     <l>    Siihen wiiskoos witiä.</l>
+                     <l>    Neityt Maaria emonen,</l>
+                     <l>    Puhas muori muoollinen!</l>
+                     <l>    Woia niillä woitehilla,</l>
+                     <l>    Niillä raswoilla rapaja,</l>
+                     <l>    Yheksillä woitehilla,</l>
+                     <l>    Kaheksilla kahtehilla;</l>
+                     <l>    Joill' on Jesus woieltuna;</l>
+                     <l>    Kastettuna kaikkiwalta;</l>
+                     <l>    Jot' ei wiswoillen wiruisi,</l>
+                     <l>    Eikä menisi märille,</l>
+                     <l>    Eikä ruwillen rupeisi.</l>
+                     <l>    Tee nyt yöllä terweheksi,</l>
+                     <l>    Päiwällä imanteheksi." J.n.e.</l>
+                  </lg>
+                  <p rend="justify">Sairaita kylwettäissä.</p>
+                  <lg>
+                     <l>    Nouse wanha Wäinämöinen,</l>
+                     <l>    Ukko herkiä unesta!</l>
+                     <l>    Pojan ainoon awuksi,</l>
+                     <l>    Miehen kuullun kumppaniksi,</l>
+                     <l>    Tässä työssä työlähässä,</l>
+                     <l>    Walan tehessä waikiassa.</l>
+                     <l>    Neityt Maaria emonen,</l>
+                     <l>    Puhas muori muoollinen!</l>
+                     <l>    Jok' oot emä imehien,</l>
+                     <l>    Sekä wanhin waimoloista;</l>
+                     <l>    Tule tänne, tarwitahan,</l>
+                     <l>    Pikemmin tarwitahan,</l>
+                     <l>    Useimmin huuetahan.</l>
+                     <l>    Tule saunahan saloa,</l>
+                     <l>    Ilman uksen ulwomata,</l>
+                     <l>    Saranain sanelemata.</l>
+                     <l>    Tuo nyt kanssasi katehet,</l>
+                     <l>    Kerallasi keinot suuret,</l>
+                     <l>    Luo löyly, lähetä lämmin</l>
+                     <l>    Kiwelle kiwuttomalle,</l>
+                     <l>    Paaellen pakottomalle;</l>
+                     <l>    Puun löyly, wetosen lämmin,</l>
+                     <l>    Wesi wanhan Wäinämöisen,</l>
+                     <l>    Wuorest' on wetosen synty,</l>
+                     <l>    Tulen synty taiwosesta,</l>
+                     <l>    Ei oo löylyn löytämistä,</l>
+                     <l>    Lämpösen lähettämistä.</l>
+                     <l>    Tuolta mä anon apua,</l>
+                     <l>    Tuolta huuan hoiwahutan,</l>
+                     <l>    Alahalta taiwosesta,</l>
+                     <l>    Alahalta maaemältä.</l>
+                     <l>    Huutelen hätäsen huuon,</l>
+                     <l>    Panen äänen pakkoisen,</l>
+                     <l>    Läpi maan, läpi manuen,</l>
+                     <l>    Läpi kuuen kirkkokunnan;</l>
+                     <l>    Isältäni Jesukselta,</l>
+                     <l>    Emältäni Maarialta,</l>
+                     <l>    Joilta aina armot käywät,</l>
+                     <l>    Merkit tuttawat tulewat,</l>
+                     <l>    Mist' on pulmat puuttununna,</l>
+                     <l>    Taikia tapahtununna?</l>
+                     <l>    Onko weestä, wai maasta,</l>
+                     <l>    Wai on tuuli tuuwittanut,</l>
+                     <l>    Walkiainen waapottanut?</l>
+                     <l>    Wai on kalma kalmistosta,</l>
+                     <l>    Perkele pyhästä maasta,</l>
+                     <l>    Kirkon kirjatun siwusta,</l>
+                     <l>    Satalauan lappiosta,</l>
+                     <l>    Jossa lukkarit lukewat,</l>
+                     <l>    Sekä papit pauhoawat,</l>
+                     <l>    Messumiehet mellehtiwät.</l>
+                     <l>    Kuin ei lie minussa miestä,</l>
+                     <l>    Ukon pojassa urosta,</l>
+                     <l>    Tämän päästön päästäjöä,</l>
+                     <l>    Tämän pulmun purkajoa,</l>
+                     <l>    Tämän jakson jaksajoa;</l>
+                     <l>    Noskaat norosta miehet,</l>
+                     <l>    Hiekasta hewoswäki,</l>
+                     <l>    Miekkamiehet liettehestä,</l>
+                     <l>    Jotk' on wiikon maassa maanut,</l>
+                     <l>    Kauan lieossa lewännyt;</l>
+                     <l>    Pojan ainoon awuksi,</l>
+                     <l>    Miehen kuullun kumppaniksi.</l>
+                     <l>    Kuin ei minussa miestä liene,</l>
+                     <l>    Ukon pojassa urosta j.n.e.</l>
+                     <l>    Saakohon jumala joku,</l>
+                     <l>    Kaikki päästöt päästämähän,</l>
+                     <l>    Kaikki pulmut purkamahan,</l>
+                     <l>    Kaikki jaksot jaksamahan.</l>
+                     <l>    Kuin ei lie minussa miestä,</l>
+                     <l>    Ukon pojassa urosta j.n.e.</l>
+                     <l>    Louhi Pohjolan emäntä</l>
+                     <l>    Tule päästöt päästämähän,</l>
+                     <l>    Tule pulmut purkamahan,</l>
+                     <l>    Tule jaksot jaksamahan.</l>
+                     <l>    Kuin ei lie minussa miestä,</l>
+                     <l>    Ukon pojassa urosta j.n.e.</l>
+                     <l>    Päiwätär pätöwä neito</l>
+                     <l>    Tule päästöt päästämähän j.n.e.</l>
+                     <l>    Kuin ei lie minussa miestä,</l>
+                     <l>    Ukon pojassa urosta j.n.e.</l>
+                     <l>    Kawe eukko Luonnotar,</l>
+                     <l>    Kawe kultanen korea,</l>
+                     <l>    Tule päästöt päästämähän j.n.e.</l>
+                     <l>    Kuin ei lie minussa miestä,</l>
+                     <l>    Ukon pojassa urosta,</l>
+                     <l>    Tämän päästön päästäjöä,</l>
+                     <l>    Tämän pulmun purkajoa,</l>
+                     <l>    Tämän jakson jaksajoa;</l>
+                     <l>    Tulkoon tuhat perkelettä</l>
+                     <l>    Tämän päästön päästämähän,</l>
+                     <l>    Tämän pulmun purkamahan,</l>
+                     <l>    Tämän jakson jaksamahan;</l>
+                     <l>    Mennä suuren, mennä pienen,</l>
+                     <l>    Kulkia wähäwäkisen,</l>
+                     <l>    Mennä pitkän perkeleenki,</l>
+                     <l>    Ristittyä rikkoamasta,</l>
+                     <l>    Kastettua kaatamasta,</l>
+                     <l>    Tehtyä teloamasta.</l>
+                  </lg>
+                  <lg>
+                     <l>    Mist on pulma puuttununna,</l>
+                     <l>    Taikia tapahtununna?</l>
+                     <l>    Onko siitä seipähästä,</l>
+                     <l>    Joss' on korppi koinittuna,</l>
+                     <l>    Musta lintu mulkuttuna;</l>
+                     <l>    Wai on wanhoista sioista,</l>
+                     <l>    Wai on watturaunioista,</l>
+                     <l>    Wai on Kalma kalmistosta,</l>
+                     <l>    Perkele pyhästä maasta,</l>
+                     <l>    Kirkon kirjatun siwusta,</l>
+                     <l>    Terwaporstuan powesta,</l>
+                     <l>    Satalauan lappiosta;</l>
+                     <l>    Jossa lukkarit lukewat,</l>
+                     <l>    Sekä papit pauhoawat,</l>
+                     <l>    Messumiehet mellehtiwät.</l>
+                     <l>    Mene Kalma kalmistohon,</l>
+                     <l>    Perkele pyhään maahan,</l>
+                     <l>    Kirkon kirjatun siwuhun,</l>
+                     <l>    Terwaporstuan powehen,</l>
+                     <l>    Satalauan lappiohon,</l>
+                     <l>    Jossa lukkarit lukewat j.n.e.</l>
+                     <l>    Johon on kansa kaatununna,</l>
+                     <l>    Wäki suuri wääntynynnä,</l>
+                     <l>    Siell' on luuta luskottua,</l>
+                     <l>    Päärammua raskuttua,</l>
+                     <l>    Ilman ihmisen ihoa,</l>
+                     <l>    Kaswawaisen kainaloita.</l>
+                     <l>    Mene tuonne, kunne käsken,</l>
+                     <l>    Hiien hiilien sekahan,</l>
+                     <l>    Pahalaisen pankon päähän;</l>
+                     <l>    Siell' on muutkin murhamiehet,</l>
+                     <l>    Ikuset pahantekiät.</l>
+                     <l>    Mene wielä, kunne käsken,</l>
+                     <l>    Lapin maahan laukiahan,</l>
+                     <l>    Pohjan pitkähän perähän,</l>
+                     <l>    Siell' on hywä ollaksesi,</l>
+                     <l>    Lempi liekatellaksesi.</l>
+                     <l>    Siellä tuuli tuuwittaapi,</l>
+                     <l>    Wesi wieno wilkuttaapi,</l>
+                     <l>    Wesi synkkä sylkyttääpi.</l>
+                     <l>    Mene wielä, kunne käsken,</l>
+                     <l>    Tuonne tunturiin mäelle,</l>
+                     <l>    Kuhawuoren kulman päälle,</l>
+                     <l>    Johon näkywät Pohjan portit,</l>
+                     <l>    Rautaukset ärwöttäwät.</l>
+                     <l>    Mene wielä, kunne käsken,</l>
+                     <l>    Kuhawuoren kulman alle,</l>
+                     <l>    Johon on puut päin puonneet,</l>
+                     <l>    Heinät latwoin lageneuenna</l>
+                     <l>    Sulahan sarajokehen.</l>
+                     <l>    Siell' on sun sisariasi,</l>
+                     <l>    Siellä wiisi weikkoasi,</l>
+                     <l>    Kuusi kummisi tytärtä,</l>
+                     <l>    Seihtemän setäsi lasta;</l>
+                     <l>    Siell' on hirwet hirtettynä,</l>
+                     <l>    Jalopeurat jaksettuna;</l>
+                     <l>    Siell' on luutonta lihoa,</l>
+                     <l>    Siell' on päätöntä kaloa,</l>
+                     <l>    Suonetonta pohkiata,</l>
+                     <l>    Ilman ihmisen ihota,</l>
+                     <l>    Kaswawaisen kainaloita.</l>
+                     <l>    Mene wielä, kunne käsken,</l>
+                     <l>    Suen suuhun, hamaran päähän,</l>
+                     <l>    Mustan koiran hännän alle.</l>
+                     <l>    Mene wielä, kunne käsken,</l>
+                     <l>    Notkoillen noroperille,</l>
+                     <l>    Soille räykynettömille.</l>
+                     <l>    Mene wielä, kunne käsken,</l>
+                     <l>    Mene tuulen tietä myöten,</l>
+                     <l>    Ahawan ratoa myöten.</l>
+                     <l>    Mene wielä, kunne käsken,</l>
+                     <l>    Mene sä rewon rekehen.</l>
+                     <l>    Rewoll' on reki matala,</l>
+                     <l>    Repo rannallen wetääpi.</l>
+                     <l>    Ja mene siitä, kunne käsken,</l>
+                     <l>    Silmillen sinisen siian,</l>
+                     <l>    Lohen purstollen punasen,</l>
+                     <l>    Hauin suuren hartioille.</l>
+                     <l>    Siika sun sywille wiepi,</l>
+                     <l>    Etäämmä ehätteleepi,</l>
+                     <l>    Alle aaltoin sywien,</l>
+                     <l>    Päälle mustien mutien,</l>
+                     <l>    Kipusehen kellarihin.</l>
+                     <l>    Siell' on muutkin murhamiehet,</l>
+                     <l>    Ikuset pahantekiät;</l>
+                     <l>    Sinne sääkin tuomitahan.</l>
+                     <l>    Siell' on sun sisariasi,</l>
+                     <l>    Siellä wiisi weikkoasi j.n.e.</l>
+                     <l>    Ja mene, kunne käsken,</l>
+                     <l>    Wirtohin wipajawihin,</l>
+                     <l>    Läilywihin lähteesihin,</l>
+                     <l>    Hereesihin hetteesihin,</l>
+                     <l>    Alla taiwahan tasasen.</l>
+                     <l>    Wai jos kyytiä kysynet,</l>
+                     <l>    Anonet ajohewosta;</l>
+                     <l>    Kyllä sinulle kyyin löyän</l>
+                     <l>    Ja annan ajohewosen;</l>
+                     <l>    Ota Hiiestä hewonen,</l>
+                     <l>    Wuoresta walihte warsa,</l>
+                     <l>    Hiien ruuna ruskeampi,</l>
+                     <l>    Joll' on rautaset kapiot,</l>
+                     <l>    Tulitukka, rautaharja,</l>
+                     <l>    Hywälle hypittäjälle,</l>
+                     <l>    Ajajalle ankaralle;</l>
+                     <l>    Jonk' ei jälki jäällä tunnu,</l>
+                     <l>    Jalan isku iljenneellä.</l>
+                     <l>    Neityt Maaria emonen,</l>
+                     <l>    Puhas muori muoollinen!</l>
+                     <l>    Tule tänne, tarwitahan,</l>
+                     <l>    Weäte tänne, mainitahan,</l>
+                     <l>    Usiammin huuetahan,</l>
+                     <l>    Pikemmin tarwitahan,</l>
+                     <l>    Awopäin, haralla hapsiin,</l>
+                     <l>    Ilman wyötä helmuksita,</l>
+                     <l>    Tekemähän terweyttä,</l>
+                     <l>    Rauhoa rakentamahan,</l>
+                     <l>    Ennen päiwän nousemista</l>
+                     <l>    Koi jumalan koittamista,</l>
+                     <l>    Auringon ylenemistä.</l>
+                     <l>    Tee nyt yöllä terweheksi,</l>
+                     <l>    Päiwällä imanteheksi,</l>
+                     <l>    Alta aiwan terweheksi,</l>
+                     <l>    Keskeä kiwuttomaksi,</l>
+                     <l>    Wieriltä wiattomaksi,</l>
+                     <l>    Päältä tuntumattomaksi,</l>
+                     <l>    Alta nuurumattomaksi,</l>
+                     <l>    Suin sulin puheltuani,</l>
+                     <l>    Hengin huokaeltuani.</l>
+                     <l>    En puhu omalla suulla,</l>
+                     <l>    Puhelen jumalan suulla,</l>
+                     <l>    Herran hengellä hywällä,</l>
+                     <l>    Lämpösellä löyhyttelen;</l>
+                     <l>    Wihoin tuulen tuulemata,</l>
+                     <l>    Wihoin saamata satehen,</l>
+                     <l>    Kowan ilman koskemata,</l>
+                     <l>    Pakkasen palelemata.</l>
+                     <l>    Repii nyt ilma ikkunoiksi,</l>
+                     <l>    Taiwas kaariksi jakele,</l>
+                     <l>    Salwaksi sana jumalan,</l>
+                     <l>    Herran henki peitteheksi,</l>
+                     <l>    Siteheksi luojan silkki.</l>
+                     <l>    Herran kalwe katteheksi.</l>
+                     <l>    Awukseni, ainookseni,</l>
+                     <l>    Tuekseni, turwakseni,</l>
+                     <l>    Wäikseni, woimakseni.</l>
+                     <l>    Huuho herra hurmehella,</l>
+                     <l>    Herra waahella walele,</l>
+                     <l>    Puhu Jesus pulmostani,</l>
+                     <l>    Pese Jesus peiwostani,</l>
+                     <l>    Kylän liioista limoista,</l>
+                     <l>    Naisten naaroin seasta,</l>
+                     <l>    Kusikinnerten kerasta,</l>
+                     <l>    Huoran hurmewaattehista,</l>
+                     <l>    Weripaioista pahoista.</l>
+                     <l>    Ken katein kehtoneepi,</l>
+                     <l>    Silmin kieroin kaksineepi,</l>
+                     <l>    Wastuksin warustaneepi,</l>
+                     <l>    Luonnon wihasin luomi,</l>
+                     <l>    Silmä juoskoon simana,</l>
+                     <l>    Toinen woina wuotuohon,</l>
+                     <l>    Raswana rapahtuohon,</l>
+                     <l>    Tuonne helwetin tulehen,</l>
+                     <l>    Pahan wallan walkiaseen.</l>
+                     <l>    Ken katein kahtoneepi,</l>
+                     <l>    Silmin kieroin keksineepi j.n.e.</l>
+                     <l>    Tunkee perkele tulehen,</l>
+                     <l>    Isännät perisopesta,</l>
+                     <l>    Emännät owisopesta,</l>
+                     <l>    Lapset keskilattialta,</l>
+                     <l>    Suin tulehen, päin tulehen,</l>
+                     <l>    Takaraiwoin tantereeseen.</l>
+                     <l>    Silmät käännä kellellehen,</l>
+                     <l>    Niskat rutoin rutase.</l>
+                     <l>    Wello werta hartioissa,</l>
+                     <l>    Sotke suolia sisässä,</l>
+                     <l>    Keitä keuhkoja mahassa,</l>
+                     <l>    Ennen päiwän nousemista,</l>
+                     <l>    Koi jumalan koittamista,</l>
+                     <l>    Auringon ylenemistä;</l>
+                     <l>    Ennen kuin sanani saapi,</l>
+                     <l>    Tahi mieli jouhtuneepi.</l>
+                     <l>    Oot sä pantu palkan eestä,</l>
+                     <l>    Tahi toisen käskyläinen,</l>
+                     <l>    Rakettu rahan eestä;</l>
+                     <l>    Ota kiinni olkapäistä,</l>
+                     <l>    Wasemmista warpahista,</l>
+                     <l>    Kaiemmista kantapäistä,</l>
+                     <l>    Läpi luusta, läpi lihasta,</l>
+                     <l>    Läpi kuuman kirwehen,</l>
+                     <l>    Läpi reppänän yheksän,</l>
+                     <l>    Mene perkele kotiisi,</l>
+                     <l>    Isäntäsi iltaselle,</l>
+                     <l>    Emäntäsi aamuselle,</l>
+                     <l>    Muun pereesi murkkinalle.</l>
+                     <l>    Aita wastoin tuleepi;</l>
+                     <l>    Ammu aita mennessäsi</l>
+                     <l>    Wiieltä witaswäliltä,</l>
+                     <l>    Seihtemältä seipähältä,</l>
+                     <l>    Kaheksalta kaskipuulta.</l>
+                     <l>    Punahattu, Tuonen poika,</l>
+                     <l>    Jännitä tulinen jousi,</l>
+                     <l>    Tulisella jäntehellä.</l>
+                     <l>    Pane waskinen wasama</l>
+                     <l>    Tuon tulisen jousen päälle,</l>
+                     <l>    Ammu halki hampahista.</l>
+                     <l>    Luun syöjä, lihan puria,</l>
+                     <l>    Weren uuelta wetäjä;</l>
+                     <l>    Jota Hiiet himmastuisi,</l>
+                     <l>    Perkeleetki peljästyisi,</l>
+                     <l>    Karkuaisi maan katehet.</l>
+                     <l>    Neityt Maaria emonen,</l>
+                     <l>    Puhas muori muoollinen!</l>
+                     <l>    Soua suonista wenettä,</l>
+                     <l>    Wenehella waskisella,</l>
+                     <l>    Kuutilla kuparisella;</l>
+                     <l>    Soua luun lomia myöten,</l>
+                     <l>    Jäsenten rakoja myöten.</l>
+                     <l>    Mist' on luuta luikahtanna,</l>
+                     <l>    Siihen luita luikahuta,</l>
+                     <l>    Mistä kalwo katkenunna,</l>
+                     <l>    Siihen kalwo kaswahuta;</l>
+                     <l>    Mistä liikkunna lihoa,</l>
+                     <l>    Siihen liittyös lihoa.</l>
+                  </lg>
+                  <p rend="justify">Lääwämadon Synty.</p>
+                  <lg>
+                     <l>    Tuonen toukka, maan matonen,</l>
+                     <l>    Emännän esikätönen,</l>
+                     <l>    Pihan rikka, pellon sonta,</l>
+                     <l>    Kaari kartanon alanen!</l>
+                     <l>    Sä oot wiikon wilussa maannut,</l>
+                     <l>    Kauan kaihossa siassut,</l>
+                     <l>    Kuukauen hewon kusessa,</l>
+                     <l>    Talwen tallin lattiassa.</l>
+                     <l>    Jos olet pahoin tehnyt,</l>
+                     <l>    Tule työsi tuntemahan,</l>
+                     <l>    Pahasi parantamahan j.n.e.</l>
+                  </lg>
+                  <p rend="justify">Kuwun Sanat.</p>
+                  <lg>
+                     <l>    Kukki neito Kuuteratar</l>
+                     <l>    Kuto mulle kulleroita,</l>
+                     <l>    Paahko munapalleroita,</l>
+                     <l>    Alla kuusen kukkalatwan,</l>
+                     <l>    Alla kaswawan katajan.</l>
+                     <l>    Lepän juuret lellukohon,</l>
+                     <l>    Pajun juutet paisukokon,</l>
+                     <l>    Kohotkohon koiwun juuret;</l>
+                     <l>    Älköhön iho imehnon,</l>
+                     <l>    Karwanen kawon tekemä.</l>
+                     <l>    Ukko kultanen kuningas!</l>
+                     <l>    Luo kultawuolimesi,</l>
+                     <l>    Hopiainen tapparasi,</l>
+                     <l>    Jolla kupua kowellan,</l>
+                     <l>    Lemmon kelloa kerihten,</l>
+                     <l>    Kaklan kaielta lihalta.</l>
+                     <l>    Tieänpä sinun sukusi;</l>
+                     <l>    Sumust' on sinun sukusi,</l>
+                     <l>    Sumust' on sinun emosi.</l>
+                     <l>    Sumust' on sinun isosi,</l>
+                     <l>    Sumust' waltawanhempasi;</l>
+                     <l>    Sinne mä sinunki panen,</l>
+                     <l>    Siell' on wiisi weikkoasi j.n.e.</l>
+                     <l>    Tuikkaa kuin tuli punanen,</l>
+                     <l>    Liiku kuin lipiä koira.</l>
+                     <l>    Kuin et siellä sioa saane;</l>
+                     <l>    Tuonne mä sinun manoan</l>
+                     <l>    Purstohon lohipunasen,</l>
+                     <l>    Kalahauin hartioille;</l>
+                     <l>    Lohi sun sywille wiepi,</l>
+                     <l>    Kalahauki kaimoaapi.</l>
+                     <l>    Ja kuin et siellä sioa saane;</l>
+                     <l>    Mene tuonne, kun mä käsken,</l>
+                     <l>    Niittyhyn nimettömähän,</l>
+                     <l>    Nimen tietämättömähän,</l>
+                     <l>    Jot' ei ruohot maasta nouse,</l>
+                     <l>    Heinät nurmesta ylene.</l>
+                  </lg>
+                  <p rend="justify">Hammasmadon Sanat.</p>
+                  <lg>
+                     <l>    Hyöpyräinen, pyöryläinen,</l>
+                     <l>    Liinan siemenen kokonen,</l>
+                     <l>    Liinan siemenen näkönen,</l>
+                     <l>    Hammasten hajottelia,</l>
+                     <l>    Leukaluiten leikkeliä!</l>
+                     <l>    Älä hakkaa hampaitani,</l>
+                     <l>    Älä leikkaa leukojani.</l>
+                     <l>    Tieänpä sinun sukusi;</l>
+                     <l>    Mies musta merestä nousi,</l>
+                     <l>    Uros aallosta yleni,</l>
+                     <l>    Pystyn peukalon pitunen,</l>
+                     <l>    Uroon sormen korkunainen;</l>
+                     <l>    Hapenella parta kaswo,</l>
+                     <l>    Parralla mato sikisi,</l>
+                     <l>    Siitäpä käwi katala</l>
+                     <l>    Lämpisihin leukaluihin,</l>
+                     <l>    Halusihin hampaisihin.</l>
+                     <l>    Kuoli ukko, waipu wanha,</l>
+                     <l>    Tauilla tawattomalla,</l>
+                     <l>    Tuon luun lokertamasta,</l>
+                     <l>    Tuon pahan pakottamasta,</l>
+                     <l>    Werikoiran koskemasta.</l>
+                     <l>    Lyhyt akka Tuonen Tyttö,</l>
+                     <l>    Woiti kielellään kipuja,</l>
+                     <l>    Hammastauilla tapoja.</l>
+                     <l>    Pisti neulan leukaluuhun,</l>
+                     <l>    Tuon on kolmasti sepitti:</l>
+                     <l>    "Suolat soikohon hywinä</l>
+                     <l>    Weren luonasa lukian,</l>
+                     <l>    Selwitäte seisomahan!"</l>
+                     <l>    Nousi ukko unestasa,</l>
+                     <l>    Selwittihe seisomahan.</l>
+                     <l>    Siin' on nyt sinun sukusi,</l>
+                     <l>    Siin on kaikki karwasiki.</l>
+                     <l>    Ällös sä paha pakene,</l>
+                     <l>    Syömästä, kaluamasta,</l>
+                     <l>    Puremasta läätämästä!</l>
+                     <l>    Hajotkohon Hiien hammas,</l>
+                     <l>    Lewitköhön Lemmon leuka.</l>
+                     <l>    Painan mä pajusta jousen,</l>
+                     <l>    Teen lepästä lennottimen,</l>
+                     <l>    Ammun hittoja hihahan,</l>
+                     <l>    Paholaista parran halki.</l>
+                     <l>    Punahattu, Tuonen poika!</l>
+                     <l>    Jännitä tulinen jousi</l>
+                     <l>    Tulisella jäntehellä;</l>
+                     <l>    Pane waskinen wasama</l>
+                     <l>    Tuon tulisen jousen päälle,</l>
+                     <l>    Ammu halki hampahista</l>
+                     <l>    Luun syöjä, lihan puria,</l>
+                     <l>    Weren uuelta wetäjä.</l>
+                     <l>    Minne mä sinun manoan?</l>
+                     <l>    Jos wieno liet weestä nossut,</l>
+                     <l>    Niin weteen sinun manoan;</l>
+                     <l>    Jos liet tuulen tuuwittama,</l>
+                     <l>    Mene tuulen tietä myöten.</l>
+                     <l>    Ja kiwut mä manoan kanssa;</l>
+                     <l>    Wieköön kipua tuonne</l>
+                     <l>    Heimohin kipuemännän.</l>
+                     <l>    Torajat sä, Tuonen poika!</l>
+                     <l>    Paistut sä mato Manalan,</l>
+                     <l>    Rautasessa riehtilässä.</l>
+                     <l>    Kuin et sinä siinä kypsy,</l>
+                     <l>    Tuonen mä sinun manoan</l>
+                     <l>    Pirun pihlajan tyköhön.</l>
+                     <l>    Wiron akka Willikerta</l>
+                     <l>    Surwoo rauan siemeniä,</l>
+                     <l>    Telkyttää teräsmuruja,</l>
+                     <l>    Leppäsessä huhmarossa</l>
+                     <l>    Leppäsellä petkelellä,</l>
+                     <l>    Leppäsen tuwan sisässä;</l>
+                     <l>    Siellä sääkin sian saanet,</l>
+                     <l>    Se sun raualla rakentaa,</l>
+                     <l>    Wasaralla walmistelee.</l>
+                  </lg>
+                  <p rend="justify">Riiden Sanat.</p>
+                  <lg>
+                     <l>    Riisi poika riukamoinen,</l>
+                     <l>    Rietta reitten juurehinen,</l>
+                     <l>    Huikku helmoin alanen,</l>
+                     <l>    Häpein hywän miesten,</l>
+                     <l>    Werikaatioin wetämä,</l>
+                     <l>    Rumahousuin huiskuttama!</l>
+                     <l>    Mistäs sä tulit tupahan,</l>
+                     <l>    Sait sammalhuoneesehen,</l>
+                     <l>    Syömähän, kaluamahan,</l>
+                     <l>    Puremahan, jäytämähän,</l>
+                     <l>    Syömähän weriwalolle,</l>
+                     <l>    Luuwalolle luhtomahan?</l>
+                     <l>    Siirry, kuin sininen nuoli,</l>
+                     <l>    Purate punakeränä,</l>
+                     <l>    Wieri, kuin weran nukelma,</l>
+                     <l>    Wieri werkapöksylöihin,</l>
+                     <l>    Kauppiaisten kaatioihin.</l>
+                     <l>    Kunne mä sinun manoan?</l>
+                     <l>    Tuonne mä sinun manoan</l>
+                     <l>    Lapin laahtitantereelle;</l>
+                     <l>    Siell' on uutta, siell' on kystä,</l>
+                     <l>    Syöä miehen nälkähisen,</l>
+                     <l>    Haukata halunalasen.</l>
+                     <l>    Wai en pannekkaan pahoin,</l>
+                     <l>    Enkä aiwan ilkeisihin.</l>
+                     <l>    Tuonne mä sinun manoan</l>
+                     <l>    Kynän jouhtenen nenähän,</l>
+                     <l>    Aina allin kielen alle.</l>
+                     <l>    Ja jos et siitään totelle;</l>
+                     <l>    Tuonne mä sinun manoan</l>
+                     <l>    Rutjan koskehen kowahan,</l>
+                     <l>    Palawahan pyörteesehen,</l>
+                     <l>    Johon puut päin putowat,</l>
+                     <l>    Hongat latwoin lankiaapi.</l>
+                     <l>    Ja tuonne ma sinun manoan</l>
+                     <l>    Ikusehen helwettihin,</l>
+                     <l>    Jost' et kuulu kuuna päänä,</l>
+                     <l>    Selwiä sinä ikänä.</l>
+                  </lg>
+                  <p rend="justify">Ampumista wasten.</p>
+                  <lg>
+                     <l>    Sampsa, poika Pellerwoisen,</l>
+                     <l>    Kesät kenneellä makasi,</l>
+                     <l>    Keskellä jywäketoa,</l>
+                     <l>    Jywäparkan parmahalla.</l>
+                     <l>    Otti kuusia jywiä,</l>
+                     <l>    Seihtemiä siemeniä,</l>
+                     <l>    Yhen nää'än nahkasehen,</l>
+                     <l>    Koipeeseen kesäorawan.</l>
+                     <l>    Läksi maita kylwämähän,</l>
+                     <l>    Toukoja tihittämähän.</l>
+                     <l>    Suot kylwi, kanarwat kaswo,</l>
+                     <l>    Norot kylwi, nousi koiwut,</l>
+                     <l>    Mäet kylwi, kaswo männyt,</l>
+                     <l>    Kummut kylwi, kaswo kuuset.</l>
+                     <l>    Kylwi tuomet tuorehelle,</l>
+                     <l>    Pajut maalle paisuelle,</l>
+                     <l>    Pihlajat pyhälle maalle,</l>
+                     <l>    Raiat nurmien rajoille,</l>
+                     <l>    Katajat karankoille,</l>
+                     <l>    Tammen wirran wierimmille.</l>
+                     <l>    Kaswo tuomet tuorehella,</l>
+                     <l>    Pajut maalla paisuella,</l>
+                     <l>    Pihlajat pyhällä maalla,</l>
+                     <l>    Raiat maalla raikahalla,</l>
+                     <l>    Katajat karankoilla,</l>
+                     <l>    Eipä tammi kaswanunna,</l>
+                     <l>    Juurtununna puujumala.</l>
+                     <l>    Heitti hellan wallallesa,</l>
+                     <l>    Olowallen onnellesa.</l>
+                     <l>    Kulu yötä kaksi kolme,</l>
+                     <l>    Saman werta päiwiäkin,</l>
+                     <l>    Läksi tuota tietämähän;</l>
+                     <l>    Ei oo tammi kaswanunna,</l>
+                     <l>    Juurtununna puujumala.</l>
+                     <l>    Heitti hellan walloillesa,</l>
+                     <l>    Olowallen onnellesa.</l>
+                     <l>    Uotti wielä yötä kolme,</l>
+                     <l>    Läksi tuota tietämähän</l>
+                     <l>    Yön takoa kohta kolmen,</l>
+                     <l>    Wiikon päästä wiimeistäin;</l>
+                     <l>    Jop' on tammi kaswanunna,</l>
+                     <l>    Juurtununna puujumala.</l>
+                     <l>    Wesa Jesuksen wetämä,</l>
+                     <l>    Maasta mannun kaswattama.</l>
+                     <l>    Kuka siitä oksan otti,</l>
+                     <l>    Se otti ikusen onnen;</l>
+                     <l>    Kuka siitä lehen leikka,</l>
+                     <l>    Se leikka ikusen lemmen.</l>
+                     <l>    Ohowamp' on oksillesa,</l>
+                     <l>    Leheltäsä liukkahampi,</l>
+                     <l>    Ehittihin Manalasta,</l>
+                     <l>    Manalasta, maanki alta,</l>
+                     <l>    Ehittiinpä, eipä löytty,</l>
+                     <l>    Joka tammen hakkaisi.</l>
+                     <l>    Tuli ukko taiwosesta</l>
+                     <l>    Mujuseni, muotoseni,</l>
+                     <l>    Kaiken karwani näkönen;</l>
+                     <l>    Kirwes kultanen olalla,</l>
+                     <l>    Waskiwarsi kirvehessä,</l>
+                     <l>    Hopiata ponnen päässä;</l>
+                     <l>    Hakkasi rytimoraian,</l>
+                     <l>    Tasalatwan taskutteli,</l>
+                     <l>    Kultasella kirwehellä.</l>
+                     <l>    Mikä lastuja porosi,</l>
+                     <l>    Siitä noita nuolet saapi,</l>
+                     <l>    Sekä ampuja asehet.</l>
+                     <l>    Piru piiliä tekeepi,</l>
+                     <l>    Wasamoita walmistaapi;</l>
+                     <l>    Minkä saatti walmihiksi,</l>
+                     <l>    Sen pojat sulitteleepi</l>
+                     <l>    Peipun pienillä sulilla,</l>
+                     <l>    Warpusen warustimilla,</l>
+                     <l>    Sian karjun harjaksilla.</l>
+                     <l>    Teki piiliä piwosen,</l>
+                     <l>    Kouran nuolia kowia,</l>
+                     <l>    Korwalla tulisen kosken,</l>
+                     <l>    Rautalammen reunamaalla.</l>
+                     <l>    Läksi kaupallen kylälle,</l>
+                     <l>    Ei kylään otettunahan.</l>
+                     <l>    Kolm' on poikoa pahalla,</l>
+                     <l>    Yks on ruho, toinen rampa,</l>
+                     <l>    Kolmas on perisokia.</l>
+                     <l>    Ruho piiliä pitääpi,</l>
+                     <l>    Rampa jousta jännittääpi,</l>
+                     <l>    Ampuupi perisokia.</l>
+                     <l>    Ampu nuolen ensimmäisen,</l>
+                     <l>    Ampu ylös taiwosehen,</l>
+                     <l>    Pitkän pilwen rannan päälle;</l>
+                     <l>    Tahto taiwonen haleta,</l>
+                     <l>    Kaaret ilman katkeilla,</l>
+                     <l>    Noian nuolissa kowissa,</l>
+                     <l>    Äkähissä äiän pojan.</l>
+                     <l>    Ampu sitte nuolen toisen,</l>
+                     <l>    Se on wasten maata mennyt.</l>
+                     <l>    Maa muruiksi muljotteli,[7]</l>
+                     <l>    Paaet wahwat paukahteli,</l>
+                     <l>    Kiwet rannalla rakosi,</l>
+                     <l>    Someret siottelekse.</l>
+                     <l>    Ampu kohta kolmannenki,</l>
+                     <l>    Kirjarintahan kiwehen,</l>
+                     <l>    Wuorehen teräksisehen,[8]</l>
+                     <l>    Rautasehen kalliohon.</l>
+                     <l>    Tuo kiwestä kiljahusi,</l>
+                     <l>    Kalliosta kaljahusi,</l>
+                     <l>    Tahtoopi tawata siitä</l>
+                     <l>    Ihoa imehnoraukan,</l>
+                     <l>    Luoa luontokappalia.</l>
+                     <l>    Milläs tuo nuoli perittänehe?</l>
+                     <l>    Sanan woimalla jumalan,</l>
+                     <l>    Herran hengen huounnolla.</l>
+                     <l>    Ota piru pistoksesi,</l>
+                     <l>    Äkähäsi äiän poika,</l>
+                     <l>    Ammu tuonne ammuksesi,</l>
+                     <l>    Pistä tuonne pistoksesi,</l>
+                     <l>    Wuorehen teräksisehen,</l>
+                     <l>    Rautasehen kalliohon.</l>
+                     <l>    Mit' oot tywin työntänynnä,</l>
+                     <l>    Latwoin poies lappaele;</l>
+                     <l>    Mitä latwoin laskenunna,</l>
+                     <l>    Tywin poies työntäele.</l>
+                     <l>    Ei tässä sioa sinulle</l>
+                     <l>    Siankahan tarpehella,</l>
+                     <l>    Tarpeitenkaan himolla.</l>
+                     <l>    Muunne muuttuos majasi,</l>
+                     <l>    Etäämmä elosiasi,</l>
+                     <l>    Ristittyä rikkoamasta,</l>
+                     <l>    Kastettua kaatamasta,</l>
+                     <l>    Tehtyä teloamasta.</l>
+                     <l>    Tieetäänpä sun sukusi,</l>
+                     <l>    Mun sukuin on tietämätä,</l>
+                     <l>    Minun suurempi sukuni,</l>
+                     <l>    Sekä laajempi laini;</l>
+                     <l>    Minun on ihmistä ihoni,</l>
+                     <l>    Kaswanaista kainaloni.</l>
+                     <l>    Eroa sinä emätön,</l>
+                     <l>    Paha poika polwahinen,</l>
+                     <l>    Ristittyä rikkoamasta, j.n.e.</l>
+                     <l>    Tämä ei mies Manalle joua,</l>
+                     <l>    Tukka pitkä Tuonelahan;</l>
+                     <l>    Mato joutakoon Manalle,</l>
+                     <l>    Lyhyt tukka Tuonelahan,</l>
+                     <l>    Oman surman ottamata,</l>
+                     <l>    Oman tauin tappamata.</l>
+                     <l>    Ite seppä Ilmarinen,</l>
+                     <l>    Takoja iän ikunen!</l>
+                     <l>    Teeppäs pihit pikkuruiset,</l>
+                     <l>    Atulat ani wähäset,</l>
+                     <l>    Jolla noian lemmon nuolen,</l>
+                     <l>    Werisen wetäsen weiten,</l>
+                     <l>    Ihosta imehnoraukan,</l>
+                     <l>    Emän tuoman ruumihista.</l>
+                     <l>    Neityt Maaria emonen,</l>
+                     <l>    Puhas muori muoollinen!</l>
+                     <l>    Woia niillä woitehilla,</l>
+                     <l>    Kato niillä kahtehilla,</l>
+                     <l>    Joill' on luoja woieltuna,</l>
+                     <l>    Katottuna kaikkiwalta,</l>
+                     <l>    Bethlehemin kaupungissa.</l>
+                     <l>    Woia luun lomia myöten,</l>
+                     <l>    Jäsenien kyniä myöten.</l>
+                     <l>    Laske woie wuotamahan</l>
+                     <l>    Läpi luun, läpi jäsenen,</l>
+                     <l>    Läpi suonien sorata.</l>
+                     <l>    Woia alta, woia päältä,</l>
+                     <l>    Sio silkkipyyhkeilläsi,</l>
+                     <l>    Ompele netosin neuloin,</l>
+                     <l>    Rahkaneuloin nappaele;</l>
+                     <l>    Ihommaksi entistähän,</l>
+                     <l>    Paremmaksi muinostahan.</l>
+                     <l>    Tekkös Jesus terweheksi,</l>
+                     <l>    Alta tuntummattomaksi,</l>
+                     <l>    Päältä nuurumattomaksi,</l>
+                     <l>    Keskiä kiwuttomaksi j.n.e.</l>
+                  </lg>
+                  <p rend="justify">Nykysempiä Lauluja.</p>
+                  <p rend="justify">Wäinämöisen Weljen pojasta.</p>
+                  <lg>
+                     <l>    Wäinämöisen weljen poika</l>
+                     <l>    Otti kuusesta orawan,</l>
+                     <l>    Petäjästä pöyryhännän;</l>
+                     <l>    Kanto ensisti etehen,</l>
+                     <l>    Kuusen kuiwia käpyjä,</l>
+                     <l>    Sitte toi on tuorehia,</l>
+                     <l>    Kanto kauroja wälistä,</l>
+                     <l>    Heitti heiniä sekahan.</l>
+                     <l>    Hän teki tuota tekoa</l>
+                     <l>    Kokonaista kolme wuotta;</l>
+                     <l>    Muuttu orawa oriiksi,</l>
+                     <l>    Tuli ori oiwallinen,</l>
+                     <l>    Yli korttelin yheksän,</l>
+                     <l>    Häntä pitkä, harja paksu,</l>
+                     <l>    Mulkut suuret summattomat;</l>
+                     <l>    Waan ei kaswanut kawiat,</l>
+                     <l>    Kyllä kynsillen kokoa.</l>
+                     <l>    Wiimein mielehen majahti,</l>
+                     <l>    Äiän tolkkuhun tolahti,</l>
+                     <l>    Katella ajokaluja,</l>
+                     <l>    Suitet suuhun, päitet päähän,</l>
+                     <l>    Anto puntista punoja,</l>
+                     <l>    Riimut rautarenkahista,</l>
+                     <l>    Teki länkeet terwaksista,</l>
+                     <l>    Luokin karhun kylkiluista.</l>
+                     <l>    Ajo tuonne tunturille,</l>
+                     <l>    Meni jäiselle mäelle,</l>
+                     <l>    Pysy kynnet kalliolla,</l>
+                     <l>    Eikä liukkaalla liwennyt.</l>
+                     <l>    Ajo aikasa mäkeä,</l>
+                     <l>    Tuuritteli tunturia;</l>
+                     <l>    Laskihen Lapin keolle,</l>
+                     <l>    Sille suurellen sileelle</l>
+                     <l>    Siellä ajo aikalailla,</l>
+                     <l>    Aikahollilla hojotti,</l>
+                     <l>    Lapin kommiot kumohon.</l>
+                     <l>    Lapin äiät ne ärisi,</l>
+                     <l>    Pienet pojatkin porisi,</l>
+                     <l>    Ei hän siitä säikähtänyt.</l>
+                     <l>    Wiimein mielehen majahti,</l>
+                     <l>    Äiän tolkkuhun tolahti,</l>
+                     <l>    Ruweta ruunoin tekohon.</l>
+                     <l>    Kuulusteli kuoharia,</l>
+                     <l>    Saahaksesa salwuria;</l>
+                     <l>    Kuin ei kuullut kuoharia,</l>
+                     <l>    Eikä saanut salwuria,</l>
+                     <l>    Innosti ite samassa;</l>
+                     <l>    Teki tulen terwaksista,</l>
+                     <l>    Pani paian palkeheksi,</l>
+                     <l>    Alakiwen alasimeksi.</l>
+                     <l>    Tako weiten wuoren alla,</l>
+                     <l>    Kirkasti kiwen wälissä.</l>
+                     <l>    Weti sillä weitelläsä,</l>
+                     <l>    Puotti kellukset keolle;</l>
+                     <l>    Suuret mulkut muljautti,</l>
+                     <l>    Ei hän köysiä kysellyt,</l>
+                     <l>    Eikä kaatanut oria,</l>
+                     <l>    Teki salwon seisoalta,</l>
+                     <l>    Waan ei suonia sitonut,</l>
+                     <l>    Eikä solminnut sanoilla.</l>
+                     <l>    Pääsi weri wallalesa,</l>
+                     <l>    Tuli puro punainen,</l>
+                     <l>    Lakeille Lapin keolle.</l>
+                     <l>    Ruuna horjaten horusi,</l>
+                     <l>    Äiä itki ja porusi,</l>
+                     <l>    Weren juoksun julman tähen.</l>
+                     <l>    Liwahti Wipulan Liisa,</l>
+                     <l>    Häilähti tähän hätähän.</l>
+                     <l>    Kuin se sylki kuiwan sylen,</l>
+                     <l>    Ruunan reisihin wälihin,</l>
+                     <l>    Tuli solmut suonten päihin,</l>
+                     <l>    Kuiwi se puro punanen.</l>
+                     <l>    Sano äiälle samassa:</l>
+                     <l>    "Jos olet ite isäntä,</l>
+                     <l>    Mä olen ite emäntä,</l>
+                     <l>    Kaksi kauppoa tekeepi,</l>
+                     <l>    Omallasa kumpanenki.</l>
+                     <l>    Ota peura, anna ruuna,</l>
+                     <l>    Wiel' annan wähän wäliä,</l>
+                     <l>    Pikkuruisen päällisiä."</l>
+                     <l>    Wäinäinöisen weljen poika</l>
+                     <l>    Heilutteli helmojasa,</l>
+                     <l>    Teki kaupan, ei katunut;</l>
+                     <l>    Astu peuran ahkiohon,</l>
+                     <l>    Ajo tuonne tunturille,</l>
+                     <l>    Meni jäiselle mäelle.</l>
+                     <l>    Äiä parka äkkinäinen</l>
+                     <l>    Ei hän ohjata osannut,</l>
+                     <l>    Eikä kiertänyt kiwiä,</l>
+                     <l>    Eikä peljännyt petäitä;</l>
+                     <l>    Ahkio alta hajosi,</l>
+                     <l>    Pää se kiljahti kiwehen,</l>
+                     <l>    Aiwot kaato kalliolle.</l>
+                     <l>    Peura pötkähti takasin,</l>
+                     <l>    Haki wanhan haltiasa.</l>
+                     <l>    Liisa arwasi asian,</l>
+                     <l>    Wipulatar sanan wirkko:</l>
+                     <l>    "Nyt on kuohari kumossa,</l>
+                     <l>    Hewoislangon langennunna."</l>
+                     <l>    Istu kohta kiirehesti</l>
+                     <l>    Ruunan ruskian rekehen,</l>
+                     <l>    Haki peuran haltiata.</l>
+                     <l>    Tuon hän löysi tunturilta,</l>
+                     <l>    Puotti aiwot äiän päähän,</l>
+                     <l>    Pani päällen peukalosa.</l>
+                     <l>    Pianpa sekin parani,</l>
+                     <l>    Tuli aiwan terweheksi.</l>
+                     <l>    Wäinämöisen weljen poika</l>
+                     <l>    Alko naia ja nahista.</l>
+                     <l>    Sitte istuwat yhessä</l>
+                     <l>    Ruunan ruskian rekehen,</l>
+                     <l>    Laskiwat Lapin keolle.</l>
+                     <l>    Wäinämöisen weljen poika</l>
+                     <l>    Sano Liisalle samassa:</l>
+                     <l>    "Pane paljolta patahan</l>
+                     <l>    Hirwen huulta, peuran kieltä,</l>
+                     <l>    Kyll' minä hapanta hankkiin."</l>
+                     <l>    Tuotti wiinan Torniosta,</l>
+                     <l>    Haetti Oulusta olutta,</l>
+                     <l>    Kuhtu wanhan Wäinämöisen</l>
+                     <l>    Wielä siihen soittajaksi.</l>
+                     <l>    Wanha setä siinä soitti</l>
+                     <l>    Hauinluista harppuasa,</l>
+                     <l>    Että kalliot kajahti,</l>
+                     <l>    Wuoret urkuina ujersi,</l>
+                     <l>    Kiwet hyppi kankahilla,</l>
+                     <l>    Mäellä pelmusi petäjät.</l>
+                     <l>    Häät loppu, wäki hajosi,</l>
+                     <l>    Wäinämöisen weljen poika</l>
+                     <l>    Teki talon ensimmäisen</l>
+                     <l>    Lakeillen Lapin keolle.</l>
+                     <l>    Siinä waati waimoasa,</l>
+                     <l>    Likisteli Liisoasa,</l>
+                     <l>    Jost' on saatu salwuria,</l>
+                     <l>    Siit' on kuoharin sikiä.</l>
+                  </lg>
+                  <p rend="justify">Kahwerokasta.</p>
+                  <lg>
+                     <l>    Alko Anterus sanoa:</l>
+                     <l>    "Pelkonen perehen miesi!</l>
+                     <l>    Mistäs laitat langoillesi</l>
+                     <l>    Sunnuntaina suurustähen?"</l>
+                     <l>    Waimo wastasi somasti:</l>
+                     <l>    "Menkää te yhessä yöllä,</l>
+                     <l>    Kahen kesken kaunihisti,</l>
+                     <l>    Karjalaisten kaupunkihin;</l>
+                     <l>    Kantakaa te kahwet sieltä,</l>
+                     <l>    Nyt ei oo koissa Kosken Herra,</l>
+                     <l>    Eikä seppä saapuhilla."</l>
+                     <l>    Läksi Antit astumahan</l>
+                     <l>    Rapikolle rannalle,</l>
+                     <l>    Simo siiwihti jälessä.</l>
+                     <l>    Lykkäsit lylyn wesille,</l>
+                     <l>    Laiwan suuren lainehille.</l>
+                     <l>    Antti airoillen rupesi,</l>
+                     <l>    Simo istuupi siwulle,</l>
+                     <l>    Pelkonen perää pitääpi.</l>
+                     <l>    Souit sormilla kowilla,</l>
+                     <l>    Laskit suoroa Sahalle,</l>
+                     <l>    Karjalaisten kaupunkihin.</l>
+                     <l>    Wielä Antit arwelowat:</l>
+                     <l>    "Mistä me sisään menemme."</l>
+                     <l>    Pelkonen sano pelolla;</l>
+                     <l>    "Kuletaan kohen ryytimaata,</l>
+                     <l>    Siell' on ikkunat isommat,</l>
+                     <l>    Tikapuut on tietyt siellä;</l>
+                     <l>    Ei oo uksen aukomista,</l>
+                     <l>    Eikä portin ponkamista,</l>
+                     <l>    Lasin lungun lonkamista."</l>
+                     <l>    Pelkonen perehen miesi</l>
+                     <l>    Ite astuupi eellä.</l>
+                     <l>    Pääsi päähän tikapuihen,</l>
+                     <l>    Otti weihtesä tupesta,</l>
+                     <l>    Piirsi lasin lungun rikki,</l>
+                     <l>    Kiersi ruuingin lukosta.</l>
+                     <l>    Antti kanto aarappia,</l>
+                     <l>    Laukanen lato rahoja,</l>
+                     <l>    Seteliä selwitteli,</l>
+                     <l>    Simo nahkoja sipeli,</l>
+                     <l>    Weti werkawaattehia.</l>
+                     <l>    Silkit siiwolla menewät,</l>
+                     <l>    Eikä werat mitään wirka.</l>
+                     <l>    Nahat naukuwat selässä,</l>
+                     <l>    Miehen halwan hartiolla.</l>
+                     <l>    Aina ankkuri sanoopi,</l>
+                     <l>    Aarappi ajatteleepi,</l>
+                     <l>    Juonittelee julkijuoma:</l>
+                     <l>    "Woi te miehet mielettömät!</l>
+                     <l>    Minne te minua wiettä,</l>
+                     <l>    Kunne kannatte katalat?</l>
+                     <l>    Kaunihista kammarista</l>
+                     <l>    Saatatte salon sisälle,</l>
+                     <l>    Mehtäin tyrmien tykö.</l>
+                     <l>    En ollut salanen juoma,</l>
+                     <l>    Olin juoma julkinainen.</l>
+                     <l>    Herrat on tuoneet herkuksesa,</l>
+                     <l>    Saksat saahakseen rahoa."</l>
+                     <l>    Tuli päiwä yön perästä;</l>
+                     <l>    Pistihen pihalle Tiina,</l>
+                     <l>    Tiina Tiiteron emäntä.</l>
+                     <l>    Tiina juosta tiiteroihti</l>
+                     <l>    Wikewästi Wiilarihin.</l>
+                     <l>    Wiilari ennähti kysyä:</l>
+                     <l>    "Mitäs itket waimo parka."</l>
+                     <l>    "Jo nyt on itkut itkettynä;</l>
+                     <l>    Jop' on roswot ronkannuna,</l>
+                     <l>    Lasin lungut lonkannuna;</l>
+                     <l>    Kaikk' on akkunat awattu,</l>
+                     <l>    Kaikk' on kammarit katottu."</l>
+                     <l>    Läksi Jussi juoksemahan,</l>
+                     <l>    Kaipiainen kahtomahan;</l>
+                     <l>    Löyti suolta saappaat jälet,</l>
+                     <l>    Aholta upokasjälet:</l>
+                     <l>    "Tok' siin on hywin hypätty,</l>
+                     <l>    Kuin on sukka suolle jäänyt,</l>
+                     <l>    Kinnas puonnut purolle."</l>
+                     <l>    Waan ei ollut sukalla suuta,</l>
+                     <l>    Eikä kieltä kintahalla.</l>
+                     <l>    Erikkä tiesi ihmeimmät,</l>
+                     <l>    Sunnuntaina suuret kummat,</l>
+                     <l>    Tiesi wielä tiistaina:</l>
+                     <l>    Löysi lekkerin lehosta,</l>
+                     <l>    Putelin punasta wettä.</l>
+                     <l>    Riikosen wähä rihatsu,</l>
+                     <l>    Läksi käymähän kylöä;</l>
+                     <l>    Tääpä koskellen kokesi,</l>
+                     <l>    Sanomata saattamahan,</l>
+                     <l>    Ett' on annettu rahoa,</l>
+                     <l>    Rupiloita rutkattuna,</l>
+                     <l>    Kaksi loutuu loiwattuna.</l>
+                     <l>    Pelkonen perehen miesi,</l>
+                     <l>    Kohta kotiin tultuasa,</l>
+                     <l>    Sano waimolleen samassa:</l>
+                     <l>    "Akkaseni, ainoseni,</l>
+                     <l>    Minun kaunis Katrinani!</l>
+                     <l>    Keitäs meillen kelporuoka,</l>
+                     <l>    Laita ruoka lampahasta.</l>
+                     <l>    Tuolt' on lammas laitettuna</l>
+                     <l>    Yli selän Seukkolasta,</l>
+                     <l>    Kanna kahweja sekahan,</l>
+                     <l>    Että kerran kelporokka</l>
+                     <l>    Saataisihin miesten syöä.</l>
+                     <l>    Annan sinulle aarappia,</l>
+                     <l>    Suuhusi sulan sokurin,</l>
+                     <l>    Werat päällesi wetelen,</l>
+                     <l>    Huiwit kaulaasi koriat,</l>
+                     <l>    Sormeesi sormukset soriat,</l>
+                     <l>    Säärilleis sukat säwiät,</l>
+                     <l>    Juhtinahat kengiksesi."</l>
+                     <l>    Kaisa aarapin alotti,</l>
+                     <l>    Ketutar kelpojuoman.</l>
+                     <l>    Kosk' oli wiikkaus kulunna,</l>
+                     <l>    Oli Siili siiwo herra,</l>
+                     <l>    Alko aittoja katella,</l>
+                     <l>    Toropainen, toimen poika,</l>
+                     <l>    Sanoopi sanoilla näillä:</l>
+                     <l>    "Pelkonen perehen miesi!</l>
+                     <l>    Lähes aittoas awamaan,</l>
+                     <l>    Kateltaw' on kartanosi."</l>
+                     <l>    Toropainen, toimen poika,</l>
+                     <l>    Alko aittoa katella;</l>
+                     <l>    Tääll' oli sukka sulhasmiehen,</l>
+                     <l>    Silkkihuiwi siiwon herran,</l>
+                     <l>    Puustawit sukalla suussa,</l>
+                     <l>    Nimi niekliin nenässä.</l>
+                     <l>    Rouhiainen mies rotowa</l>
+                     <l>    Otti nuoran orren päästä,</l>
+                     <l>    Sito siipehen sepälle,</l>
+                     <l>    Laitto langokset lewolle.</l>
+                     <l>    Runssilass' ol' ruoka walmis,</l>
+                     <l>    Kuopion kutut paremmat,</l>
+                     <l>    Waikkei tuolla eteen tuotu,</l>
+                     <l>    Kahwerokkaa kannettuna.</l>
+                     <l>    Ei ollut huolta huuhistasa,</l>
+                     <l>    Kysymistä kynnöstäsä,</l>
+                     <l>    Suurustähestä surua.</l>
+                  </lg>
+                  <lg>
+                     <l>    Wiel' on siitä wirttä tehty,</l>
+                     <l>    Kuin on käyty keräjissä,</l>
+                     <l>    Pelastettu Pellishuono</l>
+                     <l>    Likasilmän Liisan luoksi.</l>
+                     <l>    Monta kaunista waloa</l>
+                     <l>    Wannotahan siitä siellä,</l>
+                     <l>    Keräjissä käytäissä.</l>
+                     <l>    Roswon päälle päätettynä,</l>
+                     <l>    Kunnialta pois polettu;</l>
+                     <l>    Wiht' on wiimenen kuritus,</l>
+                     <l>    Musta penkki muiten nähä.</l>
+                     <l>    Joutu tieto Tikkaselle,</l>
+                     <l>    Äsken Tikka tielle joutu,</l>
+                     <l>    Miestä wirpojaa witoilla,</l>
+                     <l>    Painelee pajun wesoilla;</l>
+                     <l>    Uuen wuoen uutisiksi,</l>
+                     <l>    Wanhan wuoen wastuksista.</l>
+                  </lg>
+                  <lg>
+                     <l>    Wirtt' on tehtynä wilussa,</l>
+                     <l>    Jalaksill' on jatkettuna,</l>
+                     <l>    Puolella Puhossaloa;</l>
+                     <l>    Waan ei tieä Jussi rukka,</l>
+                     <l>    Liekö suotu surmaksesa,</l>
+                     <l>    Kuolemaksi kohtailtu.</l>
+                  </lg>
+                  <p rend="justify">Ylistysruno Kalle Palmulle.</p>
+                  <lg>
+                     <l>    Kuule, kato, Kalle Palmu,</l>
+                     <l>    Jalo tolppari totinen!</l>
+                     <l>    Joka annot aiwan suuren,</l>
+                     <l>    Seurattawan selkiästi,</l>
+                     <l>    Esimerkin markkinoilla.</l>
+                     <l>    Tuhat miestä tunnustaapi,</l>
+                     <l>    Sata waimoa sanoopi,</l>
+                     <l>    Lapset laulawat sopissa,</l>
+                     <l>    Ettei monta markkinoilla</l>
+                     <l>    Palmun wertaista kuleksi.</l>
+                     <l>    Mont' on miestä markkinoilla,</l>
+                     <l>    Monta miestä, monta mieltä,</l>
+                     <l>    Paljon pahoja nimiä,</l>
+                     <l>    Waan on harwalta hywiä,</l>
+                     <l>    Hywän nimen haltioita.</l>
+                     <l>    Yksi ystäwä wakuuen,</l>
+                     <l>    Sekä totuuen toweri,</l>
+                     <l>    Kuulu puoissa puhuwan:</l>
+                     <l>    "Se on Palmullen parempi</l>
+                     <l>    Hyöty hywästä nimestä,</l>
+                     <l>    Kuin olla omistajana</l>
+                     <l>    Tuntemattoman tawaran."</l>
+                     <l>    Waan oli toisia toella,</l>
+                     <l>    Jotka sanoit tolwanaksi,</l>
+                     <l>    Perityhmäksi perustit.</l>
+                     <l>    Saatua tämän sanoman,</l>
+                     <l>    Tämän kumman kuultuasa,</l>
+                     <l>    Taskuwarkaat ne wapisi,</l>
+                     <l>    Roswot rohkiat häpesi,</l>
+                     <l>    Metän worot woiwotteli,</l>
+                     <l>    Wetty silmät weiarien,</l>
+                     <l>    Wiekas nauro ja wihelsi.</l>
+                     <l>    Kuin sen kuuli kunnon herrat,</l>
+                     <l>    Kiitteliwät Ruotin kielen,</l>
+                     <l>    Sekä Suomeksi sanoiwat,</l>
+                     <l>    Ettei monta markkinoilla</l>
+                     <l>    Kallen kaltaista käwele.</l>
+                     <l>    Suottaherrat ne sohatti:</l>
+                     <l>    "Piru olkoon pitäisinkin</l>
+                     <l>    Toisen puolen palkastani,</l>
+                     <l>    Elikä enemmän wielä."</l>
+                     <l>    Talon poika pohjalainen!</l>
+                     <l>    Mitäs mahtaisit sanoa,</l>
+                     <l>    Jos sen joku toinen miesi</l>
+                     <l>    Ylös ottanut olisi?</l>
+                     <l>    Eipä hiiret hiiskahtaisi,</l>
+                     <l>    Pentu haukkuisi perähän.</l>
+                     <l>    Waan se wakaa Kalle Palmu,</l>
+                     <l>    Jalo tolppari totinen,</l>
+                     <l>    Ylös otti yksinäsä,</l>
+                     <l>    Tieltä tempasi rahasi,</l>
+                     <l>    Eikä pistä powehesa,</l>
+                     <l>    Taskuhusa tarkottele.</l>
+                     <l>    Kysy kyllä kiiruhusti,</l>
+                     <l>    Tieusteli taitawasti,</l>
+                     <l>    Rahan oikiaa isäntää.</l>
+                     <l>    Kuin sun kuuli kulkeneeksi,</l>
+                     <l>    Tiesi tielle joutuneeksi,</l>
+                     <l>    Heti kyllä sai hewosen,</l>
+                     <l>    Jolla jouwutti jälestä,</l>
+                     <l>    Oisit antanut ilolla</l>
+                     <l>    Suuren summan palkaksesa,</l>
+                     <l>    Löytiäisiksi lykännyt,</l>
+                     <l>    Waan ei ota ollenkana,</l>
+                     <l>    Toisen rahoja rakasta.</l>
+                     <l>    Tästä siis nähään toella</l>
+                     <l>    Ettei kaikki Suomen kansa,</l>
+                     <l>    Eikä lapset Rautalammen,</l>
+                     <l>    Wiel' oo tuiki turmeltuna,</l>
+                     <l>    Tärwättynä kaikki tyyni.</l>
+                     <l>    Saattaapi sataluwuissa</l>
+                     <l>    Miehen toisenkin tawata</l>
+                     <l>    Rehellisen retkilläsä,</l>
+                     <l>    Waelluksessaan wakawan.</l>
+                     <l>    Etten liialla lorulla</l>
+                     <l>    Wirttä pitkäksi wenytä,</l>
+                     <l>    Lamahuta lauluani,</l>
+                     <l>    Päästän wirteni wälehen,</l>
+                     <l>    Annan lopun ajallasa;</l>
+                     <l>    Mahan mainita sanalla</l>
+                     <l>    Hänen waltawanhemmasta:</l>
+                     <l>    Se oli ukko ulkomaalta,</l>
+                     <l>    Kowa korpraali soassa,</l>
+                     <l>    Tähen täyen miehuutesa</l>
+                     <l>    Kahen kantawa ritarin,</l>
+                     <l>    Jotka Kalle kaunistaapi,</l>
+                     <l>    Poika puhtaana pitääpi.</l>
+                  </lg>
+                  <p rend="justify">Viiteselitykset:</p>
+                  <p rend="justify">[1] Peuran.</p>
+                  <p rend="justify">[2] Wetenä, lähteenä.</p>
+                  <p rend="justify">[3] Kultasena.</p>
+                  <p rend="justify">[4] Toisin: waiwa.</p>
+                  <p rend="justify">[5] Wäinämöisen ja Ilmarisen.</p>
+                  <p rend="justify">[6] Luonnottarien.</p>
+                  <p rend="justify">[7] Toisin: Tahto maa pyhä puheta.</p>
+                  <p rend="justify">[8] T. Wuorehen hopeisehen.</p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,874 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Philoctète</title>
+            <author>André Gide</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-01T19:23:34Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">odts/fr-odts/GideAndré-Philoct_2023.epub.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>André Gide</name>
+               <date>2024-01-01T19:23:34Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Philoctète</head>
+         <author>André Gide</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">odts/fr-odts/GideAndré-Philoct_2023.epub.odt</p>
+         <p>ANDRÉ GIDE</p>
+         <pb/>
+         <div type="div1">
+            <head>PHILOCTÈTE</head>
+            <lg>
+               <l>LE TRAITÉ DU NARCISSE</l>
+               <l>LA TENTATIVE AMOUREUSE</l>
+               <l>EL HADJ</l>
+            </lg>
+            <lg>
+               <l>PARIS</l>
+               <l>ÉDITION DV MERCVRE DE FRANCE</l>
+               <l>XV, RVE DE L’ÉCHAVDÉ-SAINT-GERMAIN, XV</l>
+            </lg>
+            <p rend="justify">M DCCC XCIX<lb/>Tous droits réservés</p>
+            <p rend="justify">DU MÊME AUTEUR :</p>
+            <table rend="frame" xml:id="Table1">
+               <row>
+                  <cell>André Walter (<hi rend="italic">Les cahiers.</hi> — <hi rend="italic">Les poésies.</hi>)</cell>
+                  <cell rend="justify">épuisé.</cell>
+               </row>
+               <row>
+                  <cell>Le Voyage d’Urien, suivi de Paludes</cell>
+                  <cell rend="justify">1 vol.</cell>
+               </row>
+               <row>
+                  <cell>Les Nourritures terrestres</cell>
+                  <cell rend="justify">1 vol.</cell>
+               </row>
+               <row>
+                  <cell>Le Prométhée mal enchaîné</cell>
+                  <cell rend="justify">1 vol.</cell>
+               </row>
+            </table>
+            <p rend="justify">Tiré à trois cents exemplaires sur vergé d’Arches, numérotés de 1 à 300.</p>
+            <p rend="justify">EXEMPLAIRE N<hi rend="sup">o</hi>
+            </p>
+            <p rend="justify">Droits de traduction et de reproduction réservés pour tous pays, y compris la Suède, la Norvège et le Danemark.</p>
+            <pb/>
+            <div type="div2">
+               <head>PHILOCTÈTE<lb/>ou<lb/>LE TRAITÉ DES TROIS MORALES</head>
+               <p rend="justify">A Marcel Drouin.</p>
+               <p rend="justify">
+                  <hi rend="italic">Philoctète</hi>  n’a pas été écrit pour le théâtre. C’est un traité de morale, que je joins à ces trois autres traités, pour mieux montrer qu’il n’a pas de prétentions scéniques.</p>
+               <p rend="justify">
+                  <hi rend="italic">Philoctète</hi>  a paru dans la <hi rend="italic">Revue Blanche</hi>  du 1<hi rend="sup">er</hi>  décembre 1898.</p>
+               <div type="div3">
+                  <head>PREMIER ACTE</head>
+                  <p rend="justify">
+                     <hi rend="italic">Ciel gris et bas sur une plaine de neige et de glace.</hi>
+                  </p>
+                  <div type="div4">
+                     <head>SCÈNE I</head>
+                     <p rend="justify">ULYSSE et NÉOPTOLÈME</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Ulysse, tout est prêt. La barque est amarrée. J’ai choisi l’eau profonde, à l’abri du Nord, de peur que le vent n’y congelât la mer. Et, bien que cette île si froide semble n’être habitée que par les oiseaux des falaises, j’ai rangé la barque en un lieu que nul passant des côtes ne pût voir.</p>
+                     <p rend="justify">Mon âme aussi s’apprête ; mon âme est prête au sacrifice. Ulysse ! parle, à présent ; tout est prêt. Durant quatorze jours, penché sur les rames ou sur la barre, tu n’as dit que les brutales paroles des manœuvres qui devaient nous garer des flots ; devant ton silence obstiné mes questions bientôt s’arrêtèrent ; je compris qu’une grande tristesse oppressait ton âme chérie parce que tu me menais à la mort. Et je me tus aussi, sentant que toutes les paroles nous étaient trop vite emportées, par le vent, sur l’immensité de la mer. J’attendis. Je vis s’éloigner derrière nous, derrière l’horizon de la mer, la belle plage skyrienne où mon père avait combattu, puis les îles de sable d’or ou de pierre, que j’aimais parce que je les croyais semblables à Pylos ; treize fois j’ai vu le soleil entrer dans la mer ; chaque matin il ressortait des flots plus pâle et pour monter moins haut plus lentement ; jusqu’à ce qu’enfin, au quatorzième matin, c’est en vain que nous l’attendîmes ; et depuis nous vivons comme hors de la nuit et du jour. Des glaces ont flotté sur la mer ; et ne pouvant plus dormir à cause de cette constante lueur pâle, les seuls mots que j’entendais de toi, c’était pour me signaler les banquises dont un coup d’aviron nous sauvait. A présent, parle, Ulysse ! mon âme est apprêtée ; et non comme les boucs de Bacchus qu’on mène au sacrifice couverts des ornements des fêtes, mais comme Iphigénie s’avança vers l’autel, simple, décente et non parée. Certes, j’eusse voulu, comme elle, pour ma patrie, mourant sans plaintes, mourir au sein des Grecs, sur une terre ensoleillée, et montrer par ma mort acceptée tout mon respect des dieux et toute la beauté de mon âme : elle est vaillante et n’a pas combattu. Il est dur de mourir sans gloire… pourtant, ô dieux ! je suis sans amertume, ayant lentement tout quitté, les hommes, les plages au soleil… et maintenant, arrivés sur cette île inhospitalière, sans arbres, sans rayons, où la neige couvre les verdures, où toutes choses sont gelées, et sous un ciel si blanc, si gris, qu’il semble au-dessus de nous une autre plaine de neige étendue, loin de tout, loin de tout… il semble que ce soit là déjà la mort, et, tant ma pensée à chaque heure devenait plus froide et plus pure, la passion s’étant abandonnée, qu’il ne reste ici plus qu’au corps à mourir.</p>
+                     <p rend="justify">Au moins, Ulysse, dis-moi que, par mon sang fidèle, le mystérieux Zeus contenté va permettre aux Grecs la victoire ; au moins, Ulysse ! tu leur diras, dis, que pour cela je meurs sans crainte… tu leur diras…</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Enfant, tu ne dois pas mourir. Ne souris pas. A présent je te parlerai. Écoute-moi sans m’interrompre. Plût aux dieux que le sacrifice de l’un de nous deux les contentât ! Ce que nous venons faire ici, Néoptolème, est moins aisé que de mourir…</p>
+                     <p rend="justify">Cette île qui te paraît déserte ne l’est point. Un Grec l’habite ; il a nom Philoctète et ton père l’aimait. Jadis il s’embarquait avec nous sur la flotte qui, pleine d’espoir et d’orgueil, quittait la Grèce pour l’Asie ; c’était l’ami d’Hercule et l’un des nobles parmi nous ; si tu n’avais vécu jusqu’ici loin du camp, tu saurais déjà son histoire. Qui n’admirait alors sa vaillance ? et qui ne la nomma plus tard témérité ? Ce fut elle qui sur une île inconnue, devant qui s’arrêtèrent nos rames, l’emporta. L’aspect des bords était étrange ; les présages mauvais avaient altéré nos courages. L’ordre des dieux ayant été, nous dit Calchas, de sacrifier sur cette île, chacun de nous attendait que quelque autre voulût descendre ; c’est alors que s’offrit en souriant Philoctète. Sur la plage de l’île un perfide serpent le piqua. Ce fut en souriant d’abord que Philoctète rembarqué nous montra près du pied sa petite blessure. Elle empira. Philoctète cessa bientôt de sourire ; son visage pâlit, puis ses regards troublés s’emplirent d’une angoisse ignorée. Au bout de quelques jours son pied tuméfié s’alourdit ; et lui, qui ne s’était jamais plaint, commença de lamentablement gémir. D’abord chacun s’empressait près de lui pour le consoler, le distraire ; rien n’y pouvait ; il aurait fallu le guérir ; et, quand il fut prouvé que l’art de Machaon n’avait sur sa blessure aucune prise, — comme aussi bien ses cris menaçaient d’affaiblir nos courages, — le navire ayant approché d’une autre île, de celle-ci, nous l’y laissâmes, seul avec son arc et ses flèches qui vont nous occuper aujourd’hui.</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Quoi ! seul ! vous le laissâtes, Ulysse ?</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Eh ! s’il eût dû mourir, nous eussions pu je crois le garder quelque temps encore. Mais non — sa blessure n’est pas mortelle.</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Mais alors ?</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Mais alors devions-nous soumettre la vaillance d’une armée à la détresse, aux lamentations d’un seul homme ? On voit bien que tu ne l’entendis pas !</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Ses cris étaient-ils donc affreux ?</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Non, pas affreux : plaintifs, humectant de pitié nos âmes.</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Quelqu’un ne pouvait-il du moins rester, veiller sur lui ? Malade et seul ici, que peut-il faire ?</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Il a son arc.</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Son arc ?</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Oui : l’arc d’Hercule. Et puis je dois te dire, enfant : son pied pourri exhalait par tout le navire la plus intolérable puanteur.</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Ah !</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Oui. Puis il était absorbé par son mal, incapable à jamais de nouveau dévouement pour la Grèce…</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Tant pis. Et nous alors, Ulysse, nous venons…</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Écoute encore, Néoptolème : tu sais, devant Trojà longuement condamnée, combien de sang versé, et de vertu, de patience et de courage ; les foyers délaissés et la chère patrie… Rien de tout cela n’a suffi. Par le prêtre Calchas les dieux ont enfin déclaré que seuls l’arc d’Hercule et ses flèches, par une dernière vertu, permettraient la victoire à la Grèce. Voilà pourquoi tous deux partis — que béni soit le sort qui nous a désignés ! — il semble qu’à présent abordés sur cette île si reculée, toute passion étant abandonnée, nos grands destins enfin vont se résoudre, et notre cœur ici plus complètement dévoué va parvenir enfin à la vertu la plus parfaite.</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Est-ce tout, Ulysse ? Et maintenant, ayant bien parlé, que comptes-tu faire ? car mon esprit se refuse encore à comprendre complètement tes paroles… Dis : pourquoi sommes-nous venus ici ?</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Pour prendre l’arc d’Hercule ; ne l’as-tu pas compris ?</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Ulysse, est-ce là ta pensée ?</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Non la mienne, mais celle que les dieux m’ont donnée.</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Philoctète ne voudra pas nous le donner.</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Aussi nous en emparerons-nous par la ruse.</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Ulysse, je te hais. Mon père m’apprit à ne jamais me servir de la ruse.</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Elle est plus forte que la force : celle-ci n’attend pas. Ton père est mort, Néoptolème ; je suis vivant.</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Et ne disais-tu pas qu’il valait mieux mourir ?</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Non qu’il valait mieux, mais qu’il était plus aisé de mourir. Rien n’est trop malaisé pour la Grèce.</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Ulysse ! pourquoi m’as-tu choisi ? Et qu’avais-tu besoin de moi pour cet acte que toute mon âme désapprouve ?</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Parce que cet acte, je ne peux, moi, le faire : Philoctète me connaît trop. S’il me voit seul, il va soupçonner quelque ruse. Ton innocence protégera. Cet acte, il faut que ce soit toi qui le fasses.</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Non, Ulysse ; par Zeus, je ne le ferai point.</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Enfant, ne parle pas de Zeus. Tu ne m’as pas compris. Écoute-moi. Parce que mon âme tourmentée se cache et qu’elle accepte, me crois-tu moins triste que toi ? Tu ne connais pas Philoctète, et Philoctète est mon ami. Il m’est plus dur qu’à toi de le trahir. Les ordres des dieux sont cruels ; ils sont les dieux. Si je ne te parlais pas dans la barque, c’est que mon grand cœur attristé ne songeait même plus aux paroles… Mais tu t’emportes comme faisait ton père et tu n’entends plus la raison.</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Mon père est mort, Ulysse ; n’en parle pas, il est mort pour la Grèce. Ah ! pour elle lutter, souffrir, mourir — demande-moi ce que tu veux, — mais pas trahir un ami de mon père !</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Enfant, écoute et réponds-moi : n’es-tu pas l’ami de tous les Grecs avant d’être l’ami d’un seul ? ou plutôt, la patrie n’est-elle pas plus qu’un seul ? et souffrirais-tu de sauver un homme s’il te fallait pour le sauver perdre la Grèce ?</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Ulysse, tu dis vrai, je ne le souffrirais pas.</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Et tu conviens que, si l’amitié est une chose très précieuse, la patrie est chose plus précieuse encore ?… Dis-moi, Néoptolème, en quoi consiste la vertu ?</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Enseigne-moi, sage fils de Laerte.</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Calme ta passion ; soumets tout au devoir…</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Mais quel est le devoir, Ulysse ?</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">La voix des dieux, l’ordre de la cité, l’offrande de nous à la Grèce, et, comme l’on voit les amants chercher alentour sur la terre les plus précieuses fleurs en dons à faire à leur maîtresse, et désirer mourir pour elle, comme s’ils n’avaient, malheureux, rien de mieux à donner qu’eux-mêmes, s’il est vrai que ta patrie te soit chère, que saurais-tu lui donner de trop cher ? et ne convins-tu pas tout à l’heure qu’après elle aussitôt venait l’amitié ? Qu’avait Agamemnon de plus cher que sa fille, si ce n’était pas la patrie ? Comme sur un autel, immole… mais qu’a de même Philoctète, en cette île où tout seul il vit, qu’a-t-il de plus précieux que cet arc, en don à faire à la patrie ?</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Mais, Ulysse, en ce cas, demande-lui.</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Il pourrait refuser. Je ne connais pas son humeur, mais sais que son délaissement l’irrita contre les chefs de l’armée. Peut-être irrite-t-il les dieux par sa pensée et cesse-t-il horriblement de nous souhaiter la victoire. Et peut-être les dieux offensés ont-ils voulu par nous le châtier encore. En le forçant à la vertu par l’abandon obligé de ses armes, les dieux seront pour lui moins sévères.</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Mais, Ulysse, les actes que l’on fait malgré soi peuvent-ils être méritoires ?</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Ne crois-tu pas, Néoptolème, qu’il importe avant tout que les ordres des dieux s’accomplissent ? fussent-ils accomplis sans l’aveu de chaque homme ?</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Tout ce que tu disais avant, je l’approuvais ; mais à présent je ne sais plus que dire, et même il me paraît…</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Chut ! Écoute… N’entends-tu rien ?</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Si : le bruit de la mer.</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Non. C’est lui ! Ses cris horribles commencent de parvenir jusqu’à nous.</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Horribles !? Ulysse, j’entends des chants mélodieux au contraire.</p>
+                     <p rend="justify">ULYSSE (<hi rend="italic">prêtant l’oreille.</hi>)</p>
+                     <p rend="justify">C’est vrai qu’il chante ! Il est bien bon ! A présent qu’il est seul, il chante ! Quand c’était près de nous, il criait.</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Que chante-t-il ?</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">On ne peut encore distinguer les paroles. Écoute : il se rapproche cependant.</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Il cesse de chanter. Il s’arrête. Il a vu nos pas sur la neige.</p>
+                     <p rend="justify">ULYSSE (<hi rend="italic">riant</hi>.)</p>
+                     <p rend="justify">Et voilà qu’il recommence à crier. Ah ! Philoctète !</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">En effet, ses cris sont horribles.</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Va ; cours porter sur ce roc mon épée ; qu’il reconnaisse une arme grecque et sache que les pas qu’il voyait sont ceux d’un homme de sa patrie. — Hâte-toi. Le voilà qui s’approche. — C’est bien. — Viens à présent ; postons-nous derrière ce tertre de neige ; nous le verrons sans être vus. Quelles imprécations va-t-il faire ! « Malheureux, dira-t-il, et périssent les Grecs qui m’ont abandonné ! Chefs de l’armée ! toi, fourbe Ulysse ! vous, Agamemnon, Ménélas ! Puissent-ils à leur tour être dévorés par mon mal ! O ! mort ! mort que j’appelle chaque jour, resteras-tu sourde à ma plainte ? ne pourras-tu jamais venir ? O antre ! rochers ! promontoires ! muets témoins de mes douleurs, ne pourrez-vous jamais… »</p>
+                     <p rend="justify">(<hi rend="italic">Philoctète entre ; il aperçoit le casque et les armes posés au milieu du théâtre.</hi>)</p>
+                  </div>
+                  <div type="div4">
+                     <head>SCÈNE II</head>
+                     <p rend="justify">PHILOCTÈTE, ULYSSE, NÉOPTOLÈME</p>
+                     <p rend="justify">PHILOCTÈTE</p>
+                     <p rend="justify">(<hi rend="italic">Il se tait.</hi>)</p>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>DEUXIÈME ACTE</head>
+                  <div type="div4">
+                     <head>SCÈNE I</head>
+                     <p rend="justify">ULYSSE, PHILOCTÈTE, NÉOPTOLÈME<lb/>(<hi rend="italic">Tous trois sont assis.</hi>)</p>
+                     <p rend="justify">PHILOCTÈTE</p>
+                     <p rend="justify">Certes, Ulysse, ce n’est que depuis que je suis loin des autres que je comprends ce qu’on appelle la vertu. L’homme qui vit parmi les autres est incapable, incapable, crois-moi, d’une action pure et vraiment désintéressée. Ainsi, vous… vîntes ici… pourquoi ?…</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Mais pour te voir, cher Philoctète.</p>
+                     <p rend="justify">PHILOCTÈTE</p>
+                     <p rend="justify">Je n’en crois rien et peu m’importe ; le plaisir que j’ai de vous revoir est grand et me suffit. J’ai perdu le talent de chercher les motifs des actes, depuis que les miens n’en ont plus de secrets. Ce que je suis, pour qui le paraîtrais-je ? J’ai souci d’être seulement. J’ai cessé de gémir, sachant qu’ici nulle oreille ne peut m’entendre, cessé de souhaiter, sachant qu’ici je ne pouvais rien obtenir.</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Que ne cessas-tu de gémir plus tôt, Philoctète ? Nous t’eussions gardé près de nous.</p>
+                     <p rend="justify">PHILOCTÈTE</p>
+                     <p rend="justify">C’est ce qu’il ne fallait pas, Ulysse. Près des autres mon silence eût été mensonge.</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Tandis qu’ici ?</p>
+                     <p rend="justify">PHILOCTÈTE</p>
+                     <p rend="justify">Ma souffrance n’a plus besoin de mots pour se connaître, n’étant connue que de moi.</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Alors, depuis notre départ tu t’es tu, Philoctète ?</p>
+                     <p rend="justify">PHILOCTÈTE</p>
+                     <p rend="justify">Non pas. Mais depuis que je ne m’en sers plus pour manifester ma souffrance, ma plainte est devenue très belle, à ce point que j’en suis consolé.</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Tant mieux, mon pauvre Philoctète.</p>
+                     <p rend="justify">PHILOCTÈTE</p>
+                     <p rend="justify">Ne me plains pas, surtout ! J’ai cessé de souhaiter, te disais-je, sachant que je ne pouvais rien obtenir… Rien obtenir du dehors, il est vrai, mais beaucoup obtenir de moi-même ; c’est depuis lors que je souhaite la vertu ; mon âme y est toute employée, et je repose, malgré ma douleur, dans le calme ; — j’y reposais du moins, quand vous êtes venus… Tu souris ?</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Je vois que tu as su t’occuper.</p>
+                     <p rend="justify">PHILOCTÈTE</p>
+                     <p rend="justify">Tu m’écoutes sans me comprendre. — N’estimes-tu pas la vertu ?</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Si : la mienne.</p>
+                     <p rend="justify">PHILOCTÈTE</p>
+                     <p rend="justify">Quelle est-elle ?</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Tu m’écouterais sans me comprendre… Parlons des Grecs plutôt. Ta vertu solitaire t’a-t-elle fait cesser de te souvenir d’eux ?</p>
+                     <p rend="justify">PHILOCTÈTE</p>
+                     <p rend="justify">Pour cesser de m’irriter contre eux, oui certes.</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Entends ! Néoptolème. — Ainsi le succès du combat pour lequel…</p>
+                     <p rend="justify">PHILOCTÈTE</p>
+                     <p rend="justify">… vous m’avez laissé… que veux-tu que j’en pense, Ulysse ? Si vous m’avez laissé, c’était pour vaincre, n’est-ce pas ? J’espère donc pour vous que vous êtes vainqueurs…</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Et sinon ?</p>
+                     <p rend="justify">PHILOCTÈTE</p>
+                     <p rend="justify">Sinon nous aurions cru l’Hellas trop grande. Moi, dans cette île, je me suis fait, comprends, de jour en jour moins Grec, de jour en jour plus homme… Pourtant, quand je vous vois, je sens… Achille est mort, Ulysse ?</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Achille est mort ; celui qui m’accompagne est son fils. Quoi ! tu sanglotes, Philoctète ?… ce calme si cherché…</p>
+                     <p rend="justify">PHILOCTÈTE</p>
+                     <p rend="justify">Achille !… Enfant, laisse ma main flatter ton front si beau… Voilà longtemps, longtemps que ma main n’a touché que des corps froids ; et même les corps des oiseaux que je tue, tombant sur les flots ou la neige, sont, lorsque mes mains s’en approchent, glacés comme ces régions supérieures de l’atmosphère qu’ils traversent…</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Tu t’exprimes bien, pour quelqu’un qui souffre.</p>
+                     <p rend="justify">PHILOCTÈTE</p>
+                     <p rend="justify">Où que j’aille et toujours je suis fils de la Grèce.</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Mais tu n’as plus à qui parler.</p>
+                     <p rend="justify">PHILOCTÈTE</p>
+                     <p rend="justify">Je te l’ai dit ; ne m’as-tu pas compris ? Je m’exprime mieux depuis que je ne parle plus à des hommes. Mon occupation entre la chasse et le sommeil est la pensée. Mes idées, dans la solitude, et comme rien, même la douleur, ne les dérange, ont pris un cours subtil que parfois je ne suis qu’avec peine. J’ai compris sur la vie plus de secrets que ne m’en avaient révélés tous mes maîtres. Je m’occupais aussi à me raconter mes douleurs, et, si la phrase était très belle, j’en étais d’autant consolé ; parfois même j’oubliais ma tristesse, à la dire. Je compris que les mots sont plus beaux dès qu’ils ne servent plus aux demandes. N’ayant plus, près de moi, d’oreilles ni de bouches, je n’employais que la beauté de mes paroles ; je les criais à toute l’île, le long des plages ; et l’île en m’écoutant semblait moins solitaire ; la nature semblait pareille à ma tristesse ; il me semblait que j’en étais la voix et que les rochers muets l’attendissent pour raconter leurs maladies ; car j’ai compris qu’autour de moi tout est malade… et que ce froid n’est pas normal, car je me souviens de la Grèce… Et je pris lentement l’habitude de clamer la détresse plutôt des choses que la mienne ; je trouvais cela mieux, comment te dire ? d’ailleurs cette détresse était la même et j’étais autant consolé. Puis c’est en parlant de la mer et de la vague interminable que je fis mes plus belles phrases. Te l’avouerai-je, Ulysse, — Ulysse ! — certaines étaient si belles que j’en sanglotais de tristesse qu’aucun homme ne les pût ouïr. Son âme, il me semblait, en eût été changée. Écoute, Ulysse ! écoute. On ne m’a pas encore entendu.</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Tu pris l’habitude, je vois, de parler sans qu’on t’interrompe. Allons, récite :</p>
+                     <p rend="justify">PHILOCTÈTE (<hi rend="italic">déclamant</hi>.)</p>
+                     <p rend="justify">« Sourires infinis des flots de la mer… »</p>
+                     <p rend="justify">ULYSSE (<hi rend="italic">riant</hi>.)</p>
+                     <p rend="justify">Mais Philoctète, c’est de l’Eschyle.</p>
+                     <p rend="justify">PHILOCTÈTE</p>
+                     <p rend="justify">Peut-être… Cela te gêne…?</p>
+                     <p rend="justify">(<hi rend="italic">Reprenant.</hi>)</p>
+                     <p rend="justify">« Sanglots infinis des flots de la mer… »</p>
+                     <p rend="justify">(<hi rend="italic">Silence.</hi>)</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Et puis…</p>
+                     <p rend="justify">PHILOCTÈTE</p>
+                     <p rend="justify">Je ne sais plus… je suis troublé.</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Tant pis ! tu continueras une autre fois.</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">O ! si tu continuais, Philoctète !</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Tiens ! l’enfant t’écoutait !…</p>
+                     <p rend="justify">PHILOCTÈTE</p>
+                     <p rend="justify">Je ne sais plus parler.</p>
+                     <p rend="justify">ULYSSE (<hi rend="italic">se lève</hi>.)</p>
+                     <p rend="justify">Je te laisse un instant rechercher ta pensée. A bientôt, Philoctète. — Mais, dis : il n’est point captivité si dure, qu’elle n’ait tel repos, tel oubli, tel répit ?…</p>
+                     <p rend="justify">PHILOCTÈTE</p>
+                     <p rend="justify">En effet, Ulysse ; un jour, un oiseau tomba, que j’avais tiré, que ma flèche n’avait que blessé, que j’espérai faire revivre. Mais comment garder cette émotion aérienne et qui volait, au ras de cette terre ardue où le froid donne à l’eau même, gelée, la forme de mes logiques pensées. L’oiseau mourut ; je l’ai vu mourir en une heure ; pour l’échauffer encore, je l’étouffais de baisers et d’haleines. Il est mort du besoin de voler…</p>
+                     <p rend="justify">Même, il me semble, cher Ulysse, que le torrent de poésie, sitôt quitté mes lèvres, se glace, et meurt de ne pouvoir se propager, et que se réduit toujours plus l’infime flamme qui l’anime. Bientôt, vivant toujours, je serai tout abstrait. Le froid m’envahit, cher Ulysse, et je m’épouvante à présent, car j’y trouve, et dans sa rigueur même, une beauté.</p>
+                     <p rend="justify">Je marche sûrement sur les choses et sur les fluides durcis. Sans plus rêver jamais, je pense. Je ne goûte plus d’espérance, et pour cela ne suis plus jamais enivré. Quand ici, où tout est pierre dure, je pose quoi… fût-ce une graine, je la retrouve, longtemps après, la même ; elle n’a jamais germiné. Ici, rien ne devient, Ulysse : tout est, demeure. Enfin, l’on peut ici spéculer ! — J’ai gardé l’oiseau mort ; le voici ; l’air trop froid l’empêche à jamais de pourrir. Et mes actes, Ulysse, et mes paroles, comme gelées, permanent, m’entourent comme un cercle de roches posées. Et les retrouvant là, chaque jour, toute passion se tait, je sens la Vérité toujours plus — et je voudrais mes actions de même toujours plus solides et plus belles ; vraies, pures, cristallines, belles, belles, Ulysse, comme ces cristaux de clair givre, où, si le soleil paraissait, le soleil tout entier paraîtrait au travers. Je ne veux empêcher aucun rayon de Zeus ; qu’il me traverse, Ulysse, comme un prisme, et que cette lumière réfractée fasse mes actes adorables. Je voudrais parvenir à la plus grande transparence, à la suppression de mon opacité, et que, me regardant agir, toi-même sentes la lumière…</p>
+                     <p rend="justify">ULYSSE (<hi rend="italic">partant.</hi>)</p>
+                     <p rend="justify">Allons, adieu. (<hi rend="italic">Montrant Néoptolème.</hi>) Cause avec lui, puisqu’il t’écoute. (<hi rend="italic">Il sort.</hi>) (<hi rend="italic">Silence.</hi>)</p>
+                  </div>
+                  <div type="div4">
+                     <head>SCÈNE II</head>
+                     <p rend="justify">PHILOCTÈTE, NÉOPTOLÈME</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Philoctète ! enseigne-moi la vertu…</p>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>TROISIÈME ACTE</head>
+                  <div type="div4">
+                     <head>SCÈNE I</head>
+                     <p rend="justify">PHILOCTÈTE (<hi rend="italic">Il entre.</hi>)</p>
+                     <p rend="justify">PHILOCTÈTE (<hi rend="italic">bouleversé par la surprise et la douleur.</hi>)</p>
+                     <p rend="justify">Aveugle Philoctète ! reconnais ton erreur et pleure ta folie ! Qu’avoir revu des Grecs ait pu charmer ton cœur… Ai-je bien entendu ? — Certes : Ulysse était assis, et près de lui Néoptolème ; ne me sachant point près, ils n’avaient même pas baissé la voix ; Ulysse, conseillant Néoptolème, lui apprenait à me trahir ; il lui disait… Malheureux Philoctète ! c’est pour ravir ton arc qu’ils sont revenus jusqu’à toi ! Comme ils en ont besoin !… Précieux arc, oh ! l’unique bien qui me reste, et sans lequel… (<hi rend="italic">Il prête l’oreille.</hi>) On vient ! Défends-toi, Philoctète ! ton arc est bon, ton bras est sûr. Vertu ! vertu, je te chérissais tant, solitaire ! Mon cœur silencieux s’était calmé, loin d’eux. Ah ! je sais maintenant ce que vaut l’amitié qu’ils proposent ! Est-ce la Grèce, ma patrie ? Ulysse que je hais, et toi Néoptolème… comme il m’écoutait cependant ! Quelle douceur ! Enfant… aussi beau, oh ! plus beau que n’était beau ton père… Comment un front si pur cache-t-il une telle pensée ? « La vertu », disait-il, « Philoctète, apprends-moi la vertu. » Que lui disais-je ? Je ne me souviens plus que de lui… Et qu’importe à présent ce que je pus lui dire !… (<hi rend="italic">Il écoute.</hi>) Des pas !… Qui vient ? Ulysse ! (<hi rend="italic">Il saisit son arc.</hi>) Non, c’est… Néoptolème. (<hi rend="italic">Entre Néoptolème.</hi>)</p>
+                  </div>
+                  <div type="div4">
+                     <head>SCÈNE II</head>
+                     <p rend="justify">PHILOCTÈTE et NÉOPTOLÈME</p>
+                     <p rend="justify">NÉOPTOLÈME (<hi rend="italic">appelant</hi>.)</p>
+                     <p rend="justify">… Philoctète ! (<hi rend="italic">Il l’aperçoit.</hi>) Ah ! (<hi rend="italic">il s’approche et, comme défaillant</hi>) ah ! je suis malade…</p>
+                     <p rend="justify">PHILOCTÈTE</p>
+                     <p rend="justify">Malade ?…</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">C’est toi qui m’as troublé. Rends-moi le calme, Philoctète. Tout ce que tu m’as dit a germé dans mon cœur. Tandis que tu parlais, je ne savais pas que répondre. J’écoutais ; mon cœur s’ouvrait naïf à tes paroles. Depuis que tu t’es tu, j’écoute encore. Mais voici, tout se trouble et je suis dans l’attente. Parle ! je n’ai pas assez entendu… Il faut se dévouer, disais-tu…?</p>
+                     <p rend="justify">PHILOCTÈTE (<hi rend="italic">fermé</hi>.)</p>
+                     <p rend="justify">… Se dévouer.</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Mais Ulysse aussi me l’enseigne. Se dévouer à quoi, Philoctète ? Il dit que c’est à la patrie…</p>
+                     <p rend="justify">PHILOCTÈTE</p>
+                     <p rend="justify">… A la patrie.</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Ah ! parle, Philoctète ; tu dois continuer, à présent.</p>
+                     <p rend="justify">PHILOCTÈTE (<hi rend="italic">se dérobant</hi>.)</p>
+                     <p rend="justify">Enfant… sais-tu tirer de l’arc ?</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Oui. Pourquoi ?</p>
+                     <p rend="justify">PHILOCTÈTE</p>
+                     <p rend="justify">Pourrais-tu bander celui-ci ?…</p>
+                     <p rend="justify">NÉOPTOLÈME (<hi rend="italic">déconcerté.</hi>)</p>
+                     <p rend="justify">Tu veux… Je ne sais. (<hi rend="italic">Il essaie.</hi>) Oui ; peut-être. — Voilà !</p>
+                     <p rend="justify">PHILOCTÈTE (<hi rend="italic">à part.</hi>)</p>
+                     <p rend="justify">Quelle facilité ! Il semble que ce soit…</p>
+                     <p rend="justify">NÉOPTOLÈME (<hi rend="italic">indécis.</hi>)</p>
+                     <p rend="justify">Et maintenant…</p>
+                     <p rend="justify">PHILOCTÈTE</p>
+                     <p rend="justify">J’ai vu ce que je voulais voir. (<hi rend="italic">Il reprend l’arc.</hi>)</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Je ne te comprends pas.</p>
+                     <p rend="justify">PHILOCTÈTE</p>
+                     <p rend="justify">N’importe, hélas !… (<hi rend="italic">Il se ravise.</hi>) Écoute, enfant. Ne crois-tu pas les dieux au-dessus de la Grèce, et les dieux plus importants qu’elle ?</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Non, par Zeus, je ne le crois pas.</p>
+                     <p rend="justify">PHILOCTÈTE</p>
+                     <p rend="justify">Et pourquoi donc, Néoptolème ?</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Car les dieux que je sers ne servent que la Grèce.</p>
+                     <p rend="justify">PHILOCTÈTE</p>
+                     <p rend="justify">Eh quoi ! Sont-ils soumis ?</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Non soumis… je ne sais comment dire… Mais, vois ! tu sais qu’on ne les connaît pas hors la Grèce ; la Grèce est leur pays aussi bien que le nôtre ; en servant celle-ci, je les sers ; ils ne diffèrent pas de ma patrie.</p>
+                     <p rend="justify">PHILOCTÈTE</p>
+                     <p rend="justify">Pourtant, vois, moi je puis t’en parler, moi qui ne suis plus de la Grèce — et… je les sers…</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Crois-tu ? — Ah ! pauvre Philoctète ! on ne s’échappe pas aisément de la Grèce… et même…</p>
+                     <p rend="justify">PHILOCTÈTE (<hi rend="italic">attentif.</hi>)</p>
+                     <p rend="justify">Et même ?…</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Ah ! si tu savais… Philoctète…</p>
+                     <p rend="justify">PHILOCTÈTE</p>
+                     <p rend="justify">Si je savais… quoi ?…</p>
+                     <p rend="justify">NÉOPTOLÈME (<hi rend="italic">se reprenant.</hi>)</p>
+                     <p rend="justify">Non, parle, toi ; je suis venu pour écouter ; tu interroges… Et je sens bien qu’Ulysse et toi, votre vertu n’est pas la même… Mais quand il faut parler, toi qui parlais si bien, tu hésites… Se dévouer à quoi, Philoctète ?</p>
+                     <p rend="justify">PHILOCTÈTE</p>
+                     <p rend="justify">J’allais te dire : aux dieux… Mais c’est donc qu’au-dessus des dieux, Néoptolème, il y a quelque chose.</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Au-dessus des dieux !</p>
+                     <p rend="justify">PHILOCTÈTE</p>
+                     <p rend="justify">Oui, puisque je n’agis pas comme Ulysse.</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Se dévouer à quoi, Philoctète ? Au-dessus des dieux, qu’y a-t-il ?</p>
+                     <p rend="justify">PHILOCTÈTE</p>
+                     <p rend="justify">Il y a… (<hi rend="italic">Il se prend la tête dans les mains, comme accablé.</hi>) Je ne sais plus. Je ne sais pas… Ah ! ah ! soi-même !… Je ne sais plus parler, Néoptolème…</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Se dévouer à quoi ? Dis, Philoctète…</p>
+                     <p rend="justify">PHILOCTÈTE</p>
+                     <p rend="justify">… Se dévouer… se dévouer…</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Tu pleures !</p>
+                     <p rend="justify">PHILOCTÈTE</p>
+                     <p rend="justify">Enfant ! Ah ! si je pouvais te montrer la vertu… (<hi rend="italic">Il se dresse brusquement.</hi>) J’entends Ulysse ! Adieu… (<hi rend="italic">Il s’écarte et dit en s’en allant :</hi>) Te reverrai-je ?</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Adieu. (<hi rend="italic">Entre Ulysse.</hi>)</p>
+                  </div>
+                  <div type="div4">
+                     <head>SCÈNE III</head>
+                     <p rend="justify">ULYSSE et NÉOPTOLÈME</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Viens-je à temps ? Qu’a-t-il dit ? As-tu bien parlé, mon élève ?</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Grâce à toi, mieux que lui. Mais qu’importe ? — Ulysse… il m’a donné son arc à tendre !…</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Son arc ! quelle plaisanterie ! — Et que ne l’as-tu donc gardé, fils d’Achille ?</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Que vaut un arc sans flèches ? Tandis que j’avais l’arc, il retenait les flèches prudemment.</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">L’habile ami !… Se doute-t-il, crois-tu ? Que disait-il ?</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Oh ! rien, ou presque !</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Et t’a-t-il récité de nouveau sa vertu ?</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Lui qui parlait si bien naguère, dès mes questions, il s’est tu.</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Tu vois !…</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Et quand j’ai demandé à quoi l’on peut se dévouer, qui ne soit pas toujours la Grèce, il m’a dit…</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Il t’a dit ?…</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Qu’il ne savait pas. Et quand j’ai dit que les dieux mêmes, ainsi que tu m’avais appris, s’y soumettaient, il a répondu : C’est alors qu’au-dessus des dieux, il y a…</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Quoi ?</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Il m’a dit qu’il ne savait pas.</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Eh ! tu vois bien, Néoptolème !…</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Non, Ulysse, il me semble que je le comprends, à présent.</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Que tu comprends quoi ?</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Quelque chose. Car enfin, dans cette île si solitaire, quand nous n’étions pas là, à quoi se dévouait Philoctète ?</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Mais, tu l’as dit : à rien. A quoi sert la vertu solitaire ? Malgré tout ce qu’il croit, elle s’exhalait sans emploi. A quoi servent toutes ses phrases, belles tant qu’il voudra… T’a-t-il convaincu ? — Ni moi non plus.</p>
+                     <p rend="justify">S’il vit ainsi, seul dans cette île, je te l’ai bien prouvé, c’était pour délivrer l’armée de ses gémissements et de sa puanteur ; c’est là son premier dévouement, c’est là sa vertu, quoi qu’il dise. Sa seconde vertu, ce sera, s’il est si vertueux, de se bien consoler, quand il aura perdu son arc, en songeant que c’est pour la Grèce. Quel autre dévouement s’imagine, qui ne soit pas pour la patrie ? Il attendait vois-tu, que nous vinssions l’offrir… Mais, comme il pourrait refuser, mieux nous vaut forcer sa vertu, lui imposer le sacrifice — et je crois plus prudent de l’endormir. Vois ce flacon…</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Ah ! ne parle pas trop, Ulysse… Philoctète, lui se taisait.</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">C’est qu’il n’avait plus rien à dire.</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Et c’est pour cela qu’il pleurait ?</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Il pleurait de s’être trompé.</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Non, c’est à cause de moi qu’il pleurait.</p>
+                     <p rend="justify">ULYSSE (<hi rend="italic">souriant.</hi>)</p>
+                     <p rend="justify">De toi ?… Ce qu’on commence par sottise, par orgueil on l’appelle vertu.</p>
+                     <p rend="justify">NÉOPTOLÈME (<hi rend="italic">éclate en sanglots.</hi>)</p>
+                     <p rend="justify">Ulysse ! tu ne comprends pas Philoctète…</p>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>QUATRIÈME ACTE</head>
+                  <div type="div4">
+                     <head>SCÈNE I</head>
+                     <p rend="justify">PHILOCTÈTE, NÉOPTOLÈME<lb/>(<hi rend="italic">Philoctète est seul, assis ; il semble accablé de douleur — ou médite.</hi>)</p>
+                     <p rend="justify">NÉOPTOLÈME (<hi rend="italic">entre en courant.</hi>)</p>
+                     <p rend="justify">Que je le trouve à temps !… Ah ! c’est toi, Philoctète. En hâte, écoute-moi. Ce que nous venions faire ici est indigne ; mais, sois plus grand que nous : pardonne-moi. Nous venions… oh ! j’ai honte à le dire… te voler ton arc, Philoctète !…</p>
+                     <p rend="justify">PHILOCTÈTE</p>
+                     <p rend="justify">Je le savais.</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Tu ne me comprends pas… c’est te voler ton arc, te dis-je… Ah ! défends-toi !</p>
+                     <p rend="justify">PHILOCTÈTE</p>
+                     <p rend="justify">Contre qui ? Contre toi ? dis, mon Néoptolème.</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Non certes contre moi : je t’aime et te préviens.</p>
+                     <p rend="justify">PHILOCTÈTE</p>
+                     <p rend="justify">Et tu trahis Ulysse…</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Et suis au désespoir… C’est à toi que je me dévoue. M’aimes-tu ? Parle, Philoctète. Est-ce que c’est là la vertu ?</p>
+                     <p rend="justify">PHILOCTÈTE</p>
+                     <p rend="justify">Enfant !…</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Vois ce que je t’apporte. Cette fiole a pour mission de t’endormir. Mais moi je te la donne. Voici. Est-ce de la vertu ? — Parle-moi.</p>
+                     <p rend="justify">PHILOCTÈTE</p>
+                     <p rend="justify">Enfant ! on ne parvient que pas à pas à la vertu supérieure ; ce que tu fais ici n’est qu’un bond.</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Alors enseigne-moi, Philoctète.</p>
+                     <p rend="justify">PHILOCTÈTE</p>
+                     <p rend="justify">Cette fiole était pour m’endormir, dis-tu ? (<hi rend="italic">Il la prend et la regarde.</hi>) Petite fiole… toi, du moins, ne manque pas ton but ! Vois-tu ce que je fais, Néoptolème ? (<hi rend="italic">Il boit.</hi>)</p>
+                     <p rend="justify">NÉOPTOLÈME</p>
+                     <p rend="justify">Quoi ! malheureux, mais c’est…</p>
+                     <p rend="justify">PHILOCTÈTE</p>
+                     <p rend="justify">Je me dévoue. Préviens Ulysse. Tu lui diras… qu’il peut venir.</p>
+                     <p rend="justify">(<hi rend="italic">Néoptolème épouvanté sort en courant et en criant.</hi>)</p>
+                  </div>
+                  <div type="div4">
+                     <head>SCÈNE II</head>
+                     <p rend="justify">PHILOCTÈTE, puis ULYSSE et NÉOPTOLÈME</p>
+                     <p rend="justify">PHILOCTÈTE, <hi rend="italic">seul</hi>.</p>
+                     <p rend="justify">Et tu m’admireras, Ulysse ; je te veux contraindre à m’admirer. Ma vertu monte sur la tienne et tu te sens diminué. Exalte-toi, vertu de Philoctète ! satisfais-toi de ta beauté ! Néoptolème, que ne pris-tu mon arc tout de suite ? Plus tu m’aimais, plus cela t’était difficile : tu ne t’es pas assez dévoué. Prends-les… (<hi rend="italic">Il regarde.</hi>) Il n’est plus là…</p>
+                     <p rend="justify">Ce breuvage avait un goût affreux ; d’y penser, mon cœur se soulève ; je voudrais m’endormir plus vite… De tous les dévouements, le plus fou c’est celui pour les autres, car alors on leur devient supérieur. Je me dévoue, oui, mais ce n’est pas pour la Grèce… Je ne regrette qu’une chose, c’est que mon dévouement serve la Grèce… Et non, je ne le regrette même pas… Mais alors, ne me remercie pas : c’est pour moi que j’agis, non pour toi. — Ulysse, tu m’admireras, n’est-ce pas ? — Mais, m’admireras-tu, Ulysse ? — Ulysse ! Ulysse ! où donc es-tu ? Comprends : je me dévoue, mais ce n’est pas pour la patrie… c’est pour autre chose, comprends ; c’est pour… quoi ? Je ne sais pas. Vas-tu comprendre ? Ulysse ! tu vas croire peut-être que je me dévoue pour la Grèce ! Ah ! cet arc et ces flèches vont y servir !… Où les jeter ? — La mer ! la mer ! (<hi rend="italic">Il veut courir, mais retombe vaincu par le breuvage.</hi>) Je suis sans force. Ah ! ma tête se trouble… Il va venir…</p>
+                     <p rend="justify">Vertu ! vertu ! je cherche dans ton nom amer un peu d’ivresse ; l’aurais-je déjà toute épuisée ? L’orgueil qui me soutient chancelle et cède ; je fuis de toutes parts. « Pas de bonds ; pas de bonds », lui disais-je. Ce que l’on entreprend au-dessus de ses forces, Néoptolème, voilà ce qu’on appelle vertu. Vertu… je n’y crois plus, Néoptolème. Mais écoute-moi donc, Néoptolème ! Néoptolème, il n’y a pas de vertu. — Néoptolème !… Il n’entend plus… (<hi rend="italic">Il tombe accablé et s’endort.</hi>)</p>
+                     <p rend="justify">ULYSSE (<hi rend="italic">entrant et voyant Philoctète.</hi>)</p>
+                     <p rend="justify">Et maintenant, laisse-moi seul avec lui.</p>
+                     <p rend="justify">(<hi rend="italic">Néoptolème en proie à la plus vive émotion hésite à se retirer.</hi>)</p>
+                     <p rend="justify">Eh oui ! va n’importe où ; cours apprêter la barque, si tu veux.</p>
+                     <p rend="justify">(<hi rend="italic">Néoptolème sort.</hi>)</p>
+                     <p rend="justify">ULYSSE, <hi rend="italic">seul</hi>  (<hi rend="italic">s’approche de Philoctète et se penche.</hi>)</p>
+                     <p rend="justify">Philoctète !… Tu ne m’entends donc plus, Philoctète ? — Tu ne m’entendras plus ? — Que faire ? J’aurais voulu te dire… que tu m’as vaincu, Philoctète. Et je vois la vertu, maintenant ; et je la sens si belle, que près de toi je n’ose plus agir. Mon devoir m’apparaît plus cruel que le tien, parce qu’il m’apparaît moins auguste. Ton arc… je ne peux plus, je ne veux plus le prendre : tu l’as donné. — Néoptolème est un enfant : qu’il obéisse. Ah ! le voilà ! (<hi rend="italic">Impératif.</hi>) Et maintenant Néoptolème, prends l’arc et les flèches, et va les porter à la barque.</p>
+                     <p rend="justify">(<hi rend="italic">Néoptolème désolé s’approche de Philoctète, se penche, puis se jette à genoux et baise Philoctète au front.</hi>)</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Je te l’ordonne. M’avoir trahi ne serait pas assez ? Veux-tu trahir aussi ta patrie ? Vois comme il s’y est dévoué.</p>
+                     <p rend="justify">(<hi rend="italic">Néoptolème soumis prend l’arc et les flèches et s’éloigne.</hi>)</p>
+                     <p rend="justify">ULYSSE, <hi rend="italic">seul</hi>.</p>
+                     <p rend="justify">Et maintenant, adieu, dur Philoctète. Est-ce que tu m’as beaucoup méprisé ? Ah ! je voudrais savoir… Je voudrais qu’il sache que je le trouve admirable… et que… grâce à lui, nous vaincrons.</p>
+                     <p rend="justify">NÉOPTOLÈME (<hi rend="italic">de loin appelle.</hi>)</p>
+                     <p rend="justify">Ulysse !!</p>
+                     <p rend="justify">ULYSSE</p>
+                     <p rend="justify">Me voici.</p>
+                     <p rend="justify">(<hi rend="italic">Il sort.</hi>)</p>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>CINQUIÈME ACTE</head>
+                  <p rend="justify">
+                     <hi rend="italic">Philoctète est seul, sur un rocher. Le soleil se lève dans un ciel parfaitement bleu. Au loin sur la mer fuit une barque. Philoctète la regarde longuement.</hi>
+                  </p>
+                  <p rend="justify">PHILOCTÈTE (<hi rend="italic">murmure très calme.</hi>)</p>
+                  <p rend="justify">Ils ne reviendront plus ; ils n’ont plus d’arc à prendre… — Je suis heureux.</p>
+                  <p rend="justify">(<hi rend="italic">Sa voix est devenue extraordinairement belle et douce ; des fleurs autour de lui percent la neige, et les oiseaux du ciel descendent le nourrir.</hi>)</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>LE TRAITÉ DU NARCISSE</head>
+               <p rend="justify">(THÉORIE DU SYMBOLE)</p>
+               <p rend="justify">
+                  <hi rend="italic">A Paul Valéry.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Nuper me in littore vidi.</hi>
+               </p>
+               <p rend="justify">Virgile.</p>
+               <p rend="justify">
+                  <hi rend="italic">Le Traité du Narcisse</hi>  parut dans les <hi rend="italic">Entretiens politiques et littéraires</hi>, numéro de janvier 1891 ; puis, presque sitôt après, à la librairie de l’Art indépendant.</p>
+               <p rend="justify">Les livres ne sont peut-être pas une chose bien nécessaire ; quelques mythes d’abord suffisaient. Une religion y tenait tout entière. Le peuple s’étonnait à l’apparence des fables et sans comprendre il adorait ; les prêtres attentifs, penchés sur la profondeur des images, pénétraient lentement l’intime sens du hiéroglyphe. Puis, on a voulu expliquer ; les livres ont amplifié les mythes ; — mais quelques mythes suffisaient.</p>
+               <p rend="justify">Ainsi le mythe du Narcisse : <hi rend="italic">Narcisse était parfaitement beau, — et c’est pourquoi il était chaste ; il dédaignait les Nymphes — parce qu’il était amoureux de lui-même. Aucun souffle ne troublait la source, où, tranquille et penché, tout le jour il contemplait son image…</hi>  — Vous savez l’histoire. Pourtant nous la dirons encore. Toutes choses sont dites déjà ; mais comme personne n’écoute, il faut toujours recommencer.</p>
+               <p rend="justify">Il n’y a plus de berge ni de source ; plus de métamorphose et plus de fleur mirée ; — rien que le seul Narcisse, donc, qu’un Narcisse rêveur et s’isolant sur des grisailles. En la monotonie inutile de l’heure il s’inquiète, et son cœur incertain s’interroge. Il veut connaître enfin quelle forme a son âme ; elle doit être, il sent, excessivement adorable, s’il en juge par ses grands frémissements ; mais son visage ! son image ! Ah ! ne pas savoir si l’on s’aime… ne pas connaître sa beauté ! Je me confonds, dans ce paysage sans lignes, qui ne contrarie pas ses plans. Ah ! ne pas pouvoir se voir ! Un miroir ! un miroir ! un miroir ! un miroir !</p>
+               <p rend="justify">Et Narcisse qui ne doute pas que sa forme ne soit quelque part, se lève et part à la recherche des contours souhaités pour envelopper enfin sa grande âme.</p>
+               <p rend="justify">Au bord du fleuve du temps, Narcisse s’est arrêté. Fatale et illusoire rivière où les années passent et s’écoulent. Simples bords, comme un cadre brut où s’enchâsse l’eau, comme une glace sans tain ; où rien ne se verrait derrière, où derrière le vide ennui s’éploierait. Un ennuyeux, un léthargique canal, un presque horizontal miroir ; et rien ne distinguerait de l’ambiance incolorée cette eau grise, si l’on ne sentait qu’elle coule.</p>
+               <p rend="justify">De loin, Narcisse a pris le fleuve pour une route, et comme il s’ennuyait, tout seul dans tout ce gris, il s’est approché pour voir passer des choses. Les mains sur le cadre, maintenant, il se penche, dans la traditionnelle posture. Et voici que comme il regarde, sur l’eau soudain se diapre une mince apparence. — Fleurs des rives, troncs d’arbres, fragments de ciel bleu reflété, toute une fuite de rapides images qui n’attendaient que lui pour être, et qui sous son regard se colorent. Puis des collines s’ouvrent et des forêts s’échelonnent au long des pentes des vallées, — visions qui selon le cours des eaux ondulent, et que les flots diversifient. Narcisse regarde émerveillé ; — mais ne comprend pas bien, car l’une et l’autre se balancent, si son âme guide le flot, ou si c’est le flot qui la guide.</p>
+               <p rend="justify">Où Narcisse regarde, c’est le présent. Du plus lointain futur, les choses, virtuelles encore, se pressent vers l’être ; Narcisse les voit, puis elles passent ; elles s’écoulent dans le passé. Narcisse trouve bientôt que c’est toujours la même chose. Il interroge ; puis médite. Toujours des mêmes formes passent ; l’élan du flot, seul les différencie. — Pourquoi plusieurs ? ou bien pourquoi les mêmes ? — C’est donc qu’elles sont imparfaites, puisqu’elles recommencent toujours… et toutes, pense-t-il, s’efforcent et se tendent vers quelque chose, vers une forme première perdue, — paradisiaque et cristalline.</p>
+               <p rend="justify">Narcisse rêve au paradis.</p>
+               <div type="div3">
+                  <head>
+                     <label>I</label>
+                  </head>
+                  <p rend="justify">Le Paradis n’était pas grand ; parce que parfaites, les formes n’y fleurissaient chacune qu’une fois, et un jardin les tenait toutes. — S’il était, ou s’il n’était pas, que nous importe ? mais il était tel, s’il était — comme la forme la plus parfaite de Dieu. Tout s’y cristallisait en une forme nécessaire, et tout était parfaitement ainsi que tout devait être. — Tout demeurait immobile, car rien ne souhaitait d’être mieux. La seule calme gravitation faisait lentement évoluer l’ensemble.</p>
+                  <p rend="justify">Et comme aucun élan ne cesse, dans le Passé ni dans l’Avenir, le Paradis n’était pas devenu, — il était simplement depuis toujours.</p>
+                  <p rend="justify">Chaste Éden ! Jardin ! jardin des Idées, où les formes, rhythmiques et sûres, révélaient sans effort leur nombre ; où chaque chose était ce qu’elle paraissait ; car prouver était inutile.</p>
+                  <p rend="justify">Éden ! où les brises chanteuses ondulaient en courbes prévues ; où le ciel étalait l’azur sur la pelouse symétrique ; où les oiseaux étaient couleur du temps et les papillons sur les fleurs faisaient des harmonies providentielles ; où les roses étaient roses parce que les cétoines étaient vertes, qui venaient c’est pourquoi s’y poser. Tout était parfait comme un nombre et se scandait normalement ; un accord émanait du rapport des lignes ; sur le jardin planait une uniforme symphonie.</p>
+                  <p rend="justify">Au centre de l’Éden, Ygdrasil, l’arbre logarithmique, plongeait dans le sol ses racines de vie, et promenait sur la pelouse autour, l’ombre épaisse de son feuillage, où s’éployait la seule Nuit. Dans l’ombre, contre son tronc, s’appuyait le livre du Mystère — où se lisait la vérité qu’il faut connaître. Et le vent, en soufflant dans les feuilles de l’arbre, en épelait, le long du jour, les hiéroglyphes nécessaires.</p>
+                  <p rend="justify">Adam, religieux, écoutait. Unique, encore insexué, il demeurait assis à l’ombre du grand arbre. L’homme ! Hypostase de l’Élohim, suppôt de la Divinité ! pour lui, par lui, les formes apparaissent. Immobile et central de toute cette féerie, il la regarde qui se déroule.</p>
+                  <p rend="justify">Mais, spectateur obligé, toujours, d’un spectacle où il n’a pas de rôle, que celui de regarder toujours, il se lasse. — Tout se joue pour lui, il le sait, — mais lui-même… — mais lui-même ne se voit pas. Et que lui fait tout le reste ? ah ! se voir ! — Certes il est puissant, puisqu’il crée et que ce monde entier se suspend après son regard, — mais connaît-il cette puissance, même, tant qu’elle reste inaffirmée ? Que lui sert-elle, cette puissance, tant qu’il ne se la prouvera pas ? — Vraiment, à force de regarder, il ne se distingue plus bien de ces choses : c’est insupportable, — ne pas savoir jusqu’où l’on va ! Car c’est un esclavage enfin, si l’on n’ose risquer un seul geste, sans perturber toute l’harmonie. — Et puis, tant pis ! cette harmonie m’agace, et son accord toujours parfait. Un geste ! un petit geste, pour savoir, — une dissonance, que diable ! — Eh ! va donc ! un peu d’imprévu.</p>
+                  <p rend="justify">Ah ! saisir ! saisir un rameau d’Ygdrasil entre ses doigts infatués, et qu’il le brise…</p>
+                  <p rend="justify">C’est fait.</p>
+                  <p rend="justify">… Une imperceptible fissure d’abord, un cri, mais qui germe, s’étend, s’exaspère, strident siffle et bientôt gémit comme une tempête. L’arbre Ygdrasil flétri chancelle et craque ; ses feuilles où jouaient les brises, frissonnantes et recroquevillées, se révulsent dans la bourrasque qui se lève et les emporte au loin, — vers l’inconnu d’un ciel nocturne et vers de hasardeux parages, où fuit l’éparpillement aussi des pages arrachées au grand livre sacré qui s’effeuille.</p>
+                  <p rend="justify">Vers le ciel est monté une vapeur, larmes, nuages qui retombent en larmes et qui remonteront en nuées : le temps est né.</p>
+                  <p rend="justify">Et l’Homme épouvanté, androgyne qui se dédouble, a pleuré d’angoisse et d’horreur, sentant, avec un sexe neuf, sourdre en lui l’inquiet désir pour cette moitié de lui presque pareille, cette femme tout à coup surgie, là, qu’il embrasse et qu’il voudrait reprendre, — cette femme qui dans l’aveugle effort de recréer un être parfait et d’arrêter là cette engeance, fera s’agiter en son sein l’inconnu d’une race nouvelle, et bientôt poussera dans le temps un autre être, incomplet encore et qui ne se suffira pas.</p>
+                  <p rend="justify">Triste race qui te disperseras sur cette terre de crépuscule et de prières, avec la vision quelquefois dans l’extase, du Paradis perdu et que tu rechercheras partout ; — race où naîtront pour te consoler, des prophètes, — et des poètes, car j’en suis, qui se souviendront d’un Éden et recueilleront pieusement les feuillets déchirés, du Livre immémorial où se lisaient les vérités qu’il faut connaître.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>II</label>
+                  </head>
+                  <p rend="justify">Si Narcisse se retournait, il verrait, je pense, quelque verte berge, un ciel peut-être, l’Arbre, la Fleur, quelque chose de stable enfin, et qui dure, mais dont le reflet tombant sur l’eau se brise et que la mobilité des flots diversifie.</p>
+                  <p rend="justify">Quand donc cette eau cessera-t-elle sa fuite ? et reposée enfin, stagnant miroir, dira-t-elle, en la pureté pareille de l’image, — pareille enfin, jusqu’à se confondre avec elles — les lignes de ces formes fatales, — jusqu’à les devenir, enfin.</p>
+                  <p rend="justify">Quand donc le temps, cessant sa fuite, laissera-t-il que cet écoulement se repose ? Formes, formes divines et pérennelles ! qui n’attendez que le repos pour reparaître, ô quand, dans quelle nuit, dans quel silence, vous recristalliserez-vous ?</p>
+                  <p rend="justify">Le Paradis est toujours à refaire ; mais il n’est point en quelque lointaine Thulé. Le Paradis est sous l’apparence. Chaque chose détient, virtuelle, l’intime harmonie de son être, comme chaque sel, en lui, l’archétype de son cristal ; — et vienne un temps de nuit tacite, où les eaux plus denses descendent : dans les abîmes imperturbés fleuriront les trémies secrètes…</p>
+                  <p rend="justify">Tout s’efforce vers sa forme perdue ; elle apparaît, mais salie, gauchie, et qui ne se satisfait pas, puisque toujours elle recommence ; pressée, heurtée par les formes d’auprès qui s’efforcent aussi chacune de paraître, — car, être ne suffit plus : il faut que l’on se prouve, — et l’orgueil infatue chacune. L’heure qui passe bouleverse tout.</p>
+                  <p rend="justify">Mais, comme le temps ne fuit que par la fuite des choses, chaque chose s’accroche et se crispe pour alentir un peu cette course et pouvoir apparaître mieux. Il est des époques alors, où les choses se font plus lentes, où le temps repose, — l’on croit ; — et comme le bruit, avec le mouvement, cesse, — tout se tait. On attend ; on comprend que l’instant est tragique et qu’il ne faut pas bouger.</p>
+                  <p rend="justify">« Il se fit dans le ciel un silence » ; prélude des apocalypses. — Oui tragiques, tragiques époques, où commencent des ères nouvelles, où le ciel et la terre se recueillent, où le livre aux VII sceaux va s’ouvrir, où tout va se fixer dans des postures éternelles… mais toujours quelque clameur importune surgit, qui bouleverse et passe.</p>
+                  <p rend="justify">Sur les plateaux élus où l’on croit que le temps va finir, — toujours quelques avides soldats qui se partagent des vêtements, et qui jouent aux dés des tuniques, — lorsque l’extase immobilise les saintes femmes, que le voile qui se déchire va livrer les secrets du temple ; quand toute la création contemple le Christ enfin qui se fige en la croix suprême, disant les dernières paroles : « Tout est consommé… »</p>
+                  <p rend="justify">… Et puis, non ! tout est à refaire, à refaire éternellement — parce qu’un joueur de dés n’avait pas arrêté son vain geste, parce qu’un soldat voulait gagner une tunique, parce que quelqu’un ne regardait pas.</p>
+                  <p rend="justify">Car la faute est toujours la même et qui reperd toujours le Paradis. L’individu qui songe à soi tandis que la Passion s’ordonne, et, comparse orgueilleux, ne se subordonne pas[1].</p>
+                  <p rend="justify">[1]  Les Vérités demeurent derrière les Formes — symboles. Tout phénomène est le Symbole d’une Vérité. Son seul devoir est qu’il la manifeste. Son seul péché : qu’il se préfère.</p>
+                  <p rend="justify">C’est là ce que je voudrais dire. J’y reviendrai toute ma vie ; je vois là toute la morale, et je crois que tout s’y ramène. Je ne veux que l’indiquer ici, en une note ; aussi bien, en ce mince traité, craindrais-je d’en faire éclater l’étroit cadre.</p>
+                  <p rend="justify">Nous vivons pour manifester. Les règles de la morale et de l’esthétique sont les mêmes : toute œuvre qui ne manifeste pas est inutile et par cela même, mauvaise. Tout homme qui ne manifeste pas est inutile et mauvais. (En s’élevant un peu, l’on verrait pourtant que tous manifestent — mais on ne doit le reconnaître qu’après).</p>
+                  <p rend="justify">Tout représentant de l’Idée tend à se préférer à l’Idée qu’il manifeste. Se préférer — voilà la faute. L’artiste, le savant, ne doit pas se préférer à la Vérité qu’il veut dire : voilà toute sa morale ; ni le mot, ni la phrase, à l’Idée qu’ils veulent montrer : je dirais presque, que c’est là toute l’esthétique.</p>
+                  <p rend="justify">Et je ne prétends pas que cette théorie soit nouvelle ; les doctrines de renoncement ne prêchent pas autre chose.</p>
+                  <p rend="justify">La question morale pour l’artiste, n’est pas que l’Idée qu’il manifeste soit plus ou moins morale et utile au grand nombre ; la question est qu’il la manifeste bien. — Car tout doit être manifesté, même les plus funestes choses : « Malheur à celui par qui le scandale arrive », mais : « Il faut que le scandale arrive. » — L’artiste et l’homme vraiment homme, qui vit pour quelque chose, doit avoir d’avance fait le sacrifice de lui-même. Toute sa vie n’est qu’un acheminement vers cela.</p>
+                  <p rend="justify">Et maintenant que manifester ? — On apprend cela dans le silence (1890).</p>
+                  <p rend="justify">Inépuisables messes, chaque jour, pour remettre le Christ en l’agonie, et le public en position de prière… un public ! — quand il faudrait prosterner l’humanité entière : — alors <hi rend="italic">une</hi>  messe suffirait.</p>
+                  <p rend="justify">Si nous savions être attentifs et regarder, que de choses nous verrions, peut-être…</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>III</label>
+                  </head>
+                  <p rend="justify">Le Poète est celui qui regarde. Et que voit-il ? — Le Paradis.</p>
+                  <p rend="justify">Car le Paradis est partout ; ne croyons pas les apparences. Les apparences sont imparfaites : elles balbutient les vérités qu’elles recèlent ; le Poète, à demi-mot, doit comprendre, — puis redire ces vérités. Est-ce que le Savant fait rien d’autre ? Lui aussi recherche l’archétype des choses et les lois de leur succession ; il recompose un monde enfin, idéalement simple, où tout s’ordonne normalement.</p>
+                  <p rend="justify">Mais, ces formes premières, le Savant les recherche, par une induction lente et peureuse, à travers d’innombrables exemples ; car il s’arrête à l’apparence, et, désireux de certitude, il se défend de deviner.</p>
+                  <p rend="justify">Le Poète, lui, qui sait qu’il crée, devine à travers chaque chose — et une seule lui suffit, symbole, pour révéler son archétype ; il sait que l’apparence n’en est que le prétexte, un vêtement qui la dérobe et où s’arrête l’œil profane, mais qui nous montre qu’Elle est là[2].</p>
+                  <p rend="justify">[2]  A-t-on compris que j’appelle symbole — <hi rend="italic">tout ce qui paraît</hi>.</p>
+                  <p rend="justify">Le Poète pieux contemple, il se penche sur les symboles, et silencieux descend profondément au cœur des choses, — et quand il a perçu, visionnaire, l’Idée, l’intime Nombre harmonieux de son Être, qui soutient la forme imparfaite, il la saisit, puis, insoucieux de cette forme transitoire qui le revêtait dans le temps, il sait lui redonner une forme éternelle, <hi rend="italic">sa</hi>  Forme véritable enfin, et fatale, — paradisiaque et cristalline.</p>
+                  <p rend="justify">Car l’œuvre d’art est un cristal — Paradis partiel où l’Idée refleurit en sa pureté supérieure ; où, comme dans l’Éden disparu, l’ordre normal et nécessaire a disposé toutes les formes dans une réciproque et symétrique dépendance, où l’orgueil du mot ne supplante pas la Pensée, — où les phrases rythmiques et sûres, symboles encore, mais symboles purs, où les paroles, se font transparentes et révélatrices.</p>
+                  <p rend="justify">De telles œuvres ne se cristallisent que dans le silence ; mais il est des silences parfois au milieu de la foule, où l’artiste réfugié, comme Moïse sur le Sinaï, s’isole, sort des choses, du temps, s’enveloppe d’une atmosphère de lumière au-dessus de la multitude affairée. En lui, lentement, l’Idée se repose, puis lucide s’épanouit hors les heures. Et comme elle n’est pas dans le temps, le temps ne pourra rien sur elle. Disons plus : on se demande si le Paradis, hors du temps lui-même, n’était peut-être jamais que là, — c’est-à-dire qu’idéalement[3]…</p>
+                  <p rend="justify">[3]  Relire la note 1, page 83.</p>
+                  <p rend="justify">Narcisse cependant contemple de la rive cette vision qu’un désir amoureux transfigure ; il rêve. Narcisse solitaire et puéril s’éprend de la fragile image ; il se penche, avec un besoin de caresse, pour étancher sa soif d’amour, sur la rivière. Il se penche et soudain, voici que cette fantasmagorie disparaît ; sur la rivière il ne voit plus que deux lèvres au devant des siennes, qui se tendent, deux yeux, les siens, qui le regardent. Il comprend que c’est lui, — qu’il est seul — et qu’il s’éprend de son visage. Autour, un azur vide, que ses bras pâles crèvent, tendus par le désir à travers l’apparence brisée, et qui s’enfoncent dans un élément inconnu.</p>
+                  <p rend="justify">Il se relève alors, un peu ; le visage s’écarte. La surface de l’eau comme déjà se diapre et la vision reparaît. Mais Narcisse se dit que le baiser est impossible, — il ne faut pas désirer une image ; un geste pour la posséder la déchire. Il est seul. — Que faire ? Contempler.</p>
+                  <p rend="justify">Grave et religieux il reprend sa calme attitude : il demeure — symbole qui grandit, — et, penché sur l’apparence du Monde, sent vaguement en lui, résorbées, les générations humaines qui passent.</p>
+                  <p rend="justify">Ce traité n’est peut-être pas quelque chose de bien nécessaire. Quelques mythes d’abord suffisaient. Puis on a voulu expliquer ; orgueil de prêtre qui veut révéler les mystères, afin de se faire adorer, — ou bien vivace sympathie, et cet amour apostolique, qui fait que l’on dévoile et qu’on profane en les montrant, les plus secrets trésors du temple, parce qu’on souffre d’admirer seul et qu’on voudrait que d’autres adorent.</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>LA TENTATIVE AMOUREUSE<lb/>ou<lb/>LE TRAITÉ DU VAIN DÉSIR</head>
+               <p rend="justify">
+                  <hi rend="italic">A Francis Jammes.</hi>
+               </p>
+               <p rend="justify">Le désir est comme une flamme brillante, et ce qu’il a touché n’est plus que de la cendre, — poussière légère qu’un peu de vent disperse — ne pensons donc qu’à ce qui est éternel.</p>
+               <p rend="justify">Caldéron (<hi rend="italic">La Vie est un Songe</hi>).</p>
+               <p rend="justify">La première édition de <hi rend="italic">La Tentative amoureuse</hi>  parut à la librairie de l’Art indépendant en 1893.</p>
+               <p rend="justify">
+                  <hi rend="italic">Ces livres n’auront pas été les récits très vrais de nous-mêmes, — mais plutôt nos tristes désirs, les souhaits d’autres vies à jamais défendues, et tous les gestes impossibles. Ici j’écris un rêve qui dérangeait trop ma pensée, et réclamait une existence. Un rêve de bonheur, ce printemps, m’a lassé ; j’ai souhaité de moi des éclosions plus parfaites. J’ai souhaité d’être heureux, comme si je n’avais rien d’autre à être, — comme si le passé, pas toujours, sur nous ne triomphe, — comme si la vie n’était pas faite de l’habitude de sa tristesse, et demain la suite d’hier, — comme si ne voici pas qu’aujourd’hui mon âme s’en retourne déjà vers ses études coutumières, sitôt délivrée de son rêve.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Et chaque livre n’est plus qu’une tentation différée.</hi>
+               </p>
+               <p rend="justify">Certes, ce ne seront ni les lois importunes des hommes, ni les craintes, ni la pudeur, ni le remords, ni le respect de moi ni de mes rêves, ni toi, triste mort, ni l’effroi d’après tombe, qui m’empêcheront de joindre ce que je désire ; ni rien — rien que l’orgueil, sachant une chose si forte, de me sentir plus fort encore et de la vaincre. — Mais la joie d’une si hautaine victoire — n’est pas si douce encore, n’est pas si bonne que de céder à vous, désirs, et d’être vaincu sans bataille.</p>
+               <p rend="justify">Lorsque le printemps vint cette année, je fus tourmenté par sa grâce ; et comme des désirs faisaient ma solitude douloureuse, je sortis au matin dans les champs. Tout le jour le soleil rayonna sur la plaine ; je marchai rêvant au bonheur. Certes il est, pensai-je, d’autres terres que ces landes désenchantées où je menais paître mon âme. Quand pourrai-je, loin de mes moroses pensées, promener au soleil toute joie, et dans l’oubli d’hier et de tant de religions inutiles, embrasser le bonheur qui viendra, fortement, sans scrupule et sans crainte ? Et je n’osai rentrer ce soir-là, sachant imaginer trop d’inquiétudes nouvelles ; je marchai vers les bois où déjà, jadis et tant de fois ma solitude s’était perdue. — La nuit vint et le clair de lune. Le bois se fit tranquille et s’emplit d’ombres merveilleuses ; le vent frémit ; les oiseaux de nuit s’éveillèrent. J’entrai dans une allée profonde où le sable à mes pieds luisait, et cette blancheur poursuivie me guidait. Entre les branches plus espacées, quand le vent agitait les arbres, on voyait flotter sur l’allée la forme insaisissable des brumes ; et comme au milieu de la nuit la rosée ruissela des feuilles, des parfums s’étant élevés, la forêt devint amoureuse. Il y eut des frémissements parmi l’herbe ; chaque forme cherchant, trouvant, faisant l’harmonie, les fleurs larges se balancèrent, et le pollen flotta, plus léger que la brume, en poussière. Une joie secrète et pâmée se sentait bruire sous les branches. J’attendais. Les oiseaux nocturnes pleurèrent. Puis tout se tut ; c’était le recueillement d’avant l’aube ; la joie devint sereine et ma solitude éperdue, sous la nuit pâle et conseillère.</p>
+               <p rend="justify">
+                  <hi rend="italic">Qualquiera ventio que sopla.</hi>
+               </p>
+               <p rend="justify">Poussière légère, qu’un peu de vent disperse.</p>
+               <div type="div3">
+                  <head>
+                     <label>I</label>
+                  </head>
+                  <p rend="justify">L’aube vint. Chargé de fleurs, Luc sortit du bois encore nocturne et transi un peu de fraîcheur matinale, il s’assit au talus de l’orée pour attendre le lever du soleil. Devant lui s’étalait une pelouse humide, de fleurs diaprée et d’eau vaporeuse et brillante. Luc attendait tout le bonheur, confiant, et pensant qu’il viendrait comme un essaim volant se pose et que pour lui déjà tout s’était mis en route. L’aurore frémissait d’une joie infinie et le printemps naissait d’un appel de sourires. Des chants vibrèrent et parut une ronde de jeunes filles. Folles et par l’herbe trempées, et les cheveux encore défaits de la nuit, elles cueillirent des fleurs toutes, et levant leur jupe en corbeille, laissèrent danser leurs pieds nus. Puis, de leurs rondes vite lassées, elles descendirent au bas du pré, vers les sources, s’y laver, s’y mirer, s’apprêter pour les plaisirs du jour. — En se quittant, chacune oublia ses compagnes. Rachel revint seule et songeuse ; elle reprit les fleurs tombées et se baissait en geste d’en cueillir de nouvelles, pour ne pas voir approcher Luc. Elle cueillait des boutons d’or, des sauges et des marguerites, et toutes les fleurs des prairies. Luc apportait les digitales des ravins et les jacinthes violettes. Il était tout près de Rachel ; maintenant elle tressait les fleurs. Luc voulait, mais n’osait joindre ses fleurs à la guirlande ; et soudain, les jetant à ses pieds : Ce sont les fleurs sombres des bois, dit-il, et je les ai cueillies dans l’ombre, — pour vous, puisque c’est vous qui parûtes ; j’avais cherché toute la nuit. Vous êtes belle comme le printemps cette année, et plus jeune encore que moi-même. Et j’ai vu ce matin vos pieds nus. Vous étiez avec vos compagnes et je n’osais pas m’approcher ; maintenant vous êtes la seule. Prenez mes fleurs et venez je vous prie ; apprenons-nous des joies charmantes.</p>
+                  <p rend="justify">Rachel souriait attentive ; Luc l’ayant prise par la main, ce fut ensemble qu’ils rentrèrent.</p>
+                  <p rend="justify">Le jour passa dans des jeux et des rires. Luc s’en retourna seul le soir. La nuit vint, pour lui, sans sommeil ; souvent, quittant son lit trop chaud, il marchait dans sa chambre, ou se penchait à la fenêtre ouverte. Il souhaitait d’être plus jeune et d’une bien plus grande beauté, pensant qu’entre deux êtres, l’amour a la splendeur de leur corps. — Toute la nuit Luc désira Rachel. Au matin il courut vers elle.</p>
+                  <p rend="justify">Une allée de lilas menait à sa demeure ; puis c’était un jardin plein de roses, enclos d’une barrière basse ; dès l’abord, Luc entendit Rachel chanter. Il resta jusqu’au soir, puis il revint le lendemain ; — il revint chaque jour ; à l’éveil il partait ; dans le jardin, Rachel attendait souriante.</p>
+                  <p rend="justify">Des jours passèrent ; Luc n’osait rien ; Rachel se livra la première. — Un matin, ne l’ayant pas trouvée sous la charmille accoutumée, Luc décida de monter à sa chambre. Rachel était assise sur le lit, les cheveux défaits, presque nue, couverte seulement d’un châle déjà presque tout retombé ; certes elle attendait. Luc arriva, rougit, sourit, — mais ayant vu ses jambes exquises si frêles, il y sentit une fragilité, et s’étant agenouillé devant elle, il baisa ses pieds délicats, puis ramena le pan du châle.</p>
+                  <p rend="justify">Luc souhaitait l’amour mais s’effrayait de la possession charnelle comme d’une chose meurtrie. Triste éducation que nous eûmes, qui nous fit pressentir sanglotante et navrée, ou bien morose et solitaire, la volupté pourtant si glorieuse et sereine. Nous ne demanderons plus à Dieu, de nous élever au bonheur. — Puis, non ! Luc n’était pas ainsi ; car c’est une dérisoire manie que de faire toujours pareil à soi, qui l’on invente. — Donc Luc posséda cette femme.</p>
+                  <p rend="justify">Comment dirai-je leur joie, à présent, — sinon en racontant, autour d’eux, la nature pareille, joyeuse aussi, participante. Leurs pensées n’étaient plus importantes : ne s’occupant que d’être heureux, leurs questions étaient des souhaits, et des assouvissements les réponses. Ils apprenaient les confidences de la chair et leur intimité devenait chaque jour plus secrète.</p>
+                  <p rend="justify">Un soir qu’il la quittait selon son habitude : Pourquoi partez-vous ? lui dit-elle ; si c’est pour quelque amour, c’est bien — allez — je ne suis pas jalouse. Sinon restez — venez : ma couche vous convie.</p>
+                  <p rend="justify">Il resta dès lors chaque nuit.</p>
+                  <p rend="justify">L’air était devenu plus tiède, la nuit si belle, qu’ils ne fermaient plus la croisée : ils dormaient ainsi sous la lune — et comme un rosier plein de fleurs montait, entourait la fenêtre, ils en avaient emprisonné des branches ; l’odeur des roses se mêlait à celle des bouquets dans la chambre. A cause de l’amour ils s’endormaient très tard ; ils avaient des réveils comme ceux de l’ivresse — très tard, encore fatigués de la nuit. Ils se lavaient dans une source claire, qui coulait du jardin, et Luc regardait Rachel se baigner nue sous les feuilles. — Puis ils partaient en promenade.</p>
+                  <p rend="justify">Souvent ils attendaient le soir, assis dans l’herbe et sans rien faire ; ils regardaient le soleil s’abaisser ; puis lorsque l’heure enfin s’était faite plus douce, ils regagnaient lentement la demeure. La mer n’était pas loin ; par les fortes marées, la nuit, on entendait faiblement le bruit des vagues. Parfois ils descendaient jusqu’à la plage ; c’était par une vallée étroite et tortueuse, sans ruisseau ; des ajoncs, des genêts y croissaient et le vent y chassait du sable ; puis la plage s’ouvrait : c’était un golfe, sans barques, sans navires ; pourtant la mer y était calme. L’on voyait, presque en face, sur la côte recourbée et qui semblait au loin former une île, en ce point même, l’on apercevait comme la grille fastueuse d’un parc ; au soir elle luisait comme de l’or. — Bientôt Rachel ne trouvait plus de coquilles dans le sable ; ils s’ennuyaient devant la mer.</p>
+                  <p rend="justify">Non loin aussi était un village, mais ils n’y passaient pas souvent à cause des pauvres.</p>
+                  <p rend="justify">Lorsqu’il pleuvait ou que, par nonchalance, ils n’allaient même pas dans les prés, Rachel étendue, Luc étant à ses pieds, le priait de lui dire une histoire : Parlez, disait-elle, j’écoute à présent ; ne cessez pas si je sommeille : racontez-moi des jardins au printemps, — vous savez bien, et ces hautes terrasses.</p>
+                  <p rend="justify">Et Luc racontait les terrasses, les marronniers en enfilade, les jardins suspendus sur la plaine : — au matin, des fillettes y venaient jouer et danser leurs rondes, et le soleil était encore si bas sur la plaine, que les arbres ne faisaient pas d’ombre.</p>
+                  <p rend="justify">Un peu plus tard, de grandes jeunes filles tranquilles entrèrent parmi les plates-bandes et préparèrent des guirlandes — comme vous en faisiez, Rachel. Vers midi des couples survinrent, — et, le soleil ayant passé sur les arbres, la voûte opaque des ramées fit l’allée, semblait-il, plus fraîche ; ceux qui s’y promenaient ne se parlaient plus qu’à voix basse. Un peu plus tard, comme elle était moins éblouie, on commença de voir la plaine où l’Été semblait épandu. Des promeneurs s’accoudèrent, se penchèrent aux balustrades ; des groupes de femmes s’assirent, les unes dévidaient des écheveaux de laine que d’autres employaient en ouvrages. Des heures s’écoulèrent. Vinrent des écoliers, les écoles finies ; des enfants jouèrent aux billes. Le soir tomba ; les promeneurs devinrent solitaires ; quelques-uns pourtant encore réunis, parlaient déjà du jour comme d’une chose finie. L’ombre de la terrasse descendit sur la plaine, et tout au bout de l’horizon, dans le ciel clair, la lune parut très fine et pure. — Je suis venu, la nuit errer sur la terrasse déserte… — Luc se tut et regarda Rachel, endormie au bruit des paroles.</p>
+                  <p rend="justify">Ils firent encore une promenade plus longue ; c’était à la fin du printemps. Ayant gravi la colline où leur maison se trouvait sise, ils trouvèrent à mi-côte, sur le versant opposé, un canal. Une rangée de peupliers le bordait ; un chemin en talus le suivait, puis le terrain continuait sa pente. Ayant pu traverser le canal sur un pont, le soleil qui brûlait les fit suivre le bord de l’eau. De la vallée une chaleur montait par vagues ; l’air vibrait sur les champs ; une grande route au loin poudroyait quand y passait une charrette ; ils virent l’Été sur la plaine. Le chemin, les arbres, le canal suivaient assidûment les courbes de la colline ; eux donc suivaient le canal sur la berge ; vers l’autre berge un petit bois venait finir. — Ce fut tout. Ils marchèrent ainsi très longtemps ; mais voyant que ça continuait indéfiniment, quand ils en eurent assez, ils revinrent.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>II</label>
+                  </head>
+                  <p rend="justify">Madame — c’est à vous que je conterai cette histoire. Vous savez que nos tristes amours se sont égarés dans la lande, et c’est vous qui vous plaigniez autrefois que j’eusse tant de peine à sourire. Cette histoire est pour vous : j’y ai cherché ce que donne l’amour ; si je n’ai trouvé que l’ennui, c’est ma faute : vous m’aviez désappris d’être heureux. — Que la joie est brève en un livre et qu’elle est vite racontée ; combien est banal un sourire sans vice et sans mélancolie ! Puis, que nous fait l’amour des autres, l’amour qui leur fait le bonheur[4]. — Tant pis pour eux, Luc et Rachel s’aimèrent ; pour l’unité de mon récit, ils ne firent même rien d’autre ; ils ne connurent de l’ennui que celui même du bonheur. — La cueillaison des fleurs était leur occupation monotone. Ils n’écartaient pas le désir pour une poursuite plus lointaine, et goûtaient peu les langueurs de l’attente. Ils ignoraient ce geste qui repousse cela même qu’on voudrait étreindre, — comme nous faisions, ah ! Madame — par la crainte de posséder et par amour du pathétique. — Ils cueillaient aussitôt toute fleur désirable, sans souci qu’entre leurs mains tièdes, elle ne fût trop vite fanée. — Heureux ceux qui comme eux pourront aimer sans conscience ! Ils en étaient à peine fatigués ; — car ce n’est pas tant l’amour, et ce n’est pas tant le péché que de s’en repentir, qui fatigue. Donc ils avaient pris cette coutume de regarder bien peu sur les eaux du passé leurs actions flottantes ; et leur joie à eux leur venait de l’ignorance de la tristesse ; ils ne se souvenaient que de baisers et de prises qu’on peut refaire. Il y eut alors un instant où leurs vies vraiment se fondirent. C’était au solstice d’Été ; dans l’air tout bleu, les hautes branches au-dessus d’eux avaient des gracilités souveraines.</p>
+                  <p rend="justify">[4]  Notre ennui vint surtout à cause du bonheur des autres, dont nous ne voulions pourtant pas.</p>
+                  <p rend="justify">Été ! Été ! Il faudrait chanter cela comme un cantique. — Cinq heures ; — je me suis levé ; voici l’aube, et je suis sorti par les champs. — S’ils savaient tout ce qu’il y a de rosée fraîche sur l’herbe, d’eau froide où laveront les pieds frissonnants du matin ; s’ils savaient les rayons sur les champs, et l’étourdissement de la plaine ; s’ils savaient l’accueil de sourires que l’aube fait à qui descend vers elle dans l’herbe, — ils ne resteraient pas à dormir, je suppose, — mais Luc et Rachel sont las des baisers de la nuit, et cette lassitude amoureuse a mis plus de sourires peut-être dans leurs rêves que l’aube n’en met dans les champs.</p>
+                  <p rend="justify">Un matin pourtant ils sortirent ; ils gagnèrent cette même vallée et ce canal qu’un jour de printemps ils suivaient ; mais ayant doublé la colline au lieu de la gravir, ils arrivèrent en un lieu où le canal rejoignait une large rivière ; le canal servait au halage ; ils passèrent l’eau sur une écluse et suivirent le chemin de halage, ayant à droite le canal, à gauche la rivière. Sur l’autre rive, était aussi une route. Et ces cinq routes parallèles dans l’étroite vallée, aussi loin qu’ils voyaient, s’enfonçaient. Leur promenade ce jour-là fut assez longue, mais pas intéressante à raconter.</p>
+                  <p rend="justify">Ils voulurent revoir la plage ; ils redescendirent la valleuse ; ils s’assirent devant la mer. Les flots d’une récente tempête avaient amené sur la grève des coquilles des profondeurs, des épaves et des lambeaux d’algue arrachés ; les vagues encore gonflées étourdissaient par une clameur continue. Et Rachel soudain eut une inquiétude : elle sentit que Luc commençait à penser. Un vent plus froid soufflait ; un frisson les saisit ; ils se levèrent. — Luc marcha devant, trop vite, un peu déclamatoire ; une poutre était là, déchiquetée et noire, pilotis inconnu, fragment de bateau, bois des îles… et tous deux devant cela s’arrêtèrent. Après, Luc regarda la mer ; Rachel, par besoin, par instinct, s’appuya sur Luc et pencha la tête contre son épaule, sentant confusément en lui l’angoisse et la soif d’aventures. Ils restaient debout. Le soleil s’en allait, s’enfonçait au delà du golfe, après le détroit, où l’on voyait entre les promontoires fuir au loin la ligne infinie de la mer.</p>
+                  <p rend="justify">Et, tandis que le soleil plongeait, alors, en face d’eux, comme sur une île, les grilles du parc inconnu, recevant les rayons mourants, commencèrent à briller d’une manière inexplicable et presque surnaturelle ; du moins il le leur parut à ceci qu’ils ne se dirent rien l’un à l’autre ; chaque barreau, plutôt d’acier que d’or, semblait luire de lui-même, intimement, ou à cause d’une excessive polissure ; le plus curieux c’était qu’on croyait voir par derrière la grille, encore que l’on n’aurait su dire quoi. Luc et Rachel sentirent, chacun, que l’autre n’osait pas en parler.</p>
+                  <p rend="justify">En revenant, Rachel trouva, sur le sable, un œuf de sèche, énorme, noir, élastique, et d’une bizarrerie de forme comme intentionnelle, tellement qu’ils la jugèrent importante pour eux, et en cherchèrent une cause.</p>
+                  <p rend="justify">Le souvenir de ce jour leur laissa une vague inquiétude, et songeant souvent malgré eux à ce parc, clos devant la mer, attirés, questionneurs, et n’ayant d’ailleurs pas de barque qui les y mène, ils résolurent d’y partir un matin, longeant les côtes, marchant jusqu’à ce qu’ils l’eussent trouvé.</p>
+                  <p rend="justify">Ils se levèrent avant l’aube, et se mirent en route ; l’heure était grise et fraîche encore ; ils marchèrent comme des pèlerins sérieux, silencieux, préoccupés, ayant un but autre qu’eux-mêmes ; et leur curiosité retombée laissait en eux comme le sentiment d’une tâche. — Mais n’en disons pas trop, Madame, car voici presque qu’ils nous plaisent. — Tant pis ! pour une fois ils marchèrent sans souci de la chaleur du jour, guidés par une pensée, — car ce n’était plus un désir. Et Rachel ne se plaignait pas des graviers roulants de la route, ou du sable mobile où les pieds appuyés s’enfonçaient ; — tantôt suivant la grève, tantôt à travers champs, — une fois remontant la berge d’une rivière jusqu’à ce qu’ils trouvassent un pont, — puis la redescendant ensuite, — puis à travers champs de nouveau. — Ah ! les voilà enfin qui parvinrent presque auprès du mur ; c’était le Parc ; — et pour mieux en défendre l’approche, l’eau de la mer amenée dans un fossé bâti de pierres, battait le pied du mur, et semblait se fermer sur lui, et ce mur avançait en digue, dans la mer, de sorte qu’on ne voyait rien de ce côté qu’un morne promontoire calcaire. Ils avancèrent. Le fossé cessa. Alors suivant le mur ils marchèrent. Le soleil était lourd ; la route devant eux s’allongeait ; — c’était l’heure où les murs des jardins n’ont pas d’ombre. Ils virent, presque sous le lierre et cachée, une petite porte fermée. Insensiblement le mur tournait, et le soleil, tournant aussi tandis que s’achevait le jour, semblait les suivre. Par-dessus le mur, des branches se penchaient, mais sans gestes. Il naissait de l’intérieur du parc, comme un bruit continu de rires, mais souvent les jets d’eaux font le bruit même de paroles. Tout d’un coup ils se retrouvèrent devant la mer. Alors ils furent pris par une grande tristesse, et ils s’assirent un peu, avant de se remettre en route pour revenir. Devant eux, ainsi que de l’autre côté un promontoire de pierre s’avançait dans la mer, et continuait le mur dont la mer battait le pied dans une douve infranchissable. Et la tristesse les pénétra, les remplit, entrant toute à la fois par la plus étroite fissure. — Surtout, ils étaient las de la course, et de ce qu’elle eût été vaine. — Le soleil maintenant disparaissait derrière le parc ; ils marchaient dans l’ombre envahissante du mur ; il leur parut un peu qu’elle avait en elle un mystère. Il leur semblait entendre par instants le bruit comme d’un jeu de doigts sur les vitres, mais ce bruit cessant sitôt qu’ils cessaient de marcher, ils le dirent causé par l’étourdissement de leur marche. Il était nuit déjà depuis longtemps lorsqu’ils rentrèrent.</p>
+                  <p rend="justify">Le lendemain, dans le repos du jour : Racontez-moi l’aube d’Été, dit Rachel, puisque me tient ici près de vous ma paresse. Luc commença :</p>
+                  <p rend="justify">C’était l’Été, mais avant l’aube ; les oiseaux ne chantaient pas encore ; la forêt s’éveillait à peine. — O ! pas une forêt, dit-elle ; une avenue. L’aube naît, et si les oiseaux ne chantent pas encore, c’est à cause de la vallée trop profonde où la nuit est encore attardée ; mais déjà des clartés blanchissent le haut des collines. — Vers ces clartés supérieures, reprit Luc, deux chevaliers s’aventurèrent, et vers le plateau qui domine, après avoir suivi toute la nuit la vallée. Ils étaient silencieux et graves, ayant marché longtemps dans l’ombre, et les hauts chênes de l’avenue, au-dessus d’eux étendaient leurs branches. Leurs chevaux montaient lentement la route toute droite escarpée. Tandis qu’ils montaient augmentait autour d’eux la lumière. Sur le plateau le jour parut. — Sur le plateau s’étendait une autre avenue, plus vaste, coupant la première et qui suivait le sommet de la colline. Les deux chevaliers s’arrêtèrent. L’un dit : Séparons-nous, mon frère, ce n’est pas la même route qui tous deux nous appelle — et mon courage suffisant n’a que faire du vôtre à mon aide. Où l’un vaut, l’autre est inutile. — Et l’autre dit : Adieu mon frère. — Puis, se tournant le dos, chacun d’eux s’en alla vers de solitaires conquêtes. — Alors tous les oiseaux s’éveillèrent. Il y eut des poursuites amoureuses sous les feuilles et des chasses d’insectes dans l’air ; on entendait des vols d’abeilles et sur les gazons s’ouvraient les nouvelles fleurs butinées. Des murmures délicieux s’élevèrent.</p>
+                  <p rend="justify">Plus loin, où le terrain cessait, l’on ne voyait plus que des feuilles ; plus bas, dans la vallée moins ténébreuse, les cimes flottantes des arbres ; et plus bas encore, une brume. O ! comme nous nous serions penchés, pour voir les cerfs descendre boire. — Et les deux chevaliers ? dit Rachel. — Ah ! laissons-les, dit Luc — occupons-nous de l’avenue. — Il y vint, vers midi, une assemblée de jeunes femmes ; elles marchaient en se donnant la main, comme vous avec vos compagnes ; elles riaient ; puis vinrent des hommes costumés de soie et de dorures frivoles ; s’étant assis, tous ensemble causèrent.</p>
+                  <p rend="justify">Le jour passa ; eux s’étaient tus et l’ombre avait crû sur la mousse ; ils se levèrent et s’en allèrent pour voir se coucher le soleil. Et l’avenue s’emplit d’inquiétude et de murmure ; tout s’apprêtait à s’endormir ; — puis tout se tut ; c’était le soir et les branches se balancèrent ; les troncs gris paraissaient mystérieux dans l’ombre ; il s’éleva un chant d’oiseau crépusculaire. Alors l’on vit dans la nuit commencée deux chevaliers s’en revenir ; ils marchaient l’un vers l’autre, à cause de la route suivie, et leurs chevaux étaient comme après une grande fatigue. Eux ils étaient courbés, plus graves qu’au matin à cause de la tâche vaine. Et s’étant rejoints sans un mot ils redescendirent l’allée qui redescendait la colline, s’enfonçant dans la nuit sous les branches. — Pourquoi partir alors, Luc — dit Rachel ; à quoi sert de se mettre en route. N’êtes-vous pas toute ma vie ? — Mais vous, Rachel, dit Luc — vous n’êtes pas toute la mienne. Il y a bien des choses encore.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>III</label>
+                  </head>
+                  <p rend="justify">Madame, cette histoire m’ennuie. Vous savez bien que si j’ai fait des phrases, c’est pour les autres et pas pour moi. J’ai voulu raconter un rapport de saisons avec l’âme ; il nous fallait gagner l’Automne : je n’aime pas abandonner n’importe quelle tâche entreprise.</p>
+                  <p rend="justify">Deux âmes se rencontrent un jour, et parce qu’elles cueillaient des fleurs toutes deux se sont crues pareilles. Elles se sont prises par la main, pensant continuer la route. La suite du passé les sépare. Les mains se lâchent et voilà, chacune en vertu du passé continuera seule la route. C’est une séparation nécessaire, car seul un semblable passé pourra faire semblables les âmes. Tout est continu pour les âmes. — Il en est, vous savez, nous le savons Madame, qui chemineront parallèles, et ne pourront pas s’approcher. — Donc Luc et Rachel se quittèrent ; un seul jour, un seul instant d’Été, leurs deux lignes s’étaient mêlées, — un unique point de tangence — et déjà maintenant ils regardaient ailleurs.</p>
+                  <p rend="justify">Sur le sable assis près des vagues, Luc regardait la mer, et Rachel la contrée. Ils cherchaient par moments à ressaisir l’amour qui se dénoue, mais c’était du plaisir sans surprise ; c’était une chose épuisée et Luc était heureux en songeant à partir. Rachel ne le retenait plus. — Quand ils sortaient ensemble encore ils marchaient en songeant — j’allais dire : pensifs ; chacun regardait devant lui au lieu de tant regarder l’autre. Luc ne songeait plus à l’amour, mais leur amour laissait en eux, comme le souvenir d’une grande douceur, et comme le parfum des belles fleurs fanées — tout ce qui restait des guirlandes — mais sans tristesse, sans tristesse.</p>
+                  <p rend="justify">Certains jours, ils marchaient ainsi, languissamment et sans paroles. A cause des couleurs splendides qu’avaient prises les feuilles d’automne, d’un si beau reflet dans les eaux, ils préféraient les eaux dormantes et se promenaient lentement sur leurs bords. Les bois étaient glorieux et sonores : les feuilles en tombant découvraient l’horizon. Luc songeait à la vie immense. — Je dis cela parce que moi j’y songe ; je crois qu’il devait y songer. — Luc et Rachel m’ennuient, Madame ; que vous dirai-je encore d’eux ?</p>
+                  <p rend="justify">Ils voulurent retourner voir le parc aux grilles merveilleuses. Ils trouvèrent longeant le mur, cette petite porte cachée, jadis très close et sans serrures — ouverte maintenant ; ils entrèrent ; — c’était un parc abandonné.</p>
+                  <p rend="justify">Rien ne peindrait la splendeur des allées. L’automne jonchait les pelouses, et des branches s’étaient cassées ; de l’herbe avait couvert les routes, de l’herbe en fleur, des graminées ; ils marchaient là-dedans en silence, près des buissons pleins de baies rouges, où des rouges-gorges chantaient. J’aime la splendeur de l’automne. — Il y avait des bancs de pierre, des statues, puis une grande maison se dressa, les volets clos et les portes murées. — Dans le jardin restait le souvenir des fêtes ; des fruits trop mûrs pendaient aux espaliers. — Comme le soir tombait ils repartirent… —</p>
+                  <p rend="justify">… — Racontez-moi l’Automne dit Rachel. L’automne reprit Luc, ah ! c’est la forêt tout entière, et l’étang brun près de l’orée. Les cerfs y viennent et le cor retentit. Taïaut ! Taïaut ! La meute aboie ; — les cerfs se sauvent. Promenons-nous sous les grands bois. — La chasse accourt ; — elle est passée ; — avez-vous vu les palefrois ? Le son du cor s’éloigne, s’éloigne dans les bois. — Allons revoir l’étang tranquille, où tombe le soir. —</p>
+                  <p rend="justify">— Votre histoire est stupide, dit Rachel ; on ne dit plus : des palefrois ; et je n’aime pas le tapage. Dormons. — Alors Luc la laissa ; n’ayant pas encore sommeil. —</p>
+                  <p rend="justify">Ce fut bientôt après qu’ils se quittèrent ; adieu sans larmes et sans sourires ; tranquille et naturellement ; leur histoire était achevée. — Ils songeaient aux choses nouvelles.</p>
+                  <p rend="justify">Voici l’automne ici, Madame ; il pleut, les bois sont morts et l’hiver va venir. Je pense à vous ; mon âme est brûlante et calmée ; je suis assis auprès du feu ; près de moi sont mes livres ; je suis seul, je pense, j’écoute. — Reprendrons-nous comme autrefois nos beaux amours pleins de mystère ? — Je suis heureux ; je vis ; j’ai de hautes pensées.</p>
+                  <p rend="justify">J’ai fini de vous raconter cette histoire qui nous ennuie ; de grandes tâches maintenant nous appellent. Je sais que sur la mer, sur l’océan de vie, des naufrages glorieux attendent, — et des marins perdus, et des îles à découvrir. — Mais nous restons penchés sur les livres, et nos désirs s’en vont vers des actions plus certaines. C’est cela qui nous fait, je le sais, plus joyeux que les autres hommes. — Parfois cependant lassé d’une étude trop continue, je descends vers les bois, par la pluie, et je vais voir finir l’automne. — Et je sais qu’après, certains soirs, rentrant de cette promenade, je me suis assis près du feu, comme ivre du bonheur de la vie, et presque sanglotant d’ivresse, sentant en ma pensée des œuvres sérieuses à faire. — J’agirai ! j’agirai ; je vis. Entre toutes nous aurons aimé les grandes œuvres silencieuses. Ce sera le poëme, et l’histoire, et le drame ; nous nous pencherons sur la vie, — comme vous le faisiez bien ma sœur, méditative et soucieuse. Maintenant je pars, mais songez, songez aux bonheurs du voyage…</p>
+                  <p rend="justify">Pourtant, j’aurais aimé — voici l’hiver — prolonger ce récit ensemble. Nous serions partis seuls un soir vers une ville de Hollande : la neige aurait empli les rues ; sur les canaux gelés, on aurait balayé la glace. Vous auriez patiné longtemps, avec moi, jusque dans la campagne ; nous aurions été dans les champs où l’on voit se former la neige elle s’étend infiniment blanche ; il fait bon sentir l’air glacé. — La nuit vient, mais où luit la neige ; nous rentrons. Maintenant vous seriez près de moi dans la chambre ; du feu ; les rideaux clos, et toutes nos pensées. — Alors vous me diriez, ma sœur :</p>
+                  <p rend="justify">Aucunes choses ne méritent de détourner notre route ; embrassons-les toutes en passant ; mais notre but est plus loin qu’elles — ne nous y méprenons donc pas ; — ces choses marchent et s’en vont ; que notre but soit immobile — et nous marcherons pour l’atteindre. Ah ! malheur à ces âmes stupides qui prennent pour des buts les obstacles. Il n’y a pas <hi rend="italic">des buts</hi> ; les choses ne sont pas des buts ou des obstacles — non, pas même des obstacles ; il les faut seulement contourner. Notre but unique c’est Dieu ; nous ne le perdrons pas de vue, car on le voit à travers chaque chose. Dès maintenant nous marcherons vers lui ; dans une allée <hi rend="italic">grâce à nous seuls splendide</hi>, avec les œuvres d’art à droite, les paysages à gauche et la route à suivre devant nous ; — et faisons-nous maintenant, n’est-ce pas, des âmes belles et joyeuses. Car ce sont nos larmes seulement qui font germer autour de nous les tristesses. —</p>
+                  <p rend="justify">Et vous êtes semblables, objets de nos désirs, à ces concrétions périssables qui, sitôt que les doigts les pressent, n’y laissent plus que de la cendre. — <hi rend="italic">Qualquiera ventio que sopla.</hi>
+                  </p>
+                  <p rend="justify">Levez-vous, vents de ma pensée — qui dissiperez cette cendre.</p>
+                  <p rend="justify">Été 1893.<lb/>Yport et La Roque.</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>EL HADJ<lb/>ou<lb/>LE TRAITÉ DU FAUX PROPHÈTE</head>
+               <p rend="justify">
+                  <hi rend="italic">A Frédéric Rosenberg.</hi>
+               </p>
+               <p rend="justify">O ! prophète fais connaître tout ce qui est descendu sur toi à cause de ton Prince, car si tu ne le fais pas, tu n’as pas rempli son message.</p>
+               <p rend="justify">
+                  <hi rend="italic">Le Koran</hi>, V, 71.</p>
+               <p rend="justify">Qu’êtes-vous allés voir au désert ? Un roseau secoué par le vent ? — Mais qu’êtes-vous donc allés voir ? Un homme couvert d’habits précieux ? — Mais qu’êtes-vous donc allés voir ? Un prophète ? — Oui, vous dis-je, et plus qu’un prophète…</p>
+               <p rend="justify">
+                  <hi rend="italic">Mathieu</hi>, XI, 7-9.</p>
+               <p rend="justify">
+                  <hi rend="italic">El Hadj</hi>  a paru dans le second numéro du <hi rend="italic">Centaure</hi>, en septembre 1897.</p>
+               <p rend="justify">Maintenant que près du soleil couchant les minarets aimés réapparaissent, de la ville enfin regagnée ; que le peuple épuisé rit de désirs et vers elle se précipite… Allah ! ma tâche est-elle terminée ? Ce n’est plus ma voix qui les guide.</p>
+               <p rend="justify">Ah ! qu’ils puissent crier d’amour ce soir au seuil de leur maison, puisque leur repos s’y retrouve ! — je veux m’attarder au désert. — Mon secret je l’ai tu durant les jours et les nuits ; j’ai porté sans appui le fardeau de mon épouvantable mensonge, et j’ai fait semblant jusqu’au bout ; de peur que ne cherchant un but en vain à notre longue errance, n’en trouvant point ils ne s’abandonnassent aux douleurs et ne pussent plus avancer.</p>
+               <p rend="justify">Maintenant, parlons ! je suis seul. Mais de désespoir que crierai-je ?</p>
+               <p rend="justify">Car je sais maintenant qu’il y a des prophètes, cachant pendant le jour aux peuples qu’ils conduisent l’inquiétude, hélas ! et l’égarement de leur âme, simulant leur ferveur passée pour dissimuler qu’elle est morte — qui sanglotent quand vient la nuit, quand ils se retrouvent tout seuls — et ne sont éclairés plus qu’à peine par les étoiles innombrées et par la trop lointaine Idée, peut-être — à qui pourtant ils ont cessé de croire.</p>
+               <p rend="justify">Mais vous, prince, vous êtes bien mort ; moi-même je vous ai couché dans la mobilité des sables ; le vent a soufflé ; les sables ont coulé comme les vagues des grands fleuves, et qui sait à présent le lieu de votre errante sépulture ? — Est-ce vous qui meniez votre peuple au désert ? — Ou étiez-vous mené vous-même par quelque autre ? Qu’avez-vous rencontré dans la plaine ? — Il n’y a rien. N’est-ce pas que vous n’avez rien vu dans la plaine ? Mais vous alliez plus loin sans la mort. — Prince, j’ai ramené le peuple de la plaine.</p>
+               <p rend="justify">Certes je ne me croyais pas prophète, d’abord ; je ne me sentais pas né pour cela. Je n’étais qu’un conteur des places, El Hadj, et l’on m’a pris parce que je savais des chansons. On m’a dit que j’avais ce signe sur le dos, par quoi Dieu marque ses apôtres ; mais je n’en étais pas averti ; je n’aurais point sinon quitté la ville ; par peur de Dieu, je ne les aurais point suivis. Mais pouvais-je supposer mon histoire ? Prophète ; c’est aux autres seuls que j’ai prédit. — On partait en troupe pressée, on ne savait ni pour quoi, ni pour où. Ils me payèrent afin de les distraire ; ainsi je me joignis à eux ; je leur chantais des chants d’amour dans l’ennui de la longue route et pleurais avec eux les femmes que nous n’avions pas emmenées ; ainsi je me fis aimer d’eux. Nous avancions vers le désert. Devant nous cheminait le prince, porté sur une litière fermée ; nul de nous ne pouvait le voir. La nuit il dormait seul sous sa tente et nul de nous n’en approchait ; des esclaves muets en protégeaient la solitude. Comment nous traînait-il à sa suite ? C’était une mystérieuse dépendance ; on eût dit que sa décision s’imposait immédiatement sur nous tous. Car nul ne transmettait de lui nul ordre ; nous n’avions d’autres chefs que lui et qui gardait toujours le silence ; ou peut-être parlait-il à ses porteurs, mais sa voix ne nous était jamais parvenue. De sorte que tous semblions suivre lui qui ne paraissait pas guider. Mais c’était une chose étrange, et je m’en étonnai dès lors, que notre marche semblât prévue et la route déjà précisée, comme si, passant avant nous, d’autres l’avaient déjà tracée. Nous n’étonnions rien sur la route, et dans les villes approchées, tant aisément l’on nous trouvait des vivres et tant l’on nous admirait peu, il semblait que l’attente de nous, nous avait déjà précédés. Pourtant l’on voyait bien que nous n’étions pas de ces caravanes marchandes qui repassent de ville en ville et que l’on a coutume de recevoir. L’on nous eût pris plutôt pour une troupe belliqueuse, si nous avions porté plus d’armes — mais même avant d’avoir compris notre intention pacifique, de loin encore aucun ne s’effrayait.</p>
+               <p rend="justify">Dès quitté les états du prince, par façon, nous ne campâmes plus dans les villes, mais au pied de leurs murs et du côté de l’orient. Quand la ville était entourée d’oasis nous n’entrions plus sous les arbres sitôt que le jour se closait. Il y régnait une fraîcheur pernicieuse ; nous campions à la limite des jardins, et notre âme s’accoutumait à n’avoir devant soi qu’une interminable étendue.</p>
+               <p rend="justify">Parfois dans ces jardins, avant la fin du jour, je marchais, accompagnant nos envoyés chercher des provisions sur les places, où à peine si les vendeurs nous questionnaient ; d’ailleurs nous cessâmes bientôt de comprendre aisément leur langue ; c’était la nôtre encore, mais trop différemment prononcée. Et qu’eussions-nous pu leur répondre ? Sinon que nous venions d’une capitale du Sud, et que par notre longue marche vers le Nord, nous voyions chaque jour le pays devenir plus vaste et désert. Parfois, plus pour les nôtres que pour ces étrangers qui me comprenaient mal, et que pour les petits enfants qui, lorsque notre camp n’était pas trop distant de leur ville, nous y suivaient et restaient dans le soir, silencieux ou chuchotant autour de nos feux de broussailles, mais que ni notre appareil de voyage, ni les étoffes richement brodées pendant au cou des dromadaires ne paraissaient étonner beaucoup plus que pour s’en assurer du bout des doigts, — je chantais et prolongeais mon chant dans la nuit jusqu’à l’approche du sommeil :</p>
+               <p rend="justify">— La ville que nous avons quittée,</p>
+               <p rend="justify">est, était riche, grande et belle.</p>
+               <p rend="justify">Si nous ne l’avions pas quittée,</p>
+               <p rend="justify">nous ne l’eussions pas nommée,</p>
+               <p rend="justify">Car nous n’en connaissions point d’autres.</p>
+               <p rend="justify">Maintenant nous l’appellerons Bâb-el-Khroûr,</p>
+               <p rend="justify">pour pouvoir en parler entre nous,</p>
+               <p rend="justify">Et pour en porter le renom</p>
+               <p rend="justify">avec nous à travers les terres.</p>
+               <p rend="justify">Notre ville est plus belle</p>
+               <p rend="justify">que toutes celles que nous avons traversées.</p>
+               <p rend="justify">J’y sais des cafés où l’on cause le soir,</p>
+               <p rend="justify">et où dansent de belles femmes.</p>
+               <p rend="justify">Les femmes que nous avons laissées,</p>
+               <p rend="justify">pleurent d’amour à nous attendre.</p>
+               <p rend="justify">Chacun de nous en a plusieurs,</p>
+               <p rend="justify">et la moindre est encore très belle.</p>
+               <p rend="justify">Hors de la ville il y a du maïs et du blé ;</p>
+               <p rend="justify">la terre est riche en céréales.</p>
+               <p rend="justify">Notre prince est puissant entre tous les princes ;</p>
+               <p rend="justify">personne ne peut l’approcher ;</p>
+               <p rend="justify">Nul n’a jamais vu son visage.</p>
+               <p rend="justify">Ah ! bienheureuse l’épousée</p>
+               <p rend="justify">qui pourra contempler sa face.</p>
+               <p rend="justify">D’assez riche pour lui, qu’aura-t-elle ?</p>
+               <p rend="justify">Quel parfum mouillera ses cheveux ?</p>
+               <p rend="justify">Où l’attend-elle pour des fêtes ?</p>
+               <lg>
+                  <l>Là nous irons.</l>
+                  <l>Elle languit d’ennui dans l’attente</l>
+                  <l>Au bord des eaux dans de vastes jardins.</l>
+                  <l>Nul ne pourra la voir que le Prince,</l>
+                  <l>Mais le soir des noces il y aura pour nous</l>
+                  <l>Du lait de palmes en abondance et du vin doux.</l>
+               </lg>
+               <p rend="justify">Ainsi, devant les autres, chantions-nous les louanges de notre ville, par vanité — et nous prédisions-nous des destinées fastueuses pour ne pas être méprisés. Mais dans la nuit, quand nous avaient laissés tous les autres, nous n’avions plus cette assurance et nous disions : Certes, il est vrai que notre ville est grande et belle, celle que nous avons quittée ; mais depuis fut longue la route et pour le reste qu’en savons-nous ? Il faut suivre le prince, sans doute ; mais jusques à quand ? et jusqu’où ? — et pour qu’y faire est-ce qu’il nous mène ? Chantons-le ; mais qui peut le dire ? Sans doute le prince le sait ; mais à qui parlerait le prince ?</p>
+               <p rend="justify">Et bien qu’à leur triste question ils n’espérassent pas de réponse :</p>
+               <p rend="justify">A moi, leur dis-je, il parlera. — Comment ferais-tu ? dirent-ils ; on ne le laisse pas approcher. — Sachons attendre, répondis-je. Celui qui marche dans la nuit, peut pendant le jour goûter l’ombre. — Et moi-même en disant cela j’espérais.</p>
+               <p rend="justify">Le lendemain, tandis que nous avancions dans la plaine et que les dernières ombres disparaissaient, je pensais : à quoi me sert-il de chanter si je ne chante pas pour le prince ? — Cette nuit, non loin de sa tente, j’irai ; eux tous fatigués dormiront ; le prince qui n’a pas marché doit peu dormir ; il m’entendra, et je chanterai si bellement qu’il voudra encore m’entendre. A cela durant tout le jour je songeai ; une ferveur soutint ma marche, et le désir de cette nuit me la faisait lente à venir, que j’allais emplir de mon chant.</p>
+               <p rend="justify">Quand vint la nuit : — O nuit ! — chantai-je — et dans le camp tout se taisait. La tente du prince hors du camp, faisait un isolé promontoire, puis le vaste désert s’étendait. — O nuit ! — et je rompais mon chant de pauses, comme si du vent l’emportait qui ferait regretter au prince de ne l’entendre pas tout entier… — Une tente sur le désert. — Une falouque sur les flots ! — Mais des sables, El Hadj, que dirais-je ?… et je citais mon nom de pèlerin, pensant, ce qui ne manque pas d’arriver, que le prince s’en souviendrait ensuite et pourrait me faire appeler. Puis, comme alors la grosse lune se décomposait en silence et que, pris d’angoisse à la voir, j’admirais ce qu’après la chaleur du jour les sables conservaient encore de lumière qui les faisait paraître azurés, je chantai :</p>
+               <p rend="justify">Ils sont plus bleus que les flots de la mer.</p>
+               <p rend="justify">Ils étaient plus lumineux que le ciel…</p>
+               <p rend="justify">Et tout à coup, comme quelqu’un qui se lamente, je criai : Depuis combien de jours as-tu dit : voici que les collines du pays s’éloignent et que nous n’avons plus pour soutenir nos fidélités que de trop lointains souvenirs. Depuis, qu’avons-nous vu dans la plaine ! La plaine. El Hadj ! que raconteras-tu de la plaine ? Il n’y a rien. N’est-ce pas que tu n’as rien vu dans la plaine ?</p>
+               <p rend="justify">— J’ai vu des fleuves, des grands fleuves, disparaître entiers dans le sable ; ils ne s’y jetaient pas, je suppose ; ils s’y enfonçaient lentement ; ils y disparaissaient, comme des espérances. — Parfois ils reparaissaient plus loin ; ils ne surgissaient pas, je suppose ; ils ressortaient simplement du sable en une eau fine et filtrée ; reparaissaient comme des espérances. Plus loin, il n’y avait plus que du sable ; on ne savait même plus ce qu’eux ils étaient devenus. — Fleuves, grands fleuves, ce n’est pas vous que nous sommes venus voir.</p>
+               <p rend="justify">Dites ! qu’avez-vous vu dans la plaine ?</p>
+               <p rend="justify">La caravane immense y a passé.</p>
+               <p rend="justify">Qu’est-ce qu’elle aura vu sur le sable ?</p>
+               <lg>
+                  <l>Des os blanchis ; des coquilles vidées ;</l>
+                  <l>Des traces ; des traces ; des traces, —</l>
+                  <l>Que le vent du désert effaçait.</l>
+                  <l>L’immense vent du désert a passé. —</l>
+                  <l>Ah ! qu’avez-vous été voir dans la plaine ?</l>
+                  <l>Est-ce un roseau tourmenté par le vent ?</l>
+                  <l>Mais qu’avez-vous été voir dans la plaine ?</l>
+                  <l>N’avez-vous donc rien été voir ?…</l>
+               </lg>
+               <p rend="justify">Quand le jour revint, je craignis qu’à cause de mon chant ne m’importunassent les autres ; — mais ils ne l’avaient même pas entendu. — Nous avançâmes dans le désert.</p>
+               <p rend="justify">Quand la nuit revint, je m’approchai de nouveau de la tente et quand au-dessus du désert surgit la lune cramoisie : O nuit ! grande nuit !… m’écriai-je — puis je repris beaucoup plus bas : — Comme une barque sur les flots, prince, une tente te promène. — Elle te promène jusqu’où ? — Et puisque cette nuit j’avais pris ma viole, de pause en pause j’en simulais une réponse aux questions. — Au soleil, devant nous, morne plaine, t’es-tu suffisamment pâmée ? — Désert ! Quand vient la nuit, ne t’arrêtes-tu toujours pas ? — O ! si le vent m’emportait sur ses ailes, à l’autre bord de cette mer embrasée, — ô que ce soit où la saignante lune, berger du ciel, avant de paître va se laver. Au bord des eaux, dans de vastes jardins, comme une amante au soir des noces, elle se pare ; elle se regarde dans l’eau. L’amante attend le soir des noces, prince, au bord des sources cachées. — Ainsi s’enhardissaient mes paroles presque jusqu’à l’affirmative, — et pourtant, pourtant qu’en savais-je ? était-ce là prophétiser ?… et je chantais avec l’accent toujours plus tendre, plus pathétique ou plus lassé :</p>
+               <p rend="justify">Prince ! où finira ce voyage ? Est-ce dans le repos de la mort ? — Sans doute il est d’autres jardins dans le Nord, sous le ciel doux, où s’étiolent les palmes.</p>
+               <p rend="justify">A quoi songes-tu ? prince, est-ce que tu dors ? — Prince ! quand jamais te verrai-je ? afin qu’à quels petits enfants, puissé-je, et dans combien de soirs, répondre : Oui c’était cela, — lorsqu’ils me demanderont : El Hadj ! El Hadj ! que t’a-t-on mené voir dans la plaine ? Est-ce un prince couvert de vêtements somptueux ? — Prince ! toute mon âme soupire ; mon âme languit après toi… Et de lui peu à peu je me sentais m’éprendre au gré même de mes paroles, de sorte que, dans la troisième nuit, quand, dès mon chant, je le vis sortir de sa tente, à la clarté du ciel, couvert de vêtements somptueux, mais la face cachée d’un voile — et, comme encore je demandais et pensais demander en vain : Prince ! qu’êtes-vous allé voir au désert ? — lorsque, d’une voix plus subtile qu’aucun chant que j’eusse entendu, je l’ouïs inespérément me répondre : — Un prophète — et plus qu’un prophète — El Hadj ! bon pèlerin, c’est toi ! demain tu viendras dans ma tente. — je me tus et jusqu’à l’aurore sanglotai d’amour dans la nuit.</p>
+               <p rend="justify">Mais le lendemain, le désert se couvrit de mirages ; depuis longtemps les oasis avaient cessé ; à peine, où de l’eau croupissait, montait un maigre bois de palmes, par le mirage foisonné tellement qu’il apparaissait de loin comme une oasis merveilleuse. Et rien je vous assure — villes hautes, palmes et eaux, n’était pour nous, Allah ! plus décevant que ces mirages. Parfois, dès l’aube, nous marchions vers eux, et jusqu’au soir, pour nous désoler de les voir, d’abord lentement éloignés, dans l’effacement du soleil, se dissoudre. — Ainsi de vertus en vertus marcherons-nous, El Hadj, jusqu’à la mort, dans l’espérance, et nous soutiendrons-nous jusqu’au bout par la vision miragineuse d’on ne sait quelle félicité — comme qui, pour s’y endormir, préparerait assidûment un rêve à son irrévocable sommeil. — O prince mort ! dans ton sommeil sans visions, as-tu toujours soif d’eau des sources ? — O visions du paradis ! heureux celui chez qui, seule la noire mort peut vous éteindre. Allah ? vous êtes seul véritable. — Je sais bien qu’il en est qui disent que ce ne sont point là des irréalités, et que les objets sont ailleurs, et qu’on finira bien par trouver, — dont voici la flottante apparence, d’eux par trop de chaleur détachée, — qui se propose, plus voisine, fallacieusement à nos prises. Mais puisque nous ne pouvions la saisir, Allah ! pourquoi la proposer ? — Et nous nous déconcertions au matin, quand devant nous se voyait l’horizon se franger, — et même le passé ne nous paraissait plus avoir d’inévitable certitude, tant, lorsqu’on se retournait vers le soleil, tout semblait fondre et presque se fluidifier. — Mais ce que j’admire à présent, ce qui m’emplit de patience, c’est de songer, ah ! pauvre peuple ! qu’elle était grande ta confiance ! d’où naquit ma compassion… Car enfin que connaissait-t-il de ce qu’on attendait de lui ? et qu’en attendait-il lui-même ? — Il leur suffisait, pour marcher, de croire que c’était vers un but, et que le prince au moins le connaissant, les menait avec assurance. Combien docilement ils suivaient sans savoir ; — car de ce que le prince me dit, je ne crus rien pouvoir leur révéler ; d’ailleurs ils n’auraient pas compris. Et quelle certitude d’ailleurs avait-il, lui-même, de l’avenir dont il parlait ? S’il croyait maintenant à ces noces, n’était-ce pas depuis qu’il m’avait entendu les chanter ? Mais il parlait alors d’une manière si douce, si crédule et si assurée de l’enfant qui devait en naître et porterait son nom rajeuni, ce nom que nul n’a pu connaître et par qui tout le peuple serait gagné ; il en parlait avec une assurance si grave, que malgré le passé et à cause de mon incompréhension même j’y croyais. — El Hadj ! alors me disait-il, il te faut, comprends, croire à moi de toutes tes forces ; l’avenir a besoin de cela pour arriver. — Prince, à force d’amour, je t’ai cru. — Chante, El Hadj ! chante maintenant les jardins où m’attend l’amante — mais d’elle ne me parle pas. — Songeant à la monomorphie des palmes : pour faire rêver l’habitant du désert, me disais-je, il faut parler des nombreuses ramures du Nord et des troncs variés des arbres ; — et je chantais les profondes forêts, les ravins, l’odeur des feuilles et des mousses, les brumes du matin, du soir, la fraîcheur de la nuit, l’aménité du jour et sur les prés l’humidité délicieuse. Le prince m’écoutait lentement. Je disais les travaux plus aisés ; la volupté plus souriante, l’azur plus clair, l’air moins brûlant, la nuit moins enflammée. — Y serons-nous bientôt ? demandait-il. — Nous y serons bientôt, répondais-je, — Chante encore, El Hadj bien aimé ! — Là-bas, chantais-je, coulent des eaux non plus salées. Ah ! que seront doux à nos pieds les cailloux glacés des rivières…</p>
+               <p rend="justify">A chanter, la moitié de la nuit se passait.</p>
+               <p rend="justify">Je ne sais si mon chant donnait de l’assurance au prince, mais moi j’en étais extraordinairement fortifié. Ce que je chantais devenait ; après l’avoir chanté j’y croyais. Devant le peuple, le plus souvent je me protégeais de silence ; il suffisait qu’il crût que le prince guidait. Et quand je parlais, je disais : Le prince vous mène ; il sait où il lui plaît d’aller. Mais de cela que vous dirais-je ? Que suis-je devant lui, moi-même ? Devant vous, il est vrai, prophète ; devant le prince, un serviteur. Et je me prosternais vers sa tente en exemple de soumission.</p>
+               <p rend="justify">Cependant chaque après-midi devenait un peu plus accablante. Quand les mirages n’y germaient pas, on ne voyait exactement devant soi que les sables roux de la plaine qui se levaient en dunes par instants ; le seul épisode d’un jour était d’avoir cueilli des coloquintes. Pour occuper j’imaginais des pratiques plus rigoureuses et de singulières privations. A peine dans le camp avions-nous emmené quelques femmes, mais je citai des heures pour les toucher ; pourtant ils n’avaient point comme moi le cœur rempli d’amour pour le prince et n’étaient point occupés par cela. Devant eux je montrais de la suffisance et pour qu’ils ne m’interrogent plus, je n’affirmais que des choses incohérentes : aux soumis des promesses de récompense, aux révoltés des menaces de châtiment. Puis je m’en retournais près de la tente où le prince ne me laissait entrer que le soir — et jusqu’au soir je sentais se défaire mon assurance, qui près du prince renaissait. — Mais je ne sais comment, lorsque j’avais faibli le jour, au soir le prince le savait. — El Hadj ! disait-il alors d’une voix toujours amoindrie, c’est en ta foi que je repose ; en ta croyance en moi je puise la certitude de ma vie. — Je ne comprenais pas alors, mais après chaque jour de doute, au soir je le trouvais un peu plus affaibli. Hélas ! et c’est pourquoi chaque matin ma foi s’en réveillait plus faible ; puis quand auprès de lui toute la nuit je refaisais ma confiance, lui n’était point par là fortifié. — El Hadj ! disait-il alors, pauvre prophète ! comme ton amour est petit ! Vaut-il la peine que j’en vive ? si tu n’en es pas plus brûlé, — O ! répondais-je, je vous aime, prince, autant que je peux vous aimer. — C’est au soleil que tout chancelle ; la nuit je m’assieds près de vous et me consume de ferveur. — Que ne suis-je sous votre tente tout le jour ? nous nous consolerions longuement ; durant le jour aussi je vous aime ; j’attends la nuit et pleure que vous ne m’apparaissiez pas. Que ne vous laissez-vous mieux connaître ? Je ne souhaite connaître que vous. Ah ! si je pouvais voir ton visage, prince, j’en serais tout fortifié. — Alors le prince me prit la main, et j’en fus tellement troublé… Ma tendresse en fut augmentée, mais ma confiance navrée — tant cette main brûlait de fièvre.</p>
+               <p rend="justify">Le lendemain, entre les marches du long du jour, près de sa tente encore déployée, espérant qu’il m’entendrait, je chantais :</p>
+               <p rend="justify">Ma tente vogue sur le désert</p>
+               <p rend="justify">Comme sur une mer embrasée.</p>
+               <p rend="justify">Portes de toiles, que le vent vous soulève !</p>
+               <p rend="justify">Portes de ma tente, vous êtes de lumière pénétrées.</p>
+               <p rend="justify">Soulevez-vous, portes de toile</p>
+               <p rend="justify">Et laissez entrer mon désir.</p>
+               <p rend="justify">Mais à peine si le vent faisait claquer la toile comme la voile d’un navire. Le prince dormait tout le jour et ne m’entendait pas chanter. Alors je reprenais d’une façon plus murmurée :</p>
+               <lg>
+                  <l>Mon doux ami dort sous la tente,</l>
+                  <l>C’est pour qu’il dorme que je veille.</l>
+                  <l>Quand je suis seul c’est que j’attends mon ami,</l>
+                  <l>Je ne vais à lui que le soir.</l>
+                  <l>C’est maintenant l’heure de tous les feux du Midi ;</l>
+                  <l>Toute la terre flétrit de soif et de crainte et d’attente ;</l>
+                  <l>C’est l’heure où la volonté des hommes vaillants s’épouvante,</l>
+                  <l>Où la pensée des sages se déconcerte,</l>
+                  <l>Où la vertu des purs s’altère, —</l>
+                  <l>Tant la soif est désir d’amour</l>
+                  <l>Et l’amour est soif de toucher, —</l>
+                  <l>Où tout ce qui n’est pas de feu</l>
+                  <l>Sous cette ardeur se décolore.</l>
+                  <l>Il en est qui, le soir venu, n’ont plus retrouvé leur courage</l>
+                  <l>et que tant de chaleur a lassés ;</l>
+                  <l>Il en est qui le long du désert ont cherché toute la nuit après,</l>
+                  <l>en vain leur pensée égarée ; —</l>
+                  <l>A cause de mon doux ami</l>
+                  <l>J’attends la douce nuit sans crainte.</l>
+                  <l>Quand le soir vient, mon ami se réveille ;</l>
+                  <l>Je vais à lui ; nous nous consolons longuement.</l>
+                  <l>Il promène mes yeux dans les jardins des étoiles.</l>
+                  <l>Je lui parle des grands arbres du Nord</l>
+                  <l>Et des froids bassins où la lune,</l>
+                  <l>Berger du ciel, comme une amante, va se laver ;</l>
+                  <l>Il m’explique que les seules choses périssables</l>
+                  <l>Ont inventé les seules paroles</l>
+                  <l>Et que celles qui ne doivent point périr</l>
+                  <l>Se taisent toujours, ayant tout le temps pour parler —</l>
+                  <l>Et que leur éternité les raconte.</l>
+               </lg>
+               <p rend="justify">Comprenant à peine pourquoi, je m’effrayais, ainsi chantant, à cause du silence même du désert, de ces étranges paroles du prince, que je rapportais dans mon chant.</p>
+               <p rend="justify">Cette nuit, quand, sous la tente à peine éclairée, je le revis, il était las : Prince, lui dis-je, il faut un gage d’alliance — de ton alliance avec moi ; qu’à défaut de toi je possède et dans le cours du jour je puisse regarder. — Comment, répondait-il, El Hadj, ne comprends-tu pas que toi-même es gage d’alliance entre le peuple et moi ? — et qu’entre toi et moi il ne peut y avoir aucun signe, puisque à toi je ne suis point caché ; — quoi d’autre veux-tu de moi, que moi-même ? Tu t’occupes de moi, je le sais, — mais pas suffisamment de ton peuple ; et pourtant lui ne connaît de moi que toi-même ; c’est par ta face que je parais devant lui et par ta voix que je lui parle. Tu ne lui parles pas assez ; comment dès lors veux-tu qu’il m’aime ? — Puis, presque tristement me parut-il, et d’une voix un peu changée il ajouta : Certes je te montrerai mon visage, — mais à le voir ton amour ne sera pas rassasié. Faut-il donc que de plus de désir tu l’attises ? — Et sorti de son lit, chancelant comme un convalescent très faible, il souleva la toile de la tente et devant la face pâle des cieux découvrit son pâle visage. Il était beau d’une beauté surnaturelle, et semblait d’une autre race que nous, — mais pâle inexprimablement et d’expression si lassée que voici que ma foi s’en allait disparaître, tandis que je sentais en son lieu un amour tout humain m’envahir. Et je restais devant lui sans geste et sans parole, jusqu’à ce que tombant à ses pieds je saisis de mes bras ses genoux frêles, puis pensai m’évanouir de tendresse, de doute et de désolation en sentant sur mon front trop brûlant sa main trop tiède se poser.</p>
+               <p rend="justify">Ce fut le lendemain, au soir, qu’après la longue marche, une suprême dune ayant été franchie, apparut devant nos désirs hors d’haleine, d’un lac ou d’une mer la plaine doucement azurée. Alors, dans tout le peuple, les cris délirants des premiers faisant se hâter tous les autres, ce fut un mouvement sans nom ; comme si la vue d’une très prochaine fraîcheur, assouvissant déjà leur âme en espérance, suffisait pour un soir à les désaltérer ; — prosternés ainsi qu’en prière, ils criaient vers les eaux sans y aller, et leur soif, à se sentir bientôt devoir être étanchée, en devenait voluptueuse. C’étaient des chants, des cris d’une sensualité reconnaissante et délivrée ; d’autres dansaient. Aucun ne songeait plus à avancer ; comme si suffisaient des promesses au lieu des satisfactions ; comme si jamais soif avait pu s’étancher d’eau salée, l’amour de visions, ou de remises l’espérance. — A peine une petite lieue séparait encore du rivage, mais après une immense fatigue cette immense joie les brisait. Certainement que de son lit fermé qui précédait toujours la marche, le prince entendit les cris délirants de son peuple. Les porteurs, au demi-versant de la dune, s’arrêtèrent et la tente royale fut dressée. Le soleil déclinait vers un soulèvement de brume ou de poussière que son rayonnement oblique rougissait ; l’horizon derrière la mer se fondait en une adorable dorure ; un instant au reflet du ciel les eaux parurent embrasées, puis brusquement, l’astre disparu, la nuit vint complète et fermée. — Je savais que parfois les marées sur un sol plan peuvent beaucoup s’étendre et que dangereuses souvent sont les plages des mers inconnues — et donc j’étais heureux que nous nous arrêtassions là, encore loin et haut sur la colline. — Toutes les tentes furent posées ; le camp se forma ; les feux du soir brillèrent. La tente du prince, presque inéclairée était avant le camp comme un isolé promontoire ; la mer semblait avoir empli la nuit. — Je m’approchai de la tente du prince.</p>
+               <p rend="justify">Il était debout, penché hors de la tente, soulevant la porte de toile ; il était sans voile à sa face et ses yeux cherchaient dans la nuit. Lorsqu’il me vit : Je ne vois point la mer, dit-il, El Hadj ! — Il parlait mystérieusement ; à l’entendre prononcer mon nom, je trouvais une presque amoureuse douceur. — C’est que la nuit est trop close, répondis-je ; tantôt la lune paraîtra. — Je n’entends point la mer, El Hadj. — Ah ! prince, c’est qu’elle est très calme et c’est que nous en sommes trop loin.</p>
+               <p rend="justify">— El Hadj ! reprit-il lentement, c’est sur l’autre bord de cette eau que mes noces sont préparées et que grandit pour nous l’attente. El Hadj ! malgré le nuit, dans la nuit, où personne ne puisse te voir, il faut que vers la mer tu descendes ; la lune se lèvera quand tu parviendras sur la rive ; regarde si l’on voit l’autre bord, — ce que l’on voit sur l’autre bord, — si l’on distingue enfin les arbres, les grands arbres dont tu me parles dans tes chants. Va, mon El Hadj ! El Hadj bien aimé, vas-y vite — puis raccours aussitôt vers moi.</p>
+               <p rend="justify">Je partis ; — j’allai, malgré ma lassitude. Je descendis les pentes de la dune et me sentis bientôt lourdement enveloppé par la nuit. M’étant retourné vers le camp je n’en vis plus aucune flamme ; un brouillard presque opaque me les cachait, dans lequel je pénétrais plus avant tandis que je descendais vers la plage. J’avais confiance en la lune pour guider mes pas au retour. J’étais las ; las au point d’en oublier mon espérance. Je m’étonnai, je m’en souviens, de l’odeur trop fade de l’air ; l’humidité qui le chargeait n’était point, comme il eût fallu, âpre de la salure marine, mais rappelait plutôt les exhalaisons des marais. — Mais alors, devant moi qui marchais, cette vapeur frémit, — chancela, s’argenta, s’ouvrit, et, comme un pâtre aux bergeries, s’occupa gravement la lune.</p>
+               <p rend="justify">Elle flottait au-dessus d’une plaine d’une quiétude inconnue. J’étais au bord d’un étendu mystère où ne remuait pas un flot, mais sur quoi riait et brillait la belle image de la lune, indéfiniment élargie. — Le terrain cessait sans secousse ; le sable plat se remplaçait simplement par autre chose, qui continuait sa planitude, et que je comprenais ne pas être de l’eau. J’avançai ; j’entrai — c’était comme dans une matière incréée, ni tout à fait solide, ni tout à fait liquide, mobile sous mon pied, sinon tranquille, mais comme imparfaitement figée. A ma gauche un élan de sable y gagnait, persistait, mince promontoire où des joncs débiles croissaient. J’y marchai… après, ce n’était plus, non, ni de la terre, ni de l’eau… une espèce de limon, de vase, qu’une mince croûte de sel recouvrait, y mettant les reflets de lune, et sous le ciel du soir d’abord ayant pu paraître azurée. Je voulus m’avancer encore ; cette croûte fragile crevait ; j’enfonçais dans une profondeur dissimulée d’abominable fange molle. — M’accrochant aux joncs, à genoux ou couché, je revins reposer sur le sable. Je m’y assis ; je regardai ; mon étonnement était si grand devant cette mer irrêvée, de boue protégée de sel, où mon poids avait fait un trou — que je ne sentais plus en moi, plus même ma désespérance. Accablé de lassitude et de stupeur, je regardai la lune sereine, au-dessus de la claire étendue, sembler rire et briller — sur cette morne plaine insondée, plus morne encore que le désert. — Et voici que la lune plus haute, éclairant plus fort l’horizon, montra de l’autre côté de la mer une autre rive non lointaine, et il semblait que de grands arbres s’y penchassent… Mais le sable où j’étais assis fléchissait ; je dus quitter le promontoire, revenir en arrière, à la berge où cette mer finissait. — Là je me couchai contre terre, et sentis maintenant si complètement ma solitude et l’environ de cette immensité… et cette mer, pour être étroite, me disais-je, n’en serait pas plus franchissable… et toute ma vertu soudain m’abandonna ; elle ne s’enfuyait pas, je suppose ; elle disparaissait comme de l’eau ; comme de l’eau qui se perd dans le sable ; elle disparaissait complètement. Soudain je me sentis sans courage et quelqu’un que sa foi a complètement abandonné. Il me semblait que m’envahît, qu’en moi s’étendît, s’ouvrît une désolation sans larmes, plus vaste encore et aussi morne que le désert.</p>
+               <p rend="justify">J’étais trop las pour regagner aussitôt les tentes, et qu’eût-ce été pour dire au prince ? Et, malgré tout, l’éclat de cette nuit était si pur, si délectable, que mon esprit désemparé s’y complaisait. Pourtant, ivre de nuit avant l’aube, pour n’en point rencontrer déjà qui, descendant du camp vers la mer et s’apercevant qu’elle est fausse, n’importunassent ma douleur par de piètres lamentations, dès que je vis la nuit enfin dolente chavirer sur la dune où la blancheur naissait, je me remis en route vers les tentes qu’éclairait encore à demi la lune déclinante.</p>
+               <p rend="justify">Clartés naissant de tous côtés du ciel ! Blancheurs de lune sur les tentes !… O ! genoux fléchissants, mains tendues, et, de qui veut prier, inquiète étreinte de l’ombre… Prophète, je le suis, c’est moi. — Prince ! à ton peuple j’ai su parler dès que toi tu n’as plus rien pu dire. Ah ! longues marches dans le désert ! attentes d’on ne sait plus quoi ; genoux rompus ; soif augmentée ; passe des heures sans surprises ; — langueurs des nuits ; longueur des jours ; oasis au soir défaillantes. — Arbres du Nord ; rameaux vaguement désirés ; ah ! promontoires ! promontoires lancés vers le ciel, où l’on s’avance, où l’on s’avance ; après lesquels on ne peut plus… Blancheurs de lune sur les tentes ! nuit finie ; clartés naissant de tous côtés du ciel… Puis, ô ! porte de toile soulevée ; mystérieuse tente où j’entrai ! Porte de toile retombée, comme sur un secret se reclôt du silence ; couche vers où je m’approchai, qu’une mourante flamme éclairait ; couche horriblement creuse et qui semblait vidée, où le prince gisait sans vie.</p>
+               <p rend="justify">Prince, tu t’es trompé ; je te hais. Car je n’étais pas né prophète ; c’est par ta mort que je le suis devenu ; c’est parce que tu ne partais plus, que moi j’ai dû parler au peuple… Peuples abandonnés dans le désert, c’est sur vous seulement que je pleure. — Toi, prince disparu, que je te haïsse, le sais-je ?… mais je languis d’ennui, de faim, de lassitude pour t’avoir tellement aimé ; et le doux souvenir de chaque de tes nuits me fait sentir, hélas plus désolée ma plus définitive solitude.</p>
+               <p rend="justify">Je n’aimais point le peuple jusqu’alors, mais dès lors j’eus pitié de lui. — L’aimais-tu ? — Pour quel bien est-ce donc que tu le menais loin des villes ? — Car le bruit de tes noces n’a pas retenti jusqu’à nous. Nous n’avons pas entendu les cymbales. Mes oreilles sont pleines d’attente. — Où se sont-elles célébrées que déjà leur rumeur soit éteinte ? Prince, je ne le dirai pas… nul ne sait que c’est dans la mort qu’elles sont si silencieuses. — Prince j’ai dû tromper le peuple, parce que tu l’avais déjà trompé — et parce que je connaissais et que j’avais pris en pitié ton peut-être involontaire mensonge. Prince, j’ai prolongé ta misère, jusqu’à par delà de ta mort. J’ai redéfait toute ta route. Tu menais le peuple au désert ; je l’ai ramené vers la ville ; je l’ai guidé vers les rassasiements en rémunération des faims qu’au long des sables d’aridité, pâtre indolent, tu nous fis paître…</p>
+               <p rend="justify">Le petit matin frémissait ; c’était l’heure où, les autres jours, j’avais coutume de quitter le prince. Je sortis de la tente, les yeux secs, et le visage composé. Nul encore n’était descendu vers la plage. Je voulus préparer leur prochain désespoir ; donner pour châtiment leur déboire effroyable lorsqu’ils approcheraient de la mer : inventer donc une certaine faute ; tendre au peuple comme l’occasion d’un péché qui motivât ce châtiment — de sorte qu’ils pussent considérer comme un peu méritée leur histoire, et, par cela, sinon s’en attrister moins, du moins m’en devenir soumis et me craindre. Moi que n’avait mené que l’amour je ne les pouvais ramener que par la crainte. — Et donc malgré l’impatience de leur soif, ou mieux à cause d’elle, je leur dis : Le prince met vos fidélités à l’épreuve. Il n’entend pas descendre après vous vers la plage tant attendue. Ne suis-je pas le premier ? a-t-il dit ; ne dois-je pas le premier m’y laver, m’y baigner et y boire ? Malheur à qui descendrait vers la mer avant moi. Il paierait cruellement cet outrage, et ne serait pas seul châtié. Lorsqu’il n’y en aurait qu’un à pécher, vous tous supporteriez la récompense de sa faute. Car mon courroux dépassera toute attente et semblera déborder le péché. — J’ai besoin, m’a-t-il dit, que le peuple me craigne et j’espère de lui la soumission complète ; or, cette faute me serait signe, même commise par un seul, comme d’une complète insoumission. — Mais écoutez : mon intention n’est pas de descendre aujourd’hui sur la plage, ni demain, mais seulement le matin après le second jour ; et c’est là que sera votre épreuve ; malgré votre soif, attendez. Il faut, avant de s’approcher de l’eau, élever un autel à Dieu, en signe d’action de grâce, et pour y pouvoir sacrifier. C’est à quoi vous emploierez ces deux jours. Vous élèverez cet autel à une très petite distance de la plage, sans vous inquiéter que ce soit sur du sable mouvant. Vous trouverez du gypse pour du plâtre et au pied de la dune des blocs de sable conglutiné. Vous creuserez l’autel, dessous, comme une cave. — Allez. Je veux que tous y travaillent. J’ai hâte de pouvoir sacrifier.</p>
+               <p rend="justify">Dans l’ennui des deux jours et malgré la contrainte, le travail avança rapidement. Je ne sais si peut-être déjà quelqu’un d’eux avait secrètement enfreint mon ordre. Cela n’importait point. Quand tous obéiraient, pensais-je, la mer n’en serait pas moins telle. On en pouvait toujours supposer un, pécheur, pour qui tous pâtiraient, — tous ne pouvant savoir ce qu’un seul d’entre eux aurait fait.</p>
+               <p rend="justify">Dans l’ennui des deux jours la mer fut azurée ; l’autre rive se révélait vaguement et se couronnait de mirages que le cours des heures variait. Je restais auprès de la tente du prince pour faciliter leur péché. — La nuit, je descendais jusqu’à la plage dont je connaissais la surprise. Je m’asseyais non loin du bord, uniquement épris de regarder. La lune se levait, plus pleine que la veille ; moins étonné je la pouvais mieux contempler. Il semblait que le silence était, là, vraiment et chose réelle, et que c’était mon adoration. Car je ne savais pas, avant, qu’une nuit pût être si belle, et je sentais en moi, plus profondément que je n’eusse pensé trouver profondeur en moi-même, un autre amour, plus fervent mille fois, plus doux, plus reposé que l’amour que j’avais pour le prince, et auquel il semblait que cet immense calme répondît.</p>
+               <p rend="justify">De sorte que, plus pacifique encore, cette nuit la troisième, lorsque la lune vint éclairer mes pas vers la berge — lorsque, pèlerin fatigué, furtif comme un voleur de nuit, j’eus porté, j’eus traîné par le pan du manteau qui revenait sur son visage, le prince, dont j’aurais pu voir la nudité, maintenant, mais cadavre et qui ne valait plus qu’on y pensât — lorsque je l’eus posé sous l’autel où le lendemain par pénitence dérisoire tout le peuple sacrifierait — quand je l’eus étendu dans cette cave étroite que pourquoi j’avais fait creuser — alors, de l’amour de mon âme enfin désolément délivré, seul dans la nuit je pus crier ma joie et repoussant le passé mort, laisser enfin mon espérance divaguer. — Je ne me doutais pas, avant, de combien j’étais las de ce pèlerinage, ne savais dans combien de nuit il s’enfonçait ; mais alors, m’avançant une dernière fois sur la berge, pour revoir sans plus de frayeur cette mer, après tout pour qui seul effrayante la croyait devoir traverser, la regardant alors si belle et comme de cristal azuré, je sentis ma foi de la veille très lentement se déplacer ; mon adoration toujours vive, puisque le prince était mort éperdue, s’élargir puissamment jusqu’aux limites mêmes de l’infini désert ; et, parce que mon âme plus grave se pénétrait de majesté, je croyais que c’était le bonheur.</p>
+               <p rend="justify">Maintenant que je crois qu’il est impossible, je ne me souviens plus si je parvins vraiment au bonheur. Je me souviens que je voulus chanter, que je ne pus, puisque ce n’était plus pour personne, de sorte qu’en moi-même et seulement je disais, et redisais sans plus comprendre ma pensée : Prince ! qui donc est mort ? — Pas moi.</p>
+               <p rend="justify">Joie ? peut-être ; je ne comprenais pas alors combien en l’instant même il triomphait ; car il n’était mort que pour moi et qui précisément seul l’aimais. Devant le peuple sa litière vidée devait toujours marcher comme emplie ; je devais incessamment l’avoir vu, et je ne parlais plus que pour rapporter ses paroles. Je ne comprenais pas d’abord de quel poids serait cette réalité de mon mensonge, et que le prince mort, dans ce mensonge, persévérait. Car, à l’imaginer sans cesse, mon amour était attisé. Je ne le savais rien que mort ; je ne pouvais l’imaginer que vivant. Parfois, la nuit, dans sa tente, tout seul à présent, je dormais ; et mon sommeil sans rêves me devenait comme une représentation de sa mort ; mais parfois à cause des autres, près de sa tente je faisais semblant de lui chanter ; alors je me souvenais de nos nuits et m’attristais d’avoir vu son visage. Ma douleur s’acharnait au simulacre imposé de sa présence. Comme aux vivants on lui portait chaque jour à manger ; tout ce que je faisais pour le représenter aux autres m’aidait à constater son absence. Plus je sentais qu’il eût dû être, plus je savais qu’il n’était pas.</p>
+               <p rend="justify">Et dès lors m’habita cette pensée, lassante et puissante comme un désir : certes je goûterai le bonheur de mon âme, déjà prêt, mais quand elle sera du peuple et de l’amour et complètement, délivrée.</p>
+               <p rend="justify">Maintenant le peuple est parti ; il a repris sa ville délaissée. Je l’ai ramené du désert. Il ne m’a pas aimé, parce que je prophétisais sans douceur, ayant peur de m’apitoyer ; et il n’a pas aimé le prince, car je ne supposais de lui que des paroles de rudesse : — Je ne pouvais parler d’amour puisque c’était pour un mensonge. Il fallait l’imposer jusqu’au bout ; ne pas autoriser ma défaillance. Puisque je n’avais pas de force, ne devais-je pas simuler… Mais je sais maintenant, s’il y a des prophètes, que c’est parce qu’ils ont perdu leur Dieu. Car si Lui ne se taisait pas, pourquoi formuler ses paroles ?</p>
+               <p rend="justify">Certes aussi j’ai fait de faux miracles ; j’ai fait jaillir l’eau du rocher ; j’ai fait douces des sources amères, et quand est venu le vol des cailles j’ai dit que c’était parce que j’avais prié. Quand Boubaker s’est soulevé je ne sais pas comment j’ai pu maîtriser sa révolte, sinon que j’agissais en désespéré. J’ai menacé. Après, plus aucun ne douta de ma force ; il n’y avait que moi qui n’en étais pas convaincu.</p>
+               <p rend="justify">Ma tâche de pâtre est finie ; mon âme est enfin délivrée. Maintenant de joie que crierai-je ? Je ne peux plus ne plus chanter que des chansons. — Je ne peux plus, baigné d’amour, le soir, crier des vers au bord des places, ni plus faire danser les enfants. Je ne peux plus n’avoir rien connu que la ville ; n’avoir pas traversé le désert. — Maintenant El Hadj, que ferai-je ? Que le prince soit mort — le sais-je ? Je me souviens des noces qui l’attendent, comme si rien de lui n’était mort… Voici, voici dans l’intérieur du palais de la Ville, je sais qu’un jeune frère du prince grandit… Attend-il que ma voix le guide ? et recommencerai-je avec lui, avec un nouveau peuple une nouvelle histoire, que je reconnaîtrai pas à pas… ou si, comme ces esprits pleins de deuil et nourris de cendres amères, je m’en irai tout seul — comme ceux cachant un secret, qui rôdent autour des cimetières, et qui cherchent sans le trouver leur repos dans les lieux déserts.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>TABLE</head>
+               <table rend="frame" xml:id="Table2">
+                  <row>
+                     <cell>PHILOCTÈTE</cell>
+                     <cell rend="justify">5</cell>
+                  </row>
+                  <row>
+                     <cell>LE TRAITÉ DU NARCISSE</cell>
+                     <cell rend="justify">67</cell>
+                  </row>
+                  <row>
+                     <cell>LA TENTATIVE AMOUREUSE</cell>
+                     <cell rend="justify">93</cell>
+                  </row>
+                  <row>
+                     <cell>EL HADJ</cell>
+                     <cell rend="justify">131</cell>
+                  </row>
+               </table>
+               <p rend="justify">Paris. — Imprimerie V<hi rend="sup">e</hi> Albouy, 75, avenue d’Italie. 104.6.89</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

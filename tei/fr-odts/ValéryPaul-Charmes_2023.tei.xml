@@ -1,0 +1,1983 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Charmes</title>
+            <author>Paul Valéry</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-01T20:11:34Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">odts/fr-odts/ValéryPaul-Charmes_2023.epub.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Paul Valéry</name>
+               <date>2024-01-01T20:11:34Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Charmes</head>
+         <author>Paul Valéry</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">odts/fr-odts/ValéryPaul-Charmes_2023.epub.odt</p>
+         <p>PAUL VALÉRY<lb/>de l’Académie Française</p>
+         <pb/>
+         <div type="div1">
+            <head>CHARMES</head>
+            <p rend="justify">nouvelle édition revue</p>
+            <lg>
+               <l>PARIS</l>
+               <l>Librairie Gallimard</l>
+               <l>ÉDITIONS DE LA NOUVELLE REVUE FRANÇAISE</l>
+               <l>3, rue de Grenelle (VI<hi rend="sup">me</hi>)</l>
+            </lg>
+            <p rend="justify">Il a été tiré de la présente édition six mille deux cent quatre vingt quatorze exemplaires savoir :</p>
+            <p rend="justify">soixante quatorze exemplaires sur Roma Tiziano, dont vingt quatre exemplaires hors commerce numérotés de HC. 1 à HC. 24, et cinquante exemplaires numérotés de I à L.</p>
+            <p rend="justify">deux cent vingt exemplaires sur vélin pur fil du Marais, dont vingt exemplaires hors commerce numérotés de HC. 25 à HC. 44 et deux cents exemplaires numérotés de LI à CCL.</p>
+            <p rend="justify">et six mille exemplaires sur vélin, numérotés de 1 à 6.000.</p>
+            <p rend="justify">Exemplaire numéro</p>
+            <p rend="justify">Tous droits de reproduction, de traduction et d’adaptation réservés pour tous les pays y compris la Russie.<lb/>Copyright by Librairie Gallimard, 1926.</p>
+            <pb/>
+            <div type="div2">
+               <head>AURORE</head>
+               <lg>
+                  <l>A Paul Poujaud</l>
+                  <l>La confusion morose</l>
+                  <l>Qui me servait de sommeil,</l>
+                  <l>Se dissipe dès la rose</l>
+                  <l>Apparence du soleil.</l>
+                  <l>Dans mon âme je m’avance,</l>
+                  <l>Tout ailé de confiance :</l>
+                  <l>C’est la première oraison !</l>
+                  <l>A peine sorti des sables,</l>
+                  <l>Je fais des pas admirables</l>
+                  <l>Dans les pas de ma raison.</l>
+                  <l>Salut ! encore endormies</l>
+                  <l>A vos sourires jumeaux,</l>
+                  <l>Similitudes amies</l>
+                  <l>Qui brillez parmi les mots !</l>
+                  <l>Au vacarme des abeilles</l>
+                  <l>Je vous aurai par corbeilles,</l>
+                  <l>Et sur l’échelon tremblant</l>
+                  <l>De mon échelle dorée</l>
+                  <l>Ma prudence évaporée</l>
+                  <l>Déjà pose son pied blanc.</l>
+                  <l>Quelle aurore sur ces croupes</l>
+                  <l>Qui commencent de frémir !</l>
+                  <l>Déjà s’étirent par groupes</l>
+                  <l>Telles qui semblaient dormir :</l>
+                  <l>L’une brille, l’autre bâille ;</l>
+                  <l>Et sur un peigne d’écaille,</l>
+                  <l>Égarant ses vagues doigts,</l>
+                  <l>Du songe encore prochaine,</l>
+                  <l>La paresseuse l’enchaîne</l>
+                  <l>Aux prémisses de sa voix.</l>
+                  <l>Quoi ! c’est vous, mal déridées !</l>
+                  <l>Que fîtes-vous, cette nuit,</l>
+                  <l>Maîtresses de l’âme, Idées,</l>
+                  <l>Courtisanes par ennui ?</l>
+                  <l>— Toujours sages, disent-elles,</l>
+                  <l>Nos présences immortelles</l>
+                  <l>Jamais n’ont trahi ton toit !</l>
+                  <l>Nous étions non éloignées,</l>
+                  <l>Mais secrètes araignées</l>
+                  <l>Dans les ténèbres de toi !</l>
+                  <l>Ne seras-tu pas de joie</l>
+                  <l>Ivre ! à voir de l’ombre issus</l>
+                  <l>Cent mille soleils de soie</l>
+                  <l>Sur tes énigmes tissus ?</l>
+                  <l>Regarde ce que nous fîmes :</l>
+                  <l>Nous avons sur tes abîmes</l>
+                  <l>Tendu nos fils primitifs,</l>
+                  <l>Et pris la nature nue</l>
+                  <l>Dans une trame ténue</l>
+                  <l>De tremblants préparatifs…</l>
+                  <l>Leur toile spirituelle,</l>
+                  <l>Je la brise, et vais cherchant</l>
+                  <l>Dans ma forêt sensuelle</l>
+                  <l>Les oracles de mon chant.</l>
+                  <l>Être !… Universelle oreille !</l>
+                  <l>Toute l’âme s’appareille</l>
+                  <l>A l’extrême du désir…</l>
+                  <l>Elle s’écoute qui tremble</l>
+                  <l>Et parfois ma lèvre semble</l>
+                  <l>Son frémissement saisir.</l>
+                  <l>Voici mes vignes ombreuses.</l>
+                  <l>Les berceaux de mes hasards !</l>
+                  <l>Les images sont nombreuses</l>
+                  <l>A l’égal de mes regards…</l>
+                  <l>Toute feuille me présente</l>
+                  <l>Une source complaisante</l>
+                  <l>Où je bois ce frêle bruit…</l>
+                  <l>Tout m’est pulpe, tout amande,</l>
+                  <l>Tout calice me demande</l>
+                  <l>Que j’attende pour son fruit.</l>
+                  <l>Je ne crains pas les épines !</l>
+                  <l>L’éveil est bon, même dur !</l>
+                  <l>Ces idéales rapines</l>
+                  <l>Ne veulent pas qu’on soit sûr :</l>
+                  <l>Il n’est pour ravir un monde</l>
+                  <l>De blessure si profonde</l>
+                  <l>Qui ne soit au ravisseur</l>
+                  <l>Une féconde blessure,</l>
+                  <l>Et son propre sang l’assure</l>
+                  <l>D’être le vrai possesseur.</l>
+                  <l>J’approche la transparence</l>
+                  <l>De l’invisible bassin</l>
+                  <l>Où nage mon Espérance</l>
+                  <l>Que l’eau porte par le sein.</l>
+                  <l>Son col coupe le temps vague</l>
+                  <l>Et soulève cette vague</l>
+                  <l>Que fait un col sans pareil…</l>
+                  <l>Elle sent sous l’onde unie</l>
+                  <l>La profondeur infinie,</l>
+                  <l>Et frémit depuis l’orteil.</l>
+               </lg>
+               <div type="div3">
+                  <head>AU PLATANE</head>
+                  <lg>
+                     <l>A André Fontainas</l>
+                     <l>Tu penches, grand Platane, et te proposes nu,</l>
+                     <l>Blanc comme un jeune Scythe,</l>
+                     <l>Mais ta candeur est prise, et ton pied retenu</l>
+                     <l>Par la force du site.</l>
+                     <l>Ombre retentissante en qui le même azur</l>
+                     <l>Qui t’emporte, s’apaise,</l>
+                     <l>La noire mère astreint ce pied natal et pur</l>
+                     <l>A qui la fange pèse.</l>
+                     <l>De ton front voyageur les vents ne veulent pas ;</l>
+                     <l>La terre tendre et sombre,</l>
+                     <l>O Platane, jamais ne laissera d’un pas</l>
+                     <l>S’émerveiller ton ombre !</l>
+                     <l>Ce front n’aura d’accès qu’aux degrés lumineux</l>
+                     <l>Où la sève l’exalte ;</l>
+                     <l>Tu peux grandir, candeur, mais non rompre les nœuds</l>
+                     <l>De l’éternelle halte !</l>
+                     <l>Pressens autour de toi d’autres vivants liés</l>
+                     <l>Par l’hydre vénérable ;</l>
+                     <l>Tes pareils sont nombreux, des pins aux peupliers,</l>
+                     <l>De l’yeuse à l’érable,</l>
+                     <l>Qui, par les morts saisis, les pieds échevelés</l>
+                     <l>Dans la confuse cendre,</l>
+                     <l>Sentent les fuir les fleurs, et leurs spermes ailés</l>
+                     <l>Le cours léger descendre.</l>
+                     <l>Le tremble pur, le charme, et ce hêtre formé</l>
+                     <l>De quatre jeunes femmes,</l>
+                     <l>Ne cessent point de battre un ciel toujours fermé,</l>
+                     <l>Vêtus en vain de rames.</l>
+                     <l>Ils vivent séparés, ils pleurent confondus</l>
+                     <l>Dans une seule absence,</l>
+                     <l>Et leurs membres d’argent sont vainement fendus</l>
+                     <l>A leur douce naissance.</l>
+                     <l>Quand l’âme lentement qu’ils expirent le soir</l>
+                     <l>Vers l’Aphrodite monte,</l>
+                     <l>La vierge doit dans l’ombre, en silence, s’asseoir,</l>
+                     <l>Toute chaude de honte.</l>
+                     <l>Elle se sent surprendre, et pâle, appartenir</l>
+                     <l>A ce tendre présage</l>
+                     <l>Qu’une présente chair tourne vers l’avenir</l>
+                     <l>Par un jeune visage…</l>
+                     <l>Mais toi, de bras plus purs que les bras animaux,</l>
+                     <l>Toi qui dans l’or les plonges,</l>
+                     <l>Toi qui formes au jour le fantôme des maux</l>
+                     <l>Que le sommeil fait songes,</l>
+                     <l>Haute profusion de feuilles, trouble fier</l>
+                     <l>Quand l’âpre tramontane</l>
+                     <l>Sonne, au comble de l’or, l’azur du jeune hiver</l>
+                     <l>Sur tes harpes, Platane,</l>
+                     <l>Ose gémir !… Il faut, ô souple chair du bois,</l>
+                     <l>Te tordre, te détordre,</l>
+                     <l>Te plaindre sans te rompre, et rendre aux vents la voix</l>
+                     <l>Qu’ils cherchent en désordre !</l>
+                     <l>Flagelle-toi !… Parais l’impatient martyr</l>
+                     <l>Qui soi-même s’écorche,</l>
+                     <l>Et dispute à la flamme impuissante à partir</l>
+                     <l>Ses retours vers la torche !</l>
+                     <l>Afin que l’hymne monte aux oiseaux qui naîtront,</l>
+                     <l>Et que le pur de l’âme</l>
+                     <l>Fasse frémir d’espoir les feuillages d’un tronc</l>
+                     <l>Qui rêve de la flamme,</l>
+                     <l>Je t’ai choisi, puissant personnage d’un parc,</l>
+                     <l>Ivre de ton tangage,</l>
+                     <l>Puisque le ciel t’exerce, et te presse, ô grand arc,</l>
+                     <l>De lui rendre un langage !</l>
+                     <l>O qu’amoureusement des Dryades rival,</l>
+                     <l>Le seul poète puisse</l>
+                     <l>Flatter ton corps poli comme il fait du Cheval</l>
+                     <l>L’ambitieuse cuisse !…</l>
+                     <l>— Non, dit l’Arbre. Il dit : Non ! par l’étincellement</l>
+                     <l>De sa tête superbe,</l>
+                     <l>Que la tempête traite universellement</l>
+                     <l>Comme elle fait une herbe !</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>AIR DE SÉMIRAMIS</head>
+                  <p rend="justify">(fragment d’un ancien poème)</p>
+                  <lg>
+                     <l>A Camille Mauclair</l>
+                     <l>Dès l’aube, chers rayons, mon front songe à vous ceindre !</l>
+                     <l>A peine il se redresse, il voit d’un œil qui dort</l>
+                     <l>Sur le marbre absolu, le temps pâle se peindre</l>
+                     <l>L’heure sur moi descendre et croître jusqu’à l’or…</l>
+                  </lg>
+                  <lg>
+                     <l>… « Existe !… Sois enfin toi-même ! dit l’Aurore,</l>
+                     <l>O grande âme, il est temps que tu formes un corps !</l>
+                     <l>Hâte-toi de choisir un jour digne d’éclore,</l>
+                     <l>Parmi tant d’autres feux, tes immortels trésors !</l>
+                     <l>Déjà, contre la nuit, lutte l’âpre trompette !</l>
+                     <l>Une lèvre vivante attaque l’air glacé ;</l>
+                     <l>L’or pur, de tour en tour, éclate et se répète,</l>
+                     <l>Rappelant tout l’espace aux splendeurs du passé !</l>
+                     <l>Remonte aux vrais regards ! Tire-toi de tes ombres,</l>
+                     <l>Et comme du nageur, dans le plein de la mer,</l>
+                     <l>Le talon tout-puissant l’expulse des eaux sombres,</l>
+                     <l>Toi, frappe au fond de l’être ! Interpelle ta chair,</l>
+                     <l>Traverse sans retard ses invicibles trames,</l>
+                     <l>Épuise l’infini de l’effort impuissant,</l>
+                     <l>Et débarrasse-toi d’un désordre de drames</l>
+                     <l>Qu’engendrent sur ton lit les monstres de ton sang !</l>
+                     <l>J’accours de l’Orient suffire à ton caprice !</l>
+                     <l>Et je te viens offrir mes plus purs aliments ;</l>
+                     <l>Que d’espace et de vent ta flamme se nourrisse !</l>
+                     <l>Viens te joindre à l’éclat de mes pressentiments ! »</l>
+                     <l>— Je réponds !… Je surgis de ma profonde absence !</l>
+                     <l>Mon cœur m’arrache aux morts que frôlait mon sommeil,</l>
+                     <l>Et vers mon but, grand aigle éclatant de puissance,</l>
+                     <l>Il m’emporte !… Je vole au-devant du soleil !</l>
+                     <l>Je ne prends qu’une rose et fuis… La belle flèche</l>
+                     <l>Au flanc !… Ma tête enfante une foule de pas…</l>
+                     <l>Ils courent vers ma tour favorite, où la fraîche</l>
+                     <l>Altitude m’appelle, et je lui tends les bras !</l>
+                     <l>Monte, ô Sémiramis, maîtresse d’une spire</l>
+                     <l>Qui d’un cœur sans amour s’élance au seul honneur !</l>
+                     <l>Ton œil impérial a soif du grand empire</l>
+                     <l>A qui ton sceptre dur fait sentir le bonheur…</l>
+                     <l>Ose l’abîme !… Passe un dernier pont de roses !</l>
+                     <l>Je t’approche, péril ! Orgueil plus irrité !</l>
+                     <l>Ces fourmis sont à moi ! Ces villes sont mes choses,</l>
+                     <l>Ces chemins sont les traits de mon autorité !</l>
+                     <l>C’est une vaste peau fauve que mon royaume !</l>
+                     <l>J’ai tué le lion qui portait cette peau ;</l>
+                     <l>Mais toujours le fumet du féroce fantôme</l>
+                     <l>Flotte chargé de mort, et garde mon troupeau !</l>
+                     <l>Enfin, j’offre au soleil le secret de mes charmes !</l>
+                     <l>Jamais il n’a doré de seuil si gracieux !</l>
+                     <l>De ma fragilité je goûte les alarmes</l>
+                     <l>Entre le double appel de la terre et des cieux !</l>
+                     <l>Repas de ma puissance, intelligible orgie,</l>
+                     <l>Quel parvis vaporeux de toits et de forêts</l>
+                     <l>Place au pied de la pure et divine vigie,</l>
+                     <l>Ce calme éloignement d’événements secrets !</l>
+                     <l>L’âme enfin sur ce faîte a trouvé ses demeures !</l>
+                     <l>O de quelle grandeur, elle tient sa grandeur</l>
+                     <l>Quand mon cœur soulevé d’ailes intérieures</l>
+                     <l>Ouvre au ciel en moi-même une autre profondeur !</l>
+                     <l>Anxieuse d’azur, de gloire consumée,</l>
+                     <l>Poitrine, gouffre d’ombre aux narines de chair,</l>
+                     <l>Aspire cet encens d’âmes et de fumée</l>
+                     <l>Qui monte d’une ville analogue à la mer !</l>
+                     <l>Soleil, soleil, regarde en toi rire mes ruches !</l>
+                     <l>L’intense et sans repos Babylone bruit,</l>
+                     <l>Toute rumeur de chars, clairons, chaînes de cruches</l>
+                     <l>Et plaintes de la pierre au mortel qui construit.</l>
+                     <l>Qu’ils flattent mon désir de temples implacables,</l>
+                     <l>Les sons aigus de scie et les cris des ciseaux,</l>
+                     <l>Et ces gémissements de marbres et de câbles</l>
+                     <l>Qui peuplent l’air vivant de structure et d’oiseaux !</l>
+                     <l>Je vois mon temple neuf naître parmi les mondes,</l>
+                     <l>Et mon vœu prendre place au séjour des destins ;</l>
+                     <l>Il semble de soi-même au ciel monter par ondes</l>
+                     <l>Sous le bouillonnement des actes indistincts.</l>
+                     <l>Peuple stupide, à qui ma puissance m’enchaîne,</l>
+                     <l>Hélas ! mon orgueil même a besoin de tes bras !</l>
+                     <l>Et que ferait mon cœur s’il n’aimait cette haine</l>
+                     <l>Dont l’innombrable tête est si douce à mes pas ?</l>
+                     <l>Plate, elle me murmure une musique telle</l>
+                     <l>Que le calme de l’onde en fait de sa fureur,</l>
+                     <l>Quand elle met sa force aux pieds d’une mortelle</l>
+                     <l>Mais qu’elle se réserve un retour de terreur.</l>
+                     <l>En vain j’entends monter contre ma face auguste</l>
+                     <l>Ce murmure de crainte et de férocité :</l>
+                     <l>A l’image des dieux la grande âme est injuste</l>
+                     <l>Tant elle s’appareille à la nécessité !</l>
+                     <l>Des douceurs de l’amour quoique parfois touchée,</l>
+                     <l>Pourtant nulle tendresse et nuls apaisements</l>
+                     <l>Ne me laissent captive et victime couchée</l>
+                     <l>Dans les puissants liens du sommeil des amants.</l>
+                     <l>Baisers, baves d’amour, basses béatitudes !</l>
+                     <l>O mouvements marins des amants confondus,</l>
+                     <l>Mon cœur m’a conseillé de telles solitudes</l>
+                     <l>Et j’ai placé si haut mes jardins suspendus</l>
+                     <l>Que mes suprêmes fleurs n’attendent que la foudre</l>
+                     <l>Et qu’en dépit des pleurs des mortels les plus beaux,</l>
+                     <l>A mes roses, la main qui touche tombe en poudre ;</l>
+                     <l>Mes plus chers souvenirs bâtissent des tombeaux !</l>
+                     <l>Qu’ils sont doux à mon cœur les temples qu’il enfante</l>
+                     <l>Quand tiré lentement du songe de mes seins</l>
+                     <l>Je vois un monument de masse triomphante</l>
+                     <l>Joindre dans mes regards l’ombre de mes desseins !</l>
+                     <l>Battez, cymbales d’or, mamelles cadencées,</l>
+                     <l>Et roses palpitant sur ma pure paroi !</l>
+                     <l>Que je m’évanouisse en mes vastes pensées,</l>
+                     <l>Sage Sémiramis, enchanteresse et roi.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>CANTIQUE DES COLONNES</head>
+                  <lg>
+                     <l>A Léon-Paul Fargue</l>
+                     <l>Douces colonnes, aux</l>
+                     <l>Chapeaux garnis de jour,</l>
+                     <l>Ornés de vrais oiseaux</l>
+                     <l>Qui marchent sur le tour,</l>
+                     <l>Douces colonnes, ô</l>
+                     <l>L’orchestre de fuseaux !</l>
+                     <l>Chacun immole son</l>
+                     <l>Silence à l’unisson.</l>
+                     <l>— Que portez-vous si haut,</l>
+                     <l>Égales radieuses ?</l>
+                     <l>— Au désir sans défaut</l>
+                     <l>Nos grâces studieuses !</l>
+                     <l>Nous chantons à la fois</l>
+                     <l>Que nous portons les cieux !</l>
+                     <l>O seule et sage voix</l>
+                     <l>Qui chantes pour les yeux !</l>
+                     <l>Vois quels hymnes candides !</l>
+                     <l>Quelle sonorité</l>
+                     <l>Nos éléments limpides</l>
+                     <l>Tirent de la clarté !</l>
+                     <l>Si froides et dorées</l>
+                     <l>Nous fûmes de nos lits</l>
+                     <l>Par le ciseau tirées,</l>
+                     <l>Pour devenir ces lys !</l>
+                     <l>De nos lits de cristal</l>
+                     <l>Nous fûmes éveillées,</l>
+                     <l>Des griffes de métal</l>
+                     <l>Nous ont appareillées.</l>
+                     <l>Pour affronter la lune,</l>
+                     <l>La lune et le soleil,</l>
+                     <l>On nous polit chacune</l>
+                     <l>Comme ongle de l’orteil !</l>
+                     <l>Servantes sans genoux,</l>
+                     <l>Sourires sans figures,</l>
+                     <l>La belle devant nous</l>
+                     <l>Se sent les jambes pures,</l>
+                     <l>Pieusement pareilles,</l>
+                     <l>Le nez sous le bandeau</l>
+                     <l>Et nos riches oreilles</l>
+                     <l>Sourdes au blanc fardeau,</l>
+                     <l>Un temple sur les yeux</l>
+                     <l>Noirs pour l’éternité,</l>
+                     <l>Nous allons sans les dieux</l>
+                     <l>A la divinité !</l>
+                     <l>Nos antiques jeunesses,</l>
+                     <l>Chair mate et belles ombres,</l>
+                     <l>Sont fières des finesses</l>
+                     <l>Qui naissent par les nombres !</l>
+                     <l>Filles des nombres d’or,</l>
+                     <l>Fortes des lois du ciel,</l>
+                     <l>Sur nous tombe et s’endort</l>
+                     <l>Un Dieu couleur de miel.</l>
+                     <l>Il dort content, le jour,</l>
+                     <l>Que chaque jour offrons</l>
+                     <l>Sur la table d’amour</l>
+                     <l>Étale sur nos fronts.</l>
+                     <l>Incorruptibles sœurs,</l>
+                     <l>Mi-brûlantes, mi-fraîches,</l>
+                     <l>Nous prîmes pour danseurs</l>
+                     <l>Brises et feuilles sèches,</l>
+                     <l>Et les siècles par dix,</l>
+                     <l>Et les peuples passés,</l>
+                     <l>C’est un profond jadis,</l>
+                     <l>Jadis jamais assez !</l>
+                     <l>Sous nos mêmes amours</l>
+                     <l>Plus lourdes que le monde</l>
+                     <l>Nous traversons les jours</l>
+                     <l>Comme une pierre l’onde !</l>
+                     <l>Nous marchons dans le temps</l>
+                     <l>Et nos corps éclatants</l>
+                     <l>Ont des pas ineffables</l>
+                     <l>Qui marquent dans les fables…</l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>FRAGMENTS DU NARCISSE</head>
+               <p rend="justify">I</p>
+               <lg>
+                  <l>Cur aliquid vidi ?</l>
+                  <l>Que tu brilles enfin, terme pur de ma course !</l>
+                  <l>Ce soir, comme d’un cerf, la fuite vers la source</l>
+                  <l>Ne cesse qu’il ne tombe au milieu des roseaux,</l>
+                  <l>Ma soif me vient abattre au bord même des eaux.</l>
+                  <l>Mais, pour désaltérer cette amour curieuse,</l>
+                  <l>Je ne troublerai pas l’onde mystérieuse :</l>
+                  <l>Nymphes ! si vous m’aimez, il faut toujours dormir !</l>
+                  <l>La moindre âme dans l’air vous fait toutes frémir ;</l>
+                  <l>Même, dans sa faiblesse, aux ombres échappée,</l>
+                  <l>Si la feuille éperdue effleure la napée,</l>
+                  <l>Elle suffit à rompre un univers dormant…</l>
+                  <l>Votre sommeil importe à mon enchantement,</l>
+                  <l>Il craint jusqu’au frisson d’une plume qui plonge !</l>
+                  <l>Gardez-moi longuement ce visage pour songe</l>
+                  <l>Qu’une absence divine est seule à concevoir !</l>
+                  <l>Sommeil des nymphes, ciel, ne cessez de me voir !</l>
+                  <l>Rêvez, rêvez de moi !… Sans vous, belles fontaines,</l>
+                  <l>Ma beauté, ma douleur, me seraient incertaines.</l>
+                  <l>Je chercherais en vain ce que j’ai de plus cher,</l>
+                  <l>Sa tendresse confuse étonnerait ma chair,</l>
+                  <l>Et mes tristes regards, ignorants de mes charmes,</l>
+                  <l>A d’autres que moi-même adresseraient leurs larmes…</l>
+                  <l>Vous attendiez, peut-être, un visage sans pleurs,</l>
+                  <l>Vous calmes, vous toujours de feuilles et de fleurs,</l>
+                  <l>Et de l’incorruptible altitude hantées,</l>
+                  <l>O Nymphes !… Mais docile aux pentes enchantées</l>
+                  <l>Qui me firent vers vous d’invincibles chemins,</l>
+                  <l>Souffrez ce beau reflet des désordres humains !</l>
+                  <l>Heureux vos corps fondus, Eaux planes et profondes !</l>
+                  <l>Je suis seul !… Si les Dieux, les échos et les ondes</l>
+                  <l>Et si tant de soupirs permettent qu’on le soit !</l>
+                  <l>Seul !… Mais encor celui qui s’approche de soi</l>
+                  <l>Quand il s’approche aux bords que bénit ce feuillage…</l>
+                  <l>Des cimes, l’air déjà cesse le pur pillage ;</l>
+                  <l>La voix des sources change, et me parle du soir ;</l>
+                  <l>Un grand calme m’écoute, où j’écoute l’espoir.</l>
+                  <l>J’entends l’herbe des nuits croître dans l’ombre sainte,</l>
+                  <l>Et la lune perfide élève son miroir</l>
+                  <l>Jusque dans les secrets de la fontaine éteinte…</l>
+                  <l>Jusque dans les secrets que je crains de savoir,</l>
+                  <l>Jusque dans le repli de l’amour de soi-même,</l>
+                  <l>Rien ne peut échapper au silence du soir…</l>
+                  <l>La nuit vient sur ma chair lui souffler que je l’aime.</l>
+                  <l>Sa voix fraîche à mes vœux tremble de consentir ;</l>
+                  <l>A peine, dans la brise, elle semble mentir,</l>
+                  <l>Tant le frémissement de son temple tacite</l>
+                  <l>Conspire au spacieux silence d’un tel site.</l>
+                  <l>O douceur de survivre à la force du jour,</l>
+                  <l>Quand elle se retire, enfin rose d’amour,</l>
+                  <l>Encore un peu brûlante, et lasse, mais comblée,</l>
+                  <l>Et de tant de trésors tendrement accablée</l>
+                  <l>Par de tels souvenirs qu’ils empourprent sa mort,</l>
+                  <l>Et qu’ils la font heureuse agenouiller dans l’or,</l>
+                  <l>Puis s’étendre, se fondre, et perdre sa vendange</l>
+                  <l>Et s’éteindre en un songe en qui le soir se change.</l>
+                  <l>Quelle perte en soi-même offre un si calme lieu !</l>
+                  <l>L’âme, jusqu’à périr, s’y penche pour un Dieu</l>
+                  <l>Qu’elle demande à l’onde, onde déserte, et digne</l>
+                  <l>Sur son lustre, du lisse effacement d’un cygne…</l>
+                  <l>A cette onde jamais ne burent les troupeaux !</l>
+                  <l>D’autres, ici perdus, trouveraient le repos,</l>
+                  <l>Et dans la sombre terre, un clair tombeau qui s’ouvre…</l>
+                  <l>Mais ce n’est pas le calme, hélas ! que j’y découvre !</l>
+                  <l>Quand l’opaque délice où dort cette clarté,</l>
+                  <l>Cède à mon corps l’horreur du feuillage écarté,</l>
+                  <l>Alors, vainqueur de l’ombre, ô mon corps tyrannique,</l>
+                  <l>Repoussant aux forêts leur épaisseur panique,</l>
+                  <l>Tu regrettes bientôt leur éternelle nuit !</l>
+                  <l>Pour l’inquiet Narcisse, il n’est ici qu’ennui !</l>
+                  <l>Tout m’appelle et m’enchaîne à la chair lumineuse</l>
+                  <l>Que m’oppose des eaux la paix vertigineuse !</l>
+                  <l>Que je déplore ton éclat fatal et pur,</l>
+                  <l>Si mollement de moi, fontaine environnée,</l>
+                  <l>Où puisèrent mes yeux dans un mortel azur</l>
+                  <l>Les yeux mêmes et noirs de leur âme étonnée !</l>
+                  <l>Profondeur, profondeur, songes qui me voyez,</l>
+                  <l>Comme ils verraient une autre vie,</l>
+                  <l>Dites, ne suis-je pas celui que vous croyez,</l>
+                  <l>Votre corps vous fait-il envie ?</l>
+                  <l>Cessez, sombres esprits, cet ouvrage anxieux</l>
+                  <l>Qui se fait dans l’âme qui veille ;</l>
+                  <l>Ne cherchez pas en vous, n’allez surprendre aux cieux</l>
+                  <l>Le malheur d’être une merveille :</l>
+                  <l>Trouvez dans la fontaine un corps délicieux…</l>
+                  <l>Prenant à vos regards cette parfaite proie,</l>
+                  <l>Du monstre de s’aimer faites-vous un captif ;</l>
+                  <l>Dans les errants filets de vos longs cils de soie</l>
+                  <l>Son gracieux éclat vous retienne pensif.</l>
+                  <l>Mais ne vous flattez pas de le changer d’empire.</l>
+                  <l>Ce cristal est son vrai séjour ;</l>
+                  <l>Les efforts mêmes de l’amour</l>
+                  <l>Ne le sauraient de l’onde extraire qu’il n’expire…</l>
+                  <l>
+                     <hi rend="italic">Pire.</hi>
+                  </l>
+                  <l>Pire ?…</l>
+                  <l>Quelqu’un redit : <hi rend="italic">Pire…</hi>  O moqueur !</l>
+                  <l>Écho lointaine est prompte à rendre son oracle !</l>
+                  <l>De son rire enchanté, le roc brise mon cœur,</l>
+                  <l>Et le silence, par miracle,</l>
+                  <l>Cesse !… parle, renaît, sur la face des eaux…</l>
+                  <l>Pire ?…</l>
+                  <l>Pire destin !… Vous le dites, roseaux,</l>
+                  <l>Qui reprîtes des vents ma plainte vagabonde !</l>
+                  <l>Antres, qui me rendez mon âme plus profonde,</l>
+                  <l>Vous renflez de votre ombre une voix qui se meurt…</l>
+                  <l>Vous me le murmurez, ramures !… O rumeur</l>
+                  <l>Déchirante, et docile aux souffles sans figure,</l>
+                  <l>Votre or léger s’agite, et joue avec l’augure…</l>
+                  <l>Tout se mêle de moi, brutes divinités !</l>
+                  <l>Mes secrets dans les airs sonnent ébruités,</l>
+                  <l>Le roc rit ; l’arbre pleure ; et par sa voix charmante,</l>
+                  <l>Je ne puis jusqu’aux cieux que je ne me lamente</l>
+                  <l>D’appartenir sans force à d’éternels attraits !</l>
+                  <l>Hélas ! entre les bras qui naissent des forêts,</l>
+                  <l>Une tendre lueur d’heure ambiguë existe…</l>
+                  <l>Là, d’un reste du jour, se forme un fiancé,</l>
+                  <l>Nu, sur la place pâle où m’attire l’eau triste,</l>
+                  <l>Délicieux démon désirable et glacé !</l>
+                  <l>Te voici, mon doux corps de lune et de rosée,</l>
+                  <l>O forme obéissante à mes vœux opposée !</l>
+                  <l>Qu’ils sont beaux de mes bras les dons vastes et vains !</l>
+                  <l>Mes lentes mains, dans l’or adorable se lassent</l>
+                  <l>D’appeler ce captif que les feuilles enlacent ;</l>
+                  <l>Mon cœur jette aux échos l’éclat des noms divins !…</l>
+                  <l>Mais que ta bouche est belle en ce muet blasphème !</l>
+                  <l>O semblable !… Et pourtant, plus parfait que moi-même,</l>
+                  <l>Éphémère immortel, si clair devant mes yeux,</l>
+                  <l>Pâles membres de perle, et ces cheveux soyeux,</l>
+                  <l>Faut-il qu’à peine aimés, l’ombre les obscurcisse,</l>
+                  <l>Et que la nuit déjà nous divise, ô Narcisse,</l>
+                  <l>Et glisse entre nous deux le fer qui coupe un fruit !</l>
+                  <l>Qu’as-tu ?</l>
+                  <l>Ma plainte même est funeste ?…</l>
+                  <l>Le bruit</l>
+                  <l>Du souffle que j’enseigne à tes lèvres, mon double,</l>
+                  <l>Sur la limpide lame a fait courir un trouble !…</l>
+                  <l>Tu trembles !… Mais ces mots que j’expire à genoux</l>
+                  <l>Ne sont pourtant qu’une âme hésitante entre nous,</l>
+                  <l>Entre ce front si pur et ma lourde mémoire…</l>
+                  <l>Je suis si près de toi que je pourrais te boire,</l>
+                  <l>O visage !… Ma soif est un esclave nu…</l>
+                  <l>Jusqu’à ce temps charmant je m’étais inconnu,</l>
+                  <l>Et je ne savais pas me chérir et me joindre !</l>
+                  <l>Mais te voir, cher esclave, obéir à la moindre</l>
+                  <l>Des ombres dans mon cœur se fuyant à regret,</l>
+                  <l>Voir sur mon front l’orage et les feux d’un secret,</l>
+                  <l>Voir, ô merveille, voir ! ma bouche nuancée</l>
+                  <l>Trahir… peindre sur l’onde une fleur de pensée,</l>
+                  <l>Et quels événements étinceler dans l’œil !</l>
+                  <l>J’y trouve un tel trésor d’impuissance et d’orgueil,</l>
+                  <l>Que nulle vierge enfant échappée au satyre,</l>
+                  <l>Nulle ! aux fuites habile, aux chutes sans émoi,</l>
+                  <l>Nulle des nymphes, nulle amie, ne m’attire</l>
+                  <l>Comme tu fais sur l’onde, inépuisable Moi !…</l>
+               </lg>
+               <p rend="justify">II</p>
+               <lg>
+                  <l>Fontaine, ma fontaine, eau froidement présente,</l>
+                  <l>Douce aux purs animaux, aux humains complaisante</l>
+                  <l>Qui d’eux-mêmes tentés, suivent au fond la mort,</l>
+                  <l>Tout est songes pour toi, sœur tranquille du sort !</l>
+                  <l>A peine en souvenir change-t-il un présage,</l>
+                  <l>Que pareille sans cesse à son fuyant visage,</l>
+                  <l>Sitôt de ton sommeil les cieux te sont ravis.</l>
+                  <l>Mais si pure tu sois des êtres que tu vis,</l>
+                  <l>Onde sur qui les ans passent comme les nues,</l>
+                  <l>Que de choses pourtant doivent t’être connues,</l>
+                  <l>Astres, roses, saisons, les corps et leurs amours !</l>
+                  <l>Claire, mais si profonde, une nymphe toujours</l>
+                  <l>Effleurée, et vivant de tout ce qui l’approche,</l>
+                  <l>Nourrit quelque sagesse à l’abri de sa roche,</l>
+                  <l>A l’ombre de ce jour qu’elle peint sous les bois.</l>
+                  <l>Elle sait à jamais les choses d’une fois…</l>
+                  <l>O présence pensive, eau calme qui recueilles</l>
+                  <l>Tout un sombre trésor de fables et de feuilles,</l>
+                  <l>L’oiseau mort, le fruit mûr, lentement descendus,</l>
+                  <l>Et les rares lueurs des clairs anneaux perdus,</l>
+                  <l>Tu consommes en toi leur perte solennelle ;</l>
+                  <l>Mais, sur la pureté de ta face éternelle,</l>
+                  <l>L’amour passe et périt…</l>
+                  <l>Quand le feuillage épars</l>
+                  <l>Tremble, commence à fuir, pleure de toutes parts,</l>
+                  <l>Tu vois du sombre amour s’y mêler la tourmente,</l>
+                  <l>L’amant brûlant et dur ceindre la blanche amante,</l>
+                  <l>Vaincre l’âme… Et tu sais selon quelle douceur</l>
+                  <l>Sa main puissante passe à travers l’épaisseur</l>
+                  <l>Des tresses que répand la nuque précieuse,</l>
+                  <l>S’y repose, et se sent forte et mystérieuse ;</l>
+                  <l>Elle parle à l’épaule et règne sur la chair.</l>
+                  <l>Alors les yeux fermés à l’éternel éther</l>
+                  <l>Ne voient plus que le sang qui dore leurs paupières ;</l>
+                  <l>Sa pourpre redoutable obscurcit les lumières</l>
+                  <l>D’un couple aux pieds confus qui se mêle, et se ment.</l>
+                  <l>Ils gémissent… La Terre appelle doucement</l>
+                  <l>Ces grands corps chancelants qui luttent bouche à bouche,</l>
+                  <l>Et qui, du vierge sable osant battre la couche,</l>
+                  <l>Composeront d’amour un monstre qui se meurt…</l>
+                  <l>Leurs souffles ne font plus qu’une heureuse rumeur,</l>
+                  <l>L’âme croit respirer l’âme toute prochaine,</l>
+                  <l>Mais tu sais mieux que moi, vénérable fontaine,</l>
+                  <l>Quels fruits forment toujours ces moments enchantés !</l>
+                  <l>Car, à peine les cœurs calmes et contentés</l>
+                  <l>D’une ardente alliance expirée en délices,</l>
+                  <l>Des amants détachés tu mires les malices,</l>
+                  <l>Tu vois poindre des jours de mensonges tissus,</l>
+                  <l>Et naître mille maux trop tendrement conçus !</l>
+                  <l>Bientôt, mon onde sage, infidèle et la même,</l>
+                  <l>Le Temps mène ces fous qui crurent que l’on aime</l>
+                  <l>Redire à tes roseaux de plus profonds soupirs !</l>
+                  <l>Vers toi, leurs tristes pas suivent leurs souvenirs…</l>
+                  <l>Sur tes bords, accablés d’ombres et de faiblesse,</l>
+                  <l>Tout éblouis d’un ciel dont la beauté les blesse</l>
+                  <l>Tant il garde l’éclat de leurs jours les plus beaux,</l>
+                  <l>Ils vont des biens perdus trouver tous les tombeaux…</l>
+                  <l>« Cette place dans l’ombre était tranquille et nôtre ! »</l>
+                  <l>« L’autre aimait ce cyprès, se dit le cœur de l’autre,</l>
+                  <l>« Et d’ici, nous goûtions le souffle de la mer ! »</l>
+                  <l>Hélas ! la rose même est amère dans l’air…</l>
+                  <l>Moins amers les parfums des suprêmes fumées</l>
+                  <l>Qu’abandonnent au vent les feuilles consumées !…</l>
+                  <l>Ils respirent ce vent, marchent sans le savoir,</l>
+                  <l>Foulent aux pieds le temps d’un jour de désespoir…</l>
+                  <l>O marche lente, prompte, et pareille aux pensées</l>
+                  <l>Qui parlent tour à tour aux têtes insensées !</l>
+                  <l>La caresse et le meurtre hésitent dans leurs mains,</l>
+                  <l>Leur cœur, qui croit se rompre au détour des chemins,</l>
+                  <l>Lutte, et retient à soi son espérance étreinte.</l>
+                  <l>Mais leurs esprits perdus courent ce labyrinthe</l>
+                  <l>Où s’égare celui qui maudit le soleil !</l>
+                  <l>Leur folle solitude, à l’égal du sommeil,</l>
+                  <l>Peuple et trompe l’absence ; et leur secrète oreille</l>
+                  <l>Partout place une voix qui n’a point de pareille.</l>
+                  <l>Rien ne peut dissiper leurs songes absolus ;</l>
+                  <l>Le soleil ne peut rien contre ce qui n’est plus !</l>
+                  <l>Mais s’ils traînent dans l’or leurs yeux secs et funèbres,</l>
+                  <l>Ils se sentent des pleurs défendre leurs ténèbres</l>
+                  <l>Plus chères à jamais que tous les feux du jour !</l>
+                  <l>Et dans ce corps caché tout marqué de l’amour,</l>
+                  <l>Que porte amèrement l’âme qui fut heureuse</l>
+                  <l>Brûle un secret baiser qui la rend furieuse…</l>
+                  <l>Mais moi, Narcisse aimé, je ne suis curieux</l>
+                  <l>Que de ma seule essence ;</l>
+                  <l>Tout autre n’a pour moi qu’un cœur mystérieux,</l>
+                  <l>Tout autre n’est qu’absence.</l>
+                  <l>O mon bien souverain, cher corps, je n’ai que toi !</l>
+                  <l>Le plus beau des mortels ne peut chérir que soi…</l>
+                  <l>Douce et dorée, est-il une idole plus sainte,</l>
+                  <l>De toute une forêt qui se consume, ceinte,</l>
+                  <l>Et sise dans l’azur vivant par tant d’oiseaux ?</l>
+                  <l>Est-il don plus divin de la faveur des eaux,</l>
+                  <l>Et d’un jour qui se meurt plus adorable usage</l>
+                  <l>Que de rendre à mes yeux l’honneur de mon visage ?</l>
+                  <l>Naisse donc entre nous que la lumière unit</l>
+                  <l>De grâce et de silence un échange infini !</l>
+                  <l>Je vous salue, enfant de mon âme et de l’onde,</l>
+                  <l>Cher trésor d’un miroir qui partage le monde !</l>
+                  <l>Ma tendresse y vient boire, et s’enivre de voir</l>
+                  <l>Un désir sur soi-même essayer son pouvoir !</l>
+                  <l>O qu’à tous mes souhaits, que vous êtes semblable !</l>
+                  <l>Mais la fragilité vous fait inviolable,</l>
+                  <l>Vous n’êtes que lumière, adorable moitié</l>
+                  <l>D’une amour trop pareille à la faible amitié !</l>
+                  <l>Hélas ! la nymphe même a séparé nos charmes !</l>
+                  <l>Puis-je espérer de toi que de vaines alarmes ?</l>
+                  <l>Se surprendre soi-même et soi-même saisir,</l>
+                  <l>Nos mains s’entremêler, nos maux s’entre-détruire,</l>
+                  <l>Nos silences longtemps de leurs songes s’instruire,</l>
+                  <l>La même nuit en pleurs confondre nos yeux clos,</l>
+                  <l>Et nos bras refermés sur les mêmes sanglots</l>
+                  <l>Étreindre un même cœur, d’amour prêt à se fondre…</l>
+                  <l>Quitte enfin le silence, ose enfin me répondre,</l>
+                  <l>Bel et cruel Narcisse, inaccessible enfant,</l>
+                  <l>Tout orné de mes biens que la nymphe défend…</l>
+               </lg>
+               <p rend="justify">III</p>
+               <lg>
+                  <l>… Ce corps si pur, sait-il qu’il me puisse séduire ?</l>
+                  <l>De quelle profondeur songes-tu de m’instruire,</l>
+                  <l>Habitant de l’abîme, hôte si spécieux</l>
+                  <l>D’un ciel sombre ici-bas précipité des cieux ?…</l>
+                  <l>O le frais ornement de ma triste tendance</l>
+                  <l>Qu’un sourire si proche, et plein de confidence,</l>
+                  <l>Et qui prête à ma lèvre une ombre de danger</l>
+                  <l>Jusqu’à me faire craindre un désir étranger !</l>
+                  <l>Quel souffle vient à l’onde offrir ta froide rose !…</l>
+                  <l>
+                     <hi rend="italic">J’aime… J’aime !…</hi>  Et qui donc peut aimer autre chose</l>
+                  <l>Que soi-même ?…</l>
+                  <l>Toi seul, ô mon corps, mon cher corps,</l>
+                  <l>Je t’aime, unique objet qui me défends des morts !</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="bold">. . . . . . . . . . . . . . . . .</hi>
+               </p>
+               <lg>
+                  <l>Formons, toi sur ma lèvre, et moi, dans mon silence,</l>
+                  <l>Une prière aux dieux qu’émus de tant d’amour,</l>
+                  <l>Sur sa pente de pourpre ils arrêtent le jour !…</l>
+                  <l>Faites, Maîtres heureux, Pères des justes fraudes,</l>
+                  <l>Dites qu’une lueur de rose ou d’émeraudes</l>
+                  <l>Que des songes du soir, votre sceptre reprit,</l>
+                  <l>Pure, et toute pareille au plus pur de l’esprit,</l>
+                  <l>Attende, au sein des cieux, que tu vives et veuilles,</l>
+                  <l>Près de moi, mon amour, choisir un lit de feuilles,</l>
+                  <l>Sortir tremblant du flanc de la nymphe au cœur froid.</l>
+                  <l>Et sans quitter mes yeux, sans cesser d’être moi,</l>
+                  <l>Tendre ta forme fraîche, et cette claire écorce…</l>
+                  <l>Oh ! te saisir, enfin !… Prendre ce calme torse</l>
+                  <l>Plus pur que d’une femme, et non formé de fruits…</l>
+                  <l>Mais, d’une pierre simple est le temple où je suis,</l>
+                  <l>Où je vis… Car je vis sur tes lèvres avares !…</l>
+                  <l>O mon corps, mon cher corps, temple qui me sépares</l>
+                  <l>De ma divinité, je voudrais apaiser</l>
+                  <l>Votre bouche… Et bientôt, je briserais, baiser,</l>
+                  <l>Ce peu qui nous défend de l’extrême existence,</l>
+                  <l>Cette tremblante, frêle, et pieuse distance</l>
+                  <l>Entre moi-même et l’onde, et mon âme, et les dieux !…</l>
+                  <l>Adieu… Sens-tu frémir mille flottants adieux ?</l>
+                  <l>Bientôt va frissonner le désordre des ombres !</l>
+                  <l>L’arbre aveugle vers l’arbre étend ses membres sombres,</l>
+                  <l>Et cherche affreusement l’arbre qui disparaît…</l>
+                  <l>Mon âme ainsi se perd dans sa propre forêt,</l>
+                  <l>Où la puissance échappe à ses formes suprêmes…</l>
+                  <l>L’âme, l’âme aux yeux noirs, touche aux ténèbres mêmes,</l>
+                  <l>Elle se fait immense et ne rencontre rien…</l>
+                  <l>Entre la mort et soi, quel regard est le sien !</l>
+                  <l>Dieux ! de l’auguste jour, le pâle et tendre reste</l>
+                  <l>Va des jours consumés joindre le sort funeste ;</l>
+                  <l>Il s’abîme aux enfers du profond souvenir !</l>
+                  <l>Hélas ! corps misérable, il est temps de s’unir…</l>
+                  <l>Penche-toi… Baise-toi. Tremble de tout ton être !</l>
+                  <l>L’insaisissable amour que tu me vins promettre</l>
+                  <l>Passe, et dans un frisson, brise Narcisse, et fuit…</l>
+               </lg>
+               <div type="div3">
+                  <head>L’ABEILLE</head>
+                  <lg>
+                     <l>A Francis de Miomandre</l>
+                     <l>Quelle, et si fine, et si mortelle,</l>
+                     <l>Que soit ta pointe, blonde abeille,</l>
+                     <l>Je n’ai, sur ma tendre corbeille,</l>
+                     <l>Jeté qu’un songe de dentelle.</l>
+                     <l>Pique du sein la gourde belle,</l>
+                     <l>Sur qui l’Amour meurt ou sommeille,</l>
+                     <l>Qu’un peu de moi-même vermeille</l>
+                     <l>Vienne à la chair ronde et rebelle !</l>
+                     <l>J’ai grand besoin d’un prompt tourment :</l>
+                     <l>Un mal vif et bien terminé</l>
+                     <l>Vaut mieux qu’un supplice dormant !</l>
+                     <l>Soit donc mon sens illuminé</l>
+                     <l>Par cette infime alerte d’or</l>
+                     <l>Sans qui l’Amour meurt et s’endort !</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>POÉSIE</head>
+                  <lg>
+                     <l>Par la surprise saisie,</l>
+                     <l>Une bouche qui buvait</l>
+                     <l>Au sein de la Poésie</l>
+                     <l>En sépare son duvet :</l>
+                     <l>— O ma mère Intelligence,</l>
+                     <l>De qui la douceur coulait,</l>
+                     <l>Quelle est cette négligence</l>
+                     <l>Qui laisse tarir son lait !</l>
+                     <l>A peine, sur ta poitrine,</l>
+                     <l>Accablé de blancs liens,</l>
+                     <l>Me berçait l’onde marine</l>
+                     <l>De ton cœur chargé de biens ;</l>
+                     <l>A peine, dans ton ciel sombre,</l>
+                     <l>Abattu sur ta beauté,</l>
+                     <l>Je sentais, à boire l’ombre,</l>
+                     <l>M’envahir une clarté,</l>
+                     <l>Dieu perdu dans ton essence,</l>
+                     <l>Et délicieusement</l>
+                     <l>Docile à la connaissance</l>
+                     <l>Du suprême apaisement,</l>
+                     <l>Je touchais à la nuit pure,</l>
+                     <l>Je ne savais plus mourir,</l>
+                     <l>Car un fleuve sans coupure</l>
+                     <l>Me semblait me parcourir…</l>
+                     <l>Dis, par quelle crainte vaine,</l>
+                     <l>Par quelle ombre de dépit,</l>
+                     <l>Cette merveilleuse veine</l>
+                     <l>A mes lèvres se rompit ?</l>
+                     <l>O rigueur, tu m’es un signe</l>
+                     <l>Qu’à mon âme je déplus !</l>
+                     <l>Le silence au vol de cygne</l>
+                     <l>Entre nous ne règne plus !</l>
+                     <l>Immortelle, ta paupière</l>
+                     <l>Me refuse mes trésors,</l>
+                     <l>Et la chair s’est faite pierre</l>
+                     <l>Qui fut tendre sous mon corps !</l>
+                     <l>Des cieux même tu me sèvres,</l>
+                     <l>Par quel injuste retour ?</l>
+                     <l>Que seras-tu sans mes lèvres ?</l>
+                     <l>Que serai-je sans amour ?</l>
+                     <l>Mais la Source suspendue</l>
+                     <l>Lui répond sans dureté :</l>
+                     <l>— Si fort vous m’avez mordue</l>
+                     <l>Que mon cœur s’est arrêté !</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LES PAS</head>
+                  <lg>
+                     <l>Tes pas, enfants de mon silence,</l>
+                     <l>Saintement, lentement placés,</l>
+                     <l>Vers le lit de ma vigilance</l>
+                     <l>Procèdent muets et glacés.</l>
+                     <l>Personne pure, ombre divine,</l>
+                     <l>Qu’ils sont doux, tes pas retenus !</l>
+                     <l>Dieux !… tous les dons que je devine</l>
+                     <l>Viennent à moi sur ces pieds nus !</l>
+                     <l>Si, de tes lèvres avancées,</l>
+                     <l>Tu prépares pour l’apaiser,</l>
+                     <l>A l’habitant de mes pensées</l>
+                     <l>La nourriture d’un baiser,</l>
+                     <l>Ne hâte pas cet acte tendre,</l>
+                     <l>Douceur d’être et de n’être pas,</l>
+                     <l>Car j’ai vécu de vous attendre,</l>
+                     <l>Et mon cœur n’était que vos pas.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LA CEINTURE</head>
+                  <lg>
+                     <l>Quand le ciel couleur d’une joue</l>
+                     <l>Laisse enfin les yeux le chérir,</l>
+                     <l>Et qu’au point doré de périr</l>
+                     <l>Dans les roses le temps se joue,</l>
+                     <l>Devant le muet de plaisir</l>
+                     <l>Qu’enchaîne une telle peinture,</l>
+                     <l>Danse une Ombre à libre ceinture</l>
+                     <l>Que le soir est près de saisir.</l>
+                     <l>Cette ceinture vagabonde</l>
+                     <l>Fait dans le souffle aérien</l>
+                     <l>Frémir le suprême lien</l>
+                     <l>De mon silence avec ce monde…</l>
+                     <l>Absent, présent… Je suis bien seul,</l>
+                     <l>Et sombre, ô suave linceul !</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LA DORMEUSE</head>
+                  <lg>
+                     <l>A Lucien Fabre</l>
+                     <l>Quels secrets dans son cœur brûle ma jeune amie,</l>
+                     <l>Ame par le doux masque aspirant une fleur ?</l>
+                     <l>De quels vains aliments sa naïve chaleur</l>
+                     <l>Fait ce rayonnement d’une femme endormie ?</l>
+                     <l>Souffle, songes, silence, invincible accalmie,</l>
+                     <l>Tu triomphes, ô paix plus puissante qu’un pleur,</l>
+                     <l>Quand de ce plein sommeil l’onde grave et l’ampleur</l>
+                     <l>Conspirent sur le sein d’une telle ennemie.</l>
+                     <l>Dormeuse, amas doré d’ombres et d’abandons,</l>
+                     <l>Ton repos redoutable est chargé de tels dons,</l>
+                     <l>O biche avec langueur longue auprès d’une grappe,</l>
+                     <l>Que malgré l’âme absente, occupée aux enfers,</l>
+                     <l>Ta forme au ventre pur qu’un bras fluide drape,</l>
+                     <l>Veille ; ta forme veille, et mes yeux sont ouverts.</l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>LA PYTHIE</head>
+               <lg>
+                  <l>A Pierre Louÿs</l>
+                  <l>La Pythie exhalant la flamme</l>
+                  <l>De naseaux durcis par l’encens,</l>
+                  <l>Haletante, ivre, hurle !… l’âme</l>
+                  <l>Affreuse, et les flancs mugissants !</l>
+                  <l>Pâle, profondément mordue,</l>
+                  <l>Et la prunelle suspendue</l>
+                  <l>Au point le plus haut de l’horreur,</l>
+                  <l>Le regard qui manque à son masque</l>
+                  <l>S’arrache vivant à la vasque</l>
+                  <l>A la fumée, à la fureur !</l>
+                  <l>Sur le mur, son ombre démente</l>
+                  <l>Où domine un démon majeur,</l>
+                  <l>Parmi l’odorante tourmente</l>
+                  <l>Prodigue un fantôme nageur,</l>
+                  <l>De qui la transe colossale,</l>
+                  <l>Rompant les aplombs de la salle,</l>
+                  <l>Si la folle tarde à hennir,</l>
+                  <l>Mime de noirs enthousiasmes,</l>
+                  <l>Hâte les dieux, presse les spasmes</l>
+                  <l>De s’achever dans l’avenir !</l>
+                  <l>Cette martyre en sueurs froides,</l>
+                  <l>Ses doigts sur ses doigts se crispant,</l>
+                  <l>Vocifère entre les ruades</l>
+                  <l>D’un trépied qu’étrangle un serpent :</l>
+                  <l>— Ah ! maudite !… Quels maux je souffre</l>
+                  <l>Toute ma nature est un gouffre !</l>
+                  <l>Hélas ! Entr’ouverte aux esprits,</l>
+                  <l>J’ai perdu mon propre mystère !…</l>
+                  <l>Une Intelligence adultère</l>
+                  <l>Exerce un corps qu’elle a compris !</l>
+                  <l>Don cruel !… Maître immonde, cesse</l>
+                  <l>Vite, vite, ô divin ferment,</l>
+                  <l>De feindre une vaine grossesse</l>
+                  <l>Dans ce pur ventre sans amant !</l>
+                  <l>Fais finir cette horrible scène !</l>
+                  <l>Vois de tout mon corps l’arc obscène</l>
+                  <l>Tendre à se rompre pour darder</l>
+                  <l>Comme son trait le plus infâme,</l>
+                  <l>Implacablement au ciel l’âme</l>
+                  <l>Que mon sein ne peut plus garder !</l>
+                  <l>Qui me parle, à ma place même ?</l>
+                  <l>Quel écho me répond : Tu mens !</l>
+                  <l>Qui m’illumine ?… Qui blasphème ?</l>
+                  <l>Et qui, de ces mots écumants,</l>
+                  <l>Dont les éclats hachent ma langue,</l>
+                  <l>La fait brandir une harangue</l>
+                  <l>Brisant la bave et les cheveux</l>
+                  <l>Que mâche et trame le désordre</l>
+                  <l>D’une bouche qui veut se mordre</l>
+                  <l>Et se reprendre ses aveux ?</l>
+                  <l>Dieu ! Je ne me connais de crime</l>
+                  <l>Que d’avoir à peine vécu !…</l>
+                  <l>Mais si tu me prends pour victime</l>
+                  <l>Et sur l’autel d’un corps vaincu</l>
+                  <l>Si tu courbes un monstre, tue</l>
+                  <l>Ce monstre, et la bête abattue,</l>
+                  <l>Le col tranché, le chef produit</l>
+                  <l>Par les crins qui tirent les tempes,</l>
+                  <l>Que cette plus pâle des lampes</l>
+                  <l>Saisisse de marbre la nuit !</l>
+                  <l>Alors, par cette vagabonde</l>
+                  <l>Morte, errante, et lune à jamais,</l>
+                  <l>Soit l’eau des mers surprise, et l’onde</l>
+                  <l>Astreinte à d’éternels sommets !</l>
+                  <l>Que soient les humains faits statues,</l>
+                  <l>Les cœurs figés, les âmes tues,</l>
+                  <l>Et par les glaces de mon œil,</l>
+                  <l>Puisse un peuple de leurs paroles</l>
+                  <l>Durcir en un peuple d’idoles</l>
+                  <l>Muet de sottise et d’orgueil !</l>
+                  <l>Eh ! Quoi !… Devenir la vipère</l>
+                  <l>Dont tout le ressort de frissons</l>
+                  <l>Surprend la chair que désespère</l>
+                  <l>Sa multitude de tronçons !…</l>
+                  <l>Reprendre une lutte insensée !…</l>
+                  <l>Tourne donc plutôt ta pensée</l>
+                  <l>Vers la joie enfuie, et reviens,</l>
+                  <l>O mémoire, à cette magie</l>
+                  <l>Qui ne tirait son énergie</l>
+                  <l>D’autres arcanes que des tiens !</l>
+                  <l>Mon cher corps !… Forme préférée,</l>
+                  <l>Fraîcheur par qui ne fut jamais</l>
+                  <l>Aphrodite désaltérée,</l>
+                  <l>Intacte nuit, tendres sommets,</l>
+                  <l>Et vos partages indicibles</l>
+                  <l>D’une argile en îles sensibles,</l>
+                  <l>Douce matière de mon sort,</l>
+                  <l>Quelle alliance nous vécûmes,</l>
+                  <l>Avant que le don des écumes</l>
+                  <l>Ait fait de toi ce corps de mort !</l>
+                  <l>Toi, mon épaule, où l’or se joue</l>
+                  <l>D’une fontaine de noirceur,</l>
+                  <l>J’aimais de te joindre ma joue</l>
+                  <l>Fondue à sa même douceur !…</l>
+                  <l>Ou, soulevée à mes narines.</l>
+                  <l>Ouverte aux distances marines,</l>
+                  <l>Les mains pleines de seins vivants,</l>
+                  <l>Entre mes bras aux belles anses</l>
+                  <l>Mon abîme a bu les immenses</l>
+                  <l>Profondeurs qu’apportent les vents !</l>
+                  <l>Hélas ! ô roses, toute lyre</l>
+                  <l>Contient la modulation !</l>
+                  <l>Un soir, de mon triste délire</l>
+                  <l>Parut la constellation !</l>
+                  <l>Le temple se change dans l’antre,</l>
+                  <l>Et l’ouragan des songes entre</l>
+                  <l>Au même ciel qui fut si beau !</l>
+                  <l>Il faut gémir, il faut atteindre</l>
+                  <l>Je ne sais quelle extase, et ceindre</l>
+                  <l>Ma chevelure d’un lambeau !</l>
+                  <l>Ils m’ont connue aux bleus stigmates</l>
+                  <l>Apparus sur ma pauvre peau ;</l>
+                  <l>Ils m’assoupirent d’aromates</l>
+                  <l>Laineux et doux comme un troupeau ;</l>
+                  <l>Ils ont, pour vivant amulette,</l>
+                  <l>Touché ma gorge qui halète</l>
+                  <l>Sous les ornements vipérins ;</l>
+                  <l>Étourdie, ivre d’empyreumes,</l>
+                  <l>Ils m’ont au murmure des neumes,</l>
+                  <l>Rendu des honneurs souterrains.</l>
+                  <l>Qu’ai-je donc fait qui me condamne</l>
+                  <l>Pure, à ces rites odieux ?</l>
+                  <l>Une sombre carcasse d’âne</l>
+                  <l>Eût bien servi de ruche aux dieux !</l>
+                  <l>Mais une vierge consacrée,</l>
+                  <l>Une conque neuve et nacrée</l>
+                  <l>Ne doit à la divinité</l>
+                  <l>Que sacrifice et que silence,</l>
+                  <l>Et cette intime violence</l>
+                  <l>Que se fait la virginité !</l>
+                  <l>Pourquoi, Puissance Créatrice,</l>
+                  <l>Auteur du mystère animal,</l>
+                  <l>Dans cette vierge pour matrice,</l>
+                  <l>Semer les merveilles du mal ?</l>
+                  <l>Sont-ce les dons que tu m’accordes ?</l>
+                  <l>Crois-tu, quand se brisent les cordes</l>
+                  <l>Que le son jaillisse plus beau ?</l>
+                  <l>Ton plectre a frappé sur mon torse,</l>
+                  <l>Mais tu ne lui laisses la force</l>
+                  <l>Que de sonner comme un tombeau !</l>
+                  <l>Sois clémente, sois sans oracles !</l>
+                  <l>Et de tes merveilleuses mains,</l>
+                  <l>Change en caresses les miracles,</l>
+                  <l>Retiens les présents surhumains !</l>
+                  <l>C’est en vain que tu communiques</l>
+                  <l>A nos faibles tiges, d’uniques</l>
+                  <l>Commotions de ta splendeur !</l>
+                  <l>L’eau tranquille est plus transparente</l>
+                  <l>Que toute tempête parente</l>
+                  <l>D’une confuse profondeur !</l>
+                  <l>Va, la lumière la divine</l>
+                  <l>N’est pas l’épouvantable éclair</l>
+                  <l>Qui nous devance et nous devine</l>
+                  <l>Comme un songe cruel et clair !</l>
+                  <l>Il éclate !… Il va nous instruire !…</l>
+                  <l>Non !… La solitude vient luire</l>
+                  <l>Dans la plaie immense des airs</l>
+                  <l>Où nulle pâle architecture</l>
+                  <l>Mais la déchirante rupture</l>
+                  <l>Nous imprime de purs déserts !</l>
+                  <l>N’allez donc, mains universelles,</l>
+                  <l>Tirer de mon front orageux</l>
+                  <l>Quelques suprêmes étincelles !</l>
+                  <l>Les hasards font les mêmes jeux !</l>
+                  <l>Le passé, l’avenir sont frères</l>
+                  <l>Et par leurs visages contraires</l>
+                  <l>Une seule tête pâlit</l>
+                  <l>De ne voir où qu’elle regarde</l>
+                  <l>Qu’une même absence hagarde</l>
+                  <l>D’îles plus belles que l’oubli.</l>
+                  <l>Noirs témoins de tant de lumières</l>
+                  <l>Ne cherchez plus… pleurez, mes yeux !…</l>
+                  <l>O pleurs dont les sources premières</l>
+                  <l>Sont trop profondes dans les cieux !…</l>
+                  <l>Jamais plus amère demande !…</l>
+                  <l>Mais la prunelle la plus grande</l>
+                  <l>De ténèbres se doit nourrir !</l>
+                  <l>Tenant notre race atterrée,</l>
+                  <l>La distance désespérée</l>
+                  <l>Nous laisse le temps de mourir !</l>
+                  <l>Entends, mon âme, entends ces fleuves !…</l>
+                  <l>Quelles cavernes sont ici ?</l>
+                  <l>Est-ce mon sang ?… Sont-ce les neuves</l>
+                  <l>Rumeurs des ondes sans merci ?</l>
+                  <l>Mes secrets sonnent leurs aurores !</l>
+                  <l>Tristes airains, tempes sonores,</l>
+                  <l>Que dites-vous de l’avenir !</l>
+                  <l>Frappez, frappez, dans une roche,</l>
+                  <l>Abattez l’heure la plus proche…</l>
+                  <l>Mes deux natures vont s’unir !</l>
+                  <l>O formidablement gravie,</l>
+                  <l>Et sur d’effrayants échelons,</l>
+                  <l>Je sens dans l’arbre de ma vie</l>
+                  <l>La mort monter de mes talons !</l>
+                  <l>Le long de ma ligne frileuse,</l>
+                  <l>Le doigt mouillé de la fileuse</l>
+                  <l>Trace une atroce volonté !</l>
+                  <l>Et par sanglots grimpe la crise</l>
+                  <l>Jusque dans ma nuque où se brise</l>
+                  <l>Une cime de volupté !</l>
+                  <l>Ah ! brise les portes vivantes !</l>
+                  <l>Fais craquer les vains scellements,</l>
+                  <l>Épais troupeau des épouvantes,</l>
+                  <l>Hérissé d’étincellements !</l>
+                  <l>Surgis des étables funèbres</l>
+                  <l>Où te nourrissaient mes ténèbres</l>
+                  <l>De leur fabuleuse foison !</l>
+                  <l>Bondis, de rêves trop repue,</l>
+                  <l>O horde épineuse et crépue,</l>
+                  <l>Et viens fumer dans l’or, Toison !</l>
+               </lg>
+               <lg>
+                  <l>Telle, toujours plus tourmentée</l>
+                  <l>Déraisonne, râle et rugit</l>
+                  <l>La prophétesse fomentée</l>
+                  <l>Par les souffles de l’or rougi.</l>
+                  <l>Mais enfin le Ciel se déclare !</l>
+                  <l>L’oreille du pontife hilare</l>
+                  <l>S’aventure dans le futur :</l>
+                  <l>Une attente sainte la penche,</l>
+                  <l>Car une voix nouvelle et blanche</l>
+                  <l>Échappe de ce corps impur :</l>
+               </lg>
+               <lg>
+                  <l>Honneur des Hommes, Saint Langage,</l>
+                  <l>Discours prophétique et paré,</l>
+                  <l>Belles chaînes en qui s’engage</l>
+                  <l>Le dieu dans la chair égaré,</l>
+                  <l>Illumination, largesse !</l>
+                  <l>Voici parler une Sagesse</l>
+                  <l>Et sonner cette auguste Voix</l>
+                  <l>Qui se connaît quand elle sonne</l>
+                  <l>N’être plus la voix de personne</l>
+                  <l>Tant que des ondes et des bois !</l>
+               </lg>
+               <div type="div3">
+                  <head>LE SYLPHE</head>
+                  <p rend="justify">Ni vu ni connu</p>
+                  <p rend="justify">Je suis le parfum</p>
+                  <p rend="justify">Vivant et défunt</p>
+                  <p rend="justify">Dans le vent venu !</p>
+                  <p rend="justify">Ni vu ni connu,</p>
+                  <p rend="justify">Hasard ou génie ?</p>
+                  <p rend="justify">A peine venu</p>
+                  <p rend="justify">La tâche est finie !</p>
+                  <p rend="justify">Ni lu ni compris ?</p>
+                  <p rend="justify">Aux meilleurs esprits</p>
+                  <p rend="justify">Que d’erreurs promises !</p>
+                  <p rend="justify">Ni vu ni connu,</p>
+                  <p rend="justify">Le temps d’un sein nu</p>
+                  <p rend="justify">Entre deux chemises !</p>
+               </div>
+               <div type="div3">
+                  <head>L’INSINUANT</head>
+                  <p rend="justify">O Courbes, méandre,</p>
+                  <p rend="justify">Secrets du menteur,</p>
+                  <p rend="justify">Est-il art plus tendre</p>
+                  <p rend="justify">Que cette lenteur ?</p>
+                  <p rend="justify">Je sais où je vais,</p>
+                  <p rend="justify">Je t’y veux conduire,</p>
+                  <p rend="justify">Mon dessein mauvais</p>
+                  <p rend="justify">N’est pas de te nuire…</p>
+                  <p rend="justify">(Quoique souriante,</p>
+                  <p rend="justify">En pleine fierté,</p>
+                  <p rend="justify">Tant de liberté</p>
+                  <p rend="justify">La désoriente !)</p>
+                  <p rend="justify">O Courbes, méandre,</p>
+                  <p rend="justify">Secrets du menteur,</p>
+                  <p rend="justify">Je veux faire attendre</p>
+                  <p rend="justify">Le mot le plus tendre.</p>
+               </div>
+               <div type="div3">
+                  <head>LA FAUSSE MORTE</head>
+                  <lg>
+                     <l>Humblement, tendrement, sur le tombeau charmant,</l>
+                     <l>Sur l’insensible monument,</l>
+                     <l>Que d’ombres, d’abandons, et d’amour prodiguée,</l>
+                     <l>Forme ta grâce fatiguée,</l>
+                     <l>Je meurs, je meurs sur toi, je tombe et je m’abats,</l>
+                     <l>Mais à peine abattu sur le sépulcre bas,</l>
+                     <l>Dont la close étendue aux cendres me convie,</l>
+                     <l>Cette mort apparente en qui revient la vie,</l>
+                     <l>Frémit, rouvre les yeux, m’illumine et me mord,</l>
+                     <l>Et m’arrache toujours une nouvelle mort</l>
+                     <l>Plus précieuse que la vie.</l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>ÉBAUCHE D’UN SERPENT</head>
+               <lg>
+                  <l>A Henri Ghéon</l>
+                  <l>Parmi l’arbre, la brise berce</l>
+                  <l>La vipère que je vêtis ;</l>
+                  <l>Un sourire, que la dent perce</l>
+                  <l>Et qu’elle éclaire d’appétits,</l>
+                  <l>Sur le Jardin se risque et rôde,</l>
+                  <l>Et mon triangle d’émeraude</l>
+                  <l>Tire sa langue à double fil…</l>
+                  <l>Bête je suis, mais bête aiguë,</l>
+                  <l>De qui le venin quoique vil</l>
+                  <l>Laisse loin la sage ciguë !</l>
+                  <l>Suave est ce temps de plaisance !</l>
+                  <l>Tremblez, mortels ! Je suis bien fort</l>
+                  <l>Quand jamais à ma suffisance,</l>
+                  <l>Je bâille à briser le ressort !</l>
+                  <l>La splendeur de l’azur aiguise</l>
+                  <l>Cette guivre qui me déguise</l>
+                  <l>D’animale simplicité ;</l>
+                  <l>Venez à moi, race étourdie !</l>
+                  <l>Je suis debout et dégourdie,</l>
+                  <l>Pareille à la nécessité !</l>
+                  <l>Soleil, soleil !… Faute éclatante !</l>
+                  <l>Toi qui masques la mort, Soleil,</l>
+                  <l>Sous l’azur et l’or d’une tente</l>
+                  <l>Où les fleurs tiennent leur conseil ;</l>
+                  <l>Par d’impénétrables délices,</l>
+                  <l>Toi, le plus fier de mes complices,</l>
+                  <l>Et de mes pièges le plus haut,</l>
+                  <l>Tu gardes les cœurs de connaître</l>
+                  <l>Que l’univers n’est qu’un défaut</l>
+                  <l>Dans la pureté du Non-être !</l>
+                  <l>Grand Soleil, qui sonnes l’éveil</l>
+                  <l>A l’être, et de feux l’accompagnes,</l>
+                  <l>Toi qui l’enfermes d’un sommeil</l>
+                  <l>Trompeusement peint de campagnes,</l>
+                  <l>Fauteur des fantômes joyeux</l>
+                  <l>Qui rendent sujette des yeux</l>
+                  <l>La présence obscure de l’âme,</l>
+                  <l>Toujours le mensonge m’a plu</l>
+                  <l>Que tu répands sur l’absolu</l>
+                  <l>O Roi des ombres fait de flamme !</l>
+                  <l>Verse-moi ta brute chaleur,</l>
+                  <l>Où vient ma paresse glacée</l>
+                  <l>Rêvasser de quelque malheur</l>
+                  <l>Selon ma nature enlacée…</l>
+                  <l>Ce lieu charmant qui vit la chair</l>
+                  <l>Choir et se joindre m’est très cher !</l>
+                  <l>Ma fureur, ici, se fait mûre.</l>
+                  <l>Je la conseille et la recuis,</l>
+                  <l>Je m’écoute, et dans mes circuits,</l>
+                  <l>Ma méditation murmure…</l>
+                  <l>O vanité ! Cause Première !</l>
+                  <l>Celui qui règne dans les Cieux,</l>
+                  <l>D’une voix qui fut la lumière</l>
+                  <l>Ouvrit l’univers spacieux.</l>
+                  <l>Comme las de son pur spectacle,</l>
+                  <l>Dieu lui-même a rompu l’obstacle</l>
+                  <l>De sa parfaite éternité ;</l>
+                  <l>Il se fit Celui qui dissipe</l>
+                  <l>En conséquences, son Principe,</l>
+                  <l>En étoiles, son Unité.</l>
+                  <l>Cieux, son erreur ! Temps, sa ruine !</l>
+                  <l>Et l’abîme animal, béant !…</l>
+                  <l>Quelle chute dans l’origine</l>
+                  <l>Étincelle au lieu de néant !…</l>
+                  <l>Mais, le premier mot de son Verbe,</l>
+                  <l>MOI !… Des astres le plus superbe</l>
+                  <l>Qu’ait parlés le fou créateur,</l>
+                  <l>Je suis !… Je serai !… J’illumine</l>
+                  <l>La diminution divine</l>
+                  <l>De tous les feux du Séducteur !</l>
+                  <l>Objet radieux de ma haine,</l>
+                  <l>Vous que j’aimais éperdument,</l>
+                  <l>Vous qui dûtes de la géhenne</l>
+                  <l>Donner l’empire à cet amant,</l>
+                  <l>Regardez-vous dans ma ténèbre !</l>
+                  <l>Devant votre image funèbre,</l>
+                  <l>Orgueil de mon sombre miroir,</l>
+                  <l>Si profond fut votre malaise</l>
+                  <l>Que votre souffle sur la glaise</l>
+                  <l>Fut un soupir de désespoir !</l>
+                  <l>En vain, Vous avez, dans la fange,</l>
+                  <l>Pétri de faciles enfants,</l>
+                  <l>Qui de Vos actes triomphants</l>
+                  <l>Tout le jour Vous fissent louange !</l>
+                  <l>Sitôt pétris, sitôt soufflés,</l>
+                  <l>Maître Serpent les a sifflés,</l>
+                  <l>Les beaux enfants que Vous créâtes !</l>
+                  <l>Holà ! dit-il, nouveaux venus !</l>
+                  <l>Vous êtes des hommes tout nus,</l>
+                  <l>O bêtes blanches et béates !</l>
+                  <l>A la ressemblance exécrée,</l>
+                  <l>Vous fûtes faits, et je vous hais !</l>
+                  <l>Comme je hais le Nom qui crée</l>
+                  <l>Tant de prodiges imparfaits !</l>
+                  <l>Je suis Celui qui modifie,</l>
+                  <l>Je retouche au cœur qui s’y fie,</l>
+                  <l>D’un doigt sûr et mystérieux !…</l>
+                  <l>Nous changerons ces molles œuvres,</l>
+                  <l>Et ces évasives couleuvres</l>
+                  <l>En des reptiles furieux !</l>
+                  <l>Mon Innombrable Intelligence</l>
+                  <l>Touche dans l’âme des humains</l>
+                  <l>Un instrument de ma vengeance</l>
+                  <l>Qui fut assemblé de tes mains ;</l>
+                  <l>Et ta Paternité voilée,</l>
+                  <l>Quoique, dans sa chambre étoilée,</l>
+                  <l>Elle n’accueille que l’encens,</l>
+                  <l>Toutefois l’excès de mes charmes</l>
+                  <l>Pourra de lointaines alarmes</l>
+                  <l>Troubler ses desseins tout-puissants !</l>
+                  <l>Je vais, je viens, je glisse, plonge,</l>
+                  <l>Je disparais dans un cœur pur !</l>
+                  <l>Fut-il jamais de sein si dur</l>
+                  <l>Qu’on n’y puisse loger un songe ?</l>
+                  <l>Qui que tu sois, ne suis-je point</l>
+                  <l>Cette complaisance qui poind</l>
+                  <l>Dans ton âme, lorsqu’elle s’aime ?</l>
+                  <l>Je suis au fond de sa faveur</l>
+                  <l>Cette inimitable saveur</l>
+                  <l>Que tu ne trouves qu’à toi-même !</l>
+                  <l>Ève, jadis, je la surpris,</l>
+                  <l>Parmi ses premières pensées,</l>
+                  <l>La lèvre entr’ouverte aux esprits</l>
+                  <l>Qui naissaient des roses bercées.</l>
+                  <l>Cette parfaite m’apparut,</l>
+                  <l>Son flanc vaste et d’or parcouru</l>
+                  <l>Ne craignant le soleil ni l’homme ;</l>
+                  <l>Tout offerte aux regards de l’air,</l>
+                  <l>L’âme encore stupide, et comme</l>
+                  <l>Interdite au seuil de la chair.</l>
+                  <l>O masse de béatitude,</l>
+                  <l>Tu es si belle, juste prix</l>
+                  <l>De la toute sollicitude</l>
+                  <l>Des bons et des meilleurs esprits !</l>
+                  <l>Pour qu’à tes lèvres ils soient pris</l>
+                  <l>Il leur suffit que tu soupires !</l>
+                  <l>Les plus purs s’y penchent les pires,</l>
+                  <l>Les plus durs sont les plus meurtris…</l>
+                  <l>Jusques à moi, tu m’attendris,</l>
+                  <l>De qui relèvent les vampires !</l>
+                  <l>Oui ! De mon poste de feuillage,</l>
+                  <l>Reptile aux extases d’oiseau,</l>
+                  <l>Cependant que mon babillage</l>
+                  <l>Tissait de ruses le réseau,</l>
+                  <l>Je te buvais, ô belle sourde !</l>
+                  <l>Calme, claire, de charmes lourde,</l>
+                  <l>Je dominais furtivement,</l>
+                  <l>L’œil dans l’or ardent de ta laine.</l>
+                  <l>Ta nuque énigmatique et pleine</l>
+                  <l>Des secrets de ton mouvement !</l>
+                  <l>J’étais présent comme une odeur.</l>
+                  <l>Comme l’arome d’une idée</l>
+                  <l>Dont ne puisse être élucidée</l>
+                  <l>L’insidieuse profondeur !</l>
+                  <l>Et je t’inquiétais, candeur,</l>
+                  <l>O chair mollement décidée,</l>
+                  <l>Sans que je t’eusse intimidée,</l>
+                  <l>A chanceler dans la splendeur !</l>
+                  <l>Bientôt, je t’aurai, je parie.</l>
+                  <l>Déjà ta nuance varie !</l>
+                  <l>(La superbe simplicité</l>
+                  <l>Demande d’immenses égards !</l>
+                  <l>Sa transparence de regards,</l>
+                  <l>Sottise, orgueil, félicité,</l>
+                  <l>Gardent bien la belle cité !</l>
+                  <l>Sachons lui créer des hasards,</l>
+                  <l>Et par ce plus rare des arts,</l>
+                  <l>Soit le cœur pur sollicité ;</l>
+                  <l>C’est là mon fort, c’est là mon fin,</l>
+                  <l>A moi les moyens de ma fin !)</l>
+                  <l>Or, d’une éblouissante bave,</l>
+                  <l>Filons les systèmes légers</l>
+                  <l>Où l’oisive et l’Ève suave</l>
+                  <l>S’engage en de vagues dangers !</l>
+                  <l>Que sous une charge de soie,</l>
+                  <l>Tremble la peau de cette proie</l>
+                  <l>Accoutumée au seul azur !…</l>
+                  <l>Mais de gaze point de subtile.</l>
+                  <l>Ni de fil invisible et sûr,</l>
+                  <l>Plus qu’une trame de mon style !</l>
+                  <l>Dore, langue ! dore-lui les</l>
+                  <l>Plus doux des dits que tu connaisses !</l>
+                  <l>Allusions, fables, finesses,</l>
+                  <l>Mille silences ciselés,</l>
+                  <l>Use de tout ce qui lui nuise :</l>
+                  <l>Rien qui ne flatte et ne l’induise</l>
+                  <l>A se perdre dans mes desseins,</l>
+                  <l>Docile à ces pentes qui rendent</l>
+                  <l>Aux profondeurs des bleus bassins</l>
+                  <l>Les ruisseaux qui des cieux descendent !</l>
+                  <l>O quelle prose non pareille,</l>
+                  <l>Que d’esprit n’ai-je pas jeté</l>
+                  <l>Dans le dédale duveté</l>
+                  <l>De cette merveilleuse oreille !</l>
+                  <l>Là, pensais-je, rien de perdu ;</l>
+                  <l>Tout profite au cœur suspendu !</l>
+                  <l>Sûr triomphe ! si ma parole,</l>
+                  <l>De l’âme obsédant le trésor,</l>
+                  <l>Comme une abeille une corolle</l>
+                  <l>Ne quitte plus l’oreille d’or !</l>
+                  <l>« Rien, lui soufflais-je, n’est moins sûr</l>
+                  <l>Que la parole divine, Ève !</l>
+                  <l>Une science vive crève</l>
+                  <l>L’énormité de ce fruit mûr !</l>
+                  <l>N’écoute l’Être vieil et pur</l>
+                  <l>Qui maudit la morsure brève !</l>
+                  <l>Que si ta bouche fait un rêve,</l>
+                  <l>Cette soif qui songe à la sève,</l>
+                  <l>Ce délice à demi futur,</l>
+                  <l>C’est l’éternité fondante, Ève ! »</l>
+                  <l>Elle buvait mes petits mots</l>
+                  <l>Qui bâtissaient une œuvre étrange ;</l>
+                  <l>Son œil, parfois, perdait un ange</l>
+                  <l>Pour revenir à mes rameaux.</l>
+                  <l>Le plus rusé des animaux</l>
+                  <l>Qui te raille d’être si dure,</l>
+                  <l>O perfide et grosse de maux,</l>
+                  <l>N’est qu’une voix dans la verdure !</l>
+                  <l>— Mais sérieuse l’Ève était</l>
+                  <l>Qui sous la branche l’écoutait !</l>
+                  <l>« Ame, disais-je, doux séjour</l>
+                  <l>De toute extase prohibée,</l>
+                  <l>Sens-tu la sinueuse amour</l>
+                  <l>Que j’ai du Père dérobée ?</l>
+                  <l>Je l’ai, cette essence du Ciel,</l>
+                  <l>A des fins plus douces que miel</l>
+                  <l>Délicatement ordonnée…</l>
+                  <l>Prends de ce fruit… Dresse ton bras</l>
+                  <l>Pour cueillir ce que tu voudras</l>
+                  <l>Ta belle main te fut donnée ! »</l>
+                  <l>Quel silence battu d’un cil !</l>
+                  <l>Mais quel souffle sous le sein sombre</l>
+                  <l>Que mordait l’Arbre de son ombre !</l>
+                  <l>L’autre brillait comme un pistil !</l>
+                  <l>— <hi rend="italic">Siffle, siffle !</hi> me chantait-il !</l>
+                  <l>Et je sentais frémir le nombre,</l>
+                  <l>Tout le long de mon fouet subtil,</l>
+                  <l>De ces replis dont je m’encombre :</l>
+                  <l>Ils roulaient depuis le béryl</l>
+                  <l>De ma crête, jusqu’au péril !</l>
+                  <l>Génie ! O longue impatience !</l>
+                  <l>A la fin, les temps sont venus,</l>
+                  <l>Qu’un pas vers la neuve Science</l>
+                  <l>Va donc jaillir de ces pieds nus !</l>
+                  <l>Le marbre aspire, l’or se cambre !</l>
+                  <l>Ces blondes bases d’ombre et d’ambre</l>
+                  <l>Tremblent au bord du mouvement !…</l>
+                  <l>Elle chancelle, la grande urne</l>
+                  <l>D’où va fuir le consentement</l>
+                  <l>De l’apparente taciturne !</l>
+                  <l>Du plaisir que tu te proposes</l>
+                  <l>Cède, cher corps, cède aux appâts !</l>
+                  <l>Que ta soif de métamorphoses</l>
+                  <l>Autour de l’Arbre du Trépas</l>
+                  <l>Engendre une chaîne de poses !</l>
+                  <l>Viens sans venir ! Forme des pas</l>
+                  <l>Vaguement comme lourds de roses…</l>
+                  <l>Danse, cher corps… Ne pense pas !</l>
+                  <l>Ici les délices sont causes</l>
+                  <l>Suffisantes au cours des choses !…</l>
+                  <l>O follement que je m’offrais</l>
+                  <l>Cette infertile jouissance :</l>
+                  <l>Voir le long pur d’un dos si frais</l>
+                  <l>Frémir la désobéissance !…</l>
+                  <l>Déjà délivrant son essence</l>
+                  <l>De sagesse et d’illusions,</l>
+                  <l>Tout l’Arbre de la Connaissance</l>
+                  <l>Échevelé de visions,</l>
+                  <l>Agitait son grand corps qui plonge</l>
+                  <l>Au soleil, et suce le songe !</l>
+                  <l>Arbre, grand Arbre, Ombre des Cieux,</l>
+                  <l>Irrésistible Arbre des arbres,</l>
+                  <l>Qui dans les faiblesses des marbres,</l>
+                  <l>Poursuis des sucs délicieux,</l>
+                  <l>Toi qui pousses tels labyrinthes</l>
+                  <l>Par qui les ténèbres étreintes</l>
+                  <l>S’iront perdre dans le saphir</l>
+                  <l>De l’éternelle matinée,</l>
+                  <l>Douce perte, arome ou zéphir,</l>
+                  <l>Ou colombe prédestinée,</l>
+                  <l>O Chanteur, ô secret buveur</l>
+                  <l>Des plus profondes pierreries,</l>
+                  <l>Berceau du reptile rêveur</l>
+                  <l>Qui jeta l’Ève en rêveries,</l>
+                  <l>Grand Être agité de savoir,</l>
+                  <l>Qui toujours, comme pour mieux voir,</l>
+                  <l>Grandis à l’appel de ta cime,</l>
+                  <l>Toi qui dans l’or très pur promeus</l>
+                  <l>Tes bras durs, tes rameaux fumeux,</l>
+                  <l>D’autre part, creusant vers l’abîme,</l>
+                  <l>Tu peux repousser l’infini</l>
+                  <l>Qui n’est fait que de ta croissance,</l>
+                  <l>Et de la tombe jusqu’au nid</l>
+                  <l>Te sentir toute Connaissance !</l>
+                  <l>Mais ce vieil amateur d’échecs,</l>
+                  <l>Dans l’or oisif des soleils secs,</l>
+                  <l>Sur ton branchage vient se tordre ;</l>
+                  <l>Ses yeux font frémir ton trésor.</l>
+                  <l>Il en cherra des fruits de mort,</l>
+                  <l>De désespoir et de désordre !</l>
+                  <l>Beau serpent, bercé dans le bleu,</l>
+                  <l>Je siffle, avec délicatesse,</l>
+                  <l>Offrant à la gloire de Dieu</l>
+                  <l>Le triomphe de ma tristesse…</l>
+                  <l>Il me suffit que dans les airs,</l>
+                  <l>L’immense espoir de fruits amers</l>
+                  <l>Affole les fils de la fange…</l>
+                  <l>— Cette soif qui te fit géant,</l>
+                  <l>Jusqu’à l’Être exalte l’étrange</l>
+                  <l>Toute-Puissance du Néant !</l>
+               </lg>
+               <div type="div3">
+                  <head>LES GRENADES</head>
+                  <lg>
+                     <l>Dures grenades entr’ouvertes</l>
+                     <l>Cédant à l’excès de vos grains,</l>
+                     <l>Je crois voir des fronts souverains</l>
+                     <l>Éclatés de leurs découvertes !</l>
+                     <l>Si les soleils par vous subis,</l>
+                     <l>O grenades entrebâillées,</l>
+                     <l>Vous ont fait d’orgueil travaillées,</l>
+                     <l>Craquer les cloisons de rubis,</l>
+                     <l>Et que si l’or sec de l’écorce</l>
+                     <l>A la demande d’une force</l>
+                     <l>Crève en gemmes rouges de jus,</l>
+                     <l>Cette lumineuse rupture</l>
+                     <l>Fait rêver une âme que j’eus</l>
+                     <l>De sa secrète architecture.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LE VIN PERDU</head>
+                  <p rend="justify">J’ai, quelque jour, dans l’Océan,</p>
+                  <p rend="justify">(Mais je ne sais plus sous quels cieux),</p>
+                  <lg>
+                     <l>Jeté, comme offrande au néant,</l>
+                     <l>Tout un peu de vin précieux…</l>
+                     <l>Qui voulut ta perte, ô liqueur ?</l>
+                     <l>J’obéis peut-être au devin ?</l>
+                     <l>Peut-être au souci de mon cœur,</l>
+                     <l>Songeant au sang, versant le vin ?</l>
+                     <l>Sa transparence accoutumée</l>
+                     <l>Après une rose fumée</l>
+                     <l>Reprit aussi pure la mer…</l>
+                     <l>Perdu ce vin, ivres les ondes !…</l>
+                     <l>J’ai vu bondir dans l’air amer</l>
+                     <l>Les figures les plus profondes…</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>INTÉRIEUR</head>
+                  <lg>
+                     <l>Une esclave aux longs yeux chargés de molles chaînes</l>
+                     <l>Change l’eau de mes fleurs, plonge aux glaces prochaines,</l>
+                     <l>Au lit mystérieux prodigue ses doigts purs ;</l>
+                     <l>Elle met une femme au milieu de ces murs,</l>
+                     <l>Qui dans ma rêverie errant avec décence,</l>
+                     <l>Passe entre mes regards sans briser leur absence,</l>
+                     <l>Comme passe le verre au travers du soleil,</l>
+                     <l>Et de la raison pure épargne l’appareil.</l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>LE CIMETIÈRE MARIN</head>
+               <p rend="justify">Μή, φίλα ψυχά, βίον ἀθάνατον σπεῦδε,<lb/>τὰν δ’ἐμπρᾳκτον ἄντλει μαχαναν.</p>
+               <lg>
+                  <l>Pindare, Pythiques III.</l>
+                  <l>Ce toit tranquille, où marchent des colombes,</l>
+                  <l>Entre les pins palpite, entre les tombes ;</l>
+                  <l>Midi le juste y compose de feux</l>
+                  <l>La mer, la mer, toujours recommencée !</l>
+                  <l>O récompense après une pensée</l>
+                  <l>Qu’un long regard sur le calme des dieux !</l>
+                  <l>Quel pur travail de fins éclairs consume</l>
+                  <l>Maint diamant d’imperceptible écume,</l>
+                  <l>Et quelle paix semble se concevoir !</l>
+                  <l>Quand sur l’abîme un soleil se repose,</l>
+                  <l>Ouvrages purs d’une éternelle cause,</l>
+                  <l>Le temps scintille et le songe est savoir.</l>
+                  <l>Stable trésor, temple simple à Minerve,</l>
+                  <l>Masse de calme, et visible réserve,</l>
+                  <l>Eau sourcilleuse, Œil qui gardes en toi</l>
+                  <l>Tant de sommeil sous un voile de flamme,</l>
+                  <l>O mon silence !… Édifice dans l’âme,</l>
+                  <l>Mais comble d’or aux mille tuiles, Toit !</l>
+                  <l>Temple du Temps, qu’un seul soupir résume,</l>
+                  <l>A ce point pur je monte et m’accoutume,</l>
+                  <l>Tout entouré de mon regard marin ;</l>
+                  <l>Et comme aux dieux mon offrande suprême,</l>
+                  <l>La scintillation sereine sème</l>
+                  <l>Sur l’altitude un dédain souverain.</l>
+                  <l>Comme le fruit se fond en jouissance,</l>
+                  <l>Comme en délice, il change son absence</l>
+                  <l>Dans une bouche où sa forme se meurt,</l>
+                  <l>Je hume ici ma future fumée,</l>
+                  <l>Et le ciel chante à l’âme consumée</l>
+                  <l>Le changement des rives en rumeur.</l>
+                  <l>Beau ciel, vrai ciel, regarde-moi qui change !</l>
+                  <l>Après tant d’orgueil, après tant d’étrange</l>
+                  <l>Oisiveté, mais pleine de pouvoir,</l>
+                  <l>Je m’abandonne à ce brillant espace,</l>
+                  <l>Sur les maisons des morts mon ombre passe</l>
+                  <l>Qui m’apprivoise à son frêle mouvoir.</l>
+                  <l>L’âme exposée aux torches du solstice,</l>
+                  <l>Je te soutiens, admirable justice</l>
+                  <l>De la lumière aux armes sans pitié !</l>
+                  <l>Je te rends pure à ta place première,</l>
+                  <l>Regarde-toi !… Mais rendre la lumière</l>
+                  <l>Suppose d’ombre une morne moitié.</l>
+                  <l>O pour moi seul, à moi seul, en moi-même,</l>
+                  <l>Auprès d’un cœur, aux sources du poème,</l>
+                  <l>Entre le vide et l’événement pur,</l>
+                  <l>J’attends l’écho de ma grandeur interne,</l>
+                  <l>Amère, sombre et sonore citerne,</l>
+                  <l>Sonnant dans l’âme un creux toujours futur !</l>
+                  <l>Sais-tu, fausse captive des feuillages,</l>
+                  <l>Golfe mangeur de ces maigres grillages,</l>
+                  <l>Sur mes yeux clos, secrets éblouissants,</l>
+                  <l>Quel corps me traîne à sa fin paresseuse,</l>
+                  <l>Quel front l’attire à cette terre osseuse ?</l>
+                  <l>Une étincelle y pense à mes absents.</l>
+                  <l>Fermé, sacré, plein d’un feu sans matière,</l>
+                  <l>Fragment terrestre offert à la lumière,</l>
+                  <l>Ce lieu me plaît, dominé de flambeaux.</l>
+                  <l>Composé d’or, de pierre et d’arbres sombres,</l>
+                  <l>Où tant de marbre est tremblant sur tant d’ombres ;</l>
+                  <l>La mer fidèle y dort sur mes tombeaux !</l>
+                  <l>Chienne splendide, écarte l’idolâtre !</l>
+                  <l>Quand solitaire au sourire de pâtre,</l>
+                  <l>Je pais longtemps, moutons mystérieux,</l>
+                  <l>Le blanc troupeau de mes tranquilles tombes,</l>
+                  <l>Éloignes-en les prudentes colombes,</l>
+                  <l>Les songes vains, les anges curieux !</l>
+                  <l>Ici venu, l’avenir est paresse.</l>
+                  <l>L’insecte net gratte la sécheresse ;</l>
+                  <l>Tout est brûlé, défait, reçu dans l’air</l>
+                  <l>A je ne sais quelle sévère essence…</l>
+                  <l>La vie est vaste, étant ivre d’absence,</l>
+                  <l>Et l’amertume est douce, et l’esprit clair.</l>
+                  <l>Les morts cachés sont bien dans cette terre</l>
+                  <l>Qui les réchauffe et sèche leur mystère.</l>
+                  <l>Midi là-haut, Midi sans mouvement</l>
+                  <l>En soi se pense et convient à soi-même…</l>
+                  <l>Tête complète et parfait diadème,</l>
+                  <l>Je suis en toi le secret changement.</l>
+                  <l>Tu n’as que moi pour contenir tes craintes !</l>
+                  <l>Mes repentirs, mes doutes, mes contraintes</l>
+                  <l>Sont le défaut de ton grand diamant !…</l>
+                  <l>Mais dans leur nuit toute lourde de marbres,</l>
+                  <l>Un peuple vague aux racines des arbres</l>
+                  <l>A pris déjà ton parti lentement.</l>
+                  <l>Ils ont fondu dans une absence épaisse,</l>
+                  <l>L’argile rouge a bu la blanche espèce,</l>
+                  <l>Le don de vivre a passé dans les fleurs !</l>
+                  <l>Où sont des morts les phrases familières,</l>
+                  <l>L’art personnel, les âmes singulières ?</l>
+                  <l>La larve file où se formaient les pleurs.</l>
+                  <l>Les cris aigus des filles chatouillées,</l>
+                  <l>Les yeux, les dents, les paupières mouillées,</l>
+                  <l>Le sein charmant qui joue avec le feu,</l>
+                  <l>Le sang qui brille aux lèvres qui se rendent,</l>
+                  <l>Les derniers dons, les doigts qui les défendent,</l>
+                  <l>Tout va sous terre et rentre dans le jeu !</l>
+                  <l>Et vous, grande âme, espérez-vous un songe</l>
+                  <l>Qui n’aura plus ces couleurs de mensonge</l>
+                  <l>Qu’aux yeux de chair l’onde et l’or font ici ?</l>
+                  <l>Chanterez-vous quand serez vaporeuse ?</l>
+                  <l>Allez ! Tout fuit ! Ma présence est poreuse,</l>
+                  <l>La sainte impatience meurt aussi !</l>
+                  <l>Maigre immortalité noire et dorée,</l>
+                  <l>Consolatrice affreusement laurée,</l>
+                  <l>Qui de la mort fais un sein maternel.</l>
+                  <l>Le beau mensonge et la pieuse ruse !</l>
+                  <l>Qui ne connaît, et qui ne les refuse,</l>
+                  <l>Ce crâne vide et ce rire éternel !</l>
+                  <l>Pères profonds, têtes inhabitées,</l>
+                  <l>Qui sous le poids de tant de pelletées</l>
+                  <l>Êtes la terre et confondez nos pas,</l>
+                  <l>Le vrai rongeur, le ver irréfutable</l>
+                  <l>N’est point pour vous qui dormez sous la table.</l>
+                  <l>Il vit de vie, il ne me quitte pas !</l>
+                  <l>Amour, peut-être, ou de moi-même haine ?</l>
+                  <l>Sa dent secrète est de moi si prochaine</l>
+                  <l>Que tous les noms lui peuvent convenir !</l>
+                  <l>Qu’importe ! Il voit, il veut, il songe, il touche !</l>
+                  <l>Ma chair lui plaît, et jusque sur ma couche,</l>
+                  <l>A ce vivant je vis d’appartenir !</l>
+                  <l>Zénon ! Cruel Zénon ! Zénon d’Élée !</l>
+                  <l>M’as-tu percé de cette flèche ailée</l>
+                  <l>Qui vibre, vole, et qui ne vole pas !</l>
+                  <l>Le son m’enfante et la flèche me tue !</l>
+                  <l>Ah ! le Soleil… Quelle ombre de tortue</l>
+                  <l>Pour l’âme, Achille immobile à grands pas !</l>
+                  <l>Non, non !… Debout ! Dans l’ère successive !</l>
+                  <l>Brisez, mon corps, cette forme pensive !</l>
+                  <l>Buvez, mon sein, la naissance du vent !</l>
+                  <l>Une fraîcheur, de la mer exhalée,</l>
+                  <l>Me rend mon âme… O puissance salée !</l>
+                  <l>Courons à l’onde en rejaillir vivant !</l>
+                  <l>Oui ! Grande mer de délires douée,</l>
+                  <l>Peau de panthère et chlamyde trouée</l>
+                  <l>De mille et mille idoles du soleil,</l>
+                  <l>Hydre absolue, ivre de ta chair bleue,</l>
+                  <l>Qui te remords l’étincelante queue</l>
+                  <l>Dans un tumulte au silence pareil,</l>
+                  <l>Le vent se lève !… Il faut tenter de vivre !</l>
+                  <l>L’air immense ouvre et referme mon livre,</l>
+                  <l>La vague en poudre ose jaillir des rocs !</l>
+                  <l>Envolez-vous, pages tout éblouies !</l>
+                  <l>Rompez, vagues ! Rompez d’eaux réjouies</l>
+                  <l>Ce toit tranquille où picoraient des focs !</l>
+               </lg>
+               <div type="div3">
+                  <head>ODE SECRÈTE</head>
+                  <lg>
+                     <l>Chute superbe, fin si douce,</l>
+                     <l>Oubli des luttes, quel délice</l>
+                     <l>Que d’étendre à même la mousse</l>
+                     <l>Après la danse, le corps lisse !</l>
+                     <l>Jamais une telle lueur</l>
+                     <l>Que ces étincelles d’été</l>
+                     <l>Sur un front semé de sueur</l>
+                     <l>N’avait la victoire fêté !</l>
+                     <l>Mais touché par le Crépuscule,</l>
+                     <l>Ce grand corps qui fit tant de choses,</l>
+                     <l>Qui dansait, qui rompit Hercule,</l>
+                     <l>N’est plus qu’une masse de roses !</l>
+                     <l>Dormez, sous les pas sidéraux,</l>
+                     <l>Vainqueur lentement désuni,</l>
+                     <l>Car l’Hydre inhérente au héros</l>
+                     <l>S’est éployée à l’infini…</l>
+                     <l>O quel Taureau, quel Chien, quelle Ourse,</l>
+                     <l>Quels objets de victoire énorme,</l>
+                     <l>Quand elle entre aux temps sans ressource</l>
+                     <l>L’âme extraordinaire forme !</l>
+                     <l>Fin suprême, étincellement</l>
+                     <l>Qui par les monstres et les dieux,</l>
+                     <l>Proclame universellement</l>
+                     <l>Les grands actes qui sont aux Cieux !</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LE RAMEUR</head>
+                  <lg>
+                     <l>A André Lebey</l>
+                     <l>Penché contre un grand fleuve, infiniment mes rames</l>
+                     <l>M’arrachent à regret aux riants environs ;</l>
+                     <l>Ame aux pesantes mains, pleines des avirons,</l>
+                     <l>Il faut que le ciel cède au glas des lentes lames.</l>
+                     <l>Le cœur dur, l’œil distrait des beautés que je bats,</l>
+                     <l>Laissant autour de moi mûrir des cercles d’onde,</l>
+                     <l>Je veux à larges coups rompre l’illustre monde</l>
+                     <l>De feuilles et de feu que je chante tout bas.</l>
+                     <l>Arbres sur qui je passe, ample et naïve moire,</l>
+                     <l>Eau de ramages peinte, et paix de l’accompli,</l>
+                     <l>Déchire-les, ma barque, impose-leur un pli</l>
+                     <l>Qui coure du grand calme abolir la mémoire.</l>
+                     <l>Jamais, charmes du jour, jamais vos grâces n’ont</l>
+                     <l>Tant souffert d’un rebelle essayant sa défense :</l>
+                     <l>Mais, comme les soleils m’ont tiré de l’enfance,</l>
+                     <l>Je remonte à la source où cesse même un nom.</l>
+                     <l>En vain toute la nymphe énorme et continue</l>
+                     <l>Empêche de bras purs mes membres harassés ;</l>
+                     <l>Je romprai lentement mille liens glacés</l>
+                     <l>Et les barbes d’argent de sa puissance nue.</l>
+                     <l>Ce bruit secret des eaux, ce fleuve étrangement</l>
+                     <l>Place mes jours dorés sous un bandeau de soie ;</l>
+                     <l>Rien plus aveuglément n’use l’antique joie</l>
+                     <l>Qu’un bruit de fuite égale et de nul changement.</l>
+                     <l>Sous les ponts annelés, l’eau profonde me porte,</l>
+                     <l>Voûtes pleines de vent, de murmure et de nuit,</l>
+                     <l>Ils courent sur un front qu’ils écrasent d’ennui,</l>
+                     <l>Mais dont l’os orgueilleux est plus dur que leur porte.</l>
+                     <l>Leur nuit passe longtemps. L’âme baisse sous eux</l>
+                     <l>Ses sensibles soleils et ses promptes paupières,</l>
+                     <l>Quand, par le mouvement qui me revêt de pierres,</l>
+                     <l>Je m’enfonce au mépris de tant d’azur oiseux.</l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>PALME</head>
+               <lg>
+                  <l>A Jeannie</l>
+                  <l>De sa grâce redoutable</l>
+                  <l>Voilant à peine l’éclat,</l>
+                  <l>Un ange met sur ma table</l>
+                  <l>Le pain tendre, le lait plat ;</l>
+                  <l>Il me fait de la paupière</l>
+                  <l>Le signe d’une prière</l>
+                  <l>Qui parle à ma vision :</l>
+                  <l>— Calme, calme, reste calme !</l>
+                  <l>Connais le poids d’une palme</l>
+                  <l>Portant sa profusion !</l>
+                  <l>Pour autant qu’elle se plie</l>
+                  <l>A l’abondance des biens,</l>
+                  <l>Sa figure est accomplie,</l>
+                  <l>Ses fruits lourds sont ses liens.</l>
+                  <l>Admire comme elle vibre,</l>
+                  <l>Et comme une lente fibre</l>
+                  <l>Qui divise le moment,</l>
+                  <l>Départage sans mystère</l>
+                  <l>L’attirance de la terre</l>
+                  <l>Et le poids du firmament !</l>
+                  <l>Ce bel arbitre mobile</l>
+                  <l>Entre l’ombre et le soleil,</l>
+                  <l>Simule d’une sibylle</l>
+                  <l>La sagesse et le sommeil.</l>
+                  <l>Autour d’une même place</l>
+                  <l>L’ample palme ne se lasse</l>
+                  <l>Des appels ni des adieux…</l>
+                  <l>Qu’elle est noble, qu’elle est tendre</l>
+                  <l>Qu’elle est digne de s’attendre</l>
+                  <l>A la seule main des dieux !</l>
+                  <l>L’or léger qu’elle murmure</l>
+                  <l>Sonne au simple doigt de l’air,</l>
+                  <l>Et d’une soyeuse armure</l>
+                  <l>Charge l’âme du désert.</l>
+                  <l>Une voix impérissable</l>
+                  <l>Qu’elle rend au vent de sable</l>
+                  <l>Qui l’arrose de ses grains,</l>
+                  <l>A soi-même sert d’oracle,</l>
+                  <l>Et se flatte du miracle</l>
+                  <l>Que se chantent les chagrins.</l>
+                  <l>Cependant qu’elle s’ignore</l>
+                  <l>Entre le sable et le ciel,</l>
+                  <l>Chaque jour qui luit encore</l>
+                  <l>Lui compose un peu de miel.</l>
+                  <l>Sa douceur est mesurée</l>
+                  <l>Par la divine durée</l>
+                  <l>Qui ne compte pas les jours,</l>
+                  <l>Mais bien qui les dissimule</l>
+                  <l>Dans un suc où s’accumule</l>
+                  <l>Tout l’arome des amours.</l>
+                  <l>Parfois si l’on désespère,</l>
+                  <l>Si l’adorable rigueur</l>
+                  <l>Malgré tes larmes n’opère</l>
+                  <l>Que sous ombre de langueur,</l>
+                  <l>N’accuse pas d’être avare</l>
+                  <l>Une Sage qui prépare</l>
+                  <l>Tant d’or et d’autorité :</l>
+                  <l>Par la sève solennelle</l>
+                  <l>Une espérance éternelle</l>
+                  <l>Monte à la maturité !</l>
+                  <l>Ces jours qui te semblent vides</l>
+                  <l>Et perdus pour l’univers</l>
+                  <l>Ont des racines avides</l>
+                  <l>Qui travaillent les déserts.</l>
+                  <l>La substance chevelue</l>
+                  <l>Par les ténèbres élue</l>
+                  <l>Ne peut s’arrêter jamais</l>
+                  <l>Jusqu’aux entrailles du monde,</l>
+                  <l>De poursuivre l’eau profonde</l>
+                  <l>Que demandent les sommets.</l>
+                  <l>Patience, patience,</l>
+                  <l>Patience dans l’azur !</l>
+                  <l>Chaque atome de silence</l>
+                  <l>Est la chance d’un fruit mûr !</l>
+                  <l>Viendra l’heureuse surprise :</l>
+                  <l>Une colombe, la brise,</l>
+                  <l>L’ébranlement le plus doux,</l>
+                  <l>Une femme qui s’appuie,</l>
+                  <l>Feront tomber cette pluie</l>
+                  <l>Où l’on se jette à genoux !</l>
+                  <l>Qu’un peuple à présent s’écroule,</l>
+                  <l>Palme !… irrésistiblement !</l>
+                  <l>Dans la poudre qu’il se roule</l>
+                  <l>Sur les fruits du firmament !</l>
+                  <l>Tu n’as pas perdu ces heures,</l>
+                  <l>Si légère tu demeures</l>
+                  <l>Après ces beaux abandons ;</l>
+                  <l>Pareille à celui qui pense</l>
+                  <l>Et dont l’âme se dépense</l>
+                  <l>A s’accroître de ses dons !</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>TABLE DES MATIÈRES</head>
+               <table rend="frame" xml:id="Table1">
+                  <row>
+                     <cell>AURORE</cell>
+                     <cell rend="justify">7</cell>
+                  </row>
+                  <row>
+                     <cell>Au Platane</cell>
+                     <cell rend="justify">12</cell>
+                  </row>
+                  <row>
+                     <cell>Air de Sémiramis</cell>
+                     <cell rend="justify">17</cell>
+                  </row>
+                  <row>
+                     <cell>Cantique des colonnes</cell>
+                     <cell rend="justify">24</cell>
+                  </row>
+                  <row>
+                     <cell>FRAGMENTS DU NARCISSE</cell>
+                     <cell rend="justify">29</cell>
+                  </row>
+                  <row>
+                     <cell>L’Abeille</cell>
+                     <cell rend="justify">49</cell>
+                  </row>
+                  <row>
+                     <cell>Poésie</cell>
+                     <cell rend="justify">50</cell>
+                  </row>
+                  <row>
+                     <cell>Les Pas</cell>
+                     <cell rend="justify">54</cell>
+                  </row>
+                  <row>
+                     <cell>La Ceinture</cell>
+                     <cell rend="justify">56</cell>
+                  </row>
+                  <row>
+                     <cell>La Dormeuse</cell>
+                     <cell rend="justify">57</cell>
+                  </row>
+                  <row>
+                     <cell>LA PYTHIE</cell>
+                     <cell rend="justify">59</cell>
+                  </row>
+                  <row>
+                     <cell>Le Sylphe</cell>
+                     <cell rend="justify">74</cell>
+                  </row>
+                  <row>
+                     <cell>L’Insinuant</cell>
+                     <cell rend="justify">76</cell>
+                  </row>
+                  <row>
+                     <cell>La fausse Morte</cell>
+                     <cell rend="justify">78</cell>
+                  </row>
+                  <row>
+                     <cell>ÉBAUCHE D’UN SERPENT</cell>
+                     <cell rend="justify">79</cell>
+                  </row>
+                  <row>
+                     <cell>Les Grenades</cell>
+                     <cell rend="justify">97</cell>
+                  </row>
+                  <row>
+                     <cell>Le Vin perdu</cell>
+                     <cell rend="justify">99</cell>
+                  </row>
+                  <row>
+                     <cell>Intérieur</cell>
+                     <cell rend="justify">101</cell>
+                  </row>
+                  <row>
+                     <cell>LE CIMETIÈRE MARIN</cell>
+                     <cell rend="justify">105</cell>
+                  </row>
+                  <row>
+                     <cell>Ode Secrète</cell>
+                     <cell rend="justify">114</cell>
+                  </row>
+                  <row>
+                     <cell>Le Rameur</cell>
+                     <cell rend="justify">116</cell>
+                  </row>
+                  <row>
+                     <cell>PALME</cell>
+                     <cell rend="justify">119</cell>
+                  </row>
+               </table>
+               <lg>
+                  <l>CE LIVRE</l>
+                  <l>A ÉTÉ IMPRIMÉ</l>
+                  <l>PAR</l>
+                  <l>MAURICE DARANTIERE</l>
+                  <l>A DIJON</l>
+                  <l>EN DÉCEMBRE</l>
+                  <l>M.CM.XXVI</l>
+               </lg>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

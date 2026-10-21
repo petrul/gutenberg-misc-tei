@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fables de La Fontaine. Tome Second</title>
+            <author>Jean de La Fontaine</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-01T19:33:30Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">odts/fr-odts/LaFontaineJeanDe-FablesDeLaFontaineTomeSecond_2006.epub.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Jean de La Fontaine</name>
+               <date>2024-01-01T19:33:30Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Fables de La Fontaine. Tome Second</head>
+         <author>Jean de La Fontaine</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">odts/fr-odts/LaFontaineJeanDe-FablesDeLaFontaineTomeSecond_2006.epub.odt</p>
+         <head>Jean de La Fontaine</head>
+         <pb/>
+         <div type="div1">
+            <head>FABLES</head>
+            <pb/>
+            <div type="div2">
+               <head>(1668-1694)</head>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>Livre II</label>
+               </head>
+               <div type="div3">
+                  <head>Table des matières</head>
+                  <table rend="frame" xml:id="Table1">
+                     <row>
+                        <cell>
+                           <hi rend="bold">Contre ceux qui ont le goût difficile</hi>
+                           <lb/>
+                           <hi rend="bold">Conseil tenu par les rats</hi>
+                           <lb/>
+                           <hi rend="bold">Le Loup plaidant contre le Renard par-devant le Singe</hi>
+                           <lb/>
+                           <hi rend="bold">Les deux Taureaux et une Grenouille</hi>
+                           <lb/>
+                           <hi rend="bold">La Chauve-souris et les deux Belettes</hi>
+                           <lb/>
+                           <hi rend="bold">L'Oiseau blessé d'une Flèche</hi>
+                           <lb/>
+                           <hi rend="bold">La Lice et sa Compagne</hi>
+                           <lb/>
+                           <hi rend="bold">L'Aigle et l'Escarbot</hi>
+                           <lb/>
+                           <hi rend="bold">Le Lion et le Moucheron</hi>
+                           <lb/>
+                           <hi rend="bold">L'Âne chargé d'éponges et l'Âne chargé de sel</hi>
+                           <lb/>
+                           <hi rend="bold">Le Lion et le Rat</hi>
+                           <lb/>
+                           <hi rend="bold">La Colombe et la Fourmi</hi>
+                           <lb/>
+                           <hi rend="bold">L'Astrologue qui se laisse tomber dans un puits</hi>
+                           <lb/>
+                           <hi rend="bold">Le Lièvre et les Grenouilles</hi>
+                           <lb/>
+                           <hi rend="bold">Le Coq et le Renard</hi>
+                           <lb/>
+                           <hi rend="bold">Le Corbeau voulant imiter l'Aigle</hi>
+                           <lb/>
+                           <hi rend="bold">Le Paon se plaignant à Junon</hi>
+                           <lb/>
+                           <hi rend="bold">La Chatte métamorphosée en Femme</hi>
+                           <lb/>
+                           <hi rend="bold">Le Lion et l'Âne chassant</hi>
+                           <lb/>
+                           <hi rend="bold">Testament expliqué par Ésope</hi>
+                           <lb/>
+                        </cell>
+                     </row>
+                  </table>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Contre ceux qui ont le goût difficile</head>
+               <lg>
+                  <l>Quand j'aurais en naissant reçu de Calliope</l>
+                  <l>Les dons qu'à ses amants cette muse a promis,</l>
+                  <l>Je les consacrerais aux mensonges d'Ésope:</l>
+                  <l>Mais je ne crois pas si chéri du Parnasse</l>
+                  <l>Que de savoir orner toutes ces fictions.</l>
+                  <l>On peut donner du lustre à leurs inventions:</l>
+                  <l>On le peut, je l'essaie: un plus savant le fasse.</l>
+                  <l>Cependant jusqu'ici d'un langage nouveau</l>
+                  <l>J'ai fait parler le loup et répondre l'agneau;</l>
+                  <l>J'ai passé plus avant: les arbres et les plantes</l>
+                  <l>Sont devenus chez moi créatures parlantes.</l>
+                  <l>Qui ne prendrait ceci pour un enchantement?</l>
+                  <l>«Vraiment, me diront nos critiques,</l>
+                  <l>Vous parlez magnifiquement</l>
+                  <l>De cinq ou six contes d'enfant»</l>
+                  <l>Censeurs, en voulez-vous qui soient plus authentiques</l>
+                  <l>Et d'un style plus haut? En voici: «Les Troyens,</l>
+                  <l>«Après dix ans de guerre autour de leurs murailles,</l>
+                  <l>«Avaient lassé les Grecs, qui par mille moyens,</l>
+                  <l>«Par mille assauts, par cent batailles,</l>
+                  <l>«N'avaient pu mettre à bout cette fière cité,</l>
+                  <l>«Quand un cheval de bois, par Minerve inventé,</l>
+                  <l>«D'un rare et nouvel artifice,</l>
+                  <l>«Dans ses énormes flancs reçut le sage Ulysse,</l>
+                  <l>«Le vaillant Diomède, Ajax l'impétueux,</l>
+                  <l>«Que ce colosse monstrueux</l>
+                  <l>«Avec leurs escadrons devait porter dans Troie,</l>
+                  <l>«Livrant à leur fureur ses dieux mêmes en proie:</l>
+                  <l>«Stratagème inouï, qui des fabricateurs</l>
+                  <l>«Paya la constance et la peine.»</l>
+                  <l>«C'est assez, me dira quelqu'un de nos auteurs:</l>
+                  <l>La période est longue, il faut reprendre haleine;</l>
+                  <l>Et puis votre cheval de bois,</l>
+                  <l>Vos héros avec leurs phalanges,</l>
+                  <l>Ce sont des contes plus étranges</l>
+                  <l>Qu'un renard qui cajole un corbeau sur sa voix:</l>
+                  <l>De plus il vous sied mal d'écrire en si haut style.»</l>
+                  <l>Eh bien! baissons d'un ton.</l>
+                  <l>«La jalouse Amaryle</l>
+                  <l>«Songeait à son Alcippe et croyait de ses soins</l>
+                  <l>«N'avoir que ses moutons et son chien pour témoins.</l>
+                  <l>«Tircis, qui l'aperçut, se glisse entre des saules;</l>
+                  <l>«Il entend la bergère adressant ces paroles</l>
+                  <l>«Au doux zéphire, et le priant</l>
+                  <l>«De les porter à son amant.»</l>
+                  <l>«Je vous arrête à cette rime,</l>
+                  <l>Dira mon censeur à l'instant;</l>
+                  <l>Je ne la tiens pas légitime.</l>
+                  <l>Ni d'une assez grande vertu.</l>
+                  <l>Remettez, pour le mieux, ces deux vers à la fonte.»</l>
+                  <l>«Maudit censeur! te tairas-tu?</l>
+                  <l>Ne saurai-je achever mon conte?</l>
+                  <l>C'est un dessein très dangereux</l>
+                  <l>Que d'entreprendre de te plaire.»</l>
+               </lg>
+               <lg>
+                  <l>Les délicats sont malheureux:</l>
+                  <l>  Rien ne saurait les satisfaire.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Conseil tenu par les rats</head>
+               <lg>
+                  <l>Un chat, nommé Rodilardus,</l>
+                  <l>Faisait des rats telle déconfiture</l>
+                  <l>Que l'on n'en voyait presque plus,</l>
+                  <l>Tant il en avait mis dedans la sépulture.</l>
+                  <l>Le peu qu'il en restait n'osant quitter son trou</l>
+                  <l>Ne trouvait à manger que le quart de son soûl,</l>
+                  <l>Et Rodilard passait, chez la gent misérable,</l>
+                  <l>Non pour un chat, mais pour un diable.</l>
+                  <l>Or, un jour qu'au haut et au loin</l>
+                  <l>Le galand alla chercher femme,</l>
+                  <l>Pendant tout le sabbat qu'il fit avec sa dame,</l>
+                  <l>Le demeurant des rats tint chapitre en un coin</l>
+                  <l>Sur la nécessité présente.</l>
+                  <l>Dès l'abord, leur doyen, personne fort prudente,</l>
+                  <l>Opina qu'il fallait, et plus tôt que plus tard,</l>
+                  <l>Attacher un grelot au cou de Rodilard;</l>
+                  <l>Qu'ainsi, quand il irait en guerre,</l>
+                  <l>De sa marche avertis, ils s'enfuiraient en terre;</l>
+                  <l>Qu'ils n'y savaient que ce moyen.</l>
+                  <l>Chacun fut de l'avis de Monsieur le Doyen:</l>
+                  <l>Chose ne leur parut à tous plus salutaire.</l>
+                  <l>La difficulté fut d'attacher le grelot.</l>
+                  <l>L'un dit: «Je n'y vas point, je ne suis pas si sot,»</l>
+                  <l>L'autre: «Je ne saurais.» Si bien que sans rien faire</l>
+                  <l>On se quitta. J'ai maints chapitres vus,</l>
+                  <l>Qui pour néant se sont ainsi tenus;</l>
+                  <l>Chapitres, non de rats, mais chapitres de moines,</l>
+                  <l>Voire chapitres de chanoines.</l>
+               </lg>
+               <lg>
+                  <l>Ne faut-il que délibérer,</l>
+                  <l>  La cour en conseillers foisonne;</l>
+                  <l>  Est-il besoin d'exécuter,</l>
+                  <l>  L'on ne rencontre plus personne.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Le Loup plaidant contre le Renard par-devant le Singe</head>
+               <lg>
+                  <l>Un loup disait qu'on l'avait volé.</l>
+                  <l>Un renard, son voisin, d'assez mauvaise vie,</l>
+                  <l>Pour ce prétendu vol par lui fut appelé.</l>
+                  <l>Devant le singe il fut plaidé,</l>
+                  <l>Non point par avocat, mais par chaque partie,</l>
+                  <l>Thémis n'avait point travaillé</l>
+                  <l>De mémoire de singe à fait plus embrouillé.</l>
+                  <l>Le magistrat suait en son lit de justice.</l>
+                  <l>Après qu'on eut bien contesté,</l>
+                  <l>Répliqué, crié, tempêté,</l>
+                  <l>Le juge, instruit de leur malice,</l>
+                  <l>Leur dit: «Je vous connais de longtemps, mes amis,</l>
+                  <l>Et tous deux vous paierez l'amende;</l>
+                  <l>Car toi, loup, tu te plains, quoiqu'on ne t'ait rien pris</l>
+                  <l>Et toi, renard, as pris ce que l'on te demande.»</l>
+                  <l>Le juge prétendait qu'à tort et à travers</l>
+                  <l>On ne saurait manquer, condamnant un pervers.</l>
+               </lg>
+               <p rend="justify">Note: Quelques personnes de bon sens ont cru que l'impossibilité et la contradiction, qui est dans le jugement de ce singe, était une chose à censurer: mais je ne m'en suis servi qu'après Phèdre; et c'est en cela que consiste le bon mot, selon mon avis. La Fontaine</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Les deux Taureaux et une Grenouille</head>
+               <lg>
+                  <l>Deux taureaux combattaient à qui posséderait</l>
+                  <l>Une génisse avec l'empire.</l>
+                  <l>Une grenouille en soupirait.</l>
+                  <l>«Qu'avez-vous?» se mit à lui dire</l>
+                  <l>Quelqu'un du peuple croassant.</l>
+                  <l>«Eh! ne voyez-vous pas, dit-elle,</l>
+                  <l>Que la fin de cette querelle</l>
+                  <l>Sera l'exil de l'un; que l'autre, le chassant,</l>
+                  <l>Le fera renoncer aux campagnes fleuries?</l>
+                  <l>Il ne régnera plus sur l'herbe des prairies,</l>
+                  <l>Viendra dans nos marais régner sur nos roseaux;</l>
+                  <l>Et nous foulant aux pieds jusques au fond des eaux,</l>
+                  <l>Tantôt l'une, et puis l'autre, il faudra qu'on pâtisse</l>
+                  <l>Du combat qu'a causé Madame la Génisse.»</l>
+               </lg>
+               <lg>
+                  <l>Cette crainte était de bon sens.</l>
+                  <l>  L'un des taureaux en leur demeure</l>
+                  <l>  S'alla cacher, à leurs dépens:</l>
+                  <l>  Il en écrasait vingt par heure.</l>
+                  <l>  Hélas, on voit que de tout temps</l>
+                  <l>  Les petits ont pâti des sottises de grands.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>La Chauve-souris et les deux Belettes</head>
+               <lg>
+                  <l>Une chauve-souris donna tête baissée</l>
+                  <l>Dans un nid de belettes; et sitôt qu'elle y fut,</l>
+                  <l>L'autre, envers les souris de longtemps courroucée,</l>
+                  <l>Pour la dévorer accourut.</l>
+                  <l>«Quoi? vous osez, dit-elle, à mes yeux vous produire,</l>
+                  <l>Après que votre race a tâché de me nuire!</l>
+                  <l>N'êtes-vous pas souris? Parlez sans fiction.</l>
+                  <l>Oui, vous l'êtes, ou bien je ne suis pas belette.</l>
+                  <l>—Pardonnez-moi, dit la pauvrette,</l>
+                  <l>Ce n'est pas ma profession.</l>
+                  <l>Moi souris! Des méchants vous ont dit ces nouvelles.</l>
+                  <l>Grâce à l'auteur de l'univers,</l>
+                  <l>Je suis oiseau; voyez mes ailes:</l>
+                  <l>Vive la gent qui fend les airs.»</l>
+                  <l>Sa raison plut, et sembla bonne.</l>
+                  <l>Elle fait si bien qu'on lui donne</l>
+                  <l>Liberté de se retirer.</l>
+                  <l>Deux jours après, notre étourdie</l>
+                  <l>Aveuglément va se fourrer</l>
+                  <l>Chez une autre belette, aux oiseaux ennemie.</l>
+                  <l>La voilà derechef en danger de sa vie.</l>
+                  <l>La dame du logis avec son long museau</l>
+                  <l>S'en allait la croquer en qualité d'oiseau,</l>
+                  <l>Quand elle protesta qu'on lui faisait outrage:</l>
+                  <l>«Moi, pour telle passer! Vous n'y regardez pas</l>
+                  <l>Qui fait l'oiseau? C'est le plumage.</l>
+                  <l>Je suis souris: vivent les rats!»</l>
+                  <l>Jupiter confonde les chats!»</l>
+                  <l>Par cette adroite répartie</l>
+                  <l>Elle sauva deux fois sa vie.</l>
+               </lg>
+               <lg>
+                  <l>Plusieurs se sont trouvés qui, d'écharpe changeant,</l>
+                  <l>  Aux dangers ainsi qu'elle, ont souvent fait la figue.</l>
+                  <l>  Le sage dit, selon les gens,</l>
+                  <l>  «Vive le Roi! vive la ligue!»</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>L'Oiseau blessé d'une Flèche</head>
+               <lg>
+                  <l>Mortellement atteint d'une flèche empennée,</l>
+                  <l>Un oiseau déplorait sa triste destinée,</l>
+                  <l>Et disait, en souffrant un surcroît de douleur:</l>
+                  <l>«Faut-il contribuer à son propre malheur!</l>
+                  <l>Cruels humains! Vous tirez de nos ailes</l>
+                  <l>De quoi faire voler ces machines mortelles.</l>
+                  <l>Mais ne vous moquez point, engeance sans pitié:</l>
+                  <l>Souvent il vous arrive un sort comme le nôtre.</l>
+                  <l>Des enfants de Japet toujours une moitié</l>
+                  <l>Fournira des armes à l'autre.»</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>La Lice et sa Compagne</head>
+               <lg>
+                  <l>Une lice étant sur son terme,</l>
+                  <l>Et ne sachant où mettre un fardeau si pressant,</l>
+                  <l>Fait si bien qu'à la fin sa compagne consent</l>
+                  <l>De lui prêter sa hutte, où la lice s'enferme.</l>
+                  <l>Au bout de quelque temps sa compagne revient.</l>
+                  <l>La lice lui demande encore une quinzaine;</l>
+                  <l>Ses petits ne marchaient, disait-elle, qu'à peine.</l>
+                  <l>Pour faire court, elle l'obtient.</l>
+                  <l>Ce second terme échu, l'autre lui redemande</l>
+                  <l>Sa maison, sa chambre, son lit.</l>
+                  <l>La lice cette fois, montre les dents, et dit:</l>
+                  <l>«Je suis prête à sortir avec toute ma bande,</l>
+                  <l>Si vous pouvez nous mettre hors.»</l>
+                  <l>Ses enfants étaient déjà forts.</l>
+               </lg>
+               <p rend="justify">Ce qu'on donne aux méchants, toujours on le regrette.<lb/>
+               </p>
+               <lg>
+                  <l>Pour tirer d'eux ce qu'on leur prête,</l>
+                  <l>  Il faut que l'on en vienne aux coups;</l>
+                  <l>  Il faut plaider, il faut combattre.</l>
+                  <l>  Laissez-leur un pied chez vous,</l>
+                  <l>  Ils en auront bientôt pris quatre.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>L'Aigle et l'Escarbot</head>
+               <lg>
+                  <l>L'aigle donnait la chasse à maître Jean Lapin,</l>
+                  <l>Qui droit à son terrier s'enfuyait au plus vite.</l>
+                  <l>Le trou de l'escarbot se rencontre en chemin.</l>
+                  <l>Je laisse à penser si ce gîte</l>
+                  <l>Était sûr; mais où mieux?</l>
+                  <l>Jean Lapin s'y blottit.</l>
+                  <l>L'aigle fondant sur lui nonobstant cet asile,</l>
+                  <l>L'escarbot intercède et dit:</l>
+                  <l>«Princesse des oiseaux, il vous est fort facile</l>
+                  <l>D'enlever malgré moi ce pauvre malheureux;</l>
+                  <l>Mais ne me faites pas cet affront, je vous prie;</l>
+                  <l>Et puisque Jean Lapin vous demande la vie,</l>
+                  <l>Donnez-la-lui, de grâce, ou l'ôtez à tous deux:</l>
+                  <l>C'est mon voisin, c'est mon compère.»</l>
+                  <l>L'oiseau de Jupiter, sans répondre un seul mot,</l>
+                  <l>Choque de l'aile l'escarbot,</l>
+                  <l>L'étourdit, l'oblige à se taire,</l>
+                  <l>Enlève Jean Lapin. L'escarbot indigné</l>
+                  <l>Vole au nid de l'oiseau, fracasse en son absence,</l>
+                  <l>Ses œufs, ses tendres œufs, sa plus douce espérance:</l>
+                  <l>Pas un seul ne fut épargné.</l>
+                  <l>L'aigle étant de retour et voyant ce ménage,</l>
+                  <l>Remplit le ciel de cris: et pour comble de rage,</l>
+                  <l>Ne sait sur qui venger le tort qu'elle a souffert.</l>
+                  <l>Elle gémit en vain: sa plainte au vent se perd.</l>
+                  <l>Il fallut pour cet an vivre en mère affligée.</l>
+                  <l>L'an suivant, elle mit son nid en lieu plus haut.</l>
+                  <l>L'escarbot prend son temps, fait faire aux œufs le saut.</l>
+                  <l>La mort de Jean lapin derechef est vengée.</l>
+                  <l>Ce second deuil fut tel, que l'écho de ces bois</l>
+                  <l>N'en dormit de plus de six mois.</l>
+                  <l>L'oiseau qui porte Ganymède</l>
+                  <l>Du monarque des dieux enfin implore l'aide,</l>
+                  <l>Dépose en son giron ses œufs, et croit qu'en paix</l>
+                  <l>Ils seront dans ce lieu; que, pour ses intérêts,</l>
+                  <l>Jupiter se verra contraint de les défendre:</l>
+                  <l>Hardi qui les irait là prendre.</l>
+                  <l>Aussi ne les y prit-on pas.</l>
+                  <l>Leur ennemi changea de note,</l>
+                  <l>Sur la robe du dieu fit tomber une crotte;</l>
+                  <l>Le dieu la secouant jeta les œufs à bas.</l>
+                  <l>Quand l'aigle sut l'inadvertance,</l>
+                  <l>Elle menaça Jupiter</l>
+                  <l>D'abandonner sa cour, d'aller vivre au désert,</l>
+                  <l>De quitter toute dépendance,</l>
+                  <l>Avec mainte autre extravagance.</l>
+                  <l>Le pauvre Jupiter se tut:</l>
+                  <l>Devant son tribunal l'escarbot comparut,</l>
+                  <l>Fit sa plainte et conta l'affaire.</l>
+                  <l>On fit entendre à l'aigle enfin qu'elle avait tort.</l>
+                  <l>Mais, les deux ennemis ne voulant point d'accord,</l>
+                  <l>Le monarque des dieux s'avisa, pour bien faire,</l>
+                  <l>De transporter le temps où l'aigle fait l'amour</l>
+                  <l>En une autre saison, quand la race escarbote</l>
+                  <l>Est en quartier d'hiver, et comme la marmotte,</l>
+                  <l>Se cache et ne voit point le jour.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Le Lion et le Moucheron</head>
+               <lg>
+                  <l>«Va-t-en, chétif insecte, excrément de la terre»:</l>
+                  <l>C'est en ces mots que le Lion</l>
+                  <l>Parlait un jour au moucheron.</l>
+                  <l>L'autre lui déclara la guerre.</l>
+                  <l>«Penses-tu, lui dit-il, que ton titre de roi</l>
+                  <l>Me fasse peur, ni me soucie?</l>
+                  <l>Un bœuf est plus puissant que toi,</l>
+                  <l>Je le mène à ma fantaisie.»</l>
+                  <l>A peine il achevait ces mots,</l>
+                  <l>Que lui-même il sonna la charge,</l>
+                  <l>Fut la trompette et le héros.</l>
+                  <l>Dans l'abord il se met au large;</l>
+                  <l>Puis prend son temps, fond sur le cou</l>
+                  <l>Du lion, qu'il rend presque fou.</l>
+                  <l>Le quadrupède écume, et son œil étincelle;</l>
+                  <l>Il rugit; on se cache, on tremble à l'environ:</l>
+                  <l>Et cette alarme universelle</l>
+                  <l>Est l'ouvrage d'un moucheron.</l>
+                  <l>Un avorton de mouche en cent lieux le harcelle:</l>
+                  <l>Tantôt pique l'échine et tantôt le museau.</l>
+                  <l>Tantôt entre au fond du naseau.</l>
+                  <l>La rage alors se trouve à son faîte montée.</l>
+                  <l>L'invisible ennemi triomphe, et rit de voir</l>
+                  <l>Qu'il n'est griffe ni dent en la bête irritée</l>
+                  <l>Qui de la mettre en sang lui fasse son devoir.</l>
+                  <l>Le malheureux lion se déchire lui-même,</l>
+                  <l>Fait résonner sa queue à l'entour de ses flancs,</l>
+                  <l>Bat l'air, qui n'en peut mais, et sa fureur extrême</l>
+                  <l>Le fatigue, l'abat: le voilà sur les dents.</l>
+                  <l>L'insecte du combat se retire avec gloire:</l>
+                  <l>Comme il sonna la charge, il sonne la victoire,</l>
+                  <l>Va partout l'annoncer, et rencontre en chemin</l>
+                  <l>L'embuscade d'une araignée;</l>
+                  <l>Il y rencontre aussi sa fin.</l>
+               </lg>
+               <lg>
+                  <l>Quelle chose par là nous peut être enseignée?</l>
+                  <l>  J'en vois deux dont l'une est qu'entre nos ennemis</l>
+                  <l>  Les plus à craindre sont souvent les plus petits;</l>
+                  <l>  L'autre, qu'aux grands périls tel a pu se soustraire,</l>
+                  <l>  Qui périt pour la moindre affaire.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>L'Âne chargé d'éponges et l'Âne chargé de sel</head>
+               <lg>
+                  <l>Un ânier, son sceptre à la main,</l>
+                  <l>Menait, en empereur romain,</l>
+                  <l>Deux coursiers à longues oreilles.</l>
+                  <l>L'un, d'éponges chargé, marchait comme un courrier;</l>
+                  <l>Et l'autre, se faisant prier,</l>
+                  <l>Portait, comme on dit, les bouteilles:</l>
+                  <l>Sa charge était de sel. Nos gaillards pèlerins</l>
+                  <l>Par monts, par vaux et par chemins,</l>
+                  <l>Au gué d'une rivière à la fin arrivèrent,</l>
+                  <l>Et fort empêchés se trouvèrent.</l>
+                  <l>L'ânier, qui tous les jours traversait ce gué là,</l>
+                  <l>Sur l'âne à l'éponge monta,</l>
+                  <l>Chassant devant lui l'autre bête,</l>
+                  <l>Qui, voulant en faire à sa tête,</l>
+                  <l>Dans un trou se précipita,</l>
+                  <l>Revint sur l'eau, puis échappa;</l>
+                  <l>Car au bout de quelques nagées,</l>
+                  <l>Tout son sel se fondit si bien</l>
+                  <l>Que le baudet ne sentit rien</l>
+                  <l>Sur ses épaules soulagées.</l>
+                  <l>Camarade épongier prit exemple sur lui,</l>
+                  <l>Comme un mouton qui va devant dessus la foi d'autrui.</l>
+                  <l>Voilà mon âne à l'eau; jusqu'au col il se plonge,</l>
+                  <l>Lui le conducteur et l'éponge.</l>
+                  <l>Tous trois burent d'autant: l'ânier et le grison</l>
+                  <l>Firent à l'éponge raison.</l>
+                  <l>Celle-ci devint si pesante,</l>
+                  <l>Et de tant d'eau s'emplit d'abord,</l>
+                  <l>Que l'âne succombant ne put gagner le bord.</l>
+                  <l>L'ânier l'embrassait, dans l'attente</l>
+                  <l>D'une prompte et certaine mort.</l>
+                  <l>Quelqu'un vint au secours: qui ce fut, il n'importe;</l>
+                  <l>C'est assez qu'on ait vu par là qu'il ne faut point</l>
+                  <l>Agir chacun de même sorte.</l>
+                  <l>J'en voulais venir à ce point.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Le Lion et le Rat</head>
+               <lg>
+                  <l>Il faut, autant qu'on peut, obliger tout le monde:</l>
+                  <l>On a souvent besoin d'un plus petit que soi.</l>
+                  <l>De cette vérité deux fables feront foi,</l>
+                  <l>Tant la chose en preuves abonde.</l>
+               </lg>
+               <lg>
+                  <l>Entre les pattes d'un lion</l>
+                  <l>  Un rat sortit de terre assez à l'étourdie.</l>
+                  <l>  Le roi des animaux, en cette occasion,</l>
+                  <l>  Montra ce qu'il était et lui donna la vie.</l>
+                  <l>  Ce bienfait ne fut pas perdu.</l>
+                  <l>  Quelqu'un aurait-il jamais cru</l>
+                  <l>  Qu'un lion d'un rat eût affaire?</l>
+                  <l>  Cependant il advint qu'au sortir des forêts</l>
+                  <l>  Ce lion fut pris dans des rets,</l>
+                  <l>  Dont ses rugissements ne le purent défaire.</l>
+                  <l>  Sire rat accourut et fit tant par ses dents</l>
+                  <l>  Qu'une maille rongée emporta tout l'ouvrage.</l>
+               </lg>
+               <lg>
+                  <l>Patience et longueur de temps</l>
+                  <l>  Font plus que force ni que rage.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>La Colombe et la Fourmi</head>
+               <p rend="justify">L'autre exemple est tiré d'animaux plus petits.<lb/>
+               </p>
+               <lg>
+                  <l>Le long d'un clair ruisseau buvait une colombe,</l>
+                  <l>  Quand sur l'eau se penchant une fourmi y tombe,</l>
+                  <l>  Et dans cet océan l'on eût vu la fourmi</l>
+                  <l>  S'efforcer, mais en vain, de regagner la rive.</l>
+                  <l>  La colombe aussitôt usa de charité:</l>
+                  <l>  Un brin d'herbe dans l'eau par elle étant jeté,</l>
+                  <l>  Ce fut un promontoire où la fourmi arrive.</l>
+                  <l>  Elle se sauve; et là-dessus</l>
+                  <l>  Passe un certain croquant qui marchait les pieds nus.</l>
+                  <l>  Ce croquant, par hasard, avait une arbalète.</l>
+                  <l>  Dès qu'il voit l'oiseau de Vénus,</l>
+                  <l>  Il le croit en son pot, et déjà lui fait fête.</l>
+                  <l>  Tandis qu'à le tuer mon villageois s'apprête,</l>
+                  <l>  La fourmi le pique au talon.</l>
+                  <l>  Le vilain retourne la tête:</l>
+                  <l>  La colombe l'entend, part et tire de long.</l>
+                  <l>  Le soupé du croquant avec elle s'envole:</l>
+                  <l>  Point de pigeon pour une obole.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>L'Astrologue qui se laisse tomber dans un puits</head>
+               <lg>
+                  <l>Un astrologue un jour se laissa choir</l>
+                  <l>Au fond d'un puits. On lui dit: «Pauvre bête,</l>
+                  <l>Tandis qu'à peine à tes pieds tu peux voir,</l>
+                  <l>Penses-tu lire au-dessus de ta tête?»</l>
+                  <l>Cette aventure en soi, sans aller plus avant,</l>
+                  <l>Peut servir de leçon à la plupart des hommes.</l>
+                  <l>Parmi ce que de gens sur la terre nous sommes</l>
+                  <l>Il en est peu qui fort souvent</l>
+                  <l>Ne se plaisent d'entendre dire</l>
+                  <l>Qu'au livre du destin les mortels peuvent lire.</l>
+                  <l>Mais ce livre, qu'Homère et les siens ont chanté,</l>
+                  <l>Qu'est-ce, que le hasard parmi l'antiquité,</l>
+                  <l>Et parmi nous la providence?</l>
+                  <l>Or, du hasard, il n'est point de science:</l>
+                  <l>S'il en était, on aurait tort</l>
+                  <l>De l'appeler hasard, ni fortune, ni sort,</l>
+                  <l>Toutes choses très incertaines.</l>
+                  <l>Quant aux volontés souveraines</l>
+                  <l>De celui qui fait tout, et rien qu'avec dessein,</l>
+                  <l>Qui les sait, que lui seul? Comment lire en son sein?</l>
+                  <l>Aurait-il imprimé sur le front des étoiles</l>
+                  <l>Ce que la nuit des temps enferme dans ses voiles?</l>
+                  <l>A quelle utilité? Pour exercer l'esprit</l>
+                  <l>De ceux qui de la sphère et du globe ont écrit?</l>
+                  <l>Pour nous faire éviter des maux inévitables?</l>
+                  <l>Nous rendre, dans les biens, de plaisir incapable?</l>
+                  <l>Et, causant du dégoût pour ces biens prévenus,</l>
+                  <l>Les convertir en maux devant qu'ils soient venus?</l>
+                  <l>C'est erreur, ou plutôt, c'est crime de le croire.</l>
+                  <l>Le firmament se meut, les astres font leur cours,</l>
+                  <l>Le soleil nous fuit tous les jours,</l>
+                  <l>Tous les jours sa clarté succède à l'ombre noire,</l>
+                  <l>Sans que nous en puissions autre chose inférer</l>
+                  <l>Que la nécessité de luire et d'éclairer,</l>
+                  <l>D'amener les saisons, de mûrir les semences,</l>
+                  <l>De verser sur les corps certaines influences.</l>
+                  <l>Du reste, en quoi répond au sort toujours divers</l>
+                  <l>Ce train toujours égal dont marche l'univers?</l>
+                  <l>Charlatans, faiseurs d'horoscopes,</l>
+                  <l>Quittez les cours des princes de l'Europe;</l>
+                  <l>Emmenez avec vous les souffleurs tout d'un temps:</l>
+                  <l>Vous ne méritez pas plus de foi que ces gens.</l>
+               </lg>
+               <lg>
+                  <l>Je m'emporte un peu trop: revenons à l'histoire</l>
+                  <l>  De ce spéculateur qui fut contraint de boire.</l>
+                  <l>  Outre la vanité de son art mensonger,</l>
+                  <l>  C'est l'image de ceux qui baillent aux chimères,</l>
+                  <l>  Cependant qu'ils sont en danger,</l>
+                  <l>  Soit pour eux, soit pour leurs affaires.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Le Lièvre et les Grenouilles</head>
+               <lg>
+                  <l>Un lièvre en son gîte songeait</l>
+                  <l>(Car que faire en un gîte, à moins que l'on ne songe?);</l>
+               </lg>
+               <lg>
+                  <l>Dans un profond ennui ce lièvre se plongeait:</l>
+                  <l>  Cet animal est triste, et la crainte le ronge.</l>
+                  <l>  «Les gens de naturel peureux</l>
+                  <l>  Sont, disait-il, bien malheureux;</l>
+                  <l>  Ils ne sauraient manger morceau qui leur profite,</l>
+                  <l>  Jamais un plaisir pur, toujours assauts divers.</l>
+                  <l>  Voilà comme je vis: cette crainte maudite</l>
+                  <l>  M'empêche de dormir, sinon les yeux ouverts.</l>
+                  <l>  Corrigez-vous, dira quelque sage cervelle.</l>
+                  <l>  Et la peur se corrige-t-elle?</l>
+                  <l>  Je crois même qu'en bonne foi</l>
+                  <l>  Les hommes ont peur comme moi»</l>
+                  <l>  Ainsi raisonnait notre lièvre,</l>
+                  <l>  Et cependant faisait le guet.</l>
+                  <l>  Il était douteux, inquiet:</l>
+                  <l>  Un souffle, une ombre, un rien, tout lui donnait la fièvre.</l>
+                  <l>  Le mélancolique animal,</l>
+                  <l>  En rêvant à cette matière,</l>
+                  <l>  Entend un léger bruit: ce lui fut un signal</l>
+                  <l>  Pour s'enfuir devers sa tanière.</l>
+                  <l>  Il s'en alla passer sur le bord d'un étang.</l>
+                  <l>  Grenouilles aussitôt de sauter dans les ondes,</l>
+                  <l>  Grenouilles de rentrer en leurs grottes profondes.</l>
+                  <l>  «Oh! dit-il, j'en fais faire autant</l>
+                  <l>  Qu'on m'en fait faire! Ma présence</l>
+                  <l>  Effraye aussi les gens, je mets l'alarme au camp!</l>
+                  <l>  Et d'où me vient cette vaillance?</l>
+                  <l>  Comment! des animaux qui tremblent devant moi!</l>
+                  <l>  Je suis donc un foudre de guerre?</l>
+                  <l>  Il n'est, je le vois bien, si poltron sur la terre</l>
+                  <l>  Qui ne puisse trouver un plus poltron que soi.»</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Le Coq et le Renard</head>
+               <lg>
+                  <l>Sur la branche d'un arbre était en sentinelle</l>
+                  <l>Un vieux coq adroit et matois.</l>
+                  <l>«Frère, dit un renard, adoucissant sa voix,</l>
+                  <l>Nous ne sommes plus en querelle:</l>
+                  <l>Paix générale cette fois.</l>
+                  <l>Je viens te l'annoncer, descends, que je t'embrasse.</l>
+                  <l>Ne me retarde point, de grâce;</l>
+                  <l>Je dois faire aujourd'hui vingt postes sans manquer.</l>
+                  <l>Les tiens et toi pouvez vaquer,</l>
+                  <l>Sans nulle crainte, à vos affaires;</l>
+                  <l>Nous vous y servirons en frères.</l>
+                  <l>Faites en les feux dès ce soir,</l>
+                  <l>Et cependant, viens recevoir</l>
+                  <l>Le baiser d'amour fraternelle.</l>
+                  <l>—Ami, reprit le coq, je ne pouvais jamais</l>
+                  <l>Apprendre une plus douce et meilleure nouvelle</l>
+                  <l>Que celle</l>
+                  <l>De cette paix;</l>
+                  <l>Et ce m'est une double joie</l>
+                  <l>De la tenir de toi. Je vois deux lévriers,</l>
+                  <l>Qui, je m'assure, sont courriers</l>
+                  <l>Que pour ce sujet on m'envoie.</l>
+                  <l>Ils vont vite et seront dans un moment à nous</l>
+                  <l>Je descends: nous pourrons nous entre-baiser tous.</l>
+                  <l>—Adieu, dit le renard, ma traite est longue à faire,</l>
+                  <l>Nous nous réjouirons du succès de l'affaire</l>
+                  <l>Une autre fois.» Le galand aussitôt</l>
+                  <l>Tire ses grègues, gagne au haut,</l>
+                  <l>Mal content de son stratagème.</l>
+                  <l>Et notre vieux coq en soi-même</l>
+                  <l>Se mit à rire de sa peur;</l>
+                  <l>Car c'est double plaisir de tromper le trompeur.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Le Corbeau voulant imiter l'Aigle</head>
+               <lg>
+                  <l>L'oiseau de Jupiter enlevant un mouton,</l>
+                  <l>Un corbeau, témoin de l'affaire,</l>
+                  <l>Et plus faible de reins, mais non pas moins glouton,</l>
+                  <l>En voulant sur l'heure autant faire.</l>
+                  <l>Il tourne à l'entour du troupeau,</l>
+                  <l>Marque entre cent moutons le plus gras, le plus beau,</l>
+                  <l>Un vrai mouton de sacrifice:</l>
+                  <l>On l'avait réservé pour la bouche des Dieux.</l>
+                  <l>Gaillard corbeau disait, en le couvant des yeux:</l>
+                  <l>«Je ne sais qui fut ta nourrice;</l>
+                  <l>Mais ton corps me paraît en merveilleux état:</l>
+                  <l>Tu me serviras de pâture»</l>
+                  <l>Sur l'animal bêlant à ces mots il s'abat.</l>
+                  <l>La moutonnière créature</l>
+                  <l>Pesait plus qu'un fromage, outre que sa toison</l>
+                  <l>Était d'une épaisseur extrême,</l>
+                  <l>Et mêlée à peu près de la même façon</l>
+                  <l>Que la barbe de Polyphème.</l>
+                  <l>Elle empêtra si bien les serres du corbeau,</l>
+                  <l>Que le pauvre animal ne put faire retraite.</l>
+                  <l>Le berger vient, le prend, l'encage et beau</l>
+                  <l>Le donne à ses enfants pour servir d'amusette.</l>
+                  <l>Il faut se mesurer; la conséquence est nette:</l>
+                  <l>Mal prend aux volereaux de faire les voleurs.</l>
+                  <l>L'exemple est un dangereux leurre:</l>
+                  <l>Tous les mangeurs de gens ne sont pas grands seigneurs;</l>
+                  <l>Où la guêpe a passé, le moucheron demeure.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Le Paon se plaignant à Junon</head>
+               <lg>
+                  <l>Le paon se plaignait à Junon.</l>
+                  <l>«Déesse, disait-il, ce n'est pas sans raison</l>
+                  <l>Que je me plains, que je murmure:</l>
+                  <l>Le chant dont vous m'avez fait don</l>
+                  <l>Déplaît à toute la nature;</l>
+                  <l>Au lieu qu'un rossignol, chétive créature,</l>
+                  <l>Forme ses sons aussi doux qu'éclatants,</l>
+                  <l>Est lui seul l'honneur du printemps.»</l>
+                  <l>Junon répondit en colère:</l>
+                  <l>«Oiseau jaloux, et qui devrais te taire,</l>
+                  <l>Est-ce à toi d'envier la voix du rossignol,</l>
+                  <l>Toi que l'on voit porter à l'entour de ton col</l>
+                  <l>Un arc en ciel nué de cent sortes de soies,</l>
+                  <l>Qui te panades, qui déploies</l>
+                  <l>Une si riche queue, et qui semble à nos yeux</l>
+                  <l>La boutique d'un lapidaire?</l>
+                  <l>Est-il quelque oiseau sous les cieux</l>
+                  <l>Plus que toi capable de plaire?</l>
+                  <l>Tout animal n'a pas toutes propriétés.</l>
+                  <l>Nous vous avons donné diverses qualités:</l>
+                  <l>Les uns ont la grandeur et la force en partage;</l>
+                  <l>Le faucon est léger, l'aigle plein de courage;</l>
+                  <l>Le corbeau sert pour le présage;</l>
+                  <l>La corneille avertit des malheurs à venir;</l>
+                  <l>Tous sont contents de leur ramage.</l>
+                  <l>Cesse donc de te plaindre; ou bien, pour te punir,</l>
+                  <l>Je t'ôterai ton plumage.»</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>La Chatte métamorphosée en Femme</head>
+               <lg>
+                  <l>Un homme chérissait éperdument sa chatte;</l>
+                  <l>Il la trouvait mignonne, et belle, et délicate,</l>
+                  <l>Qui miaulait d'un ton fort doux:</l>
+                  <l>Il était plus ou que les fous.</l>
+                  <l>Cet homme donc, par prières, par larmes,</l>
+                  <l>Par sortilèges et par charmes,</l>
+                  <l>Fait tant qu'il obtient du destin</l>
+                  <l>Que sa chatte, en un beau matin,</l>
+                  <l>Devient femme; et, le matin même,</l>
+                  <l>Maître sot en fait sa moitié.</l>
+                  <l>Le voilà fou d'amour extrême,</l>
+                  <l>De fou qu'il était d'amitié.</l>
+                  <l>Jamais la dame la plus belle</l>
+                  <l>Ne charma tant son favori</l>
+                  <l>Que fait cette épouse nouvelle</l>
+                  <l>Son hypocondre de mari.</l>
+                  <l>Il n'y trouve plus rien de chatte.</l>
+                  <l>Un soir quelques souris qui rongeaient de la natte</l>
+                  <l>Troublèrent le repos des nouveaux mariés.</l>
+                  <l>Aussitôt la femme est sur pieds.</l>
+                  <l>Elle manqua son aventure.</l>
+                  <l>Souris de revenir, femme d'être en posture:</l>
+                  <l>Pour cette fois, elle accourut à point;</l>
+                  <l>Ce lui fut toujours une amorce,</l>
+                  <l>Tant le naturel a de force.</l>
+                  <l>Il se moque de tout, certain âge accompli.</l>
+                  <l>Le vase est imbibé, l'étoffe a pris son pli.</l>
+                  <l>En vain de son train ordinaire</l>
+                  <l>On le veut désaccoutumer:</l>
+                  <l>Quelque chose qu'on puisse faire,</l>
+                  <l>On ne saurait le réformer.</l>
+                  <l>Coups de fourche ni d'étrivières</l>
+                  <l>Ne lui font changer de manière;</l>
+                  <l>Et fussiez-vous embâtonnés,</l>
+                  <l>Jamais vous n'en serez les maîtres.</l>
+                  <l>Qu'on lui ferme la porte au nez,</l>
+                  <l>Il reviendra par les fenêtres.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Le Lion et l'Âne chassant</head>
+               <lg>
+                  <l>Le roi des animaux se mit un jour en tête</l>
+                  <l>  De giboyer: il célébrait sa fête.</l>
+                  <l>  Le gibier du lion, ce ne sont pas moineaux,</l>
+                  <l>  Mais beaux et bons sangliers, daims et cerfs bons et beaux.</l>
+                  <l>  Pour réussir dans cette affaire,</l>
+                  <l>  Il se servit du ministère</l>
+                  <l>  De l'âne à la voix de Stentor.</l>
+                  <l>  L'âne à Messer lion fit office de cor.</l>
+                  <l>  Le lion le posta, le couvrit de ramée,</l>
+                  <l>  Lui commanda de braire, assuré qu'à ce son</l>
+                  <l>  Les moins intimidés fuiraient de leur maison.</l>
+                  <l>  Leur troupe n'était pas encore accoutumée</l>
+                  <l>  A la tempête de sa voix;</l>
+                  <l>  L'air en retentissait d'un bruit épouvantable:</l>
+                  <l>  La frayeur saisissait les hôtes de ces bois,</l>
+                  <l>  Tous fuyaient, tous tombaient au piège inévitable</l>
+                  <l>  Où les attendait le lion.</l>
+                  <l>  «N'ai-je pas bien servi dans cette occasion?</l>
+                  <l>  Dit l'âne en se donnant tout l'honneur de la chasse.</l>
+                  <l>  —Oui, reprit le lion, c'est bravement crié:</l>
+                  <l>  Si je ne connaissais ta personne et ta race,</l>
+                  <l>  J'en serais moi-même effrayé.»</l>
+                  <l>  L'âne, s'il eût osé, se fut mis en colère,</l>
+                  <l>  Encor qu'on le raillât avec juste raison;</l>
+                  <l>  Car qui pourrait souffrir un âne fanfaron?</l>
+                  <l>  Ce n'est pas là leur caractère.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Testament expliqué par Ésope</head>
+               <lg>
+                  <l>Si ce qu'on dit d'Ésope est vrai,</l>
+                  <l>C'était l'oracle de la Grèce:</l>
+                  <l>Lui seul avait plus de sagesse</l>
+                  <l>Que tout l'Aréopage. En voici pour essai</l>
+                  <l>Une histoire des plus gentilles</l>
+                  <l>Et qui pourra plaire au lecteur.</l>
+               </lg>
+               <lg>
+                  <l>Un certain homme avait trois filles,</l>
+                  <l>  Toutes trois de contraire humeur:</l>
+                  <l>  Une buveuse, une coquette,</l>
+                  <l>  La troisième, avare parfaite.</l>
+                  <l>  Cet homme, par son testament,</l>
+                  <l>  Selon les lois municipales,</l>
+                  <l>  Leur laissa tout son bien par portions égales,</l>
+                  <l>  Et donnant à leur mère tant,</l>
+                  <l>  Payable quand chacune d'elles</l>
+                  <l>  Ne posséderait plus sa contingente part.</l>
+                  <l>  Le père mort, les trois femelles</l>
+                  <l>  Courent au testament, sans attendre plus tard.</l>
+                  <l>  On le lit, on tâche d'entendre</l>
+                  <l>  La volonté du testateur;</l>
+                  <l>  Mais en vain; car comment comprendre</l>
+                  <l>  Qu'aussitôt que chacune sœur</l>
+                  <l>  Ne possédera plus sa part héréditaire,</l>
+                  <l>  Il lui faudra payer sa mère?</l>
+                  <l>  Ce n'est pas un fort bon moyen</l>
+                  <l>  Pour payer, que d'être sans bien.</l>
+                  <l>  Que voulait donc dire le père?</l>
+                  <l>  L'affaire est consultée, et tous les avocats,</l>
+                  <l>  Après avoir tourné le cas</l>
+                  <l>  En cent et cent mille manières,</l>
+                  <l>  Y jettent leur bonnet, se confessent vaincus,</l>
+                  <l>  Et conseillent aux héritières</l>
+                  <l>  De partager le bien sans songer au surplus.</l>
+                  <l>  «Quant à la somme de la veuve,</l>
+                  <l>  Voici, leur dirent-ils, ce que le conseil treuve:</l>
+                  <l>  Il faut que chaque sœur se charge par traité</l>
+                  <l>  Du tiers, payable à volonté,</l>
+                  <l>  Si mieux n'aime la mère en créer une rente,</l>
+                  <l>  Dès le décès du mort courante.»</l>
+                  <l>  La chose ainsi réglée, on composa trois lots:</l>
+                  <l>  En l'un, les maisons de bouteille,</l>
+                  <l>  Les buffets dressés sous la treille,</l>
+                  <l>  La vaisselle d'argent, les cuvettes, les brocs,</l>
+                  <l>  Les magasins de malvoisie,</l>
+                  <l>  Les esclaves de bouche, et pour dire en deux mots,</l>
+                  <l>  L'attirail de la goinfrerie;</l>
+                  <l>  Dans un autre, celui de la coquetterie,</l>
+                  <l>  La maison de la ville et les meubles exquis,</l>
+                  <l>  Les eunuques et les coiffeuses,</l>
+                  <l>  Et les brodeuses,</l>
+                  <l>  Les joyaux, les robes de prix;</l>
+                  <l>  Dans le troisième lot, les fermes, le ménage,</l>
+                  <l>  Les troupeaux et le pâturage,</l>
+                  <l>  Valets et bêtes de labeur.</l>
+                  <l>  Ces lots faits, on jugea que le sort pourrait faire</l>
+                  <l>  Que peut-être pas une sœur</l>
+                  <l>  N'aurait ce qui lui pourrait plaire.</l>
+                  <l>  Ainsi chacune prit son inclination,</l>
+                  <l>  Le tout à l'estimation.</l>
+                  <l>  Ce fut dans la ville d'Athènes</l>
+                  <l>  Que cette rencontre arriva.</l>
+                  <l>  Petits et grands, tout approuva</l>
+                  <l>  Le partage et le choix: Ésope seul trouva</l>
+                  <l>  Qu'après bien du temps et des peines</l>
+                  <l>  Les gens avaient pris justement</l>
+                  <l>  Le contre-pied du testament.</l>
+                  <l>  «Si le défunt vivait, disait-il, que l'Attique</l>
+                  <l>  Aurait de reproches de lui!</l>
+                  <l>  Comment? Ce peuple qui se pique</l>
+                  <l>  D'être le plus subtil des peuples d'aujourd'hui,</l>
+                  <l>  A si mal entendu la volonté suprême</l>
+                  <l>  D'un testateur?» Ayant ainsi parlé,</l>
+                  <l>  Il fait le partage lui-même,</l>
+                  <l>  Et donne à chaque sœur un lot contre son gré;</l>
+                  <l>  Rien qui pût être convenable,</l>
+                  <l>  Partant rien aux sœurs d'agréable:</l>
+                  <l>  A la coquette, l'attirail</l>
+                  <l>  Qui suit les personnes buveuses;</l>
+                  <l>  La biberonne eut le bétail;</l>
+                  <l>  La ménagère eut les coiffeuses.</l>
+                  <l>  Tel fut l'avis du Phrygien,</l>
+                  <l>  Alléguant qu'il n'était moyen</l>
+                  <l>  Plus sûr pour obliger les filles</l>
+                  <l>  A se défaire de leur bien;</l>
+                  <l>  Qu'elles se marieraient dans les bonnes familles,</l>
+                  <l>  Quand on leur verrait de l'argent;</l>
+                  <l>  Paieraient leur mère tout comptant;</l>
+                  <l>  Ne posséderaient plus les effets de leur père:</l>
+                  <l>  Ce que disait le testament.</l>
+                  <l>  Le peuple s'étonna comme il se pouvait faire</l>
+                  <l>  Qu'un homme seul eût plus de sens</l>
+                  <l>  Qu'une multitude de gens.</l>
+               </lg>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

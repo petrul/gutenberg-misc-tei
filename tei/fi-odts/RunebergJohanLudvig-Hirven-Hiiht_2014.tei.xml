@@ -1,0 +1,2351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hirven-hiihtäjät</title>
+            <author>Johan Ludvig Runeberg</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-01T20:15:32Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">odts/fi-odts/RunebergJohanLudvig-Hirven-Hiiht_2014.epub.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Johan Ludvig Runeberg</name>
+               <date>2024-01-01T20:15:32Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Hirven-hiihtäjät</head>
+         <author>Johan Ludvig Runeberg</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">odts/fi-odts/RunebergJohanLudvig-Hirven-Hiiht_2014.epub.odt</p>
+         <p>Produced by Jari Koivisto and Tapio Riikonen</p>
+         <head>HIRVEN-HIIHTÄJÄT</head>
+         <p>J. L. Runeberg'in runoelma</p>
+         <p>Suomentanut E. J. Blom, Sysmän Kappalainen</p>
+         <p>Helsingissä, K. E. Holm'in kustannuksella, 1876.</p>
+         <p>Hufvudstadsblad'in Kirjapaino.</p>
+         <pb/>
+         <div type="div1">
+            <head>JOHDANTO.</head>
+            <p rend="justify">Kun nyt yleisön käsiin olen rohennut jättää heikon koelmani suomentaa tätä jalon Runoilijamme teosta, ja kun lienee yhtä mahdotonta Suomen kielessä, kuin muissaki vielä elävissä, täydelleen jälitellä tuota kuusimittaista klassis-kielten runoa, olen pitänyt tarpeellisena jo edeltäkäsin, joski vajavasti, osoittaa ne merkittävimmät ohjeet, joita noudattaen olen tätä runo-lajia kokenut suomeksi rakentaa, varsinki, kun ne monessa poikkevat näihin asti käytetyistä, mutta vieläki riidan-alaisista säännöistä. Ja vaikka hyvin arvaan ei kaikin puolin hyväksyttävän tätä kuusimitan käytäntöäni, en ole kuitenkaan epäillyt tuoda sitä näytteille, kun en luulisi siitä olevan toki haittaa suomalaiselle runous-opille; sillä siitähän ratkaisematon asia ainaki selviää, että koetellaan kaikki ja pidetään, mikä hyvä on.</p>
+            <p rend="justify">Muuten olen nämä ohjeet järestänyt vaan sen mukaan, miten mikin teokseni kohta on selitystä vaatinut. Ja nyt päättäköön suosiollinen Lukija, mihin kelvannevat nämä:</p>
+            <p rend="justify">MIELIPITEET Suomalaisesta kuusimittarunosta.</p>
+            <p rend="justify">Mietteensä tästä runon-muodosta ovat jo tätä ennen ilmoittaneet E.A. Ingman, E. Lönnrot, A.E. Ahlqvist ja A. Genetz,[1] joiden kirjoituksiin osoitan siis Lukijaa, jonka on mieli saada tarkempaa selkoa sen itse laadusta ja rakentamisesta. Tahdon vaan tähän liittää muutamia tärkeämpiä sääntöjä sekä jo vakaantuneita että itsenikin ehdoitelmia.</p>
+            <p rend="justify">Pää-sääntönäni on ollut välttää koron polkemista, paitse joskus sanan-jaossa, (josta enemmän jälestä päin). Sitten eroaa tässä käyttämäni kuusimitta-runo nykyjään tavallisesta siinä, että en ole pitänyt varsin tarkkaa huolta tuosta mora-nimisestä laajuuden mitasta,[2] sen vuoksi, että Suomen puhekielessä semmoisia sanoja, kuin esim. valmiina, äännetään melkein alkupitkinä, johon syynä lienee pidettävä tuo aina koroton toinen tavu. Siihen nähden olen nyt uskaliaasti kyllä ottanut noudattaakseni seuraavata sääntöä:</p>
+            <p rend="justify">Säe 1. <hi rend="italic">Torpassa</hi>. Alkupitkinä olen pitänyt semmoisia kolmitavuisia sanoja, joiden ensimäinen tavu on pitkä ja toinenki samote, mutta jos tilaisesti, niin siten vaan, että kaksois-kerake tahi keveät l, m, n ja r kerakkeen edellä seuravat sen ääntiötä, sekä kolmas lyhyt ja avoin; esim. raataapi, valmiina; kunnekka, huomenna, torpassa; kaihelma, orsilta, nuorempi, huojensi, luikersi y.m.</p>
+            <p rend="justify">Muist. 1. Tällä keinoin olen tarkoittanut jotenki välttää tuota ääntäessä ikään kuin väkinäistä ja hankalaa lyhyen loppu-ääntiön pitentämistä.[3] joka noiden siitä yhä syntyväin kaksi-pitkien kautta tekee säkeen vielä niin pitkä-veteiseksi, Niin on, esim., tämän teoksen alkusanoja ennen suomennettu tähän muotoon: To:rpa:ssa: o:li illa:ste:ttu:, jonka säe-osan olen sovitellut näin: Torpassa iltainen äskettäin oli syötynä, tehden sen sitä turvallisemmin, koska jo muutamissa kielemme murteissaki semmoisia sanoja, kuin torpassa, äännetään, kuin torpasa. y.m. samanlaisia.</p>
+            <p rend="justify">Muist. 2. Edellisen säännön mukaan ovat mielestäni käytettävät semmoisetkin eri-sanojen asennot, kuin ju:u:rtu'u'. ja' i:stu'u' ne'; samoin kuin tuo alkupitkäisen mitan sanaa lopettava, mut tilaisesti pitkä, keski-tavu, esim. | päivän ja' | yön.[4]</p>
+            <p rend="justify">Muist. 3. Tähän kuuluvain pronomini-liitteesen -nsa päättyvien sanain lyhyttä loppu-tavua lienee kumminki sopivampi pitkänä käyttää, erittäin kun siinä tulee loppuääntiön hengähdys avuksi, ja hyvinki kaksi-lyhyen edellä, jos seuraava sana alkaa kerakkeella, joka silloin ääntyy, kuin kerrottuna, ja siten pitentää sanotun loppu-tavun, esim. poikansa tuli sinne. Samote muissakin hengähtävään ääntiöön päättyvissä sanoissa, esim. tulisi sinun veljesi Matti.</p>
+            <p rend="justify">Muist, 4. Saman ensimäistä ohjetta käy noudattaminen pitemmissäki sanoissa, esim. arvokkahalle, äidittömänsä.</p>
+            <p rend="justify">Säe 1. <hi rend="italic">iltainen</hi>. Yllä ehdoittamani säännön suhteen voi loppu-tavu olla sul'ettukin, jos seuraavan sanan ensimäinen pitkä tavu on alkava ääntiöllä, esim. kerjääjät aina; mutta jos kerakkeella, niin saattaa se silloinkin olla sul'ettu ja, kuuluvana eri-sanaan, siis keski-arvoinen,[5] vaan parempi lienee kuitenki tarkata, sopiiko edellisen sanan loppu-kerake helposti yhteen seuraavan sanan alku-kerakkeen kanssa, esim. iltainen joutui, kun sitä vastoin olisi paljon tukalampi sanoa: kerjääjät kaikki y.m.s., tullen tämäkin aina siihen, mitenkä kerakkeet toisiansa seuravat.</p>
+            <p rend="justify">Säe 2. <hi rend="italic">tilavall'</hi>, Taka-jättöä olen tarvetta myöten käyttänyt</p>
+            <p rend="justify">1:ksi, <hi rend="italic">jos seuraava sana alkaa ääntiöllä</hi>, niinkuin a) kaksi-tavuisissa sanoissa, joiden pääte on -a tahi -ä, esim. viel' oli, y.m, b) sijapäätteissä -sta ja -ksi, sekä -ta, -ssa, -lla ja -lta, vaikka harvemmin viime-mainituissa, esim. kaupungist' oli tullut.</p>
+            <p rend="justify">2:ksi, <hi rend="italic">jos seuraava sana alkaa kerakkeella</hi>, olen joskus silloinki käyttänyt taka-jättöä, varsinki, jos sen kautta lyhennetty sana loppuu ja seuraava alkaa samalla kerakkeella, esim. Kaikki jo valmiiks saa, niin voit ihan huoleti maata. Muuten luonnistuu taka-jättöä käyttää kerakkeen edellä sopivammin nousussa, kuin laskussa, jolloin äsköinen säe, taka-jätön sattuessa sanan-jakoon, tulee muodostumaan näin: Kaikki jo saa valmiiks, niin voit ihan huoleti maata; ja hyvinki sopisi sitä tällä tavoin käyttää kaksi-lyhyen edellä, esim. Noin tukevaks tuli tuo.</p>
+            <p rend="justify">Muist. 1. Muutamissa sanan-muodoissa olen välistä jättänyt i-päätteenki, kun se on hengähtämätön, niinkuin pronomini-liitteissä -ni ja -si, sekä impf. ind. aktivin 3-ssa pers. sing., paitse kaksois-kerakkeen jälestä, esim. Isän' onpi, setäs alkoi; käsiään ojens' ilmaan; vaan ei koskaan: ott' oven auki, varoitt' äitiä j.s.; niin myös Opt. samassa paikassa, jonka i-pääte, vaikka kohta hengähtävä, puhe-kielessä tavallisesti jätetään, esim. laimin löis' minun lasteni holhon.</p>
+            <p rend="justify">Muist. 2. Tässä i-päätteen jättämisessä on merkittävä, että se puhuttaissa korvataan melkein kuin kerake j-llä, joten sanan loppu-tavu ikään kuin tilaisesti pitentyy, etenki nousuun asetettuna, esim. sepä het' meni sinne, lue: sepä hetj meni sinne. Tämä seikka on johdattanut minua noutamaan seuraavata mielestäni jotenki luontevaa sääntöä:</p>
+            <p rend="justify">Kaksi- ja neli-tavuisten sanan-muotojen hengähtämätöntä loppu-i-tä käy jättäminen, jos jälelle jäävä loppu-tavu asetetaan nousuun, varsinki kerakkeella alkaviin kaksi-lyhyen edelle, esim. puhuttel' sitä hiljaa. Kolmi-tavuisissa taas on mainittu tavu asetettava joko sanan-jakoon tahi laskuun, ja viime-kohdassa sopivimmin, jos ääntiö seuraa, esim. sukkulakin suljaht' usehin: akanat puhals' ilmaan.[6]</p>
+            <p rend="justify">Muist. 3. Jättö-merkin olen tykkönään heittänyt pois pronomini-liitteissä -si ja translativi-päätteissä -ksi, samoin kuin jo v. Becker'kin kirjoitti Turun Viikko-Sanomissa, esim. setäs, valmiiks. Ja voisippa, luullakseni, vielä tarkemminki raivata pois nuo harmittavat silmän-tikut, missä vaan tämä menetys ei vaikuta mitäkään epäselvyyttä.</p>
+            <p rend="justify">Säe 3. <hi rend="italic">vatiloissa</hi>. Useammassa kohdin olen seurannut Savon murretta, koska se sulon noreutensa puolesta on, mielestäni, enimmin vastaava Kreikkalaisten kertoma-murretta ja on muutenkin erittäin mukava kuusimittaiseen runoon, esim. patoaan, isäntä'i, vetänynnä y.m.[7] Olenpa vielä välisti supistanut semmoisia sanan-muotoja, kuin tämä vi viimeks-sanottu, niin että päätteen -nunna asemesta olen käyttänyt ainoastaan -nna, esim. unohuttannakaan.[8] Samote myös olen kovien kerakkeiden pehmetessä jättänyt ne useasti pois, niinkuin Suomen vanhassa nelimitta-runossakin on tapana, esim. jahillen, ehoituksestaan,[9] mainimatta vielä muutaki sille murteelle omituista.</p>
+            <p rend="justify">Säe 5. <hi rend="italic">jakoi</hi>. Kaksi-tavuisen Impf. ind. aktivin 3-nen pers. sing. päätteitä oi, ui ja yi olen käyttänyt lyhyinä, syystä, että niiden i on puhe-kielessä jo melkein kadonnut, esim. Rahvaallen jakoi hellettään.</p>
+            <p rend="justify">Säe 10. <hi rend="italic">emännän</hi>. Jos kolmi-tavuisissa sanoissa ensimäinen tavu on lyhyt, niin on toinenki, vaikka tilaisesti pitkä, käytettävä lyhyenä, jos loppu-tavu on pitkä, esim. ra'ka'sta:a:; mutta jos keski-arvoinen, niin on sen pitentyäkseen sopivampi, että kerake seuraa, kuin ääntiö. Parempi on sentähden sanoa: rakastun tähän neitoon, kuin jos sanoisi: rakastun ihanaiseen.</p>
+            <p rend="justify">Muist. Tätä sääntöä olen noudattanut sanojen sisälläkin, esim. rohke'a'mma:sti, tyttäre'lle:nsä.</p>
+            <p rend="justify">Säe 13. <hi rend="italic">mustaa</hi>. Tässä on nyt korko polkeuksissa, syystä, että olen käyttänyt sanan-jakoa (caesuria), jolloinka sanan koroton tavu tulee alkamaan runojalan ja siis sattumaan nousuun, esim. Tyttären, kun mustaa patoaan pesi liesikon eessä. Tämmöistä sanan-jakoa tosin ei Suomen kuusimitassa ole vielä juuri hyväksytty ja Genetz on sen yksinpä kieltänyt;[10] mutta, vaikka korkoki siten polkeutuu, on se mielestäni, harvoin ja älyllisesti käytettynä, pikemmin pidettävä runo-säkeen kaunistuksena, varsinki, kun se on Suomen kieleen niin luonnistuva. Pidettiinhän klassis-kielissäki runoa sitä sointuisampana, kuta enemmän sanan-jakoa käytettiin. Sentähden en ole epäillyt sitä joskus viljellä, etenki säkeen kolmannessa jalassa, johon se paraite soveltuu, jos kohta sitä käy muuanneki säkeen sisälle asettaminen.</p>
+            <p rend="justify">Säe 115. <hi rend="italic">Lihaa</hi>. Tämmöisiä lyhä-pitkiä sanoja, joiden korko on niin jyrkkä, että seuraavan tavun alku-kerake milt'ei kerrota, olen puhe-kielen mukaan käyttänyt kaksi-pitkinä,[11] esim. Elä makaa, Matti, nyt enään.</p>
+            <p rend="justify">* * * * *</p>
+            <p rend="justify">Nämä nyt ovat ennen muita ne kohdat, joiden kanssa olen tahtonut Lukijata ensin tutustaa, että hän, teokseeni tartuttua, ei lii'oin oudoksuisi tätä kuusimitan käytäntöäni.</p>
+            <p rend="justify">Maamme umpisuomalais-kansalle en voi olla ynnä mainimatta, että sen omituisia oloja ja elin-tapoja ei ole vielä kukaan niin nerollisesti ja elävästi kuvaillut, kuin tämä meidän ja koko Pohjolan etevin runoilija Runeberg, ja varsinki tässä runoelmassa. Mutta kun se on ruotsinkielinen, on minussa syttynyt harras halu saada se koko Suomemme omaksi, että sama kansallistunnon ylennys, jota se aina on maamme lukijoissa vaikuttanut, pääsisi rahvaassaki laviammin elähtymään.</p>
+            <p rend="justify">Tätä olen kyllä tarkoittanut; vaan voipiko heikko mukailema vaikuttaa yhtä, kuin itse mukailtava taide-teos? Niiden eroitus on sama, kuin kukkasen ja sen kuvan välillä. Kuvaan on mahdoton saada sitä loiston ja lemun suloa, joka on kukkasen viehättävin omaisuus. Sama on myös käännöksien laita, niin tämän, kuin muidenkin. Alku-teoksen omituinen väri ja henki kähenee ja haihtuu sitä muuttaessa, samoin kuin kukkasenki. Mutta, armas Suomalainen, koska niin on, ja et kuitenkaan muulla, kuin tällä keinoin, olisi päässyt siihen tuttavaisi huvittavaan keskuuteen, jonka tässä olet tapaava, niin elä siis mahdotonta vaadikkaan, vaan pidä tahtoani tekona parempata odottaissa. Siihen asti sul'en nyt itseni hyvin toivottavaan suosioosi.</p>
+            <p rend="justify">
+               <hi rend="italic">Suomentaja</hi>.</p>
+            <p rend="justify">Sysmässä 24 p. Syyskuuta v. 1876.</p>
+            <p rend="justify">HlRVEN-HIIHTÄJÄT.</p>
+            <pb/>
+            <div type="div2">
+               <head>ENSIMÄINEN RUNO.</head>
+               <lg>
+                  <l>Torpassa iltainen äskettäin oli syötynä. Vielä</l>
+                  <l>Tähtehinä'i tilavall' oli pöydällä haarikko kaljaa,</l>
+                  <l>Kyrsää vierillä sen, silakkaa, perunaa vatiloissa.</l>
+                  <l>Ol' tupa kuumennettu ja paukkuen liekkuva hiilus</l>
+                  <l>Hellettään jakoi rahvaallen suloisinta ja peitti</l>
+                  <l>Laen savu-pilvihin niin, ett' orsilta tuskinpa nähdä</l>
+                  <l>Voi pärehet sekä reen, mihin kuiveille niit' oli pantu.</l>
+                  <l>Ylhäällen toki jäi savu, mut pimiän tämän alla</l>
+                  <l>Valkaisi viel' useat päre-soitot toimia illan:</l>
+                  <l>Annin, tuon emännän vireän, se kun vuodetta laitti</l>
+                  <l>Yhtenä itselleen sekä miehelle arvokkahalle,</l>
+                  <l>Tyttären, kun mustaa patoaan pesi liesikon eessä</l>
+                  <l>Hiljakseen hyräten runoansa, ja riipeän poi'an,</l>
+                  <l>Appeita kun ruuheen tiheään oven syrjällä mätti</l>
+                  <l>Varsoilleen yhä lattiahan tömisytteleville.</l>
+               </lg>
+               <lg>
+                  <l>Itse nyt isäntä'i hovin torppari, mielevä Pekka,</l>
+                  <l>Nousi jo penkiltään, joll' uinuksissahan istui,</l>
+                  <l>Pyyhkäsi haukottain tukan tuuhean otsaltansa,</l>
+                  <l>Viimein pään yli oikoen käet puhui verkkahan sitte</l>
+                  <l>Ruumiist' uupunehesta jo painaen hiipivän torkan.</l>
+                  <l>Mielellään levännyt kyll' oisippa, kun koko päivän</l>
+                  <l>Nietteissä kaalaten hirsiä ol' hovihin vetänynnä,</l>
+                  <l>Jollei käskenyt ois Komisarjus, herra sen itse,</l>
+                  <l>Huomis-aamuna torppariaan joka miestä jo varhain</l>
+                  <l>Luokseen hirvien vuoks lähi-tienoilla ilma'uneiden.</l>
+                  <l>Huolissaan jahillen varustaita jo nyt hänen täytyi</l>
+                  <l>Pois uni armahinen jättää, väsyneenäki vaikka;</l>
+                  <l>Riippuihan tyhjänä, täyttöä vaan odottain, eväskontti</l>
+                  <l>Eikä nyt oivallinen tuo harvoin pettävä pyssy</l>
+                  <l>Tahtonnakaan tulestaa, kun pii oli tylsynyt aivan.</l>
+                  <l>Otti sen vaarnastaan varoten sekä pois tupen siirsi</l>
+                  <l>Hylkeen-nahkahisen, joka piippua varjoi ja lukkoo;</l>
+                  <l>Kiiltoa puun, nykyjään nyt mustatun, viel' ihaellen</l>
+                  <l>Etsi jo piin toisen terävämmän sen kotelosta.</l>
+                  <l>Vaan emännälleen myös sanoi mielevä Pekka nyt ynnä:</l>
+                  <l>"Anni, tän'iltana on paras, että jo konttini täytät</l>
+                  <l>Miehelle riittääkseen, joka metseä käy koko päivän.</l>
+                  <l>Kaikki jo saa valmiiks, niin voit ihan huoleti maata;</l>
+                  <l>Ain' uneton sivu-kumppani on työ laimille lyöty".</l>
+               </lg>
+               <lg>
+                  <l>Mut hän vastasi nyt nuristen tuo toimeva Anni:</l>
+                  <l>"En minä koskaan loppuvan näe sinun kiihkosi metsään.</l>
+                  <l>Karhuko mieleltä oot, oma Pekkani, mielevä muuten,</l>
+                  <l>Aina kun metsän riistoa vaan sekä jahtia mietit?</l>
+                  <l>Ystävä järkevä, et kotimailla sä viihtyisi yhtään;</l>
+                  <l>Polttava hiilikö on jalalles tuvan rauhaisa silta,</l>
+                  <l>Kun yhä korpia vaan samota typö-tyhjissä töissä</l>
+                  <l>Noin haluat? Täytyy tänähän toki jahtisi jäädä.</l>
+                  <l>Kau'an jo varrottu veljeni jos, kuten uhkasi, tullee</l>
+                  <l>Nyt talon jättäen sinne ja lapsuiset äidittömänsä,</l>
+                  <l>Käypikö mun, kukon laulavan kanss' isännöivänä, yksin</l>
+                  <l>Istuminen veli armastan' huvittaa koetellen?</l>
+                  <l>Sun sitä tervehtää sopisi kotonas ja sen kanssa</l>
+                  <l>Niin, kuten ainaki langokset, suosin pakinoida".</l>
+               </lg>
+               <lg>
+                  <l>"Eipähän!" vastasi nyt hänellen taas mielevä Pekka,</l>
+                  <l>"Eipähän! taiten-lausuva muor', mitä herrani käski,</l>
+                  <l>Tehtävä on, jollei, kuten jahti, se mielehen oiskaan.</l>
+                  <l>Mutta jos huomennakin tulisi sinun veljesi Matti,</l>
+                  <l>Noh, hyvä! kestitä armastas, miten voit, parahittain,</l>
+                  <l>Että se viihtyisi vaan tuvass' istuen, kunnekka joudun".</l>
+               </lg>
+               <lg>
+                  <l>Hällen vastasi taas tuo taiten-lausuva Anni:</l>
+                  <l>"Jos minä ees kerran näkisin sinun vaivasi palkan,</l>
+                  <l>Silloin mä kiihkoas en niin ihmeeksen' panisikkaan;</l>
+                  <l>Mut Komisarjusta'i kun kunnioitettua autoit</l>
+                  <l>Päiväsi täyden ja hirviäkin parahan osan ammuit,</l>
+                  <l>Illalla ain' iloiten palasit, jos vaan yhen vuodan</l>
+                  <l>Sait yli sen, mitä muut, enimmän kun herrasi otti".</l>
+               </lg>
+               <lg>
+                  <l>Nyt hänellen vastas' hymy-suin taas mielevä Pekka:</l>
+                  <l>"Noh, hoh! taitava muor', näet, herrahan eestämme yksin</l>
+                  <l>Vastaapi, jos käräjiin vie Vallesmanniki meidät.</l>
+                  <l>Tarkkahan muista se myös, ett' on laki hirviä säästää</l>
+                  <l>Pyssylle vaan Kuninkaan, kun maassa se liikkuupi joskus".</l>
+               </lg>
+               <lg>
+                  <l>Vaieta ei voinut toki taiten-lausuva Anni,</l>
+                  <l>Mut tasoitellessa vuodettaan sanoi taas hymy-huulin:</l>
+                  <l>"Kyllä on huokea sakko, kun ei sitä vaadita koskaan;</l>
+                  <l>Herroja käskettävän käräjiin, sano, milloinka näit sä?</l>
+                  <l>Vieppäs voudille vaan kala-kimppusi tai joku lintu,</l>
+                  <l>Katso, pyyttäkö nyt sua? 'Terve, naapuri, terve!'</l>
+                  <l>Huutaa jo rappuiltaan kaukaa tuo arvoisa rouva,</l>
+                  <l>Vie sinut huonehesen sekä korvahan kuiskaapi herran;</l>
+                  <l>Tää sua käy heti kättelemään kysyen: 'mitä kuuluu?'</l>
+                  <l>Siis mikä itsesi ois asiaa sovittaissa, kun sulla</l>
+                  <l>Metsät on ansoja täynnä ja viel' oravan monen ammut?</l>
+                  <l>Mut se nyt olkohon niin; rikas säätää, köyhän on täyttää".</l>
+               </lg>
+               <lg>
+                  <l>Tuskinpa sen sanoneeks sai, kun lähitieltä jo kuului</l>
+                  <l>Kulkujen helkkynä. Nyt heti kuuntelemaan kavahdettiin,</l>
+                  <l>Ikkuna-lautoakin hätien lykättiin nähäksensä,</l>
+                  <l>Kun pihall' äkkiä mies hevon korskuvan eessä jo seisoi.</l>
+                  <l>Tuntematon ei ollunna tuo, sepä ol' Kurun Matti,</l>
+                  <l>Annin lemmitty vel', jota myös odotettu jo oltiin.</l>
+               </lg>
+               <lg>
+                  <l>Astuen höyryävään tupahan, kuten pörheä karhu,</l>
+                  <l>Nyykkäsi hän hyvillään oven suussa ja reuhkalla pieksi</l>
+                  <l>Pois lumen turkistaan sekä karvais-jalkinehistaan.</l>
+                  <l>Mut isännän, emännän, pojan, tyttären nyt sylin häntä</l>
+                  <l>Tervehtäissä jo uunilta'i sikiöt noki-naamat</l>
+                  <l>Alkoivat tirkistellä ja kirkuen kiivetä maahan</l>
+                  <l>Rinkelin saadakseen tuliaisiks tai palan juustoo.</l>
+               </lg>
+               <lg>
+                  <l>Tervehdittyä näin heti saattipa Anni jo veljen</l>
+                  <l>Istumahan peremmäks paikkaan, min viittasi hälle</l>
+                  <l>Pöydän pääss' ylimmän, kuhun yhtyypi kulmassa penkit.</l>
+                  <l>Istuiki tää ja kun sai tulen messinkikiskoisehensa</l>
+                  <l>Koppahan vaan, koto-kasvuisiaan jopa lehtiä poltti</l>
+                  <l>Vastaten mielellään, kun seikkoja nyt sisar urkki</l>
+                  <l>Niin hänen lapsiensa sulojen, kuin viljavan konnun.</l>
+               </lg>
+               <lg>
+                  <l>Pekka se kohdastaan taas korjaamaan meni varsaa,</l>
+                  <l>Kiini ku ohjistaan tömisytteli ulkona tuolla.</l>
+                  <l>Länget kulkuisineen käsivarrellansa ja luokki</l>
+                  <l>Sai hän, mut nujuten, tupahan oron uljahan viimein.</l>
+               </lg>
+               <lg>
+                  <l>Kau'anpa vaan pakinoiss' ei viipynnä taitava Anni,</l>
+                  <l>Mut ukot itsekseen puhumaan vapahasti jo jättäin</l>
+                  <l>Ruokoa veljelleen meni laittamahan parahinta.</l>
+                  <l>Aukasi siis silatun, heleänpuna-maalisen arkun</l>
+                  <l>Ruusuine varjona tummempineen, joka nurkassa loisti.</l>
+                  <l>Toi esillen viinaa lasinsa puu-jalkaisen kanssa,</l>
+                  <l>Pöydän katti ja vartaaltaan leivän murehimman</l>
+                  <l>Mursi ja laitteli sen; tytär aitasta'i kävi voita,</l>
+                  <l>Lihaa, juomoa iltahiseks enon armahimmansa.</l>
+                  <l>Aatria noin reilaan pian joutui, kun toimeva Anni</l>
+                  <l>Ruu'at valmiina, näet, erikseen oli ennen jo pannut</l>
+                  <l>Veljelleen hyvikkeeks sekä näyttääkseen tavaroitaan.</l>
+                  <l>Tää lasin tyhjensi kohta ja herkkuja söi ilo-mielin.</l>
+               </lg>
+               <lg>
+                  <l>Ei unohuttannakaan toki taitava Annipa siitä</l>
+                  <l>Juttuansa jatkaa, kuhun tuon oli jättänyt äsken,</l>
+                  <l>Mut Kurun Mattia taas puhuttel' täten lausuen kohta:</l>
+                  <l>"Kyllä se miehelle vaikea lie noin yksinnä johtaa</l>
+                  <l>Työt niin ulkona, kuin tupa-toimet vieläpä muutkin,</l>
+                  <l>Varsinkin talo jos, kuten sun, iso on sekä vauras.</l>
+                  <l>Onhan nähtävä myös, miten uhkeakin hepo mäessä</l>
+                  <l>Uupuupi, kun kuormaa kulettaa jykeämpätä yksin.</l>
+                  <l>Mutta kun aisast' auttaen käy sen johtaja ynnä</l>
+                  <l>Vaatien vaan sanoin lempehin, niin molemmat ne jo mäelle</l>
+                  <l>Pääsevät helpommin; samoin miehenki on keveämpi,</l>
+                  <l>Vaimo kun armas seurana on kuormaa vetäessään".</l>
+               </lg>
+               <lg>
+                  <l>Vastasi taas hällen Kurun riipeä Matti ja lausui:</l>
+                  <l>"Onko se ihme siis, jos harvoin saan kyläellä?</l>
+                  <l>Niin on laitani, näet, niin oon koti-huolissa kiini,</l>
+                  <l>Kuin katiskaan moni-koppeliseen tuo suljettu hauki;</l>
+                  <l>Sieltä se päästäkseen mihin kulmaan suikerteleekin,</l>
+                  <l>Esteitä aina on eessä ja turhaan vaan sapikoipi.</l>
+                  <l>Metsiä, maita jo hoitanut oon, kuten ainaki maamies,</l>
+                  <l>Mut isännöivänä vaan, nyt täytyypi myös emännöidä.</l>
+                  <l>Tuskinpa siitä on vuos', kuin kuoli jo vaimoni armas:</l>
+                  <l>Raskaampi on toki tuo ollut, kuin entiset yhteen.</l>
+                  <l>Jos menin kyntämähän, jos painavan ohrani kylvöön,</l>
+                  <l>Tai jos heinäni hyöstyvän taas tekohon mua aika</l>
+                  <l>Kutsui ja korjuusen rukihin hyvin kellertyneeni,</l>
+                  <l>Pii'at ja lapset pirttihin jäi valtaan omahansa;</l>
+                  <l>Tai jos pistime taas tupahan, heti karkasi toimi</l>
+                  <l>Vainio-töistäni pois sekä muistuttamattomat rengit</l>
+                  <l>Istui jo jouten ristissä käet leväten makiasti.</l>
+                  <l>Raskahin lapsia oil toki kuulla, kun vanhempi huusi</l>
+                  <l>Äitiä, nuorempi taas yhä rinnoilla outojen itki".</l>
+               </lg>
+               <lg>
+                  <l>Mielin herkkenevin nyt vastasi taitava Anni:</l>
+                  <l>"Tyhmäks sun nimitän, jos noin ikä-vuotesi parhaat</l>
+                  <l>Huolissa vaan kulutat, kuu voit ilon nauttia vielä.</l>
+                  <l>Vaimo jo siis ota taitava taas, joka uskollisesti</l>
+                  <l>Voi taloas hoitaa, huvittain sua yötä ja päivää;</l>
+                  <l>Kohta kun myös tavannet, varoisin, tähän taipuvan neidon".</l>
+               </lg>
+               <lg>
+                  <l>Ruu'alla viel' ollen nyt vastasi riipeä Matti:</l>
+                  <l>"Niin se on, armaani, mut, vaikk' etsinnä oon nuremielin</l>
+                  <l>Naisien joukossa, en viel' oo sopivaa tavannunna.</l>
+                  <l>Usein aattelin näin: otan nuorenko vai iäkkäämmän?</l>
+                  <l>Kenties saat va'amman i'ältänsä jo eistynehestä;</l>
+                  <l>Kietoopihan joka vierevä vuos' pikaluontoa paulaan,</l>
+                  <l>Niinkuin kärpäisen laimasevaan lankaan hämähäkki;</l>
+                  <l>Vaan ei antaisi tuo minullen, mitä nuorempi voisi,</l>
+                  <l>Riemua rakkauden sekä poskien loistoa, joita</l>
+                  <l>Virkeä mies tavoittaa toki parhaana antina naisen.</l>
+                  <l>Jos taas, katsoen vaan hupaisaan, otan hilpeän, nuoren,</l>
+                  <l>Pelkään, että se löis laimin minun lasteni holhon,</l>
+                  <l>Taikka, jos itselleen myös sais rehevät pojat, oisi</l>
+                  <l>Niille vitsana, jotka sen ei levänneet sydämellä.</l>
+                  <l>Siksi mä viivynkin valintoo tätä peljäten aina".</l>
+               </lg>
+               <lg>
+                  <l>"Hei toki!" joutuen nyt tähän vastasi taitava Anni,</l>
+                  <l>"Miettiä, arvella vaan, sepä aina on mielehen miesten.</l>
+                  <l>Ei ruveta mihinkään, joll'ei edes taas ajatella,</l>
+                  <l>Kunnekka, peljästyin vaan luultuja vaaroja, niinpä</l>
+                  <l>Siekaellaan usehin, etu että jo pääseepi käestä.</l>
+                  <l>Ei ole huikkuva aina, mit'ei vakauttamia vuodet,</l>
+                  <l>Ei vakainen sekähän, oloaan mik' on nauttinna kau'an.</l>
+                  <l>Maallis-muodoissa, näet, jalo luontoki tuo moninaista,</l>
+                  <l>Niin eri-laatuja luontehiden myös ihmisienkin.</l>
+                  <l>Katso kasvia vaan kevähän, miten rannalla hiljaa</l>
+                  <l>Juurtuu ja puhkee se, kun puro taas sata-vuotinen syöksyy</l>
+                  <l>Raivona sen sivut'e kohinallahan täyttäen seudut.</l>
+                  <l>Siis, veli Matti, se neitonen nai, heti jonka ma neuvon!</l>
+                  <l>Jos kysyt ikää, niin kah'eksan toist' onpi se vuotta,</l>
+                  <l>Ruumihin jos uheuutta ja poskien ruusuja, kyllä</l>
+                  <l>Etsiä saat kau'an, sen vertoa kunnekka löydät;</l>
+                  <l>Luonnetta jos, niin säyseä on se ja lapsena puutteen</l>
+                  <l>Neuvoma kiittäen ottamahan vastaan hyvän kaiken.</l>
+                  <l>Onnen päiviä viettää se nyt hoviss' uhkehimmassa</l>
+                  <l>Piikana piikojen joukossa, mut etevimpänä kaikkein.</l>
+                  <l>Hälle ne kankaistaan huolenpidon uskoopi vallat,</l>
+                  <l>Hällen ruokien puuhan ja hoidonpa viel' avahinten,</l>
+                  <l>Niillen että sen arvelisit olevan oman lapsen".</l>
+               </lg>
+               <lg>
+                  <l>Puheesen tähän puuttuen nyt sanoi mielevä Pekka,</l>
+                  <l>Kärkkäänä päättämähän, mitä taitava vaimo jo alkoi:</l>
+                  <l>"Varmaan mielessä sulla nyt on Sakarin sulo Hedda,</l>
+                  <l>Parhaittain hänehen kun kiitokses sopivatkin.</l>
+                  <l>Lapsuuden tämä vaivoistaan on koitunna, niinkuin</l>
+                  <l>Siemen ehkiä, jos se on laihemmassaki maassa,</l>
+                  <l>Voimin varttuupi kasvaimeks hyvä-toivehiseksi.</l>
+                  <l>Ei, kuten tää, kenkään sopine Matillen ja jo varmaan.</l>
+                  <l>Kun hänen vaan näkisi, heti rehtevä tuo rupeaisi</l>
+                  <l>Tuumahan sormuksen sekä kihlojen kiirehimmittäin.</l>
+                  <l>Neiti täm' on miesten, näet, häilyvä-silmille, niinkuin</l>
+                  <l>Pihlaja marjahinen, rastaat joka viettääpi luokseen;</l>
+                  <l>Hilppaina laukuelee nämä siivillään kepehillä,</l>
+                  <l>Kunnekka äkkiä puun punavan näkyviinsä jo saavat.</l>
+                  <l>Kohta ne naurahtaa iloissansa ja kiitääpi kilpaa</l>
+                  <l>Maltitta pyrkien aartehistoon rehevimpien terttuin.</l>
+                  <l>Sitten riippuu ne siinä ja sietääpä keppien heittoo,</l>
+                  <l>Ennenkuin pakenee, jos marjoja tahtoisi muutkin.</l>
+                  <l>Siis minä neuvon sen, joka ansaitsee hyvän, oitis</l>
+                  <l>Neitoa miellyttämään, ett'ei sitä toinen jo veisi;</l>
+                  <l>Riennä sen tähen vaan hovihin, hyvä nääläni, kohta".</l>
+               </lg>
+               <lg>
+                  <l>Vastasi taas hänellen Kurun riipeä Matti ja lausui:</l>
+                  <l>"Ois hupaisaa nähäksen' tuo niin hyvä-kuuluinen tyttö,</l>
+                  <l>Syytä kun vaan saisin tähän rohkeahan yritykseen;</l>
+                  <l>Ei, näet, mieleeni oo kosijaks heti kohta jo luultaa".</l>
+               </lg>
+               <lg>
+                  <l>Mut sulo-huulin vaan hymyi sangen mielevä Pekka</l>
+                  <l>Nyt hyvillään ehoituksestaan, näin jatkaen vielä:</l>
+                  <l>"On tähänkin hyvä neuvo, kun juur' olohon nykyiseemme</l>
+                  <l>Toivosi luontuupi, kuin kuosiin kuvikkaisehen juusto.</l>
+                  <l>Herrani käskyst' aamulla, näet, läh'en hirvien hiihtoon,</l>
+                  <l>Silloin sä, ottaen mun tuon pyssyni, käyt ravakasti</l>
+                  <l>Myötä ja noin joudut välehen hovihin varakkaasen.</l>
+                  <l>Mutta kun, astuttuas tupahan, kokountuupi muutkin,</l>
+                  <l>Ääneti haet ylös silmälläs tuon herttaisen Heddan.</l>
+                  <l>Kohta sen ilmoittaa jalo varsi ja poskien loiste,</l>
+                  <l>Joukost' että sä tunnet sen sadan vaikkapa pii'an.</l>
+                  <l>Mieleesi jos se nyt on, joka, luulen ma, käy totehenkin,</l>
+                  <l>Voit tytön kanss' sanan leikkisän tai vähin tuttavan vaihtaa;</l>
+                  <l>Sitten taas jahillas tarkkaan asian tämän mietit,</l>
+                  <l>Josko se luonteva on, ja kun aikeesi lie sitä saada,</l>
+                  <l>Niin minä, jos haluat, puhemiehekses rupean taas".</l>
+               </lg>
+               <lg>
+                  <l>Oivahan mielistyi ehoituksehen Matti, ja nousten</l>
+                  <l>Ruu'alta, nautittuansa jo kestaus-lahjoja kyllin,</l>
+                  <l>Kiitti hän viimehiseks syleten sisartaan sekä lankoo.</l>
+                  <l>Mut erittäin hyvillään oli nyt toki taitava Anni,</l>
+                  <l>Sen hyvän-suontoisa neuvo kun myös oli mielehen miesten;</l>
+                  <l>Laittiki siis evähät hyvin sukkelahan molemmille.</l>
+                  <l>Mutta kun nyt runsaan ravinnon oli säälinnä konttiin,</l>
+                  <l>Riippumahan jykeämpänä sen tukevaan pani naulaan,</l>
+                  <l>Joutuen veljelleen tekemään yö-vuodetta vielä.</l>
+                  <l>Olkia puistettuaan tilan välkeän laitteli niille</l>
+                  <l>Näppärähän lakanat sekä tyynyn höyhenisensä,</l>
+                  <l>Tuodessa tyttären uljaasti tähän lämpimän ryijyn</l>
+                  <l>Vanhojen morsius-vuotehellen kudotun ajallansa,</l>
+                  <l>Anni, sä taitava muor', jopa muuttunna siit' olit aivoin,</l>
+                  <l>Kuin sulo-vihkimävuodettas tämä ryijysi peitti.</l>
+                  <l>Otsasi kurttuinen ol' jo ja turvonna vartesi norja;</l>
+                  <l>Mut sama viel' oli ryijy ja villassa sen helevästi</l>
+                  <l>Loist' alati sini-, musta- ja valko- ja ruskea kuosit;</l>
+                  <l>Peitteeks sen levitit nyt veljelles upeaksi.</l>
+               </lg>
+               <lg>
+                  <l>Mut sen jälkehen kun levollen teki mieli jo kaikkein,</l>
+                  <l>Sammuksiin pärehet pani nyt ne ja raukeat uskoi</l>
+                  <l>Ruumihit yön kätehen unen helmassa taas viretäkseen.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>TOINEN RUNO.</head>
+               <lg>
+                  <l>Sirkkojen kirske jo raukeni pois noki-rinnoilla uunin,</l>
+                  <l>Hiilikko hiipui ja säylällään öinvalvova kukko</l>
+                  <l>Nurkassa lauloi jo myös aamun-tulon entehitänsä.</l>
+                  <l>Tuskinpa tuost' olisi havannut toki mielevä Pekka,</l>
+                  <l>Kun väsyneenä se noin oli vaivoistaan monen päivän,</l>
+                  <l>Ynnä jos ei olisi tora kauhea ryskehenensä</l>
+                  <l>Uunilla vaan noussut, joka kiihkeni yön pimiässä.</l>
+                  <l>Siell' liki muuria, näet, virui arvoisa kerjääjä Aaro</l>
+                  <l>Nauttien yksinähän vari-höyryä sen suloisinta,</l>
+                  <l>Kun sivu-kumppaninaan joukost' urojen toki loikoi</l>
+                  <l>Loinen Paavo, jokei halu-lämpöä tuntenna kyllin.</l>
+                  <l>Tää väkisin koki paikaltaan nyt Aaroa syöstä,</l>
+                  <l>Kievoittihe toverin taakse nopeasti ja tunki</l>
+                  <l>Pois sitä, kuin telkin; mut suutuksissahan Aaro</l>
+                  <l>Sai hamuten käsihin tönivän nyt Paavon ja maahan</l>
+                  <l>Paiskasi niin hevin, kuin olisi rususäkki se ollut.</l>
+                  <l>Nyt havahtui ryminästäpä Pekkaki säikähyksissään.</l>
+                  <l>Mut pahoin voivottain puhumaan rupes' ynnä jo Paavo:</l>
+                  <l>"Kuules, Pekka, ja näe, parempaa miten kerjääjä kohtaa,</l>
+                  <l>Äissähän ylpeenä kun minun runttasi noin nurin niskoin,</l>
+                  <l>Kuin olisi kuningas muka, vaan ei nauttija armon".</l>
+               </lg>
+               <lg>
+                  <l>Vastasi nyt hänellen heti rehtevä kerjääjä Aaro:</l>
+                  <l>"Pois mua kun tungit ja et suonunna ois ukon harmaan</l>
+                  <l>Kyljelle uunin lämpöä ees, jota kaikille riittää,</l>
+                  <l>On oma syys, jos niskasikin nyt taittanut oisit".</l>
+                  <l>Mut kun mielevä Pekka jo sai alun riitahan kuulla,</l>
+                  <l>Niin hymyi hän sydämestä ja käänsihe loisehen Paavoon:</l>
+                  <l>"Veikkoni Paavo, se on paras antaa muilleki oikeus;</l>
+                  <l>Lepää uunilla, näet, myös kerjääjä suojassa Herran".</l>
+                  <l>Tuon sanoi, mut loinen vaan ääneti uunihin kömpi,</l>
+                  <l>Jonka se kuumehesen kivi-vuotehellen heti nukkui</l>
+                  <l>Vaurion unhottain siten maatessaan makiasti.</l>
+               </lg>
+               <lg>
+                  <l>Unta nyt ei jatkaa enähän toki malttanna Pekka,</l>
+                  <l>Vaan meni Mattiakin havahuttamahan levoltansa.</l>
+                  <l>Kohta jo vuoteellen tuli näälän ja käellähän koski</l>
+                  <l>Oikoa sen, sanan muistuttavan näin kuiskaten ynnä:</l>
+                  <l>"Nouse, aamu jo on! Elä makaa, Matti, nyt enään,</l>
+                  <l>Jos tänähän mielit, kuten eilen, toivolliselle</l>
+                  <l>Jahdille Heddoa nähdäkses, — niin pois hovihin nyt!"</l>
+                  <l>Noin sanoi; säpsähtäin tilaltaan heti hyppäsi Matti</l>
+                  <l>Istualleen, mut kohta jo taas meni mielevä Pekka</l>
+                  <l>Valkeeta toimittamaan, vaan kaiveli liedessä kau'an,</l>
+                  <l>Kunnekka pohjalta löys' hiilen tulisen toki viimein.</l>
+                  <l>Kaks päre-tikkua sipsenä vaan näpeästi sen otti,</l>
+                  <l>Vei liki huuliansa sekä pullokkahin puhui poskin</l>
+                  <l>Päälle, ja nyt tukahuttava nous' savu ympäri naaman,</l>
+                  <l>Vuoroin välkkävän ilmi ja vuoroin peittyvän yöhön.</l>
+               </lg>
+               <lg>
+                  <l>Kuitenkin välehen tuli syntyi ja, kun päre-leimu</l>
+                  <l>Nyt tuvan valkaisi, niin kanat torkustansa jo toipui,</l>
+                  <l>Pankollakin päätään ravistain venyi töykeä kissa,</l>
+                  <l>Kun hädissään kani taas lymy-paikkoa hyppien etsi.</l>
+                  <l>Joutuen, mut hyvillään, vetämään rupes' yllehen Pekka</l>
+                  <l>Nyt puvun harmaja-sarkahisen, monikoetetun, vahvan,</l>
+                  <l>Kylmenemästä ku sen jäsenet lihavat hyvin esti,</l>
+                  <l>Villais-sukkihin lampöisihin jalat tungettuansa</l>
+                  <l>Kenkiytyi sievään sekä lammas-nahkaisen turkin</l>
+                  <l>Naulast' otti ja vartalonsa rotevan tähän kääri,</l>
+                  <l>Viimein vyöks upean sitoi messinkilättyisen hihnan.</l>
+                  <l>Noin nyt kartanohon komeaan menemään oli valmis.</l>
+                  <l>Mattikin astui jo nurkastaan puetettuna aivan</l>
+                  <l>Päästähän jalkoihin niin, jahillan kuten aikova aina'i;</l>
+                  <l>Turkki sen uhkea vaan, joka lauhkeita nahkoja lampaan</l>
+                  <l>Ol' tusinan vetänyt, hyvin arvost' ehkiän varsan,</l>
+                  <l>Viel' oli vyöttämätön, mut hän sitä kääri jo verkkaan.</l>
+               </lg>
+               <lg>
+                  <l>Kun molemmat kelvoin varustettuina nyt oli matkaan.</l>
+                  <l>Pekka jo niskoilleen väkevillen viskasi kontin,</l>
+                  <l>Pyssyn sai olalleen Matillen samoin antaen vanhan</l>
+                  <l>Ruotsin kiväärin moness'-ollehen tuon sekä lausui:</l>
+                  <l>"Tässä se kalleus on! Sinun tähtesi tään otan kerta.</l>
+                  <l>Itse sit' en käyttää ole raskinna; riippunut on se</l>
+                  <l>Seinällä vaan nokisell', isä kuin pani siihen sen ennen".</l>
+               </lg>
+               <lg>
+                  <l>Virkkoi; ja nyt hymy-suin nojas' olkoa vastahan Matti</l>
+                  <l>Kiväärin hyvin hihnoitetun lakin pannen jo päähän</l>
+                  <l>Alttiina lähtemähän kosijan sekä jääkärin toimiin.</l>
+               </lg>
+               <lg>
+                  <l>Huomen-ryyppyä Pekka tok'ei unohuttanna ottaa</l>
+                  <l>Itse ja tarjota näälälleen myös arvokkahalle,</l>
+                  <l>Vaan nyt lämmittimen ilo-mielin ne matkalle otti.</l>
+               </lg>
+               <lg>
+                  <l>Mut ulos tultua kun näkivät ihan selkeän taivaan</l>
+                  <l>Tähtiä täynnä, ja kuulivat, kuin lumi kiiluva kirskui</l>
+                  <l>Jalkojen alla ja nurkissa'i miten pakkainen paukkoi,</l>
+                  <l>Pekka, ne nyt kun nous' ylös suksilleen silehille,</l>
+                  <l>Riemuten sielussaan sanoihin näin puhkesi kohta:</l>
+                  <l>"Veikkoni, päivä täm' on toki markkoja maksava vasta.</l>
+                  <l>Ihme, tuskinpa luullunna ois itä-tuulosen kosteen</l>
+                  <l>Niin pian kääntyvän vielä, kun suojalla alkoi se eilen.</l>
+                  <l>Helppo nyt on jahata; niin suljat luikoopi sukset,</l>
+                  <l>Kuin teräs iljama-jäällä, ja hankiki hirviä estää;</l>
+                  <l>Seuraa joutuen nyt; yli niittyjen tiemme on suorin".</l>
+                  <l>Virkkoi; ja kiitäen pois mäen jyrkänteelle jo pääsi,</l>
+                  <l>Tuolla ku niityllen pihaton taka-puolite vietti.</l>
+                  <l>Joutuiki Matti ja nyt alaha nopeasti ne lensi</l>
+                  <l>Niin, kuten varjot pilvien, joit' ajelee raju-tuuli.</l>
+               </lg>
+               <lg>
+                  <l>Päästyänsä lakialle jo hiljemmästi ne luikui</l>
+                  <l>Aitojen yl', nämä kun lumehen oli peittynnä kaikki;</l>
+                  <l>Vaan nyt riipeä Mattipa arvelevaisena lausui:</l>
+                  <l>"Kernaasti jahillen kanssas tulen toivoen siitä</l>
+                  <l>Rattoa, vielä kun saan Hedan tuon hyvä-kuuluisen nähdä;</l>
+                  <l>Mut kysyä täytyy minun ensinnä, mielevä Pekka:</l>
+                  <l>Saapiko huoleti vaan näin hirviä ampua täällä,</l>
+                  <l>Tyytyykö herrasi myös minuhun; kukaties halukkaammin</l>
+                  <l>Käyttääpi hän omiaan, kuin seurahan ottaapi oudon?"</l>
+               </lg>
+               <lg>
+                  <l>Vastasi taas hymy-suin tuo mielevä torppari Pekka:</l>
+                  <l>"Ensimmäisiä ei nyt kaadeta hirviä meillä,</l>
+                  <l>Ammumme vaan, käräjiin jos luotia tuiskuisi vaikka.</l>
+                  <l>Ei ole pelkoakaan, ett'ei sua ottaisi herra;</l>
+                  <l>Meitä on torppariaan kaheksan, hiess' otsamme jotka</l>
+                  <l>Maita sen oivia raadamme kyllä, mut ei ole meistä,</l>
+                  <l>Kuin pari ainoa vaan, joka pyssyä käyttäisi kelvoin:</l>
+                  <l>Metsolan Pekka ja Pyylahen myös Sakar ainaki toinen.</l>
+                  <l>Pekka on voittava, näet, kun rehtevä taas Sakar' äijä</l>
+                  <l>Liekkinä leimahtaa heti pyssyhyn tartuttuansa</l>
+                  <l>Valmiina pilvihin ampumahan, jos joutuupi intoon.</l>
+                  <l>Meitä nyt on tarpeen useampi, jok' ampua taitaa,</l>
+                  <l>Ett' eri-haaroilta hirviä sais näin vastahan ottaa</l>
+                  <l>Luodeilla, hiihtäjien taas huudolla niit' ajaessa.</l>
+                  <l>Varmaan oot sinä siis hovihin hyvin suotuisa vieras,</l>
+                  <l>Vielä kun siihen nääläni oot sekä mainio kyttä".</l>
+               </lg>
+               <lg>
+                  <l>Noin puhui hän, ja nyt tyytyen taas sanoi riipeä Matti:</l>
+                  <l>"Aina on tuntematon toki silmän määränä kaikkein:</l>
+                  <l>Kukin, niin tapa ihmisen on, ylös heikkoa kohtaa</l>
+                  <l>Etsiipi vieraassaan ja sen virhiä pilkkaapi salaa.</l>
+                  <l>Koissani jos kerran erehdyn, niin ei sitä mikskään</l>
+                  <l>Katsota tietäen mun toiste tekevän' paremmasti;</l>
+                  <l>Täällä on arvoni mittana taas, miten ensinnä näyttäyn;</l>
+                  <l>Siis sano, sattuuko maalihin myös hyvästi tämä pyssys?</l>
+                  <l>Pelkään, että mä vaan kovin itseeni luottaen kenties</l>
+                  <l>Kaukaa syrjähän ammun ja niin tulen viel' ivan alle".</l>
+               </lg>
+               <lg>
+                  <l>Eipäs vai'enna nyt enähän tuo mielevä Pekka,</l>
+                  <l>Mutta jo äänensä korottain kehua täten alkoi:</l>
+                  <l>"Kun näkö-matkalla vaan olet, ystävä, kyllä se sattuu.</l>
+                  <l>Ammu, ja kaatuupi hirvi, jos ei ase muuttunna liene;</l>
+                  <l>Monta on laskettu laukaisemaa parempaaki jo sillä.</l>
+                  <l>Niin sodan aikana kerran mun setä vainaani Jussi,</l>
+                  <l>Urhona kun kapraalina eest' isänmaan sitä kantoi.</l>
+                  <l>Kuormia kalliita toi, sata karskia miest' apunansa.</l>
+                  <l>Mut kun siell' usehin vihollisten joukkoja liikkui,</l>
+                  <l>Niin oli retki se vaarallinen, jalon katteinin että</l>
+                  <l>Kulkea vaan täytyi varoten sekä rohkeastikkin.</l>
+                  <l>Nyt vähän huomattuaan kyläss' alkoi ne astua eelleen</l>
+                  <l>Miehissä taas, mut arkoinapas kävivät talonpojat</l>
+                  <l>Kukin vierellä kuormiensa sekä, mielessä pelko,</l>
+                  <l>Juhtoja laahaaviaan yhä ohjaksillahan löivät.</l>
+                  <l>Näin tuli hiljakseen ne jo hongikkoon iki-vanhaan.</l>
+                  <l>Mut älymättäpä ei sota-katteinin toki jäänyt,</l>
+                  <l>Suojassa ett' isojen petäjäin moni väijymys ehkä</l>
+                  <l>Nyt vihollisten vois kätkeytyä, varsinni tuolla</l>
+                  <l>Myllyissä, taajahan joit' oli tehtynä pienehen koskeen.</l>
+                  <l>Jyrkästi siis käski hän nyt varomaan joka miehen</l>
+                  <l>Ees taas astuen itse ja koetteli kiikari käessä</l>
+                  <l>Keksiä metsistön välite silmää vihamiehen;</l>
+                  <l>Noin läpi kuusiston myös soidinmies vakoaapi,</l>
+                  <l>Metso kun napsaelee hämärissä, ja hän kavalasti</l>
+                  <l>Juoksahtaa sekä taas heti kuuntelemaan pysähtyypi.</l>
+                  <l>Ei vakonut toisin jalo-syntyinen katteini metsää</l>
+                  <l>Nyt joka haarallen, kun sen lähi-tienoille joutui.</l>
+                  <l>Niin kävi hän sivute myös uljahan kapraali Jussin.</l>
+                  <l>Turhaan seutua tää ei silmäellyt terävästi;</l>
+                  <l>Tuuhea oksaisehen, näet, kuusehen näytti hän kohta,</l>
+                  <l>Joen ylite joka riippui, ja Katteinillehen lausui:</l>
+                  <l>'Latvassa eiköhän tuon havuisessapa kiilune kultaa?</l>
+                  <l>Katso, luulen ma siell' olevan vakojan lymymässä!'</l>
+                  <l>Noudattain tätä nyt jalo-syntyinen Katteini kohta</l>
+                  <l>Sinne kiikarin kääns' sekä näin kehottain puhui sitte:</l>
+                  <l>'Oikein! on puku tuo vihamiehen; mut, urot, teistä</l>
+                  <l>Ken lähettää luodin nyt lintuhun ryyppyä vastaan?'</l>
+                  <l>Virkkoi; mut ihmeissään joka mies sanan kuulipa moisen,</l>
+                  <l>Maahan katsoi ja hampaitseen hiljaa jupis' ynnä,</l>
+                  <l>Kuiskaten muutama näin toverillehen myös lähimmälle:</l>
+                  <l>'Ennen mä ampuisin otsahan kuun, etemmällä jos onkin;</l>
+                  <l>Sen, näet, saa paremmin toki tähtähimeen näkyville'.</l>
+                  <l>Mut esihin setän' astui ja sai hanansa vetehelle</l>
+                  <l>Kulmat vaan kuroten sekä viikset turtunehensa.</l>
+                  <l>Hän oli ainoa nyt, turvin joka rohkeni koettaa,</l>
+                  <l>Hällä kun taitoa ol', jalo pyssy ja silmäki tarkka.</l>
+                  <l>Viitaten pyysi hän Katteiniaan väkensä heti viemään</l>
+                  <l>Rauhassa pois, ett' ei paulaa tätä keksisi sissi,</l>
+                  <l>Hiipien kyyryllään tie-aidan juurellen itse.</l>
+                  <l>Joukko jo marssi ja ei näkynynnäpä niin yhen yhtään,</l>
+                  <l>Silmäänsä joka kääns' nyt toisaha, kuin toverinsa:</l>
+                  <l>Maahan, näet, kuten viljavahan yhä silmääpi tähdet,</l>
+                  <l>Niin nämäkin joka mies vaan kuusen latvahan katsoi.</l>
+                  <l>Toivo ja epäilys, iva puol-purenneltu ja vartous</l>
+                  <l>Kasvoissa kaikkien nyt havaittiin, samoin kasvava kuiske</l>
+                  <l>Suustaki sai suuhun hälyneen, hana kunnekka kelvon</l>
+                  <l>Kiväärin sätenöitsi ja ampuma laukesi, sissin</l>
+                  <l>Niin joen roiskehesen rojahuttaen, kuin kala-kotkan.</l>
+                  <l>Verraton laukaus tää koko armeijass' oli kuulu</l>
+                  <l>Kauan ja kivääri myös samoten laveaan tuli huutoon".</l>
+               </lg>
+               <lg>
+                  <l>Näin nyt Pekka jo loppuhun sai tämän kertoman tarkan.</l>
+                  <l>Mut enemmän haluen vaan tiedustella ja kuulla</l>
+                  <l>Lankohon käänsihe Matti ja taas puhui kohteliaasti:</l>
+                  <l>"Viel' elä tok' lopeta; minun mieleni hehkuupi tietää,</l>
+                  <l>Metsässä kuin kävi nyt. miten väijys luontui ja kuinka</l>
+                  <l>Miehet suori'utui, mut varsinkin jalo pyssys</l>
+                  <l>Kuinka se palvelemast' isänmaata sun haltuusi joutui:</l>
+                  <l>Äskinen kertomas ol' hyvin mieleeni: näet, hupa kuulla</l>
+                  <l>On uro-töit' isien, miten miehuullisesti ne käyttiin,</l>
+                  <l>Mielevän suust' etenkin, joka arvata niit' osoaapi.</l>
+                  <l>Joudu, veikkoni, siis; välite lumisen jopa metsän</l>
+                  <l>Valkia pilkahtaa hovinne tuvan ikkunohista".</l>
+               </lg>
+               <lg>
+                  <l>Mielellään taas kertomataan täten jatkoiki Pekka:</l>
+                  <l>"Metsässä kun vihamiehiä nyt olevanpa jo tiettiin,</l>
+                  <l>Katteini seisattuen väelleen tehoisan piti puheen</l>
+                  <l>Jyrkästi penäten hyvin kestämähän kahakassa.</l>
+                  <l>Urheina metsähän nää nyt ryntäsi synkkähän, jossa</l>
+                  <l>Niit' otettiin vastaan sapelin välävin sekä luodin.</l>
+                  <l>Väistytty ei; sotilaat tyven-mielinä syöks' etu-päässä,</l>
+                  <l>Vimmassa ärjyen, torjuen taas seuras' talonpojat.</l>
+                  <l>Niinpä ne rynnistiin lävite toki viimein ja joutui</l>
+                  <l>Paikkahan määrättyyn, vaan mont' oli jäänynnä jälkeen,</l>
+                  <l>Joit' epäkäyttöhisiks vihollisten ol' ampuma tehnyt,</l>
+                  <l>Monta ne toivatkin mu'assaan, samoin Kapraali Jussin,</l>
+                  <l>Tuon, joka, kun ladannut oli kiväärin kaheksasti,</l>
+                  <l>Myös kaheksanp' oli kaatanna miestä; ja viimein kun itse</l>
+                  <l>Luodin jo sai sääreen, avull' ystävän rattaille pääsi.</l>
+                  <l>Tuskissaan rakast' ei toki unhottanut asettansa;</l>
+                  <l>Kyyneltä vuodattamatta ja ei valittain kipuansa</l>
+                  <l>Käessähän sen piti viel', yli-korttieriin ne kun joutoi.</l>
+                  <l>Mutta kun käskettiin hänen antaa pois tamineensa,</l>
+                  <l>Tyynenä het' sapelin sekä painetin jätti ja taskun,</l>
+                  <l>Kiväärin piti vaan vähän vielä ja kylträsi hiljaa:</l>
+                  <l>Sitte jo senkin heitti, mut ääneti peittäen kasvot</l>
+                  <l>Itkemähän hyrähtyi; jalo katteini sen toki keksi.</l>
+                  <l>Heltynnä sielussaan rukoel' tuo kentraaliansa</l>
+                  <l>Palkinnoks urollen suomaan asehen tämän vanhan.</l>
+                  <l>Sai luvan myös ja jo kiväärin takaisi pian toikin.</l>
+                  <l>Urhon olkoa nyt hiljaa taputtel' sekä lausui:</l>
+                  <l>'Oi, jos jalkasikin, tover' uljas, niin pian saisin</l>
+                  <l>Jällehen, kuin asehes: ota, nyt se on sun, ja sit' aina</l>
+                  <l>Muistona vaan kuninkaan sekä maan pidä uskolliselleen'.</l>
+                  <l>Mut niinkuin isä vanha, jo vartottuaan tulehmalla</l>
+                  <l>Poikoa kaupungist', hempii sitä, kun palajaapi</l>
+                  <l>Sieltä se, miss' asiat sekä liike viivytti häntä,</l>
+                  <l>Niin iloitsit sinäkin, setä arvollinen, sydämessäs,</l>
+                  <l>Kiväärin tämän nyt kun sait jalon katteinin käestä.</l>
+                  <l>Mut kuten tervettä, niin viallistaki tuo elinkauden</l>
+                  <l>Seurasi, vaan tuli, kun tämä sitten kuol' tupahamme,</l>
+                  <l>Mun isällen' ja, sen kuoltua taas, minullenpa jo viimein".</l>
+               </lg>
+               <lg>
+                  <l>Langosten lyhennettyä näin tiensä hupaisasti</l>
+                  <l>Joutui ne nyt välehen perillen hovihin varakkaasen.</l>
+                  <l>Mut sisähän veräjäst' avatusta ne sinne kun hiihti,</l>
+                  <l>Koirat töytäsi ees, tuo urhea Bakko ja Jääker,</l>
+                  <l>Tottunna haukkumahan metsässä ja vahtina aittain.</l>
+                  <l>Paikalla nyt äkeästi ne Mattia vastahan syöksi</l>
+                  <l>Valmiina mielt'ei vaan puremaan tätä outoa kyttää,</l>
+                  <l>Pekka jos sauvalla ei niit' ois uhannut puhutellen:</l>
+                  <l>Mut kepin nostetun kun näki nää sekä kuul' tämän äänen.</l>
+                  <l>Vaiti jo het' matoivat noreasti lieruvin hännin</l>
+                  <l>Nöyrinä taas polviin Pekan, liehaellen tutullensa.</l>
+               </lg>
+               <lg>
+                  <l>Tuo melu arvokkaan tuli korvihin myös Komisarjon,</l>
+                  <l>Tuolla ku nyt saliss' istui jo keskellä ampuma-neuvoin.</l>
+                  <l>Kohtapa siis meni katsomahan, mikä ol' hätä siellä,</l>
+                  <l>Koiria houkuttain ensin rapuillen alas astui,</l>
+                  <l>Vaan kytät yön pimiässä kun huomasi, virkkoi jo sitte:</l>
+                  <l>"Keitä ja mist' oletten? sanokaa tämä paikalla, että</l>
+                  <l>Tietänen, miehiä ootteko mun, vai outoja kenties?"</l>
+                  <l>Ottaen nyt päästään hatun vastasi mielevä Pekka:</l>
+                  <l>"Kunnioitettava herra, min' oon se, ku jahtia varten</l>
+                  <l>Nyt tulen käskystänne ja tuon Matin myös Kurulaisen</l>
+                  <l>Nääläni ynnä; se on jalo kyttä ja pyssyki sill' on".</l>
+               </lg>
+               <lg>
+                  <l>Arvoisa Konisarjus hyvillään tähän vastasi oitis:</l>
+                  <l>"Oiva on, että sä täällä jo oot sekä nääläsi myös toit:</l>
+                  <l>Nyt useampikin on tarpeen, joka ampua taitaa.</l>
+                  <l>Menkäätte vartomahan tupahan, heti oon minä valmis".</l>
+                  <l>Virkkoi; ja käänsihe pois palaten salihinsa jo jälleen.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>KOLMAS RUNO.</head>
+               <lg>
+                  <l>Nyt tupahan hyvin loistoisehen, rakettuun pätevästi</l>
+                  <l>Käskyä herran noutaen nyt kytät urheat astui.</l>
+                  <l>Ensin ne sukset nost' toki seineä vasten ja sauvat</l>
+                  <l>Hankehen löi sekä porstuahan jaloistaan lumen pieksi,</l>
+                  <l>Ennenkuin sisähän oven kitkavan kautta ne siirtyi.</l>
+                  <l>Siell' ilokseen näkivät valoss' soittojen nyt varusteissaan</l>
+                  <l>Seitsemän torppari-miestä jo istuvan ympäri pöydän,</l>
+                  <l>Kun hyräten pii'at kuki nurkassaan näpeästi</l>
+                  <l>Kukkiansa surisutti ja lankoa rullahan kiersi.</l>
+               </lg>
+               <lg>
+                  <l>Tervehdittyä nyt molempain sekä istuttuansa</l>
+                  <l>Alkoi jo, vait' kun muut olivat, heti riipeä Matti</l>
+                  <l>Silmin tarkkailevin tuvan ympäri etsiä Heddaa.</l>
+                  <l>Helpoinpa, kun solean näki varren ja poskien ruusut,</l>
+                  <l>Tunsiki sen joukost' useain, kuten arvasi Pekka:</l>
+                  <l>Sitten vaan ihaltain sitä katseli viehättyneenä.</l>
+               </lg>
+               <lg>
+                  <l>Vait'-olon katkasi nyt Sakar' arvoisa Pyylahen äijä</l>
+                  <l>Harmaja, vanha, ku pöydän pääss' etevimpänä istui:</l>
+                  <l>"Nyt", sanoi, "nähtävä on, hyvät ystävät arvollisimmat,</l>
+                  <l>Matti kun sai tänne, kuka on paras ampuja meistä?</l>
+                  <l>Kunnioitettava herrako, vai tuo mielevä Pekka,</l>
+                  <l>Vai minä, kenties, voittava oon Kuru-vierahan kuulun;</l>
+                  <l>Tietävän on toki miel', tämä lintuinen kappeli että</l>
+                  <l>Kunnon kyttiä ei vähemmän, kuin miehiä, kanna".</l>
+               </lg>
+               <lg>
+                  <l>Vastasi nyt jälleen hänellen Kurun riipeä Matti;</l>
+                  <l>"Oi, Sakar', ellös sä noin puhuko sekä kääntäkö kaikkein</l>
+                  <l>Silmiä nyt minuhun, jos sitten en kaatane yhtään;</l>
+                  <l>Kyllähän kyttiä kappeliss' on Kurun lintuhisessa,</l>
+                  <l>Kuin sanoit, taitavia'i, mut lienenkö myös minä niitä,</l>
+                  <l>Sen nyt näyttäköhön tahi kieltäköhön teko itse".</l>
+                  <l>Virkkoi; ja kaikki jo koettelemaan halus' oikkuja onnen.</l>
+               </lg>
+               <lg>
+                  <l>Mut kuvollaan uunin noki-vierellä myös sopess' oikoi</l>
+                  <l>Ääneti veikkoja parrakkait' ihan keksimätöinnä,</l>
+                  <l>Rihkan myöjiä nuo varakkaan Arkangelin, jotka</l>
+                  <l>Astuvat ympäri maan hiess' otsan kiskoen kultaa</l>
+                  <l>Viehättävää, raskas selässään iso kesseli täynnä</l>
+                  <l>Räämeä loistelevaa ihanteeks hyvä-luontoisen rahvaan.</l>
+                  <l>Laukut vieressä nyt sopess' uunin luona ne loikoi</l>
+                  <l>Uuvuksissahan, kun Kurust' asti ne käynnä ol' eilen,</l>
+                  <l>Joss' olivat levänneet Matin luona jo taas, kuten aina'i.</l>
+                  <l>Mutta kun äkkäsivät äänen, tuvass' siinä ku haastoi,</l>
+                  <l>Tunsi ne sen unissaan sekä karkasi vuoteheltansa</l>
+                  <l>Pois iloissaan, kun vierahissa'i tapas' ystävän oivan.</l>
+                  <l>Räyhäten riensi ne sen käet sulkemahan käsihinsä;</l>
+                  <l>Kullakin ol' hänellen sanomist', ett'ei sata korvaa</l>
+                  <l>Tuskinpa ois äänten tätä lentoa voinunna ko'ota;</l>
+                  <l>Loppumatta, kuten kissasta'i säkeneet yhä säihkyy,</l>
+                  <l>Polvellaan sitä kun silittää käsin hempehin ämmä,</l>
+                  <l>Niin säkenöi sanatkin nyt pöyheäpartojen suusta.</l>
+               </lg>
+               <lg>
+                  <l>Mut näin yksi ja toinenpa lie puhununnaki niistä:</l>
+                  <l>"Oi, miten on iloisaa tavata Matin riipeän täällä'i!</l>
+                  <l>Niin hyvä ei kenkään, kuin tää, ole ollunna meille;</l>
+                  <l>Jos milloin väsyneinä me sen tulimme tupahanki,</l>
+                  <l>Olkia lyhtehen tuotti ja joskus lämmittäväisen</l>
+                  <l>Puuronki, kun nahat ostimme vaan oravan tahi näädän.</l>
+                  <l>Aina on tuo mieleen, erittäin toki uupunehelle.</l>
+                  <l>Hartahin ystävä meille se on tämä Matti ja suora</l>
+                  <l>Kaupassa'i, kuten eilen, kun ostimme kontion taljan;</l>
+                  <l>Voi, kuin möimme sen het' etuisasti jo tultua tänne!</l>
+                  <l>Koin, näet, syömä se ei kavalastipa ollunna eikä</l>
+                  <l>Musteella painettukaan, joka vaaleepi vuosia voittain;</l>
+                  <l>Siksi nyt arvoisa Komsarjus tähän mieltyiki kohta".</l>
+               </lg>
+               <lg>
+                  <l>Noin puhuivat ne, ja paljo, ku hämmentyi hälinässä,</l>
+                  <l>Haihtuiki, niinkuin haiku, ja ei kukahan sitä kuullut,</l>
+                  <l>Kunnekka niist' etevin, punapöyheä-partainen Ontro,</l>
+                  <l>Aukasi laukun ja mielissään niin irvellä huulin,</l>
+                  <l>Että sen kiiltelevät hampaat läpi viiksien vilkkui,</l>
+                  <l>Kaivoi jo siit' esihin hyvin tarkkahan tulpitun pullon,</l>
+                  <l>Josta hän matkoillaan maku-rommia maisteli joskus,</l>
+                  <l>Joi sekä silmää iskien myös Matillen sitä tarjoi.</l>
+               </lg>
+               <lg>
+                  <l>Pii'at taas sopessaan kuki kehräten kun korehitten</l>
+                  <l>Huivien silkkisien loiston näki suusta jo laukun,</l>
+                  <l>Töytäsi äärehen sen, rukit unhottaen sekä rullat.</l>
+                  <l>Haukkaa liitelevää kuten kirkuen kiertääpi pääskyt,</l>
+                  <l>Niin nämä Ontroakin punapöyheä-partoa saarsi,</l>
+                  <l>Kyllin katsoa saadakseen koru-räämeä mointa.</l>
+                  <l>Silmin ne hartovin nyt kysyi hintoja huoaten usein</l>
+                  <l>Saatuansa tietää, miten kallihit ol' nämä hemmut;</l>
+                  <l>Sentähen virkkoipakin tuo nuori ja järkevä Hedda:</l>
+                  <l>"Kas, mitä viivymme tässä ja mahdottomaa haluamme,</l>
+                  <l>Kuinkas silkkiäkin köyhät voi vaatia pii'at.</l>
+                  <l>Poika jot' yksinnä vaan tilan-haltia ostaapi joskus</l>
+                  <l>Miellyttääksehen morsiotaan muka miekkohisinta?</l>
+                  <l>Jospahan tunnettu mies tahi tuntematon seassamme</l>
+                  <l>Lahjoittais' minullen ees ompelu-neuloja kirjan,</l>
+                  <l>Kiittäen tuon vastaan kyll' ottaisin myös ilo-mielin".</l>
+                  <l>Lausui; ja loi silmät suloisensa miehien puoleen.</l>
+               </lg>
+               <lg>
+                  <l>Mut hymy-suin likemmä heti siirsihe riipeä Matti,</l>
+                  <l>Lompakon nahkahisen povestansa otti ja siitä</l>
+                  <l>Sai setelin käsihin sekä nyt makeaisia ynnä</l>
+                  <l>Kirjan neuloja ost'; nämä pii'oillen jakoi sitte</l>
+                  <l>Viel' lisäten tuohon Hedallen korean hi'us-kamman.</l>
+               </lg>
+               <lg>
+                  <l>Neidot siit' iloissaan niias' nyt kiittäen hiljaa;</l>
+                  <l>Torpparit taas, samoin kuin punapöyheä-partainen Ontro,</l>
+                  <l>Suottailivat Matin kanss' koettain hämillen sitä saada.</l>
+               </lg>
+               <lg>
+                  <l>Huus' muka viisoissaan näin joukost' yksi ja toinen;</l>
+                  <l>"Kas, kuin Hedda jo sai vieraan välehen satimeensa,</l>
+                  <l>Vaikka se moint' ei arvanna, kun tuli vapaana tänne.</l>
+                  <l>Noin laho-rastaskin puna-rintainen pihlaja-puuhun</l>
+                  <l>Huoleti laskeupi ei nähden kavalan pojan tuumaa,</l>
+                  <l>Kun varoen jouh'-ansahisen kepin lehdite pistää,</l>
+                  <l>Kunnekka ansassa kaula sen on ja se siipiä turhaan</l>
+                  <l>Vaan räpyttää kokien taas selvitä siitä jo irti.</l>
+                  <l>Niin pian myös paulaan Kurun riipeä Mattiki joutui".</l>
+               </lg>
+               <lg>
+                  <l>Nyt rupes' ynnä jo naurussa suin taas mielevä Pekka:</l>
+                  <l>"Ihme se ei olekkaan, jos nääläni Matti ja muutkin,</l>
+                  <l>Vielä kun nuoret on nuo, Hedan pauloihin tarttuisivatki;</l>
+                  <l>Vaikea, näet, tätä vastustaa tosin onpiki miehen.</l>
+                  <l>Tuskinpakaan tiedän, miten vois sulon tuon kuvaella,</l>
+                  <l>Poikien kun pariss' on joko vai'eten tai pakinoiden:</l>
+                  <l>Niin, kevät-pilven kun helo lankeepi kuunahan puihin,</l>
+                  <l>Pensahat riemastuupi ja viehtyen seisoopi koirat,</l>
+                  <l>Aamun ne kun loiston näkevät sekä purppura-pilven,</l>
+                  <l>Kunnes se tuulahuksen lähettää, nyt hentoiset oksat</l>
+                  <l>Huojuu ja lehdetkin kaharat hekumasta jo värjyy;</l>
+                  <l>Ei vähemmin väräjä myös poika, kun Heddoa kuulee".</l>
+               </lg>
+               <lg>
+                  <l>Mut sanoin nuhtelevin nyt vastasi riipeä Matti:</l>
+                  <l>"Vieläkö kutsunenkaan mieheks sua, mielevä Pekka,</l>
+                  <l>Vai joko poiaks parrattomaks, joka, leyhkeä ollen,</l>
+                  <l>Turhin noin sanoin tahraapi suun siveää imarrellen".</l>
+               </lg>
+               <lg>
+                  <l>Lausui ja vaikeni; mut häveljään tytön nyt heleviltä</l>
+                  <l>Poskilta lens' punoitus, kuten ruusulta loistava perho,</l>
+                  <l>Lempeän kun silmän Matin riipeän puolehen luoden</l>
+                  <l>Siirsihe pois rukin äärehen taas sekä käämiä alkoi.</l>
+               </lg>
+               <lg>
+                  <l>Mut siin' oisivat aamunkin hämärään nämä seisseet</l>
+                  <l>Nauraen, suottaellen repun ääressä miellyttäväisen,</l>
+                  <l>Jollei äkkiä vaan Komisarjus, arvoisa herra,</l>
+                  <l>Ois oven naukuvan nyt avannunna ja häirinnä seuraa.</l>
+                  <l>Mut tämä äänin korkehin näin jopa muistutti heitä:</l>
+                  <l>"Miehet, pois; minä oon valmis; nyt joutua täytyy;</l>
+                  <l>Yön pimeys hajoaa jo ja vaaleepi taivahan tähdet.</l>
+                  <l>Tärkkä on päiväki nyt; ajallaan hyvä saapua paikkaan".</l>
+               </lg>
+               <lg>
+                  <l>Näin sanoi hän oven suussa ja kaikki nyt äkkäsi äänen,</l>
+                  <l>Kiivaina täyttämähän, kuten miehen on, käskyä herran.</l>
+                  <l>Ei toki kenkään puoltamaton olis' eitteä voinut,</l>
+                  <l>Että nyt ois toinen nopiammin tarttunna pyssyyn</l>
+                  <l>Tai haluisammin lähtennäkään, kuin mielevä Pekka.</l>
+                  <l>Pekkoa seurasi het' Kurun riipeä Matti ja sitte</l>
+                  <l>Kohta sä kolmanna taas, Sakar', uuttera Pyylahen ukko.</l>
+                  <l>Pyssyinehen nämä läksipä nyt jäless' arvoisan herran,</l>
+                  <l>Kun tuvan heitti se, vaan toiset tulivat asehitta.</l>
+                  <l>Mut pihallen ne kun pääsi, jo astuivat aikailematta</l>
+                  <l>Suksilleen siliöille ja hilppaina riensivät eelleen.</l>
+                  <l>Niinkuin hanhien parvi, ku jättääpi liitävin siivin</l>
+                  <l>Järvet Pohjolan jäätynehet, seuraa yhä kutsuu</l>
+                  <l>Lauluilla, huudoilla huojentaen noin vaivoja lennon,</l>
+                  <l>Niin kytät eellehen aukiolla'i nyt lens' lumisella,</l>
+                  <l>Kertoen toisilleen mikä milloinkin lyhyesti</l>
+                  <l>Jonkun miellyttävän uro-työn omansa tahi muiden.</l>
+               </lg>
+               <lg>
+                  <l>Ääneti tok' Kurun riipeä Mattipa eellehen siirtyi;</l>
+                  <l>Hän vähemmin, näet, huol' omistaan uro-töistä ja muiden,</l>
+                  <l>Kuin suloisen tuon Heddasen kanss' hoviss' yhtymisestään.</l>
+                  <l>Vieläpä nyt ihanan näki eessähän niin, kuten äsken,</l>
+                  <l>Kukkia hyrryttävän tahi katsovan rihkama-loistoo;</l>
+                  <l>Vai'eten mielessään tätä vaan yhä muisteli Matti.</l>
+               </lg>
+               <lg>
+                  <l>Viimein olkoa nyt hänen vanterataan kepeästi</l>
+                  <l>Komsarjus taputtel' täten lausuen lauhkehin äänin:</l>
+                  <l>"Sullako ei, vieras, ole myös, mitä kertoa, hupaa?</l>
+                  <l>Ääneti noin elä oo, sinä kunnian miehenä joskin</l>
+                  <l>Vierot kertoa töit' omias, kuten niist' isoellen,</l>
+                  <l>Sillä sä et tosin uunilla vaan ole viettänyt aikaas,</l>
+                  <l>Sen todistaa ryhtis tuo reima ja syntymä-paikkas.</l>
+                  <l>Aina ma kiitettävän Kurun lintuisen kappelin kuulin</l>
+                  <l>Miehien vuoks urhoin sekä kyttien taitaviensa,</l>
+                  <l>Joiden on ansio myös petojen perihukka jo siellä;</l>
+                  <l>Parhain no ymmärtää toki talvella karhuja kiertää.</l>
+                  <l>Sielt' olikin kotoisin tuo kontion-nahkani oiva,</l>
+                  <l>Eilen kun möi Ryssät; sen vertoa kooltahan ei oo</l>
+                  <l>Koskaan nähtynäkään; se on kauhea vieläki nähdä.</l>
+                  <l>Mut sano, ystävä, ootko sit' uskaliasta sä nähnyt,</l>
+                  <l>Keihäs jonka sen kaatoi; se kaadettu, näet, oli keihäin".</l>
+               </lg>
+               <lg>
+                  <l>Vastasi nyt hällen ylös silmäten riipeä Matti:</l>
+                  <l>"Kunnioitettava Komsarjus, kaks vaan oli meitä,</l>
+                  <l>Mä sekä uskollinen tover, jotka sen yksinnä löimme;</l>
+                  <l>Mut toki vaaratta ei, sill' ennen kaatamian'pa</l>
+                  <l>Ei ole ykskään ollunna näin ylen tuima ja vahva".</l>
+               </lg>
+               <lg>
+                  <l>Arvokas herra, sä taas sanelit hyvin kohteliaasti:</l>
+                  <l>"Kas, miten nyt toivon' niin äkkiä tässä jo täyttyi!</l>
+                  <l>Eilen kohta kun, ostettuan' tämän kauhean taljan,</l>
+                  <l>Ällällä silmin mä näin sen kynsine jänterenensä,</l>
+                  <l>Urhoa kaatajata'i koljon teki mieleni nähdä.</l>
+                  <l>Siis puhu nyt koko seikka; mun on hupa kertoa sitte</l>
+                  <l>Tuota, kun ystävinen' reess' istun ja vauhdissa talja</l>
+                  <l>Kiiluvin hampahineen lotajaa perälautoa vastaan".</l>
+               </lg>
+               <lg>
+                  <l>Noin sanoi; mut heti kuuntelemaan tähän hiihti jo muutkin,</l>
+                  <l>Matti kun mielellään nyt miesten keskessä alkoi:</l>
+                  <l>"Karhun kiertäminen miten käy, pesä myös miten löy'tään</l>
+                  <l>Syksyllä, tiedättehän; sen teimme me, kuin isät ennen.</l>
+                  <l>Mut ohi kun mennyt oli Joulu ja metsien nietteet</l>
+                  <l>Kasvanna korkeammiks sekä hankiki kuortunna päälle,</l>
+                  <l>Keihäillä, pyssyillä pois jopa läksimme kimppuhun otson.</l>
+                  <l>Het' tämä paikoillaan, mihin syksyllä jäi, tavattiinki</l>
+                  <l>Nyt havu-kyysässään katoksess' ylen korkean kuusen,</l>
+                  <l>Jossa se huoleti vaan piti talv'-asuntoo lumen alla.</l>
+                  <l>Mutta nyt arvelin kahdappäin: jokohan koh'astansa</l>
+                  <l>Pyssyni lauaisnen lävite pesän ampuen otsoon,</l>
+                  <l>Vai lymystään ajanen väkevää tätä huudolla ensin.</l>
+                  <l>Sen pidin tok' parhaana, mit' ensinnä arvelin; sillä,</l>
+                  <l>Jos heti kaataisin tuon, minun kunnia yksinnä oisi.</l>
+                  <l>Siis viritin hanan nyt sekä laukaisin pyssyni sinne.</l>
+                  <l>Mut möristen peto vimmassaan jopa töytäsi ilmi,</l>
+                  <l>Hyysältään lumen puisti ja kämmenin raivasi tietä</l>
+                  <l>Hirveenä aukossa vaan seisten vihan-säihkyvin silmin.</l>
+                  <l>Nyt tover' uskollinen myös pyssynsä heti nosti,</l>
+                  <l>Tähtäsi kiirehin, mut tuli nuoruuden hänen petti,</l>
+                  <l>Luoti kun silpasi vaan vähän kalloa kauhean koljon.</l>
+                  <l>Mut, kuten ryskävä tuulis-pää, ylös hyökkäsi karhu</l>
+                  <l>Nyt toverin' päälle, kuin ukkosen nuol' tahi pilvyys,</l>
+                  <l>Maahan paiskasi härhäilijän ja sen paikalla voitti.</l>
+                  <l>Hämmästynnä mä nä'in, havin kuinka se kynsin ja leuvoin</l>
+                  <l>Hirmuisin nyt poikaa tavoittel' sitä ruhjoaksensa,</l>
+                  <l>Ennenkuin minä keihäällän' ojetull' avuks ehdin;</l>
+                  <l>Mut pelotonna kun tään syvähän mä sen kurkkuhun syöksin,</l>
+                  <l>Niin vihan kääns' minuhun levittäin kidan hurmehisensa,</l>
+                  <l>Kiljui ja koiviltaan vapisten kävi keihoa vastaan</l>
+                  <l>Etsien nyt mua taas käpälin, suin, silmin ja hampain;</l>
+                  <l>Turha koko ylläkkö ol'; mikäli tämä ryntäsi, minä'i</l>
+                  <l>Vaan sikäli väistyin terävää yhä vääntäen rautaa,</l>
+                  <l>Kunnes se tyhjentäin verensä lumellen punavulle</l>
+                  <l>Jalkaini juurehen vaipui, ja henk' örinällä jo läksi".</l>
+               </lg>
+               <lg>
+                  <l>Kuultuansa hyvillään Matin riipeän tuot' urotyötä</l>
+                  <l>Suksin suljuvin nyt taas kaikki jo kiisivät eelleen.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>NELJÄS RUNO.</head>
+               <lg>
+                  <l>Talvinen aurinko ruskotti tuoll' itärannalla taivaan,</l>
+                  <l>Kun kytät into'uneet nyt ehti jo kuusikko-saareen,</l>
+                  <l>Hangestaan joka vehreenä nous' pako-paikkana hirvein.</l>
+                  <l>Hiihtäjätään heti kuus' ajamaan panivat ne jo näitä,</l>
+                  <l>Ampujien mukavat väijykset taas valitessa.</l>
+                  <l>Nyt raju-huudolla jaht' alettiin. Pelästyin läpi metsän</l>
+                  <l>Teiriä, pyit' ylähä pyrähtel' sekä metsoki joskus,</l>
+                  <l>Täyttäen pyssyjen pauke ja huuto ja muu jyty tienoot.</l>
+               </lg>
+               <lg>
+                  <l>Mut tilavass' yhä vaan tuvass' istuen kumppaninensa</l>
+                  <l>Ahkerahan huvittel' pnnapöyheäpartainen Ontro.</l>
+                  <l>Piiat rukkinehen sekä ontuva, rampa Rebekka</l>
+                  <l>Vaan piti seuraa heille, kun rengit ol' ehtinnä metsään.</l>
+                  <l>Veikot nuo iloisat pöydän ison ääressä joivat</l>
+                  <l>Vaahtoavaa oluttaan ja sen vieläpä viinalla mausti;</l>
+                  <l>Niinkuin juurilta puut puron huuhtomat nuo kevähällä</l>
+                  <l>Ilman vaivattahan lehittyy, vihannoipi ja loistaa,</l>
+                  <l>Niin nämä pöydän ympärillä'i nyt yhdessä istui.</l>
+                  <l>Joukost' yksinähän nuorin, tuo pulskea Topjas,</l>
+                  <l>Hommasi vaan, ett'ei olut uupuisi haarikkahassa.</l>
+                  <l>Tää kuta uuraammin Hedan askare-huoneessa juoksi</l>
+                  <l>Tuot' asiaa ajamassa ja juonnistaan seka'unna</l>
+                  <l>Katseli naist' ihanaa, sitä kiihkeämmäks kävi lempi.</l>
+                  <l>Eip' ollut mikähän Arkangelin neit' tahi Wienan</l>
+                  <l>Hannalla kasvava impi sen huikkelevaa sydänt' ennen</l>
+                  <l>Kietomia; tykki se vapaana vaan, kuin lähtehen suoni.</l>
+                  <l>Hurmoksiss' oluesta ja neitosen kauneudesta.</l>
+                  <l>Nyt hän juoksi ja tanssi ja nauroi ja itkiki vuoroin,</l>
+                  <l>Kunnekka, kuin vihur', äkkiä hän kama-raskahan laukun</l>
+                  <l>Siepaten selkähän kiis' pihallen. Heti säikähyksestä</l>
+                  <l>Pu'ottipa nyt tuopin tuo rihkaman-tuntija Ontro.</l>
+                  <l>Penkiltään ylös hyppäsi hän ajamaan pakolaista</l>
+                  <l>Joutuen ensin porstuahan, pihallenki jo siitä;</l>
+                  <l>Samaa vauhtia myös kamariinki jo rientänyt oisi,</l>
+                  <l>Koirat Bakko ja Jääkeri jos ei ois etehen sen</l>
+                  <l>Ulvoen seisattuneet ahistettuansa pakolaista.</l>
+                  <l>Kun näki nyt, miten tuimina viel' oven eessä ne haukkui,</l>
+                  <l>Pelvolla alkoipa siis viheltäin, hymyen hyvitellä</l>
+                  <l>Niitä ja polvihinsa läpäten turhaan nimittääkin,</l>
+                  <l>Kunnekka lakkaristaan sai kiiltävän rinkelin viimein.</l>
+                  <l>Kahtia jaettuna sen molemmin käsin tarjoen hiipi</l>
+                  <l>Askel askelehelt' ylös rappuillen sekä heitti</l>
+                  <l>Koirille luusien nyt palaset. Nämä kahmoi ne kohta</l>
+                  <l>Puol'-äristen, mut ehjänä pääs' kamariin toki Ontro.</l>
+               </lg>
+               <lg>
+                  <l>Siellä jo polvillaan avo-laukun ääressä Topjas</l>
+                  <l>Tempoili rihkamiaan, kuin oisi ne syttynnä tuleen;</l>
+                  <l>Myssyn tarpeita, silkkejä, nuttuja, helmiä heitti</l>
+                  <l>Ehtimiseen esillen. Vaan hämmästyksissä Hedda</l>
+                  <l>Kangas-puist' ylös ailahtain jopa sukkulan laski.</l>
+                  <l>Mut heti ves'-silmin nyt huusi jo pulskea Topjas:</l>
+                  <l>"Kai, ota kai, sulo neit', kun vaan saan suikata suutas".</l>
+                  <l>Virkkoi, ja suutelemaan ihanaista jo paikalla riensi.</l>
+               </lg>
+               <lg>
+                  <l>Tuon ovess' äkkäsi nyt punapöyheäpartainen Ontro,</l>
+                  <l>Säikähtynnä kun syöks' sisähän; kuten siivekäs haukka.</l>
+                  <l>Veljen niskahan lens' huutain Hedallenpakin ynnä:</l>
+                  <l>"Ei, ei! neit', elä koettelekkaan, elä kuuntele häntä!</l>
+                  <l>Houkkion tuon köyhän oma ei repun russakka ees oo,</l>
+                  <l>Saatikka silkki; se vaan tomuss' ympäri noin ryvettääpi</l>
+                  <l>Kankaita, karttuunian', hyvin arvolta puol'-sadan ruplan". —</l>
+                  <l>"Voi, Topias, sen ruoja mik' oot!" näin huusi hän tarttuin</l>
+                  <l>Käellähän toisella tuuheahan taka-tukkahan veljen</l>
+                  <l>Rehkivän, toisella taas selin kyyryssä noukkiel' ynnä</l>
+                  <l>Pois tavarat näpeästi ja pisti ne laukkuhun jälleen.</l>
+                  <l>Mut ne kun ol' koonnut, ett'ei niin helmeä jäänyt,</l>
+                  <l>Laukun jo otti ja pois meni, koirien taas ahistaissa.</l>
+                  <l>Veljeä, kuin varsaa, tupahan taluttain hiuksista.</l>
+               </lg>
+               <lg>
+                  <l>Toistapa mielessään älykäs toki arveli Ontro,</l>
+                  <l>Korjattuaan tavarat, kuin jättää nuo kosi-tuumat.</l>
+                  <l>Ensinnä pohjahan kuitenkin hän joi oluensa,</l>
+                  <l>Pyyhkäsi pois vaahdon, mikä viiksihin tarttui ja partaan;</l>
+                  <l>Tehtyä sen kosimaan meni eestä nyt armahan veljen.</l>
+               </lg>
+               <lg>
+                  <l>"Hedda!" jo huusi hän kohta, kun huonehesen tämän pääsi,</l>
+                  <l>"Herttainen poika se on, Arkangelin tuo jalo poika;</l>
+                  <l>Hei! ota miehekses tämä kaunoinen, pulskea Topjas.</l>
+                  <l>Näitkö sä, kuin lihavahka ja kuin puna-poski ja -huuli</l>
+                  <l>Poika se ol', hiukset miten, arvolta kiiltävän näädän,</l>
+                  <l>Otsalla sen tasan riippui ja varjosi niskan ja posket?</l>
+                  <l>Entäpä leuvalla'i tiheästi jo pistävän parran!</l>
+                  <l>Kohta se rintahan yltääpi, kuin ketun tuuhea häntä.</l>
+                  <l>Herttainen poika se on, Arkangelin tuo jalo poika;</l>
+                  <l>Hei! ota miehekses tämä kaunoinen, pulskea Topjas.</l>
+                  <l>Jos taas tanssimahan kannoin tahi varpahin lähtee,</l>
+                  <l>Moint' ei nähty; se jos, kuin kakkara, vaikkapa viskau</l>
+                  <l>Litteenä lattiahan, ylös siitä jo nuolena kimpoo.</l>
+                  <l>Tanssi se verraton on, samoin kätten ja säärien heitto,</l>
+                  <l>Lauloipa, potki ja näppi ja nauroi se tai vihelsitte.</l>
+                  <l>Herttainen poika se on, Arkangelin tuo jalo poika;</l>
+                  <l>Hei! ota miehekses tämä kaunoinen, pulskea Topjas.</l>
+                  <l>Siitäpä lie vähä, jos päissämme me ryömimme joskus;</l>
+                  <l>Emmehän juo yhäti, tätä teemme me vaan hyvin harvoin.</l>
+                  <l>Talvi on, neitoni, kylmä ja kulkijan laukku on raskas;</l>
+                  <l>Vieraiss' oltua suin kuivin, näet, rosvojen vuoksi,</l>
+                  <l>Juomme me ol'tta, kun tuttavien luo joudumme sitte.</l>
+                  <l>Herttainen poika se on, Arkangelin tuo jalo poika;</l>
+                  <l>Hei! ota miehekses tämä kaunoinen, pulskea Topjas.</l>
+                  <l>Käy Arkangelihin; sulo on se ja an'-tavarainen,</l>
+                  <l>Silkkiä saat vaatteeks sekä hopee-ruplia ruuaks;</l>
+                  <l>Suomi on köyhä ja metsiä vaan sekä vuoria siellä.</l>
+                  <l>Siis Arkangelihin asumaan läh'e rannalle Wienan!</l>
+                  <l>Ontro se on varakas punaparta ja sen veli myöskin.</l>
+                  <l>Herttainen poika se on, Arkangelin tuo jalo poika;</l>
+                  <l>Hei! ota miehekses tämä kaunoinen, pulskea Topjas!"</l>
+               </lg>
+               <lg>
+                  <l>Virkkoi, ja het' povi-kätköstään setelikkähän, suuren</l>
+                  <l>Lompakon otti ja heiluttel' sitä kattohon ylhää.</l>
+                  <l>Kuin kepeät perhot, jopa huonehen ympäri purkui</l>
+                  <l>Nyt puna-, valko- ja sin'-setelit; tuhatta'i hyvin viisi</l>
+                  <l>Ruploa laukuili lattiahan, sekä säihkyvin silmin</l>
+                  <l>Niiden alla ja pääll' äverjäin iloin hyppeli Ontro.</l>
+               </lg>
+               <lg>
+                  <l>Järkevä Hedda jo nyt hänen jättipä yksinnä sinne</l>
+                  <l>Räyhäämään, kosimaan, sekä pois salihin meni rouvan,</l>
+                  <l>Jossa se luk' pesu-vaattehitaan ylös kirjahan pannen.</l>
+                  <l>Nauraen kuunteli tuo, miten Ontro nyt ol' kamarissa</l>
+                  <l>Teuhanna; vaan lukunsa seka'ui Hedan kertomisesta.</l>
+               </lg>
+               <lg>
+                  <l>Mutta kun yksinähän punapöyheäpartainen Ontro</l>
+                  <l>Jäi, heti unhotti lemmen ja lakkasi koikka'uksistaan.</l>
+                  <l>Hartaana pois setelit, käsiltään vapisten, hädin noukki,</l>
+                  <l>Suuteli niitä, jo vaikk' oli tehnynnä sen tuhannesti,</l>
+                  <l>Pisti ne lompakkoonsa ja tuon, ilost' irjuen viimein,</l>
+                  <l>Turpeena taas povehen sekä läks' tupahan alas jälleen.</l>
+               </lg>
+               <lg>
+                  <l>Siellä jo pois lemmen kivut tanssaili pulskea Topjas,</l>
+                  <l>Tuskin jaksaen keikkua pään tähen huikenevaisen.</l>
+                  <l>Nauraen yht'aikaa sekä parkuen tok' piti itse</l>
+                  <l>Nuottia hyppyynsä, jota letkuvin koetteli polvin,</l>
+                  <l>Kunnekka sääret petti ja pää, ja hän kaatui jo maahan</l>
+                  <l>Jättäen noin sydämen haavat unen lääkittäviksi.</l>
+               </lg>
+               <lg>
+                  <l>Semmoinen ol' tämä, kun punapöyheäpartainen Ontro</l>
+                  <l>Nyt kosi-matkaltaan tupahan tuli taas hyräellen.</l>
+                  <l>Tuumaa kaks tulijan oli mielessä. Äärehen pöydän</l>
+                  <l>Astui ja nurpeellaan tirkisteli tuoppihin tyhjään;</l>
+                  <l>Mut sitä täyttämähän toverin pani partavan kohta.</l>
+                  <l>Arveli taas sitten, mihin kaatunehen velyensä</l>
+                  <l>Sais levollen, ett'ei tämä, pitkänähän kuni loikoi</l>
+                  <l>Lattiall', estävä ois hänen tanssianssa sekä muiden.</l>
+                  <l>Kohtapa myös sopivaks näki nukkunehelle jo vuoteen</l>
+                  <l>Olkisen rimpilä-tyynynehen lähell' uunia tuolla,</l>
+                  <l>Jollen raukeansa ruumiin oli vanha Rebekka</l>
+                  <l>Laskenna rauhaan nyt, kupehellahan kirjava kissa.</l>
+                  <l>Siihen Ontropa vei oluesta jo raskahan veljen</l>
+                  <l>Miel'-hyvillään hymyen, unen kun näki tuon sikehimmän.</l>
+                  <l>Laskihe polvilleen, olkaa nykäs' ämmän ja kuiskas':</l>
+                  <l>"Väistäypäs vähän tuonnemmaks, hyvä, vanha Rebekka,</l>
+                  <l>Uunimmalle ja, pois sylistäs aja hyrräävä kissa</l>
+                  <l>Viereesi sen sijahan saadaksesi pulskean poi'an!"</l>
+               </lg>
+               <lg>
+                  <l>"Hyi!" huus' nyt hypäten ylös ontuva, rampa Rebekka,</l>
+                  <l>"Hillitköön piru riivatun suus, peto partava, räähkä;</l>
+                  <l>Sainko ma nukkua tuon jumalattoman lenkahuksilta?</l>
+                  <l>Saapiko rauhaa, jos virunee täss' yötä ja päivää?</l>
+                  <l>Viel' ajan että mä nä'in, jona tuo pakanallinen hylky</l>
+                  <l>Maan häpeäks ylen ympäri käy!" Näin rääväten ämmä</l>
+                  <l>Ryssän naamahan nyt vapisten jopa kii'ätti kissan.</l>
+                  <l>Säikähtynnä ja sylkäisten partaan tämä senpä</l>
+                  <l>Tarttui ja kasvot kynsittyään vila'uksessa lensi</l>
+                  <l>Uunille, jost' urahtel' silmin palavin pimiässä;</l>
+                  <l>Mut sijalleen asettui taas malttuva vanha Rebekka.</l>
+               </lg>
+               <lg>
+                  <l>Siihen jäipä nyt Ontro ja pyyhkien leukoa käellään</l>
+                  <l>Noitui ja hiljakseen muris', ihmettel' sekä nauroi,</l>
+                  <l>Kunnekka olven joutuvan vuoks heti vaurio haihtui:</l>
+                  <l>Laahasi veljen pois vuoteeltahan vaaralliselta,</l>
+                  <l>Penkille sai ja nyt itsepä haarikon äärehen istui;</l>
+                  <l>Piikojen raikea nauru kun rukkiensa levätessä</l>
+                  <l>Viel' yhäti kajahtel' ja Rebekkaki vuoteelle istuin</l>
+                  <l>Kissan houkutti pois viereensä ja taas pani maata.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>VIIDES RUNO.</head>
+               <lg>
+                  <l>Noin hoviss' oivassa nyt tuo Ryssien hilpeä joukko</l>
+                  <l>Päivän juomalla vietti ja vuoroinpa myös kosimalla,</l>
+                  <l>Ollen kyttien riemuna taas jahin huuto ja pauke,</l>
+                  <l>Mutta kun ei enähän sädett' auringon lännessä nähty,</l>
+                  <l>Saarella hirveäkään ei kaatumatontapa ollut.</l>
+                  <l>Kuus' nyt hiihtelijää jääden vahiks saalihin moisen</l>
+                  <l>Hangellen istuhikse kehäss' äärehen ruu'an ja viinan;</l>
+                  <l>Mut heti Pekka ja Komsarjus, tuo arvoisa herra,</l>
+                  <l>Lammin kiiluvan poikki jo verkkahan läks' kotiansa.</l>
+                  <l>Taas sen matkoa niist', ett' oisippa lentävä luoti</l>
+                  <l>Maalihin ehtinnä, vaan ei sattumia, ähkäen liukui</l>
+                  <l>Pyylahen äijä ja sen vähän ta'ampana riipeä Matti.</l>
+                  <l>Niinkuin varjot pilvien tuoll' ajamain raju-tuulen,</l>
+                  <l>Jääll' edelleen kilpaa silehin nyt kiisi ne suksin</l>
+                  <l>Hiihtoon harjauneet molemmat sekä siit' ylen kuulut.</l>
+                  <l>Ol' veto lyötynä, näet: hovihin joka joutuisi ensiks</l>
+                  <l>Juhtoja hankkimahan erän saadakseen tämän kotiin,</l>
+                  <l>Sillepä tappaavan maksaa tuli ryypyn ja olvet.</l>
+                  <l>Vanhan rinnalla ei susikaan pysynynnä nyt oisi,</l>
+                  <l>Kun vedon vuoksi hän lens' eelleen; mut riipeä Matti</l>
+                  <l>Vaan häpehissähän seurata pyys' yhä lykkien sauvoin.</l>
+                  <l>Mutta kun ahtehesen talon viettävähän tämä joutui,</l>
+                  <l>Kohtasi hän Sakarin, ku jo pöyhkeenä re'ell' esimmällä</l>
+                  <l>Seisoi ja kaks varsaa toi irtainta'i jälessänsä.</l>
+                  <l>Vanhus Pyylahen nyt hyvillään puhui, kun näki toisen:</l>
+                  <l>"Muista, Matti, se vaan, olut että ja ryyppy on valmis,</l>
+                  <l>Hirvien kanssa tän'iltana kun tulen lämpöä hartoin".</l>
+                  <l>Virkkoi, ja löi hevoistaan. Vaan Mattipa, mielessä Hedda,</l>
+                  <l>Het' kävi kiini jo ohjaksiin, ei heittäen niitä,</l>
+                  <l>Kunnekka sen vaimoks isä vanhalta ol' anonunna.</l>
+                  <l>"Kyllä täniltana", näin sanoi hän, "saat olven ja ryypyn,</l>
+                  <l>Lupaa kesken kiirehen vaan, Sakar', yks' minullen taas,</l>
+                  <l>Lupaa tässä jo vaimoksen sulo tyttäres Hedda".</l>
+               </lg>
+               <lg>
+                  <l>Vastasi nyt hymy-suin hänellen Sakar' rehtevä äijä:</l>
+                  <l>"Mun ei tehtävä oo vuotees, hapatettava rokkas;</l>
+                  <l>Mult' elä siis kysy, mut lupa tyttären' on lupa munkin;</l>
+                  <l>Vois' kera huonomman, jopa huonompaanki se mennä".</l>
+                  <l>Lausui, ja hoi'asten hevoisellehen riens' sitä tietään.</l>
+                  <l>Mut tupahan ilo-mielissään meni riipeä Matti.</l>
+               </lg>
+               <lg>
+                  <l>Ei tuvass' ollunnakaan sulo Hedda se, nyt jota etsi;</l>
+                  <l>Ylhäällä istui se, näet, taas yksinänsä kamarissaan</l>
+                  <l>Toimessa kohta jo kankaansa juovikkahan päättää;</l>
+                  <l>Ryssät vaan oli siellä ja ämmäki vaivainen ynnä.</l>
+                  <l>Vasten uunia istui nyt ääneti vanha Rebekka</l>
+                  <l>Kurttun'na, kun venyi taas hajallaan nuo partavat äijät</l>
+                  <l>Ei vali-paikoilla, mut mihin kaatunehet oli kukin.</l>
+                  <l>Ei nämä valvonnakaan, vaan päihtymys-unt' imelästi</l>
+                  <l>Nauttivat huumoavaa unohuttaen matkojen vaivat;</l>
+                  <l>Tuoppia hoit' yksin punapöyheäpartainen Ontro</l>
+                  <l>Päissähän autuaallisna ja katseli toisien rauhaa.</l>
+               </lg>
+               <lg>
+                  <l>Mutta kun nyt ovess' äkkäsi hän Matin riipeän tuolla,</l>
+                  <l>Lensi hän penkiltään ruveten ilo-tanssihin kohta.</l>
+                  <l>Parkuen, laulaen niin se nyt askelin niittasi siltaa,</l>
+                  <l>Että sen koikkauksist' ihan säikähyksissä Rebekka</l>
+                  <l>Soppehen piilsi ja ristissä käet kiros' ilveitä hullun.</l>
+               </lg>
+               <lg>
+                  <l>Kyll' oli tanssiki tuo mieleen Matin riipeän; mutta</l>
+                  <l>Heddoa ois pikemmin tavannut toki; siis heti Ontron</l>
+                  <l>Seisatti kesken vauhtiansa ruveten pakinoimaan:</l>
+                  <l>"Tanssin-taitava vel', hei! jos sinä noin kepeästi</l>
+                  <l>Liikut tahtia noutaen vaan ylen hilpeetä yksin,</l>
+                  <l>Tokkohan ees tupahan nuo mahtuisi hyppysi vilkkaat,</l>
+                  <l>Polskassa jos neidon sulon kanssa sa' pyöriä saisit?</l>
+                  <l>Mut sano missä ne kaikki nyt on verevät talon pii'at".</l>
+               </lg>
+               <lg>
+                  <l>Vastasi taas hällen punapöyheäpartainen Ontro:</l>
+                  <l>"Siitäpä viis', mihin juossunna lie nuo muut pihatöilleen,</l>
+                  <l>Heddoa vaan kaipaan ihanaa, kutoen joka istuu</l>
+                  <l>Ylhäällä tuolla; se, näet, oluen hyvän keittää ja myöpi.</l>
+                  <l>Kohta se näyttähikse käessään taas vaahtova tuoppi".</l>
+                  <l>Nyt hyvillään istui sitä vartomahan Kurun Matti.</l>
+               </lg>
+               <lg>
+                  <l>Mut samass' ilma'utui ovessa'i ihanan ruso-posket,</l>
+                  <l>Kun tuli käämimähän lankaa hyvin loistavatansa.</l>
+                  <l>Haarikko käess' oli myös olut-vaahdon kastelemassa</l>
+                  <l>Siirtyessään ihan, kuin koin-tähti, nyt äärehen pöydän,</l>
+                  <l>Jolloinka sai hymy-silmäyksen taas riipeä Matti.</l>
+                  <l>Vieläpä näin sanoi: "het' täytyy sinun, arvoisa vieras,</l>
+                  <l>Riita se ratkaista, tytön toisen kanssa ku mull' on:</l>
+                  <l>Kumpiko toiseltaan on kirjasen neuloja saava?</l>
+                  <l>Jos jahill' oot parhain osannut sinä, niin minä voitan;</l>
+                  <l>Mut taas Pekka jos on, niin veikkamme voittaapi toinen".</l>
+                  <l>Virkkoi, ja säikehen kääri jo pillille käämiäksensä.</l>
+               </lg>
+               <lg>
+                  <l>Heddoa nyt likemmä kävi istumahan Kurun Matti,</l>
+                  <l>Sai tulen piippuhun täytettyyn pärehestä ja lausui:</l>
+                  <l>"Neit', elä niin neulaa pane vierahan onnelle täst'ees;</l>
+                  <l>Niin kävi jahtimme, näet, minä ett' olen kaatanna kaksi</l>
+                  <l>Hirveä, neljä kun ammuttiin, yh'en vaan Komisarjus,</l>
+                  <l>Niin myös Pekka, mut on parahin toki laukaus senpä.</l>
+                  <l>Katso, jahti kun loppui ja valmihit oltihin lähtöön,</l>
+                  <l>Laukasi pyssynsä Sakar', rannalla yksinnä ollen,</l>
+                  <l>Ampui ja äänin korkehin huus', kuten ukkosen ikään:</l>
+                  <l>'Tänne kiirehin, hoi! toverit, ladatuill' asehilla!'</l>
+                  <l>Eipä nyt ois ykskään. joll'ei jänö joutuva, mennyt</l>
+                  <l>Kiistaan juoksija-palkinnost' etevän Pekan kanssa:</l>
+                  <l>Niin riens' eellehen tuo heti kuultua kaikuvan äänen.</l>
+                  <l>Kantaan nyt minäkin jouduin sekä nä'in, miten ampui,</l>
+                  <l>Nä'in, miten karkova hirvi jo kaukana tuoll' lumisella</l>
+                  <l>Lammilla laukkasi ehjänä pois, käpälästä min ehti.</l>
+                  <l>Mut minä purskahdin nauruun väkiseen sekä lausuin:</l>
+                  <l>'Ystävä, mielesi missä nyt on, kun toella sä ammut?</l>
+                  <l>Pilvehen noin kaukaa pikemmin, kuin hirvehen, osaat'.</l>
+                  <l>Äissähän ääneti nyt asehen jalon tempasi käestän'.</l>
+                  <l>Silmälle vei heti sen sekä laukasi. Huudah'us ihmeen</l>
+                  <l>Seurasi ampumataan, kun loitolla koipeva hirvi</l>
+                  <l>Taukosi, nous' pystyyn ja jo hangelle syöks' verehensä.</l>
+                  <l>Miehen muistihin laukaust' ei tämän moist, ole nähty. —</l>
+                  <l>Mut mitä juttelen nyt jahistamme? Sun on, kukaties!</l>
+                  <l>Morsius-antia mielessäs, kun lankoa käämit</l>
+                  <l>Liiviks ehkä jo miehellen, sydämes joka voitti?"</l>
+               </lg>
+               <lg>
+                  <l>"Hoh, hoh!" huokasi nyt tuo ontuva, rampa Rebekka,</l>
+                  <l>Kurttun'na luon' uunin joka istui ja nuojuen hiljaa</l>
+                  <l>Leuvan ryppyisen lask' nojahan molempain käsiensä:</l>
+                  <l>"Hoh, hoh! oisinpa niin, kuin nuorena, pulskea vielä,</l>
+                  <l>Jolloin ma lak'mannin käräjiss' olin palvelemassa,</l>
+                  <l>Terve, turpea, loistava, kuin mikä hehkuva hiilus;</l>
+                  <l>Tietäisin tok' paremmin, miten käyttähitä tytön sopii.</l>
+                  <l>Herra jo mon' isoinen, minuhun joka koskea tohti,</l>
+                  <l>Rievunpa sai naamaan sekä kauhasen vettäki joskus.</l>
+                  <l>Silloin kaikkien kanss', tulevain, meneväin minä enpä</l>
+                  <l>Tahtonut istua juoruen noin, kuten löyheä Hedda</l>
+                  <l>Vieraan kanssa ja ei siten käämimisestähän pääse".</l>
+               </lg>
+               <lg>
+                  <l>Noin sanoi; mut moite syvästi sulo-neitohon koski,</l>
+                  <l>Joksi se siis lentäin punaiseks korineen tuvan heitti.</l>
+               </lg>
+               <lg>
+                  <l>Mut samoin, kuin apajas, nuottaa kun tyynehen illan</l>
+                  <l>Luo kalamies, aluss' ei väräjä koho-kaarnojen luon'ees,</l>
+                  <l>Kunnekka tuo supistuu, kalat ahdingossa jo hyppii</l>
+                  <l>Ve'est' ylähä sekä kiehua näin vähin lainehet alkaa,</l>
+                  <l>Niin, mikäli puhuessakin aattehensa supist' akka.</l>
+               </lg>
+               <lg>
+                  <l>Miel' sikäli kävi vierahan myös tyvenestä ja kuohuun.</l>
+                  <l>Suuttun'na penkiltään hän nous' sanoen vihaisesti:</l>
+                  <l>"Vanha Rebekka, jos uunillas nokisella sä ennen</l>
+                  <l>Pois lemmen kujehist' ajaisit rusakat sekä sirkat,</l>
+                  <l>Kuin iha-juttuja ihmisien sekoitat sekä estät,</l>
+                  <l>Niin olisi päiväs sula rauha ja yös lepo tyyni;</l>
+                  <l>Et sinä kuin viisas nyt käyttäi, vaan kuten hullu".</l>
+                  <l>Noin puhui; mut sanall' ei tähän vastanna vanha Rebekka,</l>
+                  <l>Nuojui se vaan hiljaa sekä hohhoahan yhä kertoi.</l>
+               </lg>
+               <lg>
+                  <l>Mut samass' ulkonakin nähtiin läpi ikkuna-aukon</l>
+                  <l>Pekka ja arvoisa Komsarjus tämän seurana ynnä.</l>
+                  <l>Sinne Mattiki nyt meni pois tupahan vihan jättäin.</l>
+               </lg>
+               <lg>
+                  <l>Vaan kun tullehiden luo joutunut ol', sanoi oitis:</l>
+                  <l>"Pekka, jo o'ot kerran puhe-miehenän' onnella ollut,</l>
+                  <l>O'o nyt vielä ja käy, jos herrasi ei sitä kiellä,</l>
+                  <l>Heddoa het' kosimaan minullen, sitä, näet, minä pyydän;</l>
+                  <l>Kaikki, mit' entinen vaimoni sai, lupaos hänellenkin".</l>
+               </lg>
+               <lg>
+                  <l>Suostuen kohta jo Komsarjus sanoin lempehin lausui:</l>
+                  <l>"Noh, mene vaan, talon' jos parahinki jo jättääpi piika,</l>
+                  <l>Piikoa viel' etevämp', yhä lemmitty, kuin oma lapsi;</l>
+                  <l>Mut jos tarjoma tää mieleen Hedan on, kuten luulen,</l>
+                  <l>Niin kemu-tanssiakaan tuvass' ei tänä iltana puutu".</l>
+               </lg>
+               <lg>
+                  <l>"Hei, hei!" nyt sanoi taas tuo sangen mielevä Pekka,</l>
+                  <l>"En toki morsion naurettavaks mene, kuin puhemiesnä</l>
+                  <l>Kerjääjän, joka ei tupakkaakahan saa omin neuvoin.</l>
+                  <l>Jos puhun, niin oluen sopis' ensinnä kieleni päästää,</l>
+                  <l>Vieläpä sulhais-lahjojakin tah'on morsiamelle".</l>
+               </lg>
+               <lg>
+                  <l>Naurahtain heti Pekkoa käsk' ylähälle jo herra,</l>
+                  <l>Olven hankki ja torppari joi hyvillään tämän loppuun.</l>
+                  <l>Mut tupahan jälleen meni pois Kurun riipeä Matti.</l>
+                  <l>"Ontro!" jo huusi hän tullessaan oven suuss' ilomielin,</l>
+                  <l>"Silkkinen huiv' esihin nyt laukustas; minä ostan!"</l>
+               </lg>
+               <lg>
+                  <l>Pilvi kuin tuo kesäinen ukon-nuolen kahtia lyömä,</l>
+                  <l>Niin ilosta'i nyt silmäsi loist', tämän kuultuas, Ontro.</l>
+                  <l>Kauppaa hieroa, tinkiä ei nyt ollunna aikaa,</l>
+                  <l>Puolet het' toki tingittiin, ja jo riipeä Matti</l>
+                  <l>Näälälleen saman tien salihln vei ostetun huivin.</l>
+               </lg>
+               <lg>
+                  <l>Tää kun ol' olven juonunna vaan sekä saanunna lahjan,</l>
+                  <l>Uljaana ryhdiltään toimeen meni luo ihanaisen.</l>
+                  <l>Nyt joka ääressä kankahan taas kamarissahan istui.</l>
+                  <l>Tultuansa sijan otti hän het' tulen räiskyvän eessä,</l>
+                  <l>Piippuhun pisti ja, hiilosen kun sai sietävin sormin,</l>
+                  <l>Verkkaisehen sytyttel' sekä hetkisen ääneti poltti.</l>
+                  <l>Mut sulo Hedda se sukkulataan vaan heitteli sievään.</l>
+                  <l>Kotvasen taas aikaa kun ol' istunna Pekka jo siinä.</l>
+                  <l>Astui hän ees sekä kankaallen pani loistavan annin:</l>
+                  <l>"Tään", sanoi, "nyt antaa sinullen Kurun riipeä Matti;</l>
+                  <l>Lahja se on, jota ei usehin saa neitonen köyhä,</l>
+                  <l>Joski se, kuin sinä, kaunoinen ois sekä kunnioitettu".</l>
+                  <l>Noin sanoi, istui ja polteskel', taas jatkaen sitte:</l>
+                  <l>"Anti se ainoa ei ole; tarjoo se itseänsäkkin.</l>
+                  <l>Mut näh'äkses, ettei sua mies ole pyytävä köyhä,</l>
+                  <l>Niin tah'on kertoa nyt, hänen millinen on omastonsa,</l>
+                  <l>Irtain, kiinteä, vaan etevin; mik' on halvempi, jääköön;</l>
+                  <l>Kaikkea, näet, luetella en ehtisi hetkenä illan,</l>
+                  <l>Kieleni liikkuva jos, kuin haavan leht', olisikkin:</l>
+                  <l>Mäellä on viirinehen tasa-latvainen kuus' ja sen luona</l>
+                  <l>Taas hänen uhkea kartanonsa, huvitus kalamiehen,</l>
+                  <l>Lammilla liekkuen kun kaukaa venehestä sen äkkää.</l>
+                  <l>Alhaalla piirissä on tilukset hyvin aidatut aina,</l>
+                  <l>Pellot, toukona milloin ja milloin taas kesannoilla,</l>
+                  <l>Oivat on, kyllältä kun savi-pohjalla on väki-multaa.</l>
+                  <l>Halmeet on antavat ynnä, kun liekkien raivoma metsä</l>
+                  <l>On pakoitettuna heittämähän mehun viljely-maille;</l>
+                  <l>Palstat taas kytö-maan, norojen joka keskellä loistaa,</l>
+                  <l>Pitkistyy ojien yhä uhkuvien välyksillä</l>
+                  <l>Saarten moisina kultaisien, kun joutuupi viljat.</l>
+                  <l>Kiiltävän turpeeta viis hepoa'i hevin kyntääpi pellot.</l>
+                  <l>Niityt on kelvolliset, pitäjään ylen ympäri kuulut,</l>
+                  <l>Niin alavat, kuin korkeammat, neki raivatut aina,</l>
+                  <l>Keväisin kukan-hohtehiset, suvin niitettävät taas.</l>
+                  <l>Purra aituus-niittyjä ei saa koskahan hammas,</l>
+                  <l>Kasvaissa niitäpä ei pure muu, kuin viikate yksin.</l>
+                  <l>Niin pian, näet, kuin maa heittää kevähäll' lumipeitteen,</l>
+                  <l>Lehmät sen rehevät jopa lasketahan heti metsään,</l>
+                  <l>Jossa ne laaksoissa saa hyvin raittihin, runsahan ruuan.</l>
+                  <l>Pitkin päiviä nää kesäll' liikkuupi noin sekä nauttii</l>
+                  <l>Vaan maku-ruohoa sammuttain janonsa puroloista;</l>
+                  <l>Mut joka ilta ne taas palajaa koti-väen ihanteeksi. —</l>
+                  <l>Vieläkö nyt tietää haluat, mihin määrähän karjaa</l>
+                  <l>Pientäki tuoll' elelee suvell' lammin saar'-opotoissa?</l>
+                  <l>Villava-lampaita sa'ast' osa puoli ja vuohia viides.</l>
+                  <l>Ei ah'ista susikaan niit', urhea Matti kun ampuu</l>
+                  <l>Innolla kaikkea vaan, mit' on raatelevaa alueellaan.</l>
+                  <l>Siis menestyypi ne siell' lisäten yhäti sikiöitään.</l>
+                  <l>Talvella ei lampaist' etuisist' olekkaan kovin huolta,</l>
+                  <l>Silloin ne kerppuja vaan, näet, syö ometass' ylen kyllin;</l>
+                  <l>Pitää vuohia taas, sen kerjääjä vois mitä huonoin:</l>
+                  <l>Niin on sieviä nuo yhä etsimähän eläkettään.</l>
+                  <l>Syöttämähän hevoistaan vieras jos joutuupi taloon,</l>
+                  <l>Het' nämä heiniä raastamahan sen re'estä jo juoksee,</l>
+                  <l>Kunnekka suuttun'na niille se ruoskallaan kurin antaa.</l>
+                  <l>Katso, näin olen nyt kuvaellut vilpittä kaikki,</l>
+                  <l>Niin talonsa, samoin kuin tilukset sekä viel' elukatkin,</l>
+                  <l>Jos otan pois luvustan kukon valppaan vaan kanoinensa,</l>
+                  <l>Joidenka on mieleen tuvass' astella rahvahan kanssa.</l>
+                  <l>Kaikki se nää omajaa nyt vauras, riipeä Matti</l>
+                  <l>Mielin tyytyvin, vieläpä myös, kuten herrana, käskee</l>
+                  <l>Kolmea kunnon torpparia'i tilan viljavan alla. —</l>
+                  <l>Katso, miehen tuommoisen, noin etevän varoiltansa,</l>
+                  <l>Joihin on myös halu sen, jota hoetahan rikkahammaksi,</l>
+                  <l>Tarjoopi onnesi nyt sinullen omataksesi yksin:</l>
+                  <l>Näin hän lupaapi, näet, sullen Kurun riipeä Matti,</l>
+                  <l>Jos sinä vaimona sen hyvänsuopana, nöyränä aina</l>
+                  <l>Päivällä vaan työnsä tasan pa'at sekä vuotehen yöllä:</l>
+                  <l>Kaikessa saat emännän sinä vallan ja käskeä koissas</l>
+                  <l>Renkiä, piikoja, lapsia: mut vaan neuvoa miestäs.</l>
+                  <l>Avaimet pidät itse ja min hyvänsä lukon avaat</l>
+                  <l>Vapaasti, sekä kallihinta'i mik' on, voit omanas nyt</l>
+                  <l>Pitää ain' ilo-mielin, ja ei enähän katehesti.</l>
+                  <l>Mut sinä jos mietit välisti jotakin ehoitelmaa</l>
+                  <l>Vasten miehesi mieltä, on väistyminen sinun hiljaa,</l>
+                  <l>Jos maanviljelyhyn se on koskeva tai rahan-hoitoon;</l>
+                  <l>Vaan jos ruokaan, juomahan taas tahi vaattehen parteen,</l>
+                  <l>Myöntääpi sen miehes saman tahtoen, kun sinä itse. —</l>
+                  <l>Ellös, järkevä Hedda, sä siis enähän epäröikö,</l>
+                  <l>Niinkuin mon', joka, häilyvätään vaan noutaen mieltä,</l>
+                  <l>Halveksii etuaan voitettua toivoen toista;</l>
+                  <l>Ei niin kukkava niittypä o'o kesäll' lämpöhisellä,</l>
+                  <l>Lapseni, kuin on riemuisa tie yhä hautahan vievä,</l>
+                  <l>Jos sitä vaan varotaan, ett'ei petä toivomme viekas;</l>
+                  <l>Onnea, näet, mihin nauttimahan pysähdymmeki hetkeks,</l>
+                  <l>Juokseepi toivo jo e'ell' osoittain kaukaa etevämmän;</l>
+                  <l>Hullu se mielin seuraapi vaan sekä kaikkia hylkii</l>
+                  <l>Tyytyen ei mihinkään, hänen kunnekka kuolo jo korjaa".</l>
+               </lg>
+               <lg>
+                  <l>Virkkoi, ja silmäsi vait' ylähä sekä suitsevahansa</l>
+                  <l>Piippuhun mielihyvin sormellaan poron pöyhteän painoi;</l>
+                  <l>Neitonen nuor', älykäs taas lens' punaiseksi ja silmät</l>
+                  <l>Alhaalla vastasi nyt huivin nipukkaa hypistellen:</l>
+                  <l>"Sulta ma en salata taho, arvoisa, mielevä Pekka,</l>
+                  <l>Kuinka ma siit' iloitsen, mua että on pyytännä Matti;</l>
+                  <l>Kyllähän sen tiedät, mihin silmät neitonen köyhä</l>
+                  <l>Hartovat tähtääpi aina ja myös sydän-pohjaiset aatteet.</l>
+                  <l>Palvella vaikea on, jos vaikkaki palvelis' hyvää,</l>
+                  <l>Maksustaan se kun saa vaivaa taas vaatia meiltä,</l>
+                  <l>Raskaampi huonona on toki almuja syödä jo viimein.</l>
+                  <l>Ei iloisempata toivoa siis tytöll' o'o elämässä,</l>
+                  <l>Kuin omanaan emännäks pian päästä ja lempeätänsä</l>
+                  <l>Miest' yhä palvella, ei väkisin, vaan rakkaudesta.</l>
+                  <l>Usein, kun pol'in kangastan' tääll' ylhäällä yksin,</l>
+                  <l>Aattelin näin: omoas milloin kutonetpa, sä Hedda?</l>
+                  <l>Sukkulakin suljaht' käestän', tämä kun sitä kohtas',</l>
+                  <l>Kyynelen juovais-kankahallen välisti tipahtaissa.</l>
+                  <l>Siis, isä jos myöntää, menen mielellän' Matin kanssa".</l>
+               </lg>
+               <lg>
+                  <l>Lausui; ja nyt ilost' itkien hän kätehen Pekan tarttui</l>
+                  <l>Puistaen tuota; ja myös vanhus samoin itkipä itse.</l>
+               </lg>
+               <lg>
+                  <l>Mut kun tehtävän ol' tämä täyttänyt onnellisesti,</l>
+                  <l>Läksi hän pois tupahan ilo-viestinehen Matin luokse.</l>
+                  <l>"Päätetty!" huusi hän nyt kädenlyöntinsä kajahtaissa,</l>
+                  <l>"Joudu jo liehimähän nyt morsios armahan kanssa!</l>
+                  <l>Itse mä taas hiihdän hakemaan pereheniki tänne".</l>
+                  <l>Virkkoi; ja näälän jätti jo suksillaan silehillä</l>
+                  <l>Kiitäen eellehen pois koti-torppahan miel'-hyvillänsä.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>KUUDES RUNO.</head>
+               <lg>
+                  <l>Honkien suojeleman nyt Metsolan pirtissä Anni</l>
+                  <l>Poikane, tyttäreneen hiljaksehen yhdessä istui.</l>
+                  <l>Viikon työ oli tehty ja rukki jo siirretty syrjään,</l>
+                  <l>Vaikeni kangas-puut, ketäkään ei toimessa nähty,</l>
+                  <l>Mut kuki penkillään jouten kädet ristissä istui</l>
+                  <l>Huoleti kuunnellen, miten arvoisa kerjääjä Aaro</l>
+                  <l>Polskoa elvyttävää huuliharpullaan surisutti.</l>
+               </lg>
+               <lg>
+                  <l>Soittoa taidokkaan ois' viel' iloin kuultuna; sillä</l>
+                  <l>Niinkuin kultainen kiel' helis' suussahan rautainen harppu,</l>
+                  <l>Mut älykäs jopa herkesi näin puhuen hymy-huulin:</l>
+                  <l>"Tässä mä niinkau'an, kuin suu minull' on, pelajaisin,</l>
+                  <l>Mekkoni jos vaan nä'in sill' aikaa pestävän ynnä".</l>
+                  <l>Virkkoi, ja päältään pois mekon riisui: nyt arvasi kaikki.</l>
+                  <l>Nousiki het' sulo tyttö ja saatua pönttöhön vettä</l>
+                  <l>Pes' mekon nyt puhtaaksi ja kuivamahan pani sitte.</l>
+               </lg>
+               <lg>
+                  <l>Mut tuo taitava Metsolan Anni jo lausua alkoi:</l>
+                  <l>"Aaro, se on hyvä, että sä, vaikk' avuton sekä vanha,</l>
+                  <l>Siistiit aina ja et suvaitse noki-saastoa uunin.</l>
+                  <l>Sentähen myös suopaa kä'et pestäkses sekä otsan</l>
+                  <l>Annan ja veitsen karviakses pois harmajan parran:</l>
+                  <l>Silmään, näet, tämä niin pistää, ett' on sinun musta</l>
+                  <l>Leukasi poskinehen ihan, kuin saran korjatun sänki".</l>
+               </lg>
+               <lg>
+                  <l>Hälle vastasi het' tuo arvoisa kerjääjä Aaro:</l>
+                  <l>"Anni, sä taitava muor', minä missäki vieraana lienen,</l>
+                  <l>Aina ma saunan saan puhdistavan ynnä kun muutkin;</l>
+                  <l>Siks' ihon' on lumi-valkiakin, miss' alla on vaatteen,</l>
+                  <l>Musta on muotoni vaan, käet kun sitä tahraa, ja ihveen</l>
+                  <l>Tahmistuu tomukin sekä partani noin yhä kasvaa;</l>
+                  <l>Sentähen ei haittaa, välisti jos vaan peseyn mä".</l>
+               </lg>
+               <lg>
+                  <l>Virkkoi, ja valmistiin nyt siistaimaan. Jakun yltään</l>
+                  <l>Sarkaisen heitti ja, siirryttyään sopen piilohon, hiljaa</l>
+                  <l>Parran hankasi kuvastaan, käet pes' sekä kasvot.</l>
+                  <l>Hyllyltä taas sitten välehen sai pellava-harjan,</l>
+                  <l>Suor' hapenensa, ja norjina nuo heti niskahan laskiin.</l>
+                  <l>Viimein astui hän nyt näkyviin ihanteeksi jo kaikkein;</l>
+                  <l>Kerjääjän, näet, muotoa ei hänell' ollunna enään,</l>
+                  <l>Mutta sen ryht' oli, kuin rusthollarin tai talonmiehen.</l>
+               </lg>
+               <lg>
+                  <l>Kohta jo taitava Annipa taas pakinoimahan puuttui:</l>
+                  <l>"Nyt päre-loistossa noin, kuten näyttäit, ystävä Aaro,</l>
+                  <l>Kestään et, miten köyhäkin o'ot, kova-onninen oisi,</l>
+                  <l>Kalleuden komean, näet, vertainen on näkö uljas;</l>
+                  <l>Mut moni kummeksis', miten tuommoinen uhkeus onpi</l>
+                  <l>Kasvanut uunien vierahiden noess' sirkkojen kanssa,</l>
+                  <l>Eik' alueen keskell' oman viljavan, ei oman karjan".</l>
+               </lg>
+               <lg>
+                  <l>Vastaamaan hänellen nerokas nyt laatihe Aaro,</l>
+                  <l>Ensinnä nahkais-vartisen tok' povestaan savi-piipun</l>
+                  <l>Otti ja töin sytyttel', mitä ol' perä-tuhkahan jäänyt</l>
+                  <l>Korsia räiskeliäitä ja, saatuansa savun viimein</l>
+                  <l>Suun imevän palkaks, jopa istui ja näin puhui jälleen:</l>
+                  <l>"Mon' tosin voisikkin, jos Soinin tuolt' erä-mailta</l>
+                  <l>Joutuisi nyt tänne, sukulaiseni tai ikä-tuttun',</l>
+                  <l>Nähdessään mua näin päre-loistossa, kuin olen tässä,</l>
+                  <l>Vois sanoa: 'kas, tuossa se on, hyvä Anni, nyt Aaro!</l>
+                  <l>Moinen se ei ollut i'än, puuttehen sortama ennen,</l>
+                  <l>Soinissa kun tilallaan eli viel' ilopäiviä, ollen</l>
+                  <l>Virkeä, tyytyvä, kuin kuningas sekä kunnioitettu'.</l>
+                  <l>Noin sanoa voisi se ja kyynel-silminpä minä'i</l>
+                  <l>Kuunnella, mieleeni kun olo juohtuisi tuo kepeämpi".</l>
+                  <l>Virkkoi, ja kiivaammin imi piippua räiskeleväistä.</l>
+                  <l>Ylhää katsoen, mut vesi-helmipä poskella pyöri.</l>
+               </lg>
+               <lg>
+                  <l>Mielin herkkenevin nyt vastasi taitava Anni:</l>
+                  <l>"Kerjätä ois raskas alust' alkaen loppuhun asti,</l>
+                  <l>Kerjäten raskaampi viel' lopettaa aluss' oltua kyllä;</l>
+                  <l>Raskahin tok', jos itse on veistännä kerjääjä-sauvan".</l>
+               </lg>
+               <lg>
+                  <l>Nyt tyvenempänä taas puhui arvoisa kerjääjä Aaro:</l>
+                  <l>"Voip' Jumal' ainoa vaan sanoa, minä ett' olen syypää,</l>
+                  <l>Muut elkööt; sepä ei minun mieltänikään yhä paina.</l>
+                  <l>Joskus tok', hihan kun olen mekkoni karkean vienyt</l>
+                  <l>Silmähän, sillä mä näen pisaran, jos miettinnä kau'an</l>
+                  <l>Soinin kontuan' oon, viljaa joka muille nyt antaa.</l>
+                  <l>Mut jos vaihe'itan' tah'ot, taitava Anni, jo kuulla,</l>
+                  <l>Noh, hyvä! kerronpa nyt, miten toella on käynynnä kaikki:</l>
+                  <l>Kangas Soinissa on, tila neljän vertainen, joll' on</l>
+                  <l>Metsiä, peltoja kyllä ja järvien rannoilla ruohoo.</l>
+                  <l>Tään isän' ol' perinyt talon tyttären kanss' ihanaisen,</l>
+                  <l>Siinäki harma'untui, näöltään kesäinen kuten ilta.</l>
+                  <l>Hältä se tul' mullen. Al'oin rauhassa vanheta minä'i</l>
+                  <l>Istuen, kuin kuningas muka, Kankaallan' satoisalla.</l>
+                  <l>Renkiä uuraita ol' yhä kimpussa auran ja kirveen,</l>
+                  <l>Piikoja pirtissä myös, pojat, tyttäret turvana äidin</l>
+                  <l>Kasvoi ja toivona mun, kuten taimet ympärillämme.</l>
+                  <l>Moisena siin' istuin vero-kuormani maksaen aina</l>
+                  <l>Vuosittain, kadehdittuna, mut ylistettynä ynnä.</l>
+                  <l>Kunnekka turmio tul' ilon ottaen. Halla jo pan', näet,</l>
+                  <l>Korjaamattoman viljely-maan', pedot raatelevaiset</l>
+                  <l>Karjani haaskasi. Näin meni talv' ohite toki vaivoin.</l>
+                  <l>Ruista ma lainasin nyt maksaakseni syksyllä; mutta</l>
+                  <l>Ruist' ei antanna syys, toi vaan jää-puikkoja tähkiin.</l>
+                  <l>Rengit ja pii'at nyt talon jätti ja jäi vero laimiin,</l>
+                  <l>Henk' kysyi leipää, mut vaan pettuja uunissa kuivi.</l>
+                  <l>Niinkau'an kului päivämme tok', kuin lehmien tähde</l>
+                  <l>Maitoa antoi, ja noin ravinnoks valui pettuki vatsaan.</l>
+                  <l>Viel' yli joulun myös retostimmepa, kuihtuen vaikka.</l>
+                  <l>Mut kotihin kerran kun taas takan pettuja kannoin,</l>
+                  <l>Outoja miehiä nä'in ovessan'. 'Veli', virkkoi jo toinen,</l>
+                  <l>'Maksa velkasi nyt, tänähän välttääksesi ryöstöö'.</l>
+                  <l>Hämmästynnä mä vastasin: 'Ei, hyvä herra, se anna</l>
+                  <l>Olla, kunnekka mun Jumal' auttaa voimahan maksaa;</l>
+                  <l>Pettuja syömme me nyt'. Ei vastaten taas tupahan ne</l>
+                  <l>Läksi ja seinältä pois vähät työ-kalun' otti ja vielä</l>
+                  <l>Kai, mitä vaatetta vaan jälell' ol', ja ne vei rekehensä.</l>
+                  <l>Itkien olkis-vuoteellaan hyvä vaimoni istui</l>
+                  <l>Ääneti katsoen tuota ja vaan nukuttaa koki lasta,</l>
+                  <l>Syntynyt eilen ku ol' sekä siin' inui rinnoilla äidin.</l>
+                  <l>Miehiä seurasin nyt ulos kantaen viimeisen pantin</l>
+                  <l>Jähmeä-mielenä, kuin tuo kirvehen puistama honka;</l>
+                  <l>Vaan ulos tultua taas pidettiin heti arvio, mutta</l>
+                  <l>Velkaani ei puoleks tämä täyttännä. 'Vel', sanoi vouti,</l>
+                  <l>'Tää vähän on, mut lypsäviä'i sull' lehmiä lienee?'</l>
+                  <l>Virkkoi, ja läks' omettaan sekä karjani löysiki helpoin,</l>
+                  <l>Tuolla ku pilttuissaan ruokaa yhä ammuen seisoi.</l>
+                  <l>Päästettiin lavimet, ulos yksi ja toinen jo ve'ettiin,</l>
+                  <l>Vaikkaki nuo hädissään tenien sijoiltaan eros' surren.</l>
+                  <l>Kuus taluttiin rekehen, mut seitsemäs huono, ku vastaan</l>
+                  <l>Ponnistel', jätettiin mullen; meni kaikki ne näin nyt.</l>
+                  <l>Ääneti pois tupahan mä jo läksin ja sain oven auki.</l>
+                  <l>'Armas Aaroni', nyt polonen puhui vaimoni oitis,</l>
+                  <l>'Laittaos, että mä sammuttaa saan jollaki nälkän',</l>
+                  <l>Maitoa tilkka hyv' ois, jano on, laps' tyhjeä imee'.</l>
+                  <l>Noin sanoi; mut silmän' pimiäks kävi. Tuskinpa pääsin</l>
+                  <l>Pilttuullen esihin. Siell' lehmäni riippuvin päin nyt</l>
+                  <l>Surren pahnoja pur'. Käsin värjyvin het' nisihin jo</l>
+                  <l>Naatunehen utaren tartuin sekä koettelin turhaan</l>
+                  <l>Milloin yhtä ja milloin toist' — ei niin pisaretta!</l>
+                  <l>Nyt kovemmin epä-toivossan' puristin; veri pelkkä</l>
+                  <l>Vaan ulos sirkoellen punas' hiukkasen pohjoa rainnan.</l>
+                  <l>Raivona, niinkuin kontio, kun povess' särkeepi keihäs,</l>
+                  <l>Taas tupahan läksin, otin vartaalta leipäsen, mut, kun</l>
+                  <l>Kirveellä lohkasin tuon, petut ympäri mustina lensi.</l>
+                  <l>Pois toverilleni vein palaset sanoen: tämä jäi nyt;</l>
+                  <l>Syö sekä lastasikin ravitse. Palan otti se yhden.</l>
+                  <l>Ääneti vaan käessään sitä käänteli, katseli, kunnes</l>
+                  <l>Lastansa sylihin likistäin kuvolleen jopa taintui.</l>
+                  <l>Suksille astuin ma nyt sekä naapurin luo heti kiisin,</l>
+                  <l>Tuo mua kun likin ol', vaan piipun väl', kuni rientää:</l>
+                  <l>Tultua näin perillen avuksen' sitä huusin ja kohta</l>
+                  <l>Antoiki, kuin veli, hän mitä viel' oli säästöä hällä.</l>
+                  <l>Taas kotia palasin, selässäp' vähän leilissä maitoo;</l>
+                  <l>Mut tuvan kun pääsin ovelien, jopa surkea parku</l>
+                  <l>Kohtasi sieltä, ja kun sisähän menin, lastani kaksi</l>
+                  <l>Vanhempaa ihan äänessä itki ja äitiä pu'isti</l>
+                  <l>Toinen käestä ja toinen taas kiharoist' hi'uksista;</l>
+                  <l>Mut tämä tönkkänä vaan lepäs' ääneti; näet, lumi kuolon</l>
+                  <l>Posket peitti jo jäähtynehet, samoin yöki jo silmät.</l>
+                  <l>Tuo oli loppu, ja noin hävitettykin ol' jalo Kangas. —</l>
+                  <l>Taivahasen käten' nyt nostin sekä tarttuen sauvaan</l>
+                  <l>Läksin jo pois; takanan' vedin kelkassa ees sikiöitän'</l>
+                  <l>Kerjäten, harmaja-päänä jo, näin pitäjästä ja toiseen.</l>
+                  <l>Murheeni aikapa tok' lievitti ja lapseni armaat</l>
+                  <l>Taas kukoistuu taloloissa ja itse mä tyytyen pyydän</l>
+                  <l>Leipäni, näin pelaten huuliharppua vaan, kuten sirkka</l>
+                  <l>Lehdellä nuutunehell' laulaa, vähän ehkä on poutaa".</l>
+               </lg>
+               <lg>
+                  <l>Mointa se kertosi nyt tuo rehtevä Aaro ja häntä</l>
+                  <l>Heltyn'nä kyynelihin kuul' lempeä, taitava Anni.</l>
+                  <l>Mut lopetettua sen hihallaan tämä kasvoja pyyhki,</l>
+                  <l>Huojutti päätä ja nyyhki ja niist' neneään sekä juoksi</l>
+                  <l>Lihaa, muikkuja, voita ja kaljoa tuomahan, kyllin</l>
+                  <l>Ruokia pöydällen latoen, ja nyt Aaroa vanhaa</l>
+                  <l>Niskast' ottaen vaatipa, vaikk' oli syönynnä, syömään.</l>
+               </lg>
+               <lg>
+                  <l>Söikin tää, kuten arvoisa käsk'; nyt joutui jo Pekka,</l>
+                  <l>Astuen porstuahan oven kitkavan aukasi kohta,</l>
+                  <l>Pois jaloistaan koputtel' lumen, kunnekka uhkeena astui</l>
+                  <l>Nyt peremmäks paikkaan, joss' yhtyypi kulmassa penkit.</l>
+                  <l>Mutta kun pöydälle sai reuhkan sekä piippuhun tulta,</l>
+                  <l>Niin savun hartaamman vetäen puhui näin hymyhuulin:</l>
+                  <l>"Veljesi, Anni, nyt ei Hedan luot' ihanan hevin irtau;</l>
+                  <l>Niinkuin koukussa hauk' on Matti jo kiini, ja jos nyt</l>
+                  <l>Vaan haluat, lähetään heti kohta tän'iltana kaikki</l>
+                  <l>Yhdessä kihlaiset pitämään iloiset hovissamme".</l>
+               </lg>
+               <lg>
+                  <l>Virkkoi; ja nyt sanoman tuon kuul' iloin, ihmehin kaikki.</l>
+                  <l>Paikalla kasvoiltaan seleten meni taitava Anni</l>
+                  <l>Kistun luo pukemaan päälleen, samoten tytär ynnä.</l>
+                  <l>Mut tuo mittava poika se vaan veti yllehen liivit</l>
+                  <l>Tul'-punaisensa ja pan' nutun kiini ja housuja nosti,</l>
+                  <l>Solkesi vyön suoliinsa ja ol' siten lähtöhön valmis.</l>
+               </lg>
+               <lg>
+                  <l>Mut tulen luo meni Aaro ja mekkonsa veti vielä</l>
+                  <l>Kuumana höyryävän päällensä ja näin sanoi ynnä:</l>
+                  <l>"Ystävä Pekka, nyt aika jo on minun kiittäen mennä,</l>
+                  <l>Kun mua päivän ja yön talossas täten kestinnä o'ot jo;</l>
+                  <l>Nyt hoviss' ehkä mä myös tavannen mies-voipia, jotka</l>
+                  <l>Suosien, kuin sinäkin, hyvän nautintoon mua kutsuu,</l>
+                  <l>Moista ma en nähne toki, kuin on taitava Anni</l>
+                  <l>Tuo, joka syötyän' äsken jo taas mua syömähän vaati".</l>
+                  <l>Lausui; ja siirtyäkseen hovihin heti sauvahan tarttui.</l>
+               </lg>
+               <lg>
+                  <l>Estipä kuitenkin tätä mielevä Pekka ja virkkoi:</l>
+                  <l>"Ei sovi seitsenkymmeniään mennä pimiässä</l>
+                  <l>Jalkaisin pois talostan'; hevoiset tuvass' onpihan mulla;</l>
+                  <l>Sulle se ois raskas, minullen häpeäks pitäjässä.</l>
+                  <l>Parhain siis ajanet, jos poikani tuo kepeämpi</l>
+                  <l>Hangella vauhtia suksiensa vakavin käsin ohjaa".</l>
+                  <l>Virkkoi; ja vartomahan hyvillään tulen luo meni vanhus.</l>
+               </lg>
+               <lg>
+                  <l>Mut upi-uhkiana'i punavehreäjuovahisessa</l>
+                  <l>Nyt hamehessa ja kaulassaan isoruusuinen huivi,</l>
+                  <l>Kuin kesä loistossaan, esihin tuli taitava Anni.</l>
+                  <l>Lähtemähän valmis siten nyt oli tyttärenensä.</l>
+                  <l>Siis kimon valjahisin välehen pani mittava Kalle,</l>
+                  <l>Kaattuja kannettiin rekehen ja jo miehissä mentiin</l>
+                  <l>Toivoen riemua, tanssia vaan; mut Paavopa loinen</l>
+                  <l>Uunillaan nokisell' yhä oikoili säärtä ja toista;</l>
+                  <l>Kylmähän viihtinyt ei tukalaan tämä lähteä matkaan;</l>
+                  <l>Mut talon vahtina vaan pysyi, kun haluisemp' oli hälle</l>
+                  <l>Lämpö ja rauha ja haiku ja lasten ja sirkkojen seura.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>SEITSEMÄS RUNO.</head>
+               <lg>
+                  <l>Pekka nyt Annine, tyttäreneen sekä kerjääjä Aaro</l>
+                  <l>Läksivät hiljakseen ajamaan, kimo kestävä eessä.</l>
+                  <l>Ohjia sylkäisten sanoi kohta jo mielevä Pekka:</l>
+                  <l>"Varsani vaikka hyv' on, näet, Aaro, sit' en toki raahdi</l>
+                  <l>Juoksuttaa, kun on näin kuormaa, vaan jos vilu puree</l>
+                  <l>Mekkoosi, niin sivallan, joten ei väli kestäne kau'an."</l>
+               </lg>
+               <lg>
+                  <l>Mielin herkkenevin nyt vastasi rehtevä Aaro:</l>
+                  <l>"Huoleti o'o, hyvä Pekka; jos oisinpa vaikk' alastonna,</l>
+                  <l>Kulkuni ei työläs olis' sun ja sun vaimosi kanssa.</l>
+                  <l>Kukkura-pöytä hyv' on, tupahan nälissään kuni astuu,</l>
+                  <l>Turkki hyv' on viluiselle ja vuode, kun on väsyneenä;</l>
+                  <l>Mut toki ihmis-suopeuteen nähden vähä on se.</l>
+                  <l>Kuin iseänne te suosinehet mua o'otte ja mekkon'</l>
+                  <l>Pesseet, vatsani on, kuin rumpu, ja nyt ajan herroiks,</l>
+                  <l>Vieläpä holhottuna'i, jo kun o'on talon jättännä; toista</l>
+                  <l>Kärsin mä kaupnngiss' sen mieroa koettaen kerran.</l>
+                  <l>Maass' oli, näet, kato-vuos', pitäjiss' eläkettä jo puuttui,</l>
+                  <l>Niukens' vaan talokas, nälkää näki kerjääjä. Kaupunk',</l>
+                  <l>Arvelin nyt, rikas onpi ja sen tilukset lihavammat.</l>
+                  <l>Aattelin näin, sekä kerjäelin edes itseni vaivoin;</l>
+                  <l>Usein jalkani vanha jo astua empi ja pussi</l>
+                  <l>Painoipa tyhjänäkin. Täten nälkähän nääntyen viimein</l>
+                  <l>Kaupunkiin toki pääsin ja nyt nä'in ilmaiset ihmeet,</l>
+                  <l>Nä'in, hyvät ystäväsen, mitä ennen en nähnynnä ollut:</l>
+                  <l>Ol' talot, vaan talojen ei seuduilla niittyä, peltoo,</l>
+                  <l>Tarhaa nurkalla ei, jost' ees tupakkaa olis' saanut,</l>
+                  <l>Kartanot ikkunineen ylen korkeat vaan nä'in tuolla</l>
+                  <l>Maalatut, uhkehimmat ulottuin rivin kirjavin eelleen,</l>
+                  <l>Joidenka taas välite sadat tiet kävi ristihin rastiin.</l>
+                  <l>Ol' jyry teilläki, kuin mikä myrskyn ja ukkosen pauhu;</l>
+                  <l>Vier' nelipyöräis-rattahita'i hopehin silatuita,</l>
+                  <l>Korkeita, kuin huoneet: ravurein kaviot sekä ruoskain</l>
+                  <l>Läikinä, kutsien ärjy ja pyörien jyskinä täytti</l>
+                  <l>Ilman ja kai tärähtel' seinät sekä ikkunat ynnä.</l>
+                  <l>Mut ihan huoleti vaan päivää menettäin huvituksiin</l>
+                  <l>Vallat kullan-hohtehiset niiss' istuipa kussa'i,</l>
+                  <l>Niinkuin perhot loisteliaat yli kukkien väikkyy,</l>
+                  <l>Niitä kun heiluttaa päivän säteniss' suvi-tuuli.</l>
+                  <l>Arkana syrjässä vaan mekollan' minä seiniä viistin</l>
+                  <l>Seisattuen tervehtimähän avo-päin useasti,</l>
+                  <l>Vaikka sit' ei havainnut kukahan: meni vaan edellensä.</l>
+                  <l>Noin kenenkään näkemättä jo aukiampaan tulin paikkaan</l>
+                  <l>Paasilla laskemahan, talot ylpiät ympärillänsä.</l>
+                  <l>Keskeytettyä käyntini nyt suloisin muka turvin</l>
+                  <l>Kaikkia kummeksin käsivarteni ristihin lyöden.</l>
+                  <l>Kartano, kuin kylä, laaja ja korkea, kuin mikä vuori,</l>
+                  <l>Loist' erittäin. Tätä katsella nyt en voinunna kyllin;</l>
+                  <l>Jättien, näet, rakennus oli tuo, ei ihmisienpä.</l>
+                  <l>Mut oli mies lähellän', joka ahkerahan lakais' siinä</l>
+                  <l>Tietä ja luudallaan kasoihin lo'an lykkäsi runsaan;</l>
+                  <l>Hältä mä tietoja nyt saadakseni näin kysyin viimein:</l>
+                  <l>'Ystävä, kuuleppas, tuo kirkkoko vai kuningasten</l>
+                  <l>Uhkea on rakennus; hämillen koko mieleni joutuu'.</l>
+                  <l>Noin sanoin, mut vaiken' tämä vaan sekä huulia purren</l>
+                  <l>Virnistel' muho-suin, paha, näet, oli mielessä vehkeys;</l>
+                  <l>Sillä, kun nyt takaisin minä käänsime katselemaan taas,</l>
+                  <l>Painoi se het' luudan ropakkoon sekä löi mua selkään</l>
+                  <l>Ilkeästi ryvettäin lika-läntillä mekkoni pestyn.</l>
+                  <l>Murheissan' menin pois, riitaa kun en tahtonna alkaa,</l>
+                  <l>Arkana, kuin kylän kukko, ku vieraalla tunkioll' onpi;</l>
+                  <l>Mut kovemp' ottelu kohtapa nous': pojan-ärmätti muu'an</l>
+                  <l>Musta ja nälkäynyt näki lyönnin ja nauruhun suureen</l>
+                  <l>Purskah'en löi yhteen kätensä sekä vilhuvin silmin</l>
+                  <l>Reuhastellen jo huus' tähän kumppania'i ilohonsa.</l>
+                  <l>Het' melu kuuluiki sieltä ja täält': avo-jalkaiset nulkit</l>
+                  <l>Paikalle ees karittel' lo'an roiskuvan vallassa, mut kun</l>
+                  <l>Mun näkivät, ilon-vimmassaan jaloin viippovin hyppi.</l>
+                  <l>Yks' tuli rohkeammin esihin nykäisten mua mekkoon,</l>
+                  <l>Toinen uhkasi potkien vaan, kuin varsa, ja kolmas</l>
+                  <l>Polvia läppäsi taas hokien ivajaarehitansa,</l>
+                  <l>Kunnekka ehtimiseen tuo pyörivä parvi jo karttui</l>
+                  <l>Julkeammin läheten paetaksehen taas. Häpeästä</l>
+                  <l>Suuttun'na syöksin mä nyt kiroellen sinne ja tänne.</l>
+                  <l>Yhden viekoittelin viimein käsihini ja heitin</l>
+                  <l>Joukkohon kaataen sillä jo toisenkin, kuten keilan;</l>
+                  <l>Mut molemmat, ne kun kourasin taas, kuritin käsin raskain.</l>
+                  <l>Kiljuen sätki ne koipia, vaan toiset hätä-huudoin</l>
+                  <l>Juoksi ja taas enentyi väki; kaks' sapel'-niekkoa miestä</l>
+                  <l>Kiini mun otti ja vei väliss' sitten riekkuvan kansan</l>
+                  <l>Pitkin tietä jo pois sekä vankeuteen minun heitti.</l>
+                  <l>Mutta kun itseni vankina nä'in sekä ov' sulettiin jo,</l>
+                  <l>Mieleni karvastui ja nyt itkemähän alas istuin,</l>
+                  <l>Heltynnä aatellen, mikä kunnian mies olin ennen,</l>
+                  <l>Heltynnä aatellen, miten harmaja-päänä mä nyt taas</l>
+                  <l>Vankina vankien kanss' taivaan valon puutteessa istuin.</l>
+                  <l>Haikehin itkin kyynelin, mut kupehellani siinä</l>
+                  <l>Kahle-jalkoa kaks' älykästäki penkillä loikoi</l>
+                  <l>Hilpeinä kuiskaellen vehkeist' omistaan sekä muiden.</l>
+                  <l>Kau'an ne ei suvainneet suruan', mut äkkiä noituin</l>
+                  <l>Tiuskasi mulle; ja näin sanoin katkerin äyhkäsi toinen:</l>
+                  <l>'Kirkon rosvo, nyt ääntäsi noin elä sorra, se että</l>
+                  <l>Sois hyvin, laulun-neuvoja kun lyö tahtia selkääs</l>
+                  <l>Nuottia neljäänkymmenehen parihin pitäessäs'.</l>
+                  <l>Noin sanoi tuo; heti puuttuipa myös puhumaan toverinsa:</l>
+                  <l>'Harmaja-parta, jos et menesty, kukapas sua kutsui!</l>
+                  <l>Lempo! kun on katoton maan-kulkija vaan, se jo viimein</l>
+                  <l>Tänne tunkeepi häirittämään asunnossahan miestä'.</l>
+                  <l>Mointa ne nyt puheskel' sekä muutaki viel' yhenlaista,</l>
+                  <l>Pilkaten pitkin päiveä noin mua herkeämättä.</l>
+                  <l>Mut rist'-ikkunan illalla kun lopen aurinko jätti,</l>
+                  <l>Vangin-vartijakin tuli sinne ja ratkasi riidan.</l>
+                  <l>Meille se toi ruuaks vadin lientä ja penkille jätti</l>
+                  <l>Leipeä luokse, ja tarkastel' jalan-kahleita sitten,</l>
+                  <l>Josko ne ol' ehjät, sekä löi vasarallaki niihin.</l>
+                  <l>Kaikki kun täydelleen taas tehtynä ol', meni sieltä</l>
+                  <l>Tuimana, mut mua käsk' nyt syömähän, viel' lisätenki:</l>
+                  <l>'Karhun-kallo, jo syö sekä suolahite, janos sitte</l>
+                  <l>Kuukauden vesi-leivällä ehkä sä sammumahan saat!'</l>
+                  <l>Virkkoi, ja taas telkes' oven. Nyt hädässän' heti tartuin</l>
+                  <l>Ruokahan vatsaa näin varustaakseni paastohon tuohon.</l>
+                  <l>Paljo tok' ei jäänyt osallen', näet, tultua toisten.</l>
+                  <l>Kuin sudet nälkähiset, piakkoon vadin pohja jo nähtiin.</l>
+                  <l>Mutta kun syönynnä ol' ne ja luita ma yksinnä järsin,</l>
+                  <l>Hiljaa kuiskaten nuo piti tuumia suuria hetken</l>
+                  <l>Keskenähän; yht'äkkiä kun molemmatpa jo karkas'</l>
+                  <l>Päälleni veitsiä välkkyviään kohottain sekä virkkoi:</l>
+                  <l>'Jos sinä vaan huudat, povessas nämä on; vala tee siis</l>
+                  <l>Vai'eta, yöllä me kun pakenemme, sä jos tah'ot elää'.</l>
+                  <l>Näille mä vastasin nyt sydämessäni taas ilo, toivo:</l>
+                  <l>'Piipullista ma en panisi tupakkaa älystänne,</l>
+                  <l>Veikot! Tarvekko vankia on pakoittaa valoin, veitsin</l>
+                  <l>Ve'estä ja leivästään vapahtajinahan ihmisen muonaan?</l>
+                  <l>Vannon ma ilmi tok' ei teit' antaa, mut avittaa vaan'.</l>
+                  <l>Noin sanoin; nyt nämä jätti jo mun sekä viiloja otti</l>
+                  <l>Kätköistään, kuluttaa niill' alkaen rautoja jalkain.</l>
+                  <l>Joutunut ei toki työ, hiki miehist' tippui ja vahva</l>
+                  <l>Kahle se hangata kest', kulutettu jo vaikk' oli ennen.</l>
+                  <l>Nyt molempaa vuoroin minä auttelin vaan ilo-mielin</l>
+                  <l>Pyrkien pois, ja kun voitettiin sydän-yöllä jo raudat,</l>
+                  <l>Jalkoja irtahitaan ihastuksissa heitteli miehet.</l>
+                  <l>Kohta ne hirrenkin seinästä jo leikatun otti,</l>
+                  <l>Vahdilta jonk' oli piiloittanut tilan pöyhteä pahna;</l>
+                  <l>Mut sen saatua pois, aukost' iloin ryömimme kaikki.</l>
+                  <l>Kiirehin kaupungin perillen nyt hiipien päästiin,</l>
+                  <l>Äkkiä kun pysähtyi tovereistani toinen ja virkkoi:</l>
+                  <l>'Ystävät, ei meidän sovi nyt jänisten tavoin juosta</l>
+                  <l>Metsään arkoina pois, vaan mielen' on ensinnä koettaa</l>
+                  <l>Lukkoja porvarien varustaaksemme tarpeita matkaan'.</l>
+                  <l>Lausui; ja toinen myöns' asian. Minun mieleni ol' taas</l>
+                  <l>Tien' vaeltaa viatonna ja siis hyvästin jätin hartaan.</l>
+                  <l>Kyynele-silmänä pois kepehin jaloin erkanin niistä;</l>
+                  <l>Mut nämä rosvomahan lähi-kartanoihin meni kohta, —</l>
+                  <l>Näin, hyvät ystävät, tuo kävi kaupunki-retkeni; mointa</l>
+                  <l>En omin ehtoini tee enähän, ja mi pakko mun onkaan?</l>
+                  <l>Kirkossa, näet, mua vaikka jo tunnus-merkittihinki</l>
+                  <l>Käskyllä, kun tavataan, mua vankina jällehen tuoda,</l>
+                  <l>Ei kukahun ahistaa raahdi toki Aaroa vanhaa,</l>
+                  <l>Mieluhisempi kun on tuo hilpeä polskani heille,</l>
+                  <l>Kuin näh'ä kyyneliän' sekä voivottamistani kuulla".</l>
+               </lg>
+               <lg>
+                  <l>Moisia kertoi se nyt älykäs tuo Aaro; ja kaikki</l>
+                  <l>Mielellään sitä kuul'. Hevonenpaki hölkkäen eistyi,</l>
+                  <l>Kunnes kartano-ahtehen alla jo oltihin kohta.</l>
+                  <l>Täss' alas hyppäsi Pekka ja re'en ohell' astuen lykki</l>
+                  <l>Ees sitä ynnä ja ohjaksill' oron löi kupehille;</l>
+                  <l>Hyvää vauhtia siirtyipäkin reki porstuan eteen.</l>
+                  <l>Nyt ilokseen näkivät pitojen siell' alkuhan päässeen,</l>
+                  <l>Auringon tapahan valo aukkojen höyryte loisti,</l>
+                  <l>Ov' tuvan ol' selillänsä ja polskan pauhina sieltä</l>
+                  <l>Tunk' ulos, niinkuin myrsky, ja porstuan myös ison täytti.</l>
+               </lg>
+               <lg>
+                  <l>Taitava Anni jo het' sisähän meni tyttärenensä;</l>
+                  <l>Sinne siirsihe Aaroki, mut kimon mielevä Pekka,</l>
+                  <l>Piehtaroitettuaan sitä, reen sepihin sitoi kiini.</l>
+                  <l>Uljaana hirnuellen hevoisten seass' outojen söi se</l>
+                  <l>Heiniä re'estähän nyt kurittain kavioll' lähintänsä,</l>
+                  <l>Jos tämä sen muonaa nenäkkäämmin haisteli joskus;</l>
+                  <l>Mut tupahan meni pois sen herra jo Pekkaki viimein.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>KAHDEKSAS RUNO.</head>
+               <lg>
+                  <l>Kerroppas, runo, taas, mitä kaikkia mielevä Pekka</l>
+                  <l>Nyt tuvass' sai nähdä, kun jäi hämissään oven suulle.</l>
+                  <l>Polskaa tiuhoa tansittiin parin kaksinni toista,</l>
+                  <l>Naiset kieppuen keikkehin päin sekä vilhuvin silmin,</l>
+                  <l>Mies-väki niskoin nuortehin taas yhä katsoen alhaa.</l>
+                  <l>Nää nyt tanssia hoit', erittäin toki Matti, ku Heddaa</l>
+                  <l>Pyöritti suottaellen, samoin Annia kunniallista,</l>
+                  <l>Kun suki pelmannit jouh'kielis-viulua kahta</l>
+                  <l>Penkillä tuolla ja harppujen ään' tähän vieläki sointui.</l>
+                  <l>Yksinnä pöydemmäks oli istuinut Sakar' äijä</l>
+                  <l>Uljaana, kuin kuningas, kä'et ristikkäin yli rinnan,</l>
+                  <l>Tanssia tarkastain, kun vaan ei estännä tuoppi.</l>
+                  <l>Vastassa arvokkaan paikkaa tätä taas tulen eessä</l>
+                  <l>Lämmittäimässä seisoi nyt Aaro ja vanha Rebekka.</l>
+                  <l>Reilaan Aaropa juur' pani harppua, mutta Rebekka</l>
+                  <l>Nuokkuen kirjavataan kissaa silittel' sylissänsä,</l>
+                  <l>Ryssä kun taas älykäs punapöyheäpartainen Ontro</l>
+                  <l>Huus' hälinässä ja pois nuo tanssijat eestähän väisti;</l>
+                  <l>Kaks levollen, näet, kumppaniaan oli alle jo penkin</l>
+                  <l>Kantanna hän, nyt kolmattakin sylissään piti vaivoin.</l>
+                  <l>Tää, vaikk' ei ky'ennyt jaloin notkuvin liikkua enään,</l>
+                  <l>Vastahan vaan tenien iloisaa halus' hyppyä koettaa.</l>
+                  <l>Viimein, vaikk' yhä tuustaeltiin, toki laahasi Ontro</l>
+                  <l>Tuskalla tunkien ees hänen penkille pois tilavalle. —</l>
+                  <l>Mointa nyt ihmeekseen nähdä sai mielevä Pekka,</l>
+                  <l>Kunnian-saavana kun sioittuipa jo äärehen pöydän.</l>
+                  <l>Aaro kun lämmittäinnä nyt ol' sekä korjanna harpun,</l>
+                  <l>Istumahan meni penkillen peli-mannien viereen;</l>
+                  <l>Mut heti tultua sen puhuttel' sitä rehtevä Antti</l>
+                  <l>Harmilla viulua kihnaten, kun ei tanssihin päässyt:</l>
+                  <l>"Jos, kuten harppuakin, samoin viulua soittaisit, ehkä</l>
+                  <l>Nuorempi sais vähäsen toki tanssissa'i iloitella.</l>
+                  <l>Mut kuin seinällä tuo väre-kantele, o'ot sä ja tuskin</l>
+                  <l>Tahtia voit johtaa, minä jos sit' en viululla ohjaa".</l>
+               </lg>
+               <lg>
+                  <l>Nyt hymyilyn suutaan veti miettien kerjääjä Aaro,</l>
+                  <l>Korvan-taustahan raapi ja puol'-hämin vastasi sitte?</l>
+                  <l>"Tokkohan vanhoillan' minä, kenties, viel' yh'en polskan</l>
+                  <l>Muistanen, vaikk' ei o'o roka käessäni kaukahan ollut".</l>
+                  <l>Virkkoi, ja kun viulun nyt sai, typeräks muka teikse.</l>
+               </lg>
+               <lg>
+                  <l>Koetteeks soitti hän vaan hiljaa; mut kohta jo täyden</l>
+                  <l>Sai säveleen, tah'it taajahan vier', roka lentävä kielet</l>
+                  <l>Pakkosi ääntämähän; yht'-aikaa kaikui ne kaikki,</l>
+                  <l>Paasi ja altti, tenuori ja vintti: nyt ammottaenpas</l>
+                  <l>Kumppani viulun mykkänä laski; mut yltyipä raivoon</l>
+                  <l>Intoki tanssivien. Hiki kaikkien poskite juoksi,</l>
+                  <l>Lens' pärehet pihdeistä ja tuolia, penkkiä kaatui,</l>
+                  <l>Huudot lankeavain, tah'in polku ja nauru ja haiku</l>
+                  <l>Kiehtosi ylt'-ylitse sekä huojuva lattia ryski.</l>
+               </lg>
+               <lg>
+                  <l>Vanha Rebekkaki, vaikk' oli pankolle tunkeununna,</l>
+                  <l>Vauhdissa kolhauksen sai, ett' oli langeta maahan:</l>
+                  <l>Ohkaen siksipä pois vetihe likemmäks oven suuta.</l>
+               </lg>
+               <lg>
+                  <l>Mut sydämessähän tunsi jo säälin mielevä Pekka,</l>
+                  <l>Kun näki nyt, vanhaa miten kaikkien hylkynä piettiin;</l>
+                  <l>Jättäen siis oluen sitä haastattamaan meni kohta:</l>
+                  <l>"Tässä, Rebekka, mit' auttaapi nyt suru tuo sekä nurku?</l>
+                  <l>Joudu, ja het' talutan sinut turvihin pois ylä-pöydän!"</l>
+               </lg>
+               <lg>
+                  <l>Siihen vastasi taas tuo ontuva, rampa Rebekka:</l>
+                  <l>"Ei, hyvä Pekka, se ei sovi; soppehen vaan menen piiloon;</l>
+                  <l>Paitse hautoa tuo on huonolle myös sopivinki.</l>
+                  <l>Kuin tois-vuotinen leht' puun puhkenevan, lakastunna</l>
+                  <l>Tääll' asun nuorien kanss', elo joiden on riemu ja tanssi.</l>
+                  <l>Oi, joka luo muiden jopa pääsisi turpehen alle!"</l>
+               </lg>
+               <lg>
+                  <l>Virkkoi, ja itkeä nyt tihuttel'. Ja kun arvoisa herra,</l>
+                  <l>Juur' joka riemua katsomahan tupahan oli tullut,</l>
+                  <l>Mielin herkkevin sanat kuuli ne, alkoi jo hänkin:</l>
+                  <l>"Moint' elä mieti, Rebekka, ja hautah'an viel' elä toivo!</l>
+                  <l>Näet, kuka, kun tuvass' et enähän tilavassa sä liiku,</l>
+                  <l>Piikoja rukkiin, kankahasen herättäis, kuka kissaa</l>
+                  <l>Hempisi, ken pitäisi kanoista'i munineen yhä huolta?</l>
+                  <l>Silmäsi nosta ja näe, miten vanhus Aaroki tuolla</l>
+                  <l>Viulua vinguttaa hikoen, mut tyytyvin mielin;</l>
+                  <l>Niinkuin harppua soittaissaan käräjill' oli tuonnoin,</l>
+                  <l>Onpa se vieläki sortamaton i'än, huolien suhteen.</l>
+                  <l>Virkeenä sen käsi-vars' lentää, hevin liikkuupi sormet,</l>
+                  <l>Loistaen tyyninä silmätkin, kuten taivahan tähdet;</l>
+                  <l>Käy samoin turvin, Rebekka, sä myös suru-päiviä vastaan".</l>
+                  <l>Lausui, ja ta'a pöydän varoten talus' eukon ja tuo nyt</l>
+                  <l>Ynseenä kunniastaan nurun unhotti kohta ja sitte</l>
+                  <l>Nuojuen vaan hiljaa yhä nuoria, vanhoja siunas'.</l>
+               </lg>
+               <lg>
+                  <l>Mutta kun polska jo loppui ja vaikeni harppu ja viulut,</l>
+                  <l>Nyhkäsi Annipa het' takin helmahan mielevätänsä</l>
+                  <l>Miestä ja vei nurkkaan, sala-myhkeä siellä sen kanssa</l>
+                  <l>Kotvasen haastoi ja korvahan nyt täten kuiskasi hälle:</l>
+               </lg>
+               <lg>
+                  <l>"Etköhän sais toimeen, Sakar' että jo Pyylahen vanhus</l>
+                  <l>Nyt vävylleen tulevalle ja lemmikki-tyttärellensä</l>
+                  <l>Puheen neuvovan, kuin isän on, pitäisi, jota aina</l>
+                  <l>Syvään kätkisivät mieleen sekä noutasivatkin.</l>
+                  <l>Ol' isien tapa, miehellen ne kun tyttären antoi,</l>
+                  <l>Lausua myös sanat armahiset varokkeeks molemmille;</l>
+                  <l>Nääpä nyt ei koskaan unohuttanna neuvoja sitte,</l>
+                  <l>Mutta ne kihlaus-muistona vaan yhä seurasi heitä.</l>
+                  <l>Nuorten vuoksi ja vierahiden puhua hänen täytyy,</l>
+                  <l>Että ne kihlahiset näkisi toki juhlallisemmat".</l>
+               </lg>
+               <lg>
+                  <l>Hiljaa vastasi taas hänellen tuo mielevä Pekka:</l>
+                  <l>"Saada toivosi nyt toimeen ei viel' ole aika;</l>
+                  <l>On sitä luontoa, näet, Sakar', että, kun alkaapi juonti,</l>
+                  <l>Rauhassa ryyppäellä tahtoo se ja vastaapi tuskin;</l>
+                  <l>Mut olut elvyttävät vähäsen kun on saanunna päästää</l>
+                  <l>Vaan ukon kiel'-sitehet, puhe säästämä runsaana pulppuu,</l>
+                  <l>Niinkuin kuplat kuohuvien purojen kevähällä.</l>
+                  <l>Ei lähesty kenkään, jonk' ei sitä täytyne kuulla,</l>
+                  <l>Kun tarinoi tahi nuoriakin varoittaa, ojentaapi;</l>
+                  <l>Paikalla vaihtaisi mielellään, väliä'i iloll' antais,</l>
+                  <l>Jos siten sais hänen suun puhuvansa ja viisautensa;</l>
+                  <l>Malttaen siis odota vähäsen, ja se kyllä jo väleen</l>
+                  <l>Täyttääpi toivosi itsestään Sakar' rehtevä äijä.</l>
+                  <l>Näetsen, jo selkeepi otsa ja suu olueen hymyääpi,</l>
+                  <l>Sorsan mielellä tuon, joka salmien ve'ess' sukeltaapi,</l>
+                  <l>Kas, miten istuu jo, kuin sade-kuurost' elpyvä niitty.</l>
+                  <l>Sun toki nyt paras on hupaisaa jotakin pakinoida</l>
+                  <l>Taikkaki nuoria pois minettiin säveään kehoitella;</l>
+                  <l>Mun se on taas antaa Sakar' äijälle ääntä ja kieltä".</l>
+               </lg>
+               <lg>
+                  <l>Lausui; ja Annan tyydytetyn heti heittäen otti</l>
+                  <l>Haarikon pöydältä nyt tilavalta ja ystävätänsä</l>
+                  <l>Pyylahen kunniallist' isäntää puhuttel' hymy-huulin:</l>
+                  <l>"Juokaammepas, Sakar', yhdessä viel' iloiten, kuten ennen</l>
+                  <l>Mielin turvallisin joimme, kovemp' ehk' oli aika;</l>
+                  <l>On pysymättömän ihmisen, näet, iloita sopivinki</l>
+                  <l>Hilpeän laill' oravan, joka kaarnallaan murealla</l>
+                  <l>Aallolta aallollen purjehtiipi toivoen rantaan!"</l>
+               </lg>
+               <lg>
+                  <l>Virkkoi, ja joi; samoin kannuansa Sakar' äijäki nosti</l>
+                  <l>Vaahtovataan halu-juomalla noin elähyttäen mieltään:</l>
+                  <l>Mut hyvillään sitten toverillehen vastasi ynnä:</l>
+                  <l>"Syyst' iloinnen tosin nyt; niinkuin valo tai terä silmän,</l>
+                  <l>Kallis on, näet, isällen joka onni, ku kohtaapi lasta".</l>
+               </lg>
+               <lg>
+                  <l>Noin puhuen ne jo kuul', kuin viuluja taas viritettiin,</l>
+                  <l>Nähden, lattialla'i miten säyseä mointui minetti.</l>
+                  <l>Mut Pekan nyt seuraan moni liittyipä äärehen pöydän,</l>
+                  <l>Tanssihin kun halu ei vetänyt, vaan ennemmin olveen</l>
+                  <l>Mantohiseen, huvi-jutteluihin sekä laskuhun leikin;</l>
+                  <l>Paitse muitapa myös meni räämeä-kiittävä Ontro.</l>
+               </lg>
+               <lg>
+                  <l>Kohta jo saattaakseen hämillen sitä nyt sanoi Pekka:</l>
+                  <l>"Tanssin-taitava vel', miks et sinä hyppele? kenties</l>
+                  <l>Pelkäät neitojen niin lumovan sinun mielesi harmiks</l>
+                  <l>Vaimosi, tuonne ku jäi Arkangelihin varakkaasen,</l>
+                  <l>Että ne huivin viekoittelis' laukustasi lahjaks".</l>
+               </lg>
+               <lg>
+                  <l>Virkkoi, ja vaikeni; mut punapöyheäpartainen Ontro</l>
+                  <l>Istuen nyt lähemmä käsihin sen tarttui ja lausui:</l>
+                  <l>"Tuota ma en pelkää, hyvä Pekka, ja mielihaluin kyllä</l>
+                  <l>Tanssisin muiden kanss', sill' laulu ja tanssi on oiva;</l>
+                  <l>Neitoa vaan hevin en minä löydä, jok' ei mua hylkää.</l>
+                  <l>Leppehin jos silmin käden tarjoankin, pakenee se</l>
+                  <l>Partaani kammoen vaan nauraa sekä muut hänen kanssaan.</l>
+                  <l>Ei kukahan älyä vieraall' olevan sydämen myös,</l>
+                  <l>Miss' surun tai ilon voi herättää lähimmäisien käytös.</l>
+                  <l>Jos sinä tahtoisit ees, veli, toivoni kuulla ja täyttää,</l>
+                  <l>Niin selitä minullen tila, sääty ja nim' moniaiden,</l>
+                  <l>Tanssissa jotka ma nyt huomaan Matin juhlana tässä.</l>
+                  <l>Ensinnä, ken se on tuo niin mahtava, muhkea muori,</l>
+                  <l>Tuoll' etu-päässä ku keinuelee, satamaan kuten laiva,</l>
+                  <l>Tahtia mittaa ja hyppisin vaan hamettaan ylentääpi?</l>
+                  <l>Nuorten ja vanhojen, näet, minust' on jalo tuo esimerkki".</l>
+               </lg>
+               <lg>
+                  <l>Vastasi nyt hällen hyvillänsä mielevä Pekka:</l>
+                  <l>"Anni se on, ei kenkähän muu, minun vaimoni kallis,</l>
+                  <l>Vuosien vuoroellessa ku hoitanut on talouttan'</l>
+                  <l>Tarkoin ja poikia, tyttäriä'i kyll' lahjonna mulle.</l>
+                  <l>Mies, joka hänt' ylistää, mua myös ylistääpi se ynnä".</l>
+               </lg>
+               <lg>
+                  <l>Alkoipa taas puhua tuo räämeä kiittävä Ontro:</l>
+                  <l>"Onnellisna ma sun pidin ennen jo, ystävä Pekka,</l>
+                  <l>Ollen sä reima ja lystillinen sekä kunnioitettu:</l>
+                  <l>Kolmestippa nyt onnelias olet, kun tämänmoisen</l>
+                  <l>Saanunna o'ot muorin; näet, taivaast' on hyvä kaikki.</l>
+                  <l>Nyt sano myös, kuka on tuo varteva, pulskea poika,</l>
+                  <l>Parhaallaan joka kievoittelee nyt sieveä Heddaa?</l>
+                  <l>Uljaana sarkais-tankissa käypi se, kuin oro virma,</l>
+                  <l>Nurmella toisien kanss' se kun harjaa pöyheätänsä</l>
+                  <l>Urheasti ravistaa sekä hirnuupi innossa lemmen".</l>
+               </lg>
+               <lg>
+                  <l>Vastasi jällehen nyt hänellen tuo mielevä Pekka:</l>
+                  <l>"Armas poikani Kalle se on: miten luontuu se vaste'es,</l>
+                  <l>Antaja vaan tietää: käsiss' sen tämän olkohon onni".</l>
+               </lg>
+               <lg>
+                  <l>Virkkoi jo kohdakkoon taas räämeä-kiittävä Ontro:</l>
+                  <l>"Niinkuin viljelijä'i panemaansa hoitaapi puuta</l>
+                  <l>Vartt' yhä katsoen korkenevaa sekä toivossa kastaa,</l>
+                  <l>Niin isä lastaan myös hoitaa: nuor' vaan ajatelkoon,</l>
+                  <l>Kuinka se huolet maksaisi sen ilon antaen niistä.</l>
+                  <l>Täällä on vieläki kaks, joit' ynnä mä tuntea toivon —</l>
+                  <l>Riipeä poika, ja neit' sulo tuo, somasti jota johtaa?</l>
+                  <l>Kaunis on poika, ja neit' Hedan rinnalle käy parahittain".</l>
+               </lg>
+               <lg>
+                  <l>Vastasi taas hällen nyt mielevä Pekka ja lausui:</l>
+                  <l>"Rengin siinä sä näet nopean sekä ahkeran Antin;</l>
+                  <l>Pyylahelt' onpi se tään Sakarin jalomielisen poika.</l>
+                  <l>Riipeä jos se nyt on mielestäsi tanssiessansa,</l>
+                  <l>Kaksinkertaisesti sä kiittäisit intoa senpä,</l>
+                  <l>Jos näkisit, miten uutterahan isän soita se raataa</l>
+                  <l>Murtaen kuusen juurtunehen ylös, kuin mikä karhu.</l>
+                  <l>Neit' taas, järkevä ystävä, tuo tytär on esikoinen</l>
+                  <l>Annin ja mun; taloamme se, näet, sekä pieniä hoitaa</l>
+                  <l>Vaivoja noin äidin keventäin, kuten tyttären onkin".</l>
+               </lg>
+               <lg>
+                  <l>Mielin heltyvin nyt sanoi räämeä kiittävä Ontro:</l>
+                  <l>"Oi, sua onnelias! joka arvossa pi'ettynä saat vaan</l>
+                  <l>Istua tuttujen kanss' samomattasi outoja maita.</l>
+                  <l>Tyynenä katselet täällä sä vaimoa uskollisinta,</l>
+                  <l>Lapsia sieviä myös, kukan taimia kuin puron luona,</l>
+                  <l>Kaukana kun toinen isänmaasta ja luot' omiensa</l>
+                  <l>Käy yhä ympäri hylkynä, kuin mikä tolkuton pulma".</l>
+                  <l>Virkkoi, ja itkeä nyyhkyttel': valui poskite ynnä</l>
+                  <l>Helmiä kirkkahita'i sekä kasteli pöyheän parran.</l>
+                  <l>Mut sulo, kuin mesi, juoks' hänen suonissansa jo kaipaus;</l>
+                  <l>Muistipa, näet, kotonsa, meren jäisen muistipa rannat,</l>
+                  <l>Wienan joen, etenkin Arkangelin tuon kama-rikkaan,</l>
+                  <l>Vaimoansa samoin aattelipas joka huokael' yksin</l>
+                  <l>Toimissa tai päivän tahi yö-levollaan useasti,</l>
+                  <l>Entäpä hentoakin poikaa, joka jäi etähälle</l>
+                  <l>Sinne, viel' isänsä nimeä! hymy-suin löperrellen.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>YHDEKSÄS RUNO.</head>
+               <lg>
+                  <l>Ontron räämeä-kiittävän tuo surun haikea tunne</l>
+                  <l>Nost' useassapa vilvoittavan sulon kyynele-nautteen.</l>
+                  <l>Niin sinunkin silmäs vesihin kävi, mielevä Pekka,</l>
+                  <l>Milloin ne sattuivat Annihin vaan hyvänsuopahan vaimoosi</l>
+                  <l>Poikaasi vartevahan tahi tyttärehen siveääsi,</l>
+                  <l>Miel'-hyvin muistaessas, miten Metsolass' yhtenä kaikki</l>
+                  <l>Rauhassa ain' asui, kuin linnun pojat nuo pesässänsä.</l>
+               </lg>
+               <lg>
+                  <l>Kumpiki itki ne niin ilon, kuin surun kyyneliä'i nyt,</l>
+                  <l>Siinä kun ol'tta ne joi sekä pitkä jo loppui minetti</l>
+                  <l>Harpun ja viulujen myös surinan lakatessaki ynnä.</l>
+               </lg>
+               <lg>
+                  <l>Nyt jopa korkeanaan nous' Pyylahenkin Sakar' äijä</l>
+                  <l>Kunnia-paikaltaan ison pöydän tuoll' ylä-päässä</l>
+                  <l>Askelin astuen miehevin ees tosissaan tuvan keskeen.</l>
+                  <l>Kaikki nyt ällistyin silmät heti äijähän käänsi;</l>
+                  <l>Ol' näöltään, näet, kuin ukon-pilvi, jok' äärellä taivaan</l>
+                  <l>Liikkuupi ruskoin hehkuvin, mut vilistää värin ilman.</l>
+                  <l>Sitte se seisattuu uhaten: nuol' kahlehen murtaa</l>
+                  <l>Nyt jylinäll' läpi runsahimman välähtäin sade-kuuron;</l>
+                  <l>Mut maamies pelästyy, taivaan kun katsoopi uhkaa,</l>
+                  <l>Vaan iloitseepakin ynnä, kun pelto jo nääntyvä virkoo.</l>
+                  <l>Moisena nyt Sakar arvellen käänsiin vävyhynsä</l>
+                  <l>Arvolliseen sekä tyttärehen, kun tuoll' liketysten</l>
+                  <l>Lemmen kuiskua nuo pitivät lavitsall' lavealla.</l>
+                  <l>Kiirehin nousi ne nyt ylös, kun näki luotuvan äijän,</l>
+                  <l>Kuuntelemaan, mitä käskyä hän oli antava heille.</l>
+               </lg>
+               <lg>
+                  <l>Mut hänen huulillaan koputtel' puhe mietitty nyt jo</l>
+                  <l>Pyrkien ilmi ja hän kätehen Matin tarttui ja ynnä</l>
+                  <l>Tyttärensä sekä vaitia vaat' täten lausuen sitte:</l>
+                  <l>"Kyllä on tanssikin aikanahan hyvä: tuota en moiti,</l>
+                  <l>En myös leikkiäkään, kun käypi se vaan siveästi;</l>
+                  <l>Aina tok' ei kuulla kuluess' ajan vaihtelevaisen</l>
+                  <l>Viulujen, harppujen äänt', iloiseen joka polskahan kutsuu;</l>
+                  <l>Riemuakaan liiaks satoisaan ei maahamme vuoda</l>
+                  <l>Voidakseen yhä lahjoillaan elähyttelevillä</l>
+                  <l>Ihmis-henkeä suosittaa sekä leikkihin kääntää:</l>
+                  <l>On siis hyödyttävää ajoissaan vähän tottaki kuulla.</l>
+                  <l>Yksinpä hoippuva laps' hyvin tietääpi neuvomattakkin</l>
+                  <l>Nauttia onneansa sekä leikissä viihtyä aina;</l>
+                  <l>Mut toden aikana taas, toimet jo kun on tukalammat,</l>
+                  <l>Turvin ne tehdä vaan erottain, mik' on oikea, nurja,</l>
+                  <l>Siihenpä harjoittaa sinut täytyypi maailman seikkain</l>
+                  <l>Vaihtelevain tahi johdattaa enemmin kokeneiden.</l>
+                  <l>Sentähen on hyvä myös vanhan varoituksia kuulla.</l>
+                  <l>Ensinnä, Matti, se pa'a mielees, mitä neuvoopi tässä</l>
+                  <l>Nyt kuus'-kymmeniäs, minä, kolme-kymmeniäälle:</l>
+                  <l>'<hi rend="italic">Elköön turvasi vaan itäkö sinun viljely-maillas,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Niin vahinkoo sure, kuin kalun saadessas iloitsitki,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Viimein vaimosi kanss', kuin silmäsi, oikeuteen käy</hi>!'</l>
+                  <l>Halvoilta mielestäs näyttää tosin nää sanat oivat,</l>
+                  <l>Lapsien ain' isiltään perimät, vaan niist' talon onni</l>
+                  <l>Tok', kuten kukkia niitystä'i meheväst' yleneepi.</l>
+                  <l>Näet, mitä vaan sinull' on, mitä ihmis-käellä on koottu,</l>
+                  <l>Sillä on myös vihamies, kova onni: jo loistavan peltos</l>
+                  <l>Halla ja ra'e hävittää, metsän peto karjasi raastaa.</l>
+                  <l>Vaihtua onnesi voi samoin, kuin katoaa kevät-lumikin,</l>
+                  <l>Jos perä ei vakaisempi sen oo, kuin maallinen rikkaus.</l>
+                  <l>Mut vahingon jos kärsiä saat, niin muista, mik' ennen</l>
+                  <l>Riemu sun ol' nyt hukkunehesta ja tappio arvaa</l>
+                  <l>Sen mukahan, ja sä et harmaaks sure päätäsi suinkaan;</l>
+                  <l>Niinkuin varpuinen, näet, pesän vuosittain isontaapi,</l>
+                  <l>Niin halull' ihminen myös enentää taloutta, ja ennen</l>
+                  <l>Hankkima eipä sen arvoinen oo, kuin saamaton vielä.</l>
+                  <l>Mut vaimollesi lempeä oo, väkevän kuten sopii,</l>
+                  <l>Muistaen aina, mi heikosta'i etu suuri tok' onpi,</l>
+                  <l>Kun sitä miellyttää työhön koetat säveästi.</l>
+                  <l>Niin sanon nyt sinullen, ja on niin talolleen hyvä vaimo,</l>
+                  <l>Vanne kuin tämä on, joka pitääpi tuoppia ko'ossa;</l>
+                  <l>Heikko se on nä'öltään, edultaan tosin vieno ja halpa,</l>
+                  <l>Mut sitä särkeä koetteleppas: heti hajoopi tuoppi,</l>
+                  <l>Uurteist' uurtehet irtautuu, ja sun olves on mennyt.</l>
+                  <l>Sentähen vaimosi kanss', kuin silmäsi, oikeuteen käy.</l>
+                  <l>Mut sinullen jälleen puhua tah'on, järkevä Hedda,</l>
+                  <l>Niinkuin ennen jo o'on toden neuvoja mieleesi pannut</l>
+                  <l>Siit' ajoin, kuin äitis varoitus-puhe lempeä vaikes',</l>
+                  <l>Jolloinka huol' iso lapsistan' jäi mulle jo yksin.</l>
+                  <l>Usein o'on sanonut, hauraan miten vaimon on aina</l>
+                  <l>Tottuminen niin kärsimähän, kuin myöntämähänki:</l>
+                  <l>Mennä, näet, mukihin sen on arpa, mut ei havaitse hän</l>
+                  <l>Pakkoa myöntäessään, sen vaan vihoissaan havaitseepi.</l>
+                  <l>Katso, sen sanon nyt ja sen luulenki saavasi koettaa,</l>
+                  <l>Kerta kun käyt elämään Matin vaimona seuraten häntä:</l>
+                  <l>Ei sido kenkähän muu rauhaa, kuin vaan talon vaimo.</l>
+                  <l>Joskus suopeakin mies suuttuu ja kostaapi hälle</l>
+                  <l>Naapurin sättimiset sekä palvelijain hitauden.</l>
+                  <l>Mut se on nyt vaimon asettaa tämä kiivaus hiljaa.</l>
+                  <l>Ääneti kuulkohon nurkua sen siks, kuin viha tyyntyy,</l>
+                  <l>Niinkuin koivuki latvaltaan raju-ilmana taipuu</l>
+                  <l>Malttaen iltahan, kun levollen haluaapi jo myrskyt.</l>
+                  <l>Het' tätä noin kaduttaa kova kai, vihoissaan mitä virkkoi,</l>
+                  <l>Jos äkä'yttävä vastaus ei äristä hänen mieltään,</l>
+                  <l>Muuta kun ei toivo, hyvän kuin hyväll' lempeenä maksaa.</l>
+                  <l>Niin sulo rauhapa varmistuu, sopu kasvaa, ja vaimo</l>
+                  <l>Mielihyvin heittä'ytyy käden turvihin tuon väkevämmän;</l>
+                  <l>Itse mies ihastuu hänehen ja, jos siks tulis', hengen</l>
+                  <l>Antaisi eest' armaan, samoin kuin tuo urhea koira</l>
+                  <l>Suttaki vastahan seisattuu tukemaan elukoita</l>
+                  <l>Valmiina taistelemaan, vaikk' uhkaapi kuolema häntä.</l>
+                  <l>Mut se, ku varsinkin tuottaa tääll' ihmisen onnen,</l>
+                  <l>Rauhallisen avion, sovun, lohdun ja tyytyvän mielen,</l>
+                  <l>Hurskaus on, hyvehestä jok' ei saa koskahan kyllää.</l>
+                  <l>Varjele, nuor' pari, tuo, yhä siin' elä vaan sekä liiku.</l>
+                  <l>On lepo, näet, hurskaan, kuin kankahan juurtunut honka,</l>
+                  <l>Vankka ja turvaisa; ei luja myrskyn eessä se notku:</l>
+                  <l>Yksin voiminki jos useat kokisi sitä kaata,</l>
+                  <l>Ei hevin käy; kädet tottunehet, iskut ravakimmat,</l>
+                  <l>Päiväki pitkä ja myös teräs-kirveet on tähän tarpeen".</l>
+                  <l>Siihenpä Pyylahen nyt Sakarin varoitus-puhe loppui.</l>
+               </lg>
+               <lg>
+                  <l>Kohta jo nähdä sai, miten nyt mykät toisien huulet</l>
+                  <l>Aukeni kiittämähän hänen noin helevää puhettansa.</l>
+                  <l>Mut lähimmällehen myös hiljaa moni kuiskasi korvaan:</l>
+                  <l>"Oi, jos niin, kuten nyt, Sakar' aamust' iltahan joisi,</l>
+                  <l>Kylläpä viisas, viisauteen joka mieltyypi, tarjois".</l>
+                  <l>Näin ne kun kuiskasivat ihastuin puhe-lahjahan tuohon,</l>
+                  <l>Pois Sakar' rehtava istumahan meni nyt sijallensa</l>
+                  <l>Pöydän päähän jo taas, johon kulmassa yhtyypi penkit.</l>
+                  <l>Ei toki tyhjentää maljaa unohuttanna tuossa</l>
+                  <l>Onneks viel' omien pysyväksi ja kieltähän käyttää</l>
+                  <l>Toimen niin asioiss' omissaan, kuten ynnäki muiden,</l>
+                  <l>Paljo kun, näet, elämäss' oli hän kokenut sekä nähnyt.</l>
+               </lg>
+               <lg>
+                  <l>Mut vaan Aarohon rehtevähän, joka laskenna viulun</l>
+                  <l>Penkillen ol' ja nyt otsastaan hi'en huoleti pyyhki,</l>
+                  <l>Kääns' yhäti silmät Komisarjus arvoisa herra.</l>
+                  <l>Niin älykäs tämä mielistyi hänehen, lähes että</l>
+                  <l>Rengistään parahast' ois luopua tahtonut ennen,</l>
+                  <l>Kuin i'äkkään nyt laskea pois talostaan. Olut-tuopin</l>
+                  <l>Vaahtovan toi viimein sekä tarjosi hälle ja lausui:</l>
+                  <l>"Aaro, jo virkistäi, kuten polskasi ansainna onkin,</l>
+                  <l>Niinkuin hongassa pohjainen, näet, kohis' soittosi aivan:</l>
+                  <l>Sitten kerjääjä-sauvasi voit tulehenki jo heittää.</l>
+                  <l>Ystävä, tääll' elä vaan nyt vanhoillas surutonna,</l>
+                  <l>Syöttiä onkia saat, kesäll' aina kun koukkuja lasken,</l>
+                  <l>Ajaa pois siat pellostan', kanat istutti-maastan'.</l>
+                  <l>Olkoon tuo kesä-työnäsi; mut kovemman koko talven</l>
+                  <l>Suussasi piippu sä saat tuvass' istua verkkoja mulle</l>
+                  <l>Vaan kutoen, samoin parsien myös rysiän' sekä nuottaan'".</l>
+               </lg>
+               <lg>
+                  <l>Mielin herkkenevin nyt haarikon ottipa Aaro</l>
+                  <l>Niin ylentäin muodon, ett' tuskinpa paisuva kyynel</l>
+                  <l>Vieriä saattoi, ja vastasi het' ihastuin: "Minä kiitän</l>
+                  <l>Nyt Jumalaa, tyköhönne ku vei minut, arvoisa herra!</l>
+                  <l>Paljo jo o'on kokenut, pahin ol' toki harmaja-päänä</l>
+                  <l>Kulkea ympäri, kuin ilmass' ajelehtava pilvi,</l>
+                  <l>Paikkaa tietämättä, levon missä mä harrotun saanen.</l>
+                  <l>Usein kulkiessan' pitäjissä mä tieltäni katsoin</l>
+                  <l>Kirkon-tarhoja kohti ja aattelin näin suru-mielin:</l>
+                  <l>'Kurjimmallaki, näet, kyläss', Aaro, min nyt läpi astut,</l>
+                  <l>Turva ja linna tok' on sisäll' aidan rauhovan tuolla;</l>
+                  <l>Sun vaan pääs väsynyt mihin kerran on vaipuva, etpä</l>
+                  <l>Tiedä, ja jäät vieraaks elämän taloss' aina ja kuolon'.</l>
+                  <l>Aattelin näin, hyvä, arvoisa herra, ja eelleni riensin.</l>
+                  <l>Nyt olen onnelias, eläessä kun on koto mulla'i,</l>
+                  <l>Kuollessan' koto myös, jollen joku ystävä taukoo</l>
+                  <l>Lausuen: 'tässä se talletahan hovin Aaromme vanha.</l>
+                  <l>Lampi nyt ei enähän sen huomen-virsiä kai'u,</l>
+                  <l>Ei tupa harppuakaan, rauhaan kuni nukkui jo äijä'."</l>
+                  <l>Virkkoi, ja itk' iloissaan sekä vaahtavan joi oluensa.</l>
+               </lg>
+               <lg>
+                  <l>Näin nämä juttelivat, mut vartoen kuunteli muut vaan.</l>
+                  <l>Sitte jo taas toimeen asetettihin hilpeä tanssi,</l>
+                  <l>Ollen köyhä ja rikkakin nyt ylen miel'-hyvillänsä;</l>
+                  <l>Viuluja, näet, ei puuttunnakaan, ei hyrryä harppuin,</l>
+                  <l>Eikä minettiä, polskoja, ei pakinoita ja ol'tta,</l>
+                  <l>Siellä kun vietettiin yö-kaus' jahin onnea oivaa,</l>
+                  <l>Niin myös lempivien nopeaa tätä kihlaus-juhlaa.</l>
+               </lg>
+               <p rend="justify">Viiteselitykset:</p>
+               <p rend="justify">[1] Ingman: 1853 vuoden, Litteraturbladissa siv. 7 ja seur.</p>
+               <p rend="justify">Lönnrot: 1855 v. Suomikirjassa s. 271 ja seur.</p>
+               <p rend="justify">Ahlqvist: Suomalaisessa Runous-opissaan, s. 90 ja seur.</p>
+               <p rend="justify">Genetz: 1873 v, Koitar-Albumissa, s. 162 ja seur.</p>
+               <p rend="justify">[2] Genetz sivu 163.</p>
+               <p rend="justify">[3] Ingman, sivu 8, a).</p>
+               <p rend="justify">[4] Vrt. Lönnrot s. 274.</p>
+               <p rend="justify">[5] Lönnrot, sivu 273 alh.</p>
+               <p rend="justify">[6] Tämä sääntö, vaikka kohta säästäen käytettynä, on varmaan uutuutensa vuoksi saava monta vastustajaa; vaan eihän se vanhoillaan oleminenkaan aina kelpaa, jos on mieli edistyä. Pankoon vaan jokainen kuusimitan käyttäjä kortensa kokoon, ja luulisin niitä perkamalla viimeinki tulevamme selville.</p>
+               <p rend="justify">[7] Ahlqvist, § 66, 7.</p>
+               <p rend="justify">[8] F. Kollan, Finsk Språklära, § 103. Anm. 3.</p>
+               <p rend="justify">[9] Ahlqvist, § 27. 1, 2.</p>
+               <p rend="justify">[10] Sivu 170, 4, Vrt. Ahlqvist § 66, 6.</p>
+               <p rend="justify">[11] Genetz. sivu 169, r. 21 ylh. ja 171, 6.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

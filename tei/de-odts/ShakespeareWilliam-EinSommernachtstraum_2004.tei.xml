@@ -1,0 +1,3555 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ein Sommernachtstraum</title>
+            <author>William Shakespeare</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-01T19:14:11Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">odts/de-odts/ShakespeareWilliam-EinSommernachtstraum_2004.epub.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>William Shakespeare</name>
+               <date>2024-01-01T19:14:11Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Ein Sommernachtstraum</head>
+         <author>William Shakespeare</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">odts/de-odts/ShakespeareWilliam-EinSommernachtstraum_2004.epub.odt</p>
+         <pb/>
+         <div type="div1">
+            <head>Ein Sommernachtstraum</head>
+            <p rend="justify">Thanks are given to Delphine Lettau for finding a huge collection of ancient</p>
+            <p rend="justify">German books in London.</p>
+            <p rend="justify">This Etext is in German.</p>
+            <p rend="justify">We are releasing two versions of this Etext, one in 7-bit format, known as Plain Vanilla ASCII, which can be sent via plain email— and one in 8-bit format, which includes higher order characters— which requires a binary transfer, or sent as email attachment and may require more specialized programs to display the accents. This is the 8-bit version.</p>
+            <lg>
+               <l>This book content was graciously contributed by the Gutenberg Projekt-DE.</l>
+               <l>That project is reachable at the web site http://gutenberg2000.de.</l>
+            </lg>
+            <p rend="justify">Dieses Buch wurde uns freundlicherweise vom "Gutenberg Projekt-DE" zur Verfügung gestellt. Das Projekt ist unter der Internet-Adresse http://gutenberg2000.de erreichbar.</p>
+            <p rend="justify">Ein Sommernachtstraum</p>
+            <p rend="justify">William Shakespeare</p>
+            <p rend="justify">(Übersetzt von August Wilhelm von Schlegel)</p>
+            <p rend="justify">Personen:</p>
+            <p rend="justify">Theseus, (Herzog von Athen)</p>
+            <p rend="justify">Egeus, (Vater der Hermia)</p>
+            <p rend="justify">Lysander und Demetrius, (Liebhaber der Hermia)</p>
+            <p rend="justify">Philostrat, (Aufseher der Lustbarkeiten am Hofe des Theseus)</p>
+            <p rend="justify">Squenz, (der Zimmermann)</p>
+            <p rend="justify">Schnock, (der Schreiner)</p>
+            <p rend="justify">Zettel, (der Weber)</p>
+            <p rend="justify">Flaut, (der Bälgenflicker)</p>
+            <p rend="justify">Schnauz, (der Kesselflicker)</p>
+            <p rend="justify">Schlucker, (der Schneider)</p>
+            <p rend="justify">Hippolyta, (Königin der Amazonen, mit Theseus verlobt)</p>
+            <p rend="justify">Hermia, (Tochter des Egeus, in Lysander verliebt)</p>
+            <p rend="justify">Helena, (in Demetrius verliebt)</p>
+            <p rend="justify">Oberon(, König der Elfen)</p>
+            <p rend="justify">Titania, (Königin der Elfen)</p>
+            <p rend="justify">Droll, (ein Elf)</p>
+            <p rend="justify">Bohnenblüte, Spinnweb, Motte und Senfsamen, (Elfen)</p>
+            <lg>
+               <l>Pyramus, Thisbe, Wand, Mondschein und Löwe,</l>
+               <l>(Rollen in dem Zwischenspiel, das von den Rüpeln vorgestellt wird)</l>
+            </lg>
+            <p rend="justify">(Andre Elfen, im Gefolge des Königs und der Königin)</p>
+            <p rend="justify">(Gefolge des Theseus und der Hippolyta)</p>
+            <p rend="justify">Szene: Athen und ein nahegelegener Wald</p>
+            <p rend="justify">Erster Aufzug</p>
+            <p rend="justify">Erste Szene</p>
+            <lg>
+               <l>Ein Saal im Palaste des Theseus</l>
+               <l>(Theseus, Hippolyta, Philostrat und Gefolge treten auf)</l>
+            </lg>
+            <lg>
+               <l>Theseus.</l>
+               <l>Nun rückt, Hippolyta, die Hochzeitsstunde</l>
+               <l>Mit Eil heran; vier frohe Tage bringen</l>
+               <l>Den neuen Mond; doch, o wie langsam nimmt</l>
+               <l>Der alte ab! Er hält mein Sehnen hin,</l>
+               <l>Gleich einer Witwe, deren dürres Alter</l>
+               <l>Von ihres Stiefsohns Renten lange zehrt.</l>
+            </lg>
+            <lg>
+               <l>Hippolyta.</l>
+               <l>Vier Tage tauchen sich ja schnell in Nächte,</l>
+               <l>Vier Nächte träumen schnell die Zeit hinweg:</l>
+               <l>Dann soll der Mond, gleich einem Silberbogen,</l>
+               <l>Am Himmel neu gespannt, die Nacht beschaun</l>
+               <l>Von unserm Fest.</l>
+            </lg>
+            <lg>
+               <l>Theseus.</l>
+               <l>Geh, Philostrat, berufe</l>
+               <l>Die junge Welt Athens zu Lustbarkeiten!</l>
+               <l>Erweck den raschen, leichten Geist der Lust,</l>
+               <l>Den Gram verweise hin zu Leichenzügen:</l>
+               <l>Der bleiche Gast geziemt nicht unserm Pomp.</l>
+            </lg>
+            <p rend="justify">(Philostrat ab.)</p>
+            <lg>
+               <l>Hippolyta! ich habe mit dem Schwert</l>
+               <l>Um dich gebuhlt, durch angetanes Leid</l>
+               <l>Dein Herz gewonnen; doch ich stimme nun</l>
+               <l>Aus einem andern Ton, mit Pomp, Triumph,</l>
+               <l>Bankett und Spielen die Vermählung an.</l>
+            </lg>
+            <p rend="justify">(Egeus, Hermia, Lysander und Demetrius treten auf.)</p>
+            <lg>
+               <l>Egeus.</l>
+               <l>Dem großen Theseus, unserm Herzog, Heil!</l>
+            </lg>
+            <lg>
+               <l>Theseus.</l>
+               <l>Mein guter Egeus, Dank! Was bringst du Neues?</l>
+            </lg>
+            <lg>
+               <l>Egeus.</l>
+               <l>Verdrusses voll erschein ich und verklage</l>
+               <l>Mein Kind hier, meine Tochter Hermia.—</l>
+               <l>Tritt her, Demetrius.—Erlauchter Herr,</l>
+               <l>Dem da verhieß mein Wort zum Weibe sie.</l>
+               <l>Tritt her, Lysander.—Und, mein gnädger Fürst,</l>
+               <l>Der da betörte meines Kindes Herz.</l>
+               <l>Ja! Du, Lysander, du hast Liebespfänder</l>
+               <l>Mit ihr getauscht: du stecktest Reim ihr zu;</l>
+               <l>Du sangst im Mondlicht unter ihrem Fenster</l>
+               <l>Mit falscher Stimme Lieder falscher Liebe;</l>
+               <l>Du stahlst den Abdruck ihrer Phantasie</l>
+               <l>Mit Flechten deines Haares, buntem Tand,</l>
+               <l>Mit Ringen, Sträußen, Näschereien (Boten</l>
+               <l>Von viel Gewicht bei unbefangner Jugend);</l>
+               <l>Entwandest meiner Tochter Herz mit List</l>
+               <l>Verkehrtest ihren kindlichen Gehorsam</l>
+               <l>In eigensinngen Trotz.—Und nun, mein Fürst,</l>
+               <l>Verspricht sie hier vor Eurer Hoheit nicht</l>
+               <l>Sich dem Demetrius zur Eh, so fordr ich</l>
+               <l>Das alte Bürgervorrecht von Athen,</l>
+               <l>Mit ihr, wie sie mein eigen ist, zu schalten.</l>
+               <l>Dann übergeb ich diesem Manne sie,</l>
+               <l>Wo nicht, dem Tode, welchen unverzüglich</l>
+               <l>In diesem Falle das Gesetz verhängt.</l>
+            </lg>
+            <lg>
+               <l>Theseus.</l>
+               <l>Was sagt Ihr, Hermia? Laßt Euch raten, Kind.</l>
+               <l>Der Vater sollte wie ein Gott Euch sein,</l>
+               <l>Der Euren Reiz gebildet; ja, wie einer,</l>
+               <l>Dem Ihr nur seid wie ein Gepräg, in Wachs</l>
+               <l>Von seiner Hand gedrückt, wie's ihm gefällt,</l>
+               <l>Es stehnzulassen oder auszulöschen.</l>
+               <l>Demetrius ist ja ein wackrer Mann.</l>
+            </lg>
+            <lg>
+               <l>Hermia.</l>
+               <l>Lysander auch.</l>
+            </lg>
+            <lg>
+               <l>Theseus.</l>
+               <l>An sich betrachtet wohl;</l>
+               <l>So aber, da des Vaters Stimm ihm fehlt,</l>
+               <l>Müßt Ihr für wackrer doch den andern achten.</l>
+            </lg>
+            <lg>
+               <l>Hermia.</l>
+               <l>O säh mein Vater nur mit meinen Augen!</l>
+            </lg>
+            <lg>
+               <l>Theseus.</l>
+               <l>Eur Auge muß nach seinem Urteil sehn.</l>
+            </lg>
+            <lg>
+               <l>Hermia.</l>
+               <l>Ich bitt Euch, gnädger Fürst, mir zu verzeihn.</l>
+               <l>Ich weiß nicht, welche Macht mir Kühnheit gibt,</l>
+               <l>Noch wie es meiner Sittsamkeit geziemt,</l>
+               <l>In solcher Gegenwart das Wort zu führen;</l>
+               <l>Doch dürft ich mich zu fragen unterstehn:</l>
+               <l>Was ist das Härtste, das mich treffen kann,</l>
+               <l>Verweigr ich dem Demetrius die Hand?</l>
+            </lg>
+            <lg>
+               <l>Theseus.</l>
+               <l>Den Tod zu sterben oder immerdar</l>
+               <l>Den Umgang aller Männer abzuschwören.</l>
+               <l>Drum fraget Eure Wünsche, schönes Kind,</l>
+               <l>Bedenkt die Jugend, prüfet Euer Blut,</l>
+               <l>Ob Ihr die Nonnentracht ertragen könnt,</l>
+               <l>Wenn Ihr der Wahl des Vaters widerstrebt,</l>
+               <l>Im dumpfen Kloster ewig eingesperrt</l>
+               <l>Als unfruchtbare Schwester zu verharren,</l>
+               <l>Den keuschen Mond mit matten Hymnen feiernd.</l>
+               <l>O dreimal selig, die, des Bluts Beherrscher,</l>
+               <l>So jungfräuliche Pilgerschaft bestehn!</l>
+               <l>Doch die gepflückte Ros ist irdischer beglückt,</l>
+               <l>Als die am unberührten Dorne welkend</l>
+               <l>Wächst, lebt und stirbt in heilger Einsamkeit.</l>
+            </lg>
+            <lg>
+               <l>Hermia.</l>
+               <l>So will ich leben, gnädger Herr, so sterben,</l>
+               <l>Eh ich den Freiheitsbrief des Mädchentums</l>
+               <l>Der Herrschaft dessen überliefern will,</l>
+               <l>Des unwillkommnem Joche mein Gemüt</l>
+               <l>Die Huldigung versagt.</l>
+            </lg>
+            <lg>
+               <l>Theseus.</l>
+               <l>Nehmt Euch Bedenkzeit; auf den nächsten Neumond,</l>
+               <l>Den Tag, der zwischen mir und meiner Lieben</l>
+               <l>Den ewgen Bund der Treu besiegeln wird;</l>
+               <l>Auf diesen Tag bereitet Euch, zu sterben</l>
+               <l>Für Euren Ungehorsam, oder nehmt</l>
+               <l>Demetrius zum Gatten, oder schwört</l>
+               <l>Auf ewig an Dianens Weihaltar</l>
+               <l>Ehlosen Stand und Abgeschiedenheit.</l>
+            </lg>
+            <lg>
+               <l>Demetrius.</l>
+               <l>Gebt, Holde, nach; gib gegen meine Rechte,</l>
+               <l>Lysander, deinen kahlen Anspruch auf.</l>
+            </lg>
+            <lg>
+               <l>Lysander.</l>
+               <l>Demetrius, Ihr habt des Vaters Liebe:</l>
+               <l>Nehmt ihn zum Weibe; laßt mir Hermia.</l>
+            </lg>
+            <lg>
+               <l>Egeus.</l>
+               <l>Ganz recht, du Spötter! Meine Liebe hat er;</l>
+               <l>Was mein ist, wird ihm meine Liebe geben;</l>
+               <l>Und sie ist mein; und alle meine Rechte</l>
+               <l>An sie verschreib ich dem Demetrius.</l>
+            </lg>
+            <lg>
+               <l>Lysander.</l>
+               <l>Ich bin, mein Fürst, so edlen Stamms wie er;</l>
+               <l>So reich an Gut; ich bin an Liebe reicher;</l>
+               <l>Mein Glücksstand hält die Waag auf alle Weise</l>
+               <l>Dem seinigen, wo er nicht überwiegt;</l>
+               <l>Und (dies gilt mehr als jeder andre Ruhm)</l>
+               <l>Ich bin es, den die schöne Hermia liebt.</l>
+               <l>Wie sollt ich nicht bestehn auf meinem Recht?</l>
+               <l>Demetrius (ich will's auf seinen Kopf</l>
+               <l>Beteuern) buhlte sonst um Helena,</l>
+               <l>Die Tochter Nedars, und gewann ihr Herz:</l>
+               <l>Und sie, das holde Kind, schwärmt nun für ihn,</l>
+               <l>Schwärmt andachtsvoll, ja mit Abgötterei</l>
+               <l>Für diesen schuldgen, flatterhaften Mann.</l>
+            </lg>
+            <lg>
+               <l>Theseus.</l>
+               <l>Ich muß gestehn, daß ich dies auch gehört</l>
+               <l>Und mit Demetrius davon zu sprechen</l>
+               <l>Mir vorgesetzt; nur, da ich überhäuft</l>
+               <l>Mit eignen Sorgen bin, entfiel es mir.</l>
+               <l>Doch ihr, Demetrius und Egeus, kommt!</l>
+               <l>Ihr müßt jetzt mit mir gehn, weil ich mit euch</l>
+               <l>Verschiednes insgeheim verhandeln will.</l>
+               <l>Ihr, schöne Hermia, rüstet Euch, dem Sinn</l>
+               <l>Des Vaters Eure Grillen anzupassen;</l>
+               <l>Denn sonst bescheidet Euch Athens Gesetz,</l>
+               <l>Das wir auf keine Weise schmälern können,</l>
+               <l>Tod oder ein Gelübd des ledgen Standes.</l>
+               <l>Wie geht's, Hippolyta? Kommt, meine Traute!</l>
+               <l>Ihr, Egeus und Demetrius, geht mit!</l>
+               <l>Ich hab euch noch Geschäfte aufzutragen</l>
+               <l>Für unser Fest; auch muß ich noch mit euch</l>
+               <l>Von etwas reden, was euch nah betrifft.</l>
+            </lg>
+            <lg>
+               <l>Egeus.</l>
+               <l>Dienstwillig und mit Freuden folgen wir.</l>
+            </lg>
+            <p rend="justify">(Theseus, Hippolyta, Egeus, Demetrius und Gefolge ab.)</p>
+            <lg>
+               <l>Lysander.</l>
+               <l>Nun, liebes Herz? Warum so blaß die Wange?</l>
+               <l>Wie sind die Rosen dort so schnell verwelkt?</l>
+            </lg>
+            <lg>
+               <l>Hermia.</l>
+               <l>Vielleicht, weil Regen fehlt, womit gar wohl</l>
+               <l>Sie mein umwölktes Auge netzen könnte.</l>
+            </lg>
+            <lg>
+               <l>Lysander.</l>
+               <l>Weh mir! Nach allem, was ich jemals las</l>
+               <l>Und jemals hört in Sagen und Geschichten,</l>
+               <l>Rann nie der Strom der treuen Liebe sanft;</l>
+               <l>Denn bald war sie verschieden an Geburt—</l>
+            </lg>
+            <lg>
+               <l>Hermia.</l>
+               <l>O Qual! zu hoch, vor Niedrigem zu knien!</l>
+            </lg>
+            <lg>
+               <l>Lysander.</l>
+               <l>Bald war sie in den Jahren mißgepaart—</l>
+            </lg>
+            <lg>
+               <l>Hermia.</l>
+               <l>O Schmerz! zu alt, mit jung vereint zu sein!</l>
+            </lg>
+            <lg>
+               <l>Lysander.</l>
+               <l>Bald hing sie ab von der Verwandten Wahl—</l>
+            </lg>
+            <lg>
+               <l>Hermia.</l>
+               <l>O Tod! mit fremdem Aug den Liebsten wählen!</l>
+            </lg>
+            <lg>
+               <l>Lysander.</l>
+               <l>Und war auch Sympathie in ihrer Wahl,</l>
+               <l>So stürmte Krieg, Tod, Krankheit auf sie ein</l>
+               <l>Und macht' ihr Glück gleich einem Schalle flüchtig,</l>
+               <l>Wie Schatten wandelbar, wie Träume kurz,</l>
+               <l>Schnell wie der Blitz, der in geschwärzter Nacht</l>
+               <l>Himmel und Erd in einem Wink entfaltet;</l>
+               <l>Doch eh ein Mensch vermag zu sagen: schaut!</l>
+               <l>Schlingt gierig ihn die Finsternis hinab:</l>
+               <l>So schnell verdunkelt sich des Glückes Schein.</l>
+            </lg>
+            <lg>
+               <l>Hermia.</l>
+               <l>Wenn Leid denn immer treue Liebe traf,</l>
+               <l>So steht es fest im Rate des Geschicks.</l>
+               <l>Drum laß Geduld uns durch die Prüfung lernen,</l>
+               <l>Weil Leid der Liebe so geeignet ist</l>
+               <l>Wie Träume, Seufzer, stille Wünsche, Tränen,</l>
+               <l>Der armen kranken Leidenschaft Gefolge.</l>
+            </lg>
+            <lg>
+               <l>Lysander.</l>
+               <l>Ein guter Glaube! Hör denn, Hermia!</l>
+               <l>Es liegt nur sieben Meilen von Athen</l>
+               <l>Das Haus 'ner alten Witwe, meiner Muhme;</l>
+               <l>Sie lebt von großen Renten, hat kein Kind</l>
+               <l>Und achtet mich wie ihren einzgen Sohn.</l>
+               <l>Dort, Holde, darf ich mich mit dir vermählen,</l>
+               <l>Dorthin verfolgt das grausame Gesetz</l>
+               <l>Athens uns nicht: liebst du mich denn, so schleiche</l>
+               <l>Aus deines Vaters Hause morgen nacht</l>
+               <l>Und in den Wald 'ne Meile von der Stadt,</l>
+               <l>Wo ich einmal mit Helena dich traf,</l>
+               <l>Um einen Maienmorgen zu begehn;</l>
+               <l>Da will ich deiner warten.</l>
+            </lg>
+            <lg>
+               <l>Hermia.</l>
+               <l>Mein Lysander!</l>
+               <l>Ich schwör es dir bei Amors stärkstem Bogen,</l>
+               <l>Bei seinem besten, goldgespitzten Pfeil</l>
+               <l>Und bei der Unschuld von Cytherens Tauben;</l>
+               <l>Bei dem, was Seelen knüpft in Lieb und Glauben;</l>
+               <l>Bei jenem Feur, wo Dido einst verbrannt,</l>
+               <l>Als der Trojaner falsch sich ihr entwand;</l>
+               <l>Bei jedem Schwur, den Männer je gebrochen,</l>
+               <l>Mehr an der Zahl, als Frauen je gesprochen;</l>
+               <l>Du findest sicher morgen mitternacht</l>
+               <l>Mich an dem Platz, wo wir es ausgemacht.</l>
+            </lg>
+            <lg>
+               <l>Lysander.</l>
+               <l>Halt, Liebe, Wort! Sieh, da kommt Helena.</l>
+            </lg>
+            <p rend="justify">(Helena tritt auf.)</p>
+            <lg>
+               <l>Hermia.</l>
+               <l>Gott grüß Euch, schönes Kind! Wohin soll's gehn?</l>
+            </lg>
+            <lg>
+               <l>Helena.</l>
+               <l>Schön nennt Ihr mich?—Nein, widerruft dies Schön!</l>
+               <l>Euch liebt Demetrius, beglückte Schöne!—</l>
+               <l>Ein Angelstern ist Euer Aug; die Töne</l>
+               <l>Der Lippe süßer, als der Lerche Lied</l>
+               <l>Dem Hirten scheint, wenn alles grünt und blüht.</l>
+               <l>Krankheit steckt an; o tät's Gestalt und Wesen!</l>
+               <l>Nie wollt ich, angesteckt von Euch, genesen.</l>
+               <l>Mein Aug lieh' Euren Blick, die Zunge lieh'</l>
+               <l>Von Eurer Zunge Wort und Melodie.</l>
+               <l>Wär mein die Welt, ich ließ damit Euch schalten,</l>
+               <l>Nur diesen Mann wollt ich mir vorbehalten.</l>
+               <l>O lehrt mich, wie Ihr blickt! Durch welche Kunst</l>
+               <l>Hängt so Demetrius an Eurer Gunst?</l>
+            </lg>
+            <lg>
+               <l>Hermia.</l>
+               <l>Er liebt mich stets, trotz meinen finstern Mienen.</l>
+            </lg>
+            <lg>
+               <l>Helena.</l>
+               <l>O lernte das mein Lächeln doch von ihnen!</l>
+            </lg>
+            <lg>
+               <l>Hermia.</l>
+               <l>Ich fluch ihm, doch das nährt sein Feuer nur.</l>
+            </lg>
+            <lg>
+               <l>Helena.</l>
+               <l>Ach, hegte solche Kraft mein Liebesschwur!</l>
+            </lg>
+            <lg>
+               <l>Hermia.</l>
+               <l>Je mehr gehaßt, je mehr verfolgt er mich.</l>
+            </lg>
+            <lg>
+               <l>Helena.</l>
+               <l>Je mehr geliebt, je ärger haßt er mich.</l>
+            </lg>
+            <lg>
+               <l>Hermia.</l>
+               <l>Soll ich denn schuld an seiner Torheit sein?</l>
+            </lg>
+            <lg>
+               <l>Helena.</l>
+               <l>Nur Eure Schönheit: wär die Schuld doch mein!</l>
+            </lg>
+            <lg>
+               <l>Hermia.</l>
+               <l>Getrost! ich werd ihm mein Gesicht entziehen.</l>
+               <l>Lysander wird mit mir von hinnen fliehen.</l>
+               <l>Vor jener Zeit, als ich Lysandern sah,</l>
+               <l>Wie schien Athen ein Paradies mir da!</l>
+               <l>Nun denn, wofür sind Reize wohl zu achten,</l>
+               <l>Die einen Himmel mir zur Hölle machten?</l>
+            </lg>
+            <lg>
+               <l>Lysander.</l>
+               <l>Laß, Helena, dir unsern Schluß vertrauen:</l>
+               <l>Wenn morgen Phöbe die begrünten Auen</l>
+               <l>Mit ihrer Perlen feuchtem Schmuck betaut</l>
+               <l>Und ihre Stirn im Wellenspiegel schaut,</l>
+               <l>Wann Still' und Nacht verliebten Raub verhehlen,</l>
+               <l>Dann wollen wir zum Tor hinaus uns stehlen.</l>
+            </lg>
+            <lg>
+               <l>Hermia.</l>
+               <l>Und in dem Wald, wo oftmals ich und du</l>
+               <l>Auf Veilchenbetten pflogen sanfter Ruh,</l>
+               <l>Wo unsre Herzen schwesterlich einander</l>
+               <l>Sich öffneten, da trifft mich mein Lysander.</l>
+               <l>Wir suchen, von Athen hinweggewandt,</l>
+               <l>Uns neue Freunde dann in fremdem Land.</l>
+               <l>Leb wohl, Gespielin, bete für uns beide!</l>
+               <l>Demetrius sei deines Herzens Freude!</l>
+               <l>Lysander, halte Wort!—Was Lieb erquickt,</l>
+               <l>Wird unserm Blick bis morgen nacht entrückt.</l>
+            </lg>
+            <p rend="justify">(Ab.)</p>
+            <lg>
+               <l>Lysander.</l>
+               <l>Das will ich!—Lebet wohl nun, Helena!</l>
+               <l>Der Liebe Lohn sei Eurer Liebe nah.</l>
+            </lg>
+            <p rend="justify">(Ab.)</p>
+            <lg>
+               <l>Helena.</l>
+               <l>Wie kann das Glück so wunderlich doch schalten!</l>
+               <l>Ich werde für so schön als sie gehalten.</l>
+               <l>Was hilft es mir, solang Demetrius</l>
+               <l>Nicht wissen will, was jeder wissen muß?</l>
+               <l>Wie Wahn ihn zwingt, an Hermias Blick zu hangen,</l>
+               <l>Vergöttr ich ihn, von gleichem Wahn befangen.</l>
+               <l>Dem schlechteren Ding an Art und an Gehalt</l>
+               <l>Leiht Liebe dennoch Ansehn und Gestalt.</l>
+               <l>Sie sieht mit dem Gemüt, nicht mit den Augen,</l>
+               <l>Und ihr Gemüt kann nie zum Urteil taugen.</l>
+               <l>Drum nennt man ja den Gott der Liebe blind.</l>
+               <l>Auch malt man ihn geflügelt und als Kind,</l>
+               <l>Weil er, von Spiel zu Spielen fortgezogen,</l>
+               <l>In seiner Wahl so häufig wird betrogen.</l>
+               <l>Wie Buben oft im Scherze lügen, so</l>
+               <l>Ist auch Cupido falscher Schwüre froh.</l>
+               <l>Eh Hermia meinen Liebsten mußt entführen,</l>
+               <l>Ergoß er mir sein Herz in tausend Schwüren;</l>
+               <l>Doch kaum erwärmt von jener neuen Glut,</l>
+               <l>Verrann, versiegte diese wilde Flut.</l>
+               <l>Jetzt geh ich, Hermias Flucht ihm mitzuteilen;</l>
+               <l>Er wird ihr nach zum Walde morgen eilen.</l>
+               <l>Zwar, wenn er Dank für den Bericht mir weiß,</l>
+               <l>So kauf ich ihn um einen teuren Preis.</l>
+               <l>Doch will ich, mich für meine Müh zu laben,</l>
+               <l>Hin und zurück des Holden Anblick haben.</l>
+            </lg>
+            <p rend="justify">(Ab.)</p>
+            <p rend="justify">Zweite Szene</p>
+            <lg>
+               <l>Eine Stube in einer Hütte</l>
+               <l>(Squenz, Schnock, Zettel, Flaut, Schnauz und Schlucker kommen)</l>
+            </lg>
+            <lg>
+               <l>Squenz.</l>
+               <l>Ist unsre ganze Kompanie beisammen?</l>
+            </lg>
+            <p rend="justify">Zettel. Es wäre am besten, Ihr riefet sie auf einmal Mann für Mann auf, wie es die Liste gibt.</p>
+            <p rend="justify">Squenz. Hier ist der Zettel von jedermanns Namen, der in ganz Athen für tüchtig gehalten wird, in unserm Zwischenspiel vor dem Herzog und der Herzogin zu agieren, an seinem Hochzeitstag zu Nacht.</p>
+            <p rend="justify">Zettel. Erst, guter Peter Squenz, sag uns, wovon das Stück handelt; dann lies die Namen der Akteure ab und komm so zur Sache.</p>
+            <p rend="justify">Squenz. Wetter, unser Stück ist—die höchst klägliche Komödie und der höchst grausame Tod des Pyramus und der Thisbe.</p>
+            <lg>
+               <l>Zettel.</l>
+               <l>Ein sehr gutes Stück Arbeit, ich sag's euch! und lustig!—</l>
+               <l>Nun, guter Peter Squenz, ruf die Akteure nach dem Zettel</l>
+               <l>auf.—Meister, stellt euch auseinander!</l>
+            </lg>
+            <lg>
+               <l>Squenz.</l>
+               <l>Antwortet, wie ich euch rufe!—Klaus Zettel, der Weber.</l>
+            </lg>
+            <lg>
+               <l>Zettel.</l>
+               <l>Hier! Sagt, was ich für einen Part habe, und dann weiter.</l>
+            </lg>
+            <lg>
+               <l>Squenz.</l>
+               <l>Ihr, Klaus Zettel, seid als Pyramus angeschrieben.</l>
+            </lg>
+            <lg>
+               <l>Zettel.</l>
+               <l>Was ist Pyramus ? Ein Liebhaber oder ein Tyrann?</l>
+            </lg>
+            <p rend="justify">Squenz. Ein Liebhaber, der sich auf die honetteste Manier vor Liebe umbringt.</p>
+            <p rend="justify">Zettel. Das wird einige Tränen kosten bei einer wahrhaftigen Vorstellung. Wenn ich's mache, laßt die Zuhörer nach ihren Augen sehn! Ich will Sturm erregen, ich will einigermaßen lamentieren. Nun zu den übrigen;—eigentlich habe ich noch das beste Genie zu einem Tyrannen; ich könnte einen Herkles kostbarlich spielen, oder eine Rolle, wo man alles kurz und klein schlagen muß.</p>
+            <lg>
+               <l> Der Felsen Schoß</l>
+               <l>Und toller Stoß</l>
+               <l>Zerbricht das Schloß</l>
+               <l>    Der Kerkertür, Und Phöbus' Karrn</l>
+               <l>Kommt angefahrn</l>
+               <l>Und macht erstarrn</l>
+               <l>    Des stolzen Schicksals Zier.</l>
+               <l> Das ging prächtig.—Nun nennt die übrigen Akteure.—Dies ist</l>
+               <l>Herklessens Natur, eines Tyrannen Natur; ein Liebhaber ist</l>
+               <l>schon mehr lamentabel.</l>
+            </lg>
+            <lg>
+               <l>Squenz.</l>
+               <l>Franz Flaut, der Bälgenflicker!</l>
+            </lg>
+            <lg>
+               <l>Flaut.</l>
+               <l>Hier, Peter Squenz.</l>
+            </lg>
+            <lg>
+               <l>Squenz.</l>
+               <l>Flaut, Ihr müßt Thisbe über Euch nehmen.</l>
+            </lg>
+            <lg>
+               <l>Flaut.</l>
+               <l>Was ist Thisbe? ein irrender Ritter?</l>
+            </lg>
+            <lg>
+               <l>Squenz.</l>
+               <l>Es ist das Fräulein, das Pyramus lieben muß.</l>
+            </lg>
+            <p rend="justify">Flaut. Ne, meiner Seel, laßt mich keine Weiberrolle machen; ich kriege schon einen Bart.</p>
+            <p rend="justify">Squenz. Das ist alles eins! Ihr sollt's in einer Maske spielen und könnt so fein sprechen, als Ihr wollt.</p>
+            <lg>
+               <l>Zettel.</l>
+               <l>Wenn ich das Gesicht verstecken darf, so gebt mir Thisbe</l>
+               <l>auch. Ich will mit 'ner terribel feinen Stimme reden:</l>
+               <l>"Thisne, Thisne!—Ach Pyramus, mein Liebster schön! Deine</l>
+               <l>Thisbe schön und Fräulein schön!"</l>
+            </lg>
+            <p rend="justify">Squenz. Nein, nein! Ihr müßt den Pyramus spielen und, Flaut, Ihr, die Thisbe.</p>
+            <lg>
+               <l>Zettel.</l>
+               <l>Gut, nur weiter!</l>
+            </lg>
+            <lg>
+               <l>Squenz.</l>
+               <l>Matz Schlucker, der Schneider!</l>
+            </lg>
+            <lg>
+               <l>Schlucker.</l>
+               <l>Hier, Peter Squenz.</l>
+            </lg>
+            <lg>
+               <l>Squenz.</l>
+               <l>Matz Schlucker, Ihr müßt Thisbes Mutter spielen. Thoms</l>
+               <l>Schnauz, der Kesselflicker!</l>
+            </lg>
+            <lg>
+               <l>Schnauz.</l>
+               <l>Hier, Peter Squenz.</l>
+            </lg>
+            <lg>
+               <l>Squenz.</l>
+               <l>Ihr, des Pyramus Vater, ich selbst Thisbes Vater; Schnock,</l>
+               <l>der Schreiner, Ihr des Löwen Rolle. Und so wäre dann halt 'ne</l>
+               <l>Komödie in den Schick gebracht.</l>
+            </lg>
+            <p rend="justify">Schnock. Habt Ihr des Löwen Rolle aufgeschrieben? Bitt Euch, wenn Ihr sie habt, so gebt sie mir; denn ich habe einen schwachen Kopf zum Lernen.</p>
+            <lg>
+               <l>Squenz.</l>
+               <l>Ihr könnt sie (ex tempore) machen; es ist nichts wie brüllen.</l>
+            </lg>
+            <p rend="justify">Zettel. Laßt mich den Löwen auch spielen. Ich will brüllen, daß es einem Menschen im Leibe wohl tun soll, mich zu hören. Ich will brüllen, daß der Herzog sagen soll: "Noch mal brüllen! Noch mal brüllen!"</p>
+            <lg>
+               <l>Squenz.</l>
+               <l>Wenn Ihr es gar zu fürchterlich machtet, so würdet Ihr die</l>
+               <l>Herzogin und die Damen erschrecken, daß sie schrien, und</l>
+               <l>das brächte uns alle an den Galgen.</l>
+            </lg>
+            <lg>
+               <l>Alle.</l>
+               <l>Ja, das brächte uns an den Galgen, wie wir da sind.</l>
+            </lg>
+            <p rend="justify">Zettel. Zugegeben, Freunde! wenn ihr die Damen erst so erschreckt, daß sie um ihre fünf Sinne kommen, so werden sie unvernünftig genug sein, uns aufzuhängen. Aber ich will meine Stimme forcieren, ich will euch so sanft brüllen wie ein saugendes Täubchen:—ich will euch brüllen, als wär es 'ne Nachtigall.</p>
+            <p rend="justify">Squenz. Ihr könnt keine Rolle spielen als den Pyramus. Denn Pyramus ist ein Mann mit einem süßen Gesicht, ein hübscher Mann, wie man ihn nur an Festtagen verlangen kann, ein scharmanter, artiger Kavalier. Derhalben müßt Ihr platterdings den Pyramus spielen.</p>
+            <p rend="justify">Zettel. Gut, ich nehm's auf mich. In was für einem Bart könnt ich ihn wohl am besten spielen?</p>
+            <lg>
+               <l>Squenz.</l>
+               <l>Nu, in was für einem Ihr wollt.</l>
+            </lg>
+            <p rend="justify">Zettel. Ich will ihn machen entweder in dem strohfarbenen Bart, oder in dem orangegelben Bart, oder in dem karmesinroten Bart, in dem ganz gelben.</p>
+            <p rend="justify">Squenz. Hier, Meister, sind eure Rollen, und ich muß euch bitten, ermahnen und ersuchen, sie bis morgen nacht auswendig zu wissen. Trefft mich in dem Schloßwalde, eine Meile von der Stadt, bei Mondschein: da wollen wir probieren. Denn wenn wir in der Stadt zusammenkommen, werden wir ausgespürt, kriegen Zuhörer, und die Sache kommt aus. Zugleich will ich ein Verzeichnis von Artikeln machen, die zu unserm Spiele nötig sind. Ich bitt euch, bleibt mir nicht aus.</p>
+            <lg>
+               <l>Zettel.</l>
+               <l>Wir wollen kommen, und da können wir recht unverschämt und</l>
+               <l>herzhaft probieren. Gebt euch Mühe! Könnt eure Rollen perfekt!</l>
+               <l>Adieu!</l>
+            </lg>
+            <lg>
+               <l>Squenz.</l>
+               <l>Bei des Herzogs Eiche treffen wir uns.</l>
+            </lg>
+            <lg>
+               <l>Zettel.</l>
+               <l>Dabei bleibt's, es mag biegen oder brechen!</l>
+            </lg>
+            <p rend="justify">(Alle ab.)</p>
+            <p rend="justify">Zweiter Aufzug</p>
+            <p rend="justify">Erste Szene</p>
+            <lg>
+               <l>Ein Wald bei Athen</l>
+               <l>(Eine Elfe kommt von der einen Seite, Droll von der andern)</l>
+            </lg>
+            <lg>
+               <l>Droll.</l>
+               <l>He, Geist! Wo geht die Reise hin?</l>
+            </lg>
+            <lg>
+               <l>Elfe.</l>
+               <l>    Über Täler und Höhn,</l>
+               <l>    Durch Dornen und Steine,</l>
+               <l>    Über Gräben und Zäune,</l>
+               <l>    Durch Flammen und Seen</l>
+               <l>    Wandl' ich, schlüpf ich überall,</l>
+               <l>    Schneller als des Mondes Ball. Ich dien der Elfenkönigin</l>
+               <l>Und tau ihr Ring' aufs Grüne hin.</l>
+               <l>Die Primeln sind ihr Hofgeleit;</l>
+               <l>Ihr seht die Fleck' am goldnen Kleid,</l>
+               <l>Das sind Rubinen, Feengaben,</l>
+               <l>Wodurch sie süß mit Düften laben.</l>
+               <l>Nun such ich Tropfen Taus hervor</l>
+               <l>Und häng 'ne Perl in jeder Primel Ohr.</l>
+               <l>Leb wohl! ich geh, du täppischer Geselle!</l>
+               <l>Der Zug der Königin kommt auf der Stelle.</l>
+            </lg>
+            <lg>
+               <l>Droll.</l>
+               <l>Der König will sein Wesen nachts hier treiben.</l>
+               <l>Warnt nur die Königin, entfernt zu bleiben,</l>
+               <l>Weil Oberon vor wildem Grimme schnaubt,</l>
+               <l>Daß sie ein indisch Fürstenkind geraubt,</l>
+               <l>Als Edelknabe künftig ihr zu dienen;</l>
+               <l>Kein schönres Bübchen hat der Tag beschienen,</l>
+               <l>Und eifersüchtig fordert Ob'ron ihn,</l>
+               <l>Den rauhen Forst als Knappe zu durchziehn;</l>
+               <l>Doch sie versagt durchaus den holden Knaben,</l>
+               <l>Bekränzt ihn, will an ihm sich einzig laben.</l>
+               <l>Nun treffen sie sich nie in Wies und Hain,</l>
+               <l>Am klaren Quell, bei lustgem Sternenschein;</l>
+               <l>So zanken sie zu aller Elfen Schrecken,</l>
+               <l>Die sich geduckt in Eichelnäpfe stecken.</l>
+            </lg>
+            <lg>
+               <l>Elfe.</l>
+               <l>Wenn du nicht ganz dich zu verstellen weißt,</l>
+               <l>So bist du jener schlaue Poltergeist,</l>
+               <l>Der auf dem Dorf die Dirnen zu erhaschen,</l>
+               <l>Zu necken pflegt; den Milchtopf zu benaschen;</l>
+               <l>Durch den der Brau mißrät, und mit Verdruß</l>
+               <l>Die Hausfrau atemlos sich buttern muß;</l>
+               <l>Der oft bei Nacht den Wandrer irreleitet,</l>
+               <l>Dann schadenfroh mit Lachen ihn begleitet.</l>
+               <l>Doch wer dich freundlich grüßt, dir Liebes tut,</l>
+               <l>Dem hilfst du gern, und ihm gelingt es gut.</l>
+               <l>Bist du der Kobold nicht?</l>
+            </lg>
+            <lg>
+               <l>Droll.</l>
+               <l>Du hast's geraten,</l>
+               <l>Ich schwärme nachts umher auf solche Taten;</l>
+               <l>Oft lacht bei meinen Scherzen Oberon.</l>
+               <l>Ich locke wiehernd mit der Stute Ton</l>
+               <l>Den Hengst, den Haber kitzelt in der Nase;</l>
+               <l>Auch lausch ich wohl in der Gevatt'rin Glase</l>
+               <l>Wie ein gebratner Apfel, klein und rund;</l>
+               <l>Und wenn sie trinkt, fahr ich ihr an den Mund,</l>
+               <l>Daß ihr das Bier die platte Brust betriefet.</l>
+               <l>Zuweilen hält, in Trauermär vertiefet,</l>
+               <l>Die weise Muhme für den Schemel mich;</l>
+               <l>Ich gleit ihr weg, sie setzt zur Erde sich</l>
+               <l>Auf ihren Steiß und schreit: "Perdauz! " und hustet;</l>
+               <l>Der ganze Kreis hält sich die Seiten, prustet,</l>
+               <l>Lacht lauter dann, bis sich die Stimm erhebt:</l>
+               <l>Nein, solch ein Spaß sei nimmermehr erlebt!</l>
+               <l>Mach Platz nun, Elfchen, hier kommt Oberon.</l>
+            </lg>
+            <lg>
+               <l>Elfe.</l>
+               <l>Hier meine Königin.—O macht' er sich davon!</l>
+            </lg>
+            <p rend="justify">(Oberon mit seinem Zuge von der einen Seite, Titania mit dem ihrigen von der andern.)</p>
+            <lg>
+               <l>Oberon.</l>
+               <l>Schlimm treffen wir bei Mondenlicht, du stolze</l>
+               <l>Titania!</l>
+            </lg>
+            <lg>
+               <l>Titania.</l>
+               <l>Wie? Oberon ist hier,</l>
+               <l>Der Eifersüchtge? Elfen, schlüpft von hinnen,</l>
+               <l>Denn ich verschwor sein Bett und sein Gespräch.</l>
+            </lg>
+            <lg>
+               <l>Oberon.</l>
+               <l>Vermeßne, halt! Bin ich nicht dein Gemahl?</l>
+            </lg>
+            <lg>
+               <l>Titania.</l>
+               <l>So muß ich wohl dein Weib sein; doch ich weiß</l>
+               <l>Die Zeit, daß du dich aus dem Feenland</l>
+               <l>Geschlichen, tagelang als Corydon</l>
+               <l>Gesessen, spielend auf dem Haberrohr,</l>
+               <l>Und Minne der verliebten Phyllida</l>
+               <l>Gesungen hast.—Und warum kommst du jetzt</l>
+               <l>Von Indiens entferntestem Gebirg,</l>
+               <l>Als weil—ei denk doch!—weil die Amazone,</l>
+               <l>Die strotzende, hochaufgeschürzte Dame,</l>
+               <l>Dein Heldenliebchen, sich vermählen will?</l>
+               <l>Da kommst du denn, um ihrem Bette Heil</l>
+               <l>Und Segen zu verleihn.</l>
+            </lg>
+            <lg>
+               <l>Oberon.</l>
+               <l>Titania,</l>
+               <l>Wie kannst du dich vermessen, anzuspielen</l>
+               <l>Auf mein Verständnis mit Hippolyta?</l>
+               <l>Da du doch weißt, ich kenne deine Liebe</l>
+               <l>Zum Theseus? Locktest du im Dämmerlichte</l>
+               <l>Der Nacht ihn nicht von Perigunen weg,</l>
+               <l>Die er vorher geraubt? Warst du nicht schuld,</l>
+               <l>Daß er der schönen Ägle Treue brach,</l>
+               <l>Der Ariadne und Antiopa?</l>
+            </lg>
+            <lg>
+               <l>Titania.</l>
+               <l>Das sind die Grillen deiner Eifersucht!</l>
+               <l>Und nie seit Sommers Anfang trafen wir</l>
+               <l>Auf Hügeln noch im Tal, im Wald noch Wiese,</l>
+               <l>Am Kieselbrunnen, am beschilften Bach,</l>
+               <l>Noch an des Meeres Klippenstrand uns an</l>
+               <l>Und tanzten Ringel nach des Windes Pfeifen,</l>
+               <l>Daß dein Gezänk uns nicht die Lust verdarb.</l>
+               <l>Drum sog der Wind, der uns vergeblich pfiff,</l>
+               <l>Als wie zur Rache, böse Nebel auf</l>
+               <l>Vom Grund des Meers; die fielen auf das Land</l>
+               <l>Und machten jeden winzgen Bach so stolz,</l>
+               <l>Daß er des Bettes Dämme niederriß.</l>
+               <l>Drum schleppt der Stier sein Joch umsonst, der Pflüger</l>
+               <l>Vergeudet seinen Schweiß, das grüne Korn</l>
+               <l>Verfault, eh seine Jugend Bart gewinnt.</l>
+               <l>Leer steht die Hürd auf der ersäuften Flur,</l>
+               <l>Und Krähen prassen in der siechen Herde.</l>
+               <l>Verschlämmt vom Lehme liegt die Kegelbahn;</l>
+               <l>Unkennbar sind die artgen Labyrinthe</l>
+               <l>Im muntern Grün, weil niemand sie betritt.</l>
+               <l>Den Menschenkindern fehlt die Winterlust;</l>
+               <l>Kein Sang noch Jubel macht die Nächte froh.</l>
+               <l>Drum hat der Mond, der Fluten Oberherr,</l>
+               <l>Vor Zorne bleich, die ganze Luft gewaschen</l>
+               <l>Und fieberhafter Flüsse viel erzeugt.</l>
+               <l>Durch eben die Zerrüttung wandeln sich</l>
+               <l>Die Jahreszeiten; silberhaarger Frost</l>
+               <l>Fällt in den zarten Schoß der Purpurrose;</l>
+               <l>Indes ein würzger Kranz von Sommerknospen</l>
+               <l>Auf Hiems' Kinn und der beeisten Scheitel</l>
+               <l>Als wie zum Spotte prangt. Der Lenz, der Sommer,</l>
+               <l>Der zeitigende Herbst, der zornge Winter,</l>
+               <l>Sie alle tauschen die gewohnte Tracht,</l>
+               <l>Und die erstaunte Welt erkennt nicht mehr</l>
+               <l>An ihrer Frucht und Art, wer jeder ist.</l>
+               <l>Und diese ganze Brut von Plagen kommt</l>
+               <l>Von unserm Streit, von unserm Zwiespalt her;</l>
+               <l>Wir sind davon die Stifter und Erzeuger.</l>
+            </lg>
+            <lg>
+               <l>Oberon.</l>
+               <l>So hilf dem ab! Es liegt an dir. Warum</l>
+               <l>Kränkt ihren Oberon Titania?</l>
+               <l>Ich bitte nur ein kleines Wechselkind</l>
+               <l>Zum Edelknaben.</l>
+            </lg>
+            <lg>
+               <l>Titania.</l>
+               <l>Gib dein Herz zur Ruh!</l>
+               <l>Das Feenland kauft mir dies Kind nicht ab;</l>
+               <l>Denn seine Mutter war aus meinem Orden</l>
+               <l>Und hat in Indiens gewürzter Luft</l>
+               <l>Gar oft mit mir die Nächte weggeschwatzt.</l>
+               <l>Wir saßen auf Neptunus' gelbem Sand,</l>
+               <l>Sahn nach den Handelsschiffen auf der Flut</l>
+               <l>Und lachten, wenn vom üppgen Spiel des Windes</l>
+               <l>Der Segel schwangrer Leib zu schwellen schien.</l>
+               <l>Dies ahmte sie, mit kleinen Schritten wankend</l>
+               <l>(Ihr Leib trug damals meinen kleinen Junker),</l>
+               <l>Aus Torheit nach und segelt' auf dem Lande</l>
+               <l>Nach Spielereien aus und kehrte, reich</l>
+               <l>An Ware, wie von einer Reise, heim.</l>
+               <l>Doch sie, ein sterblich Weib, starb an dem Kinde,</l>
+               <l>Und ihr zulieb erzieh ich nun das Kind,</l>
+               <l>Und ihr zuliebe geb ich es nicht weg.</l>
+            </lg>
+            <lg>
+               <l>Oberon.</l>
+               <l>Wie lange denkt Ihr hier im Hain zu weilen?</l>
+            </lg>
+            <lg>
+               <l>Titania.</l>
+               <l>Vielleicht bis nach des Theseus Hochzeitsfest.</l>
+               <l>Wollt Ihr in unsern Ringen ruhig tanzen</l>
+               <l>Und unsre lustgen Mondscheinspiele sehn,</l>
+               <l>So kommt mit uns! Wo nicht: vermeidet mich,</l>
+               <l>Und ich will nie mich nahen, wo Ihr haust.</l>
+            </lg>
+            <lg>
+               <l>Oberon.</l>
+               <l>Gib mir das Kind, so will ich mit dir gehn.</l>
+            </lg>
+            <lg>
+               <l>Titania.</l>
+               <l>Nicht um dein Königreich.—Ihr Elfen, fort mit mir;</l>
+               <l>Denn Zank erhebt sich, weil' ich länger hier.</l>
+            </lg>
+            <p rend="justify">(Mit ihrem Gefolge ab.)</p>
+            <lg>
+               <l>Oberon.</l>
+               <l>Gut, zieh nur hin! du sollst aus diesem Walde</l>
+               <l>Nicht eher, bis du mir den Trotz gebüßt.</l>
+               <l>Mein guter Droll, komm her! Weißt du noch wohl,</l>
+               <l>Wie ich einst saß auf einem Vorgebirge</l>
+               <l>Und 'ne Sirene, die ein Delphin trug,</l>
+               <l>So süße Harmonien hauchen hörte,</l>
+               <l>Daß die empörte See gehorsam ward,</l>
+               <l>Daß Sterne wild aus ihren Kreisen fuhren,</l>
+               <l>Der Nymphe Lied zu hören?</l>
+            </lg>
+            <lg>
+               <l>Droll.</l>
+               <l>Ja, ich weiß.</l>
+            </lg>
+            <lg>
+               <l>Oberon.</l>
+               <l>Zur selben Zeit sah ich (du konntest nicht)</l>
+               <l>Cupido zwischen Mond und Erde fliegen</l>
+               <l>In voller Wehr; er zielt' auf eine holde</l>
+               <l>Vestal', im Westen thronend, scharfen Blicks,</l>
+               <l>Und schnellte rasch den Liebespfeil vom Bogen,</l>
+               <l>Als sollt er hunderttausend Herzen spalten.</l>
+               <l>Allein ich sah das feurige Geschoß</l>
+               <l>Im keuschen Strahl des feuchten Monds verlöschen;</l>
+               <l>Die königliche Priesterin ging weiter</l>
+               <l>In sittsamer Betrachtung, liebefrei;</l>
+               <l>Doch merkt ich auf den Pfeil, wohin er fiele;</l>
+               <l>Er fiel gen Westen auf ein zartes Blümchen,</l>
+               <l>Sonst milchweiß, purpurn nun durch Amors Wunde,</l>
+               <l>Und Mädchen nennen's "Lieb' im Müßiggang".</l>
+               <l>Hol mir die Blum! Ich wies dir einst das Kraut;</l>
+               <l>Ihr Saft, geträufelt auf entschlafne Wimpern,</l>
+               <l>Macht Mann und Weib in jede Kreatur,</l>
+               <l>Die sie zunächst erblicken, toll vergafft.</l>
+               <l>Hol mir das Kraut; doch komm zurück, bevor</l>
+               <l>Der Leviathan eine Meile schwimmt.</l>
+            </lg>
+            <lg>
+               <l>Droll.</l>
+               <l>Rund um die Erde zieh ich einen Gürtel</l>
+               <l>In viermal zehn Minuten.</l>
+            </lg>
+            <p rend="justify">(Ab.)</p>
+            <lg>
+               <l>Oberon.</l>
+               <l>Hab ich nur</l>
+               <l>Den Saft erst, so belausch ich, wenn sie schläft,</l>
+               <l>Titanien und träufl ihn ihr ins Auge.</l>
+               <l>Was sie zunächst erblickt, wenn sie erwacht,</l>
+               <l>Sei's Löwe, sei es Bär, Wolf oder Stier,</l>
+               <l>Ein naseweiser Aff, ein Paviänchen:</l>
+               <l>Sie soll's verfolgen mit der Liebe Sinn;</l>
+               <l>Und eh ich sie von diesem Zauber löse,</l>
+               <l>Wie ich's vermag mit einem andern Kraut,</l>
+               <l>Muß sie mir ihren Edelknaben lassen.</l>
+               <l>Doch still, wer kommt hier? Ich bin unsichtbar</l>
+               <l>Und will auf ihre Unterredung horchen.</l>
+            </lg>
+            <p rend="justify">(Demetrius und Helena treten auf.)</p>
+            <lg>
+               <l>Demetrius.</l>
+               <l>Ich lieb dich nicht; verfolge mich nicht mehr!</l>
+               <l>Wo ist Lysander und die schöne Hermia?</l>
+               <l>Ihn töten möcht ich gern; sie tötet mich.</l>
+               <l>Du sagtest mir von ihrer Flucht hieher;</l>
+               <l>Nun bin ich hier, bin in der Wildnis wild,</l>
+               <l>Weil ich umsonst hier meine Hermia suche.</l>
+               <l>Fort! heb dich weg und folge mir nicht mehr!</l>
+            </lg>
+            <lg>
+               <l>Helena.</l>
+               <l>Du ziehst mich an, hartherziger Magnet!</l>
+               <l>Doch ziehest du nicht Eisen, denn mein Herz</l>
+               <l>Ist echt wie Stahl. Laß ab, mich anzuziehn,</l>
+               <l>So hab ich dir zu folgen keine Macht.</l>
+            </lg>
+            <lg>
+               <l>Demetrius.</l>
+               <l>Lock ich Euch an und tu ich schön mit Euch?</l>
+               <l>Sag ich Euch nicht die Wahrheit rund heraus,</l>
+               <l>Daß ich Euch nimmer lieb und lieben kann?</l>
+            </lg>
+            <lg>
+               <l>Helena.</l>
+               <l>Und eben darum lieb ich Euch nur mehr!</l>
+               <l>Ich bin Eur Hündchen, und, Demetrius,</l>
+               <l>Wenn Ihr mich schlagt, ich muß Euch dennoch schmeicheln.</l>
+               <l>Begegnet mir wie Eurem Hündchen nur,</l>
+               <l>Stoßt, schlagt mich, achtet mich gering, verliert mich:</l>
+               <l>Vergönnt mir nur, unwürdig, wie ich bin,</l>
+               <l>Euch zu begleiten. Welchen schlechtern Platz</l>
+               <l>Kann ich mir wohl in Eurer Lieb erbitten</l>
+            </lg>
+            <p rend="justify">(Und doch ein Platz von hohem Wert für mich),</p>
+            <p rend="justify">Als daß Ihr so wie Euren Hund mich haltet?</p>
+            <lg>
+               <l>Demetrius.</l>
+               <l>Erreg nicht so den Abscheu meiner Seele!</l>
+               <l>Mir ist schon übel, blick ich nur auf dich.</l>
+            </lg>
+            <lg>
+               <l>Helena.</l>
+               <l>Und mir ist übel, blick ich nicht auf Euch.</l>
+            </lg>
+            <lg>
+               <l>Demetrius.</l>
+               <l>Ihr tretet Eurer Sittsamkeit zu nah,</l>
+               <l>Da Ihr die Stadt verlaßt und einem Mann</l>
+               <l>Euch in die Hände gebt, der Euch nicht liebt;</l>
+               <l>Da Ihr den Lockungen der stillen Nacht</l>
+               <l>Und einer öden Stätte bösem Rat</l>
+               <l>Das Kleinod Eures Mädchentums vertraut.</l>
+            </lg>
+            <lg>
+               <l>Helena.</l>
+               <l>Zum Schutzbrief dienet Eure Tugend mir;</l>
+               <l>Es ist nicht Nacht, wenn ich Eur Antlitz sehe;</l>
+               <l>Drum glaub ich jetzt, es sei nicht Nacht um mich.</l>
+               <l>Auch fehlt's hier nicht an Welten von Gesellschaft,</l>
+               <l>Denn Ihr seid ja für mich die ganze Welt.</l>
+               <l>Wie kann man sagen nun, ich sei allein,</l>
+               <l>Da doch die ganze Welt hier auf mich schaut?</l>
+            </lg>
+            <lg>
+               <l>Demetrius.</l>
+               <l>Ich laufe fort, verberge mich im Busch</l>
+               <l>Und lasse dich der Gnade wilder Tiere.</l>
+            </lg>
+            <lg>
+               <l>Helena.</l>
+               <l>Das wildeste hat nicht ein Herz wie du.</l>
+               <l>Lauft, wenn Ihr wollt! Die Fabel kehrt sich um:</l>
+               <l>Apollo flieht, und Daphne setzt ihm nach;</l>
+               <l>Die Taube jagt den Greif; die sanfte Hindin</l>
+               <l>Stürzt auf den Tiger sich. Vergebne Eil,</l>
+               <l>Wenn vor der Zagheit Tapferkeit entflieht!</l>
+            </lg>
+            <lg>
+               <l>Demetrius.</l>
+               <l>Ich steh nicht länger Rede: laß mich gehn!</l>
+               <l>Wo du mir folgst, so glaube sicherlich,</l>
+               <l>Ich tue dir im Walde Leides noch.</l>
+            </lg>
+            <lg>
+               <l>Helena.</l>
+               <l>Ach, in der Stadt, im Tempel, auf dem Felde</l>
+               <l>Tust du mir Leides. Pfui, Demetrius!</l>
+               <l>Dein Unglimpf würdigt mein Geschlecht herab.</l>
+               <l>Um Liebe kämpft ein Mann wohl mit den Waffen;</l>
+               <l>Wir sind, um euch zu werben, nicht geschaffen.</l>
+               <l>Ich folge dir und finde Wonn in Not,</l>
+               <l>Gibt die geliebte Hand mir nur den Tod.</l>
+            </lg>
+            <p rend="justify">(Beide ab.)</p>
+            <lg>
+               <l>Oberon.</l>
+               <l>Geh, Nymphe, nur! Er soll uns nicht von hinnen,</l>
+               <l>Bis du ihn fliehst und er dich will gewinnen—</l>
+            </lg>
+            <p rend="justify">(Droll kommt zurück.)</p>
+            <p rend="justify">Hast du die Blume da? Willkommen, Wildfang!</p>
+            <lg>
+               <l>Droll.</l>
+               <l>Da ist sie, seht!</l>
+            </lg>
+            <lg>
+               <l>Oberon.</l>
+               <l>Ich bitt dich, gib sie mir.</l>
+               <l>Ich weiß 'nen Hügel, wo man Quendel pflückt,</l>
+               <l>Wo aus dem Gras Viol' und Maßlieb nickt,</l>
+               <l>Wo dicht gewölbt des Geißblatts üppge Schatten</l>
+               <l>Mit Hagedorn und mit Jasmin sich gatten.</l>
+               <l>Dort ruht Titania, halbe Nächte kühl</l>
+               <l>Auf Blumen eingewiegt durch Tanz und Spiel.</l>
+               <l>Die Schlange legt die bunte Haut dort nieder,</l>
+               <l>Ein weit Gewand für eines Elfen Glieder.</l>
+               <l>Ich netz ihr Aug mit dieser Blume Saft,</l>
+               <l>Der ihr den Kopf voll schnöder Grillen schafft.</l>
+               <l>Nimm auch davon, und such in diesem Holze:</l>
+               <l>Ein holdes Mädchen wird mit sprödem Stolze</l>
+               <l>Von einem Jüngling, den sie liebt, verschmäht.</l>
+               <l>Salb ihn, doch so, daß er die Schön' erspäht,</l>
+               <l>Sobald er aufwacht. Am athenischen Gewand</l>
+               <l>Wird ohne Müh der Mann von dir erkannt.</l>
+               <l>Verfahre sorgsam, daß mit heißerm Triebe,</l>
+               <l>Als sie den Liebling, er sie wieder liebe,</l>
+               <l>Und triff mich vor dem ersten Hahnenschrei.</l>
+            </lg>
+            <lg>
+               <l>Droll.</l>
+               <l>Verlaßt Euch, Herr, auf Eures Knechtes Treu.</l>
+            </lg>
+            <p rend="justify">(Sie gehen ab.)</p>
+            <p rend="justify">Zweite Szene</p>
+            <lg>
+               <l>Ein anderer Teil des Waldes</l>
+               <l>(Titania kommt mit ihrem Gefolge)</l>
+            </lg>
+            <lg>
+               <l>Titania.</l>
+               <l>Kommt! einen Ringel-, einen Feensang!</l>
+               <l>Dann auf das Drittel 'ner Minute fort!</l>
+               <l>Ihr, tötet Raupen in den Rosenknospen!</l>
+               <l>Ihr andern führt mit Fledermäusen Krieg,</l>
+               <l>Bringt ihrer Flügel Balg als Beute heim,</l>
+               <l>Den kleinen Elfen Röcke draus zu machen!</l>
+               <l>Ihr endlich sollt den Kauz, der nächtlich kreischt</l>
+               <l>Und über unsre schmucken Geister staunt,</l>
+               <l>Von uns verscheuchen! Singt mich nun in Schlaf;</l>
+               <l>An eure Dienste dann und laßt mich ruhn! (Lied).</l>
+               <l>(Erste Elfe). Bunte Schlangen, zweigezüngt,</l>
+               <l>Igel, Molche, fort von hier!</l>
+               <l>Daß ihr euren Gift nicht bringt</l>
+               <l>In der Königin Revier! (Chor). Nachtigall, mit Melodei</l>
+               <l>Sing in unser Eiapopei!</l>
+               <l>Eiapopeia! Eiapopei!</l>
+               <l>Daß kein Spruch,</l>
+               <l>Kein Zauberfluch</l>
+               <l>Der holden Herrin schädlich sei.</l>
+               <l>Nun gute Nacht mit Eiapopei!</l>
+               <l>(Zweite Elfe.) Schwarze Käfer, uns umgebt</l>
+               <l>Nicht mit Summen! Macht euch fort!</l>
+               <l>Spinnen, die ihr künstlich webt,</l>
+               <l>Webt an einem andern Ort! (Chor). Nachtigall, mit Melodei</l>
+               <l>Sing in unser Eiapopei!</l>
+               <l>Eiapopeia! Eiapopei!</l>
+               <l>Daß kein Spruch,</l>
+               <l>Kein Zauberfluch</l>
+               <l>Der holden Herrin schädlich sei.</l>
+               <l>Nun gute Nacht mit Eiapopei!</l>
+               <l>(Erste Elfe). Alles gut, nun auf und fort!</l>
+               <l>Einer halte Wache dort!</l>
+            </lg>
+            <p rend="justify">(Elfen ab. Titania schläft.)</p>
+            <p rend="justify">(Oberon tritt auf.)</p>
+            <lg>
+               <l>Oberon (zu Titania, indem er die Blume über ihren</l>
+               <l>Augenlidern ausdrückt).</l>
+               <l>Was du wirst erwachend sehn,</l>
+               <l>Wähl es dir zum Liebsten schön;</l>
+               <l>Seinetwegen schmacht und stöhn,</l>
+               <l>Sei es Brummbär, Kater, Luchs,</l>
+               <l>Borstger Eber oder Fuchs;</l>
+               <l>Was sich zeigt an diesem Platz,</l>
+               <l>Wenn du aufwachst, wird dein Schatz,</l>
+               <l>Sähst du gleich die ärgste Fratz!</l>
+            </lg>
+            <p rend="justify">(Ab.)</p>
+            <p rend="justify">(Lysander und Hermia treten auf.)</p>
+            <lg>
+               <l>Lysander.</l>
+               <l>Kaum tragen durch den Wald Euch noch die Füße,</l>
+               <l>Und ich gesteh es, ich verlor den Pfad.</l>
+               <l>Wollt Ihr, so laßt uns ruhen, meine Süße,</l>
+               <l>Bis tröstend sich das Licht des Tages naht.</l>
+            </lg>
+            <lg>
+               <l>Hermia.</l>
+               <l>Ach ja, Lysander! sucht für Euch ein Bette;</l>
+               <l>Der Hügel hier sei meine Schlummerstätte.</l>
+            </lg>
+            <lg>
+               <l>Lysander.</l>
+               <l>(Ein) Rasen dien als Kissen für uns zwei:</l>
+               <l>(Ein) Herz, (ein) Bett, zwei Busen, (eine) Treu.</l>
+            </lg>
+            <lg>
+               <l>Hermia.</l>
+               <l>Ich bitt Euch sehr! Um meinetwillen, Lieber!</l>
+               <l>Liegt nicht so nah! Liegt weiter dort hinüber!</l>
+            </lg>
+            <lg>
+               <l>Lysander.</l>
+               <l>O ärgert Euch an meiner Unschuld nicht!</l>
+               <l>Die Liebe deute, was die Liebe spricht.</l>
+               <l>Ich meinte nur, mein Herz sei Eurem so verbunden,</l>
+               <l>Daß nur (ein) Herz in beiden wird gefunden.</l>
+               <l>Verkettet hat zwei Busen unser Schwur:</l>
+               <l>So wohnt in zweien (eine) Treue nur.</l>
+               <l>Erlaubet denn, daß ich mich zu Euch füge,</l>
+               <l>Denn, Herz, ich lüge nicht, wenn ich so liege.</l>
+            </lg>
+            <lg>
+               <l>Hermia.</l>
+               <l>Wie zierlich spielt mit Worten doch mein Freund!—</l>
+               <l>Ich würde selbst ja meiner Unart feind,</l>
+               <l>Hätt ich "Lysander lüge", je gemeint.</l>
+               <l>Doch aus Gefälligkeit und Lieb, ich bitte,</l>
+               <l>Rückt weiter weg! so weit, wie nach der Sitte</l>
+               <l>Der Menschen sich, getrennt von einem Mann,</l>
+               <l>Ein tugendsames Mädchen betten kann.</l>
+               <l>(Der) Raum sei zwischen uns.—Schlaf süß! Der Himmel gebe,</l>
+               <l>Daß, bis dein Leben schließt, die Liebe lebe!</l>
+            </lg>
+            <lg>
+               <l>Lysander.</l>
+               <l>Amen! so holder Bitte stimm ich bei:</l>
+               <l>Mein Herz soll brechen, bricht es meine Treu.</l>
+               <l>Mög alle Ruh des Schlafes bei dir wohnen!</l>
+            </lg>
+            <lg>
+               <l>Hermia.</l>
+               <l>Des Wunsches Hälfte soll den Wünscher lohnen!</l>
+            </lg>
+            <p rend="justify">(Sie schlafen.)</p>
+            <lg>
+               <l>Droll (tritt auf).</l>
+               <l>Wie ich auch den Wald durchstrich,</l>
+               <l>Kein Athener zeigte sich,</l>
+               <l>Zum Versuch auf seinem Auge,</l>
+               <l>Was dies Liebesblümchen tauge.</l>
+               <l>Aber wer—o Still und Nacht—</l>
+               <l>Liegt da in Athenertracht?</l>
+               <l>Er ist's, den mein Herr gesehn</l>
+               <l>Die Athenerin verschmähn;</l>
+               <l>Hier schläft auch ruhig und gesund</l>
+               <l>Das Mädchen auf dem feuchten Grund.</l>
+               <l>Die Arme darf nicht liegen nah</l>
+               <l>Dem Schlagetot der Liebe da.</l>
+               <l>Allen Zauber dieses Taus,</l>
+               <l>Flegel, gieß ich auf dich aus.</l>
+            </lg>
+            <p rend="justify">(Indem er den Saft über seine Augen auspreßt.)</p>
+            <lg>
+               <l>Wachst du auf, so scheuch den Schlummer</l>
+               <l>Dir vom Aug der Liebe Kummer!</l>
+               <l>Nun erwach! Ich geh davon,</l>
+               <l>Denn ich muß zum Oberon.</l>
+            </lg>
+            <p rend="justify">(Demetrius und Helena, beide laufend.)</p>
+            <lg>
+               <l>Helena.</l>
+               <l>Demetrius, sollt's auch mein Tod sein, steh!</l>
+            </lg>
+            <lg>
+               <l>Demetrius.</l>
+               <l>O quäle mich nicht so! Fort, sag ich, geh!</l>
+            </lg>
+            <lg>
+               <l>Helena.</l>
+               <l>Ach, du verlässest mich im Dunkel hier?</l>
+            </lg>
+            <lg>
+               <l>Demetrius.</l>
+               <l>Ich geh allein; du bleib, das rar ich dir.</l>
+            </lg>
+            <p rend="justify">(Demetrius ab.)</p>
+            <lg>
+               <l>Helena.</l>
+               <l>Die tolle Jagd, sie macht mir weh und bange;</l>
+               <l>Je mehr ich fleh, je minder ich erlange.</l>
+               <l>Wo Hermia ruhen mag? Sie ist beglückt;</l>
+               <l>Denn sie hat Augen, deren Strahl entzückt.</l>
+               <l>Wie wurden sie so hell? Durch Tränen? nein,</l>
+               <l>Sonst müßten meine ja noch heller sein.</l>
+               <l>Nein, ich bin ungestalt wie wilde Bären,</l>
+               <l>Daß Tiere sich voll Schrecken von mir kehren.</l>
+               <l>Was Wunder also, daß Demetrius</l>
+               <l>Gleich einem Ungeheur mich fliehen muß?</l>
+               <l>Vor welchem Spiegel konnt ich mich vergessen,</l>
+               <l>Mit Hermias Sternenaugen mich zu messen?</l>
+               <l>Doch, was ist dies? Lysander, der hier ruht?</l>
+               <l>Tot oder schlafend? Seh ich doch kein Blut.</l>
+               <l>Lysander, wenn Ihr lebt, so hört! erwachet!</l>
+            </lg>
+            <lg>
+               <l>Lysander (im Erwachen).</l>
+               <l>Durchs Feuer lauf ich, wenn's dir Freude machet!</l>
+               <l>Verklärte Helena, so zart gewebt,</l>
+               <l>Daß sichtbar sich dein Herz im Busen hebt!</l>
+               <l>Wo ist Demetrius? O der Verbrecher!</l>
+               <l>Sein Name sei vertilgt! Dies Schwert dein Rächer!</l>
+            </lg>
+            <lg>
+               <l>Helena.</l>
+               <l>Sprecht doch nicht so, Lysander, sprecht nicht so!</l>
+               <l>Liebt er schon Eure Braut: ei nun, seid froh!</l>
+               <l>Sie liebt Euch dennoch stets.</l>
+            </lg>
+            <lg>
+               <l>Lysander.</l>
+               <l>O nein! wie reut</l>
+               <l>Mich die bei ihr verlebte träge Zeit!</l>
+               <l>Nicht Hermia, Helena ist jetzt mein Leben;</l>
+               <l>Wer will die Kräh nicht für die Taube geben?</l>
+               <l>Der Wille wird von der Vernunft regiert:</l>
+               <l>Mir sagt Vernunft, daß Euch der Preis gebührt.</l>
+               <l>Ein jedes Ding muß Zeit zum Reifen haben;</l>
+               <l>So reiften spät in mir des Geistes Gaben.</l>
+               <l>Erst jetzt, da ich am Ziel des Mannes bin,</l>
+               <l>Wird die Vernunft des Willens Führerin</l>
+               <l>Und läßt mich nun der Liebe Tun und Wesen</l>
+               <l>In goldner Schrift in Euren Augen lesen.</l>
+            </lg>
+            <lg>
+               <l>Helena.</l>
+               <l>Weswegen ward ich so zum Hohn erwählt?</l>
+               <l>Verdient ich es um Euch, daß Ihr mich quält?</l>
+               <l>War's nicht genug, genug nicht, junger Mann,</l>
+               <l>Daß ich nicht einen Blick gewinnen kann,</l>
+               <l>Nicht einen holden Blick von meinem Lieben,</l>
+               <l>Müßt Ihr mit Spötterein mich noch betrüben?</l>
+               <l>Ihr tut, fürwahr, Ihr tut an mir nicht recht,</l>
+               <l>Daß Ihr um mich zu buhlen Euch erfrecht.</l>
+               <l>Gehabt Euch wohl! Allein, ich muß gestehen,</l>
+               <l>Ich glaubt' in Euch mehr Edelmut zu sehen.</l>
+               <l>O daß, verschmäht von einem Mann, ein Weib</l>
+               <l>Dem andern dienen muß zum Zeitvertreib!</l>
+            </lg>
+            <p rend="justify">(Ab.)</p>
+            <lg>
+               <l>Lysander.</l>
+               <l>Sie siehet Hermia nicht.—So schlaf nur immer,</l>
+               <l>Und nahtest du Lysandern doch dich nimmer!</l>
+               <l>Wie nach dem Übermaß von Näschereien</l>
+               <l>Der Ekel pflegt am heftigsten zu sein;</l>
+               <l>Wie die am meisten Ketzereien hassen,</l>
+               <l>Die, einst betört, sie wiederum verlassen:</l>
+               <l>Mein Übermaß! mein Wahn! so flieh ich dich;</l>
+               <l>Dich hasse jeder, doch am ärgsten ich.—</l>
+               <l>Nun strebt nach Helena, Mut, Kraft und Sinne,</l>
+               <l>Daß ich ihr Ritter werd und sie gewinne!</l>
+            </lg>
+            <p rend="justify">(Ab.)</p>
+            <lg>
+               <l>Hermia (fährt auf).</l>
+               <l>O hilf, Lysander, hilf mir! Siehst du nicht</l>
+               <l>Die Schlange, die den Busen mir umflicht?</l>
+               <l>Weh mir! Erbarmen!—Welch ein Traum, mein Lieber?</l>
+               <l>Noch schüttelt mich das Schrecken wie ein Fieber.</l>
+               <l>Mir schien es, eine Schlange fräß mein Herz,</l>
+               <l>Und lächelnd sähst du meinen Todesschmerz.—</l>
+               <l>Lysander! wie, Lysander, du bist fort?</l>
+               <l>Du hörst mich nicht? O Gott! kein Laut? kein Wort?</l>
+               <l>Wo bist du? Um der Liebe willen, sprich,</l>
+               <l>Wenn du mich hörst! Es bringt zur Ohnmacht mich.—</l>
+               <l>Noch nicht? Nun seh ich wohl, ich darf nicht weilen:</l>
+               <l>Dich muß ich oder meinen Tod ereilen.</l>
+            </lg>
+            <p rend="justify">(Ab.)</p>
+            <p rend="justify">Dritter Aufzug</p>
+            <p rend="justify">Erste Szene</p>
+            <lg>
+               <l>Der Wald. Die Elfenkönigin liegt noch schlafend</l>
+               <l>(Squenz, Zettel, Schnock, Flaut, Schnauz, Schlucker treten auf)</l>
+            </lg>
+            <lg>
+               <l>Zettel.</l>
+               <l>Sind wir alle beisammen?</l>
+            </lg>
+            <p rend="justify">Squenz. Aufs Haar; und hier ist ein prächtig bequemer Platz zu unserer Probe. Dieser grüne Fleck soll unser Theater sein, diese Weißdornhecke unsre Kammer zum Anziehen, und wir wollen's in Aktion vorstellen, wie wirs vor dem Herzoge vorstellen wollen.</p>
+            <lg>
+               <l>Zettel.</l>
+               <l>Peter Squenz—</l>
+            </lg>
+            <lg>
+               <l>Squenz.</l>
+               <l>Was sagst du, lieber Sappermentszettel?</l>
+            </lg>
+            <p rend="justify">Zettel. Es kommen Dinge vor in dieser Komödie von Pyramus und Thisbe, die nimmermehr gefallen werden. Erstens: Pyramus muß ein Schwert ziehen, um sich selbst umzubringen, und das können die Damen nicht vertragen. He! Was wollt Ihr darauf antworten?</p>
+            <lg>
+               <l>Schnauz.</l>
+               <l>Potz Kuckuck, ja! ein gefährlicher Punkt.</l>
+            </lg>
+            <lg>
+               <l>Schlucker.</l>
+               <l>Ich denke, wir müssen am Ende das Totmachen auslassen.</l>
+            </lg>
+            <p rend="justify">Zettel. Nicht ein Tüttelchen; ich habe einen Einfall, der alles gutmacht. Schreibt mir einen Prolog, und laßt den Prolog verblümt zu verstehen geben, daß wir mit unsern Schwertern keinen Schaden tun wollen; und daß Pyramus nicht wirklich tot gemacht wird; und zu mehr besserer Sicherheit sagt ihnen, daß ich, Pyramus, nicht Pyramus bin, sondern Zettel, der Weber. Das wird ihnen schon die Furcht benehmen.</p>
+            <p rend="justify">Squenz. Gut, wir wollen einen solchen Prologus haben, und er soll in Acht- und Sechssilbern geschrieben sein.</p>
+            <lg>
+               <l>Zettel.</l>
+               <l>Nein, nehmt zwei mehr, laßt's Achtsilber sein.</l>
+            </lg>
+            <lg>
+               <l>Schnauz.</l>
+               <l>Werden die Damen nicht auch vor dem Löwen erschrecken?</l>
+            </lg>
+            <lg>
+               <l>Schlucker.</l>
+               <l>Ich fürcht es, davor steh ich euch.</l>
+            </lg>
+            <p rend="justify">Zettel. Meister, ihr solltet dies bei euch selbst überlegen. Einen Löwen—Gott behüt uns!—unter Damen zu bringen, ist eine greuliche Geschichte; es gibt kein grausameres Wildbret als so'n Löwe, wenn er lebendig ist; und wir sollten uns vorsehn.</p>
+            <lg>
+               <l>Schnauz.</l>
+               <l>Derhalben muß ein andrer Prologus sagen, daß er kein Löwe ist.</l>
+            </lg>
+            <p rend="justify">Zettel. Ja, ihr müßt seinen Namen nennen, und sein Gesicht muß halb durch des Löwen Hals gesehen werden; und er selbst muß durchsprechen und sich so oder ungefähr so applizieren: Gnädige Frauen, oder schöne gnädige Frauen, ich wollte wünschen, oder ich wollte ersuchen, oder ich wollte gebeten haben, fürchten Sie nichts, zittern Sie nicht so; mein Leben für das Ihrige! Wenn Sie dächten, ich käme hieher als ein Löwe, so dauerte mich nur meine Haut. Nein, ich bin nichts dergleichen; ich bin ein Mensch wie andre auch;—und dann laßt ihn nur seinen Namen nennen und ihnen rund heraus sagen, daß er Schnock der Schreiner ist.</p>
+            <p rend="justify">Squenz. Gut, so soll's auch sein. Aber da sind noch zwei harte Punkte: nämlich, den Mondschein in die Kammer zu bringen; denn ihr wißt, Pyramus und Thisbe kommen bei Mondschein zusammen.</p>
+            <lg>
+               <l>Schnock.</l>
+               <l>Scheint der Mond in der Nacht, wo wir unser Spiel spielen?</l>
+            </lg>
+            <lg>
+               <l>Zettel.</l>
+               <l>Einen Kalender! Einen Kalender! Seht in den Almanach! Suchet</l>
+               <l>Mondschein! Suchet Mondschein!</l>
+            </lg>
+            <lg>
+               <l>Squenz.</l>
+               <l>Ja, er scheint die Nacht.</l>
+            </lg>
+            <lg>
+               <l>Zettel.</l>
+               <l>Gut, so könnt ihr ja einen Flügel von dem großen Stubenfenster,</l>
+               <l>wo wir spielen, offenlassen, und der Mond kann durch den</l>
+               <l>Flügel herein scheinen.</l>
+            </lg>
+            <p rend="justify">Squenz. Ja, oder es könnte auch einer mit einem Dornbusch und einer Laterne herauskommen und sagen, er komme, die Person des Mondscheins zu defigurieren oder zu präsentieren. Aber da ist noch ein Punkt: wir müssen in der großen Stube eine Wand haben; denn Pyramus und Thisbe, sagt die Historie, redeten durch die Spalte einer Wand miteinander.</p>
+            <lg>
+               <l>Schnock.</l>
+               <l>Ihr bringt mein Leben keine Wand hinein. Was sagst du, Zettel?</l>
+            </lg>
+            <p rend="justify">Zettel. Einer oder der andre muß Wand vorstellen; und laßt ihn ein bißchen Kalk, oder ein bißchen Lehm, oder ein bißchen Mörtel an sich haben, um Wand zu bedeuten; und laßt ihn seine Finger so halten, und durch die Klinze sollen Pyramus und Thisbe wispern.</p>
+            <p rend="justify">Squenz. Wenn das sein kann, so ist alles gut. Kommt, setzt euch, jeder Mutter Sohn, und probiert eure Parte. Pyramus, Ihr fangt an; wann Ihr Eure Rede ausgeredet habt, so tretet hinter den Zaun; und so jeder nach seinem Stichwort.</p>
+            <p rend="justify">(Droll tritt auf.)</p>
+            <lg>
+               <l>Droll.</l>
+               <l>Welch hausgebacknes Volk macht hier sich breit,</l>
+               <l>So nah der Wiege unsrer Königin?</l>
+               <l>Wie? gibt's ein Schauspiel? Ich will Hörer sein,</l>
+               <l>Mitspieler auch vielleicht, nachdem sich's fügt.</l>
+            </lg>
+            <lg>
+               <l>Squenz.</l>
+               <l>Sprecht, Pyramus; Thisbe, tretet vor.</l>
+            </lg>
+            <lg>
+               <l>Pyramus.</l>
+               <l>"Thisbe, wie eine Blum' von Giften duftet süß—"</l>
+            </lg>
+            <lg>
+               <l>Squenz.</l>
+               <l>Düften! Düften!</l>
+            </lg>
+            <lg>
+               <l>Pyramus.</l>
+               <l>"—von Düften duftet süß,</l>
+               <l>So tut dein Atem auch, o Thisbe, meine Zier.</l>
+               <l>Doch horch, ich hör ein' Stimm; es ist mein Vater gwiß;</l>
+               <l>Bleib eine Weile stehn, ich bin gleich wieder hier."</l>
+            </lg>
+            <p rend="justify">(Ab.)</p>
+            <lg>
+               <l>Droll (beiseite).</l>
+               <l>Ein seltnes Stück von einem Pyramus.</l>
+            </lg>
+            <p rend="justify">(Ab.)</p>
+            <lg>
+               <l>Thisbe.</l>
+               <l>Muß ich jetzt reden?</l>
+            </lg>
+            <p rend="justify">Squenz. Ja, zum Henker, freilich müßt Ihr; Ihr müßt wissen, er geht nur weg, um ein Geräusch zu sehen, das er gehört hat, und wird gleich wiederkommen.</p>
+            <lg>
+               <l>Thisbe.</l>
+               <l>"Umstrahlter Pyramus, an Farbe lilienweiß</l>
+               <l>Und rot wie eine Ros auf triumphierndem Strauch;</l>
+               <l>Du muntrer Juvenil, der Männer Zier und Preis,</l>
+               <l>Treu wie das treuste Roß, das nie ermüdet auch.</l>
+               <l>Ich will dich treffen an, glaub mir, bei Nickels Grab."</l>
+            </lg>
+            <p rend="justify">Squenz. Ninus' Grab, Kerl. Aber das müßt Ihr jetzt noch nicht sagen, das antwortet Ihr dem Pyramus. Ihr sagt Euren ganzen Part auf einmal her, Stichwörter und den ganzen Plunder.—Pyramus, tretet auf, Euer Stichwort ist schon dagewesen; es ist: "ermüdet auch."</p>
+            <p rend="justify">(Zettel mit einem Eselskopfe und Droll kommen zurück.)</p>
+            <lg>
+               <l>Thisbe.</l>
+               <l>Uf—"So treu, wie's treuste Pferd, das nie ermüdet auch."</l>
+            </lg>
+            <lg>
+               <l>Pyramus.</l>
+               <l>"Wenn, Thisbe, ich wär schön, so wär ich einzig dein."</l>
+            </lg>
+            <lg>
+               <l>Squenz.</l>
+               <l>O greulich! erschrecklich! Es spukt hier. Ich bitt euch,</l>
+               <l>Meister! lauft, Meister! Hilfe! (Sie laufen davon.)</l>
+            </lg>
+            <lg>
+               <l>Droll.</l>
+               <l>Nun jag ich euch und führ euch kreuz und quer</l>
+               <l>Durch Dorn, durch Busch, durch Sumpf, durch Wald.</l>
+               <l>Bald bin ich Pferd, bald Eber, Hund und Bär,</l>
+               <l>Erschein als Werwolf und als Feuer bald,</l>
+               <l>Will grunzen, wiehern, bellen, brummen, flammen</l>
+               <l>Wie Eber, Pferd, Hund, Bär und Feur zusammen.</l>
+            </lg>
+            <p rend="justify">(Ab.)</p>
+            <p rend="justify">Zettel. Warum laufen sie weg? Dies ist eine Schelmerei von ihnen, um mich fürchten zu machen.</p>
+            <p rend="justify">(Schnauz kommt zurück.)</p>
+            <lg>
+               <l>Schnauz.</l>
+               <l>O Zettel! du bist verwandelt! Was seh ich an dir?</l>
+            </lg>
+            <lg>
+               <l>Zettel.</l>
+               <l>Was du siehst? Du siehst deinen eigenen Eselskopf. Nicht?</l>
+            </lg>
+            <p rend="justify">(Schnauz ab. Squenz kommt zurück.)</p>
+            <lg>
+               <l>Squenz.</l>
+               <l>Gott behüte dich, Zettel! Gott behüte dich! du bist transferiert.</l>
+            </lg>
+            <p rend="justify">(Ab.)</p>
+            <p rend="justify">Zettel. Ich merke ihre Schelmerei: sie wollen einen Esel aus mir machen, mich fürchten machen, wenn sie können. Aber ich will hier nicht von der Stelle; lass' sie machen, was sie wollen; ich will hier auf und ab spazieren und singen, damit sie sehen, daß ich mich nicht fürchte. (Er singt.) Die Schwalbe, die den Sommer bringt, Der Spatz, der Zeisig fein, Die Lerche, die sich lustig schwingt Bis in den Himmel 'nein—:</p>
+            <lg>
+               <l>Titania (erwachend).</l>
+               <l>Weckt mich von meinem Blumenbett ein Engel?</l>
+            </lg>
+            <p rend="justify">Zettel (singt). Der Kuckuck, der der Grasmück So gern ins Nestchen heckt Und lacht darob mit arger Tück Und manchen Ehmann neckt—: Denn sein Rufen soll eine gar gefährliche Vorbedeutung sein, und wem jückt es nicht ein bißchen an der Stirne, wenn er sich Kuckuck grüßen hört?</p>
+            <lg>
+               <l>Titania.</l>
+               <l>Ich bitte dich, du holder Sterblicher,</l>
+               <l>Sing noch einmal! Mein Ohr ist ganz verliebt</l>
+               <l>In deine Melodie; auch ist mein Auge</l>
+               <l>Betört von deiner lieblichen Gestalt;</l>
+               <l>Gewaltig treibt mich deine schöne Tugend,</l>
+               <l>Beim ersten Blick dir zu gestehn, zu schwören:</l>
+               <l>Daß ich dich liebe.</l>
+            </lg>
+            <p rend="justify">Zettel. Mich dünkt, Madame, Sie könnten dazu nicht viel Ursache haben. Und doch, die Wahrheit zu sagen, halten Vernunft und Liebe heutzutage nicht viel Gemeinschaft. Schade, daß ehrliche Nachbarn sie nicht zu Freunden machen wollen! Gelt, ich kann auch spaßen, wenn's darauf ankommt.</p>
+            <lg>
+               <l>Titania.</l>
+               <l>Du bist so weise, wie du reizend bist.</l>
+            </lg>
+            <p rend="justify">Zettel. Das nun just auch nicht. Doch, wenn ich Witz genug hätte, um aus diesem Walde zu kommen, so hätte ich just so viel, als mir nötig täte.</p>
+            <lg>
+               <l>Titania.</l>
+               <l>Begehre nicht, aus diesem Hain zu fliehn;</l>
+               <l>Du mußt hier, willig oder nicht, verziehn.</l>
+               <l>Ich bin ein Geist von nicht gemeinem Stande;</l>
+               <l>Ein ewger Sommer zieret meine Lande;</l>
+               <l>Und sieh, ich liebe dich! drum folge mir.</l>
+               <l>Ich gebe Elfen zur Bedienung dir;</l>
+               <l>Sie sollen Perlen aus dem Meer dir bringen</l>
+               <l>Und, wenn du leicht auf Blumen schlummerst, singen.</l>
+               <l>Ich will vom Erdenstoffe dich befrein,</l>
+               <l>Daß du so luftig sollst wie Geister sein.</l>
+               <l>Senfsamen! Bohnenblüte! Motte! Spinnweb!</l>
+            </lg>
+            <p rend="justify">(Vier Elfen treten auf.)</p>
+            <lg>
+               <l>Erster Elf.</l>
+               <l>Hier!</l>
+            </lg>
+            <lg>
+               <l>Zweiter Elf.</l>
+               <l>Und ich!</l>
+            </lg>
+            <lg>
+               <l>Dritter Elf.</l>
+               <l>Und ich!</l>
+            </lg>
+            <lg>
+               <l>Vierter Elf.</l>
+               <l>Und ich!</l>
+            </lg>
+            <lg>
+               <l>Alle.</l>
+               <l>Was sollen wir?</l>
+            </lg>
+            <lg>
+               <l>Titania.</l>
+               <l>Gefällig seid und dienstbar diesem Herrn.</l>
+               <l>Hüpft, wo er geht, und gaukelt um ihn her;</l>
+               <l>Sucht Aprikos' ihm auf und Stachelbeer';</l>
+               <l>Maulbeeren gebt ihm, Feigen, Purpurtrauben;</l>
+               <l>Ihr müßt der Biene Honigsack ihm rauben;</l>
+               <l>Zur Kerze nehmt von ihr ein wächsern Bein</l>
+               <l>Und steckt es an bei eines Glühwurms Schein,</l>
+               <l>Zu leuchten meinem Freund Bett aus und ein;</l>
+               <l>Mit bunter Schmetterlinge Flügelein</l>
+               <l>Wehrt fächelnd ihm vom Aug den Mondenschein.</l>
+               <l>Nun, Elfen, huldigt ihm und neigt euch fein.</l>
+            </lg>
+            <lg>
+               <l>Erster Elf.</l>
+               <l>Heil dir, Sterblicher!</l>
+            </lg>
+            <lg>
+               <l>Zweiter Elf.</l>
+               <l>Heil!</l>
+            </lg>
+            <lg>
+               <l>Dritter Elf.</l>
+               <l>Heil!</l>
+            </lg>
+            <lg>
+               <l>Vierter Elf.</l>
+               <l>Heil!</l>
+            </lg>
+            <lg>
+               <l>Zettel.</l>
+               <l>Ich flehe Euer Gnaden von ganzem Herzen um Verzeihung,</l>
+               <l>Ich bitte um Euer Gnaden Namen.</l>
+            </lg>
+            <lg>
+               <l>Spinnweb.</l>
+               <l>Spinnweb.</l>
+            </lg>
+            <lg>
+               <l>Zettel.</l>
+               <l>Ich wünsche näher mit Ihnen bekannt zu werden, guter Musje</l>
+               <l>Spinnweb. Wenn ich mich in den Finger schneide, werde ich</l>
+               <l>so frei sein, Sie zu gebrauchen.—Ihr Name, ehrsamer Herr?</l>
+            </lg>
+            <lg>
+               <l>Bohnenblüte.</l>
+               <l>Bohnenblüte.</l>
+            </lg>
+            <lg>
+               <l>Zettel.</l>
+               <l>Ich bitte Sie, empfehlen Sie mich Madame Hülse, Ihrer Frau</l>
+               <l>Mutter, und Herrn Bohnenschote, Ihrem Herrn Vater. Guter</l>
+               <l>Herr Bohnenblüte, auch mit Ihnen hoffe ich näher bekannt</l>
+               <l>zu werden.—Ihren Namen, mein Herr, wenn ich bitten darf.</l>
+            </lg>
+            <lg>
+               <l>Senfsamen.</l>
+               <l>Senfsamen.</l>
+            </lg>
+            <p rend="justify">Zettel. Lieber Musje Senfsamen, ich kenne Ihre Geduld gar wohl. Jener niederträchtige und ungeschlachte Kerl, Rinderbraten, hat schon manchen wackern Herrn von Ihrem Hause verschlungen. Sei'n Sie versichert, Ihre Freundschaft hat mir schon oft die Augen übergehen machen. Ich wünsche nähere Bekanntschaft, lieber Musje Senfsamen.</p>
+            <lg>
+               <l>Titania.</l>
+               <l>Kommt, führt ihn hin zu meinem Heiligtume!</l>
+               <l>Mich dünkt, von Tränen blinke Lunas Glanz;</l>
+               <l>Und wenn sie weint, weint jede kleine Blume</l>
+               <l>Um einen wild zerrißnen Mädchenkranz.</l>
+               <l>Ein Zauber soll des Liebsten Zunge binden:</l>
+               <l>Wir wollen still den Weg zur Laube finden.</l>
+            </lg>
+            <p rend="justify">(Alle ab.)</p>
+            <p rend="justify">Zweite Szene</p>
+            <p rend="justify">Ein anderer Teil des Waldes</p>
+            <lg>
+               <l>Oberon (tritt auf).</l>
+               <l>Mich wundert's, ob Titania erwachte</l>
+               <l>Und welch Geschöpf ihr gleich ins Auge fiel,</l>
+               <l>Worin sie sterblich sich verlieben muß.</l>
+            </lg>
+            <p rend="justify">(Droll kommt.)</p>
+            <lg>
+               <l>Da kommt mein Bote ja.—Nun, toller Geist,</l>
+               <l>Was spuken hier im Wald für Abenteuer?</l>
+            </lg>
+            <lg>
+               <l>Droll.</l>
+               <l>Herr, meine Fürstin liebt ein Ungeheuer.</l>
+               <l>Sie lag in Schlaf versunken auf dem Moos</l>
+               <l>In ihrer heilgen Laube dunklem Schoß,</l>
+               <l>Als eine Schar von lumpgen Handwerksleuten,</l>
+               <l>Die mühsam kaum ihr täglich Brot erbeuten,</l>
+               <l>Zusammenkommt und hier ein Stück probiert,</l>
+               <l>So sie auf Theseus' Hochzeitstag studiert.</l>
+               <l>Der ungesalzenste von den Gesellen,</l>
+               <l>Den Pyramus berufen vorzustellen,</l>
+               <l>Tritt von der Bühn und wartet im Gesträuch;</l>
+               <l>Ich nutze diesen Augenblick sogleich,</l>
+               <l>Mit einem Eselskopf ihn zu begaben.</l>
+               <l>Nicht lange drauf muß Thisbe Antwort haben;</l>
+               <l>Mein Mime tritt heraus; kaum sehen ihn</l>
+               <l>Die Freund, als sie wie wilde Gänse fliehn,</l>
+               <l>Wenn sie des Jägers leisen Tritt erlauschen;</l>
+               <l>Wie graue Krähen, deren Schwarm mit Rauschen</l>
+               <l>Und Krächzen auffliegt, wenn ein Schuß geschieht,</l>
+               <l>Und wild am Himmel da- und dorthin zieht.</l>
+               <l>Vor meinem Spuk rollt der sich auf der Erde,</l>
+               <l>Der schreiet Mord! mit kläglicher Gebärde;</l>
+               <l>Das Schrecken, das sie sinnlos machte, lieh</l>
+               <l>Sinnlosen Dingen Waffen gegen sie.</l>
+               <l>An Dorn und Busch bleibt Hut und Ärmel stecken;</l>
+               <l>Sie fliehn hindurch, berupft an allen Ecken.</l>
+               <l>In solcher Angst trieb ich sie weiter fort,</l>
+               <l>Nur Schätzchen Pyramus verharrte dort.</l>
+               <l>Gleich mußte nun Titania erwachen</l>
+               <l>Und aus dem Langohr ihren Liebling machen.</l>
+            </lg>
+            <lg>
+               <l>Oberon.</l>
+               <l>Das geht ja über mein Erwarten schön.</l>
+               <l>Doch hast du auch den Jüngling von Athen,</l>
+               <l>Wie ich dir auftrug, mit dem Saft bestrichen?</l>
+            </lg>
+            <lg>
+               <l>Droll.</l>
+               <l>O ja, ich habe schlafend ihn beschlichen.</l>
+               <l>Das Mädchen ruhte neben ihm ganz dicht:</l>
+               <l>Erwacht er, so entgeht sein Aug ihr nicht.</l>
+            </lg>
+            <p rend="justify">(Demetrius und Hermia treten auf.)</p>
+            <lg>
+               <l>Oberon.</l>
+               <l>Tritt her; da kommt ja der Athener an.</l>
+            </lg>
+            <lg>
+               <l>Droll.</l>
+               <l>Das Mädchen ist es, aber nicht der Mann.</l>
+            </lg>
+            <lg>
+               <l>Demetrius.</l>
+               <l>O könnt Ihr so, weil ich Euch liebe, schmälen?</l>
+               <l>Den Todfeind solltet Ihr so tödlich quälen!</l>
+            </lg>
+            <lg>
+               <l>Hermia.</l>
+               <l>Noch mehr verdient, was ich von dir erfuhr;</l>
+               <l>Denn fluchen sollt ich dir und schalt dich nur.</l>
+               <l>Erschlugst du mir Lysandern, weil er ruhte,</l>
+               <l>So bad, einmal befleckt, dich ganz im Blute</l>
+               <l>Und töt auch mich!</l>
+               <l>Die Sonne liebt den Tag nicht treuer, steter,</l>
+               <l>Als wie er mich: nun wär er als Verräter</l>
+               <l>Entflohn, indes ich schlief? Nein, nimmermehr!</l>
+               <l>Eh wollt ich glauben, daß es möglich wär,</l>
+               <l>Ganz zu durchbohren dieser Erde Boden</l>
+               <l>Und durch die Öffnung zu den Antipoden</l>
+               <l>Zu senden des verwegnen Mondes Gruß,</l>
+               <l>Der hellen Mittagssonne zum Verdruß.</l>
+               <l>Es kann nicht anders sein: du mordetest ihn mir.</l>
+               <l>So sieht ein Mörder aus, so graß, so stier!</l>
+            </lg>
+            <lg>
+               <l>Demetrius.</l>
+               <l>So siehet ein Erschlagner aus, so ich:</l>
+               <l>Denn Eure Grausamkeit durchbohrte mich.</l>
+               <l>Doch Ihr, die Mördrin, glänzet wie Cythere</l>
+               <l>Am Himmel dort in ihrer lichten Sphäre.</l>
+            </lg>
+            <lg>
+               <l>Hermia.</l>
+               <l>Was soll mir dies? Wo ist Lysander? spricht—</l>
+               <l>Gib ihn mir wieder, Freund, ich bitte dich.</l>
+            </lg>
+            <lg>
+               <l>Demetrius.</l>
+               <l>Den Hunden gäb ich lieber seine Leiche.</l>
+            </lg>
+            <lg>
+               <l>Hermia.</l>
+               <l>Hinweg, du Hund! du treibst durch deine Streiche</l>
+               <l>Mich armes Weib zur Wut. Hast du ihn umgebracht:</l>
+               <l>Nie werde mehr für einen Mann geacht't.</l>
+               <l>Sprich einmal wahr, sprich mir zuliebe wahr!</l>
+               <l>Hättst du, wenn er gewacht, ihm wohl ein Haar</l>
+               <l>Gekrümmt? und hast ihn, weil er schlief, erschlagen?</l>
+               <l>O Kühnheit! eine Natter konnt es wagen.</l>
+               <l>Ja, eine Natter tat's; die ärgste sticht</l>
+               <l>Zweizüngiger als du, o Schlange, nicht.</l>
+            </lg>
+            <lg>
+               <l>Demetrius.</l>
+               <l>An einen Wahn verschwendst du deine Wut.</l>
+               <l>Ich bin nicht schuldig an Lysanders Blut;</l>
+               <l>Auch mag er wohl, soviel ich weiß, noch leben.</l>
+            </lg>
+            <lg>
+               <l>Hermia.</l>
+               <l>Und geht's ihm wohl? Kannst du mir Nachricht geben?</l>
+            </lg>
+            <lg>
+               <l>Demetrius.</l>
+               <l>Und könnt ich nun, was würde mir dafür?</l>
+            </lg>
+            <lg>
+               <l>Hermia.</l>
+               <l>Mich nie zu sehn, dies Vorrecht schenk ich dir.</l>
+               <l>Und so verlaß ich deine schnöde Nähe;</l>
+               <l>Tot sei er oder nicht, wenn ich nur dich nicht sehe.</l>
+            </lg>
+            <p rend="justify">(Ab.)</p>
+            <lg>
+               <l>Demetrius.</l>
+               <l>Ihr folgen ist vergebliches Bemühn</l>
+               <l>In diesem Sturm; so will ich hier verziehn.</l>
+               <l>Noch höher wird des Grames Not gesteigert,</l>
+               <l>Seit sich sein Schuldner Schlaf zu zahlen weigert.</l>
+               <l>Vielleicht empfang ich einen Teil der Schuld,</l>
+               <l>Erwart ich hier den Abtrag in Geduld.</l>
+            </lg>
+            <p rend="justify">(Er legt sich nieder.)</p>
+            <lg>
+               <l>Oberon.</l>
+               <l>Was tatest du? du hast dich ganz betrogen.</l>
+               <l>Ein treues Auge hat den Liebessaft gesogen;</l>
+               <l>Dein Fehlgriff hat den treuen Bund gestört</l>
+               <l>Und nicht den Unbestand zur Treu bekehrt.</l>
+            </lg>
+            <lg>
+               <l>Droll.</l>
+               <l>So siegt das Schicksal denn, daß gegen (einen) Treuen</l>
+               <l>Millionen falsch auf Schwüre Schwür' entweihen.</l>
+            </lg>
+            <lg>
+               <l>Oberon.</l>
+               <l>Streif durch den Wald behender als der Wind</l>
+               <l>Und suche Helena, das schöne Kind.</l>
+               <l>Sie ist ganz liebekrank und blaß von Wangen,</l>
+               <l>Von Seufzern, die ihr sehr ans Leben drangen.</l>
+               <l>Geh, locke sie durch Täuschung her zu mir;</l>
+               <l>Derweil sie kommt, bezaubr' ich diesen hier.</l>
+            </lg>
+            <lg>
+               <l>Droll.</l>
+               <l>Ich eil, ich eil, sieh, wie ich eil;</l>
+               <l>So fliegt vom Bogen des Tataren Pfeil.</l>
+            </lg>
+            <p rend="justify">(Ab.)</p>
+            <lg>
+               <l> Oberon. Blume mit dem Purpurschein</l>
+               <l>Die Cupidos Pfeile weihn,</l>
+               <l>Senk dich in sein Aug hinein;</l>
+               <l>Wenn er sieht sein Liebchen fein,</l>
+               <l>Daß sie glorreich ihm erschein</l>
+               <l>Wie Cyther' im Sternenreihn.</l>
+               <l>Wachst du auf, wenn sie dabei:</l>
+               <l>Bitte, daß sie hilfreich sei.</l>
+            </lg>
+            <p rend="justify">(Droll kommt zurück.)</p>
+            <lg>
+               <l>Droll.</l>
+               <l>Hauptmann unsrer Elfenschar,</l>
+               <l>Hier stellt Helena sich dar.</l>
+               <l>Der von mir gesalbte Mann</l>
+               <l>Fleht um Liebeslohn sie an.</l>
+               <l>Wollen wir ihr Wesen sehn?</l>
+               <l>O die tollen Sterblichen! Oberon. Tritt beiseit! Erwachen muß</l>
+               <l>Von dem Lärm Demetrius. Droll. Wenn dann zwei um eine frein:</l>
+               <l>Das wird erst ein Hauptspaß sein.</l>
+               <l>Gehn die Sachen kraus und bunt,</l>
+               <l>Freu ich mich von Herzensgrund.</l>
+            </lg>
+            <p rend="justify">(Lysander und Helena treten auf.)</p>
+            <lg>
+               <l>Lysander.</l>
+               <l>Pflegt Spott und Hohn in Tränen sich zu kleiden?</l>
+               <l>Wie glaubst du denn, ich huldge dir zum Hohn?</l>
+               <l>Sieh, wenn ich schwöre, wein ich: solchen Eiden</l>
+               <l>Dient zur Beglaubigung ihr Ursprung schon.</l>
+               <l>Kannst du des Spottes Reden wohl verklagen,</l>
+               <l>Die an der Stirn des Ernstes Siegel tragen?</l>
+            </lg>
+            <lg>
+               <l>Helena.</l>
+               <l>Stets mehr und mehr wird deine Schalkheit kund.</l>
+               <l>Wie teuflisch fromm, mit Schwur den Schwur erlegen!</l>
+               <l>Beschwurst du nicht mit Hermia so den Bund?</l>
+               <l>Wäg Eid an Eid, so wirst du gar nichts wägen.</l>
+               <l>Die Eid an sie und mich, wie Märchen leicht,</l>
+               <l>Leg in zwei Schalen sie, und keine steigt.</l>
+            </lg>
+            <lg>
+               <l>Lysander.</l>
+               <l>Verblendung war's, mein Herz ihr zu versprechen.</l>
+            </lg>
+            <lg>
+               <l>Helena.</l>
+               <l>Verblendung nenn ich's, jetzt den Schwur zu brechen.</l>
+            </lg>
+            <lg>
+               <l>Lysander.</l>
+               <l>Demetrius liebt (sie;) dich liebt er nicht.</l>
+            </lg>
+            <lg>
+               <l>Demetrius (erwachend).</l>
+               <l>O Huldin! schönste Göttin meiner Wahl!</l>
+               <l>Womit vergleich ich deiner Augen Strahl?</l>
+               <l>Kristall ist trübe. O wie reifend schwellen</l>
+               <l>Die Lippen dir, zwei küssende Morellen!</l>
+               <l>Und jenes dichte Weiß, des Taurus Schnee,</l>
+               <l>Vom Ostwind rein gelächelt, wird zur Kräh,</l>
+               <l>Wenn du die Hand erhebst. Laß mich dies Siegel</l>
+               <l>Der Wonne küssen, aller Reinheit Spiegel!</l>
+            </lg>
+            <lg>
+               <l>Helena.</l>
+               <l>O Schmach! o Höll! ich seh, ihr alle seid</l>
+               <l>Zu eurer Lust zu plagen mich bereit.</l>
+               <l>Wär Sitt und Edelmut in euch Verwegnen,</l>
+               <l>Ihr würdet mir so schmählich nicht begegnen.</l>
+               <l>Könnt ihr mich denn nicht hassen, wie ihr tut,</l>
+               <l>Wenn ihr mich nicht verhöhnt in frechem Mut?</l>
+               <l>Wärt ihr in Wahrheit Männer, wie im Schein,</l>
+               <l>So flößt' ein armes Weib euch Mitleid ein.</l>
+               <l>Ihr würdet nicht mit Lob und Schwüren scherzen,</l>
+               <l>Da ich doch weiß, ihr hasset mich von Herzen;</l>
+               <l>Als Nebenbuhler liebt ihr Hermia,</l>
+               <l>Wetteifernd nun verhöhnt ihr Helena.</l>
+               <l>Ein tapfres Stück, ein männlich Unternehmen,</l>
+               <l>Durch Spott ein armes Mädchen zu beschämen,</l>
+               <l>Ihr Tränen abzulocken! Quält ein Weib</l>
+               <l>Ein edler Mann wohl bloß zum Zeitvertreib?</l>
+            </lg>
+            <lg>
+               <l>Lysander.</l>
+               <l>Demetrius, du bist nicht bieder: sei's!</l>
+               <l>Du liebst ja Hermia; weißt, daß ich es weiß.</l>
+               <l>Hier sei von Herzensgrund, in Güt und Frieden,</l>
+               <l>An Hermias Huld mein Anteil dir beschieden.</l>
+               <l>Tritt deinen nun an Helena mir ab;</l>
+               <l>Ich lieb und will sie lieben bis ins Grab.</l>
+            </lg>
+            <lg>
+               <l>Helena.</l>
+               <l>Ihr losen Schwätzer, wie es keine gab!</l>
+            </lg>
+            <lg>
+               <l>Demetrius.</l>
+               <l>Nein, Hermia mag ich nicht: behalt sie, Lieber!</l>
+               <l>Liebt ich sie je, die Lieb ist längst vorüber.</l>
+               <l>Mein Herz war dort nur wie in fremdem Land;</l>
+               <l>Nun hat's zu Helena sich heimgewandt,</l>
+               <l>Um dazubleiben.</l>
+            </lg>
+            <lg>
+               <l>Lysander.</l>
+               <l>Glaubs nicht, Helena.</l>
+            </lg>
+            <lg>
+               <l>Demetrius.</l>
+               <l>Tritt nicht der Treu, die du nicht kennst, zu nah;</l>
+               <l>Du möchtest sonst vielleicht es teuer büßen.</l>
+               <l>Da kommt dein Liebchen; geh, sie zu begrüßen.</l>
+               <l>(Hermia tritt auf)</l>
+            </lg>
+            <lg>
+               <l>Hermia.</l>
+               <l>Die Nacht, die uns der Augen Dienst entzieht,</l>
+               <l>Macht, daß dem Ohr kein leiser Laut entflieht.</l>
+               <l>Was dem Gesicht an Schärfe wird benommen,</l>
+               <l>Muß doppelt dem Gehör zugute kommen.</l>
+               <l>Mein Aug war's nicht, das dich, Lysander, fand;</l>
+               <l>Mein Ohr, ich dank ihm, hat die Stimm erkannt.</l>
+               <l>Doch warum mußtest du so von mir eilen?</l>
+            </lg>
+            <lg>
+               <l>Lysander.</l>
+               <l>Den Liebe fortriß, warum sollt er weilen?</l>
+            </lg>
+            <lg>
+               <l>Hermia.</l>
+               <l>Und welche Liebe war's, die fort von mir dich trieb?</l>
+            </lg>
+            <lg>
+               <l>Lysander.</l>
+               <l>Lysanders Liebe litt nicht, daß er blieb;</l>
+               <l>Die schöne Helena, die so die Nacht durchfunkelt,</l>
+               <l>Daß sie die lichten O's, die Augen dort, verdunkelt.</l>
+               <l>Was suchst du mich? Tat dies dir noch nicht kund,</l>
+               <l>Mein Haß zu dir sei meines Fliehens Grund?</l>
+            </lg>
+            <lg>
+               <l>Hermia.</l>
+               <l>Ihr sprecht nicht, wie Ihr denkt. Es kann nicht sein.</l>
+            </lg>
+            <lg>
+               <l>Helena.</l>
+               <l>Ha! sie stimmt auch in die Verschwörung ein.</l>
+               <l>Nun merk ich's: alle drei verbanden sich</l>
+               <l>Zu dieser falschen Posse gegen mich.</l>
+               <l>Feindselge Hermia! undankbares Mädchen!</l>
+               <l>Verstandest du, verschworst mit diesen dich,</l>
+               <l>Um mich zu necken mit so schnödem Spott?</l>
+               <l>Sind alle Heimlichkeiten, die wir teilten,</l>
+               <l>Der Schwestertreu Gelübde, jene Stunden,</l>
+               <l>Wo wir den raschen Tritt der Zeit verwünscht,</l>
+               <l>Wie sie uns schied: o alles nun vergessen?</l>
+               <l>Die Schulgenossenschaft, die Kinderunschuld?</l>
+               <l>Wie kunstbegabte Götter schufen wir</l>
+               <l>Mit unsern Nadeln (eine) Blume beide,</l>
+               <l>Nach (einem) Muster und auf (einem) Sitz;</l>
+               <l>(Ein) Liedchen wirbelnd, beid in (einem) Ton,</l>
+               <l>Als wären unsre Hände, Stimmen, Herzen</l>
+               <l>Einander einverleibt. So wuchsen wir</l>
+               <l>Zusammen, einer Doppelkirsche gleich,</l>
+               <l>Zum Schein getrennt, doch in der Trennung eins;</l>
+               <l>Zwei holde Beeren, (einem) Stiel entwachsen,</l>
+               <l>Dem Scheine nach zwei Körper, doch (ein) Herz.</l>
+               <l>Zwei Schildern (eines) Wappens glichen wir,</l>
+               <l>Die friedlich stehn, gekrönt von (einem) Helm.</l>
+               <l>Und nun zerreißt Ihr so die alte Liebe?</l>
+               <l>Gesellt im Hohne Eurer armen Freundin</l>
+               <l>Zu Männern Euch? Das ist nicht freundschaftlich,</l>
+               <l>Das ist nicht jungfräulich; und mein Geschlecht</l>
+               <l>Sowohl wie ich darf Euch darüber schelten,</l>
+               <l>Obschon die Kränkung mich allein betrifft.</l>
+            </lg>
+            <lg>
+               <l>Hermia.</l>
+               <l>Ich hör erstaunt die ungestümen Reden;</l>
+               <l>Ich höhn Euch nicht; es scheint, Ihr höhnet mich.</l>
+            </lg>
+            <lg>
+               <l>Helena.</l>
+               <l>Habt Ihr Lysandern nicht bestellt, zum Hohn</l>
+               <l>Mir nachzugehn, zu preisen mein Gesicht?</l>
+               <l>Und Euren andern Buhlen, den Demetrius,</l>
+               <l>Der eben jetzt noch mich mit Füßen stieß,</l>
+               <l>Mich Göttin, Nymphe, wunderschön zu nennen,</l>
+               <l>Und köstlich, himmlisch? Warum sagt er das</l>
+               <l>Der, die er haßt? Und warum schwört Lysander</l>
+               <l>Die Liebe ab, die ganz die Seel ihm füllt,</l>
+               <l>Und bietet mir (man denke nur!) sein Herz,</l>
+               <l>Als weil Ihr ihn gereizt, weil Ihr's gewollt?</l>
+               <l>Bin ich schon nicht so in der Gunst wie Ihr,</l>
+               <l>Mit Liebe so umkettet, so beglückt,</l>
+               <l>Ja, elend gnug, um ungeliebt zu lieben:</l>
+               <l>Ihr solltet mich bedauern, nicht verachten.</l>
+            </lg>
+            <lg>
+               <l>Hermia.</l>
+               <l>Ich kann mir nicht erklären, was Ihr meint.</l>
+            </lg>
+            <lg>
+               <l>Helena.</l>
+               <l>Schon recht! Beharrt nur! Heuchelt ernste Blicke</l>
+               <l>Und zieht Gesichter hinterm Rücken mir!</l>
+               <l>Blinzt euch nur zu! Verfolgt den feinen Scherz!</l>
+               <l>Wohl ausgeführt, wird er euch nachgerühmt.</l>
+               <l>Wär Mitleid, Huld und Sitte noch in euch,</l>
+               <l>Ihr machtet so mich nicht zu eurem Ziel.</l>
+               <l>Doch lebet wohl! Zum Teil ist's meine Schuld:</l>
+               <l>Bald wird Entfernung oder Tod sie büßen.</l>
+            </lg>
+            <lg>
+               <l>Lysander.</l>
+               <l>Bleib, holde Helena, und hör mich an!</l>
+               <l>Mein Herz! mein Leben! meine Helena!</l>
+            </lg>
+            <lg>
+               <l>Helena.</l>
+               <l>O herrlich!</l>
+            </lg>
+            <lg>
+               <l>Hermia.</l>
+               <l>Lieber, höhne sie nicht so!</l>
+            </lg>
+            <lg>
+               <l>Demetrius.</l>
+               <l>Und gilt ihr Bitten nichts, so kann ich zwingen.</l>
+            </lg>
+            <lg>
+               <l>Lysander.</l>
+               <l>Nichts mehr erzwingen, als was sie erbittet;</l>
+               <l>Dein Drohn ist kraftlos wie ihr schwaches Flehn.</l>
+               <l>Dich lieb ich, Helena! Bei meinem Leben,</l>
+               <l>Ich liebe dich und will dies Leben wagen,</l>
+               <l>Der Lüge den zu zeihn, der widerspricht.</l>
+            </lg>
+            <lg>
+               <l>Demetrius.</l>
+               <l>Ich sag, ich liebe dich weit mehr als er.</l>
+            </lg>
+            <lg>
+               <l>Lysander.</l>
+               <l>Ha! sagst du das, so komm, beweis es auch.</l>
+            </lg>
+            <lg>
+               <l>Demetrius.</l>
+               <l>Auf, komm!</l>
+            </lg>
+            <lg>
+               <l>Hermia.</l>
+               <l>Lysander, wohin zielt dies alles?</l>
+            </lg>
+            <lg>
+               <l>Lysander.</l>
+               <l>Fort, Mohrenmädchen!</l>
+            </lg>
+            <lg>
+               <l>Demetrius.</l>
+               <l>Nein, o nein! er tut,</l>
+               <l>Als bräch er los; er tobt, als wollt er folgen,</l>
+               <l>Kommt aber nicht. O geht mir, zahmer Mensch!</l>
+            </lg>
+            <lg>
+               <l>Lysander.</l>
+               <l>Fort, Katze, Klette! Mißgeschöpf, laß los!</l>
+               <l>Sonst schleudr ich dich wie eine Natter weg.</l>
+            </lg>
+            <lg>
+               <l>Hermia.</l>
+               <l>Wie wurdet Ihr so wild? wie so verwandelt,</l>
+               <l>Mein süßes Herz?</l>
+            </lg>
+            <lg>
+               <l>Lysander.</l>
+               <l>Dein Herz? Fort, fort, hinweg!</l>
+               <l>Zigeunerin! fort, widerwärtger Trank!</l>
+            </lg>
+            <lg>
+               <l>Hermia.</l>
+               <l>Ihr scherzet nicht?</l>
+            </lg>
+            <lg>
+               <l>Helena.</l>
+               <l>Ja wahrlich, und Ihr auch!</l>
+            </lg>
+            <lg>
+               <l>Lysander.</l>
+               <l>Demetrius, ich halte dir mein Wort.</l>
+            </lg>
+            <lg>
+               <l>Demetrius.</l>
+               <l>Ich hätt es schriftlich gern von deiner Hand;</l>
+               <l>Dich hält 'ne schwache Hand, ich trau dir nicht.</l>
+            </lg>
+            <lg>
+               <l>Lysander.</l>
+               <l>Wie? sollt ich sie verwunden, schlagen, töten?</l>
+               <l>Hass' ich sie schon, ich will kein Leid ihr tun.</l>
+            </lg>
+            <lg>
+               <l>Hermia.</l>
+               <l>Wie? könnt Ihr mehr mir Leid tun, als mich hassen?</l>
+               <l>Warum mich hassen? Was geschah, Geliebter?</l>
+               <l>Bin ich nicht Hermia? Seid Ihr nicht Lysander?</l>
+               <l>Ich bin so schön noch, wie ich eben war.</l>
+               <l>Ihr liebtet über Nacht mich; doch verließt Ihr</l>
+               <l>Mich über Nacht. Und muß ich also sagen</l>
+               <l>(Verhüten es die Götter!), Ihr verließt</l>
+               <l>Im Ernste mich?</l>
+            </lg>
+            <lg>
+               <l>Lysander.</l>
+               <l>Im Ernst, so wahr ich lebe!</l>
+               <l>Und nie begehrt ich wieder dich zu sehn.</l>
+               <l>Drum gib nur Hoffnung, Frage, Zweifel auf!</l>
+               <l>Sei sicher, nichts ist wahrer, 's ist kein Scherz:</l>
+               <l>Ich hasse dich und liebe Helena.</l>
+            </lg>
+            <lg>
+               <l>Hermia.</l>
+               <l>Weh mir!—Du Gauklerin! du Blütenwurm!</l>
+               <l>Du Liebesdiebin! Was? du kamst bei Nacht,</l>
+               <l>Stahlst meines Liebsten Herz!</l>
+            </lg>
+            <lg>
+               <l>Helena.</l>
+               <l>Schön, meiner Treu!</l>
+               <l>Hast du denn keine Scheu, noch Mädchensitte,</l>
+               <l>Nicht eine Spur von Scham? Und zwingst du so</l>
+               <l>Zu harten Reden meine sanften Lippen?</l>
+               <l>Du Marionette, pfui! du Puppe, du!</l>
+            </lg>
+            <lg>
+               <l>Hermia.</l>
+               <l>Wie? Puppe? Ha, nun wird ihr Spiel mir klar:</l>
+               <l>Sie hat ihn unsern Wuchs vergleichen lassen—</l>
+               <l>Ich merke schon—auf ihre Höh getrotzt.</l>
+               <l>Mit ihrer Figur, mit ihrer langen Figur</l>
+               <l>Hat sie sich seiner, seht mir doch! bemeistert.</l>
+               <l>Und stehst du nun so groß bei ihm in Gunst,</l>
+               <l>Weil ich so klein, weil ich so zwerghaft bin?</l>
+               <l>Wie klein bin ich, du bunte Bohnenstange?</l>
+               <l>Wie klein bin ich? Nicht gar so klein, daß nicht</l>
+               <l>Dir meine Nägel an die Augen reichten.</l>
+            </lg>
+            <lg>
+               <l>Helena.</l>
+               <l>Ihr Herrn, ich bitt euch, wenn ihr schon mich höhnt,</l>
+               <l>Beschirmt mich doch vor ihr. Nie war ich böse,</l>
+               <l>Bin keineswegs geschickt zur Zänkerin;</l>
+               <l>Ich bin so feig wie irgend nur ein Mädchen.</l>
+               <l>Verwehrt ihr, mich zu schlagen; denket nicht,</l>
+               <l>Weil sie ein wenig kleiner ist als ich,</l>
+               <l>Ich nähm es mit ihr auf.</l>
+            </lg>
+            <lg>
+               <l>Hermia.</l>
+               <l>Schon wieder kleiner?</l>
+            </lg>
+            <lg>
+               <l>Helena.</l>
+               <l>Seid, gute Hermia, nicht so bös auf mich,</l>
+               <l>Ich liebt Euch immer, hab Euch nie gekränkt,</l>
+               <l>Und stets bewahrt, was Ihr mir anvertraut;</l>
+               <l>Nur daß ich, dem Demetrius zuliebe,</l>
+               <l>Ihm Eure Flucht in diesen Wald verriet.</l>
+               <l>Er folgte Euch, aus Liebe folgt ich (ihm);</l>
+               <l>Er aber schalt mich weg und drohte, mich</l>
+               <l>Zu schlagen, stoßen, ja zu töten gar;</l>
+               <l>Und nun, wo Ihr mich ruhig gehen laßt,</l>
+               <l>So trag ich meine Torheit heim zur Stadt</l>
+               <l>Und folg Euch ferner nicht. O laßt mich gehn!</l>
+               <l>Ihr seht, wie kindisch und wie blöd ich bin.</l>
+            </lg>
+            <lg>
+               <l>Hermia.</l>
+               <l>Gut, zieht nur hin! Wer hindert Euch daran?</l>
+            </lg>
+            <lg>
+               <l>Helena.</l>
+               <l>Ein töricht Herz, das ich zurück hier lasse.</l>
+            </lg>
+            <lg>
+               <l>Hermia.</l>
+               <l>Wie? Bei Lysander?</l>
+            </lg>
+            <lg>
+               <l>Helena.</l>
+               <l>Bei Demetrius.</l>
+            </lg>
+            <lg>
+               <l>Lysander.</l>
+               <l>Sei ruhig, Helena! sie soll kein Leid dir tun.</l>
+            </lg>
+            <lg>
+               <l>Demetrius.</l>
+               <l>Sie soll nicht, Herr, wenn Ihr sie schon beschützt.</l>
+            </lg>
+            <lg>
+               <l>Helena.</l>
+               <l>Oh, sie hat arge Tück in ihrem Zorn.</l>
+               <l>Sie war 'ne böse Sieben in der Schule</l>
+               <l>Und ist entsetzlich wild, obschon so klein.</l>
+            </lg>
+            <lg>
+               <l>Hermia.</l>
+               <l>Schon wieder klein, und anders nicht wie klein?</l>
+               <l>Wie duldet Ihr's, daß sie mich so verspottet?</l>
+               <l>Weg! laß mich zu ihr!</l>
+            </lg>
+            <lg>
+               <l>Lysander.</l>
+               <l>Packe dich, du Zwergin!</l>
+               <l>Du Knirps aus Knötrich, der das Wachstum hemmt!</l>
+               <l>Du Ecker du, du Paternosterkralle!</l>
+            </lg>
+            <lg>
+               <l>Demetrius.</l>
+               <l>Ihr seid zu dienstgeschäftig, guter Freund,</l>
+               <l>Zugunsten der, die Euren Dienst verschmäht.</l>
+               <l>Laß mir sie gehn! Sprich nicht von Helena!</l>
+               <l>Nimm nicht Partei für sie! Vermissest du</l>
+               <l>Dich im geringsten, Lieb ihr zu bezeugen,</l>
+               <l>So sollst du's büßen.</l>
+            </lg>
+            <lg>
+               <l>Lysander.</l>
+               <l>Jetzo bin ich frei;</l>
+               <l>Nun komm, wofern du's wagst; laß sehn, wes Recht</l>
+               <l>An Helena, ob deins, ob meines gilt.</l>
+            </lg>
+            <lg>
+               <l>Demetrius.</l>
+               <l>Dir folgen? Nein, ich halte Schritt mit dir.</l>
+            </lg>
+            <p rend="justify">(Lysander und Demetrius ab.)</p>
+            <lg>
+               <l>Hermia.</l>
+               <l>Nun, Fräulein! Ihr seid schuld an all dem Lärm.</l>
+               <l>Ei, bleibt doch stehn!</l>
+            </lg>
+            <lg>
+               <l>Helena.</l>
+               <l>Nein, nein! ich will nicht traun,</l>
+               <l>Noch länger Eur verhaßtes Antlitz schaun.</l>
+               <l>Sind Eure Hände hurtiger zum Raufen,</l>
+               <l>So hab ich längre Beine doch zum Laufen.</l>
+            </lg>
+            <p rend="justify">(Ab.)</p>
+            <lg>
+               <l>Hermia.</l>
+               <l>Ich staun und weiß nicht, was ich sagen soll.</l>
+            </lg>
+            <p rend="justify">(Sie läuft der Helena nach.)</p>
+            <lg>
+               <l>Oberon.</l>
+               <l>Das ist dein Unbedacht! Stets irrst du dich,</l>
+               <l>Wenn's nicht geflißne Schelmenstreiche sind.</l>
+            </lg>
+            <lg>
+               <l>Droll.</l>
+               <l>Ich irrte diesmal, glaubt mir, Fürst der Schatten,</l>
+               <l>Gabt Ihr denn nicht von dem bestimmten Mann</l>
+               <l>Mir die Athenertracht als Merkmal an?</l>
+               <l>Und so weit bin ich ohne Schuld, daß jener,</l>
+               <l>Den ich gesalbt, doch wirklich ein Athener;</l>
+               <l>Und so weit bin ich froh, daß so sich's fügt,</l>
+               <l>Weil diese Balgerei mich sehr vergnügt.</l>
+            </lg>
+            <lg>
+               <l>Oberon.</l>
+               <l>Du siehst zum Kampf bereit die hitzgen Freier:</l>
+               <l>Drum eile, Droll: wirf einen nächtgen Schleier,</l>
+               <l>Bedecke die gestirnte Feste schnell</l>
+               <l>Mit Nebeln, düster wie Kozytus' Quell;</l>
+               <l>Und locke sie auf falsche Weg und Stege,</l>
+               <l>Damit sie nicht sich kommen ins Gehege.</l>
+               <l>Bald borg die Stimme vom Demetrius</l>
+               <l>Und reize keck Lysandern zum Verdruß;</l>
+               <l>Bald schimpf und höhne wieder wie Lysander</l>
+               <l>Und bringe so sie weiter auseinander,</l>
+               <l>Bis ihre Stirnen Schlaf, der sich dem Tod vergleicht,</l>
+               <l>Mit dichter Schwing und bleirnem Tritt beschleicht.</l>
+               <l>Zerdrück dies Kraut dann auf Lysanders Augen,</l>
+               <l>Die Zauberkräfte seines Saftes taugen,</l>
+               <l>Von allem Wahn sie wieder zu befrein</l>
+               <l>Und den gewohnten Blick ihm zu verleihn.</l>
+               <l>Wenn sie erwachen, ist, was sie betrogen,</l>
+               <l>Wie Träum und eitle Nachtgebild entflogen;</l>
+               <l>Dann kehren wieder nach Athen zurück</l>
+               <l>Die Liebenden, vereint zu stetem Glück.</l>
+               <l>Derweil dies alles deine Sorgen sind,</l>
+               <l>Bitt ich Titanien um ihr indisch Kind;</l>
+               <l>Ich bann ihr vom betörten Augenlide</l>
+               <l>Des Unholds Bild, und alles werde Friede.</l>
+            </lg>
+            <lg>
+               <l>Droll.</l>
+               <l>Mein Elfenfürst, wir müssen eilig machen.</l>
+               <l>Die Nacht teilt das Gewölk mit schnellen Drachen.</l>
+               <l>Auch schimmert schon Auroras Herold dort,</l>
+               <l>Und seine Näh scheucht irre Geister fort</l>
+               <l>Zum Totenacker; banger Seelen Heere,</l>
+               <l>Am Scheideweg begraben und im Meere:</l>
+               <l>Man sieht ins wurmbenagte Bett sie gehn.</l>
+               <l>Aus Angst, der Tag möcht ihre Schande sehn,</l>
+               <l>Verbannt vom Lichte sie ihr eigner Wille,</l>
+               <l>Und ihnen dient die Nacht zur ewgen Hülle.</l>
+            </lg>
+            <lg>
+               <l>Oberon.</l>
+               <l>Doch wir sind Geister andrer Region.</l>
+               <l>Oft jagt ich mit Aurorens Liebling schon,</l>
+               <l>Darf, wie ein Weidmann, noch den Wald betreten,</l>
+               <l>Wenn flammend sich des Ostens Pforten röten</l>
+               <l>Und, aufgetan, der Meeresfluten Grün</l>
+               <l>Mit schönem Strahle golden überglühn.</l>
+               <l>Doch zaudre nicht! Sei schnell vor allen Dingen!</l>
+               <l>Wir können dies vor Tage noch vollbringen.</l>
+            </lg>
+            <p rend="justify">(Oberon ab.)</p>
+            <lg>
+               <l>Droll.</l>
+               <l> Hin und her, hin und her,</l>
+               <l>Alle führ ich hin und her.</l>
+               <l>Land und Städte scheun mich sehr.</l>
+               <l>Kobold, führ sie hin und her! Hier kommt der eine.</l>
+            </lg>
+            <p rend="justify">(Lysander tritt auf.)</p>
+            <lg>
+               <l>Lysander.</l>
+               <l>Demetrius! Wo bist du, Stolzer, du?</l>
+            </lg>
+            <lg>
+               <l>Droll.</l>
+               <l>Hier, Schurk, mit bloßem Degen; mach nur zu!</l>
+            </lg>
+            <lg>
+               <l>Lysander.</l>
+               <l>Ich komme schon.</l>
+            </lg>
+            <lg>
+               <l>Droll.</l>
+               <l>So laß uns miteinander</l>
+               <l>Auf ebnem Boden gehn.</l>
+            </lg>
+            <lg>
+               <l>(Lysander ab, als ging' er der Stimme nach.</l>
+               <l>Demetrius tritt auf.)</l>
+            </lg>
+            <lg>
+               <l>Demetrius.</l>
+               <l>Antworte doch, Lysander!</l>
+               <l>Ausreißer! Memme! liefst du so mir fort?</l>
+               <l>In welchem Busche steckst du? sprich ein Wort!</l>
+            </lg>
+            <lg>
+               <l>Droll.</l>
+               <l>Du Memme, forderst hier heraus die Sterne,</l>
+               <l>Erzählst dem Busch, du fochtest gar zu gerne,</l>
+               <l>Und kommst doch nicht? Komm, Bübchen, komm doch her,</l>
+               <l>Ich geb die Rute dir. Beschimpft ist der,</l>
+               <l>Der gegen dich nur zieht.</l>
+            </lg>
+            <lg>
+               <l>Demetrius.</l>
+               <l>He, bist du dort?</l>
+            </lg>
+            <lg>
+               <l>Droll.</l>
+               <l>Folg meinem Ruf, zum Kampf ist dies kein Ort.</l>
+            </lg>
+            <p rend="justify">(Droll und Demetrius ab. Lysander kommt zurück.)</p>
+            <lg>
+               <l>Lysander.</l>
+               <l>Stets zieht er vor mir her mit lautem Drohen;</l>
+               <l>Komm ich, wohin er ruft, ist er entflohen.</l>
+               <l>Behender ist der Schurk im Lauf als ich:</l>
+               <l>Ich folgt ihm schnell, doch schneller mied er mich,</l>
+               <l>So daß ich fiel auf dunkler, rauher Bahn,</l>
+               <l>Und hier nun ruhn will.—</l>
+            </lg>
+            <p rend="justify">(Legt sich nieder.)</p>
+            <lg>
+               <l>Holder Tag, brich an!</l>
+               <l>Sobald mir nur dein graues Licht erscheint,</l>
+               <l>Räch ich den Hohn und strafe meinen Feind.</l>
+            </lg>
+            <lg>
+               <l>(Entschläft.)</l>
+               <l>(Droll und Demetrius kommen zurück.)</l>
+            </lg>
+            <lg>
+               <l>Droll.</l>
+               <l>Ho, ho! du Memme, warum kommst du nicht?</l>
+            </lg>
+            <lg>
+               <l>Demetrius.</l>
+               <l>Steh, wenn du darfst, und sieh mir ins Gesicht.</l>
+               <l>Ich merke wohl, von einem Platz zum andern</l>
+               <l>Entgehst du mir und läßt umher mich wandern.</l>
+               <l>Wo bist du nun?</l>
+            </lg>
+            <lg>
+               <l>Droll.</l>
+               <l>Hieher komm! ich bin hier.</l>
+            </lg>
+            <lg>
+               <l>Demetrius.</l>
+               <l>Du neckst mich nur, doch zahlst du's teuer mir,</l>
+               <l>Wenn je der Tag dich mir vors Auge bringt.</l>
+               <l>Jetzt zieh nur hin, weil Müdigkeit mich zwingt,</l>
+               <l>Mich hinzustrecken auf dies kalte Kissen;</l>
+               <l>Frühmorgens werd ich dich zu finden wissen.</l>
+            </lg>
+            <p rend="justify">(Legt sich nieder und entschläft. Helena tritt auf)</p>
+            <lg>
+               <l>Helena.</l>
+               <l>O träge, lange Nacht, verkürze dich!</l>
+               <l>Und Tageslicht, laß mich nicht länger schmachten</l>
+               <l>Zur Heimat führe weg von diesen mich,</l>
+               <l>Die meine arme Gegenwart verachten.</l>
+               <l>Du, Schlaf, der oft dem Grame Lindrung leiht,</l>
+               <l>Entziehe mich mir selbst auf kurze Zeit.</l>
+            </lg>
+            <p rend="justify">(Schläft ein.)</p>
+            <lg>
+               <l>Droll.</l>
+               <l> Dreie nur!—Fehlt eins noch hier:</l>
+               <l>Zwei von jeder Art macht vier.</l>
+               <l>Seht, sie kommt ja, wie sie soll,</l>
+               <l>Auf der Stirn Verdruß und Groll.</l>
+               <l>Amor steckt von Schalkheit voll,</l>
+               <l>Macht die armen Weiblein toll.</l>
+            </lg>
+            <p rend="justify">(Hermia tritt auf.)</p>
+            <lg>
+               <l>Hermia.</l>
+               <l>Wie matt! wie krank! Zerzaust von Dornensträuchen,</l>
+               <l>Vom Tau beschmutzt und tausendfach in Not:</l>
+               <l>Ich kann nicht weitergehn, nicht weiterschleichen;</l>
+               <l>Mein Fuß vernimmt nicht der Begier Gebot.</l>
+               <l>Hier will ich ruhn; und soll's ein Treffen geben,</l>
+               <l>O Himmel, schütze mir Lysanders Leben!</l>
+            </lg>
+            <p rend="justify">(Schläft ein.)</p>
+            <lg>
+               <l>Droll.</l>
+               <l>Auf dem Grund</l>
+               <l>Schlaf gesund!</l>
+               <l>Gießen will</l>
+               <l>Ich dir still</l>
+               <l>Auf die Augen Arzenei.</l>
+            </lg>
+            <p rend="justify">(Träufelt den Saft auf Lysanders Augen.)</p>
+            <lg>
+               <l>Wirst du wach,</l>
+               <l>O so lach</l>
+               <l>Freundlich der,</l>
+               <l>Die vorher</l>
+               <l>Du geliebt, und bleib ihr treu.</l>
+               <l>Dann geht es, wie das Sprüchlein rühmt:</l>
+               <l>Gebt jedem das, was ihm geziemt.</l>
+               <l>Hans nimmt sein Gretchen,</l>
+               <l>Jeder sein Mädchen;</l>
+               <l>Find't seinen Deckel jeder Topf,</l>
+               <l>Und allen gehts nach ihrem Kopf.</l>
+            </lg>
+            <p rend="justify">(Ab.)</p>
+            <p rend="justify">Vierter Aufzug</p>
+            <p rend="justify">Erste Szene</p>
+            <lg>
+               <l>Der Wald</l>
+               <l>(Titania und Zettel mit einem Gefolge von Elfen</l>
+               <l>Oberon im Hintergrunde, ungesehen)</l>
+            </lg>
+            <lg>
+               <l>Titania.</l>
+               <l>Komm, laß uns hier auf Blumenbetten kosen!</l>
+               <l>Beut, Holder, mir die zarte Wange dar:</l>
+               <l>Den glatten Kopf besteck ich dir mit Rosen</l>
+               <l>Und küsse dir dein schönes Ohrenpaar.</l>
+            </lg>
+            <lg>
+               <l>Zettel.</l>
+               <l>Wo ist Bohnenblüte?</l>
+            </lg>
+            <lg>
+               <l>Bohnenblüte.</l>
+               <l>Hier.</l>
+            </lg>
+            <lg>
+               <l>Zettel.</l>
+               <l>Kratz mir den Kopf, Bohnenblüte.—Wo ist Musje Spinnweb?</l>
+            </lg>
+            <lg>
+               <l>Spinnweb.</l>
+               <l>Hier.</l>
+            </lg>
+            <p rend="justify">Zettel. Musje Spinnweb, lieber Musje, kriegen Sie Ihre Waffen zurhand und schlagen Sie mir eine rotbeinige Biene auf einem Distelkopfe tot, und, lieber Musje, bringen Sie mir den Honigbeutel. Tummeln Sie sich nicht allzusehr bei dieser Verrichtung, Musje; und, lieber Musje, haben Sie acht, daß der Honigbeutel nicht entzwei geht; es würde mir leid tun, Signor, wenn Sie sich mit einem Honigbeutel beschütteten. Wo ist Musje Senfsamen?</p>
+            <lg>
+               <l>Senfsamen.</l>
+               <l>Hier.</l>
+            </lg>
+            <lg>
+               <l>Zettel.</l>
+               <l>Geben Sie die Pfote, Musje Senfsamen; ich bitte Sie, lassen</l>
+               <l>Sie die Reverenzen, lieber Musje.</l>
+            </lg>
+            <lg>
+               <l>Senfsamen.</l>
+               <l>Was befehlen Sie?</l>
+            </lg>
+            <p rend="justify">Zettel. Nichts, lieber Musje, als daß Sie dem Kavalier Bohnenblüte kratzen helfen. Ich muß zum Balbier, Musje; denn mir ist, als wär ich gewaltig haarig ums Gesicht herum, und ich bin ein so zärtlicher Esel: wenn mein Haar mich nur ein bißchen kitzelt, gleich muß ich kratzen.</p>
+            <lg>
+               <l>Titania.</l>
+               <l>Willst du Musik vernehmen, süßer Freund?</l>
+            </lg>
+            <lg>
+               <l>Zettel.</l>
+               <l>Ich hab ein räsonabel gutes Ohr für Musik; spielt mir ein</l>
+               <l>Stück auf der Maultrommel.</l>
+            </lg>
+            <lg>
+               <l>Titania.</l>
+               <l>Sag, süßer Freund, was hast du Lust zu essen?</l>
+            </lg>
+            <p rend="justify">Zettel. Ja, meiner Seel! Eine Krippe voll Futter. Ich könnte auch guten, trocknen Hafer käuen. Mir ist, als hätte ich großen Appetit nach einem Bunde Heu; gutes Heu, süßes Heu hat seinesgleichen auf der Welt nicht.</p>
+            <lg>
+               <l>Titania.</l>
+               <l>Ich hab 'nen dreisten Elfen, der nach Nüssen</l>
+               <l>Im Magazin des Eichhorns suchen soll.</l>
+            </lg>
+            <lg>
+               <l>Zettel.</l>
+               <l>Ich hätte lieber ein oder zwei Hand voll trockner Erbsen.</l>
+               <l>Aber ich bitt Euch, laßt keinen von Euren Leuten mich</l>
+               <l>stören. Es kommt mir eine Exposition zum Schlaf an.</l>
+            </lg>
+            <lg>
+               <l>Titania.</l>
+               <l>Schlaf du! Dich soll indes mein Arm umwinden.</l>
+               <l>Ihr Elfen, weg! Nach allen Seiten fort!—</l>
+               <l>So lind umflicht mit süßen Blütenranken</l>
+               <l>Das Geißblatt; so umzingelt, weiblich zart,</l>
+               <l>Das Efeu seines Ulmbaums rauhe Finger:</l>
+               <l>Wie ich dich liebe! wie ich dich vergöttre!</l>
+            </lg>
+            <p rend="justify">(Sie schlafen ein. Oberon tritt vor. Droll kommt.)</p>
+            <lg>
+               <l>Oberon.</l>
+               <l>Willkommen, Droll! Siehst du dies süße Schauspiel?</l>
+               <l>Jetzt fängt mich doch ihr Wahnsinn an zu dauern.</l>
+               <l>Denn da ich eben im Gebüsch sie traf,</l>
+               <l>Wie sie für diesen Tropf nach Düften suchte,</l>
+               <l>Da schalt ich sie und ließ sie zornig an.</l>
+               <l>Sie hatt ihm die behaarten Schläf' umwunden</l>
+               <l>Mit einem frischen, würzgen Blumenkranz.</l>
+               <l>Derselbe Tau, der sonst wie runde Perlen</l>
+               <l>Des Morgenlandes an den Knospen schwoll,</l>
+               <l>Stand in der zarten Blümchen Augen jetzt,</l>
+               <l>Wie Tränen, trauernd über eigne Schmach.</l>
+               <l>Als ich sie nach Gefallen ausgeschmält</l>
+               <l>Und sie voll Demut und Geduld mich bat,</l>
+               <l>Da fordert ich von ihr das Wechselkind;</l>
+               <l>Sie gab's mir gleich und sandte ihren Elfen</l>
+               <l>Zu meiner Laub' im Feenland mit ihm.</l>
+               <l>Nun, da der Knabe mein ist, sei ihr Auge</l>
+               <l>Von dieser häßlichen Verblendung frei.</l>
+               <l>Du, lieber Droll, nimm diese fremde Larve</l>
+               <l>Vom Kopfe des Gesellen aus Athen;</l>
+               <l>Auf daß er mit den andern hier, erwachend,</l>
+               <l>Sich wieder heimbegebe nach Athen,</l>
+               <l>Und alle der Geschichten dieser Nacht</l>
+               <l>Nur wie der Launen eines Traums gedenken.</l>
+               <l>Doch lös ich erst die Elfenkönigin:</l>
+            </lg>
+            <p rend="justify">(Er berührt ihre Augen mit einem Kraut.)</p>
+            <lg>
+               <l>        Sei, als wäre nichts geschehn!</l>
+               <l>        Sieh, wie du zuvor gesehn!</l>
+               <l>        So besiegt zu hohem Ruhme</l>
+               <l>        Cynthias Knospe Amors Blume.</l>
+               <l>Nun, holde Königin! wach auf, Titania!</l>
+            </lg>
+            <lg>
+               <l>Titania.</l>
+               <l>Mein Oberon, was für Gesicht' ich sah!</l>
+               <l>Mir schien, ein Esel hielt mein Herz gefangen.</l>
+            </lg>
+            <lg>
+               <l>Oberon.</l>
+               <l>Da liegt dein Freund.</l>
+            </lg>
+            <lg>
+               <l>Titania.</l>
+               <l>Wie ist dies zugegangen?</l>
+               <l>O wie mir nun vor dieser Larve graut!</l>
+            </lg>
+            <lg>
+               <l>Oberon.</l>
+               <l>Ein Weilchen still!—Droll, nimm den Kopf da weg.</l>
+               <l>Titania, du laß Musik beginnen</l>
+               <l>Und binde stärker aller fünfe Sinnen</l>
+               <l>Als durch gemeinen Schlaf.</l>
+            </lg>
+            <lg>
+               <l>Titania.</l>
+               <l>Musik her! Schlafbeschwörende Musik!</l>
+            </lg>
+            <lg>
+               <l>Droll.</l>
+               <l>Wenn du erwachst, so sollst du umgeschaffen</l>
+               <l>Aus deinen eignen dummen Augen gaffen.</l>
+            </lg>
+            <lg>
+               <l>Oberon.</l>
+               <l>Ertön Musik! (Sanfte Musik.)</l>
+               <l>Nun komm, Gemahlin! Hand in Hand gefügt,</l>
+               <l>Und dieser Schläfer Ruheplatz gewiegt!</l>
+               <l>Die Freundschaft zwischen uns ist nun erneut:</l>
+               <l>Wir tanzen morgen Mitternacht erfreut</l>
+               <l>In Theseus' Hause bei der Festlichkeit</l>
+               <l>Und segnen es mit aller Herrlichkeit.</l>
+               <l>Auch werden da vermählt zu gleicher Zeit</l>
+               <l>Die Paare hier in Wonn und Fröhlichkeit.</l>
+            </lg>
+            <lg>
+               <l> Droll. Elfenkönig, horch! da klang</l>
+               <l>Schon der Lerche Morgensang. Oberon. Hüpfen wir denn, Königin,</l>
+               <l>Schweigend nach den Schatten hin!</l>
+               <l>Schneller als die Monde kreisen</l>
+               <l>Können wir die Erd umreisen. Titania. Komm, Gemahl, und sage du</l>
+               <l>Mir im Fliehn: wie ging es zu,</l>
+               <l>Daß man diese Nacht im Schlaf</l>
+               <l>Bei den Sterblichen mich traf?</l>
+            </lg>
+            <lg>
+               <l>(Alle ab. Waldhörner hinter der Szene.</l>
+               <l>Theseus, Hippolyta, Egeus und Gefolge treten auf.)</l>
+            </lg>
+            <lg>
+               <l>Theseus.</l>
+               <l>Geh einer hin und finde mir den Förster,</l>
+               <l>Denn unsre Maienandacht ist vollbracht;</l>
+               <l>Und da sich schon des Tages Vortrab zeigt,</l>
+               <l>So soll Hippolyta die Jagdmusik</l>
+               <l>Der Hunde hören.—Koppelt sie im Tal</l>
+               <l>Gen Westen los; eilt, sucht den Förster auf.</l>
+               <l>Komm, schöne Fürstin, auf des Berges Höh;</l>
+               <l>Dort laßt uns in melodischer Verwirrung</l>
+               <l>Das Bellen hören samt dem Widerhall.</l>
+            </lg>
+            <lg>
+               <l>Hippolyta.</l>
+               <l>Ich bin beim Herkules und Kadmus einst,</l>
+               <l>Die mit spartanschen Hunden einen Bär</l>
+               <l>In Kretas Wäldern hetzten; nie vernahm ich</l>
+               <l>So tapfres Toben. Nicht die Haine nur,</l>
+               <l>Das Firmament, die Quellen, die Reviere,</l>
+               <l>Sie schienen all' (ein) Ruf und Gegenruf.</l>
+               <l>Nie hört ich so harmonschen Zwist der Töne,</l>
+               <l>So hellen Donner.</l>
+            </lg>
+            <lg>
+               <l>Theseus.</l>
+               <l>Auch meine Hunde sind aus Spartas Zucht,</l>
+               <l>Weitmäulig, scheckig und ihr Kopf behangen</l>
+               <l>Mit Ohren, die den Tau vom Grase streifen;</l>
+               <l>Krummbeinig, wammig wie Thessaliens Stiere;</l>
+               <l>Nicht schnell zur Jagd, doch ihrer Kehlen Ton</l>
+               <l>Folgt aufeinander wie ein Glockenspiel.</l>
+               <l>Harmonischer scholl niemals ein Gebell</l>
+               <l>Zum Hussa und zum frohen Hörnerschall</l>
+               <l>In Kreta, Sparta, noch Thessalien.</l>
+               <l>Entscheidet selbst.—Doch still! wer sind hier diese?</l>
+            </lg>
+            <lg>
+               <l>Egeus.</l>
+               <l>Hier schlummert meine Tochter, gnädger Herr;</l>
+               <l>Dies ist Lysander, dies Demetrius,</l>
+               <l>Dies Helena, des alten Nedars Kind.</l>
+               <l>Ich bin erstaunt, beisammen sie zu treffen.</l>
+            </lg>
+            <lg>
+               <l>Theseus.</l>
+               <l>Sie machten ohne Zweifel früh sich auf,</l>
+               <l>Den Mai zu feiern, hörten unsre Absicht</l>
+               <l>Und kamen her zu unsrer Festlichkeit.</l>
+               <l>Doch sag mir, Egeus, ist dies nicht der Tag,</l>
+               <l>Wo Hermia ihre Wahl erklären sollte?</l>
+            </lg>
+            <lg>
+               <l>Egeus.</l>
+               <l>Er ist's, mein Fürst.</l>
+            </lg>
+            <lg>
+               <l>Theseus.</l>
+               <l>Geh, heiß die Jäger, sie</l>
+               <l>Mit ihren Hörnern wecken.</l>
+            </lg>
+            <lg>
+               <l>(Waldhörner und Jagdgeschrei hinter der Szene, Demetrius,</l>
+               <l>Lysander, Hermia und Helena erwachen und fahren auf.)</l>
+            </lg>
+            <lg>
+               <l>Theseus.</l>
+               <l>Ei, guten Tag! Sankt Velten ist vorbei,</l>
+               <l>Und paaren jetzt sich diese Vögel erst?</l>
+            </lg>
+            <lg>
+               <l>Lysander.</l>
+               <l>Verzeihung, Herr!</l>
+            </lg>
+            <p rend="justify">(Er und die übrigen knien.)</p>
+            <lg>
+               <l>Theseus.</l>
+               <l>Steht auf, ich bitt euch alle.</l>
+               <l>Ich weiß, ihr seid zwei Feind und Nebenbuhler:</l>
+               <l>Wo kommt nun diese milde Eintracht her,</l>
+               <l>Daß, fern vom Argwohn, Haß beim Hasse schläft</l>
+               <l>Und keiner Furcht vor Feindlichkeiten hegt?</l>
+            </lg>
+            <lg>
+               <l>Lysander.</l>
+               <l>Mein Fürst, ich werd verworren Antwort geben,</l>
+               <l>Halb wachend, halb im Schlaf; noch, schwör ich Euch,</l>
+               <l>Weiß ich nicht recht, wie ich hieher mich fand.</l>
+               <l>Doch denk ich (denn ich möchte wahrhaft reden—</l>
+               <l>Und jetzt besinn ich mich, so ist es auch),</l>
+               <l>Ich kam mit Hermia her; wir hatten vor,</l>
+               <l>Weg von Athen an einen Ort zu fliehn,</l>
+               <l>Wo des Gesetzes Bann uns nicht erreichte.—</l>
+            </lg>
+            <lg>
+               <l>Egeus.</l>
+               <l>Genug, genug! Mein Fürst, Ihr habt genug;</l>
+               <l>Ich will den Bann, den Bann auf seinen Kopf.</l>
+               <l>Fliehn wollten sie, ja fliehn, Demetrius!</l>
+               <l>Und wollten so berauben dich und mich,</l>
+               <l>Dich deines Weibs und meines Wortes mich;</l>
+               <l>Des Wortes, das zum Weibe dir sie gab!</l>
+            </lg>
+            <lg>
+               <l>Demetrius.</l>
+               <l>Mein Fürst, die schöne Helena verriet</l>
+               <l>Mir ihren Plan, in diesen Wald zu flüchten;</l>
+               <l>Und ich verfolgte sie hieher aus Wut,</l>
+               <l>Die schöne Helena aus Liebe mich.</l>
+               <l>Doch weiß ich nicht, mein Fürst, durch welche Macht</l>
+               <l>(Doch eine höhre Macht ist's) meine Liebe</l>
+               <l>Zu Hermia, wie Schnee zerronnen, jetzt</l>
+               <l>Mir eines eitlen Tands Erinnrung scheint,</l>
+               <l>Worein ich in der Kindheit mich vergafft.</l>
+               <l>Der Gegenstand, die Wonne meiner Augen</l>
+               <l>Und alle Treu und Tugend meiner Brust</l>
+               <l>Ist Helena allein. Mit ihr, mein Fürst,</l>
+               <l>War ich verlobt, bevor ich Hermia sah.</l>
+               <l>Doch wie ein Kranker haßt ich diese Nahrung.</l>
+               <l>Nun, zum natürlichen Geschmack genesen,</l>
+               <l>Begehr ich, lieb ich sie, schmacht ich nach ihr</l>
+               <l>Und will ihr treu sein nun und immerdar.</l>
+            </lg>
+            <lg>
+               <l>Theseus.</l>
+               <l>Ihr Liebenden, ein Glück, daß ich euch traf!</l>
+               <l>Wir setzen dies Gespräch bald weiter fort.—</l>
+               <l>Ihr, Egeus, müßt Euch meinem Willen fügen:</l>
+               <l>Denn schließen sollen diese Paar im Tempel</l>
+               <l>Zugleich mit uns den ewigen Verein.</l>
+               <l>Und weil der Morgen schon zum Teil verstrich,</l>
+               <l>So bleib auch unsre Jagd nun ausgesetzt.—</l>
+               <l>Kommt mit zur Stadt! Wir wollen drei selb drei</l>
+               <l>Ein Fest begehn, das ohnegleichen sei.—</l>
+               <l>Komm denn, Hippolyta.</l>
+            </lg>
+            <p rend="justify">(Theseus, Hippolyta, Egeus und Gefolge ab.)</p>
+            <lg>
+               <l>Demetrius.</l>
+               <l>Dies alles scheint so klein und unerkennbar</l>
+               <l>Wie ferne Berge, schwindend im Gewölk.</l>
+            </lg>
+            <lg>
+               <l>Hermia.</l>
+               <l>Mir ist, ich säh dies mit geteiltem Auge,</l>
+               <l>Dem alles doppelt scheint.</l>
+            </lg>
+            <lg>
+               <l>Helena.</l>
+               <l>So ist's auch mir.</l>
+               <l>Ich fand Demetrius, so wie ein Kleinod,</l>
+               <l>Mein und auch nicht mein eigen.</l>
+            </lg>
+            <lg>
+               <l>Demetrius.</l>
+               <l>Seid Ihr denn</l>
+               <l>Des Wachens auch gewiß? Mir scheint's, wir schlafen,</l>
+               <l>Wir träumen noch. Denkt Ihr nicht, daß der Herzog</l>
+               <l>Hier war und ihm zu folgen uns gebot?</l>
+            </lg>
+            <lg>
+               <l>Hermia.</l>
+               <l>Ja, auch mein Vater.</l>
+            </lg>
+            <lg>
+               <l>Helena.</l>
+               <l>Und Hippolyta.</l>
+            </lg>
+            <lg>
+               <l>Lysander.</l>
+               <l>Und er beschied uns zu sich in den Tempel.</l>
+            </lg>
+            <lg>
+               <l>Demetrius.</l>
+               <l>Wohl denn, wir wachen also. Auf, ihm nach!</l>
+               <l>Und plaudern wir im Gehn von unsern Träumen.</l>
+            </lg>
+            <lg>
+               <l>(Ab.)</l>
+               <l>(Wie sie abgehn, wacht Zettel auf.)</l>
+            </lg>
+            <p rend="justify">Zettel. Wenn mein Stichwort kommt, ruft mich, und ich will antworten. Mein nächstes ist: "O schönster Pyramus!"— He! holla!—Peter Squenz! Flaut, der Bälgenflicker! Schnauz, der Kesselflicker! Schlucker!—Sapperment! Alle davongelaufen und lassen mich hier schlafen!— Ich habe ein äußerst rares Gesicht gehabt. Ich hatte 'nen Traum—'s geht über Menschenwitz, zu sagen, was es für ein Traum war. Der Mensch ist nur ein Esel, wenn er sich einfallen läßt, diesen Traum auszulegen. Mir war, als wär ich—kein Menschenkind kann sagen, was. Mir war, als wär ich, und mir war, als hätt ich—aber der Mensch ist nur ein lumpiger Hanswurst, wenn er sich unterfängt zu sagen, was mir war, als hätt ichs; des Menschen Auge hat's nicht gehört, des Menschen Ohr hats nicht gesehen, des Menschen Hand kann's nicht schmecken, seine Zunge kanns nicht begreifen und sein Herz nicht wieder sagen, was mein Traum war.—Ich will den Peter Squenz dazukriegen, mir von diesem Traum eine Ballade zu schreiben; sie soll Zettels Traum heißen, weil sie so seltsam angezettelt ist, und ich will sie gegen das Ende des Stücks vor dem Herzoge singen. Vielleicht, um sie noch anmutiger zu machen, werde ich sie nach dem Tode singen.</p>
+            <p rend="justify">(Ab.)</p>
+            <p rend="justify">Zweite Szene</p>
+            <lg>
+               <l>Athen</l>
+               <l>Eine Stube in Squenzens Hause</l>
+               <l>(Squenz, Flaut, Schnauz und Schlucker kommen)</l>
+            </lg>
+            <p rend="justify">Squenz. Habt ihr nach Zettels Hause geschickt? Ist er noch nicht nach Haus gekommen?</p>
+            <lg>
+               <l>Schlucker.</l>
+               <l>Man hört nichts von ihm. Ohne Zweifel ist er transportiert.</l>
+            </lg>
+            <p rend="justify">Flaut. Wenn er nicht kommt, so ist das Stück zum Henker. Es geht nicht vor sich, nicht wahr?</p>
+            <p rend="justify">Squenz. Es ist nicht möglich. Ihr habt keinen Mann in ganz Athen außer ihm, der kapabel ist, den Pyramus herauszubringen.</p>
+            <lg>
+               <l>Flaut.</l>
+               <l>Nein; er hat schlechterdings den besten Witz von allen</l>
+               <l>Handwerksleuten in Athen.</l>
+            </lg>
+            <p rend="justify">Squenz. Ja, der Tausend! und die beste Person dazu. Und was eine süße Stimme betrifft, da ist er ein rechtes Phänomen.</p>
+            <p rend="justify">Flaut. Ein Phönix müßt Ihr sagen. Ein Phänomen (Gott behüte uns) ist ein garstiges Ding.</p>
+            <p rend="justify">(Schnock kommt.)</p>
+            <p rend="justify">Schnock. Meister, der Herzog kommt eben vom Tempel, und noch drei oder vier andere Herren und Damen mehr sind verheiratet. Wenn unser Spiel vor sich gegangen wäre, so wären wir alle gemachte Leute gewesen.</p>
+            <lg>
+               <l>Flaut.</l>
+               <l>O lieber Sappermentsjunge, Zettel! So hat er nun sechs</l>
+               <l>Batzen des Tags für Lebenszeit verloren. Er konnte sechs</l>
+               <l>Batzen des Tags nicht entgehn—und wenn ihm der Herzog</l>
+               <l>nicht sechs Batzen des Tags für den Pyramus gegeben hätte,</l>
+               <l>will ich mich hängen lassen! Er hätt es verdient.—Sechs</l>
+               <l>Batzen des Tags für den Pyramus, oder gar nichts!</l>
+               <l>(Zettel kommt.)</l>
+            </lg>
+            <lg>
+               <l>Zettel.</l>
+               <l>Wo sind die Buben? Wo sind die Herzensjungen?</l>
+            </lg>
+            <lg>
+               <l>Squenz.</l>
+               <l>Zettel!—O allertrefflichster Tag! gebenedeite Stunde!</l>
+            </lg>
+            <lg>
+               <l>Zettel.</l>
+               <l>Meister, ich muß Wunderdinge reden, aber fragt mich nicht</l>
+               <l>was; denn wenn ich's euch sage, bin ich kein ehrlicher</l>
+               <l>Athener. Ich will euch alles sagen, just wie es sich zutrug.</l>
+            </lg>
+            <lg>
+               <l>Squenz.</l>
+               <l>Laß uns hören, lieber Zettel.</l>
+            </lg>
+            <p rend="justify">Zettel. Nicht eine Silbe. Nur soviel will ich euch sagen: der Herzog haben zu Mittage gespeist. Kriegt eure Gerätschaften herbei! Gute Schnüre an eure Bärte! Neue Bänder an eure Schuh! Kommt gleich beim Palaste zusammen; laßt jeden seine Rolle überlesen; denn das Kurze und das Lange von der Sache ist: unser Spiel geht vor sich. Auf allen Fall laßt Thisbe reine Wäsche anziehn, und laßt dem, der den Löwen macht, seine Nägel nicht verschneiden; denn sie sollen heraushängen als des Löwen Klauen. Und, allerliebste Akteure! eßt keine Zwiebeln, keinen Knoblauch; denn wir sollen süßen Odem von uns geben, und ich zweifle nicht, sie werden sagen: Es ist eine sehr süße Komödie. Keine Worte weiter! Fort! marsch! fort!</p>
+            <p rend="justify">(Alle ab.)</p>
+            <p rend="justify">Fünfter Aufzug</p>
+            <p rend="justify">Erste Szene</p>
+            <lg>
+               <l>Ein Zimmer im Palast des Theseus</l>
+               <l>(Theseus, Hippolyta, Philostrat, Herren vom Hofe und</l>
+               <l>Gefolge treten auf)</l>
+            </lg>
+            <lg>
+               <l>Hippolyta.</l>
+               <l>Was diese Liebenden erzählen, mein Gemahl,</l>
+               <l>Ist wundervoll.</l>
+            </lg>
+            <lg>
+               <l>Theseus.</l>
+               <l>Mehr wundervoll wie wahr.</l>
+               <l>Ich glaubte nie an diese Feenpossen</l>
+               <l>Und Fabelein. Verliebte und Verrückte</l>
+               <l>Sind beide von so brausendem Gehirn,</l>
+               <l>So bildungsreicher Phantasie, die wahrnimmt,</l>
+               <l>Was nie die kühlere Vernunft begreift.</l>
+               <l>Wahnwitzige, Poeten und Verliebte</l>
+               <l>Bestehn aus Einbildung. Der eine sieht</l>
+               <l>Mehr Teufel, als die weite Hölle faßt:</l>
+               <l>Der Tolle nämlich; der Verliebte sieht,</l>
+               <l>Nicht minder irr, die Schönheit Helenas</l>
+               <l>Auf einer äthiopisch braunen Stirn.</l>
+               <l>Des Dichters Aug, in schönem Wahnsinn rollend,</l>
+               <l>Blitzt auf zum Himmel, blitzt zur Erd hinab,</l>
+               <l>Und wie die schwangre Phantasie Gebilde</l>
+               <l>Von unbekannten Dingen ausgebiert,</l>
+               <l>Gestaltet sie des Dichters Kiel, benennt</l>
+               <l>Das luftge Nichts und gibt ihm festen Wohnsitz.</l>
+               <l>So gaukelt die gewaltge Einbildung;</l>
+               <l>Empfindet sie nur irgend eine Freude,</l>
+               <l>Sie ahnet einen Bringer dieser Freude;</l>
+               <l>Und in der Nacht, wenn uns ein Graun befällt,</l>
+               <l>Wie leicht, daß man den Busch für einen Bären hält!</l>
+            </lg>
+            <lg>
+               <l>Hippolyta.</l>
+               <l>Doch diese ganze Nachtbegebenheit</l>
+               <l>Und ihrer aller Sinn, zugleich verwandelt,</l>
+               <l>Bezeugen mehr als Spiel der Einbildung:</l>
+               <l>Es wird daraus ein Ganzes voll Bestand,</l>
+               <l>Doch seltsam immer noch und wundervoll.</l>
+            </lg>
+            <p rend="justify">(Lysander, Demetrius, Hermia und Helena treten auf.)</p>
+            <lg>
+               <l>Theseus.</l>
+               <l>Hier kommen die Verliebten, froh entzückt.</l>
+               <l>Glück, Freunde, Glück! Und heitre Liebestage</l>
+               <l>Nach Herzenswunsch!</l>
+            </lg>
+            <lg>
+               <l>Lysander.</l>
+               <l>Beglückter noch, mein Fürst,</l>
+               <l>Sei Euer Aus- und Eingang, Tisch und Bett!</l>
+            </lg>
+            <lg>
+               <l>Theseus.</l>
+               <l>Nun kommt! Was haben wir für Spiel' und Tänze?</l>
+               <l>Wie bringen wir nach Tisch bis Schlafengehn</l>
+               <l>Den langen Zeitraum von drei Stunden hin?</l>
+               <l>Wo ist der Meister unsrer Lustbarkeiten?</l>
+               <l>Was gibt's für Kurzweil? Ist kein Schauspiel da,</l>
+               <l>Um einer langen Stunde Qual zu lindern?—</l>
+               <l>Ruft mir den Philostrat.</l>
+            </lg>
+            <lg>
+               <l>Philostrat.</l>
+               <l>Hier, großer Theseus!</l>
+            </lg>
+            <lg>
+               <l>Theseus.</l>
+               <l>Was gibt's für Zeitvertreib auf diesen Abend?</l>
+               <l>Was für Musik und Tanz? Wie täuschen wir</l>
+               <l>Die träge Zeit als durch Belustigung?</l>
+            </lg>
+            <lg>
+               <l>Philostrat.</l>
+               <l>Der Zettel hier besagt die fertgen Spiele:</l>
+               <l>Wähl Eure Hoheit, was sie sehen will.</l>
+            </lg>
+            <p rend="justify">(Überreicht ein Papier.)</p>
+            <lg>
+               <l>Theseus (liest).</l>
+               <l>"Das Treffen der Kentauren—wird zur Harfe</l>
+               <l>Von einem Hämling aus Athen gesungen."</l>
+               <l>Nein, nichts hievon! Das hab ich meiner Braut</l>
+               <l>Zum Ruhm des Vetter Herkules erzählt.—</l>
+               <l>"Der wohlbezechten Bacchanalen Wut,</l>
+               <l>Wie sie den Sänger Thraziens zerreißen."</l>
+               <l>Das ist ein altes Stück; es ward gespielt,</l>
+               <l>Als ich von Theben siegreich wiederkam.—</l>
+               <l>"Der Musen Neunzahl, traurend um den Tod</l>
+               <l>Der jüngst im Bettelstand verstorbenen Gelahrtheit."</l>
+               <l>Das ist 'ne strenge, beißende Satire,</l>
+               <l>Die nicht zu einer Hochzeitsfeier paßt.—</l>
+               <l>"Ein kurz langweilger Akt vom jungen Pyramus</l>
+               <l>Und Thisbe, seinem Lieb. Spaßhafte Tragödie."</l>
+               <l>Kurz und langweilig? Spaßhaft und doch tragisch?</l>
+               <l>Das ist ja glühend Eis und schwarzer Schnee.</l>
+               <l>Wer findet mir die Eintracht dieser Zwietracht?</l>
+            </lg>
+            <lg>
+               <l>Philostrat.</l>
+               <l>Es ist ein Stück, ein Dutzend Worte lang,</l>
+               <l>Und also kurz, wie ich nur eines weiß;</l>
+               <l>Langweilig wird es, weils ein Dutzend Worte</l>
+               <l>Zu lang ist, gnädger Fürst; kein Wort ist recht</l>
+               <l>Im ganzen Stück, kein Spieler weiß Bescheid.</l>
+               <l>Und tragisch ist es auch, mein Gnädigster,</l>
+               <l>Denn Pyramus bringt selbst darin sich um.</l>
+               <l>Als ichs probieren sah, ich muß gestehn,</l>
+               <l>Es zwang mir Tränen ab; doch lustger weinte</l>
+               <l>Des lauten Lachens Ungestüm sie nie.</l>
+            </lg>
+            <lg>
+               <l>Theseus.</l>
+               <l>Wer sind die Spieler?</l>
+            </lg>
+            <lg>
+               <l>Philostrat.</l>
+               <l>Männer, hart von Faust,</l>
+               <l>Die in Athen hier ein Gewerbe treiben,</l>
+               <l>Die nie den Geist zur Arbeit noch geübt</l>
+               <l>Und nun ihr widerspenstiges Gedächtnis</l>
+               <l>Mit diesem Stück auf Euer Fest geplagt.</l>
+            </lg>
+            <lg>
+               <l>Theseus.</l>
+               <l>Wir wollen's hören.</l>
+            </lg>
+            <lg>
+               <l>Philostrat.</l>
+               <l>Nein, mein gnädger Fürst,</l>
+               <l>Es ist kein Stück für Euch. Ich hört es an,</l>
+               <l>Und es ist nichts daran, nichts auf der Welt,</l>
+               <l>Wenn Ihr nicht Spaß an ihren Künsten findet,</l>
+               <l>Die sie mit schwerer Müh sich eingeprägt,</l>
+               <l>Euch damit aufzuwarten.</l>
+            </lg>
+            <lg>
+               <l>Theseus.</l>
+               <l>Ich will's hören,</l>
+               <l>Denn nie kann etwas unwillkommen sein,</l>
+               <l>Was Einfalt darbringt und Ergebenheit.</l>
+               <l>Geht, führt sie her! Ihr Frauen, nehmet Platz!</l>
+            </lg>
+            <p rend="justify">(Philostrat ab.)</p>
+            <lg>
+               <l>Hippolyta.</l>
+               <l>Ich mag nicht gern Armseligkeit bedrückt,</l>
+               <l>Ergebenheit im Dienst erliegen sehn.</l>
+            </lg>
+            <lg>
+               <l>Theseus.</l>
+               <l>Du sollst ja, Teure, nichts dergleichen sehn.</l>
+            </lg>
+            <lg>
+               <l>Hippolyta.</l>
+               <l>Er sagt ja, sie verstehen nichts hievon.</l>
+            </lg>
+            <lg>
+               <l>Theseus.</l>
+               <l>Um desto gütger ist's, für nichts zu danken.</l>
+               <l>Was sie versehen, ihnen nachzusehen,</l>
+               <l>Sei unsre Lust. Was armer, willger Eifer</l>
+               <l>Zu leisten nicht vermag, schätz edle Rücksicht</l>
+               <l>Nach dem Vermögen nur, nicht nach dem Wert.</l>
+               <l>Wohin ich kam, da hatten sich Gelahrte</l>
+               <l>Auf wohlgesetzte Reden vorbereitet;</l>
+               <l>Da haben sie gezittert, sich entfärbt,</l>
+               <l>Gestockt in einer halb gesagten Phrase;</l>
+               <l>Die Angst erstickte die erlernte Rede,</l>
+               <l>Noch eh sie ihren Willkomm vorgebracht,</l>
+               <l>Und endlich brachen sie verstummend ab.</l>
+               <l>Sogar aus diesem Schweigen, liebes Kind,</l>
+               <l>Glaub mir, fand ich den Willkomm doch heraus;</l>
+               <l>Ja, in der Schüchternheit bescheidnen Eifers</l>
+               <l>Las ich soviel als von der Plapperzunge</l>
+               <l>Vorwitzig prahlender Beredsamkeit.</l>
+               <l>Wenn Lieb und Einfalt sich zu reden nicht erdreisten,</l>
+               <l>Dann, dünkt mich, sagen sie im Wenigsten am meisten.</l>
+            </lg>
+            <p rend="justify">(Philostrat kommt zurück.)</p>
+            <lg>
+               <l>Philostrat.</l>
+               <l>Beliebt es Eurer Hoheit? Der Prolog</l>
+               <l>Ist fertig.</l>
+            </lg>
+            <lg>
+               <l>Theseus.</l>
+               <l>Laßt ihn kommen.</l>
+            </lg>
+            <p rend="justify">(Trompeten.—Der Prolog tritt auf.)</p>
+            <lg>
+               <l>Prolog.</l>
+               <l>Wenn wir mißfallen tun, so ist's mit gutem Willen;</l>
+               <l>Der Vorsatz bleibt doch gut, wenn wir ihn nicht erfüllen.</l>
+               <l>Zu zeigen unsre Pflicht durch dieses kurze Spiel,</l>
+               <l>Das ist der wahre Zweck von unserm End und Ziel.</l>
+               <l>Erwäget also denn: warum wir kommen sein:</l>
+               <l>Wir kommen nicht, als sollt ihr euch daran ergetzen;</l>
+               <l>Die wahre Absicht ist—zu eurer Lust allein</l>
+               <l>Sind wir nicht hier—daß wir in Reu und Leid euch setzen.</l>
+               <l>Die Spieler sind bereit; wenn ihr sie werdet sehen,</l>
+               <l>Versteht ihr alles schon, was ihr nur wollt verstehen.</l>
+            </lg>
+            <lg>
+               <l>Theseus.</l>
+               <l>Dieser Bursche nimmt's nicht sehr genau.</l>
+            </lg>
+            <p rend="justify">Lysander. Er hat seinen Prolog geritten wie ein wildes Füllen; er weiß noch nicht, wo er halt machen soll. Eine gute Lehre, gnädiger Herr: es ist nicht genug, daß man rede; man muß auch richtig reden.</p>
+            <lg>
+               <l>Hippolyta.</l>
+               <l>In der Tat, er hat auf seinem Prolog gespielt wie ein</l>
+               <l>Kind auf der Flöte. Er brachte wohl einen Ton heraus,</l>
+               <l>aber keine Note.</l>
+            </lg>
+            <p rend="justify">Theseus. Seine Rede war wie eine verwickelte Kette: nichts zerrissen, aber alles in Unordnung. Wer kommt zunächst?</p>
+            <p rend="justify">(Pyramus, Thisbe, Wand, Mondschein und Löwe treten als stumme Personen auf.)</p>
+            <lg>
+               <l>Prolog.</l>
+               <l>Was dies bedeuten soll, das wird euch wundern müssen,</l>
+               <l>Bis Wahrheit alle Ding' stellt an das Licht herfür.</l>
+               <l>Der Mann ist Pyramus, wofern ihr es wollt wissen;</l>
+               <l>Und dieses Fräulein schön ist Thisbe, glaubt es mir.</l>
+               <l>Der Mann mit Mörtel hier und Leimen soll bedeuten</l>
+               <l>Die Wand, die garstge Wand, die ihre Lieb tät scheiden.</l>
+               <l>Doch freut es sie, drob auch sich niemand wundern soll,</l>
+               <l>Wenn durch die Spalte klein sie konnten flüstern wohl.</l>
+               <l>Der Mann da mit Latern und Hund und Busch von Dorn</l>
+               <l>Den Mondschein präsentiert, denn, wann ihr's wollt erwägen:</l>
+               <l>Bei Mondschein hatten die Verliebten sich verschworn,</l>
+               <l>Zu gehen nach Nini Grab, um dort der Lieb zu pflegen.</l>
+               <l>Dies gräßlich wilde Tier, mit Namen Löwe groß,</l>
+               <l>Die treue Thisbe, die des Nachts zuerst gekommen,</l>
+               <l>Tät scheuchen, ja vielmehr erschrecken, daß sie bloß</l>
+               <l>Den Mantel fallen ließ und drauf die Flucht genommen.</l>
+               <l>Drauf dieser schnöde Löw in seinen Rachen nahm</l>
+               <l>Und ließ mit Blut befleckt den Mantel lobesam.</l>
+               <l>Sofort kommt Pyramus, ein Jüngling weiß und rot,</l>
+               <l>Und find't den Mantel da von seiner Thisbe tot;</l>
+               <l>Worauf er mit dem Deg'n, mit blutig bösem Degen</l>
+               <l>Die blutge heiße Brust sich tapferlich durchstach;</l>
+               <l>Und Thisbe, die indes im Maulbeerschatten glegen,</l>
+               <l>Zog seinen Dolch heraus und sich das Herz zerbrach.</l>
+               <l>Was noch zu sagen ist, das wird—glaubt mir fürwahr!—</l>
+               <l>Euch Mondschein, Wand und Löw und das verliebte Paar</l>
+               <l>Der Läng und Breite nach, solang sie hier verweilen,</l>
+               <l>Erzählen, wenn ihr wollt, in wohlgereimten Zeilen.</l>
+            </lg>
+            <p rend="justify">(Prolog, Thisbe, Löwe und Mondschein ab.)</p>
+            <lg>
+               <l>Theseus.</l>
+               <l>Mich nimmt wunder, ob der Löwe sprechen wird.</l>
+            </lg>
+            <p rend="justify">Demetrius. Kein Wunder, gnädiger Herr: ein Löwe kann's wohl, da so viele Esel es tun.</p>
+            <lg>
+               <l>Wand.</l>
+               <l>In dem besagten Stück es sich zutragen tut,</l>
+               <l>Daß ich, Thoms Schnauz genannt, die Wand vorstelle gut.</l>
+               <l>Und eine solche Wand, wovon ihr solltet halten,</l>
+               <l>Sie sei durch einen Schlitz recht durch und durch gespalten,</l>
+               <l>Wodurch der Pyramus und seine Thisbe fein</l>
+               <l>Oft flüsterten fürwahr ganz leis und insgeheim.</l>
+               <l>Der Mörtel und der Lehm und dieser Stein tut zeigen,</l>
+               <l>Daß ich bin diese Wand, ich wills euch nicht verschweigen;</l>
+               <l>Und dies die Spalte ist, zur Linken und zur Rechten,</l>
+               <l>Wodurch die Buhler zwei sich täten wohl besprechen.</l>
+            </lg>
+            <lg>
+               <l>Theseus.</l>
+               <l>Kann man verlangen, daß Lehm und Haar besser reden sollten?</l>
+            </lg>
+            <lg>
+               <l>Demetrius.</l>
+               <l>Es ist die witzigste Abteilung, die ich jemals vortragen hörte.</l>
+            </lg>
+            <lg>
+               <l>Theseus.</l>
+               <l>Pyramus geht auf die Wand los! Stille!</l>
+            </lg>
+            <lg>
+               <l>Pyramus.</l>
+               <l>O Nacht, so schwarz von Farb, o grimmerfüllte Nacht!</l>
+               <l>O Nacht, die immer ist, sobald der Tag vorbei.</l>
+               <l>O Nacht! O Nacht! O Nacht! ach! ach! ach! Himmel! ach!</l>
+               <l>Ich fürcht, daß Thisbes Wort vergessen worden sei.—</l>
+               <l>Und du, o Wand, o süß' und liebenswerte Wand,</l>
+               <l>Die zwischen unsrer beiden Eltern Haus tut stehen;</l>
+               <l>Du Wand, o Wand, o süß' und liebenswerte Wand!</l>
+               <l>Zeig deine Spalte mir, daß ich dadurch mag sehen.</l>
+            </lg>
+            <p rend="justify">(Wand hält die Finger in die Höhe.)</p>
+            <lg>
+               <l>Hab Dank, du gute Wand! der Himmel lohn es dir!</l>
+               <l>Jedoch, was seh ich dort? Thisbe, die seh ich nicht.</l>
+               <l>O böse Wand, durch die ich nicht seh meine Zier,</l>
+               <l>Verflucht sei'n deine Stein', daß du so äffest mich.</l>
+            </lg>
+            <lg>
+               <l>Theseus.</l>
+               <l>Mich dünkt, die Wand müßte wieder fluchen, da sie</l>
+               <l>Empfindung hat.</l>
+            </lg>
+            <p rend="justify">Pyramus. Nein, fürwahr, Herr, das muß er nicht. "Äffest mich" ist Thisbes Stichwort; sie muß hereinkommen, und ich muß sie dann durch die Wand ausspionieren. Ihr sollt sehen, es wird just zutreffen, wie ich's Euch sage. Da kommt sie schon.</p>
+            <p rend="justify">(Thisbe kommt.)</p>
+            <lg>
+               <l>Thisbe.</l>
+               <l>O Wand, du hast schon oft gehört das Seufzen mein,</l>
+               <l>Mein'n schönsten Pyramus weil du so trennst von mir;</l>
+               <l>Mein roter Mund hat oft geküsset deine Stein',</l>
+               <l>Dein' Stein', mit Lehm und Haar geküttet auf in dir.</l>
+            </lg>
+            <lg>
+               <l>Pyramus.</l>
+               <l>Ein' Stimm ich sehen tu; ich will zur Spalt und schauen,</l>
+               <l>Ob ich nicht hören kann meiner Thisbe Antlitz klar.</l>
+               <l>Thisbe!</l>
+            </lg>
+            <lg>
+               <l>Thisbe.</l>
+               <l>Dies ist mein Schatz, mein Liebchen ist's, fürwahr!</l>
+            </lg>
+            <lg>
+               <l>Pyramus.</l>
+               <l>Denk was du willst, ich bin's; du kannst mir sicher trauen,</l>
+               <l>Und gleich Limander bin ich treu in meiner Pflicht.</l>
+            </lg>
+            <lg>
+               <l>Thisbe.</l>
+               <l>Und ich gleich Helena, bis mich der Tod ersticht.</l>
+            </lg>
+            <lg>
+               <l>Pyramus.</l>
+               <l>So treu war Schefelus einst seiner Procrus nicht.</l>
+            </lg>
+            <lg>
+               <l>Thisbe.</l>
+               <l>Wie Procrus Schef'lus liebt', lieb ich dein Angesicht.</l>
+            </lg>
+            <lg>
+               <l>Pyramus.</l>
+               <l>O küß mich durch das Loch von dieser garstgen Wand!</l>
+            </lg>
+            <lg>
+               <l>Thisbe.</l>
+               <l>Mein Kuß trifft nur das Loch, nicht deiner Lippen Rand.</l>
+            </lg>
+            <lg>
+               <l>Pyramus.</l>
+               <l>Willst du bei Nickels Grab heut nacht mich treffen an?</l>
+            </lg>
+            <lg>
+               <l>Thisbe.</l>
+               <l>Sei's lebend oder tot, ich komme, wenn ich kann.</l>
+            </lg>
+            <lg>
+               <l>Wand.</l>
+               <l>So hab ich Wand nunmehr mein Part gemachet gut,</l>
+               <l>Und nun sich also Wand hinwegbegeben tut.</l>
+            </lg>
+            <p rend="justify">(Wand, Pyramus und Thisbe ab.)</p>
+            <lg>
+               <l>Theseus.</l>
+               <l>Nun ist also die Wand zwischen den beiden Nachbarn nieder.</l>
+            </lg>
+            <lg>
+               <l>Demetrius.</l>
+               <l>Das ist nicht mehr als billig, gnädiger Herr, wenn Wände</l>
+               <l>Ohren haben.</l>
+            </lg>
+            <lg>
+               <l>Hippolyta.</l>
+               <l>Dies ist das einfältigste Zeug, das ich jemals hörte.</l>
+            </lg>
+            <lg>
+               <l>Theseus.</l>
+               <l>Das Beste in dieser Art ist nur Schattenspiel, und das</l>
+               <l>Schlechteste ist nichts Schlechteres, wenn die</l>
+               <l>Einbildungskraft nachhilft.</l>
+            </lg>
+            <p rend="justify">Hippolyta. Das muß denn Eure Einbildungskraft tun und nicht die ihrige.</p>
+            <lg>
+               <l>Theseus.</l>
+               <l>Wenn wir uns nichts Schlechteres von ihnen einbilden als</l>
+               <l>sie selbst, so mögen sie für vortreffliche Leute gelten.</l>
+               <l>Hier kommen zwei edle Tiere herein, ein Mond und ein Löwe.</l>
+            </lg>
+            <p rend="justify">(Löwe und Mondschein treten auf.)</p>
+            <lg>
+               <l>Löwe.</l>
+               <l>Ihr, Fräulein, deren Herz fürchtet die kleinste Maus,</l>
+               <l>Die in monströser Gestalt tut auf dem Boden schweben,</l>
+               <l>Mögt itzo zweifelsohn erzittern und erbeben,</l>
+               <l>Wenn Löwe, rauh von Wut, läßt sein Gebrüll heraus.</l>
+               <l>So wisset denn, daß ich Hans Schnock der Schreiner bin,</l>
+               <l>Kein böser Löw fürwahr, noch eines Löwen Weib;</l>
+               <l>Denn käm ich als ein Löw und hätte Harm im Sinn,</l>
+               <l>So daurte, meiner Treu, mich mein gesunder Leib.</l>
+            </lg>
+            <lg>
+               <l>Theseus.</l>
+               <l>Eine sehr höfliche Bestie und sehr gewissenhaft.</l>
+            </lg>
+            <lg>
+               <l>Demetrius.</l>
+               <l>Das Beste von Bestien, gnädiger Herr, was ich je gesehn habe.</l>
+            </lg>
+            <lg>
+               <l>Lysander.</l>
+               <l>Dieser Löwe ist ein rechter Fuchs an Herzhaftigkeit.</l>
+            </lg>
+            <lg>
+               <l>Theseus.</l>
+               <l>Wahrhaftig, und eine Gans an Klugheit.</l>
+            </lg>
+            <lg>
+               <l>Demetrius.</l>
+               <l>Nicht so, gnädiger Herr, denn seine Herzhaftigkeit kann</l>
+               <l>sich seiner Klugheit nicht bemeistern wie der Fuchs einer</l>
+               <l>Gans.</l>
+            </lg>
+            <p rend="justify">Theseus. Ich bin gewiß, seine Klugheit kann sich seiner Herzhaftigkeit nicht bemeistern; denn eine Gans bemeistert sich keines Fuchses. Wohl! überlaßt es seiner Klugheit und laßt uns auf den Mond horchen.</p>
+            <lg>
+               <l>Mond.</l>
+               <l>Den wohlgehörnten Mond d'Latern z'erkennen gibt.</l>
+            </lg>
+            <lg>
+               <l>Demetrius.</l>
+               <l>Er sollte die Hörner auf dem Kopfe tragen.</l>
+            </lg>
+            <p rend="justify">Theseus. Er ist ein Vollmond, seine Hörner stecken unsichtbar in der Scheibe.</p>
+            <lg>
+               <l>Mond.</l>
+               <l>Den wohlgehörnten Mond d'Latern z'erkennen gibt;</l>
+               <l>Ich selbst den Mann im Mond, wofern es euch beliebt.</l>
+            </lg>
+            <p rend="justify">Theseus. Das ist noch der größte Verstoß unter allen: der Mann sollte in die Laterne gesteckt werden; wie ist er sonst der Mann im Monde?</p>
+            <p rend="justify">Demetrius. Er darf es nicht wegen des Lichtes. Er würde es in Feuer und Flammen setzen.</p>
+            <lg>
+               <l>Hippolyta.</l>
+               <l>Ich bin diesen Mond satt; ich wollte, er wechselte.</l>
+            </lg>
+            <p rend="justify">Theseus. Das kleine Licht seiner Vernunft zeigt, daß er im Abnehmen ist. Aber doch aus Höflichkeit und der Ordnung wegen müssen wir die Zeit ausdauern.</p>
+            <lg>
+               <l>Lysander.</l>
+               <l>Sprich weiter, Mond!</l>
+            </lg>
+            <lg>
+               <l>Mond.</l>
+               <l>Alles, was ich zu sagen habe, ist, euch zu melden, daß</l>
+               <l>diese Laterne der Mond ist; ich der Mann im Monde; dieser</l>
+               <l>Dornbusch mein Dornbusch; und dieser Hund mein Hund.</l>
+            </lg>
+            <p rend="justify">Demetrius. Alle diese Dinge sollten also in der Laterne sein, denn sie sind im Monde. Doch still! hier kommt Thisbe.</p>
+            <p rend="justify">(Thisbe tritt auf.)</p>
+            <lg>
+               <l>Thisbe.</l>
+               <l>Dies ist ja Nickels Grab; wo ist mein Liebchen denn?</l>
+            </lg>
+            <lg>
+               <l>Löwe.</l>
+               <l>Oh!</l>
+            </lg>
+            <p rend="justify">(Der Löwe brüllt, Thisbe läuft davon.)</p>
+            <lg>
+               <l>Demetrius.</l>
+               <l>Gut gebrüllt, Löwe!</l>
+            </lg>
+            <lg>
+               <l>Theseus.</l>
+               <l>Gut gelaufen, Thisbe!</l>
+            </lg>
+            <p rend="justify">Hippolyta. Gut geschienen, Mond!—In der Tat, der Mond scheint mit vielem Anstande.</p>
+            <p rend="justify">(Der Löwe zerreißt den Mantel der Thisbe.)</p>
+            <lg>
+               <l>Theseus.</l>
+               <l>Gut gezaust, Löwe!</l>
+            </lg>
+            <lg>
+               <l>Demetrius.</l>
+               <l>Und da kam Pyramus.</l>
+            </lg>
+            <p rend="justify">(Pyramus kommt.)</p>
+            <lg>
+               <l>Lysander.</l>
+               <l>Und da verschwand der Löwe.</l>
+            </lg>
+            <p rend="justify">(Löwe ab.)</p>
+            <lg>
+               <l>Pyramus.</l>
+               <l>Ich dank dir, süßer Mond, für deine Sonnenstrahlen,</l>
+               <l>Die also hell und schön den Erdenball bemalen;</l>
+               <l>Dieweil bei deinem Gold und funkelnd süßem Licht</l>
+               <l>Zu kosten ich verhoff mein'r Thisben Angesicht.</l>
+               <l>        Doch halt, o Pein!</l>
+               <l>        Was soll dies sein?</l>
+               <l>            Was für ein Graus ist dies?</l>
+               <l>        Aug, siehst du noch?</l>
+               <l>        O schweres Joch!</l>
+               <l>            Mein Herz, mein Liebchen süß,</l>
+               <l>        Dein Mantel gut</l>
+               <l>        Befleckt mit Blut!</l>
+               <l>            Ihr Furien, kommt im Trab</l>
+               <l>        Herbei und rächt</l>
+               <l>        Und löscht und brecht</l>
+               <l>            Den Lebensfaden ab.</l>
+            </lg>
+            <p rend="justify">Theseus. Dieser Jammer und der Tod eines werten Freundes sollten einen Menschen schon zum Trauern bringen.</p>
+            <lg>
+               <l>Hippolyta.</l>
+               <l>Bei meiner Seele, ich bedaure den Mann.</l>
+            </lg>
+            <lg>
+               <l>Pyramus.</l>
+               <l>Warum denn, o Natur, tatst du den Löwen bauen?</l>
+               <l>Weil solch ein schnöder Löw mein Lieb hat defloriert;</l>
+               <l>Sie, welche ist—nein, war—die schönste alter Frauen,</l>
+               <l>Die je des Tages Glanz mit ihrem Schein geziert.</l>
+               <l>        Komm, Tränenschar!</l>
+               <l>        Aus, Schwert! durchfahr</l>
+               <l>            Die Brust dem Pyramo!</l>
+               <l>        Die Linke hier,</l>
+               <l>        Wo 's Herz hüpft mir;</l>
+               <l>            So sterb ich denn, so, so!</l>
+               <l>        Nun tot ich bin,</l>
+               <l>        Der Leib ist hin,</l>
+               <l>            Die Seel speist Himmelsbrot.</l>
+               <l>        O Zung, Tisch aus!</l>
+               <l>        Mond, lauf nach Haus!</l>
+               <l>            Nun tot, tot, tot, tot, tot!</l>
+            </lg>
+            <p rend="justify">(Er stirbt. Mondschein ab.)</p>
+            <lg>
+               <l>Hippolyta.</l>
+               <l>Wie kommt's, daß der Mondschein weggegangen ist, ehe</l>
+               <l>Thisbe zurückkommt und ihren Liebhaber findet?</l>
+            </lg>
+            <lg>
+               <l>Theseus.</l>
+               <l>Sie wird ihn beim Sternenlicht finden.—Hier kommt sie;</l>
+            </lg>
+            <p rend="justify">(Thisbe kommt.)</p>
+            <p rend="justify">und ihr Jammer endigt das Spiel.</p>
+            <p rend="justify">Hippolyta. Mir deucht, sie sollte keinen langen Jammer für solch einen Pyramus nötig haben; ich hoffe, sie wird sich kurz fassen.</p>
+            <lg>
+               <l>Demetrius.</l>
+               <l>Eine Motte wird in der Waage den Ausschlag geben, ob</l>
+               <l>Pyramus oder Thisbe mehr taugt.</l>
+            </lg>
+            <lg>
+               <l>Lysander.</l>
+               <l>Sie hat ihn schon mit ihren süßen Augen ausgespäht.</l>
+            </lg>
+            <lg>
+               <l>Demetrius.</l>
+               <l>Und so jammert sie folgendergestalt. (Thisbe.)</l>
+               <l>Schläfst du, mein Kind?</l>
+               <l>Steh auf geschwind!</l>
+               <l>    Wie, Täubchen, bist du tot?</l>
+               <l>O sprich! o sprich!</l>
+               <l>O rege dich!</l>
+               <l>    Ach! tot ist er! o Not!</l>
+               <l>Dein Lilienmund,</l>
+               <l>Dein Auge rund,</l>
+               <l>    Wie Schnittlauch frisch und grün;</l>
+               <l>Dein' Kirschennas,</l>
+               <l>Dein' Wangen blaß,</l>
+               <l>    Die wie ein Goldlack blühn,</l>
+               <l>Soll nun ein Stein</l>
+               <l>Bedecken fein?</l>
+               <l>    O klopf mein Herz und brich!</l>
+               <l>Ihr Schwestern drei!</l>
+               <l>Kommt, kommt herbei</l>
+               <l>    Und leget Hand an mich!</l>
+               <l>Zung, nicht ein Wort!</l>
+               <l>Nun, Dolch, mach fort,</l>
+               <l>    Zerreiß des Busens Schnee.</l>
+               <l>Lebt wohl, ihr Herrn!</l>
+               <l>Ich scheide gern.</l>
+               <l>Ade, ade, ade!</l>
+            </lg>
+            <p rend="justify">(Sie stirbt.)</p>
+            <p rend="justify">Theseus. Mondschein und Löwe sind übriggeblieben, um die Toten zu begraben.</p>
+            <lg>
+               <l>Demetrius.</l>
+               <l>Ja, und Wand auch.</l>
+            </lg>
+            <p rend="justify">Zettel. Nein, wahrhaftig nicht; die Wand ist niedergerissen, die ihre Väter trennte. Beliebt es euch, den Epilog zu sehen oder einen Bergomasker Tanz zwischen zweien von unsrer Gesellschaft zu hören?</p>
+            <p rend="justify">Theseus. Keinen Epilog, ich bitte euch; euer Stück bedarf keiner Entschuldigung. Entschuldigt nur nicht: wenn alle Schauspieler tot sind, braucht man keinen zu tadeln. Meiner Treu, hätte der, der es geschrieben hat, den Pyramus gespielt und sich in Thisbes Strumpfband aufgehängt, so wär es eine schöne Tragödie gewesen; und das ist es auch, wahrhaftig, und recht wacker agiert. Aber kommt, euren Bergomasker Tanz! Den Epilog laßt laufen.</p>
+            <p rend="justify">(Ein Tanz von Rüpeln.)</p>
+            <lg>
+               <l>Theseus.</l>
+               <l>Die Mitternacht rief zwölf mit ehrner Zunge.</l>
+               <l>Zu Bett, Verliebte! Bald ist's Geisterzeit.</l>
+               <l>Wir werden, fürcht ich, in den Morgen schlafen,</l>
+               <l>Soweit wir in die Nacht hinein gewacht.</l>
+               <l>Dies greiflich dumme Spiel hat doch den trägen Gang</l>
+               <l>Der Nacht getäuscht. Zu Bett, geliebten Freunde!</l>
+               <l>Noch vierzehn Tage lang soll diese Festlichkeit</l>
+               <l>Sich jede Nacht erneun mit Spiel und Lustbarkeit.</l>
+            </lg>
+            <p rend="justify">(Alle ab.)</p>
+            <lg>
+               <l>Droll (tritt auf.)</l>
+               <l>Jetzt beheult der Wolf den Mond,</l>
+               <l>Durstig brüllt im Forst der Tiger;</l>
+               <l>Jetzt, mit schwerem Dienst verschont,</l>
+               <l>Schnarcht der arbeitsmüde Pflüger;</l>
+               <l>Jetzo schmaucht der Brand am Herd,</l>
+               <l>Und das Käuzlein kreischt und jammert,</l>
+               <l>Daß der Krank' es ahnend hört</l>
+               <l>Und sich fest ans Kissen klammert;</l>
+               <l>Jetzo gähnt Gewölb und Grab,</l>
+               <l>Und, entschlüpft den kalten Mauern,</l>
+               <l>Sieht man Geister auf und ab,</l>
+               <l>Sieht am Kirchhofszaun sie lauern.</l>
+               <l>Und wir Elfen, die mit Tanz</l>
+               <l>Hekates Gespann umhüpfen</l>
+               <l>Und, gescheucht vom Sonnenglanz,</l>
+               <l>Träumen gleich ins Dunkel schlüpfen,</l>
+               <l>Schwärmen jetzo; keine Maus</l>
+               <l>Störe dies geweihte Haus!</l>
+               <l>Voran komm ich mit Besenreis,</l>
+               <l>Den Flur zu fegen blank und weiß.</l>
+            </lg>
+            <p rend="justify">(Oberon und Titania mit ihrem Gefolge treten auf.)</p>
+            <lg>
+               <l>Oberon.</l>
+               <l>Bei des Feuers mattem Flimmern,</l>
+               <l>Geister, Elfen, stellt euch ein!</l>
+               <l>Tanzet in den bunten Zimmern</l>
+               <l>Manchen leichten Ringelreihn!</l>
+               <l>Singt nach meiner Lieder Weise!</l>
+               <l>Singet! hüpfet! leise! leise!</l>
+            </lg>
+            <lg>
+               <l>Titania.</l>
+               <l>Wirbelt mir mit zarter Kunst</l>
+               <l>Eine Not' auf jedes Wort;</l>
+               <l>Hand in Hand, mit Feengunst,</l>
+               <l>Singt und segnet diesen Ort.</l>
+            </lg>
+            <p rend="justify">(Gesang und Tanz.)</p>
+            <lg>
+               <l>Oberon.</l>
+               <l>Nun, bis Tages Wiederkehr,</l>
+               <l>Elfen, schwärmt im Haus umher!</l>
+               <l>Kommt zum besten Brautbett hin,</l>
+               <l>Daß es Heil durch uns gewinn!</l>
+               <l>Das Geschlecht, entsprossen dort,</l>
+               <l>Sei gesegnet immerfort;</l>
+               <l>Jedes dieser Paare sei</l>
+               <l>Ewiglich im Lieben treu;</l>
+               <l>Ihr Geschlecht soll nimmer schänden</l>
+               <l>Die Natur mit Feindeshänden;</l>
+               <l>Und mit Zeichen schlimmer Art,</l>
+               <l>Muttermal und Hasenschart,</l>
+               <l>Werde durch des Himmels Zorn</l>
+               <l>Ihnen nie ein Kind geborn.—</l>
+               <l>Elfen, sprengt durchs ganze Haus</l>
+               <l>Tropfen heilgen Wiesentaus!</l>
+               <l>Jedes Zimmer, jeden Saal</l>
+               <l>Weiht und segnet allzumal!</l>
+               <l>Friede sei in diesem Schloß</l>
+               <l>Und sein Herr ein Glücksgenoß!</l>
+               <l>Nun genung!</l>
+               <l>Fort im Sprung!</l>
+               <l>Trefft mich in der Dämmerung!</l>
+            </lg>
+            <p rend="justify">(Oberon, Titania und Gefolge ab.)</p>
+            <lg>
+               <l>Droll.</l>
+               <l>Wenn wir Schatten euch beleidigt,</l>
+               <l>O so glaubt—und wohl verteidigt</l>
+               <l>Sind wir dann—: ihr alle schier</l>
+               <l>Habet nur geschlummert hier</l>
+               <l>Und geschaut in Nachtgesichten</l>
+               <l>Eures eignen Hirnes Dichten.</l>
+               <l>Wollt ihr diesen Kindertand,</l>
+               <l>Der wie leere Träume schwand,</l>
+               <l>Liebe Herrn, nicht gar verschmähn,</l>
+               <l>Sollt ihr bald was Beßres sehn.</l>
+               <l>Wenn wir bösem Schlangenzischen</l>
+               <l>Unverdienterweis entwischen,</l>
+               <l>So verheißt auf Ehre Droll</l>
+               <l>Bald euch unsres Dankes Zoll;</l>
+               <l>Ist ein Schelm zu heißen willig,</l>
+               <l>Wenn dies nicht geschieht, wie billig.</l>
+               <l>Nun gute Nacht! Das Spiel zu enden,</l>
+               <l>Begrüßt uns mit gewognen Händen!</l>
+            </lg>
+            <p rend="justify">(Ab.)</p>
+            <p rend="justify">Ende dieses Projekt Gutenberg Etextes Ein Sommernachtstraum, von William Shakespeare (Übersetzt von August Wilhelm von Schlegel)</p>
+         </div>
+      </body>
+   </text>
+</TEI>

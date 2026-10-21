@@ -1,0 +1,1955 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Os Simples</title>
+            <author>Abílio Manuel Guerra Junqueiro</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-01T18:26:13Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">odts/pt-odts/Os Simples.17534.epub.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Abílio Manuel Guerra Junqueiro</name>
+               <date>2024-01-01T18:26:13Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Os Simples</head>
+         <author>Abílio Manuel Guerra Junqueiro</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">odts/pt-odts/Os Simples.17534.epub.odt</p>
+         <p>Produced by João Miguel Neves, Rita Farinha and the Online</p>
+         <p>Distributed Proofreading Team at http://www.pgdp.net (This file was produced from images generously made available by National Library of Portugal (Biblioteca Nacional de Portugal).)</p>
+         <pb/>
+         <div type="div1">
+            <head>GUERRA JUNQUEIRO</head>
+            <p rend="justify">*Os Simples*</p>
+            <pb/>
+            <div type="div2">
+               <head>PORTO</head>
+               <div type="div3">
+                  <head>TYPOGRAPHIA OCCIDENTAL</head>
+                  <div type="div4">
+                     <head>
+                        <label>MDCCCXCII</label>
+                     </head>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>OS SIMPLES</head>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>IMPRIMIRAM-SE D'ESTE LIVRO:</head>
+               <p rend="justify">1 exemplar em papel pergaminho 16 exemplares em papel Wathman</p>
+               <p rend="justify">Todos estes exemplares são assignados e numerados pelo auctor.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>GUERRA JUNQUEIRO</head>
+               <p rend="justify">*Os Simples*</p>
+               <div type="div3">
+                  <head>PORTO</head>
+                  <div type="div4">
+                     <head>TYPOGRAPHIA OCCIDENTAL</head>
+                     <div type="div5">
+                        <head>
+                           <label>MDCCCXCII</label>
+                        </head>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>A F.</head>
+               <p rend="justify">_Querida:</p>
+               <lg>
+                  <l>É este por emquanto o meu melhor livro.</l>
+                  <l>Pertence-te.</l>
+               </lg>
+               <p rend="justify">teu J._</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>*PRELUDIO*</head>
+               <div type="div3">
+                  <head>
+                     <label>I</label>
+                  </head>
+                  <div type="div4">
+                     <head>A CAMINHO</head>
+                     <p rend="justify">(<hi rend="italic">Abril, ao raiar d'alva. Por uma encosta de sementeiras, pastos, olivedos e amendoaes em flor vae um loiro peregrino adolescente, d'olhos ingenuos e extasiados no alvor da estrella da manhã</hi>.)</p>
+                     <p rend="justify">Um Lavrador</p>
+                     <p rend="justify">(<hi rend="italic">de noventa anos, em mangas de camísa a lavrar uma terra</hi>)</p>
+                     <lg>
+                        <l>Ó Senhor tão novo, d'olhos côr de esp'rança,</l>
+                        <l>Ides de caminho para algum logar?</l>
+                     </lg>
+                     <p rend="justify">O Peregrino</p>
+                     <p rend="justify">Vou dar volta ao mundo…</p>
+                     <p rend="justify">O Lavrador</p>
+                     <lg>
+                        <l>Sem arnez ou lança?!</l>
+                        <l>Ó Senhor tão novo, d'olhos côr de esp'rança,</l>
+                        <l>Penas e miserias é o que ireis achar!…</l>
+                     </lg>
+                     <p rend="justify">Uma Velhinha</p>
+                     <p rend="justify">(<hi rend="italic">mais adiante</hi>)</p>
+                     <lg>
+                        <l>Ó Senhor tão novo, d'olhos inocentes,</l>
+                        <l>Ides com cuidados para um tal andar!…</l>
+                     </lg>
+                     <p rend="justify">O Peregrino</p>
+                     <p rend="justify">Vou a prender monstros, combater serpentes…</p>
+                     <p rend="justify">A Velhinha</p>
+                     <lg>
+                        <l>Ó Senhor tão novo, d'olhos inocentes,</l>
+                        <l>Os dragões ferozes vam-no espostejar!…</l>
+                     </lg>
+                     <p rend="justify">Uma Joven Camponeza</p>
+                     <p rend="justify">(<hi rend="italic">mais adiante</hi>)</p>
+                     <lg>
+                        <l>Ó Senhor tão novo, d'olhos encantados,</l>
+                        <l>Ides pela fresca para algum pomar?</l>
+                     </lg>
+                     <p rend="justify">O Peregrino</p>
+                     <p rend="justify">Vou-me a ler Destinos, descobrir os Fados…</p>
+                     <p rend="justify">A Camponeza</p>
+                     <lg>
+                        <l>Ó Senhor tão novo, d'olhos encantados,</l>
+                        <l>Feiticeiros negros vam-no enfeitiçar!…</l>
+                     </lg>
+                     <p rend="justify">Uma Pastorinha</p>
+                     <p rend="justify">(<hi rend="italic">mais adiante</hi>)</p>
+                     <lg>
+                        <l>Ó Senhor tão novo, d'olhos tão brilhantes,</l>
+                        <l>Vossos olhos disem que ides p'ra casar…</l>
+                     </lg>
+                     <p rend="justify">O Peregrino</p>
+                     <p rend="justify">Vou fazer tesoiros, fabricar diamantes…</p>
+                     <p rend="justify">A Pastorinha</p>
+                     <lg>
+                        <l>Ó Senhor tão novo, d'olhos tão brilhantes,</l>
+                        <l>Ha ladrões nos bosques, vam-no assassinar!…</l>
+                     </lg>
+                     <p rend="justify">Um Mendigo</p>
+                     <p rend="justify">(<hi rend="italic">mais adiante</hi>)</p>
+                     <lg>
+                        <l>Ó Senhor tão novo, d'olhos côr de chama,</l>
+                        <l>Vossos olhos ardem como a luz solar!…</l>
+                     </lg>
+                     <p rend="justify">O Peregrino</p>
+                     <p rend="justify">Vou descobrir mundos, quero gloria e fama!…</p>
+                     <p rend="justify">O Mendigo</p>
+                     <lg>
+                        <l>Ó Senhor tão novo, d'olhos côr de chama,</l>
+                        <l>Sobe o pó mais alto que os trovões do mar!…</l>
+                     </lg>
+                     <p rend="justify">A Estrella D'Alva</p>
+                     <lg>
+                        <l>Ó creança, d'olhos côr da flor dos linhos,</l>
+                        <l>Por infernos deixas tua paz, teu lar!…</l>
+                     </lg>
+                     <p rend="justify">O Peregrino</p>
+                     <p rend="justify">(<hi rend="italic">desaparecendo ao longe</hi>)</p>
+                     <lg>
+                        <l>Florirei as pedras pelos maus caminhos!</l>
+                        <l>Levo a luz dos astros e as canções dos ninhos</l>
+                        <l>A sorrir nos beijos e a tremer no olhar!…</l>
+                     </lg>
+                  </div>
+                  <div type="div4">
+                     <head>
+                        <label>II</label>
+                     </head>
+                     <div type="div5">
+                        <head>DE VOLTA</head>
+                        <p rend="justify">(<hi rend="italic">Crepusculo, Novembro. Pela encosta fria e desnudada vae andando, esfarrapado e exangue, um pobresinho triste, arrimado ao bordão</hi>.)</p>
+                        <p rend="justify">Um Lavrador</p>
+                        <p rend="justify">(<hi rend="italic">de cem anos, ainda robusto, à porta do casebre</hi>)</p>
+                        <lg>
+                           <l>Mendigo d'olhos sem esp'rança,</l>
+                           <l>Vaes-te perder na escuridão…</l>
+                           <l>Entra em meu lar; dorme, descança…</l>
+                        </lg>
+                        <p rend="justify">O Pobresinho</p>
+                        <p rend="justify">(<hi rend="italic">andando sempre</hi>)</p>
+                        <lg>
+                           <l>Quem dera a paz divina e mansa,</l>
+                           <l>Velho, que tens no coração!…</l>
+                        </lg>
+                        <p rend="justify">Uma Velhinha</p>
+                        <p rend="justify">(<hi rend="italic">a resar à porta do moinho</hi>)</p>
+                        <lg>
+                           <l>Mendigo d'olhos sem ventura,</l>
+                           <l>Dentro da azenha ha um enxergão;</l>
+                           <l>Terás lençoes, terás fartura…</l>
+                        </lg>
+                        <p rend="justify">O Pobresinho</p>
+                        <p rend="justify">(<hi rend="italic">andando sempre</hi>)</p>
+                        <lg>
+                           <l>Eu só quizera essa candura,</l>
+                           <l>Irmã da Graça e da Ilusão!…</l>
+                        </lg>
+                        <p rend="justify">Uma Camponeza</p>
+                        <p rend="justify">(<hi rend="italic">que vem da vindima</hi>)</p>
+                        <lg>
+                           <l>Mendigo d'olhos d'engeitado,</l>
+                           <l>Na nossa casa ha vinho e pão;</l>
+                           <l>E ha leite fresco; e ha mel doirado…</l>
+                        </lg>
+                        <p rend="justify">O Pobresinho</p>
+                        <p rend="justify">(<hi rend="italic">andando sempre</hi>)</p>
+                        <lg>
+                           <l>Tua alegria sem cuidado,</l>
+                           <l>Eis o que eu busco… em vão! em vão!…</l>
+                        </lg>
+                        <p rend="justify">Uma Pastorinha</p>
+                        <lg>
+                           <l>Mendigo d'olhos de coveiro,</l>
+                           <l>Trago a merenda no surrão;</l>
+                           <l>O queijo é bom, mas é grosseiro…</l>
+                        </lg>
+                        <p rend="justify">O Pobresinho</p>
+                        <p rend="justify">(<hi rend="italic">andando sempre</hi>)</p>
+                        <lg>
+                           <l>Dá-me o teu riso feiticeiro,</l>
+                           <l>Lirio do monte inda em botão!</l>
+                        </lg>
+                        <p rend="justify">Um Pedinte</p>
+                        <lg>
+                           <l>Mendigo d'olhos na agonia,</l>
+                           <l>Dou-te o meu manto e o meu bordão;</l>
+                           <l>Nada mais levo… a noite é fria…</l>
+                        </lg>
+                        <p rend="justify">O Pobrezinho</p>
+                        <p rend="justify">(<hi rend="italic">andando sempre</hi>)</p>
+                        <lg>
+                           <l>Apenas ai! desejaria</l>
+                           <l>Tua cristã resignação!…</l>
+                        </lg>
+                        <p rend="justify">A Estrella Vesper</p>
+                        <lg>
+                           <l>Ó sonhador louco d'outrora,</l>
+                           <l>Teus sonhos lindos onde estão?!</l>
+                           <l>Ebrio da luz, rico d'aurora,</l>
+                           <l>Vi-te partir… e vejo agora</l>
+                           <l>Um morto erguido d'um caixão!</l>
+                        </lg>
+                        <lg>
+                           <l>Teus olhos fulvos namorei-os</l>
+                           <l>De dia e noite, da amplidão:</l>
+                           <l>Vi-os sorrir entre gorgeios,</l>
+                           <l>Vi-os cantar e vi-os cheios</l>
+                           <l>De pranto e febre e indignação!</l>
+                           <l>Regressa emfim, é teu destino,</l>
+                           <l>Á paz obscura, á submissão…</l>
+                           <l>E outra vez meigo e pequenino</l>
+                           <l>Deixa dormir, como um menino,</l>
+                           <l>Teu velho e exhausto coração!…</l>
+                        </lg>
+                        <p rend="justify">O Pobresinho</p>
+                        <p rend="justify">(<hi rend="italic">chorando</hi>)</p>
+                        <lg>
+                           <l>Só tu, estrella, me conheces</l>
+                           <l>Em minha dor, minha aflição!…</l>
+                           <l>Só tu não dormes, não esqueces…</l>
+                           <l>Só tu ouviste as minhas preces…</l>
+                           <l>Bemdito, estrella, o teu clarão!</l>
+                        </lg>
+                        <p rend="justify">Setembro—91.</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>I</label>
+               </head>
+               <div type="div3">
+                  <head>*A MOLEIRINHA*</head>
+                  <div type="div4">
+                     <head>A MOLEIRINHA</head>
+                     <lg>
+                        <l>Pela estrada plana, toc, toc, toc,</l>
+                        <l>Guia o jumentinho uma velhinha errante.</l>
+                        <l>Como vão ligeiros, ambos a reboque,</l>
+                        <l>Antes que anoiteça, toc, toc, toc,</l>
+                        <l>A velhinha atraz, o jumentito adiante!…</l>
+                     </lg>
+                     <lg>
+                        <l>Toc, toc, a velha vae para o moinho,</l>
+                        <l>Tem oitenta anos, bem bonito rol!…</l>
+                        <l>E comtudo alegre como um passarinho,</l>
+                        <l>Toc, toc, e fresca como o branco linho,</l>
+                        <l>De manhã nas relvas a córar ao sol.</l>
+                     </lg>
+                     <lg>
+                        <l>Vae sem cabeçada, em liberdade franca,</l>
+                        <l>O gerico russo d'uma linda côr;</l>
+                        <l>Nunca foi ferrado, nunca usou retranca,</l>
+                        <l>Tange-o, toc, toc, a moleirinha branca</l>
+                        <l>Com o galho verde d'uma giesta em flor.</l>
+                     </lg>
+                     <lg>
+                        <l>Vendo esta velhita, encarquilhada e benta,</l>
+                        <l>Toc, toc, toc, que recordação!</l>
+                        <l>Minha avó ceguinha se me representa…</l>
+                        <l>Tinha eu seis anos, tinha ella oitenta,</l>
+                        <l>Quem me fez o berço fez-lhe o seu caixão!…</l>
+                     </lg>
+                     <lg>
+                        <l>Toc, toc, toc, lindo burriquito,</l>
+                        <l>Para as minhas filhas quem m'o dera a mim!</l>
+                        <l>Nada mais gracioso, nada mais bonito!</l>
+                        <l>Quando a Virgem pura foi para o Egipto,</l>
+                        <l>Com certeza ia n'um burrico assim.</l>
+                     </lg>
+                     <lg>
+                        <l>Toc, toc, é tarde, moleirinha santa!</l>
+                        <l>Nascem as estrellas, vivas, em cardume…</l>
+                        <l>Toc, toc, toc, e quando o galo canta,</l>
+                        <l>Logo a moleirinha, toc, se levanta,</l>
+                        <l>P'ra vestir os netos, p'ra acender o lume…</l>
+                     </lg>
+                     <lg>
+                        <l>Toc, toc, toc, como se espaneja,</l>
+                        <l>Lindo o jumentinho pela estrada chan!</l>
+                        <l>Tão ingenuo e humilde, dá-me, salvo seja,</l>
+                        <l>Dá-me até vontade de o levar á egreja,</l>
+                        <l>Baptisar-lhe a alma p'ra a fazer cristan!</l>
+                     </lg>
+                     <lg>
+                        <l>Toc, toc, toc, e a moleirinha antiga,</l>
+                        <l>Toda, toda branca, vae n'uma frescata…</l>
+                        <l>Foi enfarinhada, sorridente amiga,</l>
+                        <l>Pela mó da azenha com farinha triga,</l>
+                        <l>Pelos anjos loiros com luar de prata!…</l>
+                     </lg>
+                     <lg>
+                        <l>Toc, toc, como o burriquito avança!</l>
+                        <l>Que prazer d'outrora para os olhos meus!</l>
+                        <l>Minha avó contou-me quando fui creança,</l>
+                        <l>Que era assim tal qual a jumentinha mansa</l>
+                        <l>Que adorou nas palhas o menino Deos…</l>
+                     </lg>
+                     <lg>
+                        <l>Toc, toc, é noite… ouvem-se ao longe os sinos,</l>
+                        <l>Moleirinha branca, branca de luar!…</l>
+                        <l>Toc, toc, e os astros abrem diamantinos,</l>
+                        <l>Como estremunhados cherubins divinos,</l>
+                        <l>Os olhitos meigos para a ver passar…</l>
+                     </lg>
+                     <lg>
+                        <l>Toc, toc, e vendo sideral tesoiro,</l>
+                        <l>Entre os milhões d'astros o luar sem veo,</l>
+                        <l>O burrico pensa: Quanto milho loiro!</l>
+                        <l>Quem será que moe estas farinhas d'oiro</l>
+                        <l>Com a mó de jaspe que anda alem no ceo!…</l>
+                     </lg>
+                     <p rend="justify">Novembro de 1888.</p>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>II</label>
+               </head>
+               <div type="div3">
+                  <head>*CADAVER*</head>
+                  <div type="div4">
+                     <head>
+                        <label>I</label>
+                     </head>
+                     <div type="div5">
+                        <head>PRESTITO FUNEBRE</head>
+                        <lg>
+                           <l>Que alegrias virgens, campezinas, fremem</l>
+                           <l>N'este imaculado, limpido arrebol!</l>
+                           <l>Como os galos cantam!… como as noras gemem!…</l>
+                           <l>Nos olmeiros brancos, cujas folhas tremem,</l>
+                           <l>Refulgente e novo passarinha o sol!…</l>
+                        </lg>
+                        <lg>
+                           <l>Pela estrada, que entre cerejaes ondea,</l>
+                           <l>Uma pequerrucha,—tro-la-ró-la-rá!—</l>
+                           <l>Vae cantando e guiando o carro para a aldeia…</l>
+                           <l>São os bois enormes, e a carrada cheia</l>
+                           <l>Com um castanheiro apodrecido já.</l>
+                        </lg>
+                        <lg>
+                           <l>Oh, que donairosa, linda boieirinha!</l>
+                           <l>Grandes olhos garços, sorrisinho arisco…</l>
+                           <l>D'aguilhada em punho lepida caminha,</l>
+                           <l>Com a graça aerea d'ave ribeirinha,</l>
+                           <l>Verdilhão, arveola, toutinegra ou pisco.</l>
+                        </lg>
+                        <lg>
+                           <l>Loira, mas do loiro fulvo das abelhas;</l>
+                           <l>Fresca como os cravos pelo amanhecer;</l>
+                           <l>Brincos de cerejas presos nas orelhas,</l>
+                           <l>Na boquita rosea tres canções vermelhas,</l>
+                           <l>Na aguilhada, ao alto, uma estrelinha a arder!</l>
+                        </lg>
+                        <lg>
+                           <l>Descalcinha e pobre, mas sem ar mendigo,</l>
+                           <l>Nada mais esvelto, mais encantador!</l>
+                           <l>Veste-a d'oiro a gloria do bom sol amigo…</l>
+                           <l>O chapeu é palha que inda ha um mez deu trigo,</l>
+                           <l>A saíta é linho inda ha bem pouco em flor!…</l>
+                        </lg>
+                        <lg>
+                           <l>E os dois bois enormes, colossaes, fleugmaticos,</l>
+                           <l>Na aleluia imensa, triunfal, da aurora,</l>
+                           <l>Vão como bondosos monstros enigmaticos,</l>
+                           <l>Almas por ventura d'ermitões extaticos</l>
+                           <l>Ruminando biblias pelos campos fora!…</l>
+                        </lg>
+                        <lg>
+                           <l>Ao arado e ao carro presos noite e dia,</l>
+                           <l>Como dois grilhetas, quer de inverno ou v'rão!</l>
+                           <l>E, submissos, uma pequerrucha os guia!</l>
+                           <l>E nos sulcos que abrem canta a cotovia,</l>
+                           <l>As boninas riem-se e amadura o pão!…</l>
+                        </lg>
+                        <lg>
+                           <l>Levam as serenas frontes magestosas</l>
+                           <l>Enramalhetadas como dois altares:</l>
+                           <l>Madresilvas, loiros, pampanos, mimosas,</l>
+                           <l>Abelhões ardentes desflorando rosas,</l>
+                           <l>Borboletas claras em noivado, aos pares…</l>
+                        </lg>
+                        <lg>
+                           <l>E eis no carro morto o castanheiro, emquanto</l>
+                           <l>Melros assobiam nos trigaes alem…</l>
+                           <l>Heras amortalham-no em seu verde manto…</l>
+                           <l>Deu-lhe a terra o leite, dá-lhe a aurora o pranto…</l>
+                           <l>Que feliz cadaver, que até cheira bem!…</l>
+                        </lg>
+                        <lg>
+                           <l>Musgos, lichens, fetos,—chimica incessante!—</l>
+                           <l>Fazem montões d'almas d'essa podridão…</l>
+                           <l>Já n'esse esqueleto seco de gigante,</l>
+                           <l>Sob a luz vermelha, n'um festim radiante,</l>
+                           <l>Mil milhões de vidas polulando estão!…</l>
+                        </lg>
+                        <lg>
+                           <l>Sempre á fortaleza casa-se a doçura:</l>
+                           <l>Como o leão da Biblia morto n'um vergel,</l>
+                           <l>Do seu tronco ainda na caverna escura</l>
+                           <l>Um enxame d'oiro rutilo murmura,</l>
+                           <l>Construindo um favo candido de mel!…</l>
+                        </lg>
+                        <lg>
+                           <l>Oh, os bois enormes, mansos como arminhos,</l>
+                           <l>Meditando estranhas, incubas visões!…</l>
+                           <l>Pousam-lhes nas hastes, vede, os passarinhos,</l>
+                           <l>E por sobre os longos, torridos caminhos</l>
+                           <l>Dos seus olhos caem bençãos e perdões…</l>
+                        </lg>
+                        <lg>
+                           <l>Chorarão o velho castanheiro ingente,</l>
+                           <l>Sob o qual dormiram sestas estivaes?</l>
+                           <l>Almas do arvoredo, o seu olhar plangente</l>
+                           <l>Saberá acaso misteriosamente</l>
+                           <l>Traduzir as lingoas em que vós fallaes?!…</l>
+                        </lg>
+                        <lg>
+                           <l>Castanheiro morto! que é da vida estranha</l>
+                           <l>Que no ovario exiguo d'uma flor nasceu,</l>
+                           <l>E criou raizes, e se fez tamanha,</l>
+                           <l>Que tresentos anos sobre uma montanha</l>
+                           <l>Seus tresentos braços de colosso ergueu?!…</l>
+                        </lg>
+                        <lg>
+                           <l>Onde a alma, origem d'essas formas bellas?</l>
+                           <l>Em tão varias formas que sonhou dizer?</l>
+                           <l>Qual a ideia, ó alma, convertida n'ellas?</l>
+                           <l>E desfeito o encanto, que nos não revelas,</l>
+                           <l>Que aparencias novas tomará teu ser?…</l>
+                        </lg>
+                        <lg>
+                           <l>Noite escura!… enigmas!… Ai, do que eu preciso,</l>
+                           <l>Boieirinha linda, linda d'encantar,</l>
+                           <l>É d'essa inocencia, d'esse paraiso,</l>
+                           <l>Da alegria d'oiro que ha no teu sorriso,</l>
+                           <l>Da candura d'alva que ha no teu olhar!…</l>
+                        </lg>
+                        <lg>
+                           <l>Grandes bois que adoro, p'ra fortuna minha,</l>
+                           <l>Quem me dera a vossa mansidão christã!</l>
+                           <l>Arrotear os campos, fecundar a vinha,</l>
+                           <l>E nos olhos garços d'uma boieirinha,</l>
+                           <l>Ter duas estrellas virgens da manhã!…</l>
+                        </lg>
+                        <lg>
+                           <l>E tambem quizera, mortos castanheiros,</l>
+                           <l>Como vós erguer-me para o sol a flux,</l>
+                           <l>Dar tresentos anos sombra aos pegureiros,</l>
+                           <l>E n'um lar de choça, em festivaes braseiros,</l>
+                           <l>A aquecer velhinhos, desfazer-me em luz!…</l>
+                        </lg>
+                        <p rend="justify">1889.</p>
+                     </div>
+                  </div>
+                  <div type="div4">
+                     <head>
+                        <label>II</label>
+                     </head>
+                     <div type="div5">
+                        <head>IN PULVIS…</head>
+                        <lg>
+                           <l>Oh, que noite negra, que invernia brava!</l>
+                           <l>Nem uma estrellinha pelo ceo reluz!</l>
+                           <l>Chora o vento ao longe com a voz tão cava,</l>
+                           <l>Como quando dizem que de dor chorava</l>
+                           <l>Toda a santa noite em que expirou Jesus!…</l>
+                        </lg>
+                        <lg>
+                           <l>Vem sanguinolentos gritos muribundos</l>
+                           <l>Das soturnidades torvas do horisonte!…</l>
+                           <l>Já nos ermos andam lobos vagabundos…</l>
+                           <l>Já os rios cheios, com bramidos fundos,</l>
+                           <l>N'um diluvio d'agoa vão de mar a monte!…</l>
+                        </lg>
+                        <lg>
+                           <l>Em casal de serras arde o castanheiro,</l>
+                           <l>Lampada de pobres a fazer serão;</l>
+                           <l>De redor do grande, festival braseiro,</l>
+                           <l>A velhinha, o velho, o lavrador trigueiro,</l>
+                           <l>A mulher, os filhos, o bichano e o cão.</l>
+                        </lg>
+                        <lg>
+                           <l>Queima-se o gigante, rude centenario,</l>
+                           <l>Que jamais os astros hão-de ver florir…</l>
+                           <l>E do seu cadaver o esplendor mortuario</l>
+                           <l>Faz d'essa choupana quasi que um sacrario</l>
+                           <l>Com uma alma d'oiro dentro d'ella a rir!…</l>
+                        </lg>
+                        <lg>
+                           <l>Tem o velho ao colo o seu netinho doente;</l>
+                           <l>—Morte negra, foge do telhado, ó, ó…—</l>
+                           <l>E no lar as brasas simultaneamente</l>
+                           <l>Dizem para o anjo:—tudo é oiro ardente…</l>
+                           <l>Dizem para o velho:—tudo é cinza e pó!…</l>
+                        </lg>
+                        <lg>
+                           <l>Quantas vezes, quantas! por manhãs radiantes</l>
+                           <l>Em pequeno, alegre como um colibri,</l>
+                           <l>Não trepara aos braços todos verdejantes</l>
+                           <l>D'esse castanheiro, que n'alguns instantes</l>
+                           <l>Ha-de ver em cinzas já desfeito ali!…</l>
+                        </lg>
+                        <lg>
+                           <l>Quantas vezes, quantas! lhe bailara em torno!</l>
+                           <l>Quantas noites, quantas! elle ali dormia</l>
+                           <l>Pelo mez das ceifas, quando o luar é morno,</l>
+                           <l>E das restolhadas, quentes como um forno,</l>
+                           <l>Se evolavam cheiros d'arreçã bravia!…</l>
+                        </lg>
+                        <lg>
+                           <l>Como não sentir um entranhado afecto,</l>
+                           <l>Como não amal-o com veneração,</l>
+                           <l>Se lhe dera a trave que sustenta o tecto,</l>
+                           <l>Se lhe dera o berço onde repoisa o neto,</l>
+                           <l>Se lhe dera a tulha onde arrecada o pão!</l>
+                        </lg>
+                        <lg>
+                           <l>Fez com elle o jugo e fez com elle o arado;</l>
+                           <l>Fez com elle as portas contra os vendavaes;</l>
+                           <l>E com elle é feito o velho leito amado,</l>
+                           <l>Onde se deitara para o seu noivado,</l>
+                           <l>E onde já morreram seus avós, seus paes!</l>
+                        </lg>
+                        <lg>
+                           <l>E o bom velho embala o seu netinho doente…</l>
+                           <l>—Morte negra, foge… dorme, dorme… ó, ó…—</l>
+                           <l>E, fitando as chamas simultaneamente,</l>
+                           <l>Ri-se a creancinha, vendo o oiro ardente,</l>
+                           <l>Lagrimeja o velho, vendo cinza e pó!…</l>
+                        </lg>
+                        <lg>
+                           <l>A velhinha resa, resa afervorada…</l>
+                           <l>Tão velhinha e branca, branca de jasmins,</l>
+                           <l>Que a idealiso e creio d'esplendor banhada,</l>
+                           <l>Entre palmas verdes até Deos levada</l>
+                           <l>N'um andor de rosas pelos serafins…</l>
+                        </lg>
+                        <lg>
+                           <l>Resa pelos mortos… resa á virgem pura…</l>
+                           <l>Desde a sua infancia tão ditosa e bella,</l>
+                           <l>Já d'essa choupana (como a noite é escura!)</l>
+                           <l>Quantos tem partido para a sepultura,</l>
+                           <l>Quantos tem ficado dentro d'alma d'ella!…</l>
+                        </lg>
+                        <lg>
+                           <l>Dentro d'alma d'ella, triste campo santo,</l>
+                           <l>Muitas almas vivem mortas a sonhar!…</l>
+                           <l>Vivem mortas, mudas, n'um dorido encanto…</l>
+                           <l>Nos seus olhos vitreos cristalisa o pranto,</l>
+                           <l>Nos seus labios roxos fosforece o luar…</l>
+                        </lg>
+                        <lg>
+                           <l>E essas almas fluidas que ella traz comsigo,</l>
+                           <l>—Talisman da crença, magico poder!—</l>
+                           <l>Frias como a neve vem do seu jasigo,</l>
+                           <l>Vem sentar-se todas no logar antigo,</l>
+                           <l>A chorar á roda do braseiro a arder!…</l>
+                        </lg>
+                        <lg>
+                           <l>Ai dos pobres mortos que não tem fogueiras,</l>
+                           <l>Nem velhinhas santas que lhe deem luz!</l>
+                           <l>Sob leivas, onde ninguem põe roseiras,</l>
+                           <l>Umas sobre as outras juntam-se as caveiras,</l>
+                           <l>Dando sangue aos vermes, podridões á Cruz…</l>
+                        </lg>
+                        <lg>
+                           <l>D'esses desgraçados, mortos no abandono,</l>
+                           <l>Onde estão as almas? P'ra que Deos as fez?</l>
+                           <l>Quando o vento uivando lhes perturba o somno</l>
+                           <l>Pela treva errantes, como cães sem dono,</l>
+                           <l>Andarão perdidas a ulular talvez!…</l>
+                        </lg>
+                        <lg>
+                           <l>Pois até por essas que ninguem conforta</l>
+                           <l>A velhinha chama… e todas ellas vem…</l>
+                           <l>—Vinde pobresinhas, (como o vento as corta!)</l>
+                           <l>Vinde aqui sentar-vos, que eu vos abro a porta,</l>
+                           <l>A aquecer-vos, filhas, ao meu lar tambem!—</l>
+                        </lg>
+                        <lg>
+                           <l>E a dos olhos garços pastorinha bella</l>
+                           <l>Fia no seu fuso linho por corar;</l>
+                           <l>É trigueiro o linho, trigueirinha é ella…</l>
+                           <l>Rodopia o fuso… quando for donzella,</l>
+                           <l>Já terá camisas para se ir casar!…</l>
+                        </lg>
+                        <lg>
+                           <l>E esse fuso alegre onde se enrosca o linho</l>
+                           <l>Já foi ramo verde n'esse tronco em brasas:</l>
+                           <l>Deu já cachos brancos como o branco arminho,</l>
+                           <l>Já sobre elle a ave construiu seu ninho,</l>
+                           <l>Já sobre elle amando palpitaram azas!…</l>
+                        </lg>
+                        <lg>
+                           <l>Fuso como giras em dedinhos breves</l>
+                           <l>Prasenteiramente, com tão louco ardor!</l>
+                           <l>Que estarás fiando?… que enxovaes?… que neves?</l>
+                           <l>Se serão camisas, ou mortalhas leves,</l>
+                           <l>Cama para bodas, ou lençoes de dor!…</l>
+                        </lg>
+                        <lg>
+                           <l>No vetusto escano o lavrador sombrio</l>
+                           <l>Pensa na courela… Santo Deos, Jesus!</l>
+                           <l>Se a tormenta engrossa, se lha leva o rio,</l>
+                           <l>Como é que hade o gado pelo ardor do estio</l>
+                           <l>Sustentar-se a piornos de fraguedos nus!…</l>
+                        </lg>
+                        <lg>
+                           <l>Choram ventanias!… panica tristeza!…</l>
+                           <l>Sentem-se na loja bois a ruminar…</l>
+                           <l>Queixas insondaveis vem da naturesa!…</l>
+                           <l>Quanto monstro mudo, quanta lingoa presa,</l>
+                           <l>Contemplando a Noite sem poder fallar!…</l>
+                        </lg>
+                        <lg>
+                           <l>Ronronando ao lume, dorme o cão e o gato.</l>
+                           <l>Almas misteriosas, em que sonharão?…</l>
+                           <l>Como que n'um dubio lusco-fusco abstracto,</l>
+                           <l>De ter sido tigre lembra-se inda o gato?…</l>
+                           <l>De ter sido hiena lembra-se inda o cão?…</l>
+                        </lg>
+                        <lg>
+                           <l>Eis as brasas mortas… Eil-o já converso</l>
+                           <l>O castanheiro em cinza, em fumo vão, em luz…</l>
+                           <l>Luz e fumo e cinza tudo irá disperso</l>
+                           <l>Reviver na vida eterna do universo,</l>
+                           <l>Circulo de enigmas, que ninguem traduz…</l>
+                        </lg>
+                        <lg>
+                           <l>Sempre, sempre, sempre, cinza, fumo e chama</l>
+                           <l>Viverão, morrendo a toda a hora… sempre!…</l>
+                           <l>Nuvem que troveja, calix que enbalsama,</l>
+                           <l>Planta, pedra, insecto, humanidade, lama,</l>
+                           <l>Serão tudo, tudo!… inconcebivel!… Sempre!</l>
+                        </lg>
+                        <lg>
+                           <l>Mas a alma, as almas quem as ha criado?</l>
+                           <l>Qual a origem d'onde a sua essencia emana?…</l>
+                           <l>Ah, em vão levanto o triste olhar magoado</l>
+                           <l>Para os olhos d'ouro que do azul sagrado</l>
+                           <l>Lançam as estrellas á miseria humana!…</l>
+                        </lg>
+                        <lg>
+                           <l>Oh em vão!… que os astros, onde em sonho habito,</l>
+                           <l>São tambem fogueiras sobrenaturaes,</l>
+                           <l>Que na pavorosa noite do Infinito</l>
+                           <l>Crepitando espalham seu clarão bemdito,</l>
+                           <l>Suas alvoradas roseas, virginaes,</l>
+                        </lg>
+                        <lg>
+                           <l>Para em torno d'ellas se aquecerem mundos</l>
+                           <l>A tremer com frio, a soluçar com dor,</l>
+                           <l>Miseraveis monstros cegos, vagabundos,</l>
+                           <l>Atravez d'eternos turbilhões profundos,</l>
+                           <l>N'um virtiginoso, angustioso horror!…</l>
+                        </lg>
+                        <lg>
+                           <l>E ardam astros d'oiro, ou ardam castanheiros,</l>
+                           <l>No Infinito imenso ou n'um tugurio assim,</l>
+                           <l>Fica a mesma cinza d'esses dois braseiros,</l>
+                           <l>Atomos errantes, sonhos vãos, argueiros</l>
+                           <l>Na inconsciencia calma da amplidão sem fim!…</l>
+                        </lg>
+                        <lg>
+                           <l>E o mundo e os mundos a girar na altura</l>
+                           <l>Como vós, ó velhos, morrerão tambem…</l>
+                           <l>Blocos de materia fria, sem verdura,</l>
+                           <l>Errarão na vaga imensidade escura,</l>
+                           <l>Cemiterio d'astros que nem cruzes tem!…</l>
+                        </lg>
+                        <lg>
+                           <l>Dormirão? oh, nunca!… vão eternamente</l>
+                           <l>Circular na eterna vida universal:</l>
+                           <l>Nebulosa fluida, lavareda ardente,</l>
+                           <l>Lodo, o mesmo lodo, como antigamente,</l>
+                           <l>Com os mesmos dramas entre o Bem e o Mal!…</l>
+                        </lg>
+                        <lg>
+                           <l>Formas da materia, que eu em vão desnudo,</l>
+                           <l>Que invisiveis forças, e almas encobris?</l>
+                           <l>Quem o sabe? A Morte, que conhece tudo…</l>
+                           <l>Mas o enigma impresso no seu labio mudo</l>
+                           <l>Só na treva aos mortos é que a morte o diz!…</l>
+                        </lg>
+                        <lg>
+                           <l>Só a Morte o sabe… mais a Fé que abrasa,</l>
+                           <l>Que penetra as coisas com o seu olhar!</l>
+                           <l>Não ha fé na alma, não ha luz na casa…</l>
+                           <l>A rasão é um verme, mas a crença é aza…</l>
+                           <l>Verme! aos infinitos poderás chegar!…</l>
+                        </lg>
+                        <lg>
+                           <l>Ó velhinha santa, minha boa amiga,</l>
+                           <l>Resa o teu rosario, move os labios teus!…</l>
+                           <l>A oração é ingenua? Vem de crença antiga?</l>
+                           <l>Não importa! resa, minha boa amiga,</l>
+                           <l>Que orações são lingoas de falar com Deos!…</l>
+                        </lg>
+                        <lg>
+                           <l>Ha pedintes cegos de inspiradas frontes,</l>
+                           <l>Com estrellas n'alma, com visões mentaes,</l>
+                           <l>Que atravessam rios, que vão dar com fontes,</l>
+                           <l>Que andam por agrestes, solitarios montes,</l>
+                           <l>Sem errar a estrada, sem cahir jamais!…</l>
+                        </lg>
+                        <lg>
+                           <l>Pelos bosques ermos, onde venta e neva,</l>
+                           <l>Com os seus farrapos mais o seu bordão,</l>
+                           <l>Marcham por milagre na continua treva…</l>
+                           <l>Oh, dizei, dizei-me quem os guia e leva?</l>
+                           <l>Que prodigio oculto? que invisivel mão?</l>
+                        </lg>
+                        <lg>
+                           <l>Pois, velhinha branca, tua crença pura,</l>
+                           <l>Tua resa antiga, que me faz chorar,</l>
+                           <l>É egual aos cegos, que na noite escura</l>
+                           <l>Não precisam d'astros para ver a altura,</l>
+                           <l>Não precisam d'olhos para ter olhar!</l>
+                        </lg>
+                        <lg>
+                           <l>No Infinito mudo tua ingenua crença,</l>
+                           <l>Tremula ceguinha de risonho alvor,</l>
+                           <l>Eil-a andando, andando, como que suspensa,</l>
+                           <l>Pelos descampados d'uma noite imensa,</l>
+                           <l>Vastidões d'assombros, amplidões d'horror!…</l>
+                        </lg>
+                        <lg>
+                           <l>E onde a aguia, o genio de pupila ovante,</l>
+                           <l>Tem vertigens, auras, desfalece e cae,</l>
+                           <l>A ceguinha debil, vagabunda, errante,</l>
+                           <l>D'olhos ás escuras. Infinito adiante,</l>
+                           <l>N'um enlevo aereo perpassando vae!…</l>
+                        </lg>
+                        <lg>
+                           <l>Branca e pequenina, ligeirinha e leve,</l>
+                           <l>Corta por abismos, plagas sem faroes,</l>
+                           <l>Stepes infindaveis que ninguem descreve,</l>
+                           <l>Lugubres desertos de mudez e neve,</l>
+                           <l>Bategas de brasas, turbilhões de soes!…</l>
+                        </lg>
+                        <lg>
+                           <l>Vae andando, andando, té que emfim cercada</l>
+                           <l>D'uma aleluia mystica de luz,</l>
+                           <l>Com o bordãosinho que a amparou na estrada</l>
+                           <l>Bate ás portas d'oiro da feliz morada,</l>
+                           <l>Presbiterio d'Almas, onde está Jesus!…</l>
+                        </lg>
+                        <lg>
+                           <l>Vem um anjo abril-as; a ceguinha mansa</l>
+                           <l>Põe-se de joelhos, em adoração…</l>
+                           <l>Diz-lhe o anjo:—Toma, guarda esta lembrança:</l>
+                           <l>Uma palma d'astros, a luzir Esp'rança,</l>
+                           <l>Que á velhinha humilde levarás na mão!</l>
+                        </lg>
+                        <lg>
+                           <l>E, ave pressurosa recolhendo ao ninho,</l>
+                           <l>Já com alimento para os filhos seus,</l>
+                           <l>Eil-a que regressa por egual caminho,</l>
+                           <l>E vem dar-te, ó santa, côr de jaspe e arminho,</l>
+                           <l>Tão amada ofrenda que te envia Deos!…</l>
+                        </lg>
+                        <lg>
+                           <l>Resa esse rosario, santa lagrimosa!</l>
+                           <l>Sobre os teus joelhos deixa-me deitar!</l>
+                           <l>Triste da minh'alma!… vê, que desditosa!…</l>
+                           <l>Unge-m'a de bençãos, mão religiosa!…</l>
+                           <l>Cobre-m'a de graças, cristalino olhar!…</l>
+                        </lg>
+                        <lg>
+                           <l>Resa-lhe baixinho, minha boa amiga!</l>
+                           <l>Resa-lhe rosarios de orações ideaes!</l>
+                           <l>Morta de miseria, morta de fadiga,</l>
+                           <l>Deixa que ella durma na pureza antiga…</l>
+                           <l>Que ella durma… sonhe… e não acorde mais!…</l>
+                        </lg>
+                        <p rend="justify">89.</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>III</label>
+               </head>
+               <div type="div3">
+                  <head>*EIRAS AO LUAR*</head>
+                  <div type="div4">
+                     <head>EIRAS AO LUAR</head>
+                     <lg>
+                        <l>Alvor da lua nas eiras,</l>
+                        <l>Nem linhos de fiandeiras,</l>
+                        <l>Nem veos de noivas ou freiras,</l>
+                        <l>Nem rendas d'ondas do mar!…</l>
+                        <l>Sobre espigas d'ouro bailam as ceifeiras,</l>
+                        <l>Na aleluia argentea do clarão do luar!…</l>
+                     </lg>
+                     <lg>
+                        <l>Bailae sob as lagrimosas</l>
+                        <l>Estrellinhas misteriosas,</l>
+                        <l>Scintilações, nebulosas,</l>
+                        <l>Fremitos vagos d'empyreos!…</l>
+                        <l>Deos golpeia a aurora p'ra dar sangue ás rosas,</l>
+                        <l>Deos ordenha a lua p'ra dar leite aos lirios!…</l>
+                     </lg>
+                     <lg>
+                        <l>Ai, medas de prata e oiro,</l>
+                        <l>De lua branca e pão loiro,</l>
+                        <l>Malhadas no malhadoiro,</l>
+                        <l>A enfeitiçar e a fulgir!…</l>
+                        <l>Oh, bailae á volta d'esse bom tesoiro,</l>
+                        <l>Que é a codea negra que ceaes a rir!…</l>
+                     </lg>
+                     <lg>
+                        <l>Quem nas ladeiras e prados,</l>
+                        <l>Com as lanças dos arados,</l>
+                        <l>Abriu sulcos e valados</l>
+                        <l>Na terra gelida e nua?</l>
+                        <l>Oh, bailae á volta desses bois deitados,</l>
+                        <l>Que estão d'olhos tristes adorando a lua!…</l>
+                     </lg>
+                     <lg>
+                        <l>Que bandos de passarinhos,</l>
+                        <l>Vem lá de campos maninhos,</l>
+                        <l>De fraguedos, de caminhos,</l>
+                        <l>Jantar aqui, merendar!…</l>
+                        <l>Oh, bailae em volta de milhões de ninhos!</l>
+                        <l>Oh, bailae cantando para os acordar!…</l>
+                     </lg>
+                     <lg>
+                        <l>Entre as palhas do centeio,</l>
+                        <l>Quantas esmolas no meio,</l>
+                        <l>Que deixam lirios no seio</l>
+                        <l>E as mãos escorrendo luz!…</l>
+                        <l>Oh, bailae em volta do celeiro cheio!</l>
+                        <l>Oh, bailae á volta dos mendigos nus!…</l>
+                     </lg>
+                     <lg>
+                        <l>Quanta hostia consagrada,</l>
+                        <l>—Pão da ultima jornada!—</l>
+                        <l>Dorme na meda encantada</l>
+                        <l>Ao luar tão leve e tão lindo!…</l>
+                        <l>Oh, bailae em volta d'essa mó doirada,</l>
+                        <l>Que bailaes á volta de Jesus dormindo!…</l>
+                     </lg>
+                     <lg>
+                        <l>Alvor da lua nas eiras,</l>
+                        <l>Nem linhos de fiandeiras,</l>
+                        <l>Nem veos de noivas ou freiras,</l>
+                        <l>Nem rendas d'ondas do mar!…</l>
+                        <l>Oh, bailae ceifeiras, lindas feiticeiras,</l>
+                        <l>Na aleluia argentea do clarão do luar!…</l>
+                     </lg>
+                     <p rend="justify">Setembro—91.</p>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>IV</label>
+               </head>
+               <div type="div3">
+                  <head>*AS ERMIDAS*</head>
+                  <div type="div4">
+                     <head>AS ERMIDAS</head>
+                     <lg>
+                        <l>Alvas ermidinhas sob azues maguados,</l>
+                        <l>Vejo-vos de longe n'uma adoração,</l>
+                        <l>Como ninhos brancos de Ideal pousados</l>
+                        <l>Lá n'esses fragosos montes escalvados,</l>
+                        <l>Onde não ha agoa, nem germina o pão.</l>
+                     </lg>
+                     <lg>
+                        <l>Serranias ermas, solidões contritas…</l>
+                        <l>Azinheiras como velhos Briarcus….</l>
+                        <l>Pedras calcinadas… gados parasitas…</l>
+                        <l>Tristes montes ermos! ermos cenobitas,</l>
+                        <l>Que em burel d'estevas amortalha Deos!…</l>
+                     </lg>
+                     <lg>
+                        <l>Pelas torvas, fundas noites de invernada,</l>
+                        <l>Quando os lobos uivam, quando a neve cae,</l>
+                        <l>Que infinitos sustos n'uma tal morada,</l>
+                        <l>Para debil virgem tão desamparada</l>
+                        <l>Com um inocente nos seus braços… ai!</l>
+                     </lg>
+                     <lg>
+                        <l>Como é que não treme pelo seu menino?</l>
+                        <l>Como é que não chora seu piedoso olhar?</l>
+                        <l>Como é que o seu labio, fresco e matutino,</l>
+                        <l>Se abre n'um sorriso, precursor divino</l>
+                        <l>Da estrellinha d'alva quando vae raiar?!</l>
+                     </lg>
+                     <lg>
+                        <l>Não receia feras quem de rosto ledo</l>
+                        <l>Sofre sete espadas sobre o coração!…</l>
+                        <l>E ao filhinho a noite não lhe causa medo,</l>
+                        <l>Deu-lhe Deos o mundo para seu brinquedo,</l>
+                        <l>Como um fructo d'oiro tem-no ali na mão!…</l>
+                     </lg>
+                     <lg>
+                        <l>Lá nos altos montes sem trigaes, nem vinhas,</l>
+                        <l>Sem o bafo impuro que dos homens vem,</l>
+                        <l>É que a mãe de Christo com as andorinhas,</l>
+                        <l>E as estrellas d'oiro mesmo ali visinhas,</l>
+                        <l>N'um casebre terreo se acomoda bem.</l>
+                     </lg>
+                     <lg>
+                        <l>Bispos não precisa; servem-na pastores,</l>
+                        <l>Capelães d'ovelhas, mais o seu zagal…</l>
+                        <l>Lampada ás Trindades, chão varrido, flores,</l>
+                        <l>Nada falta á Virgem, mãe dos pecadores,</l>
+                        <l>N'uma egrejasinha que é como um pombal.</l>
+                     </lg>
+                     <lg>
+                        <l>E nas brutas, rudes solidões tão calmas</l>
+                        <l>Ai, muito se engana quem a julga só!</l>
+                        <l>Entre o luar dos hinos e o verdor das palmas,</l>
+                        <l>Para lá caminham romarias d'almas…</l>
+                        <l>Todos nós lá fomos com a nossa avó!…</l>
+                     </lg>
+                     <lg>
+                        <l>Oh, as invisiveis procissões piedosas,</l>
+                        <l>Romarias fluidas, sobrenaturaes!</l>
+                        <l>Por onde ellas marcham, brancas, vaporosas,</l>
+                        <l>Fica nos espaços um alvor de rosas</l>
+                        <l>E uma angelisante tremulina d'ais!…</l>
+                     </lg>
+                     <lg>
+                        <l>Almas de velhinhas, do palor silente</l>
+                        <l>D'uma estrella, quando desmaiando está…</l>
+                        <l>Vão buscar alivios p'ro netinho doente,</l>
+                        <l>Vão pedir noticias d'algum filho ausente,</l>
+                        <l>Vão rogar a Gloria para os mortos já…</l>
+                     </lg>
+                     <lg>
+                        <l>Almas de meninos, loiras como abelhas,</l>
+                        <l>A sorrir ao colo d'almas a cantar…</l>
+                        <l>Almas em noivados, roseas e vermelhas…</l>
+                        <l>E almas de pastores ofertando ovelhas,</l>
+                        <l>Chocalhinhos d'astros, velos de luar…</l>
+                     </lg>
+                     <lg>
+                        <l>Almas d'assassinos dos montados ermos,</l>
+                        <l>Com o seu remorso como um javali…</l>
+                        <l>Almas de mendigos, d'aleijões, d'enfermos…</l>
+                        <l>Almas vagabundas, de perdidos termos,</l>
+                        <l>Que atravessam agoas p'ra chegar ali!…</l>
+                     </lg>
+                     <lg>
+                        <l>Almas das corolas matinaes, dos ninhos,</l>
+                        <l>Das aradas verdes, da campina em flor…</l>
+                        <l>Almas de borregos, touros, passarinhos…</l>
+                        <l>E almas, sim! das urzes e hervas dos caminhos,</l>
+                        <l>Porque até nas fragas dorme o Sonho e a Dor!…</l>
+                     </lg>
+                     <lg>
+                        <l>E essas almas todas ella apasigua</l>
+                        <l>Com o dos seus olhos balsamo eficaz:</l>
+                        <l>Verte sobre as penas sugestões de lua,</l>
+                        <l>Mantos dá d'estrellas á miseria nua,</l>
+                        <l>Lagrimas aos crimes e ao remorso paz…</l>
+                     </lg>
+                     <lg>
+                        <l>Esconjura demos, bruxas, feiticeiras,</l>
+                        <l>E dos sonhos loucos o torpor febril…</l>
+                        <l>Dá verdura aos gados, chuva ás sementeiras,</l>
+                        <l>Faz bailar as moças ao luar nas eiras,</l>
+                        <l>Faz fugir os lobos vendo o seu candil.</l>
+                     </lg>
+                     <lg>
+                        <l>Mas tambem ha almas, pobresinhas d'ellas!</l>
+                        <l>Que á romagem d'oiro não acodem já!</l>
+                        <l>Almas moribundas… Noites de procellas…</l>
+                        <l>Olha nos casebres tremeluzem velas!…</l>
+                        <l>É signal que a Morte anda a rondar por lá!…</l>
+                     </lg>
+                     <lg>
+                        <l>Mas a sempre linda Virgem da Amargura</l>
+                        <l>Baixa do altarzinho toda afadigada,</l>
+                        <l>E atravez de serras, pela noite escura,</l>
+                        <l>De menino ao colo,—santa creatura!—</l>
+                        <l>Lá vae ella andando, não tem medo a nada!…</l>
+                     </lg>
+                     <lg>
+                        <l>Lá vae ella andando… no caminho estreito</l>
+                        <l>Deixa um rasto d'oiro pela escuridão…</l>
+                        <l>Deixa um rasto d'oiro de divino efeito,</l>
+                        <l>Porque as sete espadas, a fulgir no peito,</l>
+                        <l>Põem-lhe um setestrello sobre o coração…</l>
+                     </lg>
+                     <lg>
+                        <l>E de povo em povo, que é de serra em serra,</l>
+                        <l>Almas na agonia visitando vae;</l>
+                        <l>Quando chega, a Morte já as não aterra,</l>
+                        <l>Ella lhes dá azas p'ra voar da terra,</l>
+                        <l>Seu menino beijos p'ra levar ao Pae…</l>
+                     </lg>
+                     <lg>
+                        <l>Virgem das Angustias, Virgem da Bonança,</l>
+                        <l>Quantas noites, quantas! tremula de dor,</l>
+                        <l>Não vae ser parteira da ovelhinha mansa</l>
+                        <l>A parir, balando como uma creança,</l>
+                        <l>Entre fragaredos de meter horror!</l>
+                     </lg>
+                     <lg>
+                        <l>A deshoras mortas eil-a vigilante,</l>
+                        <l>Prompta a dar socorros ao menor queixume:</l>
+                        <l>Acender estrellas para o navegante,</l>
+                        <l>Ir levar ás mães o cordeirinho errante,</l>
+                        <l>Defender das cobras a ninhada implume…</l>
+                     </lg>
+                     <lg>
+                        <l>Pois como não ha-de consolar as dores</l>
+                        <l>Dos humildes, simples, engeitados, nus,</l>
+                        <l>Se inda se recorda de só ver pastores,</l>
+                        <l>Com cordeiros brancos, cantilenas, flores,</l>
+                        <l>Na sagrada noite em que pariu Jesus!…</l>
+                     </lg>
+                     <lg>
+                        <l>Sim! adora a rude gente da lavoira,</l>
+                        <l>Sementeiras, gados, matagaes, lebreus,</l>
+                        <l>Porque não se esquece da vaquinha loira,</l>
+                        <l>Que se poz de joelhos ante a mangedoira,</l>
+                        <l>Quando nas palhinhas dormitava Deos…</l>
+                     </lg>
+                     <lg>
+                        <l>E por isso arreda pestes, ventanias,</l>
+                        <l>Fomes e procellas, bruxas e trovão,</l>
+                        <l>Lá para malditas, negras penedias,</l>
+                        <l>Onde silvam cobras doudas e bravias,</l>
+                        <l>E onde não existe nem christão, nem pão!…</l>
+                     </lg>
+                     <lg>
+                        <l>E por isso ex-votos, que relembram dores,</l>
+                        <l>Cobrem de ternura todo o seu altar:</l>
+                        <l>Bustos de meninos, mãos de cavadores,</l>
+                        <l>Tranças de donzellas, soluçando amores…</l>
+                        <l>Corações e peitos, de fazer chorar!…</l>
+                     </lg>
+                     <lg>
+                        <l>Alvas capelinhas, sempre milagrosas,</l>
+                        <l>Sois n'essas alturas para os olhos meus,</l>
+                        <l>Como ninhos virgens d'orações piedosas,</l>
+                        <l>Miradoiros brancos de luar e rosas,</l>
+                        <l>D'onde as almas simples entreveem Deos!…</l>
+                     </lg>
+                     <p rend="justify">90-91.</p>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>V</label>
+               </head>
+               <div type="div3">
+                  <head>*CANÇÃO PERDIDA*</head>
+                  <div type="div4">
+                     <head>CANÇÃO PERDIDA</head>
+                     <lg>
+                        <l>Halitos de lilaz, de violeta e d'opala,</l>
+                        <l>Roxas macerações de dor e d'agonia,</l>
+                        <l>O campo, anoitecendo e adormecendo, exhala…</l>
+                     </lg>
+                     <p rend="justify">Triste, canta uma voz na sincope do dia:</p>
+                     <lg>
+                        <l>Alguem de mim se não lembra</l>
+                        <l>Nas terras d'alem do mar…</l>
+                        <l>Ó Morte, dava-te a vida,</l>
+                        <l>Se tu lha fosses levar!…</l>
+                     </lg>
+                     <lg>
+                        <l>Ó Morte, dava-te a vida,</l>
+                        <l>Se tu lha fosses levar!…</l>
+                     </lg>
+                     <lg>
+                        <l>Com o beijo do sol na face cadaverica,</l>
+                        <l>Beijo que a morte esvae em palidez algente,</l>
+                        <l>Eis a lua a boiar sonambula e chimerica…</l>
+                     </lg>
+                     <p rend="justify">Doce, canta uma voz melancolicamente:</p>
+                     <lg>
+                        <l>O meu amor escondi-o</l>
+                        <l>N'uma cova ao pé do mar…</l>
+                        <l>Morre o amor, vive a saudade…</l>
+                        <l>Morre o sol, olha o luar!…</l>
+                     </lg>
+                     <lg>
+                        <l>Morre o amor, vive a saudade…</l>
+                        <l>Morre o sol, olha o luar!…</l>
+                     </lg>
+                     <lg>
+                        <l>Latescente a neblina opalica flutua,</l>
+                        <l>Diluindo, evaporando os montes de granito</l>
+                        <l>Em colossos de sonho, extasiados de lua…</l>
+                     </lg>
+                     <p rend="justify">Flebil, chora uma voz no letargo infinito:</p>
+                     <lg>
+                        <l>Quem dá ais ó rouxinol,</l>
+                        <l>Lá para as bandas do mar?…</l>
+                        <l>É o meu amor que na cova</l>
+                        <l>Leva as noites a chorar!…</l>
+                     </lg>
+                     <lg>
+                        <l>É o meu amor que na cova</l>
+                        <l>Leva as noites a chorar!…</l>
+                     </lg>
+                     <lg>
+                        <l>A lua enorme, a lua argentea, a lua calma,</l>
+                        <l>Imponderalisou a natureza inteira,</l>
+                        <l>Descondensou-a em fluido e embebeceu-a em alma…</l>
+                     </lg>
+                     <p rend="justify">Triste expira uma voz na canção derradeira:</p>
+                     <lg>
+                        <l>Ó meu amor, dorme, dorme</l>
+                        <l>Na areia fina do mar,</l>
+                        <l>Que em antes da estrella d'alva</l>
+                        <l>Comtigo me irei deitar!…</l>
+                     </lg>
+                     <lg>
+                        <l>Que em antes da estrella d'alva</l>
+                        <l>Comtigo me irei deitar!…</l>
+                     </lg>
+                     <p rend="justify">Maio—91.</p>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>VI</label>
+               </head>
+               <div type="div3">
+                  <head>*O PASTOR*</head>
+                  <div type="div4">
+                     <head>O PASTOR</head>
+                     <lg>
+                        <l>Sinos a defuntos! ai, quem morreria!</l>
+                        <l>Olha, foi o pobre do Ti Zé-Senhor!…</l>
+                        <l>Velho tão velhinho nenhum outro havia…</l>
+                        <l>P'ra cumprir cem anos lhe faltava um dia,</l>
+                        <l>Ha noventa e quatro que era já pastor.</l>
+                     </lg>
+                     <lg>
+                        <l>Zagalzinho alegre, desde tenra infancia</l>
+                        <l>Já de surrãosito cheio a tiracol,</l>
+                        <l>A escalar montanhas com ardor, com ancia,</l>
+                        <l>Por pastagens bravas d'auroral fragancia,</l>
+                        <l>Branqueadinho a neve e doiradinho a sol!…</l>
+                     </lg>
+                     <lg>
+                        <l>A deserta, imensa, rustica paisagem,</l>
+                        <l>Cordilheiras, campos, astros d'oiro, luar,</l>
+                        <l>Tudo se invertera, por continua imagem,</l>
+                        <l>Em heroica, em livre candidez selvagem</l>
+                        <l>Na extasiada flor do seu ingenuo olhar.</l>
+                     </lg>
+                     <lg>
+                        <l>Ordenhado o leite, cantarinho cheio,</l>
+                        <l>Ala para a aldeia, por manhãs sonoras,</l>
+                        <l>Mordiscando a codea do seu pão centeio,</l>
+                        <l>Arrancando á frauta um pastoril gorgeio,</l>
+                        <l>Rapinando ás sebes chupa-meis e amoras.</l>
+                     </lg>
+                     <lg>
+                        <l>Fez-se moço e grande pelas serras brutas,</l>
+                        <l>Onde as aguias pairam, onde o roble medra,</l>
+                        <l>E onde os fragaredos barbaros, com grutas,</l>
+                        <l>Se encastelam crespos, infernaes, em lutas,</l>
+                        <l>Tal como tormentas de trovões de pedra!</l>
+                     </lg>
+                     <lg>
+                        <l>Cada serrania alcantilada e brava,</l>
+                        <l>Sob o azul d'Agosto, côr de fogo e pó,</l>
+                        <l>Recozida a febre e atordoada em lava,</l>
+                        <l>Lagrimeja apenas d'uma rocha cava</l>
+                        <l>Pranto, que o bebera uma ovelhinha só!</l>
+                     </lg>
+                     <lg>
+                        <l>E por essas fulvas, ingremes ladeiras</l>
+                        <l>Pastoreava o gado, quasi morto já:</l>
+                        <l>Só rochedos tristes, nus como caveiras,</l>
+                        <l>E zambulhos, zimbros, tojos, cornalheiras,</l>
+                        <l>Acres como pragas d'uma boca má!</l>
+                     </lg>
+                     <lg>
+                        <l>E depois as torvas, negras invernadas,</l>
+                        <l>Noites formidandas, lobos a ulular,</l>
+                        <l>Desmoronamentos, temporaes, nevadas,</l>
+                        <l>Carcavões abertos pelas enxurradas,</l>
+                        <l>Troncos de sobreiros de raiz ao ar!…</l>
+                     </lg>
+                     <lg>
+                        <l>Oh, as noites tristes, alapado e quedo,</l>
+                        <l>N'um covil de feras, ou algar deserto!…</l>
+                        <l>E dormia ao lume sem temor, sem medo,</l>
+                        <l>Pois Nossa Senhora, Virgem do Degredo,</l>
+                        <l>Na ermidinha branca lhe ficava perto…</l>
+                     </lg>
+                     <lg>
+                        <l>Mas no mez de Março pincaros maninhos,</l>
+                        <l>Montes cenobitas, d'ossos e burel,</l>
+                        <l>Vestem-se de trevos e de rosmaninhos,</l>
+                        <l>Com sorrisos d'oiro que alvoroçam ninhos,</l>
+                        <l>E distilam favos de inocencia e mel!…</l>
+                     </lg>
+                     <lg>
+                        <l>Era então alegre como o sol nascente,</l>
+                        <l>Mais feliz nos campos do que Deos no altar!</l>
+                        <l>Anhos e cabritos, leite rescendente,</l>
+                        <l>Pastos tão mimosos, que quizera a gente</l>
+                        <l>Transformar-se em ave para os não calcar!</l>
+                     </lg>
+                     <lg>
+                        <l>Tanto Abril florido, tanta calma adusta,</l>
+                        <l>Tantas inverneiras, sem pesar ou dor,</l>
+                        <l>Tinham-lhe gravado na expressão robusta</l>
+                        <l>Como que uma sombra de grandeza augusta,</l>
+                        <l>Junta a uma inocencia matinal de flor.</l>
+                     </lg>
+                     <lg>
+                        <l>Que importavam gelos, ventanias, feras?</l>
+                        <l>Peito nu, aberto; construção de touro!</l>
+                        <l>Quasi me admirava que nas primaveras</l>
+                        <l>D'esse peito rude não brotassem heras,</l>
+                        <l>Margaridas, lirios com abelhas d'ouro!</l>
+                     </lg>
+                     <lg>
+                        <l>Ao relento a cama no orvalhado pasto,</l>
+                        <l>Cerca dos carneiros e dos bons lebreus;</l>
+                        <l>Que divino leito primitivo e casto,</l>
+                        <l>Todo embalsamado de serpol, mentrasto,</l>
+                        <l>Sob a paz imensa do perdão de Deos!…</l>
+                     </lg>
+                     <lg>
+                        <l>E esse gigantesco latagão corado</l>
+                        <l>Era, como os santos ermitões, frugal:</l>
+                        <l>Duas azeitonas, queijo do seu gado,</l>
+                        <l>E de rala escura meio pão migado</l>
+                        <l>N'um caldeiro d'agoa com azeite e sal.</l>
+                     </lg>
+                     <lg>
+                        <l>Não jantava morte, assassinato, dores,</l>
+                        <l>Hecatombes tristes que jantamos nós;</l>
+                        <l>E por isso ria como riem flores,</l>
+                        <l>Atrahindo em bandos aves de mil cores,</l>
+                        <l>Feiticeiro simples, com o olhar e a voz!…</l>
+                     </lg>
+                     <lg>
+                        <l>Sua rude frauta de pastor ouvindo</l>
+                        <l>Na misteriosa luz crepuscular,</l>
+                        <l>Iam-se as estrellas uma a uma abrindo,</l>
+                        <l>E desabrochava pelo azul infindo</l>
+                        <l>Soluçante a lua como um nenufar!…</l>
+                     </lg>
+                     <lg>
+                        <l>Que trinados vivos, d'argentino encanto</l>
+                        <l>Ai, missa do galo, lhe inspiravas tu,</l>
+                        <l>N'essa frauta, quando de cajado e manto</l>
+                        <l>Ia deitar loas ao menino santo</l>
+                        <l>No altar-mór da egreja sorridente e nu!</l>
+                     </lg>
+                     <lg>
+                        <l>Fôra lá creança, magica ventura!</l>
+                        <l>Centenario quasi a derradeira vez…</l>
+                        <l>E gorgeava a frauta com egual candura,</l>
+                        <l>Pois a alma virgem, luminosa e pura,</l>
+                        <l>Conservara-a sempre como Deos a fez.</l>
+                     </lg>
+                     <lg>
+                        <l>N'ella penetrava, n'ella se embebia</l>
+                        <l>Tudo que é inocencia, riso, amor, clarão:</l>
+                        <l>Fremito de pomba, voz de cotovia,</l>
+                        <l>Canticos dos montes ao nascer do dia,</l>
+                        <l>Lagrimas dos astros pela escuridão!…</l>
+                     </lg>
+                     <lg>
+                        <l>Longe dos Pecados de raivosas presas,</l>
+                        <l>Belzebuths famintos d'olhos de metal,</l>
+                        <l>Longe das horriveis tentações acezas</l>
+                        <l>No torpor dos leitos, na embriaguez das mezas,</l>
+                        <l>Pululantes larvas, vibriões do Mal,</l>
+                     </lg>
+                     <lg>
+                        <l>O pastor ditoso envelheceu ridente</l>
+                        <l>Por despenhadeiros, alcantis, calvarios,</l>
+                        <l>E na fronte augusta de ermitão, de crente,</l>
+                        <l>Lhe geavam anos luminosamente,</l>
+                        <l>Como as pombas brancas sobre os campanarios!</l>
+                     </lg>
+                     <lg>
+                        <l>Das ovelhas meigas,—intimas heranças!—</l>
+                        <l>Recolhera toda a abnegação christã:</l>
+                        <l>Oh, sejaes bemditas, ovelhinhas mansas,</l>
+                        <l>Que com vosso leite sustentaes creanças,</l>
+                        <l>E vestis os pobres com a vossa lã!</l>
+                     </lg>
+                     <lg>
+                        <l>Aos noventa anos, festival, risonho,</l>
+                        <l>Alamo gigante d'agoa viva ao pé;</l>
+                        <l>Sim! inda na boca risos de medronho,</l>
+                        <l>E nos olhos lentos, a tremer em sonho,</l>
+                        <l>Dois miosotis virgens de candura e fé!</l>
+                     </lg>
+                     <lg>
+                        <l>Com seu manto branco de burel grosseiro,</l>
+                        <l>Cans de puro arminho, baculo na mão,</l>
+                        <l>Alembrava um santo feito pegureiro,</l>
+                        <l>Que eu desejaria sobre o altar cruzeiro</l>
+                        <l>D'uma ogiva d'astros, em adoração!</l>
+                     </lg>
+                     <lg>
+                        <l>Centenario quasi, recordava aspectos</l>
+                        <l>De lendario tronco n'um feliz vergel,</l>
+                        <l>Moribundo em meio de seus verdes netos,</l>
+                        <l>Com a Providencia a agasalhal-o em fetos,</l>
+                        <l>Com abelhas d'ouro inda a nutril-o a mel,</l>
+                     </lg>
+                     <lg>
+                        <l>E que surdo á voz dos ledos passarinhos,</l>
+                        <l>E que cego ao ether de esplendor ideal,</l>
+                        <l>Com o ai extremo lança dois raminhos,</l>
+                        <l>A chamar ainda por canções de ninhos</l>
+                        <l>E a dizer aos astros um adeos final!</l>
+                     </lg>
+                     <lg>
+                        <l>Tal o pastor santo, já de vez cahido,</l>
+                        <l>Já corcovadinho, flebil, quasi morto,</l>
+                        <l>Arrimado ao velho baculo torcido,</l>
+                        <l>Nada ouvindo, nada, com o duro ouvido,</l>
+                        <l>Vagamente olhando com o olhar absorto,</l>
+                     </lg>
+                     <lg>
+                        <l>Ia pelos montes na tristeza infinda</l>
+                        <l>D'um coração ermo, com a morte aceite,</l>
+                        <l>A pedir aos anjos para ouvir ainda</l>
+                        <l>Badalar ovelhas n'uma noite linda,</l>
+                        <l>Quando a lua os campos alagasse em leite!…</l>
+                     </lg>
+                     <lg>
+                        <l>Seu bisavô fora guardador de gado,</l>
+                        <l>Guardador de gado seu avô, seu pae;</l>
+                        <l>Creou filho e netos como foi creado,</l>
+                        <l>E morreu ditoso porque o seu cajado</l>
+                        <l>Seu rebanho ainda pastoreando vae!</l>
+                     </lg>
+                     <lg>
+                        <l>Candido, na paz das solidões dormentes,</l>
+                        <l>Ignorando o mundo rancoroso e vil</l>
+                        <l>Aos cem anos inda, com a fé dos crentes,</l>
+                        <l>Punha olhos claros, simples, inocentes,</l>
+                        <l>Na estrellinha d'alva das manhãs d'Abril!</l>
+                     </lg>
+                     <lg>
+                        <l>Levará no esquife para os ceos a palma</l>
+                        <l>Da grandeza mansa, da virtude austera.</l>
+                        <l>Realisou no mundo a perfeição da Alma:</l>
+                        <l>Porque foi bondoso como a lua é calma,</l>
+                        <l>Porque foi um santo sem saber que o era!…</l>
+                     </lg>
+                     <lg>
+                        <l>Vós, ó semideuses do entremez da Gloria,</l>
+                        <l>Cesares, tiranos, capitães, heroes,</l>
+                        <l>Epicas figuras de imortal memoria,</l>
+                        <l>Que de serro em serro iluminaes a historia</l>
+                        <l>Como crepitantes, tragicos faroes,</l>
+                     </lg>
+                     <lg>
+                        <l>Na região do Imenso, no Infinito puro,</l>
+                        <l>Onde me deslumbra, como um sol, Jesus,</l>
+                        <l>Não sois mais que larvas a tremer no escuro,</l>
+                        <l>Que ninguem conhece, que eu em vão procuro</l>
+                        <l>Com meus olhos calmos n'esse mar de luz!</l>
+                     </lg>
+                     <lg>
+                        <l>E o pastor d'ovelhas, que comeu centeio,</l>
+                        <l>Que viveu nos montes, que dormiu nas grutas,</l>
+                        <l>Tão asselvajado, cabeludo e feio,</l>
+                        <l>Que dissereis quasi que esse monstro veio</l>
+                        <l>Da matriz da terra, como as pedras brutas,</l>
+                     </lg>
+                     <lg>
+                        <l>Já liberto agora da Ilusão do mundo</l>
+                        <l>Fez-se em anjo branco, inda outra vez pastor:</l>
+                        <l>Milhões d'astros seguem seu olhar jocundo,</l>
+                        <l>São rebanhos d'almas pelo azul profundo</l>
+                        <l>As ovelhas novas do Ti Zé-Senhor!…</l>
+                     </lg>
+                     <p rend="justify">90-91.</p>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>VII</label>
+               </head>
+               <div type="div3">
+                  <head>*O CAVADOR*</head>
+                  <div type="div4">
+                     <head>O CAVADOR</head>
+                     <lg>
+                        <l>Dezembro, noite, canta o galo…</l>
+                        <l>Rouco na treva canta o galo…</l>
+                        <l>—Oh, dor! oh, dor!—</l>
+                        <l>Aldeão não durmas!… Vae chamal-o,</l>
+                        <l>Miseria negra, vae chamal-o!…</l>
+                        <l>—Oh, dor! oh, dor!—</l>
+                        <l>Bate-lhe á porta, é teu vassalo,</l>
+                        <l>Que traga a enxada, é teu vassalo,</l>
+                        <l>Miseria negra, o cavador!</l>
+                     </lg>
+                     <lg>
+                        <l>O vento ulula… Tremem ninhos…</l>
+                        <l>Na noite aziaga tremem ninhos…</l>
+                        <l>—Oh, dor! oh, dor!—</l>
+                        <l>A neve cae, fria d'arminhos…</l>
+                        <l>Na escuridão, fria d'arminhos…</l>
+                        <l>—Oh, dor! oh, dor!—</l>
+                        <l>Passa maldito nos caminhos,</l>
+                        <l>D'enxada ao hombro nos caminhos,</l>
+                        <l>Fantasma negro, o cavador!</l>
+                     </lg>
+                     <lg>
+                        <l>Vem roxa a estrella d'alvorada…</l>
+                        <l>Vem morta a estrella d'alvorada…</l>
+                        <l>—Oh, dor! oh, dor!—</l>
+                        <l>Montanhas nuas sob a geada!…</l>
+                        <l>Hirtas, de bronze, sob a geada…</l>
+                        <l>—Oh, dor! oh, dor!—</l>
+                        <l>Torvo, inclinado sobre a enxada,</l>
+                        <l>Rasga as montanhas com a enxada.</l>
+                        <l>Fantasma negro, o cavador!</l>
+                     </lg>
+                     <lg>
+                        <l>Cavou, cavou desde que é dia…</l>
+                        <l>Cavou, cavou… Bateu meio dia…</l>
+                        <l>—Oh, dor! oh, dor!—</l>
+                        <l>De pé na encosta erma e bravia,</l>
+                        <l>Triste na encosta erma e bravia,</l>
+                        <l>—Oh, dor! oh, dor!—</l>
+                        <l>Largando a enxada, «Ave Maria!…»</l>
+                        <l>Resa em silencio… «Ave Maria!…»</l>
+                        <l>Fantasma negro, o cavador!</l>
+                     </lg>
+                     <lg>
+                        <l>Cavou, cavou na serra agreste,</l>
+                        <l>D'alva á noitinha em serra agreste…</l>
+                        <l>—Oh, dor! oh, dor!—</l>
+                        <l>E um caldo em premio tu lhe deste,</l>
+                        <l>Meu Deos!… seis filhos tu lhe deste…</l>
+                        <l>—Oh, dor! oh, dor!—</l>
+                        <l>Batem trindades… «Pae celeste!…</l>
+                        <l>Bemdito sejas, Pae celeste!…»</l>
+                        <l>Resa, fantasma, o cavador!</l>
+                     </lg>
+                     <lg>
+                        <l>Cavou cem montes… que é do trigo?!</l>
+                        <l>Gerou seis bocas… que é do trigo?!</l>
+                        <l>—Oh, dor! oh, dor!—</l>
+                        <l>Bateu a Fome ao seu postigo…</l>
+                        <l>Bateu a Morte ao seu postigo…</l>
+                        <l>—Oh, dor! oh, dor!—</l>
+                        <l>«Que a paz de Deos seja comigo!</l>
+                        <l>Que a paz de Deos seja comigo!…»</l>
+                        <l>Disse, expirando, o cavador!</l>
+                     </lg>
+                     <p rend="justify">Junho—91.</p>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>VIII</label>
+               </head>
+               <div type="div3">
+                  <head>*OS POBRESINHOS*</head>
+                  <div type="div4">
+                     <head>OS POBRESINHOS</head>
+                     <lg>
+                        <l>Pobres de pobres são pobresinhos,</l>
+                        <l>Almas sem lares, aves sem ninhos…</l>
+                     </lg>
+                     <lg>
+                        <l>Passam em bandos, em alcateias,</l>
+                        <l>Pelas herdades, pelas aldeias.</l>
+                     </lg>
+                     <lg>
+                        <l>É em Novembro, rugem procellas…</l>
+                        <l>Deos nos acuda, nos livre d'ellas!</l>
+                     </lg>
+                     <lg>
+                        <l>Vem por desertos, por estevaes,</l>
+                        <l>Mantas aos hombros, grandes bornaes.</l>
+                     </lg>
+                     <lg>
+                        <l>Como farrapos, coisas sombrias,</l>
+                        <l>Trapos levados nas ventanias…</l>
+                     </lg>
+                     <lg>
+                        <l>Filhos de Christo, filhos d'Adão,</l>
+                        <l>Buscam no mundo codeas de pão!</l>
+                     </lg>
+                     <lg>
+                        <l>Ha-os ceguinhos, em treva densa,</l>
+                        <l>D'olhos fechados desde nascença.</l>
+                     </lg>
+                     <lg>
+                        <l>Ha-os com f'ridas esburacadas,</l>
+                        <l>Roxas de lirios, já gangrenadas.</l>
+                     </lg>
+                     <lg>
+                        <l>Uns de voz rouca, grandes bordões,</l>
+                        <l>Quem sabe lá se serão ladrões!…</l>
+                     </lg>
+                     <lg>
+                        <l>Outros humildes, riso magoado,</l>
+                        <l>Lembram Jesus que ande disfarçado…</l>
+                     </lg>
+                     <lg>
+                        <l>Engeitadinhos, rotos, sem pão,</l>
+                        <l>Tremem maleitas d'olhos no chão…</l>
+                     </lg>
+                     <lg>
+                        <l>Campos e vinhas!… hortas com flores!…</l>
+                        <l>Ai, que ditosos os lavradores!</l>
+                     </lg>
+                     <lg>
+                        <l>Olha, fumegam tectos e lares…</l>
+                        <l>Fumo tão lindo!… branco, nos ares!…</l>
+                     </lg>
+                     <lg>
+                        <l>Batem ás portas, erguem-se as mães,</l>
+                        <l>Choram meninos, ladram os cães…</l>
+                     </lg>
+                     <lg>
+                        <l>Resam e cantam, levam a esmola,</l>
+                        <l>Vinho no bucho, pão na sacola.</l>
+                     </lg>
+                     <lg>
+                        <l>Fructa da horta, caldo ou toucinho,</l>
+                        <l>Dão sempre os pobres a um pobresinho.</l>
+                     </lg>
+                     <lg>
+                        <l>Um que tem chagas, velho, coitado,</l>
+                        <l>Quer ligaduras ou mel-rosado.</l>
+                     </lg>
+                     <lg>
+                        <l>Outro, promessa feita a Maria,</l>
+                        <l>Deitam-lhe azeite na almotolia.</l>
+                     </lg>
+                     <lg>
+                        <l>Pelos alpendres, pelos curraes,</l>
+                        <l>Dormem deitados como animaes.</l>
+                     </lg>
+                     <lg>
+                        <l>Em caravanas, em alcateias,</l>
+                        <l>Vão por herdades, vão por aldeias…</l>
+                     </lg>
+                     <lg>
+                        <l>Sabem cantigas, oraçõesinhas,</l>
+                        <l>Contos d'estrellas, reis e rainhas…</l>
+                     </lg>
+                     <lg>
+                        <l>Choram cantando, penam resando,</l>
+                        <l>Ai, só a morte sabe até quando!</l>
+                     </lg>
+                     <lg>
+                        <l>Mas no outro mundo Deos lhes prepara</l>
+                        <l>Leito o mais alvo, ceia a mais rara…</l>
+                     </lg>
+                     <lg>
+                        <l>Os pés doridos lh'os lavarão</l>
+                        <l>Santos e santas com devoção.</l>
+                     </lg>
+                     <lg>
+                        <l>Para laval-os, perfumaria</l>
+                        <l>Em gomil d'ouro, d'ouro a bacia.</l>
+                     </lg>
+                     <lg>
+                        <l>E embalsamados, transfigurados,</l>
+                        <l>Tunicas brancas, como em noivados,</l>
+                     </lg>
+                     <lg>
+                        <l>Viverão sempre na eterna luz,</l>
+                        <l>Pobres bemditos, amen, Jesus!…</l>
+                     </lg>
+                     <p rend="justify">Outubro—91</p>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>IX</label>
+               </head>
+               <div type="div3">
+                  <head>*CAMPO SANTO*</head>
+                  <div type="div4">
+                     <head>CAMPO SANTO</head>
+                     <lg>
+                        <l>Ai ao relento, ai ao relento, sonham cavadores!…</l>
+                        <l>Somno d'arminho… colxão de terra… lençol de flores!…</l>
+                     </lg>
+                     <lg>
+                        <l>Cahi dormentes,</l>
+                        <l>Cahi exanimes, trementes,</l>
+                        <l>Palidos silencios do luar dorido!</l>
+                        <l>Litanias fluidas do luar dorido!</l>
+                        <l>Misereres brancos do luar dorido!</l>
+                        <l>Balsamos, piedades, orações dolentes</l>
+                        <l>Do luar dorido!…</l>
+                     </lg>
+                     <lg>
+                        <l>Ai ao relento, ai ao relento sonham pegureiros!…</l>
+                        <l>Cama tão fresca!… cobertor branco, de jasmineiros…</l>
+                     </lg>
+                     <lg>
+                        <l>Cahi maviosas,</l>
+                        <l>Cahi somnambulas, piedosas,</l>
+                        <l>Concavas tristezas do luar magoado!</l>
+                        <l>Resonancias d'orgão do luar magoado!</l>
+                        <l>Extrema-unções profundas do luar magoado!</l>
+                        <l>Sincopes, oblivios, quietações chorosas</l>
+                        <l>Do luar magoado!…</l>
+                     </lg>
+                     <lg>
+                        <l>Ai ao relento, ai ao relento sonha a boeirinha!…</l>
+                        <l>Cama de violetas!… que lhe fez a Virgem, sua madrinha…</l>
+                     </lg>
+                     <lg>
+                        <l>Cahi radiantes,</l>
+                        <l>Angelisantes,</l>
+                        <l>Esfolhados lirios do luar divino!</l>
+                        <l>Musselina argentea do luar divino!</l>
+                        <l>Halitos de leite do luar divino!</l>
+                        <l>Perolas, opalas, beijos e diamantes</l>
+                        <l>Do luar divino!…</l>
+                     </lg>
+                     <lg>
+                        <l>Ai ao relento, ai ao relento as bisavós dormindo!…</l>
+                        <l>Cama de rosas, sobre-ceo d'astros!… que sonho lindo!…</l>
+                     </lg>
+                     <lg>
+                        <l>Cahi cantando,</l>
+                        <l>Cahi mas brando, muito brando,</l>
+                        <l>Misticas nevadas do luar de prata!</l>
+                        <l>Linho da candura do luar de prata!</l>
+                        <l>Angelus da ermida do luar de prata!</l>
+                        <l>Extasis boiando, sagrações ondeando</l>
+                        <l>No luar de prata!…</l>
+                     </lg>
+                     <lg>
+                        <l>Dormi, dormi!… que bellas camas!… ai, que bons lençoes!…</l>
+                        <l>Na travesseira, que bem que cheira! cantam roussinoes!…</l>
+                     </lg>
+                     <lg>
+                        <l>Dorme de costas, cavador, ao luar, ao luar de neve!…</l>
+                        <l>Ai, como a terra era pesada, e se fez leve, leve!…</l>
+                     </lg>
+                     <lg>
+                        <l>Dorme, pastor, ao luar de Junho, dorme sem cuidado!…</l>
+                        <l>Que anda a Senhora dos Montes-Ermos a guardar-te o gado…</l>
+                     </lg>
+                     <lg>
+                        <l>Durmam velhinhas! durmam creanças! durmam donzellas!</l>
+                        <l>Quando acordarem já tem os anjos á espera d'ellas…</l>
+                     </lg>
+                     <lg>
+                        <l>Ha-de acordar tudo lá nos ceos doirados…</l>
+                        <l>Ha-de haver banquetes, ha-de haver noivados…</l>
+                     </lg>
+                     <lg>
+                        <l>Põe a mesa a Virgem para os pobresinhos…</l>
+                        <l>Ai, que lindos fructos!… ai, que ricos vinhos!…</l>
+                     </lg>
+                     <lg>
+                        <l>Vinhos d'um vinhedo, fructos d'um pomar,</l>
+                        <l>Que no ceo os anjos regam com luar…</l>
+                     </lg>
+                     <lg>
+                        <l>Ordenhando ovelhas andam serafins,</l>
+                        <l>Cantarinhos d'oiro, leite de jasmins.</l>
+                     </lg>
+                     <lg>
+                        <l>Outros nas arribas crestam as colmeias,</l>
+                        <l>Grandes favos brancos como luas cheias.</l>
+                     </lg>
+                     <lg>
+                        <l>Ai, que bom almoço, feito n'um vergel,</l>
+                        <l>Pomos cor de aurora, leite, vinho e mel!…</l>
+                     </lg>
+                     <lg>
+                        <l>Para as avósinhas tem lá Deos bastantes</l>
+                        <l>Fusos d'esmeraldas, rocas de diamantes…</l>
+                     </lg>
+                     <lg>
+                        <l>Como vós, ó moças, lá no ceo casaes,</l>
+                        <l>Ellas darão teias para os enxovaes…</l>
+                     </lg>
+                     <lg>
+                        <l>Já no setestrello dançam nos terreiros,</l>
+                        <l>Tamboris e violas, frautas e pandeiros…</l>
+                     </lg>
+                     <lg>
+                        <l>Já lá vejo os noivos, com S. João á espera,</l>
+                        <l>N'uma ermida branca revestida d'hera…</l>
+                     </lg>
+                     <lg>
+                        <l>Ai, dormi, donzellas, ai dormi ao luar,</l>
+                        <l>Que no ceo com anjos vos ireis casar…</l>
+                     </lg>
+                     <lg>
+                        <l>Ai, dormi, creanças! que no azul divino</l>
+                        <l>Brincareis alegres com o Deos-menino…</l>
+                     </lg>
+                     <lg>
+                        <l>Partirá comvosco, porque é vosso irmão,</l>
+                        <l>A laranja,—o mundo, que lá tem na mão…</l>
+                     </lg>
+                     <lg>
+                        <l>Dormi, dormi, sem dor, sem penas…</l>
+                        <l>Dormi, dormi!…</l>
+                        <l>E em vossos leitos florescentes,</l>
+                        <l>De rosas brancas e assucenas,</l>
+                        <l>Caiam dormentes,</l>
+                        <l>Caiam exanimes, trementes,</l>
+                        <l>Graças do baptismo do luar alvissimo!</l>
+                        <l>Beijos do noivado do luar purissimo!</l>
+                        <l>Lagrimas da morte do luar tristissimo!</l>
+                        <l>Canticos d'exequias, orações dolentes</l>
+                        <l>Do luar santissimo!…</l>
+                     </lg>
+                     <p rend="justify">Abril—91.</p>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>*EPILOGO*</head>
+               <div type="div3">
+                  <head>REGRESSO AO LAR</head>
+                  <lg>
+                     <l>Ai, ha quantos anos que eu parti chorando</l>
+                     <l>D'este meu saudoso, carinhoso lar!…</l>
+                     <l>Foi ha vinte?… ha trinta?… Nem eu sei já quando!…</l>
+                     <l>Minha velha ama, que me estás fitando,</l>
+                     <l>Canta-me cantigas para me eu lembrar!…</l>
+                  </lg>
+                  <lg>
+                     <l>Dei a volta ao mundo, dei a volta á Vida…</l>
+                     <l>Só achei enganos, decepções, pesar…</l>
+                     <l>Oh! a ingenua alma tão desiludida!…</l>
+                     <l>Minha velha ama, com a voz dorida,</l>
+                     <l>Canta-me cantigas de me adormentar!…</l>
+                  </lg>
+                  <lg>
+                     <l>Trago d'amargura o coração desfeito…</l>
+                     <l>Vê que fundas maguas no embaciado olhar!</l>
+                     <l>Nunca eu sahira do meu ninho estreito!…</l>
+                     <l>Minha velha ama, que me déste o peito,</l>
+                     <l>Canta-me cantigas para me embalar!…</l>
+                  </lg>
+                  <lg>
+                     <l>Poz-me Deos outrora no frouxel do ninho</l>
+                     <l>Pedrarias d'astros, gemas de luar…</l>
+                     <l>Tudo me roubaram, vê, pelo caminho!…</l>
+                     <l>Minha velha ama, sou um pobresinho…</l>
+                     <l>Canta-me cantigas de fazer chorar!…</l>
+                  </lg>
+                  <lg>
+                     <l>Como antigamente, no regaço amado,</l>
+                     <l>(Venho morto, morto!…) deixa-me deitar!</l>
+                     <l>Ai, o teu menino como está mudado!</l>
+                     <l>Minha velha ama, como está mudado!</l>
+                     <l>Canta-lhe cantigas de dormir, sonhar!…</l>
+                  </lg>
+                  <lg>
+                     <l>Canta-me cantigas, manso, muito manso…</l>
+                     <l>Tristes, muito tristes, como á noite o mar…</l>
+                     <l>Canta-me cantigas para ver se alcanço</l>
+                     <l>Que a minh'alma durma, tenha paz, descanço,</l>
+                     <l>Quando a Morte, em breve, m'a vier buscar!…</l>
+                  </lg>
+                  <p rend="justify">90.</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>*NOTA*</head>
+               <div type="div3">
+                  <head>NOTA</head>
+                  <p rend="justify">É este o primeiro dos tres volumesinhos, que hão-de encerrar as minhas liricas ineditas. Os outros dois—<hi rend="italic">Flores de Ideal</hi>—e <hi rend="italic">Infinito</hi> (<hi rend="italic">Livro d'orações</hi>) virão a lume successivamente, com intervalos de mezes.</p>
+                  <p rend="justify">Duas palavras sobre os <hi rend="italic">Simples</hi>.</p>
+                  <p rend="justify">Precocemente chegado, pelo sofrimento, ao ocaso da vida, atravessei ha anos um periodo agudo, bem doloroso e triste, mas ao mesmo tempo salutar. Ante a morte proxima, n'uma anciedade inenarravel, senti-me electrisado, como por encanto, de energias subitas. O problema do <hi rend="italic">alem</hi>  (como agora se diz) impunha-se, dilacerante e devorador, á minha natureza inquieta de religioso e de metafisico. Mas o problema da <hi rend="italic">morte</hi>  é, no fundo, o problema da vida. Estudei, pensei, meditei. Li com sofreguidão milhares de paginas. Dias, noites, semanas, mezes, revolvi no cerebro escandecido todos os enigmas torturantes. Pedi á historia natural (unica historia verdadeira) o segredo intimo das coisas. Questionei a razão, ouvi a consciencia. Dei balanço a mim proprio. E consegui, ao cabo, o que desejava: ter da vida, ter do universo uma ideia metodica e definitiva. Qual? Não é este o momento de dizel-o, nem isso interessa seguramente.</p>
+                  <p rend="justify">A minha metafisica é para uso proprio. Não construi um sistema de filosofia humana. Tratei de responder apenas ás duvidas e curiosidades do meu espiríto. Não cheguei sequer a pontos de vista fundamentaes, muitissimo diversos dos que já tinha anteriormente. Mas o que era intuição tornou-se certeza, e o que era hipotese, mais ou menos sentimental e imaginaria, transformou-se n'um corpo de doutrina raciocinado e logico. Continuei pela mesma estrada; mas d'antes ia ás cegas e tateando, e agora d'olhos bem abertos e a passo firme e resoluto.</p>
+                  <p rend="justify">D'uma visão mais intima e profunda do universo germinaram em mim novas emoções, e portanto uma nova arte. O poeta renasceu e cresceu. Fecundo renascimento psicologico, e não apenas uma evoluçãosinha toda literaria, meramente verbal e de superficie.</p>
+                  <p rend="justify">No prefacio d'outro livro explanarei com vagar as conclusões ultimas do meu exame de consciencia, não pelo seu merito intrínseco, repito, mas como util comentario da minha obra poetica, de que ellas são verdadeiramente a alma essencial e geradora.</p>
+                  <p rend="justify">Apasiguada um pouco a dupla crise de angustia intelectual e padecimento fisico, esbocei e dei começo a este pequenino poema lirico d'<hi rend="italic">Os Simples</hi>.</p>
+                  <p rend="justify">Quiz mentalmente viver a vida singela e primitiva de boas e santas creaturas, que atravessam um mundo de miserias e de injustiças, de vicios e de crimes, de fomes e de tormentos, sem um olhar de maldição para a natureza, sem uma palavra de queixume para o destino. E então encarnei, por assim dizer, no pastor grandioso e asceta, na moleirinha octogenaria e sorridente, no cavador tragico, nos mendigos bíblicos, na mansidão dos bois arroteando os campos e nas lavarêdas d'oiro do castanheiro, aquecendo a velhice, alegrando a infancia, iluminando a choupana. E, depois d'uma existencia de sacrificio e de puresa, d'abnegação e de bondade, deitei esses ingenuos e pobres aldeões na terra misericordiosa e florida do campo-santo, pondo-lhes por cima das sepulturas rasas o ceo maravilhoso e candido, que em vida sonharam e desejaram.</p>
+                  <p rend="justify">É claro que essas figuras não são inteiramente reaes, da realidade estricta, efemera e tangivel. Criei-as, ou antes completei-as com a minha alma, com o meu proprio ideal.</p>
+                  <p rend="justify">Quem vir n'este livrinho somente o lado externo e literario, a forma, a paisagem, a pintura rustica, não o entendeu, nem o soube ler.</p>
+                  <p rend="justify">É muito mais uma auto-biographia psicologica que uma serie de quadros campestres e bucolicos.</p>
+                  <p rend="justify">A feição, por assim dizer, regional, do livro é, embora importante, subordinada e secundaria. A <hi rend="italic">Moleirinha</hi>  é mínhota. O <hi rend="italic">Prestito funebre</hi>  minhoto é. Mas coisa curiosa, o segundo canto—<hi rend="italic">In Pulvis</hi>  é já de todo transmontano. Inconscientemente, sem dar por tal, levei o castanheiro para a minha terra, e queimei-o no lar saudoso da minha meninice. Tambem eu me queria aquecer a elle, sentar-me ao pé da sua chama…</p>
+                  <p rend="justify">Engana-se quem entre <hi rend="italic">Os Simples</hi>  e a <hi rend="italic">Velhice do Padre Eterno</hi>  descobrir porventura contradições. Este lirismo é o reverso d'aquella satira. Aquella indignação é o comentario d'esta elegia. O christianismo dos <hi rend="italic">Simples</hi>  é o innocente e meigo christianismo popular, feito com a ignorancia absoluta do dogma e com a intuição humana dos Evangelhos. A exegese do povo, na sua rudeza nativa e embrionaria, é por vezes d'uma penetração sublime e reveladora.</p>
+                  <p rend="justify">As minhas antigas opiniões religiosas, em vez de se modificarem, acentuam-se cada vez mais. Redobra em mim, com um desenvolvimento progressivo de misticismo naturalista, a aversão e a hostilidade á egreja catolica, grosseira formula materialisada do transcendente e divino espirito de Jesus.</p>
+                  <p rend="justify">Em quanto á tecnica do poema, muitissimo havia que dizer, se esta nota não fosse escripta rapidamente, á ultima hora, com o impressor á espera.</p>
+                  <p rend="justify">A forma poetica encaminha-se á evolução final. Horisonte imenso. O pouco que fiz de novo, em tal sentido, não deve nada a ninguem. É meu, pertence-me.</p>
+                  <p rend="justify">E, de passagem, uma ligeira observação. Este livro, só hoje dado a publico, é d'ha muito conhecido entre homens de letras e poetas. E valha a verdade exerceu, aqui e alem, ainda inedito, uma certa influencia, que, embora leve, é inegavel e manifesta. Podia apontar, citar. Inutil. Desejo apenas estabelecer o facto, mais nada.</p>
+                  <p rend="justify">Concluindo: tentei uma obra d'arte, que fosse ao mesmo tempo absolutamente individual, ingenitamente portugueza e vasta e fundamentalmente humana. Alcancei-o? O tempo o dirá.</p>
+                  <p rend="justify">14 de Maio de 1892.</p>
+                  <div type="div4">
+                     <head>
+                        <hi rend="italic">G. J.</hi>
+                     </head>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>*INDICE*</head>
+               <lg>
+                  <l>PRELUDIO</l>
+                  <l>I—A Caminho</l>
+                  <l>II—De Volta</l>
+               </lg>
+               <div type="div3">
+                  <head>I—A MOLEIRINHA</head>
+                  <lg>
+                     <l>II—CADAVER</l>
+                     <l>I—Prestito funebre</l>
+                     <l>II—In Pulvis</l>
+                  </lg>
+                  <div type="div4">
+                     <head>III—EIRAS AO LUAR</head>
+                     <div type="div5">
+                        <head>IV—AS ERMIDAS</head>
+                     </div>
+                     <div type="div5">
+                        <head>V—CANÇÃO PERDIDA</head>
+                     </div>
+                     <div type="div5">
+                        <head>VI—O PASTOR</head>
+                     </div>
+                     <div type="div5">
+                        <head>VII—O CAVADOR</head>
+                     </div>
+                     <div type="div5">
+                        <head>VIII—OS POBRESINHOS</head>
+                     </div>
+                     <div type="div5">
+                        <head>IX—CAMPO SANTO</head>
+                        <lg>
+                           <l>EPILOGO</l>
+                           <l>Regresso ao lar</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>NOTA</head>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>ERRATA</head>
+               <p rend="justify">Passaram desapercebidos varios erros, principalmente ortograficos, de facil emenda para o leitor.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>PREÇOS DA TIRAGEM ESPECIAL</head>
+               <lg>
+                  <l>Exemplar unico em pergaminho 45$000</l>
+                  <l>Exemplares em papel Wathman 4$000</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">A 1.^a edição d'este livro, destinada a Portugal, pertence ao snr. Baptista Domingues, Vianna do Castello, a quem devem dirigir-se todas as requisições</hi>.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,1231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Au Pays du Mufle: Ballades et Quatorzains</title>
+            <author>Laurent Tailhade</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-01T20:06:33Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">odts/fr-odts/TailhadeLaurent-AuPaysDuMufle_BalladesEtQuatorzains_2020.epub.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Laurent Tailhade</name>
+               <date>2024-01-01T20:06:33Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Au Pays du Mufle: Ballades et Quatorzains</head>
+         <author>Laurent Tailhade</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">odts/fr-odts/TailhadeLaurent-AuPaysDuMufle_BalladesEtQuatorzains_2020.epub.odt</p>
+         <p>LAURENT TAILHADE</p>
+         <head>Au<lb/>Pays du Mufle</head>
+         <p>BALLADES ET QUATORZAINS</p>
+         <p>
+            <hi rend="italic">Préface d'Armand Silvestre</hi>
+         </p>
+         <p>PARIS<lb/>
+            <hi rend="bold">Chez Léon Vanier, éditeur</hi>
+            <lb/>19, QUAI SAINT-MICHEL, 19</p>
+         <p>1891</p>
+         <p>DU MÊME AUTEUR</p>
+         <p>
+            <hi rend="italic">Le Jardin des Rêves</hi>. 1 volume. Lemerre, 1880. (Épuisé.)</p>
+         <p>POUR PARAITRE INCESSAMMENT</p>
+         <p>
+            <hi rend="italic">Les Escarboucles</hi>. (Vers.)</p>
+         <p>
+            <hi rend="italic">Le Don des Larmes</hi>. (Vers.)</p>
+         <p>
+            <hi rend="italic">Le Péché</hi>. (Roman.)</p>
+         <p>
+            <hi rend="italic">Terre Latine</hi>. (Paysages.)</p>
+         <p>Il fut tiré du présent opuscule quatre cents exemplaires numérotés sur papier de Hollande, plus vingt-cinq exemplaires sur papier impérial du Japon, qui ne seront point mis dans le commerce.</p>
+         <p>Exemplaire n<hi rend="sup">o</hi>
+         </p>
+         <p>A mon ami André Cogné</p>
+         <p>L. T.</p>
+         <pb/>
+         <div type="div1">
+            <head>Au Pays du Mufle: Ballades et Quatorzains</head>
+            <pb/>
+            <div type="div2">
+               <head>PRÉFACE</head>
+               <p rend="justify">En écrivant ces lignes inutiles en tête d'un livre qui n'a pas besoin d'être recommandé aux lettrés, et auquel ne comprendront rien les ignorants et les imbéciles, je n'ai voulu que répondre au sentiment d'affection trop modeste qui me les demandait, que donner à Laurent Tailhade une preuve d'amitié constante, d'estime littéraire absolue. Le souffle me manque, d'ailleurs, pour suivre, dans leur vol, là où elles vont frapper même au travers de mes sympathies personnelles, les flèches de sa verve éperdument acérée, et je ne me donnerai pas le ridicule d'avoir un avis sur la forme poétique qu'il a menée, en grand artiste, à sa perfection.</p>
+               <p rend="justify">Les poètes d'une génération sont les plus malvenus à juger ceux de la génération qui les suit. A tout ce qui nous paraît démodé dans ceux qui nous ont précédés, nous pouvons deviner l'impression qu'ont de nous ceux qui nous suivent. C'est que la langue poétique n'est pas une terre égale dont chacun défriche, à son tour, un carré: c'est un fleuve dont le cours nous emporte et qui, d'un point à un autre, ne reflète ni les mêmes rives, ni le même ciel. Nous n'avons donc aucun élément pour apprécier, dans sa justesse, la vision de ceux qui y voguent en aval ou en amont de nous. D'un bout du siècle à l'autre, les poètes ne se peuvent pas plus comprendre que des gens ne parlant pas le même idiome.</p>
+               <p rend="justify">Nous qui avons fait des vers, nous sommes donc tenus à une extrême réserve vis-à-vis de ceux qui en font maintenant. Mais, si nous ne pouvons blâmer ce qui nous en échappe, ce qui tient à une évolution de la forme vers un progrès ou vers une décadence—qui oserait bien dire lequel des deux?—il nous faut largement, cordialement, fraternellement goûter le charme de tout ce qui nous y séduit. Dans Laurent Tailhade ce qui m'enchante, au delà de toute expression, c'est la musique et le parfum de latinité qui, dans les impressions les plus modernes, affirme en lui la race: musique et latinité de psaumes quelquefois, si vous voulez, mais dans lesquels Virgile se rencontre avec saint Grégoire. Il n'est pas d'écrivain vraiment français qui n'ait ce sang latin dans les veines, fait de paganisme et de liturgie. Tous ceux qui ne l'ont pas sont des barbares et rien de plus. Au même degré Villon et Théophile Gautier sont de la grande famille.</p>
+               <p rend="justify">Puisqu'il est convenu qu'on est toujours le fils de quelqu'un, ceux-là sont les aïeux que je vois à Laurent Tailhade et, comme en art surtout, le temps est une fiction, il est à la même distance, comme langue poétique, de l'un et de l'autre. De Gautier il a l'impeccabilité souveraine; de Villon l'emportement lyrique et l'abondance cadencée du verbe. Son vers passe du frémissement de la lyre au claquement du fouet. Mais le poète,—pour qu'il existe,—et celui-ci est un des plus vivants que je sache—est avant tout lui-même. L'originalité de Tailhade, pour qui ce volume sera un peu ce qu'est <hi rend="italic">les Châtiments</hi>  dans l'œuvre lyrique de Victor Hugo,—car, qu'il le veuille ou non, comme nous tous, il en procède,—c'est une acuité d'ironie qui ne me semble jamais avoir été atteinte avant lui. Si le grand Flaubert avait vécu, il eût appris par cœur ces <hi rend="italic">Quatorzains d'été</hi>, où Bouvard et Pécuchet sont plus cruellement déchirés de lanières que Matho lui-même à la dernière page de <hi rend="italic">Salammbô</hi>. Autant de quatorzains, autant de petits chefs-d'œuvre. S'il fallait faire un choix, parmi ces fleurs délicieusement empoisonnées de haine, c'est à <hi rend="italic">Sur champ d'or</hi>  que je donnerais le prix.</p>
+               <p rend="justify">Au point de vue de la pureté virginalement marmoréenne de la langue, de l'excellence du métier, du merveilleux sertissage des rimes,—car Laurent Tailhade est un incomparable joaillier,—les ballades qui précèdent les quatorzains sont parmi les plus parfaites que j'aie vues écrites, et dans le sentiment le plus raffiné d'un rythme essentiellement français. Elles sont d'ailleurs d'une gaieté également féroce avec le cinglement en plus, à l'oreille, des assonances répétées. Je n'en veux signaler aucune. Dans toutes le rire déchire la lèvre. On n'a jamais rien écrit de moins bon enfant. Autant de sang que de fiel, cependant, dans ces indignations, et il semble que, de ce stylet sans pitié qui déchire un peu à l'aventure peut-être, le poète se soit lui-même souvent égratigné.</p>
+               <p rend="justify">Qui pourrait dire, en effet, jusqu'où va l'ironie de Laurent Tailhade? Peut-être quelquefois jusqu'à la parodie d'une école qui s'enorgueillit justement de ce vrai et beau poète. Pourquoi pas, puisque, dans <hi rend="italic">Virgo fellatrix</hi>, lui-même s'est hautement raillé, imitant une de ces pièces d'inspiration catholique où se complaît souvent sa latinité dans les fumées d'encens que traverse une lumière de vitrail. On peut tout redouter de cet héroïque pince-sans-rire. Mais quel lettré sincère ne pardonnerait beaucoup à ce merveilleux artiste, à ce vrai poète de notre race, dont les vers solides et de pur métal, à la fois sonore et précieux, sonneront bien longtemps après que se seront éteintes les justes colères qu'ils auront soulevées.</p>
+               <p rend="justify">Armand Silvestre.</p>
+               <p rend="justify">28 Février 1891.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>DOUZE<lb/>BALLADES FAMILIÈRES<lb/>POUR<lb/>EXASPÉRER LE MUFLE</head>
+               <p rend="justify">Les Dieux s'en vont; plus que des hures.</p>
+               <p rend="justify">Jules Lafforgue.—<hi rend="italic">Imitation de Notre-Dame La Lune</hi>.</p>
+               <div type="div3">
+                  <head>BALLADE CASQUÉE<lb/>DE LA PARFAITE ADMONITION</head>
+                  <p rend="justify">Voici venir le Buffle, le Buffle des buffles, le Buffle. Lui seul est buffle et tous les autres ne sont que des bœufs. Voici venir le Buffle, le Buffle des buffles, le Buffle.</p>
+                  <lg>
+                     <l>Le verbe sesquipédalier,</l>
+                     <l>Le discours mitré, la faconde</l>
+                     <l>Navarroise du Chevalier,</l>
+                     <l>A Poissy comme dans Golconde,</l>
+                     <l>Essorillent le pleutre immonde.</l>
+                     <l>Mais, loin de tout bourgeois nigaud,</l>
+                     <l>Hurle ta palabre féconde:</l>
+                     <l>Sois grandiloque et bousingot.</l>
+                     <l>Bourget, ce fameux bachelier,</l>
+                     <l>Cultive, pour les gens du monde,</l>
+                     <l>Quelques navets en espalier.</l>
+                     <l>O Will! monsieur Dorchain t'émonde</l>
+                     <l>Et Paravey joue Esclarmonde;</l>
+                     <l>Qu'importe, fils! Baise Margot,</l>
+                     <l>Et dona Sol, et Rosemonde:</l>
+                     <l>Sois grandiloque et bousingot,</l>
+                     <l>Décris un geste singulier,</l>
+                     <l>Pousse un juron admirabonde.</l>
+                     <l>Voici venir le Timbalier!</l>
+                     <l>Qu'à Hugo Bouchardy réponde!</l>
+                     <l>Conquiers les Iles de la Sonde</l>
+                     <l>Et maint royaume visigoth</l>
+                     <l>Par ta durandal sans seconde:</l>
+                     <l>Sois grandiloque et bousingot.</l>
+                  </lg>
+                  <p rend="justify">ENVOI</p>
+                  <lg>
+                     <l>Prince, le seigle a son ergot</l>
+                     <l>Et des poux vivent sur l'aronde.</l>
+                     <l>Pécuchet tient la mappemonde:</l>
+                     <l>Sois grandiloque et bousingot.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>BALLADE<lb/>DE LA GÉNÉRATION ARTIFICIELLE</head>
+                  <p rend="justify">Méphistophélès.—Un homme! Et quel couple amoureux avez-vous donc enfermé dans la cheminée?</p>
+                  <p rend="justify">Wagner.—Dieu me garde! L'ancienne mode d'engendrer, nous l'avons reconnue pour une véritable plaisanterie.—… Nous tentons d'expérimenter judicieusement ce qu'on appelait les forces de la Nature; et ce qu'elle produisait jadis organisé, nous autres, nous le faisons cristalliser.</p>
+                  <lg>
+                     <l>Gœthe.—<hi rend="italic">Le second Faust</hi>.</l>
+                     <l>Wagner, chimiste qu'exténue</l>
+                     <l>Le grimoire du nécromant,</l>
+                     <l>Distille, au fond de sa cornue,</l>
+                     <l>La salamandre et l'excrément,</l>
+                     <l>Et le crapaud que, doctement,</l>
+                     <l>Assaisonne la verte oseille,</l>
+                     <l>Pour que soit clos, en un moment,</l>
+                     <l>L'homuncule dans la bouteille.</l>
+                     <l>Catarrheux, il étreint la Nue.</l>
+                     <l>Fi de la Belle-au-Bois-Dormant!</l>
+                     <l>Fi de la galloyse charnue,</l>
+                     <l>Du mignon et de la jument!</l>
+                     <l>Gaûtama! le renoncement</l>
+                     <l>Absolu que Ton Doigt conseille</l>
+                     <l>Préside à cet accouchement:</l>
+                     <l>L'homuncule dans la bouteille.</l>
+                     <l>Plus de vérole saugrenue!</l>
+                     <l>Plus d'argent-vif ou d'orpiment!</l>
+                     <l>Hélène, avec sa beauté nue,</l>
+                     <l>Intoxique le jeune Amant.</l>
+                     <l>… vous donc tout simplement,</l>
+                     <l>Au coin du feu, sous une treille;</l>
+                     <l>Puis décantez modestement</l>
+                     <l>L'homuncule dans la bouteille</l>
+                  </lg>
+                  <p rend="justify">ENVOI</p>
+                  <lg>
+                     <l>Fleur des gitons, Prince Charmant,</l>
+                     <l>Nonpareille est cette merveille</l>
+                     <l>Offerte à votre étonnement:</l>
+                     <l>L'homuncule dans la bouteille.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>BALLADE<lb/>TOUCHANT L'IGNOMINIE DE LA CLASSE MOYENNE</head>
+                  <lg>
+                     <l>Il faut compisser les bourgeois.</l>
+                     <l>Georges Fourest.</l>
+                     <l>Croutelevés et marmiteux</l>
+                     <l>De Nevers, de Chartre ou de Tulle,</l>
+                     <l>Spatalocinèdes piteux</l>
+                     <l>Couverts de gale et de pustule,</l>
+                     <l>Ce bourgeois qui récapitule,</l>
+                     <l>… Étant ladre mais folichon,—</l>
+                     <l>Le <hi rend="italic">quantum</hi> de votre sportule,</l>
+                     <l>C'est de la viande de cochon.</l>
+                     <l>Philistins gâteux, ce sont eux,</l>
+                     <l>Les miteux, que chacun gratule,</l>
+                     <l>Malgré leurs gestes comateux,</l>
+                     <l>Leur ventre et leurs doigts en spatule!</l>
+                     <l>Gazons ceci de quelque tulle:</l>
+                     <l>O Pétrone! faut un bouchon</l>
+                     <l>Quotidien dans leur fistule.</l>
+                     <l>C'est de la viande de cochon.</l>
+                     <l>Tous, notaires galipoteux,</l>
+                     <l>Monteurs de coups et de pendule,</l>
+                     <l>Dentistes, avoués quinteux,</l>
+                     <l>Tous, le jobard et l'incrédule,</l>
+                     <l>Violent, moyennant cédule</l>
+                     <l>Et tous, pour ne payer Fanchon,</l>
+                     <l>Citent les <hi rend="italic">Devoirs</hi> de Marc-Tulle:</l>
+                     <l>C'est de la viande de cochon.</l>
+                  </lg>
+                  <p rend="justify">ENVOI</p>
+                  <lg>
+                     <l>Roimez, le singe de Catulle,</l>
+                     <l>Paul Gébor et madame Chon,</l>
+                     <l>Nana-Saïb et sa mentule,</l>
+                     <l>C'est de la viande de cochon.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>BALLADE<lb/>SUR LA FÉROCITÉ D'ANDOUILLE</head>
+                  <p rend="justify">
+                     <hi rend="italic">Le Serpens qui tenta Ève estait andouillicque, ce non obstant est de luy inscript qu'il estait fin et cauteleux sus tous aultres animans. Aussi sont Andouilles.</hi>
+                  </p>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Pantagruel</hi>, livre IV, chap. XXXVIII.</l>
+                     <l>Loups-garous, stryges et harpie,</l>
+                     <l>D'aucuns ont un mufle camard;</l>
+                     <l>Chez d'autres le groin copie</l>
+                     <l>Estramaçon ou braquemard.</l>
+                     <l>Empouse, lion de Saint-Marc,</l>
+                     <l>Amphiptère jamais bredouille,</l>
+                     <l>Crocute aux pinces de homard,</l>
+                     <l>Qui plus est maupiteux? L'Andouille.</l>
+                     <l>Ogresse léchant sa roupie,</l>
+                     <l>Babeau vêtu de poulemart,</l>
+                     <l>Fane aux yeux clairs et malepie,</l>
+                     <l>Caciques de Gustave Aymard,</l>
+                     <l>Les Cauchemars goûtent comme art</l>
+                     <l>Extasié la bonne «douille».</l>
+                     <l>Mais, du brucolaque au jumart,</l>
+                     <l>Qui plus est maupiteux? L'Andouille.</l>
+                     <l>Chimère aux sables accroupie,</l>
+                     <l>Nains cagneux supputant le marc</l>
+                     <l>Du teston ou de la roupie;</l>
+                     <l>Voici, malgré Pline et Lamarck,</l>
+                     <l>Entre Suresnes et Clamart,</l>
+                     <l>Voici l'étrange niguedouille</l>
+                     <l>Frémine avec son galimard.</l>
+                     <l>Qui plus est maupiteux? L'Andouille.</l>
+                  </lg>
+                  <p rend="justify">ENVOI</p>
+                  <p rend="justify">Prince, banneret, jacquemart,</p>
+                  <p rend="justify">Ferlampier et coquefredouille,</p>
+                  <p rend="justify">Rifflandouillez sur le trimard.</p>
+                  <p rend="justify">Qui plus est maupiteux? L'Andouille.</p>
+               </div>
+               <div type="div3">
+                  <head>BALLADE A MES AMIS DE TOULOUSE<lb/>POUR LES REMETTRE EN GOUT DES FRIANDISES QU'ON Y SERT</head>
+                  <p rend="justify">Lorsqu'il arrivait que quelqu'un admirait la bonté de quelque viande en sa présence, il ne le pouvait souffrir…</p>
+                  <lg>
+                     <l>Jacqueline Périer.—<hi rend="italic">Vie de Pascal</hi>.</l>
+                     <l>Du Capitole à Saint-Aubin,</l>
+                     <l>La ville où Bonfils se gangrène</l>
+                     <l>Est accueillante pour l'aubain.</l>
+                     <l>Dans ses murs de briques, la raine</l>
+                     <l>Ranahilde, jadis fut reine.</l>
+                     <l>Mais les princes du tranchelard</l>
+                     <l>Brillent toujours en cette arène:</l>
+                     <l>On mange du veau chez Allard.</l>
+                     <l>Foin du <hi rend="italic">puchero</hi>  maugrabin,</l>
+                     <l>Des sterlets du Volga, du renne,</l>
+                     <l>De ces grouses qu'offre un larbin</l>
+                     <l>Et des tragopans de l'Ukraine.</l>
+                     <l>Raca sur l'huître de Marenne,</l>
+                     <l>Sur l'huître pareille au molard,</l>
+                     <l>Sur la banane et la migraine:</l>
+                     <l>On mange du veau chez Allard.</l>
+                     <l>Viennent le puceau coquebin</l>
+                     <l>Et la mérétrice foraine</l>
+                  </lg>
+                  <p rend="justify">(Ces gens ont-ils l'ordre du Bain?)</p>
+                  <lg>
+                     <l>Et Chérubin et sa marraine!</l>
+                     <l>Il sied que la jeunesse apprenne</l>
+                     <l>A conspuer Royer-Collard,</l>
+                     <l>Parmi les coupes de Suresne:</l>
+                     <l>On mange du veau chez Allard.</l>
+                  </lg>
+                  <p rend="justify">ENVOI</p>
+                  <lg>
+                     <l>Prince trop gavé de murène,</l>
+                     <l>Ce maître-queux sinistre a l'art</l>
+                     <l>Des ragoûts à l'huile de frêne:</l>
+                     <l>On mange du veau chez Allard.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>BALLADE<lb/>POUR SE CONJOUIR AVEC LE «PETIT CENTRE»</head>
+                  <p rend="justify">Tout renaît! Le commerce des bestiaux va reprendre.</p>
+                  <p rend="justify">Du <hi rend="italic">Petit Centre</hi>  de Limoges, le 7 décembre 1888.</p>
+                  <lg>
+                     <l>Tout renaît! Sur le tympanon,</l>
+                     <l>Sur l'ophicléide assassine,</l>
+                     <l>Sur la peau de zèbre ou d'ânon</l>
+                     <l>Et sur le hautbois qui dessine</l>
+                     <l>Maints phantasmes de bécassine,</l>
+                     <l>Hurlons—tel Pompignan Lefranc,</l>
+                     <l>Tel un butor dans sa piscine:</l>
+                     <l>Le commerce des veaux reprend.</l>
+                     <l>Palmes! Discours et gonfanon</l>
+                     <l>Tricolore! O la capucine</l>
+                     <l>Que porte au creux de son fanon</l>
+                     <l>La mairesse chère à Lucine!</l>
+                     <l>Elle est bovine, elle est porcine,</l>
+                     <l>Elle raffole du hareng.</l>
+                     <l>Son époux la nomme «Alphonsine!»</l>
+                     <l>Le commerce des veaux reprend.</l>
+                     <l>Babouiné comme guenon,</l>
+                     <l>Ce préfet chauve nous bassine.</l>
+                     <l>Il parle, je crois, de Zénon</l>
+                     <l>Et déclame un vers de Racine.</l>
+                     <l>Pour le guérir, quelle racine?</l>
+                     <l>Quel bézoard mal odorant?</l>
+                     <l>Dis-nous, Pasteur, quelle vaccine?</l>
+                     <l>Le commerce des veaux reprend.</l>
+                  </lg>
+                  <p rend="justify">ENVOI</p>
+                  <lg>
+                     <l>Prince, notre soulas est grand!</l>
+                     <l>Posez, devant claires fascines,</l>
+                     <l>Belles spatules vervécines:</l>
+                     <l>Le commerce des veaux reprend.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>BALLADE<lb/>SUR LE PROPOS D'IMMANENTE SYPHILIS</head>
+                  <p rend="justify">Toi, jeune homme, ne te désespère point: car tu as un ami dans le Vampire malgré ton opinion contraire. En comptant l'acarus sarcopte qui produit la gale, tu auras deux amis.</p>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Les Chants de Maldoror</hi>, chant I<hi rend="sup">er</hi>.</l>
+                     <l>Du noble avril musqué de lilas blancs</l>
+                     <l>Hardeaux paillards ne chôment la nuitée.</l>
+                     <l>Mâle braguette et robustes élans</l>
+                     <l>Gardent au bois pucelle amignottée.</l>
+                     <l>Jouvence étreint Mnazile à Galathée.</l>
+                     <l>Un doux combat pâme sur les coussins</l>
+                     <l>Ton flanc menu, Bérengère, et tes seins</l>
+                     <l>Jusques au temps que vendange soit meure.</l>
+                     <l>Or, en ces jours lugubres et malsains,</l>
+                     <l>Amour s'enfuit, mais Vérole demeure.</l>
+                     <l>L'embasicœte aux harnais trop collants</l>
+                     <l>Cherche, par les carrefours, sa pâtée,</l>
+                     <l>—Nourris, Vénus, les mornes icoglans!—</l>
+                     <l>Ce pendant que matrulle Dosithée</l>
+                     <l>Ouvre aux cafards la porte assermentée.</l>
+                     <l>Las! nonobstant baudruches et vaccins,</l>
+                     <l>Durable ennui croît des plaisirs succincts.</l>
+                     <l>Aux bords du Guadalquivir et de l'Eure,</l>
+                     <l>Il faut prendre conseil des médecins:</l>
+                     <l>Amour s'enfuit, mais Vérole demeure.</l>
+                     <l>Maint prurigo végète sur vos flancs,</l>
+                     <l>L'humeur peccante a votre chair gâtée,</l>
+                     <l>Jeune héros des entretiens brûlants!</l>
+                     <l>Que l'hydrargyre et l'iode en potée</l>
+                     <l>Lavent ce don cruel d'Épiméthée,</l>
+                     <l>Robé par lui chez les dieux assassins.</l>
+                     <l>Vivez encor pour tels joyeux larcins!</l>
+                     <l>Et Priapus vous gard' de la male heure.</l>
+                     <l>De Bableuska, des lopes, des roussins:</l>
+                     <l>Amour s'enfuit, mais Vérole demeure.</l>
+                  </lg>
+                  <p rend="justify">ENVOI</p>
+                  <lg>
+                     <l>Prince d'amour que fêtent les buccins,</l>
+                     <l>Imitez la continence des Saints,</l>
+                     <l>Mousse d'Or, et gravez la chantepleure</l>
+                     <l>De Valentine au trescheur de vos seings;</l>
+                     <l>Amour s'enfuit, mais Vérole demeure.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>BALLADE<lb/>DU MARCHAND D'ORVIÉTAN</head>
+                  <p rend="justify">Salutations pantaculaires d'une amitié où la communauté des études et l'identité des aspirations illuminent de sérénité les dévouements du cœur.</p>
+                  <p rend="justify">Joséphin Péladan au catéchumène Stanislas de Guaita (frère <hi rend="italic">Adelphe Mercurius</hi>  pour les initiés).</p>
+                  <lg>
+                     <l>Voici la rue et le plantain,</l>
+                     <l>Le jus de taupe et la merd'oie;</l>
+                     <l>Voici la graisse de putain,</l>
+                     <l>Le cloporte, le ver à soie</l>
+                     <l>Et le bol que Fagon emploie.</l>
+                     <l>Ci la Bête du Gévaudan,</l>
+                     <l>
+                        <hi rend="italic">Ecco</hi>  le fiel de la baudroie:</l>
+                     <l>Voici les pieds de Péladan!</l>
+                     <l>Reniflez un peu! Ni le thym,</l>
+                     <l>Ni la peau d'Espagne où se choie</l>
+                     <l>L'orgueil ducal d'un blanc tétin,</l>
+                     <l>Ni l'ambre, ni l'huile de foie</l>
+                     <l>Que l'Islande à Barrès envoie,</l>
+                     <l>Ni tes narcisses, Éridan,</l>
+                     <l>Au humer n'offrent tant de joie:</l>
+                     <l>Voici les pieds de Péladan.</l>
+                     <l>Quel charme ignoré du Bottin</l>
+                     <l>Envoûte l'amoureuse proie?</l>
+                     <l>Nébo l'a dit à Trissotin.</l>
+                     <l>Donc, lâchez un peu la courroie</l>
+                     <l>De votre bourse et que l'on m'oye:</l>
+                     <l>Pour que bachelette (à son dam!)</l>
+                     <l>Livre aux mages la petite oie,</l>
+                     <l>Voici les pieds de Péladan!</l>
+                  </lg>
+                  <p rend="justify">ENVOI</p>
+                  <lg>
+                     <l>Prince d'Elseneur ou de Troie,</l>
+                     <l>Fuyez l'œuvre d'Adolphe Adam</l>
+                     <l>Et ces baumes que je déploie:</l>
+                     <l>Voici les pieds de Péladan!</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>BALLADE<lb/>POUR S'ENQUÉRIR DU SIEUR ALBERT JOUNET</head>
+                  <p rend="justify">Monsieur Jhouney s'appelle Jounet. Mais quand il publia les Lys noirs, recueil de vers «ivres d'Elohim» et consternants de platitude, il crut devoir adopter cette orthographe cabalistique, la jugeant plus convenable pour un mage qui s'effare «devant l'obscurité où s'enveloppe Iod-Héva l'Inaccessible».</p>
+                  <lg>
+                     <l>
+                        <hi rend="italic">L'Ouvreuse</hi>, lettre XXX.</l>
+                     <l>D'où vient ce thaumaturge pour</l>
+                     <l>Les vieilles gaupes claudicantes?</l>
+                     <l>De Stockholm ou de Visapour,</l>
+                     <l>Ou de Nancy que tu fréquentes,</l>
+                     <l>Barrès aux lèvres éloquentes?</l>
+                     <l>Sort-il de Tarbe ou de Java?</l>
+                     <l>Place-t-il du vin, des toquantes,</l>
+                     <l>Jhouney pochard d'Iod-Héva?</l>
+                     <l>A-t-il, un soir de <hi rend="italic">Iom Kippour</hi>,</l>
+                     <l>Envoûté le bouc, ô Bacchantes?</l>
+                     <l>Et sous les gibets—<hi rend="italic">Alas poor</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">Yorick!</hi>—fané de vésicantes</l>
+                     <l>Aigremoines et des acanthes?</l>
+                     <l>Quel Brahmapoutra l'abreuva?</l>
+                     <l>Quels <hi rend="italic">lieb fraumilch</hi>? quels alicantes,</l>
+                     <l>Jhouney pochard d'Iod-Héva?</l>
+                     <l>Le gong, l'archiluth, le tambour</l>
+                     <l>Mugissent toutes fois et quantes</l>
+                     <l>G. Papus lui lit: <hi rend="italic">A rebours</hi>.</l>
+                     <l>Ceignez ses tempes coruscantes</l>
+                     <l>De fleurs, marquises et pacantes!</l>
+                     <l>Même, octroyez quelque linve à</l>
+                     <l>Ce bonze honni des cruscantes,</l>
+                     <l>Jhouney pochard d'Iod-Héva.</l>
+                  </lg>
+                  <p rend="justify">ENVOI</p>
+                  <lg>
+                     <l>Sar Nébo, puisque tu décantes</l>
+                     <l>L'escafignon cher à Çiva,</l>
+                     <l>Dégrise en ces odeurs piquantes</l>
+                     <l>Jhouney pochard d'Iod-Héva.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>BALLADE DES BALLADES</head>
+                  <lg>
+                     <l>Tous les almanachs portent les marques de sa muse.</l>
+                     <l>Rivarol.</l>
+                     <l>Tel Macrobe, ce doux gaga</l>
+                     <l>Déjà trop mûr pour Proserpine,</l>
+                     <l>Tel Nana-Saïb qu'élagua</l>
+                     <l>La béate chauve et rupine,</l>
+                     <l>Tancrède, Marseillais, opine</l>
+                     <l>Et propage ce rythme qu'on</l>
+                     <l>Engrosse comme une lapine:</l>
+                     <l>Tancrède Machin est un sot.</l>
+                     <l>La Ballade! A cieux! Quel zinc a</l>
+                     <l>Celui qui plante cette épine!</l>
+                     <l>Point n'est besoin de seringa,</l>
+                     <l>De violette cisalpine.</l>
+                     <l>Tancrède a la face poupine,</l>
+                     <l>Il estime l'amer Picon.</l>
+                     <l>La mouche fuit quand il jaspine:</l>
+                     <l>Tancrède Machin est un sot.</l>
+                     <l>Du fleuve Amazone au Volga,</l>
+                     <l>D'Asnière à l'Ile Philippine,</l>
+                     <l>Quel primate se distingua</l>
+                     <l>Plus que Tancrède en la rapine</l>
+                     <l>Oraculaire et turlupine?</l>
+                     <l>Que gardé soit-il du boucon,</l>
+                     <l>De l'arsenic, de l'atropine!</l>
+                     <l>Tancrède Machin est un sot.</l>
+                  </lg>
+                  <p rend="justify">ENVOI</p>
+                  <lg>
+                     <l>Prince, dont l'engeance vulpine</l>
+                     <l>Craint les dogues et le faucon,</l>
+                     <l>Besogne dru, mange et popine:</l>
+                     <l>Tancrède Machin est un sot.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>BALLADE CACORIME<lb/>DE L'HARMONIEUSE VICOMTESSE</head>
+                  <lg>
+                     <l>Cava solans ægrum testudine amorem.</l>
+                     <l>Au chant des luths et du kinnor</l>
+                     <l>Gabriel—tout en or—épelle,</l>
+                     <l>O combien soëve ténor!</l>
+                     <l>La séquence et l'hymne si belle.</l>
+                     <l>Tout près de lui, sur l'escabelle,</l>
+                     <l>Un marlou de chef démuni</l>
+                     <l>Répond <hi rend="italic">Amen</hi> tandis que bêle</l>
+                     <l>Madame veuve Pranzini.</l>
+                     <l>Quadragénaire mutine! Or</l>
+                     <l>Elle est vicomtesse et rappelle,</l>
+                     <l>Quant aux chloroses, G. Vanor.</l>
+                     <l>Comme figue mûre qu'on pèle,</l>
+                     <l>Comme raisin dans la coupe, elle</l>
+                     <l>Sécrète un mucus infini</l>
+                     <l>A l'odeur des pieds isabelle,</l>
+                     <l>Madame veuve Pranzini.</l>
+                     <l>Dans Bullier, où sont les Connor,</l>
+                     <l>Aux Gobelins, à la Chapelle</l>
+                     <l>Ses yeux trouvent le kohinor,</l>
+                     <l>
+                        <hi rend="italic">Id est</hi>: rognon du tout imbelle,</l>
+                     <l>Pin d'Atys, mais avant Cybèle.</l>
+                     <l>Pour ce elle jute en maint garni,</l>
+                     <l>La très ci-devant colombelle:</l>
+                     <l>Madame veuve Pranzini.</l>
+                  </lg>
+                  <p rend="justify">ENVOI</p>
+                  <lg>
+                     <l>Prince, ton maître de chapelle</l>
+                     <l>Préfère Bach à Rossini.</l>
+                     <l>Mais, vers l'<hi rend="italic">Inflammatus</hi>, compelle</l>
+                     <l>Madame veuve Pranzini.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>BALLADE<lb/>CONFRATERNELLE POUR SERVIR A L'HISTOIRE DES LETTRES FRANÇAISES</head>
+                  <p rend="justify">Oh! les cochons! les cochons! les cochons!</p>
+                  <p rend="justify">S. M.</p>
+                  <lg>
+                     <l>Or sus, venez, gens de plume et de corde,</l>
+                     <l>Pauvres d'esprit, cacographes, soireux,</l>
+                     <l>Blavet, Meyer dont la tripe déborde,</l>
+                     <l>Champsaur égal aux Poitrassons affreux.</l>
+                     <l>Et Wolff l'eunuque, et Mermeix le lépreux.</l>
+                     <l>Montrez-vous sur les foules étonnées,</l>
+                     <l>Cabots, sagouins, lécheurs de périnées:</l>
+                     <l>
+                        <hi rend="italic">Attollite portas!</hi>  Voici Daudet!</l>
+                     <l>Formez des chœurs et des panathénées!</l>
+                     <l>C'est Maizeroy qui torche le bidet.</l>
+                     <l>Toi qu'un dieu fit, en sa miséricorde,</l>
+                     <l>Imperméable au style, gros foireux</l>
+                     <l>Qui des duels aimes le seul exorde,</l>
+                     <l>Ajalbert! comme un fessier plantureux,</l>
+                     <l>Haut le cap! Marche à l'ombre de ces preux!</l>
+                     <l>Sous les fanons aux lances adornées,</l>
+                     <l>Albert Delpit louche des deux cornées,</l>
+                     <l>Et Jean Rameau, très innocent baudet,</l>
+                     <l>Clame des vers pour deux ou trois guinées.</l>
+                     <l>C'est Maizeroy qui torche le bidet.</l>
+                     <l>Monsieur Papus, qu'il ne faut pas qu'on morde,</l>
+                     <l>Fait voir la lune aux pantes généreux.</l>
+                     <l>
+                        <hi rend="italic">Ave</hi>, Drumont! Sous une chemise orde,</l>
+                     <l>Le Péladan et ses pieds butyreux.</l>
+                     <l>
+                        <hi rend="italic">Item</hi>  Sarcey (du genre macareux).</l>
+                     <l>Paul Alexis, en phrases peu tournées,</l>
+                     <l>Mène à Lesbos les gothons surannées.</l>
+                     <l>Noël! messieurs, Noël devant Cadet,</l>
+                     <l>Peptone des gastralgiques dînées.</l>
+                     <l>C'est Maizeroy qui torche le bidet.</l>
+                  </lg>
+                  <p rend="justify">ENVOI</p>
+                  <lg>
+                     <l>Prince fameux chez les momentanées,</l>
+                     <l>Soldat que son régiment éludait,</l>
+                     <l>Compilateur de cent macaronnées.</l>
+                     <l>Baron aussi, depuis quelques années,</l>
+                     <l>C'est Maizeroy qui torche le bidet.</l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>QUATORZAINS D'ÉTÉ</head>
+               <p rend="justify">Ce seront tous les jours nouvelles platitudes qui dégénéreront bientôt en habitudes.</p>
+               <lg>
+                  <l>Émile Augier.—<hi rend="italic">Gabrielle</hi>, acte IV, scène XVIII.</l>
+               </lg>
+               <lg>
+                  <l>Si tu veux, prenons un fiacre</l>
+                  <l>Vert comme un chant de hautbois.</l>
+                  <l>Nous ferons le simulacre</l>
+                  <l>Des gens urf qui vont au Bois.</l>
+                  <l>Les taillis sont pleins de sources</l>
+                  <l>Fraîches sous les parasols:</l>
+                  <l>Viens! nous risquerons aux courses</l>
+                  <l>Quelques pièces de cent sols.</l>
+                  <l>Allons-nous-en! L'ombre est douce,</l>
+                  <l>Le ciel est bleu; sur la mousse</l>
+                  <l>Polyte mâche du veau.</l>
+                  <l>Il convient que tu t'attiffes</l>
+                  <l>Pour humer, près des fortiffes,</l>
+                  <l>Les encens du renouveau.</l>
+               </lg>
+               <div type="div3">
+                  <head>DINER CHAMPÊTRE</head>
+                  <lg>
+                     <l>Entre les sièges où des garçons volontaires</l>
+                     <l>Entassent leurs chalands parmi les boulingrins,</l>
+                     <l>La famille Feyssard, avec des airs sereins,</l>
+                     <l>Discute longuement les tables solitaires.</l>
+                     <l>La demoiselle a mis un chapeau rouge vif</l>
+                     <l>Dont s'honore le bon faiseur de sa commune</l>
+                     <l>Et madame Feyssard—un peu hommasse et brune,</l>
+                     <l>Porte une robe loutre avec des reflets d'if.</l>
+                     <l>Enfin ils sont assis! Et le père commande</l>
+                     <l>Des écrevisses, du potage au lait d'amande,</l>
+                     <l>Toutes choses dont il rêvait depuis longtemps.</l>
+                     <l>Et, dans le ciel, couleur de turquoises fanées,</l>
+                     <l>Il voit les songes bleus qu'en ses esprits flottants</l>
+                     <l>A fait naître l'ampleur des truites saumonées.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>RUS</head>
+                  <lg>
+                     <l>Ce qui fait que l'ancien bandagiste renie</l>
+                     <l>Le comptoir dont le faste alléchait les passants,</l>
+                     <l>C'est son jardin d'Auteuil où, veufs de tout encens,</l>
+                     <l>Les zinnias ont l'air d'être en tôle vernie.</l>
+                     <l>C'est là qu'il vient—le soir—goûter l'air aromal</l>
+                     <l>Et, dans sa <hi rend="italic">rocking-chair</hi>, en veston de flanelle,</l>
+                     <l>Aspirer les senteurs qu'épanchent sur Grenelle</l>
+                     <l>Les fabriques de suif et de noir animal.</l>
+                     <l>Bien que libre-penseur et franc-maçon, il juge</l>
+                     <l>Le dieu propice qui lui donna ce refuge</l>
+                     <l>Où se meurt un cyprin emmy la pièce d'eau;</l>
+                     <l>Où, dans la tour mauresque aux lanternes chinoises,</l>
+                     <l>—Tout en lui préparant du sirop de framboises—</l>
+                     <l>Sa «Demoiselle» chante un couplet de Nadaud.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>BARCAROLLE</head>
+                  <lg>
+                     <l>Sur le petit bateau-mouche,</l>
+                     <l>Les bourgeois sont entassés,</l>
+                     <l>Avec les enfants qu'on mouche,</l>
+                     <l>Qu'on ne mouche pas assez.</l>
+                     <l>Combien qu'autour d'eux la Seine</l>
+                     <l>Regorge de chiens crevés,</l>
+                     <l>Ils jugent la brise saine</l>
+                     <l>Dans les Billancourts rêvés.</l>
+                     <l>Et mesdames leurs épouses,</l>
+                     <l>Plus laides que des empouses,</l>
+                     <l>Affirment qu'il fait grand chaud</l>
+                     <l>Et s'épaulent sans entraves</l>
+                     <l>A des Japonais—très graves</l>
+                     <l>Dans leurs complets de Godchau.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>HYDROTHÉRAPIE</head>
+                  <lg>
+                     <l>Le vieux monsieur, pour prendre une douche ascendante,</l>
+                     <l>A couronné son chef d'un casque d'hidalgo</l>
+                     <l>Qui, malgré sa bedaine ample et son lumbago,</l>
+                     <l>Lui donne un certain air de famille avec Dante.</l>
+                     <l>Ainsi ses membres gourds et sa vertèbre à point</l>
+                     <l>Traversent l'appareil des tuyaux et des lances,</l>
+                     <l>Tandis que des masseurs tout gonflés d'insolences</l>
+                     <l>Frottent au gant de crin son dos où l'acné point.</l>
+                     <l>Oh! l'eau froide! oh! la bonne et rare panacée</l>
+                     <l>Qui, seule, raffermit la charpente lassée</l>
+                     <l>Et le protoplasma des sénateurs pesants!</l>
+                     <l>Voici que, dans la rue, au sortir de sa douche,</l>
+                     <l>Le vieux monsieur qu'on sait un magistrat farouche</l>
+                     <l>Tient des propos grivois aux filles de douze ans.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>EN ISRAËL</head>
+                  <p rend="justify">20. <hi rend="italic">Non fecit taliter omni nationi.</hi>
+                  </p>
+                  <lg>
+                     <l>Psalm. CXLVII.</l>
+                     <l>La tribu Salomon du faubourg Saint-Antoine,</l>
+                     <l>Autour du père Lang, brocanteur vénéré,</l>
+                     <l>Canoniquement rompt l'azyme consacré</l>
+                     <l>Et biberonne à s'en crever le péritoine.</l>
+                     <l>Tous bien honnêtes: les Judith, pleines de foi,</l>
+                     <l>Dans un garni voisin sèchent les militaires</l>
+                     <l>Et leurs mâles, par les urinoirs solitaires,</l>
+                     <l>Sur des chrétiens paillards vengent l'antique loi.</l>
+                     <l>Or, ce soir, comme il est écrit au Lévitique,</l>
+                     <l>Ils ont bâfré l'agneau sans tache en la boutique</l>
+                     <l>Des «pons lorgnettes» et des clous désassortis.</l>
+                     <l>Et les ioutres au nez circonflexe, au teint puce,</l>
+                     <l>Avec les femmes, le bétail et les petits,</l>
+                     <l>Chantent le Sabaoth qui rogna leurs prépuces.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>QUARTIER LATIN</head>
+                  <lg>
+                     <l>Dans le bar où jamais le parfum des brévas</l>
+                     <l>Ne dissipa l'odeur de vomi qui la navre</l>
+                     <l>Triomphent les appas de la mère Cadavre</l>
+                     <l>Dont le nom est fameux jusque chez les Howas.</l>
+                     <l>Brune, elle fut jadis vantée entre les brunes,</l>
+                     <l>Tant que son souvenir au Vaux-Hall est resté.</l>
+                     <l>Et c'est toujours avec beaucoup de dignité</l>
+                     <l>Qu'elle rince le zinc et détaille les prunes.</l>
+                     <l>A ces causes, son cabaret s'emplit, le soir,</l>
+                     <l>De futurs avoués, trop heureux de surseoir</l>
+                     <l>Quelque temps à l'étude inepte des Digestes;</l>
+                     <l>Des Valaques, des riverains du fleuve Amour</l>
+                     <l>S'acoquinent avec des potards indigestes</l>
+                     <l>Qui s'y viennent former aux choses de l'amour.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>MUSÉE DU LOUVRE</head>
+                  <lg>
+                     <l>Cinq heures. Les gardiens en manteaux verts, joyeux</l>
+                     <l>De s'évader enfin d'au milieu des chefs-d'œuvre,</l>
+                     <l>Expulsent les bourgeois qu'ahurit la manœuvre,</l>
+                     <l>Et les rouges Yankees écarquillant leurs yeux.</l>
+                     <l>Ces voyageurs ont des waterproofs d'un gris jaune</l>
+                     <l>Avec des brodequins en allées en bateau;</l>
+                     <l>Devant Rubens, devant Rembrandt, devant Watteau,</l>
+                     <l>Ils s'arrêtent, pour consulter le <hi rend="italic">Guide Joanne</hi>.</l>
+                     <l>Mais l'antique pucelle au turban de vizir,</l>
+                     <l>Impassible, subit l'attouchement du groupe.</l>
+                     <l>Ses anglaises où des lichens viennent moisir</l>
+                     <l>Ondulent vers le sol; car, sur une soucoupe</l>
+                     <l>Elle se penche pour fignoler à loisir</l>
+                     <l>Les Noces de Cana qu'elle peint à la loupe.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>PLACE DES VICTOIRES</head>
+                  <lg>
+                     <l>Les femmes laides qui déchiffrent des sonates</l>
+                     <l>Sortent de chez Érard, le concert terminé</l>
+                     <l>Et, sur le trottoir gras, elles heurtent Phryné</l>
+                     <l>Offrant au plus offrant l'or de ses fausses nattes.</l>
+                     <l>Elles viennent d'ouïr Ladislas Talapoint,</l>
+                     <l>Pianiste hongrois que <hi rend="italic">le Figaro</hi> vante,</l>
+                     <l>Et, tout en se disant du mal de leur servante,</l>
+                     <l>Elles tranchent un cas douteux de contrepoint.</l>
+                     <l>Des messieurs résignés à qui la force manque</l>
+                     <l>Les suivent, approuvant de leur chef déjà mûr;</l>
+                     <l>Ils eussent préféré le moindre saltimbanque.</l>
+                     <l>Leur silhouette court, falotte, au ras d'un mur,</l>
+                     <l>Cependant que Louis, le vainqueur de Namur,</l>
+                     <l>S'assomme à regarder les portes de la Banque.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>A MARIER</head>
+                  <lg>
+                     <l>Est-ce une cangue, est-ce un carcan</l>
+                     <l>Qui lui tient le col de la sorte?</l>
+                     <l>Est-ce une peau de bête morte,</l>
+                     <l>Son collet de vague astrakan?</l>
+                     <l>Elle parut au monde quand</l>
+                     <l>Monsieur Chevreul sortait de page</l>
+                     <l>Et l'haleine qu'elle propage</l>
+                     <l>Mettrait en fuite le grand khan.</l>
+                     <l>Pour le magyare et le cacique,</l>
+                     <l>Elle teignit sa hure ainsi que</l>
+                     <l>L'or grisonnant de ses cheveux.</l>
+                     <l>Tels les maquignons, dans les foires,</l>
+                     <l>A force de vésicatoires,</l>
+                     <l>Maquillent un bidet morveux.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>CHORÈGE</head>
+                  <p rend="justify">A Monsieur Jean Rameau, littérateur français.</p>
+                  <p rend="justify">«La dernière fois que je le vis, ce fut, si je ne me trompe, chez une <hi rend="italic">comtesse</hi>  de la rue Saint-Honoré, et l'on raconte qu'une autre <hi rend="italic">comtesse</hi>  qui demeure dans les environs de la gare Saint-Lazare, et très suspecte de basbleuisme, hélas! le comptait parmi ses fidèles.»</p>
+                  <p rend="justify">Des œuvres complètes de M. Jean Rameau. Lettre à <hi rend="italic">l'Écho de Paris</hi>  du 10 mars 1891.</p>
+                  <lg>
+                     <l>Claudicator ayant découvert qu'il existe</l>
+                     <l>Des comtesses ailleurs qu'aux romans de Balzac,</l>
+                     <l>A chaussé des gants paille et revêtu le frac:</l>
+                     <l>On le prendrait, tant il est beau, pour un dentiste.</l>
+                     <l>Jadis potard, expert à triturer les bols,</l>
+                     <l>Il rêvait, dédaignant le nom d'apothicaire,</l>
+                     <l>A des in-folios connus d'Upsal au Caire.</l>
+                     <l>—Et ses dormirs furent hantés par les Kobolds.</l>
+                     <l>Maintenant, l'œil féroce et la bouche crispée,</l>
+                     <l>Il récite devant l'indulgence attroupée</l>
+                     <l>Des vieilles dames aux appas gélatineux:</l>
+                     <l>Et, surprenant effet des rimes qu'il accole,</l>
+                     <l>Nonobstant la rigueur des corsets et des nœuds,</l>
+                     <l>Sa voix fait tressaillir tous ces baquets de colle.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>SUR CHAMP D'OR</head>
+                  <lg>
+                     <l>Elle fait la victime et la petite épouse.</l>
+                     <l>Arthur Rimbaud. <hi rend="italic">Les Premières communions</hi>.</l>
+                     <l>Certes, monsieur Benoist approuve les gens qui</l>
+                     <l>Ont lu Voltaire et sont aux Jésuites adverses.</l>
+                     <l>Il pense. Il est idoine aux longues controverses,</l>
+                     <l>Il déprise le moine et le thériaki.</l>
+                     <l>Même il fut orateur d'une Loge Écossaise.</l>
+                     <l>Toutefois—car sa légitime croit en Dieu—</l>
+                     <l>La petite Benoist, voiles blancs, ruban bleu,</l>
+                     <l>Communia. Ça fait qu'on boit maint litre à seize.</l>
+                     <l>Chez le bistro, parmi les bancs empouacrés,</l>
+                     <l>Le billard somnolent et les garçons vautrés,</l>
+                     <l>Trône la pucelette aux gants de filoselle.</l>
+                     <l>Or Benoist qui s'émèche et tourne au calotin</l>
+                     <l>Montre quelque plaisir d'avoir vu, ce matin,</l>
+                     <l>L'hymen du Fils Unique et de sa «Demoiselle».</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>QUINZE CENTIMES</head>
+                  <lg>
+                     <l>L'œil vairon et le nez de pustules fleuri,</l>
+                     <l>Sous l'effrayant amas de son bonnet à coques,</l>
+                     <l>La buraliste, au seuil de l'odorant abri,</l>
+                     <l>Exhale sa douleur en mornes soliloques:</l>
+                     <l>—«Injuste sort! Devant cet Odéon banal.</l>
+                     <l>Me faudra-t-il, sans cesse, aux heures taciturnes,</l>
+                     <l>Offrir aux vieux messieurs des carrés de journal,</l>
+                     <l>O Casimir! tandis que sonnent tes cothurnes!</l>
+                     <l>Moi qui connus Ponsard et feu Scribe, ô regrets!</l>
+                     <l>Dois-je rincer l'amphore où le client s'épanche?</l>
+                     <l>Malpropres les bourgeois autant que des gorets!</l>
+                     <l>Et cuire ma boubouille au fond des lieux secrets</l>
+                     <l>Sans connaître jamais l'espoir d'un beau dimanche?</l>
+                     <l>«<hi rend="italic">Dieux! que ne suis-je assise à l'ombre des forêts!</hi>»</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>RUE DE LA CLEF</head>
+                  <lg>
+                     <l>Coco dit Tape-à-l'Œil, professeur de savate,</l>
+                     <l>Camelot et dompteur de caniches, ayant</l>
+                     <l>Sur quelque pante aussi lourdaud que flamboyant</l>
+                     <l>Prélevé le mouchoir, la bourse ou la cravate,</l>
+                     <l>Est dans les fers. Le désespoir règne parmi</l>
+                     <l>Tant d'épouses qu'il asservit à sa conquête</l>
+                     <l>Et ces «dames» du Chabannais font une quête</l>
+                     <l>Pour que soit d'un peu d'or son courage affermi.</l>
+                     <l>Mais, enclin aux repos que lui fait Pélagie,</l>
+                     <l>Le «petit homme» anémié se réfugie</l>
+                     <l>Près des conspirateurs dont brille cet endroit</l>
+                     <l>Et, fier de resucer les mégots qu'il impètre</l>
+                     <l>Chez les poètes et chez les docteurs en droit,</l>
+                     <l>Il savoure l'orgueil de voir des gens de lettres.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>INITIATION</head>
+                  <lg>
+                     <l>Pour Aristide Bruant.</l>
+                     <l>A Saint-Mandé.—Parmi les badauds hésitants,</l>
+                     <l>Le cornac loue avec pudeur sa marchandise,</l>
+                     <l>Une Vénus d'un poids énorme et, qu'on le dise!</l>
+                     <l>Montrée aux hommes seuls de plus de dix-huit ans.</l>
+                     <l>Des militaires, des loustics entre deux âges</l>
+                     <l>Pénètrent, soucieux du boniment complet,</l>
+                     <l>Sous la tente où, massive et fidèle aux usages,</l>
+                     <l>La dame, en tutu rose, exhibe son mollet.</l>
+                     <l>Seul, un potache ému de cette plasmature</l>
+                     <l>Gigantale, pour voir des pieds à la ceinture,</l>
+                     <l>Allonge un supplément dans le bassinet gras.</l>
+                     <l>Et tandis que, penaud, vers l'estrade il s'amène,</l>
+                     <l>D'un accent maternel et doux, le Phénomène</l>
+                     <l>Lui dit: «<hi rend="italic">Tu peux toucher, Monsieur, ça ne mord pas.</hi>»</l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>QUELQUES VARIATIONS<lb/>POUR<lb/>DÉPLAIRE A FORCE GENS</head>
+               <div type="div3">
+                  <head>COMPLAINTE EN FORME D'ÉLÉGIE<lb/>TOUCHANT L'ABSENCE DE MÉTAL PAR QUOI L'AUTEUR EST INCOMMODÉ</head>
+                  <lg>
+                     <l>Je suis nu comme un sans chemise</l>
+                     <l>Qui n'aurait pas de suspensoir,</l>
+                     <l>Hélas! et je manque de mise</l>
+                     <l>Pour bloffer au <hi rend="italic">pocker</hi>, le soir.</l>
+                     <l>Les demoiselles incongrues</l>
+                     <l>Qui, dans l'espoir de faire un vieux,</l>
+                     <l>Stationnent au coin des rues,</l>
+                     <l>Sur moi ne jettent plus les yeux.</l>
+                     <l>Pour moi, le veau mue en squelette</l>
+                     <l>Et les gargotiers irrités</l>
+                     <l>Enguirlandent sa côtelette</l>
+                     <l>D'un cresson d'incivilités.</l>
+                     <l>Ces bordeaux auxquels tu veux croire,</l>
+                     <l>Explorateur des tours Eiffel,</l>
+                     <l>N'abreuvent plus ma triste poire;</l>
+                     <l>Vichy me refuse du sel!</l>
+                     <l>Vous qui jamais ne vous privâtes</l>
+                     <l>Des luxes les plus onéreux,</l>
+                     <l>Qui buvez des copahivates</l>
+                     <l>Pour vos accidents amoureux;</l>
+                     <l>O philistins de toute robe,</l>
+                     <l>Économistes et cornards,</l>
+                     <l>Dites! quel océan dérobe</l>
+                     <l>Le clair lingot, parmi les nards?</l>
+                     <l>Où se cachent les effigies</l>
+                     <l>Qui, sur des écus variés,</l>
+                     <l>Constatent les pathologies</l>
+                     <l>Des potentats avariés?</l>
+                     <l>Où les Républiques augustes</l>
+                     <l>Mais à poils, inscrivant des lois</l>
+                     <l>Sur l'or des louis d'or, très justes</l>
+                     <l>Quand arrivent les fins de mois?</l>
+                     <l>Dis, le sais-tu, Clémence Isaure</l>
+                     <l>Dont les fleurs auraient eu le don</l>
+                     <l>De réjouir l'icthyosaure,</l>
+                     <l>D'estomaquer l'iguanodon?</l>
+                     <l>Et toi, Sarcey, bedaine vaste,</l>
+                     <l>Recteur de tous les odéons?</l>
+                     <l>Sarcey, ton Apollo dévaste</l>
+                     <l>L'âme des vieux accordéons.</l>
+                     <l>Le savez-vous, Ohnet, Lemaître,</l>
+                     <l>Toi, Jean Rameau, qui fais des vers</l>
+                     <l>Pentamètres dont chaque mètre</l>
+                     <l>Comme toi marche de travers?</l>
+                     <l>J'irai, fût-ce en Patagonie,</l>
+                     <l>Chercher ce <hi rend="italic">reingold</hi>, oui, j'irai</l>
+                     <l>Sur la grande mer infinie,</l>
+                     <l>Car mon crédit est délabré.</l>
+                     <l>Et je préfère vos zagaies,</l>
+                     <l>Anthropophages batailleurs,</l>
+                     <l>Aux réclamations peu gaies</l>
+                     <l>Des mastroquets et des tailleurs.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>INTIMITÉ</head>
+                  <lg>
+                     <l>«<hi rend="italic">Julia, a masturbationibus.</hi>»</l>
+                     <l>Inscription du <hi rend="italic">Columbarium</hi> d'Auguste.</l>
+                     <l>Or Marpha Bableuska trônait en robe verte.</l>
+                     <l>—C'était bien peu de temps après la découverte</l>
+                     <l>Du téléphone et des pastilles Géraudel.—</l>
+                     <l>La Marpha paraissait un sujet de bordel.</l>
+                     <l>Ce néanmoins, et faisant trêve à leurs tapages,</l>
+                     <l>Les pessimistes et les rimailleurs—quels pages!</l>
+                     <l>Ornaient ses vendredis tumultueusement.</l>
+                     <l>Et Marpha qui goûtait des monceaux d'agrément</l>
+                     <l>Popinait au «Bas-Rhin»—luxe cardinalice!</l>
+                     <l>Elle dormait sous des tapis de haute lice</l>
+                     <l>Et le michet—qu'il fût Falstaff ou bien Hotspur,</l>
+                     <l>Trouvait, sous sa toilette, un bidet d'argent pur.</l>
+                     <l>On la payait trois francs, jusques à quatre même.</l>
+                     <l>Pour un tel prix, Fanchon qui d'aventure m'aime</l>
+                     <l>Fréquenterait avec le plus obscène juif.</l>
+                     <l>Les bottes de la dame étaient pleines de suif</l>
+                     <l>Et le beurre inondait ses épinards.</l>
+                     <l>On dit que,</l>
+                     <l>Pour les reins affaiblis du magistrat sadique</l>
+                     <l>Et le contentement des chanoines pansus,</l>
+                     <l>Tels flagellants secrets par ses mains étaient sus.</l>
+                     <l>Le pianiste Saut-du-Toit, que chacun gifle,</l>
+                     <l>Pour l'amour d'elle eût assumé quelque mornifle,</l>
+                     <l>Nonobstant les garçons du café Roy; Baju,</l>
+                     <l>Le stupide Baju qui dit: «<hi rend="italic">Jé, Ji, Jo, Ju</hi>»,</l>
+                     <l>Cet Anatole (si Baju!) que l'on encense,</l>
+                     <l>Tripudiait, affolé de concupiscence</l>
+                     <l>Quand elle éructait sur un chaudron de Gaveau.</l>
+                     <l>C'est pourquoi j'écris l'<hi rend="italic">Art d'accommoder le Veau</hi>.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>STANCES<lb/>POUR LE NOUVEL AN</head>
+                  <lg>
+                     <l>La belle dame de Paris</l>
+                     <l>Trottine par le brouillard gris</l>
+                     <l>Du matin, à pas de souris.</l>
+                     <l>Son manchon de loutre ou d'hermine</l>
+                     <l>Sur son nez rose, elle chemine</l>
+                     <l>D'une façon leste et gamine.</l>
+                     <l>Le trottoir est un lac gelé</l>
+                     <l>Où son talon ensorcelé</l>
+                     <l>Semble un papillon sur le blé.</l>
+                     <l>Point d'atours ni de fanfreluches;</l>
+                     <l>Mais, pour braver les coqueluches,</l>
+                     <l>La gamme sombre des peluches.</l>
+                     <l>La voilette rouge, sur ses</l>
+                     <l>Cheveux d'avoine mal lissés,</l>
+                     <l>Met des tons de pourpre foncés.</l>
+                     <l>Les Clymènes et les Zerlines</l>
+                     <l>Sur les potiches zinzolines,</l>
+                     <l>Du même air croquent des pralines.</l>
+                     <l>La printanière blondeur</l>
+                     <l>De sa gorgerette a l'odeur</l>
+                     <l>Amène de l'<hi rend="italic">Iris-powder</hi>.</l>
+                     <l>Et son fin museau de belette</l>
+                     <l>Rit à souhait pour la palette</l>
+                     <l>De Fragonard ou de Willette.</l>
+                     <l>Depuis le Gymnase, où renaît</l>
+                     <l>Chaque soir monsieur George Ohnet,</l>
+                     <l>Jusqu'à Peters, on la connaît.</l>
+                     <l>Les hommes graves, par centaines,</l>
+                     <l>Gantent leurs plus belles mitaines</l>
+                     <l>Pour escorter ses pretantaines.</l>
+                     <l>Et, surgissant on ne sait d'où,</l>
+                     <l>Ce vieux coureur de guilledou,</l>
+                     <l>Le Soleil, vient baiser son cou.</l>
+                     <l>Or, cette dame qui s'avance</l>
+                     <l>Est celle qui, pour redevance,</l>
+                     <l>Nous apporte deuil ou chevance.</l>
+                     <l>Au gui l'an neuf! Le houx en fleur</l>
+                     <l>De Christmas à la Chandeleur</l>
+                     <l>S'épanouit, ensorceleur.</l>
+                     <l>Les rois des terres levantines</l>
+                     <l>Aux Porcherons chantent matines</l>
+                     <l>Et subornent les Valentines.</l>
+                     <l>La bûche flambe. Au gui l'an neuf!</l>
+                     <l>Tel un oisillon de son œuf,</l>
+                     <l>L'heure s'échappe. Trois! six! neuf!</l>
+                     <l>Douze! Et la flamme ranimée</l>
+                     <l>A travers la rose fumée,</l>
+                     <l>Exhale une âme parfumée.</l>
+                     <l>L'Espérance donne du cor</l>
+                     <l>Et, sur l'acier qui vibre encor,</l>
+                     <l>Fait tinter son cothurne d'or.</l>
+                     <l>O madame la jeune année,</l>
+                     <l>Par vous me soit encor donnée</l>
+                     <l>Une fleur de ma fleur fanée.</l>
+                     <l>Pour avoir repos et soulas,</l>
+                     <l>Faites germer en mon cœur las</l>
+                     <l>Le regain des premiers lilas.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>DEUX SONNETS<lb/>POUR ÊTRE DITS EN EXPECTANT «CLAUDICATOR»</head>
+                  <div type="div4">
+                     <head>
+                        <label>I</label>
+                        <lb/>LE LIMAÇON</head>
+                     <lg>
+                        <l>D'après l'illustre Chose.</l>
+                        <l>L'insénescence de l'humide argent accule</l>
+                        <l>La glauque vision des possibilités</l>
+                        <l>Où s'insurgent, par telles prases abrités,</l>
+                        <l>Les désirs verts de la benoîte renoncule.</l>
+                        <l>Morsure extasiant l'injurieux calcul,</l>
+                        <l>Voici l'or impollu des corolles athées</l>
+                        <l>Choir sans trêve! Néant des sphinges Galathées</l>
+                        <l>Et vers les nirvânas, ô Lyre! ton recul!</l>
+                        <l>La Mort est un vainqueur loyal et redoutable.</l>
+                        <l>Aux vénéneux festins où Claudius s'attable</l>
+                        <l>Un bolet nage en la saumure des bassins.</l>
+                        <l>Mais, tandis que l'abject amphictyon expire,</l>
+                        <l>Éclôt, nouvel orgueil de votre pourpre, ô Saints,</l>
+                        <l>Le lis ophélial orchestré pour Shakespeare.</l>
+                     </lg>
+                  </div>
+                  <div type="div4">
+                     <head>
+                        <label>II</label>
+                        <lb/>VIRGO FELLATRIX</head>
+                     <lg>
+                        <l>D'après Laurent Tailhade</l>
+                        <l>La chasuble des Apostoles,</l>
+                        <l>Dans le cristal incendié</l>
+                        <l>Flamboie. Un Cœur supplicié</l>
+                        <l>Attend, Vierge, que tu l'extolles.</l>
+                        <l>D'or fin, la Lune, sous ton pié.</l>
+                        <l>Aux accents des luths, des citoles,</l>
+                        <l>L'Ange, «ceint de saintes étoles»,</l>
+                        <l>Chante l'amour. <hi rend="italic">O filiæ!</hi>
+                        </l>
+                        <l>Canonique! Mystique! Unique!</l>
+                        <l>Hors du triptyque, ta tunique</l>
+                        <l>Verse l'âme des Paradis.</l>
+                        <l>Toi, la Pudibonde, sans nulle</l>
+                        <l>Macule, j'ouvre la lunule</l>
+                        <l>Des ostensoirs où tu splendis!</l>
+                     </lg>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>DISTIQUES MOUS</head>
+                  <lg>
+                     <l>La chauve-souris, à l'aile brune,</l>
+                     <l>Danse grotesquement sur la lune.</l>
+                     <l>Galope le lièvre. La rainette</l>
+                     <l>Verte pousse un mi de clarinette.</l>
+                     <l>Et, dans les fragrances du silence,</l>
+                     <l>La Nuit aux cheveux d'or se balance.</l>
+                  </lg>
+                  <lg>
+                     <l>Rousse, de balsames attifée</l>
+                     <l>L'abricotier bleu t'ait décoiffée!</l>
+                     <l>Ton ventre, le nénuphar obscène,</l>
+                     <l>A pipé ma chair comme une seine:</l>
+                     <l>Et je chois sur le gazon des sentes:</l>
+                     <l>O les défaillances lactescentes!</l>
+                  </lg>
+                  <lg>
+                     <l>Le cheiroptère à l'aile indécise</l>
+                     <l>Fuit la nue où Sélène est assise.</l>
+                     <l>Dormir, le lièvre. En des champs d'ivraie,</l>
+                     <l>Lamentent la sorcière et l'orfraie.</l>
+                     <l>Moi—tout seul—comme l'onocrotale,</l>
+                     <l>M'imbibe l'extase digitale.</l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>PARABASE SYMBOLIQUE<lb/>DANS LA MANIÈRE DES PLUS ACCRÉDITÉS RIMEURS DE CE TEMPS-CI</head>
+               <lg>
+                  <l>Pour un exode gagaïque,</l>
+                  <l>Nous nous embarquerons en la</l>
+                  <l>Jonque de plate mosaïque,</l>
+                  <l>Sur l'étang vert du ton de la.</l>
+                  <l>Le trombone fauve, à coulisses,</l>
+                  <l>Pleure l'hymen du nénuphar</l>
+                  <l>Et les délices des lis lisses.</l>
+                  <l>Innocence, ô le premier fard!</l>
+                  <l>La brique cède à la turquoise</l>
+                  <l>Dans l'occidentale splendeur:</l>
+                  <l>Tour chinoise! Rive narquoise!</l>
+                  <l>Mont Tai-chan noir de verdeur!</l>
+                  <l>La lune luit. Hors de sa cage,</l>
+                  <l>L'ibis (qu'on incrimine à tort)</l>
+                  <l>Fuit le sinistre marécage</l>
+                  <l>Hanté du noir bombinator.</l>
+                  <l>Et dans la vasque où la cuscute</l>
+                  <l>Mire ses pistils gracieux,</l>
+                  <l>Le croissant d'or fin répercute</l>
+                  <l>La courbe exquise de tes yeux.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>TABLE</head>
+               <p rend="justify">Préface</p>
+               <p rend="justify">7</p>
+               <p rend="justify">DOUZE BALLADES FAMILIÈRES<lb/>POUR EXASPÉRER LE MUFLE</p>
+               <p rend="justify">Ballade casquée de la parfaite admonition</p>
+               <p rend="justify">15</p>
+               <p rend="justify">Ballade de la génération artificielle</p>
+               <p rend="justify">17</p>
+               <p rend="justify">Ballade touchant l'ignominie de la classe moyenne</p>
+               <p rend="justify">19</p>
+               <p rend="justify">Ballade sur la férocité d'Andouille</p>
+               <p rend="justify">21</p>
+               <p rend="justify">Ballade à mes amis de Toulouse</p>
+               <p rend="justify">23</p>
+               <p rend="justify">Ballade pour se conjouir avec le <hi rend="italic">Petit Centre</hi>
+               </p>
+               <p rend="justify">25</p>
+               <p rend="justify">Ballade sur le propos d'immanente syphilis</p>
+               <p rend="justify">27</p>
+               <p rend="justify">Ballade du marchand d'orviétan</p>
+               <p rend="justify">29</p>
+               <p rend="justify">Ballade pour s'enquérir du sieur Albert Jounet</p>
+               <p rend="justify">31</p>
+               <p rend="justify">Ballade des Ballades</p>
+               <p rend="justify">33</p>
+               <p rend="justify">Ballade cacorime de l'harmonieuse Vicomtesse</p>
+               <p rend="justify">35</p>
+               <p rend="justify">Ballade confraternelle pour servir à l'histoire des Lettres françaises</p>
+               <p rend="justify">37</p>
+               <p rend="justify">QUATORZAINS D'ÉTÉ</p>
+               <p rend="justify">
+                  <hi rend="italic">Si tu veux, prenons un fiacre</hi>
+               </p>
+               <p rend="justify">41</p>
+               <p rend="justify">Dîner champêtre</p>
+               <p rend="justify">43</p>
+               <p rend="justify">Rus</p>
+               <p rend="justify">45</p>
+               <p rend="justify">Barcarolle</p>
+               <p rend="justify">47</p>
+               <p rend="justify">Hydrothérapie</p>
+               <p rend="justify">49</p>
+               <p rend="justify">En Israël</p>
+               <p rend="justify">51</p>
+               <p rend="justify">Quartier latin</p>
+               <p rend="justify">53</p>
+               <p rend="justify">Musée du Louvre</p>
+               <p rend="justify">55</p>
+               <p rend="justify">Place des Victoires</p>
+               <p rend="justify">57</p>
+               <p rend="justify">A marier</p>
+               <p rend="justify">59</p>
+               <p rend="justify">Chorège</p>
+               <p rend="justify">61</p>
+               <p rend="justify">Sur champ d'or</p>
+               <p rend="justify">63</p>
+               <p rend="justify">Quinze centimes</p>
+               <p rend="justify">65</p>
+               <p rend="justify">Rue de la Clef</p>
+               <p rend="justify">67</p>
+               <p rend="justify">Initiation</p>
+               <p rend="justify">69</p>
+               <p rend="justify">QUELQUES VARIATIONS<lb/>POUR DÉPLAIRE A FORCE GENS</p>
+               <p rend="justify">Complainte en forme d'élégie</p>
+               <p rend="justify">73</p>
+               <p rend="justify">Intimité</p>
+               <p rend="justify">77</p>
+               <p rend="justify">Stances pour le nouvel an</p>
+               <p rend="justify">79</p>
+               <p rend="justify">Deux sonnets pour être dits en expectant <hi rend="italic">Claudicator</hi>:</p>
+               <p rend="justify"> </p>
+               <p rend="justify">1. Le limaçon</p>
+               <p rend="justify">83</p>
+               <p rend="justify">2. <hi rend="italic">Virgo fellatrix</hi>
+               </p>
+               <p rend="justify">85</p>
+               <p rend="justify">Distiques mous</p>
+               <p rend="justify">87</p>
+               <p rend="justify">PARABASE SYMBOLIQUE</p>
+               <p rend="justify">Dans la manière des plus accrédités rimeurs de ce temps-ci</p>
+               <p rend="justify">91</p>
+               <lg>
+                  <l>ACHEVÉ D'IMPRIMER</l>
+                  <l>SUR LES PRESSES</l>
+                  <l>DE</l>
+                  <l>L'IMPRIMERIE DE L'ART</l>
+                  <l>POUR</l>
+                  <l>Léon VANIER, éditeur</l>
+                  <l>10 AVRIL</l>
+                  <l>MDCCCXCI</l>
+               </lg>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

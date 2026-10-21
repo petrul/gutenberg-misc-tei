@@ -1,0 +1,1801 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Kleine deutsche Sprachlehre</title>
+            <author>Walter Steinert</author>
+            <author>Hermann Bohm</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-01T18:38:08Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">odts/de-odts/Bohm_Steinert-KleineDeutscheSprachlehre_2014.epub.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Walter Steinert; Hermann Bohm</name>
+               <date>2024-01-01T18:38:08Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Kleine deutsche Sprachlehre</head>
+         <author>Walter Steinert</author>
+         <author>Hermann Bohm</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">odts/de-odts/Bohm_Steinert-KleineDeutscheSprachlehre_2014.epub.odt</p>
+         <head>Kleine<lb/>deutsche Sprachlehre</head>
+         <p>
+            <hi rend="bold">von</hi>
+         </p>
+         <p>
+            <hi rend="bold">H. Bohm</hi>  und <hi rend="bold">W. Steinert</hi>.</p>
+         <p>
+            <hi rend="bold">Einunddreißigste Auflage.</hi>
+         </p>
+         <p>Preis 25 Pfge.</p>
+         <p>Berlin, 1879.</p>
+         <p>Verlag von Theodor Kampffmeyer</p>
+         <p>
+            <hi rend="bold">Friedrichstr. 52/53.</hi>
+         </p>
+         <p>(Zwischen Krausen- u. Schützenstr.)</p>
+         <pb/>
+         <div type="div1">
+            <head>Kleine deutsche Sprachlehre</head>
+            <pb/>
+            <div type="div2">
+               <head>Vorwort.</head>
+               <p rend="justify">Das vorliegende Heft giebt eine gedrängte Zusammenstellung Alles dessen, was der Schüler wissen muß, wenn er dahin gelangen soll, seiner Muttersprache in Rede und Schrift mächtig zu sein.</p>
+               <p rend="justify">Daß wir durch die befolgte Anordnung keinen Lehrgang geben wollten, ist leicht ersichtlich. Es lag uns aber daran, den zu verarbeitenden Stoff, in übersichtlicher Weise zusammengestellt, den Kindern in die Hände zu geben, um dem Lehrer dadurch das zeitraubende Dictiren abzunehmen. Wir dürfen kaum befürchten, in Betreff der Anwendung des Heftchens mißverstanden zu werden. Die einzelnen §§. enthalten das <hi rend="italic">in den Unterrichtsstunden gewonnene</hi>  Resultat und müssen Eigenthum des Schülers werden. — <hi rend="bold">Es soll aber ihr Inhalt, so wie überhaupt jede sprachliche Form, aus dem lebendigen Organismus der Sprache heraus entwickelt und nicht gegeben, der Unterricht also an das Lesebuch oder die Bildertafel </hi>
+                  <hi rend="bold">geknüpft werden.</hi>  In dieser Weise angewendet, soll das Heft dem Schüler bei Wiederholungen so wie zur Uebung und Befestigung in den Formen der Muttersprache dienlich sein. Was im Rechnen das Einmaleins ist, das sind in der Sprache die einzelnen Formen derselben; sie müssen dem Schüler ebenso geläufig sein wie jenes. Daher nach der <hi rend="italic">Erkenntniß</hi>
+                  <hi rend="bold">vielfache Uebung!</hi>
+               </p>
+               <p rend="justify">Obgleich wir der Ansicht sind, daß der Unterricht in der Orthographie mit dem ersten Leseunterricht beginnen und fortschreiten, und das Meiste durch das Auge erreicht werden müsse, so hielten wir es doch für nöthig, diejenigen Regeln aufzustellen, welche durchgreifend sind, und namentlich <hi rend="bold">den</hi>  Schülern von Nutzen sein werden, die einen zusammenhangenden Unterricht nicht haben genießen können.</p>
+               <p rend="justify">Die erste Veranlassung zur Herausgabe dieser Zusammenstellung ward uns durch die wissenschaftlichen Sitzungen des Geselligen Lehrer-Vereins.</p>
+               <p rend="justify">Indem wir für diese Anregung hiermit danken, erlauben wir uns zugleich, <hi rend="italic">Demselben</hi>  diese Arbeit zu geneigter Beurtheilung zu überreichen.</p>
+               <table rend="frame" xml:id="Table1">
+                  <row>
+                     <cell>
+                        <hi rend="italic">Berlin</hi>, den 30. April 1851.</cell>
+                     <cell rend="end">
+                        <hi rend="bold">D. V.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Vorwort<lb/>zur einunddreißigsten Auflage.</head>
+               <p rend="justify">Diese Auflage ist im Wesentlichen mit den vorangegangenen gleichlautend. Nur in betreff der Orthographie sind mit leiser Hand wiederum einige Aenderungen vorgenommen worden. So schwankend auch Einzelnes auf diesem Gebiete bereits geworden ist, und so dringend auch eine bestimmte Regelung erscheint, so darf doch in einer Sprachlehre für die Volksschule nur mit äußerster Vorsicht nach dieser Richtung hin vorgegangen werden. Neue Formen zu lehren, ist, — nach unserer Ansicht — der Volksschule erst dann gestattet, wenn dieselben in den meisten Volks Schul-Lesebüchern zu finden und von der Tagespresse aufgenommen worden sind.</p>
+               <p rend="justify">Außerdem ist der in früheren Auflagen auf der letzten Seite befindliche zu §§ 5 und 6 gehörende Zusatz über die Biegung der Hauptwörter an der richtigen Stelle auf Seite 7 eingefügt worden.</p>
+               <p rend="justify">
+                  <hi rend="italic">Berlin</hi>, im April 1879.</p>
+               <p rend="justify">
+                  <hi rend="bold">H. Bohm.</hi>
+               </p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Wortlehre.</head>
+               <p rend="justify">§. 1. Es giebt 10 Wörterklassen:</p>
+               <p rend="justify">1. Ge­schlechtsw.<lb/>Artikel.</p>
+               <p rend="justify">2. Hauptw.<lb/>Substantiv.</p>
+               <p rend="justify">3. Eigen­schaftsw.<lb/>Adjectiv.</p>
+               <p rend="justify">4. Zahlw.<lb/>Numerale.</p>
+               <p rend="justify">5. Fürw.<lb/>Pronomen.</p>
+               <p rend="justify">6. Ver­hältnißw.<lb/>Prä­position.</p>
+               <p rend="justify">7. Zeitw.<lb/>Verbum.</p>
+               <p rend="justify">8. Umstandsw.<lb/>Adverbium.</p>
+               <p rend="justify">9. Bindew.<lb/>Conjunction.</p>
+               <p rend="justify">10. Emp­findungsw.<lb/>Interjection.</p>
+               <div type="div3">
+                  <head>
+                     <label>I.</label>Geschlechtswörter.</head>
+                  <p rend="justify">§. 2. 1. Die <hi rend="italic">Geschlechtsw.</hi> kündigen die Wörter, zu denen sie gehören, als Hauptw. an, und sagen, welches Geschlecht dieselben haben.</p>
+                  <p rend="justify">2. Die <hi rend="italic">Geschlechtsw.</hi>  sind:</p>
+                  <table rend="frame" xml:id="Table2">
+                     <row>
+                        <cell> </cell>
+                        <cell rend="center">
+                           <hi rend="italic">männlich</hi>
+                        </cell>
+                        <cell rend="center">
+                           <hi rend="italic">weiblich</hi>
+                        </cell>
+                        <cell rend="center">
+                           <hi rend="italic">sächlich</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell rend="center">Masculinum</cell>
+                        <cell rend="center">Femininum</cell>
+                        <cell rend="center">Neutrum</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi rend="italic">bestimmte:</hi>
+                        </cell>
+                        <cell rend="center">der</cell>
+                        <cell rend="center">die</cell>
+                        <cell rend="center">das</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi rend="italic">unbestimmte:</hi>
+                        </cell>
+                        <cell rend="center">ein</cell>
+                        <cell rend="center">eine</cell>
+                        <cell rend="center">ein</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">3. Die <hi rend="italic">Geschlechtsw.</hi> werden nie betont und nur zu Anfange eines Satzes groß geschrieben; ihre Biegung siehe beim Hauptw.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>II.</label>Hauptwörter.</head>
+                  <p rend="justify">§. 3. 1. Die <hi rend="italic">Hauptw.</hi> sind Namen für <hi rend="italic">Gegenstände</hi>.</p>
+                  <p rend="justify">a. Man kann die Wörtchen <hi rend="italic">der</hi>, <hi rend="italic">die</hi>, <hi rend="italic">das</hi>  vor sie setzen.</p>
+                  <p rend="justify">b. Sie werden <hi rend="italic">groß geschrieben</hi>.</p>
+                  <p rend="justify">2. Die <hi rend="italic">Hauptw.</hi>  können sein:</p>
+                  <p rend="justify">a. Namen für <hi rend="italic">wirkliche</hi>  Gegenstände (Concreta — Wesennamen) z. B. für Personen, Thiere, Pflanzen, Steine, Städte, Dörfer, Berge, Flüsse, Geräthe, Kleider etc.</p>
+                  <p rend="justify">b. Namen für Gegenstände, die als <hi rend="italic">wirklich gedacht</hi>  werden (Abstracta — Begriffsnamen) z. B. die meisten Wörter auf: <hi rend="italic">heit</hi>, <hi rend="italic">keit</hi>, <hi rend="italic">ung</hi>, <hi rend="italic">thum</hi>, <hi rend="italic">muth</hi>  (<hi rend="italic">mut</hi>), <hi rend="italic">schaft</hi>, <hi rend="italic">niß</hi>  (<hi rend="italic">nis</hi>).</p>
+                  <p rend="justify">3. Die <hi rend="italic">Hauptw.</hi>  unter a. zerfallen in:</p>
+                  <p rend="justify">1. <hi rend="italic">Eigennamen</hi>  (Nomina propria): Marie, Karl, Berlin etc.<lb/>
+                  </p>
+                  <p rend="justify">2. <hi rend="italic">Gattungsnamen</hi>  (N. appellativa): Hund, Apfel, Zimmer etc.<lb/>
+                  </p>
+                  <p rend="justify">3. <hi rend="italic">Stoffnamen</hi>  (N. materialia): Milch, Wasser, Zucker, Blei etc.<lb/>
+                  </p>
+                  <p rend="justify">4. <hi rend="italic">Sammelnamen</hi>  (N. collectiva): Heer, Christenheit, Waldung.<lb/>
+                  </p>
+                  <p rend="justify">§. 4. 1. Die <hi rend="italic">Hauptw.</hi>  haben ein <hi rend="italic">dreifaches Geschlecht</hi>  (Genus):</p>
+                  <table rend="frame" xml:id="Table3">
+                     <row>
+                        <cell>
+                           <hi rend="italic">Männlich</hi>:</cell>
+                        <cell>der Mann</cell>
+                        <cell>ein Spiegel.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi rend="italic">Weiblich</hi>:</cell>
+                        <cell>die Frau</cell>
+                        <cell>eine Wand.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi rend="italic">Sächlich</hi>:</cell>
+                        <cell>das Kind</cell>
+                        <cell>ein Buch.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">Anm. <hi rend="italic">Doppeltes Geschlecht</hi> haben: Band, Bund, Erbe, Erkenntnis, Flur, Gehalt, Harz, Heide, Hut, Kiefer, Kunde, Leiter, Mast, Messer, Schild, See, Sprosse, Thor, Steuer etc.</p>
+                  <p rend="justify">2. Die <hi rend="italic">Hauptw.</hi>  können in <hi rend="italic">zweifacher</hi>  Zahl (Numerus) stehen: <hi rend="italic">Einzahl</hi>  (Singularis), <hi rend="italic">Mehrzahl</hi>  (Pluralis).</p>
+                  <table rend="frame" xml:id="Table4">
+                     <row>
+                        <cell>E.</cell>
+                        <cell>Fenster</cell>
+                        <cell>Hund</cell>
+                        <cell>Kleid</cell>
+                        <cell>Knabe</cell>
+                     </row>
+                     <row>
+                        <cell>M.</cell>
+                        <cell>Fenster</cell>
+                        <cell>Hund e</cell>
+                        <cell>Kleid e r</cell>
+                        <cell>Knab e n</cell>
+                     </row>
+                     <row>
+                        <cell>E.</cell>
+                        <cell>Bett</cell>
+                        <cell>Vater</cell>
+                        <cell>Wand</cell>
+                        <cell>Dach</cell>
+                     </row>
+                     <row>
+                        <cell>M.</cell>
+                        <cell>Bett e n</cell>
+                        <cell>Väter</cell>
+                        <cell>Wänd e</cell>
+                        <cell>Däch e r.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">Anm. Es haben:</p>
+                  <p rend="justify">1. <hi rend="italic">keine Einz.</hi>: Eltern, Ostern, Pfingsten, Weihnachten etc.</p>
+                  <p rend="justify">2. <hi rend="italic">keine Mehrz.</hi>: Gold, Silber, Blei, Milch, Mehl, Haß etc.</p>
+                  <p rend="justify">3. <hi rend="italic">doppelte Einz.</hi>: Friede — Frieden, Funke, Same, Buchstabe, Fels, Gedanke, Glaube, Haufe, Schade, Wille etc.</p>
+                  <p rend="justify">4. <hi rend="italic">Doppelte Mehrz.</hi>: Bande, Bänder; Bänke, Banken; Gesichte, Gesichter; Lichte, Lichter; Tuche, Tücher; Worte, Wörter etc.</p>
+                  <p rend="justify">3. Die <hi rend="italic">Hauptw.</hi>  können in der E. u. M. in <hi rend="italic">vier verschiedenen Fällen</hi>  (Casus) stehen: 1. F. = Nominativ, 2. F. = Genitiv, 3. F. = Dativ, 4. F. = Accusativ.</p>
+                  <p rend="justify">4. Die <hi rend="italic">Hauptw.</hi>  unterliegen einer <hi rend="italic">starken</hi>, <hi rend="italic">schwachen</hi>  und <hi rend="italic">gemischten Biegung</hi>  (Declination).</p>
+                  <p rend="justify">I. Starke Biegung.</p>
+                  <p rend="justify">§. 5. Die <hi rend="italic">Hauptw.</hi>  dieser Bieg. erhalten im 2. F. der E. s oder e s und im 1. F. der M. e oder e r. Sie lauten oft um. Die weibl. Wörter bleiben in der E. unverändert.</p>
+                  <table rend="frame" xml:id="Table5">
+                     <row>
+                        <cell>E.</cell>
+                        <cell>1. F wer?</cell>
+                        <cell>a.</cell>
+                        <cell>der Baum</cell>
+                        <cell>b.</cell>
+                        <cell>das Haus</cell>
+                        <cell>c.</cell>
+                        <cell>die Gans.</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>2. F. wessen?</cell>
+                        <cell> </cell>
+                        <cell>des Baum e s</cell>
+                        <cell> </cell>
+                        <cell>des Haus e s</cell>
+                        <cell> </cell>
+                        <cell>der Gans</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>3. F. wem?</cell>
+                        <cell> </cell>
+                        <cell>dem Baum e</cell>
+                        <cell> </cell>
+                        <cell>dem Haus e</cell>
+                        <cell> </cell>
+                        <cell>der Gans</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>4. F. wen?</cell>
+                        <cell> </cell>
+                        <cell>den Baum</cell>
+                        <cell> </cell>
+                        <cell>das Haus</cell>
+                        <cell> </cell>
+                        <cell>die Gans</cell>
+                     </row>
+                     <row>
+                        <cell>M.</cell>
+                        <cell>1. F. wer?</cell>
+                        <cell> </cell>
+                        <cell>die Bäum e</cell>
+                        <cell> </cell>
+                        <cell>die Häus e r</cell>
+                        <cell> </cell>
+                        <cell>die Gäns e</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>2. F. wessen?</cell>
+                        <cell> </cell>
+                        <cell>der Bäum e</cell>
+                        <cell> </cell>
+                        <cell>der Häus e r</cell>
+                        <cell> </cell>
+                        <cell>der Gäns e</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>3. F. wem?</cell>
+                        <cell> </cell>
+                        <cell>den Bäum e n</cell>
+                        <cell> </cell>
+                        <cell>den Häus e r n</cell>
+                        <cell> </cell>
+                        <cell>den Gäns e n</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>4. F. wen?</cell>
+                        <cell> </cell>
+                        <cell>die Bäum e</cell>
+                        <cell> </cell>
+                        <cell>die Häus e r</cell>
+                        <cell> </cell>
+                        <cell>die Gäns e</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">a. Hahn, Sohn, Werk, Kreuz; b. Schloß, Gras, Leib, Geist; c. Magd, Stadt, Heinrich, Ludwig.</p>
+                  <p rend="justify">Anm. Die männl. und sächl. Wörter auf <hi rend="bold">el</hi>  und <hi rend="bold">er</hi>  nehmen nur an: im 2. Fall der E. s und im 3. Fall der M. n. Z. B. Apfel, Mantel, Pudel, Räthsel, Müller, Vater, Bruder, Messer. Die weibl. Wörter auf <hi rend="bold">r</hi>  nehmen aber im 3. F. der M. <hi rend="bold">n</hi>  an: Mutter, Tochter.</p>
+                  <p rend="justify">§. 6. Die Hauptw. der <hi rend="italic">schwachen Biegung</hi>  bleiben entweder in der E. unverändert, oder nehmen im 2. und den übrigen F. der E. und M. n oder e n an. Hauptw. der <hi rend="italic">gemischten Biegung</hi>  gehen in der E. nach der starken, in der M. nach der schwachen Biegung.</p>
+                  <p rend="justify">II. Schwache Biegung.</p>
+                  <p rend="justify">III. Gem. Bieg.</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">1. F.</p>
+                  <p rend="justify">wer?</p>
+                  <p rend="justify">a.</p>
+                  <p rend="justify">ein</p>
+                  <p rend="justify">Held</p>
+                  <p rend="justify">b.</p>
+                  <p rend="justify">eine</p>
+                  <p rend="justify">Frau</p>
+                  <p rend="justify">c.</p>
+                  <p rend="justify">ein</p>
+                  <p rend="justify">Bett</p>
+                  <p rend="justify">2. F.</p>
+                  <p rend="justify">wessen?</p>
+                  <p rend="justify">eines</p>
+                  <p rend="justify">Held e n</p>
+                  <p rend="justify">einer</p>
+                  <p rend="justify">Frau</p>
+                  <p rend="justify">eines</p>
+                  <p rend="justify">Bett e s</p>
+                  <p rend="justify">3. F.</p>
+                  <p rend="justify">wem?</p>
+                  <p rend="justify">einem</p>
+                  <p rend="justify">Held e n</p>
+                  <p rend="justify">einer</p>
+                  <p rend="justify">Frau</p>
+                  <p rend="justify">einem</p>
+                  <p rend="justify">Bett e</p>
+                  <p rend="justify">4. F.</p>
+                  <p rend="justify">wen?</p>
+                  <p rend="justify">einen</p>
+                  <p rend="justify">Held e n</p>
+                  <p rend="justify">eine</p>
+                  <p rend="justify">Frau</p>
+                  <p rend="justify">ein</p>
+                  <p rend="justify">Bett</p>
+                  <p rend="justify">M.</p>
+                  <p rend="justify">1. F.</p>
+                  <p rend="justify">wer?</p>
+                  <p rend="justify">Held e n</p>
+                  <p rend="justify">Frau e n</p>
+                  <p rend="justify">Bett e n</p>
+                  <p rend="justify">Der 2., 3. u. 4. F. der M. sind mit dem ersten gleichlautend.</p>
+                  <p rend="justify">a. Herr, Hase, das Kleine. b. Schule, Person, Marie, Amalie. c. Ohr, See, Auge, Dorn, Ende, Gevatter, Hemde.</p>
+                  <p rend="justify">Anm. 1. Die Wörter auf <hi rend="bold">en</hi>, <hi rend="bold">chen</hi>, <hi rend="bold">lein</hi>  gehen nach der gem. Bieg. und nehmen demnach im 2. F. der E. s an, können dieses s aber nie in der M. behalten, also: des Mädchens, aber nicht: die Mädchens. <hi rend="italic">Herz</hi>  und <hi rend="italic">Schmerz</hi>  gehören auch hierher, jedoch hat Schmerz auch — Schmerzes.</p>
+                  <p rend="justify">Anm. 2. Die männl. Wörter auf <hi rend="bold">e</hi>  gehen nach der schw. B.; einzelne derselben, welche neben dem 1. F. auf <hi rend="bold">e</hi>  noch eine veraltete Form auf <hi rend="bold">en</hi>  haben, bilden den 2. F. der E. auf <hi rend="bold">ens</hi>. S. § 4, 2. 3.</p>
+                  <p rend="justify">Anm. 3. a. Die <hi rend="italic">männl. Eigennamen</hi>  biegen mit dem Geschlechtsw. wie die weibl. Hauptw. der st. B.; die <hi rend="italic">weibl.</hi>  dagegen wie die weibl. Hauptw. der schw. Bieg. — Stehen die Eigennamen <hi rend="italic">ohne</hi>  Geschlechtsw., so nehmen sie im 2. F. <hi rend="italic">s</hi>, <hi rend="bold italic">n</hi>
+                     <hi rend="italic">s</hi>  oder <hi rend="bold italic">en</hi>
+                     <hi rend="italic">s</hi>  und in den übrigen F. <hi rend="bold italic">n</hi>  oder <hi rend="bold italic">en</hi>  an. 1. F. Marie, 2. F. Mariens, 3. F. Marien, 4. F. Marien. — Fritz, Max, Hans; Ottilie, Emilie, Louise; Heinrichs, Berthas.</p>
+                  <p rend="justify">b. Folgen <hi rend="italic">mehrere Eigennamen</hi>  auf einander, so erhält nur der letzte die Fall-Endung. Christian Fürchtegott Gellerts Fabeln.</p>
+                  <p rend="justify">c. 1. F. Jesus Christus, 2. F. Jesu Christi, 3. F. Jesu Christo, 4. F. Jesum Christum.</p>
+                  <p rend="justify">Zusatz-Regel: <hi rend="italic">Schwach</hi>  biegen alle diejenigen Hauptwörter, die in der Mehrzahl ein „n“ oder „en“ annehmen; stark biegen die, welche in der M. kein „n“ oder „en“ erhalten: der Knabe — die Knabe<hi rend="bold">n</hi>, folglich <hi rend="italic">schwach</hi>, und daher der 2. Fall der Einzahl: „des Knaben“; aber: der Garten — die Gärten, folglich, weil kein „n“ hinzugekommen <hi rend="italic">stark</hi>  und deshalb der 2. Fall der Einz. „des Gartens.“</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>III.</label>Eigenschaftswörter.</head>
+                  <p rend="justify">§. 7. 1. <hi rend="italic">Eigenschaftsw.</hi> bezeichnen die Eigenschaften der Gegenstände. Sie bestimmen also das Hauptw. und stehen:</p>
+                  <p rend="justify">a) <hi rend="italic">beifügend</hi>  (attributiv) auf die Frage: Was für <hi rend="italic">ein</hi>, <hi rend="italic">eine</hi>, <hi rend="italic">ein</hi>? (Welcher, e, es?)</p>
+                  <p rend="justify">b) <hi rend="italic">aussagend</hi>  (prädicativ) auf die Frage: Wie ist der, die, das? Das <hi rend="italic">große</hi>  Haus. — Das Haus ist <hi rend="italic">groß</hi>.</p>
+                  <p rend="justify">2. Die <hi rend="italic">Eigenschaftsw.</hi>  endigen oft auf: <hi rend="italic">ig</hi>, <hi rend="italic">isch</hi>, <hi rend="italic">icht</hi>, <hi rend="italic">ern</hi>, <hi rend="italic">bar</hi>, <hi rend="italic">sam</hi>, <hi rend="italic">lich</hi>, <hi rend="italic">haft</hi>.</p>
+                  <p rend="justify">3. Die <hi rend="italic">Eigenschaftsw.</hi>  werden <hi rend="italic">klein geschrieben.</hi>  Bestimmen sie jedoch das Hauptw. nicht, sondern nehmen sie dasselbe in sich auf, so werden sie selbst zum Hauptw. und also auch groß geschrieben. Der <hi rend="italic">kranke</hi>  Mann ißt Suppe. — Der <hi rend="italic">Kranke</hi>  ißt Suppe.</p>
+                  <p rend="justify">4. Die <hi rend="italic">Eigenschaftsw.</hi>  stehen mit ihrem <hi rend="italic">Hauptw.</hi>  in <hi rend="italic">gleichem Geschlecht</hi>, <hi rend="italic">gleicher Zahl</hi>  und <hi rend="italic">gleichem Falle</hi>.</p>
+                  <p rend="justify">5. Die <hi rend="italic">Eigenschaftsw.</hi>  unterliegen einer <hi rend="italic">starken</hi>, <hi rend="italic">schwachen</hi>  und <hi rend="italic">gemischten Biegung</hi>.</p>
+                  <p rend="justify">§. 8. Steht das <hi rend="italic">Eigenschaftsw.</hi>  mit seinem Hauptw. <hi rend="italic">allein</hi>, so nimmt es die Endungen des <hi rend="italic">best. Geschlechtsw.</hi>  an und hat also:</p>
+                  <p rend="justify">I. Die starke Biegung.</p>
+                  <table rend="frame" xml:id="Table6">
+                     <row>
+                        <cell>E.</cell>
+                        <cell>1. F.</cell>
+                        <cell>gut e r Sohn</cell>
+                        <cell>schön e Beere</cell>
+                        <cell>klein e s Kind</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>2. F.</cell>
+                        <cell>gut e s Sohnes</cell>
+                        <cell>schön e r Beere</cell>
+                        <cell>klein e s Kindes</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>3. F.</cell>
+                        <cell>gut e m Sohne</cell>
+                        <cell>schön e r Beere</cell>
+                        <cell>klein e m Kinde</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>4. F.</cell>
+                        <cell>gut e n Sohn</cell>
+                        <cell>schön e Beere</cell>
+                        <cell>klein e s Kind</cell>
+                     </row>
+                     <row>
+                        <cell>M.</cell>
+                        <cell>1. F.</cell>
+                        <cell>gut e Söhne</cell>
+                        <cell>schön e Beeren</cell>
+                        <cell>klein e Kinder</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>2. F.</cell>
+                        <cell>gut e r Söhne</cell>
+                        <cell>schön e r Beeren</cell>
+                        <cell>klein e r Kinder</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>3. F.</cell>
+                        <cell>gut e n Söhnen</cell>
+                        <cell>schön e n Beeren</cell>
+                        <cell>klein e n Kindern</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>4. F.</cell>
+                        <cell>gut e Söhne</cell>
+                        <cell>schön e Beeren</cell>
+                        <cell>klein e Kinder</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">
+                     <hi rend="italic">Beisp.</hi> hoher Baum, großer Mann; feine Arbeit, zarte Hand; plattes Dach, blaues Auge.</p>
+                  <p rend="justify">§. 9. Tritt zu dem <hi rend="italic">Eigenschaftsw.</hi>  und <hi rend="italic">Hauptw.</hi>  noch ein <hi rend="italic">best. Geschlechtsw.</hi>, oder ein Für- oder Zahlwort, das wie das best. Geschlechtsw. biegt, so hat dasselbe:</p>
+                  <p rend="justify">II. Die schwache Biegung.</p>
+                  <table rend="frame" xml:id="Table7">
+                     <row>
+                        <cell>E.</cell>
+                        <cell>1. F.</cell>
+                        <cell>der gut e Sohn</cell>
+                        <cell>die schön e Beere</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>2. F.</cell>
+                        <cell>unseres gut e n Sohnes</cell>
+                        <cell>unserer schön e n Beere</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>3. F.</cell>
+                        <cell>diesem gut e n Sohne</cell>
+                        <cell>dieser schön e n Beere</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>4. F.</cell>
+                        <cell>jenen gut e n Sohn</cell>
+                        <cell>jene schön e Beere</cell>
+                     </row>
+                     <row>
+                        <cell>M.</cell>
+                        <cell>1. F.</cell>
+                        <cell>manche gut e n Söhne</cell>
+                        <cell>manche schön e n Beeren</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table8">
+                     <row>
+                        <cell rend="end">E.</cell>
+                        <cell>1. F.</cell>
+                        <cell>das klein e Kind</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>2. F.</cell>
+                        <cell>manches klein e n Kindes</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>3. F.</cell>
+                        <cell>diesem klein e n Kinde</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>4. F.</cell>
+                        <cell>jenes klein e Kind</cell>
+                     </row>
+                     <row>
+                        <cell rend="end">M.</cell>
+                        <cell>1. F.</cell>
+                        <cell>manche klein e n Kinder</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">§. 10. Tritt zu dem Eigenschaftsw. ein unbest. Geschlechtsw., oder ein Für- oder Zahlw., das wie <hi rend="italic">dies</hi> Geschlechtsw. biegt, so nimmt dasselbe im 1. F. des männlichen e r und im 1. und 4. F. des sächl. Geschl. e s an. In den übrigen Fällen geht es nach der schw. Biegung. Man hat dann:</p>
+                  <p rend="justify">III. Die gemischte Biegung.</p>
+                  <table rend="frame" xml:id="Table9">
+                     <row>
+                        <cell>E.</cell>
+                        <cell>1. F.</cell>
+                        <cell>ein gut e r Sohn</cell>
+                        <cell>kein baar e s Geld</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>2. F.</cell>
+                        <cell>eines gut e n Sohnes</cell>
+                        <cell>keines baar e n Geldes</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>3. F.</cell>
+                        <cell>einem gut e n Sohne</cell>
+                        <cell>keinem baar e n Gelde</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>4. F.</cell>
+                        <cell>einen gut e n Sohn</cell>
+                        <cell>kein baar e s Geld</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">Anm. 1. Stehen <hi rend="italic">zwei</hi> oder <hi rend="italic">mehrere Eigenschaftsw.</hi> ohne Geschlechtsw., Für- oder Zahlw. vor einem Hauptw., so biegen sie im 1. F. der E. u. M. wie das best. Geschlechtsw.; in den <hi rend="italic">übrigen</hi> F. biegt nur das erste in dieser Weise; die andern biegen schwach; 1. F. <hi rend="italic">guter, braver</hi> Mann; 2. F. <hi rend="italic">guten, braven</hi> Mannes; 3. F. <hi rend="italic">gutem, braven</hi> Manne; 4. F. <hi rend="italic">guten, braven</hi> Mann etc.</p>
+                  <p rend="justify">Anm. 2. Steht ein <hi rend="italic">Umstandsw.</hi>  vor einem <hi rend="italic">Eigenschaftsw.</hi>  so darf Ersteres nicht biegen. Man darf also nicht sagen: ein <hi rend="italic">ganzer braver</hi>  Mann, sondern ein <hi rend="italic">ganz braver</hi>  Mann.</p>
+                  <p rend="justify">§. 11. Die <hi rend="italic">Eigenschaftsw.</hi>  können <hi rend="italic">gesteigert</hi>  werden. Es giebt 3 <hi rend="italic">Stufen der Steigerung</hi>  (Gradbiegung — Comparation). 1. Stufe (Positiv), 2. Stufe (Comparativ), 3. Stufe (Superlativ).</p>
+                  <table rend="frame" xml:id="Table10">
+                     <row>
+                        <cell rend="center">1.</cell>
+                        <cell> </cell>
+                        <cell rend="center">2.</cell>
+                        <cell> </cell>
+                        <cell rend="center">3.</cell>
+                     </row>
+                     <row>
+                        <cell rend="center">schön</cell>
+                        <cell> </cell>
+                        <cell rend="center">schöner</cell>
+                        <cell> </cell>
+                        <cell rend="center">schönst — am schönsten</cell>
+                     </row>
+                     <row>
+                        <cell rend="center">nahe</cell>
+                        <cell> </cell>
+                        <cell rend="center">näher</cell>
+                        <cell> </cell>
+                        <cell rend="center">nächst — am nächsten</cell>
+                     </row>
+                     <row>
+                        <cell rend="center">hoch</cell>
+                        <cell> </cell>
+                        <cell rend="center">höher</cell>
+                        <cell> </cell>
+                        <cell rend="center">höchst — am höchsten</cell>
+                     </row>
+                     <row>
+                        <cell rend="center">viel</cell>
+                        <cell> </cell>
+                        <cell rend="center">mehr</cell>
+                        <cell> </cell>
+                        <cell rend="center">meist — am meisten</cell>
+                     </row>
+                     <row>
+                        <cell rend="center">gut</cell>
+                        <cell> </cell>
+                        <cell rend="center">besser</cell>
+                        <cell> </cell>
+                        <cell rend="center">best — am besten</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">
+                     <hi rend="italic">Beisp.</hi>: lang, niedrig, scharf, klug, stolz, faul, süß, kalt, warm, arm, stark, krumm, breit.</p>
+                  <p rend="justify">Anm. 1. Todt, mündlich, ganz, recht, bleiern, wahr, leer etc. haben keine Steigerung.</p>
+                  <p rend="justify">Anm. 2. Die 2. u. 3. Stufe biegen in derselben Weise wie die erste Stufe.</p>
+                  <p rend="justify">Anm. 3. Wie = 1. Stufe; als = 2. Stufe. Karl ist so schnell <hi rend="italic">wie</hi>  Fritz. Anton ist schneller <hi rend="italic">als</hi>  Julius.</p>
+                  <p rend="justify">Anm. 4. Oft wird die Steigerung durch die Wörter: äußerst, höchst, sehr, vorzüglich etc. ausgedrückt.</p>
+                  <p rend="justify">§. 12. Die <hi rend="italic">Eigenschaftsw.</hi>  erfordern oft bestimmte Fälle. Es haben:</p>
+                  <p rend="justify">1. Den 2. Fall:<lb/>ansichtig, bedürftig, beflissen, benöthigt, bewußt, eingedenk, fähig, froh, geständig, gewärtig, gewahr, gewiß, gewohnt, habhaft, kundig, ledig, los, mächtig, müde, satt, schuldig, sicher, theilhaftig, überdrüssig, verdächtig, verlustig, voll, werth, würdig.</p>
+                  <p rend="justify">Man wurde <hi rend="italic">des Verfolgten</hi>  nicht ansichtig. Der Arme ist <hi rend="italic">der Unterstützung</hi>  bedürftig. Bist <hi rend="italic">du deiner</hi>  Sache gewiß? Dies ist nicht <hi rend="italic">der Rede</hi>  werth. Sie ist <hi rend="italic">eines seltenen Glückes</hi>  theilhaftig geworden.</p>
+                  <p rend="justify">2. Den 4. Fall:<lb/>alt, breit, dick, groß, hoch, reich, lang, schwer, tief, werth — wenn ihnen die Angabe des Alters, Gewichtes, Preises etc. beigefügt wird.</p>
+                  <p rend="justify">Der Stein ist <hi rend="italic">einen</hi>  und <hi rend="italic">einen halben</hi>  Centner schwer.</p>
+                  <p rend="justify">3. Die übrigen Eigenschaftsw. haben entweder keinen oder in Verbindung mit den Hülfszeitw. <hi rend="italic">sein</hi>  oder <hi rend="italic">werden</hi>
+                  </p>
+                  <p rend="justify">den 3. Fall bei sich:<lb/>abtrünnig, abgeneigt, angenehm, anstößig, anständig, angeboren, ähnlich, ängstlich, ärgerlich, bange, behülflich, bedenklich, bewußt, bekannt, beschieden, beschwerlich, bequem, dienlich, dankbar, dunkel, eigen, einleuchtend, ekelhaft, empfindlich, ergeben, erlaubt, erinnerlich, erwünscht, fremd, gefällig, gefährlich, gehorsam, geläufig, gewogen, gewachsen, gleich, gut, heilsam, heiß, hold, klar, kostbar, lästig, lieb, nahe, nützlich, rathsam, schädlich, unausstehlich, unbegreiflich, überlegen, verantwortlich, verbindlich, verderblich, verhaßt, verwandt, werth, willkommen, zugethan.</p>
+                  <p rend="justify">Du bist <hi rend="italic">dem Vereine</hi>  abtrünnig geworden. — Ich bin <hi rend="italic">Deinem</hi>  Vorhaben nicht abgeneigt. — Dein Besuch ist <hi rend="italic">mir</hi>  angenehm.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>IV.</label>Zahlwörter.</head>
+                  <p rend="justify">§. 13. Die <hi rend="italic">Zahlw.</hi> zählen die Gegenstände. Sie sind:</p>
+                  <p rend="justify">A. <hi rend="italic">bestimmte</hi>  und zwar:</p>
+                  <p rend="justify">1. Namen für <hi rend="italic">Grundzahlen</hi>  (Cardinalia) auf die Frage: Wie viel? eins, vier, fünf, sechs, <hi rend="italic">funfzehn</hi>  (fünfzehn), <hi rend="italic">sechzehn</hi>  (sechszehn), <hi rend="italic">siebzehn</hi>  (siebenzehn), zwanzig, ein und zwanzig, dreißig, <hi rend="italic">funfzig</hi>  (fünfzig), <hi rend="italic">sechzig</hi>  (sechszig), <hi rend="italic">siebzig</hi>  (siebenzig), Hundert, Tausend, Million, Billion etc.</p>
+                  <p rend="justify">2. Namen für <hi rend="italic">Ordnungszahlen</hi>  (Ordinalia) auf die Frage: Der wie vielste? erste, zweite, dritte etc.</p>
+                  <p rend="justify">B. <hi rend="italic">unbestimmte</hi>  oder Namen für <hi rend="italic">allgemeine</hi>  Zahlen auf die Frage. Wie viel? keine, etliche, manche, wenige, einige, viele, mehrere, alle, etwas, genug, nichts etc.</p>
+                  <p rend="justify">1. Von den <hi rend="italic">Grundzahlw.</hi>  bildet man andere Zahlw. auf: <hi rend="italic">lei</hi>, <hi rend="italic">fach</hi>, <hi rend="italic">fältig</hi>, <hi rend="italic">mal</hi>; z. B. zweierlei, dreifach, hundertfältig, einmal etc.; von den <hi rend="italic">Ordnungszahlw.</hi>  auf: <hi rend="italic">halb</hi>, <hi rend="italic">tel</hi>, <hi rend="italic">ens</hi>; z. B. drittehalb, viertel, drittens etc.</p>
+                  <p rend="justify">2. Die <hi rend="italic">Zahlw.</hi>  werden <hi rend="italic">klein geschrieben</hi>. Bestimmen sie jedoch kein Hauptw., sondern nehmen sie dasselbe in sich auf, so werden sie selbst zum Hauptw. und also auch groß geschrieben.</p>
+                  <p rend="justify">Der Kutscher fährt mit <hi rend="italic">sechs</hi>  Pferden — der Kutscher fährt mit <hi rend="italic">Sechsen</hi>.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>V.</label>Fürwörter.</head>
+                  <p rend="justify">§. 14. Die <hi rend="italic">Fürw.</hi> stehen entweder für Namen von Gegenständen oder deuten auf dieselben hin. Sie können sein:</p>
+                  <p rend="justify">1. <hi rend="italic">Persönliche Fürw.</hi>  (Pronomina personalia):</p>
+                  <p rend="justify">1. Person.</p>
+                  <p rend="justify">2. Person.</p>
+                  <p rend="justify">3. Person.</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">1. F.</p>
+                  <p rend="justify">ich</p>
+                  <p rend="justify">du</p>
+                  <p rend="justify">M. er</p>
+                  <p rend="justify">W. sie</p>
+                  <p rend="justify">S. es</p>
+                  <p rend="justify">2. F.</p>
+                  <p rend="justify">meiner (mein)</p>
+                  <p rend="justify">deiner (dein)</p>
+                  <p rend="justify">seiner (sein)</p>
+                  <p rend="justify">ihrer</p>
+                  <p rend="justify">seiner (sein)</p>
+                  <p rend="justify">3. F.</p>
+                  <p rend="justify">mir</p>
+                  <p rend="justify">dir</p>
+                  <p rend="justify">ihm</p>
+                  <p rend="justify">ihr</p>
+                  <p rend="justify">ihm</p>
+                  <p rend="justify">4. F.</p>
+                  <p rend="justify">mich</p>
+                  <p rend="justify">dich</p>
+                  <p rend="justify">ihn</p>
+                  <p rend="justify">sie</p>
+                  <p rend="justify">es</p>
+                  <p rend="justify">M.</p>
+                  <p rend="justify">1. F.</p>
+                  <p rend="justify">wir</p>
+                  <p rend="justify">ihr</p>
+                  <p rend="justify">sie</p>
+                  <p rend="justify">sie</p>
+                  <p rend="justify">sie</p>
+                  <p rend="justify">2. F.</p>
+                  <p rend="justify">unser</p>
+                  <p rend="justify">euer</p>
+                  <p rend="justify">ihrer</p>
+                  <p rend="justify">ihrer</p>
+                  <p rend="justify">ihrer</p>
+                  <p rend="justify">3. F.</p>
+                  <p rend="justify">uns</p>
+                  <p rend="justify">euch</p>
+                  <p rend="justify">ihnen</p>
+                  <p rend="justify">ihnen</p>
+                  <p rend="justify">ihnen</p>
+                  <p rend="justify">4. F.</p>
+                  <p rend="justify">uns</p>
+                  <p rend="justify">euch</p>
+                  <p rend="justify">sie</p>
+                  <p rend="justify">sie</p>
+                  <p rend="justify">sie</p>
+                  <p rend="justify">Anm. 1. Für den 3. und 4. Fall der E. und M. der 3. Person steht oft „sich“.</p>
+                  <p rend="justify">Anm. 2. Die erste Person ist die <hi rend="italic">sprechende</hi>, die 2. die <hi rend="italic">angesprochene</hi>  und die 3. die <hi rend="italic">besprochene</hi>.</p>
+                  <p rend="justify">2. <hi rend="italic">Besitzanzeigende Fürw.</hi>  (Pron. possessiva): mein, dein, sein, unser, euer, ihr. <hi rend="italic">Sie biegen</hi>  wie die unbestimmten Geschlechtsw.</p>
+                  <p rend="justify">3. <hi rend="italic">Hinweisende Fürw.</hi>  (Pron. demonstrativa): dieser, e, es; jener, e, es, und das <hi rend="italic">betonte</hi>  der, die, das. Sie <hi rend="italic">biegen</hi>  wie die best. Geschlechtsw.</p>
+                  <p rend="justify">4. <hi rend="italic">Bestimmende</hi>  (vorbestimmende) <hi rend="italic">Fürw.</hi>  (Pron. determinativa): derselbe, dieselbe, dasselbe; derjenige, diejenige, dasjenige; solcher, e, es; der, die, das.</p>
+                  <p rend="justify">1. derselbe Mann, 2. desselben Mannes, 3. demselben Manne etc.<lb/>1. diejenige Frau, 2. derjenigen Frau, 3. derjenigen Frau etc.</p>
+                  <p rend="justify">§. 15. 5. <hi rend="italic">Zurückbeziehende Fürw.</hi>  (Pron. relativa): welcher, e, es; der, die, das; wer, was.</p>
+                  <p rend="justify">E. der, dessen, dem, den; die, deren, der, die; das, dessen, dem, das; M. die, deren, denen, die. — Ebenso biegt das bestimmende Fürw. „der, die, das“, nur, daß der 2. F. der M. <hi rend="italic">„derer“</hi>  heißt.</p>
+                  <p rend="justify">6. <hi rend="italic">Fragende Fürw.</hi>  (Pron. interrogativa): wer, was, was für ein, eine, ein? welcher, e, es?</p>
+                  <p rend="justify">E. wer, wessen (weß), wem, wen; was, wessen (weß), wem, was</p>
+                  <p rend="justify">7. <hi rend="italic">Allgem. (unbestimmte) Fürw.</hi>  (Pr. indefinita): man, jeder, jeglicher; selbst, selber; jemand, niemand, jedermann.</p>
+                  <p rend="justify">Anm. 1. Die 3 letzten Fürw. werden auch groß geschrieben; die übrigen nur, wenn sie hauptwörtlich gebraucht werden; das Meinige, das Deinige; das Mein, das Dein etc.</p>
+                  <p rend="justify">Anm. 2. Die persönl. und besitzanz. Fürw., die sich in Briefen auf die angesprochene Person beziehen, werden ebenfalls groß geschrieben. Bald werde ich bei <hi rend="italic">Dir</hi>  sein. In <hi rend="italic">Deinem</hi>  Hause möchte ich weilen. Lassen <hi rend="italic">Sie Sich</hi>  nicht abhalten!</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>VI.</label>Verhältnißwörter (Verhältniswörter).</head>
+                  <p rend="justify">§. 16. Die <hi rend="italic">Verhältnißw.</hi> zeigen an, wie sich Gegenstände zu Gegenständen verhalten. Sie erfordern bestimmte Fälle. Es haben:</p>
+                  <p rend="justify">Den 2. Fall:<lb/>unweit, mittelst, kraft und während, laut, vermöge, ungeachtet, oberhalb u. unterhalb, innerhalb u. außerhalb, diesseit, jenseit, halben (r), wegen, statt, anstatt, längs, zufolge, trotz, um — willen.</p>
+                  <p rend="justify">Anm. Bei <hi rend="italic">längs</hi>, <hi rend="italic">zufolge</hi>, <hi rend="italic">trotz</hi>  kann auch der 3. F. stehen. — Steht <hi rend="italic">zufolge</hi>  vor dem Hauptw., so hat es den 2. Fall; steht es hinter demselben, so hat es den 3. Fall. — <hi rend="italic">Halben</hi>  steht immer dem Hauptw. nach; <hi rend="italic">wegen</hi>  und <hi rend="italic">ungeachtet</hi>  stehen bald vor, bald nach dem Hauptw. — <hi rend="italic">Wegen</hi>, <hi rend="italic">halben</hi>, <hi rend="italic">um — willen</hi>  bilden: meinetwegen, deinetwegen, um seinetwillen etc. —</p>
+                  <p rend="justify">
+                     <hi rend="italic">Unweit</hi>  des Thurmes, <hi rend="italic">mittelst</hi>  der Säge, <hi rend="italic">kraft</hi>  des Amtes, <hi rend="italic">während</hi>  der Spiele, <hi rend="italic">laut</hi>  eines Vertrages, <hi rend="italic">vermöge</hi>  einer Erbschaft, <hi rend="italic">ungeachtet</hi>  eines Verbrechens, <hi rend="italic">oberhalb</hi>  Berlins, <hi rend="italic">unterhalb</hi>  Charlottenburgs, <hi rend="italic">innerhalb</hi>  des Hauses, <hi rend="italic">außerhalb</hi>  meiner Ställe, <hi rend="italic">diesseit</hi>  deiner Lauben, ihrer Lüge <hi rend="italic">halben</hi>  (r), dieses Baumes <hi rend="italic">wegen</hi>, <hi rend="italic">statt</hi>  dieser Eiche, <hi rend="italic">anstatt</hi>  dieses Buches, — <hi rend="italic">längs</hi>  jenes Stromes, <hi rend="italic">zufolge</hi>  jenes Befehls, <hi rend="italic">trotz</hi>  jenes Verbots — <hi rend="italic">längs</hi>  jenem Strome, jenem Befehle <hi rend="italic">zufolge</hi>, <hi rend="italic">trotz</hi>  jenem Verbote — <hi rend="italic">um</hi>  seines Eigensinns <hi rend="italic">willen</hi>.</p>
+                  <p rend="justify">§. 17. Den 3. Fall:<lb/>aus, außer, bei, binnen, entgegen, gegenüber, gemäß, mit, nach, nächst, nebst, sammt, seit, von, zu, zuwider, (ob).</p>
+                  <p rend="justify">Anm. 1. Entgegen und zuwider stehen stets nach dem Hauptwort, gemäß bald vor, bald nach demselben.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Aus</hi>  mir, dir, ihm, ihr, ihm; <hi rend="italic">außer</hi>  uns, euch, ihnen, <hi rend="italic">bei</hi>  mir, dir, ihm, ihr, ihm; <hi rend="italic">binnen</hi>  einigen Tagen, <hi rend="italic">dir entgegen</hi>, ihm <hi rend="italic">gegenüber</hi>, <hi rend="italic">gemäß</hi>  dieser Verordnung — dieser Verordnung <hi rend="italic">gemäß</hi>, <hi rend="italic">mit</hi>  meinen Freunden, <hi rend="italic">nach</hi>  dem Manne, <hi rend="italic">nächst</hi>  der Frau, <hi rend="italic">nebst</hi>  dieser Frau, <hi rend="italic">sammt</hi>  dem Kinde, <hi rend="italic">seit</hi>  einem Monat, <hi rend="italic">von</hi>  einer Tante, <hi rend="italic">zu</hi>  einem Kinde, mir <hi rend="italic">zuwider</hi>, <hi rend="italic">ob</hi>  dieser Sache.</p>
+                  <p rend="justify">Anm. 2. Ich gehe <hi rend="italic">zu</hi>  dir, nicht: <hi rend="italic">bei</hi>  dir. Ich gehe <hi rend="italic">nach</hi>  Hause, nicht: <hi rend="italic">zu</hi>  Hause. Komm <hi rend="italic">zu</hi>  mir. Ich bin <hi rend="italic">zu</hi>  Hause.</p>
+                  <p rend="justify">§. 18. Den 4. Fall:<lb/>durch, für, ohne, um, sonder, gegen, wider, entlang.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Durch</hi>  mich, dich, ihn, sie, es; <hi rend="italic">für</hi>  uns, euch, sie; <hi rend="italic">ohne</hi>  deinen Herrn, <hi rend="italic">um</hi>  seine Mütze, <hi rend="italic">sonder</hi>  Furcht und Grauen, <hi rend="italic">gegen</hi>  dein Kind, <hi rend="italic">wider</hi>  deine Feinde.</p>
+                  <p rend="justify">Anm. 1. Steht <hi rend="bold">entlang</hi>  nach dem Hauptw., so erfordert es den 4. F., steht es aber vor dem Hauptw., so hat es den 2. F. nach sich. Z. B. Rausche, Fluß, das <hi rend="italic">Thal</hi>  entlang! Entlang des <hi rend="italic">Gebirges</hi>  tobte die Jagd. <hi rend="bold">Gegen</hi>  = gen; z. B. <hi rend="italic">gen</hi>  Himmel.</p>
+                  <p rend="justify">Anm. 2. „<hi rend="italic">Für</hi>“ und nicht „<hi rend="italic">vor</hi>“ wird gebraucht: a. wenn man fragen kann: Wem zum Nutzen oder zum Schaden? Der Mann kämpft <hi rend="italic">für</hi>  das Vaterland; b. wenn es das Gegentheil von „<hi rend="italic">wider</hi>“ ist. Er sprach für die gerechte Sache; c. wenn man es mit „<hi rend="italic">um</hi>“ verwechseln kann. Er arbeitet <hi rend="italic">für</hi>  Geld.</p>
+                  <p rend="justify">§. 19. 1. Folgende 9 Verhältnißwörter (Verhältnisw.):</p>
+                  <p rend="justify">an, auf, hinter, in, neben, über, unter, vor, zwischen, erfordern auf die Frage: Wo? den 3. Fall — Ruhe, bereits am Ziel — und auf die Frage: Wohin? den 4. Fall — Bewegung, noch nicht am Ziel.</p>
+                  <p rend="justify">Der Mann sitzt — <hi rend="italic">wo?</hi>  an dem Baume, der Quelle, dem Hause. Der Mann setzt sich — <hi rend="italic">wohin?</hi>  an den Baum, die Quelle, das Haus. Die Frau steht — <hi rend="italic">wo?</hi>
+                     <hi rend="italic">auf</hi>  einem Stuhl, einer Wiese, einem Fasse. Die Frau stellt sich — <hi rend="italic">wohin?</hi>  auf einen Stuhl, eine Wiese, ein Faß. Das Kind liegt — <hi rend="italic">wo?</hi>
+                     <hi rend="italic">hinter</hi>  mir, dir, ihm, ihr, ihm, uns, euch, ihnen. Das Kind legt sich — <hi rend="italic">wohin?</hi>
+                     <hi rend="italic">hinter</hi>  mich, dich, ihn, sie, es, uns, euch, sie. Es spielte ein Knabe — <hi rend="italic">wo?</hi>
+                     <hi rend="italic">zwischen</hi>  jenem Flusse und dieser Linde, <hi rend="italic">zwischen</hi>  jener Tonne und diesem Teiche, <hi rend="italic">zwischen</hi>  jenem Dorfe und dieser Wiese. Es sprang ein Knabe <hi rend="italic">wohin?</hi>
+                     <hi rend="italic">zwischen</hi>  mich und deinen Bruder, <hi rend="italic">zwischen</hi>  dich und deine Schwester, <hi rend="italic">zwischen</hi>  ihn und uns.</p>
+                  <p rend="justify">2. <hi rend="italic">Hiernach</hi>  muß man auch sagen:<lb/>Ich schreibe an dich. Der Brief kommt an dich. Ich denke an dich. In dich setze ich mein Vertrauen. Ich glaube an dich, an deine Treue. (Wohin richtet sich d. Glaube, d. Vertrauen?)</p>
+                  <p rend="justify">3. Kann man aber weder: „wo?“ noch „wohin?“ fragen, so erfordern diese Verhältnißw. immer den 3. F.; ausgenommen <hi rend="italic">auf</hi>  und <hi rend="italic">über</hi>, welche alsdann den 4. F. erfordern.</p>
+                  <p rend="justify">Arm <hi rend="italic">an</hi>  Freuden; <hi rend="italic">in</hi>  dieser Rücksicht; <hi rend="italic">unter</hi>  diesen Umständen; <hi rend="italic">vor</hi>  allen Dingen; es liegt <hi rend="italic">an</hi>  dir; <hi rend="italic">auf</hi>  diese Weise; <hi rend="italic">über</hi>  alle Erwartungen; ich berufe mich <hi rend="italic">auf</hi>  dich; es ist <hi rend="italic">auf</hi>  eine Täuschung abgesehen; ich versichere es <hi rend="italic">auf</hi>  meine Ehre.</p>
+                  <p rend="justify">4. Als Ausnahme hiervon sind anzunehmen:</p>
+                  <p rend="justify">a) Ich halte mich <hi rend="italic">an</hi>  die Wahrheit; Europa grenzt im Süden <hi rend="italic">an</hi>  das mittelländische Meer; sei <hi rend="italic">über</hi>  Wenigem getreu; ich bestehe <hi rend="italic">auf</hi>  meinem Willen.</p>
+                  <p rend="justify">b) Bei den Zeitw. „<hi rend="italic">lehnen</hi>, <hi rend="italic">stützen</hi>, <hi rend="italic">binden</hi>“ erfordern diese Verhältnißw. stets den 4. F.: <hi rend="italic">Auf</hi>  seinen Stab gelehnt; ich mußte mich <hi rend="italic">auf</hi>  ihn stützen; <hi rend="italic">an</hi>  die Worte binde ich mich nicht.</p>
+                  <p rend="justify">Anm. 1. Ich freue mich auf <hi rend="italic">das</hi>  Fest, — ich freue mich auf <hi rend="italic">dem</hi>  Feste. Ich schreibe an <hi rend="italic">dich</hi>, — ich schreibe an <hi rend="italic">dir</hi>  (auf deinem Rücken). Ich schreibe in <hi rend="italic">das</hi>  Buch (ein), — ich schreibe in <hi rend="italic">dem</hi>  Buche. Er setzt sich über <hi rend="italic">mich</hi>; aber: er sitzt über <hi rend="italic">mir</hi>.</p>
+                  <p rend="justify">Anm. 2. Am = an dem; zur = zu der; über’s = über das; durch’s = durch das; in’s = in das u. s. w.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>VII.</label>Zeitwörter.</head>
+                  <p rend="justify">§. 20. 1. Die <hi rend="italic">Zeitw.</hi> sagen aus, was Gegenstände <hi rend="italic">thun</hi> oder was mit ihnen <hi rend="italic">gethan</hi> wird. Sie antworten auf die Frage: Was <hi rend="italic">thut</hi> ein Gegenstand? oder: Was wird mit einem Gegenstande <hi rend="italic">gethan</hi>? Der Knabe schreibt. Was thut der Knabe? <hi rend="italic">schreibt</hi> = Zeitw. — Der Hund wird geschlagen. Was wird mit dem Hunde gethan? wird <hi rend="italic">geschlagen</hi> = Zeitw.</p>
+                  <p rend="justify">2. <hi rend="italic">Aeußerlich</hi>  erkennt man die Zeitw. daran, daß die Wörtchen <hi rend="italic">ich</hi>, <hi rend="italic">du</hi>, <hi rend="italic">er</hi>  vor dieselben gesetzt werden können.</p>
+                  <p rend="justify">§. 21. Es <hi rend="italic">giebt</hi>:</p>
+                  <p rend="justify">1. <hi rend="italic">Hülfszeitw.</hi>  der Zeit: <hi rend="italic">sein</hi>, <hi rend="italic">haben</hi>, <hi rend="italic">werden</hi>. Sie dienen zur Bildung der zusammengesetzten Zeiten der Zeitw.</p>
+                  <p rend="justify">2. <hi rend="italic">Hülfszeitw.</hi>  der <hi rend="italic">Aussageweise</hi>: <hi rend="italic">können</hi>, <hi rend="italic">dürfen</hi>, <hi rend="italic">mögen</hi>  (Möglichkeit); <hi rend="italic">müssen</hi>, <hi rend="italic">sollen</hi>, <hi rend="italic">wollen</hi>  (Nothwendigkeit) und <hi rend="italic">lassen</hi>  (Möglichkeit und Nothwendigkeit).</p>
+                  <p rend="justify">Anm. Ich <hi rend="italic">kann</hi>, wozu ich <hi rend="italic">Kraft habe</hi>. Ich <hi rend="italic">darf</hi>, wozu ich <hi rend="italic">Erlaubniß habe</hi>. Ich <hi rend="italic">mag</hi>, wozu ich <hi rend="italic">Lust habe</hi>. Ich <hi rend="italic">muß</hi>, wozu ich <hi rend="italic">gezwungen bin</hi>. Ich <hi rend="italic">soll</hi>, wozu ich <hi rend="italic">Befehl habe</hi>. Ich <hi rend="italic">will</hi>, wozu ich den <hi rend="italic">Entschluß habe</hi>.</p>
+                  <p rend="justify">3. <hi rend="italic">Zielende</hi>  (regierende) Zeitw. (V. transitiva). Sie haben eine <hi rend="italic">That-</hi>  und <hi rend="italic">Leideform</hi>  (Activ und Passiv): ich <hi rend="italic">lobe</hi>  und ich <hi rend="italic">werde gelobt</hi>.</p>
+                  <p rend="justify">4. <hi rend="italic">Ziellose</hi>  (nicht regierende) Zeitw. (V. intransitiva). Sie haben keine Leideform: ich <hi rend="italic">belle</hi>, aber nicht: ich <hi rend="italic">werde gebellt</hi>.</p>
+                  <p rend="justify">5. Außer den genannten Zeitw. giebt es noch folgende: <hi rend="italic">zurückzielende</hi>  (V. reflexiva): sich grämen, sich wundern etc., <hi rend="italic">wechselweiszielende</hi>  (V. reciproca): sich schlagen, lieben etc. und <hi rend="italic">unpersönliche</hi>  (V. impersonalia): es regnet, es donnert etc.</p>
+                  <p rend="justify">§. 22. 1. Die Zeitw. können in der <hi rend="italic">Ein-</hi>  und <hi rend="italic">Mehrzahl</hi>  in drei verschiedenen <hi rend="italic">Personen</hi>  stehen: ich lobe, du lobst, er lobt, wir loben, ihr lobt, sie loben.</p>
+                  <p rend="justify">2. Die Zeitw. haben 3 <hi rend="italic">Aussageweisen</hi>  (Modi): die <hi rend="italic">Wirklichkeit</hi>, <hi rend="italic">Möglichkeit</hi>  und die <hi rend="italic">Nothwendigkeit</hi>  oder den <hi rend="italic">Befehl</hi>  (Indicativ, Conjunctiv und Imperativ).</p>
+                  <p rend="justify">3. die Zeitw. treten in drei <hi rend="italic">Haupt-</hi>  und drei <hi rend="italic">Nebenzeiten</hi>  (Tempora) auf. Mit den Hauptzeiten verbindet sich der Begriff der <hi rend="italic">Dauer</hi>, mit den Nebenzeiten der Begriff der <hi rend="italic">Vollendung</hi>.</p>
+                  <lg>
+                     <l>A. <hi rend="italic">Hauptzeiten</hi>.</l>
+                     <l>1. <hi rend="italic">Gegenwart</hi>  (Praesens).</l>
+                     <l>2. <hi rend="italic">Vergangenheit</hi>  (Imperfectum) (Mitvergangenheit).</l>
+                     <l>3. <hi rend="italic">Zukunft</hi>  (Futurum I.).</l>
+                  </lg>
+                  <lg>
+                     <l>B. <hi rend="italic">Nebenzeiten</hi>:</l>
+                     <l>1. <hi rend="italic">Vollendete Gegenw.</hi>  (Perfectum) (Vergangenheit).</l>
+                     <l>2. <hi rend="italic">Vollendete Vergangenheit</hi>  (Plusquamperfectum).</l>
+                     <l>3. <hi rend="italic">Vollendete Zukunft</hi>  (Futurum II) (Vorzukunft).</l>
+                  </lg>
+                  <p rend="justify">Anm. Die <hi rend="italic">Grundform</hi>  (Infinitiv) des Zeitworts wird auch als <hi rend="italic">Hauptwort</hi>, das <hi rend="italic">Mittelwort</hi>  (Participium) auch als <hi rend="italic">Eigenschaftswort</hi>  gebraucht: <hi rend="italic">Geben</hi>  ist seliger als <hi rend="italic">Nehmen</hi>. <hi rend="italic">Zürnende</hi>  Worte sind <hi rend="italic">brennende</hi>  Pfeile. <hi rend="italic">Getheilte</hi>  Freude ist doppelte Freude.</p>
+                  <p rend="justify">4. Die Zeitw. unterliegen einer <hi rend="italic">starken</hi>, <hi rend="italic">schwachen</hi>  und <hi rend="italic">gemischten</hi>  Biegung (Conjugation). Die <hi rend="italic">Hülfszeitw.</hi>
+                     <hi rend="italic">sein</hi>, <hi rend="italic">haben</hi>  und <hi rend="italic">werden</hi>  biegen abweichend.</p>
+                  <p rend="justify">§. 23. Biegung der Hülfszeitw. <hi rend="italic">sein</hi>, <hi rend="italic">haben</hi>, <hi rend="italic">werden</hi>.</p>
+                  <p rend="justify">A. <hi rend="bold">Sein.</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="italic">Wirklichkeit</hi>.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Möglichkeit</hi>.</p>
+                  <p rend="justify">Gegenwart.</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich bin</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich sei</p>
+                  <p rend="justify">du bist</p>
+                  <p rend="justify">du seiest</p>
+                  <p rend="justify">er, sie, es ist</p>
+                  <p rend="justify">er sei</p>
+                  <p rend="justify">M.</p>
+                  <p rend="justify">wir sind</p>
+                  <p rend="justify">M.</p>
+                  <p rend="justify">wir seien</p>
+                  <p rend="justify">ihr seid</p>
+                  <p rend="justify">ihr seiet</p>
+                  <p rend="justify">sie sind</p>
+                  <p rend="justify">sie seien</p>
+                  <p rend="justify">Vollendete Gegenwart.</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich bin gewesen</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich sei gewesen</p>
+                  <p rend="justify">du bist gewesen</p>
+                  <p rend="justify">du seist gewesen</p>
+                  <p rend="justify">Vergangenheit.</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich war</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich wäre (würde sein)</p>
+                  <p rend="justify">du warst</p>
+                  <p rend="justify">du wärest (würdest sein)</p>
+                  <p rend="justify">er war</p>
+                  <p rend="justify">er wäre (würde sein)</p>
+                  <p rend="justify">M.</p>
+                  <p rend="justify">wir waren</p>
+                  <p rend="justify">M.</p>
+                  <p rend="justify">wir wären (würden sein)</p>
+                  <p rend="justify">ihr waret</p>
+                  <p rend="justify">ihr wäret (würdet sein)</p>
+                  <p rend="justify">sie waren</p>
+                  <p rend="justify">sie wären (würden sein)</p>
+                  <p rend="justify">Vollendete Vergangenheit.</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich war gewesen</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich wäre gewesen (würde gewesen sein)</p>
+                  <p rend="justify">du warst gewesen</p>
+                  <p rend="justify">du wärest gewesen (würdest gewesen sein)</p>
+                  <p rend="justify">Zukunft.</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich werde sein</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich werde sein</p>
+                  <p rend="justify">du wirst sein</p>
+                  <p rend="justify">du werdest sein</p>
+                  <p rend="justify">er wird sein</p>
+                  <p rend="justify">er werde sein</p>
+                  <p rend="justify">M.</p>
+                  <p rend="justify">wir werden sein</p>
+                  <p rend="justify">M.</p>
+                  <p rend="justify">wir werden sein</p>
+                  <p rend="justify">ihr werdet sein</p>
+                  <p rend="justify">ihr werdet sein</p>
+                  <p rend="justify">sie werden sein</p>
+                  <p rend="justify">sie werden sein</p>
+                  <p rend="justify">Vollendete Zukunft.</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich werde gewesen sein</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich werde gewesen sein</p>
+                  <p rend="justify">du wirst gewesen sein</p>
+                  <p rend="justify">du werdest gewesen sein</p>
+                  <p rend="justify">Befehl.</p>
+                  <p rend="justify">E. sei!</p>
+                  <p rend="justify">M. seid!</p>
+                  <p rend="justify">Mittelwort.</p>
+                  <p rend="justify">1.</p>
+                  <p rend="justify">G. seiend</p>
+                  <p rend="justify">.</p>
+                  <p rend="justify">2.</p>
+                  <p rend="justify">V. G. gewesen</p>
+                  <p rend="justify">Grundform.</p>
+                  <p rend="justify">1.</p>
+                  <p rend="justify">G. sein</p>
+                  <p rend="justify">.</p>
+                  <p rend="justify">2.</p>
+                  <p rend="justify">V. G. gewesen sein</p>
+                  <p rend="justify">B. <hi rend="bold">Haben.</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="italic">Wirklichkeit</hi>.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Möglichkeit</hi>.</p>
+                  <p rend="justify">Gegenwart.</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich habe</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich habe</p>
+                  <p rend="justify">du hast</p>
+                  <p rend="justify">du habest</p>
+                  <p rend="justify">er hat</p>
+                  <p rend="justify">er habe</p>
+                  <p rend="justify">M.</p>
+                  <p rend="justify">wir haben</p>
+                  <p rend="justify">M.</p>
+                  <p rend="justify">wir haben</p>
+                  <p rend="justify">ihr habt</p>
+                  <p rend="justify">ihr habet</p>
+                  <p rend="justify">sie haben</p>
+                  <p rend="justify">sie haben</p>
+                  <p rend="justify">Vollendete Gegenwart.</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich habe gehabt</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich habe gehabt</p>
+                  <p rend="justify">du hast gehabt</p>
+                  <p rend="justify">du habest gehabt</p>
+                  <p rend="justify">Vergangenheit.</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich hatte</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich hätte (würde haben)</p>
+                  <p rend="justify">du hattest</p>
+                  <p rend="justify">du hättest</p>
+                  <p rend="justify">er hatte</p>
+                  <p rend="justify">er hätte</p>
+                  <p rend="justify">M.</p>
+                  <p rend="justify">wir hatten</p>
+                  <p rend="justify">M.</p>
+                  <p rend="justify">wir hätten</p>
+                  <p rend="justify">ihr hattet</p>
+                  <p rend="justify">ihr hättet</p>
+                  <p rend="justify">sie hatten</p>
+                  <p rend="justify">sie hätten</p>
+                  <p rend="justify">Vollendete Vergangenheit.</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich hatte gehabt</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich hätte gehabt (würde gehabt haben)</p>
+                  <p rend="justify">du hattest gehabt</p>
+                  <p rend="justify">du hättest gehabt</p>
+                  <p rend="justify">Zukunft.</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich werde haben</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich werde haben</p>
+                  <p rend="justify">du wirst haben</p>
+                  <p rend="justify">du werdest haben</p>
+                  <p rend="justify">Vollendete Zukunft.</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich werde gehabt haben</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich werde gehabt haben</p>
+                  <p rend="justify">du wirst gehabt haben</p>
+                  <p rend="justify">du werdest gehabt haben</p>
+                  <p rend="justify">Befehl.</p>
+                  <p rend="justify">E. habe!</p>
+                  <p rend="justify">M. habt!</p>
+                  <p rend="justify">Mittelwort.</p>
+                  <p rend="justify">1.</p>
+                  <p rend="justify">G. habend</p>
+                  <p rend="justify">.</p>
+                  <p rend="justify">2.</p>
+                  <p rend="justify">V. G. gehabt</p>
+                  <p rend="justify">Grundform.</p>
+                  <p rend="justify">1.</p>
+                  <p rend="justify">G. haben</p>
+                  <p rend="justify">.</p>
+                  <p rend="justify">2.</p>
+                  <p rend="justify">V. G. gehabt haben</p>
+                  <p rend="justify">C. <hi rend="bold">Werden.</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="italic">Wirklichkeit</hi>.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Möglichkeit</hi>.</p>
+                  <p rend="justify">Gegenwart.</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich werde</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich werde</p>
+                  <p rend="justify">du wirst</p>
+                  <p rend="justify">du werdest</p>
+                  <p rend="justify">er wird</p>
+                  <p rend="justify">er werde</p>
+                  <p rend="justify">M.</p>
+                  <p rend="justify">wir werden</p>
+                  <p rend="justify">M.</p>
+                  <p rend="justify">wir werden</p>
+                  <p rend="justify">ihr werdet</p>
+                  <p rend="justify">ihr werdet</p>
+                  <p rend="justify">sie werden</p>
+                  <p rend="justify">sie werden</p>
+                  <p rend="justify">Vollendete Gegenwart.</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich bin geworden</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich sei geworden</p>
+                  <p rend="justify">du bist geworden</p>
+                  <p rend="justify">du seist geworden</p>
+                  <p rend="justify">Vergangenheit.</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich wurde (ward)</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich würde</p>
+                  <p rend="justify">du wurdest</p>
+                  <p rend="justify">du würdest</p>
+                  <p rend="justify">er wurde</p>
+                  <p rend="justify">er würde</p>
+                  <p rend="justify">M.</p>
+                  <p rend="justify">wir wurden</p>
+                  <p rend="justify">M.</p>
+                  <p rend="justify">wir würden</p>
+                  <p rend="justify">ihr wurdet</p>
+                  <p rend="justify">ihr würdet</p>
+                  <p rend="justify">sie wurden</p>
+                  <p rend="justify">sie würden</p>
+                  <p rend="justify">Vollendete Vergangenheit.</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich war geworden</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich wäre geworden (würde geworden sein)</p>
+                  <p rend="justify">du warst geworden</p>
+                  <p rend="justify">du wärest geworden</p>
+                  <p rend="justify">Zukunft.</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich werde werden</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich werde werden</p>
+                  <p rend="justify">du wirst werden</p>
+                  <p rend="justify">du werdest werden</p>
+                  <p rend="justify">Vollendete Zukunft.</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich werde geworden sein</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich werde geworden sein</p>
+                  <p rend="justify">du wirst geworden sein</p>
+                  <p rend="justify">du werdest geworden sein</p>
+                  <p rend="justify">Befehl.</p>
+                  <p rend="justify">E. werde!</p>
+                  <p rend="justify">M. werdet!</p>
+                  <p rend="justify">Mittelwort.</p>
+                  <p rend="justify">1.</p>
+                  <p rend="justify">G. werdend</p>
+                  <p rend="justify">.</p>
+                  <p rend="justify">2.</p>
+                  <p rend="justify">V. G. geworden (worden)</p>
+                  <p rend="justify">Grundform.</p>
+                  <p rend="justify">1.</p>
+                  <p rend="justify">G. werden</p>
+                  <p rend="justify">.</p>
+                  <p rend="justify">2.</p>
+                  <p rend="justify">V. G. geworden sein</p>
+                  <p rend="justify">§. 24. I. <hi rend="italic">Schwache Biegung der Zeitwörter.</hi>
+                  </p>
+                  <p rend="justify">Die Zeitwörter dieser Biegung lauten nicht ab: sie haben fast immer in der Vergangenheit 2 Silben, deren letzte auf <hi rend="italic">te</hi>  endigt, und bilden das 2. Mittelwort auf <hi rend="italic">t</hi>  oder <hi rend="italic">et</hi>.</p>
+                  <p rend="justify">
+                     <hi rend="bold">Loben.</hi>
+                  </p>
+                  <p rend="justify">A. Thatform</p>
+                  <p rend="justify">
+                     <hi rend="italic">Wirklichkeit</hi>.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Möglichkeit</hi>.</p>
+                  <p rend="justify">Gegenwart.</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich lobe</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich lobe</p>
+                  <p rend="justify">du lobst</p>
+                  <p rend="justify">du lobest</p>
+                  <p rend="justify">er lobt</p>
+                  <p rend="justify">er lobe</p>
+                  <p rend="justify">M.</p>
+                  <p rend="justify">wir loben</p>
+                  <p rend="justify">M.</p>
+                  <p rend="justify">wir loben</p>
+                  <p rend="justify">ihr lobt</p>
+                  <p rend="justify">ihr lobet</p>
+                  <p rend="justify">sie loben</p>
+                  <p rend="justify">sie loben</p>
+                  <p rend="justify">Vollendete Gegenwart.</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich habe gelobt</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich habe gelobt</p>
+                  <p rend="justify">du hast gelobt</p>
+                  <p rend="justify">du habest gelobt</p>
+                  <p rend="justify">Vergangenheit.</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich lobte</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich lobete (würde loben)</p>
+                  <p rend="justify">du lobtest</p>
+                  <p rend="justify">du lobetest</p>
+                  <p rend="justify">er lobte</p>
+                  <p rend="justify">er lobete</p>
+                  <p rend="justify">M.</p>
+                  <p rend="justify">wir lobten</p>
+                  <p rend="justify">M.</p>
+                  <p rend="justify">wir lobeten</p>
+                  <p rend="justify">ihr lobtet</p>
+                  <p rend="justify">ihr lobetet</p>
+                  <p rend="justify">sie lobten</p>
+                  <p rend="justify">sie lobeten</p>
+                  <p rend="justify">Vollendete Vergangenheit.</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich hatte gelobt</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich hätte gelobt (würde gelobt haben)</p>
+                  <p rend="justify">du hattest gelobt</p>
+                  <p rend="justify">du hättest gelobt</p>
+                  <p rend="justify">Zukunft.</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich werde loben</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich werde loben</p>
+                  <p rend="justify">du wirst loben</p>
+                  <p rend="justify">du werdest loben</p>
+                  <p rend="justify">Vollendete Zukunft.</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich werde gelobt haben</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich werde gelobt haben</p>
+                  <p rend="justify">du wirst gelobt haben</p>
+                  <p rend="justify">du werdest gelobt haben</p>
+                  <p rend="justify">Befehl.</p>
+                  <p rend="justify">E. lobe!</p>
+                  <p rend="justify">M. lobt! lobet!</p>
+                  <p rend="justify">Mittelwort.</p>
+                  <p rend="justify">1.</p>
+                  <p rend="justify">G. lobend</p>
+                  <p rend="justify">.</p>
+                  <p rend="justify">2.</p>
+                  <p rend="justify">V. G. gelobt</p>
+                  <p rend="justify">Grundform.</p>
+                  <p rend="justify">1.</p>
+                  <p rend="justify">G. loben</p>
+                  <p rend="justify">2.</p>
+                  <p rend="justify">V. G. gelobt haben</p>
+                  <p rend="justify">
+                     <hi rend="bold">Loben.</hi>
+                  </p>
+                  <p rend="justify">B. Leideform</p>
+                  <p rend="justify">
+                     <hi rend="italic">Wirklichkeit</hi>.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Möglichkeit</hi>.</p>
+                  <p rend="justify">Gegenwart.</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich werde gelobt</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich werde gelobt</p>
+                  <p rend="justify">du wirst gelobt</p>
+                  <p rend="justify">du werdest gelobt</p>
+                  <p rend="justify">Vollendete Gegenwart.</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich bin gelobt worden</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich sei gelobt worden</p>
+                  <p rend="justify">du bist gelobt worden</p>
+                  <p rend="justify">du seist gelobt worden</p>
+                  <p rend="justify">Vergangenheit.</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich wurde gelobt</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich würde gelobt</p>
+                  <p rend="justify">du wurdest gelobt</p>
+                  <p rend="justify">du würdest gelobt</p>
+                  <p rend="justify">Vollendete Vergangenheit.</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich war gelobt worden</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich wäre gelobt worden (würde gelobt worden sein)</p>
+                  <p rend="justify">du warst gelobt worden</p>
+                  <p rend="justify">Zukunft.</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich werde gelobt werden</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich werde gelobt werden</p>
+                  <p rend="justify">du wirst gelobt werden</p>
+                  <p rend="justify">du werdest gelobt werden</p>
+                  <p rend="justify">Vollendete Zukunft.</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich werde gelobt worden sein</p>
+                  <p rend="justify">E.</p>
+                  <p rend="justify">ich werde gelobt worden sein</p>
+                  <p rend="justify">du wirst gelobt worden sein</p>
+                  <p rend="justify">du werdest gelobt worden sein</p>
+                  <p rend="justify">Befehl.</p>
+                  <p rend="justify">E. werde gelobt!</p>
+                  <p rend="justify">M. werdet gelobt!</p>
+                  <p rend="justify">Mittelwort.</p>
+                  <p rend="justify">gelobt</p>
+                  <p rend="justify">Grundform.</p>
+                  <p rend="justify">1.</p>
+                  <p rend="justify">G. gelobt werden</p>
+                  <p rend="justify">2.</p>
+                  <p rend="justify">V. G. gelobt worden sein</p>
+                  <p rend="justify">
+                     <hi rend="italic">Beisp.</hi>: ermahnen, suchen, zählen, drücken, schicken, lieben, leben, hören, herrschen, entbehren, übereilen, wiederholen, unterstützen, urtheilen.</p>
+                  <p rend="justify">§. 25. II. <hi rend="italic">Starke Biegung der Zeitwörter.</hi>
+                  </p>
+                  <p rend="justify">Die Zeitwörter dieser Biegung lauten in der Vergangenheit und dem zweiten Mittelwort ab; ihre Vergangenheit ist einsilbig — ausgenommen sind die Wörter mit Vorsilben; — ihr zweites Mittelwort hat <hi rend="italic">en</hi>.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Binden</hi>  — <hi rend="italic">band</hi>  — <hi rend="italic">gebunden</hi>: dringen, finden, klingen, ringen, schlingen, schwinden, singen, sinken, springen.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Schelten</hi>  — <hi rend="italic">schalt</hi>  — <hi rend="italic">gescholten</hi>: bergen, brechen, gelten, helfen, kommen, nehmen, rinnen, schwimmen.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Bitten</hi>  — <hi rend="italic">bat</hi>  — <hi rend="italic">gebeten</hi>: essen, fressen, geben, lesen, liegen, messen, sehen, sitzen, stehen, treten.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Biegen</hi>  — <hi rend="italic">bog</hi>  — <hi rend="italic">gebogen</hi>: bieten, dreschen, flechten, fliegen, fliehen, fließen, frieren, gießen, heben, kriechen.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Greifen</hi>  — <hi rend="italic">griff</hi>  — <hi rend="italic">gegriffen</hi>: kneifen, leiden, reißen, schleichen, schleifen, schneiden, streiten.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Bleiben</hi>  — <hi rend="italic">blieb</hi>  — <hi rend="italic">geblieben</hi>: leihen, meiden, preisen, reiben, scheinen, schreiben, schreien, treiben, weisen.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Blasen</hi>  — <hi rend="italic">blies</hi>  — <hi rend="italic">geblasen</hi>: braten, fallen, halten, hauen, heißen, laufen, rufen.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Fahren</hi>  — <hi rend="italic">fuhr</hi>  — <hi rend="italic">gefahren</hi>: backen, graben, schaffen, schlagen, tragen, wachsen, waschen etc.</p>
+                  <p rend="justify">§. 26. III. <hi rend="italic">Gemischte Biegung der Zeitwörter.</hi>
+                  </p>
+                  <lg>
+                     <l>Die Zeitwörter dieser Biegung haben Ablautung und Umendung:</l>
+                     <l>
+                        <hi rend="italic">Brennen</hi>  — <hi rend="italic">brannte</hi>  — <hi rend="italic">gebrannt</hi>: kennen, nennen, rennen.</l>
+                     <l>
+                        <hi rend="italic">Senden</hi>  — <hi rend="italic">sandte</hi>  — <hi rend="italic">gesandt</hi>: wenden.</l>
+                     <l>
+                        <hi rend="italic">Denken</hi>  — <hi rend="italic">dachte</hi>  — <hi rend="italic">gedacht</hi>: bringen.</l>
+                     <l>
+                        <hi rend="italic">Dürfen</hi>: ich darf, dürfe, durfte, gedurft.</l>
+                     <l>
+                        <hi rend="italic">Können</hi>: ich kann, könne, konnte, gekonnt.</l>
+                     <l>
+                        <hi rend="italic">Mögen</hi>: ich mag, möge, mochte, gemocht.</l>
+                     <l>
+                        <hi rend="italic">Sollen</hi>: ich soll, solle, sollte, gesollt.</l>
+                     <l>
+                        <hi rend="italic">Wollen</hi>: ich will, wolle, wollte, gewollt.</l>
+                     <l>
+                        <hi rend="italic">Müssen</hi>: ich muß, müsse, mußte, gemußt.</l>
+                     <l>
+                        <hi rend="italic">Wissen</hi>: ich weiß, wisse, wußte, gewußt.</l>
+                  </lg>
+                  <p rend="justify">
+                     <hi rend="italic">Bemerkungen.</hi>
+                  </p>
+                  <p rend="justify">1. Die <hi rend="italic">zielenden Zeitw.</hi>  werden mit haben verbunden. Die <hi rend="italic">ziellosen Zeitw.</hi>  werden theils mit sein, theils mit haben verbunden. Einige Zeitw. haben <hi rend="italic">sein</hi>  und <hi rend="italic">haben</hi>: ich bin gefahren; ich habe gefahren. Die Zeitw. <hi rend="italic">begegnen</hi>, <hi rend="italic">folgen</hi>, <hi rend="italic">weichen</hi>, <hi rend="italic">gehen</hi>, <hi rend="italic">kommen</hi>, <hi rend="italic">fliehen</hi>, <hi rend="italic">fliegen</hi>, <hi rend="italic">wachsen</hi>, <hi rend="italic">sterben</hi>  etc. werden mit <hi rend="italic">sein</hi>  verbunden.</p>
+                  <p rend="justify">2. Die <hi rend="italic">Vergangenheit</hi>  (Imperf.), <hi rend="italic">vollendete Vergang.</hi>  (Plusq.) und <hi rend="italic">vollendete Zukunft</hi>  (Fut. II.) werden auch <hi rend="italic">bezügliche Zeiten</hi>  (relative) genannt, weil der Sprechende seine Aussage auf eine andere Aussage bezieht: Die Knaben spielten, als der Lehrer kam. Johann der muntre Seifensieder hatte oft gesungen, ehe ihn der Reiche störte. Der Winter wird vergangen sein, ehe du es ahnst. Die <hi rend="italic">Vergangenheit</hi>  (Imperf.) ist die Zeit, in welcher in der Regel erzählt wird: Die Schlacht blieb lange unentschieden. In diesem Falle wird sie auch unbezüglich gebraucht.</p>
+                  <p rend="justify">3. a. Sprechen wir ein Urtheil als bestimmt, als unabhängig, als Thatsache aus, so gebrauchen wir die <hi rend="italic">Wirklichkeitsform</hi>: Er lobt den Schüler.</p>
+                  <p rend="justify">b. Führen wir aber an, was Jemand sagt, glaubt, oder sprechen wir einen Zweifel, eine Vermuthung, einen Wunsch oder eine Bedingung aus, so gebrauchen wir die <hi rend="italic">Möglichkeitsform</hi>: Man weiß nicht, daß er den Schüler lobe. Ich glaube, daß er kommen werde. Sehe Jeder, wie er’s treibe! Wen da dürstet, der komme zu mir und trinke! Er wünschte, daß er genese. Er arbeitet, damit er esse. Ginge er doch fort! Wenn er fleißiger wäre (sein würde), könnte er vorwärts kommen.</p>
+                  <p rend="justify">c. Fordern wir Jemanden auf, daß er etwas thue, gebieten wir ihm etwas, so gebrauchen wir die <hi rend="italic">Befehlsform</hi>: Geh’ fort! Hole Wasser!</p>
+                  <p rend="justify">
+                     <hi rend="italic">Anm.</hi>  Da die sogenannte Bedingungsform (Conditionalis) auch eine Möglichkeit ausdrückt, so hielten wir es nicht für angemessen, die Möglichkeitsform zu zerstückeln und die in dieser Beziehung herrschende Sprachverwirrung in die Volksschule zu bringen. Auch hätten wir, bei Aufnahme des Conditionalis, den Optativ, überhaupt eine strengere Eintheilung des Conjunctiv, nicht vergessen dürfen.</p>
+                  <p rend="justify">§. 27. <hi rend="italic">Die Zeitw. erfordern oft bestimmte Fälle.</hi>  Es haben den 2. Fall:</p>
+                  <p rend="justify">1. achten, bedürfen, begehren, entbehren, ermangeln, erwähnen, gedenken, harren, lachen, leben, pflegen, schonen, spotten, vergessen, warten.</p>
+                  <p rend="justify">Bei den meisten dieser Zeitw. setzt man auch den 4. Fall mit oder ohne Verhältnißw.</p>
+                  <p rend="justify">Der Mann achtet <hi rend="italic">der Gefahr</hi>  nicht, und der Mann achtet <hi rend="italic">die Gefahr</hi>  nicht. Der Kranke bedarf <hi rend="italic">des Arztes</hi>, und der Kranke bedarf <hi rend="italic">den Arzt</hi>. Die Anklage entbehrt <hi rend="italic">jeder Begründung</hi>.</p>
+                  <p rend="justify">2. Die <hi rend="italic">zurückzielenden</hi>  Zeitwörter:<lb/>sich annehmen, bedienen, befleißigen, bemächtigen, enthalten, entledigen, entschlagen, entsinnen, erbarmen, erinnern, erwehren, freuen, rühmen, schämen, wehren.</p>
+                  <p rend="justify">Ein <hi rend="italic">guter Christ</hi>  nimmt sich des <hi rend="italic">Nothleidenden</hi>  an. Bediene dich <hi rend="italic">des Ausdrucks</hi>  nicht! Er wehrte sich <hi rend="italic">seiner Haut</hi>.</p>
+                  <p rend="justify">§. 28. Den 3. Fall erfordern:</p>
+                  <p rend="justify">1. Auf die Frage: <hi rend="italic">wem ist worden?</hi>  die Zeitw., die eine <hi rend="italic">Leideform mit dem 3. Fall bilden</hi>; z. B. mir, dir, ihm etc. ist geantwortet worden:<lb/>aufwarten, antworten, begegnen, befehlen, bestehen, beistimmen, beiwohnen, drohen, danken, dienen, fluchen, folgen, fröhnen, gehorchen, genügen, glauben, helfen (mit allen Zusammensetzungen), huldigen, lohnen, nachgehen, nützen, rathen, schaden, schmeicheln, steuern, trotzen, vorstehen, weichen, widerstehen, widersprechen, winken, zustehen.</p>
+                  <p rend="justify">Womit kann ich <hi rend="italic">Ihnen</hi>  aufwarten? Danke <hi rend="italic">dem Vater</hi>!</p>
+                  <p rend="justify">Hierher gehören noch viele Zeitwörter, die mit den Verhältnißwörtern <hi rend="italic">an</hi>, <hi rend="italic">auf</hi>, <hi rend="italic">bei</hi>, <hi rend="italic">entgegen</hi>, <hi rend="italic">nach</hi>, <hi rend="italic">unter</hi>, <hi rend="italic">vor</hi>  und <hi rend="italic">zu</hi>  zusammengesetzt sind.</p>
+                  <p rend="justify">2. Folgende Zeitwörter ohne Leideform mit dem 3. Fall:<lb/>ähneln, anstehen, belieben, behagen, bekommen, blühen, einleuchten, entgehen, entfallen, entfliehen, entsagen, erliegen, erscheinen, fehlen, gebühren, gefallen, gelingen, gerathen, gereichen, gleichen, mangeln, munden, nahen, passen, scheinen, schmecken, widerfahren, ziemen, zuhören.</p>
+                  <p rend="justify">Der Sohn ähnelt <hi rend="italic">dem Vater</hi>. Der Vorschlag steht <hi rend="italic">ihm</hi>  nicht an.</p>
+                  <p rend="justify">3. Die <hi rend="italic">unpersönlichen</hi>  Zeitwörter:<lb/>es ahnt, ekelt, gebricht, graut, liegt daran, schaudert, schwindelt, träumt.</p>
+                  <p rend="justify">Es ahnt <hi rend="italic">mir</hi>, daß er kommen werde. Es ekelt <hi rend="italic">mir</hi>  vor der Speise.</p>
+                  <p rend="justify">4. Die <hi rend="italic">zurückzielenden</hi>  Zeitwörter:<lb/>sich anmaßen, ausbedingen, denken, einbilden, erbitten, getrauen, vornehmen, vorstellen, merken.</p>
+                  <p rend="justify">Du maßest <hi rend="italic">dir</hi>  zuviel an. Ich bedinge <hi rend="italic">mir</hi>  die Benutzung des Gartens aus.</p>
+                  <p rend="justify">§. 29. Den 4. Fall erfordern:</p>
+                  <p rend="justify">1. Die <hi rend="italic">zurückzielenden</hi>  Zeitwörter:<lb/>sich ängstigen, ärgern, betrüben, bekümmern, besinnen, erholen, erinnern, freuen, grämen, irren, schämen, täuschen.</p>
+                  <p rend="justify">Hast <hi rend="italic">du dich</hi>  meinetwegen geängstigt?</p>
+                  <p rend="justify">2. Die <hi rend="italic">unpersönlichen</hi>  Zeitwörter:<lb/>es befremdet, befällt, betrifft, dauert, dürstet, dünkt, däucht, friert, gelüstet, geht mich an, hungert, jammert, juckt, kümmert, reut, schläfert, schmerzt, sticht, schwitzt, verdrießt, verlangt, wundert.</p>
+                  <p rend="justify">Es befremdet <hi rend="italic">mich</hi>, daß du jetzt zurückgezogen lebst.</p>
+                  <p rend="justify">3. Alle <hi rend="italic">Zeitwörter</hi>, bei denen man auf die Frage: <hi rend="italic">Wem ist worden?</hi>  keine — wohl aber auf die Frage: <hi rend="italic">Wer ist worden?</hi>  eine Antwort geben kann. Der im 4. Fall stehende Gegenstand, der geworden ist, heißt der <hi rend="italic">leidende (regierte) Gegenstand</hi>  (Object).</p>
+                  <p rend="justify">Steht noch ein zweiter Gegenstand (<hi rend="italic">betheiligter Gegenstand</hi>) (Terminativ) bei ihnen, dem etwas geworden ist, so steht dieser auf die Frage: <hi rend="italic">Wem ist geworden?</hi>  oder: <hi rend="italic">Für wen?</hi>  — <hi rend="italic">Wem zum Nutzen? wem zum Schaden</hi>  ist etwas geworden? im 3. Fall.</p>
+                  <p rend="justify">Der Vater besucht <hi rend="italic">den</hi>  Freund.<lb/>Wer ist besucht worden? der Freund, folglich: den Freund besuchen.</p>
+                  <p rend="justify">Der Vater schenkt <hi rend="italic">dem</hi>  Knaben das Buch.<lb/>Was ist geschenkt worden? das Buch. Wem ist es geschenkt worden? dem Knaben. Für wen ist es geschenkt worden? für den Knaben = dem Knaben. Wem zum Nutzen ist es geschenkt worden? dem Knaben zum Nutzen ist es geschenkt worden. Bezeichnet der 4. F. eine Sache, der 3. F. eine Person, so sagt man: Bei dem Zeitworte steht der 4. Fall der Sache und der 3. Fall der Person.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Zielende</hi>  Zeitwörter sind:<lb/>loben, lieben, schlagen, stoßen, finden, sehen, bitten, necken, tadeln, bestrafen, verehren, kennen, retten, ziehen, beneiden, abholen, erfreuen, verachten, führen, fragen, ertappen, fangen, unterstützen, verlassen, tödten, betrügen, auffordern, belohnen, wecken, heilen, umstürzen, plagen, tragen, vorstellen etc.<lb/>abbitten, abdringen, abgewöhnen, abschlagen, auftragen, aufbinden, borgen, geben, geloben, gönnen, glauben, leihen, leisten, liefern, melden, nehmen, rauben, reichen, senden, schlachten, schenken, wünschen, vorlegen, vorziehen, vorsagen, verkaufen, bringen, aufbewahren, überbringen, erzählen, mittheilen, erlauben etc.</p>
+                  <p rend="justify">§. 30. 1. Den 4. Fall <hi rend="italic">der Person</hi>  und den 2. Fall <hi rend="italic">der Sache</hi>  erfordern:</p>
+                  <p rend="justify">anklagen, belehren, berauben, beschuldigen, entlassen, entsetzen, überführen, verweisen, würdigen, zeihen.</p>
+                  <p rend="justify">Man klagt <hi rend="italic">ihn des Verraths</hi>  an. Er <hi rend="italic">belehrt mich eines Bessern</hi>. Er wurde <hi rend="italic">des Landes</hi>  verwiesen.</p>
+                  <p rend="justify">2. Einen doppelten 4. Fall erfordern:</p>
+                  <p rend="justify">nennen, heißen, schimpfen, schelten, taufen, lehren.</p>
+                  <p rend="justify">Er nannte <hi rend="italic">ihn einen Narren</hi>. Er lehrt mich <hi rend="italic">die deutsche Sprache</hi>.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Anm.</hi>  Bei „<hi rend="italic">lehren</hi>“ wird auch der 3. Fall der Person gebraucht: Er lehrt <hi rend="italic">mir</hi>  die deutsche Sprache. Folgt aber ein Zeitwort in der Grundform, so darf nur der 4. Fall stehen: Er lehrt <hi rend="italic">mich</hi>  lesen.</p>
+                  <p rend="justify">§. 31. Einige Bemerkungen:</p>
+                  <p rend="justify">1. <hi rend="italic">Lassen</hi>  hat den 4. F. bei sich, wenn die Person (sprechende Person) selbst die handelnde ist, z. B. Laß <hi rend="italic">mich</hi>  das Buch vorlesen; d. h. ich will es vorlesen. Der 3. Fall steht, wenn ein Anderer der Handelnde sein soll, z. B. Laß <hi rend="italic">mir</hi>  das Buch vorlesen; d. h. ein Anderer soll es mir vorlesen.</p>
+                  <p rend="justify">2. <hi rend="italic">Kosten</hi>  hat stets den 3. Fall der Person. Das Buch kostet <hi rend="italic">mir</hi>  einen Thaler.</p>
+                  <p rend="justify">3. Steht <hi rend="italic">heißen</hi>  für „befehlen,“ so hat es den 3. Fall: Kein Mensch hat <hi rend="italic">ihm</hi>  diese Thorheit geheißen. Folgt aber ein Zeitw. in der Grundform (Infinitiv), so steht der 4. F. Wer hieß <hi rend="italic">dich</hi>  weggehen? —</p>
+                  <p rend="justify">4. <hi rend="italic">Gelten</hi>  hat den 3. Fall, wenn es gleichbedeutend ist mit „werth sein“: Mir gilt <hi rend="italic">die ganze Welt</hi>  Nichts. Die Rede gilt <hi rend="italic">dir</hi>. Steht es aber für „erfordern“ und „kosten“, so hat es den 4. Fall: Hier gilt es <hi rend="italic">Entschlossenheit</hi>. Der Stock gilt <hi rend="italic">einen Thaler</hi>.</p>
+                  <p rend="justify">5. Er schlägt mir die Hand roth. Es friert mir der Finger. Ich wasche mir die Hände. — Er tritt mir auf das Kleid. Es regnet mir in’s Gesicht. Die Thränen treten ihm in die Augen. Er tritt mir auf den Fuß. Dem geschenkten Gaul sieht man nicht in’s Maul. Gebratene Tauben fliegen Einem nirgends in den Mund. Der Regen schlägt mir in’s Gesicht.</p>
+                  <p rend="justify">6. Bei <hi rend="italic">versichern</hi>  steht entweder der 4. Fall der Person und der 2. F. der Sache, oder der 3. F. der Person und der 4. F. der Sache: Ich versichere <hi rend="italic">sie meiner Freundschaft</hi>. Ich versichere <hi rend="italic">ihnen die Wahrheit</hi>  — oder: ich versichere <hi rend="italic">ihnen</hi>, daß es wahr ist.</p>
+                  <p rend="justify">7. Bei <hi rend="italic">trauen</hi>  steht der 3. Fall, wenn es gleichbedeutend ist mit „Glauben schenken“, der 4. Fall, wenn von der priesterlichen Trauung die Rede ist: Ich kann <hi rend="italic">ihm</hi>  nicht mehr trauen (Glauben schenken). Der Prediger traute <hi rend="italic">das Brautpaar</hi>.</p>
+                  <p rend="justify">8. Mit <hi rend="italic">gratuliren</hi>  und <hi rend="italic">condoliren</hi>  wird der 3. Fall verbunden: Ich gratulire <hi rend="italic">dir</hi>  = Ich wünsche <hi rend="italic">dir</hi>  Glück. Ich condolire <hi rend="italic">Ihnen</hi>  = Ich bedaure Sie, bezeige Ihnen mein Beileid.</p>
+                  <p rend="justify">9. Dieses Bild ist schön <hi rend="italic">gemalt</hi>. Das Mehl ist fein <hi rend="italic">gemahlen</hi>.</p>
+                  <p rend="justify">10. Der Lehrer <hi rend="italic">lehrt</hi>  die Schüler. Die Schüler <hi rend="italic">lernen</hi>  vom Lehrer.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>VIII.</label>Umstandswörter.</head>
+                  <p rend="justify">§. 32. Die <hi rend="italic">Umstandswörter</hi> bestimmen die <hi rend="italic">Zeit-</hi> und <hi rend="italic">Eigenschaftsw.</hi> näher. Sie können sein:</p>
+                  <p rend="justify">1. Umstandsw. des <hi rend="italic">Ortes</hi>. Wo? Wohin? — da, dort, draußen, drinnen, droben, drüben, hier, her, hin, überall, vorn, hinten, rechts, links, oben, unten, hinaus, hinein, vorwärts etc.</p>
+                  <p rend="justify">2. Umstandsw. der <hi rend="italic">Zeit</hi>. Wann? — bald, immer, häufig, oft, dann, einst, selten, nie, niemals, jetzt, nun, eben, neulich, kürzlich, ehemals, sonst, sofort, heute, morgen, gestern, schon etc.</p>
+                  <p rend="justify">3. Umstandsw. der <hi rend="italic">Weise</hi>. Wie? — gern, sehr, recht, ungemein, besonders, vorzüglich, fast, beinahe, kaum, genug, zu sehr, ganz, merklich, ziemlich etc.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Anm.</hi>  Die meisten Eigenschaftsw. können Umstandsw. der Weise sein, und als solche können sie gesteigert werden. Z. B. Dieser Knabe geht langsam, jener geht langsamer, du gehst am langsamsten.</p>
+                  <p rend="justify">4. Umstandsw. der <hi rend="italic">Bejahung</hi>  und <hi rend="italic">Verneinung</hi>  auf die Frage: Geschieht Etwas oder geschieht es nicht? — ja, freilich, allerdings, vermuthlich, vielleicht, allenfalls, gewiß, wirklich, wohl, — nein, nicht, keineswegs etc.</p>
+                  <p rend="justify">5. Umstandsw. der <hi rend="italic">Frage</hi>: wie? wo? wohin? wozu? womit? etc.</p>
+                  <p rend="justify">Anm. 1. Er ist den ganzen Tag <hi rend="italic">umher</hi>  gelaufen. Der Becher ging bei dem Mahle <hi rend="italic">herum</hi>.</p>
+                  <p rend="justify">Anm. 2. Komm doch <hi rend="italic">herein</hi>! Soll ich zu dir <hi rend="italic">hinaus</hi>  kommen? Er ist eben <hi rend="italic">hinunter</hi>  gegangen.</p>
+                  <p rend="justify">Anm. 3. Eine <hi rend="italic">doppelte Verneinung</hi>  darf nicht angewendet werden, weil dadurch die Behauptung wieder bejaht wird. Man darf also nicht sagen: Ich habe <hi rend="italic">kein</hi>  Geld <hi rend="italic">nicht</hi>.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>IX.</label>Bindewörter.</head>
+                  <p rend="justify">§. 33. Die Bindew. verbinden theils Wörter, theils Sätze mit einander. Sie können sein:</p>
+                  <p rend="justify">A. <hi rend="italic">Bindewort der Beiordnung</hi>  (coordinirende).</p>
+                  <p rend="justify">1. Der <hi rend="italic">Anreihung</hi>  (copulative): und, auch, nun, sowohl — als auch, nicht nur — sondern auch, theils — theils, je — desto, zuletzt, erstlich, erstens, ferner, nicht allein — sondern auch, endlich, dann, nicht bloß — sondern auch, außerdem, dazu.</p>
+                  <p rend="justify">2. Der <hi rend="italic">Entgegnung</hi>  (adversative): aber, allein, doch, dennoch, jedoch, oder, entweder — oder, dagegen, vielmehr, indessen, dessenungeachtet, weder — noch, nicht — sondern, wenn — so, hingegen, gleichwohl, sonst, bald — bald.</p>
+                  <p rend="justify">3. Des <hi rend="italic">Grundes</hi>  (causale): denn, deßwegen, darum, dann, daher, folglich, somit, minb, demnach, also, nämlich, als, deshalb.</p>
+                  <p rend="justify">B. <hi rend="italic">Bindew. der Unterordnung</hi>  (subordinirende): daß, damit, weil, da, als, indem, nachdem, indeß, während, ehe, bevor, seit, seitdem, bis, so lange als, so, so wie, gleichwie, als ob, so daß, ohne daß, auf daß, wenn, falls, obgleich, wenngleich, wiewohl, wie sehr auch, seitdem daß, darum, als wenn, obschon, unterdeß, wenn schon, sobald, wofern, dahin — wohin, daher — woher, da — wo, je — desto.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>X.</label>Empfindungswörter.</head>
+                  <p rend="justify">§. 34. Die Empfindungsw. bezeichnen laute Ausbrüche der Freude, des Schmerzes, der Furcht, des Verlangens etc.</p>
+                  <p rend="justify">ach! ei! heißa! juchhei! o! holla! husch! pfui! o weh! knacks! piff! paff! plumps! he! heda!</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Satzlehre.</head>
+               <p rend="justify">§. 35. Die Menschen können <hi rend="italic">denken</hi>; sie haben <hi rend="italic">Gedanken</hi>. Ein ausgesprochener oder niedergeschriebener Gedanke heißt ein Satz. Ein Satz kann enthalten:</p>
+               <p rend="justify">1. Eine <hi rend="italic">Behauptung</hi>, ein Urtheil, eine Erzählung:</p>
+               <p rend="justify">Müßiggang ist aller <hi rend="italic">Laster</hi>  Anfang. Uebermuth thut selten gut. Hans nährte sich vom Schiebekarren.</p>
+               <p rend="justify">Nach solchen Sätzen steht ein Punkt.</p>
+               <p rend="justify">2. Eine <hi rend="italic">Frage</hi>:</p>
+               <p rend="justify">Wie geht es Euch? Wie fangt ihr’s an? Hört ihr’s wimmern hoch vom Thurm?</p>
+               <p rend="justify">Nach einem Fragesatz steht ein Fragezeichen; ist die Frage aber nicht bestimmt ausgesprochen, so steht ein Punkt.</p>
+               <p rend="justify">Er fragte, wie es ihm gehe.</p>
+               <p rend="justify">3. Einen <hi rend="italic">Wunsch</hi>, Rath, eine Bitte, Aufforderung, Ermahnung, Ermunterung:</p>
+               <p rend="justify">Nur unterlaßt mir den Gesang! Friede sei ihr erst Geläute!</p>
+               <p rend="justify">4. Einen <hi rend="italic">Befehl</hi>  — Gebot oder Verbot:</p>
+               <p rend="justify">Fahr zu, Johann! Setzt euer Licht hierher!</p>
+               <p rend="justify">5. Einen <hi rend="italic">Ausruf</hi>  — der Bewunderung, des Unwillens, Bedauerns, Schmerzes, Schreckes, der Freude, Behauptung etc.</p>
+               <p rend="justify">Gevatter! ihr seid nicht gescheidt! O, welch ein Mensch!</p>
+               <p rend="justify">Nach einem Wunsche, Befehle und Ausrufe steht ein Ausrufungszeichen.</p>
+               <p rend="justify">§. 36. Es giebt:</p>
+               <p rend="justify">a. <hi rend="italic">einfache</hi>  Sätze:</p>
+               <p rend="justify">Der Vater schreibt.</p>
+               <p rend="justify">b. <hi rend="italic">erweiterte</hi>  (ausgebildete oder ergänzte) Sätze:</p>
+               <p rend="justify">Der Vater schreibt den Brief.</p>
+               <p rend="justify">c. <hi rend="italic">zusammengesetzte</hi>  Sätze:</p>
+               <p rend="justify">Der Vater schreibt den Brief, und die Mutter liest die Zeitung.</p>
+               <p rend="justify">Die Glieder (Theile) des einfachen und erweiterten Satzes sind immer nur Wörter, die Glieder des zusammengesetzten Satzes sind aber Sätze.</p>
+               <div type="div3">
+                  <head>
+                     <label>I.</label>Der einfache Satz.</head>
+                  <p rend="justify">§. 37. Jeder <hi rend="italic">einfache</hi> Satz besteht nur aus <hi rend="italic">Gegenstand</hi> und <hi rend="italic">Aussage</hi> (Subject und Prädicat).</p>
+                  <p rend="justify">Den <hi rend="italic">Gegenstand</hi>  des Satzes finde ich dadurch, daß ich mit dem Zeitworte die Frage: <hi rend="italic">Wer?</hi>  oder <hi rend="italic">Was?</hi>  verbinde. Er steht immer im 1. Falle und wird durch ein <hi rend="italic">Hauptwort</hi>  oder durch einen <hi rend="italic">Stellvertreter</hi>  desselben bezeichnet.</p>
+                  <p rend="justify">Der <hi rend="italic">Baum</hi>  blüht. <hi rend="italic">Du</hi>  bist ein Kind. <hi rend="italic">Malen</hi>  ist eine Kunst. <hi rend="italic">Aber</hi>  ist ein Bindewort. <hi rend="italic">Schwarz</hi>  ist die Trauerfarbe.</p>
+                  <p rend="justify">Wie heißt im 1. Satz das Zeitwort? blüht. Wer blüht? der Baum = Gegenstand des Satzes.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Anm.</hi>  Zuweilen kündigt man den Gegenstand durch das Wörtchen „es“ an, giebt ihn aber später bestimmter. Z. B. Es reden und träumen die Menschen viel etc.</p>
+                  <p rend="justify">§. 38. Die <hi rend="italic">Aussage</hi>  findet man auf die Frage:</p>
+                  <p rend="justify">a.Was <hi rend="italic">thut</hi>  ein Gegenstand oder was <hi rend="italic">wird</hi>  mit einem Gegenstande <hi rend="italic">gethan</hi>?</p>
+                  <p rend="justify">b. <hi rend="italic">Wie</hi>  ist ein Gegenstand?</p>
+                  <p rend="justify">c. <hi rend="italic">Was</hi>  ist ein Gegenstand?</p>
+                  <p rend="justify">Sie kann ausgedrückt werden:</p>
+                  <p rend="justify">a. durch ein <hi rend="italic">Zeitwort</hi>  in der That- und Leideform;<lb/>
+                  </p>
+                  <p rend="justify">b. durch ein <hi rend="italic">Eigenschaftswort</hi>, einen Umstand mit dem Hülfszeitwort;<lb/>
+                  </p>
+                  <p rend="justify">c. durch ein <hi rend="italic">Hauptwort</hi>  und <hi rend="italic">Hülfszeitwort</hi>.<lb/>
+                  </p>
+                  <p rend="justify">Der Lehrer <hi rend="italic">lobt</hi>. Der Schüler <hi rend="italic">wird gelobt</hi>. Der Sommer ist <hi rend="italic">heiß</hi>. Der Sturm ist <hi rend="italic">vorüber</hi>. Mit unsrer Freundschaft ist es <hi rend="italic">aus</hi>. Du bist <hi rend="italic">im Irrthum</hi>. Der Knabe ist (befindet sich) <hi rend="italic">auf der Wiese</hi>. Gott ist <hi rend="italic">ein Geist</hi>. Der Soldat wird <hi rend="italic">ein Held</hi>. Der Bruder bleibt (ist) <hi rend="italic">mein Nachbar</hi>.</p>
+                  <p rend="justify">§. 39. 1. Der <hi rend="italic">Gegenstand</hi>  kann stehen:</p>
+                  <p rend="justify">a. in der <hi rend="italic">Einzahl</hi>  und <hi rend="italic">Mehrzahl</hi>;</p>
+                  <lg>
+                     <l>b. in drei <hi rend="italic">verschiedenen Personen</hi>:</l>
+                     <l>Ich schreibe, du schreibst, er schreibt, wir schreiben etc.</l>
+                  </lg>
+                  <p rend="justify">2. Die <hi rend="italic">Aussage</hi>  kann stehen:</p>
+                  <p rend="justify">a. in der <hi rend="italic">Gegenwart</hi>, <hi rend="italic">Vergangenheit</hi>  u. <hi rend="italic">Zukunft</hi>;</p>
+                  <p rend="justify">b. in der <hi rend="italic">Wirklichkeits-</hi>, <hi rend="italic">Möglichkeits-</hi>  und <hi rend="italic">Befehlsweise</hi>.<lb/>
+                  </p>
+                  <p rend="justify">3. <hi rend="italic">Gegenstand</hi>  und <hi rend="italic">Aussage</hi>  stehen immer in <hi rend="italic">gleicher</hi>  Zahl und Person.</p>
+                  <p rend="justify">Der Vater geht. Die Väter gehen.</p>
+                  <p rend="justify">4. <hi rend="italic">Zwei</hi>  und <hi rend="italic">mehrere Gegenstände</hi>  erfordern die Aussage in der <hi rend="italic">Mehrzahl</hi>.</p>
+                  <p rend="justify">Der Vater und die Mutter gehen aus.</p>
+                  <p rend="justify">5. Bei der Frage nach dem Gegenstande hat man auf Person und Zahl, bei der Frage nach der Aussage auf Zeit und Aussageweise zu achten:</p>
+                  <p rend="justify">Wer blüht? Wer hat geblüht? Wer wird blühen? — Was thut der Baum? Was hat der Baum gethan? Was kann der Baum thun?</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>II.</label>Der erweiterte Satz.</head>
+                  <p rend="justify">§. 40. Werden <hi rend="italic">Gegenstand</hi> oder <hi rend="italic">Aussage</hi> des einfachen Satzes, oder beide zugleich <hi rend="italic">näher bestimmt</hi> (erweitert, ergänzt, ausgebildet) so erhält man den <hi rend="italic">erweiterten</hi> Satz.</p>
+                  <p rend="justify">A. <hi rend="italic">Nähere Bestimmungen des Gegenstandes.</hi>
+                  </p>
+                  <p rend="justify">Sie antworten auf die Frage: welcher, e, es, und sind somit <hi rend="italic">eigenschaftlichen</hi>  Characters.</p>
+                  <p rend="justify">Der <hi rend="italic">Gegenstand des Satzes</hi>  kann näher bestimmt werden:</p>
+                  <p rend="justify">1. Durch ein <hi rend="italic">Fürwort</hi>:</p>
+                  <p rend="justify">
+                     <hi rend="italic">Dieser</hi>  (jener, dein) Baum blüht. <hi rend="italic">Derselbe</hi>  Mann war es.</p>
+                  <p rend="justify">2. Durch ein <hi rend="italic">Eigenschaftswort</hi>:</p>
+                  <p rend="justify">Der <hi rend="italic">große</hi>  Baum blüht. Ein <hi rend="italic">gutes</hi>  Gewissen ist ein sanftes Ruhekissen.</p>
+                  <p rend="justify">3. Durch ein <hi rend="italic">Zahlwort</hi>:</p>
+                  <p rend="justify">Der <hi rend="italic">dritte</hi>  Baum blüht. <hi rend="italic">Drei</hi>  Bäume blühen. <hi rend="italic">Aller</hi>  Anfang ist schwer.</p>
+                  <p rend="justify">4. Durch ein <hi rend="italic">Hauptwort</hi>  im 1. Fall:</p>
+                  <p rend="justify">Kaiser <hi rend="italic">Karl</hi>  lebte zur Zeit Luthers. Friedrich der <hi rend="italic">Große</hi>  erbaute Sanssouci. Sechs Loth <hi rend="italic">Zucker</hi>  kosten einen Silbergroschen. Bruder <hi rend="italic">Fritz</hi>  ist verreist. Doctor <hi rend="italic">Mai</hi>  ist angekommen.</p>
+                  <p rend="justify">5. Durch ein <hi rend="italic">Hauptwort</hi>  im 2. Fall:</p>
+                  <p rend="justify">Der Baum <hi rend="italic">meines Bruders</hi>  blüht. Die Furcht <hi rend="italic">des Herrn</hi>  ist der Weisheit Anfang.</p>
+                  <p rend="justify">6. Durch einen <hi rend="italic">Umstand</hi>, der auch durch ein Verhältnißwort mit seinem Fall ausgedrückt werden kann:</p>
+                  <p rend="justify">Der Garten <hi rend="italic">dort so hübsch</hi>  etc. Der Baum <hi rend="italic">in der Stube</hi>  blüht. Ketten <hi rend="italic">von Gold</hi>  drücken oft schwer. Ein Sperling <hi rend="italic">in der Hand</hi>  ist besser, als eine Taube <hi rend="italic">auf dem Dache</hi>.</p>
+                  <p rend="justify">7. Durch ein <hi rend="italic">Zeitwort</hi>  in der <hi rend="italic">Grundform</hi>:</p>
+                  <p rend="justify">Die Lust zu <hi rend="italic">sterben</hi>  ist selten.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Anm.</hi>  Das Eigenschaftswort kann stets durch ein Umstandswort oder ein Verhältnißwort mit seinem Falle näher bestimmt werden. Z. B. Die <hi rend="italic">mit Anlagen</hi>  begabten Schüler. Die <hi rend="italic">recht</hi>  gute Schrift.</p>
+                  <p rend="justify">B. <hi rend="italic">Nähere Bestimmungen der Aussage.</hi>
+                  </p>
+                  <p rend="justify">§. 41. a. <hi rend="italic">Die Aussage</hi>  kann, wenn sie durch ein <hi rend="italic">Hauptwort mit dem Hülfszeitwort sein</hi>  ausgedrückt wird, durch die Bestimmungen des Gegenstandes erweitert werden.</p>
+                  <p rend="justify">Ueberhaupt können Hauptwörter, die in einem Satze vorkommen, die 7 Bestimmungen des Gegenstandes annehmen.</p>
+                  <p rend="justify">Hunger ist der <hi rend="italic">beste Koch</hi>. Müßiggang ist <hi rend="italic">aller</hi>  Laster Anfang. Dienstjahre sind <hi rend="italic">keine</hi>  Herrenjahre. Thorheit ist <hi rend="italic">eine Schwester</hi>  der Dummheit.</p>
+                  <p rend="justify">§. 42. b. Besteht die Aussage aus einem Zeitwort oder Eigenschaftswort, so kann sie <hi rend="italic">näher bestimmt</hi>  werden:</p>
+                  <p rend="justify">a) Durch Bestimmungen <hi rend="italic">gegenständlichen</hi>  Charakters.</p>
+                  <p rend="justify">1. Durch den 4. Fall (<hi rend="italic">regierter</hi>  oder <hi rend="italic">leidender Gegenstand</hi>  = <hi rend="italic">Object</hi>):</p>
+                  <p rend="justify">Ein faules Ei verdirbt <hi rend="italic">den ganzen Brei</hi>. Böse Gesellschaft verdirbt gut’ <hi rend="italic">Sitte</hi>. Uebung macht <hi rend="italic">den Meister</hi>. S. §. 29.</p>
+                  <p rend="justify">2. Durch den 4. u. 3. Fall. (3. Fall = <hi rend="italic">betheiligter Gegenstand</hi>):</p>
+                  <p rend="justify">Der Mann schenkt <hi rend="italic">dem Knaben</hi>  eine Birne. Die Mutter verbietet <hi rend="italic">dem Kinde</hi>  das Naschen. Der Krieg nimmt <hi rend="italic">dem Lande</hi>  seine Söhne. S. §. 29.</p>
+                  <p rend="justify">3. Durch den 4. u. 2. Fall. (2. Fall = bewirkender Gegenstand):</p>
+                  <p rend="justify">Der Dieb beraubt <hi rend="italic">mich meines Geldes</hi>. S. §. 30. 1.</p>
+                  <p rend="justify">4. Durch zwei 4. Fälle:</p>
+                  <p rend="justify">Er nannte <hi rend="italic">ihn einen Narren</hi>. Herr, lehre <hi rend="italic">mich deine Steige</hi>! Wer lehrt <hi rend="italic">das Auge seine Pflicht</hi>? Herr, lehrt <hi rend="italic">mich bess’re Sachen</hi>! S. §. 30. 2.</p>
+                  <p rend="justify">5. Durch den 3. Fall:</p>
+                  <p rend="justify">Der Schüler antwortet <hi rend="italic">mir</hi>. Der Knabe ist <hi rend="italic">ihm</hi>  ähnlich. <hi rend="italic">Peter dem Großen</hi>  wurde die Bildung seines Volkes sehr schwer. S. §. 28.</p>
+                  <p rend="justify">6. Durch den 2. Fall:</p>
+                  <p rend="justify">Ich bedarf <hi rend="italic">seiner</hi>  nicht. Ich bin <hi rend="italic">meiner Sache</hi>  gewiß. Eigner Herd ist <hi rend="italic">Goldes</hi>  werth. Tugend bedarf <hi rend="italic">keines Ausrufers</hi>. S. §. 27.</p>
+                  <p rend="justify">b. Durch Bestimmungen <hi rend="italic">umständlichen</hi>  Charakters.</p>
+                  <p rend="justify">7. Durch einen <hi rend="italic">Umstand des Ortes</hi>:</p>
+                  <p rend="justify">Der Fisch lebt <hi rend="italic">im Wasser</hi>. Treue Hand geht <hi rend="italic">durch’s ganze Land</hi>. Der Knabe spielt <hi rend="italic">hier</hi>, <hi rend="italic">dort</hi>  etc. Man suchte ihn <hi rend="italic">aller Orten</hi>. S. §. 32. 1.</p>
+                  <p rend="justify">8. Durch einen <hi rend="italic">Umstand der Zeit</hi>:</p>
+                  <p rend="justify">Die Bäume blühen <hi rend="italic">im Frühling</hi>. Die Bäume blühen <hi rend="italic">jetzt</hi>. <hi rend="italic">Des Morgens</hi>  schläft er und <hi rend="italic">des Abends</hi>  ist er munter. Rom ist nicht <hi rend="italic">in einem Tage</hi>  erbaut. S. §. 32. 2.</p>
+                  <p rend="justify">9. Durch den <hi rend="italic">Umstand der Weise</hi>:</p>
+                  <p rend="justify">Ich singe dir <hi rend="italic">mit Herz und Mund</hi>. Der Schüler singt <hi rend="italic">rein</hi>  und <hi rend="italic">richtig</hi>. Zwei harte Steine mahlen <hi rend="italic">nicht</hi>  gut. Er mußte <hi rend="italic">stehenden Fußes</hi>  umkehren. S. §. 32. 3.</p>
+                  <p rend="justify">10. Durch einen <hi rend="italic">Umstand des Grundes</hi>:</p>
+                  <p rend="justify">Der Knabe weint <hi rend="italic">vor Schmerz</hi>. <hi rend="italic">Gesundheitshalber</hi>  giebt er die Arbeit auf.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Anm.</hi>  Die Umstände des Ortes, der Zeit und der Weise können ausgedrückt werden durch:</p>
+                  <p rend="justify">a. Verhältnißwörter mit ihren Fällen;</p>
+                  <p rend="justify">b. Umstandswörter;</p>
+                  <p rend="justify">c. Fälle der Hauptwörter.</p>
+                  <p rend="justify">Der Umstand des Grundes kann nur durch ein Verhältnißwort mit seinem Falle ausgedrückt werden.</p>
+                  <p rend="justify">11. Durch ein Zeitwort in der <hi rend="italic">Grundform</hi>:</p>
+                  <p rend="justify">Ich höre ihn <hi rend="italic">kommen</hi>. Er hat mich <hi rend="italic">gehen</hi>  heißen. Der Freund hat ihm <hi rend="italic">schreiben</hi>  helfen.</p>
+                  <p rend="justify">Mehrere Bestimmungen.</p>
+                  <p rend="justify">§. 43. <hi rend="italic">Gegenstand und Aussage</hi>  können durch mehrere <hi rend="italic">verschiedene</hi>  Bestimmungen (Ergänzungen) zu gleicher Zeit ausgebildet werden. Zwischen ihnen steht kein Zeichen.</p>
+                  <p rend="justify">Dieser freundliche Sohn meiner vielgeliebten Tante schenkte jenem armen Knaben am ersten Weihnachtstage auf dem Weihnachtsmarkte diesen recht warmen Anzug. Der fleißige Knabe aus dem benachbarten Dorfe schreibt morgen früh um acht Uhr in der obern Schule seinem Vetter in der Stadt einen sehr langen Brief zum nächsten Geburtstage.</p>
+                  <p rend="justify">Werden sie jedoch durch <hi rend="italic">gleichartige</hi>  Bestimmungen erweitert, so steht zwischen diesen ein Komma, wenn sie nicht durch „<hi rend="italic">und</hi>“ verbunden sind:</p>
+                  <p rend="justify">Marie war eine klare, heitere, thätige und wackere Schülerin.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>III.</label>Der zusammengesetzte Satz.</head>
+                  <p rend="justify">§. 44. Jeder <hi rend="italic">zusammengesetzte Satz</hi> besteht aus einfachen oder erweiterten Sätzen oder aus beiden zugleich. Sind diese Sätze von einander unabhängig — ist jeder einzelne für sich verständlich, — so nennt man sie beigeordnet (coordinirt):</p>
+                  <p rend="justify">Friede ernährt; Unfriede verzehrt.</p>
+                  <p rend="justify">Sind sie aber von einander <hi rend="italic">abhängig</hi>  — kann der eine ohne den andern nicht verstanden werden, — so sind sie einander <hi rend="italic">über</hi>- und <hi rend="italic">untergeordnet</hi>:</p>
+                  <p rend="justify">Wer Gutes thut, hat frohen Muth.</p>
+                  <p rend="justify">Die übergeordneten (superordinirten) Sätze heißen — sind sie unabhängig — <hi rend="italic">Hauptsätze</hi>, die untergeordneten (subordinirten) heißen <hi rend="italic">Nebensätze</hi>.</p>
+                  <p rend="justify">1. Hauptsätze sind Hauptsätzen beigeordnet:</p>
+                  <p rend="justify">Der Knecht hat erstochen den edlen Herrn; der Knecht wär’ selber ein Ritter gern. Mit Vielem hält man Haus; mit Wenigem kommt man aus.</p>
+                  <p rend="justify">2. Nebensätze sind Nebensätzen beigeordnet:</p>
+                  <p rend="justify">Wenn du deinen Beruf treu erfüllst; wenn du den Gesetzen des Landes gehorchst: so soll Niemand dir ein Leid zufügen.</p>
+                  <p rend="justify">3. Hauptsätze sind Nebensätzen übergeordnet.</p>
+                  <p rend="justify">4. Nebensätze sind Hauptsätzen untergeordnet:</p>
+                  <p rend="justify">Und als er die güldenen Sporen ihm gab, da schleudert’s ihn wild in den Strom hinab.</p>
+                  <p rend="justify">5. Nebensätze können Nebensätzen über- und untergeordnet sein. Es giebt also Nebensätze ersten, zweiten u. s. w. Ranges:</p>
+                  <p rend="justify">Den schlechten Mann muß man verachten, der nie bedacht, was er vollbringt.</p>
+                  <p rend="justify">A. Beigeordnete Sätze.</p>
+                  <p rend="justify">§. 45. 1. <hi rend="italic">Beigeordnete Sätze</hi>  werden gar nicht oder durch Bindewörter der Beiordnung verbunden. S. §. 33. A.</p>
+                  <p rend="justify">2. Zwischen beigeordneten Sätzen — sind sie nicht sehr kurz — steht ein Semikolon (;), ausgenommen vor „<hi rend="italic">und</hi>“ und „<hi rend="italic">oder</hi>“, vor diesen steht ein Komma.</p>
+                  <p rend="justify">Sie können sein:</p>
+                  <p rend="justify">1. <hi rend="italic">Anreihend</hi>:</p>
+                  <p rend="justify">Redlich sei des Herzens Grund; redlich spreche stets der Mund. Jede Stund’ ist wichtig; Müßiggang ist nichtig. Töne entlockt er der Flöte <hi rend="italic">und</hi>  das Echo des Berges wird wach. Im Herbste werden die Tage kürzer; <hi rend="italic">auch</hi>  kühlt sich die Luft immer mehr ab. Dort nahet der Feind; <hi rend="italic">nun</hi>  laßt uns wacker kämpfen! Zuerst beginnt der Tag zu dämmern; <hi rend="italic">dann</hi>  verlieren die Sternlein ihren Glanz; <hi rend="italic">zuletzt</hi>  erscheint die Sonne in ihrer Purpurpracht. <hi rend="italic">Nicht nur</hi>  suchte ich ihn im Felde; <hi rend="italic">sondern</hi>  mein Bruder durchlief auch den Wald.</p>
+                  <p rend="justify">2. <hi rend="italic">Entgegenstellend</hi>:</p>
+                  <p rend="justify">Heute wird <hi rend="italic">entweder</hi>  jenes Gras gemäht, <hi rend="italic">oder</hi>  dieses Holz wird eingefahren. Schönheit verläßt uns bald; <hi rend="italic">aber</hi>  ein getreues Herz bleibt uns. Die Biene ist zwar ein kleines Thier; <hi rend="italic">allein</hi>  sie kann große Schmerzen verursachen.</p>
+                  <p rend="justify">3. <hi rend="italic">Begründend</hi>:</p>
+                  <p rend="justify">Wo ihr wohnet, da verschönet jedes gute Herz den Ort; <hi rend="italic">drum</hi>  verweilet froh und eilet nur so bald nicht wieder fort. Das Glas ist spröde; <hi rend="italic">daher</hi>  läßt es sich nicht biegen. Der Mensch kann das Gute thun und das Böse lassen; <hi rend="italic">denn</hi>  er hat freien Willen. Ich hatte schon einem Andern mein Wort gegeben; <hi rend="italic">deßhalb</hi>  konnte ich deinem Wunsche nicht nachkommen.</p>
+                  <p rend="justify">Zusammengezogene Sätze.</p>
+                  <p rend="justify">§. 46. Gehören in <hi rend="italic">beigeordneten</hi>  Sätzen <hi rend="italic">mehrere</hi>  Gegenstände (Subj.) zu <hi rend="italic">einer</hi>  Aussage (Praed.), oder <hi rend="italic">mehrere</hi>  Aussagen zu <hi rend="italic">einem</hi>  Gegenstande, so hat man <hi rend="italic">zusammengezogene Sätze</hi>:</p>
+                  <p rend="justify">Grobheit und Stolz wachsen auf einem Holz. Hoffen und Harren macht Manchen zum Narren. Bewegung, Mäßigkeit und Ruh’ schließt dem Arzt die Thüre zu. Einige Blumen blühen im Sommer, andere blühen im Herbste. Der Fuchs ist schlau, listig und raubgierig. Er kam, sah’ und siegte. Nadelhölzer sind: Tannen, Fichten, Kiefern etc. Fleiß bringt Brod, Faulheit Noth. Roggen wird entweder geschnitten oder gemäht. Verschlossener Mund und offene Augen haben noch Niemandem geschadet. Sammet und Seide löschen das Feuer in der Küche aus.</p>
+                  <p rend="justify">Anm. In den zusammengezogenen Sätzen steht vor „<hi rend="italic">und</hi>“ und „<hi rend="italic">oder</hi>“ kein Komma.</p>
+                  <p rend="justify">B. Nebensätze.</p>
+                  <p rend="justify">§. 47. Der <hi rend="italic">Nebensatz</hi>  steht immer an der Stelle eines Satzgliedes und kann in ein solches verwandelt werden.</p>
+                  <p rend="justify">Die Nebensätze werden durch die Bindewörter der Unterordnung mit den Hauptsätzen verbunden. S. §. 33. B.</p>
+                  <p rend="justify">Da es dreierlei nähere Bestimmungen giebt, so giebt es auch dreierlei Nebensätze.</p>
+                  <p rend="justify">1. Eigenschaftssätze.</p>
+                  <p rend="justify">Die Nebensätze können stehen für <hi rend="italic">eigenschaftliche Bestimmungen</hi>  = <hi rend="italic">Eigenschaftssätze</hi>  (Adjectiv-, Relativ-Sätze). Sie werden mit dem Hauptsatze in der Regel durch die zurückbeziehenden Fürwörter: welcher, e, es; der, die, das, auch wohl durch: <hi rend="italic">wo</hi>, <hi rend="italic">wann</hi>, <hi rend="italic">wie</hi>, verbunden:</p>
+                  <p rend="justify">Nichts ist so elend, als ein Mann, der Alles will, und der Nichts kann. = Nichts ist so elend, als ein Alles <hi rend="italic">wollender</hi>  und <hi rend="italic">Nichts könnender</hi>  Mann. Die Sterne, welche ihr eigenes Licht haben, heißen Fixsterne.</p>
+                  <p rend="justify">2. Gegenstandssätze.</p>
+                  <p rend="justify">§. 48. Die Nebens. können stehen für gegenständliche Bestimmungen = <hi rend="italic">Gegenstandssätze</hi>  (Substantiv-Sätze) und werden mit dem Hauptsatze in der Regel durch: <hi rend="italic">daß</hi>, <hi rend="italic">ob</hi>, <hi rend="italic">wer</hi>, <hi rend="italic">was</hi>, <hi rend="italic">wo</hi>, <hi rend="italic">wann</hi>, <hi rend="italic">wie</hi>  etc. verbunden. Als solche können sie sein:</p>
+                  <p rend="justify">a. <hi rend="italic">Gegenstandssätze</hi>  für den 4. Fall (Object-Sätze).</p>
+                  <p rend="justify">Sage mir, mit wem du umgehst, und ich will dir sagen, was du werth bist. = Sage mir <hi rend="italic">deinen Umgang</hi>, und ich will dir <hi rend="italic">deinen Werth sagen</hi>. Wer läuft, den jagt man. Wer <hi rend="italic">hoch</hi>  steht, den sieht man.</p>
+                  <p rend="justify">1. Hierher gehören auch die Sätze, die angeben, was Jemand sagt, meint, behauptet etc.</p>
+                  <p rend="justify">Solon sagte: Niemand ist vor seinem Tode glücklich.</p>
+                  <p rend="justify">2. Vor der wörtlich angeführten (directen) Rede steht ein Doppelpunkt. Häufig folgen diesem Doppelpunkt auch noch Anführungsstriche:</p>
+                  <p rend="justify">Solon sagte. „Niemand ist vor seinem Tode glücklich.“</p>
+                  <p rend="justify">3. Tritt der Einführungssatz zwischen den Ergänzungssatz, so sind die Zeichen in folgender Weise zu setzen:</p>
+                  <p rend="justify">„Niemand“, sagte Solon, „ist vor seinem Tode glücklich“. — „Komm mit“, sprach neulich der Klaus zu mir, „vor dem Thore etc.“</p>
+                  <p rend="justify">4. Führt man die Rede nicht wörtlich (indirect) an, so werden die Sätze durch ein Komma getrennt:</p>
+                  <p rend="justify">Solon sagte, daß Niemand vor seinem Tode glücklich sei.</p>
+                  <p rend="justify">b. <hi rend="italic">Gegenstandssätze</hi>  für den 2. Fall (Genitiv-Sätze):</p>
+                  <p rend="justify">Der Gedanke, daß Gott gerecht sei, giebt allein dem Menschen Ruhe = der Gedanke <hi rend="italic">der Gerechtigkeit</hi>  Gottes giebt allein etc. Er erinnerte sich, daß er ihn gesehen = seines Anblicks.</p>
+                  <p rend="justify">c. <hi rend="italic">Gegenstandssätze</hi>  für den 3. Fall (Dativ-Sätze):</p>
+                  <p rend="justify">Verkündige die Nachricht, wem du zuerst begegnest = <hi rend="italic">dem dir zuerst Begegnenden</hi>. Wem nicht zu rathen ist, dem ist nicht zu helfen. Wer zürnet, dem reiche kein Messer.</p>
+                  <p rend="justify">§. 49. d. Auch das Subject kann durch einen Nebensatz ausgedrückt werden = (Subject-Sätze):</p>
+                  <p rend="justify">Wer Pech angreift, besudelt sich = der Pech <hi rend="italic">Angreifende</hi>  besudelt sich. Wer antwortet auf unnütz Geschrei, der macht aus einem Unglück zwei. Wer nicht hören will, muß fühlen.</p>
+                  <p rend="justify">3. Umstandssätze.</p>
+                  <p rend="justify">§. 50. Die <hi rend="italic">Nebensätze</hi>  können stehen für <hi rend="italic">umständliche Bestimmungen</hi>  (Umstands-, Adverbial-Sätze). Sie können sein:</p>
+                  <p rend="justify">a. <hi rend="italic">Umstandssätze des Ortes:</hi>
+                  </p>
+                  <p rend="justify">Er starb, wo er geboren war = <hi rend="italic">an dem Orte</hi>  seiner Geburt.</p>
+                  <p rend="justify">b. <hi rend="italic">Umstandssätze der Zeit:</hi>
+                  </p>
+                  <p rend="justify">Wenn die Sonne scheint, ist unser Zimmer hell = beim Schein der Sonne.</p>
+                  <p rend="justify">c. <hi rend="italic">Umstandssätze der Art und Weise:</hi>
+                  </p>
+                  <p rend="justify">Wie der Mensch säet, so wird er ernten = <hi rend="italic">seiner Saat gemäß</hi>.</p>
+                  <p rend="justify">d. <hi rend="italic">Umstandssätze des Grundes:</hi>
+                  </p>
+                  <p rend="justify">Der Christ liebt und ehrt die Tugend, weil sie Gott gebietet = <hi rend="italic">um des göttlichen Gebotes</hi>  willen.</p>
+                  <p rend="justify">Satzkürze. Beisatz. Anrede.</p>
+                  <p rend="justify">§. 51. 1. Fehlen in den <hi rend="italic">Nebensätzen</hi>  Satztheile, so hat man <hi rend="italic">verkürzte Sätze</hi>  (Satzkürzen). Die fehlenden Theile lassen sich leicht ergänzen:</p>
+                  <p rend="justify">Es ist ein großes Glück, gute Eltern zu haben = wenn man gute Eltern hat. Des Weges unkundig, verirrte ich mich = da ich des Weges unkundig etc. Allzustraff gespannt, zerspringt der Bogen = der Bogen zerspringt, wenn er etc. Das Recht spricht: Jedem das Seine! Die Liebe: Jedem das Deine! Johann, der muntere Seifensieder, erlernte viele schöne Lieder = Johann, welcher ein munterer Seifensieder war, erlernte etc.</p>
+                  <p rend="justify">2. Ist im verkürzten Nebensatze, wie in dem letztgenannten Beispiele, die Aussage durch ein Hauptwort ausgedrückt, so hat man einen <hi rend="italic">Beisatz</hi>  (Gleichstand, Apposition). Der Beisatz muß mit dem Hauptworte, zu dem er gehört, in gleicher Zahl und im gleichen Falle stehen:</p>
+                  <p rend="justify">Hans Gutgenug, <hi rend="italic">der bequeme Knecht</hi>, macht seine Sache nur halb und schlecht. Vor der Stimme des Löwen, <hi rend="italic">des Königs</hi>  der Wälder, fürchten sich alle Thiere.</p>
+                  <p rend="justify">3. Auch die Anrede ist ein verkürzter Satz:</p>
+                  <p rend="justify">Gott grüß dich, <hi rend="italic">Alter</hi>, schmeckt etc. Gott sieht dich, <hi rend="italic">Kind</hi>, d’rum scheu die Sünd’! <hi rend="italic">Kind</hi>, wirst du roth, so warnt dich Gott.</p>
+                  <p rend="justify">Stellung der Nebensätze.</p>
+                  <p rend="justify">§. 52. 1. Stehen <hi rend="italic">Nebensätze vor dem Hauptsatze</hi>, so heißen sie <hi rend="italic">Vordersätze</hi>; der <hi rend="italic">Hauptsatz</hi>  aber heißt <hi rend="italic">Nachsatz</hi>:</p>
+                  <p rend="justify">Wer Gutes thut, hat frohen Muth.</p>
+                  <p rend="justify">2. Stehen sie <hi rend="italic">zwischen den Theilen des Hauptsatzes</hi>, so heißen sie <hi rend="italic">Zwischensätze</hi>:</p>
+                  <p rend="justify">Fritz, der im Gehen recht Zeit zum Lügen fand, log auf die unverschämteste Weise.</p>
+                  <p rend="justify">3. Stehen sie <hi rend="italic">nach</hi>  dem Hauptsatze, so heißen sie <hi rend="italic">Nachsätze</hi>:</p>
+                  <p rend="justify">Es helfen weder Licht noch Brill’, wenn das Aug’ nicht sehen will.</p>
+                  <p rend="justify">§. 53. <hi rend="italic">Nebensätze</hi>  werden durch ein <hi rend="italic">Komma</hi>  vom Hauptsatze getrennt; <hi rend="italic">Zwischensätze</hi>  stehen zwischen 2 Komma. Für die verkürzten Nebensätze gilt dasselbe. Es steht also auch der <hi rend="italic">Beisatz</hi>  und die <hi rend="italic">Anrede</hi>  zwischen 2 Komma. Steht die Anrede zu Anfang des Satzes, so folgt ihr ein Komma: Johann, bring’ Holz! In Briefen folgt der Anrede auch ein Ausrufungszeichen: Lieber Freund!</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Bemerkungen.</head>
+               <p rend="justify">1. <hi rend="italic">Unvollständige Hauptsätze</hi> (elliptische Sätze) sind:</p>
+               <p rend="justify">Guten Morgen! Nein! Ja! Feuer! Herein! Achtung geben!</p>
+               <p rend="justify">2. Enthalten Sätze nicht nothwendig zum Zusammenhange der Rede gehörende Bemerkungen, so heißen diese <hi rend="italic">eingeschobene</hi>  Sätze und werden zwischen Klammern, Parenthesen oder Gedankenstriche gesetzt:</p>
+               <p rend="justify">Der Schelm — ich will ihn zwar nicht schimpfen — der etc.</p>
+               <p rend="justify">Auch benutzt man die Parenthese () zur Einschaltung einzelner Wörter.</p>
+               <p rend="justify">3. Es giebt auch <hi rend="italic">abgebrochene</hi>  Sätze:</p>
+               <p rend="justify">Wenn du nicht gehst, so ….</p>
+               <p rend="justify">Die Periode.</p>
+               <p rend="justify">§. 54. Mehrere Sätze können eine <hi rend="italic">Periode</hi>  bilden. Es giebt <hi rend="italic">zwei-</hi>  und <hi rend="italic">mehrgliedrige Perioden</hi>.</p>
+               <p rend="justify">Vorder- und Nachsatz werden in einer zweigliedrigen Periode durch ein Semikolon getrennt:</p>
+               <p rend="justify">Weil der Westwind über den atlantischen Ocean weht und die Ausdünstungen desselben mit sich führt; so pflegt er uns Regenwetter zu bringen.</p>
+               <p rend="justify">Vorder- und Nachsatz werden in einer mehrgliedrigen Periode durch ein Kolon, unter sich aber durch ein Semikolon getrennt:</p>
+               <p rend="justify">Wenn du wahrhaft und auf die Dauer glücklich zu sein wünschest; so befleißige dich eines rechtschaffenen Lebens: denn nur der Rechtschaffene vermag in Wahrheit glücklich zu sein.</p>
+               <p rend="justify">Satzzeichen.</p>
+               <p rend="justify">§. 55. Deutlichkeit in Schrift und Rede erfordern es, daß man Zusammengehöriges nicht auseinander reiße, Verschiedenes aber andererseits aus einander halte. Um dieses zu können, bedient man sich der <hi rend="bold">Satzzeichen</hi>  (Interpunction). Diese sind:</p>
+               <p rend="justify">A. Satzpausenzeichen.</p>
+               <p rend="justify">1. Der <hi rend="bold">Strich</hi>  oder das <hi rend="bold">Komma</hi>  (,);</p>
+               <p rend="justify">2. der <hi rend="bold">Strichpunkt</hi>  oder das <hi rend="bold">Semikolon</hi>  (;);</p>
+               <p rend="justify">3. der <hi rend="bold">Doppelpunkt</hi>  oder das <hi rend="bold">Kolon</hi>  (:);</p>
+               <p rend="justify">4. der <hi rend="bold">Punkt</hi>  (.);</p>
+               <p rend="justify">5. der <hi rend="bold">Gedankenstrich</hi>  (—).</p>
+               <p rend="justify">Ueber den Gebrauch der Nr. 1–4 ist bereits bei der Satzlehre gesprochen. Der Gedankenstrich steht, um eine größere Pause als den Punkt anzuzeigen, oder um die Aufmerksamkeit des Lesers zu spannen.</p>
+               <table rend="frame" xml:id="Table11">
+                  <row>
+                     <cell>§. 56.</cell>
+                     <cell>B. Satztonzeichen.</cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+               <p rend="justify">1. Das <hi rend="bold">Fragezeichen</hi> (?);</p>
+               <p rend="justify">2. das <hi rend="bold">Ausrufungszeichen</hi>  (!).<lb/>
+               </p>
+               <p rend="justify">Schließen die Satztonzeichen einen Satz, so schreibt man nach ihnen einen großen Anfangsbuchstaben. Weiteres über diese Zeichen findet sich ebenfalls in der Satzlehre.</p>
+               <p rend="justify">C. Hülfszeichen.</p>
+               <p rend="justify">1. Die <hi rend="bold">Klammer</hi>  oder <hi rend="bold">Parenthese</hi>  [] ();</p>
+               <p rend="justify">2. das <hi rend="bold">Bindezeichen</hi>  (-) (⸗);<lb/>
+               </p>
+               <p rend="justify">3. der <hi rend="bold">Apostroph</hi>  oder das <hi rend="bold">Häkchen</hi>  (’) steht für ein ausgelassenes e, ei, i.<lb/>
+               </p>
+               <p rend="justify">Mich dünk’t, ich mein’, ich glaub’, ich dacht’ hat manchen guten Gesellen in’s Verderben gebracht. Ein blut’ger Kampf! Ich hab’ ’nen schweren Stand gehabt.</p>
+               <p rend="justify">4. die <hi rend="bold">Anführungszeichen</hi>, <hi rend="bold">Gänsefüßchen</hi>  („ “);</p>
+               <p rend="justify">5. das <hi rend="bold">Zeichen der abgebrochenen Rede</hi>  (…) (— —);</p>
+               <p rend="justify">6. das <hi rend="bold">Zeichen des Abschnittes</hi>  oder <hi rend="bold">Paragraphen</hi>  (§).</p>
+               <table rend="frame" xml:id="Table12">
+                  <row>
+                     <cell>§. 57.</cell>
+                     <cell>Wortbildung.</cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+               <table rend="frame" xml:id="Table13">
+                  <row>
+                     <cell>
+                        <hi rend="bold">Stamm.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="bold">Ableitung.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="bold">Zusammensetzung.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Band</cell>
+                     <cell>Bändchen</cell>
+                     <cell>Bandeisen.</cell>
+                  </row>
+               </table>
+               <p rend="justify">A. Ableitungen.</p>
+               <p rend="justify">
+                  <hi rend="bold">1. Hauptwörter</hi>  durch: er, in, chen, lein, ling, en, ung, niß, muth, sal, ei, e, keit, heit, schaft, thum (tum), ge.</p>
+               <p rend="justify">
+                  <hi rend="bold">2. Eigenschaftswörter</hi>  durch: ig, isch, bar, sam, en, ern, lich, haft, icht.</p>
+               <p rend="justify">
+                  <hi rend="bold">3. Zeitwörter</hi>  durch: chen, ken, chten, eln, ern, igen, zen; durch die Vorsilben: be, er, ver, ent, zer, ge, miß, ur.</p>
+               <p rend="justify">
+                  <hi rend="bold">4. Umstandswörter</hi>  durch: lich, haft, icht, lings.</p>
+               <p rend="justify">B. §. 58. Zusammensetzungen: 1. Bestimmungsw. 2. Grundw.</p>
+               <p rend="justify">
+                  <hi rend="bold">1. Hauptwörter.</hi>
+               </p>
+               <p rend="justify">a) Hauptwörter und Hauptwörter (Schulhaus).</p>
+               <p rend="justify">b) Hauptwörter und Eigenschaftswörter (Jungfrau).</p>
+               <p rend="justify">c) Hauptwörter und Zeitwörter (Wohnhaus).</p>
+               <p rend="justify">
+                  <hi rend="bold">2. Eigenschaftswörter.</hi>
+               </p>
+               <p rend="justify">a) Eigenschaftswörter <hi rend="bold">u.</hi>  Eigenschaftsw. (hellgrün).</p>
+               <p rend="justify">b) Hauptwörter <hi rend="bold">u.</hi>  Eigenschaftswörter (naseweis).</p>
+               <p rend="justify">c) Eigenschaftswörter <hi rend="bold">u.</hi>  Zeitwörter (lernbegierig).</p>
+               <p rend="justify">
+                  <hi rend="bold">3. Zeitwörter</hi>  mit: an, auf, aus, bei, durch, ein, mit, nach, um, unter, über, vor, ab, voll, wieder, dar, fort, heim, hin, her, weg.</p>
+               <p rend="justify">
+                  <hi rend="bold">4. Zusammengesetzte Umstandswörter.</hi>
+                  <lb/>Ebendaselbst, himmelwärts etc.</p>
+               <p rend="justify">Eine Wörterfamilie: <hi rend="italic">Ziehen</hi>.</p>
+               <p rend="justify">Der <hi rend="italic">Zug</hi>, der Truppenzug, der Zugvogel, der Gesichtszug, die Ziehung; die <hi rend="italic">Zucht</hi>, die Kinderzucht, der Zögling, die Bienenzucht; <hi rend="italic">züchtigen</hi>, die Züchtigung, der Züchtling, die Züchtlingsarbeit, das Zuchthaus, die Zuchthausarbeit, der Zuchtmeister, die Zuchtruthe, züchtig, züchtiglich; <hi rend="italic">abziehen</hi>, der Abzug; <hi rend="italic">anziehen</hi>, der Anzug, die Anziehung, die Anzüglichkeit; <hi rend="italic">aufziehen</hi>, der Aufzug, die Aufzieherei; <hi rend="italic">ausziehen</hi>, der Auszug, der Auszieher; <hi rend="italic">beziehen</hi>, der Bezug, die Beziehung, beziehlich, bezüglich; <hi rend="italic">durchziehen</hi>, der Durchzug; <hi rend="italic">einziehen</hi>, der Einzug, die Einziehung; <hi rend="italic">entziehen</hi>; <hi rend="italic">erziehen</hi>, die Erziehung, der Erzieher, die Erziehungsschule, erziehungskundig; <hi rend="italic">nachziehen</hi>, der Nachzug, der Nachzügler; <hi rend="italic">umziehen</hi>, der Umzug; <hi rend="italic">verziehen</hi>, der Verzug; <hi rend="italic">vorziehen</hi>, der Vorzug, vorzüglich, die Vorzüglichkeit; <hi rend="italic">überziehen</hi>, der Ueberzug etc.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Rechtschreibung — Orthographie.</head>
+               <p rend="justify">§. 59. 1. Ein <hi rend="bold">Wort</hi> hat eine oder mehrere <hi rend="bold">Silben</hi>. <hi rend="bold">Eine Silbe</hi> besteht aus <hi rend="bold">Lauten</hi>. Die <hi rend="bold">Laute</hi> sind entweder <hi rend="bold">Selbstlaute</hi> oder <hi rend="bold">Mitlaute</hi> (Vocale oder Consonanten).</p>
+               <p rend="justify">2. Die Selbstlaute können sein:</p>
+               <p rend="justify">a. Grundlaute:</p>
+               <p rend="justify">
+                  <hi rend="bold">a</hi>, <hi rend="bold">e</hi>, <hi rend="bold">i</hi>,</p>
+               <p rend="justify">
+                  <hi rend="bold">o</hi>,</p>
+               <p rend="justify">
+                  <hi rend="bold">u — y</hi>;</p>
+               <p rend="justify">b. Umlaute:</p>
+               <p rend="justify">
+                  <hi rend="bold">ä</hi>,</p>
+               <p rend="justify">
+                  <hi rend="bold">ö</hi>,</p>
+               <p rend="justify">
+                  <hi rend="bold">ü</hi>;</p>
+               <p rend="justify">c. Doppellaute:</p>
+               <p rend="justify">
+                  <hi rend="bold">au</hi>, <hi rend="bold">äu</hi>, <hi rend="bold">eu</hi>, <hi rend="bold">ei</hi>, <hi rend="bold">ai</hi>.</p>
+               <p rend="justify">Die Mitlaute heißen: b, c, d, f, g, h, k, l, m, n, p, q, r, ſ, s, t, v, w, x, z, j, ch, sch, ß.<lb/>
+               </p>
+               <p rend="justify">3. Steht der Mitlaut vor dem Selbstlaute, so heißt er <hi rend="italic">Vorlaut</hi>; steht er nach dem Selbstlaute, so heißt er <hi rend="italic">Nachlaut</hi>. Ein Wort hat soviel Silben, als es Selbstlaute hat. Die Zeichen für die Laute heißen Buchstaben. Die Gesammtheit der einfachen Buchstaben nennt man das A-be-ce oder Alphabet.</p>
+               <p rend="justify">§. 60. 1 Löse jeden Satz in seine Wörter, jedes <hi rend="italic">Wort</hi>  in seine Silben und jede <hi rend="italic">Silbe</hi>  in ihre Laute auf; setze für jeden Laut den entsprechenden <hi rend="italic">Buchstaben</hi>; sieh auf die <hi rend="italic">Ableitung</hi>, beachte die <hi rend="italic">Verlängerung</hi>, und richte dich nach dem <hi rend="italic">Sprachgebrauch</hi>.</p>
+               <p rend="justify">2. Hat ein Wort a, o, u oder au, so erhält das abgeleitete ä, ö, ü oder äu.</p>
+               <p rend="justify">Bach — Bäche; Sohn — Söhne; Tuch — Tücher; Baum — Bäume.</p>
+               <p rend="justify">3. Weißt du nicht, ob du zum Schlusse eines Wortes <hi rend="bold">b</hi>  oder <hi rend="bold">p</hi>, <hi rend="bold">d</hi>  oder <hi rend="bold">t</hi>, <hi rend="bold">g</hi>, <hi rend="bold">ch</hi>  oder <hi rend="bold">k</hi>, <hi rend="bold">s</hi>, <hi rend="bold">ß</hi>  oder <hi rend="bold">z</hi>  setzen sollst, so verlängere das Wort.</p>
+               <p rend="justify">Korb — Körbe; plump — plumper; Wald — Wälder; kalt — kälter; Gang — Gänge; Storch — Störche; Bank — Bänke; Gans — Gänse; Fuß — Füße; Kranz — Kränze.</p>
+               <p rend="justify">4. Zu Anfang einer Silbe steht das lange „ſ“; zum Schluß einer Silbe steht das „s“. Folgt „t“ auf „s“, so wird in der Regel auch als Nachlaut „ſt“ geschrieben.</p>
+               <p rend="justify">Mäu-ſe, Mäus-chen, Aus-ſicht, Kunſt, daſſelbe, deßhalb.</p>
+               <p rend="justify">§. 61. Die <hi rend="italic">Dehnung</hi>  der Selbstlaute <hi rend="bold">a</hi>, <hi rend="bold">e</hi>, <hi rend="bold">o</hi>  wird oft durch <hi rend="bold">aa</hi>, <hi rend="bold">ee</hi>, <hi rend="bold">oo</hi>  bezeichnet. Geht der Selbstlaut in den Umlaut über, so schwindet die Verdoppelung.</p>
+               <p rend="justify">
+                  <hi rend="bold">aa</hi>: Aal, Aar, Aas, baar, Haar, Maal, Paar, Saal, Saat, Staat, Waare, Härchen, Pärchen, Säle.</p>
+               <p rend="justify">
+                  <hi rend="bold">ee</hi>: Allee, Armee, Beere, Beet, Fee, Heer, Heerde, Idee, Kameel, Kaffee, Klee, leer, Livree, Meer, Moschee, Portepee, Schnee, See, Seele, Speer, Spree, Theer, — des See’s, die Seen, des Schnee’s.</p>
+               <p rend="justify">
+                  <hi rend="bold">oo</hi>: Boot, Loos, Moor, Moos, Böte, Loose, Moore, Moose.</p>
+               <p rend="justify">§. 62. 1. Die Dehnung der Selbst- und Umlaute wird oft durch Hinzufügung des <hi rend="bold">„h“</hi>  bezeichnet. Siehe auf die Grundform der Zeitwörter und beachte die Ableitung: Mehl, Lehm, Huhn, Ohr, zählen, fühlen, dröhnen; sah — sehen, ruht — ruhen, fröhlich — froh — froher.</p>
+               <p rend="justify">2. Bei dem <hi rend="bold">„i“</hi>  bezeichnet man die Dehnung, indem man ein <hi rend="bold">„e“</hi>, ein <hi rend="bold">„h“</hi>  oder ein <hi rend="bold">„eh“</hi>  hinzufügt.</p>
+               <p rend="justify">
+                  <hi rend="bold">ie</hi>: die, dies, hier, nie, sie, viel, vier, wie, Harmonie, Kopie, Melodie, Paradies; — deklamiren, speculiren, illuminiren — <hi rend="bold">iren</hi>; aber: regieren, spazieren; Quartier, einquartieren.</p>
+               <p rend="justify">
+                  <hi rend="bold">ih:</hi>  ihm, ihn, ihr, ihnen, ihres, ihrem, ihren.</p>
+               <p rend="justify">
+                  <hi rend="bold">ieh:</hi>  stiehlt, — stehlen; befiehlt, sieh, lieh, zieh, gedieh, Vieh, Viehes.</p>
+               <p rend="justify">§. 63. 1 Mit <hi rend="bold">„th“</hi>  werden geschrieben:<lb/>Thal, Thaler, That, Thau, Theil, Theater, Thema, Theodor, Therese, Thermometer, theuer, Thier, Thür, Thon, aber: Ton (eines Instruments), Thor, Thron, Thräne, Apotheke, Aether, Armuth, Arithmetik, Athem, Dorothea, Elisabeth, Gemüth, Katheder, Katholik, Koth, Loth, Lazareth, Mathilde, Methode, Myrthe, Muth, Noth, Pathe, Räthsel, Röthe, Ruthe, Sabbath, Urtheil; — Draht, — drehen; Naht, nähen.</p>
+               <p rend="justify">Merke: Abenteuer, Bart, Etat, Gebet, Geburt, Monat, Partei, Partie, Rhein, Rhede, Rhin, Rhone; — Whist, Katarrh, Rheumatismus, Rhinoceros. — Parasol, Diarium, egal, Fibel, Bibel, Lineal, Habit, Fabrik, Terrine, Garderobe.</p>
+               <p rend="justify">2. Zu den Doppellauten tritt nur ein „h“ hinzu, wenn die Ableitung ein solches erfordert: Weihnachten, rauh.</p>
+               <p rend="justify">§. 64. 1. <hi rend="italic">Die Schärfung</hi>  der Selbst- und Umlaute wird oft <hi rend="italic">durch Verdoppelung</hi>  der darauf folgenden Mitlaute bezeichnet.</p>
+               <p rend="justify">Mann, kennen, retten, hoffen, treffen, ertappen, wollen, können, Roggen, Egge, Widder, Robbe, Ball, Puppe, kämmen, karren, Narr, denn, wenn, dann, Sammet, Zimmet, majorenn, Rabatt, Duett, minorenn, Protocoll, Duell.</p>
+               <p rend="justify">2. Für zwei „k“ schreibe „ck“. Also Rock, nicht Rokk, Stock, locken, necken, stricken, erblicken, backen, Druck, Stück.</p>
+               <p rend="justify">Für zwei „z“ schreibe „tz“. Also Netz nicht Nezz.</p>
+               <p rend="justify">Besatz, Schatz, Metze, Netz, sitzen, Klotz, Mütze, verletzen, Schutz.</p>
+               <p rend="justify">Für zwei „ß“ schreibe „ss“, wenn du „ß“ als Vor- u. Nachlaut hörst; hörst du es aber nur als Nachlaut, so schreibe „ß“. Also lassen — laß und nicht laßßen — laßß.</p>
+               <p rend="justify">lassen, wissen, Nuß — Nüsse, Riß — Risse, Fluß — Flüsse, ißt — essen, müßte — müssen, Kuß — küssen.</p>
+               <p rend="justify">3. Nach gedehnten Selbst- und Umlauten, so wie nach Doppellauten und Mitlauten folgt keine Verdoppelung:</p>
+               <p rend="justify">Ekel, Haken, buk, Laken, kam, Geiz, Kreuz, Wein, Franz, Herz, Salz, Bank, Kalk, Werk, Helm, Amt, Fuß, büßen etc.</p>
+               <p rend="justify">4. Zwei auf einander folgende Mitlaute können niemals <hi rend="italic">beide</hi>  verdoppelt werden; der erste von ihnen aber wird verdoppelt, wenn es die Ableitung verlangt:</p>
+               <p rend="justify">wollte — wollen, kannte — kennen, Gewinnst — gewinnen, kommst — kommen.</p>
+               <p rend="justify">5. Die Buchstaben „ch“, „sch“ und „ß“ werden <hi rend="italic">nie</hi>  verdoppelt:</p>
+               <p rend="justify">Brüche, Flasche, Flüße, u. nicht Flüßße, Flaschsche, Brüchche.</p>
+               <p rend="justify">6. In Wörtern aus fremden Sprachen steht <hi rend="italic">nie</hi>  „ck“:</p>
+               <p rend="justify">Rector, Doctor etc.</p>
+               <p rend="justify">§. 65. 1. Es werden geschrieben mit „dt“:</p>
+               <p rend="justify">beredt, beredet; gesandt, Gesandter; verwandt, Verwandter; Stadt, todt = Eigenschaftsw.; der Tod = Hauptw., Ernte, Schwert.</p>
+               <p rend="justify">2. Mit „ai“:</p>
+               <p rend="justify">Hain, Kaiser, Laie, laichen, Mai, Maid, Maier, Main, Mainz, Mais, Rain, Saite = Instrument, die Waise.</p>
+               <p rend="justify">3. Mit „chs“ für „cks“:</p>
+               <p rend="justify">Achse, Achsel, Büchse, Dachs, Deichsel, Drechsler, Eidechse, Flachs, Fuchs, Gewächs, Lachs, Luchs, Sachsen, sechs, Sechser, Sechste, Wachs, Weichsel, Wichse, Wuchs, wachsen — flugs Häcksel etc.</p>
+               <p rend="justify">4. Mit „x“ für „cks“:</p>
+               <p rend="justify">Alexander, Axt, Buxbaum, Crucifix, Examen, Exempel, Exemplar, Felix, Fixstern, Hexe, Max, Mexiko, Mixtur, Nix, Oxhoft, Taxe, Texas, Texel, Text, Xanthippe, Xerxes, perplex, Luxus, Exceß, extrafein, Exekution, Extrem, Experiment.</p>
+               <p rend="justify">§. 66. 1. Mit „Qu, qu“ für „Kw, kw“:</p>
+               <p rend="justify">Quacksalber, Quaderstein, Quadrant, Quadrat, quaken, Quäker, Qual, Qualität, Quantität, Quantum, Quart, Quartal, Quartett, Quarz, Quaste, Quecke, Quecksilber, Quelle, Quentchen, quer, Querkopf, quetschen, quiken, Quinte, Quirl, quitt, Quitte, Quittung, Quotient, Aequator, bequem, erquicken, Quodlibet.</p>
+               <p rend="justify">2. Mit „Pf und pf“:</p>
+               <p rend="justify">Pfad, Pfahl, Pfand, Pfanne, Pfarre, Pfarrer, Pfau, Pfeffer, Pfeife, Pfeil, Pfeifer, Pfennig, Pferd, pfiffig, Pfingsten, Pfirsich, Pflanze, Pflaster, Pflaumen, Pflege, Pflicht, Pflock, pflücken, Pflug, Pforte, Pfoste, Pfote, Pfriem, Pfropfen, Pfründe, Pfuhl, pfui, Pfund, pfuschen, Pfütze.</p>
+               <p rend="justify">3. Mit „Ph, ph“:</p>
+               <p rend="justify">Phantasie, Pharao, Pharisäer, Philosoph, Philipp, Philister, Phosphor, Physik, Physikus, Amphibien, Atmosphäre, Christoph, Kaiphas, Kalligraphie, Kolophonium, Elephant, Epheu, Joseph, Geographie, Orthographie, Peripherie, Physiognomie, Philologie, Phrase, Prophet, Sopha, Sophie, Stenographie, Stephan, Strophe.</p>
+               <p rend="justify">4. Mit „V, v“ theils für „f“ theils für „w“:</p>
+               <p rend="justify">
+                  <hi rend="italic">ver</hi>, vertragen, Vertrag; <hi rend="italic">vor</hi>, vortragen, Vortrag; <hi rend="italic">voll</hi>, vollenden, Vollendung; <hi rend="italic">von</hi>, davon, wovon; <hi rend="italic">viel</hi>, vielleicht, vielästig; <hi rend="italic">vier</hi>, vierfüßig, vierzig, Viertel; Vater, Vetter, Veilchen, Veit, Veitstanz, Velten, Vesper, vexiren, Vieh, Vogel, Vogt, Vogtei, Volk, activ, brav, Eva, David, Frevel, Gevatter, Gustav, Larve, massiv, Nerv, Motiv, naiv, octav, passiv, Nominativ, Genitiv, Dativ, Accusativ, Indicativ, Conjunctiv. — Vagabond, Vase, Vegetabilien, Ventil, Vicewirth, Victualien, vidimiren, violett, Violine, Virtuos, visiren, Visite, Vitriol, Vocal, Vocativ, Votum, Vulkan, Division, Evangelium, Lava, Locomotive, Malve, November, Pulver, Proviant, Provinz, Serviette, Universität, Revisor, Individuum, Invalide, Inventarium.</p>
+               <p rend="justify">§. 67. 1. Steht „C, c“ vor a, o, u, au, l, r, oder als Nachlaut, so lautet es wie „k“ und kann auch „k“ geschrieben werden:</p>
+               <p rend="justify">Canal — Kanal, Cantor, Cocarde, Collecte, Cur, Cultur, Classe, Client, Creatur, Credit, accurat, October, Sclave, Scorpion, Microscop, Product.</p>
+               <p rend="justify">2. Steht „C, c“ vor e, i, y, ei, ä, so lautet es wie „z“ und kann auch „z“ geschrieben werden:</p>
+               <p rend="justify">Cäcilie, Censor, Centner, Cichorien, Circular, certiren, citiren, Facit, Cylinder, Ceilon, Cäsar, Accent, Accise, December, Service.</p>
+               <p rend="justify">3. Mit „Ch, ch“ für „K, k“ werden geschrieben:</p>
+               <p rend="justify">Charakter, Charte, Charfreitag, Cholera, Chor, Choral, Christ, christlich, Chronik.</p>
+               <p rend="justify">4. Mit „Ch, ch“ für „Sch, sch“:</p>
+               <p rend="justify">Champagner, Charlatan, charmant, Charlotte, Charpie, Manchette, Chef, Chikane, Chocolade, tranchiren, revanchiren. Viele dieser Wörter schreibt man mit „sch“.</p>
+               <p rend="justify">5. Mit „y“ werden geschrieben:</p>
+               <p rend="justify">Anonym, Cypresse, Gymnasium, Hyäne, Syrup, System, Pyramide, Symbol.</p>
+               <p rend="justify">6. Steht „t“ <hi rend="italic">vor</hi>  ia, ie, io, iu, iö, so wird es wie „z“ gelesen:</p>
+               <p rend="justify">Patient, gratial, Addition, Ambition, Auction, Condition, Caution, Confirmation, Constitution, Deputation, Expedition, Lection, Motion, Nation, Ration, Revolution, Portion, Pontius, Subtraction, Exercitium.</p>
+               <p rend="justify">§. 68. 1. Freund, Freundin, Freundinnen; heran; herein, hinan, hinein; wir sind, ihr seid = Zeitw.; seit = Verhältnißw.; wieder, wiederum = Umstandsw.; wider, gegen = Verhältnißw.; ich war — es ist wahr; der Mann ist ausgegangen — man (irgend Jemand) ist ausgegangen; er sticht mich mit der Nadel — das Tuch steckt in der Tasche; morgen — Morgen.</p>
+               <p rend="justify">2. „ich“ und „lich“. Schreibe „ig“, wenn das „l“ zum Stamme gehört. Schreibe „lich“, wenn das „l“ nicht zum Stamme gehört: heil-ig, sel-ig; wirk-lich, glück-lich, freund-lich, schwäch-lich.</p>
+               <p rend="justify">3. Einmal, jemals; ein Mal, zwei Mal. Ein paar (mehrere) Groschen — ein Paar (zwei) Strümpfe.</p>
+               <p rend="justify">4. „<hi rend="italic">das</hi>, <hi rend="italic">daß</hi>“. Kann man „das“ mit „dieses“ oder „welches“ verwechseln, so wird es „das“ geschrieben, kann dies nicht geschehen, so wird es „daß“ geschrieben:</p>
+               <p rend="justify">Das Kleid, das das Mädchen trägt, ist zerrissen. Niemand zweifelt daran, daß Geld Vieles möglich macht.</p>
+               <p rend="justify">5. <hi rend="italic">Zu laufen</hi>  — zulaufen; anzufangen, anfangen, hinaufzusteigen.</p>
+               <p rend="justify">§. 69. <hi rend="italic">Aehnlich klingende Wörter:</hi>
+                  <lb/>Aas, aß; Allee, Alle; Armee, Arme; Beile, Beule; bezeigen, bezeugen; berichtigt, berüchtigt; Dauben, Tauben; dingen, düngen; dir, Thier, Thür, dürr; Drang, Trank, trank; erdig, erdicht; erhält, erhellt; erzeigen, erzeugen; fast, faßt; Fäule, Feile, Pfeile; Feilchen, Veilchen; Vetter, fetter; Feuer, Feier; Feld, fällt; Felle Fälle; fiel, viel, fühl; Fliege, Flüge, Pflüge; flicken, pflücken; Fluch, Flug, Pflug; Fund, Pfund; für, vier; ganz, Gans; gar, ja, Jahr; Gericht, Gerücht; hast, haßt; heilen, heulen; heute, Häute; heiser, heißer, Häuser; Kante, kannte; Körner, Kärrner; Kiste, Küste, küßte; Last, laßt, las’t; leiten, läuten, Leuten; Magd, Macht; magst, machst; Mine, Miene; Mus, muß; Muse, Muße; Namen, nahmen; nein, neun; ölig, ölicht; Rad, Rath; Räuber, Reiber; Recht, rächt, regt; Rind, rinnt; reißen, reisen; sachte, sagte; sang, sank; sind, sinnt; singt, sinkt; Stelle, Ställe; Strenge, Stränge; Teich, Teig, Deich; Thon, Ton; Trift, trifft, währen, wären, wehren; Waise, Weise; wegen, wägen; Zähren, zehren; Zeugen, Zeug, zeuch; Ziegel, Zügel; Zaum, Zaun.</p>
+               <p rend="justify">
+                  <hi rend="italic">Trennung der Wörter.</hi>
+               </p>
+               <p rend="justify">§. 70. Ein <hi rend="italic">jedes Wort</hi>  hat so viel Silben, als es Selbstlaute hat. Mußt du beim Schreiben Wörter trennen, so <hi rend="italic">trenne</hi>  sie nach ihren <hi rend="bold">Sprechsilben</hi>. <hi rend="italic">Einsilbige</hi>  Wörter können nicht getrennt werden. <hi rend="italic">Ein</hi>  Mitlaut zwischen zwei Selbstlauten gehört zur nachfolgenden Silbe. Stehen zwischen zwei Selbstlauten zwei Mitlaute, so gehört der eine zur ersten, der andere zur zweiten Silbe. Zusammengesetzte und abgeleitete Wörter trennt man oft nach ihrer Zusammensetzung und Ableitung.</p>
+               <p rend="justify">ck, tz, st, sch, ch werden nicht getrennt, sondern zur folgenden Silbe gezogen.</p>
+               <p rend="justify">§. 71. <hi rend="italic">Einen großen Anfangsbuchstaben</hi>  giebt man</p>
+               <p rend="justify">1. zu Anfange eines Satzes;</p>
+               <p rend="justify">2.  nach einem Punkt, Frage- und Ausrufungszeichen, wenn diese einen Satz schließen;</p>
+               <p rend="justify">3. nach einem Doppelpunkt, wenn die Rede wörtlich angeführt wird;</p>
+               <p rend="justify">4. jedem Hauptwort, sowie allen Wörtern, die als Hauptwort gebraucht werden (der Mann, der das <hi rend="italic">Wenn</hi>  und das <hi rend="italic">Aber</hi>  erdacht etc. Ein Juchhei ist besser als ein Oweh!);</p>
+               <p rend="justify">5. jedem Eigenschaftswort, das zu einem Titel gehört;</p>
+               <p rend="justify">6. in Briefen den Fürwörtern, die sich auf die angeredete Person 1beziehen;</p>
+               <p rend="justify">7. zu Anfang einer jeden Strophe in Gedichten.</p>
+               <p rend="justify">§. 72. <hi rend="italic">Abkürzungen</hi>: gest. = gestorben; geb. = geboren; Dr. = Doctor; St. = Sanct; Sr. = Seiner; Ew. = Euer; z. B. = zum Beispiel; d. h. = das heißt; d. i. = das ist; u. s. w. = und so weiter; p. p. = und so weiter; d. J. = dieses Jahres; d. M. = dieses Monats; v. M. = vorigen Monats; Anm. = Anmerkung; N. S. = Nachschrift; u. a. m. = und andere mehr; i. J. = im Jahre; v. Ch.= vor Christi Geburt.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="italic">Zusatz.</hi>
+               </head>
+               <p rend="justify">§. 73. Es werden gesprochen:</p>
+               <p rend="justify">1. g = sch,</p>
+               <p rend="justify">Agio, Adagio, engagiren, arrangiren, Eugen, Gage, Gelee, Genie, geniren, Loge, Logis, Page, Orange, rangiren, Sergeant, Gensd’arm.</p>
+               <p rend="justify">2. j = sch,</p>
+               <p rend="justify">jaloux, Jalousie, Journal.</p>
+               <p rend="justify">3. qu = k,</p>
+               <p rend="justify">Bouquet, moquiren, Maroquin, Piquet.</p>
+               <p rend="justify">4. cu = kw,</p>
+               <p rend="justify">Biscuit.</p>
+               <p rend="justify">5. gne = nje,</p>
+               <p rend="justify">Champagne, Champagner, Compagnon.</p>
+               <p rend="justify">6. ai, ais = ä,</p>
+               <p rend="justify">Affaire, Chaise, Domaine, Fontaine, Palais, Plaisir, Portrait, Raison, raisonniren, Souverain.</p>
+               <p rend="justify">7. ail, aill = alj; eil = elj,</p>
+               <p rend="justify">Bataille, Canaille, Detail, Medaille, Serail, Taille, Oreiller.</p>
+               <p rend="justify">8. au, eau, eaux = o,</p>
+               <p rend="justify">Chaussee, echauffiren, Epaulette, Sauce, Büreau, Bureaux.</p>
+               <p rend="justify">9. ei = ä,</p>
+               <p rend="justify">Seine.</p>
+               <p rend="justify">10. em, en, an, ent = ang,</p>
+               <p rend="justify">Entree, Pension, Provence-Oel, Assemblee, emballiren, avanciren, Balance, Departement, Avertissement.</p>
+               <p rend="justify">11. er, et = e,</p>
+               <p rend="justify">Banquier, Diner, Souper, Filet, Metier, Rentier, Premier.</p>
+               <p rend="justify">12. eu = o,</p>
+               <p rend="justify">Neveu, Queu, Liqueur, Collecteur, Deserteur, Friseur.</p>
+               <p rend="justify">13. eint = ang,</p>
+               <p rend="justify">Teint.</p>
+               <p rend="justify">14. ai = ä,</p>
+               <p rend="justify">Anglaise, Polonaise.</p>
+               <p rend="justify">oi = oa,</p>
+               <p rend="justify">Loire, Toilette, Comtoir (jedoch meist Comtor gesprochen).</p>
+               <p rend="justify">15. ou, out, ous = u,</p>
+               <p rend="justify">Bravour, Bouteille, doubliren, Gouverneur, Cour, Louis, Redoute, Rouleaux, Ressource, Tour, retour, Ouvertüre, Coulisse, Courant, Courier, Cours, Cousine, Couvert, Ragout, Rendezvous.</p>
+               <p rend="justify">16. ill = ilj,</p>
+               <p rend="justify">Billard, Billet, Brillant, Postillon, Pavillon, Quadrille, Guillotine. — Bouillon, Patrouille.</p>
+               <p rend="justify">Buchdruckerei von <hi rend="italic">Eugen Grosser</hi>, Berlin SW., Zimmerstr. 91.</p>
+               <p rend="justify">Anmerkungen zur Transkription</p>
+               <p rend="justify">Wechsel in der Schriftart, die im Original für lateinische Begriffe verwendet werden, wurden nicht markiert.</p>
+               <p rend="justify">Das Frakturzeichen für etc wurde durch die Buchstabenfolge etc ersetzt.</p>
+               <p rend="justify">In den Paragraphen 59 und 60 wird die Verwendung des „langen s“ erklärt. Hier wurde das Zeichen ſ verwendet. An allen anderen Stellen wurde das „runde s“ verwendet, so auch in §. 65 (3), wo im Original die Buchstabenfolgen chs und cks jeweils mit langem und rundem s aufgeführt sind.</p>
+               <p rend="justify">Markierungen wurden dort korrigiert, wo sie (insbesondere in Tabellen) nicht einheitlich waren. Ebenso wurden fehlende oder falsche Satzzeichen und Abkürzungspunkte ergänzt bzw. korrigiert.</p>
+               <p rend="justify">Folgende Korrekturen für Nummerierungen wurden vorgenommen:</p>
+               <list rend="bulleted">
+                  <item>Seite 13, §. 19 Nummerierung 1. ergänzt.</item>
+                  <item>Seite 31, §. 40 Nummerierung korrigiert: 7. statt 8.</item>
+                  <item>Seite 45, §. 67 Nummerierung 5. ergänzt.</item>
+               </list>
+               <p rend="justify">Folgende offensichtliche Druckfehler wurden korrigiert:</p>
+               <list rend="bulleted">
+                  <item>Seite 3, Vorwort<list rend="bulleted">
+                        <item>ubersichtlicher ersetzt durch übersichtlicher,</item>
+                        <item>geknupft ersetzt durch geknüpft,</item>
+                        <item>gelaufig ersetzt durch geläufig.</item>
+                     </list>
+                  </item>
+                  <item>Seite 5, §. 1<list rend="bulleted">
+                        <item>Praposition ersetzt durch Präposition.</item>
+                     </list>
+                  </item>
+                  <item>Seite 16, §. 23<lb/>
+                     <list rend="bulleted">
+                        <item>gegewesen ersetzt durch gewesen.</item>
+                     </list>
+                  </item>
+               </list>
+               <p rend="justify">The cover image was created by the transcriber and is placed in the public domain.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

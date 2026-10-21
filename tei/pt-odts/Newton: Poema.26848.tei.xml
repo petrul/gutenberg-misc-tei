@@ -1,0 +1,2831 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Newton: Poema</title>
+            <author>José Agostinho de Macedo</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-01T18:22:34Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">odts/pt-odts/Newton: Poema.26848.epub.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>José Agostinho de Macedo</name>
+               <date>2024-01-01T18:22:34Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Newton: Poema</head>
+         <author>José Agostinho de Macedo</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">odts/pt-odts/Newton: Poema.26848.epub.odt</p>
+         <p>NEWTON,</p>
+         <p>POEMA</p>
+         <p>POR</p>
+         <p>JOSÉ AGOSTINHO DE MACEDO.</p>
+         <p>Selo da Imprensa Regia</p>
+         <p>LISBOA,</p>
+         <p>Na Impressão Regia. Anno 1813.<lb/>
+            <hi rend="italic">Com licença.</hi>
+         </p>
+         <p>
+            <hi rend="italic">Sciscitanti cælestium causas, domesticus</hi>
+            <lb/>
+            <hi rend="italic">                Interpres.</hi>
+         </p>
+         <p>Seneca, Cons. ad Marcian.</p>
+         <pb/>
+         <div type="div1">
+            <head>PROEMIO.</head>
+            <p rend="justify">O Mundo deve aos Conquistadores desgraças, lagrimas, e lutos; o Mundo deve a Newton verdades, sciencia, e luzes. Se inquietar os homens tem merecido tantas Epopéas, porque não merecerá hum Poema quem illustra, e quem ensina os homens? Ah! se chegará o tempo de se conhecer, que huma penna he mais util que huma espada! Canta-se com enfasi quem conquistou huma Provincia, e porque não ha de ser cantado aquelle de quem se póde dizer, que conquistára a Natureza, obrigando-a, á força de estudo, e engenho, a revelar seus mais reconditos arcanos? He preciso que conheçamos que o Imperio da Poesia tem limites muito mais extensos do que até agora se julgava; e eu creio que o seu melhor emprego he a contemplação, e a exposição deste sempre antigo, e sempre novo quadro, que se chama a Natureza. A simples intuição de seus prodigios, e o estudo destes mesmos prodigios, dilata, e accende mais a imaginação do verdadeiro Poeta, que todas as chamadas grandes acções dos Conquistadores, ou perturbadores da Terra. Se o homem só se deve chamar grande, quando he verdadeiramente util aos outros homens, quem poderá pôr em dúvida que os descobrimentos, e as mesmas hypotheses de Newton sejão mais uteis aos mortaes do que as expedições da Cruzada, que derão a materia ao Poema de Tasso? Quem illustra a humanidade he maior que quem a diminúe. Newton merecia hum Poema, as Musas lho devião, eu satisfiz esta divida; se a satisfiz bem, a critica o dirá; em quanto aos miseraveis reparos da escura Inveja, prepare-se esta, porque a mesma chamma, que se me desprendeo n'alma para cantar Newton, me obriga a consagrar igual tributo de louvor a Buffon. </p>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>NEWTON,<lb/>POEMA.</head>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>
+               <label>CANTO I.</label>
+            </head>
+            <lg>
+               <l>Já da Aurora ao clarão suave, e puro</l>
+               <l>Cedia o campo azul do immenso espaço</l>
+               <l>D'estrellas recamada a noite umbrosa;</l>
+               <l>Nuncia do dia, ás lucidas esferas,</l>
+               <l>Da luz primeira undulações mandava.</l>
+               <l>Das mãos de neve, e do purpureo rosto</l>
+               <l>Brancas brilhantes pérolas cahião</l>
+               <l>No verde esmalte dos rizonhos prados;</l>
+               <l>De ondas immensas de escarlata, e d'ouro</l>
+               <l>Era o ceo do Oriente envolto, e cheio;</l>
+               <l>E pelo espaço liquido dos ares</l>
+               <l>Os adejantes Zéfyros das azas</l>
+               <l>Da manhã fresca os hálitos soltavão;</l>
+               <l>E a vaga turba aligera nos bosques,</l>
+               <l>Dava o tributo dos primeiros hymnos</l>
+               <l>Da Natureza ao renascente quadro.</l>
+               <l>Quasi rompia o flammejante disco,</l>
+               <l>Que onde soberbo, e vívido fulgura,</l>
+               <l>Prazer espalha, e graças aviventa,</l>
+               <l>E mostra em luz envolto o Mundo ao Mundo.</l>
+               <l>    Depondo o pezo do voraz cuidado,</l>
+               <l>(Amargo pezo da existencia minha!)</l>
+               <l>Eu no prazer do esquecimento envolto,</l>
+               <l>E, á desgraça esquecido, então pousava.</l>
+               <l>Do doce somno em balsamos immerso,</l>
+               <l>Somno em que meiga a Natureza furta</l>
+               <l>Á existencia mortal trabalho, e magoa;</l>
+               <l>Eis-que sinto levar-me...(e como, e onde</l>
+               <l>Eu não posso dizer.) Voei nas azas</l>
+               <l>De arrebatados extasis sublimes.</l>
+               <l>Sonho, sonho não foi; que mil confusas</l>
+               <l>Na fantasia imagens apresenta.</l>
+               <l>Extasi foi sómente, e arrebatado</l>
+               <l>Eu fui de hum Genio habitador do Olympo,</l>
+               <l>Que ao pensamento do mortal qu'indága</l>
+               <l>Abre do eterno arcano eternas portas,</l>
+               <l>E, n'hum centro de luz, lhe mostra o immenso</l>
+               <l>Da Natureza o variante quadro.</l>
+               <l>Do Grande Scipião dest'arte á vista</l>
+               <l>Talvez n'hum tempo se mostrasse a Gloria,</l>
+               <l>Que a prosseguir na bellicosa estrada</l>
+               <l>Lhe manda, e lhe descobre o alto destino,</l>
+               <l>Que aniquilla Carthago, exalta Roma.</l>
+               <l>    Já pizo o aereo cume, e a luz brilhante</l>
+               <l>Auri-luzente se diffunde, e espalha.</l>
+               <l>Como do meio do profundo Oceano</l>
+               <l>Costuma alçar-se desmedido escôlho,</l>
+               <l>Que vê quebrar-se nas eternas bazes,</l>
+               <l>Já languida, e sem força onda espumante:</l>
+               <l>Se olha do cume as voadoras nuvens,</l>
+               <l>E os ressonantes tumidos chuveiros,</l>
+               <l>Se ouve o horrendo fragor do accezo raio,</l>
+               <l>Sereno permanece, e sente apenas</l>
+               <l>Que a triste escuridão nas faldas pousa;</l>
+               <l>E onda, e vento debalde a baze açoita.</l>
+               <l>Assim eu, levantado á immensa altura,</l>
+               <l>Hum ar tranquillo e puro, e luz mais clara</l>
+               <l>Bebo em torrentes, e descubro apenas</l>
+               <l>Grossas nuvens pousar na Terra inerte.</l>
+               <l>Eis no gremio da paz serena, e doce,</l>
+               <l>Se me antolha pizar de Heróes o alcaçar,</l>
+               <l>Extatico bradando, ah! não, por certo,</l>
+               <l>Pode ser este o terreal assento!</l>
+               <l>Hum céo sereno, e Primavera eterna</l>
+               <l>Celestes flores, e não vistas plantas,</l>
+               <l>E, cheios de prazer, bosques sombrios,</l>
+               <l>D'aguas mais puras borbulhantes fontes,</l>
+               <l>Não por certo não tem mesquinho Globo!</l>
+               <l>Sem véos aqui contemplo, aqui descubro</l>
+               <l>Essa invisivel fluida substancia,</l>
+               <l>Que em torno fecha, e que circunda a Terra;</l>
+               <l>Que em si nuvens contém, contém vapores;</l>
+               <l>Que em si tantos fenómenos acolhe;</l>
+               <l>Que he necessaria tanto, aos sons, á vista,</l>
+               <l>Ao fogo, á vida, ás arvores, ás plantas!</l>
+               <l>Ó da Divina mão alto, infinito</l>
+               <l>Poder nunca entendido! Se a atmosfera</l>
+               <l>Não refrangesse a nós do Sol os raios,</l>
+               <l>Não se virão brilhar n'azul campina</l>
+               <l>Em distancia infinita immensos astros:</l>
+               <l>Nem o doce crepusculo se vira,</l>
+               <l>Ou quando o mesmo Sol s'esconde, e fóge,</l>
+               <l>Ou quando n'horizonte inda não surge,</l>
+               <l>Mas debil raio matutino espalha.</l>
+               <l>    Se volvo aos ceos extático meus olhos,</l>
+               <l>Vejo proximo o Sol, da luz origem;</l>
+               <l>O pelago de fogo, a ardente massa,</l>
+               <l>De que he composto o fulgurante corpo.</l>
+               <l>He elle o fixo, o luminoso ponto,</l>
+               <l>Elle o centro commum qu'em torno cercão,</l>
+               <l>Sem cessar gravitando, aureos Planetas,</l>
+               <l>A Lua já descubro, e vejo os mares,</l>
+               <l>Os largos, fundos, procellosos rios,</l>
+               <l>Que parecem, da terra, obscuras manchas,</l>
+               <l>Quando a vista de lá nos ceos espalho.</l>
+               <l>Ilhas descubro, altissimas montanhas,</l>
+               <l>De cujas frentes escabrosas desce</l>
+               <l>A luz reflexa, que da Terra eu vejo,</l>
+               <l>Luz que lhe empresta o fulgurante globo,</l>
+               <l>Origem della, e do calor origem.</l>
+               <l>Seu móto vario, e desigual contemplo</l>
+               <l>Com que mostra em seu gyro incerto o rosto;</l>
+               <l>Talvez proceda da diversa, e forte</l>
+               <l>Visivel atracção do Sol, e Terra,</l>
+               <l>Do eixo obliquo em que se agita, e móve.</l>
+               <l>    Mais vivos que os Planetas, mais brilhantes</l>
+               <l>Em viva luz aos olhos se offerecem</l>
+               <l>Em sempre incerta, e variante fórma</l>
+               <l>Tão vastos, tão excentricos Cometas,</l>
+               <l>Tardios em mostrar-se, e sempre infaustos</l>
+               <l>Á vil superstição do vulgo insano,</l>
+               <l>Agoiro triste aos pálidos Tyrannos!</l>
+               <l>São duraveis, e sólidas substancias;</l>
+               <l>Da mão do Eterno Artifice são obras.</l>
+               <l>O Nada as produzio, quando na origem</l>
+               <l>Do Mundo lhe mandou, que fosse tudo.</l>
+               <l>Não quaes ousou julgar rude ignorancia</l>
+               <l>Ligeiros fogos de temor objectos,</l>
+               <l>Sem orbitas, sem leis, sem marcha, e centro.</l>
+               <l>    Quantas contemplo lucidas estrellas!</l>
+               <l>Quantos Astros centraes! Quão luminosos,</l>
+               <l>Quantos, quantos satéllites velozes</l>
+               <l>Em torno delles caminhando eu vejo!</l>
+               <l>Em tão diversos, tão distantes corpos,</l>
+               <l>Tão varios entre si, tanta harmonia!</l>
+               <l>Minha alma se confunde, e se deslumbra</l>
+               <l>Debil vista mortal. Tudo me opprime,</l>
+               <l>Eu só prodigios, só milagres vejo!</l>
+               <l>Entro no abysmo do silencio, e fico!...</l>
+               <l>    Qual o que sóbe do Apenino ao cume,</l>
+               <l>E alonga os olhos pelo immenso plano,</l>
+               <l>Onde outr'ora s'ergueo Latino Imperio,</l>
+               <l>Vastas Cidades vê, ferteis campinas,</l>
+               <l>E os restos immortaes do fasto, e gloria,</l>
+               <l>Que inda em quebrados marmores avulta,</l>
+               <l>Vê longos rios retalhando os campos,</l>
+               <l>E do Tirrheno mar, d'Ádria nas ondas</l>
+               <l>Vê náos altas rasgando o dorso a Thetis.</l>
+               <l>Depois que ávida vista em scenas tantas</l>
+               <l>Hum pouco apascentou, turvado, absorto,</l>
+               <l>Dentro em si mesmo se concentra, e fica</l>
+               <l>Vastas idéas revolvendo, quantas</l>
+               <l>Da Natureza, e da Fortuna os quadros</l>
+               <l>A seus olhos atónitos mostrárão:</l>
+               <l>Assim eu vejo em quantidade immensa</l>
+               <l>Surgir das aguas, levantar-se aos ares,</l>
+               <l>Pelos raios Febeos como attrahidas,</l>
+               <l>As humidas porções já rarefeitas;</l>
+               <l>Mais ligeiras que o ar, no ar fluctuão;</l>
+               <l>Nellas a vida tem, nellas se fórmão</l>
+               <l>A nuvem densa, as nevoas importunas,</l>
+               <l>Que, com diversa reflexão de Apóllo,</l>
+               <l>Que em seu seio refrange o accezo raio,</l>
+               <l>Variante espectaculo me amostrão.</l>
+               <l>    Dos rarefeitos ares eu descubro,</l>
+               <l>Que os ventos nascem, (portentoso arcano,</l>
+               <l>Por tantos, tantos seculos occulto!)</l>
+               <l>Os inconstantes milagrosos sopros,</l>
+               <l>(Da bemfazeja Providencia hum grito!)</l>
+               <l>Pelo inquieto campo do Oceano</l>
+               <l>Levão de hum Polo a outro ousados pinhos.</l>
+               <l>Equilibrado o fluido dos ares,</l>
+               <l>Não os oiço bramir!... Mas quem perturba</l>
+               <l>A dilatada calma, a paz tranquilla?</l>
+               <l>Quem rouba ao ar pacifico equilibrio?</l>
+               <l>Talvez, talvez, que, exhalações rompendo</l>
+               <l>Do terreo globo, e tenebrosas furnas,</l>
+               <l>Ou sobre o eixo a rotação diurna</l>
+               <l>Da Terra seja do prodigio a fonte!</l>
+               <l>    Eis com elles se agitão, se misturão,</l>
+               <l>As espalhadas fluctuantes nuvens;</l>
+               <l>Do agudo frio comprimidas, tornão</l>
+               <l>A seu terreno, e primitivo berço.</l>
+               <l>Em chuva salutar desfeitas descem;</l>
+               <l>Ou, se o frio he maior, candidos vélos</l>
+               <l>Do brando vento conduzidos cobrem</l>
+               <l>No triste Inverno o campo amortecido;</l>
+               <l>Ou nas miudas condensadas gotas,</l>
+               <l>Pelas douradas messes espargidas,</l>
+               <l>Ao desvelado Lavrador só trazem,</l>
+               <l>Depois de longo afan, tristeza, ou pranto.</l>
+               <l>    Vejo o accezo relampago medonho,</l>
+               <l>Oiço o horrendo trovão, vejo o espantoso</l>
+               <l>Trilho abrazado do sulfúreo raio,</l>
+               <l>Nada a meus olhos se me esconde, nada!</l>
+               <l>E já de enxofre, de bitume, e nitro</l>
+               <l>De ácido sal, de alcálicos diversos</l>
+               <l>Grosso vapor subindo eu vejo aos ares.</l>
+               <l>Foi do Sol attrahido, o vento o leva;</l>
+               <l>Com violento impulso então fermenta,</l>
+               <l>Prestes se accende, subito nos manda</l>
+               <l>Essa palida luz sempre seguida</l>
+               <l>D'alto fragor, que faz tremer nos eixos</l>
+               <l>Timido o Mundo, e precursora he sempre</l>
+               <l>Da chamma rapidissima, que desce</l>
+               <l>Com pavoroso estrepito, e que abate</l>
+               <l>Quanto voando na carreira encontra.</l>
+               <l>    De aspecto muda do vapor a massa,</l>
+               <l>Nem sempre he raio estrepitoso; eu vejo</l>
+               <l>As agudas Pyramides, as Traves,</l>
+               <l>A Seta aguda, o flamejante Drágo</l>
+               <l>E as que se mostrão lúcidas Estrellas,</l>
+               <l>Que accezos trilhos n'horizonte deixão;</l>
+               <l>E esse, usado a brilhar no algente Pólo,</l>
+               <l>Sem calor vivo, sem substancia hum fogo,</l>
+               <l>Huns restos são maravilhosos, bellos</l>
+               <l>Dessas de luz undulações pasmosas,</l>
+               <l>Que detidas do ar no immenso seio</l>
+               <l>Fórmão brilhantes Boreaes auroras;</l>
+               <l>Ao lúcido horizonte em parallela</l>
+               <l>Linha se mostrão, se mais baixas correm</l>
+               <l>Ou, n'hum centro commum, s'unem subindo</l>
+               <l>Até que extinctas as porções sulfureas</l>
+               <l>Pouco a pouco do ar desapparecem,</l>
+               <l>Deixando apenas ao gelado Norte</l>
+               <l>Hum suave crepusculo brilhante.</l>
+               <l>    Se volvo a vista n'outra parte, absorta</l>
+               <l>De multi-forme côr descubro a nuncia</l>
+               <l>Da sempiterna paz, Iris formosa,</l>
+               <l>Que a doce reflexão dos aureos raios,</l>
+               <l>Unida á refracção sobre miudas</l>
+               <l>Da fria chuva transparentes gotas,</l>
+               <l>A septi-forme côr prontos lhe imprimem.</l>
+               <l>    Quantos, quantos fenomenos pasmosos</l>
+               <l>A luz reflexa nos produz nos ares!</l>
+               <l>Em tanto objecto o pensamento fixo,</l>
+               <l>Em tanto objecto extaticos meus olhos</l>
+               <l>Grandes idéas me despertão n'alma!</l>
+               <l>Eu, de augusto silencio em sombras fico!</l>
+               <l>E só do centro de meu peito exhalo,</l>
+               <l>Não os ais da afflição, do assombro o grito.</l>
+               <l>Eu sinto, eu sinto hum Deos; não foi do Acaso</l>
+               <l>A milagrosa producção do Mundo!</l>
+               <l>Obra só foi do Artifice supremo:</l>
+               <l>Hum rio origem tem, o effeito causa.</l>
+               <l>Tantas estrellas lucidas dispersas</l>
+               <l>Nesta estendida cúpula azulada,</l>
+               <l>Esta Lua, este Sol, o dia, a sombra,</l>
+               <l>(Constante alternativa;) a luz, e os ares</l>
+               <l>São cifras com qu'escreve a mão suprema</l>
+               <l>De hum Ente Summo, Sapiente, Immenso.</l>
+               <l>Na flor, na planta, no mimoso fructo,</l>
+               <l>Nos rostos varios, e animaes diversos,</l>
+               <l>Nos sons, nas côres, na minha alma o vejo,</l>
+               <l>Almo thesouro da Clemencia eterna.</l>
+               <l>Ella enriquece a Terra, e a vejo em tantas</l>
+               <l>Tão varias producções na especie eternas:</l>
+               <l>D'alta grandeza sua eu sinto a prova</l>
+               <l>No fundo abysmo dos extensos mares,</l>
+               <l>Nos Ceos immensos, na pezada Terra</l>
+               <l>Seu Divino saber, tremendo adoro</l>
+               <l>N'alma belleza dos mortaes objectos,</l>
+               <l>Nas leis eternas dos celestes corpos</l>
+               <l>Os caracteres luminosos vejo</l>
+               <l>D'hum Concelho immortal que rege o Todo,</l>
+               <l>Na exacta proporção dos fins, dos meios,</l>
+               <l>Que do visivel Mundo o quadro ostenta</l>
+               <l>Tudo, tudo me diz qu'hum Deos preside</l>
+               <l>Monarcha immenso de infinito Imperio.</l>
+               <l>Á luz ordena que me aclare, e manda</l>
+               <l>Ao ar que me sustente, e a vida aspiro.</l>
+               <l>Elle o calor produz, que o vital germe,</l>
+               <l>Em successivas gerações conserva:</l>
+               <l>Elle o dia formou, nelle ao trabalho</l>
+               <l>O mesmo Rei da creação destina:</l>
+               <l>Elle a noite produz, com ella em sombras</l>
+               <l>Da fria Terra a machina sepulta,</l>
+               <l>Em que o corpo mortal restaure a força,</l>
+               <l>Com que ao surgir da matutina Aurora,</l>
+               <l>Torne ás fadigas, aos cuidados volva.</l>
+               <l>Porque discorro, existo, e eu sinto dentro</l>
+               <l>De mim que penso sensações diversas.</l>
+               <l>Quando o incorporeo ser d'alma contemplo</l>
+               <l>Vejo huma imagem do Motor supremo,</l>
+               <l>Que quiz que eu fosse a similhança sua:</l>
+               <l>E não direi, que me sustenta, e rege</l>
+               <l>Hum Ser universal, hum Nume Eterno?</l>
+               <l>Ah! da materia o movimento o mostra!</l>
+               <l>Ella inerte de si, da inercia sua</l>
+               <l>Não podéra sahir sem braço Eterno,</l>
+               <l>De cujo impulso o movimento nasce.</l>
+               <l>    Em taes idéas concentrado estava</l>
+               <l>Sem olhos despregar do quadro augusto;</l>
+               <l>Que sempre he novo, e bello, e sempre antigo;</l>
+               <l>Livro do estudo meu, delicias minhas;</l>
+               <l>Eis-que descubro no mais alto cume</l>
+               <l>Do fulgurante Olympo erguido hum Templo,</l>
+               <l>Cuja sublime estranha architetura</l>
+               <l>Nem alma a concebeo, nem olhos virão.</l>
+               <l>De lúcido crystal, alto esplendente</l>
+               <l>Se levantava altissima fachada;</l>
+               <l>Arcos, columnas, architraves, tudo</l>
+               <l>De pedraria oriental se fórma,</l>
+               <l>Onde huma luz celestial batendo</l>
+               <l>Derramava reverberos brilhantes:</l>
+               <l>A magestosa cúpula fulgura,</l>
+               <l>Qual de Narsinga o diamante fulge.</l>
+               <l>Quem dá força a meu estro, e quem sustenta</l>
+               <l>Meus temerarios sobrehumanos vôos?</l>
+               <l>Como á Verdade franquear eu devo</l>
+               <l>Té agora as bronzeas ferrolhadas portas</l>
+               <l>De crença, a cuja luz não seja avára</l>
+               <l>A turba indocil do inconstante vulgo?</l>
+               <l>Longe, longe, ó profanos! Se tu reges,</l>
+               <l>Se tu mesma, ó Verdade, o canto animas.</l>
+               <l>Se me encordôas Cithara toante,</l>
+               <l>Para o Templo celeste apresso o passo,</l>
+               <l>E não receio de mordazes linguas</l>
+               <l>O golpe fundo, o livido veneno.</l>
+               <l>    No peristilio magestoso, e vasto,</l>
+               <l>(Eu não distinguo se he mulher, se he Deosa)</l>
+               <l>Então descubro, que volvendo os olhos,</l>
+               <l>Em mim pronta os fixou como se ha muito</l>
+               <l>Naquella Estancia me aguardasse; estende</l>
+               <l>Formosos braços, e me aperta ao seio.</l>
+               <l>Soltando a voz angelica me exclama:</l>
+               <l>Escrito estava no volume arcano</l>
+               <l>Do immobil Fado, que no Templo entrasses,</l>
+               <l>Que a Sapiencia levantou no Olympo.</l>
+               <l>Tu, separado dos mortaes enganos</l>
+               <l>Da vaidade, que domina o Mundo,</l>
+               <l>E dando ás Musas o fervente engenho,</l>
+               <l>Que á grata sombra dos sagrados louros</l>
+               <l>As horas ganhas da voluvel vida,</l>
+               <l>E o grão thesouro de profundo estudo</l>
+               <l>Buscas constante, e com trabalho ajuntas,</l>
+               <l>Soffrendo o longo afan té quando a sombra</l>
+               <l>No vasto seio involve o inerte globo:</l>
+               <l>Hoje das mãos da Sapiencia o premio</l>
+               <l>Tu deves receber, teu genio enchendo</l>
+               <l>Não de verso suave, ou brandas rimas,</l>
+               <l>Com que do mar o vencedor tu cantas,</l>
+               <l>Que as portas abre do vedado Oriente,</l>
+               <l>Qu'a Patria d'honra encheo, de gloria o Mundo,</l>
+               <l>Mas d'excelsa verdade ao vulgo ignóta.</l>
+               <l>    De seus olhos a Deosa amor respira;</l>
+               <l>Mas tal amor, que penetrava o peito</l>
+               <l>Sem perturbar do entendimento o lume,</l>
+               <l>Qual ser costuma entre os mortaes, se he grande!</l>
+               <l>Eu tinha fitos no seu rosto os olhos,</l>
+               <l>Com celeste prazer toda a minha alma</l>
+               <l>Em doces chammas ondear sentia;</l>
+               <l>A Deosa o conheceo, quer mudo, e quasi</l>
+               <l>Abstracta estava, e do sentido alheio.</l>
+               <l>Solta hum surrizo dos purpureos labios</l>
+               <l>E assim começa a me fallar benigna.</l>
+               <l>    "Tens cheio o coração de ignoto fogo,</l>
+               <l>A quem mortaes no Mundo amor chamárão,</l>
+               <l>E a quem puro prazer nos Ceos se chama.</l>
+               <l>Este puro prazer do gozo alheio</l>
+               <l>Tóma força, e principio, e tudo a todos</l>
+               <l>Se apraz de ser, e se derrama inteiro.</l>
+               <l>Do privado interesse ignora a meta,</l>
+               <l>E, nem se muda, nem se altera, como</l>
+               <l>Tantas vezes no Mundo amor se muda.</l>
+               <l>O proprio amor aos corações innáto,</l>
+               <l>Que a todas as paixões qu'o peito agitão</l>
+               <l>Se amolda sempre, e se transforma nellas.</l>
+               <l>He transvestido amor vossa esperança;</l>
+               <l>Amor he pertinacia, Amor he magoa;</l>
+               <l>Amor são todos os prazeres vossos;</l>
+               <l>De Amor o movimento, os accidentes,</l>
+               <l>Considerados, são paixões diversas.</l>
+               <l>Na origem, quando nasce, Amor se chama;</l>
+               <l>Quando do peito sahe, quando se expande,</l>
+               <l>E busca unir-se ao suspirado objecto,</l>
+               <l>Chama-se então desejo; e vigoroso,</l>
+               <l>Já seguro de si, firme em si mesmo,</l>
+               <l>Se as azas solta, e se remonta, e sobe,</l>
+               <l>O nome tem de vivida esperança.</l>
+               <l>He constancia, se, obstáculos vencendo,</l>
+               <l>Na mesma opposição mais força adquire.</l>
+               <l>Quando aos duros rivaes declara guerra,</l>
+               <l>He sempre Amor; mas chama-se ardimento,</l>
+               <l>Mil vezes a si mesmo elle se esconde;</l>
+               <l>Mas neste raro sacrificio he sempre</l>
+               <l>No altar do coração victima, e fogo,</l>
+               <l>E Sacerdote Amor, que em si transforma</l>
+               <l>Quantas no Mundo vê paixões diversas.</l>
+               <l>    Mas tempo he já que teu desejo abaste,</l>
+               <l>E te descubra o portentoso Templo,</l>
+               <l>Onde benigno te conduz teu Fado.</l>
+               <l>Esta, que vêz alçar-se, augusta móle</l>
+               <l>Encerra dentro em si Filosofia:</l>
+               <l>Altares alli tem, do monte excelso</l>
+               <l>Genio a tem feito tutelar os Numes:</l>
+               <l>Sacerdotes são seus, são seus Ministros</l>
+               <l>Esses engenhos transcendentes, vastos,</l>
+               <l>Que tão raro entre vós asylo encontrão,</l>
+               <l>Sustento, protecção, respeito, escudo.</l>
+               <l>A Fadiga sou eu; nome tremendo</l>
+               <l>A quem d'hum ocio torpe os braços busca,</l>
+               <l>E na mole indolencia a vida exhaure:</l>
+               <l>Mas he doce o meu nome a quem Virtude,</l>
+               <l>A quem Mérito apraz. Segue-me, ó filho,</l>
+               <l>Entra comigo os pórticos do Templo."</l>
+               <l>    Que gélido suor me banha a frente!</l>
+               <l>De vêa em vêa penetrante frio</l>
+               <l>O curso ao sangue fervido entorpéce!</l>
+               <l>Tremi confuso, e vacillante o passo</l>
+               <l>Entre contrarios pensamentos movo?</l>
+               <l>Vi que de Icaro o vôo, a acerba queda</l>
+               <l>Desse soberbo, e deslumbrado moço,</l>
+               <l>Que mal regera ignípedes Ethontes,</l>
+               <l>Eu hia a renovar. Meu alto assombro</l>
+               <l>Descobre a Deosa, e se doeu de ver-me;</l>
+               <l>A mão benigna me estendeo, susteve</l>
+               <l>No meio já do pavimento augusto.</l>
+               <l>    Dentro era d'ouro o consagrado Alcaçar,</l>
+               <l>De azul celeste a cupula esmaltada,</l>
+               <l>Onde brilhantes lucidas estrellas,</l>
+               <l>Quaes Safiras finissimas, se engastão;</l>
+               <l>Oriental Pyrópo o chão lhe fórma;</l>
+               <l>E nas paredes (mão divina!) expressas</l>
+               <l>Admira a vista insólitas pinturas,</l>
+               <l>Quaes nunca Rafael, quaes nunca ousara</l>
+               <l>Traçar pincel de Rubens portentoso.</l>
+               <l>Aqui se vião nos incultos bosques</l>
+               <l>Ir errando os mortaes sem lei, sem freio,</l>
+               <l>E quasi extincto o luminoso facho</l>
+               <l>Da celeste Razão, preza entre sombras.</l>
+               <l>Alli se admirão simplices viventes</l>
+               <l>Rudes choupanas levantar primeiro</l>
+               <l>De annosos troncos, e de seccas folhas,</l>
+               <l>Onde, quaes féras nos covís, s'escondem</l>
+               <l>Das injurias do ar, do vento aos sopros.</l>
+               <l>Neste estado infeliz de hum Mundo inculto</l>
+               <l>Se dá principio á sociedade humana:</l>
+               <l>A primeira familia alli se ajunta</l>
+               <l>A rotear começa o campo agreste.</l>
+               <l>Nella o pai foi Monarcha, até foi Nume,</l>
+               <l>Da sapiencia, e da razão guiado,</l>
+               <l>Alli juntava Sacerdocio, e Reino.</l>
+               <l>Os Ceos interpetrando as leis promulga,</l>
+               <l>Que o bem commum da sociedade buscão,</l>
+               <l>Não era a Sapiencia obscura, e arcana,</l>
+               <l>Destes primeiros pais, mas doce, e clara</l>
+               <l>Abria o Templo da vulgar Virtude.</l>
+               <l>Deste humilde principio, e tão pequeno,</l>
+               <l>Surgio de Roma o desmedido Imperio;</l>
+               <l>D'huma cabana s'estendeo no Mundo.</l>
+               <l>Alli Romulo, e Numa as leis dictavão,</l>
+               <l>Ao novo asylo universal chamando</l>
+               <l>Do antigo Lacio indigenas incultos.</l>
+               <l>    Além se via progressivamente</l>
+               <l>Multiplicar-se sempre a especie humana:</l>
+               <l>Mas passou mui depressa a idade d'ouro!</l>
+               <l>A ferrea começou, e além se via</l>
+               <l>Ir o robusto agricultor rasgando</l>
+               <l>Com ferreo arado o seio á terra inculta;</l>
+               <l>Sobre ella s'entornou suor primeiro.</l>
+               <l>D'estranho tronco as arvores s'enxértão:</l>
+               <l>Corta-lhe a foice os ressequidos ramos.</l>
+               <l>Se falta a Natureza, a industria suppre;</l>
+               <l>Pois quanto as plantas por seu proprio instincto</l>
+               <l>Ajudadas do Sol, ferteis co'a chuva</l>
+               <l>Nos espontaneos fructos produzião,</l>
+               <l>Á humana precisão já não bastava.</l>
+               <l>Então das cultas, pampinosas vides,</l>
+               <l>Se tirarão primeiro os dons de Brómio:</l>
+               <l>Então luxo ensinou tingir por fausto</l>
+               <l>Co'a preciosa purpura de Tyro</l>
+               <l>Do verme industrioso a tenue baba.</l>
+               <l>Se a relva dava então tranquillos sonos,</l>
+               <l>Á sombra qu'espalhava o Freixo annoso,</l>
+               <l>E se estancava a sede á lynfa pura</l>
+               <l>Do serpeante límpido regato;</l>
+               <l>Vélos se arrancão do innocente armento,</l>
+               <l>Que ao cançado mortal repousos prestão;</l>
+               <l>E o liquor salutifero se apúra,</l>
+               <l>Que restáura o vigor no inerte corpo.</l>
+               <l>Por buscar novos, escondidos Mundos,</l>
+               <l>Da nativa montanha então se virão</l>
+               <l>Cortados abater-se o Chôpo, a Faia:</l>
+               <l>Já vem nas ondas contrastar co'os ventos.</l>
+               <l>Para ajuntar as peregrinas merces,</l>
+               <l>Lá vai duro mortal soltando as vélas,</l>
+               <l>No elemento não seu, do vento ás iras;</l>
+               <l>Mortal té agora ingenuo, e qu'outras praias</l>
+               <l>Não tinha visto mais, qu'as do tranquillo</l>
+               <l>Regato que lhe corta os patrios campos.</l>
+               <l>A guerra assoladora, a guerra infausta</l>
+               <l>Era ignota até alli, e em tristes côres</l>
+               <l>Alli se via a fervida peleja.</l>
+               <l>Na bigorna se bate a horrenda espada;</l>
+               <l>Em dura lança além s'alonga o ferro</l>
+               <l>Mais avante s'erguia o forte muro;</l>
+               <l>As torres hião topetar co'as nuvens.</l>
+               <l>Gozava a antiga gente ocio tranquillo:</l>
+               <l>Ah! que Furia infernal, que monstro horrendo</l>
+               <l>Trouxe do escuro Inferno o facho accezo?</l>
+               <l>Que nuvem se elevou sangue estilando?</l>
+               <l>A raiva, o odio, a inveja o braço alçarão.</l>
+               <l>Primeiro a Ingratidão nas mãos levanta,</l>
+               <l>O ferro atroz, sanguinolenta espada;</l>
+               <l>E peito a peito, d'ambição levado,</l>
+               <l>Se combate o mortal; chamou-se gloria</l>
+               <l>Esse furor brutal, que avilta as feras,</l>
+               <l>Que poupão por instincto a propria especie:</l>
+               <l>Tudo foi sombra, e confusão no Mundo.</l>
+               <l>A raiva universal, honra se chama;</l>
+               <l>Tanto do humano coração se apossa</l>
+               <l>Que julga estado primitivo a guerra!</l>
+               <l>Augmentão-se as nações, o estrago cresce:</l>
+               <l>Sempre o furor de dominar triunfa.</l>
+               <l>O que era o pai, o Sacerdote, o Nume</l>
+               <l>Da primeira familia, he já Tyranno!</l>
+               <l>    De fero aspecto debuxado estava</l>
+               <l>Sanguinario Nembrot qu'ergue seu throno</l>
+               <l>Sobre o pescoço das nações em ferros.</l>
+               <l>A Terra se povôa, o facho accezo</l>
+               <l>Não s'extingue jámais nas mãos das Furias,</l>
+               <l>Se hum throno se levanta, outro se abate.</l>
+               <l>Nos mais remotos angulos do Mundo,</l>
+               <l>Onde existem nações, a guerra existe.</l>
+               <l>    Mas entre tantas retratadas gentes,</l>
+               <l>Que o ferro tem nas mãos, no aspecto as iras,</l>
+               <l>Eu vejo estar em solitario alvergue</l>
+               <l>Pensativos mortaes, longe, e mui longe,</l>
+               <l>Em doce paz, do estrepito, e tumulto.</l>
+               <l>Ao ar, ao portamento, á vista, ao móto,</l>
+               <l>Subito conheci, que os sabios erão,</l>
+               <l>Que as sempiternas leis da Natureza</l>
+               <l>Em pró dos outros conhecer tentárão.</l>
+               <l>Com pertinaz estudo, e prompto engenho,</l>
+               <l>No grande livro do Universo estudão,</l>
+               <l>E com pasmosa distincção contemplão</l>
+               <l>Tão formoso espectaculo, tão vario.</l>
+               <l>C'os labios semi-abertos, os immoveis</l>
+               <l>Olhos pregados tem no ethereo assento,</l>
+               <l>Como que vão buscando o immenso, e certo</l>
+               <l>Eterno gyro dos rotantes astros.</l>
+               <l>He esta a ocupação, este o deleite</l>
+               <l>Do cobiçoso pensamento altivo,</l>
+               <l>De assombro os enche maravilha tanta;</l>
+               <l>Curiosidade da ignorancia he filha,</l>
+               <l>Tão propria, e tanto da mortal essencia;</l>
+               <l>Sómente ella produz sabedoria,</l>
+               <l>Quando o veloz enthuziasmo atêa,</l>
+               <l>E quando observa desusado effeito</l>
+               <l>Da Natureza, ou Ceo, corre anhelante,</l>
+               <l>Corre prompta, interroga, observa, indaga,</l>
+               <l>E tenta descobrir quanto se off'rece</l>
+               <l>A seu ouvido extatico, a seus olhos:</l>
+               <l>Vai dos effeitos penetrando ás causas.</l>
+               <l>Tal presupposto foi de antigos Sabios,</l>
+               <l>Das cousas todas indagar as fontes.</l>
+               <l>Da sciencia o amor, o amor do estudo,</l>
+               <l>Entre os Sabios se diz Filosofia.</l>
+               <l>Curiosidade, e ocio, á Deosa derão</l>
+               <l>(A quem he consagrado o Templo) a essencia.</l>
+               <l>Ás inda feras indomadas gentes,</l>
+               <l>Mal acolhidas na choupana humilde,</l>
+               <l>Communicou seus raios luminosos.</l>
+               <l>Fez-lhes vêr de si mesma a imagem pura,</l>
+               <l>Apenas observou que accezos olhos</l>
+               <l>Na abóbeda dos Ceos apascentavão,</l>
+               <l>Do sempiterno braço contemplando</l>
+               <l>Essas sem fim maravilhosas obras.</l>
+               <l>    Depois que em tanto quadro a vista absorta</l>
+               <l>Acabei de deter, novos objectos,</l>
+               <l>Minha alma toda subito me levão.</l>
+               <l>Eis esculpidas novas maravilhas,</l>
+               <l>Nos aureos muros assombrado vejo.</l>
+               <l>Sobre hum turquino fundo auri-luzente</l>
+               <l>Fixas sempre n'hum ponto estrellas brilhão,</l>
+               <l>A cujos lumes, trémulos, suspensos</l>
+               <l>Pelos bosques Caldeos vejo os pastores,</l>
+               <l>Imprimindo signaes na mole arêa,</l>
+               <l>Da sabia Geometria as leis primeiras.</l>
+               <l>(Dura, afanosa sapiencia, quanto</l>
+               <l>Tu sabes levantar o engenho humano!)</l>
+               <l>Co'a frente envolta em sombra além correndo</l>
+               <l>Eu vejo o vasto fluctuante Nilo</l>
+               <l>Do pingue Egypto os campos retalhando,</l>
+               <l>Vejo-lhe em torno industriosa gente</l>
+               <l>Medindo-lhe a compasso ás turvas ondas,</l>
+               <l>Esperando que o Ceo constante, e meigo</l>
+               <l>O retorno annual decrete ás aguas;</l>
+               <l>E, em quanto o interesse, em quanto o Genio</l>
+               <l>Dividem entre si fadiga, estudo,</l>
+               <l>Recebe nova luz Geometria.</l>
+               <l>Qual costuma romper d'alpestre rócha</l>
+               <l>Limpida fonte, e serpeando o campo</l>
+               <l>Por entre as pedras vai com doce, e grato</l>
+               <l>Continuo estrondo alimentando as flores;</l>
+               <l>C'huma fonte depois, depois com outra</l>
+               <l>Sempre augmentando a crystalina vêa,</l>
+               <l>Que cresce, e passa a lucido regáto,</l>
+               <l>E, recebendo d'outros mil tributo,</l>
+               <l>O fundo leito alarga, e já bramoso</l>
+               <l>Aqui começa a se fazer torrente,</l>
+               <l>Espuma, e freme, e se arrebata, e foge,</l>
+               <l>De tanto, e tanto feudo enriquecido,</l>
+               <l>E soberbo de si no fundo Oceano</l>
+               <l>Lá chega, lá confunde o nome, as aguas:</l>
+               <l>Tal do seio da immensa Natureza,</l>
+               <l>Escuro seio, pouco a pouco trouxe</l>
+               <l>O humano entendimento a luz brilhante</l>
+               <l>E dest'arte raiou Filosofia,</l>
+               <l>Que foi por longos seculos juntando</l>
+               <l>D'alma sciencia o perennal thesouro,</l>
+               <l>Suave fructo da innocencia antiga,</l>
+               <l>Ah! tão buscada em vão na idade nossa!</l>
+               <l>Em que fogo maior, mais viva chamma,</l>
+               <l>Que essa que a boca do Vesuvio exhala,</l>
+               <l>No seio do mortal fomenta o crime.</l>
+               <l>Esse inquieto, e vil ferreo desejo</l>
+               <l>De possuir incommodas riquezas,</l>
+               <l>Que partilha não são, por máo destino,</l>
+               <l>Do que apascenta o coração tranquillo.</l>
+               <l>Na posse ingenua das sciencias todas:</l>
+               <l>Com pertinaz estudo se augmentárão;</l>
+               <l>E do existente Mundo as leis, e as bazes</l>
+               <l>Forão continuo emprego á mente humana:</l>
+               <l>Mas nada lhe abastou desejo accezo,</l>
+               <l>Que tão vivo cresceo, qual cresce o vasto</l>
+               <l>De pequena faisca immenso incendio.</l>
+               <l>Quando fixo encarou bellezas tantas</l>
+               <l>Lançou-se aos Ceos com generosos vôos,</l>
+               <l>E dos astros o influxo, e o vario aspecto</l>
+               <l>Ouzou descortinar, no eterno curso,</l>
+               <l>Pelos ermos do espaço os foi seguindo.</l>
+               <l>E soberbo de si, não satisfeito</l>
+               <l>A seu profundo, e vasto pensamento,</l>
+               <l>Co'a tócha acceza da Razão diante,</l>
+               <l>Abre, piza, franqueia ignóta estrada,</l>
+               <l>Que mais, e mais se aplaina, e mais s'estende</l>
+               <l>C'o porfiado estudo, e os homens leva</l>
+               <l>Ao Templo augusto da immortal Verdade,</l>
+               <l>Que escondido não he qual foi primeiro.</l>
+               <l>Ella pôde encantar Genios sublimes</l>
+               <l>Cujas imagens em perennes bronzes</l>
+               <l>Em si conserva o magestoso Alcaçar:</l>
+               <l>Oh! mui feliz Entendimento humano:</l>
+               <l>Se em taes indagações, se em taes estudos</l>
+               <l>Aprende a conhecer, e amar o Eterno</l>
+               <l>Só de bens larga fonte, immenso Oceano!</l>
+            </lg>
+            <p rend="justify">
+               <hi rend="italic">Fim do I. Canto.</hi>
+            </p>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>NEWTON,<lb/>POEMA.</head>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>
+               <label>CANTO II.</label>
+            </head>
+            <lg>
+               <l>Da Sapiencia antigos amadores,</l>
+               <l>Os Sacerdotes do celeste Nume,</l>
+               <l>Ao sacrosanto Templo alto ornamento,</l>
+               <l>Com seus bustos em porfido formavão</l>
+               <l>Do magestoso altar decóro illustre;</l>
+               <l>Puro, innocente altar, onde a profana</l>
+               <l>Mão despiedada dos mortaes infrenes</l>
+               <l>Nunca pozera victimas de sangue,</l>
+               <l>De que tanto se apraz da guerra o Nume,</l>
+               <l>Que o cego Fanatismo, ah! tão frequente!</l>
+               <l>Nas torpes aras da Ambição degolla.</l>
+               <l>São incensos aqui puros affectos,</l>
+               <l>E o remontado pensamento os votos;</l>
+               <l>São offerendas extases sublimes,</l>
+               <l>Vôos da mente, que s'eleva aos astros,</l>
+               <l>E corre o immenso espaço. Aquella Deosa,</l>
+               <l>Que o berço tem nos Ceos, qu'he dom dos Numes,</l>
+               <l>Que he mãi das Artes, e inventora dellas,</l>
+               <l>De magestade, e de belleza cheia,</l>
+               <l>Taes holocaustos no seu seio acolhe.</l>
+               <l>    Vi, (qu'assombro!) de luz cercado o vulto</l>
+               <l>Do primeiro mortal, puro, innocente,</l>
+               <l>Qual já das mãos do Creador dos Mundos</l>
+               <l>Sahio primeiro, e dominou na Terra.</l>
+               <l>Do Divíno saber nasce ensinado,</l>
+               <l>Das cousas conhecia a essencia propria,</l>
+               <l>Impoz o proprio nome aos seres todos.</l>
+               <l>E junto delle fulgurando estavão</l>
+               <l>Em menos viva luz seus tardos netos,</l>
+               <l>Que delle, como herança, alta doutrina</l>
+               <l>N'huma idade de seculos colherão:</l>
+               <l>De labio em labio aos pósteros a mandão</l>
+               <l>Té qu'horroroso, universal Diluvio</l>
+               <l>Fez que de todo agonizasse o Mundo.</l>
+               <l>    Via logo a Noé, que intacto surge</l>
+               <l>Do lenho guardador da especie humana:</l>
+               <l>Aos filhos seus dos fulgurantes astros</l>
+               <l>O aspecto, o moto, as posições ensina.</l>
+               <l>Sublime Sapiencia, e douto estudo,</l>
+               <l>Que tão illustres fez, depois da obscura</l>
+               <l>Confusão de Babel, nações diversas,</l>
+               <l>O innocente Caldeo, o Arabe experto,</l>
+               <l>Do Nilo o morador mysterios todo,</l>
+               <l>E o Persa audaz idólatra do fogo.</l>
+               <l>    Descubro a Prometheo, e o velho Atlante</l>
+               <l>Em que a verdade a Fabula reveste</l>
+               <l>Da Poesia co'as brilhantes côres.</l>
+               <l>Hum, com fogo dos Ceos, anima o barro;</l>
+               <l>Outro o pezo sustem do excelso Olympo.</l>
+               <l>Vejo o profundo Trimegisto, e vejo.</l>
+               <l>O sublime Cantor harmonioso,</l>
+               <l>Que de Troia a catastrofe nos pinta,</l>
+               <l>Que, em brando verso, imagens lizongeiras,</l>
+               <l>Da Sapiencia os pennetraes nos abre;</l>
+               <l>A idéa em si contém das artes todas.</l>
+               <l>    Pelas margens do Indo, e turvo Ganges</l>
+               <l>Meditadores Brâmenes diviso,</l>
+               <l>Que em sombra muito espessa a luz envolvem,</l>
+               <l>E a verdade entre symbolos nos dizem.</l>
+               <l>A Confucio Chinez descubro, admiro,</l>
+               <l>Que a voz escuta á sabia Natureza,</l>
+               <l>E firma o summo bem só na virtude.</l>
+               <l>Tres Zoroastros, que nas sombras plantão</l>
+               <l>Luminoso fanal, que á Persia, e Egypto</l>
+               <l>Das Artes para o Templo a estrada aplaina.</l>
+               <l>Logo dois immortaes cantores vejo,</l>
+               <l>He Lino, e o doce Orfeo, que a Lyra d'ouro</l>
+               <l>Com tanta fez soar maga harmonia,</l>
+               <l>Que doceis se tornou troncos, e penhas,</l>
+               <l>Que do cáhos no escuro horrendo centro,</l>
+               <l>Principio do Universo, Amor plantarão.</l>
+               <l>Pensativo Beroso alli contemplo,</l>
+               <l>A quem de Athenas a famosa escóla</l>
+               <l>Estatua alevantou d'ouro mais puro.</l>
+               <l>A par delle he Chilon, que o dia extremo</l>
+               <l>Sem pena, sem temor contente encára.</l>
+               <l>Do tyrannico sangue alli manchado</l>
+               <l>Pittaco á morte sobranceiro existe.</l>
+               <l>Legislador Solon de brando aspeito,</l>
+               <l>Que com vasto saber enlaça Astréa,</l>
+               <l>E ás leis soube juntar Filosofia;</l>
+               <l>Dos bons Monarchas o modello he este!</l>
+               <l>Depois Zaleuco vi, depois Carondas,</l>
+               <l>Ambos com justas leis Sicilia exaltão.</l>
+               <l>    No meio bem do taciturno alvergue</l>
+               <l>De Pythagoras sabio o vulto admiro,</l>
+               <l>No rosto, e ar mysterioso em tudo,</l>
+               <l>Que da Unidade, ou centro aos seres todos,</l>
+               <l>A origem fez sahir, principio, e causa.</l>
+               <l>Cleóbulo descubro, elle a formosa,</l>
+               <l>Sabia filha gentil conserva ao lado,</l>
+               <l>Que da engraçada boca em aureo rio:</l>
+               <l>Eloquente entornou Filosofia:</l>
+               <l>Ah! nunca aos homens se mostrou tão bella!</l>
+               <l>Admiro mais além Biante o sabio,</l>
+               <l>Que digna só julgou de humano estudo</l>
+               <l>Moral, que na virtude a alma levanta,</l>
+               <l>Em sua mesma magestade occulta,</l>
+               <l>Deixando a Natureza, enigma escuro,</l>
+               <l>Indecifravel aos mortaes mesquinhos</l>
+               <l>Em quanto em fragil barro a alma se prende.</l>
+               <l>Periandro alli vejo, e vejo o Scyta</l>
+               <l>Anacharsis, Filosofo profundo,</l>
+               <l>Cujo nome immortal materia, e fama</l>
+               <l>Deo neste ferreo tempo ao douto escrito,</l>
+               <l>Que a Grecia em si contém, co'a Grecia tudo.</l>
+               <l>Vejo a Misson, que symbolo o destingue?</l>
+               <l>    O nobre, e nobre só proficuo arado,</l>
+               <l>Que o seio rasga á terra agradecida:</l>
+               <l>Delle se peja a estólida vaidade;</l>
+               <l>Do Filosofo á vista he mais que hum Ceptro:</l>
+               <l>Na cultura do campo o sabio he grande;</l>
+               <l>Nem pode o estudo ter mais digno objecto;</l>
+               <l>E nunca outro mister, nunca outras artes,</l>
+               <l>Com mais afan buscasse o engenho humano!</l>
+               <l>Celeste Agricultura, oh digno emprego</l>
+               <l>Té do mortal primeiro inda innocente!</l>
+               <l>    Eu distinguo Epiménides, que deixa</l>
+               <l>A escondida caverna em que medita,</l>
+               <l>Aos homens vem mostrar da luz os raios</l>
+               <l>Ferécides, Bericio, e aquelle observo,</l>
+               <l>Que a Frygia vio nascer sublime, e douto,</l>
+               <l>Que em lizongeiras fabulas esconde</l>
+               <l>Quantas depois lições do justo, e honesto</l>
+               <l>O Pórtico sublime, a Estóa derão.</l>
+               <l>Thales descubro então, brazão da Jonia,</l>
+               <l>Que he da primeira escóla excelso mestre,</l>
+               <l>Que á Grecia deo lições, deo luz, deo tudo</l>
+               <l>Quanto soube alcançar de Astronomia</l>
+               <l>Do protentoso vidro o olho despido.</l>
+               <l>Elle primeiro do Solsticio o ponto</l>
+               <l>Sobre a Terra observou, e elle primeiro</l>
+               <l>Predisse aos homens pavoroso eclypse,</l>
+               <l>Que rouba a luz á Terra, e a paz ao peito,</l>
+               <l>Deste mysterio assustador ignáro.</l>
+               <l>Elle o principio assignalou do Todo,</l>
+               <l>O humor aquoso que circunda o globo.</l>
+               <l>Vejo Archeláo, Anaximandro admiro;</l>
+               <l>Este infinita julga a Natureza;</l>
+               <l>(Ó Portuguez Hebreo, tal foi teu erro!)</l>
+               <l>Aquelle julga que as primeiras causas</l>
+               <l>Só são da geração calor, e frio.</l>
+               <l>Anaximenes do Orador Romano</l>
+               <l>Sempre admirado, alli contemplo, admiro,</l>
+               <l>No móto eterno da substancia eterna</l>
+               <l>A essencia poz de hum Árbitro supremo,</l>
+               <l>E deo ao Mundo por principio immenso,</l>
+               <l>A substancia do ar, vasto, infinito.</l>
+               <l>O profundo Anaxágoras diviso,</l>
+               <l>De fundos olhos, de enrugado aspeito</l>
+               <l>Prolixa barba, atenuado corpo,</l>
+               <l>Que ardente pedra incombustivel julga</l>
+               <l>O luminoso Sol. Vai branco, e curvo,</l>
+               <l>Calva a rugosa frente, a tez sombria,</l>
+               <l>O protentoso Sócrates, o justo,</l>
+               <l>(Quanto o ser pode a Natureza impura)</l>
+               <l>Attento sempre ao movimento interno</l>
+               <l>Do humano coração, regeita, e mófa</l>
+               <l>Dos vãos systemas fysicos do Mundo,</l>
+               <l>Que á mente dos mortaes ignotos deixa,</l>
+               <l>E s'apraz de deixar Motor Superno.</l>
+               <l>Só da austera moral segue as pizadas,</l>
+               <l>E avezado o mortal ás vans idéas</l>
+               <l>Da vacillante Fysica o procura</l>
+               <l>A estudo reduzir da essencia propria.</l>
+               <l>Só quando o homem se conhece he sabio!</l>
+               <l>    Vejo Aristippo, Antísthenes descubro;</l>
+               <l>Hum busca o summo bem no inerte, e baixo</l>
+               <l>Prazer que encanta os corporaes sentidos:</l>
+               <l>(Ó lisongeiro do soberbo Augusto,</l>
+               <l>Teu systema tal foi, teus aureos versos</l>
+               <l>Aristippo sómente, e Amor respirão!)</l>
+               <l>Porém, mais sabio Antísthenes encontra</l>
+               <l>Só d'alma no prazer, ventura extrema;</l>
+               <l>Este o primeiro da assisada turba</l>
+               <l>Do Cynico mordaz. Crates contemplo,</l>
+               <l>Que julga inutil pezo a vã riqueza,</l>
+               <l>E no abysmo do mar com ella esconde</l>
+               <l>O inquieto temor, voraz cuidado.</l>
+               <l>Alli Monîmo admiro, e Zeno, e Hiparco,</l>
+               <l>Vejo a vagante habitação do Sabio</l>
+               <l>Diógenes pasmoso, e alli defronte</l>
+               <l>Em pé contemplo o assolador do Mundo;</l>
+               <l>Da esquerda parte inclina hum pouco a frente,</l>
+               <l>E a fluctuante clámyde lhe arrastra;</l>
+               <l>Pende-lhe ao lado o ferro, e delle em torno</l>
+               <l>Calisthenes contemplo, e mudo, e quedo</l>
+               <l>O grande Efestião. Elle alça o braço</l>
+               <l>De quem Persia se teme, e teme o Ganges,</l>
+               <l>E ao pobre habitador da cuba off'rece</l>
+               <l>Seus thesouros, seus dons; tranquillo, e grande,</l>
+               <l>Só lhe pede que ao Sol não véde as luzes,</l>
+               <l>Nem lhe tolha o calor que ao frio, inerte</l>
+               <l>Corpo negado tem Frugalidade.</l>
+               <l>Se houve grande Filosofo, he só este!</l>
+               <l>Com taes lições, já Menedemo he grande,</l>
+               <l>Que hum só bem conheceo, e he só virtude.</l>
+               <l>Euclides vejo, e Pontico, avezado</l>
+               <l>Á contumaz contradição de tudo.</l>
+               <l>Vejo Estilpon magnanimo, que a intonsa</l>
+               <l>Cabeça traz, e descoberta sempre:</l>
+               <l>Pobre o vestido tem, e os pés descalços,</l>
+               <l>Com elles piza a vaidade, o fausto,</l>
+               <l>E quanto pede o coração lhe nega.</l>
+               <l>Ó grande Preceptor do ingrato Nero,</l>
+               <l>Se isto não foi teu animo sublime,</l>
+               <l>Ah! são por certo teus escritos, isto!!</l>
+               <l>    Diofantes, Apolonio, eu bem destinguo,</l>
+               <l>Tem nas mãos o compasso, e tem na terra</l>
+               <l>Immoveis sempre os encovados olhos;</l>
+               <l>Alli descreve as trabalhosas curvas,</l>
+               <l>E além disto não mais surge esta idade;</l>
+               <l>Não foi mais Galileo, nem mais Des-Cartes!</l>
+               <l>De Estoico rigor seguindo a trilha</l>
+               <l>Eu vejo envolto em seus possiveis Zeno.</l>
+               <l>De veneravel rosto accezos olhos</l>
+               <l>Eu descubro a Platão, Platão que o Nume</l>
+               <l>Nos objectos que vê, contempla, adora;</l>
+               <l>Que a novo Amor dá luz, e alegre espera</l>
+               <l>Que a seu astro natal sua alma torne.</l>
+               <l>Ó sublime doutrina, ah tu podeste,</l>
+               <l>Dentro da Escóla de Florença outr'ora,</l>
+               <l>O eloquente escutar Policiano;</l>
+               <l>Se as letras tem na Europa apreço, estima,</l>
+               <l>Se em seu amor se me embranquece a frente,</l>
+               <l>A tão sabio mortal, tão grande o devo!</l>
+               <l>Este o tributo, que meus versos pagão:</l>
+               <l>Que mais te posso dar? Teu nome he tudo.</l>
+               <l>    Vejo Espeuzipo imitador da grande</l>
+               <l>Virtude illustre de Platão sublime:</l>
+               <l>Teve commum com elle, o estudo, o sangue;</l>
+               <l>E a baze eterna lança á Academia,</l>
+               <l>A quem deo nome o milagroso Tullio.</l>
+               <l>    Da belleza inimigo, e da ternura</l>
+               <l>Xenocrates descubro austero, e triste,</l>
+               <l>Vergonhoso baldão da especie humana,</l>
+               <l>Que, nem ao mago scintilar d'huns olhos</l>
+               <l>Nem ao surrizo de purpureos labios</l>
+               <l>E ás aureas ondas de madeiras d'ouro,</l>
+               <l>Sente no peito a Natureza toda,</l>
+               <l>Q'até do fundo abysmo aos monstros feios,</l>
+               <l>E sanguinario Tigre, amar ensina.</l>
+               <l>O pertinaz Arcesiláo na escola</l>
+               <l>O segue, duvidando, a alma suspensa</l>
+               <l>Entre a diversa opinião conserva.</l>
+               <l>A imagem de Carnéades descubro,</l>
+               <l>Da nova Academia he timbre, he gloria</l>
+               <l>Cuja alma excelsa da verdade indaga,</l>
+               <l>Entre o provavel sempre, a estrada incerta.</l>
+               <l>Pythéas vejo que do antigo Sabio,</l>
+               <l>A quem Samo talvez já déra o berço,</l>
+               <l>Vai seguindo as pizadas, e se julga</l>
+               <l>Continuo habitador de corpos varios.</l>
+               <l>Este aos ceos porporção, este a medida</l>
+               <l>Primeiro assignalou; dos aureos astros</l>
+               <l>Para hum centro commum conhece o móto</l>
+               <l>Naquelle antigo symbolo mostrado</l>
+               <l>Da septicórde auri-sonante Lyra,</l>
+               <l>Que Febo tem nas mãos, q'o Vate inveja;</l>
+               <l>E se lhe antolha, que escutava ao perto</l>
+               <l>Sempiterna, multiplice harmonia,</l>
+               <l>Da Esfera portentosa alto-brilhante;</l>
+               <l>Talvez nelle encontrasse o germe, a fonte</l>
+               <l>De seu systema de attracção, sublime,</l>
+               <l>Infatigado explorador Britano....</l>
+               <l>    Meditador Empédocles já vejo,</l>
+               <l>Que julga (ó fraco dos mortaes discurso!)</l>
+               <l>Suor do terreo globo o vasto Oceano;</l>
+               <l>Se este, se este não foi, Buffon facundo,</l>
+               <l>Esse teu vapor humido, que a Terra,</l>
+               <l>Destacada do Sol, e ardendo em fogo</l>
+               <l>Ao mais subido d'atmosfera exhala,</l>
+               <l>E cahindo de lá se fórma em mares!</l>
+               <l>    Do Italico saber brazões sublimes</l>
+               <l>Tidas, e Architas fulgurando admiro;</l>
+               <l>Ambos julgavão cada estrella hum Mundo.</l>
+               <l>Suspenso pelo ar alto infinito,</l>
+               <l>Onde hum astro central preside a muitos</l>
+               <l>Rotantes globos, q'em si mesmo opácos</l>
+               <l>Reverberante luz delle recebem:</l>
+               <l>E no globo gentil da argentea Lua</l>
+               <l>Mares, selvas, montanhas supozerão,</l>
+               <l>E de ser pensador fecundo alvergue.</l>
+               <l>Este nas margens do revolto Sena,</l>
+               <l>Que hoje escravos só vís, só ferros banha,</l>
+               <l>Teu pensamento foi, sublime engenho,</l>
+               <l>Quando d'hum Mundo n'outro Mundo ignóto</l>
+               <l>Levaste a passear matrona ímbelle,</l>
+               <l>Do prazer filosofico em ligeiras</l>
+               <l>Azas de accezo enthuziasmo ouzado.</l>
+               <l>Tal foi a idéa de profundos sabios</l>
+               <l>Que tão soberba opinião vestírão</l>
+               <l>Das côres da razão, qual tu fizeste</l>
+               <l>Nessa pasmosa extatica viagem</l>
+               <l>Com q', ó profundo Képler, te lançaste</l>
+               <l>Por entre os astros aos confins do Todo.</l>
+               <l>Na escura tez Prothagoras conheço,</l>
+               <l>Que entre sophismas envelhece, e nega,</l>
+               <l>Oh! sacrilega audacia! hum Deos ao Mundo.</l>
+               <l>Nem vê na grande architetada mole</l>
+               <l>De hum Ser eterno a mão reguladora!</l>
+               <l>    Cheio de assombro, e maravilha fito</l>
+               <l>Na imagem de Demócrito meus olhos;</l>
+               <l>Abdera o vio nascer, e a mente excelsa</l>
+               <l>Na grande esfera da sciencia entranha.</l>
+               <l>Vejo a par delle Heraclito, que chora</l>
+               <l>Ao triste aspecto da miseria humana,</l>
+               <l>Em quanto aquelle no incessante rizo</l>
+               <l>Com soberba indiscreta o Mundo insulta:</l>
+               <l>Ambos no excesso opposto hum erro abrange.</l>
+               <l>    Vejo a Pirron que pertinaz duvîda</l>
+               <l>Do que tem da verdade o cunho impresso;</l>
+               <l>Muda sempre de côr, muda de aspecto,</l>
+               <l>He duvidoso, e vacillante sempre;</l>
+               <l>Filosofico orgulho, e quanto, e quanto</l>
+               <l>Se fecundou teu germe em peito humano!</l>
+               <l>Teu scepticismo do erudito Baile</l>
+               <l>Os escritos manchou, q'espalhão sombras</l>
+               <l>N'hum ponto unindo o verdadeiro, o falso!</l>
+               <l>Entre guerreiras machinas envolto,</l>
+               <l>Entre abrazadas náos vejo Archimedes:</l>
+               <l>Cheio de palmas, de laureis lhe chora</l>
+               <l>De Siracuza o vencedor, a morte;</l>
+               <l>Foi esta a vez primeira, ó grão Marcello,</l>
+               <l>Que sobre a Terra fez Heroes o pranto!</l>
+               <l>Illustre pranto, que aligeira ao Mundo</l>
+               <l>O ferreo jugo do Latino Imperio!</l>
+               <l>    Eis descubro Epicuro, o vulgo insano</l>
+               <l>Nelle descobre hum ímpio, eu vejo hum sabio</l>
+               <l>Frugal, modesto, taciturno, humilde,</l>
+               <l>Que d'alma no prazer, puro, e sincero</l>
+               <l>Suprema quiz constituir ventura.</l>
+               <l>Entre viçosas arvores se assenta</l>
+               <l>De hum ameno jardim; medita, ou finge</l>
+               <l>Os infinitos átomos no vácuo,</l>
+               <l>D'hum laço casual produz os Mundos.</l>
+               <l>D'alma foi erro, e da vontade engano</l>
+               <l>Não passa ao coração; tranquillo, e puro</l>
+               <l>Ama a virtude. Ó Seneca, foi este</l>
+               <l>Teu pensamento quando instrues Lucilio.</l>
+               <l>Mas erraste; he chimerica a virtude</l>
+               <l>Em quem della não vê n'hum Deos a fonte:</l>
+               <l>Quem no acaso conhece o author do Mundo,</l>
+               <l>Se não erra, e blasfema, então delira!</l>
+               <l>    Eis d'Estagira o Genio, eis o prodigio</l>
+               <l>Talvez, talvez maior q' a Grecia vira.</l>
+               <l>Do Mundo he mestre, a Natureza he sua,</l>
+               <l>Não se confunde o Peripáto, e elle:</l>
+               <l>Elle foi luz, o Peripáto he sombra.</l>
+               <l>Não he seu mór brazão ter visto o Mundo</l>
+               <l>Do Mundo o vencedor posto a seu lado,</l>
+               <l>Pois de Alexandre, que conquista a Terra</l>
+               <l>Só devia Aristoteles ser mestre.</l>
+               <l>He seu tymbre maior ter da sciencia</l>
+               <l>Quasi o infinito circulo corrido.</l>
+               <l>Inda em seus livros q' a ignorancia altera</l>
+               <l>(Ignorancia dos Arabes soberba)</l>
+               <l>Saber encyclopedico descubro.</l>
+               <l>Se hoje tudo he Buffon, se Plinio he muito</l>
+               <l>Senão fora Aristoteles, não forão.</l>
+               <l>Bem como hum Nume ao Mundo as bazes lança</l>
+               <l>Quando no instante productivo o manda</l>
+               <l>Sahir do centro do confuso cahos;</l>
+               <l>Assim das artes, das sciencias todas,</l>
+               <l>Quasi no cahos da ignorancia envoltas,</l>
+               <l>Lança o grande Aristoteles as bazes.</l>
+               <l>Quando deixou de perseguir o Mundo</l>
+               <l>A Sapiencia, o merito, a virtude?</l>
+               <l>Tristes aves da noite a luz odêão:</l>
+               <l>D'Athenas Aristoteles se esconde,</l>
+               <l>Em voluntaria morte azylo encontra.</l>
+               <l>    Na sublime cadeira então se assenta</l>
+               <l>(E alli brilhando estava) o douto, o grave</l>
+               <l>Da Natureza interpetre Theofrasto;</l>
+               <l>Desgraçado Calísthenes lhe escuta</l>
+               <l>As sublimes lições, e o grande Endemo,</l>
+               <l>E a respeitavel multidão dos Sabios</l>
+               <l>Affeitos sempre a passear pensando.</l>
+               <l>    Do Tybre a escravidão, do Tybre os ferros</l>
+               <l>Tornão de Athenas, e Corintho o fasto</l>
+               <l>Em pobre aldêa, ou lastimosas cinzas:</l>
+               <l>Eis se transplanta a Sapiencia a Roma;</l>
+               <l>E, se da Gloria o Templo as armas abrem</l>
+               <l>A seus grandes Heroes, tambem seus Sabios</l>
+               <l>No eterno Templo da sciencia eu vejo.</l>
+               <l>Entre todos mais luz, talvez mais clara,</l>
+               <l>Que a que se espalha dos Argivos bustos,</l>
+               <l>O protentoso Cicero derrama!</l>
+               <l>Nenhum Sabio formou do Eterno Nume,</l>
+               <l>Entre as sombras Pagans, mais alta idéa!</l>
+               <l>Elle incorporeo, immenso o considera</l>
+               <l>De eterna Providencia, Amor eterno.</l>
+               <l>Existente por si, e author do Todo.</l>
+               <l>Por certo entre os mortaes nenhum té agora.</l>
+               <l>Tão profundo saber juntou co'a rica</l>
+               <l>D'aurea eloquencia exuberante vêa!</l>
+               <l>Do Epicurêo Lucrecio então descubro</l>
+               <l>O pensativo, e descarnado aspeito:</l>
+               <l>O centro tira do Universo, e Mundos</l>
+               <l>Infinitos julgou no immenso espaço.</l>
+               <l>Alli vejo Epitéto humilde escravo,</l>
+               <l>Mas entre os sabios soberano, e livre;</l>
+               <l>Cuja fragil alampada hum thesouro</l>
+               <l>Entre as joias valeo da antiga Roma.</l>
+               <l>Vejo o vulto de Seneca, seus olhos,</l>
+               <l>De huma luz ardentissima, levanta</l>
+               <l>Meditabundo ao luminoso assento;</l>
+               <l>Piza as salas fataes d'ebano, e d'ouro,</l>
+               <l>Onde o sangue materno hum Nero entorna,</l>
+               <l>Onde jaz de Germanico o cadaver</l>
+               <l>Seneca o monstro louva, e s'entristece:</l>
+               <l>Dependencia d'hum throno a quanto obrigas</l>
+               <l>Pequeno em obras he, grande em sciencia</l>
+               <l>Elle a vida antepoz ao justo, ao pejo</l>
+               <l>Por ella perde de viver as causas:</l>
+               <l>Mas em seu gremio o tem Filosofia,</l>
+               <l>Só porque disse q' ás acções internas</l>
+               <l>He presente hum juiz, presente hum Nume.</l>
+               <l>Roma nelle acabou. Na foz do Nilo</l>
+               <l>Imperial Alexandria surge;</l>
+               <l>Ella produz o Eclético Potámon</l>
+               <l>No Templo veio fulgurar seu rosto.</l>
+               <l>Da bella Hipacia a formozura brilha;</l>
+               <l>Eloquencia, e saber da boca entorna</l>
+               <l>Entre suaves halitos de rozas,</l>
+               <l>Que transportado Origenes lhe escuta.</l>
+               <l>Em sua escola Próculo se exalta,</l>
+               <l>Amónio, Celso, Jamblico, e Porfirio,</l>
+               <l>Que mal sabido Platonismo illude.</l>
+               <l>Vejo n'hum throno, sobranceiro a muitos,</l>
+               <l>O magestoso vulto auri-esplendente</l>
+               <l>Do novo Tullio, o fluido Lactancio,</l>
+               <l>Talvez maior, que o Consular de Arpino.</l>
+               <l>Não era longe delle, em sombra envolto</l>
+               <l>Da prizão melancolica, Boecio;</l>
+               <l>Vai banhando os grilhões d'amargo pranto</l>
+               <l>Té que raiando vio Filosofia,</l>
+               <l>Que as sombras rompe, as lagrimas lhe enchuga.</l>
+               <l>    Profunda escuridão, profundo luto</l>
+               <l>No vasto Imperio das sciencias pousa;</l>
+               <l>Onde apparecem Vandalos, acabão.</l>
+               <l>Quaes vemos entre nós do Sena os monstros,</l>
+               <l>Que vem das artes derrubando os Templos;</l>
+               <l>Vem do gelado, tenebroso Arcturo</l>
+               <l>Bando, de morte, e de ignorancia armado,</l>
+               <l>Apenas ficão gárrulas escólas,</l>
+               <l>Que hum só busto não tem no eterno Templo,</l>
+               <l>Té que dos gelos de Sarmacia surge</l>
+               <l>Copérnico immortal, este o primeiro</l>
+               <l>Que alli se manifesta, alli fulgura</l>
+               <l>Entre os astros envolto, entre as esferas:</l>
+               <l>Vio Sol immobil, vio rodar a Terra,</l>
+               <l>E apenas o immortal pasmoso escrito,</l>
+               <l>Ao respeito dos seculos entrega,</l>
+               <l>O templo augusto da sciencia todo</l>
+               <l>De protentosos sabios se povôa.</l>
+               <l>Eis se me amostra Galileo, dos astros</l>
+               <l>O novo Cidadão, tem curva a frente,</l>
+               <l>E descarnadas mãos co'as vís cadêas.</l>
+               <l>Cinge-lhe Jove na enrugada testa</l>
+               <l>As q' elle achára incognitas estrellas.</l>
+               <l>D'antiga Resia veio o alto ornamento,</l>
+               <l>He Bernúlli immortal. Na margem fria</l>
+               <l>Do discordante Baltico diviso</l>
+               <l>O grande author das Mónadas, q' encontra</l>
+               <l>No composto mortal mága harmonia</l>
+               <l>Entre a composta, e simplice substancia.</l>
+               <l>Nascido a meditar, modesto, e mudo,</l>
+               <l>Da nebulosa Hollanda em canto escuso,</l>
+               <l>Do grão Des-Cartes magestoso vulto</l>
+               <l>Entre as sombras, e a luz plantado admiro.</l>
+               <l>Hum globo tinha aos pés nas mãos hum facho</l>
+               <l>Q' ao globo espanca a tréva da ignorancia.</l>
+               <l>Legislador sublime além brilhava,</l>
+               <l>Verulamio infeliz, primeiro as portas</l>
+               <l>Da recatada Natureza abria.</l>
+               <l>O desprezado á cinte, e ignoto a muitos,</l>
+               <l>O frugal Espinosa aqui surgia.<hi rend="sup">1</hi>
+               </l>
+               <l>Errou que he homem, mas errou com elle</l>
+               <l>Toda a escóla Eleática, e tu mesmo,</l>
+               <l>Ó Seneca immortal, com elle erraste:</l>
+               <l>E Campanéla, e Bruno, e a nós mais perto</l>
+               <l>Contradictorio Mirabund, deliras.</l>
+               <l>Mas quem, profundo Hebreo, te nega engenho?</l>
+               <l>Em força d'alma hes unico entre todos</l>
+               <l>Dos que além penetrar julgão que he dado</l>
+               <l>Do que foi dado a pensamento humano.</l>
+               <l>Eu te posso impugnar, e outros te insultão.</l>
+               <l>Talvez eu sorte igual no Téjo alcanço</l>
+               <l>Não penetrando da Sciencia o Templo,</l>
+               <l>Porém no ingénuo dom d'ingenuos versos,</l>
+               <l>Que a si por premio tem, por méta a Patria:</l>
+               <l>Béja te deo teus pais, teu berço o Douro:</l>
+               <l>Alguma cousa tens commum comigo.</l>
+               <l>    Alli d'Obergio, Mallebranche, e Locke</l>
+               <l>Os aureos bustos luminosos via,</l>
+               <l>Que em transcendente fluido brilhante</l>
+               <l>Para hum Mundo ideal seus passos guião,</l>
+               <l>E, as sombras methafisicas rompendo,</l>
+               <l>Sem fallar ao sentido as almas fallão,</l>
+               <l>Abrindo o geometrico compasso</l>
+               <l>Quantos talentos assombrosos vejo!</l>
+               <l>Entre o Germano agudo, e ameno Franco</l>
+               <l>Do Italico saber vejo os milagres.</l>
+               <l>O que Diofante, o que Apolonio excede,</l>
+               <l>Do grão Toscano a par, brilha Viviani.</l>
+               <l>Sexo, sexo gentil, na Italia hes grande;</l>
+               <l>Nos Labyrinthos do profundo Euclides</l>
+               <l>A formosa Ardighelli, e Agnezzi entrarão</l>
+               <l>Outra Laura maior, q' essa, que outr'ora</l>
+               <l>Do vate, todo amor, deo força á Lyra,</l>
+               <l>Nos penetraes da Natureza entrando,</l>
+               <l>A Spalanzani explica altos mysterios.</l>
+               <l>Com ella Boscovich subiste aos astros.</l>
+               <l>Não te vence hum Maraldi, e nem Cassini:</l>
+               <l>Talvez, talvez, que a formosura as graças</l>
+               <l>Me pareça que dão luz ás sciencias.</l>
+               <l>    Algaroti, teu vulto alli contemplo,</l>
+               <l>Tão grato foste ao Salomão do Norte;</l>
+               <l>Porém mais grato a mim, e ás artes foste;</l>
+               <l>Entre o fulgor da purpura mais brilha</l>
+               <l>Do grande Passionei a excelsa imagem;</l>
+               <l>Issocrates te cede, inda que venha</l>
+               <l>Do grão pezo dos seculos seguido;</l>
+               <l>Não tem que oppôr-te, ou q' igualar-te o Sena,</l>
+               <l>E menos tem q' equiparar-te o Mundo</l>
+               <l>Encanto omniscio, universal Roberti:</l>
+               <l>Não me cega a paixão, q' ao Tibre eu guardo,</l>
+               <l>Nem o clarão de Italica sciencia</l>
+               <l>Tanto me cega, e me deslumbra tanto,</l>
+               <l>Que não veja raiar no Templo augusto</l>
+               <l>D'Anglia, e Germania os protentosos sabios.</l>
+               <l>Alli d'Hobbes descubro a imagem triste;</l>
+               <l>Alli vejo Stanley das Artes Livio;</l>
+               <l>E o que nasceo para illustrar o Mundo</l>
+               <l>Desde o frio Danubio, o grão Bruckéro;</l>
+               <l>E Kant, a si clarão, e enigma a todos.</l>
+               <l>Alli brilhava Degerando illustre,</l>
+               <l>Que em mui douto suor banha os escritos,</l>
+               <l>Que eterno fazem nos umbraes da Gloria</l>
+               <l>De ti, Filosofia, ávido amante.</l>
+               <l>Meigos olhos lançou tambem no Téjo</l>
+               <l>(Quando ha de, ó Téjo, conhecer-te o Mundo?)</l>
+               <l>E, entre inda sombras Arabes descobre</l>
+               <l>O profundo Vernei, o ameno, o rico:</l>
+               <l>E, que dissera se encontrára hum Nunes;</l>
+               <l>Astros, astros do Ceo, prendeo-vos elle</l>
+               <l>E, o subtil instrumento ao nauta entrega,</l>
+               <l>Ao nauta Portuguez, senhor dos mares:</l>
+               <l>Sem elle Cook o globo ah! não cortára!</l>
+               <l>Mas lá foi Magalhães sem elle, e cerca,</l>
+               <l>Porque a si se levava, o mar, e o Mundo!</l>
+               <l>Tu nos meus versos mofarás do Lethes,</l>
+               <l>E a gloria que te nega a Patria ingrata</l>
+               <l>Em suaves canções te outorga hum vate.</l>
+               <l>Ah! permittira o Ceo, q' o preço humano</l>
+               <l>Á morte não pagára alma tão grande!</l>
+               <l>    Eu não deprimo o merito, o talento;</l>
+               <l>Naquelle alcáçar resplendente estava</l>
+               <l>(Deposto hum pouco o Tragico cothurno,)</l>
+               <l>O florido Voltaire, Sceptico illustre,</l>
+               <l>Emilia tinha ao lado, Emilia o tymbre</l>
+               <l>Talvez maior do feminil engenho;</l>
+               <l>Com ella corre a passear nos astros.</l>
+               <l>Eu lá vejo Nollet, Brisson descubro.</l>
+               <l>Salpicado Bailly de fresco sangue,</l>
+               <l>Indagador Sonnini a quem Fortuna</l>
+               <l>Se honras na vida deo, na morte as néga;</l>
+               <l>Vive em sciencias, na pobreza expira.</l>
+               <l>Além dos mares a Franklîn descubro,</l>
+               <l>Que o raio foi prender nas mãos de Jove.</l>
+               <l>De Prussos vejo o busto; o nome ignoro,</l>
+               <l>Ou barbaro talvez não cabe em versos;</l>
+               <l>Aurea lingoa do Téjo em vão procura,</l>
+               <l>Em seus cadentes numeros suaves,</l>
+               <l>E na Lira ajustar, que a Grega imita,</l>
+               <l>Os acres sons dos Hyperboreos nomes:</l>
+               <l>Mas não faz dura a metrica harmonia</l>
+               <l>O teu nome ó Linneo, tu sacerdote</l>
+               <l>Do Sanctuario d'alma Natureza;</l>
+               <l>Alli vejo teu busto, alli cercada</l>
+               <l>A frente tens de peregrinas plantas,</l>
+               <l>E tu, qual novo Adão, dás nome a todas.</l>
+               <l>Hum ramalhete de purpureas flores</l>
+               <l>A Europa, a Lybia, a America t'off'rece;</l>
+               <l>A Asia de tantas maravilhas chêa</l>
+               <l>Das margens do Mecón, do Ganges, do Indo</l>
+               <l>Grinaldas te prepara, e lá tas manda,</l>
+               <l>Tão bellas quaes as pinta o China astuto:</l>
+               <l>Ceilão entre seus balsamos as tece.</l>
+               <l>E o suave vapor, q' a Aurora exhala,</l>
+               <l>Lá no berço onde nasce, e espalha rozas,</l>
+               <l>Em dourados túribulos te invia.</l>
+               <l>Não tiverão os Reis, tributos destes!</l>
+               <l>Ao poder se negou, dá-se á sciencia.</l>
+               <l>    Maior gloria me chama, hum novo busto</l>
+               <l>Que entre todos maior, mais luz derrama.</l>
+               <l>Este he Buffon, que não mortal parece.</l>
+               <l>He seu louvor, universal silencio:</l>
+               <l>Nem lingoa humana diz, nem mente abrange</l>
+               <l>Tudo o que foi Buffon; contemplo, e calo.</l>
+               <l>Se he mais q' a Poezia, he mais que humano</l>
+               <l>Rafael co'os pinceis, Buffon co'a lingoa....</l>
+               <l>Só Natureza he mais, porq' elles morrem,</l>
+               <l>Morre, não ella, taes rivaes supplanta.</l>
+               <l>Só Newton he maior; que entrego a palma.</l>
+               <l>Não ao que pinta, ao que conhece as causas;</l>
+               <l>Se este he só venturoso, este he só grande.</l>
+               <l>    Com tanta luz atonito, e suspenso</l>
+               <l>Volvo os olhos de hum lado, e bem no meio</l>
+               <l>Do magestoso Templo o altar estava.</l>
+               <l>Por argenteos degráos se avança e sobe,</l>
+               <l>Mas com trabalho, á baze alabastrina.</l>
+               <l>Alli sentada—Experiencia—estava.</l>
+               <l>Eu prompto a conheci no rosto antigo</l>
+               <l>Na longa veste, e diamantina tarja,</l>
+               <l>Em q' esta li gravada, aurea sentença:</l>
+               <l>    "Das cousas mestra eu sou, dos homens mestra"</l>
+               <l>N'hum quadrado Geometrico se assenta</l>
+               <l>O sacrosanto altar, e em cima posto</l>
+               <l>Vi como hum vaso de alabastro puro,</l>
+               <l>Que não de Fídias o cinzel abrira;</l>
+               <l>Teve artífices dois, Estudo, e Tempo.</l>
+               <l>Do seio lhe rompia etherea chamma,</l>
+               <l>Q' ante o Nume brilhando aos Ceos subia</l>
+               <l>Inextinguivel lampada, que os annos</l>
+               <l>Vão augmentando progressivamente.</l>
+               <l>Formão á Deosa os seculos hum throno</l>
+               <l>Mais que os rubins precioso, e mais segura</l>
+               <l>Materia tem, que o sólido diamante.</l>
+               <l>Tem cheio o rosto de Viveza, e graça,</l>
+               <l>Que amor no humano coração desperta,</l>
+               <l>Que encadêa a vontade, a alma levanta.</l>
+               <l>D'estatura commum se me antolhava;</l>
+               <l>Mas logo a vi subida até co'a frente</l>
+               <l>Ir topetar na abóbada do Templo.</l>
+               <l>De fios subtilissimos tecidas,</l>
+               <l>Mas de materia indissoluvel, erão</l>
+               <l>As vestes q' ella traja, e que formadas</l>
+               <l>Forão por ella mesma, obra pasmosa,</l>
+               <l>Que do candido pé, ao collo eburneo</l>
+               <l>Forma diversos gráos: hum véo sombrio</l>
+               <l>(Por mão proterva lacerado em parte)</l>
+               <l>De negra antiguidade a envolve toda</l>
+               <l>Nas mãos tem livros de diversas lingoas,</l>
+               <l>Onde eleva tambem dourado sceptro.</l>
+               <l>    Pasmado, á quasi omnipotente Deosa</l>
+               <l>Todo me inclino, a magestade acato.</l>
+               <l>Titubeante, e tremulo dest'arte,</l>
+               <l>Soltando a voz hum pouco, á Deosa fallo:</l>
+               <l>    "Ó tu do estudo emprego, ó Madre excelsa</l>
+               <l>Da intelligencia dos arcanos todos</l>
+               <l>De que he fecundo o Ceo, fecunda a Terra;</l>
+               <l>Tu da verdade indagadora, e facho</l>
+               <l>Luminoso da vida. Ó tu do vicio,</l>
+               <l>Tu da ignorancia rispido flagello,</l>
+               <l>Tu, q' hes tudo ao mortal, q' hes luz, q' hes vida,</l>
+               <l>Ante os teus olhos me conduz Fadiga:</l>
+               <l>Misero Vate eu sou, no peito acôlho</l>
+               <l>Desejo de saber: sempre afanoso</l>
+               <l>Apoz a imagem da verdade eu corro;</l>
+               <l>Mas a alma envolta em sombra, em sombra os olhos,</l>
+               <l>Enigmas vejo só, eu palpo enigmas:</l>
+               <l>Sentir, gozar, não perceber, he esta</l>
+               <l>Da existencia mortal partilha, e obra....</l>
+               <l>Mas qual te vejo, ó Deosa, e q' orgulhosos</l>
+               <l>Amadores te cercão! Que ignorantes</l>
+               <l>Do acatamento q' a teu lume immenso,</l>
+               <l>Deveo sempre guardar o engenho humano!</l>
+               <l>Deve, qual pobre, pequenino rio,</l>
+               <l>A quem agua não deo caudal torrente,</l>
+               <l>Correr tranquillo, e murmurar nas pedras,</l>
+               <l>Ao Pastor innocente, á Ninfa ingenua</l>
+               <l>Objectos de prazer offerecendo.</l>
+               <l>Mas o desejo audaz, e o louco orgulho</l>
+               <l>O torna rio impetuoso, e bravo</l>
+               <l>Soberbo, ufano vai d'agua não sua.</l>
+               <l>Eis se despenha, qual torrente Alpina,</l>
+               <l>E os campos cobre furioso, e turvo;</l>
+               <l>Leva comsigo os troncos, leva os gados,</l>
+               <l>Leva o Pastor, e a misera choupana,</l>
+               <l>Té que cesse do ar fecunda chuva:</l>
+               <l>E, serenado o ceo primeiro orgulho</l>
+               <l>Então depõe deixando a marge enchuta."</l>
+               <l>    Mais quizera dizer eis q' o grão Nume,</l>
+               <l>Fitos em cuja frente eu tinha os olhos,</l>
+               <l>Soltou dos labios divinal surriso,</l>
+               <l>E, doce voz alevantando, exclama:</l>
+               <l>    "Podem, meu filho, eternizar no Mundo</l>
+               <l>O mesquinho mortal meus dons sublimes,</l>
+               <l>E as idéas altissimas, e claras,</l>
+               <l>Q' eu co' mão destra na sua alma imprimo;</l>
+               <l>Comigo, e o sentes tu, do pezo humano</l>
+               <l>Se livra, se desfaz o entendimento;</l>
+               <l>Ao alto sóbe, e se remonta, e chega</l>
+               <l>Comigo aos claros Ceos, comigo entende</l>
+               <l>Mysterios profundissimos, e entra</l>
+               <l>Da Natureza nos occultos seios.</l>
+               <l>Essa Eterna Razão por mim conhece,</l>
+               <l>Que se difunde n'Universo inteiro,</l>
+               <l>A, que mora no germe, occulta força,</l>
+               <l>A que a tudo dá forma, e dá figura.</l>
+               <l>Por mim, por mim conhece a origem d'alma,</l>
+               <l>Qual tenha em corpo humano assento, e throno;</l>
+               <l>A que fim s'encaminhe, e quaes s'encontrem</l>
+               <l>Ou desgraças, ou bens, na vida, e morte.</l>
+               <l>Eu torno bello o Mundo, os homens sabios</l>
+               <l>Se ingenuos querem vir seguir meus passos,</l>
+               <l>E contemplão por mim o alto principio</l>
+               <l>Das cousas em si mesmo, os gráos, e os tempos,</l>
+               <l>Que a tudo tem prescripto a mão do Eterno.</l>
+               <l>Eu os levanto a conhecer hum Nume,</l>
+               <l>Obedecer-lhe, e venerallo sempre:</l>
+               <l>Delle, só delle a pressentirem tudo</l>
+               <l>A lei, e ordenação; eu só lhe ensino</l>
+               <l>A dar justo valor, dar justo apreço,</l>
+               <l>Ao que se mostra ou verdadeiro, ou falso.</l>
+               <l>Se o prazer, a que he misto o pranto, a magoa,</l>
+               <l>E o pungente pezar, que he tardo sempre,</l>
+               <l>Os homens sabem condemnar, eu mesma</l>
+               <l>Seu peito aclaro, o coração lhe inflammo;</l>
+               <l>He meu proprio este dom. Por mim descobrem</l>
+               <l>Que he só feliz na Terra, he só potente</l>
+               <l>Quem se domina a si: Guia incorrupta</l>
+               <l>São minhas luzes ao mortal na vida.</l>
+               <l>Eu primeiro lhe aceno, eu lhe preparo,</l>
+               <l>(Depois Religião, que he só, que he tudo)</l>
+               <l>Séde no Ceo, qu'eternamente he bella.</l>
+               <l>Do Christianismo hũ mestre, hũ sabio, hũ grande,</l>
+               <l>De Alexandria nas escolas doutas,</l>
+               <l>D'alta verdade, que dos Ceos foi dada,</l>
+               <l>Pedagoga me chama, eu sou por certo</l>
+               <l>Quem da luz da Razão, da Natureza</l>
+               <l>Leva os mortaes a accreditar mysterios</l>
+               <l>Qu'á razão não se oppõe, mas são mais altos.</l>
+               <l>    Mas eu desço comtigo ao Templo augusto;</l>
+               <l>Q' inda que erguido o vêz, não he distante</l>
+               <l>Da terrea habitação do engano, e minha.</l>
+               <l>Olha, admira, contempla a excelsa móle</l>
+               <l>Premio d'hum Grande que he brazão do Mundo:</l>
+               <l>Este he d'honra immortal o alto ornamento,</l>
+               <l>Que eu mesma á Gloria consagrei, com elle</l>
+               <l>De hum Pontifice meu premeio as obras,</l>
+               <l>Elle as minhas expoz, dou premio ás suas."</l>
+               <l>    A Deosa emudeceo, á dextra eu volvo</l>
+               <l>(Nunca confuso assim) trementes olhos;</l>
+               <l>E no meio da luz brilhante, e pura</l>
+               <l>Soberbo alçar-se Mausoléo descubro.</l>
+               <l>De Newton vi gravado o nome excelso</l>
+               <l>N'hum pórfido immortal, que nem d'Augusto;</l>
+               <l>Ou no Tybre cobrio geladas cinzas,</l>
+               <l>Ou do Grande Pompeo fechou no Nilo</l>
+               <l>Restos chorados do implacavel Julio.</l>
+               <l>Depois que vezes mil no estranho, e grande,</l>
+               <l>Monumento fitei pasmados olhos,</l>
+               <l>Por longo tempo contemplando absorto</l>
+               <l>Aquella d'alto engenho obra estupenda,</l>
+               <l>Ao Britanno immortal sagrei com votos</l>
+               <l>Inteiro o coração, minha alma inteira;</l>
+               <l>D'estima este o tributo, o feudo he este,</l>
+               <l>Que eu primeiro paguei, Nação pasmosa</l>
+               <l>De quem o mar he todo, a Terra he quasi.</l>
+               <l>Mas eu sou Portuguez, e armas não podem</l>
+               <l>Alhêas deslumbrar-me; eu vejo as Lusas,</l>
+               <l>Cuja gloria tu vêz no vasto Oriente,</l>
+               <l>E, onde levantas triplice bandeira,</l>
+               <l>Primeiro o nome Portuguez encontras.</l>
+               <l>Eu não te invejo a gloria, nem thesouros;</l>
+               <l>Se de Safyras atulhados cofres,</l>
+               <l>Fios de brancas Pérolas, se finos</l>
+               <l>Luminosos Rubins d'Asia recebes;</l>
+               <l>Já d'Asia hum Portuguez trouxe mais qu'isso:</l>
+               <l>Do Indo, Hydaspe, e Gange as aguas trouxe</l>
+               <l>Dentro em barro Chinez; e era Atayde.</l>
+               <l>Será maior teu Rodney, ou teu Nelson?</l>
+               <l>Nem teu Monk he maior, se o Sceptro engeita,</l>
+               <l>Em Regia frente o Diadema pondo.</l>
+               <l>Hes grande para mim porque em teu seio</l>
+               <l>Bolingbrocke apparece, Adisson, Pope;</l>
+               <l>Apparece Bacon, Milton tactêa</l>
+               <l>Arpa tocada só d'Hebreo Monarcha;</l>
+               <l>Em ti tiverão berço, e Locke, e Tompson,</l>
+               <l>E o que os povos do Mundo inda baralha,</l>
+               <l>E a Gallia fez tremer, Pitt, he teu filho.</l>
+               <l>Hes grande para mim, porque hum Senado</l>
+               <l>De Reis, mais que o de Roma em ti conservas,</l>
+               <l>Onde tantos Demosthenes, e tantos</l>
+               <l>Tullios sabem surgir, salvar a Patria.</l>
+               <l>He esta a fonte do respeito, e estima;</l>
+               <l>Que eu Vate, que eu Filosofo consagro</l>
+               <l>A ti grande Nação, da Europa asylo.</l>
+            </lg>
+            <p rend="justify">
+               <hi rend="italic">Fim do II. Canto.</hi>
+            </p>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>NEWTON,<lb/>POEMA.</head>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>
+               <label>CANTO III.</label>
+            </head>
+            <lg>
+               <l>Tinha ficado em extase profundo</l>
+               <l>Do protentoso Mausoléo co'a vista:</l>
+               <l>Mas da pasmosa suspensão me chama</l>
+               <l>A Fadiga outra vez; eis abro os olhos,</l>
+               <l>Junto ao sepulcro vejo em lédo aspecto</l>
+               <l>Matronas duas de belleza estranha:</l>
+               <l>Humanos hombros veste argenteas azas,</l>
+               <l>Na dextra mão sustenta argentea tuba;</l>
+               <l>Vi que era a Fama, que immortaes escritos</l>
+               <l>De Newton celebrou; era outra a Gloria,</l>
+               <l>Que os sustenta nas mãos, defende, e guarda.</l>
+               <l>Da Fama, e Gloria he obra, he maravilha</l>
+               <l>O immortal Cenotafio: aos pés sentada</l>
+               <l>A Verdade admirei simplice, e núa:</l>
+               <l>Ella serve de baze ao grande, illustre</l>
+               <l>Monumento immortal onde a pressága</l>
+               <l>Mente me diz, que saberão no Mundo,</l>
+               <l>Que eu no Mundo existi, tardios netos.</l>
+               <l>Do seio extractos da materia prima</l>
+               <l>Dois pedestaes estão, que no encendrado</l>
+               <l>Ouro conservão symbolos diversos,</l>
+               <l>E as bazes são de lúcidas columnas.</l>
+               <l>No meio huma Pyramide que mostra</l>
+               <l>No mui subtil triangular remáte</l>
+               <l>Do fogo, e clara luz o throno; e assento,</l>
+               <l>Qual entre os Gregos o mais douto o mostra,</l>
+               <l>Crendo que deste fogo era alma chêa,</l>
+               <l>Que qual laço entre si sustenta, e prende</l>
+               <l>Intelligivel Mundo ao Mundo inerte,</l>
+               <l>Incorporea substancia á sensitiva:</l>
+               <l>(Methafysico abysmo, ou sombra he isto,</l>
+               <l>Que eu débil, que eu mortal romper não posso).</l>
+               <l>Daquelle fogo interminavel fonte</l>
+               <l>Vi d'átomos sahir, que o Sol brilhante</l>
+               <l>Desde o seu seio luminoso espalha,</l>
+               <l>Donde o Immenso esplendor dalvez se forma.</l>
+               <l>Além do alcance do saber humano</l>
+               <l>He sua rapidez, correm velozes</l>
+               <l>Dos Ceos o immenso espaço, em toda a parte</l>
+               <l>Se difundem no ar; destas pequenas</l>
+               <l>Particulas tem luz, tem lume os corpos;</l>
+               <l>Sempre impellido vai, vibrado sempre</l>
+               <l>(Continua undulação) primeiro raio</l>
+               <l>D'outro, que delle apóz o Sol despede.</l>
+               <l>Diante da Pyramide sublime</l>
+               <l>Entre as columnas se elevava ingente,</l>
+               <l>Firme, segura baze; ordem Toscana</l>
+               <l>Com magestade seus adornos fórma;</l>
+               <l>Nella esculpido teu grão nome eu leio,</l>
+               <l>Immortal Galileo, tu preço, e gloria</l>
+               <l>Da Etrusca Sapiencia, e timbre illustre</l>
+               <l>D'alma Cidade qu'em seu gremio ouvira</l>
+               <l>Os magos sons da Cythara suave,</l>
+               <l>Que a Laura celebrou, qu'ouvira outr'ora</l>
+               <l>Da boca de Ficino auri-eloquente</l>
+               <l>Do excelso Platonismo expor mysterios;</l>
+               <l>Que dera o berço ao que descobre hum Mundo,</l>
+               <l>Que o nome seu tomou; qu'inda hoje o guarda.</l>
+               <l>Immortal Galileo, devem-te os sabios,</l>
+               <l>Da Terra aos astros o caminho aberto;</l>
+               <l>Qual deve a Magalhães o nauta a estrada,</l>
+               <l>Que cerca todo o globo em mar profundo:</l>
+               <l>He teu brazão sômente, he gloria tua</l>
+               <l>Desta mesquinha, inerte escura Terra</l>
+               <l>Avizinhar as lucidas estrellas;</l>
+               <l>E, se o Toscano ceo d'astros he rico,</l>
+               <l>Que ao throno Medicêo docel formárão,</l>
+               <l>A ti se deve, a ti!... Memoria triste!</l>
+               <l>O throno Medicêo, he sombra, he cinzas,</l>
+               <l>Depois que o Tygre, ou Vandalo do Sena</l>
+               <l>Despreza a Sapiencia, avilta os thronos!</l>
+               <l>O teu engenho inaccessivel abre</l>
+               <l>Nova estrada ao saber: Britanno illustre,</l>
+               <l>Com ella architectou obra estupenda,</l>
+               <l>Que, consagrada á lucida verdade,</l>
+               <l>Da proterva ignorancia o orgulho opprime.</l>
+               <l>Immortal Galileo, ao dia, ás luzes</l>
+               <l>Que ao Mundo trouxe teu saber profundo,</l>
+               <l>Se oppôz a cega audaz insipiencia</l>
+               <l>E inda agora se oppõe; que hum véo sombrio</l>
+               <l>Tentou no Sena despregar-te em cima.</l>
+               <l>Ah! não se lembrão que se a Italia culta</l>
+               <l>Não dera o berço a Galileo, não forão</l>
+               <l>Tão ufanas de si Gallia, e Britannia,</l>
+               <l>Hum Newton dando á luz, e á luz Des-Cartes!</l>
+               <l>    Dos lados sobre a baze alta, e segura</l>
+               <l>Eu vi dois globos da pezada, e dura</l>
+               <l>Magnete, que he mysterio ao sabio, a todos:</l>
+               <l>Virtude de attracção nella reside,</l>
+               <l>Se a mente a não conhece, a vista a sente:</l>
+               <l>Pegando, unindo a si (profundo arcano!)</l>
+               <l>Esse metal cruel, sagrado a Marte,</l>
+               <l>Que hoje a misera Europa em sangue inunda,</l>
+               <l>E he dos mortaes na mão rival do raio.</l>
+               <l>Esta ao sabio, esta ao vulgo ignóta força,</l>
+               <l>Como em triunfo se descobre, e mostra.</l>
+               <l>De teu contínuo meditar foi obra,</l>
+               <l>Ó Genio do Tamiza, este prodigio;</l>
+               <l>Mostra a tendencia qu'entre si conservão</l>
+               <l>Alternativamente os corpos todos,</l>
+               <l>Que a hum centro que he commum gravîtão sempre.</l>
+               <l>    Ignóto nome aos seculos antigos,</l>
+               <l>Foi attracção reciproca, e foi sempre,</l>
+               <l>Centrífuga, e centrípeta ignorada,</l>
+               <l>Com que estranhos fenomenos s'explicão.</l>
+               <l>Em seu lugar as gárrulas escolas</l>
+               <l>Sonhárão Nume occulto, occulta força,</l>
+               <l>D'odio, e d'amor combate, ou guerra eterna,</l>
+               <l>Horror do vácuo, e qualidade ignóta.</l>
+               <l>    N'hum dos globos está gravada em ouro</l>
+               <l>Por mãos de Ptolomeo etherea esfera,</l>
+               <l>Á qual d'ambito immenso a Terra he centro:</l>
+               <l>Acima della brilha argentea Lua,</l>
+               <l>Que o nocturno clarão do Sol recebe.</l>
+               <l>O mensageiro dos celestes Numes</l>
+               <l>Muito acima fulgura; e essa, que teve,</l>
+               <l>Alma belleza, no Oceano o berço,</l>
+               <l>No que he terceiro Ceo, resplende, e brilha;</l>
+               <l>Precede o dia; quando nasce, e surge</l>
+               <l>Quando o disco do Sol se encobre, ou morre!</l>
+               <l>D'aurea luz coroado, e ardentes raios</l>
+               <l>O Sol succede: e se descobre Marte</l>
+               <l>Sanguineo, e triste n'outro Ceo rodando.</l>
+               <l>De Jupiter o globo immenso, e claro,</l>
+               <l>Em mui remoto circulo se agita.</l>
+               <l>Inda além delle, vagaroso, e frio,</l>
+               <l>Vai do antigo Saturno o debil raio.</l>
+               <l>Immoveis pontos, lucidas estrellas</l>
+               <l>Brilhão no immobil crystallino assento.</l>
+               <l>    Obra do grão Copérnico descubro</l>
+               <l>N'outro globo esculpida, immensa esfera,</l>
+               <l>Della, o Sol luminoso he centro, he fóco,</l>
+               <l>Que mui proximo a si Mercurio observa;</l>
+               <l>Vai n'hum carro apoz elle a Cypria Deosa</l>
+               <l>Roseos freios batendo ás alvas Pombas,</l>
+               <l>(Dos astros todos o mais bello, he este);</l>
+               <l>E n'outro ceo mais alto a escura Terra,</l>
+               <l>Tornada astro rotante, o gyro absolve;</l>
+               <l>Da Lua seu satéllite seguida,</l>
+               <l>Da qual ao vario movimento he centro.</l>
+               <l>Das feras armas lugubres o Nume</l>
+               <l>(A quem tanto tributo, incenso tanto,</l>
+               <l>Em lagrimas, em luto a Europa off'rece!)</l>
+               <l>Segue-se apoz da terra; e apoz de Marte</l>
+               <l>O vivo, o claro, o desmedido Jove,</l>
+               <l>De brilhantes satellites cercado</l>
+               <l>Que tu, grão Galileo, primeiro achaste!</l>
+               <l>E do tardo Saturno a immensa, e vasta</l>
+               <l>Mole apparece, de Clientes muitos,</l>
+               <l>E variante annel cercado avança.</l>
+               <l>    Hum longo estudo architetou tão bella,</l>
+               <l>Tão engenhosa machina prestante,</l>
+               <l>Entre os gelos Sarmaticos levada</l>
+               <l>Á maior perfeição, pois já n'antiga</l>
+               <l>Idade a vio sahir absorto o Mundo</l>
+               <l>Das mãos do escravo do eloquente Tullio,<hi rend="sup">2</hi>
+               </l>
+               <l>A quem, deposta a consular soberba,</l>
+               <l>Se dignou de escrever, chamar-lhe amigo.</l>
+               <l>    Sobre os dois globos se sustenta, e firma</l>
+               <l>A illustre, sepulcral Urna estupenda;</l>
+               <l>Architetada, e repellida brilha</l>
+               <l>De Prisma em fórma, e de materia ignóta;</l>
+               <l>Se o brilho he do diamante, inda mais brilha,</l>
+               <l>Se he solido o rubim, mais dura existe.</l>
+               <l>Nas folhagens de Acanto, ou de Cypreste</l>
+               <l>Alli pôz Escultura: em vez de adorno,</l>
+               <l>Em vez dos negros symbolos da morte,</l>
+               <l>Só gravou Mathematico Instrumento,</l>
+               <l>Com que medir dos Ceos a immensa estrada</l>
+               <l>Usa idéa Astronomica segura.</l>
+               <l>Do negro Paragon moldura observo,</l>
+               <l>Que em si contém de Izác a illustre imagem;</l>
+               <l>He relevada em solida Esmeralda,</l>
+               <l>Parece q' inda volve, e q' inda espalha</l>
+               <l>Filosofica vista em torno aos astros,</l>
+               <l>Que respirando está Filosofia.</l>
+               <l>E tanto ao vivo está, tal arte o fórma,</l>
+               <l>Que, se meus olhos acredito, ainda</l>
+               <l>Cuido que solta a voz, que os labios move.</l>
+               <l>    Este relevo portentoso, e raro</l>
+               <l>He sustido nas mãos d'hum Genio illustre,</l>
+               <l>A quem deo berço d'Adria a grão Rainha,</l>
+               <l>(Hoje escrava tambem d'escravos feros)</l>
+               <l>Genio que objectos da terrena estima</l>
+               <l>Aos pés soube pizar, e além subindo</l>
+               <l>Onde o fragil mortal mui raro chega,</l>
+               <l>Teve ao lado Virtude, e teve o gosto,</l>
+               <l>Que o bello sabe achar nas artes bellas,</l>
+               <l>Rival sublime, ou vencedor de Horacio,</l>
+               <l>Na mente sempre á Poezia dada</l>
+               <l>Seguro alvergue achou Filosofia;</l>
+               <l>Pelas varedas da sciencia segue</l>
+               <l>De Newton o farol brilhante e puro.</l>
+               <l>Caro ao Monarcha, que juntou n'hum laço</l>
+               <l>De Minerva, e Bellona o genio, e as artes,</l>
+               <l>Minerva n'alma tem, nas mãos tem Marte,</l>
+               <l>E a pacifica Oliva ao louro ajunta:</l>
+               <l>Monarca invicto, que estendeo vivendo</l>
+               <l>A mão benigna ás Musas desvalidas,</l>
+               <l>E ao lado como amigo os vates senta,</l>
+               <l>E no Reino, onde agora a Guerra existe,</l>
+               <l>De Augusto, fez raiar dourados dias:</l>
+               <l>Foi-lhe caro Algarotti; oh fausto nome,</l>
+               <l>Tão doce e grato ao lisongeiro sexo,</l>
+               <l>Que une mil vezes formosura, e letras!</l>
+               <l>Da nivea mão travando-lhe o dirige</l>
+               <l>Pelas agras do calculo varedas,</l>
+               <l>E lhe ensina a não vêr com medo, e pena</l>
+               <l>Os labyrinthos das traçadas linhas</l>
+               <l>Nos cubos, nos triangulos de Newton;</l>
+               <l>Este nas mãos sustem o Oval relevo,</l>
+               <l>Que ao vivo representa, ao vivo exprime</l>
+               <l>Do grande explorador da Natureza</l>
+               <l>O magestoso, e respirante vulto.</l>
+               <l>D'Optica o Genio na moldura estende,</l>
+               <l>Moldura sup'rior, brilhantes azas:</l>
+               <l>Com septemplice luz se expandem bellas,</l>
+               <l>Que as côres todas primitivas guarda:</l>
+               <l>O corpo todo he nú, cercado apenas</l>
+               <l>D'hum sendal claro azul que estrellas bordão;</l>
+               <l>Na dextra mão sustenta, huma grinalda,</l>
+               <l>E acena de cingir com ella a frente,</l>
+               <l>De pedraria Oriental composta;</l>
+               <l>Na esquerda mão conserva os luminosos</l>
+               <l>Crystaes, em lentes que affeiçoa e pule</l>
+               <l>Co'as doutas mãos Filosofo tranquillo</l>
+               <l>O Portuguez Hebreo na Hollanda escura,<hi rend="sup">3</hi>
+               </l>
+               <l>Que, a vil lisonja despresando altivo,</l>
+               <l>Banha o pão com suor, trabalha, e vive.</l>
+               <l>    D' aurea madeixa o Genio hum raio expande,</l>
+               <l>Que, composto de mil, fulgura ao longe.</l>
+               <l>Resulta delle a côr candida aos olhos:</l>
+               <l>Da Urna sepulcral no seio o raio</l>
+               <l>Se refrange instantaneo, em parte opposta</l>
+               <l>Quadrilongo se vê, posto que fosse</l>
+               <l>Esferico ao partir da origem sua.</l>
+               <l>Diversos gráos, e proporção distincta</l>
+               <l>As côres entre si guardão, conservão;</l>
+               <l>O brilhante escarlate occupa o fundo,</l>
+               <l>O laranjado o meio, e, qual no Goivo</l>
+               <l>O amarello se mostra, alli campêa;</l>
+               <l>O verde então se vê, que enroupa as plantas;</l>
+               <l>Vegetação Rainha assim se veste,</l>
+               <l>Ópa com que se adorna, e o Mundo enfeita:</l>
+               <l>Do azul, que forra os Ceos, o Indico he perto,</l>
+               <l>E da saudade o symbolo tristonho,</l>
+               <l>Matiz da violeta; eis brilha o rôxo.</l>
+               <l>Escala harmoniosa! Eis della em torno</l>
+               <l>D'huma composta côr listões s'estendem,</l>
+               <l>Que outros compostos gradativos formão,</l>
+               <l>Que adornos são do Mausoléo soberbo:</l>
+               <l>E, n'hum Rubim profundamente expressas,</l>
+               <l>Estas palavras portentosas erão:</l>
+               <l>"Com suas Leis a vasta Natureza</l>
+               <l>Immersa estava em tenebrosa noite;</l>
+               <l>Surge, ó Newton, bradava a voz do Eterno;</l>
+               <l>Nasceo Newton no Mundo, e nasce o dia."</l>
+               <l>    Eis tres figuras mais, do grão Sepulcro</l>
+               <l>Ornamento, diviso em torno postas;</l>
+               <l>Primeiro a de Ancião curvo, e rugoso,</l>
+               <l>Fontenelle se diz, meditabundo,</l>
+               <l>Aos Ceos aponta, e contemplando os astros,</l>
+               <l>Diz que habitados são, que a argentea Lua</l>
+               <l>He do pensante, e do mortal morada;</l>
+               <l>Qu'existem Mundos mais no éther immenso.</l>
+               <l>De vórtices cingido, outro apparece,</l>
+               <l>Em cujo seio envolve o Sol brilhante;</l>
+               <l>Em seu gyro assignala o móto aos astros.</l>
+               <l>Tem sobre o Cenotáfio os olhos fitos,</l>
+               <l>O simulacro observa, e mudo o adora.</l>
+               <l>Entre elles ambos Maupertúis descubro,</l>
+               <l>E sobre hum globo estende aureo compasso,</l>
+               <l>E sem temer as cerrações do pólo,</l>
+               <l>Geómetra sublime, os gráos lhe mede.</l>
+               <l>    Eternidade sobre tudo existe,</l>
+               <l>De insupportavel luz clarão diffunde,</l>
+               <l>Onde se perde, e se deslumbra a vista,</l>
+               <l>S' ousa fitar-se ao seu seio immenso.</l>
+               <l>Mal contemplava o monumento augusto,</l>
+               <l>De homem tão grande consagrado á gloria;</l>
+               <l>De tão sublimes extasis me arranca</l>
+               <l>A Fadiga outra vez: "He tempo, ó filho.</l>
+               <l>Que o transportado espirito se torne</l>
+               <l>Á habitação mortal, que desça á Terra:</l>
+               <l>Vai: quanto viste, aos homens anuncîa;</l>
+               <l>Vai declarar insólitos protentos</l>
+               <l>Sobre esta móle sepulcral gravados.</l>
+               <l>O Mundo vivirá: Newton sublime</l>
+               <l>Em quanto exista, existirá com elle.</l>
+               <l>Sobre as ruinas do acabado Mundo</l>
+               <l>A gloria existirá fastosa, inteira,</l>
+               <l>Seu throno erguendo sobre immensa, e clara</l>
+               <l>Luz, que só Newton dividio na Terra."</l>
+               <l>    Disse; eis foge a visão, eis foge o Templo.</l>
+               <l>Eu, não diff'rente d'hum mortal que vôa,</l>
+               <l>Desço do cume do fadado monte.</l>
+               <l>O mesmo monte s'escondeo: vapores</l>
+               <l>Levantados em torno á vista enferma</l>
+               <l>Sobre mim denso véo de nuvens formão,</l>
+               <l>Roubão-me ao claro Olympo: a planta apenas</l>
+               <l>Se me antolhava que na Terra firmo,</l>
+               <l>Do novo dia sou chamado ao duro</l>
+               <l>Lagrimoso trabalho, herança minha,</l>
+               <l>N'huma absoluta escuridade, inglorio,</l>
+               <l>Sómente a mim deixado, e á Natureza,</l>
+               <l>Sem murmurar do Ceo que assim lhe aprouve,</l>
+               <l>Tranquillamente o tumulo esperando</l>
+               <l>(Pouco dista de mim!) repouso eterno.</l>
+               <l>Mas sem que a vil lisonja hum pão mendigue;</l>
+               <l>Nem aos soberbos porticos dos grandes</l>
+               <l>A dependencia guiará meus passos,</l>
+               <l>Nem vergonhosa súpplica, aos ouvidos</l>
+               <l>D' hum homem meu igual levei té agora.</l>
+               <l>Falte em que ponha os pés mesquinha terra,</l>
+               <l>Injusta collisão d'almas obtusas,</l>
+               <l>Menos que vermes na sciencia, em tudo,</l>
+               <l>Só grandes na ignorancia, e na impostura,</l>
+               <l>Me procure azedar cadentes dias;</l>
+               <l>Nem duro, e negro pão banhado em pranto,</l>
+               <l>E obtido com suor me escóre a vida;</l>
+               <l>Nem tenha onde evitar (paredes nuas)</l>
+               <l>Das estações a dura alternativa;</l>
+               <l>Nunca abatido o peito em males tantos,</l>
+               <l>Nem triste o rosto me verão no Mundo;</l>
+               <l>N'alma assentado o presupposto tenho</l>
+               <l>De huma voz Filosofica, que brada:</l>
+               <l>"Dos males todos, o menor he morte."</l>
+               <l>Se he preciso morrer, sou grande, e livre,</l>
+               <l>Sou nobre, independente, e sou ditoso;</l>
+               <l>Do estudo, e da sciencia o fructo he este.</l>
+               <l>Não he caduca vida hum bem q' valha</l>
+               <l>De hum vicio só, de huma vileza o preço,</l>
+               <l>Mas em quanto não finda este intervallo,</l>
+               <l>Breve entre o berço, e tumulo, desejo</l>
+               <l>Ó Patria minha, engrandecer teu nome,</l>
+               <l>Dar-te, qual hes, a conhecer ao Mundo.</l>
+               <l>Isto busco, isto quero, isto medito,</l>
+               <l>Neste seculo infausto á paz negado,</l>
+               <l>Em que tudo se esquece, excepto o sangue;</l>
+               <l>Em que he sciencia o calculo da morte;</l>
+               <l>Em que hum Tigre feroz se chama hum grande;</l>
+               <l>Em que amor do retiro, amor do estudo</l>
+               <l>Como fraqueza, e pedantismo he tido,</l>
+               <l>E a sciencia maior lembrar-se o nome</l>
+               <l>Da terra em que os mortaes seu sangue entornem.</l>
+               <l>Menos barbaro foi por certo o tempo</l>
+               <l>Em que do polo aquilonar marchando</l>
+               <l>Fero Ataúlio, ou Genserico veio</l>
+               <l>He Theodorico barbaro, mas teve</l>
+               <l>Ministro ao lado seu Cassiodoro:</l>
+               <l>Deo-se apreço ao saber, respeito ás Musas.</l>
+               <l>Filosofo he Boecio; aurea eloquencia</l>
+               <l>Apolinar, e Símacho sustentão,</l>
+               <l>E do Grego saber riqueza, e brilho</l>
+               <l>Nas escolas Ecléticas conserva</l>
+               <l>Á foz do Nilo transplantada Athenas.</l>
+               <l>Mas agora!... ah com lagrimas augmento</l>
+               <l>Do patrio rio a turbida corrente!...</l>
+               <l>Porém eu torno a mim, que a mim me rouba:</l>
+               <l>Melancolico véo que alma me enluta.</l>
+               <l>Trago do Templo excelso inda gravadas</l>
+               <l>Na fantazia férvida as imagens,</l>
+               <l>Que eu alli descobrira, inda me lembro</l>
+               <l>De quanto ao grão Britanno as Artes devem.</l>
+               <l>Cultas nações extaticas o louvão,</l>
+               <l>Nunca a lingua mortal cança em louvallo:</l>
+               <l>Unico Genio, cujo estudo, e fama,</l>
+               <l>Sómente ha de acabar quando se solte</l>
+               <l>A chamma voracissima do fogo,</l>
+               <l>Que a Terra, os astros lucidos consuma,</l>
+               <l>Com que do Mundo a machina vacille;</l>
+               <l>Como tu prometeste, e tu cantaste,</l>
+               <l>Ó dulcissimo Vate, a quem por louros</l>
+               <l>Deo do Tybre o Tyranno a Scitia, e morte.</l>
+               <l>    Newton; foste mortal; mas quasi eu creio,</l>
+               <l>(Qual he crença de extatico Poeta)</l>
+               <l>Que d'hum astro natal vieste ao Mundo</l>
+               <l>Mostrar prodigios aos mortaes ignótos.</l>
+               <l>Tu, c'o Prisma na mão mostraste a fonte</l>
+               <l>Da septiforme côr, que a luz encerra,</l>
+               <l>Qual seja a essencia sua, e qual a vida.</l>
+               <l>A superficie dos terrenos corpos,</l>
+               <l>Em parte absorve os luminosos raios,</l>
+               <l>E, reflectidos n'outra parte, os manda</l>
+               <l>Aos olhos nossos com diversas côres.</l>
+               <l>Opáco eis apparece o corpo, quando</l>
+               <l>A luz não tópa com directos póros;</l>
+               <l>Na obliquidade a escuridão consiste,</l>
+               <l>Pois menor transparencia a luz encontra:</l>
+               <l>Tu decifraste as primitivas côres,</l>
+               <l>Ó grande Genio escrutador do Mundo!</l>
+               <l>Tu das mixtas nos dás brilhante idéa,</l>
+               <l>Que effeitos são dos reflectidos raios,</l>
+               <l>E qual seja o poder donde dimane</l>
+               <l>Á refracção, e reflexão principio.</l>
+               <l>Nem são de teu engenho obras supremas</l>
+               <l>As qu'em suave metro expuz té agora.</l>
+               <l>Não so da luz as vibrações potentes</l>
+               <l>Refrangiveis mostrou nos corpos densos,</l>
+               <l>Que no incessante, moto encontrão sempre;</l>
+               <l>Mas a mais progredindo, a mente excelsa,</l>
+               <l>Não se perdeo no calculo infinito:</l>
+               <l>Abysmos onde hum novo ignóto brilho</l>
+               <l>Aos mortaes pode abrir; sahindo ovante</l>
+               <l>Do labyrintho de infinitas curvas,</l>
+               <l>Quando a recta propoz, porque he finita;</l>
+               <l>Se hum pouco só diverge, então se fórma</l>
+               <l>Sempre em curva infinita. Ó sombra, as Musas</l>
+               <l>De ti se espantão, se intimidão, fogem:</l>
+               <l>Só lhe apraz terra donde brotem flores;</l>
+               <l>Só manejão pinceis, calculo odêão;</l>
+               <l>Ou he pequeno emprego á fantazia,</l>
+               <l>Que se escalda, se expande, e se remonta,</l>
+               <l>Juntar com sequidão cifras a cifras;</l>
+               <l>Outro quadro maior minha alma occupa.</l>
+               <l>    Bastava, ó Newton immortal; bastava</l>
+               <l>A dar-te hum nome eterno, a luz, e as côres;</l>
+               <l>Mas tu, da clara luz transpondo o Imperio,</l>
+               <l>Foste os astros seguir no eterno móto.</l>
+               <l>A pestilente Inveja em vão contrasta</l>
+               <l>A teu nome immortal memoria, e honra.</l>
+               <l>Da Geometria nas valentes azas</l>
+               <l>Nunca tentado despregaste hum vôo,</l>
+               <l>E d'huma esfera n'outra esfera foste</l>
+               <l>Viver entre mil soes sem deslumbtar-te;</l>
+               <l>Lá tu foste encontrar, de lá revélas</l>
+               <l>Lei q' a hum centro commum chama os Planetas;</l>
+               <l>E a lei com que do centro os astros fogem.</l>
+               <l>O móto desigual da argentea Lua</l>
+               <l>A teus profundos calculos sugeitas.</l>
+               <l>Tu no móto annual, tu no diurno,</l>
+               <l>Vais passo a passo acompanhando a Terra.</l>
+               <l>Tu do grande fenomeno espantoso,</l>
+               <l>Exposto á nossa vista, e sempre ignóto,</l>
+               <l>Com que ora sobem na arenosa praia,</l>
+               <l>Ora descem na praia as turvas ondas,</l>
+               <l>A verosimil causa, ou certa apontas.</l>
+               <l>E teu profundo espirito em repouso,</l>
+               <l>Assombroso mortal, jámais deixaste.</l>
+               <l>Se, os tubos astronomicos depondo,</l>
+               <l>Deixas de ir vêr os Ceos, correndo os astros,</l>
+               <l>Não satisfeito de rasgar o obscuro,</l>
+               <l>Denso véo que encobria a Natureza,</l>
+               <l>Pelos sombrios pennetraes entrando</l>
+               <l>Com luminoso facho, e nunca extincto,</l>
+               <l>Tu, nascido a dar luz, rasgas as sombras</l>
+               <l>Talvez mais densas, que no seio envolvem</l>
+               <l>Marcado já periodo dos tempos,</l>
+               <l>Vai correndo teu fio, e apenas paras</l>
+               <l>No momento em q' á voz do Eterno o Mundo</l>
+               <l>Surge do cáhos, se organiza, e brilha.</l>
+               <l>Tu, da impostura oriental mofando,</l>
+               <l>E do fallaz mysterioso Egypto,</l>
+               <l>Só da verdade oraculos respeitas.</l>
+               <l>Petavio, Usserio te contemplão mudos</l>
+               <l>Quando outras luzes contemplando mostras</l>
+               <l>Da Natureza na observada marcha</l>
+               <l>Tão remoto não ser da Terra o berço.</l>
+               <l>A baze, as progressões, a gloria, a quéda</l>
+               <l>De Imperios vastos que ambição formára,</l>
+               <l>Interpetre das leis dos Ceos, dos astros,</l>
+               <l>Quizeste ser Legislador dos tempos.</l>
+               <l>Quem póde a gloria recuzar-te, ó Newton,</l>
+               <l>De dar ao Mundo a luz que elle não tinha?</l>
+               <l>A transcendente Geometria elevas</l>
+               <l>Ao ponto além do qual finda o perfeito.</l>
+               <l>Da Natureza sacerdote, acclaras</l>
+               <l>Mysterios que ignorára a Grecia, o Lacio.</l>
+               <l>Pelas sombras da Historia a luz derramas</l>
+               <l>Quando a baze maior, Chronologia,</l>
+               <l>Tu deixas em teus calculos segura.</l>
+               <l>    Se o profundo Varennio a terra, os mares</l>
+               <l>Co'a régoa Filosofica medindo,</l>
+               <l>Este, ai! tão triste! domicilio humano</l>
+               <l>Em quadro multiforme off'rece á mente;</l>
+               <l>Tu te dignas polir, dar brilho, e preço</l>
+               <l>Talvez ao mór Geógrafo que exista;</l>
+               <l>A Newton por interpetre merece!</l>
+               <l>Nelle a luz he brazão, que tu lhe emprestas;</l>
+               <l>Em ti timbre maior, sendo tu Newton,</l>
+               <l>Confessar, conhecer merito estranho.</l>
+               <l>    Da Natureza expositor, quizeste</l>
+               <l>As azas despregar n'hum ceo mais alto,</l>
+               <l>As cortinas fatídicas rasgando,</l>
+               <l>Com que a mão do Immortal cobre o futuro,</l>
+               <l>Foi teu maior estudo esse volume;</l>
+               <l>Onde as visões de extatico Profeta</l>
+               <l>Em sombra impenetravel se sepultão,</l>
+               <l>Não vadeaveis, não, que os aureos sellos</l>
+               <l>Só lhos deve romper momento extremo,</l>
+               <l>Quando de espanto agonizante o Mundo,</l>
+               <l>Vir das nuvens baixar do Eterno o filho.</l>
+               <l>    Não foste grande aqui; mas são pequenos</l>
+               <l>Quantos ousão rasgar comtigo as sombras,</l>
+               <l>Em que Deus quiz guardar mysterios tantos.</l>
+               <l>No Templo Filosofico dest'arte</l>
+               <l>Tu mereceste hum tumulo sublime,</l>
+               <l>Que he seu mais nobre altar; não pompa infausta,</l>
+               <l>Qual ser dos Reis o mausoleo costuma;</l>
+               <l>Neste a gloria se acaba, o nome expira;</l>
+               <l>O teu dalli começa, e dalli manda</l>
+               <l>Raios de luz a esclarecer o Mundo.</l>
+               <l>    Se tens a mente de sciencia cheia,</l>
+               <l>Tens de virtude, o coração cercado:</l>
+               <l>He mais arduo ser bom, que douto, e sabio;</l>
+               <l>E huma Virtude só tem mais valia</l>
+               <l>Que o teu compasso d'ouro, as linhas tuas,</l>
+               <l>E as leis que dás, ou que suppões nos astros.</l>
+               <l>Entre o fausto incivil entre a grandeza,</l>
+               <l>Podeste ser Filosofo modesto.</l>
+               <l>Ah! sem virtude, a sapiencia he nada!</l>
+               <l>A Inveja te assaltou, (e a quem perdoa</l>
+               <l>Este monstro o maior do escuro Inferno?)</l>
+               <l>Mas tu, qual no Oceano altivo escolho</l>
+               <l>Das negras ondas, que rebentão, zombas.</l>
+               <l>E, se hum novo Palacio á Sapiencia</l>
+               <l>Levantárão mortaes no Tybre, e Sena,</l>
+               <l>Os enfeites são seus, e as bazes tuas,</l>
+               <l>Ó feliz Albion, berço de tantos,</l>
+               <l>Magnanimos Heroes, que o Mundo illustrão,</l>
+               <l>Da honra e da virtude asylo, e Patria,</l>
+               <l>Vê que ha no Tejo quem conheça o grande</l>
+               <l>Alumno teo que legislou nos astros;</l>
+               <l>Quem seu saber adore, e seu profundo</l>
+               <l>Systema vá seguindo em todo, em parte;</l>
+               <l>Quem possa ser maior, e igual ao menos.</l>
+               <l>Este dos versos meus, tributo acceita</l>
+               <l>Que eu consagro a teu nome, á gloria tua:</l>
+               <l>Pendura-os em seu tumulo, e se tanto</l>
+               <l>Nem desejar, nem merecer eu devo,</l>
+               <l>Junto da pedra, que os despojos fecha</l>
+               <l>De Tompson teu Pintor, meus dons conserva:</l>
+               <l>Se elle traçou da Natureza o quadro,</l>
+               <l>Dos seculos té alli co'a Lyra intacta,</l>
+               <l>Eu do Interpetre seu pinto em meus versos</l>
+               <l>O grande Genio, e lhe eternizo a Fama.</l>
+            </lg>
+            <p rend="justify">
+               <hi rend="italic">Fim do III. Canto.</hi>
+            </p>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>NEWTON,<lb/>POEMA.</head>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>
+               <label>CANTO IV.</label>
+            </head>
+            <lg>
+               <l>Da luz que o Templo magestoso enchia</l>
+               <l>Nunca a meus olhos o clarão s'extingue,</l>
+               <l>Com elle vejo d' outra sorte a Terra:</l>
+               <l>S'era envolta até alli na sombra escura</l>
+               <l>Do cáhos da ignorancia, eis fulge, eis brilha</l>
+               <l>De novos astros, nova luz banhada.</l>
+               <l>Era tréva até alli quanto pousara,</l>
+               <l>Em Athenas outr'ora, outr'ora em Roma.</l>
+               <l>Era frouxa a impulsão de sabios tantos,</l>
+               <l>Que, mestres do Universo, aos homens davão</l>
+               <l>Lições de sapiencia. Ah! nunca o Templo</l>
+               <l>Aos miseros mortaes se abrio de todo!</l>
+               <l>Quando a barbarie Góthica domina</l>
+               <l>Por tantos, tantos seculos no Mundo,</l>
+               <l>Dos continuos fenomenos a causa</l>
+               <l>Sempre ignorada foi. De espaço a espaço</l>
+               <l>Surgía hum Genio, forcejando apenas</l>
+               <l>Por quebrar os grilhões. Baldado intento!</l>
+               <l>Hia o volume universal fechado,</l>
+               <l>Com sellos de Diamante, á força humana;</l>
+               <l>Qual no tristonho tenebroso Inverno,</l>
+               <l>Quando a densa, importuna, e grossa neve,</l>
+               <l>Abafa em torno o ar; se o Sol brilhante</l>
+               <l>Rasga c'o vivo raio o manto espesso,</l>
+               <l>Subito foge; subito o negrume</l>
+               <l>Tapa de novo o fulgurante aspecto,</l>
+               <l>O Imperio estende da imperfeita noite.</l>
+               <l>Tal da Verdade, e Natureza estava</l>
+               <l>Envolto sempre o rosto em véo sombrio;</l>
+               <l>E, se hum frouxo vislumbre hum pouco a treva</l>
+               <l>Tentava dividir, mais carregada</l>
+               <l>Vinha cahindo a sombra da ignorancia:</l>
+               <l>Ou porque o cego Fanatismo as luzes</l>
+               <l>Demorava continuo, ou porque ainda</l>
+               <l>O marcado periodo não vinha</l>
+               <l>Na vasta, immensa successão dos tempos,</l>
+               <l>Que a mão que rege o todo ás artes marca,</l>
+               <l>Quaes os Imperios são que nascem quando</l>
+               <l>Do nada á vida a Providencia os chama.</l>
+               <l>Quantos Genios nutrio no seio a Italia</l>
+               <l>Antes que Newton fulgurasse ao Mundo?</l>
+               <l>Tilesio, Cisalpino, e Bruno, aquelle</l>
+               <l>Que entre chammas fataes seu crime expia!</l>
+               <l>E Cardano, que entr'Arabes idéas</l>
+               <l>Tantas centelhas luminosas lança!</l>
+               <l>Mas nunca rompe o dia, e o Mundo aclara.</l>
+               <l>Tu mesmo ó Galileo, teu passo apenas,</l>
+               <l>Ao Peristillo do grão Templo levas:</l>
+               <l>Não te foi dado os porticos de todo</l>
+               <l>Aos homens franquear. Germania hum Sabio</l>
+               <l>Produz, q' aos Ceos se lance, os astros peze,</l>
+               <l>E ouse fallar de perto á Natureza;</l>
+               <l>Kepler as leis universaes sentia,</l>
+               <l>Que seguem na carreira ethereos corpos.</l>
+               <l>E Gallia, então n'Aurora, então no berço,</l>
+               <l>Ou não escuta, ou não conhece o Sabio,</l>
+               <l>Que entre os gelos da Hollanda hum mundo finge</l>
+               <l>De turbilhões, de vortices sonhados:</l>
+               <l>E de Epicuro nos jardins se assenta</l>
+               <l>Renovador dos átomos errantes</l>
+               <l>Pensativo Gassendi, e em tréva envolto,</l>
+               <l>Corpuscular Filosofia ensina,</l>
+               <l>Onde engenho só brilha, e nunca hum passo</l>
+               <l>A sempre douta experiencia avança.</l>
+               <l>Ah! se mais á razão, que á fantazia</l>
+               <l>Desse o Germano illustre a quem patente</l>
+               <l>O vasto Imperio foi das artes todas,</l>
+               <l>Se as primitivas mónadas, se aquella</l>
+               <l>Pré-existente enfática harmonia</l>
+               <l>Hum pouco s'esquecesse, e a voz ouvisse</l>
+               <l>Da contumaz observação das causas,</l>
+               <l>Mais cedo, e mais brilhante a luz raiára!</l>
+               <l>Do immenso livro do Universo os sellos</l>
+               <l>Aos olhos dos mortaes s'espedaçárão!</l>
+               <l>    Mas Newton existio, e a Terra he outra;</l>
+               <l>O que era só mysterio, o que era sombra,</l>
+               <l>Foi tudo luz, e sapiencia tudo,</l>
+               <l>Bem como he todo luz, e he dia o Mundo</l>
+               <l>Quando o disco do Sol do Ganges rompe,</l>
+               <l>De arcanos naturaes expoz a cifra</l>
+               <l>Rasgou-se o manto a toda a Natureza!</l>
+               <l>Eis do infinito o calculo profundo</l>
+               <l>Pôde abrir, e forçar cerradas portas</l>
+               <l>Da Sapiencia o recatado Templo</l>
+               <l>Visto apenas ao longe entre inaccessas</l>
+               <l>Róchas quebradas de escarpados montes</l>
+               <l>Se abrio de todo, e se mostrou qual era.</l>
+               <l>Oh! que scena espantosa, oh quadro augusto!</l>
+               <l>Enthusiasmo que minha alma agita</l>
+               <l>Te abrange todo, te contempla, e pinta.</l>
+               <l>Em teu claro vastissimo horizonte</l>
+               <l>As gradações da luz, da sombra eu sigo,</l>
+               <l>Empreza digna de espantar por certo</l>
+               <l>A rica fantazia, o fogo, a força</l>
+               <l>De Tintoreto, ou de Jordão pintando!</l>
+               <l>Eu não sei que ardimento interno eu sinto,</l>
+               <l>Irresistivel violencia aos versos</l>
+               <l>Me leva todo, e da memoria eu tiro</l>
+               <l>Thesouros cuja posse eu mesmo ignóro:</l>
+               <l>Sobre mim me levanto, e alheio aos males,</l>
+               <l>Que outra vez tão de perto, em copia tanta</l>
+               <l>Terrivelmente minha Patria assombrão,</l>
+               <l>A Lyra Filosofica tactêo,</l>
+               <l>E onde não chega estrepito da guerra</l>
+               <l>Eu vejo a luz que a Terra a Newton deve,</l>
+               <l>De antigos évos óptica ignorada</l>
+               <l>De Sarpi, e Porta aos immortaes cuidados,</l>
+               <l>Ah! por certo deveo primeiros passos!</l>
+               <l>Porém co' Prisma, a calculos de Newton</l>
+               <l>Pode formar a analyse das côres:</l>
+               <l>Do Genio, tymbre d'Anglicos triunfos,</l>
+               <l>O volume doutissimo propaga</l>
+               <l>A luz que em só vista, e ignota sempre.</l>
+               <l>Vãos systemas té alli que o throno occupão</l>
+               <l>Cahem sem força, e vigor no abysmo, e nada</l>
+               <l>A Experiencia só, corrige, emenda</l>
+               <l>Quanto á moderna observação se oppunha;</l>
+               <l>E a nova escóla Eclectica se eleva</l>
+               <l>Sobre a verdade, e calculo sómente.</l>
+               <l>Eis-Eulér, e Clairault, profundos genios,</l>
+               <l>Sobre o problema dos tres corpos lanção</l>
+               <l>A baze ao grão saber, e altos progressos</l>
+               <l>Do magestoso simplice systema,</l>
+               <l>Que La Place immortal do Mundo off'rece.</l>
+               <l>    Quão gloriosas consequencias vejo</l>
+               <l>De teus principios, ó Britanno illustre!</l>
+               <l>A nutação do eixo em que se firma,</l>
+               <l>Em que rodando vai pezada Terra:</l>
+               <l>Do mar a exaltação, do mar a fuga,</l>
+               <l>(Que fluxo, e que refluxo a proza chama):</l>
+               <l>D'astros primarios movimento eterno,</l>
+               <l>Dos satélites seus que ao centro tendem;</l>
+               <l>Dos cometas excentricos, que o moto,</l>
+               <l>E sempre incerto, irregular conservão,</l>
+               <l>Os constantes periodos se marcão.</l>
+               <l>A libração da prateada Lua,</l>
+               <l>Astro proximo a nós, mas sempre ignóto,</l>
+               <l>E a causa achada dos bramosos ventos,</l>
+               <l>Do ar sonoro oscilações pasmosas;</l>
+               <l>Tudo he patente já. Methodo exacto,</l>
+               <l>E de integrar, de aproximar se abraça,</l>
+               <l>E tudo, ó grande Inglez, tua gloria augmenta!</l>
+               <l>    A longa duração de quasi um cento</l>
+               <l>D'annuas revoluções da Terra inerte</l>
+               <l>De teus principios á cultura entrega</l>
+               <l>Fontenelle dulcissimo, que Mundos</l>
+               <l>Vio mais no espaço, e aridas sciencias</l>
+               <l>De nova graça e formosura enfeita.</l>
+               <l>    Da Germania, que hum tempo, e núa, e simples</l>
+               <l>A' Historiador Filosofo se mostra,</l>
+               <l>Surge o grão Wolfio, e se offerece ao Mundo;</l>
+               <l>Segue o trilho de calculos profundos:</l>
+               <l>Mathematica luz lança no campo</l>
+               <l>De quanta a Terra vio Filosofia.</l>
+               <l>De ti, grão Newton, os vestigios piza,</l>
+               <l>E da exacta sciencia entra o Sacrario,</l>
+               <l>Em sombras methafysicas s'entranha;</l>
+               <l>Quadro bem digno da attenção do sabio,</l>
+               <l>Nunca em meus versos ficarás inglorio!</l>
+               <l>A Inveja perseguio genio tão raro;</l>
+               <l>Entre agitadas borrascosas ondas</l>
+               <l>Em seu peito existio tranquilidade,</l>
+               <l>E a cada tiro venenoso dava</l>
+               <l>A grão resposta de hum volume douto</l>
+               <l>Com que da sapiencia o erario augmenta.</l>
+               <l>Do Lycêo de Berlin lá foge expulso</l>
+               <l>Vai com elle a Virtude, e vai Sciencia.</l>
+               <l>    Da Hollanda nebulosa os sabios surgem.</l>
+               <l>Ah! porque foge á magica harmonia</l>
+               <l>De meus versos seu nome! As Musas fogem,</l>
+               <l>E os alpes vendo, os Pyreneos não passam.</l>
+               <l>Só do Tibre, ou do Téjo as aguas gostão</l>
+               <l>Depois que o Trace barbaro, e que o Scytha</l>
+               <l>Do Eurotas, de Hypocrene a margem pizão!</l>
+               <l>Mosckembroêke, Sgravesande illustrão</l>
+               <l>Da Fysica os confins. Conspicua em tudo,</l>
+               <l>Antes que ao jugo Vandalo dobrasse</l>
+               <l>O tão nobre até alli livre pescoço,</l>
+               <l>Nevosa Helvecia n'huma só familia</l>
+               <l>Da sciencia o deposito conserva.</l>
+               <l>Fadada para as letras Baziléa</l>
+               <l>Tantos Bernullis dá, quantos os sábios.</l>
+               <l>    Claro ornamento da sciencia exacta,</l>
+               <l>Onde hum tempo foi Grecia, e Roma outr'ora</l>
+               <l>Onde em Sena mudado, eu via o Tibre,</l>
+               <l>Quanto a Fysica val, quanto se avança!</l>
+               <l>Á Luz de Newton nova luz empresta,</l>
+               <l>E não deixou que dezejar á Terra.</l>
+               <l>Da grande Academia o Templo eu vejo,</l>
+               <l>Alcaçar da sciencia ao Mundo aberto</l>
+               <l>Do grande Newton a memoria, o nome,</l>
+               <l>Alli qual genio tutelar preside</l>
+               <l>No vasto erario de immortaes volumes</l>
+               <l>Encerra, e fêcha a Natureza toda,</l>
+               <l>E a Natureza toda aos olhos abre.</l>
+               <l>    De luz tão clara não carece Italia;</l>
+               <l>Paiz tão caro ao Ceo, tão grato aos sabios,</l>
+               <l>Ah! nunca os Brennos te pisassem, nunca!</l>
+               <l>Devera em Cima de teus Alpes vêr-se</l>
+               <l>A gráo Minerva sobraçando a Egyde</l>
+               <l>Co'a angui-crinita frente de Medusa</l>
+               <l>Onde os Hydros fataes s'enroscão, silvão,</l>
+               <l>Petrificar as Vandalas Cohortes,</l>
+               <l>Qual já Perseo c'o diamantino escudo</l>
+               <l>As iras suspendeo do equoreo monstro,</l>
+               <l>E Andromeda livrou. Italia, Italia,</l>
+               <l>Belligeranres torreões nos mares</l>
+               <l>De contrarias nações, a Hesperia, a Gallia,</l>
+               <l>E a soberba Albion, respeitão, guardão</l>
+               <l>Lenho que leva La Peyrouse, e marcha</l>
+               <l>Co'as raras produções do opposto Mundo</l>
+               <l>A enriquecer a Europa armi-potente:</l>
+               <l>Não he de huma nação, da Terra he todo</l>
+               <l>O sabio que a riqueza augmenta ás artes.</l>
+               <l>Tal acatáda ser, tal tu devias,</l>
+               <l>Ó domicilio do saber immenso,</l>
+               <l>E não hirem turvar profanas armas</l>
+               <l>Teus sabios immortaes, teus monumentos;</l>
+               <l>Tudo em ti tinha o Mundo, e as Musas todas</l>
+               <l>Tinhão firmado em ti seu Templo, e throno.</l>
+               <l>De hum vate acceita o pranto, acceita os votos,</l>
+               <l>Sabe que o Téjo te conhece toda</l>
+               <l>Entre as cultas nações, tu só me illustras,</l>
+               <l>Eu nada tenho que invejar ao Mundo,</l>
+               <l>Quando em viva abstracção te roubo ao Globo;</l>
+               <l>Sem Filicasa, eu Lyrico me acclamo,</l>
+               <l>Ah! sem Tasso, o Cantor do acceso Oriente</l>
+               <l>Cedera a nenhum outro Epica tuba;</l>
+               <l>E meditando harmoniosamente</l>
+               <l>Eu só fôra o Pintor da Natureza</l>
+               <l>Se Arrighi, e Conti co'os pincéis não dérão</l>
+               <l>A tão grande painel mais alma, e vida.</l>
+               <l>    A accesa fantasia hum pouco, hu' pouco</l>
+               <l>Das Musas se lembrou deixando as linhas,</l>
+               <l>Os cubos, e os triangulos de Newton,</l>
+               <l>E a regua de marfim, compasso d'ouro</l>
+               <l>Com que elle mede a Natureza toda.</l>
+               <l>Com quanta gloria te serviste delle,</l>
+               <l>Tu, que a tudo primeiro o exemplo deste!</l>
+               <l>Não cede, não, Bolonha ao grão Tamisa</l>
+               <l>Menos Florença, que, em jardins envolta,</l>
+               <l>Da Fysica sciencia o Imperio estende;</l>
+               <l>De Newton ao clarão marcha Zanotti:</l>
+               <l>Curvo, e velho Ricatti, abstracto, e mudo</l>
+               <l>A seu sacrario te conduz, Urania;</l>
+               <l>De Newton nas fluxões tu luz derramas.</l>
+               <l>Se teve crime a Sociedade extincta</l>
+               <l>Aos olhos da razáo, tu lho disculpas,</l>
+               <l>E tu pedes por ella o pranto ao Mundo.</l>
+               <l>Manfredi, e Grandi, e Nicolai, de assombro</l>
+               <l>Enche do Neva, e do Danubio os sabios;</l>
+               <l>Não mais, não mais a progredir se atreve</l>
+               <l>O grande Imperio da sciencia exacta.</l>
+               <l>Onde o claro Sebéto as aguas volve,</l>
+               <l>E ao perto ouve bramir, troar escuta</l>
+               <l>Do medonho Vesuvio o seio horrendo,</l>
+               <l>Chega de Newton a sciencia, e chega</l>
+               <l>O desejo de abrir com aureas chaves</l>
+               <l>Da recatada Natureza o Templo,</l>
+               <l>Orlandi, e Galiani aos astros sobem,</l>
+               <l>O grão Maraldi lhes franqueia a estrada;</l>
+               <l>Com Cassini outra vez s'exalta o Mundo.</l>
+               <l>Se muito a Galileo deveste, ó Newton,</l>
+               <l>Mais a Italia te deve, as Artes devem,</l>
+               <l>Na Hesperia á perfeição levadas sempre.</l>
+               <l>    Mecanica, aos mortaes proficuo estudo,</l>
+               <l>Depois de Newton teu sacrario aberto</l>
+               <l>Eu vejo pela Europa, e mais se apura</l>
+               <l>Do maquinista Siculo o talento,</l>
+               <l>Que atalha os vôos das Romanas Aguias;</l>
+               <l>A força cede a força ás artes sabias!</l>
+               <l>Quasi vejo surgir Numes na Terra,</l>
+               <l>A Cujo aceno os corpos obedecem;</l>
+               <l>Não he a Lyra de Anfião que os montes</l>
+               <l>Manda a Thebas chegar, são leis profundas,</l>
+               <l>Que ás sombras arrancou da Natureza</l>
+               <l>O estudo da Mecanica pasmoso</l>
+               <l>Náos se suspendem, diques s'apresentão</l>
+               <l>Á furia sempre indómita dos mares.</l>
+               <l>Sobe hum rio em Marly, corre hum penhasco</l>
+               <l>Á ribeira do Neva, e a baze fórma</l>
+               <l>Da colossal, prodigiosa móle,</l>
+               <l>Que representa o creador de Imperio,</l>
+               <l>Que hoje a razão defende, o crime insulta.</l>
+               <l>    Sem a Italia meu canto erguer não posso;</l>
+               <l>Se Imperio Mathematico contemplo,</l>
+               <l>Musckembroêcke, e Belidoro a guerra</l>
+               <l>(Guerra dos sabios são, que o sangue ignorão)</l>
+               <l>Accendem entre, si, disputão doutos</l>
+               <l>Do movimento de impelidos corpos,</l>
+               <l>Que a força perdem gradativamente,</l>
+               <l>Até que a resistencia o móto acabe.</l>
+               <l>Do Sena, e do Tamiza os sabios todos</l>
+               <l>De Newton, de Amontons nas leis insistem;</l>
+               <l>Eis surge, eis brilha o Bolonhez Palcani,</l>
+               <l>E onde co'as doutas maquinas não chega,</l>
+               <l>Mysterios da razão co'a força abrange;</l>
+               <l>Traça hum ramo hyperbolico engenhoso,</l>
+               <l>Assintótico o diz, com elle explica,</l>
+               <l>Com elle aclara o disputado arcano.</l>
+               <l>Se as leis dos corpos sólidos se mostrão</l>
+               <l>Em soberana luz, quanto escondida</l>
+               <l>Guardava a Natureza a lei constante,</l>
+               <l>Que pôz desde o começo ao rio undoso,</l>
+               <l>Que elle na marcha accelerada observa!</l>
+               <l>Mil equações algebricas a escondem;</l>
+               <l>Vencem-se em fim mysteriosas sombras.</l>
+               <l>Depois de quanto afan, de quanto estudo</l>
+               <l>Tu, Saladini, a theoria expunhas,</l>
+               <l>Que escólho da mecanica tu chamas,</l>
+               <l>Não superavel quasi a engenho humano!</l>
+               <l>Tu deste a Hydrodinamica pasmosa;</l>
+               <l>Teu hemisferio hydraulico os louvores</l>
+               <l>Do taciturno pensador La-Grange</l>
+               <l>Te soube merecer. Ricatti o grande</l>
+               <l>Te abraça terno com silencio augusto,</l>
+               <l>Sobre teu rosto lagrimas derrama;</l>
+               <l>Do Sabio velho a candida ternura</l>
+               <l>Mais te explica, e te diz, que o louro, o premio</l>
+               <l>Que Berlin te mandou, promette o Sena.</l>
+               <l>    Mas teus cuidados, as vigilias tuas,</l>
+               <l>Ó tu de Urania Sacerdote, e filho,</l>
+               <l>Á sciencia dão luz, que os ceos abrange,</l>
+               <l>Por ti seu Reino estende a Astronomia;</l>
+               <l>Desde o culto Caldeo, do douto Egypcio</l>
+               <l>Té quasi ao berço teu jazia em sombras;</l>
+               <l>Nada avançado tinha Árabe estudo,</l>
+               <l>Guardador do deposito das letras,</l>
+               <l>Que á furia se evadio do Turco indouto</l>
+               <l>Depois que a sabia Grecia he cinza, ou nada:</l>
+               <l>Nem mesmo entre os de Dánia agrestes montes,</l>
+               <l>Onde Ticho elevou seu tubo aos astros,</l>
+               <l>Solar systema se aclarou de todo.</l>
+               <l>Mas apenas os Ceos co'a mente excelsa,</l>
+               <l>Sem te assustar o espaço indefinito,</l>
+               <l>Ousaste passear, como vencida</l>
+               <l>Da douta audacia a Madre Natureza,</l>
+               <l>Ou fez que o Ceo, se aproximasse á Terra,</l>
+               <l>Ou que a Terra de perto os astros visse.</l>
+               <l>Leis occultas té alli se patenteão</l>
+               <l>E o que Newton expoz, Cassini indaga.</l>
+               <l>Seguindo a piza ao fundador, ao mestre</l>
+               <l>Da sciencia astronomica, empunhava</l>
+               <l>O Telescopio do subtil Campani;</l>
+               <l>De Saturno os satellites descobre</l>
+               <l>Quasi todos então; busca as estrellas,</l>
+               <l>Que immortal Galileo Primeiro achára,</l>
+               <l>Luas de Jove são; fanal aos nautas;</l>
+               <l>O espantoso fenomeno nos mostra</l>
+               <l>Da luz Zodiacal, co'a parallaxe</l>
+               <l>Do sanguineo, medonho, accezo Marte</l>
+               <l>A distancia marcou do Sol á Terra,</l>
+               <l>Distancia que confunde a mente humana,</l>
+               <l>E que a luz n'hum momento abrange, e corre;</l>
+               <l>Sabio traçou Meridiana linha,</l>
+               <l>E por ella nos mostra o variante</l>
+               <l>Moto veloz da Terra ao Sol em torno.</l>
+               <l>Então mais claro no volume immenso,</l>
+               <l>Dos Ceos, já quasi aberto, os homens lêrão.</l>
+               <l>Foi-lhe sugeita a abobeda brilhante</l>
+               <l>A radío mathemático, qual era</l>
+               <l>O mortal domicilio aos homens dado:</l>
+               <l>Parallaxe annual d'altas estrellas,</l>
+               <l>Que engastadas nos Ceos fixas se amostrão;</l>
+               <l>Idéa falsa se aniquila, e foge,</l>
+               <l>E a lei da aberração mostra a verdade.</l>
+               <l>    Peregrinando pelos Ceos supremos</l>
+               <l>Vão sabios indagar da Terra a fórma</l>
+               <l>Co'a sciencia astronomica se marca</l>
+               <l>Da nossa habitação figura, e termo.</l>
+               <l>Quasi se amostra a longitude ignóta</l>
+               <l>Sobre inconstante mar, onde em cavado</l>
+               <l>Pinho, avaro mortal circunda o globo.</l>
+               <l>    Incessante fadiga a luz derrama</l>
+               <l>No arcano presentido, e ignóto ainda</l>
+               <l>Da obliquidade do angulo, que hum pouco</l>
+               <l>Em cem annos na Ecliptica decresce!</l>
+               <l>Quasi deixão seu tom da Lyra as cordas</l>
+               <l>Quando dest'arte nos umbraes me entranho</l>
+               <l>Da linguagem dos calculos, que he sombra,</l>
+               <l>Que estrema immensamente, e que divide</l>
+               <l>O frio Euclides do fervente Milton.</l>
+               <l>Ah! de Ariosto aos extases divinos</l>
+               <l>Calculador pousado em vão se ajusta.</l>
+               <l>    Como indignado das prescriptas metas,</l>
+               <l>Achadas até alli no espaço immenso</l>
+               <l>Herschell sobe mais alto, além das tardas,</l>
+               <l>Luas, que escoltão frigido Saturno.</l>
+               <l>Lá corre a suspender na marcha Urano,</l>
+               <l>Leva comsigo a Carolina, e ambos</l>
+               <l>Revolução continua, e varia encontrão,</l>
+               <l>No luminoso annel que o globo cinge,</l>
+               <l>Do nem remóto, ou ultimo Saturno;</l>
+               <l>Quando com elle hum Hercules comparo,</l>
+               <l>Q' Olbers descobre, que a carreira immensa,</l>
+               <l>No gyro de dois seculos absolve.</l>
+               <l>De mais perto se observa a argentea Lua,</l>
+               <l>Gelados montes tem, gelados mares,</l>
+               <l>E tem Vesuvios que vomitão chammas.</l>
+               <l>He cidadão, e morador he quasi</l>
+               <l>Na Terra inda o mortal do ethereo assento.</l>
+               <l>Desgraçado Bailly, fuma o teu sangue</l>
+               <l>No cadafalso vil: tua alma agora,</l>
+               <l>Já solta das prizões, lá vê nos astros</l>
+               <l>Se o grão discurso teu, falhou no Mundo.</l>
+               <l>Se a Terra, dizes tu, se outros Planetas</l>
+               <l>Por centro do seu gyro o Sol conhecem,</l>
+               <l>Talvez, que o nosso Sol, que os Soes, que fixos</l>
+               <l>Parecem ser na abobeda azulada?</l>
+               <l>Tenhão centro commum n'hum Sol mais puro,</l>
+               <l>Mais vasto, e luminoso, e que descrevão</l>
+               <l>Em roda delle, essa orbita assombrosa,</l>
+               <l>Que mais remotos tem limite, e termo,</l>
+               <l>Que a fantasia fervida d'hum Váte!</l>
+               <l>La-Lande a imaginou, La-Lande a sente;</l>
+               <l>Mas, foge, foge aos calculos, ás cifras.</l>
+               <l>Virá talvez hum tempo... ah! se na Terra</l>
+               <l>Não tiver duração Vandalo Imperio!</l>
+               <l>Em que outros vidros, outros tubos mostrem,</l>
+               <l>Que foi verdade, e luz tão grande idéa!</l>
+               <l>Depositada está no aureo volume,</l>
+               <l>Que sobranceiro ao cadafalso, ao sangue,</l>
+               <l>Não ferio com Bailly furor de Tigres,</l>
+               <l>Que ao Sena derão leis, e as dão na Europa,</l>
+               <l>Que os ferros beija voluntaria escrava:</l>
+               <l>Vileza, e corrupção, chegaste a tanto!</l>
+               <l>    Não foi sem fructo, não, ou foi deleite</l>
+               <l>A sciencia Astronomica entre os homens!</l>
+               <l>Ah! quanta, e quanta luz se deve a Newton!</l>
+               <l>Só são dignas de apreço as artes uteis.</l>
+               <l>Quão proficuo aos mortaes he nauta ousado!</l>
+               <l>Se tu, Lysia, tens gloria, ao nauta o deves,</l>
+               <l>Que abrio primeiro do Oriente as portas:</l>
+               <l>E teu nome immortal soou na Terra,</l>
+               <l>Porque teu lenho undívago a cercára,</l>
+               <l>Nas Ilhas do Oceano, e mares todos,</l>
+               <l>Dos Lusos se conserva o nome, e a fama.</l>
+               <l>Muito pôde o valor, pouco a sciencia</l>
+               <l>No seculo inda rude, alheio ás artes!</l>
+               <l>Por que inda hum Newton não subira aos astros,</l>
+               <l>Newton, sciencia, calculos, systemas</l>
+               <l>Só Magalhães não necessita; basta</l>
+               <l>Que ao lado delle vão, vingança e honra;</l>
+               <l>Eis todo o Globo rodeado; he esta</l>
+               <l>A façanha maior da especie humana.</l>
+               <l>Era extincto o fervor nos Lusos peitos</l>
+               <l>Depois que estranhas leis o Tejo ouvira,</l>
+               <l>Do mar o senhorio então transfere</l>
+               <l>Ás mãos Britannas o Senhor dos Mundos.</l>
+               <l>De Vatennio a fadiga illustra hum Newton,</l>
+               <l>Correm Bretões o mar, e o globo cercão,</l>
+               <l>Não levados do sordido, e terreno</l>
+               <l>Insaciavel interesse de ouro;</l>
+               <l>Mas só por illustrar, dar mór grandeza</l>
+               <l>Á esfera immensa das sciencias todas.</l>
+               <l>Vai Cook, e vai Byron cercando o Globo</l>
+               <l>Por inda não tentada, incerta via</l>
+               <l>Então suspendem generosa marcha</l>
+               <l>Quando em gelado mar, gelada terra</l>
+               <l>Da Natureza no decreto attentão,</l>
+               <l>Que atraz lhes manda bracear as vélas;</l>
+               <l>Que onde a Terra acabou, findar se deve</l>
+               <l>O trabalho mortal, o amor da gloria.</l>
+               <l>    Ó nome Lusitano, ó Patria minha,</l>
+               <l>Eu culpo o teu silencio, a huma virtude,</l>
+               <l>Que se apraz de esconder-se, eu chamo inercia.</l>
+               <l>Descreve Newton c'o compasso d'ouro</l>
+               <l>O globo que Varennio exposto havia;</l>
+               <l>Foi Cook, e foi Byron, foi Bougainville,</l>
+               <l>Qual Anson foi guerreiro, e os mares gyrão.</l>
+               <l>Do Continente austral foge o fantasma,</l>
+               <l>Que avarento Hollandez (nem hoje avaro;</l>
+               <l>Nem já por crimes se conhece a Hollanda)</l>
+               <l>Julgou grande porção do globo, e sua.</l>
+               <l>Assombrado do gelo atraz voltárão,</l>
+               <l>Mas nunca hum passo além co' lenho óvante</l>
+               <l>Da Terra forão que tocára hum Luso;</l>
+               <l>Magnanimo Queiroz, déste-lhe hum nome</l>
+               <l>Para ti foi brazão, e he meta aos outros</l>
+               <l>Do nebuloso Sul prescrutadores:</l>
+               <l>E a gloria de buscar no Mundo hum Mundo,</l>
+               <l>Se ao pensativo Bátavo pertence,</l>
+               <l>E ao pertinaz navegador Britanno,</l>
+               <l>No Tejo as bazes tem, no Tejo a fonte,</l>
+               <l>Mais além de Queiroz nenhum se avança.</l>
+               <l>Foi entre tantos Magalhães primeiro,</l>
+               <l>Todos de hum centro os raios se derramão,</l>
+               <l>Que vem tocar d'hum circulo os extremos,</l>
+               <l>Tal do centro de luz, que accende hum Newton</l>
+               <l>Se derrama ao grão circulo das artes</l>
+               <l>O perpetuo clarão com que hoje medrão.</l>
+               <l>    Quanto a vetusta Fysica ignorava,</l>
+               <l>Sobre a essencia do ar se mostra aos olhos;</l>
+               <l>Piza-se a immensa fluida substancia;</l>
+               <l>E já senhor do mar n'hum curvo lenho</l>
+               <l>Não lhe basta do Globo o Imperio inteiro,</l>
+               <l>Se o dominio o mortal não tem dos ares;</l>
+               <l>Lá sóbe, la passêa, e vê seguro</l>
+               <l>Debaixo de seus pés cruzando os raios.</l>
+               <l>Do antigo Architas se escureça a Pomba;</l>
+               <l>Maior prodigio guarda a idade nossa.</l>
+               <l>Eu vejo pelo ar volantes carros,</l>
+               <l>Quaes vão nas ondas os baixeis arfando;</l>
+               <l>E nelles os mortaes tranquillos vejo</l>
+               <l>Sem temer o despenho, e não lhes lembra,</l>
+               <l>Que afrontada dest'arte a Natureza,</l>
+               <l>Tire vingança da famosa injuria.</l>
+               <l>Eu vejo o golpe, e a victima primeira</l>
+               <l>Em Rosier intrepido, que sobe;</l>
+               <l>Elle o primeiro foi, mas prestes passa,</l>
+               <l>Do regaço da gloria ás mãos da morte.</l>
+               <l>    Porém mais uteis os trabalhos vejo</l>
+               <l>Dos sabios, que o caminho a Newton seguem;</l>
+               <l>Eis a fonte de incognitos arcanos</l>
+               <l>Aberta aos olhos dos mortaes absortos;</l>
+               <l>Eis o electrico fluido pasmoso</l>
+               <l>De fenomenos mil já causa ignóta;</l>
+               <l>Do raio a patria se conhece, e teme,</l>
+               <l>He das nuvens a electrica peleja.</l>
+               <l>Se trôa, se rebrama o escuro Inferno</l>
+               <l>Dentro do bojo de Vesuvio, e exhala</l>
+               <l>O fumo que se expande, e o Ceo nos rouba,</l>
+               <l>E traz ao dia de repente a noite,</l>
+               <l>E aquella chamma, que entre estragos tanto,</l>
+               <l>Chora o Mundo o maior, de Plinio a morte;</l>
+               <l>Aqui descobre electricismo o Sabio.</l>
+               <l>Sabios illustres, que mysterios tantos</l>
+               <l>Descortinar, e conhecer podestes;</l>
+               <l>Legislador Americano, os évos</l>
+               <l>Teo nome guardarão; Nollet, teu nome</l>
+               <l>Da sapiencia nos annaes gravado</l>
+               <l>Eternamente vivirá; se as artes</l>
+               <l>Barbaridade, que extermina tudo,</l>
+               <l>Quizer poupar da aluvião de ultrages,</l>
+               <l>Que ás leis, á Natureza, e aos Ceos tem feito.</l>
+               <l>    Da multi-forme Boreal Aurora</l>
+               <l>Mairan, seguindo os calculos de Newton,</l>
+               <l>Expoz a causa aos seculos ignota.</l>
+               <l>Da atmosféra solar porção tirada</l>
+               <l>Por veloz rotação do terreo globo.</l>
+               <l>Ao ar então se communica espesso,</l>
+               <l>Que as tristes regiões do Polo abafa.</l>
+               <l>Tu, de Bérgamo o tymbre, sabio illustre,</l>
+               <l>Tu, Savióli, que na Lyra d'ouro,</l>
+               <l>Cantaste os dons de Eráto, os dons d'Urania,</l>
+               <l>Do Volga, e do Boristhenes ás margens</l>
+               <l>Foste observar de perto o accezo quadro,</l>
+               <l>Do Boreal Fenomeno, tu viste</l>
+               <l>Nos gelos que c'os Ceos quasi confinão</l>
+               <l>A reflexão dos luminosos raios,</l>
+               <l>E tantos, taes listões formar nos ares,</l>
+               <l>Que pelas vastas regiões das sombras,</l>
+               <l>Ou da morte talvez, suprem hum dia.</l>
+               <l>    Das Artes no progresso a gloria vejo</l>
+               <l>Da indagadora Chimica, que tanto</l>
+               <l>Da Europa pelos angulos se acclama</l>
+               <l>(Com tanto ardor, que enthusiasmo he, certo!)</l>
+               <l>Interpetre fiel se diz da vasta,</l>
+               <l>Té agora occulta Natureza toda.</l>
+               <l>Já de antigos delirios despojada,</l>
+               <l>Se ella analyza os simplices, não busca,</l>
+               <l>Lisongeando sordida avareza,</l>
+               <l>As pedras converter, (que insania!) em ouro!</l>
+               <l>Té mãos Imperiaes viste, ó Florença,</l>
+               <l>Depondo o sceptro, tactear cadinhos,</l>
+               <l>Tanto o prestigio de tal arte póde!</l>
+               <l>Mas se delles a Purpura não foge,</l>
+               <l>Fogem por certo as Musas d'espantadas:</l>
+               <l>Nega-se a Lyra a barbaros, e escuros</l>
+               <l>Termos, que jurão sanguinosa guerra</l>
+               <l>Do metro Luso á mágica harmonia.</l>
+               <l>Morre-me a chamma, que me ferve n'alma,</l>
+               <l>Se hydrogenio, se azóte, ou se oxigenio,</l>
+               <l>Ousados vem barbarizar meus versos.</l>
+               <l>Não te negão porém lugar, nem gloria,</l>
+               <l>Lavoisier illustre, que hum momento</l>
+               <l>Inda pediste ao barbaro Tyranno,</l>
+               <l>Da vida, ai dor! que despiedado córta,</l>
+               <l>Em que inda mais á Natureza abrisses,</l>
+               <l>Nunca de todo, o sanctuario, aberto!</l>
+               <l>Mas hum Tigre quer sangue, e não sciencia;</l>
+               <l>Tu não choras a vida, a perda choras,</l>
+               <l>De huma verdade, que comtigo em sombra</l>
+               <l>Perpetuamente no sepulcro he posta.</l>
+               <l>    Nem do globo as reconditas entranhas</l>
+               <l>Da vista ao sabio indagador se occultão;</l>
+               <l>Tal he o Imperio do brilhante facho,</l>
+               <l>Que Newton accendeu! Henckel, Bomare</l>
+               <l>Então das minas pela tréva espessa</l>
+               <l>Perdem de vista o Sol, da vista o dia,</l>
+               <l>E á debil luz de palida lanterna</l>
+               <l>O profundo vão ver Laboratorio,</l>
+               <l>Em que os metaes prepara a Natureza:</l>
+               <l>Dos homens os quiz pôr, tão longe, e longe!</l>
+               <l>Vio que do ferro só, não curvo arado,</l>
+               <l>Mas liza espada fabricar devião,</l>
+               <l>E do bronze os canhões, que o raio imitão,</l>
+               <l>A tanta assolação chamando gloria.</l>
+               <l>Mais o ouro escondeu no abysmo, e sombra,</l>
+               <l>Devendo ser do mérito a corôa,</l>
+               <l>Quasi sempre he do crime o premio, e causa.</l>
+               <l>    Mas eu duros metaes deixo nas sombras:</l>
+               <l>Distem pouco do Inferno, eu busco o quadro,</l>
+               <l>Que em sua face a Natureza mostra.</l>
+               <l>Estudo immenso, dos mortaes só digno,</l>
+               <l>Perenne fonte das sciencias todas,</l>
+               <l>Das mesmas Artes mãi que estende o Imperio</l>
+               <l>Por quanto abraça o ar, a terra, os mares</l>
+               <l>Desde o vasto Elefante, á vaga, e bella</l>
+               <l>Borboleta gentil, que beija as flores:</l>
+               <l>Da gigantesca, ou colossal Balêa</l>
+               <l>Ao pequenino lucido testaceo,</l>
+               <l>Que, igual ao grão de arêa, á vista foge:</l>
+               <l>Desde o cedro soberbo, á relva humilde,</l>
+               <l>Que os gados tózão, que tapiza os prados.</l>
+               <l>Estudo liberal, que engenho humano</l>
+               <l>Descobre vasto, interminavel campo,</l>
+               <l>Que o orgulho scientifico confunde</l>
+               <l>Com tanto, vario, e differente objecto,</l>
+               <l>Que imperceptiveis relações conservão;</l>
+               <l>Quaes anneis entre si ligados sempre,</l>
+               <l>Interminavel a cadêa formão,</l>
+               <l>Que prende, e tem principio em Ser Eterno.</l>
+               <l>Tão vasto estudo, glorioso, e bello,</l>
+               <l>Tanto mais se cultiva, e mais florece,</l>
+               <l>Quanto é menos pezada, e menos densa</l>
+               <l>Nuvem que assombra o social estado</l>
+               <l>De Antiquario pedante, ou Vate inerte,</l>
+               <l>Vadio adorador d'alta belleza,</l>
+               <l>Cuja vida he desprezo, a morte he fome:</l>
+               <l>De hebdomadal efémera caterva,</l>
+               <l>Que do nada surgio, e ao nada torna</l>
+               <l>Depois que o povo no momento d'ocio</l>
+               <l>Escarneceo profeticas promessas.</l>
+               <l>Estudo augusto, que propaga e cresce</l>
+               <l>Onde menos o estólido Forense,</l>
+               <l>E impertinente Puritano existe,</l>
+               <l>Rico de frases só, de cousas pobre;</l>
+               <l>Onde menos a enfática Impostura</l>
+               <l>Precursora da morte, a morte apressa;</l>
+               <l>E o Quinhentista moedor, mysterios</l>
+               <l>Nos parece mostrar, se mudo, e triste</l>
+               <l>Pulverulento códice idolátra,</l>
+               <l>Que he rico só de antiguidade, e traça.</l>
+               <l>De insectos taes em ti não viste a praga,</l>
+               <l>Aviltada Germania, ah! quando ao Mundo</l>
+               <l>O grande author das mónadas off'rece</l>
+               <l>A Prothogea. Nem Britannia a sente</l>
+               <l>Quando Johnston, Derrham, e hum Lister dava.</l>
+               <l>Nem com elles, Italia, então gemeste</l>
+               <l>Quando dava a Botanica Zanoni:</l>
+               <l>Quando hum Morgagni teu, quando hum Borelli,</l>
+               <l>Nos penetraes da Natureza entravão:</l>
+               <l>Equando Valisnéri a expunha toda;</l>
+               <l>Já limpa, e livre de pedantes eras,</l>
+               <l>Quando a tócha accendia Spalanzani,</l>
+               <l>E arranca de seu seio altos arcanos,</l>
+               <l>Quaes desde o grande Peripáto os evos,</l>
+               <l>Nunca atélli descortinar podérão.</l>
+               <l>Nem Gallia (agora escrava em sangue, e ferros,</l>
+               <l>Qual de Piratas viz n'Africa Emporio,</l>
+               <l>Que o mar Tirreno co'as Galés infesta;)</l>
+               <l>E de rapina, e violencia existe,</l>
+               <l>De Novellistas oppremida estava</l>
+               <l>Quando o grande Buffon n'hum quadro immenso</l>
+               <l>A Natureza á Natureza mostra.</l>
+               <l>Se a tempestade das Novellas surge,</l>
+               <l>Se os Jornaes a si mesmo, e os homens matão,</l>
+               <l>Se a militar, politica mania</l>
+               <l>Começa de deixar tão ermo o Globo,</l>
+               <l>He pastor Daubenton, Sonnini expira</l>
+               <l>(Inda feliz que ao cadafalso escapa)</l>
+               <l>Do esquecimento, e da penuria em braços.</l>
+               <l>Da Natureza não prospéra o estudo,</l>
+               <l>Nem se conhece hum Newton, se estes vermes</l>
+               <l>Da sciencia os alcaçares maculão:</l>
+               <l>Nunca do Tejo ás margens se aproximem,</l>
+               <l>Terá throno a sciencia, as Artes preço:</l>
+               <l>Lusitania terá Buffons, e Plinios;</l>
+               <l>E Vates, que estudando a Natureza,</l>
+               <l>Saibão dar justo emprego ao dom das Musas,</l>
+               <l>Se tem tal nome, o ingenito talento,</l>
+               <l>Que alta facundia a numeros sugeita,</l>
+               <l>Que em grande tudo vê, que imagens falla,</l>
+               <l>E que, a razão ligando á fantazia,</l>
+               <l>Dá força, dá calor, dá vida a tudo.</l>
+               <l>    Mas de tristeza hum véo me envolve, e fecha</l>
+               <l>Tudo o que palpo, e que diviso, he sombra!</l>
+               <l>Della vejo romper Fantasma horrendo;</l>
+               <l>Ao rosto atroz, ás Sanguinosas vestes</l>
+               <l>Eu conheci, (que dor!) Barbaridade!</l>
+               <l>De Omar a ferrea Simitarra empunha,</l>
+               <l>Na esquerda, e negra mão fulgura a tócha,</l>
+               <l>E se me antolha já q' hum vasto incendio</l>
+               <l>Das Artes o deposito consume:</l>
+               <l>Que já são pasto da estridente chamma</l>
+               <l>Das Musas todas as vigilias doutas!</l>
+               <l>Nem teu mesmo volume escapa, ó Newton.</l>
+               <l>Oh perda!... Oh Albion, manda os teus raios</l>
+               <l>Elles podem vedar barbaro incendio.</l>
+               <l>Corre, e na Hespanha pulveriza os monstros,</l>
+               <l>Que onde quer que do corpo a sombra espalhão,</l>
+               <l>Turva se o ar, se esteriliza a terra,</l>
+               <l>Da vida, e da sciencia amor expira.</l>
+               <l>Em quanto além do Vistula rompendo</l>
+               <l>D'honra, e valor o sufocado incendio</l>
+               <l>Desfeicha o raio, que talvez da Europa</l>
+               <l>De huma vez para sempre a injuria vingue.</l>
+               <l>Então do cáhos recuando o Imperio,</l>
+               <l>Hum dia assomará que traga ao Mundo</l>
+               <l>A luz que a Grecia vio, quando na escóla</l>
+               <l>O Genio de Estagira absorta ouvia;</l>
+               <l>Quando acceso Demosthenes da boca</l>
+               <l>D'aurea elequencia as ondas entornava,</l>
+               <l>E além das nuvens Pindaro subia;</l>
+               <l>A luz já vista fulgurar em Roma</l>
+               <l>Quando Augusto a seu lado assenta Horacio,</l>
+               <l>Ou Tullio a dubia liberdade escóra:</l>
+               <l>Qual seculos depois raiou mais clara</l>
+               <l>Do Decimo Leão no Imperio eximio,</l>
+               <l>Quando o Segundo Julio ás Artes abre</l>
+               <l>O Templo, que até alli fechara o Godo:</l>
+               <l>A luz que a França mais ditosa vira</l>
+               <l>Do tão Grande Luiz brilhar nos dias.</l>
+               <l>Então dos Ceos descendo a Paz serena,</l>
+               <l>Da porficua Oliveira ao lado os Louros</l>
+               <l>Fará brotar, reverdecer, c'roar-se</l>
+               <l>Com sua rama a magestosa frente</l>
+               <l>Do profundo Filosofo, e do Vate.</l>
+            </lg>
+            <p rend="justify">
+               <hi rend="italic">Fim do IV. e ultimo Canto.</hi>
+            </p>
+            <p rend="justify">
+               <hi rend="sup">1</hi>  Deve entender-se o termo—frugal—no sentido proprio de sustento parco; pois diz Collero, que se sustentava de sopas de leite, e passas, e era tão modesto nos vestidos, que trajou sempre de preto, e de mui grosseiro panno; respondendo ao Gran Pensionario da Hollanda, que lho estranhou—Que o edificio humano escusava ricas armações.</p>
+            <p rend="justify">
+               <hi rend="sup">2</hi>  Contra os meus propositos a respeito de notas, me vejo obrigado a esta, talvez que em hum passo escuro para muitos eruditos: Cicero entre seus escravos tinha dois, ambos Gregos, hum chamado Tyro, que era seu leitor, e a quem Cicero escreveo muitas cartas; outro chamado Posidonio, inventor da machina a que chamamos—Planetario—; ainda que não tão perfeita como a vemos. Isto diz o mesmo Cicero, a Attico, fallando da machina "<hi rend="italic">Quem nuper Possidonius noster ut venit.</hi>"</p>
+            <p rend="justify">
+               <hi rend="sup">3</hi>  Collero na Vida de Espinosa diz, que seus paes erão de Beja, e que elle nascêra no Porto, donde fora levado para Amsterdão de dois annos de idade, hindo tambem com seus pais o célebre Jacob Murteira, que depois foi seu Mestre: este foi o que depois se rio do desafio de Antonio Vieira.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

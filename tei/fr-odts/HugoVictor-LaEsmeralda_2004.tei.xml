@@ -1,0 +1,2854 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La Esmeralda</title>
+            <author>Victor Hugo</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-01T19:29:04Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">odts/fr-odts/HugoVictor-LaEsmeralda_2004.epub.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Victor Hugo</name>
+               <date>2024-01-01T19:29:04Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>La Esmeralda</head>
+         <author>Victor Hugo</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">odts/fr-odts/HugoVictor-LaEsmeralda_2004.epub.odt</p>
+         <p>Produced by PG Distributed Proofreaders from images generously made</p>
+         <p>available by the Bibliotheque nationale de France (BnF/Gallica) at http://gallica.bnf.fr</p>
+         <pb/>
+         <div type="div1">
+            <head>OEUVRES COMPLÈTES</head>
+            <pb/>
+            <div type="div2">
+               <head>DE</head>
+               <div type="div3">
+                  <head>VICTOR HUGO</head>
+                  <div type="div4">
+                     <head>
+                        <label>XVII</label>
+                     </head>
+                     <div type="div5">
+                        <head>DRAME</head>
+                     </div>
+                     <div type="div5">
+                        <head>
+                           <label>IV</label>
+                        </head>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>ÉDITION DÉFINITIVE D'APRÈS LES MANUSCRITS ORIGINAUX</head>
+               <div type="div3">
+                  <head>OEUVRES COMPLÈTES</head>
+                  <div type="div4">
+                     <head>DE</head>
+                     <div type="div5">
+                        <head>VICTOR HUGO</head>
+                     </div>
+                     <div type="div5">
+                        <head>DRAME</head>
+                     </div>
+                     <div type="div5">
+                        <head>
+                           <label>IV</label>
+                        </head>
+                     </div>
+                     <div type="div5">
+                        <head>LA ESMERALDA—RUY BLAS LES BURGRAVES</head>
+                     </div>
+                  </div>
+                  <div type="div4">
+                     <head>EDITION NE VARIETUR</head>
+                     <div type="div5">
+                        <head>PARIS</head>
+                        <p rend="justify">J HETZEL &amp; Cie 18, RUE JACOB</p>
+                        <lg>
+                           <l>A. QUANTIN &amp; Cie</l>
+                           <l>RUE SAINT-BENOIT, 7</l>
+                        </lg>
+                        <p rend="justify">1880</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>LA ESMERALDA</head>
+               <div type="div3">
+                  <head>LIBRETTO</head>
+                  <p rend="justify">Si par hasard quelqu'un se souvenait d'un roman en écoutant un opéra, l'auteur croit devoir prévenir le public que pour faire entrer dans la perspective particulière d'une scène lyrique quelque chose du drame qui sert de base au livre intitulé &lt;i&gt;Notre-Dame de Paris&lt;/i&gt;, il a fallu en modifier diversement tantôt l'action, tantôt les caractères. Le caractère de Phoebus de Châteaupers, par exemple, est un de ceux qui ont dû être altérés; un autre dénouement a été nécessaire, etc. Au reste, quoique, même en écrivant cet opuscule, l'auteur se soit écarté le moins possible, et seulement quand la musique l'a exigé, de certaines conditions consciencieuses indispensables, selon lui, à toute oeuvre, petite ou grande, il n'entend offrir ici aux lecteurs, ou pour mieux dire aux auditeurs, qu'un canevas d'opéra plus ou moins bien disposé pour que l'oeuvre musicale s'y superpose heureusement, qu'un &lt;i&gt;libretto&lt;/i&gt; pur et simple dont la publication s'explique par un usage impérieux. Il ne peut voir dans ceci qu'une trame telle quelle qui ne demande pas mieux que de se dérober sous cette riche et éblouissante broderie qu'on appelle la musique.</p>
+                  <p rend="justify">L'auteur suppose donc, si par aventure on s'occupe de ce libretto, qu'un opuscule aussi spécial ne saurait en aucun cas être jugé en lui-même et abstraction faite des nécessités musicales que le poëte a dû subir, et qui, à l'Opéra, ont toujours droit de prévaloir. Du reste, il prie instamment le lecteur de ne voir dans les lignes qu'il écrit ici que ce qu'elles contiennent, c'est-à-dire sa pensée personnelle sur ce libretto en particulier, et non un dédain injuste et de mauvais goût pour cette espèce de poëmes en général et pour l'établissement magnifique où ils sont représentés. Lui qui n'est rien, il rappellerait au besoin à ceux qui sont le plus haut placés que nul n'a droit de dédaigner, fût-ce au point de vue littéraire, une scène comme celle-ci. A ne compter même que les poëtes, ce royal théâtre a reçu dans l'occasion d'illustres visites, ne l'oublions pas. En 1671, on représenta avec toute la pompe de la scène lyrique une tragédie-ballet intitulée; &lt;i&gt;Psyché&lt;/i&gt;. Le libretto de cet opéra avait deux auteurs: l'un s'appelait Poquelin de Molière, l'autre Pierre Corneille.</p>
+                  <p rend="justify">14 novembre 1836.</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>PERSONNAGES.</head>
+               <div type="div3">
+                  <head>LA ESMERALDA.</head>
+                  <div type="div4">
+                     <head>PHOEBUS DE CHATEAUPERS.</head>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                     </div>
+                     <div type="div5">
+                        <head>QUASIMODO.</head>
+                     </div>
+                     <div type="div5">
+                        <head>FLEUR-DE-LYS.</head>
+                     </div>
+                     <div type="div5">
+                        <head>MADAME ALOISE DE GONDELAURIER.</head>
+                     </div>
+                     <div type="div5">
+                        <head>DIANE.</head>
+                     </div>
+                     <div type="div5">
+                        <head>BÉRANGÈRE.</head>
+                     </div>
+                     <div type="div5">
+                        <head>LE VICOMTE DE GIF.</head>
+                     </div>
+                     <div type="div5">
+                        <head>
+                           <label>M.</label>DE CHEVREUSE.</head>
+                     </div>
+                     <div type="div5">
+                        <head>
+                           <label>M.</label>DE MORLAIX.</head>
+                     </div>
+                     <div type="div5">
+                        <head>CLOPIN TROUILLEFOU.</head>
+                     </div>
+                     <div type="div5">
+                        <head>LE CRIEUR PUBLIC.</head>
+                     </div>
+                  </div>
+                  <div type="div4">
+                     <head>PEUPLE, TRUANDS, ARCHERS, ETC.</head>
+                     <p rend="justify">Paris.—1482.</p>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>ACTE PREMIER</head>
+            <p rend="justify">[La Cour des miracles.—Il est nuit. Foule de truands. Danses et bruyantes. Mendiant et mendiantes dans leurs diverses attitudes de métier. Le roi de Thune sur son tonneau. Feux, torches, flambeaux. Cercle de hideuses maisons dans l'ombre.]</p>
+            <pb/>
+            <div type="div2">
+               <head>SCENE PREMIERE.</head>
+               <lg>
+                  <l>                CLAUDE FROLLO, CLOPIN TROUILLEFOU</l>
+                  <l>                      [puis] LA ESMERALDA,</l>
+                  <l>                 [puis] QUASIMODO,—LES TRUANDS.</l>
+               </lg>
+               <div type="div3">
+                  <head>CHOEUR DES TRUANDS.</head>
+                  <lg>
+                     <l>                Vive Clopin, roi de Thune!</l>
+                     <l>                Vivent les gueux de Paris!</l>
+                     <l>                Faisons nos coups à la brune,</l>
+                     <l>                Heure où tous les chats sont gris.</l>
+                     <l>                Dansons! narguons pape et bulle,</l>
+                     <l>                Et raillons-nous dans nos peaux,</l>
+                     <l>                Qu'avril mouille ou que juin brûle</l>
+                     <l>                La plume de nos chapeaux!</l>
+                     <l>                Sachons flairer dans l'espace</l>
+                     <l>                L'estoc de l'archer vengeur,</l>
+                     <l>                Ou le sac d'argent qui passe</l>
+                     <l>                Sur le dos du voyageur!</l>
+                     <l>                Nous irons au clair de lune</l>
+                     <l>                Danser avec les esprits…—Vive</l>
+                     <l>                Clopin, roi de Thune!</l>
+                     <l>                Vivent les gueux de Paris!</l>
+                  </lg>
+                  <lg>
+                     <l>   CLAUDE FROLLO, [à part, derrière un pilier, dans un coin du théâtre.</l>
+                     <l>      Il est enveloppé d'un grand manteau qui cache son habit de prêtre.</l>
+                  </lg>
+                  <lg>
+                     <l>            Au milieu de la ronde infâme,</l>
+                     <l>            Qu'importe le soupir d'une âme?</l>
+                     <l>            Je souffre! oh! jamais plus de flamme</l>
+                     <l>            Au sein d'un volcan ne gronda.</l>
+                  </lg>
+                  <p rend="justify">[Entre la Esmeralda en dansant.]</p>
+                  <div type="div4">
+                     <head>CHOEUR.</head>
+                     <p rend="justify">La voilà! la voilà! c'est elle! Esmeralda!</p>
+                     <p rend="justify">CLAUDE FROLLO, [à part.]</p>
+                     <lg>
+                        <l>                    C'est elle! oh! oui, c'est elle!</l>
+                        <l>                    Pourquoi, sort rigoureux,</l>
+                        <l>                    L'as-tu faite si belle,</l>
+                        <l>                    Et moi si malheureux?</l>
+                     </lg>
+                     <lg>
+                        <l>         [Elle arrive au milieu du théâtre. Les truands font cercle</l>
+                        <l>           avec admiration autour d'elle. Elle danse.]</l>
+                     </lg>
+                     <div type="div5">
+                        <head>LA ESMERALDA.</head>
+                        <lg>
+                           <l>                        Je suis l'orpheline,</l>
+                           <l>                        Fille des douleurs,</l>
+                           <l>                        Qui sur vous s'incline</l>
+                           <l>                        En jetant des fleurs;</l>
+                           <l>                        Mon joyeux délire</l>
+                           <l>                        Bien souvent soupire;</l>
+                           <l>                        Je montre un sourire,</l>
+                           <l>                        Je cache des pleurs.</l>
+                        </lg>
+                        <lg>
+                           <l>                        Je danse, humble fille,</l>
+                           <l>                        Au bord du ruisseau,</l>
+                           <l>                        Ma chanson babille</l>
+                           <l>                        Comme un jeune oiseau;</l>
+                           <l>                        Je suis la colombe</l>
+                           <l>                        Qu'on blesse et qui tombe.</l>
+                           <l>                        La nuit de la tombe</l>
+                           <l>                        Couvre mon berceau.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>CHOEUR.</head>
+                        <lg>
+                           <l>                        Danse, jeune fille!</l>
+                           <l>                        Tu nous rends plus doux.</l>
+                           <l>                        Prends-nous pour famille,</l>
+                           <l>                        Et joue avec nous,</l>
+                           <l>                        Comme l'hirondelle</l>
+                           <l>                        A la mer se mêle,</l>
+                           <l>                        Agaçant de l'aile</l>
+                           <l>                        Le flot en courroux.</l>
+                        </lg>
+                        <lg>
+                           <l>                        C'est la jeune fille,</l>
+                           <l>                        L'enfant du malheur!</l>
+                           <l>                        Quand son regard brille,</l>
+                           <l>                        Adieu la douleur!</l>
+                           <l>                        Son chant nous rassemble;</l>
+                           <l>                        De loin elle semble</l>
+                           <l>                        L'abeille qui tremble</l>
+                           <l>                        Au bout d'une fleur.</l>
+                        </lg>
+                        <lg>
+                           <l>                        Danse, jeune fille,</l>
+                           <l>                        Tu nous rends plus doux.</l>
+                           <l>                        Prends-nous pour famille,</l>
+                           <l>                        Et joue avec nous!</l>
+                        </lg>
+                        <p rend="justify">CLAUDE FROLLO, [à part.]</p>
+                        <lg>
+                           <l>                        Frémis, jeune fille;</l>
+                           <l>                        Le prêtre est jaloux!</l>
+                        </lg>
+                        <p rend="justify">[Claude veut se rapprocher de la Esmeralda, qui se détourne de lui avec une sorte d'effroi.—Entre la procession du pape des fous. Torches, lanternes et musique. On porte au milieu du cortège, sur un brancard couvert de chandelles, Quasimodo, chapé et mitré.]</p>
+                     </div>
+                     <div type="div5">
+                        <head>CHOEUR.</head>
+                        <lg>
+                           <l>                    Saluez, clercs de basoche!</l>
+                           <l>                    Hubins, coquillards, cagoux,</l>
+                           <l>                    Saluez tous! il approche.</l>
+                           <l>                    Voici le pape des fous!</l>
+                        </lg>
+                        <lg>
+                           <l>     CLAUDE FROLLO, [apercevant Quasimodo, s'élance vers lui</l>
+                           <l>                     avec un geste de colère.]</l>
+                        </lg>
+                        <lg>
+                           <l>                Quasimodo! quel rôle étrange!</l>
+                           <l>                0 profanation! Ici,</l>
+                           <l>                Quasimodo!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>QUASIMODO.</head>
+                        <p rend="justify">Grand Dieu! qu'entends-je?</p>
+                        <lg>
+                           <l>                         CLAUDE FROLLO.</l>
+                           <l>                Ici, te dis-je!</l>
+                        </lg>
+                        <p rend="justify">QUASIMODO, [se jetant en bas de la litière.]</p>
+                        <p rend="justify">Me voici!</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <p rend="justify">Sois anathème!</p>
+                     </div>
+                     <div type="div5">
+                        <head>QUASIMODO.</head>
+                        <p rend="justify">Dieu! c'est lui-même!</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <p rend="justify">Audace extrême!</p>
+                     </div>
+                     <div type="div5">
+                        <head>QUASIMODO.</head>
+                        <p rend="justify">Instant d'effroi!</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <p rend="justify">A genoux, traître!</p>
+                     </div>
+                     <div type="div5">
+                        <head>QUASIMODO.</head>
+                        <p rend="justify">Pardonnez, maître!</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <p rend="justify">Non, je suis prêtre!</p>
+                     </div>
+                     <div type="div5">
+                        <head>QUASIMODO.</head>
+                        <p rend="justify">Pardonnez-moi!</p>
+                        <lg>
+                           <l>  [Claude Frollo arrache les ornements pontificaux de Quasimodo et les</l>
+                           <l>    foule aux pieds. Les truands, sur lesquels Claude jette des</l>
+                           <l>    regards irrités, commencent à murmurer et se forment en groupes</l>
+                           <l>                      menaçants autour de lui.]</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>LES TRUANDS.</head>
+                        <lg>
+                           <l>                        Il nous menace,</l>
+                           <l>                        O compagnons!</l>
+                           <l>                        Dans cette place</l>
+                           <l>                        Où nous régnons!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>QUASIMODO.</head>
+                        <lg>
+                           <l>                        Que veut l'audace</l>
+                           <l>                        De ces larrons?</l>
+                           <l>                        On le menace,</l>
+                           <l>                        Mais nous verrons!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <lg>
+                           <l>                        Impure race!</l>
+                           <l>                        Juifs et larrons!</l>
+                           <l>                        On me menace,</l>
+                           <l>                        Mais nous verrons!</l>
+                        </lg>
+                        <p rend="justify">[La colère des truands éclate.]</p>
+                     </div>
+                     <div type="div5">
+                        <head>LES TRUANDS.</head>
+                        <lg>
+                           <l>                    Arrête! arrête! arrête!</l>
+                           <l>                    Meure le trouble-fête!</l>
+                           <l>                    Il paiera de sa tête!</l>
+                           <l>                    En vain il se débat!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>QUASIMODO.</head>
+                        <lg>
+                           <l>                    Qu'on respecte sa tête!</l>
+                           <l>                    Et que chacun s'arrête,</l>
+                           <l>                    Ou je change la fête</l>
+                           <l>                    En un sanglant combat!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <lg>
+                           <l>                    Ce n'est point pour sa tête</l>
+                           <l>                    Que Frollo s'inquiète.</l>
+                        </lg>
+                        <p rend="justify">[Il met la main sur la poitrine.]</p>
+                        <lg>
+                           <l>                    C'est là qu'est la tempête,:</l>
+                           <l>                    C'est là qu'est le combat!</l>
+                        </lg>
+                        <lg>
+                           <l>    [Au moment où la fureur des truands est au comble, Clopin</l>
+                           <l>            Trouillefou parait au fond du théâtre.]</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>CLOPIN.</head>
+                        <lg>
+                           <l>        Qui donc ose attaquer, dans ce repaire infâme,</l>
+                           <l>                L'archidiacre mon seigneur,</l>
+                           <l>                Et Quasimodo le sonneur</l>
+                           <l>                    De Notre-Dame?</l>
+                        </lg>
+                        <p rend="justify">LES TRUANDS, [s'arrêtant.]</p>
+                        <p rend="justify">C'est Clopin, notre roi!</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLOPIN.</head>
+                        <p rend="justify">Manants, retirez-vous!</p>
+                     </div>
+                     <div type="div5">
+                        <head>LES TRUANDS.</head>
+                        <p rend="justify">Il faut obéir!</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLOPIN.</head>
+                        <p rend="justify">Laissez-nous.</p>
+                        <p rend="justify">[Les truands se retirent dans les masures. La Cour des miracles reste déserte. Clopin s'approche mystérieusement de Claude.]</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>SCÈNE II</head>
+               <div type="div3">
+                  <head>CLAUDE FROLLO, QUASIMODO, CLOPIN TROUILLEFOU.</head>
+                  <div type="div4">
+                     <head>CLOPIN.</head>
+                     <lg>
+                        <l>        Quel motif vous avait jeté dans cette orgie?</l>
+                        <l>        Avez-vous, monseigneur, quelque ordre à me donner?</l>
+                        <l>                Vous êtes mon maître en magie.</l>
+                        <l>        Parlez; je ferai tout.</l>
+                     </lg>
+                     <lg>
+                        <l>CLAUDE. [Il saisit vivement Clopin par le bras et l'attire sur le</l>
+                        <l>                      devant du théâtre.]</l>
+                     </lg>
+                     <lg>
+                        <l>                              Je viens tout terminer.</l>
+                        <l>    Écoute.</l>
+                     </lg>
+                     <div type="div5">
+                        <head>CLOPIN.</head>
+                        <p rend="justify">Monseigneur?</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <lg>
+                           <l>                       Plus que jamais je l'aime!</l>
+                           <l>    D'amour et de douleur tu me vois palpitant.</l>
+                           <l>            Il me la faut cette nuit même.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>CLOPIN.</head>
+                        <lg>
+                           <l>    Vous l'allez voir ici passer dans un instant;</l>
+                           <l>            C'est le chemin de sa demeure.</l>
+                        </lg>
+                        <p rend="justify">CLAUDE FROLLO, [à part.]</p>
+                        <p rend="justify">Oh! l'enfer me saisit!</p>
+                        <p rend="justify">[Haut.]</p>
+                        <p rend="justify">Bientôt, dis-tu?</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLOPIN.</head>
+                        <p rend="justify">Sur l'heure.</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <p rend="justify">Seule?</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLOPIN.</head>
+                        <p rend="justify">Seule.</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <p rend="justify">Il suffit.</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLOPIN.</head>
+                        <p rend="justify">Attendrez-vous?</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <lg>
+                           <l>                                         J'attend.</l>
+                           <l>            Que je l'obtienne ou que je meure!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>CLOPIN.</head>
+                        <p rend="justify">Puis-je vous servir?</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <p rend="justify">Non.</p>
+                        <lg>
+                           <l>  [Il fait signe à Clopin de s'éloigner, après lui avoir jeté sa bourse.</l>
+                           <l>    Resté seul avec Quasimodo, il l'amène sur le devant du théâtre.]</l>
+                        </lg>
+                        <p rend="justify">Viens, j'ai besoin de toi.</p>
+                     </div>
+                     <div type="div5">
+                        <head>QUASIMODO.</head>
+                        <p rend="justify">C'est bien.</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <p rend="justify">Pour une chose impie, affreuse, extrême.</p>
+                     </div>
+                     <div type="div5">
+                        <head>QUASIMODO.</head>
+                        <p rend="justify">Vous êtes mon seigneur.</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <lg>
+                           <l>                           Les fers, la mort, la loi,</l>
+                           <l>            Nous bravons tout.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>QUASIMODO.</head>
+                        <p rend="justify">Comptez sur moi.</p>
+                        <p rend="justify">CLAUDE FROLLO, [impétueusement.]</p>
+                        <p rend="justify">J'enlève la fille bohème!</p>
+                     </div>
+                     <div type="div5">
+                        <head>QUASIMODO.</head>
+                        <p rend="justify">Maître, prenez mon sang—sans me dire pourquoi.</p>
+                        <p rend="justify">[Sur un signe de Claudo Frollo, il se retire vers le fond du [théâtre et laisse son maître sur le devant de la scène.]</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <lg>
+                           <l>    0 ciel! avoir donné ma pensée aux abîmes,</l>
+                           <l>    Avoir de la magie essayé tous les crimes,.</l>
+                           <l>    Être tombé plus bas que l'enfer ne descend,</l>
+                           <l>    Prêtre, à minuit, dans l'ombre épier une femme,</l>
+                           <l>    Et songer, dans l'état où se trouve mon âme,</l>
+                           <l>            Que Dieu me regarde à présent!</l>
+                        </lg>
+                        <lg>
+                           <l>                    Eh bien, oui! qu'importe!</l>
+                           <l>                    Le destin m'emporte,</l>
+                           <l>                    Sa main est trop forte,</l>
+                           <l>                    Je cède à sa loi!</l>
+                           <l>                    Mon sort recommence!</l>
+                           <l>                    Le prêtre en démence</l>
+                           <l>                    N'a plus d'espérance</l>
+                           <l>                    Et n'a plus d'effroi!</l>
+                           <l>                    Démon qui m'enivres,</l>
+                           <l>                    Qu'évoquent mes livres,</l>
+                           <l>                    Si tu me la livres,</l>
+                           <l>                    Je me livre à toi!</l>
+                           <l>                    Reçois sous ton aile</l>
+                           <l>                    Le prêtre infidèle!</l>
+                           <l>                    L'enfer avec elle,</l>
+                           <l>                    C'est mon ciel, à moi!</l>
+                        </lg>
+                        <lg>
+                           <l>                Viens donc, ô jeune femme!</l>
+                           <l>                C'est moi qui te réclame!</l>
+                           <l>                Viens, prends-moi sans retour!</l>
+                           <l>                Puisqu'un Dieu, puisqu'un maître,</l>
+                           <l>                Dont le regard pénètre</l>
+                           <l>                Notre coeur nuit et jour,</l>
+                           <l>                Exige en son caprice</l>
+                           <l>                Que le prêtre choisisse</l>
+                           <l>                Du ciel ou de l'amour!</l>
+                        </lg>
+                        <p rend="justify">QUASIMODO, [revenant.]</p>
+                        <p rend="justify">Maître, l'instant s'approche.</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <lg>
+                           <l>                                 Oui, l'heure est solennelle;</l>
+                           <l>            Mon sort se décide, tais-toi.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO ET QUASIMODO.</head>
+                        <lg>
+                           <l>                    La nuit est sombre,</l>
+                           <l>                    J'entends des pas;</l>
+                           <l>                    Quelqu'un dans l'ombre</l>
+                           <l>                    Ne vient-il pas?</l>
+                        </lg>
+                        <p rend="justify">[Ils vont écouter au fond du théâtre.]</p>
+                        <p rend="justify">LE GUET, [passant derrière les maisons.]</p>
+                        <lg>
+                           <l>                Paix et vigilance!</l>
+                           <l>                Ouvrons, loin du bruit,</l>
+                           <l>                L'oreille au silence</l>
+                           <l>                Et l'oeil à la nuit.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE ET QUASIMODO.</head>
+                        <lg>
+                           <l>                Dans l'ombre on s'avance;</l>
+                           <l>                Quelqu'un vient sans bruit.</l>
+                           <l>                Oui, faisons silence;</l>
+                           <l>                C'est le guet de nuit!</l>
+                        </lg>
+                        <p rend="justify">[Le chant s'éloigne.]</p>
+                     </div>
+                     <div type="div5">
+                        <head>QUASIMODO.</head>
+                        <p rend="justify">Le guet s'en va.</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <p rend="justify">Notre crainte le suit.</p>
+                        <p rend="justify">[Claude Frollo et Quasimodo regardent avec anxiété vers la rue par laquelle doit venir la Esmeralda.]</p>
+                     </div>
+                     <div type="div5">
+                        <head>QUASIMODO.</head>
+                        <lg>
+                           <l>                        L'amour conseille,</l>
+                           <l>                        L'espoir rend fort</l>
+                           <l>                        Celui qui veille</l>
+                           <l>                        Lorsque tout dort.</l>
+                           <l>                        Je la devine,</l>
+                           <l>                        Je l'entrevoi;</l>
+                           <l>                        Fille divine,</l>
+                           <l>                        Viens sans effroi!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <lg>
+                           <l>                        L'amour conseille,</l>
+                           <l>                        L'espoir rend fort</l>
+                           <l>                        Celui qui veille</l>
+                           <l>                        Lorsque tout dort.</l>
+                           <l>                        Je la devine,</l>
+                           <l>                        Je l'entrevoi;</l>
+                           <l>                        Fille divine!</l>
+                           <l>                        Elle est à moi!</l>
+                        </lg>
+                        <lg>
+                           <l>    [Entre la Esmeralda. Ils se jettent sur elle, et veulent</l>
+                           <l>                   l'entraîner. Elle se débat.]</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>LA ESMERALDA.</head>
+                        <p rend="justify">Au secours! au secours! à moi!</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO ET QUASIMODO.</head>
+                        <p rend="justify">Tais-toi, jeune fille! tais-toi!</p>
+                     </div>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>SCENE III.</label>
+                  </head>
+                  <div type="div4">
+                     <head>LA ESMERALDA, QUASIMODO, PHOEBUS DE CHATEAUPERS, LES ARCHERS DU GUET.</head>
+                     <p rend="justify">PHOEBUS DE CHATEAUPERS, [entrant à la tête d'un gros d'archers.]</p>
+                     <p rend="justify">De par le roi!</p>
+                     <p rend="justify">[Dans le tumulte, Claude s'échappe. Les archers saisissent Quasimodo.]</p>
+                     <p rend="justify">PHOEBUS, [aux archers, montrant Quasimodo.]</p>
+                     <lg>
+                        <l>                    Arrêtez-le! serrez ferme!</l>
+                        <l>                    Qu'il soit seigneur ou valet!</l>
+                        <l>                    Nous allons, pour qu'on l'enferme,</l>
+                        <l>                    Le conduire au Châtelet!</l>
+                     </lg>
+                     <p rend="justify">[Les archers emmènent Quasimodo au fond. La Esmeralda, remise de sa frayeur, s'approche de Phoebus avec une curiosité mêlée d'admiration, et l'attire doucement sur le devant de la scène.]</p>
+                     <p rend="justify">LA ESMERALDA, [à Phoebus.]</p>
+                     <lg>
+                        <l>                        Daignez me dire</l>
+                        <l>                        Votre nom, sire!</l>
+                        <l>                        Je le requiers!</l>
+                     </lg>
+                     <div type="div5">
+                        <head>PHOEBUS.</head>
+                        <lg>
+                           <l>                        Phoebus, ma fille,</l>
+                           <l>                        De la famille</l>
+                           <l>                        De Châteaupers.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>LA ESMERALDA.</head>
+                        <p rend="justify">Capitaine?</p>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEBUS.</head>
+                        <p rend="justify">Oui, ma reine.</p>
+                     </div>
+                     <div type="div5">
+                        <head>LA ESMERALDA.</head>
+                        <p rend="justify">Reine? oh! non.</p>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEBUS.</head>
+                        <p rend="justify">Grâce extrême!</p>
+                     </div>
+                     <div type="div5">
+                        <head>LA ESMERALDA.</head>
+                        <lg>
+                           <l>                        Phoebus, j'aime</l>
+                           <l>                        Votre nom!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEBUS.</head>
+                        <lg>
+                           <l>                        Sur mon âme,</l>
+                           <l>                        J'ai, madame,</l>
+                           <l>                        Une lame</l>
+                           <l>                        De renom!</l>
+                        </lg>
+                        <p rend="justify">LA ESMERALDA, [à Phoebus.]</p>
+                        <lg>
+                           <l>                    Un beau capitaine,</l>
+                           <l>                    Un bel officier,</l>
+                           <l>                    A mine hautaine,</l>
+                           <l>                    A corset d'acier,</l>
+                           <l>                    Souvent, mon beau sire,</l>
+                           <l>                    Prend nos pauvres coeurs,</l>
+                           <l>                    Et ne fait que rire</l>
+                           <l>                    De nos yeux en pleurs.</l>
+                        </lg>
+                        <p rend="justify">PHOEBUS, [à part.]</p>
+                        <lg>
+                           <l>                    Pour un capitaine,</l>
+                           <l>                    Pour un officier,</l>
+                           <l>                    L'amour peut à peine</l>
+                           <l>                    Vivre un jour entier.</l>
+                           <l>                    Tout soldat désire</l>
+                           <l>                    Cueillir toute fleur,</l>
+                           <l>                    Plaisir sans martyre,</l>
+                           <l>                    Amour sans douleur!</l>
+                        </lg>
+                        <p rend="justify">[A la Esmeralda.]</p>
+                        <lg>
+                           <l>                        Un esprit</l>
+                           <l>                        Radieux</l>
+                           <l>                        Me sourit</l>
+                           <l>                        Dans tes yeux.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>LA ESMERALDA.</head>
+                        <lg>
+                           <l>                    Un beau capitaine,</l>
+                           <l>                    Un bel officier,</l>
+                           <l>                    A mine hautaine,</l>
+                           <l>                    A corset d'acier,</l>
+                           <l>                    Quand aux yeux il brille,</l>
+                           <l>                    Fait longtemps penser</l>
+                           <l>                    Toute pauvre fille</l>
+                           <l>                    Qui l'a vu passer!</l>
+                        </lg>
+                        <p rend="justify">PHOEBUS, [à part.]</p>
+                        <lg>
+                           <l>                    Pour un capitaine,</l>
+                           <l>                    Pour un officier,</l>
+                           <l>                    L'amour peut à peine</l>
+                           <l>                    Vivre un jour entier.</l>
+                           <l>                    C'est l'éclair qui brille,</l>
+                           <l>                    Il faut courtiser</l>
+                           <l>                    Toute belle fille</l>
+                           <l>                    Que l'on voit passer.</l>
+                        </lg>
+                        <p rend="justify">LA ESMERALDA. [Elle se pose devant le capitaine et l'admire.]</p>
+                        <lg>
+                           <l>            Seigneur Phoebus, que je vous voie</l>
+                           <l>            Et que je vous admire encor!</l>
+                           <l>            Oh! la belle écharpe de soie,</l>
+                           <l>            La belle écharpe à franges d'or!</l>
+                        </lg>
+                        <p rend="justify">[Phoebus détache son écharpe et la lui offre.]</p>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEBUS.</head>
+                        <p rend="justify">Vous plaît-elle?</p>
+                        <p rend="justify">[La Esmeralda prend l'écharpe et s'en pare.]</p>
+                     </div>
+                     <div type="div5">
+                        <head>LA ESMERALDA.</head>
+                        <p rend="justify">Qu'elle est belle!</p>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEBUS.</head>
+                        <p rend="justify">Un moment!</p>
+                        <p rend="justify">[Il s'approche d'elle et cherche à l'embrasser.]</p>
+                        <p rend="justify">LA ESMERALDA, reculant.</p>
+                        <p rend="justify">Non! de grâce!</p>
+                        <p rend="justify">PHOEBUS, [qui insiste.]</p>
+                        <p rend="justify">Qu'on m'embrasse!</p>
+                        <p rend="justify">LA ESMERALDA, [reculant toujours.]</p>
+                        <p rend="justify">Non, vraiment!</p>
+                        <p rend="justify">PHOEBUS, [riant.]</p>
+                        <lg>
+                           <l>                        Une belle</l>
+                           <l>                        Si rebelle.</l>
+                           <l>                        Si cruelle!</l>
+                           <l>                        C'est charmant.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>LA ESMERALDA.</head>
+                        <lg>
+                           <l>                    Non, beau capitaine,</l>
+                           <l>                    Je dois refuser.</l>
+                           <l>                    Sais-je où l'on m'entraîne</l>
+                           <l>                    Avec un baiser?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEBUS.</head>
+                        <lg>
+                           <l>                    Je suis capitaine,</l>
+                           <l>                    Je veux un baiser.</l>
+                           <l>                    Ma belle africaine,</l>
+                           <l>                    Pourquoi refuser?</l>
+                        </lg>
+                        <p rend="justify">Donne un baiser, donne, ou je vais le prendre.</p>
+                     </div>
+                     <div type="div5">
+                        <head>LA ESMERALDA.</head>
+                        <p rend="justify">Non, laissez-moi; je ne veux rien entendre.</p>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEBUS.</head>
+                        <p rend="justify">Un seul baiser! ce n'est rien, sur ma foi!</p>
+                     </div>
+                     <div type="div5">
+                        <head>LA ESMERALDA.</head>
+                        <p rend="justify">Rien pour vous, sire, hélas! et tout pour moi!</p>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEBUS.</head>
+                        <p rend="justify">Regarde-moi; tu verras si je t'aime!</p>
+                     </div>
+                     <div type="div5">
+                        <head>LA ESMERALDA.</head>
+                        <p rend="justify">Je ne veux pas regarder en moi-même.</p>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEBUS.</head>
+                        <p rend="justify">L'amour, ce soir, veut entrer dans ton coeur.</p>
+                     </div>
+                     <div type="div5">
+                        <head>LA ESMERALDA.</head>
+                        <p rend="justify">L'amour ce soir, et demain le malheur!</p>
+                        <p rend="justify">[Elle glisse de ses bras et s'enfuit. Phoebus, désappointé, se retourne vers Quasimodo, que les gardes tiennent lié au fond du théâtre.]</p>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEBUS.</head>
+                        <lg>
+                           <l>                Elle m'échappe, elle résiste.</l>
+                           <l>                Belle aventure en vérité!</l>
+                           <l>        Des deux oiseaux de nuit je garde le plus triste;</l>
+                           <l>        Le rossignol s'en va, le hibou m'est resté.</l>
+                        </lg>
+                        <p rend="justify">[Il se remet à la tête de sa troupe, et sort emmenant Quasimodo.]</p>
+                     </div>
+                     <div type="div5">
+                        <head>CHOEUR DE LA RONDE DU GUET.</head>
+                        <lg>
+                           <l>                    Paix et vigilance!</l>
+                           <l>                    Ouvrons, loin du bruit,</l>
+                           <l>                    L'oreille au silence</l>
+                           <l>                    Et l'oeil à la nuit!</l>
+                        </lg>
+                        <p rend="justify">[Ils s'éloignent peu à peu et disparaissent.]</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>ACTE DEUXIÈME</head>
+               <div type="div3">
+                  <head>SCENE PREMIERE.</head>
+                  <p rend="justify">[La place de Grève. Le pilori. Quasimodo au pilori. Le peuple sur la place.]</p>
+                  <div type="div4">
+                     <head>CHOEUR.</head>
+                     <lg>
+                        <l>                —Il enlevait une fille!</l>
+                        <l>                    —Comment! vraiment?</l>
+                        <l>                —Vous voyez comme on l'étrille</l>
+                        <l>                    En ce moment!</l>
+                        <l>                —Entendez-vous, mes commères?</l>
+                        <l>                    Quasimodo</l>
+                        <l>                S'en vient chasser sur les terres</l>
+                        <l>                    De Cupido!</l>
+                     </lg>
+                     <div type="div5">
+                        <head>UNE FEMME DU PEUPLE.</head>
+                        <lg>
+                           <l>                Il passera dans ma rue</l>
+                           <l>                Au retour du pilori,</l>
+                           <l>                Et c'est Pierrat Torterue</l>
+                           <l>                Qui va nous faire le cri.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>LE CRIEUR.</head>
+                        <lg>
+                           <l>                De par le roi, que Dieu garde!</l>
+                           <l>                L'homme qu'ici l'on regarde</l>
+                           <l>                Sera mis, sous bonne garde,</l>
+                           <l>                Pour une heure au pilori!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>CHOEUR.</head>
+                        <lg>
+                           <l>                        A bas! à bas!</l>
+                           <l>            Le bossu! le sourd! le borgne!</l>
+                           <l>                        Ce Barabbas!</l>
+                           <l>            Je crois, mortdieu! qu'il nous lorgne.</l>
+                           <l>                        A bas le sorcier!</l>
+                           <l>                        Il grimace, il rue!</l>
+                           <l>                        Il fait aboyer</l>
+                           <l>                        Les chiens dans la rue.</l>
+                           <l>                    —Corrigez bien ce bandit!</l>
+                           <l>                —Doublez le fouet et l'amende!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>QUASIMODO.</head>
+                        <p rend="justify">A boire!</p>
+                     </div>
+                     <div type="div5">
+                        <head>CHOEUR.</head>
+                        <p rend="justify">Qu'on le pende!</p>
+                     </div>
+                     <div type="div5">
+                        <head>QUASIMODO.</head>
+                        <p rend="justify">A boire!</p>
+                        <lg>
+                           <l>                             CHOEUR.</l>
+                           <l>                            Sois maudit!</l>
+                        </lg>
+                        <p rend="justify">[Depuis quelques instants la Esmeralda s'est mêlée à la foule. Elle a observé Quasimodo avec surprise d'abord, puis avec pitié. Tout à coup, au milieu des cris du peuple, elle monte au pilori, détache une petite gourde de sa ceinture, et donne à boire à Quasimodo.]</p>
+                     </div>
+                     <div type="div5">
+                        <head>CHOEUR.</head>
+                        <lg>
+                           <l>                    Que fais-tu, belle fille?</l>
+                           <l>                    Laisse Quasimodo!</l>
+                           <l>                    A Belzébuth qui grille</l>
+                           <l>                    On ne donne pas d'eau!</l>
+                        </lg>
+                        <p rend="justify">[Elle descend du pilori. Les archers détachent et emmènent Quasimodo.]</p>
+                     </div>
+                  </div>
+                  <div type="div4">
+                     <head>CHOEUR.</head>
+                     <lg>
+                        <l>                —Il enlevait une femme!</l>
+                        <l>                        —Qui? ce butor?</l>
+                        <l>                —Mais c'est affreux! c'est infâme!</l>
+                        <l>                        —C'est un peu fort!</l>
+                        <l>                —Entendez-vous, mes commères?</l>
+                        <l>                        Quasimodo</l>
+                        <l>                Osait chasser sur les terres</l>
+                        <l>                        De Cupido!</l>
+                     </lg>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>SCENE II.</label>
+               </head>
+               <p rend="justify">[Une salle magnifique où se font des préparatifs de fête.]</p>
+               <div type="div3">
+                  <head>PHOEBUS, FLEUR-DE-LYS, MADAME ALOISE DE GONDELAURIER.</head>
+                  <div type="div4">
+                     <head>MADAME ALOISE.</head>
+                     <lg>
+                        <l>        Phoebus, mon futur gendre, écoutez, je vous aime;</l>
+                        <l>        Soyez maître céans comme un autre moi-même;</l>
+                        <l>        Ayez soin que ce soir chacun s'égaye ici.</l>
+                        <l>            Et vous, ma fille, allons, tenez-vous prête.</l>
+                        <l>        Vous serez la plus belle encor dans cette fête,</l>
+                        <l>                Soyez la plus joyeuse aussi!</l>
+                     </lg>
+                     <p rend="justify">[Elle va au fond, et donne des ordres aux valets qui disposent la fête.]</p>
+                     <div type="div5">
+                        <head>FLEUR-DE-LYS.</head>
+                        <lg>
+                           <l>                Monsieur, depuis l'autre semaine</l>
+                           <l>                On vous a vu deux fois à peine.</l>
+                           <l>                Cette fête enfin vous ramène.</l>
+                           <l>                Enfin! c'est bien heureux vraiment!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEBUS.</head>
+                        <p rend="justify">Ne grondez pas, je vous supplie!</p>
+                     </div>
+                     <div type="div5">
+                        <head>FLEUR-DE-LYS.</head>
+                        <p rend="justify">Ah! je le vois, Phoebus m'oublie!</p>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEBUS.</head>
+                        <p rend="justify">Je vous jure…</p>
+                     </div>
+                     <div type="div5">
+                        <head>FLEUR-DE-LYS.</head>
+                        <lg>
+                           <l>                               Pas de serment!</l>
+                           <l>                On ne jure que lorsqu'on ment.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEBUS.</head>
+                        <lg>
+                           <l>                Vous oublier! quelle folie!</l>
+                           <l>                N'êtes-vous pas la plus jolie?</l>
+                           <l>                Ne suis-je pas le mieux aimant?</l>
+                        </lg>
+                        <p rend="justify">PHOEBUS, [à part.]</p>
+                        <lg>
+                           <l>                Comme ma belle fiancée</l>
+                           <l>                    Gronde aujourd'hui!</l>
+                           <l>                Le soupçon est dans sa pensée.</l>
+                           <l>                    Ah! quel ennui!</l>
+                           <l>                Belles, les amants qu'on rudoie</l>
+                           <l>                    S'en vont ailleurs.</l>
+                           <l>                On en prend plus avec la joie</l>
+                           <l>                    Qu'avec les pleurs.</l>
+                        </lg>
+                        <p rend="justify">FLEUR-DE-LYS, [à part.]</p>
+                        <lg>
+                           <l>                Me trahir, moi, sa fiancée,</l>
+                           <l>                    Qui suis à lui!</l>
+                           <l>                Moi qui n'ai que lui pour pensée</l>
+                           <l>                    Et pour ennui!</l>
+                           <l>                Ah! qu'il s'absente ou qu'il me voie,</l>
+                           <l>                    Que de douleurs!</l>
+                           <l>                Présent, il dédaigne ma joie,</l>
+                           <l>                    Absent, mes pleurs!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>FLEUR-DE-LYS.</head>
+                        <lg>
+                           <l>        L'écharpe, que pour vous, Phoebus, j'ai festonnée,</l>
+                           <l>        Qu'en avez-vous donc fait? je ne vous la vois pas.</l>
+                        </lg>
+                        <p rend="justify">PHOEBUS, [troublé.]</p>
+                        <p rend="justify">L'écharpe? Je ne sais…</p>
+                        <p rend="justify">[A part.]</p>
+                        <p rend="justify">Mortdieu! le mauvais pas!</p>
+                     </div>
+                     <div type="div5">
+                        <head>FLEUR-DE-LYS.</head>
+                        <p rend="justify">Vous l'avez oubliée!</p>
+                        <p rend="justify">[A part.]</p>
+                        <lg>
+                           <l>                            A qui l'a-t-il donnée?</l>
+                           <l>                Et pour qui suis-je abandonnée?</l>
+                        </lg>
+                        <lg>
+                           <l>               MADAME ALOISE, [remontant vers eux</l>
+                           <l>                et tâchant de les accorder.]</l>
+                        </lg>
+                        <p rend="justify">Mon Dieu! mariez-vous; vous bouderez après.</p>
+                        <p rend="justify">PHOEBUS, [à Fleur-de-Lys.]</p>
+                        <lg>
+                           <l>                Non, je ne l'ai pas oubliée.</l>
+                           <l>        Je l'ai, je m'en souviens, soigneusement pliée</l>
+                           <l>        Dans un coffret d'émail que j'ai fait faire exprès.</l>
+                        </lg>
+                        <p rend="justify">[Avec passion, à Fleur-de-Lys, qui boude encore.]</p>
+                        <lg>
+                           <l>                Je vous jure que je vous aime</l>
+                           <l>                Plus qu'on n'aimerait Vénus même.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>FLEUR-DE-LYS.</head>
+                        <lg>
+                           <l>                Pas de serment! pas de serment!</l>
+                           <l>                On ne jure que lorsqu'on ment.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MADAME ALOISE.</head>
+                        <lg>
+                           <l>    Enfants! pas de querelle; aujourd'hui tout est joie.</l>
+                           <l>            Viens, ma fille, il faut qu'on nous voie.</l>
+                           <l>    Voici qu'on va venir. Chaque chose a son tour.</l>
+                        </lg>
+                        <p rend="justify">[Aux valets.]</p>
+                        <lg>
+                           <l>    Allumez les flambeaux, et que le bal s'apprête.</l>
+                           <l>    Je veux que tout soit beau, qu'on s'y croie en plein jour</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEBUS.</head>
+                        <p rend="justify">Puisqu'on a Fleur-de-Lys, rien ne manque à la fête.</p>
+                     </div>
+                     <div type="div5">
+                        <head>FLEUR-DE-LYS.</head>
+                        <p rend="justify">Phoebus, il y manque l'amour!</p>
+                        <p rend="justify">[Elles sortent.]</p>
+                        <p rend="justify">PHOEBUS, [regardant sortir Fleur-de-Lys.]</p>
+                        <lg>
+                           <l>                Elle dit vrai; près d'elle encore</l>
+                           <l>                Mon coeur est rempli de souci.</l>
+                           <l>        Celle que j'aime, à qui je pense dès l'aurore,</l>
+                           <l>                Hélas! elle n'est pas ici!</l>
+                        </lg>
+                        <lg>
+                           <l>                    Fille ravissante,</l>
+                           <l>                    A toi mes amours!</l>
+                           <l>                    Belle ombre dansante,</l>
+                           <l>                    Qui remplis mes jours,</l>
+                           <l>                    Et, toujours absente,</l>
+                           <l>                    M'apparais toujours!</l>
+                        </lg>
+                        <lg>
+                           <l>                Elle est rayonnante et douce</l>
+                           <l>                Comme un nid dans les rameaux,</l>
+                           <l>                Comme une fleur dans la mousse,</l>
+                           <l>                Comme un bien parmi des maux!</l>
+                           <l>                Humble fille et vierge fière,</l>
+                           <l>                Ame chaste en liberté,</l>
+                           <l>                La pudeur sous sa paupière</l>
+                           <l>                Émousse la volupté!</l>
+                        </lg>
+                        <lg>
+                           <l>                    C'est, dans la nuit sombre,</l>
+                           <l>                    Un ange des cieux,</l>
+                           <l>                    Au front voilé d'ombre,</l>
+                           <l>                    A l'oeil plein de feux!</l>
+                        </lg>
+                        <lg>
+                           <l>                Toujours je vois son image,</l>
+                           <l>                Brillante ou sombre parfois;</l>
+                           <l>                Mais toujours, astre ou nuage,</l>
+                           <l>                C'est au ciel que je la vois!</l>
+                        </lg>
+                        <lg>
+                           <l>                    Fille ravissante,</l>
+                           <l>                    A toi mes amours!</l>
+                           <l>                    Belle ombre dansante</l>
+                           <l>                    Qui remplis mes jours,</l>
+                           <l>                    Et, toujours absente,</l>
+                           <l>                    M'apparais toujours!</l>
+                        </lg>
+                        <p rend="justify">[Entrent plusieurs seigneurs et dames en habits de fête.]</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>SCENE III.</label>
+               </head>
+               <div type="div3">
+                  <head>LES PRÉCÉDENTS, LE VICOMTE DE GIF, M. DE MORLAIX, M. DE CHEVREUSE, MADAME DE GONDELAURIER, FLEUR-DE-LYS, DIANE, BÉRANGÈRE, DAMES, SEIGNEURS.</head>
+                  <div type="div4">
+                     <head>LE VICOMTE DE GIF.</head>
+                     <p rend="justify">Salut, nobles châtelaines!</p>
+                     <p rend="justify">MADAME ALOISE, PHOEBUS, FLEUR-DE-LYS, saluant.</p>
+                     <lg>
+                        <l>                Bonjour, noble chevalier!</l>
+                        <l>                Oubliez soucis et peines</l>
+                        <l>                Sous ce toit hospitalier!</l>
+                     </lg>
+                     <div type="div5">
+                        <head>
+                           <label>M.</label>DE MORLAIX.</head>
+                        <lg>
+                           <l>                Mesdames, Dieu vous envoie</l>
+                           <l>                Santé, plaisir et bonheur!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MADAME ALOISE, PHOEBUS, FLEUR-DE-LYS.</head>
+                        <lg>
+                           <l>                Que le ciel vous rende en joie</l>
+                           <l>                Vos bons souhaits, beau seigneur!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>
+                           <label>M.</label>DE CHEVREUSE.</head>
+                        <lg>
+                           <l>                Mesdames, du fond de l'âme</l>
+                           <l>                Je suis à vous comme à Dieu.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MADAME ALOISE, PHOEBUS, FLEUR-DE-LYS.</head>
+                        <lg>
+                           <l>                Beau sire, que Notre-Dame</l>
+                           <l>                Vous soit en aide en tout lieu!</l>
+                        </lg>
+                        <p rend="justify">[Entrent tous les conviés.]</p>
+                     </div>
+                     <div type="div5">
+                        <head>CHOEUR.</head>
+                        <lg>
+                           <l>                Venez tous à la fête!</l>
+                           <l>                Page, dame et seigneur!</l>
+                           <l>                Venez tous à la fête,</l>
+                           <l>                Des fleurs sur votre tête,</l>
+                           <l>                La joie au fond du coeur.</l>
+                        </lg>
+                        <lg>
+                           <l>  [Les conviés s'accostent et se saluent. Des valets circulent dans la</l>
+                           <l>    foule, portant des plateaux chargés de fleurs et de fruits.</l>
+                           <l>    Cependant un groupe de jeunes filles s'est formé près d'une</l>
+                           <l>    fenêtre, à droite. Tout à coup l'une d'elles appelle les autres et</l>
+                           <l>    leur fait signe de se pencher hors de la fenêtre.]</l>
+                        </lg>
+                        <p rend="justify">DIANE, [regardant au dehors.]</p>
+                        <p rend="justify">Oh! viens donc voir, viens donc voir, Bérangère!</p>
+                        <p rend="justify">BÉRANGÈRE, [regardant dans la rue.]</p>
+                        <p rend="justify">Qu'elle est vive! qu'elle est légère!</p>
+                     </div>
+                     <div type="div5">
+                        <head>DIANE.</head>
+                        <p rend="justify">C'est une fée ou c'est l'Amour!</p>
+                        <p rend="justify">LE VICOMTE DE GIF, [riant.]</p>
+                        <p rend="justify">Qui danse dans le carrefour!</p>
+                        <p rend="justify">M. DE CHEVREUSE, [après avoir regardé.]</p>
+                        <lg>
+                           <l>                Eh mais, c'est la magicienne!</l>
+                           <l>                Phoebus, c'est ton égyptienne,</l>
+                           <l>                Que l'autre nuit, avec valeur,</l>
+                           <l>                Tu sauvas des mains d'un voleur.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>LE VICOMTE DE GIF.</head>
+                        <p rend="justify">Eh! oui, c'est la bohémienne!</p>
+                     </div>
+                     <div type="div5">
+                        <head>
+                           <label>M.</label>DE MORLAIX.</head>
+                        <p rend="justify">Elle est belle comme le jour!</p>
+                        <p rend="justify">DIANE, à Phoebus.</p>
+                        <lg>
+                           <l>    Si vous la connaissez, dites-lui qu'elle vienne</l>
+                           <l>            Nous égayer de quelque tour.</l>
+                        </lg>
+                        <p rend="justify">PHOEBUS, [regardant à son tour d'un air distrait.]</p>
+                        <p rend="justify">Il se peut bien que ce soit elle.</p>
+                        <p rend="justify">[A. M. de Gif.]</p>
+                        <p rend="justify">Mais crois-tu qu'elle se rappelle?…</p>
+                        <p rend="justify">FLEUR-DE-LYS, [qui observe et qui écoute.]</p>
+                        <lg>
+                           <l>            De vous toujours on se souvient.</l>
+                           <l>    Voyons, appelez-la, dites-lui qu'elle monte.</l>
+                        </lg>
+                        <p rend="justify">[A part.]</p>
+                        <p rend="justify">Je verrai s'il faut croire à ce que l'on raconte.</p>
+                        <p rend="justify">PHOEBUS, [à Fleur-de-Lys.]</p>
+                        <p rend="justify">Vous le voulez? Eh bien, essayons.</p>
+                        <p rend="justify">[Il fait signe à la danseuse de monter.]</p>
+                     </div>
+                     <div type="div5">
+                        <head>LES JEUNES FILLES.</head>
+                        <p rend="justify">Elle vient!</p>
+                     </div>
+                     <div type="div5">
+                        <head>
+                           <label>M.</label>DE CHEVREUSE.</head>
+                        <p rend="justify">Sous le porche elle est disparue.</p>
+                     </div>
+                     <div type="div5">
+                        <head>DIANE.</head>
+                        <p rend="justify">Comme elle a laissé là ce bon peuple ébahi!</p>
+                     </div>
+                     <div type="div5">
+                        <head>LE VICOMTE DE GIF.</head>
+                        <p rend="justify">Dames, vous allez voir la nymphe de la rue.</p>
+                        <p rend="justify">FLEUR-DE-LYS, [à part.]</p>
+                        <p rend="justify">Qu'au signe de Phoebus elle a vite obéi!.</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>SCÈNE IV.</head>
+               <div type="div3">
+                  <head>LES PRÉCÉDENTS, LA ESMERALDA.</head>
+                  <lg>
+                     <l>    Entre la bohémienne, timide, confuse, et radieuse. Mouvement d'admiration.</l>
+                     <l>    La foule s'écarte devant elle.</l>
+                  </lg>
+                  <div type="div4">
+                     <head>CHOEUR.</head>
+                     <lg>
+                        <l>    Regardez! son beau front brille entre les plus beaux,</l>
+                        <l>    Comme ferait un astre entouré de flambeaux!</l>
+                     </lg>
+                     <div type="div5">
+                        <head>PHOEBUS.</head>
+                        <lg>
+                           <l>                Oh! la divine créature!</l>
+                           <l>                Amis, de ce bal enchanté</l>
+                           <l>                Elle est la reine, je vous jure.</l>
+                           <l>                Sa couronne c'est sa beauté!</l>
+                        </lg>
+                        <p rend="justify">[Il se tourne vers MM. de Gif et de Chevreuse.]</p>
+                        <lg>
+                           <l>                Amis, j'en ai l'âme échauffée!</l>
+                           <l>                Je braverais guerre et malheur,</l>
+                           <l>                Si je pouvais, charmante fée,</l>
+                           <l>                Cueillir ton amour dans sa fleur!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>
+                           <label>M.</label>DE CHEVREUSE.</head>
+                        <lg>
+                           <l>                C'est une céleste figure!</l>
+                           <l>                Un de ces rêves enchantés</l>
+                           <l>                Qui flottent dans la nuit obscure</l>
+                           <l>                Et sèment l'ombre de clartés!</l>
+                           <l>                Dans le carrefour elle est née.</l>
+                           <l>                O jeux aveugles du malheur!</l>
+                           <l>                Quoi! dans l'eau du ruisseau traînée,</l>
+                           <l>                Hélas! une si belle fleur!</l>
+                        </lg>
+                        <lg>
+                           <l>             LA ESMERALDA, [l'oeil fixé sur Phoebus</l>
+                           <l>                dans la foule.]</l>
+                        </lg>
+                        <lg>
+                           <l>                C'est mon Phoebus, j'en étais sûre,</l>
+                           <l>                Tel qu'en mon coeur il est resté!</l>
+                           <l>                Ah! sous la soie ou sous l'armure,</l>
+                           <l>                C'est toujours lui, grâce et beauté!</l>
+                           <l>                Phoebus, ma tête est embrasée!</l>
+                           <l>                Tout me brûle, joie et douleurs.</l>
+                           <l>                La terre a besoin de rosée,</l>
+                           <l>                Et mon âme a besoin de pleurs!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>FLEUR-DE-LYS.</head>
+                        <lg>
+                           <l>                Qu'elle est belle! j'en étais sûre.</l>
+                           <l>                Oui, je dois être, en vérité,</l>
+                           <l>                Bien jalouse, si je mesure</l>
+                           <l>                Ma jalousie à sa beauté!</l>
+                           <l>                Mais peut-être, prédestinées,</l>
+                           <l>                Sous la rude main du malheur,</l>
+                           <l>                Elle et moi, nous serons fanées</l>
+                           <l>                Toutes les deux dans notre fleur!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>MADAME ALOISE.</head>
+                        <lg>
+                           <l>                C'est une belle créature!</l>
+                           <l>                Il est étrange, en vérité,</l>
+                           <l>                Qu'une bohémienne impure</l>
+                           <l>                Ait tant de charme et de beauté!</l>
+                           <l>                Mais qui connaît la destinée?</l>
+                           <l>                Souvent le serpent oiseleur</l>
+                           <l>                Cache sa tête empoisonnée</l>
+                           <l>                Sous le buisson le plus en fleur.</l>
+                        </lg>
+                        <p rend="justify">TOUS, [ensemble.]</p>
+                        <lg>
+                           <l>                Elle a le calme et la beauté</l>
+                           <l>                Du ciel dans les beaux soirs d'été!</l>
+                        </lg>
+                        <p rend="justify">MADAME ALOISE, [à la Esmeralda.]</p>
+                        <lg>
+                           <l>                Allons, enfant, allons, la belle,</l>
+                           <l>        Venez, et dansez-nous quelque danse nouvelle.</l>
+                        </lg>
+                        <lg>
+                           <l>  [La Esmeralda se prépare a danser et tire de son sein l'écharpe</l>
+                           <l>                   que lui a donnée Phoebus.]</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>FLEUR-DE-LYS.</head>
+                        <lg>
+                           <l>        Mon écharpe!… Phoebus, je suis trompée ici,</l>
+                           <l>                Et ma rivale, la voici!</l>
+                        </lg>
+                        <lg>
+                           <l>  [Fleur-de-Lys arrache l'écharpe à la Esmeralda, et tombe évanouie.</l>
+                           <l>    Tout le bal s'ameute en désordre contre l'égyptienne, qui se</l>
+                           <l>    réfugie près de Phoebus.]</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>TOUS.</head>
+                        <lg>
+                           <l>                Est-il vrai? Phoebus l'aime!</l>
+                           <l>                Infâme! sors d'ici.</l>
+                           <l>                Ton audace est extrême</l>
+                           <l>                De nous braver ainsi!</l>
+                           <l>                0 comble d'impudence!</l>
+                           <l>                Retourne aux carrefours</l>
+                           <l>                Faire admirer ta danse</l>
+                           <l>                Aux marchands des faubourgs!</l>
+                           <l>                Que sur l'heure on la chasse!</l>
+                           <l>                A la porte! il le faut.</l>
+                           <l>                Une fille si basse</l>
+                           <l>                Élever l'oeil si haut!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>LA ESMERALDA.</head>
+                        <lg>
+                           <l>                Oh! défends-moi toi-même,</l>
+                           <l>                Mon Phoebus, défends-moi!</l>
+                           <l>                L'humble fille bohème</l>
+                           <l>                N'espère ici qu'en toi.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEBUS.</head>
+                        <lg>
+                           <l>                Je l'aime, et n'aime qu'elle!</l>
+                           <l>                Je suis son défenseur.</l>
+                           <l>                Je combattrai pour elle.</l>
+                           <l>                Mon bras est à mon coeur.</l>
+                           <l>                S'il faut qu'on la soutienne,</l>
+                           <l>                Eh bien, je la soutien!</l>
+                           <l>                Son injure est la mienne,</l>
+                           <l>                Et son honneur le mien!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>TOUS.</head>
+                        <lg>
+                           <l>                Quoi! voilà ce qu'il aime!</l>
+                           <l>                Hors d'ici! hors d'ici!</l>
+                           <l>                Quoi! c'est une bohème</l>
+                           <l>                Qu'il nous préfère ainsi!</l>
+                           <l>                Ah! tous les deux, silence</l>
+                           <l>                Sur une telle ardeur!</l>
+                        </lg>
+                        <p rend="justify">[A Phoebus.]</p>
+                        <p rend="justify">Vous, c'est trop d'insolence!</p>
+                        <p rend="justify">[A la Esmeralda.]</p>
+                        <p rend="justify">Toi, c'est trop d'impudeur!</p>
+                        <lg>
+                           <l>[Phoebus et ses amis protègent la bohémienne entourée des menaces</l>
+                           <l> [de tous les conviés de madame de Gondelaurier. La Esmeralda se</l>
+                           <l>      [dirige en chancelant vers la porte. La toile tombe.]</l>
+                        </lg>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>ACTE TROISIÈME</head>
+               <div type="div3">
+                  <head>SCÈNE PREMIERE.</head>
+                  <p rend="justify">[Le préau extérieur d'un cabaret. A droite la taverne. A gauche [des arbres. Au fond une porte et un petit mur très bas qui clôt [le préau. Au loin la croupe de Notre-Dame, avec ses deux tours et [sa flèche, et une silhouette sombre du vieux Paris qui se détache [sur le ciel rouge du couchant. La Seine au bas du tableau.]</p>
+                  <lg>
+                     <l>           PHOEBUS, LE VICOMTE DE GIF, M. DE MORLAIX,</l>
+                     <l>     M. DE CHEVREUSE, [et plusieurs autres amis de Phoebus,</l>
+                     <l>[assis à des tables, buvant et chantant; puis] D0M CLAUDE FROLLO.</l>
+                  </lg>
+                  <div type="div4">
+                     <head>CHANSON.</head>
+                     <div type="div5">
+                        <head>CHOEUR.</head>
+                        <lg>
+                           <l>                Sois propice et salutaire,</l>
+                           <l>                Notre-Dame de Saint-Lô,</l>
+                           <l>                Au soudard qui sur la terre</l>
+                           <l>                N'a de haine que pour l'eau!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEBUS.</head>
+                        <lg>
+                           <l>                        Donne au brave,</l>
+                           <l>                        En tous lieux,</l>
+                           <l>                        Bonne cave</l>
+                           <l>                        Et beaux yeux!</l>
+                           <l>                        L'heureux drille!</l>
+                           <l>                        Fais qu'il pille</l>
+                           <l>                        Jeune fille</l>
+                           <l>                        Et vin vieux!</l>
+                        </lg>
+                        <lg>
+                           <l>                        Qu'une belle</l>
+                           <l>                        Au coeur froid</l>
+                           <l>                        Soit rebelle,</l>
+                           <l>                        —On en voit,—</l>
+                           <l>                        Il plaisante</l>
+                           <l>                        La méchante,</l>
+                           <l>                        Puis il chante,</l>
+                           <l>                        Puis il boit!</l>
+                        </lg>
+                        <lg>
+                           <l>                        Le jour passe;</l>
+                           <l>                        Ivre ou non,</l>
+                           <l>                        Il embrasse</l>
+                           <l>                        Sa Toinon,</l>
+                           <l>                        Et, farouche,</l>
+                           <l>                        Il se couche</l>
+                           <l>                        Sur la bouche</l>
+                           <l>                        D'un canon.</l>
+                        </lg>
+                        <lg>
+                           <l>                        Et son âme,</l>
+                           <l>                        Qui souvent</l>
+                           <l>                        D'une femme</l>
+                           <l>                        Va rêvant,</l>
+                           <l>                        Est contente</l>
+                           <l>                        Quand la tente</l>
+                           <l>                        Palpitante</l>
+                           <l>                        Tremble au vent.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>CHOEUR.</head>
+                        <lg>
+                           <l>                    Sois propice et salutaire,</l>
+                           <l>                    Notre-Dame de Saint-Lô,</l>
+                           <l>                    Au soudard qui sur la terre</l>
+                           <l>                    N'a de haine que pour l'eau!</l>
+                        </lg>
+                        <lg>
+                           <l>  [Entre Claude Frollo, qui va s'asseoir à une table éloignée de celle où</l>
+                           <l>    est Phoebus, et paraît d'abord étranger à ce qui se passe autour de lui.]</l>
+                        </lg>
+                        <p rend="justify">LE VICOMTE DE GIF, [à Phoebus.]</p>
+                        <lg>
+                           <l>                Cette égyptienne si belle,</l>
+                           <l>                Qu'en fais-tu donc, décidément?</l>
+                        </lg>
+                        <p rend="justify">[Mouvement d'attention de Claude Frollo.]</p>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEBUS.</head>
+                        <lg>
+                           <l>                Ce soir, dans une heure, avec elle,</l>
+                           <l>                J'ai rendez-vous.</l>
+                        </lg>
+                        <lg>
+                           <l>                              TOUS.</l>
+                           <l>                                 Vraiment?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEBUS.</head>
+                        <p rend="justify">Vraiment!</p>
+                        <p rend="justify">[L'agitation de Claude Frollo redouble.]</p>
+                     </div>
+                     <div type="div5">
+                        <head>LE VICOMTE DE GIF.</head>
+                        <p rend="justify">Dans une heure?</p>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEBUS.</head>
+                        <p rend="justify">Dans un moment!</p>
+                     </div>
+                     <div type="div5">
+                        <head>LA ESMERALDA.</head>
+                        <lg>
+                           <l>                Oh! l'amour, volupté suprême!</l>
+                           <l>                Se sentir deux dans un seul coeur!</l>
+                           <l>                Posséder la femme qu'on aime!</l>
+                           <l>                Être l'esclave et le vainqueur!</l>
+                           <l>                Avoir son âme, avoir ses charmes!</l>
+                           <l>                Son chant qui sait vous apaiser!</l>
+                           <l>                Et ses beaux yeux remplis de larmes</l>
+                           <l>                Qu'on essuie avec un baiser!</l>
+                        </lg>
+                        <p rend="justify">[Pendant qu'il chante, les autres boivent et choquent leurs verres.]</p>
+                     </div>
+                     <div type="div5">
+                        <head>CHOEUR.</head>
+                        <lg>
+                           <l>                    C'est le bonheur suprême,</l>
+                           <l>                    En quelque temps qu'on soit,</l>
+                           <l>                    De boire à ce qu'on aime</l>
+                           <l>                    Et d'aimer ce qu'on boit!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEBUS.</head>
+                        <lg>
+                           <l>                    Amis, la plus jolie,</l>
+                           <l>                    Une grâce accomplie!</l>
+                           <l>                    0 délire! ô folie!</l>
+                           <l>                    Amis, elle est à moi!</l>
+                        </lg>
+                        <p rend="justify">CLAUDE FROLLO, [à part.]</p>
+                        <lg>
+                           <l>                    A l'enfer je m'allie.</l>
+                           <l>                    Malheur sur elle et toi!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEBUS.</head>
+                        <lg>
+                           <l>                    Le plaisir nous convie!</l>
+                           <l>                    Épuisons sans retour</l>
+                           <l>                    Le meilleur de la vie</l>
+                           <l>                    Dans un instant d'amour!</l>
+                        </lg>
+                        <lg>
+                           <l>                Qu'importe après que l'on meure!</l>
+                           <l>                Donnons cent ans pour une heure,</l>
+                           <l>                L'éternité pour un jour!</l>
+                        </lg>
+                        <lg>
+                           <l>  [Le couvre-feu sonne. Les amis de Phoebus se lèvent de table,</l>
+                           <l>   [remettent leurs épées, leurs chapeaux, leurs manteaux, et</l>
+                           <l>                     [s'apprêtent à partir.]</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>CHOEUR.</head>
+                        <lg>
+                           <l>                    Phoebus, l'heure t'appelle;</l>
+                           <l>                    Oui, c'est le couvre-feu.</l>
+                           <l>                    Va retrouver ta belle.</l>
+                           <l>                    A la garde de Dieu!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEBUS.</head>
+                        <lg>
+                           <l>                    Vraiment! l'heure m'appelle;</l>
+                           <l>                    Oui, c'est le couvre-feu.</l>
+                           <l>                    Je vais trouver ma belle.</l>
+                           <l>                    A la garde de Dieu!</l>
+                        </lg>
+                        <p rend="justify">[Les amis de Phoebus sortent.]</p>
+                     </div>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>SCÈNE II</head>
+                  <div type="div4">
+                     <head>CLAUDE FROLLO, PHOEBUS.</head>
+                     <p rend="justify">CLAUDE FROLLO, [arrêtant Phoebus au moment où il se [dispose à sortir.]</p>
+                     <p rend="justify">Capitaine!</p>
+                     <lg>
+                        <l>                            PHOEBUS.</l>
+                        <l>                          Quel est cet homme?</l>
+                     </lg>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <p rend="justify">Écoutez-moi.</p>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEBUS.</head>
+                        <p rend="justify">Dépêchons-nous!</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <lg>
+                           <l>                Savez-vous bien comment se nomme</l>
+                           <l>        Celle qui vous attend ce soir au rendez-vous?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEBUS.</head>
+                        <lg>
+                           <l>                Eh, pardieu! c'est mon amoureuse,</l>
+                           <l>                Celle qui m'aime et me plaît fort;</l>
+                           <l>                C'est ma chanteuse, ma danseuse,</l>
+                           <l>                C'est Esmeralda.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <p rend="justify">C'est la mort.</p>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEBUS.</head>
+                        <lg>
+                           <l>                L'ami, vous êtes fou, d'abord;</l>
+                           <l>        Ensuite, allez au diable!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <p rend="justify">Écoutez!</p>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEBUS.</head>
+                        <p rend="justify">Que m'importe?</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <p rend="justify">Phoebus, si vous passez le seuil de cette porte….</p>
+                        <lg>
+                           <l>                            PHOEBUS.</l>
+                           <l>                Vous êtes fou!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <p rend="justify">Vous êtes mort!</p>
+                        <lg>
+                           <l>                Tremble! c'est une égyptienne!</l>
+                           <l>                Elles n'ont ni loi, ni remord.</l>
+                           <l>                Leur amour déguise leur haine,</l>
+                           <l>                Et leur couche est un lit de mort!</l>
+                        </lg>
+                        <p rend="justify">PHOEBUS, riant.</p>
+                        <lg>
+                           <l>                Mon cher, rajustez votre cape.</l>
+                           <l>                Rentrez à l'hôpital des fous;</l>
+                           <l>                Il me paraît qu'on s'en échappe.</l>
+                           <l>                Que Jupiter, saint Esculape,</l>
+                           <l>                Et le diable soient avec vous!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <lg>
+                           <l>                Ce sont des femmes infidèles.</l>
+                           <l>                Crois-en les publiques rumeurs.</l>
+                           <l>                Tout est ténèbres autour d'elles.</l>
+                           <l>                Phoebus, n'y va pas, ou tu meurs!</l>
+                        </lg>
+                        <lg>
+                           <l>   [L'insistance de Claude Frollo paraît troubler Phoebus, qui</l>
+                           <l>           considère son interlocuteur avec anxiété.]</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEBUS.</head>
+                        <lg>
+                           <l>                        Il m'étonne,</l>
+                           <l>                        Il me donne</l>
+                           <l>                Malgré moi quelques soupçons.</l>
+                           <l>                        Cette ville,</l>
+                           <l>                        Peu tranquille,</l>
+                           <l>                Est pleine de trahisons.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <lg>
+                           <l>                        Je l'étonne,</l>
+                           <l>                        Je lui donne</l>
+                           <l>                Malgré lui quelques soupçons.</l>
+                           <l>                        L'imbécile,</l>
+                           <l>                        Dans la ville,</l>
+                           <l>                Ne voit plus que trahisons.</l>
+                        </lg>
+                        <lg>
+                           <l>        Croyez-moi, monseigneur, évitez la sirène</l>
+                           <l>                Dont le piége vous attend.</l>
+                           <l>                Plus d'une bohémienne</l>
+                           <l>                A poignardé dans sa haine</l>
+                           <l>                Un coeur d'amour palpitant.</l>
+                        </lg>
+                        <p rend="justify">[Phoebus, qu'il veut entraîner, se ravise et le repousse.]</p>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEBUS.</head>
+                        <lg>
+                           <l>                Mais suis-je fou moi-même?</l>
+                           <l>                Maure, juive ou bohème,</l>
+                           <l>                Qu'importe quand on aime?</l>
+                           <l>                L'amour doit tout couvrir.</l>
+                           <l>                Laisse-nous! il m'appelle!</l>
+                           <l>                Ah! si la mort, c'est elle,</l>
+                           <l>                Quand la mort est si belle,</l>
+                           <l>                Il est doux de mourir!</l>
+                        </lg>
+                        <p rend="justify">CLAUDE, [le retenant.]</p>
+                        <lg>
+                           <l>                Arrête! Une bohème!</l>
+                           <l>                Ta folie est extrême!</l>
+                           <l>                Oses-tu donc toi-même</l>
+                           <l>                A ta perte courir?</l>
+                           <l>                Crains la femme infidèle</l>
+                           <l>                Qui dans l'ombre t'appelle.</l>
+                           <l>                Mais quoi! tu cours près d'elle?</l>
+                           <l>                Va, si tu veux mourir!</l>
+                        </lg>
+                        <lg>
+                           <l>  [Phoebus sort vivement, malgré Claude Frollo. Claude Frollo reste</l>
+                           <l>     un moment sombre et comme indécis; puis il suit Phoebus.]</l>
+                        </lg>
+                     </div>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>SCÈNE III.</head>
+                  <p rend="justify">[Une chambre. Au fond, une fenêtre qui donne sur la rivière.]</p>
+                  <p rend="justify">[Clopin Trouillefou entre, un flambeau à la main; il est accompagné de quelques hommes auxquels il fait un geste d'intelligence, et qu'il place dans un coin obscur où ils disparaissent; puis il retourne vers la porte et semble faire signe à quelqu'un de monter. Dom Claude paraît.]</p>
+                  <p rend="justify">CLOPIN, [à Claude.]</p>
+                  <lg>
+                     <l>    D'ici vous pourrez voir, sans être vu vous-même,</l>
+                     <l>            Le capitaine et la bohème.</l>
+                  </lg>
+                  <p rend="justify">[Il lui montre un enfoncement derrière une tapisserie.]</p>
+                  <div type="div4">
+                     <head>CLAUDE FROLLO.</head>
+                     <p rend="justify">Les hommes apostés sont-ils prêts?</p>
+                     <div type="div5">
+                        <head>CLOPIN.</head>
+                        <p rend="justify">Ils sont prêts.</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <lg>
+                           <l>    Que jamais de ceci l'on ne trouve la source.</l>
+                           <l>            Silence! prenez cette bourse.</l>
+                           <l>            Vous en aurez autant après.</l>
+                        </lg>
+                        <lg>
+                           <l>[Claude Frollo se place dans la cachette. Clopin sort avec précaution.</l>
+                           <l>               Entrent la Esmeralda et Phoebus.]</l>
+                        </lg>
+                        <p rend="justify">CLAUDE FROLLO, [à part.]</p>
+                        <lg>
+                           <l>                    O fille adorée,</l>
+                           <l>                    Au destin livrée!</l>
+                           <l>                    Elle entre parée</l>
+                           <l>                    Pour sortir en deuil!</l>
+                        </lg>
+                        <p rend="justify">LA ESMERALDA, [à Phoebus.]</p>
+                        <lg>
+                           <l>                    Monseigneur le comte,</l>
+                           <l>                    Mon coeur que je dompte</l>
+                           <l>                    Est rempli de honte</l>
+                           <l>                    Et rempli d'orgueil!</l>
+                        </lg>
+                        <p rend="justify">PHOEBUS, [à la Esmeralda.]</p>
+                        <lg>
+                           <l>                    Oh! comme elle est rose!</l>
+                           <l>                    Quand la porte est close,</l>
+                           <l>                    Ma belle, on dépose</l>
+                           <l>                    Toute crainte au seuil.</l>
+                        </lg>
+                        <p rend="justify">[Phoebus fait asseoir la Esmeralda sur le banc près de lui.]</p>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEBUS.</head>
+                        <p rend="justify">M'aimes-tu?</p>
+                     </div>
+                     <div type="div5">
+                        <head>LA ESMERALDA.</head>
+                        <p rend="justify">Je t'aime!</p>
+                        <p rend="justify">CLAUDE FROLLO, [à part.]</p>
+                        <p rend="justify">O torture!</p>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEBUS.</head>
+                        <lg>
+                           <l>                O l'adorable créature!</l>
+                           <l>                Vous êtes divine, en honneur!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>LA ESMERALDA.</head>
+                        <lg>
+                           <l>                Votre bouche est une flatteuse!</l>
+                           <l>                Tenez, je suis toute honteuse!</l>
+                           <l>                N'approchez pas tant, monseigneur!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <p rend="justify">Ils s'aiment! que je les envie!</p>
+                     </div>
+                     <div type="div5">
+                        <head>LA ESMERALDA.</head>
+                        <p rend="justify">Mon Phoebus, je vous dois la vie!</p>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEBUS.</head>
+                        <p rend="justify">Et moi, je te dois le bonheur!</p>
+                     </div>
+                     <div type="div5">
+                        <head>LA ESMERALDA.</head>
+                        <lg>
+                           <l>                        Oh! sois sage!</l>
+                           <l>                        Encourage</l>
+                           <l>                        D'un visage</l>
+                           <l>                        Gracieux</l>
+                           <l>                        La petite</l>
+                           <l>                        Qui palpite</l>
+                           <l>                        Interdite</l>
+                           <l>                        Sous tes yeux!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEBUS.</head>
+                        <lg>
+                           <l>                        O ma reine,</l>
+                           <l>                        Ma sirène,</l>
+                           <l>                        Souveraine</l>
+                           <l>                        De beauté!</l>
+                           <l>                        Douce fille,</l>
+                           <l>                        Dont l'oeil brille</l>
+                           <l>                        Et pétille</l>
+                           <l>                        De fierté!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <lg>
+                           <l>                        Les attendre!</l>
+                           <l>                        Les entendre!</l>
+                           <l>                        Qu'elle est tendre!</l>
+                           <l>                        Qu'il est beau!</l>
+                           <l>                        Sois joyeuse!</l>
+                           <l>                        Sois heureuse!</l>
+                           <l>                        Moi, je creuse</l>
+                           <l>                        Le tombeau!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEBUS.</head>
+                        <lg>
+                           <l>                        Fée ou femme,</l>
+                           <l>                        Sois ma dame!</l>
+                           <l>                        Car mon âme,</l>
+                           <l>                        Nuit et jour,</l>
+                           <l>                        Te désire,</l>
+                           <l>                        Te respire,</l>
+                           <l>                        Et t'admire,</l>
+                           <l>                        Mon amour!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>LA ESMERALDA.</head>
+                        <lg>
+                           <l>                        Je suis femme,</l>
+                           <l>                        Et mon âme,</l>
+                           <l>                        Toute flamme,</l>
+                           <l>                        Tout amour,</l>
+                           <l>                        Est, beau sire,</l>
+                           <l>                        Une lyre</l>
+                           <l>                        Qui soupire</l>
+                           <l>                        Nuit et jour!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <lg>
+                           <l>                        Attends, femme,</l>
+                           <l>                        Que ma flamme</l>
+                           <l>                        Et ma lame</l>
+                           <l>                        Aient leur tour!</l>
+                           <l>                        Oui, j'admire</l>
+                           <l>                        Leur sourire,</l>
+                           <l>                        Leur délire,</l>
+                           <l>                        Leur amour!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEBUS.</head>
+                        <lg>
+                           <l>            Sois toujours rose et vermeille!</l>
+                           <l>            Rions à notre heureux sort,</l>
+                           <l>            A l'amour qui se réveille,</l>
+                           <l>            A la pudeur qui s'endort!</l>
+                           <l>            Ta bouche, c'est le ciel même!</l>
+                           <l>            Mon âme veut s'y poser.</l>
+                           <l>            Puisse mon souffle suprême</l>
+                           <l>            S'en aller dans ce baiser!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>LA ESMERALDA.</head>
+                        <lg>
+                           <l>            Ta voix plaît à mon oreille;</l>
+                           <l>            Ton sourire est doux et fort;</l>
+                           <l>            L'insouciance vermeille</l>
+                           <l>            Rit dans tes yeux et m'endort.</l>
+                           <l>            Tes voeux sont ma loi suprême,</l>
+                           <l>            Mais je dois m'y refuser.</l>
+                           <l>            Ma vertu, mon bonheur même,</l>
+                           <l>            S'en iraient dans ce baiser!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <lg>
+                           <l>            Ne frappez point leur oreille,</l>
+                           <l>            Pas rapprochés de la mort!</l>
+                           <l>            Ma haine jalouse veille</l>
+                           <l>            Sur leur amour qui s'endort!</l>
+                           <l>            La mort décharnée et blême</l>
+                           <l>            Entre eux deux va se poser!</l>
+                           <l>            Phoebus, ton souffle suprême</l>
+                           <l>            S'en ira dans ce baiser!</l>
+                        </lg>
+                        <p rend="justify">[Claude Frollo se jette sur Phoebus et le poignarde, puis il ouvre la fenêtre du fond, par laquelle il disparaît. La Esmeralda tombe avec un grand cri sur le corps de Phoebus. Entrent en tumulte les hommes apostés, qui la saisissent et semblent l'accuser. La toile tombe.]</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>ACTE QUATRIÈME</head>
+               <div type="div3">
+                  <head>SCENE PREMIÈRE.</head>
+                  <p rend="justify">[Une prison. Au fond, une porte.]</p>
+                  <p rend="justify">LA ESMERALDA, [seule, enchaînée, couchée sur la paille.]</p>
+                  <lg>
+                     <l>    Quoi! lui dans le sépulcre, et moi dans cet abîme!</l>
+                     <l>            Moi prisonnière et lui victime!</l>
+                     <l>    Oui, je l'ai vu tomber. Il est mort en effet!</l>
+                     <l>            Et ce crime, ô ciel! un tel crime,</l>
+                     <l>            On dit que c'est moi qui l'ai fait!</l>
+                     <l>    La tige de nos jours est brisée encor verte!</l>
+                     <l>    Phoebus en s'en allant me montre le chemin!</l>
+                     <l>            Hier sa fosse s'est ouverte,</l>
+                     <l>            La mienne s'ouvrira demain!</l>
+                  </lg>
+                  <div type="div4">
+                     <head>ROMANCE._</head>
+                     <lg>
+                        <l>                Phoebus, n'est-il sur la terre</l>
+                        <l>                Aucun pouvoir salutaire</l>
+                        <l>                A ceux qui se sont aimés?</l>
+                        <l>                N'est-il ni philtres ni charmes</l>
+                        <l>                Pour sécher des yeux en larmes,</l>
+                        <l>                Pour rouvrir des yeux fermés?</l>
+                        <l>                Dieu bon, que je supplie</l>
+                        <l>                Et la nuit et le jour,</l>
+                        <l>                Daignez m'ôter ma vie</l>
+                        <l>                Ou m'ôter mon amour!</l>
+                     </lg>
+                     <lg>
+                        <l>            Mon Phoebus, ouvrons nos ailes</l>
+                        <l>            Vers les sphères éternelles,</l>
+                        <l>            Où l'amour est immortel!</l>
+                        <l>            Retournons où tout retombe!</l>
+                        <l>            Nos corps ensemble à la tombe,</l>
+                        <l>            Nos âmes ensemble au ciel!</l>
+                     </lg>
+                     <lg>
+                        <l>                Dieu bon, que je supplie</l>
+                        <l>                Et la nuit et le jour,</l>
+                        <l>                Daignez m'ôter ma vie</l>
+                        <l>                Ou m'ôter mon amour!</l>
+                     </lg>
+                     <lg>
+                        <l>  [La porte s'ouvre. Entre Claude Frollo, une lampe à la main, lo</l>
+                        <l>    capuchon rabattu sur le visage. Il vient se placer, immobile, en</l>
+                        <l>                     face de la Esmeralda.]</l>
+                     </lg>
+                     <p rend="justify">LA ESMERALDA, [se levant en sursaut.]</p>
+                     <p rend="justify">Quel est cet homme?</p>
+                     <p rend="justify">CLAUDE FROLLO, [voilé par son capuchon.]</p>
+                     <p rend="justify">Un prêtre.</p>
+                     <div type="div5">
+                        <head>LA ESMERALDA.</head>
+                        <p rend="justify">Un prêtre! Quel mystère!</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <p rend="justify">Êtes-vous prête?</p>
+                     </div>
+                     <div type="div5">
+                        <head>LA ESMERALDA.</head>
+                        <p rend="justify">A quoi?</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <p rend="justify">Prête à mourir.</p>
+                     </div>
+                     <div type="div5">
+                        <head>LA ESMERALDA.</head>
+                        <p rend="justify">Oui.</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <p rend="justify">Bien.</p>
+                     </div>
+                     <div type="div5">
+                        <head>LA ESMERALDA.</head>
+                        <p rend="justify">Sera-ce bientôt? Répondez-moi, mon père.</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <p rend="justify">Demain.</p>
+                     </div>
+                     <div type="div5">
+                        <head>LA ESMERALDA.</head>
+                        <p rend="justify">Pourquoi pas aujourd'hui?</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <p rend="justify">Quoi! vous souffrez donc bien?</p>
+                     </div>
+                     <div type="div5">
+                        <head>LA ESMERALDA.</head>
+                        <p rend="justify">Oui, je souffre!</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <lg>
+                           <l>                                                  Peut-être,</l>
+                           <l>    Moi qui vivrai demain, je souffre plus que vous.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>LA ESMERALDA.</head>
+                        <p rend="justify">Vous? qui donc êtes-vous?</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <p rend="justify">La tombe est entre nous!</p>
+                     </div>
+                     <div type="div5">
+                        <head>LA ESMERALDA.</head>
+                        <p rend="justify">Votre nom?</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <p rend="justify">Vous voulez le savoir?</p>
+                     </div>
+                     <div type="div5">
+                        <head>LA ESMERALDA.</head>
+                        <p rend="justify">Oui.</p>
+                        <p rend="justify">[Il lève son capuchon.]</p>
+                     </div>
+                     <div type="div5">
+                        <head>LA ESMERALDA.</head>
+                        <lg>
+                           <l>                                        Le prêtre!</l>
+                           <l>            C'est le prêtre! ô ciel! ô mon Dieu!</l>
+                           <l>    C'est bien son front de glace et son regard de feu!</l>
+                           <l>            C'est bien le prêtre! c'est lui-même!</l>
+                           <l>    C'est lui qui me poursuit sans trêve nuit et jour!</l>
+                           <l>    C'est lui qui l'a tué, mon Phoebus, mon amour!</l>
+                           <l>    Monstre, je vous maudis à mon heure suprême!</l>
+                           <l>    Que vous ai-je donc fait? quel est votre dessein?</l>
+                           <l>    Que voulez-vous de moi, misérable assassin?</l>
+                           <l>            Vous me haïssez donc?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <p rend="justify">Je t'aime!—</p>
+                        <lg>
+                           <l>                Je t'aime, c'est infâme!</l>
+                           <l>                Je t'aime en frémissant!</l>
+                           <l>                Mon amour, c'est mon âme;</l>
+                           <l>                Mon amour, c'est mon sang.</l>
+                           <l>                Oui, sous tes pieds je tombe,</l>
+                           <l>                    Et, je le dis,</l>
+                           <l>                Je préfère ta tombe</l>
+                           <l>                    Au paradis.</l>
+                           <l>                Plains-moi! Quoi! je succombe.;</l>
+                           <l>                    Et tu maudis!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>LA ESMERALDA.</head>
+                        <lg>
+                           <l>            Il m'aime! ô comble d'épouvante!</l>
+                           <l>            Il me tient, l'horrible oiseleur!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <lg>
+                           <l>            La seule chose en moi vivante,</l>
+                           <l>            C'est mon amour et ma douleur!</l>
+                        </lg>
+                        <lg>
+                           <l>                    Détresse extrême!</l>
+                           <l>                    Quelle rigueur!</l>
+                           <l>                    Hélas! je t'aime!</l>
+                           <l>                    Nuit de douleur!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>LA ESMERALDA.</head>
+                        <lg>
+                           <l>                    Moment suprême!</l>
+                           <l>                    Tremble, ô mon coeur!</l>
+                           <l>                    O ciel! il m'aime!</l>
+                           <l>                    Nuit de terreur!</l>
+                        </lg>
+                        <p rend="justify">CLAUDE FROLLO, [à part.]</p>
+                        <lg>
+                           <l>                Dans mes mains elle palpite!</l>
+                           <l>                Enfin le prêtre a son tour!</l>
+                           <l>                Dans la nuit je l'ai conduite,</l>
+                           <l>                Je vais la conduire au jour.</l>
+                           <l>                La mort, qui vient à ma suite,</l>
+                           <l>                Ne la rendra qu'à l'amour!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>LA ESMERALDA.</head>
+                        <lg>
+                           <l>                Par pitié laissez-moi vite!</l>
+                           <l>                Phoebus est mort, c'est mon tour!</l>
+                           <l>                Hélas! je suis interdite</l>
+                           <l>                Devant votre affreux amour,</l>
+                           <l>                Comme l'oiseau qui palpite</l>
+                           <l>                Sous le regard du vautour!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <lg>
+                           <l>    Accepte-moi! je t'aime! oh! viens, je t'en conjure!</l>
+                           <l>    Pitié pour moi! pitié pour toi! fuyons! tout dort!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>LA ESMERALDA.</head>
+                        <p rend="justify">Votre prière est une injure!</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <p rend="justify">Aimes-tu mieux mourir?</p>
+                     </div>
+                     <div type="div5">
+                        <head>LA ESMERALDA.</head>
+                        <p rend="justify">Le corps meurt, l'âme sort.</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <p rend="justify">Mourir, c'est bien affreux!</p>
+                     </div>
+                     <div type="div5">
+                        <head>LA ESMERALDA.</head>
+                        <lg>
+                           <l>                               Taisez-vous, bouche impure!</l>
+                           <l>            Votre amour rend belle la mort!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <p rend="justify">Choisis, choisis.—Claude ou la mort!</p>
+                        <p rend="justify">[Claude tombe aux pieds d'Esmeralda, suppliant. Elle le repousse.]</p>
+                     </div>
+                     <div type="div5">
+                        <head>LA ESMERALDA.</head>
+                        <lg>
+                           <l>            Non, meurtrier! jamais! silence!</l>
+                           <l>            Ton lâche amour est une offense.</l>
+                           <l>            Plutôt la tombe où je m'élance!</l>
+                           <l>            Sois maudit parmi les maudits!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <lg>
+                           <l>            Tremble! l'échafaud te réclame.</l>
+                           <l>            Sais-tu que je porte en mon âme</l>
+                           <l>            Des projets de sang et de flamme,</l>
+                           <l>            De l'enfer dans-l'ombre applaudis?</l>
+                        </lg>
+                        <lg>
+                           <l>                        Oh! je t'adore!</l>
+                           <l>                        Donne ta main!</l>
+                           <l>                        Tu peux encore</l>
+                           <l>                        Vivre demain!</l>
+                           <l>                        O nuit d'alarmes!</l>
+                           <l>                        Nuit de remord!</l>
+                           <l>                        Pour moi les larmes,</l>
+                           <l>                        Pour toi la mort!</l>
+                           <l>                        Dis-moi: Je t'aime!</l>
+                           <l>                        Pour te sauver!—</l>
+                           <l>                        L'aube suprême</l>
+                           <l>                        Va se lever.</l>
+                           <l>                Ah! puisqu'en vain je t'implore,</l>
+                           <l>                Puisque ta haine me fuit,</l>
+                           <l>                Adieu donc! un jour encore,</l>
+                           <l>                Et puis l'éternelle nuit!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>LA ESMERALDA.</head>
+                        <lg>
+                           <l>                        Va, je t'abhorre,</l>
+                           <l>                        Prêtre inhumain!</l>
+                           <l>                        Le meurtre encore</l>
+                           <l>                        Rougit ta main!</l>
+                           <l>                        O nuit d'alarmes!</l>
+                           <l>                        Nuit de remord!</l>
+                           <l>                        Assez de larmes,</l>
+                           <l>                        Je veux la mort!</l>
+                           <l>                        Dans les fers même</l>
+                           <l>                        Je t'ai bravé.</l>
+                           <l>                        Sois anathème!</l>
+                           <l>                        Sois réprouvé!</l>
+                           <l>                Va, ton crime te dévore,</l>
+                           <l>                Phoebus vers Dieu me conduit!</l>
+                           <l>                Le ciel m'ouvre son aurore!</l>
+                           <l>                L'enfer t'attend dans sa nuit!</l>
+                        </lg>
+                        <lg>
+                           <l>  [Un geôlier paraît. Claude Frollo lui fait signe d'emmener la</l>
+                           <l>    Esmeralda, et sort, pendant qu'on entraîne la bohémienne.]</l>
+                        </lg>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>SCÈNE II.</head>
+               <p rend="justify">[Le parvis Notre-Dame. La façade de l'église. On entend un bruit de cloches.]</p>
+               <div type="div3">
+                  <head>QUASIMODO.</head>
+                  <lg>
+                     <l>                        Mon Dieu! j'aime,</l>
+                     <l>                        Hors moi-même,</l>
+                     <l>                        Tout ici!</l>
+                     <l>                        L'air qui passe</l>
+                     <l>                        Et qui chasse</l>
+                     <l>                        Mon souci!</l>
+                     <l>                        L'hirondelle</l>
+                     <l>                        Si fidèle</l>
+                     <l>                        Aux vieux toits!</l>
+                     <l>                        Les chapelles</l>
+                     <l>                        Sous les ailes</l>
+                     <l>                        De la croix!</l>
+                     <l>                        Toute rose</l>
+                     <l>                        Qui fleurit;</l>
+                     <l>                        Toute chose</l>
+                     <l>                        Qui sourit!</l>
+                  </lg>
+                  <lg>
+                     <l>                        Triste ébauche,</l>
+                     <l>                        Je suis gauche,</l>
+                     <l>                        Je suis laid.</l>
+                     <l>                        Point d'envie!</l>
+                     <l>                        C'est la vie</l>
+                     <l>                        Comme elle est!</l>
+                     <l>                        Joie ou peine,</l>
+                     <l>                        Nuit d'ébène</l>
+                     <l>                        Ou ciel bleu,</l>
+                     <l>                        Que m'importe?</l>
+                     <l>                        Toute porte</l>
+                     <l>                        Mène à Dieu!</l>
+                     <l>                        Noble lame,</l>
+                     <l>                        Vil fourreau,</l>
+                     <l>                        Dans mon âme</l>
+                     <l>                        Je suis beau!</l>
+                  </lg>
+                  <lg>
+                     <l>                Cloches grosses et frêles,</l>
+                     <l>                Sonnez, sonnez toujours!</l>
+                     <l>                Confondez vos voix grêles</l>
+                     <l>                Et vos murmures sourds!</l>
+                     <l>                Chantez dans les tourelles,</l>
+                     <l>                Bourdonnez dans les tours!</l>
+                  </lg>
+                  <lg>
+                     <l>                        Ça, qu'on sonne!</l>
+                     <l>                        Qu'à grand bruit</l>
+                     <l>                        On bourdonne</l>
+                     <l>                        Jour et nuit!</l>
+                  </lg>
+                  <lg>
+                     <l>                Nos fêtes seront splendides.</l>
+                     <l>                Aidé par vous, j'en réponds.</l>
+                     <l>                Sautez à bonds plus rapides</l>
+                     <l>                Dans les airs que nous frappons!</l>
+                     <l>                Voilà les bourgeois stupides</l>
+                     <l>                Qui se hâtent sur les ponts!</l>
+                  </lg>
+                  <lg>
+                     <l>                        Ça, qu'on sonne,</l>
+                     <l>                        Qu'on bourdonne</l>
+                     <l>                        Jour et nuit!</l>
+                     <l>                        Toute fête</l>
+                     <l>                        Se complète</l>
+                     <l>                        Par le bruit!</l>
+                  </lg>
+                  <p rend="justify">[Il se retourne vers la façade de l'église.]</p>
+                  <lg>
+                     <l>    J'ai vu dans la chapelle une tenture noire.</l>
+                     <l>    Hélas! va-t-on traîner quelque misère ici?</l>
+                     <l>    Dieu! quel pressentiment!… Non, je n'y veux pas croire!</l>
+                  </lg>
+                  <p rend="justify">[Entrent Claude Frollo et Clopin, sans voir Quasimodo.]</p>
+                  <p rend="justify">C'est mon maître.—Observons.—Il est bien sombre aussi!</p>
+                  <p rend="justify">[Il se cache dans un angle obscur du portail.]</p>
+                  <lg>
+                     <l>                O ma maîtresse! ô Notre-Dame!</l>
+                     <l>                Prenez mes jours, sauvez son âme!</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>SCÈNE III.</head>
+                  <p rend="justify">QUASIMODO, [caché;] CLAUDE FROLLO, CLOPIN.</p>
+                  <div type="div4">
+                     <head>CLAUDE FROLLO.</head>
+                     <p rend="justify">Donc Phoebus est à Montfort?</p>
+                     <div type="div5">
+                        <head>CLOPIN.</head>
+                        <p rend="justify">Monseigneur, il n'est pas mort!</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <p rend="justify">Pourvu qu'ici rien ne l'amène!</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLOPIN.</head>
+                        <lg>
+                           <l>                Ne vous en mettez pas en peine,</l>
+                           <l>        Il est trop faible encor pour un si long chemin.</l>
+                           <l>                S'il venait, sa mort serait sûre.</l>
+                           <l>                Monseigneur, soyez-en certain,</l>
+                           <l>        Chaque pas qu'il ferait rouvrirait sa blessure.</l>
+                           <l>                Ne craignez rien pour ce matin.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <lg>
+                           <l>            Ah! qu'aujourd'hui du moins seul je la tienne,</l>
+                           <l>                Pour vivre ou mourir, dans ma main!</l>
+                           <l>        Enfer, pour aujourd'hui je te donne demain!</l>
+                        </lg>
+                        <p rend="justify">[A Clopin.]</p>
+                        <lg>
+                           <l>        Bientôt on va mener ici l'égyptienne.</l>
+                           <l>                Toi, que de tout il te souvienne!—</l>
+                           <l>                    Sur la place avec les tiens….</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>CLOPIN.</head>
+                        <p rend="justify">Bien.</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <lg>
+                           <l>                             Tiens-toi dans l'ombre.</l>
+                           <l>                    Si je crie: A moi! tu viens.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>CLOPIN.</head>
+                        <p rend="justify">Oui.</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <p rend="justify">Soyez en nombre.</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLOPIN.</head>
+                        <p rend="justify">Donc si vous criez: A moi!…</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <p rend="justify">Oui.</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLOPIN.</head>
+                        <lg>
+                           <l>                            J'accours près d'elle.</l>
+                           <l>                Je l'arrache aux gens du roi….</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <p rend="justify">Bien.</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLOPIN.</head>
+                        <p rend="justify">A vous la belle!</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <lg>
+                           <l>                A la foule mêlez-vous.</l>
+                           <l>                        Et peut-être</l>
+                           <l>                Ce coeur deviendra plus doux</l>
+                           <l>                        Pour le prêtre.</l>
+                           <l>                Alors vous accourez tous….</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>CLOPIN.</head>
+                        <p rend="justify">Oui, mon maître.</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <p rend="justify">Tenez-vous partout serrés.</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLOPIN.</head>
+                        <p rend="justify">Oui.</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <lg>
+                           <l>                        Cachez vos armes</l>
+                           <l>                Pour ne pas donner d'alarmes.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>CLOPIN.</head>
+                        <p rend="justify">Maître, vous verrez.</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <lg>
+                           <l>                Mais que l'enfer la remporte,</l>
+                           <l>                        Compagnon,</l>
+                           <l>                Si la folle à cette porte</l>
+                           <l>                        Me dit non!</l>
+                           <l>                Destinée! ô jeu funeste!</l>
+                           <l>                Ami, je compte sur toi.</l>
+                           <l>                Sur la chance qui me reste</l>
+                           <l>                Je me penche avec effroi.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>CLOPIN.</head>
+                        <lg>
+                           <l>                Ne craignez rien de funeste,</l>
+                           <l>                Monseigneur, comptez sur moi.</l>
+                           <l>                A la chance qui vous reste</l>
+                           <l>                Confiez-vous sans effroi.</l>
+                        </lg>
+                        <p rend="justify">[Ils sortent avec précaution. Le peuple commence à arriver sur la place.]</p>
+                     </div>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>SCÈNE IV.</head>
+                  <lg>
+                     <l>        LE PEUPLE, QUASIMODO, [puis] LA ESMERALDA [et son</l>
+                     <l>                cortége, puis] CLAUDE FROLLO, PHOEBUS, CLOPIN</l>
+                     <l>             TROUILLEFOU, PRÊTRES, ARCHERS, GENS DE</l>
+                     <l>                            JUSTICE.</l>
+                  </lg>
+                  <div type="div4">
+                     <head>CHOEUR.</head>
+                     <lg>
+                        <l>                        A Notre-Dame</l>
+                        <l>                        Venez tous voir</l>
+                        <l>                        La jeune femme</l>
+                        <l>                        Qui meurt ce soir!</l>
+                        <l>                    Cette bohémienne</l>
+                        <l>                    A poignardé, je croi,</l>
+                        <l>                    Un archer capitaine,</l>
+                        <l>                    Le plus beau qu'ait le roi!</l>
+                        <l>                        Eh quoi! si belle</l>
+                        <l>                        Et si cruelle!</l>
+                        <l>                        Entendez-vous?</l>
+                        <l>                        Comment y croire?</l>
+                        <l>                        L'âme si noire</l>
+                        <l>                        Et l'oeil si doux!</l>
+                        <l>                    C'est une chose affreuse!</l>
+                        <l>                    Ce que c'est que de nous!</l>
+                        <l>                    La pauvre malheureuse!</l>
+                        <l>                    Venez, accourez tous!</l>
+                        <l>                        A Notre-Dame</l>
+                        <l>                        Venez tous voir</l>
+                        <l>                        La jeune femme</l>
+                        <l>                        Qui meurt ce soir!</l>
+                     </lg>
+                     <p rend="justify">[La foule grossit. Rumeur. Un cortége sinistre commence à déboucher sur la place du Parvis. Files de pénitents noirs. Bannières de la Miséricorde. Flambeaux. Archers. Gens de justice et du guet. Les soldats écartent la foule. Parait la Esmeralda, en chemise, la corde au cou, pieds nus, couverte d'un grand crêpe noir. Près d'elle, un moine avec un crucifix. Derrière elle, les bourreaux et les gens du roi. Quasimodo, appuyé aux contre-forts du portail, observe avec attention. Au moment où la condamnée arrive devant la façade, on entend un chant grave et lointain venir de l'intérieur de l'église, dont les portes sont fermées.]</p>
+                     <p rend="justify">CHOEUR, [dans l'église.]</p>
+                     <lg>
+                        <l>                    <hi rend="italic">Omnes fluctus fluminis</hi>
+                        </l>
+                        <l>
+                           <hi rend="italic">                    Transierunt super me</hi>
+                        </l>
+                        <l>
+                           <hi rend="italic">                    In imo voraginis</hi>
+                        </l>
+                        <l>
+                           <hi rend="italic">                    Ubi plorant animæ.</hi>
+                        </l>
+                     </lg>
+                     <p rend="justify">[Le chant s'approche lentement. Il éclate enfin près des portes, qui s'ouvrent tout à coup et laissent voir l'intérieur de l'église occupé par une longue procession de prêtres en habits de cérémonie et précédés de bannières. Claude Frollo, en costume sacerdotal, est en tête de la procession. Il s'avance vers la condamnée.]</p>
+                     <div type="div5">
+                        <head>LE PEUPLE.</head>
+                        <lg>
+                           <l>                Vive aujourd'hui, morte demain!</l>
+                           <l>                Doux Jésus, tendez-lui la main!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>LA ESMERALDA.</head>
+                        <lg>
+                           <l>                C'est mon Phoebus qui m'appelle</l>
+                           <l>                Dans la demeure éternelle</l>
+                           <l>                Où Dieu nous tient sous son aile.</l>
+                           <l>                Béni soit mon sort cruel!</l>
+                           <l>                Au fond de tant de misère,</l>
+                           <l>                Mon coeur qui se brise espère.</l>
+                           <l>                Je vais mourir pour la terre,</l>
+                           <l>                Je vais naître pour le ciel!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <lg>
+                           <l>                Mourir si jeune, si belle!</l>
+                           <l>                Hélas! le prêtre infidèle</l>
+                           <l>                Est bien plus condamné qu'elle!</l>
+                           <l>                Mon supplice est éternel.</l>
+                           <l>                Pauvre fille de misère,</l>
+                           <l>                Que j'ai prise dans ma serre,</l>
+                           <l>                Tu vas mourir pour la terre;</l>
+                           <l>                Moi, je suis mort pour le ciel!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>LE PEUPLE.</head>
+                        <lg>
+                           <l>                Hélas! c'est une infidèle!</l>
+                           <l>                Le ciel, qui tous nous appelle,</l>
+                           <l>                N'a point de portes pour elle.</l>
+                           <l>                Son supplice est éternel.</l>
+                           <l>                La mort, oh! quelle misère!</l>
+                           <l>                La tient dans sa double serre;</l>
+                           <l>                Elle est morte pour la terre,</l>
+                           <l>                Elle est morte pour le ciel!</l>
+                        </lg>
+                        <p rend="justify">[La procession s'approche, Claude aborde la Esmeralda.]</p>
+                        <p rend="justify">LA ESMERALDA, [glacée de terreur.]</p>
+                        <p rend="justify">C'est le prêtre!</p>
+                        <p rend="justify">CLAUDE FROLLO, [bas.]</p>
+                        <lg>
+                           <l>                    Oui, c'est moi; je t'aime et je t'implore.</l>
+                           <l>            Dis un seul mot, je puis encore,</l>
+                           <l>            Je puis encore te sauver.</l>
+                           <l>            Dis-moi: Je t'aime.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>LA ESMERALDA.</head>
+                        <lg>
+                           <l>                               Je t'abhorre!</l>
+                           <l>    Va-t'en!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <p rend="justify">Alors meurs donc! j'irai te retrouver.</p>
+                        <p rend="justify">[Il se tourne vers la foule.]</p>
+                        <lg>
+                           <l>    Peuple, au bras séculier nous livrons cette femme.</l>
+                           <l>    A ce suprême instant, puisse sur sa pauvre âme</l>
+                           <l>            Passer le souffle du Seigneur!</l>
+                        </lg>
+                        <lg>
+                           <l>  [Au moment où les hommes de justice mettent la main sur la Esmeralda,</l>
+                           <l>    Quasimodo saute dans la place, repousse les archers, saisit la</l>
+                           <l>    Esmeralda dans ses bras, et se jette dans l'église avec elle.]</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>QUASIMODO.</head>
+                        <p rend="justify">Asile! asile! asile!</p>
+                     </div>
+                     <div type="div5">
+                        <head>LE PEUPLE.</head>
+                        <lg>
+                           <l>                    Asile! asile! asile!</l>
+                           <l>                    Noël, gens de la ville!</l>
+                           <l>                    Noël au bon sonneur!</l>
+                           <l>                        O destinée!</l>
+                           <l>                        La condamnée</l>
+                           <l>                        Est au Seigneur.</l>
+                           <l>                        Le gibet tombe,</l>
+                           <l>                        Et l'Éternel,</l>
+                           <l>                        Au lieu de tombe,</l>
+                           <l>                        Ouvre l'autel.</l>
+                           <l>                        Bourreaux, arrière,</l>
+                           <l>                        Et gens du roi!</l>
+                           <l>                        Cette barrière</l>
+                           <l>                        Borne la loi.</l>
+                           <l>                        C'est toi qui changes</l>
+                           <l>                        Tout en ce lieu.</l>
+                           <l>                        Elle est aux anges,</l>
+                           <l>                        Elle est à Dieu!</l>
+                        </lg>
+                        <p rend="justify">CLAUDE FROLLO, [faisant faire silence d'un geste.]</p>
+                        <lg>
+                           <l>    Elle n'est pas sauvée, elle est égyptienne.</l>
+                           <l>    Notre-Dame ne peut sauver qu'une chrétienne.</l>
+                           <l>    Même embrassant l'autel les païens sont proscrits.</l>
+                        </lg>
+                        <p rend="justify">[Aux gens du roi.]</p>
+                        <lg>
+                           <l>    Au nom de monseigneur l'évêque de Paris,</l>
+                           <l>            Je vous rends cette femme impure.</l>
+                        </lg>
+                        <p rend="justify">QUASIMODO, [aux archers.]</p>
+                        <lg>
+                           <l>            Je la défendrai, je le jure!</l>
+                           <l>            N'approchez pas!</l>
+                        </lg>
+                        <p rend="justify">CLAUDE FROLLO, [aux archers.]</p>
+                        <lg>
+                           <l>                            Vous hésitez!</l>
+                           <l>            Obéissez à l'instant même.</l>
+                           <l>    Arrachez du saint lieu cette fille bohème.</l>
+                        </lg>
+                        <p rend="justify">[Les archers s'avancent. Quasimodo se place entre eux et la Esmeralda.]</p>
+                     </div>
+                     <div type="div5">
+                        <head>QUASIMODO.</head>
+                        <p rend="justify">Jamais!</p>
+                        <p rend="justify">[On entend UN CAVALIER accourir et crier du dehors:]</p>
+                        <p rend="justify">Arrêtez!</p>
+                        <p rend="justify">[La foule s'écarte.]</p>
+                        <p rend="justify">PHOEBUS, [apparaissant à cheval, pâle, haletant, épuisé comme un homme qui vient de faire une longue course.]</p>
+                        <p rend="justify">Arrêtez!</p>
+                     </div>
+                     <div type="div5">
+                        <head>LA ESMERALDA.</head>
+                        <p rend="justify">Phoebus!</p>
+                        <p rend="justify">CLAUDE FROLLO, [à part, terrifié.]</p>
+                        <p rend="justify">La trame se déchire!</p>
+                        <p rend="justify">PHOEBUS, [se jetant à bas du cheval.]</p>
+                        <lg>
+                           <l>                Dieu soit loué! je respire.</l>
+                           <l>                J'arrive à temps. Celle-ci</l>
+                           <l>                Est innocente, et voici</l>
+                           <l>                Mon assassin!</l>
+                        </lg>
+                        <p rend="justify">[Il désigne Claude Frollo.]</p>
+                     </div>
+                     <div type="div5">
+                        <head>TOUS.</head>
+                        <p rend="justify">Ciel! le prêtre!</p>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEBUS.</head>
+                        <lg>
+                           <l>    Le prêtre est seul coupable, et je le prouverai.</l>
+                           <l>    Qu'on l'arrête.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>LE PEUPLE.</head>
+                        <p rend="justify">O surprise!</p>
+                        <p rend="justify">[Les archers entourent Claude Frollo.]</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <p rend="justify">Ah! Dieu seul est le maître!</p>
+                     </div>
+                     <div type="div5">
+                        <head>LA ESMERALDA.</head>
+                        <p rend="justify">Phoebus!</p>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEBUS.</head>
+                        <p rend="justify">Esmeralda!</p>
+                        <p rend="justify">[Ils se jettent dans les bras l'un de l'autre.]</p>
+                     </div>
+                     <div type="div5">
+                        <head>LA ESMERALDA.</head>
+                        <lg>
+                           <l>                      Mon Phoebus adoré!</l>
+                           <l>    Nous vivrons.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>PHOEBUS.</head>
+                        <p rend="justify">Tu vivras.</p>
+                     </div>
+                     <div type="div5">
+                        <head>LA ESMERALDA.</head>
+                        <p rend="justify">Pour nous le bonheur brille.</p>
+                     </div>
+                     <div type="div5">
+                        <head>LE PEUPLE.</head>
+                        <p rend="justify">Vivez tous deux!</p>
+                     </div>
+                     <div type="div5">
+                        <head>LA ESMERALDA.</head>
+                        <lg>
+                           <l>                    Entends ces joyeuses clameurs!</l>
+                           <l>            A tes pieds reçois l'humble fille.—</l>
+                           <l>            Ciel! tu pâlis! Qu'as-tu?</l>
+                        </lg>
+                        <p rend="justify">PHOEBUS, [chancelant.]</p>
+                        <p rend="justify">Je meurs.</p>
+                        <p rend="justify">[Elle le reçoit dans ses bras. Attente et anxiété dans la foule.]</p>
+                        <lg>
+                           <l>        Chaque pas que j'ai fait vers toi, ma bien-aimée,</l>
+                           <l>        A rouvert ma blessure à peine encor fermée.</l>
+                           <l>        J'ai pris pour moi la tombe et te laisse le jour.</l>
+                           <l>                J'expire. Le sort te venge;</l>
+                           <l>                Je vais voir, ô mon pauvre ange,</l>
+                           <l>                Si le ciel vaut ton amour!</l>
+                           <l>        —Adieu!</l>
+                        </lg>
+                        <p rend="justify">[Il expire.]</p>
+                     </div>
+                     <div type="div5">
+                        <head>LA ESMERALDA.</head>
+                        <p rend="justify">Phoebus! il meurt! en un instant tout change!</p>
+                        <p rend="justify">[Elle tombe sur son corps.]</p>
+                        <p rend="justify">Je te suis dans l'éternité!</p>
+                     </div>
+                     <div type="div5">
+                        <head>CLAUDE FROLLO.</head>
+                        <p rend="justify">Fatalité!</p>
+                     </div>
+                     <div type="div5">
+                        <head>LE PEUPLE.</head>
+                        <p rend="justify">Fatalité!</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

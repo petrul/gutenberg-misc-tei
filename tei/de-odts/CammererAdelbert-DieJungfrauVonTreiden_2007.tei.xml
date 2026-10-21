@@ -1,0 +1,3583 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Die Jungfrau von Treiden</title>
+            <author>Adelbert Cammerer</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-01T18:39:47Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">odts/de-odts/CammererAdelbert-DieJungfrauVonTreiden_2007.epub.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Adelbert Cammerer</name>
+               <date>2024-01-01T18:39:47Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Die Jungfrau von Treiden</head>
+         <author>Adelbert Cammerer</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">odts/de-odts/CammererAdelbert-DieJungfrauVonTreiden_2007.epub.odt</p>
+         <pb/>
+         <div type="div1">
+            <head>Die Jungfrau von Treiden</head>
+            <pb/>
+            <div type="div2">
+               <head>DIE</head>
+            </div>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>JUNGFRAU von TREIDEN.</head>
+            <pb/>
+            <div type="div2">
+               <head>EIN</head>
+               <div type="div3">
+                  <head>HISTORISCH-ROMANTISCHES GEMÄLDE AUS<lb/>DER VORZEIT LIVLANDS</head>
+                  <div type="div4">
+                     <head>VON</head>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>ADELBERT CAMMERER.</head>
+               <p rend="justify">
+                  <hi rend="italic">Motto</hi>: Honorem meum nemini cedo.</p>
+               <div type="div3">
+                  <head>ZEIT DER BEGEBENHEIT 1600 à 1620.</head>
+                  <div type="div4">
+                     <head>RIGA, 1848.<lb/>BEI H. SCHNAKENBURG.</head>
+                     <p rend="justify">Der Druck dieser Schrift wird unter den gesetzlichen Bedingungen gestattet.</p>
+                     <p rend="justify">
+                        <hi rend="italic">Riga</hi>, den 4. Mai 1848.</p>
+                     <p rend="justify">Dr. C. E. Napiersky, Censor.</p>
+                     <p rend="justify">Seiner Hochwohlgeboren</p>
+                     <p rend="justify">dem</p>
+                     <p rend="justify">Herrn Assessor am livl. Hofgerichte zu Riga,</p>
+                     <p rend="justify">Collegienrath und Ritter</p>
+                     <p rend="justify">
+                        <hi rend="bold">MAGNUS VON WOLFFELDT,</hi>
+                     </p>
+                     <lg>
+                        <l>welcher den Preis-Juwel jungfräulichster Grossthat, aus</l>
+                        <l>228jährigem Grabesmoder, mühevoll an das Licht, vor</l>
+                        <l>die Augen und Herzen der Welt gebracht,</l>
+                     </lg>
+                     <p rend="justify">dankbar gewidmet</p>
+                     <p rend="justify">von</p>
+                     <p rend="justify">
+                        <hi rend="italic">dem Verfasser.</hi>
+                     </p>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>Die</head>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Jungfrau von Treiden.</head>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>I.</label>
+               </head>
+               <div type="div3">
+                  <head>Prolog.</head>
+                  <lg>
+                     <l>Zu dir, <hi rend="italic">Livonen-Schweiz</hi>, hinan,</l>
+                     <l>Und deiner Vorzeit Leben:</l>
+                     <l>Lass mich, auf <hi rend="italic">Clio's</hi> treuer Bahn,</l>
+                     <l>Den <hi rend="italic">Sänger</hi>-Flug erheben!</l>
+                  </lg>
+                  <lg>
+                     <l>Wo schimmern dort, von Sonnengold</l>
+                     <l>  Und Abendroth beschienen:</l>
+                     <l>
+                        <hi rend="italic">Kremon</hi>, <hi rend="italic">Thoreida</hi>, <hi rend="italic">Segewold</hi>,</l>
+                     <l>  In klagenden Ruinen;</l>
+                  </lg>
+                  <lg>
+                     <l>Wo seit dem Blutwerk' ihrer Schlacht,</l>
+                     <l>  Herab in Blumen-Auen,</l>
+                     <l>  Von ihrem Thurm bei Mitternacht,</l>
+                     <l>  Die todten Ritter schauen;</l>
+                  </lg>
+                  <lg>
+                     <l>Wo Feinde nun ein Grab versöhnt;</l>
+                     <l>  Und, auf der Vorwelt Leichen,</l>
+                     <l>  Der Hügelreihen Stirne krönt</l>
+                     <l>  Ein Bürgerkranz von Eichen;</l>
+                  </lg>
+                  <lg>
+                     <l>  Wo <hi rend="italic">Flora's</hi>  holde Kinder mir</l>
+                     <l>  Das Pfühl zum Lager breiten;</l>
+                     <l>  Pomona dort, und Ceres hier,</l>
+                     <l>  Ein Erntefest bereiten;</l>
+                  </lg>
+                  <lg>
+                     <l>Wo nach <hi rend="italic">Mäander</hi>-Krümmen-Tanz</l>
+                     <l>  Des Stromes, die <hi rend="italic">Najade</hi>,</l>
+                     <l>  Bei lauer Welle Silberglanz,</l>
+                     <l>  Dem <hi rend="italic">Amor</hi>  winkt zum <hi rend="italic">Bade</hi>;</l>
+                  </lg>
+                  <lg>
+                     <l>Wo aus der <hi rend="italic">Felsengrotte</hi>  spricht</l>
+                     <l>  Der Heidenwelt <hi rend="italic">Sibylle</hi>;</l>
+                     <l>  Und bei <hi rend="italic">Dryaden</hi>  Kränze flicht</l>
+                     <l>  Die <hi rend="italic">Muse</hi>  der <hi rend="italic">Idylle</hi>;</l>
+                  </lg>
+                  <lg>
+                     <l>Wo hell, zum Morgenstern empor,</l>
+                     <l>  Der Haine Lieder wallen;</l>
+                     <l>  Und Wehmuth schwelgt im Tausendchor</l>
+                     <l>  Von <hi rend="italic">Hölty</hi>-Nachtigallen: —</l>
+                  </lg>
+                  <lg>
+                     <l>Zu dir hinan, <hi rend="italic">Livonen-Schweiz</hi>!</l>
+                     <l>  Nach deiner Vorzeit Leben,</l>
+                     <l>  Und deiner <hi rend="italic">Anmuth</hi>  Blüthenreiz',</l>
+                     <l>  Will ich den Flug erheben.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Thoreida</hi>  sei des Fluges Ziel!</l>
+                     <l>
+                        <hi rend="italic">Asträa</hi>  soll mich führen! —</l>
+                     <l>  Ein <hi rend="italic">Opfer</hi>, das dem Herrn gefiel,</l>
+                     <l>  Soll tief die Seele rühren!</l>
+                  </lg>
+                  <lg>
+                     <l>  Nicht <hi rend="italic">Männer</hi>  aus der <hi rend="italic">Ritter</hi>  Zahl,</l>
+                     <l>  Gegossen wie von Eisen;</l>
+                     <l>  Nicht <hi rend="italic">Helden</hi>  von Granit und Stahl,</l>
+                     <l>  Will meine Harfe preisen:</l>
+                  </lg>
+                  <lg>
+                     <l>Der <hi rend="italic">Weltgeschichte</hi>  stolze Macht</l>
+                     <l>  Hat ihren Kranz gewunden;</l>
+                     <l>  Sie kann nicht leben ohne Schlacht,</l>
+                     <l>  Nicht ohne Völker-Wunden!</l>
+                  </lg>
+                  <lg>
+                     <l>Ihr <hi rend="italic">Griffel</hi>  hat so manchen <hi rend="italic">Wicht</hi>
+                     </l>
+                     <l>  Gigantisch aufgemessen;</l>
+                     <l>  Und mancher <hi rend="italic">stillen</hi>  Grösse Licht,</l>
+                     <l>  Das <hi rend="italic">Welten</hi>  strahlt, <hi rend="italic">vergessen</hi>!</l>
+                  </lg>
+                  <lg>
+                     <l>Die <hi rend="italic">Jungfrau</hi>, die <hi rend="italic">mein Lied</hi>  erkor,</l>
+                     <l>  Zum Preis und Ehrenmale:</l>
+                     <l>  Sie trat aus öder <hi rend="italic">Nacht</hi>  hervor;</l>
+                     <l>  Nicht aus dem Marmorsaale.</l>
+                  </lg>
+                  <lg>
+                     <l>Es war, in Gottes freier Luft,</l>
+                     <l>  Ein Schlachtfeld ihre Wiege;</l>
+                     <l>  Das Brautgemach — die Todtengruft;</l>
+                     <l>  Ihr Tod — ein Sieg der Siege!</l>
+                  </lg>
+                  <lg>
+                     <l>Hat <hi rend="italic">gross</hi>  in Rom <hi rend="italic">Lucretia</hi>
+                     </l>
+                     <l>  Die Schmach in Blut begraben:</l>
+                     <l>  So steht die <hi rend="italic">Deutsche</hi>  — <hi rend="italic">grösser</hi>  da,</l>
+                     <l>  Und fleckenlos erhaben.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Entweiht</hi>  nur sank in Todeshand</l>
+                     <l>  Die römische Matrone:</l>
+                     <l>  Doch <hi rend="italic">sie</hi>, <hi rend="italic">Livona's</hi>  Tochter fand,</l>
+                     <l>  Im Tod — die Martyrkrone!</l>
+                  </lg>
+                  <lg>
+                     <l>Dort muss ein <hi rend="italic">Frauentod</hi>  dem Staat'</l>
+                     <l>  Die <hi rend="italic">Freiheit</hi>  vorbereiten:</l>
+                     <l>  Doch meiner <hi rend="italic">Jungfrau</hi>  Heldenthat —</l>
+                     <l>
+                        <hi rend="italic">Entschwand</hi>  dem Buch' der Zeiten!</l>
+                  </lg>
+                  <lg>
+                     <l>Sie lag, im Zweijahrhundertlauf',</l>
+                     <l>  Der Nächte Nacht zum Raube;</l>
+                     <l>  Da stieg sie neuem Leben auf,</l>
+                     <l>  Aus Moderschutt und Staube.</l>
+                  </lg>
+                  <lg>
+                     <l>Und <hi rend="italic">Jener</hi>, dem die <hi rend="italic">That</hi>  gelang,</l>
+                     <l>  Der Welt sie neu zu geben:</l>
+                     <l>  Er möge nun im Lobgesang,</l>
+                     <l>  Wie <hi rend="italic">seine Jungfrau</hi>, leben![A]</l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>II.</label>
+               </head>
+               <div type="div3">
+                  <head>Vor dem Burggetrümmer von Treiden.</head>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Fremdling</hi>, der sich mir gesellt!</l>
+                     <l>
+                        <hi rend="italic">Gast</hi>, bei Mondenscheine!</l>
+                     <l>Sieh! von weiland stolzer Welt,</l>
+                     <l>Deren Denkmal hier zerfällt,</l>
+                     <l>Reden noch die Steine. —</l>
+                     <l>Und — von jenem <hi rend="italic">Ritter</hi>-Spiel,</l>
+                     <l>Das im Blute stieg und fiel:</l>
+                     <l>Zeugen, aus dem <hi rend="italic">Grab</hi>-Gefild',</l>
+                     <l>Helm und Panzer, Schwert und Schild,</l>
+                     <l>Schädel und Gebeine; —</l>
+                     <l>
+                        <hi rend="italic">Segen</hi>-Grossthat — <hi rend="italic">keine</hi>!</l>
+                  </lg>
+                  <lg>
+                     <l>Oft, seit grauer Heiden-Nacht,</l>
+                     <l>  Spielwerk roher Völkerstürme:</l>
+                     <l>  Sank, <hi rend="italic">Thoreida</hi>! deine Macht;</l>
+                     <l>  Sanken deine Riesenthürme!</l>
+                  </lg>
+                  <lg>
+                     <l>Aber — liess versöhnte Zeit</l>
+                     <l>  Ihre Schlachtendonner schweigen:</l>
+                     <l>  Sah das Volk die Herrlichkeit</l>
+                     <l>  Wieder aus dem Grabe steigen.</l>
+                  </lg>
+                  <lg>
+                     <l>  Völkermark und Heldenblut</l>
+                     <l>  Sollte diese Fluren düngen!</l>
+                     <l>  Stets erneuter Kämpfe Wuth</l>
+                     <l>  Musste diese Welt verjüngen!</l>
+                  </lg>
+                  <lg>
+                     <l>Fürst und Ritter, Herr und Knecht,</l>
+                     <l>  Schweden, Polen, Lithuanen,</l>
+                     <l>  Und der Reussen Landesrecht:</l>
+                     <l>  Fochten um den Sieg der Fahnen.</l>
+                  </lg>
+                  <lg>
+                     <l>Ritterthum und Mönch-<hi rend="italic">Asyl</hi>  —</l>
+                     <l>  Beidem klang die Todtenmette;</l>
+                     <l>  Und von ihrem Trauerspiel'</l>
+                     <l>  Blieb dem <hi rend="italic">Volke</hi>  — nur die <hi rend="italic">Kette</hi>!</l>
+                  </lg>
+                  <lg>
+                     <l>Aber — als dem Siegerglück'</l>
+                     <l>
+                        <hi rend="italic">Treiden</hi>  sank, im Opfertode:</l>
+                     <l>  Gab dem Fest' — ein <hi rend="italic">Weltgeschick</hi>  —</l>
+                     <l>  Noch ein Stück, als <hi rend="italic">Episode</hi>!</l>
+                  </lg>
+                  <lg>
+                     <l>Und, wenn Bücher ohne Zahl,</l>
+                     <l>  Hier, von Schlachtenruhm erzählen:</l>
+                     <l>  Will ich nun, zum <hi rend="italic">Heldenmal'</hi>,</l>
+                     <l>  Nur die <hi rend="italic">Episode</hi>  wählen.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Jungfrau</hi>, wie dein Schicksal gross!</l>
+                     <l>  Grösser noch, in deinem Falle!</l>
+                     <l>  Komm', aus tiefem Gräberschooss',</l>
+                     <l>  In des Ruhmes Ehrenhalle!</l>
+                  </lg>
+                  <lg>
+                     <l>Manchem Helden sank der Muth,</l>
+                     <l>  Sein Verhängniss zu ertragen:</l>
+                     <l>  Aber <hi rend="italic">du</hi>, in deinem <hi rend="italic">Blut'</hi>,</l>
+                     <l>  Hast dein Schicksal <hi rend="italic">mit</hi>erschlagen!</l>
+                  </lg>
+                  <lg>
+                     <l>Wand'le denn, mit deinem Ruhm',</l>
+                     <l>  Durch die Wahrheit im Gedichte, —</l>
+                     <l>  Von Minerva's Heiligthum',</l>
+                     <l>  Hin, zum Tempel der <hi rend="italic">Geschichte</hi>!</l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>III.</label>
+               </head>
+               <div type="div3">
+                  <head>Rosa Mai.</head>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Luna</hi> schien zur Abendfeier,</l>
+                     <l>Und in ihrem Sternenschleier</l>
+                     <l>Kam die thränenfeuchte Nacht;</l>
+                     <l>Tausende, noch unbegraben,</l>
+                     <l>Geierbeute, Spiel der Raben,</l>
+                     <l>Trug das Blutgefild der Schlacht.</l>
+                  </lg>
+                  <lg>
+                     <l>Aber <hi rend="italic">Manche</hi>, reich an Wunden,</l>
+                     <l>  Die das Ende <hi rend="italic">nicht</hi>  gefunden;</l>
+                     <l>  Sah'n aus Leichenschutt hervor!</l>
+                     <l>  Der Verzweiflung wilde Töne,</l>
+                     <l>  Fluch, Gebet, und Angstgestöhne,</l>
+                     <l>  Drangen noch zu Gott empor!</l>
+                  </lg>
+                  <lg>
+                     <l>Tochter, Gattin und Matrone,</l>
+                     <l>  Fanden hier den Tod zum Lohne,</l>
+                     <l>  Treu der Ehre, sonder Schmach!</l>
+                     <l>  Ja, der Hekatombenspende</l>
+                     <l>  Sandten auch die Würgerhände</l>
+                     <l>  Noch das Kind der Wiege nach!</l>
+                  </lg>
+                  <lg>
+                     <l>  Doch — indess bei Mondenschimmer,</l>
+                     <l>  Droben auf dem Burg-Getrümmer,</l>
+                     <l>  Noch der Todesengel sass;</l>
+                     <l>  Und die ungelad'nen Gäste,</l>
+                     <l>  Bei <hi rend="italic">Thoreida's</hi>  Todtenfeste,</l>
+                     <l>  Lärmen, schwelgen, ohne Maass; —</l>
+                  </lg>
+                  <lg>
+                     <l>Während dort, wie Feuerdrachen,</l>
+                     <l>  Brände durch die Lüfte krachen,</l>
+                     <l>  Mit der Hölle Glutgewalt:</l>
+                     <l>  Sieh, da wandelt, Gott-berufen,</l>
+                     <l>  Einsam auf den Trümmerstufen,</l>
+                     <l>  Eines <hi rend="italic">Freundes</hi>  Huldgestalt!</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Greif</hi>, der <hi rend="italic">Schreiber</hi>  auf dem Schlosse,</l>
+                     <l>  Waffenlos im Kriegertrosse,</l>
+                     <l>  Und dem <hi rend="italic">Sieger</hi>  unterthan:</l>
+                     <l>  Gründet sich, den Muth zum Schilde,</l>
+                     <l>  Nieder zu dem Schlachtgefilde,</l>
+                     <l>  Mühenvoll die schwere Bahn.</l>
+                  </lg>
+                  <lg>
+                     <l>Labsal für die rechte Stunde,</l>
+                     <l>  Oel und Balsam für die Wunde,</l>
+                     <l>  Und vielleicht das <hi rend="italic">letzte</hi>  Brot:</l>
+                     <l>  Trug er liebend und geschäftig;</l>
+                     <l>  Trug der <hi rend="italic">Edle</hi>, thatenkräftig,</l>
+                     <l>  Für der Nöthen höchste Noth!</l>
+                  </lg>
+                  <lg>
+                     <l>  Spähend nun im Leichenbette,</l>
+                     <l>  Ob die Hand noch Leben rette:</l>
+                     <l>  Warf er seinen Blick umher;</l>
+                     <l>  Doch, bei allem Muth und Streben,</l>
+                     <l>  Fand er keine Spur von Leben,</l>
+                     <l>  Keinen Strahl der Hoffnung mehr.</l>
+                  </lg>
+                  <lg>
+                     <l>Von des Todtenfeldes Mitte,</l>
+                     <l>  Wandt er, klagenvoll, die Schritte,</l>
+                     <l>  Wieder heim, an seine Pflicht;</l>
+                     <l>  Aber <hi rend="italic">sieh</hi>! die Blicke schauen —</l>
+                     <l>  Noch ein <hi rend="italic">Bild</hi>  von <hi rend="italic">Edelfrauen</hi>,</l>
+                     <l>  Weiss, wie Schnee, von Angesicht!</l>
+                  </lg>
+                  <lg>
+                     <l>Liebend folgte sie dem <hi rend="italic">Gatten</hi>,</l>
+                     <l>  Selber in das Reich der <hi rend="italic">Schatten</hi>;</l>
+                     <l>  Sein auf ewig, hier und dort!</l>
+                     <l>  Denn vermählte Seelen tragen,</l>
+                     <l>  Wann die Herzen nicht mehr schlagen,</l>
+                     <l>  Ihre Liebe mit sich fort.</l>
+                  </lg>
+                  <lg>
+                     <l>Und an ihrem starren Busen</l>
+                     <l>  Lag, — zu fernem Lied' der Musen,</l>
+                     <l>  Grosser That noch aufbewahrt, —</l>
+                     <l>  Von dem Schicksal auserlesen:</l>
+                     <l>  Noch ein <hi rend="italic">kleines Engelwesen</hi>,</l>
+                     <l>  Gleich der Perle rein und zart!</l>
+                  </lg>
+                  <lg>
+                     <l>  Halb dem Würger hingegeben,</l>
+                     <l>  Mehr schon Leiche, kaum noch Leben,</l>
+                     <l>  Mit dem Rest von Lebenslust:</l>
+                     <l>  Sog das Kind am Nektarbronnen;</l>
+                     <l>  Doch — er war zu <hi rend="italic">Eis</hi>  geronnen!</l>
+                     <l>  Marmor blieb die kalte Brust!</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Greif</hi>, der Edle, Muthbeseelte,</l>
+                     <l>
+                        <hi rend="italic">Greif</hi>, der von dem Herrn Erwählte:</l>
+                     <l>  Nahm das Kind in Vaterarm;</l>
+                     <l>  Pflegte sein mit Lust und Bangen,</l>
+                     <l>  Küsste Rosen auf die Wangen,</l>
+                     <l>  Und die kalte Lippe warm.</l>
+                  </lg>
+                  <lg>
+                     <l>Wie von Sturmes Macht getrieben,</l>
+                     <l>  Führt ihn <hi rend="italic">Liebe</hi>  dann zur <hi rend="italic">Lieben</hi>,</l>
+                     <l>  Hin, zur <hi rend="italic">Gattin</hi>, ihm vertraut:</l>
+                     <l>
+                        <hi rend="italic">Die</hi>, von hohem Söller droben,</l>
+                     <l>  Herz und Blick zu Gott erhoben,</l>
+                     <l>  Einsam in die Ferne schaut.</l>
+                  </lg>
+                  <lg>
+                     <l>Und er kam mit froher Kunde!</l>
+                     <l>  Und aus seinem Rettermunde</l>
+                     <l>  Klang der Liebe Zauberton:</l>
+                     <l>  »<hi rend="italic">Mutter</hi>, wirf den Kummer nieder!</l>
+                     <l>  Eine <hi rend="italic">Tochter</hi>  bring' ich wieder,</l>
+                     <l>  Nach dem früh verklärten Sohn!« —</l>
+                  </lg>
+                  <lg>
+                     <l>  Sieh! und Thau in holden Augen,</l>
+                     <l>  Liess die Mutter <hi rend="italic">Kindlein</hi>  saugen,</l>
+                     <l>  An der Lebensfülle Born. —</l>
+                     <l>  Beifall winken, aus der Ferne,</l>
+                     <l>  Myriaden gold'ne Sterne;</l>
+                     <l>
+                        <hi rend="italic">Luna</hi>  mit dem Silberhorn!</l>
+                  </lg>
+                  <lg>
+                     <l>»Für den <hi rend="italic">Sohn</hi>, von Gott empfangen,</l>
+                     <l>  Für den <hi rend="italic">Sohn</hi>, zu Gott gegangen:</l>
+                     <l>  Sei nun <hi rend="italic">Tochter</hi>  diesem Haus!« —</l>
+                     <l>
+                        <hi rend="italic">Also</hi>, nach dem Sturm' der Leiden,</l>
+                     <l>
+                        <hi rend="italic">Also</hi>  sprechen — <hi rend="italic">Eins</hi>  die Beiden,</l>
+                     <l>  Dankbar, ihren Segen aus.</l>
+                  </lg>
+                  <lg>
+                     <l>So nun, an des Todes Thoren,</l>
+                     <l>  Kaum dem Leben neu geboren,</l>
+                     <l>  Nicht zum Opferlamme reif:</l>
+                     <l>  Sieht der <hi rend="italic">Säugling</hi>, zart umfangen,</l>
+                     <l>  Mit der Liebe Kussverlangen,</l>
+                     <l>  Auf den lieben Vater <hi rend="italic">Greif</hi>.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Diesen</hi>  führt, am nächsten Tage,</l>
+                     <l>  Ringsumher die Sorgenfrage:</l>
+                     <l>  Nach der Eltern Stammgeschlecht;</l>
+                     <l>  Aber, ach, die Todten schweigen!</l>
+                     <l>  Nimmer will sich Kunde zeigen;</l>
+                     <l>
+                        <hi rend="italic">Sein</hi>  wird also <hi rend="italic">Vaterrecht</hi>.</l>
+                  </lg>
+                  <lg>
+                     <l>  Segen wird der <hi rend="italic">Herr</hi>  verleihen;</l>
+                     <l>
+                        <hi rend="italic">Taufe</hi>  soll die Tochter weihen,</l>
+                     <l>  Durch geweihte Priesterhand:</l>
+                     <l>  Doch, der Tempel, in Ruinen,</l>
+                     <l>  Kann dem Himmel nicht mehr dienen;</l>
+                     <l>  Sein Altar und Diener schwand! —</l>
+                  </lg>
+                  <lg>
+                     <l>»Gottes Vaterblicke wachen!</l>
+                     <l>  Seine Gnade, stark in Schwachen,</l>
+                     <l>  Werde Schild und Wanderstab!</l>
+                     <l>  Seinen <hi rend="italic">Engel</hi>  wird er senden;</l>
+                     <l>  Unheil von dem <hi rend="italic">Kinde</hi>  wenden,</l>
+                     <l>  Dessen <hi rend="italic">Wiege</hi>  war — ein <hi rend="italic">Grab</hi>!« —</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">So</hi>, gestählt von solchem Worte,</l>
+                     <l>  Wandelt <hi rend="italic">Greif</hi>  zur Eisenpforte,</l>
+                     <l>  Mitten durch die Kriegerschaar;</l>
+                     <l>  Eilt dann, muthig, mit der <hi rend="italic">Kleinen</hi>,</l>
+                     <l>  Und im Treugeleit' der Seinen,</l>
+                     <l>  Fernhin, zu des <hi rend="italic">Herrn</hi>  Altar.</l>
+                  </lg>
+                  <lg>
+                     <l>Bei der <hi rend="italic">Taufe</hi>  zu bekunden,</l>
+                     <l>
+                        <hi rend="italic">Wann</hi>  die <hi rend="italic">Tochter</hi>  aufgefunden,</l>
+                     <l>  Und dem Tag' gewonnen sei:</l>
+                     <l>  Nannte <hi rend="italic">Greif</hi>  die Namenlose —</l>
+                     <l>
+                        <hi rend="bold">Rosa Mai</hi>, die Maienrose,</l>
+                     <l>  Nach dem Blüthenmonde <hi rend="italic">Mai</hi>.</l>
+                  </lg>
+                  <lg>
+                     <l>  Dank nach <hi rend="italic">Oben</hi>  wird gesendet;</l>
+                     <l>  Opfergabe dann gespendet,</l>
+                     <l>  Wie sie dem Altar' gebührt;</l>
+                     <l>  Und so kehren heim die Beiden,</l>
+                     <l>  Wieder nach dem Schlosse <hi rend="italic">Treiden</hi>,</l>
+                     <l>  Und — wohin der <hi rend="italic">Himmel</hi>  führt.</l>
+                  </lg>
+                  <lg>
+                     <l>Dann — wie <hi rend="italic">Vatergüte</hi>  schalten,</l>
+                     <l>  Dann — wie <hi rend="italic">Muttertreue</hi>  walten,</l>
+                     <l>  Und die Liebe pflegen kann:</l>
+                     <l>  Soll hinfort das <hi rend="italic">Kind</hi>  erfahren! —</l>
+                     <l>  Monde reifen so zu Jahren,</l>
+                     <l>  Bis der Jugend Lenz begann.</l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>IV.</label>
+               </head>
+               <div type="div3">
+                  <head>Ihre Jugend, Erziehung und Geschäftigkeit.</head>
+                  <lg>
+                     <l>Sieh, und Kriegesdonner schweigen!</l>
+                     <l>Neue Lebensbäume steigen</l>
+                     <l>Aus dem feuchten Modergrab'!</l>
+                     <l>Holde Friedensengel schweben,</l>
+                     <l>Ueber Saat und Flurenleben,</l>
+                     <l>Für gemess'ne Zeit herab.</l>
+                  </lg>
+                  <lg>
+                     <l>Wieder <hi rend="italic">neu</hi>, zu <hi rend="italic">Gottes</hi>  Ehre,</l>
+                     <l>  Prangen Tempel und Altäre;</l>
+                     <l>  Fester stieg der Festen Bau.</l>
+                     <l>  Und von <hi rend="italic">Treidens</hi>  Thurm und Saale,</l>
+                     <l>  Grüsst der Blick im Blumenthale,</l>
+                     <l>  Neu, die alte Bilderschau.</l>
+                  </lg>
+                  <lg>
+                     <l>Glockenton und Liederklänge,</l>
+                     <l>  Orgel und Choral-Gesänge,</l>
+                     <l>  Tönen festlich, nah' und fern;</l>
+                     <l>
+                        <hi rend="italic">Rosa</hi>  kniet im Kirchenstuhle,</l>
+                     <l>  Horcht den Lehren in der Schule,</l>
+                     <l>  Vor dem <hi rend="italic">Prediger</hi>  des <hi rend="italic">Herrn</hi>.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Seiner</hi>  Pflege, <hi rend="italic">seinen</hi>  Sorgen,</l>
+                     <l>  Anvertraut am Jugendmorgen,</l>
+                     <l>  Auch in Liebe zugethan:</l>
+                     <l>
+                        <hi rend="italic">Also</hi>, stets bei regem Fleisse,</l>
+                     <l>  Ringend nach dem Ehrenpreise,</l>
+                     <l>  Blüht das <hi rend="italic">holde Kind</hi>  heran.</l>
+                  </lg>
+                  <lg>
+                     <l>Keinem schnöden Wahn zum Raube,</l>
+                     <l>  Tief gegründet, ruht ihr <hi rend="italic">Glaube</hi>,</l>
+                     <l>  Wie ein Fels im Meer' der Zeit!</l>
+                     <l>  Nur dem Bund der <hi rend="italic">Christus</hi>-Lehre,</l>
+                     <l>  Frommer Sitte, Zucht und Ehre,</l>
+                     <l>  Blieben Geist und Herz geweiht.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">So</hi>  dann führt der <hi rend="italic">Kirche</hi>  Segen</l>
+                     <l>  Sie dem Tagberuf' entgegen,</l>
+                     <l>  Muthreich wider Missgeschick!</l>
+                     <l>  Und so kehrt sie, achtzehnjährig,</l>
+                     <l>  Wohl belehrt, zu Mehr gelehrig,</l>
+                     <l>  In der <hi rend="italic">Lieben Arm</hi>  zurück.</l>
+                  </lg>
+                  <lg>
+                     <l>Kaum begrüsst im <hi rend="italic">Vaterhause</hi>,</l>
+                     <l>  Kennt ihr Walten keine Pause,</l>
+                     <l>  Ihr Bemühen keine Rast;</l>
+                     <l>  Allem Winke zu genügen,</l>
+                     <l>  Schafft die Arbeit nur Vergnügen,</l>
+                     <l>  Und die Sorge keine Last.</l>
+                  </lg>
+                  <lg>
+                     <l>  Immer neuen Reiz entfalten,</l>
+                     <l>  Hass in Liebe umgestalten,</l>
+                     <l>  Gottes-Frieden in der Brust;</l>
+                     <l>  Kummer scheuchen, Groll versöhnen.</l>
+                     <l>  Auferbauen und verschönen:</l>
+                     <l>  Ist ihr Tagwerk, ihre Lust!</l>
+                  </lg>
+                  <lg>
+                     <l>Soll ich nun die <hi rend="italic">Zauber</hi>  malen,</l>
+                     <l>  Die aus ihrem Auge strahlen,</l>
+                     <l>  Aus dem holden Angesicht'? —</l>
+                     <l>  O, der Götterwelt Gebiete,</l>
+                     <l>  Auch <hi rend="italic">Homer</hi>  und seine Mythe,</l>
+                     <l>  Malen ihre Zauber nicht!</l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>V.</label>
+               </head>
+               <div type="div3">
+                  <head>Die Freier.</head>
+                  <lg>
+                     <l>Rein, wie die Rose von <hi rend="italic">Eden</hi>, erblüht</l>
+                     <l>
+                        <hi rend="italic">Rosa</hi>, die herrliche <hi rend="italic">Maid</hi>;</l>
+                     <l>Hauchend den Balsam in wundes Gemüth,</l>
+                     <l>Heilung in Kummer und Leid.</l>
+                  </lg>
+                  <lg>
+                     <l>Nektar, wie <hi rend="italic">Hebe</hi>, zu spenden bereit,</l>
+                     <l>  Kämpfern mit bösem Geschick;</l>
+                     <l>  Und zu verklären die Trübe der Zeit,</l>
+                     <l>  Hell, mit dem sonnigen Blick':</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Also</hi>  nur war sie danieden, der Welt,</l>
+                     <l>
+                        <hi rend="italic">Himmel</hi>  zu gründen bedacht! —</l>
+                     <l>  Tage so wurden zu Tagen gesellt,</l>
+                     <l>  Süss, wie die Träume der Nacht!</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Venus Urania</hi>  — sie nur beseelt,</l>
+                     <l>
+                        <hi rend="italic">Rosa</hi>  dich, ohne Gefahr!</l>
+                     <l>  Aber — auch <hi rend="italic">Venus</hi>  von <hi rend="italic">Knidos</hi>  erwählt</l>
+                     <l>
+                        <hi rend="italic">Treiden</hi>  zu ihrem Altar!</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Amor</hi>  entsandte, mit Zaubergewalt,</l>
+                     <l>  Pfeile von seinem Geschoss;</l>
+                     <l>
+                        <hi rend="italic">Manche</hi>  der <hi rend="italic">Freier</hi>, von Heldengestalt,</l>
+                     <l>  Hält er gefangen im Schloss!</l>
+                  </lg>
+                  <lg>
+                     <l>Lüstlinge reden von Wappen und Stand,</l>
+                     <l>  Preisen im Grabe den <hi rend="italic">Ahn</hi>;</l>
+                     <l>  Zierlinge bieten vermessen die Hand;</l>
+                     <l>  Rühmen, was Jeder gethan.</l>
+                  </lg>
+                  <lg>
+                     <l>Zärtliche Buhlen, von altem Geschlecht',</l>
+                     <l>  Malen die Ferne so klar!</l>
+                     <l>
+                        <hi rend="italic">Redliche</hi>  — lieben nur schlicht und gerecht,</l>
+                     <l>  Doch die Gefühle sind wahr.</l>
+                  </lg>
+                  <lg>
+                     <l>Aber — ob Mancher dem Auge gefiel;</l>
+                     <l>  Ob er auch liebe, so heiss!</l>
+                     <l>
+                        <hi rend="italic">Keiner</hi>  gewann sich das herrliche Ziel:</l>
+                     <l>  Liebe für Liebe den <hi rend="italic">Preis</hi>!</l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>VI.</label>
+               </head>
+               <div type="div3">
+                  <head>Victor Heil, der Fremdling.</head>
+                  <div type="div4">
+                     <head>(Vom Lande Würtemberg.)</head>
+                     <lg>
+                        <l>Ein <hi rend="italic">Jüngling</hi>, wie ein Göttersohn</l>
+                        <l>Aus weiland gold'nen Tagen,</l>
+                        <l>In dessen Auge seinen Thron</l>
+                        <l>Gott <hi rend="italic">Amor</hi> aufgeschlagen;</l>
+                     </lg>
+                     <lg>
+                        <l>Der Kraft und Schönheit Conterfei,</l>
+                        <l>  Geschaffen, um zu siegen;</l>
+                        <l>  Wie Tanne schlank, wie Ceder frei,</l>
+                        <l>  Im Sturme sich zu wiegen:</l>
+                     </lg>
+                     <lg>
+                        <l>Ein <hi rend="italic">solcher Jüngling</hi>, hehr und mild,</l>
+                        <l>  Und frei von allem Fehle:</l>
+                        <l>  War <hi rend="italic">Victor Heil</hi>, das <hi rend="italic">Musterbild</hi>,</l>
+                        <l>  Von dem ich nun erzähle.</l>
+                     </lg>
+                     <lg>
+                        <l>In <hi rend="italic">Würtemberg</hi>, dem <hi rend="italic">Schlosse</hi>  nah',</l>
+                        <l>  Von dessen Blumenhügel</l>
+                        <l>  Der <hi rend="italic">Ruhm</hi>  von <hi rend="italic">Stauffen</hi>  niedersah,</l>
+                        <l>  Und schwang die Weltenflügel:</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <hi rend="italic">Da</hi>  war dem jungen Heil die Zeit</l>
+                        <l>  Der <hi rend="italic">Kindheit</hi>  hingeschwunden;</l>
+                        <l>
+                           <hi rend="italic">Da</hi>  grub in seine Seligkeit</l>
+                        <l>  Sein <hi rend="italic">Loos</hi>  — auch <hi rend="italic">Todes</hi>-Wunden!</l>
+                     </lg>
+                     <lg>
+                        <l>Im <hi rend="italic">Vaterhause</hi>  früh gewöhnt</l>
+                        <l>  Zu Regelmaas und Fleisse;</l>
+                        <l>  Der Schule Vorbild, und gekrönt</l>
+                        <l>  Mit manchem Ehrenpreise:</l>
+                     </lg>
+                     <lg>
+                        <l>Beschloss er, wach für jeden Keim,</l>
+                        <l>  Der Kenntniss zum Gedeihen,</l>
+                        <l>  Die volle Kraft dem <hi rend="italic">Musenheim</hi>
+                        </l>
+                        <l>  Von <hi rend="italic">Tübingen</hi>  zu weihen.</l>
+                     </lg>
+                     <lg>
+                        <l>Da — zehrte <hi rend="italic">Brand</hi>  am <hi rend="italic">Vaterhaus</hi>!</l>
+                        <l>  Und — <hi rend="italic">Staub</hi>  war seine Habe! —</l>
+                        <l>  Dann starben ihm die Freuden aus,</l>
+                        <l>  An seiner <hi rend="italic">Eltern Grabe</hi>!</l>
+                     </lg>
+                     <lg>
+                        <l>Ein <hi rend="italic">Oheim</hi>, der die <hi rend="italic">Gartenkunst</hi>
+                        </l>
+                        <l>  In Meisterschaft betrieben:</l>
+                        <l>  War noch, in langbewährter Gunst,</l>
+                        <l>  Dem Jüngling <hi rend="italic">hold</hi>  geblieben.</l>
+                     </lg>
+                     <lg>
+                        <l>Sein liebes Thal-<hi rend="italic">Asyl</hi>  umwand</l>
+                        <l>  Ein <hi rend="italic">Garten</hi>, sonder Gleichen;</l>
+                        <l>  Denn alle Gärten, weit im Land',</l>
+                        <l>  Sie mussten diesem weichen.</l>
+                     </lg>
+                     <lg>
+                        <l>  Und <hi rend="italic">hier</hi>, in ländlicher Natur,</l>
+                        <l>  Gewiegt auf ihrem Throne;</l>
+                        <l>  Vertraut mit Blumen jeder Flur,</l>
+                        <l>  Mit Blüthen jeder Zone!</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <hi rend="italic">Hier</hi>, in der besten Schule war</l>
+                        <l>  Die <hi rend="italic">Probe</hi>  bald gelungen;</l>
+                        <l>  Der <hi rend="italic">Jüngling</hi>  sah, nach Einem Jahr,</l>
+                        <l>  Den Meistergrad errungen!</l>
+                     </lg>
+                     <lg>
+                        <l>Dann rief es ihn zu Wanderlauf,</l>
+                        <l>  Nach aller Deutschen Weise,</l>
+                        <l>  Gen <hi rend="italic">Westen</hi>  wie gen <hi rend="italic">Süden</hi>  auf,</l>
+                        <l>  Zur langersehnten Reise.</l>
+                     </lg>
+                     <lg>
+                        <l>Gewandert viel, mit Forscherblick,</l>
+                        <l>  Beschloss er, Mehr zu wagen;</l>
+                        <l>  Bis Glückesruf und Missgeschick</l>
+                        <l>  Nach <hi rend="italic">Norden</hi>  ihn getragen.</l>
+                     </lg>
+                     <lg>
+                        <l>Da hielt <hi rend="italic">Livona's</hi>  Blumenkranz</l>
+                        <l>  Den <hi rend="italic">Jüngling</hi>  bald gefangen;</l>
+                        <l>  Es war ein <hi rend="italic">Stern</hi>  von Wunderglanz</l>
+                        <l>  Am Himmel aufgegangen!</l>
+                     </lg>
+                     <lg>
+                        <l>Der holde <hi rend="italic">Stern</hi>  gefiel sich dort,</l>
+                        <l>  Und wollte nimmer scheiden;</l>
+                        <l>  Und Zauber trug den Jüngling fort,</l>
+                        <l>  Es war — der <hi rend="italic">Stern</hi>  von <hi rend="italic">Treiden</hi>!</l>
+                     </lg>
+                     <lg>
+                        <l>  Wie Pilger nach dem <hi rend="italic">Gnadenbild'</hi>,</l>
+                        <l>  Zu flehen dort um Segen:</l>
+                        <l>  So pilgert <hi rend="italic">Heil</hi>, im Thalgefild',</l>
+                        <l>  Dem nahen Schloss entgegen.</l>
+                     </lg>
+                     <lg>
+                        <l>Der <hi rend="italic">Stern</hi>, im <hi rend="italic">Rosa</hi>-Farbenspiel,</l>
+                        <l>  War sein Geleit' geblieben;</l>
+                        <l>  Die <hi rend="italic">Burg</hi>  umfing sein <hi rend="italic">Wonneziel</hi>!</l>
+                        <l>  Er kam — und sah — zu lieben!</l>
+                     </lg>
+                     <lg>
+                        <l>Das Götterbild der Phantasei,</l>
+                        <l>  Es prangt in vollem Leben!</l>
+                        <l>  Der <hi rend="italic">Schatten</hi>  soll, in <hi rend="italic">Rosa Mai</hi>,</l>
+                        <l>  Zu <hi rend="italic">Wahrheit</hi>  sich erheben.</l>
+                     </lg>
+                     <lg>
+                        <l>Er schien mit ihrem Blick vertraut,</l>
+                        <l>  Mit jedem Zug der Mienen;</l>
+                        <l>  Es war ihm ja die Todesbraut</l>
+                        <l>  In Träumen oft erschienen.</l>
+                     </lg>
+                     <lg>
+                        <l>Der <hi rend="italic">Holden</hi>  klang sein Abendgruss,</l>
+                        <l>  Wie Lied von gold'nen Zeiten;</l>
+                        <l>  Und <hi rend="italic">Beiden</hi>  kam ihr <hi rend="italic">Genius</hi>,</l>
+                        <l>  Mit allen Seligkeiten.</l>
+                     </lg>
+                     <lg>
+                        <l>Dem <hi rend="italic">Alten</hi>  war, gesehen kaum,</l>
+                        <l>  Der Jüngling <hi rend="italic">werth</hi>  erfunden;</l>
+                        <l>  Und <hi rend="italic">diesem</hi>  schwand, wie Engeltraum,</l>
+                        <l>  Die seligste der Stunden.</l>
+                     </lg>
+                     <lg>
+                        <l>  Der <hi rend="italic">Mutter</hi>  kam ihr <hi rend="italic">Sohn</hi>  zurück;</l>
+                        <l>  Und lautlos horchten Alle:</l>
+                        <l>  Da <hi rend="italic">Victor</hi>  sprach von Jugendglück',</l>
+                        <l>  Und von des Glückes Falle.</l>
+                     </lg>
+                     <lg>
+                        <l>Darauf im Dichterfluge mass</l>
+                        <l>  Der Jüngling noch die <hi rend="italic">Reise</hi>;</l>
+                        <l>  Und bei dem Abendbrot' vergass</l>
+                        <l>  Der Frohe Trank und Speise.</l>
+                     </lg>
+                     <lg>
+                        <l>Denn ihm zur Seite strahlte <hi rend="italic">Sie</hi>,</l>
+                        <l>  Gleich einem Prachtjuwele:</l>
+                        <l>  Das Kleinod seiner Phantasie!</l>
+                        <l>  Das Leben seiner Seele!</l>
+                     </lg>
+                     <lg>
+                        <l>Und zögernd schloss der <hi rend="italic">Sehnsucht Wort</hi>
+                        </l>
+                        <l>  Den Sabbath stiller Pause:</l>
+                        <l>  »Mir ist so wöhlig hier am Ort',</l>
+                        <l>  Wie fern im Vaterhause!</l>
+                     </lg>
+                     <lg>
+                        <l>O, lasset mich ein ödes Land</l>
+                        <l>  Auf Eurem Grunde finden!</l>
+                        <l>  Dann soll Euch meine <hi rend="italic">Gärtnerhand</hi>
+                        </l>
+                        <l>  Ein <hi rend="italic">Paradies</hi>  begründen.«</l>
+                     </lg>
+                     <lg>
+                        <l>Und <hi rend="italic">Greif</hi>, dem jungen Eifer hold,</l>
+                        <l>  Entgegnet, ohne Säumen:</l>
+                        <l>  »Es fehlt, im nahen <hi rend="italic">Segewold</hi>,</l>
+                        <l>  Dir nicht an öden Räumen.</l>
+                     </lg>
+                     <lg>
+                        <l>  Da führen an das off'ne Thor</l>
+                        <l>  Noch Reste von Alleen;</l>
+                        <l>  Auch war ein reicher Blumenflor,</l>
+                        <l>  Dem Schlosse nah', zu sehen.</l>
+                     </lg>
+                     <lg>
+                        <l>Doch seit ihr <hi rend="italic">Pfleger</hi>  sank dahin,</l>
+                        <l>  Zu frühen Grabes Frieden:</l>
+                        <l>  War auch die Blumenkönigin</l>
+                        <l>  Von Segewold geschieden.</l>
+                     </lg>
+                     <lg>
+                        <l>Der <hi rend="italic">Schlossherr</hi>, dessen hoher Gunst</l>
+                        <l>  Die Meinen sich erfreuen:</l>
+                        <l>  Will durch Genossen Deiner Kunst</l>
+                        <l>  Die alte Pracht erneuen.</l>
+                     </lg>
+                     <lg>
+                        <l>Er hält den Mann aus <hi rend="italic">Deinem</hi>  Land',</l>
+                        <l>  Vor Allen, hoch in Ehren;</l>
+                        <l>  Und wer die Probe treu bestand,</l>
+                        <l>  Kann reichen Lohn begehren.</l>
+                     </lg>
+                     <lg>
+                        <l>So pflege denn für diese Nacht</l>
+                        <l>  Der Ruhe noch in Treiden!</l>
+                        <l>  Der nächste Tag, der uns erwacht,</l>
+                        <l>  Soll über Dich entscheiden.«</l>
+                     </lg>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>VII.</label>
+               </head>
+               <div type="div3">
+                  <head>Victor's kurze Nacht in Treiden.</head>
+                  <lg>
+                     <l>Die Schlossuhr kündet Mitternacht,</l>
+                     <l>  Und Schlaf regiert im Hause;</l>
+                     <l>  Nur <hi rend="italic">Heil</hi>  und seine <hi rend="italic">Liebe</hi>  wacht</l>
+                     <l>  Noch einsam in der Klause.</l>
+                  </lg>
+                  <lg>
+                     <l>Die Geisterstunde ging und schwand,</l>
+                     <l>  Wie Augenblicke schwinden;</l>
+                     <l>  Doch — was die volle Brust empfand,</l>
+                     <l>  Liess keine Ruhe finden!</l>
+                  </lg>
+                  <lg>
+                     <l>Die Schatten der Vergangenheit,</l>
+                     <l>  Bald heller und bald trüber:</l>
+                     <l>  Sie zogen aus dem Grab' der Zeit,</l>
+                     <l>  An seinem Blick vorüber.</l>
+                  </lg>
+                  <lg>
+                     <l>Dann voll der <hi rend="italic">Zukunft</hi>-Sorge, schlug</l>
+                     <l>  Der Geist an ihre Pforte;</l>
+                     <l>  Und sandte dem Gedankenflug',</l>
+                     <l>  Geflügelt nach, die <hi rend="italic">Worte</hi>:</l>
+                  </lg>
+                  <lg>
+                     <l>  »Hinweg denn mit dem Wanderstab!</l>
+                     <l>  Mein Schicksal ist entschieden!</l>
+                     <l>  Du Wiegenland und Vätergrab',</l>
+                     <l>  O, grünet fort, im Frieden!</l>
+                  </lg>
+                  <lg>
+                     <l>Du Paradies der Heimathflur!</l>
+                     <l>  Des Neckar-Landes Auen!</l>
+                     <l>  Der Jüngling wird im <hi rend="italic">Traume</hi>  nur</l>
+                     <l>  Hinfort euch wieder schauen.</l>
+                  </lg>
+                  <lg>
+                     <l>Der <hi rend="italic">Gärtner</hi>  zog durch Länder hin,</l>
+                     <l>  Um fern, im Rosengarten,</l>
+                     <l>  Der zarten Blumenkönigin</l>
+                     <l>  Zu pflegen und zu warten.</l>
+                  </lg>
+                  <lg>
+                     <l>Und leb' ich nur vereint mit <hi rend="italic">Ihr</hi>,</l>
+                     <l>  Der <hi rend="italic">Einzigen</hi>  auf Erden:</l>
+                     <l>  Soll auch die starre <hi rend="italic">Wüste</hi>  mir</l>
+                     <l>  Ein Garten <hi rend="italic">Gottes</hi>  werden!« —</l>
+                  </lg>
+                  <lg>
+                     <l>Mit <hi rend="italic">solcher Tröstung</hi>  schien dem Gast'</l>
+                     <l>  Der Wünsche Ziel gefunden;</l>
+                     <l>  Und einer Zukunft Weltenlast</l>
+                     <l>  War seinem Traum geschwunden.</l>
+                  </lg>
+                  <lg>
+                     <l>Doch <hi rend="italic">draussen</hi>  ging sein <hi rend="italic">Wunderstern</hi>,</l>
+                     <l>  Von Trauerflor umhangen!</l>
+                     <l>  Und dräuend war, im Osten fern,</l>
+                     <l>  Sein <hi rend="italic">Schicksal</hi>  aufgegangen.</l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>VIII.</label>
+               </head>
+               <div type="div3">
+                  <head>Die Felsengrotte des Victor Heil.</head>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Dort</hi>, im Schattenkühl der <hi rend="italic">Guttmann'shöhle</hi>,</l>
+                     <l>Deren Felsendach die Eiche <hi rend="italic">ziert</hi>;</l>
+                     <l>
+                        <hi rend="italic">Wo</hi>, seit <hi rend="italic">Rosen's</hi> Heimgang, <hi rend="italic">Philomele</hi>
+                     </l>
+                     <l>Tief, wie Schwermuth, Dir die Seele rührt;</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Wo</hi>  der <hi rend="italic">Live</hi>  seinem <hi rend="italic">Freudengotte</hi>,</l>
+                     <l>  Gern und einsam in der Sommernacht,</l>
+                     <l>  Gaben senkend in den Quell der Grotte,</l>
+                     <l>  Seine Dankesopfer dargebracht:</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Dort</hi>  auch fanden, nach der Tage Sorgen,</l>
+                     <l>  Unter Blüthenduft im Abendschein,</l>
+                     <l>
+                        <hi rend="italic">Sich</hi>  vertrauend und der Welt verborgen,</l>
+                     <l>
+                        <hi rend="italic">Victor Heil</hi>  und <hi rend="italic">Rosa Mai</hi>  sich ein.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Amor</hi>  lieh sein Flügelpaar den <hi rend="italic">Beiden</hi>,</l>
+                     <l>  Wann der Sonnengott zu Bette ging;</l>
+                     <l>
+                        <hi rend="italic">Ihm</hi>  von Segewold und <hi rend="italic">Ihr</hi>  von Treiden,</l>
+                     <l>  Bis die Grotte dann ihr Glück umfing.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Greifen's Tochter</hi>  war der Braut Geleite;</l>
+                     <l>  Kind, das kaum den neunten Frühling sah:</l>
+                     <l>  Blieb sie gern den <hi rend="italic">Lieben</hi>  an der Seite;</l>
+                     <l>  Winkes harrend, ihrem Wunsche nah',</l>
+                  </lg>
+                  <lg>
+                     <l>Aus der <hi rend="italic">Ferne</hi>  schon die <hi rend="italic">Maid</hi>  zu schauen,</l>
+                     <l>  War der <hi rend="italic">Jüngling</hi>  bald bei Nacht bemüht:</l>
+                     <l>  Noch ein <hi rend="italic">zweites</hi>  Höhlenwerk zu bauen,</l>
+                     <l>  Das der Fremdling noch zur Stunde sieht.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Droben</hi>, dem <hi rend="italic">Naturgebäu</hi>  zur Linken,</l>
+                     <l>  Das sich <hi rend="italic">unten</hi>  wölbt, in Thalesgrund:</l>
+                     <l>  Seh'n wir heute <hi rend="italic">Victors Höhle</hi>  winken,</l>
+                     <l>  Denn <hi rend="italic">sein Name</hi>  schmückt ihr Felsenrund.</l>
+                  </lg>
+                  <lg>
+                     <l>Fleiss der Liebe, Fleiss der Hände schufen:</l>
+                     <l>  Was gen <hi rend="italic">Segewold</hi>  den Blick gewährt;</l>
+                     <l>  Doch so manche, sonst bequeme Stufen</l>
+                     <l>  Haben Zeiten und ihr Sohn zerstört!</l>
+                  </lg>
+                  <lg>
+                     <l>Welche Freude kam auf ihre Seele:</l>
+                     <l>  Da die <hi rend="italic">Holde</hi>  nun dem Ziele nah',</l>
+                     <l>  Droben aus dem Bauwerk seiner Höhle,</l>
+                     <l>  Den <hi rend="italic">Geliebten</hi>  in der Ferne sah!</l>
+                  </lg>
+                  <lg>
+                     <l>Und so weilte sie, bei Tagesneige,</l>
+                     <l>  Mit der <hi rend="italic">Schwester</hi>, an der <hi rend="italic">Grotte</hi>  Rand':</l>
+                     <l>  Bis sie, schauend durch das Grün der Zweige,</l>
+                     <l>  Ihren <hi rend="italic">Freund</hi>  auf seinem Wege fand.</l>
+                  </lg>
+                  <lg>
+                     <l>  Wie das ew'ge Licht der Kathedrale,</l>
+                     <l>  Hing der Abendstern am Himmelsdom;</l>
+                     <l>  Widerstrahlend, längs dem Zauberthale,</l>
+                     <l>  Sah der Vollmond aus dem Silberstrom.</l>
+                  </lg>
+                  <lg>
+                     <l>Unten sang ihr Lied die Grottenquelle;</l>
+                     <l>  Ferne sprach der Mühle Wasserfall;</l>
+                     <l>  Und im Laubdach auf der Felsenzelle</l>
+                     <l>  Schlug die Flötenuhr der Nachtigall.</l>
+                  </lg>
+                  <lg>
+                     <l>Und die <hi rend="italic">Lieben</hi>  sassen, wonnetrunken,</l>
+                     <l>  Hand in Hand, auf moosig weichem Pfühl,</l>
+                     <l>  In der <hi rend="italic">Liebe</hi>  Seligkeit versunken,</l>
+                     <l>  Voll der Andacht, voll von Dankgefühl!</l>
+                  </lg>
+                  <lg>
+                     <l>Gleich dem Blüthenthal vor ihrem Blicke,</l>
+                     <l>  Gleich des Stromes ungetrübtem Lauf':</l>
+                     <l>  Fern dem Unheil, fern dem Missgeschicke,</l>
+                     <l>  Ging die Zukunft ihren Träumen auf.</l>
+                  </lg>
+                  <lg>
+                     <l>Keine Ahnung jener Schicksalmächte,</l>
+                     <l>  Die dem Glücke liefern blut'ge Schlacht:</l>
+                     <l>  Weckte noch den süssen Schlaf der Nächte;</l>
+                     <l>  Trübte noch der Tage Rosenpracht!</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Ach</hi>, — und <hi rend="italic">morgen</hi>, eh' dem Sonnenwagen</l>
+                     <l>  Folgt der Abendröthe letzte Gluht:</l>
+                     <l>  Hat Dich, <hi rend="italic">Rosa</hi>, schon der <hi rend="italic">Mord</hi>  erschlagen!</l>
+                     <l>  Trank die Erde schon Dein Heldenblut!</l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>IX.</label>
+               </head>
+               <div type="div3">
+                  <head>Der 6. August.</head>
+                  <lg>
+                     <l>»Junker <hi rend="italic">Victor</hi> lässt Euch grüssen,</l>
+                     <l>Mit dem <hi rend="italic">Wunsch'</hi> an Euer Herz:</l>
+                     <l>Ihm noch, tröstlich, zu versüssen</l>
+                     <l>Bald'ger <hi rend="italic">Trennung</hi>-Stunde Schmerz!</l>
+                  </lg>
+                  <lg>
+                     <l>Hat am Abend noch zu sorgen,</l>
+                     <l>  Im Geschäfte für den <hi rend="italic">Herrn</hi>:</l>
+                     <l>  Aber schon der nächste Morgen</l>
+                     <l>  Findet ihn — dem Hause <hi rend="italic">fern</hi>.</l>
+                  </lg>
+                  <lg>
+                     <l>Fräulein möge sich bequemen:</l>
+                     <l>  Von dem <hi rend="italic">Treuen</hi>  noch ein Wort,</l>
+                     <l>  Vor der Reise zu vernehmen,</l>
+                     <l>  Dort, am ihr bewussten Ort'!</l>
+                  </lg>
+                  <lg>
+                     <l>Heute, nach vollbrachtem Mahle,</l>
+                     <l>  Bei der <hi rend="italic">Mittagsonne</hi>  Strahl',</l>
+                     <l>  Harret <hi rend="italic">Victor Heil</hi>  im Thale;</l>
+                     <l>  Und — vielleicht — zum <hi rend="italic">letzten</hi>  Mal!«</l>
+                  </lg>
+                  <lg>
+                     <l>  Diese trauervolle Kunde,</l>
+                     <l>  Nicht der Liebe Träumen hold:</l>
+                     <l>  Kam der <hi rend="italic">Braut</hi>  aus <hi rend="italic">Boten-Munde</hi>,</l>
+                     <l>  Nach dem <hi rend="italic">Schein</hi>, von <hi rend="italic">Segewold</hi>.</l>
+                  </lg>
+                  <lg>
+                     <l>Sinnend ob des Wort's Bedeuten,</l>
+                     <l>  Sprach sie dennoch schnell gefasst:</l>
+                     <l>  »Wenn sie heut' zu <hi rend="italic">Mittag</hi>  läuten,</l>
+                     <l>  Bin ich meines Trauten Gast.« —</l>
+                  </lg>
+                  <lg>
+                     <l>Und der Bote zieht von dannen,</l>
+                     <l>  Eilig wie Verhängnissflug:</l>
+                     <l>  Seinem Orte zu, von wannen</l>
+                     <l>  Ihn der Hölle Dämon trug.</l>
+                  </lg>
+                  <lg>
+                     <l>Todeskälte, Fieberbeben,</l>
+                     <l>  Namenloses Weh' und Leid:</l>
+                     <l>  Ueberzog Dein Rosenleben,</l>
+                     <l>
+                        <hi rend="italic">Rosa</hi>, wundersüsse Maid!</l>
+                  </lg>
+                  <lg>
+                     <l>»Heute, nach vollbrachtem Mahle.</l>
+                     <l>  Bei der <hi rend="italic">Mittagsonne</hi>  Strahl,</l>
+                     <l>  Harret <hi rend="italic">Victor Heil</hi>  im Thale;</l>
+                     <l>  Und — vielleicht — zum <hi rend="italic">letzten</hi>  Mal?«</l>
+                  </lg>
+                  <lg>
+                     <l>  »Welch Gebot ist dir geworden?</l>
+                     <l>  Welche Sendung trägt dich fort? —</l>
+                     <l>  Wer, um unser Glück zu morden,</l>
+                     <l>  Sprach dir solches Unheilwort? —</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Dich</hi>, mein <hi rend="italic">Leben</hi>, soll ich meiden,</l>
+                     <l>  Noch im <hi rend="italic">Frühling</hi>  deiner Bahn?</l>
+                     <l>  Von dem <hi rend="italic">Himmel</hi>  soll ich scheiden,</l>
+                     <l>  Der sich kaum mir aufgethan? —</l>
+                  </lg>
+                  <lg>
+                     <l>Träger Morgen, nimm dir Schwingen!</l>
+                     <l>  Mittagstunde, komm herbei!</l>
+                     <l>  Sich're Kunde mir zu bringen,</l>
+                     <l>  Ob mein Traum zu Ende sei. —</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Kommen will</hi>  ich, zu dir eilen:</l>
+                     <l>  Einer flücht'gen Stunde Frist,</l>
+                     <l>  Glücklich noch, bei <hi rend="italic">Dem</hi>  zu weilen,</l>
+                     <l>  Dessen Glück mein Himmel ist.« —</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Also</hi>  tönt der Jungfrau Klage;</l>
+                     <l>  Und sie eilt im Flügelschritt';</l>
+                     <l>  Und den Pflegern ihrer Tage</l>
+                     <l>  Theilt sie schnell die <hi rend="italic">Kunde</hi>  mit.</l>
+                  </lg>
+                  <lg>
+                     <l>Bergend in der Brust die Wunde,</l>
+                     <l>  Ruhig scheinend, ohne Ruh',</l>
+                     <l>  Sprach sie; — und der bösen Kunde</l>
+                     <l>  Hören <hi rend="italic">bang</hi>  die <hi rend="italic">Lieben</hi>  zu.</l>
+                  </lg>
+                  <lg>
+                     <l>  Inn're <hi rend="italic">Warnerstimmen</hi>  sprechen,</l>
+                     <l>
+                        <hi rend="italic">Zweifel</hi>  stürmt die alte Brust:</l>
+                     <l>
+                        <hi rend="italic">Rosa</hi>  weiss den Sturm zu brechen,</l>
+                     <l>  Sich nur <hi rend="italic">frommer</hi>  That bewusst.</l>
+                  </lg>
+                  <lg>
+                     <l>Weich, wie Flötenklänge wehen,</l>
+                     <l>  Zärtlich, wie das Auge sprach,</l>
+                     <l>  Sendet sie der Blicke Flehen</l>
+                     <l>  Noch einmal die <hi rend="italic">Worte</hi>  nach:</l>
+                  </lg>
+                  <lg>
+                     <l>»Möge Vaterhuld gestatten,</l>
+                     <l>  Was die Mutter nie versagt!</l>
+                     <l>  Jener Gang im Abendschatten,</l>
+                     <l>  Sei zu <hi rend="italic">Mittag</hi>  heut' gewagt!« —</l>
+                  </lg>
+                  <lg>
+                     <l>Und die <hi rend="italic">Lieben</hi>? — Sie gewähren</l>
+                     <l>  Ihr, zu Tages heller Zeit,</l>
+                     <l>  Neu, den alten Gang in Ehren,</l>
+                     <l>  Und die <hi rend="italic">Schwester</hi>  zum Geleit'.</l>
+                  </lg>
+                  <lg>
+                     <l>Dann enteilt sie; wählt zum Kleide,</l>
+                     <l>  Aus dem hellgebohnten Schrein,</l>
+                     <l>  Ihren Festtagschmuck von Seide,</l>
+                     <l>  Perlen auch und Edelstein.</l>
+                  </lg>
+                  <lg>
+                     <l>Alles muss den Reiz erheben,</l>
+                     <l>  Was die schöne Welt entzückt;</l>
+                     <l>  Was da ziert der <hi rend="italic">Liebe</hi>  Leben,</l>
+                     <l>  Und — die <hi rend="italic">Braut</hi>  im <hi rend="italic">Sarge</hi>  schmückt.</l>
+                  </lg>
+                  <lg>
+                     <l>  Dann der <hi rend="italic">Liebe</hi>  zu genügen,</l>
+                     <l>  Wählt sie noch ein <hi rend="italic">Busentuch</hi>,</l>
+                     <l>  Dessen <hi rend="italic">Rand</hi>, in gold'nen Zügen,</l>
+                     <l>  Darbot diesen <hi rend="italic">Römerspruch</hi>:</l>
+                  </lg>
+                  <lg>
+                     <l>»Lass' des <hi rend="italic">Muthes</hi>  Fahne wehen.</l>
+                     <l>  Wenn den Stab dein Schicksal bricht!</l>
+                     <l>  Lass' dein <hi rend="italic">Leben</hi>  untergehen,</l>
+                     <l>  Aber deine <hi rend="italic">Ehre</hi>  nicht!«</l>
+                  </lg>
+                  <lg>
+                     <l>»Ja,« so sprach sie, »diese Gabe,</l>
+                     <l>  Seiner Liebe Brautgeschenk:</l>
+                     <l>  Soll mich finden bis zum Grabe,</l>
+                     <l>  Treu, des Treuen eingedenk!« —</l>
+                  </lg>
+                  <lg>
+                     <l>Rosenroth, wie <hi rend="italic">Rosen's</hi>  Wangen,</l>
+                     <l>  Malet sich des Tuches Grund;</l>
+                     <l>  Zarte, gold'ne Sterne prangen,</l>
+                     <l>  Mitten d'rauf, im Zirkelrund.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Also</hi>, wie zum Hochzeittage,</l>
+                     <l>  Schmuckreich, glänzend angethan:</l>
+                     <l>  Eilt sie, mit dem Glockenschlage;</l>
+                     <l>  Und die Schwester geht voran.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Leutha</hi>  hüpft im Jubelreigen,</l>
+                     <l>  Durch den Hain, ihr Königreich;</l>
+                     <l>
+                        <hi rend="italic">Rosa</hi>  folgt, in düst'rem Schweigen,</l>
+                     <l>  Ihrem Todesengel gleich!</l>
+                  </lg>
+                  <lg>
+                     <l>  Oft noch, wie von <hi rend="italic">Ahnung</hi>  bange,</l>
+                     <l>  Wendet sie den feuchten Blick,</l>
+                     <l>  Auf des Lebens letztem Gange,</l>
+                     <l>  Nach dem <hi rend="italic">Vaterhaus</hi>  zurück!</l>
+                  </lg>
+                  <lg>
+                     <l>Und mit Augen, deren Milde</l>
+                     <l>  Nur von Glück und Segen sprach:</l>
+                     <l>  Schauen ihrem Engelbilde,</l>
+                     <l>  Lange noch, die <hi rend="italic">Lieben</hi>  nach.</l>
+                  </lg>
+                  <lg>
+                     <l>Sinnend geht sie weit und weiter,</l>
+                     <l>  Näher doch dem frühen Grab'!</l>
+                     <l>
+                        <hi rend="italic">Engel</hi>, auf der Himmelsleiter,</l>
+                     <l>  Steigen ihrem Traum' herab.</l>
+                  </lg>
+                  <lg>
+                     <l>Doch, die guten Engel <hi rend="italic">weinen</hi>!</l>
+                     <l>  Schmerz umflort ihr Angesicht!</l>
+                     <l>  Und — die <hi rend="italic">Zeichen</hi>, die erscheinen,</l>
+                     <l>  Melden Glück der Liebe nicht.</l>
+                  </lg>
+                  <lg>
+                     <l>Raben, Krähen, Dohlen kreisen,</l>
+                     <l>  Wie zu wehren diesem Gang';</l>
+                     <l>  Und es tönt, in Schauerweisen,</l>
+                     <l>  Um sie her wie Grabgesang!</l>
+                  </lg>
+                  <lg>
+                     <l>Durch des Thales grüne Matten,</l>
+                     <l>  Sucht und wählt sie neue Bahn;</l>
+                     <l>  Sieh, da starrt ein bleicher <hi rend="italic">Schatten</hi>
+                     </l>
+                     <l>  Sie mit Todes-Augen an!</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Horch</hi>! und <hi rend="italic">Geisterworte</hi>  schallen,</l>
+                     <l>  Wie aus Gräbern, hohl und tief:</l>
+                     <l>  »<hi rend="italic">Weh'</hi>, der Würfel ist gefallen!</l>
+                     <l>
+                        <hi rend="italic">Todesbraut</hi>  — dein Schicksal rief!«</l>
+                  </lg>
+                  <lg>
+                     <l>Doch, von Schrecken ungeblendet,</l>
+                     <l>  Muthbewehrt am Schauerort,</l>
+                     <l>  Ruft, dem <hi rend="italic">Schatten</hi>  zugewendet,</l>
+                     <l>
+                        <hi rend="italic">Rosa Mai</hi>  — des <hi rend="italic">Bannes</hi>  Wort:</l>
+                  </lg>
+                  <lg>
+                     <l>»Bist du <hi rend="italic">Gottes</hi>: lass' mich wandern!</l>
+                     <l>  Hab' in deinem Grabe <hi rend="italic">Ruh'</hi>!</l>
+                     <l>  Aber dienest du dem <hi rend="italic">Andern</hi>,</l>
+                     <l>  Weiche — deiner Hölle zu!«</l>
+                  </lg>
+                  <lg>
+                     <l>Und sie sah das Bild entschwinden,</l>
+                     <l>  Wesenlos, in blauer Luft;</l>
+                     <l>  Doch, von seiner <hi rend="italic">Heimath</hi>  künden</l>
+                     <l>  Schwefeldampf und Moderduft.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Rosa</hi>  weilt nun, an den Stufen,</l>
+                     <l>  Deren Weg zur <hi rend="italic">Grotte</hi>  führt;</l>
+                     <l>  Aber — <hi rend="italic">and're</hi>  Stimmen rufen,</l>
+                     <l>  Deren »<hi rend="italic">Ach</hi>« die <hi rend="italic">Felsen</hi>  rührt:</l>
+                  </lg>
+                  <lg>
+                     <l>»Nah' ist, <hi rend="italic">Jungfrau</hi>, dein Verderben!</l>
+                     <l>  Nah' der Rose Blüthenfall!« —</l>
+                     <l>  Doch die Geistertöne sterben,</l>
+                     <l>  Ohne Frucht, im Widerhall.</l>
+                  </lg>
+                  <lg>
+                     <l>  Muth und Kraft der Liebe <hi rend="italic">siegen</hi>;</l>
+                     <l>  Das Phantom der Schrecken weicht;</l>
+                     <l>  Und sie hat den Fels erstiegen,</l>
+                     <l>  Und der Grotte Ziel erreicht.</l>
+                  </lg>
+                  <lg>
+                     <l>Ringsum, nach dem Stern des Lebens,</l>
+                     <l>  Wendet sie den Blick umher:</l>
+                     <l>  Doch ihr Auge sucht vergebens!</l>
+                     <l>
+                        <hi rend="italic">Rosa</hi>  fand — die Grotte <hi rend="italic">leer</hi>.</l>
+                  </lg>
+                  <lg>
+                     <l>Bleich und kalt, in <hi rend="italic">Weh'</hi>  begraben.</l>
+                     <l>  Schaut sie nach dem Thalgefild;</l>
+                     <l>  Einsam, schweigend und erhaben,</l>
+                     <l>  Wie am Grab' ein Marmorbild!</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">So</hi>  ermass, am Felsenhügel,</l>
+                     <l>
+                        <hi rend="italic">Ariadne</hi>  den Betrug:</l>
+                     <l>  Der ihr Glück, mit Windesflügel,</l>
+                     <l>  Flüchtig, in die <hi rend="italic">Ferne</hi>  trug. —</l>
+                  </lg>
+                  <lg>
+                     <l>Endlich naht es, — auf den Zehen!</l>
+                     <l>  Doch der Ton der Tritte gleicht —</l>
+                     <l>
+                        <hi rend="italic">Wolfesgang'</hi>, der ungesehen,</l>
+                     <l>  Leise nach dem <hi rend="italic">Raube</hi>  schleicht.</l>
+                  </lg>
+                  <lg>
+                     <l>Wie ein Tiger gräbt die Zähne</l>
+                     <l>  Tief dem Opfer in die Brust;</l>
+                     <l>  Wie bei Nacht die Grabhyäne</l>
+                     <l>  Nährt an Leichen Würgerlust:</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Also</hi>  naht in Gluht und Feuer,</l>
+                     <l>  Ungezähmter <hi rend="italic">Gierde</hi>  Raub,</l>
+                     <l>
+                        <hi rend="italic">Rosa</hi>, Dir, das <hi rend="italic">Ungeheuer</hi>!</l>
+                     <l>  Tränkt mit Blut der Höhle Staub!</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Fremdling</hi>! soll ich <hi rend="italic">Mehr</hi>  Dir sagen?</l>
+                     <l>  Heute, <hi rend="italic">Fremdling</hi>, frage nicht!</l>
+                     <l>  Aber, wird ein <hi rend="italic">Morgen</hi>  tagen:</l>
+                     <l>  Folge mir — zum <hi rend="italic">Weltgericht</hi>!</l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>X.</label>
+               </head>
+               <div type="div3">
+                  <head>Desselben Tages, noch spät am Abend.</head>
+               </div>
+               <div type="div3">
+                  <head>Bericht und Klage, aus der Burg von Treiden: an den Landrichter, zu Neuhof.</head>
+                  <lg>
+                     <l>Versammelt war das <hi rend="italic">Landgericht</hi>,</l>
+                     <l>Zu <hi rend="italic">Neuenhof</hi>, bei <hi rend="italic">Treiden</hi>:</l>
+                     <l>Um über Klage von Gewicht</l>
+                     <l>So eben zu entscheiden.</l>
+                     <l>Da kam, entsandt von diesem Schloss,</l>
+                     <l>Wie Sturm, ein Reiter, hoch zu Ross;</l>
+                     <l>Und brachte, spät am Tage,</l>
+                     <l>Noch diese Schauerklage:</l>
+                  </lg>
+                  <lg>
+                     <l>»Erschlagen hat, in blinder Wuth,</l>
+                     <l>  Ein wildes <hi rend="italic">Ungeheuer</hi>:</l>
+                     <l>  Ein <hi rend="italic">Mägdlein</hi>, fromm und engelgut,</l>
+                     <l>  Uns Allen werth und theuer!</l>
+                     <l>  Sie war die <hi rend="italic">Braut</hi>  vom Gärtner <hi rend="italic">Heil</hi>;</l>
+                     <l>  Im Blute lag das kurze <hi rend="italic">Beil</hi>,</l>
+                     <l>  Das <hi rend="italic">er</hi>, in diesen Tagen,</l>
+                     <l>  Im Gürtel stets getragen.</l>
+                  </lg>
+                  <lg>
+                     <l>  Ihr Blut bedeckt den Bodenstaub</l>
+                     <l>  Der <hi rend="italic">ihr</hi>  geweihten <hi rend="italic">Höhle</hi>;</l>
+                     <l>  Nicht aber sann auf schnöden Raub</l>
+                     <l>  Die freche Mörderseele.</l>
+                     <l>  Der Mörder will nicht Räuber sein;</l>
+                     <l>  Nicht Perle fehlt, noch Edelstein;</l>
+                     <l>  Wir fanden ihr Geschmeide,</l>
+                     <l>  Und ihr Gewand von Seide.</l>
+                  </lg>
+                  <lg>
+                     <l>Doch zeugen Spuren, am Gewand',</l>
+                     <l>  Von Kämpfen um ihr Leben;</l>
+                     <l>  Und Beilschlag, von verruchter Hand,</l>
+                     <l>  Hat ihr den Tod gegeben.</l>
+                     <l>  Ein <hi rend="italic">Rosatuch</hi>, von Blut befleckt,</l>
+                     <l>  Das, faltenreich, den <hi rend="italic">Hals</hi>  bedeckt:</l>
+                     <l>  Kann, von <hi rend="italic">demselben</hi>  Eisen,</l>
+                     <l>  Des Schlages Kraft beweisen.</l>
+                  </lg>
+                  <lg>
+                     <l>Will aber diese Waffe zwar</l>
+                     <l>  Den jungen <hi rend="italic">Heil</hi>  verrathen:</l>
+                     <l>  So zeugt dagegen, offenbar,</l>
+                     <l>  Ein Heer von Edelthaten.</l>
+                     <l>  Sein Leben leuchtet makelrein!</l>
+                     <l>  Und reiner mag kein Engel sein:</l>
+                     <l>  Wie <hi rend="italic">er</hi>, von uns gepriesen,</l>
+                     <l>  In Wort und That bewiesen.</l>
+                  </lg>
+                  <lg>
+                     <l>  Er übte magische Gewalt,</l>
+                     <l>  Und flocht nur <hi rend="italic">Liebes</hi>bande;</l>
+                     <l>  Den <hi rend="italic">Edlen</hi>  ehrte Jung und Alt,</l>
+                     <l>  Und Herr und Knecht im Lande.</l>
+                     <l>  Die Töchter blickten, nah' und fern,</l>
+                     <l>  Nach ihm, wie nach dem Morgenstern;</l>
+                     <l>  Und er gewann Vertrauen,</l>
+                     <l>  Bei Männervolk und Frauen.</l>
+                  </lg>
+                  <lg>
+                     <l>Er eilte, wie sein <hi rend="italic">Herz</hi>  gebot:</l>
+                     <l>  Dem Armen, wie dem Reichen,</l>
+                     <l>  Bei Sturmesnacht, bei Todesnoth,</l>
+                     <l>  Die Bruderhand zu reichen.</l>
+                     <l>  Er half, mit jedem Tage neu,</l>
+                     <l>  Geschäftig, ohne Mühenscheu;</l>
+                     <l>  Und ohne <hi rend="italic">Dankes</hi>-Ehren,</l>
+                     <l>  Noch <hi rend="italic">Lohnes</hi>  zu begehren.</l>
+                  </lg>
+                  <lg>
+                     <l>Kein Wunder, wenn die <hi rend="italic">schönste Maid</hi>,</l>
+                     <l>  Für die sein Herz entbrannte,</l>
+                     <l>  Ihr liebes Weh' und süsses Leid,</l>
+                     <l>  Auch <hi rend="italic">ihm</hi>, wie <hi rend="italic">er</hi>, bekannte!</l>
+                     <l>  Der blasse <hi rend="italic">Neid</hi>, bei stillem Groll,</l>
+                     <l>  War <hi rend="italic">selber</hi>  doch des <hi rend="italic">Lobes</hi>  voll:</l>
+                     <l>  Es sei, sich zu verbinden,</l>
+                     <l>  Kein schön'res Paar zu finden.</l>
+                  </lg>
+                  <lg>
+                     <l>  Und Vater <hi rend="italic">Greif</hi>  und sein <hi rend="italic">Gemahl</hi>,</l>
+                     <l>  Ein Paar, so fromm und bieder:</l>
+                     <l>  Sie sahen auf so edle Wahl</l>
+                     <l>  Mit Segenblick danieder.</l>
+                     <l>  Gegeben war der <hi rend="italic">Treue</hi>  Ring;</l>
+                     <l>  Und bei Trompetenschall beging</l>
+                     <l>  Die alte Burg von Treiden —</l>
+                     <l>
+                        <hi rend="italic">Verlobungfest</hi>  der <hi rend="italic">Beiden</hi>.</l>
+                  </lg>
+                  <lg>
+                     <l>Der Gartenkünste Meister liess,</l>
+                     <l>  Bei nimmermüdem Streben,</l>
+                     <l>  Für <hi rend="italic">Segewold</hi>  ein Paradies</l>
+                     <l>  Auf Oeden sich erheben.</l>
+                     <l>  Und noch ein <hi rend="italic">neues Werk</hi>  erstand,</l>
+                     <l>  Von seiner Kunst und Meisterhand:</l>
+                     <l>  Die <hi rend="italic">Grotte</hi>  sein, auf Höhen,</l>
+                     <l>  Soll ferne Zeit noch sehen.</l>
+                  </lg>
+                  <lg>
+                     <l>Die <hi rend="italic">Liven-Grotte</hi>  schuf <hi rend="italic">Natur</hi>;</l>
+                     <l>  Die <hi rend="italic">seine</hi>, hoch daneben:</l>
+                     <l>  Sieht unter sich, in Thalesflur,</l>
+                     <l>  Der Landschaft Reiz und Leben.</l>
+                     <l>  Da mass die Jungfrau <hi rend="italic">Segewold</hi>;</l>
+                     <l>  Und sah, bestrahlt von Abendgold,</l>
+                     <l>  Den Liebling täglich eilen,</l>
+                     <l>  Sein Glück mit ihr zu theilen.</l>
+                  </lg>
+                  <lg>
+                     <l>  Hier mochte sie, auf grüner Bank,</l>
+                     <l>  Den Bräutigam erwarten:</l>
+                     <l>  Der, wenn sein Tag hinuntersank,</l>
+                     <l>  Verliess den Blüthengarten.</l>
+                     <l>  Mit <hi rend="italic">Blumen</hi>  war, von ihm gepflückt,</l>
+                     <l>  Die Grotte täglich neu geschmückt;</l>
+                     <l>  Bis ihr von Rosenstunden</l>
+                     <l>  Die <hi rend="italic">letzte</hi>  heut' geschwunden!</l>
+                  </lg>
+                  <lg>
+                     <l>Denn <hi rend="italic">heut'</hi>, in früher Morgenstund',</l>
+                     <l>  (Was nie bisher geschehen!)</l>
+                     <l>  Liess <hi rend="italic">Heil</hi>  an sie, durch <hi rend="italic">Boten</hi>-Mund,</l>
+                     <l>  Den lauten <hi rend="italic">Wunsch</hi>  ergehen:</l>
+                     <l>  Sie möge nach dem Mittagmahl',</l>
+                     <l>  Zum Gange nach dem Höhlenthal',</l>
+                     <l>  In Liebe sich bequemen,</l>
+                     <l>  Und — »<hi rend="italic">Scheidegruss</hi>« vernehmen!</l>
+                  </lg>
+                  <lg>
+                     <l>Er habe noch der Arbeit Viel</l>
+                     <l>  Am Abend, zu besorgen;</l>
+                     <l>  Und — Fahrt ins Weite sei das Ziel,</l>
+                     <l>  Schon für den nächsten Morgen.</l>
+                     <l>  Er wolle, wenn sein Glück entweicht,</l>
+                     <l>  Die Braut, zum <hi rend="italic">letzten</hi>  Mal vielleicht,</l>
+                     <l>  In seiner Grotte schauen;</l>
+                     <l>  Und And'res — <hi rend="italic">Gott</hi>  vertrauen.</l>
+                  </lg>
+                  <lg>
+                     <l>  Die <hi rend="italic">Eltern</hi>, um ihr Wort befragt,</l>
+                     <l>  Den Gang ihr zu gewähren:</l>
+                     <l>  Sie mögen, was sie <hi rend="italic">nie</hi>  versagt,</l>
+                     <l>  Auch heute nicht verwehren. —</l>
+                     <l>  Ob <hi rend="italic">Ahnung</hi>, ob es <hi rend="italic">Laune</hi>  war:</l>
+                     <l>  Geschmückt, wie vor dem Traualtar,</l>
+                     <l>  Erscheint, im Festgewande,</l>
+                     <l>  Die schönste Braut im Lande.</l>
+                  </lg>
+                  <lg>
+                     <l>Und sieh, der letzte Gang beginnt!</l>
+                     <l>  Er nimmt sie fort von <hi rend="italic">Treiden</hi>!</l>
+                     <l>  Sie aber wandelt still und sinnt,</l>
+                     <l>  Und weilet noch im Scheiden! —</l>
+                     <l>  Dann, wie der Sonne Majestät</l>
+                     <l>  In Wolken freundlich untergeht,</l>
+                     <l>  Und stirbt, im Abendrothe:</l>
+                     <l>  Geht <hi rend="italic">Rosa-Mai</hi>  — zum <hi rend="italic">Tode</hi>!...</l>
+                  </lg>
+                  <lg>
+                     <l>Die <hi rend="italic">Freude</hi>  sieht die Stunde nur</l>
+                     <l>  Wie <hi rend="italic">Augenblick</hi>  entschwunden;</l>
+                     <l>  Der <hi rend="italic">Sehnsucht</hi>  — dehnt die Zeitenuhr</l>
+                     <l>  Zu Tagen oft Sekunden!</l>
+                     <l>  Vergebens fleht der <hi rend="italic">Alten</hi>  Blick</l>
+                     <l>  Die Tochter ihrem Haus zurück!</l>
+                     <l>
+                        <hi rend="italic">Sie</hi>  wandelt hoch — und ferne —</l>
+                     <l>  Auf unbekanntem Sterne!</l>
+                  </lg>
+                  <lg>
+                     <l>  Nicht heiter, wie der Bach entweicht,</l>
+                     <l>  Nicht, wie die Quelle munter:</l>
+                     <l>  Nur trüb', wie Sumpfgewässer, schleicht</l>
+                     <l>  Der träge Tag hinunter! —</l>
+                     <l>  Der Westen glüht, die Sonne sinkt;</l>
+                     <l>  Und Schattenkühl im Thale winkt:</l>
+                     <l>  Da schmachtet Herzverlangen,</l>
+                     <l>  Die <hi rend="italic">Töchter</hi>  zu empfangen!</l>
+                  </lg>
+                  <lg>
+                     <l>Nun wird es laut am Eisenthor!</l>
+                     <l>  Und sieh, empört, voll Grauen:</l>
+                     <l>  Tritt <hi rend="italic">Heil</hi>  von <hi rend="italic">Segewold</hi>, hervor,</l>
+                     <l>  Gespenstern gleich zu schauen!</l>
+                     <l>  Wie Donner, trifft sein Wuthgeschrei:</l>
+                     <l>  »Herbei, du <hi rend="italic">Vater Greif</hi>, herbei!</l>
+                     <l>  Im Blute liegt, erschlagen,</l>
+                     <l>  Die du zur Welt getragen!« —</l>
+                  </lg>
+                  <lg>
+                     <l>Die <hi rend="italic">Hölle</hi>  flammt in seinem <hi rend="italic">Wort</hi>!</l>
+                     <l>  Ihr <hi rend="italic">Hohn</hi>  ertönt im Schalle!</l>
+                     <l>  Dann eilig stürmt der <hi rend="italic">Wilde</hi>  fort;</l>
+                     <l>  Und hinter ihm — wir Alle.</l>
+                     <l>  Wir folgen seiner Tritte Spur,</l>
+                     <l>  Den Berg hinab, in Thales Flur;</l>
+                     <l>  Empor dann, am Gelände,</l>
+                     <l>  Zum Werke seiner Hände.</l>
+                  </lg>
+                  <lg>
+                     <l>  Und <hi rend="italic">dort</hi>  — in <hi rend="italic">seiner</hi>  Grotte lag:</l>
+                     <l>  Die weiland Segenreiche!</l>
+                     <l>  Die <hi rend="italic">Jungfrau</hi>, todt durch Mörderschlag,</l>
+                     <l>  Nun Marmor-starre Leiche!</l>
+                     <l>  Sie lag in Blut, von Blut bedeckt;</l>
+                     <l>  Und — von <hi rend="italic">demselben</hi>  Blut befleckt</l>
+                     <l>  Lag jenes <hi rend="italic">Beil</hi>  daneben,</l>
+                     <l>  Das ihr den Tod gegeben!</l>
+                  </lg>
+                  <lg>
+                     <l>Wer solches Beil sein <hi rend="italic">eigen</hi>  nennt:</l>
+                     <l>  Kann <hi rend="italic">Mehr</hi>  vom Morde sagen;</l>
+                     <l>
+                        <hi rend="italic">Wer</hi>  aber, der den Jüngling kennt,</l>
+                     <l>  Darf hier ein <hi rend="italic">Urtheil</hi>  wagen? —</l>
+                     <l>  Es ist, was ihm Verdammniss droht,</l>
+                     <l>  Sein <hi rend="italic">Werkzeug</hi>  hier, von Blute roth:</l>
+                     <l>  Wenn volle Thatenreihen</l>
+                     <l>  Ihn dort zum <hi rend="italic">Helden</hi>  weihen. —</l>
+                  </lg>
+                  <lg>
+                     <l>Und so verlangt die erste Pflicht:</l>
+                     <l>  Uns, <hi rend="italic">Herr</hi>! an <hi rend="italic">Euch</hi>  zu wenden;</l>
+                     <l>
+                        <hi rend="italic">Euch</hi>  — werden seine <hi rend="italic">Thaten</hi>  nicht,</l>
+                     <l>  Noch hier sein <hi rend="italic">Eisen</hi>, blenden.</l>
+                     <l>  Wir leben sorgvoll, ohne Ruh'!</l>
+                     <l>  Und senden Euch den <hi rend="italic">Wagen</hi>  zu;</l>
+                     <l>  Bei <hi rend="italic">Bitte</hi>, nicht zu weilen,</l>
+                     <l>  Nach <hi rend="italic">Treidens</hi>  Burg zu eilen!«</l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>XI.</label>
+               </head>
+               <div type="div3">
+                  <head>Am nächsten Tage.</head>
+                  <div type="div4">
+                     <head>(Zu Treiden.)</head>
+                     <lg>
+                        <l>Auf, <hi rend="italic">Gericht</hi>, bei Morgenroth!</l>
+                        <l>Oeffne deine Schranken!</l>
+                        <l>Und es sei der <hi rend="italic">Jungfrau Tod</hi>
+                        </l>
+                        <l>Seele der Gedanken!</l>
+                     </lg>
+                     <lg>
+                        <l>Fern dem Wahne, fern der Scheu,</l>
+                        <l>  Wirf den Schein danieder;</l>
+                        <l>  Und vernimm, der Wahrheit treu,</l>
+                        <l>  Zeugen für und wider!</l>
+                     </lg>
+                     <lg>
+                        <l>Dort die Leiche, dort das Beil,</l>
+                        <l>  Dort das Blut im Staube!</l>
+                        <l>  Hier die <hi rend="italic">Klage</hi>, hier der <hi rend="italic">Heil</hi>,</l>
+                        <l>  Hier gesunk'ner Glaube! —</l>
+                     </lg>
+                     <lg>
+                        <l>Und sofort zu Kampfe zog,</l>
+                        <l>  Wider <hi rend="italic">Heil</hi>, die <hi rend="italic">Klage</hi>;</l>
+                        <l>  Und des Landes <hi rend="italic">Richter</hi>  wog</l>
+                        <l>  Mit der <hi rend="italic">Themis</hi>  Waage.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <hi rend="italic">Heil</hi>, der Jüngling, trat hervor,</l>
+                        <l>  Todesbleich die Wangen;</l>
+                        <l>  Wie der Mond den Schein verlor,</l>
+                        <l>  Von Gewölk umfangen.</l>
+                     </lg>
+                     <lg>
+                        <l>Tief gesunken und zerstört,</l>
+                        <l>  Heldenthum's Ruine;</l>
+                        <l>  Schmerz-gebrochen, Gram-verzehrt,</l>
+                        <l>  Stand er auf der Bühne.</l>
+                     </lg>
+                     <lg>
+                        <l>Und der hohe <hi rend="italic">Richter</hi>  spricht:</l>
+                        <l>  »Lass' dich, <hi rend="italic">Jüngling</hi>, fragen!</l>
+                        <l>  Kennst du <hi rend="italic">diese Waffe</hi>  nicht,</l>
+                        <l>  Und, wer sie getragen?</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <hi rend="italic">Dich</hi>  erkennt an solcher Spur,</l>
+                        <l>  Wer sie aufgefunden;</l>
+                        <l>  Und mit <hi rend="italic">solcher</hi>  Waffe nur</l>
+                        <l>  Schlägt man <hi rend="italic">solche</hi>  Wunden. —</l>
+                     </lg>
+                     <lg>
+                        <l>War es nicht der Bote dein:</l>
+                        <l>  Der, von Dir verblendet,</l>
+                        <l>  Deine <hi rend="italic">Braut</hi>, durch leeren Schein,</l>
+                        <l>  In den <hi rend="italic">Tod</hi>  gesendet?</l>
+                     </lg>
+                     <lg>
+                        <l>Gieb das zarte <hi rend="italic">Kind</hi>  zurück:</l>
+                        <l>  Das, durch <hi rend="italic">dich</hi>  entschwunden;</l>
+                        <l>  Dessen Spur auch <hi rend="italic">Vater</hi>-Blick</l>
+                        <l>  Nirgend noch gefunden!« —</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <hi rend="italic">Heil</hi>, im Auge seine <hi rend="italic">Braut</hi>,</l>
+                        <l>  Die der Mord erschlagen:</l>
+                        <l>  Schien mit allem Tod' vertraut,</l>
+                        <l>  Nicht mit solchen Klagen.</l>
+                     </lg>
+                     <lg>
+                        <l>Nun, bekannt mit seinem Loos,</l>
+                        <l>  Rings um sich Verderben,</l>
+                        <l>  Sprach der <hi rend="italic">Jüngling</hi>, ruhig gross,</l>
+                        <l>  Wie der Held im Sterben:</l>
+                     </lg>
+                     <lg>
+                        <l>»Jenes <hi rend="italic">Beil</hi>, mein <hi rend="italic">Kläger</hi>  hier,</l>
+                        <l>  Meine Lieblingshabe:</l>
+                        <l>  Wie es frommte mir und <hi rend="italic">Ihr</hi>,</l>
+                        <l>  Folg' es mir zu Grabe!</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <hi rend="italic">Solch</hi>  ein Werkzeug nur allein</l>
+                        <l>  Sollte mich begleiten:</l>
+                        <l>
+                           <hi rend="italic">Ihr</hi>, im weichen Sandgestein,</l>
+                        <l>  Obdach zu bereiten.</l>
+                     </lg>
+                     <lg>
+                        <l>Zürne nicht, verklärte <hi rend="italic">Braut</hi>!</l>
+                        <l>  Wenn ich <hi rend="italic">nicht</hi>  verhehle:</l>
+                        <l>  Dass ich nur für <hi rend="italic">Dich</hi>  gebaut</l>
+                        <l>  Jene zweite <hi rend="italic">Höhle</hi>.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <hi rend="italic">Was</hi>  dem Blicke dort erstand,</l>
+                        <l>  Stufen und Gelände:</l>
+                        <l>  Schuf das <hi rend="italic">Beil</hi>  in meiner Hand;</l>
+                        <l>  Schufen diese Hände.</l>
+                     </lg>
+                     <lg>
+                        <l>  Sank denn <hi rend="italic">Heil</hi>  so tief herab:</l>
+                        <l>  Sich ein Werk voll Grauen, —</l>
+                        <l>  Seiner <hi rend="italic">Braut</hi>  ein frühes Grab —</l>
+                        <l>  Schmachvoll zu erbauen? —</l>
+                     </lg>
+                     <lg>
+                        <l>Doch, wir stehen vor <hi rend="italic">Gericht</hi>;</l>
+                        <l>  Und die Richter sagen:</l>
+                        <l>  Jenes Beil im Blute spricht,</l>
+                        <l>
+                           <hi rend="italic">Er</hi>  hat sie erschlagen!...</l>
+                     </lg>
+                     <lg>
+                        <l>Höret nun von mir Bescheid,</l>
+                        <l>  Auf die <hi rend="italic">zweite</hi>  Klage!</l>
+                        <l>  Neues Weh' und neues Leid</l>
+                        <l>  Weckt die <hi rend="italic">Boten</hi>-Frage.</l>
+                     </lg>
+                     <lg>
+                        <l>Glaubet! meine Seele weiss</l>
+                        <l>  Noch von keinem <hi rend="italic">Boten</hi>:</l>
+                        <l>  Der die <hi rend="italic">Braut</hi>, auf mein Geheiss,</l>
+                        <l>  Sandte zu den <hi rend="italic">Todten</hi>.</l>
+                     </lg>
+                     <lg>
+                        <l>Nur bei Tages <hi rend="italic">Untergeh'n</hi>
+                        </l>
+                        <l>  War es uns beschieden:</l>
+                        <l>  Dort zu feiern Wiederseh'n,</l>
+                        <l>  In der Höhle Frieden.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <hi rend="italic">Also</hi>  war es Fug und Brauch</l>
+                        <l>  Für die Zwei geblieben;</l>
+                        <l>
+                           <hi rend="italic">So</hi>  betrat ich, <hi rend="italic">gestern</hi>  auch.</l>
+                        <l>  Meine Bahn zur <hi rend="italic">Lieben</hi>:</l>
+                     </lg>
+                     <lg>
+                        <l>  Noch zu enden war ein Theil,</l>
+                        <l>  Hoch am Grottenrande;</l>
+                        <l>  Und ich zog mein liebes Beil</l>
+                        <l>  Aus dem Gürtelbande.</l>
+                     </lg>
+                     <lg>
+                        <l>Aber, als ich wohlgemuth</l>
+                        <l>  Mein <hi rend="italic">Asyl</hi>  erreiche:</l>
+                        <l>  Weh', da lag, in ihrem Blut',</l>
+                        <l>  Meiner Jungfrau <hi rend="italic">Leiche</hi>!</l>
+                     </lg>
+                     <lg>
+                        <l>Da entsank das Beil der Hand;</l>
+                        <l>  Kraftlos sank ich nieder;</l>
+                        <l>  Und — am Eis der Todten fand</l>
+                        <l>  Mein Gefühl sich wieder!...</l>
+                     </lg>
+                     <lg>
+                        <l>Von dem <hi rend="italic">Kinde</hi>  weiss ich nur</l>
+                        <l>
+                           <hi rend="italic">Dieses</hi>  zu gestehen:</l>
+                        <l>  Dass von <hi rend="italic">Leutha</hi>  keine Spur.</l>
+                        <l>  Gestern war zu sehen.« —</l>
+                     </lg>
+                     <lg>
+                        <l>So erklang des <hi rend="italic">Jünglings</hi>  Wort,</l>
+                        <l>  Aus der Seele Tiefen!</l>
+                        <l>  Wahrheit riss die Menge fort,</l>
+                        <l>  Furcht und Wahn entschliefen.</l>
+                     </lg>
+                     <lg>
+                        <l>Eine Todten-Pause trug</l>
+                        <l>  Tod in <hi rend="italic">Feindes</hi>-Leben;</l>
+                        <l>  Und das Herz der <hi rend="italic">Freunde</hi>  schlug,</l>
+                        <l>
+                           <hi rend="italic">Wie</hi>  bei Fieber-Beben.</l>
+                     </lg>
+                     <lg>
+                        <l>  Doch — der strenge <hi rend="italic">Richter</hi>  spricht:</l>
+                        <l>  »Wahrheit lebt in <hi rend="italic">Zeugen</hi>!</l>
+                        <l>  Wem der <hi rend="italic">Zeugen</hi>  Mund gebricht,</l>
+                        <l>  Muss der <hi rend="italic">Qual</hi>  sich beugen!</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <hi rend="italic">Zeugen</hi>, oder <hi rend="italic">Folter</hi>-Qual,</l>
+                        <l>  Will der Zeiten Sitte;</l>
+                        <l>  Dich befreit, von solcher Wahl,</l>
+                        <l>  Thräne nicht, noch Bitte.</l>
+                     </lg>
+                     <lg>
+                        <l>Fühllos, wie die Weltenuhr</l>
+                        <l>  Schlägt den Takt der Zeiten:</l>
+                        <l>  Mag Gesetz dem Rechte nur</l>
+                        <l>  Kraft und Sieg bereiten.</l>
+                     </lg>
+                     <lg>
+                        <l>Soll <hi rend="italic">Gesetz</hi>  im Staatenspiel'</l>
+                        <l>  Bahn der Wahrheit brechen:</l>
+                        <l>  Darf nicht Mitleid und Gefühl</l>
+                        <l>  Richter-Wort bestechen.</l>
+                     </lg>
+                     <lg>
+                        <l>Darum, <hi rend="italic">Knechte</hi>, führet ihn,</l>
+                        <l>  Ob er sich bedenke,</l>
+                        <l>  Nach den Thurm-Gewölben hin,</l>
+                        <l>  Vor die Marter-Bänke!</l>
+                     </lg>
+                     <lg>
+                        <l>Dort, wo Heide oder Christ,</l>
+                        <l>  Schrecken fühlt und Grauen:</l>
+                        <l>  Mag' er jedes Qualgerüst',</l>
+                        <l>  Nach der Stufe, schauen!</l>
+                     </lg>
+                     <lg>
+                        <l>  Zeig't ihm jedes Marterholz,</l>
+                        <l>
+                           <hi rend="italic">Wie</hi>  der Grad sich nenne!</l>
+                        <l>  Dass vielleicht gebeugter Stolz,</l>
+                        <l>  Frei, die Schuld bekenne.« —</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <hi rend="italic">Heil</hi>, ob Gram und Kummerlast</l>
+                        <l>  Tief das Herz bewegen,</l>
+                        <l>  Warf dem <hi rend="italic">Richter</hi>, schnell gefasst,</l>
+                        <l>
+                           <hi rend="italic">Dieses Wort</hi>  entgegen:</l>
+                     </lg>
+                     <lg>
+                        <l>»<hi rend="italic">Göttlich</hi>  war das <hi rend="italic">Urgesetz</hi>
+                        </l>
+                        <l>  Für der Menschheit Leben;</l>
+                        <l>
+                           <hi rend="italic">Menschlich</hi>  war das <hi rend="italic">Nachgesetz</hi>,</l>
+                        <l>  Das der <hi rend="italic">Mensch</hi>  gegeben.</l>
+                     </lg>
+                     <lg>
+                        <l>Doch — das Gold von gold'ner Zeit,</l>
+                        <l>  Die uns Lieder preisen:</l>
+                        <l>  Sank herab, im Völkerstreit';</l>
+                        <l>  Wurde Blei und Eisen!</l>
+                     </lg>
+                     <lg>
+                        <l>Und der Zeiten Stahl und Blei,</l>
+                        <l>  Würgend um die Wette:</l>
+                        <l>  Brach des Ringes Gold entzwei</l>
+                        <l>  An der Menschen-Kette!</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <hi rend="italic">So</hi>, wie <hi rend="italic">Brennus</hi>  nach dem Sieg',</l>
+                        <l>  Einst am <hi rend="italic">Römer</hi>-Tage:</l>
+                        <l>  Warf ihr Schwert, wenn <hi rend="italic">Zweifel</hi>  stieg,</l>
+                        <l>
+                           <hi rend="italic">Themis</hi>, in die Waage. —</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <hi rend="italic">Also</hi>  leg't Ihr <hi rend="italic">Herzen</hi>  ein,</l>
+                        <l>  In die <hi rend="italic">Folter</hi>-Schrauben;</l>
+                        <l>  Bis zu <hi rend="italic">Thaten</hi>  wird der Schein,</l>
+                        <l>  Und der Wahn zum <hi rend="italic">Glauben</hi>. —</l>
+                     </lg>
+                     <lg>
+                        <l>Aber, weises <hi rend="italic">Landgericht</hi>!</l>
+                        <l>
+                           <hi rend="italic">Heil</hi>  und seine Ehre</l>
+                        <l>  Fürchten Eure Folter nicht!</l>
+                        <l>  Nicht der Qualen Schwere!</l>
+                     </lg>
+                     <lg>
+                        <l>Bitt're Qual, die mich bedroht,</l>
+                        <l>  Soll mir <hi rend="italic">süss</hi>  erscheinen!</l>
+                        <l>  Denn mich wird ein <hi rend="italic">Martyr-Tod</hi>
+                        </l>
+                        <l>  Mit der <hi rend="italic">Braut</hi>  vereinen.</l>
+                     </lg>
+                     <lg>
+                        <l>Da sie fiel, durch Mörderstahl,</l>
+                        <l>  Die mir <hi rend="italic">Gott</hi>  gegeben:</l>
+                        <l>  Find ich nur im Leben Qual,</l>
+                        <l>  Und im Tode Leben.</l>
+                     </lg>
+                     <lg>
+                        <l>Möge denn, an meinem Muth',</l>
+                        <l>  Euer Holz und Eisen</l>
+                        <l>  Seine Kraft und seine Wuth,</l>
+                        <l>  Wie an <hi rend="italic">Ihr</hi>, beweisen!...</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <hi rend="italic">Einen</hi>  Wunsch, auf Erden hier.</l>
+                        <l>  Hab' ich noch zu nennen:</l>
+                        <l>  Wollet nur ein Grab mit <hi rend="italic">Ihr</hi>,</l>
+                        <l>  Gnädig mir vergönnen!</l>
+                     </lg>
+                     <lg>
+                        <l>  Wenn das Opfer Euch erlag:</l>
+                        <l>  Soll der Vorhang schwinden!</l>
+                        <l>  Kommen wird ein <hi rend="italic">Rächer-Tag</hi>,</l>
+                        <l>  Und den Mörder finden.</l>
+                     </lg>
+                     <lg>
+                        <l>Oh, die <hi rend="italic">Ahnung</hi>  sagt mir laut,</l>
+                        <l>
+                           <hi rend="italic">Wer</hi>  die That begangen;</l>
+                        <l>  Und, von <hi rend="italic">Wessen</hi>  Stahl die <hi rend="italic">Braut</hi>
+                        </l>
+                        <l>  Solchen Tod empfangen!</l>
+                     </lg>
+                     <lg>
+                        <l>Eine <hi rend="italic">Geisterstimme</hi>  tönt,</l>
+                        <l>  Wie aus Gräberhallen:</l>
+                        <l>  »<hi rend="italic">Die</hi>  das Leben dir verschönt,</l>
+                        <l>  Ist <hi rend="italic">für dich</hi>  gefallen!«</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <hi rend="italic">Braut</hi>, wir horchen deinem Ruf'!</l>
+                        <l>
+                           <hi rend="italic">Einig</hi>  sind die <hi rend="italic">Beiden</hi>!</l>
+                        <l>  Wer die Zwei zu <hi rend="italic">Einem</hi>  schuf,</l>
+                        <l>  Wird sie nimmer scheiden. —</l>
+                     </lg>
+                     <lg>
+                        <l>Erdenleib, im Erdenrund',</l>
+                        <l>  Fröhnt der <hi rend="italic">Mutter</hi>-Scholle;</l>
+                        <l>  Und der <hi rend="italic">Geist</hi>, im Körper <hi rend="italic">wund</hi>,</l>
+                        <l>  Uebt nur <hi rend="italic">Sklaven</hi>-Rolle.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <hi rend="italic">Droben</hi>, in der <hi rend="italic">Geister</hi>-Bahn,</l>
+                        <l>  Herrschen <hi rend="italic">Geister</hi>-Mächte;</l>
+                        <l>
+                           <hi rend="italic">Sonnen</hi>  sind dir unterthan,</l>
+                        <l>  Und Planeten <hi rend="italic">Knechte</hi>.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <hi rend="italic">Wie</hi>, und <hi rend="italic">Erde</hi>  soll den <hi rend="italic">Geist</hi>
+                        </l>
+                        <l>  Weg von <hi rend="italic">Dir</hi>  verbannen? —</l>
+                        <l>
+                           <hi rend="italic">Nein</hi>, mit <hi rend="italic">Einem</hi>  Tritte weist</l>
+                        <l>  Sie der Muth von dannen!</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <hi rend="italic">Bess're</hi>  Welt ist aufgethan</l>
+                        <l>  Allem Erdenblicke;</l>
+                        <l>  Thaten brechen dir die Bahn,</l>
+                        <l>  Leiden sind die Brücke.</l>
+                     </lg>
+                     <lg>
+                        <l>Auf nun, <hi rend="italic">Henker</hi>, sei bereit!</l>
+                        <l>  Sieh die Qual mich tragen;</l>
+                        <l>  Doch den Sieger auch im Streit</l>
+                        <l>  Sein Geschick erschlagen!" —</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <hi rend="italic">Also</hi>  spricht er, und entschwebt.</l>
+                        <l>  Laut beweint von Allen:</l>
+                        <l>  Wie er frei und schön gelebt,</l>
+                        <l>  Frei und gross zu fallen.</l>
+                     </lg>
+                     <lg>
+                        <l>Und die Knechte führen ihn,</l>
+                        <l>  Ob er sich bedenke,</l>
+                        <l>  Nach den Thurmgewölben hin,</l>
+                        <l>  Vor die Marterbänke.</l>
+                     </lg>
+                     <lg>
+                        <l>Dort, wo Heide oder Christ</l>
+                        <l>  Schrecken fühlt und Grauen:</l>
+                        <l>  Soll er jedes Qualgerüst',</l>
+                        <l>  Nach der Stufe, schauen.</l>
+                     </lg>
+                     <lg>
+                        <l>
+                           <hi rend="italic">Folter</hi>, die auch Felsen bricht,</l>
+                        <l>  Oeffnet ihre Schrauben:</l>
+                        <l>  Blut und Mark, nur Ehre nicht,</l>
+                        <l>  Peinvoll ihm zu rauben.</l>
+                     </lg>
+                     <lg>
+                        <l>Und ein Sichel-Mühlwerk steigt,</l>
+                        <l>  Knirschend, auf und nieder;</l>
+                        <l>  Und die Eisenjungfrau zeigt</l>
+                        <l>  Ihre Stachelglieder.</l>
+                     </lg>
+                     <lg>
+                        <l>Eine Hölle zieht herbei,</l>
+                        <l>  Seinem Muth' entgegen;</l>
+                        <l>  Doch — er lächelt, wie der <hi rend="italic">Mai</hi>
+                        </l>
+                        <l>  Unter Blüthenregen.</l>
+                     </lg>
+                     <lg>
+                        <l>Himmelfriede, Seelenruh',</l>
+                        <l>  Sind ihm treu verbunden;</l>
+                        <l>  Und — sein <hi rend="italic">Schicksal</hi>  ruft ihm zu:</l>
+                        <l>  "Du hast überwunden!"</l>
+                     </lg>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>XII.</label>
+               </head>
+               <div type="div3">
+                  <head>Die Entscheidung.</head>
+                  <lg>
+                     <l>Während, in der Henker Mitte,</l>
+                     <l>
+                        <hi rend="italic">Heil</hi> durch alle Schrecken zieht;</l>
+                     <l>Und, mit jedem neuen Schritte,</l>
+                     <l>Neuer Qual entgegensieht:</l>
+                  </lg>
+                  <lg>
+                     <l>Schwanket noch die Richterwaage;</l>
+                     <l>  Zweifel wandelt rings im Kreis:</l>
+                     <l>
+                        <hi rend="italic">Ob</hi>  auch hier die <hi rend="italic">Marter</hi>-Frage</l>
+                     <l>  Mag erpressen Schuldbeweis.</l>
+                  </lg>
+                  <lg>
+                     <l>Aber, eh' sie noch entscheiden,</l>
+                     <l>  Mahnend sich an ihre Pflicht:</l>
+                     <l>  Tritt der <hi rend="italic">Castellan</hi>  zu Treiden,</l>
+                     <l>
+                        <hi rend="italic">Also</hi>  sprechend, vor Gericht.</l>
+                  </lg>
+                  <lg>
+                     <l>»Weise Richter dieser Lande!</l>
+                     <l>  Säumet mit dem Folterspruch!</l>
+                     <l>  Denn, statt Ehren, zeugt er Schande,</l>
+                     <l>  Und noch später Zeiten Fluch.</l>
+                  </lg>
+                  <lg>
+                     <l>  Was vor Unbill uns bewahren,</l>
+                     <l>  Und den Jüngling retten soll:</l>
+                     <l>  Mag dem Richter offenbaren</l>
+                     <l>  Ein Bekenntniss, grauenvoll!</l>
+                  </lg>
+                  <lg>
+                     <l>Elf der Monde, trüb und heiter,</l>
+                     <l>  Sanken in der Zeiten Meer:</l>
+                     <l>  Seit ich <hi rend="italic">zwei</hi>  der <hi rend="italic">Lanzenreiter</hi>
+                     </l>
+                     <l>  Aufnahm, aus dem <hi rend="italic">Polen</hi>-Heer.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Adam Jakubowski</hi>  nannte</l>
+                     <l>  Sich der Eine, Frag'-gerecht;</l>
+                     <l>
+                        <hi rend="italic">Peter Skudritz</hi>, so bekannte</l>
+                     <l>  Seine Schrift den zweiten Knecht.</l>
+                  </lg>
+                  <lg>
+                     <l>Beide waren, jung von Jahren,</l>
+                     <l>  Flüchtig aus dem Polenstreit',</l>
+                     <l>  Kriegeskundig, diensterfahren,</l>
+                     <l>  Mir zu dienen, schnell bereit.</l>
+                  </lg>
+                  <lg>
+                     <l>Manchem Raubthier, unverdrossen,</l>
+                     <l>  Folgten sie, bei Nacht und Tag';</l>
+                     <l>  Doch — das <hi rend="italic">Herz</hi>  der Jagdgenossen</l>
+                     <l>  Bald dem <hi rend="italic">bösen Feind'</hi>  erlag!</l>
+                  </lg>
+                  <lg>
+                     <l>Nur dem Zank' und Trunk' ergeben,</l>
+                     <l>  Höhnend Strafen und Gericht;</l>
+                     <l>  Schonten sie der Hütte Leben,</l>
+                     <l>  Wie das Burggesinde nicht.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">So</hi>, nach vielen Schuldbeweisen,</l>
+                     <l>  Sann ich endlich nur darauf:</l>
+                     <l>  Sie aus meinem Dienst' zu weisen,</l>
+                     <l>  Nach vollbrachtem Jahreslauf'.</l>
+                  </lg>
+                  <lg>
+                     <l>Doch — wie Espenzweige beben,</l>
+                     <l>  Buhlt ein West im Blätterdach:</l>
+                     <l>
+                        <hi rend="italic">So</hi>, mit Zittern, trat so eben</l>
+                     <l>
+                        <hi rend="italic">Skudritz</hi>  ein, in mein Gemach.</l>
+                  </lg>
+                  <lg>
+                     <l>Höllenqual im Schuldgewissen,</l>
+                     <l>  Wie sie nur ein <hi rend="italic">Gott</hi>  erweckt:</l>
+                     <l>  Haben ihm das <hi rend="italic">Wort</hi>  entrissen,</l>
+                     <l>  Das den <hi rend="italic">Mörder</hi>  aufgedeckt.</l>
+                  </lg>
+                  <lg>
+                     <l>Draussen weilt er, rufgewärtig,</l>
+                     <l>  Sein Verbrechen zu gesteh'n;</l>
+                     <l>  Und, zu seinem Ende fertig,</l>
+                     <l>  Nur um schnellen <hi rend="italic">Tod</hi>  zu fleh'n.«</l>
+                  </lg>
+                  <lg>
+                     <l>Und der <hi rend="italic">Richter</hi>, ohne Säumen,</l>
+                     <l>  Sendet nun den <hi rend="italic">Frohn</hi>  sogleich:</l>
+                     <l>  Nach des Thurmgewölbes Räumen,</l>
+                     <l>  In der Folter Qualenreich.</l>
+                  </lg>
+                  <lg>
+                     <l>»Lass den Jüngling eilig führen,</l>
+                     <l>  Nach dem Kerker, unversehrt!</l>
+                     <l>  Bis er frei wird, nach Gebühren,</l>
+                     <l>  Wenn der Tag ihn frei erklärt.«</l>
+                  </lg>
+                  <lg>
+                     <l>  Spricht es; und der Pfortenschwelle</l>
+                     <l>  Sind die Blicke zugeneigt:</l>
+                     <l>  Wo der grause <hi rend="italic">Mordgeselle</hi>
+                     </l>
+                     <l>  Ein Gespenst der Gräber zeigt.</l>
+                  </lg>
+                  <lg>
+                     <l>Beben zuckt durch alle Glieder;</l>
+                     <l>  Tod im Blicke, schreckenbleich:</l>
+                     <l>  Sinkt er vor den Schranken nieder,</l>
+                     <l>  Seiner Wildes-Beute gleich!</l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>XIII.</label>
+               </head>
+               <lg>
+                  <l>»Sag' an, bekenne sonder Scheu:</l>
+                  <l>Wie jener <hi rend="italic">Mord</hi> geschehen!</l>
+                  <l>Und künde deinem Richter frei,</l>
+                  <l>Was du gehört, gesehen!</l>
+                  <l>
+                     <hi rend="italic">Du</hi> aber, <hi rend="italic">Schreiber</hi>, sei zur Hand!</l>
+                  <l>Und liefre mir den Thatbestand,</l>
+                  <l>Nach allen Haupt- und Nebenzügen;</l>
+                  <l>Der Pflicht und Wahrheit zu genügen!« —</l>
+               </lg>
+               <lg>
+                  <l>Der Richter sprach es; und bereit,</l>
+                  <l>  Sind Schreiber und Notare;</l>
+                  <l>  Und leben soll, für alle Zeit,</l>
+                  <l>  Die <hi rend="italic">Acte</hi>  jener Jahre!</l>
+                  <l>  Zwei hundert Jahre starben hin;</l>
+                  <l>  Und Moder barg, und Grabruin:</l>
+                  <l>  Was <hi rend="italic">hier</hi>  des <hi rend="italic">Mordgesellen</hi>  Klage,</l>
+                  <l>  Für uns und Nachwelt bringt zu Tage.</l>
+               </lg>
+               <lg>
+                  <l>  »Gericht und Volk von Treiden hier!</l>
+                  <l>  Du Menschheit voll der Schwächen!</l>
+                  <l>  Im Staube knieend, lass' mich Dir</l>
+                  <l>  Bekennen mein Verbrechen!</l>
+                  <l>  Weit über Folter, quält und plagt</l>
+                  <l>  Der <hi rend="italic">Geier</hi>, der am <hi rend="italic">Herzen</hi>  nagt;</l>
+                  <l>  Wann Ihr das Grässliche vernommen,</l>
+                  <l>  Sind Tod und Henker mir willkommen!</l>
+               </lg>
+               <lg>
+                  <l>Mein Feldgenoss' und Waidkumpan</l>
+                  <l>  War <hi rend="italic">Adam Jakubowski</hi>,</l>
+                  <l>  Im Polenheere zugethan</l>
+                  <l>  Der Fahne von <hi rend="italic">Drompowski</hi>;</l>
+                  <l>  Voll Muthes, Riese von Gestalt,</l>
+                  <l>  Und Feind der fremden Herrschgewalt;</l>
+                  <l>  In Schlachten Held, bei Frauen Sieger;</l>
+                  <l>  An Kräften Leu, an Wuth ein Tieger!</l>
+               </lg>
+               <lg>
+                  <l>Sein <hi rend="italic">Vater</hi>, Schulherr einer Stadt,</l>
+                  <l>  Erzog ihn seinem Dienste;</l>
+                  <l>  Der <hi rend="italic">Knabe</hi>, früh der Schule satt,</l>
+                  <l>  Ging aus, auf and're Künste.</l>
+                  <l>  Bei mancher Frucht des <hi rend="italic">Guten</hi>  blieb</l>
+                  <l>  Doch Mehr des <hi rend="italic">Bösen</hi>  sein Betrieb;</l>
+                  <l>  So trat der <hi rend="italic">Jüngling</hi>, aus der Lehre,</l>
+                  <l>  Zu <hi rend="italic">Siegmund's</hi>  wildem <hi rend="italic">Polen</hi>-Heere.</l>
+               </lg>
+               <lg>
+                  <l>  Sein Blick in manche Wissenschaft,</l>
+                  <l>  Dazu noch manche Gabe;</l>
+                  <l>  Und Riesenleib, Athletenkraft,</l>
+                  <l>  Empfahlen ihn dem <hi rend="italic">Stabe</hi>.</l>
+                  <l>  So stieg er bald, im Kriegeslauf',</l>
+                  <l>  Bis zum Standarten-Junker auf;</l>
+                  <l>  Und hat, im Felde nie bezwungen,</l>
+                  <l>  Des Feldherrn Gnade sich errungen.</l>
+               </lg>
+               <lg>
+                  <l>Er folgte, kämpfend um den Preis,</l>
+                  <l>  Dem grossen Hauptpaniere;</l>
+                  <l>  Und drängte sich in jeden Kreis</l>
+                  <l>  Der jungen Offiziere.</l>
+                  <l>  Denn eitel war er, stolz und kühn;</l>
+                  <l>  Und sah auf seines Gleichen hin:</l>
+                  <l>  Wie auf ein Dornenfeld der Schnitter;</l>
+                  <l>  Wie auf den Sklaventross der Ritter.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="italic">So</hi>  war er manchem Neidesblick'</l>
+                  <l>  Unheimlich gross erschienen;</l>
+                  <l>  Mich aber zwang ein Missgeschick,</l>
+                  <l>  Nur freundlich ihm zu dienen.</l>
+                  <l>  Ich folgte seiner Lichtgestalt,</l>
+                  <l>  Im Bann' von magischer Gewalt;</l>
+                  <l>  Wie dort, mit ihrem Zauberzwange,</l>
+                  <l>  Den Vogel zieht die Klapperschlange.</l>
+               </lg>
+               <lg>
+                  <l>  Es lag auf mir, wie Berge schwer,</l>
+                  <l>  Bei jeglichem Vereine;</l>
+                  <l>  Ich kannte keinen Willen mehr,</l>
+                  <l>  Sein Wille war der meine.</l>
+                  <l>  Verwegen, lüstern, frech und wild,</l>
+                  <l>  Dann wieder sanft und Bruder-mild:</l>
+                  <l>
+                     <hi rend="italic">So</hi>  führte mich sein Doppelwesen,</l>
+                  <l>  Zum Guten hier, und dort zum Bösen.</l>
+               </lg>
+               <lg>
+                  <l>Sein <hi rend="italic">Hauptmann</hi>, der mit Vaterhuld,</l>
+                  <l>  Herab auf ihn gesehen:</l>
+                  <l>  Liess einmal doch, für schwere Schuld,</l>
+                  <l>
+                     <hi rend="italic">Verweis</hi>  an ihn ergehen.</l>
+                  <l>  Da gab er, wuthentbrannt, sogleich,</l>
+                  <l>  Dem <hi rend="italic">Hauptmann</hi>  einen Backenstreich;</l>
+                  <l>  Dass <hi rend="italic">der</hi>, betäubt vom Riesenschlage,</l>
+                  <l>  Vom Stande sank zu Niederlage.</l>
+               </lg>
+               <lg>
+                  <l>Da galt, war Rettung noch versucht,</l>
+                  <l>  Kein Weilen mehr, noch Säumen;</l>
+                  <l>
+                     <hi rend="italic">Er</hi>  musste <hi rend="italic">gleich</hi>, in schneller Flucht,</l>
+                  <l>  Des Ruhmes Lager räumen.</l>
+                  <l>  Sein Wort, das flehend zu mir sprach:</l>
+                  <l>  Es zog mich seinem Schicksal nach;</l>
+                  <l>  Wir jagten ruchlos in die Ferne;</l>
+                  <l>  Das <hi rend="italic">Glück</hi>  mit uns, und seine Sterne!</l>
+               </lg>
+               <lg>
+                  <l>  Wir schlichen durch die Wäldernacht,</l>
+                  <l>  Mit Füchsen um die Wette;</l>
+                  <l>  Und fanden, war der Tag erwacht,</l>
+                  <l>  Bei Wölfen unser Bette.</l>
+                  <l>  Durch Moor und Sümpfe, Berg und Thal,</l>
+                  <l>  Durch tausend Wege, sonder Wahl,</l>
+                  <l>  Und durch ein Schlangenheer von Leiden.</l>
+                  <l>  Errangen wir — den <hi rend="italic">Weg</hi>  von <hi rend="italic">Treiden</hi>.</l>
+               </lg>
+               <lg>
+                  <l>Da zog ein <hi rend="italic">Ritter</hi>, hoch zu Ross',</l>
+                  <l>  Einher, auf seinem Rappen;</l>
+                  <l>  Und hinter ihm ein flinker Tross</l>
+                  <l>  Von Edelknecht und Knappen.</l>
+                  <l>  Das war der <hi rend="italic">Treidner Castellan</hi>,</l>
+                  <l>  Der mir bis heute wohlgethan;</l>
+                  <l>
+                     <hi rend="italic">Der</hi>  wollte, nach vernomm'nen Klagen,</l>
+                  <l>  Sein Burgasyl uns nicht versagen.</l>
+               </lg>
+               <lg>
+                  <l>Wir dienten ihm, drei Monde lang,</l>
+                  <l>  Mit Eifer, Lust und Ehren;</l>
+                  <l>  Doch konnte seinem <hi rend="italic">Liebe</hi>drang'</l>
+                  <l>  Der Junker bald nicht wehren.</l>
+                  <l>  Kaum war der dritte Tag vorbei:</l>
+                  <l>  Als er der schönen <hi rend="italic">Rosa Mai</hi>,</l>
+                  <l>  Für die er, <hi rend="italic">Vielen</hi>  gleich, entbrannte,</l>
+                  <l>  Wie <hi rend="italic">stolz</hi>  er war, die Gluth <hi rend="italic">bekannte</hi>.</l>
+               </lg>
+               <lg>
+                  <l>  Er folgte, wo sie ging und stand,</l>
+                  <l>  Gleich wie dem Licht' der Schatten;</l>
+                  <l>  Und bot ihr, als der Frühling schwand,</l>
+                  <l>  Sich offen an, zum <hi rend="italic">Gatten</hi>.</l>
+                  <l>  Die <hi rend="italic">Jungfrau</hi>  sprach: »Bin nicht mehr mein;</l>
+                  <l>  Muss eines <hi rend="italic">Andern</hi>  Liebe sein!</l>
+                  <l>  Denn Herz und Hand, auf Tod und Leben,</l>
+                  <l>  Sind an den Gärtner <hi rend="italic">Heil</hi>  vergeben.« —</l>
+               </lg>
+               <lg>
+                  <l>Das fühlt der stolze Junker tief!</l>
+                  <l>  Der Zahme wird ein Drache;</l>
+                  <l>  Und, statt der <hi rend="italic">Liebe</hi>, die entschlief,</l>
+                  <l>  Erwacht ein Geist der <hi rend="italic">Rache</hi>.</l>
+                  <l>  Nur <hi rend="italic">der</hi>  Gedanke war ihm süss:</l>
+                  <l>  Die gold'ne Frucht, das gold'ne Vliess</l>
+                  <l>  Der <hi rend="italic">Liebe</hi>, mit <hi rend="italic">Gewalt</hi>  zu stürmen;</l>
+                  <l>  Ob Berge von Gefahr sich thürmen.</l>
+               </lg>
+               <lg>
+                  <l>Er wusste durch ein Schmeichelwort,</l>
+                  <l>  Mich Armen zu bestechen;</l>
+                  <l>  Und riss mich zum Entschlusse fort,</l>
+                  <l>  Zu theilen sein Verbrechen.</l>
+                  <l>  Von <hi rend="italic">Rache</hi>  wurde nur geträumt,</l>
+                  <l>  Und Herrngebot und Pflicht versäumt;</l>
+                  <l>  Von <hi rend="italic">dem</hi>  an, blieb das Räuberleben</l>
+                  <l>  Der Hölle treuem Dienst' ergeben.</l>
+               </lg>
+               <lg>
+                  <l>  Uns trieb die wilde Jagd umher,</l>
+                  <l>  Wir höhnten aller Sitte;</l>
+                  <l>  Und Schmach und Unheil drückte schwer,</l>
+                  <l>  Selb auf des Armen Hütte!</l>
+                  <l>  Bis unser <hi rend="italic">Herr</hi>, von solcher Schmach</l>
+                  <l>  Gerecht empört, das <hi rend="italic">Urtheil</hi>  sprach:</l>
+                  <l>  Das uns gebot, von <hi rend="italic">ihm</hi>  und <hi rend="italic">Treiden</hi>,</l>
+                  <l>  Schon mit dem nächsten Mond, zu <hi rend="italic">scheiden</hi>.</l>
+               </lg>
+               <lg>
+                  <l>Dem <hi rend="italic">Greif</hi>  gefiel, <hi rend="italic">dieselbe</hi>  Zeit,</l>
+                  <l>
+                     <hi rend="italic">Denselben</hi>  Mond zu wählen:</l>
+                  <l>  Vor allem Volk', in Festlichkeit,</l>
+                  <l>  Das Brautpaar zu vermählen.</l>
+                  <l>  Da gab es fürder keine Rast:</l>
+                  <l>  Die <hi rend="italic">That</hi>, worauf wir lang gefasst,</l>
+                  <l>  Bevor sich Wind und Wetter wenden,</l>
+                  <l>  Am nächsten Tage zu vollenden.</l>
+               </lg>
+               <lg>
+                  <l>Es hatten Braut und Bräutigam,</l>
+                  <l>  Von Tages Werk entbunden,</l>
+                  <l>  Alltäglich, wenn der Abend kam,</l>
+                  <l>  Im <hi rend="italic">Thal</hi>  sich eingefunden.</l>
+                  <l>  Da gähnt, in hoher Felsenwand,</l>
+                  <l>  Ein <hi rend="italic">Höhlenwerk</hi>, von <hi rend="italic">seiner</hi>  Hand;</l>
+                  <l>  Hinfort benannt nach seinem Namen;</l>
+                  <l>
+                     <hi rend="italic">Wo sie</hi>  und <hi rend="italic">er</hi>  zusammen kamen.</l>
+               </lg>
+               <lg>
+                  <l>  Wir wählten, ungestört zu sein,</l>
+                  <l>  Die sich're <hi rend="italic">Mittag</hi>stunde;</l>
+                  <l>  Die <hi rend="italic">Braut</hi>  empfing, zum Stelldichein,</l>
+                  <l>  Am Morgen schon die <hi rend="italic">Kunde</hi>:</l>
+                  <l>  Dass <hi rend="italic">Heil</hi>, der reisen soll, beklagt,</l>
+                  <l>  Es sei der Abend ihm <hi rend="italic">versagt</hi>;</l>
+                  <l>  Er hoffe: nach dem Mittagmahle,</l>
+                  <l>  Die Braut zu seh'n, im Höhlenthale. —</l>
+               </lg>
+               <lg>
+                  <l>Bereit zu Frevel und Gewalt,</l>
+                  <l>  Zu That der Schande fertig:</l>
+                  <l>
+                     <hi rend="italic">So</hi>  waren wir der <hi rend="italic">Huldgestalt</hi>,</l>
+                  <l>  Am Felsen schon gewärtig.</l>
+                  <l>  Mit <hi rend="italic">Blumen</hi>, nur von <hi rend="italic">Heil</hi>  gepflückt,</l>
+                  <l>  War rings die Höhle neu geschmückt;</l>
+                  <l>  Wie Flora muss in <hi rend="italic">Pracht</hi>  erscheinen,</l>
+                  <l>  Wo wir am Sarg der Bräute weinen.</l>
+               </lg>
+               <lg>
+                  <l>Der hohen <hi rend="italic">Edeldame</hi>  gleich,</l>
+                  <l>  In festlichem Gewande:</l>
+                  <l>  Erschien, — doch wie von Ahnung bleich,</l>
+                  <l>  Die schönste Braut im Lande!</l>
+                  <l>  Sie sah, bestrahlt von Sonnengold,</l>
+                  <l>  Hinüber nur, nach <hi rend="italic">Segewold</hi>;</l>
+                  <l>  Gewiegt von Hoffnung und Vertrauen,</l>
+                  <l>  Den holden <hi rend="italic">Liebling</hi>  zu erschauen. —</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="italic">Wohl</hi>  ging es meiner Seele nah':</l>
+                  <l>  Als ich, im Laub' verborgen,</l>
+                  <l>  Des trüben Auges <hi rend="italic">Thräne</hi>  sah,</l>
+                  <l>  Wie Perlenthau am Morgen!</l>
+                  <l>  Doch gab der böse Feind nicht Ruh';</l>
+                  <l>  Er warf mir <hi rend="italic">Hohnes</hi>-Blicke zu!</l>
+                  <l>  Die Schauerstunde war erschienen,</l>
+                  <l>  Mit ihm verschworen, ihm zu dienen!</l>
+               </lg>
+               <lg>
+                  <l>Indess' ihr Geist den hohlen Raum</l>
+                  <l>  Nach Segewold gemessen;</l>
+                  <l>  Und Alles, nur den süssen Traum</l>
+                  <l>  Der <hi rend="italic">Liebe</hi>  nicht vergessen:</l>
+                  <l>  Erscheinen <hi rend="italic">wir</hi>, wie Blitz der Nacht;</l>
+                  <l>  Wie Donnersturm der Polenschlacht!</l>
+                  <l>  Und, mit der Hölle vollem Segen,</l>
+                  <l>  Ertönet ihr das <hi rend="italic">Wort</hi>  entgegen:</l>
+               </lg>
+               <lg>
+                  <l>»Sei mir willkommen, holde <hi rend="italic">Braut</hi>!</l>
+                  <l>  Du Schönste aller Zeiten!</l>
+                  <l>  Dein Leben ist auf <hi rend="italic">Heil</hi>  gebaut:</l>
+                  <l>  Ich will dir Heil <hi rend="italic">bereiten</hi>.</l>
+                  <l>  Sei unverzagt, und zittre nicht!</l>
+                  <l>  Dein todtenkaltes Angesicht</l>
+                  <l>  Soll ungesäumt, in meinen Armen,</l>
+                  <l>  Am Feuer dieser Brust erwarmen!« —</l>
+               </lg>
+               <lg>
+                  <l>  Die <hi rend="italic">Jungfrau</hi>, bis zum Tode matt,</l>
+                  <l>  Bei diesem frechen Hohne:</l>
+                  <l>  Und bebend, wie ein welkes Blatt,</l>
+                  <l>  Auf hoher Eichenkrone:</l>
+                  <l>  Erhob sich bald, in Majestät!</l>
+                  <l>  Wie Fels in Meereswogen steht!</l>
+                  <l>  Und wie die Wogen sich <hi rend="italic">empören</hi>,</l>
+                  <l>
+                     <hi rend="italic">So</hi>  lässt sie nun das <hi rend="italic">Urtheil</hi>  hören:</l>
+               </lg>
+               <lg>
+                  <l>»Was hat mein Leben dir gethan?</l>
+                  <l>  Hinweg von dieser Stelle!</l>
+                  <l>  Der Weg zum <hi rend="italic">Heil</hi>  ist meine Bahn,</l>
+                  <l>  Der deine führt zur Hölle!</l>
+                  <l>
+                     <hi rend="italic">Dir</hi>  wird die Jungfrau nicht zu Theil;</l>
+                  <l>  Mein <hi rend="italic">Erden</hi>-Heil beruht in <hi rend="italic">Heil</hi>!</l>
+                  <l>  Bei <hi rend="italic">dir</hi>  ist Unheil und Verderben;</l>
+                  <l>  Dem <hi rend="italic">Heil</hi>  nur leb' ich, ihm zu sterben.« —</l>
+               </lg>
+               <lg>
+                  <l>Darauf das freche Wort erscholl,</l>
+                  <l>  Wie aus dem Höllen-Pfuhle:</l>
+                  <l>  »Der nicht dein <hi rend="italic">Gatte</hi>  werden soll,</l>
+                  <l>  Umarme dich als <hi rend="italic">Buhle</hi>!</l>
+                  <l>
+                     <hi rend="italic">Die</hi>  mir des <hi rend="italic">Gatten</hi>  Glück versagt:</l>
+                  <l>  Sei <hi rend="italic">Dirne</hi>  mir, auch ungefragt!</l>
+                  <l>  Dein <hi rend="italic">Unheil</hi>  wirst du, wohl berathen,</l>
+                  <l>  Dem lieben <hi rend="italic">Heil</hi>  ja nicht verrathen.« —</l>
+               </lg>
+               <lg>
+                  <l>  Mit diesen Worten stürmt er ein,</l>
+                  <l>  Auf Lebensglück und Ehre;</l>
+                  <l>  Die zarte <hi rend="italic">Jungfrau</hi>  stand <hi rend="italic">allein</hi>;</l>
+                  <l>  Verlassen, ohne Wehre!</l>
+                  <l>  Sie rang, mit der Verzweiflung Kraft;</l>
+                  <l>  Bis, in den Staub dahin gerafft,</l>
+                  <l>
+                     <hi rend="italic">Sie</hi>, machtlos, neu sich zu erheben,</l>
+                  <l>  Nur bat, ihr schnellen <hi rend="italic">Tod</hi>  zu geben. —</l>
+               </lg>
+               <lg>
+                  <l>Ihr Goldgelock in meiner Hand,</l>
+                  <l>
+                     <hi rend="italic">So</hi>  hielt ich sie darnieder;</l>
+                  <l>  Er aber riss das Gürtelband</l>
+                  <l>  Von ihrem blauen Mieder.</l>
+                  <l>  Ein <hi rend="italic">Rosatuch</hi>, das ihm gefiel,</l>
+                  <l>  Entfallen ihr im Kampfgewühl':</l>
+                  <l>  Erwählte <hi rend="italic">Gott</hi>, in <hi rend="italic">seinen</hi>  Händen,</l>
+                  <l>  Der Schande Schmach von ihr zu wenden!</l>
+               </lg>
+               <lg>
+                  <l>Denn <hi rend="italic">sie</hi>, mit Flötenton, begann:</l>
+                  <l>  »Dir gilt mein Habsal <hi rend="italic">wenig</hi>!</l>
+                  <l>  Doch wisse: wer das <hi rend="italic">Tuch</hi>  gewann,</l>
+                  <l>  Ist reicher, denn ein König!</l>
+                  <l>
+                     <hi rend="italic">Kein</hi>  Tuch, in allem Erdenreich',</l>
+                  <l>  Ist dieser <hi rend="italic">Wundergabe</hi>  gleich;</l>
+                  <l>  Zu <hi rend="italic">eigen</hi>  soll es dir gehören,</l>
+                  <l>  Doch lass' mich ziehen, <hi rend="italic">frei</hi>, mit <hi rend="italic">Ehren</hi>!</l>
+               </lg>
+               <lg>
+                  <l>  »Es wohnt im Tuche <hi rend="italic">Zauber</hi>-Macht!</l>
+                  <l>  Sein Schmuck, in bösen Stunden,</l>
+                  <l>  Und auch im Dampfe wilder Schlacht:</l>
+                  <l>  Befreit von Todeswunden.</l>
+                  <l>  Es rettet Leben Dir und Leib; —</l>
+                  <l>  Dem starken Mann, dem schwachen Weib',</l>
+                  <l>  Vermag nicht Blei, noch Stahl und Eisen,</l>
+                  <l>  Die sich're Seele zu entreissen.« — —</l>
+               </lg>
+               <lg>
+                  <l>Sofort der wilde <hi rend="italic">Junker</hi>  spricht:</l>
+                  <l>  »Lass' deine Künste fahren!</l>
+                  <l>  Mich retten deine Zauber nicht;</l>
+                  <l>  Mich soll der <hi rend="italic">Muth</hi>  bewahren!</l>
+                  <l>  Wenn Schwert und Panzer nicht beschirmt,</l>
+                  <l>  Wo mir der Tod entgegenstürmt;</l>
+                  <l>  Nicht Muth und Kraft mir Sieg verleihen,</l>
+                  <l>  Kann mich dein <hi rend="italic">Flitter</hi>  nicht befreien.« —</l>
+               </lg>
+               <lg>
+                  <l>Er wirft die gold'ne Busenzier</l>
+                  <l>  Der keuschen Brust entgegen;</l>
+                  <l>  Und fühlt nur freche Lustbegier</l>
+                  <l>  Das Räuberherz bewegen.</l>
+                  <l>  Er stürmt auf sie, wie Wetterstrahl!</l>
+                  <l>  Da bleibt ihr nur die <hi rend="italic">Todes</hi>wahl;</l>
+                  <l>  Und horch! ihr Schicksal zu beschämen,</l>
+                  <l>  Lässt muthvoll <hi rend="italic">sie</hi>  das <hi rend="italic">Wort</hi>  vernehmen:</l>
+               </lg>
+               <lg>
+                  <l>  »Den <hi rend="italic">Zauber</hi>, der im Tuche wohnt,</l>
+                  <l>  Soll deine That beweisen!</l>
+                  <l>  Vertraue mir! das Tuch verschont</l>
+                  <l>  Den Leib vor deinem Eisen.</l>
+                  <l>  Mich lähmt kein Schlag von dieser Welt;</l>
+                  <l>  Und auch kein Tropfen Blutes fällt:</l>
+                  <l>  Ob Dolche, Schwerter, Lanzenspitzen,</l>
+                  <l>  Des Feindes, auf mich niederblitzen.</l>
+               </lg>
+               <lg>
+                  <l>»Umringt den Hals mein <hi rend="italic">Rosatuch</hi>,</l>
+                  <l>  Wie gleich es mag geschehen:</l>
+                  <l>  So bet' ich meinen Zauberspruch,</l>
+                  <l>  Dann sollt ihr Wunder sehen.</l>
+                  <l>  Erhebe deinen Stahl der Schlacht!</l>
+                  <l>  Fall' aus mit deiner Riesenmacht!</l>
+                  <l>  Nur ziele muthig nach der Kehle!</l>
+                  <l>  Dann <hi rend="italic">sicher</hi>  bleibt mir Leib und Seele.« —</l>
+               </lg>
+               <lg>
+                  <l>Wie nun den weissen Hals umwand</l>
+                  <l>  Das Tuch von Gold und Seide:</l>
+                  <l>  Entriss mit Ingrimm seine Hand</l>
+                  <l>  Den Würgerstahl der Scheide.</l>
+                  <l>  Besessen, wie von Tiegerwuth,</l>
+                  <l>  In seinem Blick' der Hölle Gluth:</l>
+                  <l>
+                     <hi rend="italic">So</hi>  liess, dem <hi rend="italic">Satan</hi>  heimgefallen,</l>
+                  <l>  Der Wüthrich <hi rend="italic">diesen Ruf</hi>  erschallen:</l>
+               </lg>
+               <lg>
+                  <l>  »Ist <hi rend="italic">also</hi>  dem, so wäre schier</l>
+                  <l>  Dein Flitterstaat zu loben;</l>
+                  <l>  Sei denn bereit! ich will an dir</l>
+                  <l>  Des <hi rend="italic">Tuches Kraft erproben</hi>.</l>
+                  <l>  Das <hi rend="italic">Eine</hi>  soll entschieden sein:</l>
+                  <l>  Das <hi rend="italic">Tuch</hi>  ist, oder <hi rend="italic">Du</hi>  bist mein!</l>
+                  <l>  Mein <hi rend="italic">Schicksal</hi>  ruft! es soll erklären,</l>
+                  <l>  Ob deine <hi rend="italic">Wunder</hi>  sich <hi rend="italic">bewähren</hi>!« — —</l>
+               </lg>
+               <lg>
+                  <l>Ich sah nun, kurze Weile fort,</l>
+                  <l>  Den Rosenmund sich regen;</l>
+                  <l>  Mir aber klang das leise Wort,</l>
+                  <l>  Als wär' es <hi rend="italic">Zauber</hi>-Segen.</l>
+                  <l>  Es war jungfräuliches <hi rend="italic">Gebet</hi>,</l>
+                  <l>  Um letzte Kraft, von <hi rend="italic">Gott</hi>  erfleht!</l>
+                  <l>
+                     <hi rend="italic">Das</hi>  hab' ich gläubig erst empfunden,</l>
+                  <l>  Da schon ihr Leben war entschwunden.</l>
+               </lg>
+               <lg>
+                  <l>Sie warf den milden Scheideblick</l>
+                  <l>  Nach <hi rend="italic">Segewold</hi>  hinüber;</l>
+                  <l>  Da mass sie das verlorne Glück!</l>
+                  <l>  Da ward ihr Auge trüber!</l>
+                  <l>  Doch schnell die Augen abgewandt,</l>
+                  <l>  Den letzten Blick zu <hi rend="italic">Gott</hi>  gesandt:</l>
+                  <l>  Lag sie bereit, dahin zu gehen —</l>
+                  <l>  Dem grossen Tod' das schöne Leben. —</l>
+               </lg>
+               <lg>
+                  <l>  O, weh' mir, dem es nicht gelang,</l>
+                  <l>  Ihr Schicksal noch zu wenden!</l>
+                  <l>  Denn eilig schon der Mörder schwang</l>
+                  <l>  Den Stahl mit beiden Händen!</l>
+                  <l>  Und, zielend nach dem <hi rend="italic">Rosatuch'</hi>,</l>
+                  <l>  Vertrauend auf den Zauberspruch:</l>
+                  <l>  So liess er, meinem Blick zum Grausen,</l>
+                  <l>  Den Schlag, wie Blitz, darniedersausen! — —</l>
+               </lg>
+               <lg>
+                  <l>Entflogen war des Lebens Traum! —</l>
+                  <l>  Weit offen gähnt die Wunde!</l>
+                  <l>  Kein <hi rend="italic">Ach</hi>  erscholl! sie zuckte kaum,</l>
+                  <l>  Mit dem nun bleichen Munde!</l>
+                  <l>  Sie starb, mit allem Heldenmuth'!</l>
+                  <l>  Ein Purpurquell von klarem Blut',</l>
+                  <l>  Beschloss, als rauchende Fontäne,</l>
+                  <l>  Die hoch erhab'ne <hi rend="italic">Trauer-Scene</hi>!...</l>
+               </lg>
+               <lg>
+                  <l>Dem Markstein an der Grenze gleich,</l>
+                  <l>  Gebannt an seine Stelle:</l>
+                  <l>  So standen <hi rend="italic">Beide</hi>, starr und bleich,</l>
+                  <l>  Der <hi rend="italic">Mord</hi>  und sein <hi rend="italic">Geselle</hi>! —</l>
+                  <l>  Ein <hi rend="italic">Angstruf</hi>, den ich laut vernahm,</l>
+                  <l>  Der aus der nahen Tiefe kam:</l>
+                  <l>  Vermochte nicht mit seinem Schrecken,</l>
+                  <l>  Der <hi rend="italic">Zeugen</hi>  Furcht in mir zu wecken. —</l>
+               </lg>
+               <lg>
+                  <l>  Das Tüchlein blieb ein Zaubertuch,</l>
+                  <l>  Für uns von Weltenschwere!</l>
+                  <l>  Es trug in sich der Nachwelt Fluch;</l>
+                  <l>  Der <hi rend="italic">Jungfrau</hi>  — Preis und Ehre!</l>
+                  <l>  Der Mörder sah zum Opfer hin,</l>
+                  <l>  Wie <hi rend="italic">Kain</hi>  nach dem Mord erschien:</l>
+                  <l>  Und nach hinabgewürgtem Grimme,</l>
+                  <l>  Vernahm ich der <hi rend="italic">Verzweiflung</hi>  Stimme:</l>
+               </lg>
+               <lg>
+                  <l>»O, <hi rend="italic">du</hi>, getaucht in Martyrblut:</l>
+                  <l>  Du <hi rend="italic">Gott</hi>-gesandte <hi rend="italic">Gabe</hi>!</l>
+                  <l>  Du <hi rend="italic">Zaubertuch</hi>, das Wunder thut,</l>
+                  <l>  Im Sarge noch und Grabe!</l>
+                  <l>
+                     <hi rend="italic">Gespinnst</hi>, wie du der Welt dich nennst:</l>
+                  <l>  Gesponnen mir zum Nachtgespenst'!</l>
+                  <l>
+                     <hi rend="italic">Gewebe</hi>, mir zur <hi rend="italic">Qual</hi>  gewoben:</l>
+                  <l>  Lass dich von deiner <hi rend="italic">Jungfrau</hi>  loben!</l>
+               </lg>
+               <lg>
+                  <l>»O <hi rend="italic">Schönheit</hi>, wie noch keine war!</l>
+                  <l>  Von mir in Staub getreten!</l>
+                  <l>
+                     <hi rend="italic">Hier</hi>  ist mein Tempel und Altar!</l>
+                  <l>
+                     <hi rend="italic">Hier</hi>  lern' ich heute beten! —</l>
+                  <l>
+                     <hi rend="italic">Gebet</hi>? — Was solch ein <hi rend="italic">Mörder</hi>  spricht:</l>
+                  <l>  Erhört ein Gott im Himmel nicht!</l>
+                  <l>
+                     <hi rend="italic">Mir</hi>  soll kein Paradies mehr grünen;</l>
+                  <l>  Ich muss hinfort der <hi rend="italic">Hölle</hi>  dienen</l>
+               </lg>
+               <lg>
+                  <l>  »Die <hi rend="italic">Ehre</hi>  — war dein <hi rend="italic">Zauber</hi>-Spruch,</l>
+                  <l>  Dein Tuch dein Ritterorden!</l>
+                  <l>
+                     <hi rend="italic">Mir</hi>  aber ist der Zeiten Fluch,</l>
+                  <l>  Und Schmach zu Theil geworden.</l>
+                  <l>  Ich <hi rend="italic">folge</hi>  dir, in schnellem <hi rend="italic">Tod</hi>,</l>
+                  <l>  Doch nicht zu deinem Morgenroth!</l>
+                  <l>  Mein Schwert empfängt die Felsenquelle;</l>
+                  <l>  Den Leib der Strang, den Geist die Hölle!</l>
+               </lg>
+               <lg>
+                  <l>»Dir <hi rend="italic">Frieden</hi>, Leib in deinem Blut!</l>
+                  <l>  Dir <hi rend="italic">Freude</hi>  dort, du Engelseele!</l>
+                  <l>  Dein Grablied sei dein Heldenmuth!</l>
+                  <l>  Dein Denkmal diese Zauberhöhle!</l>
+                  <l>  Dein <hi rend="italic">Geist</hi>, verklärt in <hi rend="italic">Liebe</hi>, steigt,</l>
+                  <l>  Wenn Hoffnung mir und Glaube schweigt.</l>
+                  <l>
+                     <hi rend="italic">Ich</hi>  — bin ein Labsal nur den <hi rend="italic">Raben</hi>:</l>
+                  <l>
+                     <hi rend="italic">Dich</hi>  wird der <hi rend="italic">ew'ge Ruhm</hi>  begraben!</l>
+               </lg>
+               <lg>
+                  <l>»Du <hi rend="italic">lächelst</hi>  noch im <hi rend="italic">Tode</hi>  mild,</l>
+                  <l>  Als ob du mir verziehen!</l>
+                  <l>
+                     <hi rend="italic">Ich</hi>  — werde deinem <hi rend="italic">Schattenbild'</hi>
+                  </l>
+                  <l>  Im Tode nicht entfliehen! —</l>
+                  <l>  Hinaus! hinweg, von dieser Welt!</l>
+                  <l>  Die Bühne <hi rend="italic">brach</hi>, der Vorhang <hi rend="italic">fällt</hi>!</l>
+                  <l>  Komm', <hi rend="italic">Hölle</hi>  du, mit deinen Qualen:</l>
+                  <l>  Ich will dir meine Schuld bezahlen.« —</l>
+               </lg>
+               <lg>
+                  <l>  Nach diesem stürmt er wild hinab,</l>
+                  <l>  Den Richter in der Seele:</l>
+                  <l>  Zum <hi rend="italic">Opfer</hi>  am Sibyllengrab'</l>
+                  <l>  Der alten <hi rend="italic">Liven</hi>-Höhle.</l>
+                  <l>  Da winkt ihm, unter festem Dach,</l>
+                  <l>  Und schweigsam, wie ein <hi rend="italic">Lethe</hi>-Bach,</l>
+                  <l>  Und eisigkalt, doch rein und helle:</l>
+                  <l>  Im Felsenbett', die <hi rend="italic">Felsenquelle</hi>.</l>
+               </lg>
+               <lg>
+                  <l>Nun senkt er vor dem klaren Strom'</l>
+                  <l>  Den Mörderstahl danieder;</l>
+                  <l>  Und hohl ertönt im Felsendom</l>
+                  <l>  Das <hi rend="italic">Wort</hi>  des <hi rend="italic">Fluches</hi>  wider:</l>
+                  <l>  »Ein <hi rend="italic">Opferpriester</hi>  komm' ich heut'!</l>
+                  <l>  Dem Opfer fehlt noch Grabgeläut;</l>
+                  <l>  So lass' denn, <hi rend="italic">Quelle</hi>, <hi rend="italic">dich</hi>  erwählen,</l>
+                  <l>  Von uns dem Volke zu erzählen!</l>
+               </lg>
+               <lg>
+                  <l>»Du nahmest im Jahrtausendlauf',</l>
+                  <l>  Bei deinem Tropfen-Spiele,</l>
+                  <l>  So manche <hi rend="italic">Thräne</hi>  schweigend auf,</l>
+                  <l>  Und Opfergaben <hi rend="italic">viele</hi>!</l>
+                  <l>  Hier tränktest du den müden Gast;</l>
+                  <l>  Hier fand er Schattenkühl' und Rast!</l>
+                  <l>  Dir Dank für Labe zu beweisen.</l>
+                  <l>  Empfange nun mein Mördereisen!</l>
+               </lg>
+               <lg>
+                  <l>  »Es soll, von edlem Blut' geweiht,</l>
+                  <l>  Zu dir hinab versinken;</l>
+                  <l>  Dann lass' mich Allvergessenheit</l>
+                  <l>  Aus deinem Borne trinken! —</l>
+                  <l>  Ein Opferlamm, so weiss und rein,</l>
+                  <l>  Geschlachtet auf dem Opferstein:</l>
+                  <l>  Ein <hi rend="italic">Tugend</hi>-Leben, kranzumwunden,</l>
+                  <l>  Hat sterbend hier den <hi rend="italic">Preis</hi>  gefunden!</l>
+               </lg>
+               <lg>
+                  <l>»Du <hi rend="italic">Berggeist</hi>, der in <hi rend="italic">Tiefen</hi>  thront</l>
+                  <l>  In unentweihter Stille!</l>
+                  <l>  Du, <hi rend="italic">Nixe</hi>, die den <hi rend="italic">Quell</hi>  bewohnt!</l>
+                  <l>  Begraben du, <hi rend="italic">Sibylle</hi>!</l>
+                  <l>  Du reiner, flüssiger Kristall!</l>
+                  <l>  Und du im Lenze, <hi rend="italic">Nachtigall</hi>!</l>
+                  <l>  Verkündet, wann ich längst gefallen,</l>
+                  <l>  Der <hi rend="italic">Jungfrau Lob</hi>  in diesen Hallen!« — —</l>
+               </lg>
+               <lg>
+                  <l>Nach diesem, warf die Mörderfaust</l>
+                  <l>  Den Mordstahl in die Quelle;</l>
+                  <l>  Und, wie zum <hi rend="italic">Hohne</hi>, zischt und braust</l>
+                  <l>  Die wild empörte Welle.</l>
+                  <l>  Darauf zu <hi rend="italic">mir</hi>  der <hi rend="italic">Arge</hi>  spricht:</l>
+                  <l>  »Verfolge meine Wege nicht!</l>
+                  <l>  Ergreife schnell die Flucht, und weiche,</l>
+                  <l>  Bevor ich würge dich zur Leiche!« — —</l>
+               </lg>
+               <lg>
+                  <l>  Gejagt, von unsichtbarer Macht,</l>
+                  <l>  Durch hell besonnte Fluren,</l>
+                  <l>  Entschwand er in des Waldes Nacht;</l>
+                  <l>  Ich — folgte seinen Spuren.</l>
+                  <l>  Es trieb mich, ohne Rast und Ruh',</l>
+                  <l>  Den dicht belaubten <hi rend="italic">Höhen</hi>  zu;</l>
+                  <l>  Wo quälend, unter Laub der Bäume,</l>
+                  <l>  Der <hi rend="italic">Schlaf</hi>  mich senkt in <hi rend="italic">Todesträume</hi>!</l>
+               </lg>
+               <lg>
+                  <l>Ich sah gezückt das Mordgewehr</l>
+                  <l>  Die Schauerlüfte spalten;</l>
+                  <l>  Gespenster zogen um mich her,</l>
+                  <l>  In blutigen Gestalten;</l>
+                  <l>  Bis nun die <hi rend="italic">Todesbraut</hi>  erschien,</l>
+                  <l>  In weisser Hand der <hi rend="italic">Palme</hi>  Grün;</l>
+                  <l>  Siegprangend, über Mord erhaben,</l>
+                  <l>  Umschwebt von tausend Engelknaben!</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="italic">So</hi>  war ich unter meinem Baum,</l>
+                  <l>  Verborgen, nicht geborgen;</l>
+                  <l>  Bis endlich aus dem schweren Traum</l>
+                  <l>  Mich weckt der junge Morgen.</l>
+                  <l>  Mein <hi rend="italic">erster</hi>  Blick, aus dem Versteck,</l>
+                  <l>  Erlugte, mir zu neuem Schreck:</l>
+                  <l>  Den <hi rend="italic">Mörder</hi>, starr und ohne Leben;</l>
+                  <l>  Der <hi rend="italic">selber</hi>  sich den <hi rend="italic">Tod</hi>  gegeben!</l>
+               </lg>
+               <lg>
+                  <l>  Da hing, vergebens lang gesucht:</l>
+                  <l>  Der <hi rend="italic">Flüchtling</hi>  — eine <hi rend="italic">Leiche</hi>  —</l>
+                  <l>  Wie eine <hi rend="italic">Gift</hi>-belad'ne Frucht —</l>
+                  <l>  Am Stamm der höchsten Eiche!</l>
+                  <l>  Sein Angesicht, wie Asche grau;</l>
+                  <l>  Die Lippe Schaum, die Zunge blau;</l>
+                  <l>  Wie Wolfbrut fletschend, mit den Zähnen;</l>
+                  <l>  Das Haar gesträubt, wie von Hyänen! —</l>
+               </lg>
+               <lg>
+                  <l>Und sieh, mein <hi rend="italic">Weltenrichter</hi>  kam,</l>
+                  <l>  Herab in seinem Grimme!</l>
+                  <l>  Das Ohr in meiner Brust vernahm</l>
+                  <l>  Die Donner seiner Stimme. —</l>
+                  <l>
+                     <hi rend="italic">Gewissen</hi>  — bleibt kein leeres Wort!</l>
+                  <l>
+                     <hi rend="italic">Gewissen</hi>  — treibt die Sünder fort:</l>
+                  <l>  Was <hi rend="italic">tief</hi>  im Busen sie bewahren,</l>
+                  <l>  Dem hellen <hi rend="italic">Tag'</hi>  zu offenbaren.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="italic">So</hi>  trat ich vor die Schranken her, —</l>
+                  <l>  Nicht, Mitleid zu erweinen;</l>
+                  <l>  Ich will, von <hi rend="italic">Schuld</hi>  beladen <hi rend="italic">schwer</hi>,</l>
+                  <l>  In voller Schuld erscheinen.</l>
+                  <l>  Dem <hi rend="italic">Mörder</hi>  war ich zugesellt!</l>
+                  <l>  Und, <hi rend="italic">Feind</hi>  des Lebens dieser Welt:</l>
+                  <l>  Verlang' ich, <hi rend="italic">Tod</hi>  mir zu gewähren;</l>
+                  <l>  Doch <hi rend="italic">frei</hi>  den <hi rend="italic">Jüngling</hi>  zu erklären.« —</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi rend="italic">So</hi>  sprach er; und die Halle glich</l>
+                  <l>  Dem Grabe der Karthause;</l>
+                  <l>  Und nur dem lauten <hi rend="italic">Ach</hi>  entwich</l>
+                  <l>  Des Volkes Todtenpause.</l>
+                  <l>  Doch schien dem hohen Landgericht'</l>
+                  <l>  Noch eine <hi rend="italic">Frage</hi>  von Gewicht:</l>
+                  <l>  Der <hi rend="italic">Mordgeselle</hi>  soll besagen,</l>
+                  <l>  Was sich mit <hi rend="italic">Leutha</hi>  zugetragen.</l>
+               </lg>
+               <lg>
+                  <l>Mit Staunen ob der Frage, schweigt</l>
+                  <l>  Der bleiche Mordgeselle;</l>
+                  <l>  Doch sieh, von <hi rend="italic">Greif</hi>  getragen, zeigt</l>
+                  <l>  Das <hi rend="italic">Kind</hi>  sich an der Schwelle!</l>
+                  <l>  Die Tochter war noch schreckenblass:</l>
+                  <l>  Und jedes Auge wurde nass:</l>
+                  <l>  Da rührend nun die Gottgesandte,</l>
+                  <l>  Was <hi rend="italic">sie</hi>  vernommen, auch bekannte.</l>
+               </lg>
+               <lg>
+                  <l>Geschäftig war das holde <hi rend="italic">Kind</hi>,</l>
+                  <l>  Vergissmeinnicht zu pflücken,</l>
+                  <l>  Um liebend, mit dem Kranzgewind',</l>
+                  <l>  Wie oft, die Braut zu schmücken.</l>
+                  <l>  Da hörte sie ein Wehgeschrei;</l>
+                  <l>  Und lief, den Stufen zu, herbei:</l>
+                  <l>  Um in der <hi rend="italic">Grotte</hi>, auf den Höhen,</l>
+                  <l>  Zu sehen, was der Braut geschehen.</l>
+               </lg>
+               <lg>
+                  <l>  Doch, wie den <hi rend="italic">Mörder</hi>  sie erblickt,</l>
+                  <l>  Am Höhleneingang droben,</l>
+                  <l>  Den Mordstahl in der Hand gezückt,</l>
+                  <l>  Zum Morde schon erhoben;</l>
+                  <l>  Und wie der Schlag darniederfällt:</l>
+                  <l>  Da schwindet ihrem Blick' die Welt;</l>
+                  <l>  Und unter Wehruf, halb vernichtet,</l>
+                  <l>  Ist sie der Ferne zugeflüchtet.</l>
+               </lg>
+               <lg>
+                  <l>Die Tochter irrte nach <hi rend="italic">Cremon</hi>,</l>
+                  <l>  Das lieb sie aufgenommen;</l>
+                  <l>  Doch schien der Todesengel schon</l>
+                  <l>  Herab auf sie gekommen.</l>
+                  <l>  Mit starrem Blick und ohne Wort,</l>
+                  <l>  So blieb sie, fern dem Vaterort';</l>
+                  <l>  Bis endlich <hi rend="italic">Boten</hi>  sie erfragen,</l>
+                  <l>  Und heim, zu ihren <hi rend="italic">Lieben</hi>  tragen.</l>
+               </lg>
+               <lg>
+                  <l>Sie fühlt, vom tiefen Schlaf' erwacht,</l>
+                  <l>  Sich traut in Vaterarmen;</l>
+                  <l>  Und neu das Leben, angefacht</l>
+                  <l>  An Mutterbrust, erwarmen.</l>
+                  <l>  Und da die <hi rend="italic">Sprache</hi>  wiederkam,</l>
+                  <l>  Genügend nun das Volk vernahm:</l>
+                  <l>  Wie <hi rend="italic">Wahrheit</hi>, aus der <hi rend="italic">Unschuld</hi>  Munde,</l>
+                  <l>  Den Mörder wies, durch sichre Kunde.</l>
+               </lg>
+               <lg>
+                  <l>  Der <hi rend="italic">Henker</hi>  sucht und findet bald</l>
+                  <l>  An nachgewies'ner Stelle,</l>
+                  <l>  Den <hi rend="italic">Mörder</hi>, todt im fernen <hi rend="italic">Wald</hi>',</l>
+                  <l>  Den <hi rend="italic">Mordstahl</hi>  in der Quelle;</l>
+                  <l>  Um <hi rend="italic">Beides</hi>, nach dem Richterspruch,</l>
+                  <l>  Beladen mit dem Zeitenfluch,</l>
+                  <l>  Und allem Volke zum Gedenken,</l>
+                  <l>  In tiefen Schlammes Pfuhl zu senken.</l>
+               </lg>
+               <lg>
+                  <l>Bereitet wird ein <hi rend="italic">Ehrengrab</hi>,</l>
+                  <l>  Der <hi rend="italic">Jüngling</hi>  frei gesprochen;</l>
+                  <l>  Und über <hi rend="italic">Skudritz</hi>  wird der Stab</l>
+                  <l>  Von Richterhand gebrochen.</l>
+                  <l>  Und ungesäumt und ungetheilt,</l>
+                  <l>  Die <hi rend="italic">Menge</hi>  nach dem <hi rend="italic">Kerker</hi>  eilt:</l>
+                  <l>  Mit Preis und Lob, die ihm gebühren,</l>
+                  <l>  Den <hi rend="italic">Heil</hi>  zum <hi rend="italic">Heil</hi>  herbeizuführen.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>XIV.</label>
+               </head>
+               <div type="div3">
+                  <head>Heil, im Garten von Segewold.</head>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Garten</hi>, dem ich <hi rend="italic">Leben</hi> gab:</l>
+                     <l>Senke deinen Stolz danieder!</l>
+                     <l>Deine <hi rend="italic">Flora</hi> ging zu <hi rend="italic">Grab</hi>',</l>
+                     <l>Und kein Frühling weckt sie wieder!</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Rosenblüthe</hi>, weiss und roth:</l>
+                     <l>  Neige deine Zauberfülle!</l>
+                     <l>  Meine <hi rend="italic">Rosa</hi>  brach der <hi rend="italic">Tod</hi>:</l>
+                     <l>  Schmücke nun die <hi rend="italic">Leichenhülle</hi>!</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Veilchen</hi>, das der Hain verbarg,</l>
+                     <l>
+                        <hi rend="italic">Veilchen</hi>  von der Alpenwiese:</l>
+                     <l>  Blühet nun an <hi rend="italic">ihrem</hi>  Sarg,</l>
+                     <l>  Wie ein Kranz vom Paradiese!</l>
+                  </lg>
+                  <lg>
+                     <l>Ihr, <hi rend="italic">Jasminen</hi>, reich an Duft:</l>
+                     <l>  Leer sind ohne <hi rend="italic">sie</hi>  die Räume!</l>
+                     <l>  Füllet nun die Todtengruft,</l>
+                     <l>  Mit dem Hauch der Blüthenträume!</l>
+                  </lg>
+                  <lg>
+                     <l>  Farbenpracht im Schwester-Chor,</l>
+                     <l>  Adelstolze <hi rend="italic">Georginen</hi>!</l>
+                     <l>  Hüllet euch in Trauerflor,</l>
+                     <l>  Dort, auf meinen Weltruinen!</l>
+                  </lg>
+                  <lg>
+                     <l>Reich an Balsam, voll der Pracht,</l>
+                     <l>  Labyrinthe süsser <hi rend="italic">Nelken</hi>!</l>
+                     <l>  Schmücket ihre Todesnacht,</l>
+                     <l>  Eh', wie <hi rend="italic">sie</hi>, die Blüthen welken!</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Lilie</hi>  der Blumenau,</l>
+                     <l>  Rein wie <hi rend="italic">sie</hi>, vor allen Reinen:</l>
+                     <l>  Fülle dich mit Maienthau;</l>
+                     <l>  Lass' ihn sanft daniederweinen!</l>
+                  </lg>
+                  <lg>
+                     <l>Kränze von <hi rend="italic">Vergissmeinnicht</hi>,</l>
+                     <l>  Die das Blau vom <hi rend="italic">Himmel</hi>  saugen!</l>
+                     <l>  Nacht begrub der Sonne Licht:</l>
+                     <l>  Schliesset nun die Liebesaugen!</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Myrthenstamm</hi>, den ich erzog,</l>
+                     <l>  Du, der holden <hi rend="italic">Braut</hi>  Verlangen,</l>
+                     <l>  Den ich ihr zur <hi rend="italic">Laube</hi>  bog:</l>
+                     <l>  Nur am <hi rend="italic">Grabe</hi>  wirst du prangen!</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Loorber</hi>-Schmuck und <hi rend="italic">Palmen</hi>-Zier!</l>
+                     <l>  Lohn dem Helden, Preis dem Ruhme,</l>
+                     <l>  Durch den <hi rend="italic">Tod</hi>  erkauft von <hi rend="italic">ihr</hi>:</l>
+                     <l>  Grünet nun im Heiligthume!</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Oelzweig</hi>, den nach müdem Flug,</l>
+                     <l>  Friedebringend, <hi rend="italic">Noah's</hi>  Taube,</l>
+                     <l>  Nach der Wunderarche trug: —</l>
+                     <l>
+                        <hi rend="italic">Meine</hi>  Arche — fiel zu Staube!</l>
+                  </lg>
+                  <lg>
+                     <l>Schatten du vom <hi rend="italic">Lebensbaum</hi>,</l>
+                     <l>  Den mein Traum zu lang gemessen:</l>
+                     <l>  Edler schmücken deinen Raum</l>
+                     <l>
+                        <hi rend="italic">Trauerweiden</hi>  und <hi rend="italic">Cypressen</hi>.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Baum</hi>  der <hi rend="italic">Gräber</hi>, du allein,</l>
+                     <l>  Wirst hinfort, und nicht vergebens,</l>
+                     <l>  Zierde meiner Hütte sein;</l>
+                     <l>  Und <hi rend="italic">allein</hi>  mir Baum des Lebens!</l>
+                  </lg>
+                  <lg>
+                     <l>Draussen, fern, im <hi rend="italic">Neckarthal</hi>,</l>
+                     <l>  Wo im Grab' die <hi rend="italic">Lieben</hi>  wohnen:</l>
+                     <l>  Gründ' ich ihr ein Todtenmal,</l>
+                     <l>  Reich an Immortellen-Kronen.</l>
+                  </lg>
+                  <lg>
+                     <l>Nah' bei meiner <hi rend="italic">Clause</hi>  blinkt,</l>
+                     <l>  Klar und rein der <hi rend="italic">Quelle</hi>  Spiegel;</l>
+                     <l>  Und der <hi rend="italic">Holden Urne</hi>  winkt,</l>
+                     <l>  Freundlich mir, am Rosenhügel.</l>
+                  </lg>
+                  <lg>
+                     <l>Bis der Tage Ziel erscheint;</l>
+                     <l>  Gram und Kummer dann entschwinden;</l>
+                     <l>  Und wir <hi rend="italic">droben</hi>, neu vereint,</l>
+                     <l>  Was wir <hi rend="italic">lieben</hi>, wiederfinden.</l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>XV.</label>
+               </head>
+               <div type="div3">
+                  <head>Der Jungfrau Todtenfeier.</head>
+                  <lg>
+                     <l>Es wallen edle Trauergäste,</l>
+                     <l>Und Pilger strömen ohne Zahl,</l>
+                     <l>Nach <hi rend="italic">Treiden</hi> hin, zum <hi rend="italic">Todtenfeste</hi>,</l>
+                     <l>Zur <hi rend="italic">Jungfrau</hi>, nach dem Rittersaal.</l>
+                  </lg>
+                  <lg>
+                     <l>Im Schmuck' der Fürstengruft erscheinen</l>
+                     <l>  Die Wände, wie der Säule Rund;</l>
+                     <l>  Und gold'ne Todesengel weinen</l>
+                     <l>  Danieder, von dem schwarzen Grund'.</l>
+                  </lg>
+                  <lg>
+                     <l>Kristall'ne Kronen, Kerzengarben,</l>
+                     <l>  Versenden wie ein Strahlenmeer,</l>
+                     <l>  Ein Sonnenlicht von allen Farben,</l>
+                     <l>  Im weiten Trauersaal umher.</l>
+                  </lg>
+                  <lg>
+                     <l>Und mitten dort im Saal' vollendet</l>
+                     <l>  Ein <hi rend="italic">Rosenhain</hi>  den Zauberkreis;</l>
+                     <l>  Der ringsum reiche Düfte sendet,</l>
+                     <l>  Von tausend Blüthen, roth und weiss.</l>
+                  </lg>
+                  <lg>
+                     <l>  Und mitten, hoch im Rosenhaine:</l>
+                     <l>  Im Sarge von Cypressenholz,</l>
+                     <l>  Da thronet <hi rend="italic">sie</hi>, die Makelreine,</l>
+                     <l>  Der Jungfrau Zier, der Frauen Stolz!</l>
+                  </lg>
+                  <lg>
+                     <l>Ein <hi rend="italic">Engel</hi>  ruht auf Mund und Wangen,</l>
+                     <l>  Den Liebreiz noch gefangen hält:</l>
+                     <l>  Sie hat den grossen <hi rend="italic">Tod</hi>  empfangen,</l>
+                     <l>  Wie einen <hi rend="italic">Kuss von jener</hi>  Welt.</l>
+                  </lg>
+                  <lg>
+                     <l>Im zarten Lilien-Gewande,</l>
+                     <l>  Den Myrthenkranz im blonden Haar;</l>
+                     <l>  Umgürtet mit dem Rosabande,</l>
+                     <l>  Das ihr Geleit' zum Tode war:</l>
+                  </lg>
+                  <lg>
+                     <l>So schlummert <hi rend="italic">sie</hi>, dem Tod' zum Hohne;</l>
+                     <l>  Der Traum ist lieblich, wundersam!</l>
+                     <l>  Ein <hi rend="italic">Cherub</hi>  zeigt die Palmenkrone;</l>
+                     <l>  Ein <hi rend="italic">Seraph</hi>  ist ihr Bräutigam.</l>
+                  </lg>
+                  <lg>
+                     <l>Sie mag den Freier nicht betrüben,</l>
+                     <l>  Und spricht, dem Engel zugewandt:</l>
+                     <l>  Ich will in dir den <hi rend="italic">Bruder</hi>  lieben,</l>
+                     <l>  Mein <hi rend="italic">Liebster</hi>  wohnt im <hi rend="italic">Erden</hi>land.</l>
+                  </lg>
+                  <lg>
+                     <l>So scheint im Traume sie zu sagen,</l>
+                     <l>  Nur sagt es ihre Lippe nicht;</l>
+                     <l>  Und so mag Liebe nie verzagen,</l>
+                     <l>  Wenn auch der Tod das Leben bricht.</l>
+                  </lg>
+                  <lg>
+                     <l>  Zu Häupten ihr, an Rosenzweigen,</l>
+                     <l>  Sich neigend auf ihr Todtenbild:</l>
+                     <l>  Darf sich das <hi rend="italic">Tuch</hi>  der <hi rend="italic">Liebe</hi>  zeigen,</l>
+                     <l>  Ihr Schlachtpanier und Ehrenschild.</l>
+                  </lg>
+                  <lg>
+                     <l>Es zeugt von ihrem Heldenmuthe,</l>
+                     <l>  Der ihrem Kampfe <hi rend="italic">Sieg</hi>  verleiht;</l>
+                     <l>  Es ist geweiht von ihrem <hi rend="italic">Blute</hi>,</l>
+                     <l>  Es ist von ihrem <hi rend="italic">Tod'</hi>  geweiht.</l>
+                  </lg>
+                  <lg>
+                     <l>Zu ihren Füssen kniet der <hi rend="italic">Arme</hi>:</l>
+                     <l>  Der alles Glück mit ihr verlor!</l>
+                     <l>  Sein Leben wohnt in seinem Harme;</l>
+                     <l>  Sein Reichthum ist — ein <hi rend="italic">Trauerflor</hi>!</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Wer</hi>  wankt herbei an seinem Stabe,</l>
+                     <l>  Der Erde satt, dem Himmel reif? —</l>
+                     <l>
+                        <hi rend="italic">Der sie</hi>  gerettet aus dem Grabe;</l>
+                     <l>  Das ist der alte Vater <hi rend="italic">Greif</hi>!</l>
+                  </lg>
+                  <lg>
+                     <l>Die <hi rend="italic">Mutter</hi>  weint auf ihrem Bette,</l>
+                     <l>  Von Schmerzen wund, zum Tode müd';</l>
+                     <l>  Sich sehnend nach der Schlummerstätte,</l>
+                     <l>  Zu der voran die <hi rend="italic">Holde</hi>  schied!</l>
+                  </lg>
+                  <lg>
+                     <l>Und alles Volk, und alle stöhnen,</l>
+                     <l>  Die <hi rend="italic">sie</hi>, die <hi rend="italic">Liebende</hi>  geliebt:</l>
+                     <l>  Bezeugen nun im Strom von Thränen,</l>
+                     <l>  Wie tief der Schlag ihr Herz betrübt.</l>
+                  </lg>
+                  <lg>
+                     <l>  Doch draussen weilt ein <hi rend="italic">Trauerwagen</hi>;</l>
+                     <l>  Und horch, die Gräberstunde schlug!</l>
+                     <l>  Zur <hi rend="italic">Kirche</hi>  wird sie fortgetragen,</l>
+                     <l>  Bestrahlt von hellem Fackelzug. —</l>
+                  </lg>
+                  <lg>
+                     <l>Choral, Gebet und Hymne wühlen,</l>
+                     <l>  Es wühlt der klagende <hi rend="italic">Sermon</hi>:</l>
+                     <l>  In Seelentiefen und Gefühlen;</l>
+                     <l>  Und Alles wird nur Klageton.</l>
+                  </lg>
+                  <lg>
+                     <l>Dann endet sich das Fest der Trauer;</l>
+                     <l>  Das Leben senkt den Tod hinab! —</l>
+                     <l>  Zur Linken an der Tempelmauer,</l>
+                     <l>  Da gähnt der Schlund von ihrem Grab'!</l>
+                  </lg>
+                  <lg>
+                     <l>Das <hi rend="italic">Amen</hi>  folgt dem Priestersegen! —</l>
+                     <l>  Die <hi rend="italic">Uhr</hi>, die Jeder schlagen hört:</l>
+                     <l>  Ist nur das <hi rend="italic">Herz</hi>, mit seinen Schlägen;</l>
+                     <l>  Ist nur der Schmerz, der sich empört!</l>
+                  </lg>
+                  <lg>
+                     <l>Es regnet <hi rend="italic">Kränze</hi>! dann entrollen,</l>
+                     <l>  Wie Würfel aus verweg'ner Hand,</l>
+                     <l>  Hinab zu Grab', die Gräberschollen;</l>
+                     <l>  Bis <hi rend="italic">Rosa</hi>  mit dem Sarg — <hi rend="italic">verschwand</hi>.</l>
+                  </lg>
+                  <lg>
+                     <l>Dann bringt ihr <hi rend="italic">Heil</hi>  ein Kreuz von Eisen:</l>
+                     <l>  Das soll der Heldin <hi rend="italic">Orden</hi>  sein:</l>
+                     <l>  Dann bringt die Welt — den Stein der Weisen,</l>
+                     <l>  Den inhaltschweren <hi rend="italic">Todtenstein</hi>.</l>
+                  </lg>
+                  <lg>
+                     <l>  Mit Felsen würfeln Erdvulkane,</l>
+                     <l>  Mit <hi rend="italic">Steinen</hi>  würfelt auch die Luft;</l>
+                     <l>  Und <hi rend="italic">Steine</hi>  wirft der Mensch im Wahne,</l>
+                     <l>  Auf Bruderglück und seine Gruft!</l>
+                  </lg>
+                  <lg>
+                     <l>Zeitlose <hi rend="italic">Du</hi>, nicht Zeitenlose!</l>
+                     <l>  Dein Wandel geht durch <hi rend="italic">alle</hi>  Zeit.</l>
+                     <l>  Von Dornen frei, Du, keusche <hi rend="italic">Rose</hi>,</l>
+                     <l>  Bist <hi rend="italic">Rosa</hi>  nun, der Ewigkeit!</l>
+                  </lg>
+                  <lg>
+                     <l>Der <hi rend="italic">Maienrose</hi>  Duft und Leben:</l>
+                     <l>  Sie locken Wurm und Tod herbei;</l>
+                     <l>  Indess nun Engel Dich umschweben,</l>
+                     <l>  Und treu Dich pflegen, <hi rend="italic">Rosa Mai</hi>!</l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>XVI.</label>
+               </head>
+               <div type="div3">
+                  <head>Heil, noch einmal vor dem Richter.</head>
+                  <lg>
+                     <l>Der Jüngling <hi rend="italic">Heil</hi>, nun <hi rend="italic">Mann</hi> geworden,</l>
+                     <l>Durch <hi rend="italic">Leiden</hi>, die er <hi rend="italic">gross</hi> bestand:</l>
+                     <l>Er sehnt sich aus dem Land des Norden,</l>
+                     <l>Zur Heimath, in sein Wiegenland.</l>
+                  </lg>
+                  <lg>
+                     <l>Doch eh' das Grabmal seiner Freuden</l>
+                     <l>  Von ihm empfing die letzte Pflicht:</l>
+                     <l>  Da trat er, sonder Groll zu scheiden,</l>
+                     <l>  Noch, <hi rend="italic">also</hi>  sprechend, vor <hi rend="italic">Gericht</hi>:</l>
+                  </lg>
+                  <lg>
+                     <l>»Es ward ein theures Blut vergossen,</l>
+                     <l>  Der Mörder fand verdientes Grab;</l>
+                     <l>
+                        <hi rend="italic">Nun</hi>  — habet Ihr den Tod beschlossen,</l>
+                     <l>  Auf einen, der mir Leben gab.</l>
+                  </lg>
+                  <lg>
+                     <l>Denn, wäre <hi rend="italic">Skudritz</hi>  Euch entflüchtet,</l>
+                     <l>  So wie es stand in seiner Macht:</l>
+                     <l>  So hätte <hi rend="italic">Folter</hi>  mich vernichtet,</l>
+                     <l>  Und <hi rend="italic">Schande</hi>  mir der Tod gebracht.</l>
+                  </lg>
+                  <lg>
+                     <l>  Dann auch bedenket Eure Lage,</l>
+                     <l>  Vor Thron, Gewissen und der Welt:</l>
+                     <l>  Wenn <hi rend="italic">Gott</hi>  die Wahrheit hier zu Tage,</l>
+                     <l>  Den Frevel an das Licht gestellt!</l>
+                  </lg>
+                  <lg>
+                     <l>Der <hi rend="italic">Skudritz</hi>  war, an seiner Stelle,</l>
+                     <l>  Berückt, bethört, von blindem Wahn;</l>
+                     <l>  Nur Sklave blieb der Mordgeselle,</l>
+                     <l>  Und stets dem Mörder unterthan.</l>
+                  </lg>
+                  <lg>
+                     <l>So lasset Huld ihm angedeihen! —</l>
+                     <l>  Den <hi rend="italic">Schatz</hi>, der mir im Grabe ruht,</l>
+                     <l>  Soll <hi rend="italic">nicht</hi>  unreines Blut entweihen;</l>
+                     <l>  Nicht schänden mir das edle Blut.« —</l>
+                  </lg>
+                  <lg>
+                     <l>Dem <hi rend="italic">Richter</hi>  wollte nicht behagen,</l>
+                     <l>  Was <hi rend="italic">Heil</hi>  gesprochen, allzukühn;</l>
+                     <l>  Doch will er Gnade nicht versagen,</l>
+                     <l>  Da <hi rend="italic">Greif</hi>  um gleiche Gunst erschien.</l>
+                  </lg>
+                  <lg>
+                     <l>Dem <hi rend="italic">Jüngling</hi>  war <hi rend="italic">zu weh'</hi>  geschehen;</l>
+                     <l>  Vergeben wurde, <hi rend="italic">wie</hi>  er sprach;</l>
+                     <l>  Der Richter liess den Spruch ergehen,</l>
+                     <l>  Und <hi rend="italic">Milde</hi>  folgt dem <hi rend="italic">Rechte</hi>  nach.</l>
+                  </lg>
+                  <lg>
+                     <l>»Der <hi rend="italic">Skudritz</hi>  mag im Thurm' noch büssen,</l>
+                     <l>  Für seine Schuld, die er bekannt;</l>
+                     <l>  Dann sei er aus dem Land' gewiesen,</l>
+                     <l>  Und ende <hi rend="italic">fern</hi>, von hier <hi rend="italic">verbannt</hi>!« —</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">So</hi>  sprach der <hi rend="italic">Richter</hi>, vor dem Scheiden</l>
+                     <l>  Von dem durch Mord entweihten Ort';</l>
+                     <l>  Erfreuend <hi rend="italic">so</hi>  das Herz der <hi rend="italic">Beiden</hi>,</l>
+                     <l>  Mit seiner That, mit seinem Wort'.</l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>XVII.</label>
+               </head>
+               <div type="div3">
+                  <head>Die Nacht am Grabe.</head>
+                  <lg>
+                     <l>Die Landschaft ruht in tiefem Schlummer,</l>
+                     <l>Der <hi rend="italic">Mond</hi> nur und ein <hi rend="italic">Jüngling</hi> wacht;</l>
+                     <l>In Frieden <hi rend="italic">jener</hi>, <hi rend="italic">der</hi> in Kummer,</l>
+                     <l>Doch Beide wandeln durch die Nacht.</l>
+                  </lg>
+                  <lg>
+                     <l>Und <hi rend="italic">Heil</hi>, am <hi rend="italic">Grabe</hi>, Mond-beschienen,</l>
+                     <l>  Verklagt in süsser Melodie,</l>
+                     <l>  Sein <hi rend="italic">Glück</hi>, auf dessen Prachtruinen;</l>
+                     <l>  Und <hi rend="italic">also</hi>  klang die <hi rend="italic">Elegie</hi>:</l>
+                  </lg>
+                  <lg>
+                     <l>»Bist Du so früh emporgeschieden,</l>
+                     <l>  Nach kurzem Traum von Erdenglück?</l>
+                     <l>  Und führt, von Deinem Gottesfrieden;</l>
+                     <l>  Kein Weg in Freundes Arm zurück?</l>
+                  </lg>
+                  <lg>
+                     <l>  Kann Liebe Dir nicht wiedergeben,</l>
+                     <l>  Was Erdentod dem Leben nahm?</l>
+                     <l>  Kann keine Thräne mehr beleben</l>
+                     <l>  Den Leib, der von der Erde kam? —</l>
+                  </lg>
+                  <lg>
+                     <l>Vergebens! — In die Nacht der Zeiten</l>
+                     <l>  Verliert sich meiner Klage Ruf!</l>
+                     <l>  Nur <hi rend="italic">Einer</hi>  kann mir <hi rend="italic">Trost</hi>  bereiten:</l>
+                     <l>  Wer Licht aus Nacht der Nächte schuf.</l>
+                  </lg>
+                  <lg>
+                     <l>Nur <hi rend="italic">Du</hi>, von <hi rend="italic">Dem</hi>, seit Welten kreisen,</l>
+                     <l>  Die Phantasie kein Bild entwarf!</l>
+                     <l>  Nur <hi rend="italic">Du</hi>, Den wir »<hi rend="italic">Allvater</hi>« preisen,</l>
+                     <l>  Der Alles gab, und Nichts bedarf!</l>
+                  </lg>
+                  <lg>
+                     <l>Nun weihet mich, ihr <hi rend="italic">Todtenhügel</hi>!</l>
+                     <l>  Ein Erdsohn will sein <hi rend="italic">Fest</hi>  begeh'n;</l>
+                     <l>  Komm', <hi rend="italic">Seraph</hi>, leih' mir deine Flügel,</l>
+                     <l>  Ich will die <hi rend="italic">Braut</hi>  im <hi rend="italic">Lichte</hi>  seh'n.</l>
+                  </lg>
+                  <lg>
+                     <l>Die Erde soll wie Nebel schwinden;</l>
+                     <l>  Die Sonne lass' ich weit zurück!</l>
+                     <l>  Will sich der <hi rend="italic">Geist</hi>  zum <hi rend="italic">Geiste</hi>  finden,</l>
+                     <l>  Verlangt es nur den Augenblick. —</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Geliebte Du</hi>, in fernen Räumen!</l>
+                     <l>  Wann sich die Geisterstunde neigt:</l>
+                     <l>  Umfangen wir Dein Bild in Träumen;</l>
+                     <l>  Dein Bild, das uns die <hi rend="italic">Palme</hi>  zeigt.</l>
+                  </lg>
+                  <lg>
+                     <l>  Dein treu bewährtes Tugendleben,</l>
+                     <l>  So lang es hier auf Erden ging:</l>
+                     <l>  War eine <hi rend="italic">Landschaft</hi>, mild und eben,</l>
+                     <l>  Gefasst in einen Blumenring.</l>
+                  </lg>
+                  <lg>
+                     <l>Da war kein Berg mit Silberminen,</l>
+                     <l>  Kein Alpenstrom, der Gold verhiess;</l>
+                     <l>  Kein Schloss der Vorzeit in Ruinen,</l>
+                     <l>  Kein Thurm mit seinem Burgverliess.</l>
+                  </lg>
+                  <lg>
+                     <l>Es war die reichste Blumenwiese;</l>
+                     <l>  Durch die sich, wie ein Ordenband,</l>
+                     <l>  Ein Perlenquell vom Paradiese,</l>
+                     <l>  Vorbei an Frucht-Alleen wand.</l>
+                  </lg>
+                  <lg>
+                     <l>Nur Unschuld, Ehre, Treue gingen</l>
+                     <l>  Einher, bei frohem Lerchensang;</l>
+                     <l>  Und <hi rend="italic">Engel</hi>  nur mit Rosaschwingen.</l>
+                     <l>  Umflogen sie auf jedem Gang.</l>
+                  </lg>
+                  <lg>
+                     <l>Ein <hi rend="italic">Hüttchen</hi>  stand, im Sonnenglanze:</l>
+                     <l>  Da flocht, bei stillem Heitersinn,</l>
+                     <l>  Ein <hi rend="italic">Gärtner</hi>  an dem Bürgerkranze,</l>
+                     <l>  Für seines Glückes <hi rend="italic">Königin</hi>.</l>
+                  </lg>
+                  <lg>
+                     <l>Doch — neidisch brachten dunkle Mächte,</l>
+                     <l>  Dem Glück', des Todes Richterspruch!</l>
+                     <l>  Der Sonne folgten Schauernächte;</l>
+                     <l>  Da war die <hi rend="italic">Flur</hi>  ein <hi rend="italic">Leichentuch</hi>!</l>
+                  </lg>
+                  <lg>
+                     <l>  Mein Himmel schwand! — Wie dort in Flammen</l>
+                     <l>  So mancher Weltenbau verging:</l>
+                     <l>
+                        <hi rend="italic">So</hi>  fiel mein <hi rend="italic">Paradies</hi>  zusammen;</l>
+                     <l>  Und — <hi rend="italic">Grab</hi>  nur blieb, was ich umfing!</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Du</hi>  aber konntest nicht verlieren —</l>
+                     <l>  Den <hi rend="italic">Schmuck</hi>, der auch den <hi rend="italic">Engel</hi>  ziert!</l>
+                     <l>  Das Schicksal wollte Dich verführen,</l>
+                     <l>
+                        <hi rend="italic">Du</hi>  aber hast den <hi rend="italic">Tod</hi>  verführt.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Charakter</hi>  — porenloser Wille,</l>
+                     <l>  Der gold'ne Saat für Welten trägt:</l>
+                     <l>  Hat Dir, in Deiner Sabbathstille,</l>
+                     <l>  Gedankengold zu <hi rend="italic">That</hi>  geprägt.</l>
+                  </lg>
+                  <lg>
+                     <l>Nur <hi rend="italic">so</hi>  gelang es Deinem Muthe:</l>
+                     <l>  Bei frech bestürmender Gefahr,</l>
+                     <l>  Zu <hi rend="italic">siegen</hi>  noch in Deinem Blute;</l>
+                     <l>  Zu <hi rend="italic">retten</hi>, was Dir heilig war. —</l>
+                  </lg>
+                  <lg>
+                     <l>Dich nennt zwar keine Weltgeschichte,</l>
+                     <l>  Sie schreibt ja nur bei Dämmerlicht!</l>
+                     <l>  Es gingen Völker zum Gerichte,</l>
+                     <l>  Und die Geschichte kennt sie nicht!</l>
+                  </lg>
+                  <lg>
+                     <l>Oft hat der <hi rend="italic">Unschuld</hi>  Gottvertrauen</l>
+                     <l>  Den Sieg der Feinde schnell besiegt;</l>
+                     <l>  Tyrannengrimm ein Blick der <hi rend="italic">Frauen</hi>,</l>
+                     <l>  Am Thränenquell, in Schlaf gewiegt;</l>
+                  </lg>
+                  <lg>
+                     <l>  An unsichtbarem Spinngewebe</l>
+                     <l>  Hing oft der Staaten Weltgeschick:</l>
+                     <l>  Doch <hi rend="italic">selten</hi>  lebt, wer uns beschriebe</l>
+                     <l>  Der Webzeit Ersten Augenblick! —</l>
+                  </lg>
+                  <lg>
+                     <l>Ein <hi rend="italic">Saemann</hi>  schrieb die Erste Rolle,</l>
+                     <l>  Die Segen auf die Völker trug;</l>
+                     <l>  Sein Jahrbuch war die Erdenscholle,</l>
+                     <l>  Sein Zaubergriffel war — sein <hi rend="italic">Pflug</hi>.</l>
+                  </lg>
+                  <lg>
+                     <l>Mit <hi rend="italic">solchem</hi>  Griffel schrieb er <hi rend="italic">Thaten</hi>,</l>
+                     <l>  Kein Prahlwort, in der Zeiten Buch;</l>
+                     <l>  Mit <hi rend="italic">solchem</hi>  Schriftwerk hob er Staaten:</l>
+                     <l>  Und seine <hi rend="italic">Saaten</hi>  trifft kein Fluch!</l>
+                  </lg>
+                  <lg>
+                     <l>Kann aber uns <hi rend="italic">Geschichte melden</hi>:</l>
+                     <l>  Wer solch ein Götterwerk erdacht? —</l>
+                     <l>  Ihr Labsal ist nur Mark der Helden;</l>
+                     <l>  Ihr Nektar, Blut der Völkerschlacht!</l>
+                  </lg>
+                  <lg>
+                     <l>So grabe denn der Helden Leben,</l>
+                     <l>
+                        <hi rend="italic">Geschichte</hi>, deinem Marmor ein!</l>
+                     <l>  Doch — <hi rend="italic">Ihr</hi>  auch wird ein Tag sich heben,</l>
+                     <l>  Und <hi rend="italic">Rosa</hi>  nicht vergessen sein!</l>
+                  </lg>
+                  <lg>
+                     <l>Es kommen Söhne ferner Zeiten,</l>
+                     <l>  An die noch keine Zeit gedacht:</l>
+                     <l>
+                        <hi rend="italic">Die</hi>  werden Dir ein <hi rend="italic">Fest</hi>  bereiten,</l>
+                     <l>  Zum Jahrtag Deiner Todesnacht. —</l>
+                  </lg>
+                  <lg>
+                     <l>  Die Hand der <hi rend="italic">Liebe</hi>  sä't in Grüfte</l>
+                     <l>  Den Keim zu manchem Wunderbaum;</l>
+                     <l>  Die Krone spielt im Reich' der Lüfte,</l>
+                     <l>  Die Wurzel fand im Grabe Raum':</l>
+                  </lg>
+                  <lg>
+                     <l>Da grünt ein Stamm aus Deinem Staube;</l>
+                     <l>  Aus Thränen wird ein Wasserfall;</l>
+                     <l>  Und in der <hi rend="italic">Linde</hi>  Mai-Gelaube</l>
+                     <l>  Besingt Dein Lob die Nachtigall.</l>
+                  </lg>
+                  <lg>
+                     <l>Der Vollmond hebt die Augenlieder;</l>
+                     <l>  Ein Pilger eilt dem Hügel zu;</l>
+                     <l>  Und neigt sich auf Dein Grabmal nieder,</l>
+                     <l>  Zu schlafen süssen Schlaf, wie <hi rend="italic">Du</hi>!</l>
+                  </lg>
+                  <lg>
+                     <l>O <hi rend="italic">Du</hi>, verklärt, in lichten <hi rend="italic">Sphären</hi>:</l>
+                     <l>  Gieb <hi rend="italic">Segen</hi>  meinem Pilgerlauf!</l>
+                     <l>  Und nimm <hi rend="italic">hinab</hi>, des <hi rend="italic">Dankes</hi>  Zähren,</l>
+                     <l>  Und meinen <hi rend="italic">Kuss</hi>, zu Dir <hi rend="italic">hinauf</hi>!</l>
+                  </lg>
+                  <lg>
+                     <l>Mein Glaube wohnt auf Deinem <hi rend="italic">Hügel</hi>,</l>
+                     <l>  Die Hoffnung reicht den Wanderstab;</l>
+                     <l>  Bis mich zu <hi rend="italic">Dir</hi>  der <hi rend="italic">Liebe</hi>  Flügel,</l>
+                     <l>  Emporhebt, über Zeit und Grab.</l>
+                  </lg>
+                  <lg>
+                     <l>Dein <hi rend="italic">Rosatuch</hi>  — sei mir <hi rend="italic">Geleite</hi>,</l>
+                     <l>
+                        <hi rend="italic">Wohin</hi>  auch mein <hi rend="italic">Verhängniss</hi>  ruft!</l>
+                     <l>  Es folge mir im Erdenstreite,</l>
+                     <l>  Und dann zum Frieden, meiner Gruft!</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Du</hi>  aber, <hi rend="italic">Staub</hi>  der <hi rend="italic">Gräber</hi>-Auen:</l>
+                     <l>  Lass hier bei Mond- und Sonnenschein.</l>
+                     <l>  Das <hi rend="italic">Leben</hi>  sich am <hi rend="italic">Tod</hi>  erbauen,</l>
+                     <l>  Dann wird kein <hi rend="italic">Tod</hi>  im <hi rend="italic">Leben</hi>  sein!«</l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>XVIII.</label>
+               </head>
+               <div type="div3">
+                  <head>Das Ende.</head>
+                  <lg>
+                     <l>Nachdem er so die Mitternacht,</l>
+                     <l>Dann Morgenroth herbei gewacht:</l>
+                     <l>Erhob sich <hi rend="italic">Heil</hi> gen <hi rend="italic">Treiden</hi>;</l>
+                     <l>Und sprach dort, in der <hi rend="italic">Lieben</hi> Haus,</l>
+                     <l>Den letzten Wunsch und Willen aus,</l>
+                     <l>Auf immerdar, <hi rend="italic">zu scheiden</hi>.</l>
+                  </lg>
+                  <lg>
+                     <l>Nicht dreifach hoher Ehrensold,</l>
+                     <l>  Erboten ihm von <hi rend="italic">Segewold</hi>,</l>
+                     <l>  Kann seine Schritte bannen.</l>
+                     <l>  Er wirft den thränefeuchten Blick</l>
+                     <l>  Nach seinem <hi rend="italic">Paradies</hi>  zurück,</l>
+                     <l>  Und eilet nun von dannen.</l>
+                  </lg>
+                  <lg>
+                     <l>Des <hi rend="italic">Tiefgebeugten</hi>  Brust bewegt:</l>
+                     <l>  Nicht <hi rend="italic">Greif</hi>, der <hi rend="italic">Rosa Mai</hi>  gepflegt;</l>
+                     <l>  Nicht Bitte, noch Vertrauen.</l>
+                     <l>  Die <hi rend="italic">Höhle</hi>, die sein <hi rend="italic">Glück</hi>  umfing,</l>
+                     <l>  In <hi rend="italic">der</hi>  sein <hi rend="italic">Himmel</hi>  unterging:</l>
+                     <l>  Erregt ihm Scheu und Grauen.</l>
+                  </lg>
+                  <lg>
+                     <l>  Vergebens klang, am trauten Ort',</l>
+                     <l>  Noch einmal Ruf und Freundeswort;</l>
+                     <l>  Der <hi rend="italic">Alten</hi>  Wunsch und Flehen!</l>
+                     <l>  Mit seinem <hi rend="italic">Rosatuch</hi>  entschwand</l>
+                     <l>  Der <hi rend="italic">Jüngling</hi>, heim, zum <hi rend="italic">Väterland</hi>;</l>
+                     <l>  Und — ward nicht mehr gesehen!</l>
+                  </lg>
+                  <div type="div4">
+                     <head>Druck von H. Schnakenburg's litho- &amp; typogr. Anstalt in Riga.</head>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>FOOTNOTES:</head>
+                  <p rend="justify">[A] Unter dem Worte »<hi rend="italic">Jener</hi>« ist, wie die Leser leicht einsehen werden, wohl nur <hi rend="italic">der Mann</hi> zu verstehen: <hi rend="italic">Dem</hi> diese Blätter, und zwar mit vollem Rechte, gewidmet werden.</p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

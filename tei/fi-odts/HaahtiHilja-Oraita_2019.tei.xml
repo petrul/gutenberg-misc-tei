@@ -1,0 +1,1912 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Oraita</title>
+            <author>Hilja Haahti</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-01T19:56:38Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">odts/fi-odts/HaahtiHilja-Oraita_2019.epub.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Hilja Haahti</name>
+               <date>2024-01-01T19:56:38Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Oraita</head>
+         <author>Hilja Haahti</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">odts/fi-odts/HaahtiHilja-Oraita_2019.epub.odt</p>
+         <p>E-text prepared by Tapio Riikonen</p>
+         <pb/>
+         <div type="div1">
+            <head>Oraita</head>
+            <pb/>
+            <div type="div2">
+               <head>ORAITA</head>
+               <p rend="justify">Kirj.</p>
+               <div type="div3">
+                  <head>HILJA HAAHTI</head>
+                  <p rend="justify">Helsingissä, G. W. Edlund, 1895.</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>SISÄLLYS:</head>
+               <p rend="justify">Oraita.</p>
+               <p rend="justify">I. Isänmaa ja luonto.</p>
+               <lg>
+                  <l>Työhön.</l>
+                  <l>Kun päivä paistaa.</l>
+                  <l>Virran rannalla.</l>
+                  <l>Luonnon huokaus.</l>
+                  <l>Luonnon ääniä.</l>
+                  <l>Tähdelle.</l>
+                  <l>Aalto.</l>
+                  <l>Erkon "Ainoa" katsellessa.</l>
+                  <l>Suomen kannel.</l>
+                  <l>Luonnon tenhossa.</l>
+                  <l>Uutta intoa.</l>
+               </lg>
+               <p rend="justify">II. Mietteitä ja tunnelmia.</p>
+               <lg>
+                  <l>Viivy, aika!</l>
+                  <l>Rauha jos ois!</l>
+                  <l>Etsiessä.</l>
+                  <l>Lukukiireessä keväällä.</l>
+                  <l>Syksyn tunteita.</l>
+                  <l>Jesuksen hartioilla.</l>
+                  <l>Myötäkäymisessä.</l>
+                  <l>Muutettua.</l>
+                  <l>Lapsuudenrunojani katsellessa.</l>
+                  <l>Laineilla.</l>
+               </lg>
+               <p rend="justify">III. Elämästä.</p>
+               <lg>
+                  <l>Aatto-iltana.</l>
+                  <l>Orpo.</l>
+                  <l>Myllärin tyttö.</l>
+                  <l>Yöllä.</l>
+                  <l>Ellin syksymuistelma.</l>
+                  <l>On penni vaan.</l>
+                  <l>Mieron tiellä.</l>
+                  <l>Kesä-ilta.</l>
+                  <l>Saaristolaispoika sisämaassa.</l>
+                  <l>Tyttökoululaitoksen 50:ntenä vuosipäivänä.</l>
+               </lg>
+               <p rend="justify">IV. Muistoja ja tervehdyksiä.</p>
+               <lg>
+                  <l>Äidilleni.</l>
+                  <l>Pyhäkköni.</l>
+                  <l>Eräälle morsiusparille.</l>
+                  <l>Jatko-opiston johtajan syntymäpäivänä.</l>
+                  <l>Tovereista erotessa.</l>
+                  <l>Lasten kiitos Sakari Topeliukselle.</l>
+                  <l>Soiton-opettajattareni muistoksi.</l>
+                  <l>Inkeri.</l>
+               </lg>
+               <p rend="justify">Oraita.</p>
+               <lg>
+                  <l>    Kevät herttainen heräsi,</l>
+                  <l>    Päivä kulta kuumotteli,</l>
+                  <l>    Paistoi nurmen nukkapäälle,</l>
+                  <l>    Puki puut, kukitti kummut;</l>
+                  <l>    Vainiollekin väritti,</l>
+                  <l>    Paahti pellon penkerille,</l>
+                  <l>    Hyväeli kyistä maata,</l>
+                  <l>    Kirren kilvalla sulatti.</l>
+                  <l>    Nosti notkosta orahan.</l>
+                  <l>    Maasta heinän hentokaisen,</l>
+                  <l>    Lämpimässä läikkymähän,</l>
+                  <l>    Tuulosessa tuutimahan,</l>
+                  <l>    Karttumahan, kasvamahan</l>
+                  <l>    Ihmis-ilmojen iloksi.</l>
+               </lg>
+               <lg>
+                  <l>    Mikä on oras vihanta?</l>
+                  <l>    Kevähän tuleva toivo,</l>
+                  <l>    Aamun koittavan kysymys,</l>
+                  <l>    Vielä vailla vastausta.</l>
+               </lg>
+               <lg>
+                  <l>    Mitä tuosta on tuleva,</l>
+                  <l>    Mitä kerran kehkiävä?</l>
+               </lg>
+               <p rend="justify">* * *</p>
+               <lg>
+                  <l>    Luoja siemenen sirotti,</l>
+                  <l>    Kevättouon toimitteli</l>
+                  <l>    Syvälle sydämeheni.</l>
+                  <l>    Tuli suudelma sätehen,</l>
+                  <l>    Valo aamun armahaisen,</l>
+                  <l>    Kuului kutsu kukkasien,</l>
+                  <l>    Lehdon lintujen liverrys.</l>
+                  <l>    Nuoruuden ihana aika,</l>
+                  <l>    Kevät herttainen heräsi,</l>
+                  <l>    Siemen pääsi silmikolle,</l>
+                  <l>    Nousi ilmoille orahat.</l>
+               </lg>
+               <lg>
+                  <l>    Kainona oras kohosi,</l>
+                  <l>    Arastellen, angervoinen,</l>
+                  <l>    Vähyyttänsä värjyellen,</l>
+                  <l>    Pienoisuuttansa peläten.</l>
+               </lg>
+               <lg>
+                  <l>    Oliko varaista varsin,</l>
+                  <l>    Ani aikaista yletä?</l>
+                  <l>    Ehtikö kehitä kyllin</l>
+                  <l>    Siemen pieni piilosalla?</l>
+                  <l>    Tokko luonto hetken tiesi,</l>
+                  <l>    Arvasi ajan sopivan?</l>
+               </lg>
+               <lg>
+                  <l>    Mitä tuosta on tuleva,</l>
+                  <l>    Mitä kerran kehkiävä?</l>
+               </lg>
+               <lg>
+                  <l>    Voipi vinheä vihuri,</l>
+                  <l>    Tuima tuuli tuiverrella,</l>
+                  <l>    Nuoren ruohon ruhjoella,</l>
+                  <l>    Kaikki sotkea sorahan.</l>
+                  <l>    Voi vilu vihannan viedä,</l>
+                  <l>    Hallan henki hyydytellä,</l>
+                  <l>    Elpyvän elon tuhota.</l>
+                  <l>    Vaan voipa kevähän kylvö</l>
+                  <l>    Kaunihistikin kehitä,</l>
+                  <l>    Oras nousta notkutella,</l>
+                  <l>    Saada suotuista sadetta,</l>
+                  <l>    Vahvistua, vehmastua,</l>
+                  <l>    Valeta valossa päivän,</l>
+                  <l>    Kypsyä elon-ajaksi.</l>
+               </lg>
+               <lg>
+                  <l>    Ylähäll' on kaiken kasvu,</l>
+                  <l>    Luojalta orahan onni.</l>
+               </lg>
+               <lg>
+                  <l>    Anna, armias Jumala,</l>
+                  <l>    Oljelle orahan nousta,</l>
+                  <l>    Tulla täydelle tähälle,</l>
+                  <l>    Heiluville helpehille!</l>
+                  <l>    Anna nousta Sun nimessäs,</l>
+                  <l>    Kunniaksesi kohota,</l>
+                  <l>    Kansalleni kauneheksi,</l>
+                  <l>    Iloksi ihanan maani!</l>
+               </lg>
+               <p rend="justify">Helsingissä Elok. 1895.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>I.</label>
+               </head>
+               <p rend="justify">Isänmaa ja luonto.</p>
+               <p rend="justify">Työhön!</p>
+               <lg>
+                  <l>    Kas, tässä on sun maasi:</l>
+                  <l>    Nuo välkkyväiset veet,</l>
+                  <l>    Nuo saaret, salmet, lehdot</l>
+                  <l>    Ja vuorten harjanteet.</l>
+                  <l>    Oi, kuinka on se kaunis —</l>
+                  <l>    Mut köyhä, pienoinen;</l>
+                  <l>    Ja siksi, Suomen lapsi,</l>
+                  <l>    Sä käyös toimehen!</l>
+               </lg>
+               <lg>
+                  <l>    Ei joutilaana joudu</l>
+                  <l>    Sun kansas seisomaan.</l>
+                  <l>    Vain ahkeralla työllä</l>
+                  <l>    Se saapi tarpeitaan.</l>
+                  <l>    Se kuokkinensa raataa,</l>
+                  <l>    Se kuivaa soiset maat,</l>
+                  <l>    Ja heelminä sen työstä</l>
+                  <l>    On pellot viljakkaat.</l>
+               </lg>
+               <lg>
+                  <l>    Myös hengen vainioilla</l>
+                  <l>    On työtä uutteraa;</l>
+                  <l>    Se työ on suuri, kallis,</l>
+                  <l>    Se mielet innostaa.</l>
+                  <l>    Jo lempi kansallamme</l>
+                  <l>    Saa koulut nousemaan,</l>
+                  <l>    Ja kerran meidän kieli</l>
+                  <l>    Soi kautta Suomenmaan</l>
+               </lg>
+               <lg>
+                  <l>    Oi kuule, kaunis maasi</l>
+                  <l>    Myös sulle kuiskailee,</l>
+                  <l>    Sen järven laine laulaa,</l>
+                  <l>    Sen hongat humisee:</l>
+                  <l>    "Sun kaikki toimes, työsi,</l>
+                  <l>    Ne saakoon synnyinmaa,</l>
+                  <l>    Niin lempes, Suomen lapsi,</l>
+                  <l>    Sen rikkahaksi saa!"</l>
+               </lg>
+               <p rend="justify">1892.</p>
+               <p rend="justify">Kun päivä paistaa.</p>
+               <lg>
+                  <l>    Päivyt, paistaos hellien</l>
+                  <l>    Pohjan kylmälle hangellen!</l>
+                  <l>    Kukat vielä on uinumassa,</l>
+                  <l>    Aalto jäisessä vankilassa;</l>
+                  <l>    Vaan sun lämpöinen sätehes</l>
+                  <l>    Mulle kertovi terveises:</l>
+                  <l>    Kohta poissa on nietos, jää,</l>
+                  <l>    Kohta koittavi kevätsää.</l>
+               </lg>
+               <lg>
+                  <l>    Päivyt, paistaos hellien,</l>
+                  <l>    Paista Suomeni korpehen!</l>
+                  <l>    Miss' on puute ja murhe musta,</l>
+                  <l>    Sinne saattaos lohdutusta!</l>
+                  <l>    Kerro lämpimin sätehin:</l>
+                  <l>    Päättyy huolien talvikin.</l>
+                  <l>    Toivo, Luojahan luota vaan,</l>
+                  <l>    Kevät koittavi aikanaan!</l>
+               </lg>
+               <p rend="justify">1893.</p>
+               <p rend="justify">Virran rannalla.</p>
+               <lg>
+                  <l>    Virta se vierii, vierii,</l>
+                  <l>    Aalto se rientää, rientää,</l>
+                  <l>    Koskaan ei tule uudestaan.</l>
+                  <l>    Toinen toistansa seuraa,</l>
+                  <l>    Jälkeä ei jää yhtään,</l>
+                  <l>    Kauvas, kauvas ne kulkevat vaan.</l>
+               </lg>
+               <lg>
+                  <l>    Vuodet ne vierii, vierii,</l>
+                  <l>    Aika se rientää, rientää,</l>
+                  <l>    Koskaan ei tule uudestaan.</l>
+                  <l>    Mutta se jälkiä jättää:</l>
+                  <l>    Hetkisen työkin on siemen —</l>
+                  <l>    Taivahan siemen kun oisi se vaan!</l>
+               </lg>
+               <p rend="justify">15/8 1895.</p>
+               <p rend="justify">Luonnon huokaus.</p>
+               <p rend="justify">Rom. 8: 19-23.</p>
+               <lg>
+                  <l>    — Miks, päivyt, kasvosi kätket,</l>
+                  <l>    Miks piilout pilvien taa?</l>
+                  <l>    "Ah, aina en katsoa jaksa,</l>
+                  <l>    Miten syntinen, kurja on maa."</l>
+               </lg>
+               <lg>
+                  <l>    Miks, pilveni, noin olet tumma,</l>
+                  <l>    Miks vuodatat kyyneliä?</l>
+                  <l>    "Mun murhe on mustaksi tehnyt:</l>
+                  <l>    Maan syntejä itken mä."</l>
+               </lg>
+               <lg>
+                  <l>    Miks, välkkyvä aaltonen armas,</l>
+                  <l>    Suruvirsiä veisaat noin?</l>
+                  <l>    "Kun on turmeltu Luojan luonto,</l>
+                  <l>    Miten riemua laulaa voin?"</l>
+               </lg>
+               <lg>
+                  <l>    Ja tuulen henkäys hiljaa</l>
+                  <l>    Yli lehtojen huoahtaa:</l>
+                  <l>    "Oi milloin, milloin, milloin</l>
+                  <l>    Uus luodaan taivas ja maa?"</l>
+               </lg>
+               <lg>
+                  <l>    Kesän kaunis, kukkiva luonto,</l>
+                  <l>    Käsitän sinun kaihosi nyt!</l>
+                  <l>    Sama huokaus, onhan se myöskin</l>
+                  <l>    Alun rintani täyttänyt:</l>
+               </lg>
+               <lg>
+                  <l>    Oi, milloin poistuvi synti,</l>
+                  <l>    Lumipuhtaaks syömmeni saa?</l>
+                  <l>    Oi, milloin luonnon on juhla,</l>
+                  <l>    Ja riemua veisaa maa?</l>
+               </lg>
+               <p rend="justify">24/6 1894.</p>
+               <p rend="justify">Luonnon ääniä.</p>
+               <lg>
+                  <l>    Luonnossa lukuisat äänet,</l>
+                  <l>    Kielet kuiskivi tuhannet,</l>
+                  <l>    Kunhan on taitoa tajuta,</l>
+                  <l>    Tarkka korva kuulostella.</l>
+               </lg>
+               <lg>
+                  <l>    Vaan eipä valitut luonnon,</l>
+                  <l>    Nuo sen ystävät ylimmät,</l>
+                  <l>    Joille se sadut saneli,</l>
+                  <l>    Kaikki sointi soittimensa,</l>
+                  <l>    Konsana samalla lailla</l>
+                  <l>    Luonnon ääniä älyä,</l>
+                  <l>    Kuule honkien humua,</l>
+                  <l>    Lahden vetten lauleloita.</l>
+                  <l>    Kullakin on kantelonsa</l>
+                  <l>    Povehen omahan pantu,</l>
+                  <l>    Sydänjuurihin syvetty.</l>
+                  <l>    Siellä se hiljan haastelevi</l>
+                  <l>    Kertokaikuja kajaten,</l>
+                  <l>    Viritellen vastasoinnut</l>
+                  <l>    Lauluille lavean luonnon,</l>
+                  <l>    Suuren soittelon sanoille.</l>
+               </lg>
+               <lg>
+                  <l>    Paljon mullekin puhuvi,</l>
+                  <l>    Monet virret vierittävi</l>
+                  <l>    Luonto, ystävä ylevä.</l>
+                  <l>    Joka laine loiskuttavi,</l>
+                  <l>    Kuiskivi jokainen kuusi,</l>
+                  <l>    Kukat kertovat kedolla,</l>
+                  <l>    Puissa lintuset puhuvat</l>
+                  <l>    Kotimaani kauneutta,</l>
+                  <l>    Suloa ihanan Suomen,</l>
+                  <l>    Jonka on aarre ainokainen</l>
+                  <l>    Poikiensa ponnistukset,</l>
+                  <l>    Työ tytärten tarmokasten,</l>
+                  <l>    Lempi lastensa omien.</l>
+               </lg>
+               <lg>
+                  <l>    Silloin ma yletä soisin</l>
+                  <l>    Isänmaalleni iloksi,</l>
+                  <l>    Hyödyksi kotoisen kansan.</l>
+                  <l>    Soisin korsia ko'ota,</l>
+                  <l>    Käsin kaksin kanniskella</l>
+                  <l>    Kevättoivon toimintahan,</l>
+                  <l>    Suomeni sivistystyöhön.</l>
+               </lg>
+               <lg>
+                  <l>    Taasen toisia tarinoi</l>
+                  <l>    Tähtivyö värehtiväinen,</l>
+                  <l>    Hohtoinen hopeapilvi,</l>
+                  <l>    Päivä maillehen menevä:</l>
+                  <l>    Kertovat isänkodista</l>
+                  <l>    Kaukaisesta, kaunihista,</l>
+                  <l>    Tuolla pilvien takana.</l>
+                  <l>    Silloin siirtyy sieluhuni</l>
+                  <l>    Päilyvä pisara pieni</l>
+                  <l>    Sädevirtojen valosta,</l>
+                  <l>    Kirkkauden kartanosta.</l>
+                  <l>    Sinne tahtoisin samota,</l>
+                  <l>    Sinne tieni tähtäellä,</l>
+                  <l>    Siellä ainian asua.</l>
+               </lg>
+               <lg>
+                  <l>    Pysy puhtoinen pisara,</l>
+                  <l>    Säily, säily sielussani,</l>
+                  <l>    Kuni helmi heinikossa,</l>
+                  <l>    Kaste kukkasen kuvussa!</l>
+                  <l>    Pois, pois tuhoisat tuulet,</l>
+                  <l>    Vaiti, valtavat vihurit!</l>
+                  <l>    Oi, kun saisin suojatuksi</l>
+                  <l>    Helmeni häviämästä!</l>
+               </lg>
+               <lg>
+                  <l>    Vielä on virsiä varalla,</l>
+                  <l>    Luonnolla lukuisat laulut.</l>
+                  <l>    Toiset kuulen korvillani,</l>
+                  <l>    Osan tunteella omistan.</l>
+               </lg>
+               <lg>
+                  <l>    Yhtä vaan ei luonto lausu,</l>
+                  <l>    Yhtä ei säveltä soita:</l>
+                  <l>    Ei minulle, niinkuin muille,</l>
+                  <l>    Kerro lemmestä kevähän,</l>
+                  <l>    Lemmen tenhotuntehista,</l>
+                  <l>    Lemmen utu-unelmista,</l>
+                  <l>    Haavehista armahista</l>
+                  <l>    Nuoren, sykkivän sydämen.</l>
+                  <l>    Kuni tuuli lehdikossa</l>
+                  <l>    Kahlehitta karkeloipi,</l>
+                  <l>    Aalto aavalla merellä</l>
+                  <l>    Vierivi vapaudessa,</l>
+                  <l>    Niin ompi vapaana vallan</l>
+                  <l>    Sydän raitis rinnassani;</l>
+                  <l>    Ei se suostu solmukkoihin</l>
+                  <l>    Eikä pauloihin paneu.</l>
+               </lg>
+               <lg>
+                  <l>    Mutta on yksi luonnon laulu,</l>
+                  <l>    Jot' en konsana käsitä.</l>
+                  <l>    Kun ma istun illan suussa,</l>
+                  <l>    Yksin istun ja uneksin,</l>
+                  <l>    Silloin sen sävelen kuulen,</l>
+                  <l>    Sekä kuulen että tunnen,</l>
+                  <l>    Tunnen syömmeeni sulavan.</l>
+                  <l>    Vieno se väreeltä ompi,</l>
+                  <l>    Sulosointuina, sanaton,</l>
+                  <l>    Sävel kaihon, sävel onnen,</l>
+                  <l>    Tuttu sekä tuntematon…</l>
+               </lg>
+               <lg>
+                  <l>    Niin, ken ne käsitti kaikki,</l>
+                  <l>    Kuka taisi ne tajuta,</l>
+                  <l>    Tuhannet eri tarinat,</l>
+                  <l>    Laulelot lavean luonnon!</l>
+               </lg>
+               <p rend="justify">Heinäk. 1895.</p>
+               <p rend="justify">Tähdelle.</p>
+               <lg>
+                  <l>    Terve, tähtönen taivahalla!</l>
+                  <l>    Tässä katson ja mietin taas.</l>
+                  <l>    En mä ymmärrä kirkkauttas,</l>
+                  <l>    En sun ihmeistä tuikintaas.</l>
+               </lg>
+               <lg>
+                  <l>    Kerro, kätketkö maailmoita,</l>
+                  <l>    Ihmishenkiä sadottain?</l>
+                  <l>    Tokko sielläkin sydän sykkii,</l>
+                  <l>    Kuni tässä mun rinnassain?</l>
+               </lg>
+               <lg>
+                  <l>    Vaiko lienet sä isän silmä,</l>
+                  <l>    Taikka siskoni pienoisen?</l>
+                  <l>    Aina sieltäkö illan tullen</l>
+                  <l>    Tänne luovat he katsehen?</l>
+               </lg>
+               <lg>
+                  <l>    Tahi lienetkö lyhty pieni,</l>
+                  <l>    Jolle loistehen Luoja suo,</l>
+                  <l>    Jotta viittaisit ihmislasta</l>
+                  <l>    Ijankaikkisen valon luo?</l>
+               </lg>
+               <lg>
+                  <l>    Miksi, aina kun mulle loistat,</l>
+                  <l>    Käypi lämpimäks sydämein?</l>
+                  <l>    Oi, en ymmärrä tuikekieltäs,</l>
+                  <l>    En sun loistoas, tähtösein.</l>
+               </lg>
+               <p rend="justify">13/9 1895.</p>
+               <p rend="justify">Aalto.</p>
+               <lg>
+                  <l>    — Aaltoni, minnekkä matkasi vie?</l>
+                  <l>    Minne on päättyvä kuohujen tie?</l>
+                  <l>    Määrää vaillako retkesi lie</l>
+                  <l>    Myrskyissä merellä?</l>
+               </lg>
+               <lg>
+                  <l>    "Lapseni, rantahan kukkaisaan,</l>
+                  <l>    Sinnepä matkani kulkevi vaan;</l>
+                  <l>    Siellä mä kerran rauhaa saan</l>
+                  <l>    Myrskyistä merellä."</l>
+               </lg>
+               <lg>
+                  <l>    — Helmaan valkaman rauhaisan,</l>
+                  <l>    Sinne mä myöskin kiiruhdan:</l>
+                  <l>    Turvaan, riemuhun taivahan</l>
+                  <l>    Myrskyistä merellä.</l>
+               </lg>
+               <p rend="justify">1888.</p>
+               <p rend="justify">Erkon "Ainoa" katsellessa.</p>
+               <lg>
+                  <l>    Kaikki paikat on täytetyt;</l>
+                  <l>    Tässä vuottaen istun nyt.</l>
+                  <l>    Himmeäksi jo liekit saapi,</l>
+                  <l>    Verho poimuille kohoaapi.</l>
+                  <l>    Näen Ainon ja immet muut,</l>
+                  <l>    Urhot uhkeat, partasuut;</l>
+                  <l>    Mutta muutakin paljon vielä</l>
+                  <l>    Haaveilussani näen siellä.</l>
+               </lg>
+               <lg>
+                  <l>    Kuulen lainehen loiskivan,</l>
+                  <l>    Kuulen kuusien huminan.</l>
+                  <l>    Käki kukkuvi kuusistossa,</l>
+                  <l>    Alli soutavi aallokossa.</l>
+                  <l>    Näen kalliot, korpimaat,</l>
+                  <l>    Näen lehdikot varjokkaat,</l>
+                  <l>    Tunnen tuoksua tuhansista</l>
+                  <l>    Kevättuomista kukkivista.</l>
+               </lg>
+               <lg>
+                  <l>    Kevät tenhovi… Kokonaan</l>
+                  <l>    joudun uutehen maailmaan:</l>
+                  <l>    Näen haltijat kukkasissa,</l>
+                  <l>    Puiden oksissa huojuvissa,</l>
+                  <l>    Sinipiikaset salolla,</l>
+                  <l>    Veessä Vellamon neitoja,</l>
+                  <l>    Päivän impyet hohtavilla</l>
+                  <l>    Rusopilvien reunamilla.</l>
+               </lg>
+               <lg>
+                  <l>    Näen, kansani kallehin,</l>
+                  <l>    Kevätpäivinäs sinutkin;</l>
+                  <l>    Lapsi-aikasi lauleloita</l>
+                  <l>    Kuulen vienoja, ihanoita.</l>
+                  <l>    Nautin soidessa kantelon…</l>
+                  <l>    Vaan se lyhkäinen hetki on.</l>
+                  <l>    Aatos lentävi, haave haihtuu,</l>
+                  <l>    Toisenlaisiksi kuvat vaihtuu.</l>
+               </lg>
+               <lg>
+                  <l>    Suomen kohtalot muinaiset</l>
+                  <l>    Mulle kertovi sävelet…</l>
+                  <l>    Nyt ne kuuluvat sekavilta,</l>
+                  <l>    Tuskaisilta ja vierahilta;</l>
+                  <l>    Sitte syttyvät toivomaan</l>
+                  <l>    Tahi tyyntyvät uudestaan</l>
+                  <l>    Tahi vaihtuvat uljahiksi</l>
+                  <l>    Taiston pauhinasäveliksi.</l>
+               </lg>
+               <lg>
+                  <l>    Sitte kauvan on rauhaisaa,</l>
+                  <l>    Tyyntä, kirkasta, ihanaa.</l>
+                  <l>    Vaan nyt — vierasta ääntä kuulen,</l>
+                  <l>    Kuten irjua itätuulen.</l>
+                  <l>    Kuten lehtinen värähtää,</l>
+                  <l>    Kun on raivossa myrskysää,</l>
+                  <l>    Niinpä laulutkin värjyvissä</l>
+                  <l>    Soivat huolien sävelissä.</l>
+               </lg>
+               <lg>
+                  <l>    Herra, suojele Suomeain,</l>
+                  <l>    Poista huolet mun kansaltain!</l>
+                  <l>    Suo sen laulella riemumielin,</l>
+                  <l>    Soida kantelon sointukielin!</l>
+                  <l>    Ja sen tiedän, se soida saa,</l>
+                  <l>    Päivä taivahan kirkastaa,</l>
+                  <l>    Viel' ei ruostua kielet saata,</l>
+                  <l>    Suomen kantelon soitto laata!</l>
+               </lg>
+               <lg>
+                  <l>    Nytkö verho jo lasketaan!</l>
+                  <l>    Mitä "Ainosta" muistankaan?</l>
+                  <l>    Kaiken iltaahan istun tässä</l>
+                  <l>    Suomen' vaiheita miettimässä.</l>
+                  <l>       Eipä hukkahan kokonaan</l>
+                  <l>    Mennyt iltani kumminkaan:</l>
+                  <l>    Väinön kantelon helkkyessä</l>
+                  <l>    Elpyi toivehet sydämessä.</l>
+               </lg>
+               <p rend="justify">1893.</p>
+               <p rend="justify">Suomen kannel.</p>
+               <lg>
+                  <l>        "Soitto on suruista tehty,</l>
+                  <l>        Murehista muovaeltu."</l>
+               </lg>
+               <p rend="justify">Kanteletar.</p>
+               <lg>
+                  <l>    Miks oli muinen Suomen soitto,</l>
+                  <l>    Kaunis kantelo Kalevan</l>
+                  <l>    Tehty suurista suruista,</l>
+                  <l>    Murehista muovaeltu?</l>
+               </lg>
+               <lg>
+                  <l>    Siks oli muinen Suomen soitto,</l>
+                  <l>    Kaunis kantelo Kalevan</l>
+                  <l>    Tehty suurista suruista,</l>
+                  <l>    Murehista muovaeltu,</l>
+                  <l>    Itse tuota tietämättä</l>
+                  <l>    Kansamme kun kaipaeli,</l>
+                  <l>    Hartahimmasti halusi</l>
+                  <l>    Elon pulmat purkaella,</l>
+                  <l>    Solmut solkkuiset avata,</l>
+                  <l>    Tajuta totuuden tietä;</l>
+                  <l>    Kun oli sille saapumatta</l>
+                  <l>    Valo lemmen lähtehestä,</l>
+                  <l>    Tieto taivahan tuvilta,</l>
+                  <l>    Kaikki kallihit hedelmät,</l>
+                  <l>    Luojan lämmön kypsyttämät.</l>
+               </lg>
+               <lg>
+                  <l>    Soitti Suometar suruja,</l>
+                  <l>    Haasti mielihaikeoita,</l>
+                  <l>    Kunnes huomen jo hämärsi,</l>
+                  <l>    Kunnes koitti kirkas päivä.</l>
+                  <l>    Jo oli aika soiton soida,</l>
+                  <l>    Kantelon kajahuella</l>
+                  <l>    Lauluja ilon ihanan,</l>
+                  <l>    Riemun runsahan runoja.</l>
+               </lg>
+               <lg>
+                  <l>    Soiko nyt iloa soitto,</l>
+                  <l>    Kannel riemua remuvi?</l>
+               </lg>
+               <lg>
+                  <l>    Eipä soi iloa soitto,</l>
+                  <l>    Kannel riemua remahda,</l>
+                  <l>    Yhä huolta haastelevi,</l>
+                  <l>    Yhä kaihoja kajavi.</l>
+               </lg>
+               <lg>
+                  <l>    Miks on soitto Suomenniemen,</l>
+                  <l>    Kaunis kantelo Kalevan</l>
+                  <l>    Vieläkin suruista tehty,</l>
+                  <l>    Murehista muovaeltu?</l>
+               </lg>
+               <lg>
+                  <l>    Eikö itkisi emonen,</l>
+                  <l>    Kaihomielin kaikertaisi,</l>
+                  <l>    Laps kun palkitsi pahasti</l>
+                  <l>    Rakkauden runsahimman,</l>
+                  <l>    Unohti oman kotinsa,</l>
+                  <l>    Äidin armahan asunnon,</l>
+                  <l>    Äidinkielen, äidinmielen?</l>
+               </lg>
+               <lg>
+                  <l>    — Monihan poika Pohjolamme,</l>
+                  <l>    Tytär Suomemme suloisen,</l>
+                  <l>    Täten äitinsä unohti,</l>
+                  <l>    Hylkäsi oman emonsa.</l>
+                  <l>    Siks on soitto Suomenniemen,</l>
+                  <l>    Kaunis kantelo Kalevan</l>
+                  <l>    Vieläkin suruista tehty,</l>
+                  <l>    Murehista muovaeltu.</l>
+               </lg>
+               <p rend="justify">12/10 1895.</p>
+               <p rend="justify">Luonnon tenhossa.</p>
+               <lg>
+                  <l>    Olin innolla työtäni tehnyt,</l>
+                  <l>    Ja tutkinnot päättänyt,</l>
+                  <l>    Ja luonnon helmahan maalle</l>
+                  <l>    Kesän tultua riensin nyt.</l>
+               </lg>
+               <lg>
+                  <l>    Oi kuink' oli taivas kirkas,</l>
+                  <l>    Ja tuoksuvat lehdikot,</l>
+                  <l>    Ja kuinka riemua täynnä</l>
+                  <l>    Soi lintujen laulelot!</l>
+               </lg>
+               <lg>
+                  <l>    Siell' laineilla Pohjanlahden</l>
+                  <l>    Mä soljuilin venhossain,</l>
+                  <l>    Tai metsän varjossa istuin</l>
+                  <l>    Ja laulelin onnestain.</l>
+               </lg>
+               <lg>
+                  <l>    Ei ollut huolia mulla,</l>
+                  <l>    Vapautta mä nautin vaan,</l>
+                  <l>    Ja luonto kuiski ja kertoi,</l>
+                  <l>    Mun tenhosi taiallaan.</l>
+               </lg>
+               <lg>
+                  <l>    Kuin siivin aikani lensi,</l>
+                  <l>    Ja syksy se joutui niin;</l>
+                  <l>    Ja kaupungissa mä ryhdyin</l>
+                  <l>    Taas kirjoihin rakkaisiin.</l>
+               </lg>
+               <lg>
+                  <l>    Mut rakkaisiinko? En tiedä…</l>
+                  <l>    Nyt mielikö muuttunut lie?</l>
+                  <l>    Miks sitte en työtäni tarkkaa,</l>
+                  <l>    Miks aatos kauvaksi vie?</l>
+               </lg>
+               <lg>
+                  <l>    Näen kaikki, kaikki ne taasen,</l>
+                  <l>    Nuo nurmet ja lehtevät puut,</l>
+                  <l>    Ja lainehet Pohjanlahden</l>
+                  <l>    Ja menneet riemuni muut.</l>
+               </lg>
+               <lg>
+                  <l>    Mä istun, istun ja katson</l>
+                  <l>    Pois pilvihin siintäviin,</l>
+                  <l>    Ja säännöt ja taivutuskaavat</l>
+                  <l>    Ne häipyvät haaveisiin…</l>
+               </lg>
+               <p rend="justify">1/9 1895.</p>
+               <p rend="justify">Uutta intoa.</p>
+               <lg>
+                  <l>    Pois haaveilut!</l>
+                  <l>    Ei velttoutta luonto neuvonut.</l>
+                  <l>    Se kertoi armautta synnyinmaan,</l>
+                  <l>    Kehoitti sille kaikki uhraamaan.</l>
+                  <l>    Ei riitä tunnetulva kuohuinen:</l>
+                  <l>    Vie tosi lempi tosi toimehen.</l>
+               </lg>
+               <lg>
+                  <l>    Mun maani, oi!</l>
+                  <l>    Se onnekas, ken työtäs tehdä voi!</l>
+                  <l>    Sun eestäs ennen vuoti hurmevuo,</l>
+                  <l>    Nyt rauhan työ sun vastaisuutes luo.</l>
+                  <l>    Ja kaikki lapses siihen tarvitaan,</l>
+                  <l>    Ei jouda veltoks jäädä ainutkaan.</l>
+               </lg>
+               <lg>
+                  <l>    Siis toimintaan!</l>
+                  <l>    Mä myöskin olen lapsi Suomenmaan.</l>
+                  <l>    Jos työni oiskin halvin, pienoisin,</l>
+                  <l>    On Suomelle se tehty kumminkin.</l>
+                  <l>    Ja silloin voin sen tehdä riemuiten:</l>
+                  <l>    Se ottaos, oi maani armainen!</l>
+               </lg>
+               <p rend="justify">Syysk. 1895.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>II.</label>
+               </head>
+               <p rend="justify">Mietteitä ja Tunnelmia.</p>
+               <p rend="justify">Viivy, aika!</p>
+               <lg>
+                  <l>    Oi miksikä riennät, aika,</l>
+                  <l>    Kuin lentävä lehtinen pois?</l>
+                  <l>    Ei vielä — viipyös, viivy,</l>
+                  <l>    En kiirehtää sinun sois!</l>
+               </lg>
+               <lg>
+                  <l>    Oi, kuinka on maailma kaunis,</l>
+                  <l>    Niin laaja ja lämpöinen,</l>
+                  <l>    ja kuinka ma paljon toivon</l>
+                  <l>    Ja nautin ja riemuitsen!</l>
+               </lg>
+               <lg>
+                  <l>    Sä viivy, viipyös, aika,</l>
+                  <l>    Kuvat kirkkahat, viipykää!</l>
+                  <l>    Pian ehkä on maailma kylmä,</l>
+                  <l>    Ja toivehet hautaa jää.</l>
+               </lg>
+               <lg>
+                  <l>    Ja vaikkapa ainian säilyis</l>
+                  <l>    Se lämminnä syömmellein,</l>
+                  <l>    Oi, sittekin viipyös, aika,</l>
+                  <l>    Oi, viipyös, nuoruutein!</l>
+               </lg>
+               <lg>
+                  <l>    On pohjaton tiedon lähde,</l>
+                  <l>    Opin aika nyt parhaillaan,</l>
+                  <l>    Ja mä ehtinyt viel' olen tuskin</l>
+                  <l>    Pisaraisia ammentamaan.</l>
+               </lg>
+               <lg>
+                  <l>    Niin paljon mä oppia soisin</l>
+                  <l>    Elon taitoja parhaita:</l>
+                  <l>    Ilomielistä kieltäymistä</l>
+                  <l>    Ja rakkautt' altista.</l>
+               </lg>
+               <lg>
+                  <l>    Sovittaakin paljon mä soisin</l>
+                  <l>    Ja paljon pyyhkiä pois;</l>
+                  <l>    Ja paljon mä kaipaan uutta,</l>
+                  <l>    Joka uudeks mieleni lois.</l>
+               </lg>
+               <lg>
+                  <l>    Siis miksikä riennät, aika,</l>
+                  <l>    Kuin lentävät lehdet nuo?</l>
+                  <l>    Ei vielä — viipyös, viivy,</l>
+                  <l>    Nuoruutta mun nauttia suo!</l>
+               </lg>
+               <lg>
+                  <l>    Rauha jos ois!</l>
+                  <l>    Eikö mun rintani tyyntyä vois,</l>
+                  <l>    Kaiho ja kaipaus haihtua pois?</l>
+                  <l>    Aatokset lentävät selvittämättä —</l>
+                  <l>    Rauha jos ois!</l>
+               </lg>
+               <lg>
+                  <l>    Riehuva tuulikin nukkua saa,</l>
+                  <l>    Vaahtova aaltonen uinahtaa,</l>
+                  <l>    Vaan minä kaipaan taukoamatta,</l>
+                  <l>    Rauhaa en saa.</l>
+               </lg>
+               <p rend="justify">1890.</p>
+               <p rend="justify">Etsiessä.</p>
+               <lg>
+                  <l>    Vesi kirkas läikkyvän lähtehen,</l>
+                  <l>    Lumi puhdas, pehmeä, valkoinen,</l>
+                  <l>    Jos puhtaaks pestä mun voisit!</l>
+                  <l>    Oi tähtönen tyynesti tuikkaava,</l>
+                  <l>    Oi ilta, sä viileä, rauhaisa,</l>
+                  <l>    Jos mullekin rauhasi soisit!</l>
+               </lg>
+               <lg>
+                  <l>    Mut täynnään syntiä, saastaa vain</l>
+                  <l>    Sydän rauhaton sykkivi rinnassain,</l>
+                  <l>    Niin polttava, kaihoavainen.</l>
+                  <l>    Yks ainoa puhtaaks pestä mun voi:</l>
+                  <l>    Rakas Jesus, mi henkensä tähteni soi</l>
+                  <l>    Hänet jospa ma löytäisin vainen!</l>
+               </lg>
+               <p rend="justify">1893.</p>
+               <p rend="justify">Lnkukiireessä keväällä.</p>
+               <lg>
+                  <l>    "Oi kuuntele, peipponen laulaa,</l>
+                  <l>    Kevätkulta jo saapunut on!"</l>
+                  <l>    — En jouda, on läksyni pitkä,</l>
+                  <l>    Pian täytyvi tutkintohon.</l>
+               </lg>
+               <lg>
+                  <l>    "Kai vuokot jo metsässä kukkii;</l>
+                  <l>    Tule, poimimme hetkisen vaan!"</l>
+                  <l>    — Vie herttainen tervehdys niille,</l>
+                  <l>    Kesän tultua poimia saan.</l>
+               </lg>
+               <lg>
+                  <l>    "Runotarkin lehdossa leijaa,</l>
+                  <l>    Hänet tuulonen luoksesi tois!"</l>
+                  <l>    — Oi, kirjojen tähden hän multa</l>
+                  <l>    Kiels' aikaa lempensä pois…</l>
+               </lg>
+               <p rend="justify">12/4 1894.</p>
+               <p rend="justify">Syksyn tunteita.</p>
+               <lg>
+                  <l>    Kellastuu, kellastuu</l>
+                  <l>    Nurmikko ja vehmas puu;</l>
+                  <l>    Syksyn merkki otsallansa</l>
+                  <l>    Myös on luonto muu.</l>
+               </lg>
+               <lg>
+                  <l>    Kalveten kukkanen</l>
+                  <l>    Nukahtaapi nurmellen.</l>
+                  <l>    Kaukomaille liiteleepi</l>
+                  <l>    Muuttolintunen.</l>
+               </lg>
+               <lg>
+                  <l>    Vuorella istun ma,</l>
+                  <l>    Katson iltaseutua.</l>
+                  <l>    Alullakin on rinta täynnä</l>
+                  <l>    Syksyn tunnetta.</l>
+               </lg>
+               <lg>
+                  <l>    Toivoen, kaivaten</l>
+                  <l>    Sykähtääpi sydämen'.</l>
+                  <l>    Siell' on kaiho, siellä onni</l>
+                  <l>    Kesän lyhyen.</l>
+               </lg>
+               <lg>
+                  <l>    — Kukkanen, kukkanen,</l>
+                  <l>    Nuku nuorna nurmellen!</l>
+                  <l>    Koska lie jo munkin vuoro</l>
+                  <l>    Tulla vierehen?</l>
+               </lg>
+               <p rend="justify">1894.</p>
+               <p rend="justify">Jesuksen hartioilla.</p>
+               <lg>
+                  <l>    En tahdo surra, Herra,</l>
+                  <l>        Sä kannat huoleni;</l>
+                  <l>    Ne kaikki, suuret, pienet,</l>
+                  <l>        On hartioillasi.</l>
+                  <l>    Oi, veithän Golgathalle</l>
+                  <l>        Sä taakan raskaimman</l>
+                  <l>    Nyt enkö sitte uskois</l>
+                  <l>        Sun näitä kantavan!</l>
+               </lg>
+               <lg>
+                  <l>    Ja kun mä kaikki heitin</l>
+                  <l>        Sun hartioillesi,</l>
+                  <l>    Niin turvallist' on olla,</l>
+                  <l>        Ja tyyni mieleni.</l>
+                  <l>    Jos vaikka kuinka käypi,</l>
+                  <l>        Sen tiedän ainiaan:</l>
+                  <l>    Kun Sulle uskon tieni,</l>
+                  <l>        On kaikki hyvin vaan.</l>
+               </lg>
+               <p rend="justify">1893.</p>
+               <p rend="justify">Myötäkäymisessä.</p>
+               <lg>
+                  <l>    Jesus, rakas Herra Jesus,</l>
+                  <l>    Kuinka Sua kiittäisin?</l>
+                  <l>    Oi, niin paljon mulle annoit,</l>
+                  <l>    Yli kaiken toivonkin!</l>
+                  <l>    "Koko tien" Sä kanssan' kuljit,</l>
+                  <l>    Kädestäni taluttain,</l>
+                  <l>    Voiman, armon, siunauksen,</l>
+                  <l>    Kaikki yksin Sulta sain.</l>
+               </lg>
+               <lg>
+                  <l>    "Kelle annettu on paljon,</l>
+                  <l>    Siltä paljon vaaditaan."</l>
+                  <l>    Herra, Herra, mitä vaadit,</l>
+                  <l>    Mitä multa tahdotkaan?</l>
+                  <l>    Kuinka saan sen täytetyksi?</l>
+                  <l>    Herra, kuinka kannatan</l>
+                  <l>    Suuren edesvastauksen,</l>
+                  <l>    Jonka tunnen painavan?</l>
+               </lg>
+               <lg>
+                  <l>    "Nosta silmäs korkealle,</l>
+                  <l>    Katso, kuka kaikki loi!</l>
+                  <l>    Häll' on kaikki voima, valta,</l>
+                  <l>    Heikot vahvistaa Hän voi.</l>
+                  <l>    Ei se uuvu, ei se näänny,</l>
+                  <l>    Joka Häntä odottaa;</l>
+                  <l>    Kotkan siivet, uudet voimat</l>
+                  <l>    Herraltaan hän aina saa."</l>
+               </lg>
+               <lg>
+                  <l>    Niin, oi Herra, sen mä uskon,</l>
+                  <l>    Heitän huolet mielestäin.</l>
+                  <l>    Taaskin tartu käteheni,</l>
+                  <l>    Taaskin kulje vieressäin!</l>
+                  <l>    Turvallisna, onnellisna</l>
+                  <l>    Silloin riemuitsen mä näin:</l>
+                  <l>    "Tähän asti autit, Herra,</l>
+                  <l>    Autat kyllä eeskinpäin!"</l>
+               </lg>
+               <p rend="justify">1895.</p>
+               <p rend="justify">Muutettua.</p>
+               <lg>
+                  <l>    Mä muuttolintujen saapuissa</l>
+                  <l>    Pois muutin syntymäseudulta.</l>
+               </lg>
+               <lg>
+                  <l>    Jätin pienen kaupungin puistoineen</l>
+                  <l>    Ja leikkipaikkani muistoineen.</l>
+               </lg>
+               <lg>
+                  <l>    Jätin ystävät, tuttavat lapsuutein,</l>
+                  <l>    Luo vierasten pois lähteäksein.</l>
+               </lg>
+               <lg>
+                  <l>    Koti, miss' olin vuosia viettänyt,</l>
+                  <l>    Mun uutehen piti vaihtaa nyt.</l>
+               </lg>
+               <lg>
+                  <l>    Oi lapsuus-aikaa ja onnea sen!</l>
+                  <l>    Oi riemuja ensi nuoruuden!</l>
+               </lg>
+               <lg>
+                  <l>    Jätin kaikki — ja tokkohan voisinkaan</l>
+                  <l>    Sen vertoja saada konsanaan?</l>
+               </lg>
+               <lg>
+                  <l>    Ja kauvan, kauvan mä yksinäin</l>
+                  <l>    Siin' istuin illalla mietteissäin…</l>
+               </lg>
+               <p rend="justify">* * *</p>
+               <lg>
+                  <l>    Pois mennessä muuttolintujen</l>
+                  <l>    Mä saavuin kotiini uutehen.</l>
+               </lg>
+               <lg>
+                  <l>    Ja siell' oli lämmintä, armasta,</l>
+                  <l>    Kuin ennen syntymäpaikassa.</l>
+               </lg>
+               <lg>
+                  <l>    Olin seudut tuttavat jättänyt,</l>
+                  <l>    Mut uusihin jälleen kiinnyin nyt.</l>
+               </lg>
+               <lg>
+                  <l>    Sydän nuori sykkäili rinnassain:</l>
+                  <l>    Pian uuden ystäväpiirin sain.</l>
+               </lg>
+               <lg>
+                  <l>    Mä ryhdyin toimehen mieluisaan:</l>
+                  <l>    Taas silmäni onnesta loistivat vaan.</l>
+               </lg>
+               <lg>
+                  <l>    Mut sitte mä joskus yksinäin</l>
+                  <l>    Taas istuin illalla mietteissäin.</l>
+               </lg>
+               <lg>
+                  <l>    Ja huomaamattani, hiljaa vaan</l>
+                  <l>    Mä vaivuin muistojen maailmaan.</l>
+               </lg>
+               <lg>
+                  <l>    Oi lapsuus-aikaa ja onnea sen!</l>
+                  <l>    Oi riemuja ensi nuoruuden!</l>
+               </lg>
+               <lg>
+                  <l>    Ja mä mietin, tokkohan voisinkaan</l>
+                  <l>    Sen vertoja saada konsanaan…</l>
+               </lg>
+               <p rend="justify">1893.</p>
+               <p rend="justify">Lapsuudenrunojani katsellessa.</p>
+               <lg>
+                  <l>    Pikku runovihkonen,</l>
+                  <l>    Tuonne nyt sun heitän,</l>
+                  <l>    Laatikkoni pohjallen</l>
+                  <l>    Papereihin peitän!</l>
+               </lg>
+               <lg>
+                  <l>    Tiedän, että uunissa</l>
+                  <l>    Paremp' ois sun maata,</l>
+                  <l>    Mutta enpä sinua</l>
+                  <l>    Sinne viedä saata.</l>
+               </lg>
+               <lg>
+                  <l>    Kehnoja on runot nää,</l>
+                  <l>    Lapsen lauleloita,</l>
+                  <l>    Vaan kun vuodet vierähtää,</l>
+                  <l>    Hausk' on nähdä noita.</l>
+               </lg>
+               <lg>
+                  <l>    Voinenkohan konsanaan</l>
+                  <l>    Parempia luoda?</l>
+                  <l>    Ah, en tiedä! Toivon vaan</l>
+                  <l>    Aika voi sen suoda.</l>
+               </lg>
+               <lg>
+                  <l>    Useasti poistuvi</l>
+                  <l>    Laulun into multa.</l>
+                  <l>    Uutta vaatis rintani</l>
+                  <l>    Runottaren tulta.</l>
+               </lg>
+               <lg>
+                  <l>    Tullos luoksen', impyen',</l>
+                  <l>    Siipes mulle anna,</l>
+                  <l>    Kanteleesi kaunoinen</l>
+                  <l>    Kotihini kanna!</l>
+               </lg>
+               <lg>
+                  <l>    Hetkisen kun siellä sois</l>
+                  <l>    Tenhova sen kieli,</l>
+                  <l>    Uusi lämpö mulla ois,</l>
+                  <l>    Innostuisi mieli.</l>
+               </lg>
+               <lg>
+                  <l>    Vaan ei vielä yksinään</l>
+                  <l>    Into, lämpö riitä:</l>
+                  <l>    Viel' on kynä kömpelö,</l>
+                  <l>    Kärki poissa siitä.</l>
+               </lg>
+               <lg>
+                  <l>    Tarkaks, immyt, veistä se,</l>
+                  <l>    Hengi paperille!</l>
+                  <l>    Sitte kauvas lennämme</l>
+                  <l>    Runon rantamille…</l>
+               </lg>
+               <lg>
+                  <l>    Jospa kevättuulonen</l>
+                  <l>    Runottaren toisi!</l>
+                  <l>    Jospa harras toivehen'</l>
+                  <l>    Todeks tulla voisi!</l>
+               </lg>
+               <p rend="justify">1892.</p>
+               <p rend="justify">Laineilla.</p>
+               <lg>
+                  <l>    Nurmella</l>
+                  <l>    Seutua katsoen istun ma;</l>
+                  <l>    Leikkien</l>
+                  <l>    Rantahan läikkyvi aaltonen.</l>
+                  <l>    Tuutivi, tuutivi laulullaan</l>
+                  <l>    Lapsuusmuistojen maailmaan.</l>
+               </lg>
+               <lg>
+                  <l>    Muinoisin</l>
+                  <l>    Lastuja heittelin laineihin.</l>
+                  <l>    Tuossa ne</l>
+                  <l>    Soutivat aallolta toiselle.</l>
+                  <l>    Nyt olen itse mä lastuna,</l>
+                  <l>    Soutelen maailman tuulissa.</l>
+               </lg>
+               <lg>
+                  <l>    Kuohuen</l>
+                  <l>    Vaahto kun hyrskähti rannallen,</l>
+                  <l>    Lastuni</l>
+                  <l>    Sinne se myrskystä huuhtaisi.</l>
+                  <l>    Vaan minä — joudunko milloinkaan</l>
+                  <l>    Rantaan tyynehen, kukkaisaan?</l>
+               </lg>
+               <lg>
+                  <l>    Jumala,</l>
+                  <l>    Suojele lastua laineilla!</l>
+                  <l>    Myrsky käy,</l>
+                  <l>    Viel' ei luotoa, maata näy.</l>
+                  <l>    — Turvani, tuulien ohjaaja,</l>
+                  <l>    Johdata lastua laineilla!</l>
+               </lg>
+               <p rend="justify">25/5 1894.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>III.</label>
+               </head>
+               <p rend="justify">Elämästä.</p>
+               <p rend="justify">Aatto-iltana.</p>
+               <lg>
+                  <l>    Lumen pehmeä, valkonen vaippa</l>
+                  <l>    On peittänyt metsän ja maan;</l>
+                  <l>    On hiljaa ulkona kaikki,</l>
+                  <l>    Ja tähtöset tuikkivat vaan.</l>
+               </lg>
+               <lg>
+                  <l>    Mä istun ikkunan luona,</l>
+                  <l>    Mä katson ja kuuntelen.</l>
+                  <l>    Jo kuusi on juhlaksi valmis,</l>
+                  <l>    Vaan hetkeksi unhotan sen.</l>
+               </lg>
+               <lg>
+                  <l>    En kuule, mutta sen tunnen:</l>
+                  <l>    Läpi ilmojen lauluja soi;</l>
+                  <l>    Siell' enkelit taivaan laulaa,</l>
+                  <l>    Sanan Jesuksesta he toi.</l>
+               </lg>
+               <lg>
+                  <l>    Sydän käy niin lämpöiseksi,</l>
+                  <l>    Sydän köyhä ja syntinen,</l>
+                  <l>    Ovet siellä ne hiljaa aukee,</l>
+                  <l>    Kuin vierasta vuotellen.</l>
+               </lg>
+               <lg>
+                  <l>    Oi Jesus, ystävä parhain,</l>
+                  <l>    Tule luokseni vieraaksi!</l>
+                  <l>    Ilo joulun on muuten poissa,</l>
+                  <l>    Ja tyhjä on syömmeni.</l>
+               </lg>
+               <lg>
+                  <l>    Vaan siellä kun tahdot olla,</l>
+                  <l>    En muusta mä huolikaan,</l>
+                  <l>    On silloin kuuseni kirkas,</l>
+                  <l>    Ja joulu on ainiaan.</l>
+               </lg>
+               <p rend="justify">2/11 1894.</p>
+               <p rend="justify">Orpo.</p>
+               <lg>
+                  <l>    Täällä mä astun tyttönen</l>
+                  <l>    Jäljessä kartanon karjan.</l>
+                  <l>    Kuiva on kannikka kontissain,</l>
+                  <l>    Lähde läikkyvä tuoppinain;</l>
+                  <l>    Soita ja korpia käyskelen,</l>
+                  <l>    Poimin mättäältä marjan.</l>
+               </lg>
+               <lg>
+                  <l>    Lintunen laulavi oksalla,</l>
+                  <l>    Lehmien kellot soivat.</l>
+                  <l>    Kerran kellot ne kaikui niin</l>
+                  <l>    Äitini hautahan kannettiin.</l>
+                  <l>    Toinen on meidän torpassa,</l>
+                  <l>    Tänne mun vieraalle toivat.</l>
+               </lg>
+               <lg>
+                  <l>    Paista, aurinko armahin,</l>
+                  <l>    Lämmitä orpolasta!</l>
+                  <l>    Ei mua kukaan helli nyt,</l>
+                  <l>    Multakin rinta on jäähtynyt.</l>
+                  <l>    Anna, aurinko armahin,</l>
+                  <l>    Lämpöä taivahasta!</l>
+               </lg>
+               <lg>
+                  <l>    Kil kili, kal kali — Mansike hoi!</l>
+                  <l>    Hei, hoi, Muurikki, Rusko!</l>
+                  <l>    — Äitini lausui: "Yksin jäät,</l>
+                  <l>    Kylmät on maailman tuulispäät.</l>
+                  <l>    Kuinka jos käykin, lapseni, oi,</l>
+                  <l>    Toivo ja Herraan usko!"</l>
+               </lg>
+               <lg>
+                  <l>    Louhikko naarmulle jalkani vie,</l>
+                  <l>    Vaikea käydä on mulla…</l>
+                  <l>    — Äitini, Herraan uskonkin,</l>
+                  <l>    Toivoa myöskin tahtoisin,</l>
+                  <l>    Vaan niin raskas on orvon tie —</l>
+                  <l>    Luokses jos saisin ma tulla!</l>
+               </lg>
+               <p rend="justify">25/7 1895.</p>
+               <p rend="justify">Myllärin tyttö.</p>
+               <lg>
+                  <l>    Myllykoski kohisee…</l>
+                  <l>    Kulta merta kyntelee.</l>
+                  <l>    Sinne pois</l>
+                  <l>    Kullan luo kun päästä vois!</l>
+               </lg>
+               <lg>
+                  <l>    Säkit huuhdon joutuisaan,</l>
+                  <l>    Sitte myllyn siivontaan —</l>
+                  <l>    Sitte, oi,</l>
+                  <l>    Hetken kulta saada voi!</l>
+               </lg>
+               <lg>
+                  <l>    Piirrän pienen kirjehen,</l>
+                  <l>    Poimin pienen kukkasen,</l>
+                  <l>    Suudelman</l>
+                  <l>    Kätken lehden lomahan.</l>
+               </lg>
+               <lg>
+                  <l>    Laula, loiski, purosein!</l>
+                  <l>    Kaukana on sydämein…</l>
+                  <l>    Sinne pois</l>
+                  <l>    Kullan luo kun päästä vois!</l>
+               </lg>
+               <p rend="justify">29/7 1895.</p>
+               <p rend="justify">Yöllä.</p>
+               <lg>
+                  <l>    Niin musta on kaupunki!</l>
+                  <l>    Nyt joutuvi keskiyö,</l>
+                  <l>    Kakstoista jo kello lyö,</l>
+                  <l>    Kaikk', kaikki peittyvi pimeään,</l>
+                  <l>    Ei tuiki ainoa tähtikään —</l>
+                  <l>    Ken vielä nyt valvovi?</l>
+               </lg>
+               <lg>
+                  <l>    Moni sairas varmaankin.</l>
+                  <l>    Niin polttava otsa on,</l>
+                  <l>    Lie rintakin rauhaton…</l>
+                  <l>    Unen enkeli, heitä sä suutele,</l>
+                  <l>    Sydänhaavoja, taivas, lääkitse,</l>
+                  <l>    Suo rauhasi sieluihin!</l>
+               </lg>
+               <lg>
+                  <l>    Vait! Mistä on melske tuo?…</l>
+                  <l>    Ei valvo sairaus vaan,</l>
+                  <l>    On syntikin toimessaan,</l>
+                  <l>    Vie viina öisille retkilleen…</l>
+                  <l>    Oi vaimo raukkoja lapsineen! —</l>
+                  <l>    Oi taivas, armosi suo!</l>
+               </lg>
+               <lg>
+                  <l>    Niin musta on kaupunki!</l>
+                  <l>    Mut yöhön kun katsahtais,</l>
+                  <l>    Ah, kurjuutta nähdä sais:</l>
+                  <l>    Ilo, terveys nukkuvi, rauhakin;</l>
+                  <l>    Rikos, tauti ja murhe katkerin,</l>
+                  <l>    Se yksin nyt valvovi.</l>
+               </lg>
+               <lg>
+                  <l>    Ei valvo se yksinään!</l>
+                  <l>    Yhä valpas vieläkin</l>
+                  <l>    On vartija Israelin.</l>
+                  <l>    Hän kyynelet kirjahan kirjoittaa,</l>
+                  <l>    Ja sorto ja synti, se tuomion saa,</l>
+                  <l>    Ei yöhön se peitykään.</l>
+               </lg>
+               <lg>
+                  <l>    Niin, Herra, Hän valvovi!</l>
+                  <l>    Ja musta on syksy-yö,</l>
+                  <l>    Mut syttyvi tähtivyö;</l>
+                  <l>    Kuu nousee taivahan kannellen,</l>
+                  <l>    Saa rintahan tunne turvainen,</l>
+                  <l>    Ja mä sammutan lamppuni.</l>
+               </lg>
+               <p rend="justify">1895.</p>
+               <p rend="justify">Ellin syksymuistelma.</p>
+               <lg>
+                  <l>    Takkini, lakkini vallan kastin,</l>
+                  <l>    Vettä kun pilvistä vihmoi niin;</l>
+                  <l>    Kuljin ja käyskelin ristin rastin,</l>
+                  <l>    Eksyin outohon Helsinkiin.</l>
+               </lg>
+               <lg>
+                  <l>    Siinä jo ymmällä melkein itkin…</l>
+                  <l>    Silloin — aatteles — sattui näin:</l>
+                  <l>    Arvo se asteli ahdetta pitkin,</l>
+                  <l>    Saapui luokseni kiirehtäin.</l>
+               </lg>
+               <lg>
+                  <l>    Sitte en tiedä, kuinka mä teinkään,</l>
+                  <l>    En, mitä hälle mä kerroinkaan;</l>
+                  <l>    Enkä mä muistais ihmeekseinkään</l>
+                  <l>    Mistä hän haasteli huikeissaan.</l>
+               </lg>
+               <lg>
+                  <l>    Muistan vaan, miten siinä hän astui</l>
+                  <l>    Silmin loistavin rinnallain,</l>
+                  <l>    Huolinut ei, vaikk' itse kastui,</l>
+                  <l>    Suojasi, aatteli "Elliä" vain.</l>
+               </lg>
+               <lg>
+                  <l>    Vaikk' oli taivas synkkä ja musta,</l>
+                  <l>    Ilmakin kolkko ja syksyinen,</l>
+                  <l>    Sentään tunsin mä riemastusta,</l>
+                  <l>    Lämpöä, tuoksua keväimen.</l>
+               </lg>
+               <lg>
+                  <l>    Pian minut saatti hän tuttuhun paikkaan</l>
+                  <l>    Liiaksi vain oli lyhkäinen tie;</l>
+                  <l>    Sillä sen tiedän: pitkähän aikaan</l>
+                  <l>    Ei niin hauskaa ollunna lie.</l>
+               </lg>
+               <p rend="justify">Syysk. 1895.</p>
+               <p rend="justify">On penni vaan…</p>
+               <lg>
+                  <l>    Niin houkutellen ne kutsuvat,</l>
+                  <l>    Nuo tortut, kaakut ja piirakat,</l>
+                  <l>    Ja siellä syödään ja ostellaan,</l>
+                  <l>    Ja vadit täyttyvät uudestaan.</l>
+               </lg>
+               <lg>
+                  <l>    Vaan ulkopuolella ikkunaa</l>
+                  <l>    Pää pieni ruudusta kurkistaa,</l>
+                  <l>    Ja silmät suuret ja kirkkahat</l>
+                  <l>    Niin pyytäväisinä katsovat.</l>
+               </lg>
+               <lg>
+                  <l>    Tuo kaunis kaakku! Ah, jos sen sais</l>
+                  <l>    Niin kovin Katria haluttais.</l>
+                  <l>    Mut tyttösellä on penni vaan,</l>
+                  <l>    Ja siitä kymmenen vaaditaan.</l>
+               </lg>
+               <lg>
+                  <l>    Oi, leipuriksi ken tulla vois!</l>
+                  <l>    Sais aina syödä, kun nälkä ois.</l>
+                  <l>    Tai jospa pääsisi rikkahaks,</l>
+                  <l>    Kun tahtois, ostaisi kaakun, kaks.</l>
+               </lg>
+               <lg>
+                  <l>    Nyt silmillänsä hän syöpi vaan,</l>
+                  <l>    Ja pikku sormi on suukossaan…</l>
+                  <l>    Ken kymmenpennisen lahjoittais,</l>
+                  <l>    Niin että kaakkunsa Katri sais?</l>
+               </lg>
+               <p rend="justify">13/6 1895.</p>
+               <p rend="justify">Mieron tiellä.</p>
+               <lg>
+                  <l>    Tullos, Musti, vierellein!</l>
+                  <l>    Joudu, joudu, Hallisein!</l>
+                  <l>    Nälkä teill'on molemmilla:</l>
+                  <l>    Saatte einehein.</l>
+               </lg>
+               <lg>
+                  <l>    Kulkulainen koditon</l>
+                  <l>    Halveksittu, köyhä on.</l>
+                  <l>    Ystävät, me kolme saimme</l>
+                  <l>    Saman kohtalon.</l>
+               </lg>
+               <lg>
+                  <l>    Ovelle kun kolkutin,</l>
+                  <l>    Näin siinä teidätkin.</l>
+                  <l>    Oi, mi katse silmissänne!</l>
+                  <l>    Sen mä ymmärsin.</l>
+               </lg>
+               <lg>
+                  <l>    Teille annan kannikkain,</l>
+                  <l>    Jonka keittiössä sain.</l>
+                  <l>    Kai ma vielä toista löydän</l>
+                  <l>    Ottakaa se vain!</l>
+               </lg>
+               <lg>
+                  <l>    Luoja pienet holhoaa,</l>
+                  <l>    Ihmismielet taivuttaa.</l>
+                  <l>    Kyllä Hältä mieron tyttö</l>
+                  <l>    Einehensä saa.</l>
+               </lg>
+               <p rend="justify">1895.</p>
+               <p rend="justify">Kesä-ilta.</p>
+               <p rend="justify">(Merikannon valssin kansikuvan mukaan).</p>
+               <lg>
+                  <l>    He kulkivat siinä kahden</l>
+                  <l>    Ja kuiskivat onnestaan,</l>
+                  <l>    Ja hiljaa lainehet lahden</l>
+                  <l>    Ne säistivät laulullaan.</l>
+               </lg>
+               <lg>
+                  <l>    Ja kuiskehen kuuli rastas,</l>
+                  <l>    Sen toisteli kullalleen,</l>
+                  <l>    Ja lainehen lauluun vastas</l>
+                  <l>    Kesätuulonen tuoksuineen.</l>
+               </lg>
+               <lg>
+                  <l>    Sävelkuiskeen vienon ja armaan</l>
+                  <l>    Taas kaiku kertoeli.</l>
+                  <l>    Koko luonto sen tenhossa varmaan</l>
+                  <l>    Kesä-iltana haaveksi…</l>
+               </lg>
+               <p rend="justify">Syysk. 1895.</p>
+               <p rend="justify">Saaristolaispoika sisämaassa.</p>
+               <lg>
+                  <l>    Mä kynnän pellot ja kasket kaadan,</l>
+                  <l>    Mä kangin, kuokin ja työssä raadan,</l>
+                  <l>    Mut eipä uutterin toimikaan</l>
+                  <l>    Saa rinnan polttoa taltumaan.</l>
+               </lg>
+               <lg>
+                  <l>    On kuin en ilmaa mä täällä saisi,</l>
+                  <l>    Vaan kaikki painaisi, ahdistaisi;</l>
+                  <l>    Nuo viidat, nummet ja laaka maa,</l>
+                  <l>    Ne mieltä, katsetta uuvuttaa.</l>
+               </lg>
+               <lg>
+                  <l>    Oi kallioita ja saarimaita</l>
+                  <l>    Ja merta, aaltoja vaahdokkaita!</l>
+                  <l>    Oi kotiseutua, armastain!</l>
+                  <l>    Niin, sinne, sinne mä mielin vain!</l>
+               </lg>
+               <lg>
+                  <l>    Mä syömmin riemusta sykkiväisin</l>
+                  <l>    Vapaana myrskyssä temmeltäisin.</l>
+                  <l>    Kuin sorsa purteni oiva uis,</l>
+                  <l>    Ja rinta paisuis ja laajentuis.</l>
+               </lg>
+               <lg>
+                  <l>    Ves'linnun hauska on lainehella;</l>
+                  <l>    Laps saaren kärsivi manterella.</l>
+                  <l>    Oi raitis, kaunoinen saarimaa,</l>
+                  <l>    Pois sinne tahdon mä kiiruhtaa!</l>
+               </lg>
+               <p rend="justify">13/10 1895.</p>
+               <p rend="justify">Tyttökoululaitoksen 50:ntenä vuosipäivänä 6/11 93.</p>
+               <div type="div3">
+                  <head>
+                     <label>I.</label>
+                  </head>
+                  <lg>
+                     <l>    Häkiss' istuvi vankina lintunen,</l>
+                     <l>    Lyö siipiä ristikon rautoihin:</l>
+                     <l>    Jo lehdossa laulavat kumppanit sen,</l>
+                     <l>    Ulos kutsuen äänin riemuisin.</l>
+                  </lg>
+                  <lg>
+                     <l>    "Niin ahdas, ahdas on häkkini, oi,</l>
+                     <l>    Miks täällä mun kaihota täytyvi vaan?</l>
+                     <l>    Vapauttahan varten Luoja mun loi</l>
+                     <l>    Ja Suomeni metsihin laulelemaan."</l>
+                  </lg>
+                  <lg>
+                     <l>    Tule, lintuni, ruokaa multa sä saat!</l>
+                     <l>    Mut poijes se kääntävi pienoisen pään.</l>
+                     <l>    Taas laulaos laulusi soinnukkaat!</l>
+                     <l>    Mut eipä nyt kuulu sen riemuva ään'.</l>
+                  </lg>
+                  <lg>
+                     <l>    — Mikä vaivaa lintua, armastain?</l>
+                     <l>    Ulos katsele päivän paisteesen! —</l>
+                     <l>    "Oi, sinnehän onkin mieleni vain,</l>
+                     <l>    Vapauttani, raukka, mä kaipailen."</l>
+                  </lg>
+                  <lg>
+                     <l>    — Niin lähteös, lintuni, lentohon,</l>
+                     <l>    Pois tuonne toivosi maailmaan!</l>
+                     <l>    Nyt tiedän: vapaaks luotu mi on,</l>
+                     <l>    Ei vankina viihdy se milloinkaan. —</l>
+                  </lg>
+                  <lg>
+                     <l>    On ulkona kukkien peitossa maa,</l>
+                     <l>    Kevät-aurinko loistavi lämpöinen;</l>
+                     <l>    Ja lintu se riemuiten lentohon saa,</l>
+                     <l>    Avaruuksiin, ilmahan kirkkaasen.</l>
+                  </lg>
+                  <div type="div4">
+                     <head>
+                        <label>II.</label>
+                     </head>
+                     <lg>
+                        <l>    Sä Suomen vapaa lintunen,</l>
+                        <l>    Kiitosta kanna Luojalleni</l>
+                        <l>    Niin paljon, paljon sait sä Hältä,</l>
+                        <l>    Sun Isältäsi lempivältä:</l>
+                        <l>    Jo tiedon laaja ihmemaa</l>
+                        <l>    Sun lentimilles aukeaa;</l>
+                        <l>    Sen aartehisto verraton</l>
+                        <l>    Sun aatokselles altis on.</l>
+                     </lg>
+                     <lg>
+                        <l>    Se onni, mi on osanas,</l>
+                        <l>    Ei ennen ollut siskollas;</l>
+                        <l>    Hän hyöri, puuhas kodissansa,</l>
+                        <l>    Se yksin oli maailmansa.</l>
+                        <l>    Kun veljet luki innoissaan,</l>
+                        <l>    Hän kyynelsilmin katsoi vaan.</l>
+                        <l>    Hän kärsi, kaipas tietoja</l>
+                        <l>    Kuin lintu vapauttansa.</l>
+                     </lg>
+                     <lg>
+                        <l>    Mut päivä koitti vihdoinkin</l>
+                        <l>    Ja paistoi ihmismielihin,</l>
+                        <l>    Ja tiedon maille valoisille</l>
+                        <l>    Tie aukes Suomen tyttärille.</l>
+                        <l>    On ummellensa siitä nyt</l>
+                        <l>    Jo viisikymmen vierinyt,</l>
+                        <l>    Ja muistoks tästä saavutaan</l>
+                        <l>    Nyt kouluhumme juhlimaan.</l>
+                     </lg>
+                     <lg>
+                        <l>    Siis yhdy juhlan viettohon!</l>
+                        <l>    Tää sulle kallis päivä on.</l>
+                        <l>    Sun kanssas koko Suomen kansa</l>
+                        <l>    Nyt ilmoittaapi riemuansa.</l>
+                        <l>    Jo talvi saapuu Pohjolaan,</l>
+                        <l>    Mut sull' on kevät kukassaan,</l>
+                        <l>    Ja siksi, Suomen lintunen,</l>
+                        <l>    Kiitosta laula Luojallen!</l>
+                     </lg>
+                     <p rend="justify">1893.</p>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>IV.</label>
+               </head>
+               <p rend="justify">Muistoja ja tervehdyksiä.</p>
+               <p rend="justify">Äidilleni.</p>
+               <lg>
+                  <l>    Kukkaisnuppunen hento</l>
+                  <l>    Varttansa vahvaa vasten</l>
+                  <l>    Lehteä painaltaa.</l>
+                  <l>    Linnunpoikanen pieni</l>
+                  <l>    Peittävän siipyen alla</l>
+                  <l>    Rauhassa nukkua saa.</l>
+               </lg>
+               <lg>
+                  <l>    Ilman loistoa päivän</l>
+                  <l>    Kuuhut tummana kulkis,</l>
+                  <l>    Sammuis tähtönen pois.</l>
+                  <l>    Ilman lähtehen silmää</l>
+                  <l>    Vuolas, vilpeä virta</l>
+                  <l>    Tyhjänä uomana ois.</l>
+               </lg>
+               <lg>
+                  <l>    Ilman syöntä, mi lempii,</l>
+                  <l>    Ilman kättä, mi vaalii,</l>
+                  <l>    Raskast' on lapsosen.</l>
+                  <l>    Helmassa äidin hellän,</l>
+                  <l>    Lämmössä äidin lemmen</l>
+                  <l>    Lapsi on onnellinen.</l>
+               </lg>
+               <lg>
+                  <l>    Vaivoja säästelemättä</l>
+                  <l>    Äidin rakkaus toimii,</l>
+                  <l>    Hehkuvin, suurin se on.</l>
+                  <l>    Äitini armahin, kiitos</l>
+                  <l>    Siitä, min annoit mulle!</l>
+                  <l>    Luoja sen palkitkohon!</l>
+               </lg>
+               <p rend="justify">17/9 1895.</p>
+               <p rend="justify">Pyhäkköni.</p>
+               <lg>
+                  <l>    Paikan rakkahan tiedän,</l>
+                  <l>    Tyynen ja rauhaisen;</l>
+                  <l>    Siellä mä istuin ennen,</l>
+                  <l>    Sinne nyt kaipailen.</l>
+               </lg>
+               <lg>
+                  <l>    Kuuset seisovat siellä</l>
+                  <l>    Kunniavahteina,</l>
+                  <l>    Vuokot valkoiset peittää</l>
+                  <l>    Nurmea juurella.</l>
+               </lg>
+               <lg>
+                  <l>    Kerran sinne mä saatoin</l>
+                  <l>    Turvani, rakkahain;</l>
+                  <l>    Kukkaset haudalla kastoi</l>
+                  <l>    Kyynelet poskiltain.</l>
+               </lg>
+               <lg>
+                  <l>    Kolkolta siell' ei koskaan</l>
+                  <l>    Tuntunut kumminkaan,</l>
+                  <l>    Syömmeni kielet parhaat</l>
+                  <l>    Helkähti soimahan vaan.</l>
+               </lg>
+               <lg>
+                  <l>    Kevään toivoa uhkui</l>
+                  <l>    Kukkiva, armas maa,</l>
+                  <l>    Mutta mun liiteli aatos</l>
+                  <l>    Kauvaksi pilvien taa.</l>
+               </lg>
+               <lg>
+                  <l>    Onnea tääll' oli paljon — —</l>
+                  <l>    Kyynelten himmentämää…</l>
+                  <l>    Siell' oli oikea riemu,</l>
+                  <l>    Siell' oli matkani pää!</l>
+               </lg>
+               <lg>
+                  <l>    Vuosia sitten vieri,</l>
+                  <l>    Kasvoin, suureksi sain;</l>
+                  <l>    Kohtalo pois minut johti</l>
+                  <l>    Syntymäseudultain.</l>
+               </lg>
+               <lg>
+                  <l>    Aika jo paljon peitti</l>
+                  <l>    Unhojen maailmaan,</l>
+                  <l>    Vaan kuva paikkani rakkaan</l>
+                  <l>    Kirkastuu yhä vaan.</l>
+               </lg>
+               <lg>
+                  <l>    Siellä jos taasen mä oisin</l>
+                  <l>    Kuusteni juurella!</l>
+                  <l>    Siellä jos nukkua voisin</l>
+                  <l>    Päiväni laskeissa!</l>
+               </lg>
+               <p rend="justify">13/5 1894.</p>
+               <p rend="justify">Eräälle morsiusparille.</p>
+               <lg>
+                  <l>    Kodin käytte laatimaan</l>
+                  <l>    Maailmahan avaraan,</l>
+                  <l>    Kuten pesän pienoisen</l>
+                  <l>    Valmistaapi lintunen.</l>
+               </lg>
+               <lg>
+                  <l>    Kestävälle oksalle</l>
+                  <l>    Laatikaatte pesänne:</l>
+                  <l>    Myrskysäillä suojan vaan</l>
+                  <l>    Suopi usko Jumalaan.</l>
+               </lg>
+               <lg>
+                  <l>    Lämpimässä pesässä,</l>
+                  <l>    Siin' on hyvä levätä:</l>
+                  <l>    Lempi kodin lämmittää,</l>
+                  <l>    Lemmettä se kylmäks jää.</l>
+               </lg>
+               <p rend="justify">1890.</p>
+               <p rend="justify">Jatko-opiston johtajan syntymäpäivänä 7/3 95.</p>
+               <p rend="justify">(Oppilasten kukkakorin muassa.)</p>
+               <lg>
+                  <l>    Kasvoi kankahan kylessä,</l>
+                  <l>    Salon sankan laitehella</l>
+                  <l>    Valkokukkia kehänen,</l>
+                  <l>    Kiehkurainen kielosia.</l>
+                  <l>    Siell' oli kuuset kumppanina,</l>
+                  <l>    Tuttu tuulien humina,</l>
+                  <l>    Siellä Suomemme suloa</l>
+                  <l>    Luonnon kannel kaikueli.</l>
+                  <l>    Hyvähän oisi siellä ollut,</l>
+                  <l>    Armas vastakin asua,</l>
+                  <l>    Vaan tuli tuima pohjatuuli,</l>
+                  <l>    Vihurin vihainen viima,</l>
+                  <l>    Heitti viljalta vitiä,</l>
+                  <l>    Nietokset sakeat syyti,</l>
+               </lg>
+               <lg>
+                  <l>    Kylmi kukkien kupuja,</l>
+                  <l>    Palelteli pienoisia.</l>
+                  <l>    Tuosta kielot tuumimahan,</l>
+                  <l>    Kysymähän keskenänsä,</l>
+                  <l>    Minne pääsisi pakohon</l>
+                  <l>    Kourista kovan puhurin,</l>
+                  <l>    Miss' olis suojaista sijoa,</l>
+                  <l>    Koti lämmin kukkasille.</l>
+               </lg>
+               <lg>
+                  <l>    Jättivätpä jäisen kentän,</l>
+                  <l>    Tänne saapuivat salolta,</l>
+                  <l>    Kuuluisimpahan kylähän,</l>
+                  <l>    Helsingin hyville maille.</l>
+                  <l>    Saivat muitaki mukahan</l>
+                  <l>    Elosijan etsintähän,</l>
+                  <l>    Kukkia kesäisen parven</l>
+                  <l>    Kasvihuoneitten kedolta.</l>
+               </lg>
+               <lg>
+                  <l>    Löysivät parahan paikan,</l>
+                  <l>    Kotilieden lämpöisimmän,</l>
+                  <l>    Saapuivat tähän talohon</l>
+                  <l>    Asuntoa pyytämähän.</l>
+                  <l>    Tääll' ei tunnu pohjatuuli,</l>
+                  <l>    Vihurin vihainen viima:</l>
+                  <l>    Täällä lempi lämmittävi,</l>
+                  <l>    Lempi suurehen, jalohon.</l>
+                  <l>    Täällä soi sama sävele,</l>
+                  <l>    Sama kantelo kajavi,</l>
+                  <l>    Joka soi saloissa Suomen,</l>
+                  <l>    Kajahteli kankahalla:</l>
+                  <l>    Mieli on täällä Suomen mieli,</l>
+                  <l>    Kieli puhdas Suomen kieli;</l>
+                  <l>    Siksi Suomen kukkasien</l>
+                  <l>    Täällä armas on asua.</l>
+               </lg>
+               <lg>
+                  <l>    Niinpä kainot kukkasemme</l>
+                  <l>    Löysivät parahan paikan.</l>
+                  <l>    — Löysivät parahan paikan,</l>
+                  <l>    Muistivat parahan päivän:</l>
+                  <l>    Saapuivathan suorastansa,</l>
+                  <l>    Täksi päiväksi tulivat,</l>
+                  <l>    Lehahtivat Lehtorille</l>
+                  <l>    Synnyinpäivä-vierahiksi.</l>
+                  <l>    — Niin ne nyt pyytävät puhua,</l>
+                  <l>    Tuoda Teille tullessansa</l>
+                  <l>    Nöyrät onnentoivehensa,</l>
+                  <l>    Lämpöisimmät, hartahimmat.</l>
+                  <l>    — Kukka kuihtuvi piankin,</l>
+                  <l>    Lakastuvi nurmen lapsi,</l>
+                  <l>    Vaan ei kuihdu konsanansa,</l>
+                  <l>    Lakastu sinä ikänä</l>
+                  <l>    Työ, min on lempi laatinunna,</l>
+                  <l>    Rakkaus rakentanunna,</l>
+                  <l>    Lempi Suomehen sulohon,</l>
+                  <l>    Kotimaahan kultaisehen.</l>
+               </lg>
+               <lg>
+                  <l>    Eläkäätte kauvan vielä</l>
+                  <l>    Neuvojana nuoren polven,</l>
+                  <l>    Opissa opastajana,</l>
+                  <l>    Hyvähän herättäjänä,</l>
+                  <l>    Iloks meille, iloks muille,</l>
+                  <l>    Onneksi omalle maalle!</l>
+               </lg>
+               <p rend="justify">1895.</p>
+               <p rend="justify">Tovereista erotessa.</p>
+               <lg>
+                  <l>    Oi, kuink' olin teihin kiintynyt!</l>
+                  <l>    Oi, kuinka ma teitä kaipaan nyt!</l>
+               </lg>
+               <lg>
+                  <l>    Eri haaroille suurehen maailmaan</l>
+                  <l>    Nyt lähdemme uutehen toimintaan;</l>
+                  <l>    Isänmaata me tahdomme palvella,</l>
+                  <l>    Jalot aattehet rientojen ohjeena.</l>
+               </lg>
+               <lg>
+                  <l>    Vaan "Jatkon" aika ja kumppanuus,</l>
+                  <l>    Sen muisto ja kaipuu aina on uus.</l>
+               </lg>
+               <p rend="justify">10/6 95.</p>
+               <p rend="justify">Lasten kiitos Sakari Topeliukselle.</p>
+               <lg>
+                  <l>    Me, Pohjolan pienokaiset,</l>
+                  <l>    Sydämestämme lausumme:</l>
+                  <l>    Setä, kiitos, kaikesta kiitos,</l>
+                  <l>    Mitä lahjoitit lapsille!</l>
+               </lg>
+               <lg>
+                  <l>    Niin paljon Sä riemua meille</l>
+                  <l>    Satu-aartehes ääressä soit,</l>
+                  <l>    Niin paljon lempeäs annoit,</l>
+                  <l>    Niin paljon kaunista loit.</l>
+               </lg>
+               <lg>
+                  <l>    Oli niinkuin enkeli puhdas</l>
+                  <l>    Ois luoksemme lentänyt,</l>
+                  <l>    Ja pienehen syömmeen hiljaa,</l>
+                  <l>    Niin hiljaa henkäissyt.</l>
+               </lg>
+               <lg>
+                  <l>    Hän Luojan viestinä saapui</l>
+                  <l>    Ja Sunkin rakkautes,</l>
+                  <l>    Ja kuiskasi meille Sun toivos</l>
+                  <l>    Ja lämpimät terveises.</l>
+               </lg>
+               <lg>
+                  <l>    Oi, kyllä me tahdomme kuulla</l>
+                  <l>    Sanat enkelin armahan:</l>
+                  <l>    Me tahdomme Suomelle kasvaa</l>
+                  <l>    Ja lapsiksi Jumalan!</l>
+               </lg>
+               <lg>
+                  <l>    Mut Sulla, kun lempeä kylvit,</l>
+                  <l>    Myös tähkinä lempi on vaan,</l>
+                  <l>    Ja me pyydämme taivaan Herraa</l>
+                  <l>    Elos iltaa siunaamaan.</l>
+               </lg>
+               <p rend="justify">8/8 93.</p>
+               <p rend="justify">Soiton-opettajattareni muistoksi.</p>
+               <lg>
+                  <l>    Kevät-aamun kaunihin muistan,</l>
+                  <l>    Niin, muistan sen ainiaan,</l>
+                  <l>    Kun viimeisen kerran istuin</l>
+                  <l>    Sun johdollas soittamaan.</l>
+                  <l>    Sun ties oli Schweitsihin vievä,</l>
+                  <l>    Mun kouluhun Helsinkiin;</l>
+                  <l>    Ja mä soitin kaihoa täynnä</l>
+                  <l>    Ja puhkesin kyyneliin…</l>
+               </lg>
+               <lg>
+                  <l>    En ystäväpiiriäs ollut,</l>
+                  <l>    Olin oppilas outo mä vaan,</l>
+                  <l>    Mut yhdessä työtä kun teimme,</l>
+                  <l>    Veit syömmeni kerrassaan.</l>
+                  <l>    Ja siks erohetkenä silloin</l>
+                  <l>    Niin kyynelet — virtaeli;</l>
+                  <l>    Sanatonna ne Sulle kertoi</l>
+                  <l>    Mun kaihoni, kiitokseni.</l>
+               </lg>
+               <lg>
+                  <l>    Ei vuottakaan ole vielä</l>
+                  <l>    Siit' aamusta vierinyt,</l>
+                  <l>    Mut kiinni ja ääneti aivan</l>
+                  <l>    Sun soittimes seisovi nyt.</l>
+                  <l>    Tuli ankara syksyn halla</l>
+                  <l>    Ihan keskellä keväimen;</l>
+                  <l>    Se huokui kuoloa kylmää,</l>
+                  <l>    Vei kukkasen hentoisen.</l>
+               </lg>
+               <lg>
+                  <l>    Et uinua, armas, saanut</l>
+                  <l>    Kotikuusien juurella:</l>
+                  <l>    Sun hautas kaukana täältä</l>
+                  <l>    On Alppien laaksoissa.</l>
+                  <l>    Siell' lepäät yksinäs aivan</l>
+                  <l>    Sä keskellä vieraitten,</l>
+                  <l>    Ei kumpua kukkasin peittää</l>
+                  <l>    Voi ystävä murheinen.</l>
+               </lg>
+               <lg>
+                  <l>    Vaan helmaan vierahan mullan</l>
+                  <l>    Sun henkesi jäänytkö ois?</l>
+                  <l>    Ei, kauvas, kauvas se lensi</l>
+                  <l>    Yli Alppien huippujen pois.</l>
+                  <l>    Kotimaassaan riemuiten yhtyi</l>
+                  <l>    Se enkelijoukkoihin,</l>
+                  <l>    Ja soittos, mi vaikeni täällä,</l>
+                  <l>    Soi siellä nyt kauniimmin.</l>
+               </lg>
+               <p rend="justify">1893.</p>
+               <p rend="justify">Inkeri.</p>
+               <lg>
+                  <l>    Muistatko aaltovat tähkät?</l>
+                  <l>    Niin on kutrinsa kultaiset.</l>
+                  <l>    Muistatko kirkkahan lammen?</l>
+                  <l>    Niin on silmänsä loistoiset.</l>
+                  <l>    Muistatko aamun koiton?</l>
+                  <l>    Niin on poskensa ruusuiset.</l>
+                  <l>    Enkelin puhtaus kasvoillaan,</l>
+                  <l>    Lapsuuden rauha rinnassaan.</l>
+               </lg>
+               <p rend="justify">* * *</p>
+               <lg>
+                  <l>    Hän siskon kanssa on "hummasilla",</l>
+                  <l>    Käy käpykarjassa laitumilla,</l>
+                  <l>    Ja aina "auttavi" mielissään,</l>
+                  <l>    Kun saapi toimia äidiltään.</l>
+               </lg>
+               <lg>
+                  <l>    Mut toimet, leikit, ne kesken jääpi,</l>
+                  <l>    Kun puissa lintuset livertääpi,</l>
+                  <l>    Kun päivä kultaapi kalliot</l>
+                  <l>    Ja soipi laineitten laulelot.</l>
+               </lg>
+               <lg>
+                  <l>    Hän silloin istuvi haaveissansa</l>
+                  <l>    Ja yksin haastavi luonnon kanssa,</l>
+                  <l>    Hän kukkatarhoista tarinoi</l>
+                  <l>    Ja sinitaivosta unelmoi.</l>
+               </lg>
+               <lg>
+                  <l>    Mi vaan on kaunista, kokonansa</l>
+                  <l>    Se saapi Inkerin valtahansa;</l>
+                  <l>    Mut tunne lapsen on rajaton,</l>
+                  <l>    Se joka luodulle lämmin on.</l>
+               </lg>
+               <lg>
+                  <l>    Mä muistan, kerran hän hellitellen</l>
+                  <l>    Keräili lieroja kämmenellen</l>
+                  <l>    Ja ääneen riemuitsi: "Katsos, ai!</l>
+                  <l>    No mato pikkuinen, mato pai!"</l>
+               </lg>
+               <lg>
+                  <l>    Niin, tähti yössä on mustimmassa</l>
+                  <l>    Ja helmi hohtoisa simpukassa,</l>
+                  <l>    Ja perho toukasta tulla voi,</l>
+                  <l>    Ja mato raukankin Luoja loi.</l>
+               </lg>
+               <lg>
+                  <l>    Me suuret sokkoina käyskelemme,</l>
+                  <l>    Niin paljon moitimme, tuomitsemme.</l>
+                  <l>    Oi, kuinka maailma kirkas ois,</l>
+                  <l>    Jos lapsen silmin sen nähdä vois!</l>
+               </lg>
+               <p rend="justify">* * *</p>
+               <lg>
+                  <l>    Kummityttö kultaseni,</l>
+                  <l>    Pikku Inkeri, iloni!</l>
+                  <l>    Kasva kankahan kukaksi,</l>
+                  <l>    Lehtolammen lemmikiksi,</l>
+                  <l>    Vaapukaksi vainiolla,</l>
+                  <l>    Punapuolaksi palolla!</l>
+               </lg>
+               <lg>
+                  <l>    Vaan kun kasvat ja ylenet,</l>
+                  <l>    Niin sä katso, kukkaseni,</l>
+                  <l>    Vaapukkaiseni, varaja.</l>
+                  <l>    Ett' on juuret juuttununna</l>
+                  <l>    Synnyinmaahasi syvälle;</l>
+                  <l>    Että sä elinmehusi,</l>
+                  <l>    Voiman nestehet noruvat</l>
+                  <l>    Imet luonnon lähtehistä,</l>
+                  <l>    Maasi puhtaasta povesta;</l>
+                  <l>    Ett' ylös kupusi käännät,</l>
+                  <l>    Terälehdet taivahille,</l>
+                  <l>    Lämmitellä Luojan päivän,</l>
+                  <l>    Valovirtojen valella;</l>
+                  <l>    Että tuoksusi levität</l>
+                  <l>    Oman taattosi talohon,</l>
+                  <l>    Oman maammosi majoille,</l>
+                  <l>    Kotikullan kartanoille.</l>
+               </lg>
+               <lg>
+                  <l>    Kätke, Luoja, kukkastani,</l>
+                  <l>    Suojele sydänkäpystä!</l>
+                  <l>    Anna pikku Inkerille</l>
+                  <l>    Siunauksesi parahin!</l>
+               </lg>
+               <p rend="justify">1895.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

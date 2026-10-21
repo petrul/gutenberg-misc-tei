@@ -1,0 +1,2182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tartuffe: Viisinäytöksinen huvinäytelmä</title>
+            <author>Molière</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-01T20:11:34Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">odts/fi-odts/Moli-Tartuffe_Viisin_2016.epub.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Molière</name>
+               <date>2024-01-01T20:11:34Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Tartuffe: Viisinäytöksinen huvinäytelmä</head>
+         <author>Molière</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">odts/fi-odts/Moli-Tartuffe_Viisin_2016.epub.odt</p>
+         <p>E-text prepared by Tapio Riikonen</p>
+         <pb/>
+         <div type="div1">
+            <head>Tartuffe: Viisinäytöksinen huvinäytelmä</head>
+            <pb/>
+            <div type="div2">
+               <head>TARTUFFE</head>
+               <p rend="justify">Viisinäytöksinen huvinäytelmä</p>
+               <p rend="justify">Kirj.</p>
+               <div type="div3">
+                  <head>MOLIÈRE</head>
+                  <p rend="justify">Suomentanut Otto Manninen</p>
+               </div>
+            </div>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>HENKILÖT:</head>
+            <lg>
+               <l> ORGON.</l>
+               <l> ROUVA PERNELLE, Orgonin äiti.</l>
+               <l> ELMIRE, Orgonin vaimo.</l>
+               <l> DAMIS |</l>
+               <l> MARIANNE | Orgonin lapset aikaisemmasta avioliitosta.</l>
+               <l> CLÉANTE, Orgonin lanko.</l>
+               <l> VALÈRE.</l>
+               <l> TARTUFFE.</l>
+               <l> DORINE, Marianen kamarineitsyt.</l>
+               <l> LOYAL, ulosottovirkamies.</l>
+               <l> OIKEUDENPALVELIJA.</l>
+               <l> FLIPOTE, rouva Pernellen palvelijatar.</l>
+            </lg>
+            <p rend="justify">Tapahtumapaikka Orgonin talo Pariisissa.</p>
+            <pb/>
+            <div type="div2">
+               <head>ENSIMMÄINEN NÄYTÖS.</head>
+               <p rend="justify">Ensimmäinen kohtaus.</p>
+               <p rend="justify">Rouva Pernelle, Elmire, Mariane, Cléante, Damis, Dorine, Flipote.</p>
+               <lg>
+                  <l>ROUVA PERNELLE.</l>
+                  <l>Flipote, tule, mennään, että mä heistä erkeen.</l>
+               </lg>
+               <lg>
+                  <l>ELMIRE.</l>
+                  <l>Te riennätte niin, että tuskin seurata kerkeen.</l>
+               </lg>
+               <p rend="justify">ROUVA PERNELLE. Ei, miniä hyvä, ei pidä enää tulla, mua suotta on kohdella moisella kursaelulla.</p>
+               <lg>
+                  <l>ELMIRE.</l>
+                  <l>Ma teen toki velvollisuuteni teihin nähden.</l>
+                  <l>Mut menette niin kovin äkkiä, — minkä tähden?</l>
+               </lg>
+               <p rend="justify">ROUVA PERNELLE. Siks, etten voi tätä menoa nähdä enää. Ei mulle mieliksi tääll' ole koskaan kukaan. Niin, mustan mielen te mulle annatte mukaan, minä teitä neuvon, ja kaikessa tehdään tenää, kaikk' inttää ja ivaa, suurena suu kuin ovi; tämä totisesti on oikea Hölylän hovi.</p>
+               <p rend="justify">DORINE. Jos…</p>
+               <p rend="justify">ROUVA PERNELLE. Kuulkaas, te olette toimessa kamaripiian, vähän liian suulas ja myös vähän nokkava liian; joka paikkaan teidän on oltava paras tulkki.</p>
+               <lg>
+                  <l>DAMIS.</l>
+                  <l>Mut…</l>
+               </lg>
+               <p rend="justify">ROUVA PERNELLE. Poikaseni, sin' olet tyhmä nulkki, isoäitis sulle sen sanoo, se mielees paina. Sadat kerrat isääs jo varoitin ennakolta, sinust' ett' on tulossa täys epäkelpo, jolta hän palkaksi saa vain harmia aina ja aina.</p>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>Minä luulen…</l>
+               </lg>
+               <p rend="justify">ROUVA PERNELLE. Oh, varjele! Siinä on sisko-tuppu, niin viaton ja kaino kuin kukan nuppu; mut suuret kalat ne kutee tyynessä veessä, ja toist' ovat takana tapasi, toista eessä.</p>
+               <lg>
+                  <l>ELMIRE.</l>
+                  <l>Mut, anoppi…</l>
+               </lg>
+               <p rend="justify">ROUVA PERNELLE. Miniä, anteeksi puheeni avoin! Tuo käytös sopimatonta on kaikin tavoin. Esimerkkinä hyvänä teidän ois oltava toki, niin lasten äiti-vainaa ain' olla koki. Te olette liian tuhlaava — puku ja kuosi kuin prinsessalla, minä en moista suosi. Noin hepeneiss' ei tarvis sen heilua, jolla vain oman miehensä mieliksi on halu olla.</p>
+               <lg>
+                  <l>CLÉANTE.</l>
+                  <l>Mut eiköhän…</l>
+               </lg>
+               <p rend="justify">ROUVA PERNELLE. Te, hänen veljensä, herra hyvä, kaikk' arvo ja kunnia teille ja kiintymys syvä, mut poikani sijassa, jos minä lankonne oisin, tämän viimeisen vierailunne ma olleen soisin. Teilt' alituista viisaussaarnaa riittää, jota kelpo ihmisen liioin ei kestä kiittää. Puhun hieman suoraan, se, nähkääs, on luonto mulla, mit' on sydämellä, sen annan ma suusta tulla.</p>
+               <lg>
+                  <l>DAMIS.</l>
+                  <l>Tuo herra Tartuffe, hän sentään on onnen puulla…</l>
+               </lg>
+               <p rend="justify">ROUVA PERNELLE. Hän on hurskas mies, jota sopii ja tulee kuulla; en enää närkästymättä olla malta, kun hän saa moitetta moiselta tolvanalta.</p>
+               <p rend="justify">DAMIS. Vai sietää peliä pitäis sen kaksinaaman, tääll' isännöidä vai hänen pitäis saaman, meill' ettei pienintä huvia olla vois, jos tuo hyvä herra siihen ei lupaa sois?</p>
+               <p rend="justify">DORINE. Jos pitäis uskoa, mitä hän saarnaa ja haastaa, niin kaikk' ois silloin rikosta, synnin saastaa; se tuomari maar viat etsii ja tuomita tietää.</p>
+               <lg>
+                  <l>ROUVA PERNELLE.</l>
+                  <l>Ja mitä hän tuomitsee, se tuomion sietää.</l>
+                  <l>Hän taivaan tielle teitä ohjata koittaa.</l>
+                  <l>Hänt' osatkaa, kuten poikani, kunnioittaa.</l>
+               </lg>
+               <p rend="justify">DAMIS. Ei, isoäiti. Ei isä, ei mikään muu mua inhomasta voi estää kehnoa moista. En puhuis totta silloin, jos puhuisin toista. Hänen vehkeistään ihan mieleni vimmastuu. Tämä ei mene tältään, ennustan, että kerran viel' isken yhteen kanssa sen kärkkyherran.</p>
+               <p rend="justify">DORINE. On, totta vie, sekin nähtävä, onpa vainen, ett' ylinnä kukkuu mokoma kulkulainen. Ei mieronkierroll' ollut jalassa kenkää, kun tänne saapui, tuskin ryysyjä päällä, ja nytkös osaa olla herrana täällä, vain käy ja morkkaa ja käskee: tulkaa, menkää!</p>
+               <p rend="justify">ROUVA PERNELLE. Oh, taivas nähköön, paremmin tääll' ois laita, jos sais hänen hurskaat neuvonsa kaikkea kaita.</p>
+               <p rend="justify">DORINE. Hänen kuvailette te olevan pyhiä miehiä, mut uskokaa, hän on ulkokullattu liehijä.</p>
+               <lg>
+                  <l>ROUVA PERNELLE.</l>
+                  <l>Sitä suuta!</l>
+               </lg>
+               <p rend="justify">DORINE. En heihin, en herraan, en heitukkaan, minä luottais, ennen kuin hyvät takuut saan.</p>
+               <p rend="justify">ROUVA PERNELLE. En tunne palvelijaa, mitä lienee maata, mut hurskas mies on isäntä, sen voin taata. Te kannatte vihaa ja kaunaa, sen kyllä arvaan, kun totuuden teille hän sanoo suoran ja karvaan. Sydän häll' on kiivas kaikkea syntiä vastaan ja altis taivaan käskylle ainoastaan.</p>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>Niin, mutta miks ei hän enää sallisi tulla</l>
+                  <l>ja käydä meillä ihmisten vierailulla?</l>
+                  <l>Talon ystävät silläkö nostavat taivaan vihan,</l>
+                  <l>kun siitä hän pauhaa kuin pahailma ihan?</l>
+                  <l>Niin, meidän kesken, mikähän tuo sen tuulen?</l>
+                  <l>    (Osoittaen Elmireä.)</l>
+                  <l>Hän on mustasukkainen rouvan vuoksi, ma luulen.</l>
+               </lg>
+               <p rend="justify">ROUVA PERNELLE. Oh, vaiti, ja punnitkaa vähän puheitanne. Ei nuhtele yksin hän noita vierailujanne: tuo häly ja touhu, mi seuraa pitoja niitä, jonot vaunujen, jott' ei portilla tilaa riitä, ja lakeijaparvien laverrus huonon maineen jo nostaa, saa joka naapuri puheenaineen. Ei pahaan menoon ne lie tosin syynä muuhun, mut eduksi ei ole joutua ihmisten suuhun.</p>
+               <p rend="justify">CLÉANTE. Vaan millä mielitte ihmisten juorut estää? Se liian tukalaa olis sentään kestää, jos ei muka enää joutavan juorun vuoksi nyt tohtis tulla ystävä ystävän luoksi. Ja entäpä jos kuka suostuisi siihen pakkoon, muka silläkö saisi hän kielijät juorulakkoon? Ei, kaikkialta parjaajan nuoli noutaa. Siit' emme huoli, mit' ilkeät kielet hokee; on siinä kyllin, ett' oikein elää kokee, ja kielikellot kernaasti juoruta joutaa.</p>
+               <p rend="justify">DORINE. Me Daphne rouvaa ja myös hänen pikku miestään kai kiittää saamme, meistä jos kieltä piestään. Ne, jotk' ovat itse enimmin nauretuita, ne ensimmäisinä morkkaamassa on muita. Jos missä vähänkin varjoa vainutaan, hetikohta silloin kulkuset kuulumaan, isoll' ilolla pannaan liikkeelle kaunis juttu, niin ovelasti, ett' uskoo outo ja tuttu. He muille herjaksi kaikk' omat mustat syytää, oman kunniansa he sillä korjata pyytää, kuvitellen, että kun kaikk' ovat samaa karvaa, ei heitä muut sen kirjavammiksi arvaa, tai että on toisia, joille he osan lainaa sitä julkista paheksuntaa, mi heitä painaa.</p>
+               <lg>
+                  <l>ROUVA PERNELLE.</l>
+                  <l>Ei muuksi muuttaa voi sitä jaarittelunne.</l>
+                  <l>Ken neiti Oranten hurskautta ei tunne!</l>
+                  <l>Ei taivasta hetkeksikään hän mielestä jätä,</l>
+                  <l>ja paheksuvan kovin kuuluu menoa tätä.</l>
+               </lg>
+               <p rend="justify">DORINE. Esimerkki verraton, siinä on yksi hyvä! Hän elää todella julman jumalisesti; vaan vast' on vanhuuden lahja se hurskaus syvä, hän siveä on, mut jotenkin happamesti. Niin kauan kuin ihailijoita hän saamaan pystyi, siit' edustansa hän nautti sen minkä ehti; vaan nyt, kun kukast' on jäljellä kuiva lehti, hän maailmaan, kuten häneen se, ikävystyi, ja viisaan neitseen huntuun ja hurskauteen loput verhosi kauneutensa kauhtuneen. Noin aina ne naikkoset luopuvat kiemailustaan, se koskee, kun kavaljeerit karkaa heiltä, ja hyljätyillä ei lohtuna mieleen mustaan ole muu kuin luopua pois muka maailman teiltä. Ja kelpaa kuunnella moista hurskasta naista: alas pannaan kaikki, ei armoa minkäänlaista. Jok' ainoan elämä ankaran moitteen saa, ei kristityn mieli, vaan kateus kannustaa, he huvituksista noista nyt muita soimaa, kun itselle enää ei suo ikä niihin voimaa.</p>
+               <p rend="justify">ROUVA PERNELLE. Kai teist' on mairetta kuulla, miniä kulta, tuo loru! Ei saa sananvuoroa kukaan muu; tääll' ylinnä soi tuon mamselin suulas suu, vaan nyt sanan saatte kuulla te myöskin multa. Oli viisain työ, min poikani tehdä voi, tuon hurskaan miehen tänne kun turvaan toi; hänet taivas tykönne ohjasi, tarpeen teille opas onkin, neuvoja sieluille eksyneille. Te kuulkaa häntä, jos toivotte pelastusta, ei sano hän mustaksi muuta kuin mikä on musta. Nuo kaikki seuranne, kutsunne, kuhertelunne — pahan hengen paulaa ettekö niissä tunne? Vai kuuluuko koskaan siellä hurskasta sanaa? Vain loru ja laulu ja nauru ja nalja ja pila ja naapurin parjaus — sillä on parhain tila, saa toiset ja molemmat pesunsa peräkanaa. Ne seuran vietot on sitä mylläkkää, ett' oikean ihmisen siit' ihan sekoo pää; typötyhjästä riittää lorua loputtomasti, niin muuan oppinut sanoikin sattuvasti: se on kuin ilmeinen Paapelin torni ikään: kova paapatus, josta ei ota selkoa mikään. Ja mainitakseni, mist' oli siihen syyn… (Osoittaen Cléantea.) Kas vaan, tuo herra turvaa jo virnistelyyn! Oh, naurakaa vain omia narrejanne! (Elmirelle.) Niin, hyvästi, miniä! En sano enempää. Ei toiste käymään yllytä käynti tää, enk' ensi hopussa tänne jalkaani panne. (Antaa Flipotelle korvapuustin.) Hoi, senkin älliö, hereille tollistelulta! Minä, surma olkoon, kuumennan korvat sulta! Mars matkaan, lääppä!</p>
+               <p rend="justify">Toinen kohtaus.</p>
+               <p rend="justify">Cléante, Dorine.</p>
+               <p rend="justify">CLÉANTE. En uskalla mukaan mennä, ei takeita, ettei taaskin kimppuuni lennä tuo kelpo mummo!</p>
+               <p rend="justify">DORINE. Oh, vahinko vallan suuri, ettei ole kuulemassa hän tuota juuri, hän käskis teidän tietää, mikä on mikä, ja mummotella niitä, joill' on se ikä.</p>
+               <p rend="justify">CLÉANTE. Niin turhast' en tulistuvaksi ois luulla voinut, ja onpas tuo Tartuffe hänet haltioinut!</p>
+               <p rend="justify">DORINE. Oh, pojalleen hän ei vedä lainkaan vertaa. Hänet nähkää, niin sanotte: villimpi viittä kertaa! Niin toimen mies, kun mellakat maata raasti, niin ruhtinastaan palveli urhokkaasti; mut on kuin päästä pehmeä siitä saakka, kuin hullitsi hänet Tartuffe, tuo talomme taakka. Nyt hokee veljekseen sitä tulokasta, niin hellii kuin kuunaan ei äitiä, vaimoa, lasta. Ei siltä uskotultaan hän mitään salaa, hän kaikki tekee vain hänen neuvonsa mukaan, hän myötään häntä suukostelee ja halaa, ei omalle kullalleen ois hellempi kukaan. Vie ensimmäisenä pöytään, ilolla katsoin, kun toinen ruokaa ruhtoo kuin kuusin vatsoin; palat parhaat hälle kaikesta pistää ja kastaa, joka röyhtäisyyn "Jumal' avuksi!" aina hän vastaa. Hänt' ihantelee ihan hassuna, silmin sokein, pyhän sankarinsa puheita aina hokein, sen joka temppua ihmetyöksi hän luulee, joka sanassa suuria ilmestyksiä kuulee. Ja toinen, hölmönsä tuntien, tietää kyllä hänet hämmentää jos milläkin häikäisyllä. Hän hoitaa säkkinsä täyteen hurskaalla suulla, ja nuhteita hältä saamme me kaikki kuulla, ja kimppuun, samoja saarnoja täynnä suu, hänen passari-tolvanansakin tuppautuu. Hän meille silmät pystyssä saarnaa ja pauhaa, luo tuleen, min tapaa korua, pitsiä, nauhaa. Nenäliinan kun taannoin rukouskirjasta keksi se kelmi, hän sieppasi sen, heti rikki raastain, ja selitti meille synniksi hirmuiseksi Pyhät aarteet sotkea noin kera saatanan saastain.</p>
+               <p rend="justify">Kolmas kohtaus.</p>
+               <div type="div3">
+                  <head>ELMIRE, MARIANE, DAMIS, CLÉANTE, DORINE.</head>
+                  <lg>
+                     <l>ELMIRE (Cléantelle).</l>
+                     <l>Te miekkonen, joka säästyitte kuulemasta</l>
+                     <l>sitä porttisaarnaa, se oli jotain vasta!</l>
+                     <l>Näin mieheni tulleen, mutta en tavannut vielä.</l>
+                     <l>Menen huoneeseeni ja odotan häntä siellä.</l>
+                  </lg>
+                  <p rend="justify">CLÉANTE. Jään tänne vartomaan minä kiireen tähden, sanon hyvää huomenta vain ja sitten lähden.</p>
+                  <p rend="justify">Neljäs kohtaus.</p>
+                  <p rend="justify">Cléante, Damis, Dorine.</p>
+                  <lg>
+                     <l>DAMIS.</l>
+                     <l>Vähän ettekö puhuis samalla siskoni häistä?</l>
+                     <l>Tartuffe on välissä kai salavehkeilyllä,</l>
+                     <l>niit' ei isä muuten niin yhä siirrä ja väistä.</l>
+                     <l>Miten läheltä mua se koskee, tiedätte kyllä;</l>
+                     <l>Ei sisartani voi lempiä tulisemmin</l>
+                     <l>Valère, kuin hänen sisartaan minä lemmin,</l>
+                     <l>ja jos…</l>
+                  </lg>
+                  <lg>
+                     <l>DORINE.</l>
+                     <l>          Hän tulee.</l>
+                  </lg>
+                  <p rend="justify">Viides kohtaus.</p>
+                  <p rend="justify">Orgon, Cléante, Dorine.</p>
+                  <lg>
+                     <l>ORGON.</l>
+                     <l>                Hyvää huomenta, lanko!</l>
+                  </lg>
+                  <lg>
+                     <l>CLÉANTE.</l>
+                     <l>Olin lähdössä; iloitsen terveenä palaamasta.</l>
+                     <l>Kevät siellä maalla kai oli alulla vasta.</l>
+                  </lg>
+                  <lg>
+                     <l>ORGON.</l>
+                     <l>Dorine…</l>
+                     <l>    (Cléantelle.)</l>
+                     <l>          Rakas lankoni, pahaksi älkää panko,</l>
+                     <l>jos huolesta päästäkseni, kun matkalta palaan,</l>
+                     <l>kotikuulumiset ma ensiksi kuulla halaan.</l>
+                     <l>    (Dorinelle.)</l>
+                     <l>Miten näinä kahtena päivänä täällä on voitu?</l>
+                     <l>Hyvin onko kaikki? Mitä on askaroitu?</l>
+                  </lg>
+                  <p rend="justify">DORINE. Koko toisen päivää rouvalla, iltaan asti, oli kuume ja päänkipu ahdisti ankarasti.</p>
+                  <lg>
+                     <l>ORGON.</l>
+                     <l>Entä Tartuffe?</l>
+                  </lg>
+                  <p rend="justify">DORINE. Jalo, kiitos, on hällä jaksu: hän on punaposkinen, pullea, pulska ja paksu.</p>
+                  <lg>
+                     <l>ORGON.</l>
+                     <l>Mies parka!</l>
+                  </lg>
+                  <p rend="justify">DORINE. Rouva ei illallist' atrioinut, ei ruoan palaa suuhunsa ottaa voinut, päänkivusta kärsi niin, yhä kiihtyneestä.</p>
+                  <lg>
+                     <l>ORGON.</l>
+                     <l>Entä Tartuffe?</l>
+                  </lg>
+                  <p rend="justify">DORINE. Söi yksin, rouvankin eestä; pari peltopyytä hän hurskaasti poskeen pisti, ja puoli lampaanreittä, ja kätensä risti.</p>
+                  <lg>
+                     <l>ORGON.</l>
+                     <l>Mies parka!</l>
+                  </lg>
+                  <p rend="justify">DORINE. Uneen ummistumatta luomen sai rouva hereillä olla, mink' yötä kesti; hänet kuumeen puuskat nukahtamasta esti; piti ääressä valvoa, kunnes valkeni huomen.</p>
+                  <lg>
+                     <l>ORGON.</l>
+                     <l>Entä Tartuffe?</l>
+                  </lg>
+                  <p rend="justify">DORINE. Uni maanitti makeasti, meni pöydästä kamariinsa hän kapperasti, ja alle peiton lämpöisen pötkähti heti, ja rauhass' aamuun asti siin' unta veti.</p>
+                  <lg>
+                     <l>ORGON.</l>
+                     <l>Mies parka!</l>
+                  </lg>
+                  <p rend="justify">DORINE. Vihdoin rouva, neuvoomme luottain, jo suostui ja antoi lääkärin iskeä suonta; se auttoi, helpotusta koht' ikään tuottain.</p>
+                  <lg>
+                     <l>ORGON.</l>
+                     <l>Entä Tartuffe?</l>
+                  </lg>
+                  <p rend="justify">DORINE. Kuin sankari haarniskoitui joka tuskaa torjumaan, joka häijyn juonta, ja verenhukan sijaan, mi rouvalle koitui, joi aamiaiseksi viiniä tuopin verran.</p>
+                  <lg>
+                     <l>ORGON.</l>
+                     <l>Mies parka!</l>
+                  </lg>
+                  <p rend="justify">DORINE. Nyt kumpaisenkin on vointi hyvä; ja rouvalle virkkaa saan, mikä riemu syvä hänen toipumisestaan liikutti mieltä herran.</p>
+                  <p rend="justify">Kuudes kohtaus.</p>
+                  <p rend="justify">Orgon, Cléante.</p>
+                  <p rend="justify">CLÉANTE. Päin naamaa, lanko, teitä hän nauraa ihan, ja älköön virikkeenä se olko vihan, jos suoraan sanon: se aivan on ansion mukaan. Moist' onko päähänpistoa kuullut kukaan? Noin kuinka voi mies mokoma viehättää, ett' unhoon kaikki muu hänen tähtensä jää, ett' ensin saa tuo kulkuri suojelunne, ja nyt ihan olette…?</p>
+                  <lg>
+                     <l>ORGON.</l>
+                     <l>                       Seis, hyvä lanko, seis!</l>
+                     <l>Te puhutte miehestä, jota te ette tunne.</l>
+                  </lg>
+                  <lg>
+                     <l>CLÉANTE.</l>
+                     <l>No ehkäpä en; lisätieto ei vikaan veis.</l>
+                     <l>Mut kyllä jo nähdä voi, mitä mies on maata.</l>
+                  </lg>
+                  <p rend="justify">ORGON. Hänet tuntisittepa, lanko, ois ilonne suuri, siit' ihastuksenne ei vois ikinä laata. Hän on mies, joka… niin, hän on mies… ah!… mies… niin juuri. Ken kuulee häntä, sen sieluss' on rauha syvä, vain savua sille on kaikki maallinen hyvä. Hänen neuvomanaan olen kuin uus ihminen ikään, on sieluni vapaa, ei kiedo kiintymys mikään; kaikk' auttoi kirvoittamaan hän suhteet ja siteet; veli, lapsi, äiti, vaimo jos multa kuolis, tuon vertaa en totisesti ma siitä huolis.</p>
+                  <lg>
+                     <l>CLÉANTE.</l>
+                     <l>Oh, siinäpä inhimilliset mielipiteet!</l>
+                  </lg>
+                  <p rend="justify">ORGON. Josp' oisitte nähnyt tuttavuutemme alun, tekin saanut oisitte kai saman hartaan halun. Joka päivä kirkossa lankesi polvilleen mua vastapäätä hän, vaipuen hartauteen. Niin palavasti hän rukoili, että se johti koko seurakunnan huomion häntä kohti, löi rintoihinsa, huokasi, kyynelehti, ja lattian paatta suuteli, minkä ehti; ja pois kun läksin, hän ovelle riensi, että siin' ojentaa vois mulle hän pyhää vettä. Sain palvelijalta, jok' elää herransa lailla, ma kuulla, kuka hän on, miten varoja vailla, ja annoin rahaa hälle; mut siitä ois osan aina hän, vähään tyytyen, torjunut pois. "Se on ihan liikaa", sanoi hän, "puolet riittää. Avust' ansaitsemattomasta mun suokaa kiittää." Ja kun en ota takaisin, kun on kieltoni vakaa, hän menee ja silmäini eessä ne köyhille jakaa. Minut taivas johdatti niin hänet talooni tuomaan, ja menestyvän siit' asti sen selvään huomaan. Viat kaikki hän korjaa, niin, jopa vaimooni nähden ylen huolehtivainen on, hyvän maineemme tähden, heti varoittaa, jos ihastelee muut herrat, mua mustasukkaisempi on viidet verrat. Mut ette uskois sit' intoa, hyveen voimaa! Ihan vähimmästäkin hänt' omatunto soimaa, joka rahtu masentaa hänet maahan asti; sitä pahaa katui taannoinkin katkerasti, kun rukoillessaan nappasi kirpun hihasta, eik' ollut tappaissaan sitä vapaa vihasta.</p>
+                  <lg>
+                     <l>CLÉANTE.</l>
+                     <l>Jo todentotta on järkenne saanut potkun.</l>
+                     <l>Vai teettekö lorulla tuolla minusta pilaa?</l>
+                     <l>Mikä oikein on tarkoituksena moisen sotkun?</l>
+                  </lg>
+                  <p rend="justify">ORGON. Hyvä lanko, tuo kuuluu kieltäjän ivailulta; paha kyllä, se henki teissä on saanut tilaa. Mont' olette varoitusta jo kuullut multa, voi siitä tulla teille viel' ikävä juttu.</p>
+                  <p rend="justify">CLÉANTE. Tuo teidän kaltaistenne on virsi tuttu; ois kaikkein oltava sokeita samalla lailla, olet kieltäjä kohta, jos et ole silmiä vailla; ja jollet tunnusta jos mitä hurskailijoita, et mitään pyhää usko, et kunnioita. Suott' ennustelette, mulle ei vaara käkee, minä puheeni tiedän, ja taivas mieleni näkee. Noit' ilveilijöitänne en minä liioin suosi, tekohurskailla kuin tekouljaill' on yksi kuosi: kuten ei tosiuljaita, joita kunnia johtaa, suursuiden kerskailijoiden joukossa kohtaa, tosihurskaskaan, johon tulee katseensa kääntää, ei ole, ken huitoo ja hurskaaksi naamaa vääntää. Siin' ettekö mitään eroa huomata saata: tekopyhyys ja hurskaus, onko ne samaa maata? Saman todistuksenko aiotte niistä tuoda, saman arvon naamiolle kuin kasvoille suoda, ja teeskelyn ja suoruuden panna rinnan, näön todeksi uskoa, ytimeks ulkopinnan, sen ihmiseksi, mi varjo on ainoastaan, ja vaihtaa rahan oikean väärää vastaan? On eninten ihmisten hiukan kummasti laita, on määrä ja kohtuus heille outoja maita. Ei riitä järjen piirissä kyllin tilaa, joka askeleella he astuu yli sen rajain, ja asian parhaankin moni usein pilaa sitä liioitellen ja suunnattomiin sen ajain. Näen, ett' on paikallaan tämä pikku lisä.</p>
+                  <p rend="justify">ORGON. Niin, ylimmäinen te olette oppi-isä; teill' on koko maailman tieto kukkurapäinen, te yksin olette viisas ja ymmärtäväinen, tämän ajan oraakkeli, Cato, ja paitsi teitä muu ihmiskunta on pelkkiä tyhmyreitä.</p>
+                  <p rend="justify">CLÉANTE. En kyll' ole oppi-isä mä ylimmäinen, ja maailman tieto ei mull' ole kukkurapäinen, mut tällä tiedollani se mull' on selko, ett' erotan suorasta väärän, se vaisto ja tunto. Ja niinkuin minust' ei mikään sankarikunto ole korkeampi kuin tosi jumalanpelko, ei mikään maailmassa niin kaunis ja jalo kuin oikean hurskauden pyhä hehku ja palo, niin mikään ei tunnu enemmän inhotulta kuin teeskennellyn hurskauden ulkokulta, tuo uskon toitotus, julkea silmänkääntö, tuo petturein pyhänpilkkainen naamanvääntö, joka rankaisematta pitää peliä sillä, mitä ylintä on ja pyhintä ihmisillä, nuo hartaat, joilla on mielessä voitonhalu ja jumalisuus vain ammatti, kaupankalu, jotk' arvoja saadakseen sekä luottoa muilta käy hurskain elein ja näyttäen hurmatuilta, nuo hartaat, sanon ma, jotka niin intomieliä oman etunsa perään juoksevat taivaan tiellä, nuo, joiden on rukous keinoa, kerjäämistä ja maailmankieltämys hovissa kärkkymistä; pyhin intoinensa he hellivät himoja lihan, ovat luihut ja viekkaat, hautojat koston ja vihan, ja tuhoksi muille he julkeat juonensa käärii vanhurskauden vaippaan ja taivaan nimessä häärii, sitä vaarallisempina, kun he iskeä koittaa juur' aseilla, joita jokainen kunnioittaa, kun kiihko, josta he vielä kiitosta saavat, lyö vihityllä veitsellä murhahaavat. Tekopyhiä noita on montakin nähdä saatu, mut helppo tuntea hurskas on mielenlaatu; ja aika tääkin kyll' esimerkkejä tarjoo, joit' ihailla tulee, joita ei vilppi varjoo. Mitä todistaa Ariston ja mitä Clitandre, Oronte ja Alcidamas, Polydore, Periandre? Ei kenkään kiellä, ett' on elo hurskas heillä, vaan hurskauttaan ei huuda he turuilla, teillä, ei täytä ylpeys silmitön heit' yli partaan, on hyvyys ja lempeys sävynä mielen hartaan; ain' eivät moiti, kuink' elää ja tekee toiset, omahyväisyyttä heist' ovat moitteet moiset, vaan jättäen saarnailut sanasankareille ovat elämällään ojennukseksi meille; heti eivät tuomitse luuloista, huhuiluista, ja ennen hyvää kuin pahaa uskovat muista; vale heille on vieras ja vilppi ja mieli väärä, vain oikein elää ainoa silmämäärä; ei koskaan vihaa syydä he syntistä vastaan, he itse syntiä vihaavat ainoastaan, eik' enemmän puuhaa ja paahaa taivaan takia kuin saa, jos noudattaa sen sanaa ja lakia. Kas sellaisiin minä katselen ihailulla, he ansaitsevat esikuviksi todella tulla. On toista maata, ma sanon, tuo ystävänne, kovin herkästi uskoen hurskaaks ylistämänne; tekopyhimys teitä on peijannut ovelasti.</p>
+                  <lg>
+                     <l>ORGON.</l>
+                     <l>Rakas lanko, joko te pääsitte päähän asti?</l>
+                  </lg>
+                  <lg>
+                     <l>CLÉANTE.</l>
+                     <l>Jo.</l>
+                  </lg>
+                  <lg>
+                     <l>ORGON.</l>
+                     <l>    Nöyrin palvelijanne!</l>
+                  </lg>
+                  <lg>
+                     <l>CLÉANTE.</l>
+                     <l>                         Vain sana yksi!</l>
+                     <l>Tämä kiista sikseen. Valèren aiotte kai</l>
+                     <l>vävyks ottaa; hänhän jo sananne siitä sai?</l>
+                  </lg>
+                  <lg>
+                     <l>ORGON.</l>
+                     <l>Niin.</l>
+                  </lg>
+                  <lg>
+                     <l>CLÉANTE.</l>
+                     <l>      Kuulin jo hääpäivänkin päätetyksi.</l>
+                  </lg>
+                  <lg>
+                     <l>ORGON.</l>
+                     <l>Se on totta.</l>
+                  </lg>
+                  <lg>
+                     <l>CLÉANTE.</l>
+                     <l>             Miks sitten viivyttää sitä vielä?</l>
+                  </lg>
+                  <lg>
+                     <l>ORGON.</l>
+                     <l>En tiedä.</l>
+                  </lg>
+                  <lg>
+                     <l>CLÉANTE.</l>
+                     <l>          Vai ehkä toiset tuumat on tiellä?</l>
+                  </lg>
+                  <lg>
+                     <l>ORGON.</l>
+                     <l>Kenties.</l>
+                  </lg>
+                  <lg>
+                     <l>CLÉANTE.</l>
+                     <l>         Mut ettehän sanaanne aio syödä?</l>
+                  </lg>
+                  <lg>
+                     <l>ORGON.</l>
+                     <l>Sitä en ole sanonut.</l>
+                  </lg>
+                  <p rend="justify">CLÉANTE. Teille ei esteet mitkään pane pakkoa lupaustanne laimin lyödä.</p>
+                  <lg>
+                     <l>ORGON.</l>
+                     <l>Saa nähdä.</l>
+                  </lg>
+                  <lg>
+                     <l>CLÉANTE.</l>
+                     <l>           Siinäpä kierrellä kestää pitkään!</l>
+                     <l>Valèren puolesta tietoa selvää anon.</l>
+                  </lg>
+                  <lg>
+                     <l>ORGON.</l>
+                     <l>Niin, taivaan kiitos!</l>
+                  </lg>
+                  <lg>
+                     <l>CLÉANTE.</l>
+                     <l>                      Vaan mitä hälle ma sanon?</l>
+                  </lg>
+                  <lg>
+                     <l>ORGON.</l>
+                     <l>Mitä mielitte vain.</l>
+                  </lg>
+                  <lg>
+                     <l>CLÉANTE.</l>
+                     <l>                    Minä teidän mieltänne kysyn.</l>
+                     <l>Miten teette? Se tieto on tarpeen.</l>
+                  </lg>
+                  <p rend="justify">ORGON. Ma siinä pysyn, mitä taivas tahtoo.</p>
+                  <lg>
+                     <l>CLÉANTE.</l>
+                     <l>                    Mut älkäämme kimmurrelko.</l>
+                     <l>Luja onko vai ei sana annettu? Suokaa selko.</l>
+                  </lg>
+                  <lg>
+                     <l>ORGON.</l>
+                     <l>Hyvästi!</l>
+                  </lg>
+                  <p rend="justify">CLÉANTE (yksin). Vaara nyt nuorten liitolla kai on, ja varoittaa Valèrea siitä ma aion.</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>TOINEN NÄYTÖS.</head>
+               <p rend="justify">Ensimmäinen kohtaus.</p>
+               <p rend="justify">Orgon, Mariane.</p>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Mariane!</l>
+               </lg>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>         Isä!</l>
+               </lg>
+               <p rend="justify">ORGON. Tulehan, että mä kanssas saan vähän puhella kahden.</p>
+               <lg>
+                  <l>MARIANE (Orgonille, joka kurkistaa erääseen sivuhuoneeseen).</l>
+                  <l>                      Mit' etsitte?</l>
+               </lg>
+               <p rend="justify">ORGON. Katson vaan, ett' urkkimass' ei meit' ole kuulija mikään; tämä pikku kolkka on siihen kuin tehty ikään. Kas niin, hyv' on. Mariane, iloll' isäsi ain' on sun alttiin luontos nähnyt, sun mieles kainon, ja rakkautt' aina sa myös olet saanut multa.</p>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>Niin kiitollinen minä siit' olen, isä kulta.</l>
+               </lg>
+               <p rend="justify">ORGON. Hyvin sanottu, lapsi, ja niin sinun tulee koittaa mun mieltäni noudattain sitä vastakin voittaa.</p>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>Se on korkein toivoni, ainoa, mitä mä anon.</l>
+               </lg>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Hyvä! Kuule, mik' on Tartuffestä mieli sulla?</l>
+               </lg>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>Mitä? Mullako?</l>
+               </lg>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>               Niin, puhu mielellä punnitulla.</l>
+               </lg>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>Voi, niinkuin tahdotte vaan, niin kai minä sanon.</l>
+               </lg>
+               <p rend="justify">Toinen kohtaus.</p>
+               <lg>
+                  <l>    Orgon, Mariane, Dorine (tulee hiljaa ja asettuu</l>
+                  <l>    Orgonin taakse toisten huomaamatta).</l>
+               </lg>
+               <p rend="justify">ORGON. Puhut järkevästi… No niin, sano siis, ett' on häll' aateluus avun kaiken ja ansion, ett' on hän mieleen sulle, ett' onnesi ois, hänet jos isäs sulle mieheksi valikois. No..?</p>
+               <lg>
+                  <l>MARIANE (vetäytyy säpsähtäen taapäin).</l>
+                  <l>      Oh!</l>
+               </lg>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>          Mitä?</l>
+               </lg>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>                Kuinka?</l>
+               </lg>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>                        Häh?</l>
+               </lg>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>                             Kai minut petti kuulo?</l>
+               </lg>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Miten niin?</l>
+               </lg>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>            Ken pitäis mun…? Kenest' on teillä se luulo?</l>
+                  <l>Ken mulle on mieleen, ja ken muka onneni ois,</l>
+                  <l>hänet jos isä mulle mieheksi valikois?</l>
+               </lg>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Tartuffe.</l>
+               </lg>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>          Ei, ei, minä vannon, se ei ole niin.</l>
+                  <l>Mua miksi moisiin vaaditte valheisiin?</l>
+               </lg>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Vaan minä sen tahdon, ja myös tosi tuleva siit' on.</l>
+                  <l>Olen päättänyt niin, ja sulle se päätös riittää.</l>
+               </lg>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>Mitä, isä, te tahdotte…?</l>
+               </lg>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>                           Siteillä avioliiton</l>
+                  <l>Tartuffen perheeseeni ma tahdon liittää.</l>
+                  <l>Hän on tuleva miehes, se päätös ei siitään muutu.</l>
+                  <l>Ja myös oma mielesi…</l>
+                  <l>    (Huomaa Dorinen.)</l>
+                  <l>                       Mitä te teette täällä?</l>
+                  <l>Hyvä mamseli, olette uteliaalla päällä,</l>
+                  <l>te valvotte, ettei kuuntelijoita puutu.</l>
+               </lg>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>Niin, totta maar, se jo juoruna on kuin onkin.</l>
+                  <l>Lie arvanneet sen, tai vihin saaneet jonkin.</l>
+                  <l>Vaan kun minä kuulin naimatuumista noista,</l>
+                  <l>niin nauroin, ett' uskotaanpa jos jonkinmoista.</l>
+               </lg>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Vai on se mahdoton uskoa?</l>
+               </lg>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>                          Onpa vaankin.</l>
+                  <l>On, vaikka uskotelkaa sit' omalla suulla.</l>
+               </lg>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>On mulla keino, jotta viel' uskotaankin.</l>
+               </lg>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>No kylläpä teiltä saa somat kaskut kuulla.</l>
+               </lg>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Koht' ikään saatte katsoa, onko se kasku.</l>
+               </lg>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>Hui hai!</l>
+               </lg>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>         Niin, lapsi, on kaukana leikinlasku.</l>
+               </lg>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>Hänt' älkää uskoko, ei ole siinä perää.</l>
+                  <l>Hän narraa.</l>
+               </lg>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>            Kuulkaa, te…!</l>
+               </lg>
+               <p rend="justify">DORINE. Vikurteluista viis, ei uskota teitä.</p>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>                 Jo viimein vihani herää.</l>
+               </lg>
+               <p rend="justify">DORINE. No niin, sen pahempi teille, me uskomme siis. Tekö, herra, jolla on muoto niin viisas ja vakaa, joka haastatte moisen muhkean parran takaa, tekö olisitte niin hupsu, te…?</p>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>                                 Kuulkaas vähän:</l>
+                  <l>te tuppaudutte täällä tuohon ja tähän.</l>
+                  <l>Minä vapauksia noita en lainkaan kiitä.</l>
+               </lg>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>Mut puhelkaamme nyt kiihottumatta siitä.</l>
+                  <l>Teilt' ihmistunto ei kai ihan tuuleen menne?</l>
+                  <l>Ei huostaan hurskailijain sovi tyttärenne;</l>
+                  <l>heill' aattelemista on kai toki aivan toista.</l>
+                  <l>Ja miksi te oikein puuhaatte liittoa moista?</l>
+                  <l>Te, varakas mies! Ja mennä ja kerjäläinen</l>
+                  <l>vävyks ottaa!</l>
+               </lg>
+               <p rend="justify">ORGON. Vait! Jos on köyhä hän kukkarolta, sitä rikkaamp' on tosi arvolta, ansiolta. Se köyhyys, se hälle on kunnia kukkurapäinen, on jalompi loistoa maallisten mahtajain; hän omaisuutensa menetti siksi vain, ett' ajallisist' ei antautunut hän huoleen, vaan käänsi kaiken halunsa taivaan puoleen. Mut ahdingosta ma nyt hänet autan jälleen ja palaamaan taas tilalle perimälleen. Sukukartano kuulu hällä on ollut kerta, ja itse hän, vaikka nyt köyhä, on aatelisverta.</p>
+               <p rend="justify">DORINE. Niin kai, niin itse hän sanoo; mut turhuus tuopa on toista kuin jumalisuus, on välillä juopa. Sen, jolla on pyrkimyksenä elämä pyhä, ei nimi ja suku suur' ole suussa yhä; eik' yhteen soinnu kristityn nöyrä mieli ja moinen kunnianpyynti ja kerskukieli. Paras rehenteleekin! Mutta te pahastutte; siis sinään se aateli, vaan mitä otaksutte hänest' itsestään? Ihan tyynnäkö vaan noin tuostaan tytön moisen uskotte tuollaisen miehen huostaan? Ois syy vähän miettiä, mikä on soveliasta, ja mikä on seuraus liitosta mokomasta. Se leikkimistä on neitosen kunnialla, jos noin hänet naitetaan pakon, uhkan alla; ja tuleeko naisesta puoliso nuhteeton, on siinä, ken mieheks suodaan ja minkämoinen; ja monikin, jolla on otsassa sarvi ja toinen, on syypää itse, jos vaimo on se, mikä on. Ei uskollinen ole helppo olla sen naisen, joka herrakseen saa miehen muutamanlaisen; ja tyttärensä jos pakolla naittaa, niin vastuu isän päähän lankee, jos tytär harhaan astuu. Vähän miettikää, mikä kosto tuumaanne kohtaa.</p>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Te vai mua neuvotte siis, miten lastani johtaa!</l>
+               </lg>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>Ois niitä neuvoja vain paras teidän noutaa.</l>
+               </lg>
+               <p rend="justify">ORGON. Sitä lorua, lapseni, kuunnelkoon, joka joutaa. Oma isäsi sun etus parhaiten katsoo kai. Valère sua multa pyysi ja sanani sai; mut hällä on, sanovat, pelaajan taipumusta, sitäpaitsi epäilen vapaa-ajattelusta. En muista kirkossa koskaan nähneeni vielä.</p>
+               <p rend="justify">DORINE. Ja silloinko juuri, kuin te, piti olla siellä, kuten nuo, jotk' itsensä sinne vain näytteille vie?</p>
+               <p rend="justify">ORGON. Hyvin tarpeen tietää teidän mielenne lie! Niin, vaan tuo toinen taivaan on valituita, se aarre arvokkaampi on kaikkia muita. Mitä ikinä halaat, se avioliitto tarjoo, se iloa, suloa tiukkuu, sit' armo varjoo. Siin' elätte kahden hurskaassa lemmessänne kuin lapset, kuin turturikyyhkyt te keskenänne; ei milloinkaan riko riita sen kirkasta rauhaa, ja hän sun mieltäs noutaa kuin karitsa nauhaa.</p>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>Niin, narrin nauhoissa hän hänet vielä käyttää.</l>
+               </lg>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Mitä julkenette!</l>
+               </lg>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>                 Niin, siltä se ylkä näyttää.</l>
+                  <l>Ei auta moisen vaikutusvaltaa vastaan,</l>
+                  <l>vaikk' on miten arka lapsenne kunniastaan.</l>
+               </lg>
+               <p rend="justify">ORGON. Nyt vaietkaa, mua älkää häiritkö enää, ja minne ei tarvita, älkää pistäkö nenää.</p>
+               <lg>
+                  <l>DORINE (keskeyttäen hänet aina, kun hän kääntyy puhumaan tyttärelleen).</l>
+                  <l>Minä en ole muuta kuin pitänyt herrani puolta.</l>
+               </lg>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Hyv' olkaa ja laatkaa; se aivan on liikaa huolta.</l>
+               </lg>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>Jos teistä ei pidettäis…</l>
+               </lg>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>                           Minust' ei saa pitää.</l>
+               </lg>
+               <lg>
+                  <l>DORINE</l>
+                  <l>Pidän sittenkin, sille ei kieltonne mahda mitään.</l>
+               </lg>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Uh!</l>
+               </lg>
+               <p rend="justify">DORINE. Maineenne mulle on kallis, ja siks en anna sitä kaikkien naurulle teidän alttiiksi panna.</p>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Te ette vaikene!</l>
+               </lg>
+               <p rend="justify">DORINE. Ei voi tuntoni myöntää, ett' antaisin teidän lapsenne turmaan työntää.</p>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Vait, käärme, eikö sult' ikinä sulkeu suu…?</l>
+               </lg>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>Oh, jumalinenko noin kovin julmistuu?</l>
+               </lg>
+               <p rend="justify">ORGON. Niin, sappeni kuohuu, kun kuulen lorua moista; ja nyt suu poikki, äl' odota sanaa toista!</p>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>Sama se, mut on aatella silti mun vapaa valta.</l>
+               </lg>
+               <p rend="justify">ORGON. Saat aatella kernaasti, vaan kitas pitää malta, tai muuten ma… Riittää… (Marianelle.) Kaikk' olen viisaan lailla jo punninnut.</p>
+               <p rend="justify">DORINE (itsekseen). Tämä kiusa, kun ei pidä saaman nyt puhua!</p>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>           Vaikka teikarin muotoa vailla,</l>
+                  <l>Tartuffe on mies…</l>
+               </lg>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>                     Ah herttaisuutta sen naaman!</l>
+               </lg>
+               <p rend="justify">ORGON. Johon ilman mieltymystäkin varmaan vaalis jo sattuis, kaikki kun muut avut…</p>
+               <lg>
+                  <l>DORINE (itsekseen).</l>
+                  <l>                                    Onpa saalis!</l>
+               </lg>
+               <lg>
+                  <l>    (Orgon kääntyy Dorineen päin, kuuntelee käsivarret</l>
+                  <l>    ristissä ja katsoo häntä silmiin.)</l>
+               </lg>
+               <p rend="justify">Minä neitinä kostamatta en vaan sitä sietäis, jos miehelään minut vasten mieltäni vietäis; ja oppia sais se mies pian aika lailla, ettei ole siihen vaimo valttia vailla.</p>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Ihan turhaks siis minä kieltoni huomaan jääneen.</l>
+               </lg>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>Minä en puhu teille, suututte suotta syyttä.</l>
+               </lg>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Mitä se oli sitten?</l>
+               </lg>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>                    Minä vain aattelin ääneen.</l>
+               </lg>
+               <lg>
+                  <l>ORGON (syrjään).</l>
+                  <l>Hyvä! Enp' ole vielä moista hävyttömyyttä…</l>
+                  <l>Se sivalluksen kämmenestäni sietää.</l>
+               </lg>
+               <lg>
+                  <l>    (Hän asettautuu valmiiksi antamaan korvapuustin Dorinelle</l>
+                  <l>    ja vilkaisee häneen joka sanalta, minkä hän puhuu tyttärelleen,</l>
+                  <l>    Dorinen seisoessa suorana ja äänettömänä.)</l>
+               </lg>
+               <p rend="justify">Sun tulee noutaa siis isäs mieltä… ja tietää… ett' aviomies… jok' on katsottu sulle… (Dorinelle.) No, viel' ääneen aatellaanko?</p>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>                          On aateltu jo.</l>
+               </lg>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Sana pikkuinen vielä!</l>
+               </lg>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>                      Ei tee mieleni erin.</l>
+               </lg>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Kas niin, minä odotan.</l>
+               </lg>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>                       Oisinpa tyhmä perin!</l>
+               </lg>
+               <p rend="justify">ORGON. Niin, lapsi, sun tulee tottelevainen olla ja tahtooni taipua täydellä suosiolla.</p>
+               <lg>
+                  <l>DORINE (juosten pakoon).</l>
+                  <l>Minä sulholle moiselle näyttäisin pitkää nenää.</l>
+               </lg>
+               <p rend="justify">ORGON (jonka aikoma korvapuusti osuu tyhjään). Siin' oikea myrkky on, lapseni, luonas sulla, hänen kanssaan vihan synnitt' en voi toimeen tulla. Minut sai pois suunnilta. Jatkaa en jaksa enää; olen vimmastunut hänen julkeutensa tähden ja raikkaassa ilmassa rauhoittumaan nyt lähden.</p>
+               <p rend="justify">Kolmas kohtaus.</p>
+               <p rend="justify">Mariane, Dorine.</p>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>Mut oletteko te mykkä ja kieltä vajaa?</l>
+                  <l>Minun täytyykö teille asia valmiiks ajaa?</l>
+                  <l>Noin pannaan eteenne päätökset pähkähullut,</l>
+                  <l>eik' ett' ois sanaa suustanne vastaan tullut!</l>
+               </lg>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>Mitä voisinkaan? Isän valta on käskeä lastaan.</l>
+               </lg>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>Mitä vaan, mikä tepsii moisia uhkia vastaan.</l>
+               </lg>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>Miten?</l>
+               </lg>
+               <p rend="justify">DORINE. Sanoa, ettei käskystä lemmi kukaan, ett' itsellenne te otatte miehen, ei hälle; ja teille kun kuuluu se, eikä sen edemmälle, mies olkoon teidän, ei hänen mielensä mukaan; ja jos on Tartuffensä hälle niin armas kerran, niin itse naikoon hempunsa nimessä Herran.</p>
+               <p rend="justify">MARIANE. Ei, tiedäthän, miten suuri on isän valta, en ikinä tohtisi pyrkiä pois sen alta.</p>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>Mut puhellaanpas. Valère, teit' eikö hän kosi?</l>
+                  <l>Hän mieleenne onko vai eikö? Kumpi on tosi?</l>
+               </lg>
+               <p rend="justify">MARIANE. Voi, kuinka väärin mun tunteeni arvioit, kun moista, Dorine, sa multa kysyä voit, sadat kerrat vaikk' olen uskonut sulle varmaan jo lempeni liekin, salaisuuteni armaan.</p>
+               <p rend="justify">DORINE. Kuka tietää, puhuiko sydän, jos puhui huulet, ja totta vai leikkiä liekö ne lemmen tuulet?</p>
+               <p rend="justify">MARIANE. Mua loukkaat kovin, Dorine, jos epäilet noin; minä liiaksikin sinun sieluuni katsoa soin.</p>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>Hän on siis rakas teille?</l>
+               </lg>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>                          Niin, kalliimpi elämääni.</l>
+               </lg>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>Ja näköjään sama häll' on kellossa ääni?</l>
+               </lg>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>Niin uskon.</l>
+               </lg>
+               <p rend="justify">DORINE. Ja kilvan kummankin mieli palaa pian yhteen päästä?</p>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>                    Niin, emmehän muuta halaa.</l>
+               </lg>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>Siis miten te aiotte isänne tuumat taittaa?</l>
+               </lg>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>Minä aion kuolla, jos hän minut toiselle naittaa.</l>
+               </lg>
+               <p rend="justify">DORINE. Niin tottakin. En sitä keinoa keksinyt ois; se pälkäästä päästää, ei muuta kuin kuolee pois. On suurenmoinen se temppu. Jo sappirakko ihan harmista halkee, kun tuollaist' on kuulla pakko.</p>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>Hyvä Jumala, kuinka, Dorine, olet julma mulle!</l>
+                  <l>Ei lainkaan toisen huolta sun surku tulle.</l>
+               </lg>
+               <p rend="justify">DORINE. Ei lainkaan, jos kuka lapsellisuuksia laatii, ja asianpaikass' on puoleton raukka ja parka.</p>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>Mut mitä mä voin? Joka niin olen ujo ja arka…</l>
+               </lg>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>Vaan rakkaus vakuutta horjumatonta vaatii.</l>
+               </lg>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>Ja milloin muuta Valère mult' osaksi sai?</l>
+                  <l>Ja hänenhän isä on suostutettava kai!</l>
+               </lg>
+               <p rend="justify">DORINE. Mitä? Siiskö, jos isänne moinen on jurripää, täpö täynnä Tartuffeä, muuta ei kuule, ei nää, jos purkaa hän sanansa, sille ei arvoa anna, sen voitteko noin oman armaanne syyksi panna?</p>
+               <p rend="justify">MARIANE. Mut enkö, jos korskana kiellän ja asetun poikin, kovin itse toiseen ihastuneeni näytä? Hänen vuokseenko, kuinka hänt' ansiot aateloikin, jätän kainouden, lapsen velvollisuutt' en täytä! Ja jos mua vaadit lempeni ilmi tuomaan…</p>
+               <p rend="justify">DORINE. Ei, ei, min' en mitään vaadi. Teillä, ma huomaan, on mieli Tartuffelle mennä; ja väärin ois, kun aattelen, teitä siit' aikeesta kääntää pois. Mitä syytä mull' oiskaan moista liittoa vastaan? Se kauppahan on ihan mainio oikeastaan. Tartuffe, niin, herra Tartuffe, se on jotain vasta, oh, herra Tartuffe, kas, sellaista tarjokasta ei vaan joka oksalta oteta, ei pidä luulla, ja ken hänet omaksi saa, se on onnen puulla. Maankuulu jo on hänen maineensa, kunniansa; niin ylhäinen mies, niin muhkea muodoltansa: on punaiset korvat ja poskilla kaunis helo, kera moisen miehen teill' ihana eess' on elo.</p>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>Hyvä Jumala!</l>
+               </lg>
+               <p rend="justify">DORINE. Voi, mikä riemu rintanne täyttää, kun saatte niin pulskan puolison — kelpaa näyttää!</p>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>Oh, lakkaa, lakkaa jo! Ilmankin mull' on huolta.</l>
+                  <l>Sano mulle keino, mi turvaa liitolta tuolta.</l>
+                  <l>Olen valmis, kaikkeni teen; mitä vaadit, sano.</l>
+               </lg>
+               <p rend="justify">DORINE. Ei, totelkoon tytär isäänsä; vastaanpano on synti, vaikk' apinalle hän aikois naittaa. Mitä valitatte? Mik' onnea moista haittaa? Te vaunuilla ajatte pikku kaupunki-pahaan, on seuraa siell', on serkkua, tätiä, setää, sitä huvia ette vaihtaisi suureen rahaan. Ja sitten hienosto teidät piiriinsä vetää. Verovoudin rouvan, pormestarinnan luo tulotervehdykselle käytte, he kohteliaina heti vieraan istua saranatuolia tuo. Ja karnevaaliss' on tarjona tanssit aina ja soittokuntakin: säkkipilliä kaksi, marakatti ja marionetteja kukkuraksi. Jos miehenne vielä…</p>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>                      Oh, otat jo hengen multa.</l>
+                  <l>Mua auttaisit ennen, antaisit neuvon jonkin.</l>
+               </lg>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>Olen palvelijanne!</l>
+               </lg>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>                   Ei, kuule, Dorine kulta!</l>
+               </lg>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>Ei, tulkoon vaan tosi siitä, se parhaiks onkin.</l>
+               </lg>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>Rakas, kiltti…!</l>
+               </lg>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>                  Ei!</l>
+               </lg>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>                      Jos tietäisit, kuinka syvä…</l>
+               </lg>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>Tartuffe on omansa teille, ja sillä hyvä!</l>
+               </lg>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>Ain' ennen turvata sain sinun mielees hellään…</l>
+               </lg>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>Ei, tarpeeksenne nyt teidät tartuffitellään.</l>
+               </lg>
+               <p rend="justify">MARIANE. Sua kosk' ei liikuta siis tämä huoli ja hätä, minut kokonaan epätoivoni huostaan jätä; se on tuki ainoa mielellä murretulla, ja murheeseen apu varma on tiedossa mulla.</p>
+               <p rend="justify">(Aikoo mennä.)</p>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>Seis, älkäähän menkö. Jo vihani alkaa laata.</l>
+                  <l>En sentään teille säälitön olla saata.</l>
+               </lg>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>Niin, tiedätkös, jos pelastusta ei tulle,</l>
+                  <l>Dorine, se kohtalo julma on surma mulle.</l>
+               </lg>
+               <p rend="justify">DORINE. Ei noin pidä tuskailla. Ei ole tarvis kuolla, hätä keinon keksii. Kas, herra Valère on tuolla.</p>
+               <p rend="justify">Neljäs kohtaus.</p>
+               <p rend="justify">Valère, Mariane, Dorine.</p>
+               <p rend="justify">VALÈRE. Juur' ikään kuulin uutisen, jota en voinut ma aavistaa ja joka on todella soma.</p>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>Mitä?</l>
+               </lg>
+               <lg>
+                  <l>VALÈRE.</l>
+                  <l>      Että teistä tulee Tartuffen oma.</l>
+               </lg>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>Isä siksi on todella asian aprikoinut.</l>
+               </lg>
+               <lg>
+                  <l>VALÈRE.</l>
+                  <l>Mitä, isänne, neiti…!</l>
+               </lg>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>                       On muuttanut tuumiaan</l>
+                  <l>Hän mulle ne ilmoitti juuri, vain hetki siit' on.</l>
+               </lg>
+               <lg>
+                  <l>VALÈRE.</l>
+                  <l>Ihan tosissaanko?</l>
+               </lg>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>                  Niin, ihan tosissaan.</l>
+                  <l>Hän sanoi vakaasti päättäneensä sen liiton.</l>
+               </lg>
+               <lg>
+                  <l>VALÈRE.</l>
+                  <l>Ja entäs mitä te itse siit' arvelette?</l>
+               </lg>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>En tiedä.</l>
+               </lg>
+               <p rend="justify">VALÈRE. Kas, sepä vilpitön vastaus! Ette siis tiedä?</p>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>            En.</l>
+               </lg>
+               <lg>
+                  <l>VALÈRE.</l>
+                  <l>                Ette?</l>
+               </lg>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>                      Niin, mitä neuvotte mulle?</l>
+               </lg>
+               <lg>
+                  <l>VALÈRE.</l>
+                  <l>Mitäs muuta kuin menkää armaalle aiotulle!</l>
+               </lg>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>Sekö teidän neuvonne?</l>
+               </lg>
+               <lg>
+                  <l>VALÈRE.</l>
+                  <l>                      Niin.</l>
+               </lg>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>                            Ihan totta?</l>
+               </lg>
+               <lg>
+                  <l>VALÈRE.</l>
+                  <l>                                        Niin aivan.</l>
+                  <l>Se on loistava vaali ja maksaa varmasti vaivan.</l>
+               </lg>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>Hyv' on. Minä en sitä neuvoa sikseen heitä.</l>
+               </lg>
+               <lg>
+                  <l>VALÈRE.</l>
+                  <l>Sen nouto ei paljonkaan kai painane teitä.</l>
+               </lg>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>Ei enempää kuin teitä sen antikaan.</l>
+               </lg>
+               <lg>
+                  <l>VALÈRE.</l>
+                  <l>Minä teidän mieliksenne sen annoin vaan.</l>
+               </lg>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>Ja iloksi teille minä sen mukaan teen.</l>
+               </lg>
+               <lg>
+                  <l>DORINE (vetäytyen näyttämön perälle).</l>
+                  <l>Saas nähdä, mitähän tuosta on tullakseen.</l>
+               </lg>
+               <p rend="justify">VALÈRE. Tämä siis on rakkautta! Ja todeksi luulin, kun mulle…</p>
+               <p rend="justify">MARIANE. Turha jatkaa, jo kyllin kuulin. Mua olette suoraan neuvonut ottamaan sen, joka mulle mieheksi tarjotaan, ja niin minä aion tehdä, sen lupaan ja vannon kun teiltä sain niin sattuvan neuvonannon.</p>
+               <p rend="justify">VALÈRE. Sill' älkää puolustelko te aikeitanne; teill' ennakolt' oli valmis jo ohjelmanne. Ja verukkeihin te turvaatte joutaviin, jott' ois syy sananne rikkoa.</p>
+               <p rend="justify">MARIANE. Niinpä niin; se on totta.</p>
+               <p rend="justify">VALÈRE. Varmaan! Ja lapsellisuutta multa oli uskoa lempenne olematonta tulta.</p>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>Niin kai. Lupa teill' on pitää se arvelunne.</l>
+               </lg>
+               <p rend="justify">VALÈRE. Vai on lupa, vai! Mut ehkäpä moist' ei siedä sydän loukattu kostamatta. Ma tiedän, kunne voin sydämeni ja käteni tarjolle viedä.</p>
+               <p rend="justify">MARIANE. Sit' en epäile lainkaan. Ken niin jaloansioinen on kerran…</p>
+               <p rend="justify">VALÈRE. Oh, älkää! Mull' ansio ei ole suuri, sen tiedän, sen osoitatte te itse juuri. Mut turvaan hyvyyteen, jota muuan toinen ei epää multa, vaan mielellä lemmekkäällä sen suostuu korvaamaan, mitä menetän täällä.</p>
+               <p rend="justify">MARIANE. Vähä vahinko teille, ja moisesta vaihtelusta te saatte siihen helposti lohdutusta.</p>
+               <p rend="justify">VALÈRE. Koen tehdä parhaani, olkaa te varma siitä. Jo kunnia vaatii, ett' iäksi unhottaa sen, jolta uskottomuutta kokea saa. on ainakin voivinaan, jos ei voimat riitä; ja heikkoutt' anteeksiantamatonta ois viel' ilmaista lempeä sille, ken viittaa pois.</p>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>Tuo katsantokanta on todella ylväs ja jalo.</l>
+               </lg>
+               <p rend="justify">VALÈRE. On kyllä; kukaan ei sitä kieltää saata. Vai pitäiskö ehkä ikuinen lemmen palo mun vielä sydämessäni teille taata ja toisen kainaloisena katsoa teitä eik' yhtyä sydämeen, joka ei mua heitä?</p>
+               <p rend="justify">MARIANE. Päinvastoin, en hartaammin minä mitään sois, ja tahtoisin, että se tapahtunut jo ois.</p>
+               <lg>
+                  <l>VALÈRE.</l>
+                  <l>Sitä tahdotte?</l>
+               </lg>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>               Niin.</l>
+               </lg>
+               <lg>
+                  <l>VALÈRE.</l>
+                  <l>                     Tämä loukkaus jo riittäköön.</l>
+                  <l>Hetipaikalla toiveenne tuon panen täytäntöön.</l>
+               </lg>
+               <p rend="justify">(Astuu askeleen lähteäkseen.)</p>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>Hyvä on.</l>
+               </lg>
+               <p rend="justify">VALÈRE (kääntyen takaisin). Mut muistakaa, ett' itse sen teitte: minut saatoitte siihen, toivoni muun kun veitte.</p>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>Niin.</l>
+               </lg>
+               <p rend="justify">VALÈRE (kääntyen). Ett' esimerkkiä, jonka ma teiltä sain, minä seuraan.</p>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>              Niin, esimerkkiä multa vain.</l>
+               </lg>
+               <lg>
+                  <l>VALÈRE (lähtien menemään).</l>
+                  <l>Ja sen minä teen, mitä mielitte, ilman tenää.</l>
+               </lg>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>Minä kiitän.</l>
+               </lg>
+               <lg>
+                  <l>VALÈRE (kääntyen takaisin).</l>
+                  <l>             Ette nää mua koskaan enää.</l>
+               </lg>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>Niin, onnea vain!</l>
+               </lg>
+               <lg>
+                  <l>VALÈRE (kääntyen ovelta takaisin).</l>
+                  <l>                  Mitä?</l>
+               </lg>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>                        No?</l>
+               </lg>
+               <lg>
+                  <l>VALÈRE.</l>
+                  <l>                            Te kutsuitte, luulen?</l>
+               </lg>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>Minä? Uneksitteko?</l>
+               </lg>
+               <lg>
+                  <l>VALÈRE.</l>
+                  <l>                   Siis minä jatkan matkaa.</l>
+                  <l>Hyvästi, neiti.</l>
+               </lg>
+               <p rend="justify">(Lähtee menemään hitaasti.)</p>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>               Hyvästi, herra.</l>
+               </lg>
+               <p rend="justify">DORINE (Marianelle). Ma kuulen, ett' ymmärrys tipotiehen jo teiltä häätyy. Minä aattelin: antaapa noiden riitaansa jatkaa, niin nähdään, mikä sen viimeinkin pääksi päätyy. Hoi, herra Valère!</p>
+               <p rend="justify">(Tarttuu Valèren käsivarteen.)</p>
+               <lg>
+                  <l>VALÈRE (on vastustelevinaan).</l>
+                  <l>                   Dorine, mikä nyt sua vaivaa?</l>
+               </lg>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>Seis, tulkaa!</l>
+               </lg>
+               <lg>
+                  <l>VALÈRE.</l>
+                  <l>              Ei, tämä liiaksi mieltäni kaivaa.</l>
+                  <l>Mit' on tahtonut hän, sen teen, älä koeta estää.</l>
+               </lg>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>Seis vaan!</l>
+               </lg>
+               <lg>
+                  <l>VALÈRE.</l>
+                  <l>           Ei, ei, mik' on päätetty kerran, se kestää.</l>
+               </lg>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>Oh!</l>
+               </lg>
+               <p rend="justify">MARIANE (itsekseen). Ei mua nähdä hän kärsi, on vasten mieltä tääll' oloni hälle, paras, kun väistyn tieltä.</p>
+               <lg>
+                  <l>DORINE (päästäen Valèren ja juosten Marianen jälkeen).</l>
+                  <l>Hän myös! Mihin juoksette?</l>
+               </lg>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>                           Päästä!</l>
+               </lg>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>                                   En laske teitä.</l>
+               </lg>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>Dorine, älä viitsi turhia viivykkeitä!</l>
+               </lg>
+               <p rend="justify">VALÈRE (itsekseen). Se on selvää, häntä mun näköni tuskastuttaa, paras siitä kiusasta siis hänet vapauttaa.</p>
+               <p rend="justify">DORINE (päästäen Marianen ja juosten Valèren jälkeen). Nyt toinen! Lempoko teiss' on! Kas niin, riittää jo jupina, saatte kumpikin tänne tulla.</p>
+               <p rend="justify">(Ottaa Valèrea ja Marianea kädestä ja vetää heidät lähekkäin.)</p>
+               <lg>
+                  <l>VALÈRE (Dorinelle).</l>
+                  <l>Mut mikä on tarkoitus?</l>
+               </lg>
+               <lg>
+                  <l>MARIANE (Dorinelle).</l>
+                  <l>                       Mikä mieless' on sulla?</l>
+               </lg>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>Tämä pulma purkaa, taas välit yhteen liittää.</l>
+                  <l>    (Valèrelle.)</l>
+                  <l>Kuka hurja nyt yltyy päälle noin vimmatulle!</l>
+               </lg>
+               <lg>
+                  <l>VALÈRE.</l>
+                  <l>Mut etkö kuullut, mitä hän virkkoi mulle?</l>
+               </lg>
+               <lg>
+                  <l>DORINE (Marianelle).</l>
+                  <l>Mikä mielettömyys noin turhasta kiihottua!</l>
+               </lg>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>Mut etkö nähnyt, kuinka hän kohteli mua?</l>
+               </lg>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>Samanlaisia molemmat! Soh!</l>
+                  <l>    (Valèrelle.)</l>
+                  <l>                           Hän ei muuta halaa</l>
+                  <l>kuin omanne olla, se sana on varmempi valaa.</l>
+                  <l>    (Marianelle.)</l>
+                  <l>Vain teistä hän pitää, teidät hän ainoastaan</l>
+                  <l>omaks saada toivoo, päälläni siitä vastaan.</l>
+               </lg>
+               <lg>
+                  <l>MARIANE (Valèrelle).</l>
+                  <l>Miks sitten mulle neuvoa miestä toista?</l>
+               </lg>
+               <lg>
+                  <l>VALÈRE (Marianelle).</l>
+                  <l>Miks sitten tulla ja kysyä multa moista?</l>
+               </lg>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>Ihan hupsuja kumpikin! Nyt kädet tänne vaan!</l>
+                  <l>    (Valèrelle.)</l>
+                  <l>Kas niin!</l>
+               </lg>
+               <lg>
+                  <l>VALÈRE (antaen Dorinelle kätensä).</l>
+                  <l>          Mitä varten?</l>
+               </lg>
+               <lg>
+                  <l>DORINE (Marianelle).</l>
+                  <l>                       Te myös!</l>
+               </lg>
+               <p rend="justify">MARIANE (antaen myös kätensä). Mit on olevinaan kuje tuo?</p>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>          Pian! Varjele! Vielä ne vikuroivat!</l>
+                  <l>Ovat, raukat, rakastuneemmat, kuin luulla voivat.</l>
+               </lg>
+               <lg>
+                  <l>    (Valère ja Mariane pitävät toisiaan kädestä</l>
+                  <l>    hetkisen katsomatta toisiinsa.)</l>
+               </lg>
+               <p rend="justify">VALÈRE (kääntyen Marianeen päin). Siit' älkää noin nyt painuko pahoittelulle, ja suokaahan toki suopea silmäys mulle.</p>
+               <p rend="justify">(Mariane kääntyy Valèreen päin ja hymyilee.)</p>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>Saa sanoa: rakastuneet ovat höpsähtäneitä.</l>
+               </lg>
+               <lg>
+                  <l>VALÈRE (Marianelle).</l>
+                  <l>Niin, eikö mull' ole syytä moittia teitä?</l>
+                  <l>Ja ettekö ollut häijy, jos totta haastaa,</l>
+                  <l>noin julmasti kun raskitte mieltäni raastaa?</l>
+               </lg>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>Mut entä te, kiittämättömin ihmisistä…</l>
+               </lg>
+               <p rend="justify">DORINE. Paras toisella kertaa jatkaa kiistelemistä ja miettiä nyt, mill' estää ne tuumat vois.</p>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>Niin, neuvo, mi keino meille nyt turvan tois.</l>
+               </lg>
+               <p rend="justify">DORINE. Me saamme panna kaikki tuumamme tukkoon. (Marianelle.) Ei isänne taivu; (Valèrelle.) on hulluus ampunut ukkoon. (Marianelle.) Mut teidän on viisainta tottelevanne näyttää, hänen hassuttelunsa haluavanne täyttää, jott' ois hädän tullen teidän helpompi niin häät saada jäämään aikoihin tuonnempiin. Ken, nähkääs, aikaa voittaa, se kaikki voittaa. Jokin äkkivaiva, kun päätetty päivä koittaa, on syy, joka tuottaa varmasti viivykettä. Tai huonoja enteitä täyteen juhla ja aatto: on särkynyt peili, on kohdannut ruumissaatto, te olette unissa nähnyt sekaista vettä. Ja paras, jost' ei yli päästä, ei ympäritse: ei vihitä teitä, ellette suostu itse. Mut varmint' on pysyä nyt ihan erillänne, teit' ettei nähdä puheissa keskenänne. (Valèrelle.) Kaikk' ystävänne te liikkeelle saatte panna, etteivät sanaa saamaanne rikkoa anna. (Marianelle.) Me pyydämme lankoa, että hän toimiin ryhtyy, ja äitipuolenne kaiketi meihin yhtyy.</p>
+               <p rend="justify">VALÈRE (Marianelle). Mitä keinoja miettinemmekin vaaraa vastaan, ylin toivoni sentään teissä on ainoastaan.</p>
+               <p rend="justify">MARIANE (Valèrelle). Minä en voi isäni mieltä ja tahtoa taata, mut eroon Valèresta ei mua mikään saata.</p>
+               <lg>
+                  <l>VALÈRE.</l>
+                  <l>Minut teette onnelliseksi! Eik' esteet mitkään…</l>
+               </lg>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>On juttua rakastavilla jos kuinka pitkään!</l>
+                  <l>Nyt menkää.</l>
+               </lg>
+               <lg>
+                  <l>VALÈRE (menee takaisin, mutta kääntyy takaisin).</l>
+                  <l>            Minä vain…</l>
+               </lg>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>                         Ei, nyt pankaa jo sulku!</l>
+                  <l>Te menette tuosta; ja tuosta on toisen kulku.</l>
+               </lg>
+               <p rend="justify">(Työntää heitä kumpaakin olkapäistä ja pakottaa eroamaan.)</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>KOLMAS NÄYTÖS.</head>
+               <p rend="justify">Ensimmäinen kohtaus.</p>
+               <p rend="justify">Damis, Dorine.</p>
+               <p rend="justify">DAMIS. Minut salama lyököön, saakoon tuhoni tulla, mua kohdeltakoon kuin pahinta konnaa ikään, jos estää voi minut valta ja mahti mikään, ja jollen jotain tee, mit' on mielessä mulla.</p>
+               <p rend="justify">DORINE. Ei, hillitkää nyt tuota kiihkoa kuumaa, siit' eihän isänne muuta kuin puhui vasta. Ei kaikkea tehdyks saa, mitä mieli tuumaa, ja matkaa on välillä aikeen ja toimeenpanon.</p>
+               <p rend="justify">DAMIS. Minä opetan juonitteluun sitä jumalanlasta, pari kirkasta sanaa hälle ma korvaan sanon.</p>
+               <p rend="justify">DORINE. Ei, ei, niin häneen kuin isäänne nähden suomaan minä neuvon kaikki vain äitipuolenne huomaan. Tartuffen mieless' ei hän ihan vähää paina; mitä rouva vain sanoo, hän yhtä mieltä on aina. Niin, ehkä se on ihan täyttä ihastumista. Kunp' oiskin! Se meille ois hyvin edullista. Hänt' ikään kutsumass' olin rouvan luoksi, jott' ottaa selvän teidän etunne vuoksi hän vois hänen aikeistaan sekä ilmoittaa, mitä riitoja, rettelöitä hän aikaan saa, jos naimatuumaa tuota ei heitä valtaan. En päässyt puheille, kuulin palvelijaltaan hänen rukoilevan, mut on kohta hän ilmestyvä. Juur' odottelen. Siis menkää nyt, olkaa hyvä.</p>
+               <lg>
+                  <l>DAMIS.</l>
+                  <l>Halu mukana olla mun ois hänen lähettyvillään.</l>
+               </lg>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>Ei, heidän on oltava kahden.</l>
+               </lg>
+               <lg>
+                  <l>DAMIS.</l>
+                  <l>                             En häiritse millään.</l>
+               </lg>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>Te malttaisitte! Kyllä on malttinne tuttu.</l>
+                  <l>Se ois paras keino tyyten turmella juttu.</l>
+                  <l>Pian, menkää!</l>
+               </lg>
+               <lg>
+                  <l>DAMIS.</l>
+                  <l>              Ei, minä jään. En kiihdy, ei huolta!</l>
+               </lg>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>Miten olette häijy! Piiloon! Hän tulee tuolta.</l>
+               </lg>
+               <p rend="justify">(Damis piiloutuu näyttämön perällä olevaan sivuhuoneeseen.)</p>
+               <p rend="justify">Toinen kohtaus.</p>
+               <p rend="justify">Tartuffe, Dorine.</p>
+               <p rend="justify">TARTUFFE (puhuen palvelijalleen sisempään huoneeseen heti Dorinen huomattuaan). Pane lippaaseen taas ruoska ja jouhipaita, ja sielulles ano aina valoa taivaan. Jos ken mua kysyy, niin almuja laupiaita menin viemään lievitykseksi vankien vaivaan.</p>
+               <lg>
+                  <l>DORINE (syrjään).</l>
+                  <l>Miten hurskas on olevinansa hän muiden nähden!</l>
+               </lg>
+               <lg>
+                  <l>TARTUFFE.</l>
+                  <l>Mitä tahdotte?</l>
+               </lg>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>               Pyytää teitä…</l>
+               </lg>
+               <lg>
+                  <l>TARTUFFE (vetäen nenäliinan taskustaan).</l>
+                  <l>                               Ei, Herran tähden!</l>
+                  <l>Sitä ennen ottakaa tämä niistinliina.</l>
+               </lg>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>Mitä varten?</l>
+               </lg>
+               <lg>
+                  <l>TARTUFFE.</l>
+                  <l>             Verhotkaa tuo paistava povi.</l>
+                  <l>Näkö moinen on loukkaus sielun ja silmän piina</l>
+                  <l>ja miettimään saa sellaista, mikä ei sovi.</l>
+               </lg>
+               <p rend="justify">DORINE. Oh, kovinpa helposti teidät kiusaus kiehtoo, ja vallan suuri teihin on valta lihan. En tietää voi, mihin liekkiin se teidät liehtoo, mut en ota tulta minä niin herkästi ihan; koko pintanne vaikk' ihan apposen alasti ois, mua pennin eestä ei se kiusata vois.</p>
+               <p rend="justify">TARTUFFE. Te käyttäkää vähän säädyllisempää kieltä, tai mun heti paikall' on pakko väistyä tieltä.</p>
+               <p rend="justify">DORINE. Ei, ei, minä teille aion nyt rauhan suoda, pari sanaa vain oli toimeni teille tuoda. Koht' ikään saapuu rouva nyt saliin tähän ja toivoo saada kanssanne puhella vähän.</p>
+               <lg>
+                  <l>TARTUFFE.</l>
+                  <l>Ah, kernaasti!</l>
+               </lg>
+               <lg>
+                  <l>DORINE (syrjään).</l>
+                  <l>               Kappas vaan, miten lauha jo onkaan!</l>
+                  <l>Minä, totta vie, en siinä horise honkaan.</l>
+               </lg>
+               <lg>
+                  <l>TARTUFFE.</l>
+                  <l>Hän viipyy ehkä?</l>
+               </lg>
+               <p rend="justify">DORINE. Jo kuulen askelet tänne, se on hän; nyt voitte haastella keskenänne.</p>
+               <p rend="justify">Kolmas kohtaus.</p>
+               <p rend="justify">Elmire, Tartuffe.</p>
+               <p rend="justify">TARTUFFE. Yhä suokoon siunaus kaitsijan kaikkihyvän niin sielun kuin ruumiin terveytt' ylettyvän kautt' elämänne niin runsaasti, kuin sitä halaa sydän halvin, jossa taivaan rakkaus palaa!</p>
+               <lg>
+                  <l>ELMIRE.</l>
+                  <l>Niin hurskas toivotus! Kiitollisuuteni syvin!</l>
+                  <l>Mut on mukavampi, jos istumme. Tehkää hyvin!</l>
+               </lg>
+               <lg>
+                  <l>TARTUFFE (istuutuen).</l>
+                  <l>Miten voitte nyt, joko alatte voimiinne tulla?</l>
+               </lg>
+               <lg>
+                  <l>ELMIRE (istuutuen).</l>
+                  <l>Hyvin, kiitos, ei ollut kuumetta kauan mulla.</l>
+               </lg>
+               <p rend="justify">TARTUFFE. Mun rukousteni ansio olla ei voi, ett' armon sen ja suosion taivas soi; mut sille sit' en ole huoannut huokausta, jok' ei olis anonut tuskiinne huojennusta.</p>
+               <lg>
+                  <l>ELMIRE.</l>
+                  <l>Se liikaa huolta on ollut.</l>
+               </lg>
+               <lg>
+                  <l>TARTUFFE.</l>
+                  <l>                           Oh, kuinka vois</l>
+                  <l>toki liiaksi helliä kallista vointianne!</l>
+                  <l>Mun omani altis ollut sen eestä ois.</l>
+               </lg>
+               <lg>
+                  <l>ELMIRE.</l>
+                  <l>Siis mikään ei rajoita kristityn-rakkauttanne!</l>
+                  <l>Jään suureen velkaan hyvyydestänne siitä.</l>
+               </lg>
+               <lg>
+                  <l>TARTUFFE.</l>
+                  <l>Ei ansionne varjoksikaan se riitä.</l>
+               </lg>
+               <p rend="justify">ELMIRE. Mull' ois eräs asia, ja iloitsen, ettei tässä ole puheluamme nyt kukaan häiritsemässä.</p>
+               <p rend="justify">TARTUFFE. Olen onnellinen, minut täyttää se hurmiolla, kun kahden kesken kanssanne saan nyt olla. Sitä onnea rukoillut olen palavasti, vaikk' evännyt taivas on sen tähän hetkeen asti.</p>
+               <p rend="justify">ELMIRE. Vain olkaa mulle nyt avoin — en muuta halaa — mult' ettette mitään mielenne aietta salaa.</p>
+               <p rend="justify">(Damis raottaa näyttäytymättä sivuhuoneen ovea voidakseen kuunnella keskustelua.)</p>
+               <p rend="justify">TARTUFFE. Mun toivoni myös on se suosio ainokaisin, ett' ilmaista sisimmän sieluni teille saisin, ja vannon, että jos nureksuin minä noita yhä luoksi lumoomianne ihailijoita, ei ollut syynä vihastus teitä vastaan, vaan palava mielen alttius ainoastaan, halu puhdas…</p>
+               <lg>
+                  <l>ELMIRE.</l>
+                  <l>               Niin olen ymmärtänyt sen juuri.</l>
+                  <l>Te pelastaisitte sieluni, eikö totta?</l>
+               </lg>
+               <lg>
+                  <l>TARTUFFE (tarttuen Elmiren käteen ja sitä pusertaen).</l>
+                  <l>Niin aivan, niin koko sydämestäni, jotta…</l>
+               </lg>
+               <lg>
+                  <l>ELMIRE.</l>
+                  <l>Uh, puristatte!</l>
+               </lg>
+               <lg>
+                  <l>TARTUFFE.</l>
+                  <l>                On intoni liian suuri.</l>
+                  <l>Minä teillekö pahaa tein ihan tietämättä,</l>
+                  <l>joka tahtoisin…</l>
+               </lg>
+               <p rend="justify">(Panee kätensä Elmiren polvelle.)</p>
+               <lg>
+                  <l>ELMIRE.</l>
+                  <l>                  Mihin oikein te panette kättä?</l>
+               </lg>
+               <lg>
+                  <l>TARTUFFE.</l>
+                  <l>Miten laheasta vaatteesta teillä on puku!</l>
+               </lg>
+               <lg>
+                  <l>ELMIRE.</l>
+                  <l>Oh, älkää! Ette saa! Mua kutkutus piinaa.</l>
+               </lg>
+               <lg>
+                  <l>    (Elmire siirtää tuoliaan edemmäksi,</l>
+                  <l>    Tartuffe siirtäytyy perästä.)</l>
+               </lg>
+               <lg>
+                  <l>TARTUFFE (sormiellen Elmiren kaulaliinaa).</l>
+                  <l>Noin hienoa nähnyt en viel' ole pitsiliinaa!</l>
+                  <l>Se on näppärää, nykypäiväinen ihmissuku;</l>
+                  <l>ikimaailmass' ei moist' ole tehty ennen.</l>
+               </lg>
+               <p rend="justify">ELMIRE. Niin, ehkäpä ei. Mutt' asiaamme nyt mennen: siis luopuu, kuulemma, mieheni sanastaan ja teille tyttärens' antaa. Onko se tosi?</p>
+               <p rend="justify">TARTUFFE. Hän jutteli jotain; mut jos toden sanoa saan, niin en minä ensinkään sitä onnea kosi; toist', ihanampaa toivetta kohti taipuu kaikk' ihastukseni, kaikki mieleni kaipuu.</p>
+               <lg>
+                  <l>ELMIRE.</l>
+                  <l>Niin, teist' on kaikki maallinen arvoa vailla.</l>
+               </lg>
+               <lg>
+                  <l>TARTUFFE.</l>
+                  <l>Mull' ei ole sydän kivestä millään lailla.</l>
+               </lg>
+               <p rend="justify">ELMIRE. On taivas mielessänne, ma arvaan, aina, maan matalan puoleen teitä ei mikään paina.</p>
+               <p rend="justify">TARTUFFE. Vaikk' iäistä ihanuutta sielumme halaa, saa ajallinenkin rakkaus meissä palaa: on armas pakko syttyä sydämemme, kun taivaan kaunoluomia katselemme. Sen kauneus kaltaisissanne heijastuu, mut teille vertaa ei vedä kukaan muu. Loi kasvoillenne se sulon, mi silmää kiehtoo ja sydämen haltioi, poven liekkiin liehtoo. En, teitä katsoen, luoduista kaunein, saata ma luojan ihmeitä ylistämästä laata enk' ihastumatta, en tuntehetonna rinta hänen kuvastustaan kohdata ihaninta. Aluss' epäilin sitä salaista syttymystä, ett' ois se vain pahan paulaa ja väijytystä, olin päättänyt jo aivan paeta pois, kun arvelin, että sieluni vaarass' ois. Toki vihdoin, naisist' armahin, selkeni mulle, ettei mua tielle se johtanut tuomitulle, teit' että puhtaudessa ma lempiä voin, ja siks sen lemmen valtaan sieluni soin. Ylen rohkeaa — täys selko on siitä mulla — on tuomaan tää sydänuhrini teille tulla. Mut hyvyyteenne turvaan; se antaa yksin, mit' en yletä mitättömyyteni yrityksin. Minä toivoni, riemuni, rauhani teissä löydän, saan tuomion tai autuuden armopöydän, ja teiltä nyt, miten tahdotte ainoastaan, otan onneni taikka onnettomuuteni vastaan.</p>
+               <p rend="justify">ELMIRE. Tepä teette tunnustuksia kohteliaita; ne kulkevat vain hieman kummia maita. Te saisitte paremmin halunne pantsaroida, vähän moisia aikoessanne aprikoida, te hurskas mies, jota kaikk' ihan yhtä suuta…</p>
+               <p rend="justify">TARTUFFE. Oh, hurskaskin on ihminen eikä muuta. Kun eessä moinen on kauneuden kaikkivalta, sydän antautuu, ei pohdi, ei punnita malta. Puhe tää, sen tiedän, on outoa kyllä kuulla; mut en ole mikään enkeli, ei pidä luulla. Jos tunnustukseni tuomion teiltä saa, oman ihanuutenne tenho te tuomitkaa. Siit' asti kuin sen ylimaallisen mahdin näin, te olette valtiatar, jonk' orjaksi jäin; minut taivaankaunis silmäinne katse voitti, sen taikaa vastustaa sydän turhaan koitti: minä paastosin, rukoilin, vuodatin kyyneleitä, jok' ainoa sieluni aatos vain etsi teitä; mitä tuhannesti jo katseet ja huokaukset, sitä tulkitsee nyt huulten tunnustukset. Jos tuskani näätte te armahtavalla miellä, mi halvalle orjallenne ei rauhaa suo, jos lempeytenne lohtua mult' ei kiellä, vaan laskeutuu minun mitättömyyteni luo, minä innolla palavalla teit', ihanaista, niin palvelen, kuin ei viel' ole palveltu naista. Ei kunniallenne teill' ole vaaraa siitä, ei pelkoa, että ma hiiskuisin näitä ja niitä. Nuo hovikeikarit, joihin on hulluja naiset, ne melua pitää, ne kerskujat turhamaiset: hyväll' onnellaan siin' ylvästeltävän kuullaan; heti kertovat julki, jos soi kuka suosion, sen alttarin häväisevät he löyhällä suullaan, joll' uhrannut sydän uhrinsa juuri on. Mut meikäläisen mieli se peitossa palaa, se salaisuuden varmasti kätkee ja salaa. Oman maineemme varjelu meille on liian kallis, ett' armastetun se alttiiksi jättää sallis; ja meihin suostuen taattuna sillä tapaa on lempi juoruista, riemu vaaroista vapaa.</p>
+               <p rend="justify">ELMIRE. Saan sanoistanne koreista kiittää teitä. Mult' ette todellakaan te mieltänne peitä. Mut entä jos nyt — sitä pelkoa ettekö tunne — puhun miehelleni ja ilmoitan ihastelunne. Jos minua teidän hän liehivän aavistais, se sammumaan ehk' ystävyytenne sais.</p>
+               <p rend="justify">TARTUFFE. Minä tiedän, te siihen olette liian hyvä, te ette rankaise uskalikkoa houkkaa; teilt' anteeks saa se ihmisheikkous syvä, mi lempeni ilmaisussa nyt teitä loukkaa. Ja muistakaa, kun eessä te olette kerta, mull' ett' on silmät ja ett' olen lihaa ja verta.</p>
+               <p rend="justify">ELMIRE. Muut muulla tavoin voisivat tehdä kait, minun mieluisinta on pysyä tästä vait. Ei mieheni saa tätä tietää, mut vastike siit' on myös suotavanne: te suoraan ja parhaanne pannen tuot' asiaa Valèren ja Marianen nyt ajatte ettekä esteeksi jää sen liiton, sitä ette yllytä vallankäyttöä väärää, joka pois oman toiselt' ottaa ja teille määrää, ja…</p>
+               <p rend="justify">Neljäs kohtaus.</p>
+               <p rend="justify">Elmire, Damis, Tartuffe.</p>
+               <p rend="justify">DAMIS (tullen esiin piilopaikastaan). Ei, ei lainkaan. Tämä on tuleva julki. Olin huoneessa tässä ja sain ihan kaikki kuulla. Mun taivaan armon johdoks se täytyy luulla, jott' ilkiö tuo, joka kiusaksi tänne kulki, saa rankaisunsa, jotta ma tuon valehurskaan ja röyhkeän petturin juonet kostan ja murskaan, saan isäni näkemään, mitä sieluunsa sulkee se konna, jok' iskeä teihin silmänsä julkee.</p>
+               <p rend="justify">ELMIRE. Ei, Damis; se riittää, jos saa hän paremman älyn ja suomani armon ansaitsevansa näyttää. Mitä lupasin kerran, se myös minun suokaa täyttää. Minä en pidä nostosta minkään huudon ja hälyn. Kas, vaimo moisia hupsuja nauraa vaan, sill' ei mene miehensä korvia vaivaamaan.</p>
+               <p rend="justify">DAMIS. Niin tehdä teillä voi omat olla syynne, ja mull' omat syyni, jos yhdy en menettelyynne. Ihan ilve ja pilkka ois sitä miestä säästää; tuon ulkokullatun silmitön julkeus päästää jo vihdoin valloilleen mun vihani palon; hän mullin mallin on kääntänyt koko talon; jo liian kauan täällä hän isää johti ja mun ja Valèren toiveita sortaa tohti. Nyt hänest' on vieroitettava veijari tuo, ja siihen taivas mulle nyt keinon suo. Sitä kiittää tahdon tilaisuudesta tästä, tätä etua kuinka ma luopuisin käyttämästä? En lainkaan ansaitsis sitä saamaan tulla, jos lyön sen laimin, kun se on kädessä mulla.</p>
+               <lg>
+                  <l>ELMIRE.</l>
+                  <l>Damis!</l>
+               </lg>
+               <p rend="justify">DAMIS. Ei, nyt minä teen oman pääni mukaan. Nyt mieleni on ihan iloa tulvillaan; mult' ette nyt estää saata te eikä kukaan sitä riemua, että kerrankin kostaa saan. Nyt selvitetään tämä seikka ja pohjaan asti; kas niin, ei voisi sattua paremmasti.</p>
+               <p rend="justify">Viides kohtaus.</p>
+               <p rend="justify">Orgon, Elmire, Damis, Tartuffe.</p>
+               <p rend="justify">DAMIS. Isä, täällä on teille tervehdykseksi juttu, veres yllätys, joka läheltä koskee teitä. Hyvin teille maksaa tuo hyvä, kallis tuttu, ei hellintäänne hän palkitsematta heitä. Ison intonsa kokee sillä hän ilmi tuoda, ett' aikoo kunniaanne hän lokaa luoda; hänet yllätin täällä, kun puolisollenne juuri tuo julkea tunnusti rietasta lempeään. On säveys hällä ja suopeus liian suuri, hän peittää teilt' ois tahtonut kaiken tään; mut julkeutt' en minä moista suojella halaa; minä loukkaan teitä, jos suuni sen teiltä salaa.</p>
+               <p rend="justify">ELMIRE. Sanon vieläkin: ei turhista milloinkaan pidä miehellensä mieliharmia laittaa; ei tuollaiset toki kunniatamme haittaa, ja riittää, kun sen varjella voimme vaan. Se mieli on mulla; ettekä puhunut ois, jos sanani teihin lainkaan tehota vois.</p>
+               <p rend="justify">Kuudes kohtaus.</p>
+               <p rend="justify">Orgon, Damis, Tartuffe.</p>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Mitä kuulen? Taivas! Se totta ei olla saata!</l>
+               </lg>
+               <p rend="justify">TARTUFFE. On, veljeni, on, olen heittiö viheliäinen, olen kurja syntinen, pahuutta kukkurapäinen, pahin rikollinen, joka kuunaan myrkytti maata. Vain rikosta, riettautt' on minun eloni retki, vain synnin saastaa sen joka ainoa hetki; ja saattaakseen syvät syyni nyt rangaistukseen minut taivas on asettanut tähän alennukseen. Niin suurt' ei rikosta voida syykseni työntää, ettei sitä tuntoni nöyrästi tahtois myöntää. Kaikk' uskokaa, mitä kuulitte, armotonna pois ajakaa vihan ansainnut, kurja konna. Niin suurta häväistystä en saada vois, ett' enempää vikapää minä viel' en ois.</p>
+               <p rend="justify">ORGON (pojalleen), Ah, petturi, vai sinä moisella panettelulla hänen puhtaan hyveensä kimppuun rohkenet tulla!</p>
+               <p rend="justify">DAMIS. Mitä? Siis tuon ulkokullatun viekkaus uusi saa teidät taas…</p>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>                   Pidä, kirottu vintiö, suusi!</l>
+               </lg>
+               <p rend="justify">TARTUFFE. Hänen suokaa puhua, syytätte häntä väärin; paras on, kun häntä nyt uskotte. Kuinka noin mua syytösten keskellä suositte ylen määrin? Mist' oikein tiedätte, mitä mä tehdä voin? Te, kallis veljeni, uskotte ulkopintaan, mut ulkohurskaus ties mitä kätkee rintaan. Ei, ei; näkö pettää; luulonne harhaan kulki; ah, en ole se, miks uskotte, kaikkea muuta. Mua hurskaaks sanoo maailma yhtä suuta, ihan kelvoton vaikk' olen, jos toden puhuu julki. (Kääntyen Damis'hin). Niin, poikani, soimatkaa mua petturiksi ja varkaaksi, murhaajaksi ja vaikka miksi, nimet niitä kauheammat jos keksitte vielä, ne kaikk' ovat oikeutettuja, niit' en kiellä. Minä polvillani sen herjan ja pilkan siedän, pahall' elämällä sen ansainneeni ma tiedän.</p>
+               <lg>
+                  <l>ORGON (Tartuffelle).</l>
+                  <l>Tämä on jo liikaa.</l>
+                  <l>    (Pojalleen.)</l>
+                  <l>                   Jo kadu, jos koskaan kadut,</l>
+                  <l>sinä ilkiö!</l>
+               </lg>
+               <lg>
+                  <l>DAMIS.</l>
+                  <l>            Siis te uskotte moiset sadut…</l>
+               </lg>
+               <lg>
+                  <l>ORGON (nostaa ylös Tartuffen).</l>
+                  <l>Vait, hirtehinen! Veli, nouskaa, oh, sallikaahan!</l>
+                  <l>    (Pojalleen.)</l>
+                  <l>Sinä kurja!</l>
+               </lg>
+               <lg>
+                  <l>DAMIS.</l>
+                  <l>            Hän siis…</l>
+               </lg>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>                        Vait!</l>
+               </lg>
+               <lg>
+                  <l>DAMIS.</l>
+                  <l>                              Pitäiskö moista nähden…</l>
+               </lg>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Sana vielä, niin sinut isken mäsäksi maahan.</l>
+               </lg>
+               <lg>
+                  <l>TARTUFFE.</l>
+                  <l>Ei, veljeni, älkää kiihtykö. Herran tähden!</l>
+                  <l>Halull' ennen kärsin piinan ma pahimmankin,</l>
+                  <l>kuin hälle pienintäkään minä haittaa hankin.</l>
+               </lg>
+               <lg>
+                  <l>ORGON (pojalleen).</l>
+                  <l>Sinä kiittämätön!</l>
+               </lg>
+               <p rend="justify">TARTUFFE. Tähän polvistuin minä anon teilt' armoa hälle…</p>
+               <lg>
+                  <l>ORGON (heittäytyen myös polvilleen ja syleillen Tartuffeä).</l>
+                  <l>                      Ah, mitä mä enää sanon!</l>
+                  <l>    (Pojalleen.)</l>
+                  <l>Sitä hyvyyttä, hulttio, näätkö!</l>
+               </lg>
+               <lg>
+                  <l>DAMIS.</l>
+                  <l>                                Mut…</l>
+               </lg>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>                                       Vait!</l>
+               </lg>
+               <lg>
+                  <l>DAMIS.</l>
+                  <l>                                             Minä.</l>
+               </lg>
+               <p rend="justify">ORGON. Vait! Sinä väijyt häntä, sen tiedän ja syytä hait. Te kaikki vihaatte häntä, ja liittoon yhtyy oma vaimo, lapset, palvelijat, jott' ois tuon hurskaan pakko luopua luotani pois; sitä varten rumimpaankin he keinoon ryhtyy. Mut häätää koittakoot hänet vehkeillään, sitä vähemmin hänet lasken ma lähtemään; nyt tyttäreni koht' ikään mä hälle naitan ja niin koko perheeni korskeat juonet taitan.</p>
+               <lg>
+                  <l>DAMIS.</l>
+                  <l>Hänet pakottaa siis aiotte tuolle?</l>
+               </lg>
+               <p rend="justify">ORGON. Niin, jo tänään, jos saa sapen teissä se kuohuksiin. Mua ette peijaa. Oh, minä aion näyttää, ketä kuulla saatte, ken täällä käskyä käyttää. Saat hyvittää, sinä hylky, ne herjas heti, hänen lankeet jalkoihinsa ja anteeksi pyydät.</p>
+               <lg>
+                  <l>DAMIS.</l>
+                  <l>Minä! Tuoltako konnalta, taas joka teitä veti…</l>
+               </lg>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Sinä, vaivainen, vastustat, yhä herjaa syydät!</l>
+                  <l>Ah, keppini, keppini!</l>
+                  <l>    (Tartuffelle.)</l>
+                  <l>                      Älkää koittako estää.</l>
+                  <l>    (Damis'lle).</l>
+                  <l>Pois kattoni alta! Tiehesi ilman tenää!</l>
+                  <l>Ja takaisin älä uskalla tulla enää!</l>
+               </lg>
+               <lg>
+                  <l>DAMIS.</l>
+                  <l>Menen kyllä, mutta…</l>
+               </lg>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>                      No, kauanko vartoa kestää!</l>
+                  <l>Saat lähteä, lurjus, perinnötönnä, se tiedä,</l>
+                  <l>ja kiroukseni myötäsi vielä viedä.</l>
+               </lg>
+               <p rend="justify">Seitsemäs kohtaus.</p>
+               <p rend="justify">Orgon, Tartuffe.</p>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Noin miestä pyhää loukata!</l>
+               </lg>
+               <p rend="justify">TARTUFFE. Tuskaa tätä, oi taivaan armo, syyks älä hälle jätä! (Orgonille.) Jos murheeni mittaisitte, kun moista he syytää, mua kristiveljeni silmissä mustata pyytää…</p>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Ah!</l>
+               </lg>
+               <p rend="justify">TARTUFFE. Ilkimieltä kun vain sitä aattelenkin, on niinkuin kärsisin piinaa kidutuspenkin… Minä kauhistun… niin sydäntä kouristaa… se on surmaksi mulle, en sanaa suustani saa.</p>
+               <lg>
+                  <l>ORGON (juoksee itkussasuin ovelle, josta hän on karkottanut poikansa).</l>
+                  <l>Sinä roisto! Kadunpa, että sä vältit kurin.</l>
+                  <l>    (Tartuffelle.)</l>
+                  <l>Veli kallis, tyyntykää, paha mieli pois!</l>
+               </lg>
+               <p rend="justify">TARTUFFE. Tämä hirveä riita jospa jo laata vois! kai parasta on, veli kallis, että mä lähden.</p>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Mitä puhuttekaan?</l>
+               </lg>
+               <p rend="justify">TARTUFFE. Niin, muut mua vihaa täällä ja epäilemään mua teidät he saada kokee.</p>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Oh, tyhjää! Mun näittekö kuulevan, mitä he hokee?</l>
+               </lg>
+               <p rend="justify">TARTUFFE. Se heill' on varmaan vastakin kielen päällä; ja juorut nuo joskohta nyt mielenne torjuu, ne toisella kertaa uskotte kukaties.</p>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>En koskaan.</l>
+               </lg>
+               <p rend="justify">TARTUFFE. Veljeni, ah, mikä estäis! Mies oman vaimonsa uskotellessa väleen horjuu.</p>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Ei, ei!</l>
+               </lg>
+               <p rend="justify">TARTUFFE. Minun täytyy. Kun talo on minusta vapaa, he eivät vainota voi mua tällä tapaa.</p>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Ei, ei, te jäätte — elosta luovun ennen!</l>
+               </lg>
+               <p rend="justify">TARTUFFE. Siis täytyy, nöyryytyksien tietä mennen, mun suostua, jollette…</p>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>                         Oh!</l>
+               </lg>
+               <p rend="justify">TARTUFFE. No, ei enää siitä! Koen katsoa, ettette palkaksi pahaa niitä. Hyvä maine on arka; ja ystävänänne velkaa olen välttämään joka varjoa, juorun kieltä: minä kartan puolisoanne ja väistyn tieltä…</p>
+               <p rend="justify">ORGON. Ei, nyt sitä ahkerammin te seurustelkaa. Tämä maailma raivostuttaa on riemuni parhain; se nähköön teidät yhdessä myöhään ja varhain. Ja jotta sit' oikein iskisin vasten suuta, teen perillisekseni teidät, en ketään muuta; minä kaiken omaisuuteni teille siirrän ja laillisen lahjakirjan koht'ikään piirrän. Hyvä, kelpo ystävä, tuleva vävyni mulle on rakkaampi isää, äitiä, vaimoa, lasta. Ei hyljätyksi kai tämä tarjous tulle?</p>
+               <lg>
+                  <l>TARTUFFE.</l>
+                  <l>Isän tahto ain' olkoon kaikessa nyt ja vasta!</l>
+               </lg>
+               <p rend="justify">ORGON. Mies parka! Nyt pian valmiiks se kirja vaan; ja kateus jääköön harmiinsa halkeamaan!</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>NELJÄS NÄYTÖS.</head>
+               <p rend="justify">Ensimmäinen kohtaus.</p>
+               <p rend="justify">Cléante, Tartuffe.</p>
+               <p rend="justify">CLÉANTE. Niin, ei ole ihmistä, joka ei siitä puhu, ja kunniaksi ei ole teille se huhu; ja osuu hyvin, kun tässä nyt teidät tapaan ja menettelystänne saan sanan virkkaa vapaan. Tuo asia sikseen, olkoonpa näin tai noin. Se saattaa pahempi olla kuin luulla voin. Mut vaikka Damis ois tuottanut ikävyyttä, ja teitä syytettäis ihan ilman syyttä, niin eikö kristityn työ ole anteeks antaa, ei sydämessään vihaa ja kostoa kantaa? Ja voitteko sallia, ett' isän luota ois noin karkoitettu siis oma poika pois? Sanon vielä kerran ja saatte sen suoraan kuulla: sitä inhoksuu isot, pienetkin yhdellä suulla. Ja jos mua uskotte, sen hyväks saatatte jälleen, tätä riitaa ette ärsytä äärimmälleen, vaan Jumalalle vihanne uhraatte varmaan ja pojalle avaatte taas isän mielen armaan.</p>
+               <p rend="justify">TARTUFFE. Ah niin! Sen kaikesta sydämestäni soisin. Minä mitään hälle en viaksi tahdo panna, kaikk' annan anteeksi, mistään en kaunaa kanna, hänen palvelijansa parhaani mukaan oisin. Mut taivas ei sitä salli, se toisin säätää; ja jos hän palata saa, hän pois minut häätää. Tuo verraton solvaus katkaissut kaikk' on suhteet; nyt sovinto nostais vain pahat huudot ja nuhteet. Ties Herra, mit' ihmiset luulla jo alkaiskaan; pian kuuluis, ett' edun vuoksi ma suostuin vaan, muka vastapuoltani, tietäin tehneeni väärin, koen teeskennellen nyt helliä ylen määrin, muka että mä pelkään häntä ja liehakoin ja umpeen syyttäjän suun koen lahjoa noin.</p>
+               <p rend="justify">CLÉANTE. Te mielitte syöttää pelkkiä tekosyitä, kovin estelynne nuo ovat etsityitä. Teit' ottanut taivas ei lie edunvalvojakseen; se muit' ei tarvitse syyllistä rangaistakseen. Te heittäkää siis kostonne Herran huomaan, joka vääryydet on käskenyt anteeks suomaan, vähät välittäkää, milt' ihmisistä se näyttää, kun taivaan korkeita käskyjä koette täyttää. Vai huoliko siitä, mit' ihmiset luulla voivat, siis estymään teot oikeat sais ja oivat? Ei, taivaan tahto ain' olkoon ohjeena meille; muut huolet älkööt vietelkö harhateille.</p>
+               <p rend="justify">TARTUFFE. Niin, sanoinhan jo, ett' anteeksi hälle suon, kuten käskee taivas; mutta ei vaadi se multa, vast'ikään niin häväistyltä ja herjatulta, ett' eläisin kera kaunankantajan tuon.</p>
+               <p rend="justify">CLÉANTE. Ja vaatiiko taivas mieltä niin taipuvaista noin kuulemaan isän oikkua kohta vaan, noin omaisuuden lahjaksi ottamaan, johon teillä ei oikeutt' ole minkäänlaista?</p>
+               <p rend="justify">TARTUFFE. Joka tuntee minut, se tietää ja voi sen taata, ett' ei oma etuni syynä täss' olla saata. Mua kiehdo ei maailman tavara eikä kulta, sen pettävä loisto ei sokaise silmiä multa. Ja jos minä suostun, jos otan lahjan vastaan, jonk' ystävä suo, siks suostun ma ainoastaan, toden tunnustaakseni, että on pelko mulla sen voivan huostaan huonojen kätten tulla, jotk' ehkä päästyänsä sen hallitukseen panis maailmassa sen pahaan ja turmelukseen, sill' eivät, kuin minä aion, taivasta palvois ja oman lähimmäisensä parasta valvois.</p>
+               <p rend="justify">CLÉANTE. Tuo tunnontarkka pelko te pankaa pois, jota oikean perijän syy hyvä syyttää ois. Se toiselle jättäkää, mik' on toisen vastuu; omall' uhallaan hän omansa hoitoon astuu. Paremp', että sit' itse hän vaikkapa väärin käyttää, kuin jos vois teitä sen rosvoks sormella näyttää. Sitä kummeksun vain, kuink' olette oikeastaan sen tarjouksen kehdannut ottaa vastaan. Tosi hurskaus ei kai sellaista käskyä tiedä, ett' osansa perilliseltä pitää viedä? Ja jos sen on käsky, ett' yhdess' ei elää sovi, jos Damiin ja teidän välill' on oleva ovi, niin eiköhän kunnon miehelle oikeint' ois oman arvonne vuoksi siirtyä syrjään ennen, ei sallia, ett' isä mielettömyyksiin mennen oman poikansa teidän tähtenne ajaa pois. Niin tekisi mies, jok' ei suoraa vääräksi vello, se uskokaa…</p>
+               <p rend="justify">TARTUFFE. On puoli neljä jo kello; mull' on eräs hurskas toimitus, jonka tähden, jos suvaitsette, nyt huoneeseeni ma lähden.</p>
+               <lg>
+                  <l>CLÉANTE (yksin).</l>
+                  <l>Ah!</l>
+               </lg>
+               <p rend="justify">Toinen kohtaus.</p>
+               <p rend="justify">Elmire, Mariane, Cléante, Dorine.</p>
+               <p rend="justify">DORINE (Cléantelle). Pitäkää tekin kanssamme neidin puolta. Hän on menehtymässä, ei mikään huojenna huolta; tänä iltana kihlaus — niin isä päättää keksi, vähäll' ettei saa se hänt' epätoivoiseksi. Tuoll' on isä itse. Nyt yhdessä ponnistakaamme, ett' estymään tuon turmio-aikeen saamme väkivetoon taikka keinolla kekseliäällä.</p>
+               <p rend="justify">Kolmas kohtaus.</p>
+               <p rend="justify">Orgon, Elmire, Mariane, Cléante, Dorine.</p>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Oh! Hauska nähdä teidät yhdessä täällä.</l>
+                  <l>    (Marianelle.)</l>
+                  <l>Kas tästä, täst' ilo ihana sulle käkee.</l>
+                  <l>Sinä arvaat kai, mitä tietää sopimus tää.</l>
+               </lg>
+               <p rend="justify">MARIANE (polvillaan Orgonin edessä). Isä kulta, nimessä taivaan, mi tuskani näkee, ja kautta kaiken, mi mieltänne hellyttää, vähän lievittäkää isänvaltanne vaatimusta, minut päästäkää tämän tahtonne tottelusta. Moist' älkää lapsenne tunnolle panko pulmaa, ett' taivaalle nurkuisin minä mieltänne julmaa; mua säälikää, ett' elo, jonk' annoitte mulle ei murtavaksi murheen taakaksi tulle. Jos turha on tuo sulo toive, jos ette sallis mun tulla sen omaksi, joka on mulle kallis, niin polvistuin minä pyydän ja vannotan teitä, mua ettette sille, jot' inhoan, uhriksi heitä epätoivoon hukkumaan, johon joutua voin, isänvaltaa ankarinta jos käytätte noin.</p>
+               <lg>
+                  <l>ORGON (tuntien heltyvänsä).</l>
+                  <l>Sydän lujaksi! Pois isän heikkous, suotta surku!</l>
+               </lg>
+               <p rend="justify">MARIANE. Rakas teille hän olkoon, mun siitä ei nouse nurku; omaks saakoon rakkautenne ja rikkautenne, mun osani pankaa myöskin, jos muu ei riitä, minä annan sen ilomielin ja luovun siitä, oma itseni kunhan vain sen ei myötä menne. Mun luostarin hiljaisuudessa viettää suokaa, mi viel' elon murhepäiviä mulla lie.</p>
+               <p rend="justify">ORGON. Vai luostariin? Heti sinnekö mieles huokaa, kun ei isä mielitiettysi viereen vie! Ylös siitä! Mit' enemmän mielesi sotii vastaan, sitä suurempi ansio sulle se ainoastaan. Halut aistien kuoleta avioliitolla tällä, mua suott' älä enää kiusaa sit' itkemällä.</p>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>Mut miksi…</l>
+               </lg>
+               <p rend="justify">ORGON. Vait! Kera laistenne pieskää suuta, vaan nyt kita kiinni ja mukisematta muuta.</p>
+               <lg>
+                  <l>CLÉANTE.</l>
+                  <l>Jos sallitte neuvoa jollain lailla…</l>
+               </lg>
+               <p rend="justify">ORGON. Nuo neuvonne, lanko, ain' ovat vertaa vailla, niin järkeviksi, niin oiviks en mitään kiitä, vaan suvainnette, että en seuraa niitä.</p>
+               <lg>
+                  <l>ELMIRE.</l>
+                  <l>Tämän kaiken nähden mit' enää ma virkkaa voinen?</l>
+                  <l>Tuo sokeutenne on todella suurenmoinen.</l>
+                  <l>Kyll' on hän paulonut teidät, kun teit' ei mikään</l>
+                  <l>saa uskomaan, mikä kohtaus tääll' oli ikään.</l>
+               </lg>
+               <p rend="justify">ORGON. Olen palvelijanne! Uskon, mit' uskoa sietää. Pojan lurjusta puollatte tuota, sen kaikki tietää, siks ette paljastaa sitä juonta raski, joll' ansaan hän tuon mies-paran saavansa laski. Kovin olitte tyyni, jott' uskoa teitä voisin; se teit' ois kuohuttanut toki aivan toisin.</p>
+               <p rend="justify">ELMIRE. Heti hiuksiaanko raivoten pitäis raastaa, jos lemmestään joku joutava narri haastaa? Ja kunniatamme eikö suojele muu kuin pyörivät silmät ja kiljuvan kiivas suu? Minä nauran vain, minä, moista liehijä-parkaa, mua sellaisist' ei huvita huuto ja häly. On mieleeni säveä käytöstaito ja -äly, ei siveys-fuuriat, kunniataan jotk' arkaa heti puolustaa muka kynsin ja hampain kokee, vie silmät päästä, jos ken sanan liikaa hokee. Mua varjele, taivas, siveydestä siitä! En moista raivotar-säädyllisyyttä kiitä, ja torjuva kylmyys tunkeilijalle, ma luulen, voi antaa yhtä varmasti lähtötuulen.</p>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Minä asian tiedän, en niin hevin ansaan menne.</l>
+               </lg>
+               <lg>
+                  <l>ELMIRE.</l>
+                  <l>Sanon vielä kerran: on verraton sokeutenne.</l>
+                  <l>Mut vieläköhän epäuskoonne silti jäätte,</l>
+                  <l>jos laitan, ett' omin silmin sen todeksi näätte?</l>
+               </lg>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Näen!</l>
+               </lg>
+               <lg>
+                  <l>ELMIRE.</l>
+                  <l>      Niin.</l>
+               </lg>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>            Oh, loruja!</l>
+               </lg>
+               <p rend="justify">ELMIRE. Jospa on keino mulla se teille näyttää täydellä valaisulla…</p>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Hölynpölyä!</l>
+               </lg>
+               <p rend="justify">ELMIRE. Auttamaton! Hyvä! Saatte vaikka mitä tahansa luulonanne te meistä luulla. Mut entäpä jos mull' ois joku tietty paikka, jost' itse voitte kaikki te nähdä ja kuulla, mitä silloin hurskaastanne te virkkanette?</p>
+               <p rend="justify">ORGON. Niin, silloin, silloin… En mitään, sillä sit' ette saa tapahtumaan.</p>
+               <p rend="justify">ELMIRE. On aika jo houreen laata, koht' ette sanaani valheeksi väittää saata. On tarpeen, jos suvaitsette, nyt laittaa, jotta sen näette itse, onko puhuttu totta.</p>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Hyvä! Siihen sanaan! Saatte keinonne käyttää.</l>
+                  <l>Soma nähdä, kuinkahan sananne voitte täyttää.</l>
+               </lg>
+               <lg>
+                  <l>ELMIRE (Dorinelle).</l>
+                  <l>Hänet tänne kutsukaa.</l>
+               </lg>
+               <p rend="justify">DORINE (Elmirelle). Hän on ovela mies, hän aikomuksenne arvata voi kenties.</p>
+               <lg>
+                  <l>ELMIRE (Dorinelle).</l>
+                  <l>Ei, ihailijan saa peijatuks ilman vaivaa,</l>
+                  <l>ja itserakkaus kyll' oman kuoppansa kaivaa.</l>
+                  <l>Hänet noutakaa.</l>
+                  <l>    (Cléantelle ja Marianelle.)</l>
+                  <l>Ja te hetkeksi syrjään käykää.</l>
+               </lg>
+               <p rend="justify">Neljäs kohtaus.</p>
+               <p rend="justify">Elmire, Orgon.</p>
+               <lg>
+                  <l>ELMIRE.</l>
+                  <l>Tähän pöytä tää, ja sen alle te kyyristäykää.</l>
+               </lg>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Mitä?</l>
+               </lg>
+               <lg>
+                  <l>ELMIRE.</l>
+                  <l>      Tottahan teidät kätkeä täytyy kait.</l>
+               </lg>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Tuon pöydänkö alle?</l>
+               </lg>
+               <lg>
+                  <l>ELMIRE.</l>
+                  <l>                    Oh, käykää ja olkaa vait.</l>
+                  <l>On päässäni tuuma; näättepä, laskenko väärin.</l>
+                  <l>Pian sinne nyt vaan, ja varanne pitäkää,</l>
+                  <l>teit' että hän lainkaan siellä ei kuule, ei nää.</l>
+               </lg>
+               <p rend="justify">ORGON. Olen myöntyväinen, ma sen sanon, ylen määrin, mut parhaanne jälkeen nyt myös kuje selvitelkää.</p>
+               <p rend="justify">ELMIRE. Sen en minä moitteen aihetta antavan pelkää. (Orgonille, joka on pöydän alla.) Niin, nyt tulen puhelemaan minä oudolla tapaa, mut älköön silti se pahastuttako teitä. Mull' olkoon, jos mitä virkkanen, valta vapaa; minä silmänne avaan, en sanaani sikseen heitä. Sen vuoksi nyt mielistelyitä mun täytyy käyttää, jott' ulkokullattu tuo tosihahmonsa näyttää, hänen himoansa rietasta imarrella, tuon julkean sallia vapaasti tungetella. Hänet teille kun paljastaakseni vain nyt taipuu muka mieleni kuulemaan hänen lempeään, niin voin heti laata, kun harhanne teiltä haipuu, eik' eemmäs hän pääse, kuin laskette pääsemään. Hänen hurjan kiihkonsa saatte te itse suistaa, kun asia teistä liian pitkälle luistaa, ja säästää vaimonne piinasta pitemmästä, heti kohta kun itsensä ilmaissut vain on konna. Oma valtanne valvoa, että nyt opitte tästä a… vaiti! Hän tulee. Nyt hiljaa ja hiiskumatonna!</p>
+               <p rend="justify">Viides kohtaus.</p>
+               <p rend="justify">Tartuffe, Elmire, Orgon (pöydän alla).</p>
+               <lg>
+                  <l>TARTUFFE.</l>
+                  <l>Sain puheisille luoksenne kutsun tulla.</l>
+               </lg>
+               <p rend="justify">ELMIRE. Niin, salaisuuksia, tietkääs, on teille mulla. Mut sulkekaa ovi ensin ja katsokaa, meit' ettei kukaan kuulla ja häiritä saa. (Tartuffe käy sulkemassa oven ja tulee takaisin.) Kas, sellaisen kohtauksen, kuin tääll' oli ikään, me emme liioin toistuvan toivo kai. Ei pahemmin ois saattanut sattua mikään. Damis minut teistä niin kovin hätään sai; ja näitte, kuink' aikeestaan hänt' estellä tahdoin, hänen mielensä kuohua hillitä, minkä mahdoin. Niin hämmennyin tosin, etten keksinyt heti vain jyrkästi kieltää, mitä hän syyksenne veti; mut näin kävi paljoa paremmin, kiitos taivaan, sitä turvallisemmaksi kaikki se meille sai vaan. Heti vakaa arvonne torjui sen myrskyn pois, eik' uskoa pahaa mieheni teistä vois. Hän tahtoo oikein harmiksi juorun hampaan nyt meidät seurusteluun sitä tuttavampaan, ja siksi mun sopii nuhteetta jäädä tänne ja näin ihan kahden kesken kanssanne olla ja avata sydän, mi kuunnellut lempeänne on kenties liian herkällä suosiolla.</p>
+               <p rend="justify">TARTUFFE. Mun vaikea ymmärtää on puhetta moista; hyvä rouva, te äsken haastoitte aivan toista.</p>
+               <p rend="justify">ELMIRE. Kuink' onkaan teille naissydän outo ihan, jos ensi estely teissä on nostanut vihan! Ja ettekö oivalla siis, mikä oikeastaan on mieli, kun se niin heikosti sotii vastaan? Kas, ainahan torjuu kainoutemme arka, kun hellän tunteen pauloiss' on sydän parka. Jos syttyykin se, jos kuinka syvästi lempii, sitä ilmaista silti se ujostelee ja empii. Niin, ensiks estelemme, mut ilme näyttää, ett' ennen pitkää vastustelumme vaipuu; suu kunnian vuoksi kieltää, mut käskee kaipuu, ja kieltely moinen on lupaus kaikki täyttää. Tämä tunnustus, se on totta, on varsin vapaa, ja paremmin kainouttamme mun täytyis kaita, vaan kun nyt kerran on lausuttu, kuink' on laita, Damis'ta oisinko hillinnyt sillä tapaa, niin oisinko kuunnellut minä malttavasti koko lemmenliehitystänne loppuun asti ja ottanut asian, kuin minun ottavan näitte, jos vaarattomaksi te sydämelleni jäitte? Ja teitä kun itse vaadin ma luopumaan tuost' avioliitosta, jota nyt aiotaan, mitä ilmaisee se into, jos ei sitä juuri, ett' olentoonne on kiintymys liian suuri, ja että sen jakoon suostua tuska ois, ihan yksinään jonk' omistavansa sois?</p>
+               <p rend="justify">TARTUFFE. Ah, ihanintakin ihanampi on varmaan sanat moiset kuulla huulilta naisen armaan; läpi sieluni pitkin säikein metenä mennen ne hurmaa tuo iki-tuntematonta ennen. Ylin määränpää mull' olla on mieliksenne ja onni ja autuus tottelu toivehienne; mut sallinette, jos uskallan onnea tuota vähän epäellä, jos siihen en oikein luota. Se ehkä on ansa vain sitä varten, jotta tuost' avioliitto-aikeesta ei tulis totta; ja jos sen teille vapaasti virkkaa saan, niin sananne armaat uskon ma silloin vaan, kun suosionne tuo, jota sieluni janoo, suo täydemmän takeen, että ne totta sanoo, ja vahvistuu minuss' usko varma ja vakaa, ett' ystävyytenne saan, en tuult' aja takaa.</p>
+               <p rend="justify">ELMIRE (yskittyään merkiksi miehelleen). Te noinko tyhjentäisitte nopeasti siis sydämen hellyyden heti pohjaan asti? Jos suurin surmin sen tunnustaneeksi sai, se eikö riitä jo teille? Oh, kyllä kai! Te ennen lainkaan tyytyvän ette näytä, jos toivoanne ei viimeisintäkin täytä.</p>
+               <p rend="justify">TARTUFFE. Mitä vähemmän ansaittu onni, sit' enemmän sietää sitä epäillä, sanoiksi vain sanat koreat tietää. Ylen suurt' on onnea vaikea todeksi luulla, vain kokemalla sen uskoo, ei millään muulla. Ja mun, jok' en ansaitse suosiotanne lainkaan, ei toivoa tohdi sit' uneni uskaliainkaan, enk' usko mitään, ennenkuin tositöin minut vakuutatte siitä, mit' ikävöin.</p>
+               <p rend="justify">ELMIRE. Kuink' onkaan lempenne hirmuvaltias julma! Ja kuink' on vaikea mulle sen tuoma pulma! Miten ankara sydämelle sen sortovalta, miten hillittömästi se vaatii, ei vartoa malta! Siis onko aivan mahdoton torjua teitä, ja ettekö siis edes henkäisyaikaa heitä? Noin armotta vaatia — onko nyt laitaa moinen — heti että vaan joka toiveenne pitäis täyttää; sitä, ett' on teitä kohtaan niin heikko toinen, noin tuiki tunnottomasti väärin käyttää!</p>
+               <p rend="justify">TARTUFFE. Mut ihailuuni jos katsotte suosiolla, miks sitten selvään osoittamatta sit' olla?</p>
+               <p rend="justify">ELMIRE. Mut eikö se ole synti, siit' eikö paina mua taivaan tuomio, josta te puhutte aina?</p>
+               <p rend="justify">TARTUFFE. Jos ei ole tiellä muuta kuin tuomiot taivaan, pois moiset vastukset minä väleen raivaan; suott' älkää sydäntänne te estelkö niillä.</p>
+               <lg>
+                  <l>ELMIRE.</l>
+                  <l>Mut taivaan rangaistusta siis voiko piillä?</l>
+               </lg>
+               <p rend="justify">TARTUFFE. Nuo joutavat arvelut huoleti voitte häätää, mun suokaa teille neuvoa millä tavoin. Tosin kyllä eräitä kieltoja taivas säätää, mut sovitteluun sen kanssa on portti avoin. On oikein, ett' eri tarpeissa perehdymme me avartamaan omantuntomme ahtautta ja sovittamaan, jos rikomme, erehdymme, teon sillä, ett' aivoitus täynnä on puhtautta. Pian salaisuuksista näistä on syvempi selko teill' oleva, suokaa mun ohjata ainoastaan. Mun toivoni tyydyttäkää, pois tyhjä pelko; otan itse päälleni syyn ja kaikesta vastaan. (Elmire yskii kovemmin.) Te yskitte kovin.</p>
+               <lg>
+                  <l>ELMIRE.</l>
+                  <l>                  Niin, ihan hengen salpaa!</l>
+               </lg>
+               <lg>
+                  <l>TARTUFFE.</l>
+                  <l>Vähän lakritsia, jos sallitte apua halpaa!</l>
+               </lg>
+               <p rend="justify">ELMIRE. Se on sitkeä yskä, jo ollut jos kuinka pitkään, siin' eivät auta lakritsit eikä mitkään.</p>
+               <lg>
+                  <l>TARTUFFE.</l>
+                  <l>Sepä ikävä seikka.</l>
+               </lg>
+               <lg>
+                  <l>ELMIRE.</l>
+                  <l>                   On, ettei sanoa saata.</l>
+               </lg>
+               <p rend="justify">TARTUFFE. Niin, turhan arkailunne te suokaa laata. Syvin vait'olo salaisuutemme vartioi; ja pahaa on vain pahan huuto, mi nousta voi, syy vain se, jos antaa juorulle hammaspalaa; ja syntiä ei ole synti, mi tehdään salaa.</p>
+               <p rend="justify">ELMIRE (vielä kerran yskien ja koputtaen pöytään). No niin, ei auta vastustella, sen huomaan; mun täytyy kaikki suostua teille suomaan; en tyydytetyksi saa minä millään muulla, mua vähemmäll' ei uskota eikä kuulla. Tosin ei ole hauskaa joutua sinne saakka, ja askel tää on vasten mieltäni aivan; mut panemalla kun pannaan se pakko ja taakka, kun vakuuttaissani vain näen turhan vaivan, kun sitovammin on tarvis se toteen näyttää, niin täytyy suostua kai ja toivot täyttää. Jos siinä väärin teen minä jollain tapaa, sitä pahempi sille, ken pakotti suostumaan; minä ainakin olen kaikesta syystä vapaa.</p>
+               <lg>
+                  <l>TARTUFFE.</l>
+                  <l>Niin, niin, minä vastaan siitä, ja pohjaltaan…</l>
+               </lg>
+               <p rend="justify">ELMIRE. Oven taa vähän käykää tuonne ja katsokaahan, ettei ole siellä mieheni vain kenties.</p>
+               <p rend="justify">TARTUFFE. Mitä hänestä huolitte, joka — sen sanoa saahan — on nenästä vedettäväksi oikea mies! Hän ystävyyttämme suosii, on ylpeä siitä, hän sais omin silmin nähdä, eik' uskois niitä.</p>
+               <p rend="justify">ELMIRE. Voi olla, mut menkää silti nyt hetkiseksi ja silmäilkää, siell' ettekö ketään keksi.</p>
+               <p rend="justify">Kuudes kohtaus.</p>
+               <p rend="justify">Orgon, Elmire.</p>
+               <lg>
+                  <l>ORGON (tullen pöydän alta).</l>
+                  <l>On kauhea konna se, ei sitä kieltää maksa.</l>
+                  <l>Minä menehdyn, minä en tätä kestää jaksa.</l>
+               </lg>
+               <lg>
+                  <l>ELMIRE.</l>
+                  <l>Mitä? Niin pian poisko? Nyt älkää tärvelkö tätä.</l>
+                  <l>Alas sukkelaan! Täm' on kesken. Mi teill' on hätä?</l>
+                  <l>Hänen suokaa selvin näyttein se todeksi tuottaa;</l>
+                  <l>ei pelkkään arveluun pidä koskaan luottaa.</l>
+               </lg>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Ei nähty häijympää ole hornanluomaa.</l>
+               </lg>
+               <lg>
+                  <l>ELMIRE.</l>
+                  <l>Koht' älkää luuloa todeksi kuvitelko.</l>
+                  <l>Paras, ennenkuin uskotte, hankkia varma selko,</l>
+                  <l>ettette ehkä viel' erehtyneenne huomaa.</l>
+               </lg>
+               <p rend="justify">(Elmire asettaa Orgonin istumaan taaksensa.)</p>
+               <p rend="justify">Seitsemäs kohtaus.</p>
+               <p rend="justify">Tartuffe, Elmire, Orgon.</p>
+               <lg>
+                  <l>TARTUFFE (Orgonia huomaamatta).</l>
+                  <l>Mua onni suosii yhtyen samaan juoneen.</l>
+                  <l>Siell' ei ole sieluakaan, jok' ainoan huoneen</l>
+                  <l>ma katsastin; ja nyt kaihoni ihanimman…</l>
+               </lg>
+               <lg>
+                  <l>    (Tartuffen tullessa avosylin Elmireä kohti häntä syleilläkseen</l>
+                  <l>    tämä väistyy syrjään ja Tartuffe huomaa Orgonin.)</l>
+               </lg>
+               <p rend="justify">ORGON. Seis, mies! Kovin päästätte leimuun lempenne vimman. Syy hiukan hillitä ois sitä kuumaa tulta. Vai sellaisiinko hommiin se hurskas horjuu! Vai näinkö kiusauksia sielunne torjuu! Kas vaan, tytär naida ja vaimo vietellä multa! En ensin uskonut, vaikk' omin korvin kuulin, vaan lopultakin minä muuttuvan nuotin luulin; mut todistukset nää kukaties jo riittää; minä tyydyn, enemmistä mä pyydän kiittää. (Tartuffelle). Tätä en ole tehnyt mielellä haluisalla, minut siihen on pakotettu pakottamalla.</p>
+               <lg>
+                  <l>TARTUFFE (Orgonille).</l>
+                  <l>Ja te uskotte, että…</l>
+               </lg>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>                       Lorunne säästää voitte.</l>
+                  <l>Pois täältä nyt heti paikalla patikoitte!</l>
+               </lg>
+               <lg>
+                  <l>TARTUFFE.</l>
+                  <l>Minä aioin…</l>
+               </lg>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>               Ei ole aika nyt suuta piestä.</l>
+                  <l>Ulos ovesta! Menkää tästä jalkainne tiestä!</l>
+               </lg>
+               <p rend="justify">TARTUFFE. Te saatte mennä, te, mokoma käskijä muka! pian nähtäneen, kuka tääll' on isäntä, kuka, ja käykö päinsä noin halpamaisella tapaa, noin kurjin juonin kanssani riitaa nostaa, mua loukata onko ja herjata valta vapaa, vai voinko rangaista panettelun ja kostaa, kun taivasta häväistään, ett' ehkäpä häätyy nuo häätäjät itse, kun tilin päivä päätyy.</p>
+               <p rend="justify">Kahdeksas kohtaus.</p>
+               <p rend="justify">Elmire, Orgon.</p>
+               <lg>
+                  <l>ELMIRE.</l>
+                  <l>Mitä puhetta tuo? Mitä kummia kuulla sainkaan?</l>
+               </lg>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Se saa minut hämille eikä naurata lainkaan.</l>
+               </lg>
+               <lg>
+                  <l>ELMIRE.</l>
+                  <l>Miten niin?</l>
+               </lg>
+               <p rend="justify">ORGON. Tuo puhe mun tyhmästi tehneen näyttää; se onneton lahjoitus minut huolella täyttää.</p>
+               <lg>
+                  <l>ELMIRE.</l>
+                  <l>Mitä? Lahjoitus?</l>
+               </lg>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>                 Niin, niin. Se ei muuksi muutu.</l>
+                  <l>Kunp' ei vaan huolta muutakin mulla ois!</l>
+               </lg>
+               <lg>
+                  <l>ELMIRE.</l>
+                  <l>Mitä sitten?</l>
+               </lg>
+               <p rend="justify">ORGON. Kyll' ehdit kuulla. Mut onkohan pois lipas muuan liikkunut? Muuta ei enää puutu!</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>VIIDES NÄYTÖS.</head>
+               <p rend="justify">Ensimmäinen kohtaus.</p>
+               <p rend="justify">Orgon, Cléante.</p>
+               <lg>
+                  <l>CLÉANTE.</l>
+                  <l>Mihin kiire?</l>
+               </lg>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>             Ah, tiedänkö enää?</l>
+               </lg>
+               <p rend="justify">CLÉANTE. Minusta nähden on ensinnä tarpeen, ett' yhdessä aprikoimme, mitä asian auttamiseksi nyt tehdä voimme.</p>
+               <p rend="justify">ORGON. Mun pahin on olla juuri sen lippaan tähden; muu kaikk' ei niin mua huoleta kuin sen hukka.</p>
+               <lg>
+                  <l>CLÉANTE.</l>
+                  <l>Sen sisällys kovin tärkeä olla mahtoi.</l>
+               </lg>
+               <p rend="justify">ORGON. Niin, talletus, jonk' Argas, ystävä rukka, mun taakseni salaisuutena uskoa tahtoi, paon hetkellä piilottaa luo ystävän paraan. Ne papereit' on, sanoi hän, joiden varaan hänen omaisuutensa, henkens' on uskallettu.</p>
+               <lg>
+                  <l>CLÉANTE.</l>
+                  <l>Ja kuink' on vieraan käsiin ne luovutettu?</l>
+               </lg>
+               <p rend="justify">ORGON. Niist' alkoi ahdistaa mua tunnonvaivat ja turvaamaan tuon veijarin neuvoon saivat; ja hän pani päähäni, että mun varmint' ois lipas tallettaa hänen taakseen, luotani pois, muka että sillä varjolla kieltää voisin, jos milloin tultaisiin mua tutkimaan, ja tunnolla turvallisella vannoa toisin, kuin asia oikealt' oli laidaltaan.</p>
+               <p rend="justify">CLÉANTE. Paha juttu teille, päältä jo nähdä voi sen: varat, salaisuudet vallassa miehen moisen! Vähän siinä — se on minun ajatukseni avoin — te harkitsitte, kun teittekin tuolla tavoin. Hän voi nyt tehdä teille temppua monta. Ja noin kun kaikk' edut ensin hän teiltä voittaa, hänt' ärsyttää on varsin varomatonta; paras sovinnon tietä vain nyt selvitä koittaa.</p>
+               <p rend="justify">ORGON. Niin hurskas, niin pyhän pyhää intoa näytti, ja niin sydän häijy, niin viekkaus mielen täytti! Ja minä sen viheliäisen kun mieron tieltä… ei, mult' ei enää ne hurskaat hullitse mieltä; varon vast'edes heitä kuin ruttoa tarttuvaista ja olen heille pahempi paholaista.</p>
+               <p rend="justify">CLÉANTE. Kas, siin' on taas tuo ainainen liioittelunne! Te ette missään mieltänne malttaa tunne, on kohtuus teille outoa, ilman rajaa ain' aatos hillittömyydestä toiseen ajaa. Nyt huomaatte, vihdoin erhetyksenne nähden, miten teitä tuo tekohurskas nenästä veti. Mut jos sen mielitte korjata, minkä tähden uus erhetys ja suurempi tehdä heti, samaks sydämeltään katsoa katala konna ja se, joka elää hurskaana, nuhteetonna? Jos julkea veijari hurskaaksi naamaa vääntäin saa teidät uskomaan sitä, silmänne kääntäin, hänen kanssaan kaikkiko muut ovat yhtä maata, tosihurskast' enää ei muka olla saata? Ei, saakoot uskonkieltäjät väittää moista, hyve toist' on ja hyveen varjo, se tietkää, toista. Ylen varhain kiittämästä te pidättäykää ja keskitietä hairahtumatta käykää. Teilt' älköön saako arvoa teeskely kurja, mut älkää myös tosihurskaille olko nurja; jos sittenkin eksytte liioitteluihin mennen, niin liian hyvää huonoista luulkaa ennen.</p>
+               <p rend="justify">Toinen kohtaus.</p>
+               <p rend="justify">Orgon, Cléante, Damis.</p>
+               <p rend="justify">DAMIS. Isä, onko se totta, uhkaako teitä se konna, hyvät työt kaikk' unhottaako hän tunnotonna; oman hyvyytennekö aseeksi teitä vastaan se julkea kääntää, haastaen jumalastaan?</p>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Niin, poikani, niin; se mieltäni polttaa ja kaivaa.</l>
+               </lg>
+               <p rend="justify">DAMIS. Minä menen ja korvat koiralta siltä leikkaan, hänen röyhkeyttänsä vastaan ma ryhdyn veikkaan; hän teit' ei kauan, sen sanon, enää vaivaa; minä nujerran hänet, missä hän tielleni osuu.</p>
+               <lg>
+                  <l>CLÉANTE.</l>
+                  <l>Noin juuri nuoret poikaset puhuu ja hosuu.</l>
+                  <l>Mut hillitkäähän mielenne intoa vähän.</l>
+                  <l>Ei kelpaa tässä maassa ja aikaan tähän</l>
+                  <l>väkivalta keinoksi, ellei selvitä muulla.</l>
+               </lg>
+               <p rend="justify">Kolmas kohtaus.</p>
+               <p rend="justify">Rouva Pernelle, Orgon, Elmire, Cléante, Mariane, Damis, Dorine.</p>
+               <lg>
+                  <l>ROUVA PERNELLE.</l>
+                  <l>Mitä hirmujuttuja saan minä täällä kuulla?</l>
+               </lg>
+               <p rend="justify">ORGON. Ne on juttuja, jotk' omin silmin ma itse näin. On ystävyyteni palkittu kukkurapäin. Minä mierontielt' otan ihmisen oloon oivaan, kuin omaa veljeä luonani vaalin ja hoivaan, teen päivät päästään pelkkää ystäväntyötä, suon tyttären hälle ja omaisuuteni myötä, ja kostoks sen tuo veijari, tuo velikulta sill' aikaa mielii vietellä vaimon multa! Ja viel' ei riitä se julkeus; mulle paulan hän hyvyydestäni punoo ympäri kaulan ja häviökseni käyttää jok' asianhaaraa, joll' asestin hänet aavistamatta vaaraa, minut paljaaksi riistää, ja palkaksi hyvästä työstä alas sinne, mist' autoin pois hänet, uhkaa syöstä.</p>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>Mies parka!</l>
+               </lg>
+               <p rend="justify">ROUVA PERNELLE. Niin musta, niin ilkeä aikomusko ois ollut hällä! Sitä en ikinä usko.</p>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Mitä?</l>
+               </lg>
+               <lg>
+                  <l>ROUVA PERNELLE.</l>
+                  <l>      Kateus aina on hurskasten kintereillä.</l>
+               </lg>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Mik' on oikein, äiti, nyt tarkoituksena teillä?</l>
+               </lg>
+               <p rend="justify">ROUVA PERNELLE. Ett' outo on meno täällä; sen kaikki tietää, miten saa hän luonanne vihaa ja pilkkaa sietää.</p>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Mitä tekemistä tässä on vihalla tuolla?</l>
+               </lg>
+               <lg>
+                  <l>ROUVA PERNELLE.</l>
+                  <l>En ensi kertaa nyt sitä mielees paina;</l>
+                  <l>hyve maailmassa vainoa kärsii aina.</l>
+                  <l>Niin, kateet kuolevat, kateus ei voi kuolla.</l>
+               </lg>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Mitä kuuluu nyt tähän mokomat sananlaskut?</l>
+               </lg>
+               <lg>
+                  <l>ROUVA PERNELLE.</l>
+                  <l>Hänest' uskoteltu on teille jos jotkin kaskut.</l>
+               </lg>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Mut sanoinhan jo, ett' itse ma kaikki näin.</l>
+               </lg>
+               <lg>
+                  <l>ROUVA PERNELLE.</l>
+                  <l>Ei rajaa herjuulla ihmisten ilkeäin!</l>
+               </lg>
+               <p rend="justify">ORGON. Oh, kiroonko ihan! Sanoin ja vakuutinhan, ett' itse ma eljet näin sen ilkiön inhan.</p>
+               <p rend="justify">ROUVA PERNELLE. On parjaajalla myrkkyä kielen päällä; silt' itseään ei varjele kukaan täällä.</p>
+               <p rend="justify">ORGON. En kuullut puhetta noin ole tolkutonta. Näin itse sen, näin, jos on nähty ikinä mikään, omin silmin näin. Se kertaa niin kuinka monta on hokea tarvis ja huutaa kuin kuurolle ikään?</p>
+               <p rend="justify">ROUVA PERNELLE. Hyvä Jumala, näköhän pettää voi tämän tästä; ain' ei pidä tuomita pelkästä näkemästä.</p>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Minä raivostun.</l>
+               </lg>
+               <p rend="justify">ROUVA PERNELLE. Pian ihminen eksyy harhaan; epäluulo usein pahaksi maalaa parhaan.</p>
+               <p rend="justify">ORGON. Siis kristillistäkö rakkautt' on se vaan, jos vaimoani hän pyrkii halailemaan!</p>
+               <lg>
+                  <l>ROUVA PERNELLE.</l>
+                  <l>On tarpeen näytteet, syytös ei yksin riitä.</l>
+                  <l>Ois ensin varmuus pitänyt hankkia siitä.</l>
+               </lg>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Mikä perhanan varmuus vielä puuttua vois?</l>
+                  <l>Siis pitikö vartoa, silmäini eess' ett' ois…</l>
+                  <l>Ihan törkeitä suuhuni tuotte jo kohta sillään.</l>
+               </lg>
+               <p rend="justify">ROUVA PERNELLE. Niin, liian puhdas hällä on into ja kiivaus; ja sitä en mieleeni voi minä saada millään, ett' oisi vallannut hänet moinen riivaus.</p>
+               <p rend="justify">ORGON. Jos ette äitini oisi, en enää tiedä, mitä virkkamaan tämä ärsytys voi minut viedä.</p>
+               <p rend="justify">DORINE (Orgonille). Saa täällä verran verrasta, katsokaas: muit' ette uskonut, muut nyt ei teitä taas.</p>
+               <lg>
+                  <l>CLÉANTE.</l>
+                  <l>Me joutavaan ajan kalliin annamme juosta,</l>
+                  <l>nyt miettiä saa, miten selvitä miehestä tuosta.</l>
+                  <l>Hänen vehkeillessään ei ole aika maata.</l>
+               </lg>
+               <lg>
+                  <l>DAMIS.</l>
+                  <l>Niin pitkälle sentään se konna ei mennä saata.</l>
+               </lg>
+               <p rend="justify">ELMIRE. Minä uskon, ettei hän uhkailujansa täytä, epäkiitollisuuttaan niin hän ei julki näytä.</p>
+               <p rend="justify">CLÉANTE (Orgonille). Vähän takeita siitä. Hän osaa asian vääntää ja pyyteensä pyhäksi oikeudeksi kääntää. Voi vähemmästäkin heittiö moinen kostaa ja niskoillenne ilkeän rettelön nostaa. Sanon vieläkin: kun hänen keinonsa kerran ties, ois pitänyt jättää suututtamatta se mies.</p>
+               <p rend="justify">ORGON. Niin ois; mut en voinut mieltäni hillitä millään, sen kataluuden kun näin minä röyhkeimmillään.</p>
+               <p rend="justify">CLÉANTE. Paras on nyt teille, jos ei välit riitaan lopu, vaan vielä solmiutuu jokin varjosopu.</p>
+               <p rend="justify">ELMIRE. Jos tiesin, ett' uhata saatti hän asein moisin, koko riidan aiheuttamatta ma ollut oisin, en…</p>
+               <lg>
+                  <l>ORGON (Dorinelle nähdessään Loyalin tulevan).</l>
+                  <l>      Kysykää, ken on tuo, mitä varten täällä.</l>
+                  <l>Tähän vieraita vielä! Olenkin sillä päällä!</l>
+               </lg>
+               <p rend="justify">Neljäs kohtaus.</p>
+               <lg>
+                  <l>    Orgon, Rouva Pernelle, Elmire, Mariane,</l>
+                  <l>    Cléante, Damis, Dorine, Loyal.</l>
+               </lg>
+               <p rend="justify">LOYAL (Dorinelle näyttämön perällä). Rakas lapseni, hyvää päivää; mull onni oisko talon herraa tavata?</p>
+               <p rend="justify">DORINE. Niin, sit' en tiedä, voisko nyt juuri hän ottaa vastaan; on seuraa siellä.</p>
+               <p rend="justify">LOYAL. Minä hänt' en millään häiritse enk' ole tiellä, en mitään haittaa tee hänen seurustelulleen, sanan hälle tuon vain hauskan ja tervetulleen.</p>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>Kenet ilmoitan siis?</l>
+               </lg>
+               <p rend="justify">LOYAL. Vain, että on toimena mulla sana tärkeä herra Tartuffeltä tuomaan tulla.</p>
+               <p rend="justify">DORINE (Orgonille). Kovin kohteliaasti hän puheille-pääsyä anoo, sanan tuovansa herra Tartuffeltä teille sanoo hyvin tervetulleen.</p>
+               <p rend="justify">CLÉANTE (Orgonille). On nähtävä, mikä se mies on miehiään ja mitä hän tahtoo ja halaa.</p>
+               <lg>
+                  <l>ORGON (Cléantelle).</l>
+                  <l>Hän tullut on riitaa sovittamaan kenties.</l>
+                  <l>Miten kohtelen häntä, mit' osoitan mielialaa?</l>
+               </lg>
+               <p rend="justify">CLÉANTE (Orgonille). Niin, teidän ei pidä vihaanne ilmi tuoda, vaan sovinnosta jos puhuu, kuuloa suoda.</p>
+               <p rend="justify">LOYAL (Orgonille). Jalo herra, taivas kadehtijanne kaatkoon ja, niinkuin toivotan, armonsa teille taatkoon!</p>
+               <p rend="justify">ORGON (hiljaa Cléantelle). Tuo leppeä alku on luuloni mukaan ihan, se on selvä sovinnon viittaus eikä vihan.</p>
+               <lg>
+                  <l>LOYAL.</l>
+                  <l>Miten rakkaan muiston talosta tästä sainkaan!</l>
+                  <l>Minä täällä herra isäänne palvelin ennen.</l>
+               </lg>
+               <p rend="justify">ORGON. Anon häveten anteeksi, että en vuotten mennen minä tunne teitä, en nimeä muista lainkaan.</p>
+               <p rend="justify">LOYAL. Olen Loyal, Normandiasta syntyperin, jo neljäkymmentä vuott' olen vähin erin ulosottomiehenä toiminut kunnialla ja kateudelle kiusaksi, kiitos taivaan; ja nyt, jos suvaitsette, niin teitä vaivaan ma kuulemaan lain päätöksen, jonka alla…</p>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Te tulette siis…?</l>
+               </lg>
+               <p rend="justify">LOYAL. Niin, herra, ei kiihtymystä! Mull' on vain toimena, totellen määräystä, pois teidät ynnä perheenne täältä häätää, ulos kamppeenne siirtää ja tehdä toisille tilaa nyt viipymättä, kuin laki lausuu ja säätää.</p>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Minut ulosko?</l>
+               </lg>
+               <p rend="justify">LOYAL. Niin, rakas herra, se ei ole pilaa. Talo on — kuten muuten teillä on tieto parain — nyt herra Tartuffen, — ei voi sitä kieltää kukaan. Hän tääll' on nyt valtias omaisuuden ja varain mun haltuuni annetun lahjoituskirjan mukaan; se on laillinen, vahvistettu, ei mitään vajaa.</p>
+               <lg>
+                  <l>DAMIS (Loyalille).</l>
+                  <l>Ei todellakaan ole julkeudellanne rajaa.</l>
+               </lg>
+               <p rend="justify">LOYAL (Damis'lle). Ei koske teitä, herra, vaan herraa tätä (osoittaen Orgonia) mun toimeni; hän ei mielt', ei malttia jätä, vaan oivaltaa, ettei sovi kunnon miehen lain käskyä vastaan kääntyä poikkitiehen.</p>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Mut…</l>
+               </lg>
+               <p rend="justify">LOYAL. Kapinoimaan teitä — ei miljoonatkaan, minä tiedän sen, toki vois sitä saattaa matkaan. Te kelpo mies, mielt' ette te nurjaa kanna, vaan saamani käskyt suotte mun toimeen panna.</p>
+               <p rend="justify">DAMIS. Mut, herra ryöstömies, vähän ettekö pelkää kepin voivan sivellä mustan mekkonne selkää?</p>
+               <lg>
+                  <l>LOYAL (Orgonille).</l>
+                  <l>Vait käskekää hänen olla tai käydä pois.</l>
+                  <l>Minun muuten pakko toimituskirjaan ois</l>
+                  <l>tämä häiriö merkitä, poikanne aikaansaama.</l>
+               </lg>
+               <lg>
+                  <l>DORINE (syrjään).</l>
+                  <l>Tuo herra Loyal on oikea luikurinnaama.</l>
+               </lg>
+               <p rend="justify">LOYAL. Tosihurskaihin niin mull' on kiintymys suuri, ja toimittaakseni tään otin siksi juuri, ett' avuksi teille ja palvelukseksi oisin ja joutumasta sen jollekin estää voisin, joka teille ei ehk' olis ystävä yhtä lämmin, vaan täyttämään kävis toimensa töykeämmin.</p>
+               <p rend="justify">ORGON. Mitä viel' ois pahempaa kuin ihmiset työntää ulos kodistaan?</p>
+               <p rend="justify">LOYAL. Minä aionkin aikaa myöntää: saa vielä huomiseen tämä toimitus jäädä, sitä ennen täält' en pois minä teitä häädä; olen lainkaan vaivaamatta vain täällä yötä, minä itse ja kymmenen käskyläistäni myötä. Talon avaimet maata mennessä mulle tuokaa, se muotoseikka mun mieleenne painaa suokaa. Minä valvon, ettei rauhaanne häiritse kukaan, omin valloin ei ole, vaan ihan ohjeen mukaan. Mut aamulla käyttää tarvis on nopsaa kättä, pois kilunne, kalunne raivata viipymättä; teit' auttamaan olen ottanut miehet roimat, ne kantaa kaikk' ulos, ei väsy kesken voimat. Tämä tunnollisemmin tehdyksi ei voi tulla; ja näin kun on altis ja auttava mieli mulla, niin pyydän myös, ett' oikein se arvioitais, mua vastaan virkani työssä ei vikuroitais.</p>
+               <p rend="justify">ORGON (syrjään). Ilomiellä viimeisistäni sillä erää louisdoria sata pois minä luovuttaisin, jos vasten turpaa tuota nyt iskeä saisin vain haluni takaa nyrkillä täyttä terää.</p>
+               <lg>
+                  <l>CLÉANTE (hiljaa Orgonille).</l>
+                  <l>Nyt ei pidä asiaa pilata.</l>
+               </lg>
+               <p rend="justify">DAMIS. Pieksämättä tuo rakkari jäiskö? Tää ihan polttaa kättä.</p>
+               <p rend="justify">DORINE. Noin pulskaa selkää, herra Loyal, ei haittais, jos tanssimaan sen tää kepin oivan laittais.</p>
+               <p rend="justify">LOYAL. Voi rangaistukseen julkeus moinen johtaa; hyvä neito, naisiakin lain koura kohtaa.</p>
+               <p rend="justify">CLÉANTE. Tämä riittää jo, lopettakaamme; se paperi tänne, ja sitten mennä saatte te mielellänne.</p>
+               <lg>
+                  <l>LOYAL.</l>
+                  <l>Siis näkemiin. Ilo teille ja armo taivaan!</l>
+               </lg>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Sinut syösköön ja lähettäjäskin se hornan vaivaan!</l>
+               </lg>
+               <p rend="justify">Viides kohtaus.</p>
+               <lg>
+                  <l>    Orgon, Rouva Pernelle, Elmire,</l>
+                  <l>    Cléante, Mariane, Damis, Dorine.</l>
+               </lg>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Siin', äiti, näette, oliko puheeni väärää;</l>
+                  <l>tämän nojalla voitte päätellä kaikesta muusta.</l>
+                  <l>Joko oivallatte, mitä hän oikein häärää?</l>
+               </lg>
+               <lg>
+                  <l>ROUVA PERNELLE.</l>
+                  <l>Minä tyrmistyn, olen ihan kuin pudonnut puusta.</l>
+               </lg>
+               <p rend="justify">DORINE (Orgonille). Hänt' ette oikeudella te syytä ja soimaa; hänen hurskasta intoaanhan se ilmaisee, hänen alttiin ihmisrakkautensa voimaa: hän tietää, ett' usein rikkaus turmelee, ja sulasta laupeudesta hän teiltä pois vie kaiken, mik' autuudellenne esteeks ois.</p>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Vait! Teille sen sanoa saa yhä, myöhään ja varhain.</l>
+               </lg>
+               <lg>
+                  <l>CLÉANTE (Orgonille).</l>
+                  <l>Nyt miettikäämme, mik' ois apu tässä parhain.</l>
+               </lg>
+               <p rend="justify">ELMIRE. Tuo ilkeys tuokaa ilmi nyt kaikkien tietää. On ihme, jos ei tee tyhjäks se lahjoitusta; se vilppi ja viekkaus on toki liian musta, ett' aikeen moisen täyttyvän voitais sietää.</p>
+               <p rend="justify">Kuudes kohtaus.</p>
+               <lg>
+                  <l>    Valère, Orgon, Rouva Pernelle, Elmire,</l>
+                  <l>    Cléante, Mariane, Damis, Dorine.</l>
+               </lg>
+               <p rend="justify">VALÈRE. Paha uutinen on minun pakko nyt tuomaan tulla, mut vaara uhkaa, ei muut ole neuvoa mulla. Eräs ystävä, jonka vertaisia on vähän ja jolle on tuttu mun suhteeni taloon tähän, mun tähteni rikkoi sen vakaan vait'olon, jolla tulis aina valtio-asian varjeltu olla, soi tietää seikkoja, jotka nyt vaatii teitä heti pakenemaan, ei turvaksi muuta heitä. Se konna, jot' uskoitte niin kovin kauan, on kantaa nyt hovissa päällenne juljennut juuri ikään ja hallitsijalle jonkin lippaanne antaa, johon liittyy valtiorikos, ei vähempi mikään, ja jota te vastoin velvollisuutta ja valaa muka, sanoo hän, tallettanut tääll' olette salaa. En syytettä tarkemmin tunne, sen ainoastaan, ett' on jo annettu määräys teitä vastaan, ja valvomaan sen toimeenpanoa tänne hän itse saapua saa kera pidättäjänne.</p>
+               <p rend="justify">CLÉANTE. Nyt rosvoll' on täydet aseet, joilla hän koittaa teilt' omaisuuden viedä ja omaksi voittaa.</p>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Mikä ilkipeto se ihminen oikein onkaan!</l>
+               </lg>
+               <p rend="justify">VALÈRE. On myöhäistä kaikki, jos viivytte tuokionkaan. Toin myötäni vaunut, ne portill' on vartomassa; nää tuhat louisdoria tässä on matkakassa. Nyt älkäämme aikailko, vielä kun tie on vapaa, vaan paetkaamme, ennenkuin isku tapaa. Minä varmaan paikkaan täältä nyt teidät vien ja saatan teitä, jos sallitte, kaiken tien.</p>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Ah, millä jos ansainnut minä apunne oisin!</l>
+                  <l>Tämän saatan palkita vasta, kun aika on toisin.</l>
+                  <l>Mun taivas suokoon vielä sen verran jaksaa,</l>
+                  <l>ett' ylevyytenne voin minä kerran maksaa.</l>
+                  <l>Hyvin jääkää te muut, jätän huostaanne…</l>
+               </lg>
+               <lg>
+                  <l>CLÉANTE.</l>
+                  <l>                                          Rientäkää!</l>
+                  <l>Se hoidetaan, mikä huoleksi meille jää.</l>
+               </lg>
+               <p rend="justify">Seitsemäs kohtaus.</p>
+               <lg>
+                  <l>    Tartuffe, Oikeudenpalvelija, Rouva Pernelle, Orgon,</l>
+                  <l>    Elmire, Cléante, Mariane, Valère, Damis, Dorine.</l>
+               </lg>
+               <lg>
+                  <l>TARTUFFE (pysähdyttäen Orgonin).</l>
+                  <l>Seis, herra, seis! Mihin juoksette? Asuinsijan</l>
+                  <l>ihan läheltä saatte, ehditte perille pian.</l>
+                  <l>Lain nimessä olette vangiksi julistettu.</l>
+               </lg>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Vai senkö viimeiseks sinä säästit, kettu?</l>
+                  <l>Vai näin minut aiot, rosvo, sa tieltä poistaa?</l>
+                  <l>Tämä kaiken kataluutesi kruununa loistaa.</l>
+               </lg>
+               <p rend="justify">TARTUFFE. Niin, herjatkaa vain rauhassa minusta nähden, kaikk' altis kärsimään olen taivaan tähden.</p>
+               <lg>
+                  <l>CLÉANTE.</l>
+                  <l>Oh, onpa tottakin suuri se mielenmaltti!</l>
+               </lg>
+               <lg>
+                  <l>DAMIS.</l>
+                  <l>Miten taivas on aina sen ilkiön iskuvaltti!</l>
+               </lg>
+               <p rend="justify">TARTUFFE. Ei koske minuun, mitä te syydätte suusta, teen velvollisuuteni, huoli en mistään muusta.</p>
+               <p rend="justify">MARIANE. Ja siitä teille kunnia koituu suuri; on kelpo työ tämä tehtävä teille juuri.</p>
+               <p rend="justify">TARTUFFE. Niin, kunniakas voi tehtävä olla vain sen vallan suomana, jolta sen toimeks sain.</p>
+               <lg>
+                  <l>ORGON.</l>
+                  <l>Sitä muistatko, ken sinut kurjuudestasi nosti?</l>
+                  <l>Siis apuni armeliaan tämä kiitos kosti!</l>
+               </lg>
+               <p rend="justify">TARTUFFE. En suinkaan unohtanut ole auttajaani, mut korkeinta mulle on palvelu ruhtinaani. Se velvoitus pyhä, ankara tulee muistaa ja sydämen kiitollisuuskin sen alle suistaa; kaikk' uhraisin, mitä vaatis se uhrityötä, minä ystävät, puolison, vanhemmat, itseni myötä.</p>
+               <lg>
+                  <l>ELMIRE.</l>
+                  <l>Mikä veijari!</l>
+               </lg>
+               <p rend="justify">DORINE. Kuinka hän itsensä verhota koittaa ihan kaikella sillä, mit' ihmiset kunnioittaa!</p>
+               <p rend="justify">CLÉANTE. Mut jos nyt on into tuo, joka teitä ajaa ja johon te verhoudutte, niin ilman rajaa, mitä varten, kuulkaas, se ilmeni sitten vasta, kun teidät hän yllätti rouvaansa vaanimasta, miks sitten vasta se ilmiantoja laati, kun teidät hän ajoi pois, kuten kunnia vaati? En siks sano, ett' ois teidän luovuttavanne tuost' omaisuudesta pois, hänen lahjoittamastaan, mut kuinka voitte hält' ottaa lahjoja vastaan, hänen varalleen jos teill' oli raskas kanne?</p>
+               <p rend="justify">TARTUFFE (oikeudenpalvelijalle). Minut turvatkaa nyt sättimiseltä tuolta ja olkaa hyvä ja tehkää toimenne pikaa.</p>
+               <p rend="justify">OIKEUDENPALVELIJA. On tosiaan jo viivytys tehnyt vikaa; kuten huomautitte, siit' aika on pitää huolta; siis seuratkaa mua ilman viivykkeitä; vien teidät vankeuteen, joka vartoo teitä.</p>
+               <lg>
+                  <l>TARTUFFE.</l>
+                  <l>Kuka? Minäkö?</l>
+               </lg>
+               <lg>
+                  <l>OIKEUDENPALVELIJA.</l>
+                  <l>              Juuri te.</l>
+               </lg>
+               <lg>
+                  <l>TARTUFFE.</l>
+                  <l>                        Miksikä vankeuteen?</l>
+               </lg>
+               <p rend="justify">OIKEUDENPALVELIJA. Minä teille en, vaan toisille tiliä teen. (Orgonille.) Nyt huojetkoon tämä huolenne painajainen. On meillä ruhtinas vilppiä vihaavainen, hänen silmänsä näkee sydänten sisimpään, sitä teeskelyn temput pysty ei pettämään. Hänen suuren henkensä huomio herkkä voipi kaikk' oivaltaa, kaikk' oikein se arvioipi, silt' yllättämällä ei voiteta menestystä, ei liioittelut sen eksytä ymmärrystä. Hän kunnon palkitsee iki-kunnialla, sitä suosii, mutta ei innolla sokealla, sydän hyville armias ei hänen rinnastaan sitä vihaa estä, joka on vääräin pelko. Hänt' älkööt pettää tuollaiset tuumitelko; pani turhaan kavalammatkin paulojaan. Hänen katseelleen heti kuulsi se kaikki julki, niitä sydämeensä hän konnanjuonia sulki. Toi ilmiantaja itsensä ilmi juuri — niin ohjaa oikeuden ikivalpas valta — ja hänestä paljastui pahantekijä suuri ja tuttu vanhastaan, nimen uuden alta. Hänen ilkityönsä kaikki jos kirjaan pantais, monet kirjantäydet se kirjoittamista antais. Niin, sanalla sanoin, valtias kohta keksi sen vilpin, mi teille häll' oli kiitokseksi; lisän siitä saa hänen syittensä synkkä taakka; ja tänne mun todistamaan piti tulla vain, kuink' ilkeytensä hän vie ihan huippuun saakka, sill' itse viattomuutenne ilmoittain, nuo paperit, jotka se veijari teilt' on saanut, hält' ottaa pois ja ne saapua teille tuomaan. Esivallan mahti ne kumonnut on ja taannut taas kaikki oikean omistajansa huomaan. Myös anteeksi antaa hallitsijamme halaa, mitä ystävän tähden olette rikkonut salaa, siten palkitsee sen innon, jot' ilmaisitte, hänen oikeuttaan kun ammoin te puolustitte, ja näyttää, että hält' oikean arvon saa teko oiva, kun sitä vähimmin odottaa, ett' osaa palkan panna hän ansion myötä ja kauemmin hyvää muistaa kuin pahaa työtä.</p>
+               <lg>
+                  <l>DORINE.</l>
+                  <l>Oh, Herran kiitos!</l>
+               </lg>
+               <lg>
+                  <l>ROUVA PERNELLE.</l>
+                  <l>                   Nyt minä hengitän jälleen.</l>
+               </lg>
+               <lg>
+                  <l>ELMIRE.</l>
+                  <l>Mikä suuri onni!</l>
+               </lg>
+               <lg>
+                  <l>MARIANE.</l>
+                  <l>                 Sen kuinka uskoa voin!</l>
+               </lg>
+               <lg>
+                  <l>ORGON (Tartuffelle, jonka oikeudenpalvelija vie pois).</l>
+                  <l>Ähäh, saitkos, veijari…</l>
+               </lg>
+               <p rend="justify">Kahdeksas kohtaus.</p>
+               <lg>
+                  <l>    Orgon, Rouva Pernelle, Elmire, Mariane,</l>
+                  <l>    Cléante, Valère, Damis, Dorine.</l>
+               </lg>
+               <p rend="justify">CLÉANTE. Ei, veli, älkää noin te vaipuko ilkuntaan hänen häpeälleen. Hänet jättäkää kovan onnensa kouriin, lanko, mut älkää soimaten kiveä kuormalle panko. Rukoelkaa ennen hälle te uutta mieltä, ett' elämänsä hän korjais ja paheen tieltä jo tänään katuvaisena kääntyis pois, ja valtias suuri hälle viel' armon sois. Mut itse menkää ja kiitosta polvillanne te hälle tuokaa armosta saamastanne.</p>
+               <p rend="justify">ORGON. Niin, oikein, niin! Hänen eteensä langetkaamme hänt' ylistämään hänen suuresta armostaan. Se on ensi velvollisuutemme, sitten saamme heti toisen muistaa, ryhtyä hankkimaan häät armaat, niin Valèrea palkita, ylkää, jok' ylevä on eik' ystäviänsä hylkää.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

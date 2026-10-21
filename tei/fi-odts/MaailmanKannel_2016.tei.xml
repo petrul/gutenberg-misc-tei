@@ -1,0 +1,1695 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Maailman kannel</title>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-01T20:09:48Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">odts/fi-odts/MaailmanKannel_2016.epub.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2024-01-01T20:09:48Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Maailman kannel</head>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">odts/fi-odts/MaailmanKannel_2016.epub.odt</p>
+         <p>E-text prepared by Jari Koivisto and Tapio Riikonen</p>
+         <head>MAAILMAN KANNEL</head>
+         <p>Toim.</p>
+         <subtitle>EINO LEINO</subtitle>
+         <p>Vihtori Kosonen, Helsinki, 1908.</p>
+         <pb/>
+         <div type="div1">
+            <head>SISÄLLYS:</head>
+            <p rend="justify">Horatius:</p>
+            <lg>
+               <l> Postumukselle.</l>
+               <l> Licinukselle.</l>
+               <l> Chloë.</l>
+               <l> Vergiliuksen lähtiessä.</l>
+            </lg>
+            <p rend="justify">Goethe:</p>
+            <lg>
+               <l> Prometheus.</l>
+               <l> Jumala ja bajaderi.</l>
+               <l> Vanitas! Vanitatum vanitas!</l>
+               <l> Harpunsoittaja 1-2.</l>
+               <l> Salliman virsi.</l>
+               <l> Henkien laulu vetten päällä.</l>
+               <l> Kalamies.</l>
+               <l> Thulen kuningas.</l>
+               <l> Sotalaulu.</l>
+               <l> Muhamedin laulu.</l>
+               <l> Ergo bibamus!</l>
+               <l> Ihmisyyden rajat.</l>
+               <l> Jumaluus.</l>
+               <l> Jumalattareni.</l>
+            </lg>
+            <p rend="justify">Schiller:</p>
+            <lg>
+               <l> Sveitsin lauluja:</l>
+               <l>   Kalastajapoika.</l>
+               <l>   Paimen.</l>
+               <l>   Alppi-ampuja.</l>
+               <l> Walter.</l>
+               <l> Hautavirsi.</l>
+            </lg>
+            <p rend="justify">Heine:</p>
+            <lg>
+               <l> Pohjanmeri:</l>
+               <l>   Kruunaus.</l>
+               <l>   Iltahämärä.</l>
+               <l>   Auringonlasku.</l>
+               <l>   Yö rannikolla.</l>
+               <l>   Tunnustus.</l>
+               <l>   Yö kajutassa.</l>
+               <l>   Merikummitus.</l>
+               <l>   Rauha.</l>
+               <l> Sotaveikot.</l>
+               <l> Kuolema on kylmä yö.</l>
+               <l> Sinisin silmin kauan.</l>
+            </lg>
+            <p rend="justify">Musset:</p>
+            <lg>
+               <l> Laulu.</l>
+               <l> Hyvästi.</l>
+               <l> Ninon.</l>
+               <l> Suru.</l>
+            </lg>
+            <p rend="justify">G. Brandes:</p>
+            <lg>
+               <l> Vaeltava ritari.</l>
+               <l> Proteus.</l>
+               <l> Hautakammio.</l>
+            </lg>
+            <p rend="justify">Drachmann:</p>
+            <lg>
+               <l> Tarina.</l>
+               <l> Syys-ilta.</l>
+               <l> Minä vihaan suuria totuuksia —</l>
+            </lg>
+            <p rend="justify">V. Krag:</p>
+            <lg>
+               <l> Runous.</l>
+               <l> Heleä heila.</l>
+            </lg>
+            <p rend="justify">Anna Haava:</p>
+            <lg>
+               <l> Kyllä tuikkivat tähdet.</l>
+               <l> Kunne kuljen?</l>
+               <l> Älä sa kysy!</l>
+               <l> Kun oisin kuollut.</l>
+            </lg>
+            <p rend="justify">Tavaststjerna:</p>
+            <lg>
+               <l> Laureatus obstinatus.</l>
+               <l> Siipeen ammuttu.</l>
+               <l> Pyhä Antonius.</l>
+               <l> Sonetteja Dianalle:</l>
+               <l>   Diana.</l>
+               <l>   Tuonen virran tuolta puolen.</l>
+               <l>   Kevätsade.</l>
+               <l>   En tahdo —.</l>
+               <l>   Lopputili.</l>
+               <l> Tenn-koski.</l>
+               <l> Ja jos joku aatos —.</l>
+               <l> Polyteknikkojen marssi.</l>
+            </lg>
+            <p rend="justify">Lybeck:</p>
+            <lg>
+               <l> Kun tuli kuoli.</l>
+               <l> Pojilleni!</l>
+               <l> Väsyneitä puita.</l>
+            </lg>
+            <p rend="justify">Mörne:</p>
+            <lg>
+               <l> Viha.</l>
+               <l> Runoilijat.</l>
+               <l> Minun vihani I-Il.</l>
+               <l> Gripenberg.</l>
+               <l> Teodora.</l>
+               <l> Kaunehin maa.</l>
+               <l> Kauniille naisille.</l>
+               <l> Albert Edelfelt.</l>
+            </lg>
+            <p rend="justify">Lisäys:</p>
+            <lg>
+               <l> Kauniit silmät.</l>
+               <l> Taide.</l>
+               <l> Syksy.</l>
+               <l> Legenda.</l>
+               <l> Suru.</l>
+            </lg>
+            <p rend="justify">HORATlUS</p>
+            <p rend="justify">Postumukselle.</p>
+            <p rend="justify">Voi, aika rientää, Postumus, Postumus, kuin siivin siirtyy vuodet, ei viivytä miel' hurskas töitä kuolon kolkon, ryppyjä, vanhuutta uhkaavaista.</p>
+            <lg>
+               <l>    Vaikk' kolmin sadoin härkiä uhraisit</l>
+               <l>    jokainen päivä, ystävä, ehdy ei</l>
+               <l>    tuo virta suruinen, mi sulkee</l>
+               <l>    Geryonin, Tityonkin kuulun.</l>
+            </lg>
+            <lg>
+               <l>    Sen poikki kerran käyminen kaikkein on,</l>
+               <l>    maan minkä lapsia liemmekin, lienemme</l>
+               <l>    kuninkahia tai kerjureita,</l>
+               <l>    kaikille pursi on purjevalmis.</l>
+            </lg>
+            <lg>
+               <l>    Varomme turhaan vaaroja taistelon,</l>
+               <l>    pelkäämme merta Hadrian myrskyisää,</l>
+               <l>    oi turhaan! Turhaan välttelemme</l>
+               <l>    syksyllä terveyden syöjää tuulta.</l>
+            </lg>
+            <lg>
+               <l>    Ei auta, kerran nähtävä kunkin on</l>
+               <l>    tuo virta tumma, vierivä hiljalleen,</l>
+               <l>    myös heimo herja Danaon lasten,</l>
+               <l>    Sisyphus, tuomittu pitkään työhön.</l>
+            </lg>
+            <lg>
+               <l>    On heitettävä maa, koti, vaimokin,</l>
+               <l>    tuo mieluinen, ja puista sun tarhassas</l>
+               <l>    sua, hetken lyhven herraa, seuraa</l>
+               <l>    matkalle sypressi synkkä yksin.</l>
+            </lg>
+            <p rend="justify">Perijä tulee ansiokkaampi, juo satojen salpain sulkemat viinit, käy sun pöytääs niinkuin pappi, kastaa kaulaa ja paasia permannonkin.</p>
+            <p rend="justify">Licinukselle.</p>
+            <lg>
+               <l>    Parhain teet sa, oi Licinus, kun aina</l>
+               <l>    kulje aavaa et etkä liioin pelkää</l>
+               <l>    merta myrskyisää etkä liioin</l>
+               <l>          rantoja seuraa.</l>
+            </lg>
+            <lg>
+               <l>    Tuuli tutjuttaa väkevimmin honkaa</l>
+               <l>    lakkalatvaa, suistuvat suuret tornit</l>
+               <l>    ryskinällä, näin salamatkin lyövät</l>
+               <l>          huippuja vuorten.</l>
+            </lg>
+            <lg>
+               <l>    Toivoo viisas mies pahan päivän tullen,</l>
+               <l>    pelkää onnessaan elon oikkuisuutta.</l>
+               <l>    Katso, talvet antavi kolkot, kylmät</l>
+               <l>          Juppiter, hänpä</l>
+            </lg>
+            <lg>
+               <l>    keväätkin. Ei ain ole ahdas, joskin</l>
+               <l>    nyt on ahdas. Eipä Apollo itse</l>
+               <l>    aina joustaan jännitä, virittää myös</l>
+               <l>          virren ja soittaa.</l>
+            </lg>
+            <lg>
+               <l>    Näytä uljuutt' ain elon ahdingoissa,</l>
+               <l>    mieltä miehen myös! Puhaltaissa tuulen</l>
+               <l>    liian myötäisen, ole viisas, reivaa</l>
+               <l>          paisuvat purjeet.</l>
+            </lg>
+            <p rend="justify">Chloë.</p>
+            <p rend="justify">Kartat kaurihin laill', oi minua, Chloë, kauriin kulkevan laill' Libyan vuorilla; emää etsivi rukka, metsää, myrskyjä pelkäillen.</p>
+            <lg>
+               <l>    Milloin, kas, kahahtaa lentävä lehti tuo,</l>
+               <l>    milloin marjojen taas varsia vihreä</l>
+               <l>    liikuttaa sisilisko;</l>
+               <l>    polvet pettävät, rinta lyö.</l>
+            </lg>
+            <p rend="justify">Kaunis karkuri, oi! En ole tiikeri, en lie leijonakaan Libyan korvesta, jätä äitisi jäljet, kypsä miestä jo seuraamaan!</p>
+            <p rend="justify">Vergiliuksen lähtiessä.</p>
+            <p rend="justify">Suojelkoon sua taivas, oi, suojelkoot Helenan veljyet, tähtöset! Teljetköön isä tuulien kaikki muut, toki ei leyhkiä läntisen.</p>
+            <lg>
+               <l>    Kannat, oi alus, kallista!</l>
+               <l>    Saata Vergilius Attikan rannalle,</l>
+               <l>    saata ehjänä sankari,</l>
+               <l>    että säilyisi, oi, puoli mun sielustain.</l>
+            </lg>
+            <lg>
+               <l>    Rautatammi ja vaski lie</l>
+               <l>    kolminkertahinen ympäri rinnan sen</l>
+               <l>    ollut, ensin mi uskoa</l>
+               <l>    aaltoin armoille voi haahtensa haurahan,</l>
+            </lg>
+            <p rend="justify">eikä peljännyt puuskia pohjoisen, idän ei inhoisan raivoa, tuon, mi hyökyjä Hadrian hallitsee, pelännyt ei sadetähtiä.</p>
+            <lg>
+               <l>    Olla kuoleman-kylmä se</l>
+               <l>    mahtoi mies, joka voi silmillä kuivilla</l>
+               <l>    nähdä nuo merihirviöt,</l>
+               <l>    kauhun kalliot myös, Acrocerauniat.</l>
+            </lg>
+            <lg>
+               <l>    Turhaan maat sekä mantereet</l>
+               <l>    luojat leikannehet lie meren kuohuilla,</l>
+               <l>    koska kuitenkin irstahat</l>
+               <l>    haahdet kaalamojen kiellettyjen yli ui.</l>
+            </lg>
+            <lg>
+               <l>    Uljas kaikkea uhmaamaan,</l>
+               <l>    heimo ihmisen käy herjahan, vääryyteen.</l>
+               <l>    Uhmin Iapetuksen iaps</l>
+               <l>    vilpillä viekkauden toi tulen kansoille.</l>
+            </lg>
+            <lg>
+               <l>    Tuotu kun tuli linnastaan</l>
+               <l>    taivaisest' oli näin, paisehet, kuumehet</l>
+               <l>    oudot maan yli lankesi,</l>
+               <l>    kuolo askeliaan kiiruhti ankara.</l>
+            </lg>
+            <lg>
+               <l>    Nousi Daedalus ilmoille</l>
+               <l>    sulkalentimin, joit' ei ole sallittu</l>
+               <l>    ihmiselle; ja Herkuleen</l>
+               <l>    voima murskaksi löi Tuonelan portitkin.</l>
+            </lg>
+            <p rend="justify">Missä määrä on ihmisen? Taivaankin pyhättöön pyrjimme, tyhmyrit, sentään nurkuen, nuoliaan koska sinkoelee suuttunut Juppiter.</p>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>GOETHE</head>
+            <p rend="justify">Prometheus.</p>
+            <p rend="justify">Peitä taivaasi, Zeus, pilvi-usmalla, koe kuin lapsi, hosuva nokkosia, voimaasi tammiin ja vuorten huippuihin! Minun maani seisoo sentään, minun majani myös, jota tehnyt et, ja minun lieteni, jonka lämpöä minulta kadehdit.</p>
+            <p rend="justify">En tunne kurjempaa auringon alla kuin te, jumalat! Te elätte vaivoin uhri-anneista, rukousten hengestä. Mut kuninkuutenne kuolisi, ellei ois lapsia, kerjureita, toivon houruja.</p>
+            <p rend="justify">Kun olin lapsi, kun tiennyt en tietä, en määrää, niin käänsin silmäni erheen päin päivää, niinkuin siellä oisi korva, kuuleva itkuni, sydän, kuin minun, ahdistettua armahtava.</p>
+            <p rend="justify">Ken mua auttoi vastaan jättien julkeutta? Kuka mun esti kuolemasta, ken orjuudesta? Tätä etkö kaikkea itse tehnyt, pyhä, hehkuva sydän? Ja etkö kiittänyt hyvänä, nuorna, petettynä, pilvien nukkujaa?</p>
+            <p rend="justify">Mun sua kunnioittaa? Miksi? Liensitkö vaivoja milloinkaan sa raskautetun? Pyyhitkö kyynelet milloinkaan sa ahdistetun? Mua eikö mieheksi tehnyt kaikkivaltias aika ja ikuinen kohtalo, herra minun ja sinun?</p>
+            <p rend="justify">Mainitsitko, mun pitäisi elämää vihata, erämaahan paeta, kun eivät kaikki kukka-unelmat kypsyneet? Tässä istun, teen ihmisiä kuvani mukaan, sukukuntaa, kaltaistani ilohon, itkuun, kärsimään, nauttimaan ja sua ylenkatsomaan, kuin minä!</p>
+            <p rend="justify">Jumala ja bajaderi.</p>
+            <p rend="justify">Intialainen legenda.</p>
+            <lg>
+               <l>          Mahadöh, maan herra, alas</l>
+               <l>          astui kerran kuudennen,</l>
+               <l>          tuta Tuomar' itse halas</l>
+               <l>          ilot, huolet ihmisten.</l>
+               <l>          Alentuu tääll' asumahan,</l>
+               <l>          inehmo, kanss' inehmoin,</l>
+               <l>          palkitakseen hyvän, pahan,</l>
+               <l>          itse kaikki kokee noin.</l>
+               <l>    Kun kulkunsa kaupungin kautta on tehnyt,</l>
+               <l>    sen katsonut korkeat, alhaiset nähnyt,</l>
+               <l>    hän illalla lähtee, eespäin käy.</l>
+            </lg>
+            <lg>
+               <l>          Näkee portin luona neidon,</l>
+               <l>          luona taloin viimeisten,</l>
+               <l>          kadotetun, kauniin, keidon,</l>
+               <l>          immen maali-ihoisen:</l>
+               <l>          Terve, neitsyt! — Tyttö ehti</l>
+               <l>          portahille: Tänne jää! —</l>
+               <l>          Ken sa olet? — Lemmen lehti,</l>
+               <l>          rakkauden on maja tää.</l>
+               <l>    Hän liikkuu, jo symbalit soittohon suori,</l>
+               <l>    hän läikkyy, hän väikkyy, on norja ja nuori,</l>
+               <l>    kukan taittaa ja tarjoo vieraalleen.</l>
+            </lg>
+            <lg>
+               <l>          Viekoitellen kynnykselle,</l>
+               <l>          vilkkahasti sisään vie:</l>
+               <l>          Lampun-kirkas maja kelle,</l>
+               <l>          jos ei sulle, kohta lie.</l>
+               <l>          Väsynytkö? Liennän sulta</l>
+               <l>          vaivat, jalkas virkistän.</l>
+               <l>          Mitä tahdot, saat sa multa,</l>
+               <l>          levon, riemun, leikinnän.</l>
+               <l>    Hän tuskat ne teeskellyt hoitavi. Hymyy</l>
+               <l>    jumalainen, mi riemuiten huomaa: lymyy</l>
+               <l>    sydän sykkivä turmeluksessakin.</l>
+            </lg>
+            <lg>
+               <l>          Ja hän vaatii töitä orjan,</l>
+               <l>          ilahtuvi tyttö vaan,</l>
+               <l>          taide-eljet immen sorjan</l>
+               <l>          muuttuu luonnoks uudestaan.</l>
+               <l>          Katoo kullan päältä kuona,</l>
+               <l>          kukka hellii hedelmään:</l>
+               <l>          miss' on kuuliaisuus luona,</l>
+               <l>          loitolla ei lempikään.</l>
+               <l>    Mut hänt' yhä tutkien taivainen Hyvyys,</l>
+               <l>    hän, jolle on tuttuja korkeus, syvyys,</l>
+               <l>    nyt riemun ja tuskan ja kauheuden tuo.</l>
+            </lg>
+            <lg>
+               <l>          Suukoin maaliposken peittää;</l>
+               <l>          tyttö vaivat rakkauden</l>
+               <l>          tuntee, säikkyy, empii, eittää,</l>
+               <l>          ensi kerran itkien;</l>
+               <l>          vaipuu jalon jalkain juureen,</l>
+               <l>          vuoks ei palkan, hekkuman,</l>
+               <l>          sulaa riutumukseen suureen,</l>
+               <l>          raukee syliin rakkahan.</l>
+               <l>    Ja niin yli vuotehen, huolitun lempeen,</l>
+               <l>    nyt huntunsa heittävi tumman ja hempeen</l>
+               <l>    yön hetkien karkelo kaunoinen.</l>
+            </lg>
+            <lg>
+               <l>          Myöhään uupuin kisailulta,</l>
+               <l>          varhain nousten leikkimään,</l>
+               <l>          näkee tyttö, ett' on kulta</l>
+               <l>          kuollut hänen sylissään.</l>
+               <l>          Huutaa, mainii armastansa,</l>
+               <l>          eipä armas nousekaan;</l>
+               <l>          kohta liekkihautahansa</l>
+               <l>          ruumis kylmä kannetaan.</l>
+               <l>    Hän kuulevi kuoleman laulut, jo valkee</l>
+               <l>    lyö lieskaan, hän raivoo, hän rientävi, halkee</l>
+               <l>    väkijoukko: Ken oot? Mihin tunkeudut?</l>
+            </lg>
+            <lg>
+               <l>          Parkuen hän sydänhuolla</l>
+               <l>          paarin luokse vaipuvi:</l>
+               <l>          Mieheni ma tahdon. Kuolla</l>
+               <l>          tahdon kanssa mieheni.</l>
+               <l>          Katoaisko kaunis multa?</l>
+               <l>          Hälle soin, min muuten myön.</l>
+               <l>          Mun hän oli, oma, kulta,</l>
+               <l>          ah, vain yhden, kauniin yön!</l>
+               <l>    Papit laulaa: Me kannamme hautahan harmaat,</l>
+               <l>    unen myöhäisen nukkujat, kannamme armaat</l>
+               <l>    elon nuoret jo ennen kuin aavistavat.</l>
+            </lg>
+            <lg>
+               <l>          Kuule pappeis opetusta:</l>
+               <l>          Ollut eihän miehes tää.</l>
+               <l>          Mitään sull' ei velvoitusta,</l>
+               <l>          bajaderi hourupää!</l>
+               <l>          Yksin varjo ruumiin tiestä</l>
+               <l>          eroa ei kuollenkaan,</l>
+               <l>          vainen vaimo seuraa miestä</l>
+               <l>          hiljaisehen tuonelaan.</l>
+               <l>    Torvi raikahda, soi pyhä vaitelo! Tulkaa,</l>
+               <l>    jumalaiset, ja suitsuttaen tulisulkaa</l>
+               <l>    pois päivien kaune hän kannelkaa!</l>
+            </lg>
+            <lg>
+               <l>          Kuuluu kuorolaulu; syttö</l>
+               <l>          sydämessä armoton,</l>
+               <l>          käsin ojennetuin tyttö</l>
+               <l>          syöksyy kuumaan kuolohon.</l>
+               <l>          Jumal-sulho liekin kesken</l>
+               <l>          nousee, kantaa päältä maan</l>
+               <l>          tulisiivin tumman lesken</l>
+               <l>          ilman kotiin korkeaan.</l>
+               <l>    Ilo on katuvaisista tarhoissa taivaan.</l>
+               <l>    Kuolemattomat astuvat kurjien vaivaan,</l>
+               <l>    käsin leimuvin luoksensa nostavat nuo.</l>
+            </lg>
+            <p rend="justify">Vanitas! Vanitatum vanitas!</p>
+            <lg>
+               <l>    Nyt tyhjän pohjalla onneni on.</l>
+               <l>          Hih hei!</l>
+               <l>    Siks on minun olla niin huoleton.</l>
+               <l>          Huh hei!</l>
+               <l>    Kera maista, jos olet ystävä,</l>
+               <l>    kera laula tässä piirissä,</l>
+               <l>    tään viinin vierellä.</l>
+            </lg>
+            <lg>
+               <l>    Panin onneni maailman mammonaan.</l>
+               <l>          Hih hei!</l>
+               <l>    Ei riemua, rauhaa milloinkaan.</l>
+               <l>          Ah, ei!</l>
+               <l>    Rahan kierivän kiinni ken saada vois?</l>
+               <l>    Kun täältä sen ehkä jo saanut ois,</l>
+               <l>    se tuolta oli jo pois.</l>
+            </lg>
+            <lg>
+               <l>    Panin onneni naisten suosioon.</l>
+               <l>          Hih hei!</l>
+               <l>    Tulin siitä mä moneen turmioon.</l>
+               <l>          Ah, voi!</l>
+               <l>    Haki heilakka uuden sulhasen,</l>
+               <l>    mua ikävystytti uskollinen,</l>
+               <l>    paras tullut ei tarjollen.</l>
+            </lg>
+            <lg>
+               <l>    Panin onneni pitkiin matkoihin.</l>
+               <l>          Hih hei!</l>
+               <l>    Isänmaani ihanan hylkäsin.</l>
+               <l>          Ah, voi!</l>
+               <l>    Ei ollut missään mukava,</l>
+               <l>    eväs huonoa, huonoja vuoteita,</l>
+               <l>    myös kieli outoa.</l>
+            </lg>
+            <lg>
+               <l>    Panin onneni kunnian etsintään.</l>
+               <l>          Hih hei!</l>
+               <l>    Kas, toinenpa ehti jo enempään.</l>
+               <l>          Ah, voi!</l>
+               <l>    Kun kunnostausin, katsottiin</l>
+               <l>    mua karsaasti, mua vainottiin,</l>
+               <l>    tein kaikille väärin niin.</l>
+            </lg>
+            <lg>
+               <l>    Panin onneni miesten taistohon.</l>
+               <l>          Hih hei!</l>
+               <l>    Me voitimme myös monen voittelon.</l>
+               <l>          Huh hei!</l>
+               <l>    Vihamiehiä miekkamme surmasi,</l>
+               <l>    se ystäviä ylen hurmasi,</l>
+               <l>    multa koipi katkesi.</l>
+            </lg>
+            <lg>
+               <l>    Nyt onneni tyhjän on pohjalla.</l>
+               <l>          Hih hei!</l>
+               <l>    Siks omani on koko maailma.</l>
+               <l>          Huh hei!</l>
+               <l>    Pidot päättyy nyt, myös laulumme,</l>
+               <l>    nyt tyhjiks juokaa maljanne,</l>
+               <l>    niin vaatii virsi se.</l>
+            </lg>
+            <p rend="justify">Harpunsoittaja.</p>
+            <p rend="justify">1.</p>
+            <p rend="justify">Ah, muista pois ken poikkeaa, on kohta yksin hän; muut elää, muita rakastaa ja jättää kärsijän. Niin! herja heittäkää! Ken oikein yksin jää, jää päälle maan, ei yksin olekaan.</p>
+            <p rend="justify">Vait sulho kulkee kuunnellen Lie yksin tyttöni? Niin yöt ja päivät hiipien mua murhe kiertävi, mua yksinäistä yö. Ah, kun mun kuolo lyö, kun lepään alla maan, kai yksin olla saan!</p>
+            <p rend="justify">2.</p>
+            <p rend="justify">Ken kyynelin ei milloinkaan leipäänsä syönyt, synkkään vaivaan yöt tuijottanut vuoteeltaan, hän teit' ei tunne, vallat taivaan!</p>
+            <p rend="justify">Te viette meidät elämään, sallitte syypääks tulla täällä, jätätte tuskaan jäytävään; syy kaikki kostetaan maan päällä.</p>
+            <p rend="justify">Salliman virsi.</p>
+            <p rend="justify">Peljätköön jumalia ihmisten suku! He kantavat valtaa ikuisin käsin ja käyttävät sitä mielensä mukaan.</p>
+            <p rend="justify">Hän peljätköön enin, kenen kerran he nostavat! Vuorilla, pilvissä tuolit on valmiit ja kultaiset pöydät.</p>
+            <p rend="justify">Syntyvi riita: syöstähän vieraat, herjatut, häväistyt, kuiluihin synkkiin, ja vartovat turhaan, vankeina, tuloa tuomarin hurskaan.</p>
+            <p rend="justify">Vaan ikijuhliin jumalat jäävät ympäri pöytäin. He vuorelta vuorelle kulkevat, huuruu rotkoista henki titaani-rintain tukahtuneitten kuin lemu uhrein tai kevyt pilvi.</p>
+            <p rend="justify">Kääntävät silmän siunaavan jumalat pois koko heimoista: välttävät pojassa armaita kerran, vait puhuvaisia piirteitä taaton.</p>
+            <p rend="justify">Soi salliman virsi: kuulevi kirottu kuilujen yössä, tuo harmaja, miettii heimoa, lastaan ja päätänsä puistaa.</p>
+            <p rend="justify">Henkien laulu vetten päällä.</p>
+            <p rend="justify">On ihmisen sielu veteen verrattava: se taivaalta tulee, se taivaalle nousee ja jälleen alas sen maahan täytyy alati vaihtuen.</p>
+            <p rend="justify">Jos korkealta jyrkänteeltä säde kirkas virtaa, se vienona, kauniina pilven-utuna</p>
+            <p rend="justify">paadelle pirskaa, ja hellävaroin vastaan-otettuna, terhentä tehden kuiluun solisee.</p>
+            <p rend="justify">Jos kalliot nousevat virtaa vastaan, se vaahdoten astuu askelittain syvyyteen.</p>
+            <p rend="justify">Vuoteella vehreällä hiipii se niittylaakson luo ja tyynessä järven sen kasvoja kaitsevat tähdet kaikki.</p>
+            <p rend="justify">Tuuli on aallon suloinen sulho; velloo pohjia myöten vaahtiset laineet.</p>
+            <p rend="justify">Ihmisen sielu, kuink' olet kaltainen veen! Ihmisen kohtalo, kuink' olet kaltainen tuulen!</p>
+            <p rend="justify">Kalamies.</p>
+            <p rend="justify">Meri kuohui, vyöryi voimassaan, mies istui luona veen; hän tyynnä katsoo onkeaan, tyly saakka sydämeen. Hän kuinka istuu, kuuntelee, niin syvyys sylkähtää, aalloista ilmi humisee veen vaimo vaahtipää.</p>
+            <p rend="justify">Se laulaa näin, se lausuu noin: "Miks kansaa kiehdot mun sa ihmis-eljin, ongelmoin ylös kuolonhehkuhun? Ah, tietäisit, kuink' autuas on kala kuilussaan, astuisit, parka, paadeltas terveyttä tuntemaan!</p>
+            <p rend="justify">"Meressä eikö päivä käy, kuu päily kuohupäin, taas kahta kauniimmalta näy laineita hengittäin? Sua eikö taivaan syvyys tuo, sinikuulas soilu veen, omat eikö kasvos kutsu nuo kalpeesen kasteiseen?"</p>
+            <p rend="justify">Meri huokui, huuhtoi rannalla jo jalkaa onkijan; povi hällä paisui kaihosta kuin puoleen armahan. Soi sanat noin, soi laulu näin, hän kohtalonsa ties, veti vaimo luo, hän vaipui päin, ja oli mennyt mies.</p>
+            <p rend="justify">Thulen kuningas.</p>
+            <p rend="justify">Tuo kuningas Thulen harmaan oli hautaan uskollinen. Hän kädestä kuolevan armaan sai maljan kultaisen.</p>
+            <lg>
+               <l>    Se juhlissa tuotihin esiin,</l>
+               <l>    hän kalliiks sen arvioi,</l>
+               <l>    hänen silmänsä menivät vesiin</l>
+               <l>    joka kerta kun siitä hän joi.</l>
+            </lg>
+            <lg>
+               <l>    Ja kun tuli kuolema hälle,</l>
+               <l>    luki kaupungit maansa hän,</l>
+               <l>    muun kaiken soi perijälle,</l>
+               <l>    ei maljaa elämän.</l>
+            </lg>
+            <lg>
+               <l>    Hän linnassaan pidot laati</l>
+               <l>    meren rannalla myrskyisen,</l>
+               <l>    hän juhlahan vasallit vaati</l>
+               <l>    alle kaarien korkeiden.</l>
+            </lg>
+            <lg>
+               <l>    Nous kesken naurun ja naljan,</l>
+               <l>    elon joi tulet viimeiseen,</l>
+               <l>    pyhän heitti hehkujen maljan</l>
+               <l>    veen valtavan syvyyteen.</l>
+            </lg>
+            <p rend="justify">Näki, kuinka se upposi, haipui, miten ahnas aalto sen vei. Hänen silmälautansa vaipui; sen enempi juonut ei.</p>
+            <p rend="justify">Sotalaulu.</p>
+            <p rend="justify">Korkeat linnat, muurit ja pylväät, tyttöjen mielet, tyrskivät, ylväät tahtoisin voittaa! Kaunis on palkka, rohkea työ.</p>
+            <p rend="justify">Soi sotatorvi urhojen hurmaan, riemuun se kosii, kuoloon ja surmaan. Tää elämää on! Myrskyn on hetki! Tyttöjen, linnain antaumishetki. Kaunis on palkka, rohkea työ! Urhojen lähtöön rumpu jo lyö.</p>
+            <p rend="justify">Muhamedin laulu.</p>
+            <p rend="justify">Nähkää vuorilähde riemun-kirkas kuin tähtikatse; hyvät henget pilvein päällä ruokkivat hänen nuoruuttaan lomassa pensasten, louhten.</p>
+            <p rend="justify">Nuorna, raikkaana taivaasta tanssii se marmoripaadeile, jälleen riemuiten pilviä päin. Kautta vuoripolkujen kirjokiviä ajelee se, ja tempaa mukaansa veljeslähteet varhain jo johtaja-askelin.</p>
+            <p rend="justify">Laaksossa kukat kasvavat hänen astunnastaan, ja hänen hengestään niitty elää.</p>
+            <p rend="justify">Eivät estä häntä varjolaaksot, eivät kukat kaartavaiset häneltä polven, imartavaiset lempisilmin; tasangolle hän tahtoo käärmeenä kiertäen.</p>
+            <p rend="justify">Purot yhtyy ystävinä häneen heljät. Nyt hän astuu aavikolle hopeaisna, aava itse kimmeltää, riemuavat hälle virrat, vuoripurot huutavat: "Veikko! Veikko! Ota meidät matkallesi veljinä, myötä isäs vanhan luokse, Meren iankaikkisen, joka vartoo avosylin lapsiansa turhaan ikävöiviään; sillä meitä erämaassa autiossa ahmaa hiekka ahnas; päivä päämme päällä imee hurmehemme; kumpu meidät lammeks salpaa! Veli, ota veljet alangolta, ota veljet vuoristosta myötä, isäs suuren luo!"</p>
+            <p rend="justify">Uupumatta eespäin käy hän, jättää tulihuippu-tornit, marmoriset linnat, luomat runsautensa, jälelleen.</p>
+            <p rend="justify">Atlaana hän hartioillaan kantaa laivat sedripuiset, liput liehuu päänsä päällä, humisevat ilman halki hänen kuulun kunniaa.</p>
+            <p rend="justify">Näin hän kantaa kaikki veljet, kalliit hälle, armaat hälle, riemuraiuin taaton vanhan, vartovaisen sydämeen.</p>
+            <p rend="justify">Ergo bibamus!</p>
+            <p rend="justify">Täss' seura on koolla, sen tarkoitus kait ylistettävä: <hi rend="italic">ergo bibamus!</hi>  Lasit kaikuvat vaan, sana suussa on vait, siks ystävät: <hi rend="italic">ergo bibamus!</hi>  Sana yks toki on, sana mainio tää, joka kaikkehen käy, joka kaikille jää, kemun keskeltä soi sana seppelepää, sana autuas: <hi rend="italic">ergo bibamus!</hi>
+            </p>
+            <p rend="justify">Olin nähnyt ma ystävän armastetun, niin aattelin: <hi rend="italic">ergo bibamus!</hi>  Tuli luokseni hän, jopa jätti hän mun, oli lohdutus mulla: <hi rend="italic">bibamus!</hi>  Ja jos joku teillekin suutelon suo, ja jos joku poistuvi, ken tuli luo, niin siks kuni paremman tiedätte, tuo paras lohtu on: <hi rend="italic">ergo bibamus!</hi>
+            </p>
+            <p rend="justify">Minut kohtalo teistä nyt kauaksi vie, siks ystävät: <hi rend="italic">ergo bibamus!</hi>  Kevyt kassani on, kevyt laukkuni lie, siks kaksinpa kerroin: <hi rend="italic">bibamus!</hi>  Ja vaikk' ikävyyksiä tulvisi ties, saa lainaksi ain ilomielinen mies, on liedolle ain joku lämpöinen lies, siks ystävät: <hi rend="italic">ergo bibamus!</hi>
+            </p>
+            <p rend="justify">Mitä päivästä tästä ois lausuminen? Ma tuumisin: <hi rend="italic">ergo bibamus!</hi>  Erikoinen kun kerran on laatukin sen, siks ain eri kerrat: <hi rend="italic">bibamus!</hi>  Ulos uksesta, nähkää, se riemumme vie jo haihtuvi huntu, on taivohon tie, kuva kangastuu, jumalainen se lie, me laulamme: <hi rend="italic">ergo bibamus!</hi>
+            </p>
+            <p rend="justify">Ihmisyyden rajat.</p>
+            <p rend="justify">Kun ikivanha, pyhä taivaan taatto tyynellä kädellä piirtävistä pilvistä siunaavat salamat maan yli kylvää, ma suutelen viimeistä vaatteensa poimua, rinnassa hartaus ja lapsen pelko.</p>
+            <p rend="justify">Näät ei kera taivaisten itseään mitata ihmisen tule. Jos hän nousee ja kiireellänsä pilviä koskee, niin missään maahan ei kanta iske, hän on leikkikalu tuulten ja pilvein.</p>
+            <p rend="justify">Seisoen lujin, luisevin nivelin kauniisti kaartuvalla, vankalla maalla, ei hän yllä ees tammen latvaan, niinipuun ei vertainen ole.</p>
+            <p rend="justify">Mikä erottaa jumalat ihmisistä? Että heidän eellään monet aallot käyvät, ikuinen virta: meidät nostaa aalto ja ahmaa aalto ja me uppoomme.</p>
+            <p rend="justify">Pieni piiri elomme rajoittaa, ja monet sukukunnat liittyvät lujasti olemassa-olonsa köyteen katkeamattomaan.</p>
+            <p rend="justify">Jumaluus,</p>
+            <p rend="justify">Jalo olkoon ihminen, avulias ja hyvät Sillä se yksin erottaa meidät kaikista olennoista, jotka tunnemme.</p>
+            <p rend="justify">Terve te oudot, korkeammat olennot, joita aavistamme! Kaltaisenne ihminen olkoon, esimerkki, että teihin uskoisimme.</p>
+            <p rend="justify">Sillä luonto on tunteeton aurinko paistaa yli hyvän ja pahan, ja syypään polulla kuin syyttömän, loistavat kuu sekä tähdet.</p>
+            <p rend="justify">Tuuli ja virrat, ukkonen ja rakeet humisevat tietään, ja ohitse rientäen tarttuvat toiseen niinkuin toiseen.</p>
+            <p rend="justify">Niin kulkevi onni myös ihmisten kesken, pään päältä poian kutri-puhtaan vikapään miehen kaljulle kiireelle.</p>
+            <p rend="justify">Ikuisten, vaskisten, suurten lakien mukaan meidän täytyy täyttää elomme piiri.</p>
+            <p rend="justify">Vain ihminen yksin mahtaa mahdotonta: hän valikoi, erottaa, tutkii, tuomitsee; voi hetkelle antaa pitemmän ijän.</p>
+            <p rend="justify">Hänen yksin on voima hyvää palkita, pahaa rangaista, parantaa, pelastaa, häilyvää, harhaista hyötyhyn sitoa.</p>
+            <p rend="justify">Ja me kunnioitamme kuolemattomia kuin oisivat ihmisiä, tekisivät suuressa, mitä parhaat pienessä tekevät, tahtovat.</p>
+            <p rend="justify">Jalo ihminen olkoon avulias ja hyvä! Tehköön hyötyä, oikeutta, olkoon esikuva olentojen aavistamaimme.</p>
+            <p rend="justify">Jumalattareni.</p>
+            <p rend="justify">Kelle kuolemattomista kiitos nyt korkein? Kiistelemättä saakoon sen taivahan outo tytär, tuo aina uusi, tuo ijäti liikkuva Taaton helmalaps, Fantasia.</p>
+            <p rend="justify">Näät hälle Yli-isä salli kaikki oikut omansa, jotka muuten hän itse pitää, ja häntä huvittaa huppana tuo.</p>
+            <p rend="justify">Käyköön hän seppelpäänä, lilja kädessään, kukkaniituilla, kesälintujen käskijänä, ja juokoon kastetta kukkain janoon keveään mehiläishuulin.</p>
+            <p rend="justify">Taikka hän juoskoon hajalla hapsin, silmä synkkänä tuulen tupia, tunturihuippuja, väri-välkkyen niinkuin aamu ja ehtoo, alati vaihtuen kuin kuolevaiselle vaihtuvat katsehet kuun.</p>
+            <p rend="justify">Kiittäkäämme kaikki Isää, vanhaa, ylhää, mi moisen kauniin, kuihtumattoman, kuolevaiselle antanut puolison on.</p>
+            <p rend="justify">Näät meihin yksin tuon immen liitti hän taivas-sitein, ja käski häntä ilossa, murheessa uskollisna, pyhänä pysymään.</p>
+            <p rend="justify">Kaikki muut sukukunnat kurjat lapsirikkaan, eloisan maan käyvät, kaitsevat tummin riemuin, himmein tuskin äärtä elämän hetkellisen, pakkotarpeen ikeen painamina.</p>
+            <p rend="justify">Mutta meille hän antoi armaimman, hemmotellun tyttärensä! Tuota lempikää kuin lemmittyä! vaimon arvo talossa antakaa!</p>
+            <p rend="justify">Ja älköön vanha anoppiviisaus herkkä-henkeä haavoittako!</p>
+            <p rend="justify">Myös tunnen hänen siskonsa, vanhemman, hiljaisen, ylevän ystävättäreni. Ah, että vasta elon valkeuden kanssa hän eroisi minusta, tuo jalo jaksaja, lohduttaja, Toivo!</p>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>SCHILLER</head>
+            <p rend="justify">Sveitsin lauluja.</p>
+            <p rend="justify">1.</p>
+            <p rend="justify">Kalastajapoika.</p>
+            <lg>
+               <l>    Vesi uimahan vaativi, maininki päilyy,</l>
+               <l>    poika rannalle nukkui, ruohikko häilyy,</l>
+               <l>          hän helkkehen kuulee</l>
+               <l>          kuin huilujen ois,</l>
+               <l>          kuin enkelikuorot</l>
+               <l>          maill' Edenin sois.</l>
+               <l>    Hän herää, jo autuutta ahmaisee,</l>
+               <l>    hänen rintaansa lainehet huuhtoelee.</l>
+               <l>          Soi aalloista ääni:</l>
+               <l>          mies nuor', ole mun!</l>
+               <l>          Ma nukkujan noudan</l>
+               <l>          jo nuorena sun.</l>
+            </lg>
+            <p rend="justify">2.</p>
+            <p rend="justify">Paimen.</p>
+            <lg>
+               <l>          Kesä keikkuen läks,</l>
+               <l>          jäi laitumet huoleen,</l>
+               <l>          syys saa, kotipuoleen</l>
+               <l>          jo paimenet käy.</l>
+               <l>    Me vuorille lähdemme, jällehen näymme,</l>
+               <l>    käen laulavan kanssa kun laaksoja käymme,</l>
+               <l>    kun lähtehet läikkyy ja maa pukeuu,</l>
+               <l>    runot raikuu ja tohisee toukojen kuu.</l>
+               <l>          Kesä keikkuen läks,</l>
+               <l>          jäi laitumet huoleen,</l>
+               <l>          syys saa, kotipuoleen</l>
+               <l>          jo paimenet käy.</l>
+            </lg>
+            <p rend="justify">3.</p>
+            <p rend="justify">Alppi-ampuja.</p>
+            <lg>
+               <l>    Jyly vuorilla käy, epävarma on tie,</l>
+               <l>    ei pelkää, ken alppi-ampuja lie,</l>
+               <l>          hän uljaana astuu,</l>
+               <l>          on ympäri jää,</l>
+               <l>          kevät ei kuki, virpi</l>
+               <l>          ei vihreäpää.</l>
+               <l>    Hänen allansa on meri usmainen ain,</l>
+               <l>    hälle maailma on rako pilvien vain,</l>
+               <l>          hän ihmisten kaupungit</l>
+               <l>          unhoittaa,</l>
+               <l>          mikä luonnon on muoto</l>
+               <l>          ja kukkiva maa.</l>
+            </lg>
+            <p rend="justify">Walter.</p>
+            <p rend="justify">Myötä nuoli, jousi vuorta, korpea metsästäjä nousi aamunkoitossa.</p>
+            <lg>
+               <l>    Niinkuin ilmat ylhät</l>
+               <l>    kotka hallitsee,</l>
+               <l>    metsämiesi jylhät</l>
+               <l>    vaarat vallitsee.</l>
+            </lg>
+            <p rend="justify">Nuolenkantamalta hänen kaikki on, saalis yltä, alta yhtä verraton.</p>
+            <p rend="justify">Hautavirsi.</p>
+            <p rend="justify">Pian saapuu kuolo ihmisen, ei pitkää anna aikaa armon, pois tempaa kesken päivien, pois syöksee kesken toimen, tarmon, liet valmis tai et, pakko sulla on tuomarisi eteen tulla.</p>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>HEINE</head>
+            <p rend="justify">Pohjanmeri.</p>
+            <p rend="justify">1.</p>
+            <p rend="justify">Kruunaus.</p>
+            <p rend="justify">Te laulut! Hyvät lauluni! Nyt nouskaa! Asestaikaa! Torvia soittakaa, kilvelle nostakaa tää nuori tyttö, sydämeni valtiatar, mun kuningattareni.</p>
+            <p rend="justify">Terve! Nuori valtiatar! Otan auringolta tuon punakirkkahan kullan, teen otsalehden, painan sen päähäsi pyhään. Sinisilkistä liehuvan taivahan teltan, missä timantit yön säkenöivät, palan kalliin leikkaan, kruunausviittana käärin sen ympäri ylpeän olkapääsi. Sua palvelemaan panen sonetit kankea-pukuiset, kolmisoinnut korskat ja kohteliaat säe-kahdeksikot. Hovijuoksijas olkoot mieleni juohteet, hovinarrisi mieleni väikkyvät kuvat, ja airut, min kilvessä naurava kyynel, olkoon lauluni leikki. Mutta ma itse, valtiatar, eessäsi maahan vaivun ja kunnioittaen ojennan sulle samettipatjalla punaisella sen järki-vähän, min säälistä minulle jätti vielä sun valtasi edeltäjätär.</p>
+            <p rend="justify">2.</p>
+            <p rend="justify">Iltahämärä.</p>
+            <p rend="justify">Yksin, ankeissa aatoksissa, meren rannalla valjulla istuin. Päivä painui, vesille hehkuvat juovat heitti, ja valkeat, laajat laineet, joita vuoksi ajoi, pauhaten, vaahdoten luo, liki vieri. Oli kohina outo, oli kuiskutus kumma, oli nauru ja mumina, huokaus ja humina, sen keskellä kehtolaulun viehkeä virsi; oli kuin oisin kuunnellut menneitä taruja, vanhoja, armaita, poikana kerran joita ma naapurinlapsilta opin, kun kesä-illoin kodin porraspaasilla vaivuimme vienohon kertoiluun, sydän sykkien pieni, silmä kärkkyen viisas; sill' aikaa kuin tytöt suuret ruusuisin poskin ikkunassa istuivat, kuuta paistattivat takaa tuoksuvan kukkaruukun.</p>
+            <p rend="justify">3.</p>
+            <p rend="justify">Auringonlasku.</p>
+            <lg>
+               <l>    Hehkuvan punainen päivä astuu</l>
+               <l>    alas laajalle läikkyvään,</l>
+               <l>    hopeanharmaasen valtamereen;</l>
+               <l>    ruusureunaiset ilmakuvat</l>
+               <l>    kulkevat jälessä; vastapäätä</l>
+               <l>    syyshämäräisistä pilvihunnuista</l>
+               <l>    niinkuin kalman-kalpeat kasvot</l>
+               <l>    nousee kuu,</l>
+               <l>    ja sen jälessä, kuin valokipunat, kirpoo</l>
+               <l>    tähdet usma-aavat.</l>
+            </lg>
+            <p rend="justify">Kerran kannella taivaan loistivat vihkiparina Kuu, jumalatar, ja Aurinko, jumala, ja heidän ympäri tähdet kuin pienet, syyttömät lapset kiersi.</p>
+            <p rend="justify">Mut pahat kielet purskuttivat eripuraisuutta ja vihassa erosi korkea, loistava aviopari.</p>
+            <p rend="justify">Nyt päivin, yksinäisessä loistossansa, auringon-jumala taivasta astuu, palveltu, laulettu paljon vuoks ihanuutensa maassa ihmisten ylpeiden, onnen-koventamien. Mutta öisin taivasta kulkee Kuutar, äiti raukka, orpojen tähtilastensa kera ja paistaa murheessa hiljaisessa, ja lempivät neidot ja laulajat vienot vihkivät hälle laulunsa, kyyneleensä.</p>
+            <p rend="justify">Kuutar kulta, jolla on naisen mieli, lempivi yhäti kaunista puolisoansa. Kun ilta joutuu, se valjuna, vavisten kuuntelee utupilven takaa ja katsoo kaihoten eroavaista ja tahtoisi tuskassa huutaa: "Tule! Tule! Lapseni sua ikävöivät —" Mutta uhmainen auringon-jumala puolison nähden syttyy punaan, purppurahan vihan ja tuskan, rientää leppymättömänä laine-kylmään leskivuoteesensa.</p>
+            <p rend="justify">*</p>
+            <p rend="justify">Pahat kähyjen kielet saattoivat tuskaa ja turmiota iki-jumalten itsensä yli. ja jumala-raukat kannella taivaan kulkevat tietään ääretöntä, lohdutonta, kärsimys-täyttä, eivät kuolla voi, kera kuljettavat kurjuuttaan säde-kimmeltävää. Mut ihminen, minä, maan taimi, jolla on kuoleman onni, en valita enää.</p>
+            <p rend="justify">4.</p>
+            <p rend="justify">Yö rannikolla.</p>
+            <p rend="justify">Tähdetön, kylmä on yö, meri haukottelee; ja vatsallaan meren päällä lepää muodoton, muikea pohjatuuli, ja hiljaa, ähkyvän matalin äänin kuin ukon-käriläs, jonka on hyvä mieli, hän loruilee, veen väelle hassutuksia haastaa, jättiläistaruja, hirtehisleikkiä, Turjan harmaita tutkelmoita, taas, kauas-kaikuen, nauraa ja ulvoo Eddan tuotteita, loihtulauluja, niin jylhän-jyrkkiä, taian-vankkoja, että veen valkeat lapset hyppivät, heiluvat, riemuitsevat ylimielen-hurmassa.</p>
+            <p rend="justify">Mut hiekalla, kuohujen kastelemalla, rantaa laakaa pitkin vieras kulkee, min sydän on hurjempi kuin meri, tuuli. Kussa hän astuu, kipunat kirpoo ja raakut rauskaa; hän tiukasti kiintää viittansa harmaan ja halkoo nopsahan tuulista yötä, varmana oppaanaan valo pieni, mi kutsuen, lempeenä loistaa yksinäisestä kalastajamökistä.</p>
+            <p rend="justify">Isä ja veikko merellä ovat; ypö-yöllisen yksin jäi majaan kalastajatyttö. Takan luona hän istuu, kuuntelee vesikattilan virttä ja tuleen räiskyvään risun heittää ja lieteen puhuu; punalieskavat liekit luovat tenhoisan, kauniin kajon yli kukkivan posken, yli hennon, valkean olkapään, mi orpona esiin pistää paidasta harmaasta, karkeasta; yli myös käden pienen, toimeliaan, alushametta kiinnittäväisen ympäri hienon lanteen.</p>
+            <p rend="justify">Mutta äkkiä aukee ovi, käy sisään yöllinen vieras; lemmen-varmana silmänsä lepää tytössä hoikassa, valkeassa, mi väristen seisoo niinkuin säikkynyt lilja. Ja vieras viittansa maahan heittää ja nauraa ja puhuu:</p>
+            <p rend="justify">"Näetkö, lapsi, ma sanani pidän, ma tulen, mun kanssani tulee aika vanha, jolloin jumalat astuivat ihmisten tytärten luokse ja kaulaten ihmisten tyttäriä kera heidän siittivät ruhtinas-sukuja, valtikka-heimoja, urhoja, ihmeitä maan. Toki älä nyt kauemmin ällistele jumaluuttani, laps, sua pyydän vaan, tee-rommia keitä, on ulkona kylmä ja voi yön ilma myös meit' ikivaltoja pahoin pidellä: helposti saamme me nuhan jumalaisen, kuolemattoman yskän."</p>
+            <p rend="justify">5.</p>
+            <p rend="justify">Tunnustus.</p>
+            <p rend="justify">Hämäräinen lankes ehtoo, hurjemmin kohisi meri, ma istuin rannalla, katsoin kisaa aaltojen valkeain. Mun rintani paisui niinkuin vuoksi ja kuin koti-ikävä mieleni täytti, sua kaipasin, kuva armas, mi ympärilläni liikut, mua kaikkialla mi huudat, kaikkialla, kaikkialla, pauhussa tuulen, kuohussa aallon ja huokauksiss' oman rinnan.</p>
+            <p rend="justify">Ma kaislalla hennolla kirjoitin santaan: "Agnes, ma rakastan sua!" Mut vyöryivät pahat aallot yli tunnustukseni vienon ja pyyhkivät pois sen.</p>
+            <p rend="justify">Kaisla, sa hauras, hiekka, sa häilyvä, vierivä aalto, nyt enää usko en teitä, jo taivas tummuu, jo järkeni sammuu ja kourin vankoin korvesta Turjan ma hongan tempaan ja kastan sen tulikitaan Etnan ja leimuavalla näin jättien kynällä kirjoitan kannelle taivaan synkän: "Agnes, ma rakastan sua!"</p>
+            <p rend="justify">Joka yö on loistava siellä ikiliekissä lempeni kirjoitus ja kaikki kasvavat polvet noita lukevat riemuiten taivahan sanoja: "Agnes, ma rakastan sua!"</p>
+            <p rend="justify">6.</p>
+            <p rend="justify">Yö kajutassa.</p>
+            <p rend="justify">Merellä päärlyt ovat ja taivahalla tähdet, mutta sydän, oi sydän, on sulla lempes.</p>
+            <lg>
+               <l>    Ovat suuret meri ja taivas,</l>
+               <l>    mut suurempi sydämeni,</l>
+               <l>    ja kauniimmin kuin päärlyt</l>
+               <l>    ja tähdet lempeni loistaa.</l>
+            </lg>
+            <p rend="justify">Sa pieni, nuori tyttö, tule suureen sydämeeni; sydän, meri ja taivas hukkuu vain pelkästä rakkaudesta.</p>
+            <p rend="justify">* * *</p>
+            <p rend="justify">Siniselle taivahalle, missä kauniit tähdet kiiluu, tahtoisin ma huulet hurjat painaa, itkeä myrskyisästi.</p>
+            <lg>
+               <l>    Tähdet nuo ovat kullan silmät,</l>
+               <l>    tuhatkerroin kimmeltävät,</l>
+               <l>    tervehtävät herttaisesti</l>
+               <l>    siniseltä taivahalta.</l>
+            </lg>
+            <lg>
+               <l>    Kohden sinitaivaan kantta,</l>
+               <l>    kullan silmiä vilkkuvia,</l>
+               <l>    kädet kohotan ma hartaat</l>
+               <l>    ja ma pyydän ja ma palvon:</l>
+            </lg>
+            <p rend="justify">"Silmät vienot, armon valot, suokaa mulle sielun autuus, sallikaa mun kuolla, saada teidät koko taivaan kanssa!"</p>
+            <p rend="justify">* * *</p>
+            <p rend="justify">Säkenöivät taivas-silmät kirpoo kultakipunoita halki yön, ja sydämeni laajentuu niin lemmen-laajaks.</p>
+            <p rend="justify">Oi, te taivas-silmät siellä! Itkekää mun sydämeeni, että tähtikyynel-tulva täyttäis koko sydämeni.</p>
+            <p rend="justify">* * *</p>
+            <p rend="justify">Tuutimana aallon syvän sekä unelmitten omain lepään hiljaa kajutassa pimeällä vuotehella.</p>
+            <lg>
+               <l>    Läpi luukku-aukon näen</l>
+               <l>    korkealta tähdet heljät,</l>
+               <l>    silmät lemmityt ja armaat</l>
+               <l>    armaan liioin-lempimäni.</l>
+            </lg>
+            <lg>
+               <l>    Silmät lemmityt ja armaat</l>
+               <l>    valvovat mun pääni päällä,</l>
+               <l>    ja ne viittoo ja ne vilkkuu</l>
+               <l>    siniseltä taivahalta.</l>
+            </lg>
+            <p rend="justify">Siniselle taivahalle katson kauan autuaana, kunnes valkopilven huntu peittää multa silmät armaat.</p>
+            <p rend="justify">* * *</p>
+            <p rend="justify">Laivan seinään lautaisehen, missä pääni unelmoiva lepää, lyövät aallot, hurjat aallot; ne humisevat mun korvaani salaa: "Hullu mies! Lyhyt on käsivartesi, taivas on laaja, ovat tähdet korkeat naulatut kiinni kultaisin nauloin; on huokaus turha, on kaipaus tyhjä, paras oisi, jos nukkuisit."</p>
+            <p rend="justify">* * *</p>
+            <p rend="justify">Näin unta ahomaasta autiosta, min kattoi lumi laaka, hiljainen, ja alla hangen hiljaa, haudattuna ma nukuin tuonen kylmän, kolkon unta.</p>
+            <p rend="justify">Mut alas puoleen hanki-haudan katsoi laelta taivaan tumman tähtisilmät, nuo silmät armaat, nyt niin voiton-varmat ja tyynen-kirkkaat, mutta lemmen-hellät.</p>
+            <p rend="justify">7.</p>
+            <p rend="justify">Merikummitus.</p>
+            <p rend="justify">Laivan laitaa vasten lepäsin, katselin kauan veteen peilikirkkaasen unelmoivin silmin. Yhä syvemmä katsoin ja katsoin, siks kunnes pohjasta meren näin ensin kuin hämypilven; se muodostui, värit sai, jo nousivat tornit ja kirkonkaaret ja vihdoin päivässä päilyvä kaupunki muinais-alankomainen ja ihmis-vilkas. Miehet mietteiset, musta-viitat, pitsikauluksin, kunniaketjuin, pitkin miekoin ja pitkin naamoin astuvat poikki kirjavan torin päin raatihuonetta porras-ylhää, jota kiviset keisarikuvat vahtivat valtikoin sekä miekoin.</p>
+            <lg>
+               <l>    Mut eessä pitkien huonerivein,</l>
+               <l>    miss' akkunat ovat kuvastin-kirkkaat,</l>
+               <l>    pyramiideiksi leikatut lehmuspuut,</l>
+               <l>    käy sulkku-suhisevat immet</l>
+               <l>    hoikka-varret, kukka-kasvot</l>
+               <l>    kainosti verhossa mustan myssyn</l>
+               <l>    ja kumpuavan hiuskullan.</l>
+               <l>    Sulhot kirjavat, puvussa Espanjan,</l>
+               <l>    ohi teikkaavat,</l>
+               <l>    päätä nyökkäävät.</l>
+               <l>    Vanhemmat rouvat</l>
+               <l>    ruskein, vanhanpartisin vaattein,</l>
+               <l>    helminauhoin ja rukouskirjoin</l>
+               <l>    kiiruhtavat</l>
+               <l>    tuomiokirkkoon suureen,</l>
+               <l>    minne kellojen kaiku</l>
+               <l>    ja urkujen pauhaavain sävel kutsuu.</l>
+               <l>    Minut itsenikin</l>
+               <l>    valtaa kaiun kaukaisen väristys outo!</l>
+               <l>    Alakuloisuus, syvä, ääretön kaipuu</l>
+               <l>    rintaani hiipii,</l>
+               <l>    rintaani tuskin tervehtyneesen;</l>
+               <l>    on kuin sydänhaavoja suuteleisivat</l>
+               <l>    huulet hellät</l>
+               <l>    auki jälleen;</l>
+               <l>    punapisarat kuumat</l>
+               <l>    vierivät vitkaan</l>
+               <l>    tuonne syvyyden kaupunkiin,</l>
+               <l>    yli vanhan talon,</l>
+               <l>    vanhan, korkeapäätyisen talon,</l>
+               <l>    niin surumielisen, ihmis-tyhjän;</l>
+               <l>    akkunassa</l>
+               <l>    vain impi istuu</l>
+               <l>    pää vasten kättä</l>
+               <l>    kuin lapsi orpo ja unhoitettu —</l>
+               <l>    ma tunnen sun, orpo, hyljätty lapsi</l>
+            </lg>
+            <p rend="justify">Niin syvään, meren-syvään siis minulta peityit sa oikusta lapsellisesta; etkä enää päässyt ylös, vaan istuit vieraana vieraiden ihmisten luona vuossadat pitkät, sill' aikaa kuin minä, sielussa kammo, yli kaiken maan sua etsein, yhä, aina etsein, sa aina-lemmitty, kauan-kaivattu, vihdoin-löydetty! Löysin ma sun, näen, näen minä jälleen sun kasvojes sulon, nuo silmät viisaat ja uskolliset ja hymysi armaan; enkä ma milloinkaan sua heitä, alas astun ja luoksesi riennän, syli auki syöksyn sun, heleän, helmaas!</p>
+            <p rend="justify">Mutta aikaan oikeahan jalkaani kapteeni tarttuu ja vetää mun laivanlaidalta pois ja huutaa suuttuen, naurain: "Tohtori, piru teitä riivaa!"</p>
+            <p rend="justify">8.</p>
+            <p rend="justify">Rauha.</p>
+            <p rend="justify">Korkealla seisoi päivä, taivaan valkeat pilvet peitti, oli meri tyyni ja miettien istuin ma perässä laivan haaveksien; ja puoli-unessa, puolivalveilla näin minä Herran, maan Vapahtajan. Vaatteessa valkean-aaltoavassa hän pilven-pitkänä kulki yli maan ja meren; kohos päänsä korkean taivahan kupuun, hän kätensä siunaten laski yli maan ja meren; ja rinnassa, sydämenään hän kantoi päivää, punaleimuavaa kesäpäivää; ja punainen, hehkuva aurinko-sydän se valoi armonsa säteet ja valonsa lempeän, armaan, loistaen, lämmittäen yli maan ja meren.</p>
+            <p rend="justify">Kellojen kaiut juhlalliset niinkuin joutsenet kuljettivat ruusuköysin laivaa lainehilla; vetivät rantaan vehreähän, miss' ihmiset asuu, kohoo kaupunki torni-kaunis.</p>
+            <p rend="justify">O, rauhan ihme! On kaupunki hiljaa, ei kuulu sen kumea pauhu, ei arkitointen kielevä, mielevä sorina; kaduilla puhtailla, kaikuvilla käyvät ihmiset valkea-vaatteet palmunlehviä kantain; ja kussa kaksi yhtyy, he katsovat poven pohjaan toistaan ja värähtävät vienosta, armaasta alttiudesta; he toistaan otsalle suutelevat ja katsovat ylös aurinko-sydämeen Herran, mi sovittaen alas säteilee punaista vertaan; ja kolmesti autuaina he lausuvat: "Kiitetty olkoon Jesus Kristus!"</p>
+            <p rend="justify">* * *</p>
+            <p rend="justify">Jos keksinyt oisit tuon unikuvan, kuoma kulta, mitä antaisit siitä! Sa, jonka on pää sekä jäsenet heikot, sa uskossa vahva, mi yksinkertaisuudessa palvelet kolminaisuutta pyhää, ja suutelet joka päivä korkean suosijattaresi mopsia, ristiä, kamaripiikaa; ja olet hurskastellen päässyt hovineuvoksen arvoon, sitten kanslianeuvoksen arvoon, vihdoin hurskaan kaupungin hallitukseen, missä hiekka ja usko kukkii ja pyhän Sprean nöyrä vesi sieluja pesee ja teetä pilaa — josp' oisit keksinyt tuon unikuvan, kuoma kulta!</p>
+            <p rend="justify">Sa veisit sen kaupalle paikkaan korkeampaan, sun kasvosi pehmeät, pilkkiväiset sulaisivat autuaina aivan nöyrään hartauteen; ja korkea suosijattaresi ihastuneena, iionhurmassa rukoillen kanssasi polvistuisi; ja hänen silmänsä säteilevä sinulle lahjapalkkion lupais, sata Saksan taaleria käypää rahaa; sa kädet ristien sammaltaisit: "Kiitetty olkoon Jesus Kristus!"</p>
+            <p rend="justify">Sotaveikot.</p>
+            <p rend="justify">Päin Ranskaa urhoa kaks samoaa, oli kumpikin Venäjän vanki. Majapaikan kun Saksassa kerran he saa, alas painuu pää molemmanki.</p>
+            <lg>
+               <l>    Sanan kuulivat: Kuollut on Ranska, sen</l>
+               <l>    jo hautoja kattaa hanki,</l>
+               <l>    on voitettu armeija urhoollinen</l>
+               <l>    ja keisari, keisari vanki!</l>
+            </lg>
+            <lg>
+               <l>    He kauan yhdessä itkevät, kun</l>
+               <l>    tuon murhesanoman saavat.</l>
+               <l>    Yks lausuu: "Ah, taas sairastun,</l>
+               <l>    taas vuotaa vanhat haavat."</l>
+            </lg>
+            <lg>
+               <l>    Näin toinen: "Täss' on laulun pää,</l>
+               <l>    ma tahdon kanssas kuolla,</l>
+               <l>    mut vaimo, lapset multa jää,</l>
+               <l>    ei heitä kenkään huolla.</l>
+            </lg>
+            <lg>
+               <l>    "Mitä vaimostain, mitä lapsistain,</l>
+               <l>    suru mulla on suuremmanki,</l>
+               <l>    palan kerjätköön, kuka köyhä vain,</l>
+               <l>    mut keisari, keisari vanki!</l>
+            </lg>
+            <lg>
+               <l>    "Tää pyyntö täytä kumppanin:</l>
+               <l>    jos nyt mun murtaa vaiva,</l>
+               <l>    vie Ranskahan ruumis kuitenkin,</l>
+               <l>    se Ranskan multaan kaiva!</l>
+            </lg>
+            <lg>
+               <l>    "Lyö rintaan risti kunnian</l>
+               <l>    ja punanauha myötä,</l>
+               <l>    piilukko paina kourahan</l>
+               <l>    ja vyölle miekka vyötä!</l>
+            </lg>
+            <lg>
+               <l>    "Näin valmiina varron ja kuuntelen kuin</l>
+               <l>    sotarinnassa äänetön vahti,</l>
+               <l>    kunis tykkien soi jyly rautaisin suin,</l>
+               <l>    käy ilmassa ratsujen tahti.</l>
+            </lg>
+            <p rend="justify">"Yli hautojen keisari ratsastaa, tuhat säilää säihkyy ja soittaa. Ma haudasta nousen ja taistelen, haa, taas keisari, keisari voittaa."</p>
+            <p rend="justify">Kuolema on kylmä yö.</p>
+            <p rend="justify">Kuolema on kylmä yö, elämä on kuuma päivä. Jo hämärtää, uni joutuu, minut päivä on uuvuttanut.</p>
+            <p rend="justify">Yli vuoteeni nousee nuori puu, satakieli laulaa siinä; se laulaa lempeä pelkkää, ma kuulen sen unissanikin.</p>
+            <p rend="justify">Sinisin silmin kauan —</p>
+            <p rend="justify">Sinisin silmin kauan mua katsot, armas oi; mun mieleni haavehin haipuu, ma etten haastaa voi.</p>
+            <p rend="justify">Siniset silmäs muistan yöt päivät, yksinäin; sini-aavain aatosten myrsky ei pois mene mielestäin.</p>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>MUSSET</head>
+            <p rend="justify">Laulu.</p>
+            <p rend="justify">Kun keimaileva Toivo ohi kulkien käännähtää ja kyynärpäällään tyrkkää, käy eespäin ja hymyää;</p>
+            <lg>
+               <l>    mies mieltänsä silloin seuraa.</l>
+               <l>    Kevyt tuulessa pääskyn tie,</l>
+               <l>    mut painavampi on pääsky</l>
+               <l>    kuin mies, jota vietti vie.</l>
+            </lg>
+            <p rend="justify">Ah, tenhotar haihtuva, tietäs omin käynetkö askelin? Miks vanha Kohtalo saanut niin nuoren on lemmikin?</p>
+            <p rend="justify">Hyvästi.</p>
+            <lg>
+               <l>    Hyvästi! En elämässäni, luulen,</l>
+               <l>    sua kohtaa. Jumalan kulkevan kuulen,</l>
+               <l>    hän pois sinut kutsuu, hän unhotti minut;</l>
+               <l>    sua lemmin ma enin, kun kadotan sinut.</l>
+            </lg>
+            <lg>
+               <l>    Ei itkuja turhia: taakkani kannan.</l>
+               <l>    Ma vastaisuudelle arvon annan.</l>
+               <l>    Jo tulkohon huntu, mi huolii sun lymyyn!</l>
+               <l>    Kun lähdet sa pois, vedän huuleni hymyyn.</l>
+            </lg>
+            <lg>
+               <l>    Niin toivoa täynnä sa matkalle halaat,</l>
+               <l>    niin ylpeyttä täynnä sa matkalta palaat,</l>
+               <l>    mut jälkeesi jää moni suruun ja huoleen,</l>
+               <l>    et enää sa heidän katsone puoleen.</l>
+            </lg>
+            <lg>
+               <l>    Hyvästi! Käyt unen kaunihin iloon</l>
+               <l>    ja vaarallisen huvin hulluhun kiloon.</l>
+               <l>    Sun tiellesi tähti on noussut, se vielä</l>
+               <l>    on kauan sun tuikkiva elosi tiellä.</l>
+            </lg>
+            <lg>
+               <l>    Mut kenties kerran sa huomaat hinnan,</l>
+               <l>    mitä maksaa ymmärrys rakkahan rinnan,</l>
+               <l>    mikä aarre on löytää ystävä ylin,</l>
+               <l>    mikä kärsimys kadottaa kallehin syli.</l>
+            </lg>
+            <p rend="justify">Minon.</p>
+            <p rend="justify">Jos sanoisin sentään, että ma rakastan sua, mitä vastaisit, sinisilmä, ruskeatukka? Sa tiedät, rakkaus kiusaa rangaistua, jos tuskani tuntisit, sinä säälisit mua; tai kenties rankaiseis mua ruskea kukka.</p>
+            <lg>
+               <l>    Jos sanoisin sentään, että kuuta jo kuusi</l>
+               <l>    ma vaieten vaivaa toivojen hullujen siedän!</l>
+               <l>    Ninon, olet viisas, ja huoleton, punainen suusi</l>
+               <l>    on ennalta vastannut moneen jo arvailuusi;</l>
+               <l>    kenties sinä virkkaisit vain tään: "Minä tiedän."</l>
+            </lg>
+            <lg>
+               <l>    Jos sanoisin, ett' olen suloisen hulluuden vanki,</l>
+               <l>    olen orjasi iki ja varjona seuraan ma sua!</l>
+               <l>    Pien' epäilyn piirre ja murheen murtelevanki,</l>
+               <l>    sa tiedät, Ninon, voi soristaa soreanki;</l>
+               <l>    kenties sinä vastaisit, ett'et usko mua.</l>
+            </lg>
+            <lg>
+               <l>    Jos sanoisin, että mun sieluni pohjahan puuttuu</l>
+               <l>    sana pienin, jonka me joskus vaihdamme illoin!</l>
+               <l>    Sa tiedät, Ninon, sinisilmää kaksi jos suuttuu;</l>
+               <l>    lyö taivahat tulta ja maailma mustaksi muuttuu,</l>
+               <l>    kenties sinä kieltäisit minun käyntini silloin.</l>
+            </lg>
+            <lg>
+               <l>    Jos sanoisin, että yöni ma huokaan hukkaan,</l>
+               <l>    että itken päivät ja rukoilen runoja sulle;</l>
+               <l>    Ninon, kun naurat ja luomesi luot runo-rukkaan,</l>
+               <l>    vois eksyä perho sun punaisten huultesi kukkaan;</l>
+               <l>    jos sanoisin sen, sinä kenties nauraisit mulle.</l>
+            </lg>
+            <p rend="justify">Siis en sano mitään. — Luoksesi saavun, ma luulen, kuin ennen ja istun lamppusi luo pakinoiden; ma hengitän henkäystäs, minä äänesi kuulen, voit epäillä, arvata, sipristää simahuulen, nää silmäs ei syytä, mi kaihtaa vois sulot noiden.</p>
+            <p rend="justify">Ma salaa poimin kukkia kummia illoin, sun takanas kuuntelen, kun säveliin sinä aukeet; yli soittimen kulkevan nään kätes valkean silloin, ja valssihin riemuavaan kun yhdymme milloin, ma tunnen, kuin käsivarsiini ruokona raukeet.</p>
+            <p rend="justify">Ja öisin, maailma kun välillämme laaja, kun kotiini käyn sekä suljen huoneeni oven, mun ympäri yössä muistojen tarha on taaja, ja vain jumalalle, kuin ahnas aartehen saaja, tuon julki ma sua täpötäydet lippahat poven.</p>
+            <lg>
+               <l>    Ma lemmin, sa et sitä tiedä, ma en sitä sano,</l>
+               <l>    ma lemmin, ja kyllin en voi jumaloita ma kiittää.</l>
+               <l>    Rakas mulle on rakkautein, pyhä lempeni jano;</l>
+               <l>    olen vannonut, rakkaudelta en toivoa ano,</l>
+               <l>    vain onnea, saan sitä myös: — sinut nään ja se riittää.</l>
+            </lg>
+            <p rend="justify">Ylin ollut ei mulle, ah, auvo se ansaittua: sun syliisi kuolla ja elää sun jalkojes eessä. Tuon tuskakin todistaa, joka vaivaa mua… jos sanoisin sentään, että ma rakastan sua! Mitä virkkaisit, sinikukka synkässä veessä?</p>
+            <p rend="justify">Suru.</p>
+            <p rend="justify">Mun eloni mennyt on hukkaan, ilo poissa ja ylpeys ja voima, ainut ystävä epäily, soima, kun neroni päässyt ei kukkaan.</p>
+            <p rend="justify">Kun Totuuden tuntemaan tulin, sitä ystäväks ensin ma luulin, mut Totuuden kun sanat kuulin, sen ohi jo kernaasti kulin.</p>
+            <lg>
+               <l>    Se sentään on ihana iki!</l>
+               <l>    Ja ken sitä käynyt ei liki</l>
+               <l>    maan päällä, ei ymmärrä mitään.</l>
+            </lg>
+            <lg>
+               <l>    Hyvä kaikki pois häviää nyt.</l>
+               <l>    Herra puhuu, vastata pitää;</l>
+               <l>    vain itkuni mulle on jäänyt.</l>
+            </lg>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>G. BRANDES</head>
+            <p rend="justify">Vaeltava ritari.</p>
+            <p rend="justify">Niin kauan kuin vääryyttä puolustetaan, kuin en kohdannut voittajaani, kuin kunnian laakerin kaunistetaan päät konnien kautta ulkomaan ja kautta myös Tanskanmaani;</p>
+            <p rend="justify">niin kauan on sieluni myrskyinen ja kulkeva ritari kulkee. Voi, ijäisyyden ma tarvitsen, kuin muutkin hauta mun sulkee.</p>
+            <p rend="justify">Huhtik. 1859.</p>
+            <p rend="justify">Proteus.</p>
+            <lg>
+               <l>    Proteus ei ole kuiva eikä kylmä,</l>
+               <l>    on luontonsa lämmin kuin auringonsilmä.</l>
+            </lg>
+            <lg>
+               <l>    Hän voi ihailla miestä: on ihailu rikkaus;</l>
+               <l>    hän jumaloi naista: on jumala rakkaus.</l>
+            </lg>
+            <lg>
+               <l>    Jos miehell' on raja ja naisella pisama,</l>
+               <l>    hänen silti ei sammu ihailun vasama.</l>
+            </lg>
+            <lg>
+               <l>    Mut jos joku luuli, ett' on vanki hän konsaan,</l>
+               <l>    hän huomasi, Proteus ei antaudu ansaan.</l>
+            </lg>
+            <lg>
+               <l>    Hän ei voi ystävä joka-miehen olla,</l>
+               <l>    on itsensä kaikkien muotojen alla.</l>
+            </lg>
+            <lg>
+               <l>    Hän erikoista etsii, ei erikoinen itse,</l>
+               <l>    hän rakastaa suurta, siihen pyrkivi katse.</l>
+            </lg>
+            <lg>
+               <l>    Maistre vanhoillinenkaan häntä ei peljätä;</l>
+               <l>    Lassallea kiittää hän voi, opin hyljätä.</l>
+            </lg>
+            <lg>
+               <l>    Hän vapautta lempii, mut ilman lippua;</l>
+               <l>    hän murehtia voi myös tyrannin loppua.</l>
+            </lg>
+            <lg>
+               <l>    Tuhat tehdä hän voi joka hetkestä huomiota;</l>
+               <l>    mut hällä on naamio, on sata naamiota.</l>
+            </lg>
+            <lg>
+               <l>    Hänen tarvis ei olla valenimien takainen:</l>
+               <l>    hän omassa nimessään on valepukuinen.</l>
+            </lg>
+            <lg>
+               <l>    Monet kutsuvat häntä kiihoittajaksi.</l>
+               <l>    Sana tosi jos oisikin, ois se vaan yksi!</l>
+            </lg>
+            <lg>
+               <l>    Se tyhjentävämpi ei selitys oisi</l>
+               <l>    kuin jos hän uneksijan mainesanan saisi.</l>
+            </lg>
+            <lg>
+               <l>    Hän ei ole muka historioitsija,</l>
+               <l>    vaikka on menneiden kansojen kaitsija;</l>
+            </lg>
+            <lg>
+               <l>    hän vaikka on entisten aikojen tuntija</l>
+               <l>    kuin koskaan tieteellispatentin kantaja;</l>
+            </lg>
+            <lg>
+               <l>    hän vaikka on suurten henkien tutkija</l>
+               <l>    kuin koskaan pölyisten paperien matkija.</l>
+            </lg>
+            <lg>
+               <l>    Ne syöksevät hänen yli sappea, myrkkyä,</l>
+               <l>    ne tahtovat kuitenkin lähellä kärkkyä.</l>
+            </lg>
+            <lg>
+               <l>    Väitetään, on hällä salatarkoitus joku,</l>
+               <l>    vaikka on hän tuhma ja naivi hällä maku.</l>
+            </lg>
+            <lg>
+               <l>    Ei oppinut, ei runoniekka muussa</l>
+               <l>    kuin arvosteluissaan. Mi hirviö maassa!</l>
+            </lg>
+            <lg>
+               <l>    Vihollinen kirkon ja yhteiskunnan,</l>
+               <l>    radikaali — ja ystävä ylimyskannan.</l>
+            </lg>
+            <lg>
+               <l>    Aina paikallaan päin rahvasta raakaa.</l>
+               <l>    Mi otsake olla vois hänelle liikaa?</l>
+            </lg>
+            <lg>
+               <l>    Mut jos joku tahtoo sen käärmeen kettää,</l>
+               <l>    hän käärme-nopeasti nahkansa jättää,</l>
+            </lg>
+            <lg>
+               <l>    on kaukana, kun väki kirkuva uhkaa</l>
+               <l>    ja pistää ja tuikkii tyhjää nahkaa.</l>
+            </lg>
+            <p rend="justify">*</p>
+            <lg>
+               <l>    Toki vanhoissa taruiss' on Proteus kuvattu,</l>
+               <l>    hän siis on jo tuhatvuosia tavattu.</l>
+            </lg>
+            <lg>
+               <l>    Hän ammatiltansa on todenpuhuja,</l>
+               <l>    mut tarpeen tullen hän voi paljon pahoja.</l>
+            </lg>
+            <lg>
+               <l>    Ne häntä vangita kokeen tekivät,</l>
+               <l>    niin eessänsä partaisen leijonan näkivät;</l>
+            </lg>
+            <lg>
+               <l>    kun leijonata ajettiin, se oli salamanteri,</l>
+               <l>    ja sitten piikkisika ja sitten pantteri.</l>
+            </lg>
+            <lg>
+               <l>    Taas häikäisi hän kuin liekki ja tuli,</l>
+               <l>    mut myös tulimuodossa sama hän oli.</l>
+            </lg>
+            <lg>
+               <l>    Vesilähteeksi vaihtui ja kukkivaksi puuksi;</l>
+               <l>    sama aina, jos näit sinä muotojen taaksi.</l>
+            </lg>
+            <lg>
+               <l>    Sido häntä ei yksityinen hahmo, ei muoto,</l>
+               <l>    kun kaikkeus hän on, hälle mikään ei outo.</l>
+            </lg>
+            <p rend="justify">Hautakammio.</p>
+            <p rend="justify">(Koottujen teosten valmistuessa).</p>
+            <lg>
+               <l>          Mausoleum on valmis,</l>
+               <l>          joka paasi pantu,</l>
+               <l>          hakattu, tilkitty</l>
+               <l>          huolellisesti.</l>
+               <l>    Se on suuri, se on laaja; oven eessä</l>
+               <l>    kaks sfinksiä vahtina seisoo.</l>
+            </lg>
+            <lg>
+               <l>          Jos ovat sen suhteet</l>
+               <l>          selvät ja hyvät,</l>
+               <l>          jos viiva viivaan sattuu —</l>
+               <l>          ei säästetty työtä.</l>
+               <l>    Kaikk' on harkittu, punnittu parhain,</l>
+               <l>    kukin kohta laatunsa jälkeen.</l>
+            </lg>
+            <lg>
+               <l>          Öin aavisteltu,</l>
+               <l>          suunniteltu päivin,</l>
+               <l>          hiljaisuudessa</l>
+               <l>          vitkaan viimeistelty</l>
+               <l>    on työni. Se suorana nousee</l>
+               <l>    kuin itse pyhän omantunnon aate.</l>
+            </lg>
+            <lg>
+               <l>          Ja rakkaudella</l>
+               <l>          joka koriste tehtiin,</l>
+               <l>          lie hakattu kiveen</l>
+               <l>          tai poltettu saveen,</l>
+               <l>    se on sydämenlämmöllä luotu,</l>
+               <l>    koko sieluni siihen ma panin.</l>
+            </lg>
+            <lg>
+               <l>          En usko, että työ,</l>
+               <l>          minun elontyöni, pysyy.</l>
+               <l>          Se on merkitty, tiedän,</l>
+               <l>          se katoo, kaatuu.</l>
+               <l>    Töiden kuolemattomien tekoon</l>
+               <l>    en ollut minä mies kykenevä.</l>
+            </lg>
+            <lg>
+               <l>          On maine kuin meri:</l>
+               <l>          se nousee ja vaipuu;</l>
+               <l>          mun työni murenee,</l>
+               <l>          sen kuolema vihkii,</l>
+               <l>    mut paasista rakennuspaikan</l>
+               <l>    sadat majat ynnä kodit kohoavat.</l>
+            </lg>
+            <lg>
+               <l>          Mua siit' älä etsi,</l>
+               <l>          min muovasin muotoon!</l>
+               <l>          Mun parhaani lensi</l>
+               <l>          kuin myrsky ja tuli,</l>
+               <l>    löi säenten sähköisten parvet</l>
+               <l>    vailla määrää mun työpajastani.</l>
+            </lg>
+            <lg>
+               <l>          Kuin välkkyvä juova</l>
+               <l>          alla avaran taivaan,</l>
+               <l>          vangitsematon</l>
+               <l>          kuin meren vaahti</l>
+               <l>    oli olemukseni. Vain leimaus,</l>
+               <l>    valokaari se kaikkiaan oli.</l>
+            </lg>
+            <lg>
+               <l>          Ja kuului kuin humu,</l>
+               <l>          kuin herätys-huuto,</l>
+               <l>          sen tuhannet tunsi,</l>
+               <l>          se viittasi toivoon.</l>
+               <l>    Se oli ääni, mi korvesta kutsui,</l>
+               <l>    se vapaudenkasteella kastoi.</l>
+            </lg>
+            <lg>
+               <l>          Ja sotaan se soitti</l>
+               <l>          ja vapauden aamuun,</l>
+               <l>          se lempivät vihki,</l>
+               <l>          se laulajat sytti.</l>
+               <l>    Soi pohjolassa kannel tai kalpa,</l>
+               <l>    on kaikessa väre sitä ääntä.</l>
+            </lg>
+            <lg>
+               <l>          Ei hauta, jonka tein,</l>
+               <l>          ei siemen, jonka kylvin,</l>
+               <l>          päämäärääni näytä,</l>
+               <l>          elontyöni päätös ole.</l>
+               <l>    Se on versova, kasvava kauan,</l>
+               <l>    siksi kuin sydän-aatteeni täyttyy.</l>
+            </lg>
+            <lg>
+               <l>          Kun nälkää ei enää</l>
+               <l>          näe työn lapset,</l>
+               <l>          kun vaiva palkitaan</l>
+               <l>          ja vaimo saa leipää,</l>
+               <l>    oi, silloin on hiessä, joka virtas</l>
+               <l>    eestä voiton, pisar minun otsaltani.</l>
+            </lg>
+            <lg>
+               <l>          Kun valtiokirkko</l>
+               <l>          kerran maahan kaatuu,</l>
+               <l>          Jerikon torvien soidessa,</l>
+               <l>          maan järistessä,</l>
+               <l>    oi, silloin on pasuunain parvessa</l>
+               <l>    pieni torvi, jota minä kerran soitin.</l>
+            </lg>
+            <lg>
+               <l>          Kun idästä kaikuu:</l>
+               <l>          Terve, vapaus, terve!</l>
+               <l>          Kun herää hurja voima,</l>
+               <l>          kun Venäjä leimuaa,</l>
+               <l>    oi, silloin on roviossa varmaan</l>
+               <l>    säen pieni minun tulipalostani.</l>
+            </lg>
+            <lg>
+               <l>          Kun seppele päässä</l>
+               <l>          kerran Puola seisoo,</l>
+               <l>          vapaana, vankkana,</l>
+               <l>          ehjänä jälleen,</l>
+               <l>    oi, silloin on hurmeessa, joka</l>
+               <l>    sen hinta oli, osa hurmettani.</l>
+            </lg>
+            <lg>
+               <l>          Älä usko, että säikyn,</l>
+               <l>          siis vaikka tiedän,</l>
+               <l>          ma vaipuvan unhoon,</l>
+               <l>          mitä tein, kuka olin.</l>
+               <l>    Ajan vastaisen parhaissa elää</l>
+               <l>    on myös laji kuolemattomuutta.</l>
+            </lg>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>DRACHMANN</head>
+            <p rend="justify">Tarina.</p>
+            <p rend="justify">Oli kirkko, mahtava muinoisin, sen ympäri korpi sankka, toki nyt on se vanha ja rappeutunut — mut urkujen ääni on vankka.</p>
+            <lg>
+               <l>    Sen holvit on reikihin haljenneet,</l>
+               <l>    sen kaaret on kallellansa,</l>
+               <l>    tuon tuntee soittaja harmaapää,</l>
+               <l>    kun koskee hän soitintansa.</l>
+            </lg>
+            <lg>
+               <l>    Käsi mestarin päästää tohdi ei</l>
+               <l>    sen myrsky-ääniä soimaan,</l>
+               <l>    hänen tyytyä täytyy ja kansan myös</l>
+               <l>    vain hillityn sävelen voimaan.</l>
+            </lg>
+            <lg>
+               <l>    Taru kertoo: soittajan harmaapään</l>
+               <l>    tuon vangitsi naisen valta,</l>
+               <l>    yöstä päivästä silmät sen paistoivat,</l>
+               <l>    enin sävelten aaltojen alta.</l>
+            </lg>
+            <lg>
+               <l>    Tuli iltamessuhun nainen tuo;</l>
+               <l>    ne leimusi silmää kaksi,</l>
+               <l>    sopet hämärät haavehin täyttyivät,</l>
+               <l>    kohos kattokin korkeammaksi.</l>
+            </lg>
+            <lg>
+               <l>    Ne liekehti, leimusi silmää kaks,</l>
+               <l>    kyti pohjalla murheen hiili,</l>
+               <l>    punahuulilla neitseen hurmaus</l>
+               <l>    ja morsiussuukko piili.</l>
+            </lg>
+            <lg>
+               <l>    Tuo hullausi soittaja harmaapää,</l>
+               <l>    se aaltosi naispovi nuori</l>
+               <l>    kuin hälle ois tarjonnut kaiken sen,</l>
+               <l>    mitä verhosi vaatteen kuori.</l>
+            </lg>
+            <lg>
+               <l>    Hän tunsi ne aallot, hän huomas sen suun,</l>
+               <l>    hänet valtasi vaikea loihtu,</l>
+               <l>    säde illan ikkunat ruskosi kuin</l>
+               <l>    veripuuntavan sydämen soihtu.</l>
+            </lg>
+            <lg>
+               <l>    Sävel urkujen pauhaten, myrskyten soi,</l>
+               <l>    kuin tuomiontorvi suuri.</l>
+               <l>    Kansa kirkaisi. Taas tuli hiljaisuus.</l>
+               <l>    Oli murtunut kirkon muuri.</l>
+            </lg>
+            <p rend="justify">Syys-ilta.</p>
+            <lg>
+               <l>      Ilma värähti, päivä vaipuu;</l>
+               <l>      eron hetki himmeä ehti.</l>
+               <l>      Nyt tummuu lehti</l>
+               <l>      myös luona veen.</l>
+               <l>      Nyt, lauluni, nouse korkeuteen</l>
+               <l>      ja kerro mieleni kaipuu!</l>
+               <l>    Kas, syys-yössä kuihtuu se seppele nuori,</l>
+               <l>    min keijuset kevät-yön kulmille suori,</l>
+               <l>    syys tarjoo aate-seppelehen,</l>
+               <l>    mut raskahat, ah, ovat ruusut sen.</l>
+            </lg>
+            <lg>
+               <l>      Ne kastuivat kasteessa ehtoon,</l>
+               <l>      yö-pilven ne vihmassa päilyivät,</l>
+               <l>      ne nukkuivat tuulien kehtoon</l>
+               <l>      ja joskin ne sirpiltä säilyivät,</l>
+               <l>      ne hallan hengessä häilyivät.</l>
+               <l>    Surumielinen sai niistä kukkaissuku,</l>
+               <l>    väri vaikka on kaunis ja puhdas puku,</l>
+               <l>    ne tuoksuvat multaa kosteaa,</l>
+               <l>    ne lämpöä, päivää päin halajaa.</l>
+            </lg>
+            <lg>
+               <l>      Nyt nouse, lauluni, ilmahan yön</l>
+               <l>      ja kerro mieleni kaipuu!</l>
+               <l>      Vaikk' kukkaisvyön</l>
+               <l>      lemu poissa on</l>
+               <l>      ja kuudan on kalpea, armoton,</l>
+               <l>      viel' lauluhun mieleni taipuu.</l>
+               <l>    Mitä kevät-yö tuhlasi, luottaen kesään,</l>
+               <l>    sen syksy nyt kokoo synkkähän pesään.</l>
+               <l>    Ken tietää tuon, on voimakkain:</l>
+               <l>    vähän jäljellä enää on aikaa vain.</l>
+            </lg>
+            <p rend="justify">Minä vihaan suuria totuuksia —</p>
+            <p rend="justify">Minä vihaan suuria totuuksia, joita kantaa voi katupylväs, en tahdo ma olla maailmankuulu, en jumalien ystävä ylväs.</p>
+            <p rend="justify">Minä suuruutta lemmin, mi voitoista hyveen ja siveyden huoli ei lempoakaan, mulle rakkain on armeija sankarin takana: vähät, heikot ja vaivaiset maan.</p>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>
+               <label>V.</label>KRAG</head>
+            <p rend="justify">Runous.</p>
+            <p rend="justify">Lasi pieni, hieno, kirkas, siinä kullan kallis neste, jonka joka helmi syttää tulet suonten suihkamahan.</p>
+            <p rend="justify">Sadan liljasanan mahla, tuhat tuskan valmumieltä vasta rivin yhden pienen ijäks saavat tuoksumahan.</p>
+            <p rend="justify">Heleä heila.</p>
+            <p rend="justify">Taas nään minä taivahan siintävän ja auer ilmoja leijaa — oi, siintäös, taivas, siintäös niin, kun saapuvi heleä heila!</p>
+            <lg>
+               <l>    Täys nuppuja nuoria metsä on</l>
+               <l>    ja tuulet tuoksuja heijaa —</l>
+               <l>    oi, lemua, metsäni, lemua niin,</l>
+               <l>    kun saapuvi heleä heila!</l>
+            </lg>
+            <p rend="justify">Mun rintani pelkää ja riemuitsee, mun vereni seisoo ja seilaa — oi, seiso hiljaa sydämein, kun saapuvi heleä heila.</p>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>ANNA HAAVA</head>
+            <p rend="justify">Kyllä tuikkivat tähdet.</p>
+            <p rend="justify">Kyllä tuikkivat tähdet, niitä näe ma en. Kyllä ärjyvät tuulet, niitä kuule ma en. Sua näen, sua kuulen yksin ma, sa olet mun tuskani, riemuni sa.</p>
+            <p rend="justify">Anna tuikkia tähtein! Niitä näe ma en. Anna ärjyä tuulten! Niitä kuule ma en, niitä väistä ma en. Minä tahdon koko maailman unhoittaa, sua tahdon ma ainiaan armastaa.</p>
+            <p rend="justify">Kunne kuljen?</p>
+            <lg>
+               <l>    Oi, kunne koito kuljen ma?</l>
+               <l>    Ma orpo, ilman onnea.</l>
+               <l>    Tulevi tuuli, viepi mun</l>
+               <l>    ja myrsky huutaa: murran sun!</l>
+            </lg>
+            <lg>
+               <l>    Jo kylläks eikö murhetta?</l>
+               <l>    O, taivas, auta, armahda!</l>
+               <l>    Ma toki raudast' ole en —</l>
+               <l>    ma olen laululintunen.</l>
+            </lg>
+            <p rend="justify">Älä sa kysy!</p>
+            <p rend="justify">Oh, älä sa kysy, ma lemminkö sua, sa nääthän, mun sieluni on pakahtua! Ah, älä sa kysy, sa murhetat mua — ees itse en tiedä, ma lemminkö sua.</p>
+            <lg>
+               <l>    Niinkuin lilja aurinkoa,</l>
+               <l>    niinkuin lintu vapauttaan,</l>
+               <l>    niinkuin laiva lainehilta</l>
+               <l>    kaipaa kotivalkamaan;</l>
+            </lg>
+            <lg>
+               <l>    Niinkuin lapsi uinuvainen</l>
+               <l>    ääntä kaipaa äityen</l>
+               <l>    niinkuin totta ijäisintä</l>
+               <l>    eloss' etsii ihminen;</l>
+            </lg>
+            <p rend="justify">niinkuin laulun lohdutusta mieli kaipaa murheessa, niinkuin kurja kuolemata — niin sua ikävöitsen ma.</p>
+            <lg>
+               <l>    Onko se lempeä? En minä tiedä!</l>
+               <l>    Lempi lie paljon korkeempi viel',</l>
+               <l>    paljon kauniimpi, pyhempi paljon,</l>
+               <l>    siksi niin araksi käypi mun miel'.</l>
+            </lg>
+            <p rend="justify">Siks älä sa kysy, ma lemminkö sua, sa nääthän, mun sieluni on pakahtua. Jos lien sulle armas, niin armasta mua ja sano mulle itse, ma lemminkö sua.</p>
+            <p rend="justify">Kun oisin kuollut.</p>
+            <p rend="justify">Oi, oisinpa silloin kuollut, kun tuntenut ei mua kukaan, kun en edes itse tiennyt, min rakastan sua mitan mukaan.</p>
+            <lg>
+               <l>    Mun lempeni suuri ja syvä</l>
+               <l>    ois ijäksi mullassa ollut;</l>
+               <l>    mun lauluni, syömeni veri,</l>
+               <l>    nyt kaikille tiedoks on tullut.</l>
+            </lg>
+            <p rend="justify">Oi, oisinpa silloin kuollut, kun lempi ei polttanut mua: mun lempeni, mua väkevämpi, ei niin oisi kiusannut sua.</p>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>TAVASTSTJERNA</head>
+            <p rend="justify">Laureatus.</p>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>I.</label>
+               </head>
+               <p rend="justify">Laureatus obstinatus.</p>
+               <p rend="justify">Laureatus muiden lailla syntyi, potki, huus ja pestiin, juur' kun joulujauhot lestiin illan suussa Suomen mailla. Nukkui nuhtehia vailla, kasvoi, karttui kaunihiksi, talon pikku tyranniksi kuin on tapa kuninkailla.</p>
+               <p rend="justify">Lapsest' asti vaiva hällä tuot' ol' eroitusta nähdä, mitä voi ja tahtoo tehdä, mitä täytyy täytymällä. Piti päänsä, päällä tällä lakeja hän laati, antoi, uppiniskan nimen kantoi, varhaisvanhan myöhemmällä.</p>
+               <p rend="justify">Piennä piiskan koulut suori, potki vastaan varsan lailla, kärsi valitusta vailla — haavat arpeen, päälle kuori! Nuorten kesken vanha; nuori, vallan nuori vanhain luona, etsi kultaa, missä kuona, kuonaa, missä kultavuori.</p>
+               <p rend="justify">Pari ystävää ja hyvää, maailma muu vastassansa, näin hän nautti nuoruuttansa, etsi elämältä jyvää. Vapahasti merta syvää seilas nuoren miehen mielet; vaan jo kutsui toiset kielet virren töille viehättyvää.</p>
+               <p rend="justify">Oppimatta opin teitä lauloi Laureatus nuori, torpan tyttö soiton suori, koski kuohui säveleitä. Matkineeks ei tullut heitä maun ruhtinaita maassa, lauloi vain kuin rastas haassa oman syömen sytykkeitä.</p>
+               <p rend="justify">Kohta niitä lauleskeli joka piika, renki siellä, taikka missä maalla, tiellä vinkui viulu, käsipeli. Niissä ilo hurja eli, kieli ruotsin, suomen mieli, nuotti niinkuin koski nieli, sanat riemuin remahteli.</p>
+               <p rend="justify">Veren nuoren aallot kuumat, onnen ahjo, lemmen liesi! Ollut siin' ei höylän miesi, joka mittaa vaaksat, tuumat. Oli hengen nuoren huumat, tulet, onnet, innostukset, joille aukee sydän-ukset — harvoin kirjapainon ruumat.</p>
+               <p rend="justify">Siinä tuntui haju tallin, hollin, reen ja renkutuksen, tahti väärä tavauksen, jot' ei opin herrat salli: käskis käydä joka jallin runovuoren ruusuteitä, kuka sitten kuulis meitä? korko, laajuus mullin mallin!</p>
+               <p rend="justify">Laureatus laulajana tutkittihin, tuomittihin, suomustettiin, suomittihin, kynittiin kuin kylmä kana. Veri nuori vellovana tuosta paisui, tuosta nousi, suuret myrkkykuplat sousi, missä muinen onnen vana.</p>
+               <p rend="justify">Mielestään ei mennyt, miksi tahtomansa pyhin, parhain, pahimmaksi kääntyi varhain, hälle ikihäpeiksi. Veret muuttui mustemmiksi, sappi suomalainen suuttui, hauki nuotan päähän puuttui, häkkiin lintu lieto siksi.</p>
+               <p rend="justify">Nyt ol' aika hirnujaamme viedä hyödyn vempeleihin. Kovasti se koskee meihin, että satuloida saamme näin me parhaat nuoret maamme, mutta vitsa väännettävä nuorna on ja käännettävä iloks armaan isäinmaamme.</p>
+               <p rend="justify">Pesi kätensä Pilatus, kansa huusi: ristinpuuhun! Mutta vielä surman suuhun tahtonut ei Laureatus. Juur' tää julkeuden status hälle pilkkanimen antoi, jota sitten kauan kantoi Laureatus obstinatus.</p>
+               <p rend="justify">Nöyryyden ei valju valta seissut hänen kehdollansa: runon orhi vaahdossansa vaatii voimaa ratsahalta. Epäs ruoskan maailmalta, elämältä emon piiskan, nosti ylvään, korskan niskan korkealle ristin alta.</p>
+               <p rend="justify">Veri kuohui kulkevainen ja hän löysi ystäviä, neroja niin säihkyviä, ettei arvaa aikalainen. Ryypyn vaati aamiainen, ja hän kasti kaulaa, suuta, eikä tunnustanut muuta holhojaa kuin Herran vainen.</p>
+               <p rend="justify">Eikä niitä perinnöitä ollut ole holhotilla tämän taivaan tanhuvilla! Käyty siin' ei käräjöitä, käytetty ei konnantöitä: tuuli antoi, pilvi satoi, taivas lapsellensa latoi kukkasia, kuuhut-öitä.</p>
+               <p rend="justify">Laureatus lauloi, lempi, riipi onnen omenoita, puri hampain nuorin noita nähdäkseen, mi mieluisempi. Yhden hylkäs, toisen hempi, soi ja joi kuin turkkilainen, eli niinkuin elää vainen poika nuori, kaunis, kempi.</p>
+               <p rend="justify">Suonet suihki, sydän eli, joka kukka kutsui, kiehtoi, epätoivo alla liehtoi, viha päällä punoitteli. Joka veitikka ol' veli, joka viisas vihamiesi, ja hän taisi ja hän tiesi, missä kulki miehen keli.</p>
+               <p rend="justify">Kaunis oli hän kuin voima; ja jos oisi neitten kieli virkkanut, min kätki mieli, sana ollut ei ois soima. Valko-otsa, varsi roima; — näin hän kylän kassapäitä monta otti ennen häitä, ehtimättä kirkon hoiman.</p>
+               <p rend="justify">Tuhlas niinkuin lapsi linnan säästöt isäin ankarien, säästöt voiman, säästöt hien, monen sukupolven hinnan: tahdon voimat, tarmot rinnan sai hän sotataatoiltansa, mutta äitimuoriltansa talonpojan potran pinnan.</p>
+               <p rend="justify">Emo rukka paljon yksin itki pojan elämätä, toivoi kera vaimon tätä viihtymähän vieretyksin. Vaan hän vastas syleilyksin, pojan suukkoin polttavaisin eikä saatu miehin, naisin tätä pyytä pyydetyksi.</p>
+               <p rend="justify">Opinjooni, joll' on valta, kiros hänet kokonansa, huhu piti huutoansa, maine kulki maankin alta. Kivet sinkui kaikkialta, pilkka yksi toisen siitti; näin nyt Laureatus niitti ensi laihot maailmalta.</p>
+               <div type="div3">
+                  <head>
+                     <label>II.</label>
+                  </head>
+                  <p rend="justify">Siipeen ammuttu.</p>
+                  <p rend="justify">Sen, ken syntyi laulajaksi, polttakaamme, paistakaamme, alas kotka ampukaamme tallin oven vartiaksi! Kiveä jos jauhaa kaksi, vaikka tyhjää, siit' ei haaraa, mutta runo tuottaa vaaraa, jos se rupee mahtavaksi.</p>
+                  <p rend="justify">Hymyilkäämme häntä houkkaa, joka käy kuin kruunupäinen, vaikk' on keppikerjäläinen, sieltä täältä sirun noukkaa. Vaan jos houkka käy ja loukkaa kuntoamme, kunniaamme, hänet suitsin suistakaamme silloin käymään tietä soukkaa.</p>
+                  <p rend="justify">Laureatus, lauluhuuli, tunsi melkein tärkeäksi itsensä ja ylpeäksi. Ja hän hymyi vaan ja luuli, että koko myrskytuuli vaan ol' ohimenevätä, ettei sitä onni jätä, ken sen laulut kerran kuuli.</p>
+                  <p rend="justify">Viel' ei voinut ymmärtää hän, että perintönsä suuri lopussa jo oisi juuri; tuota saanut ei hän päähän, että näin nyt myrskysäähän hänet jättäis holhojansa: vielä elo korkojansa kasvaa, ja ne hälle jäähän!</p>
+                  <p rend="justify">Vartoi, toivoi. Tyhmyys siittää, kantaa kateuden loka vastuksien pirun, joka haukkuu kovaa, hiljaa kiittää, rintaan kiviriipan liittää, vastaa kuuman haalealla, sankartöistä vait on vallan, veren hyytää, riemun riittää.</p>
+                  <p rend="justify">Ja se painoi leukaan asti lauluniekan suohon tuohon, vaali joka rikkaruohon sydämessä varuisasti; lietsoi tulta uutterasti, joka miehen mieltä pouti, aron aavikosta nouti juoman, jolla suuta kasti.</p>
+                  <p rend="justify">Siinä joi hän yhtä toista: sairaan jalopeuran pelon, erämaiden öisten elon, huolet hullun-kammioista. Kului kulta unelmoista, haihtui tuoksu haavehilta, päivä painui, joutui ilta, nousi sumut notkosoista.</p>
+                  <p rend="justify">Halkes nuoruutensa haaksi, jolla retkelleen hän lähti, uneksijan onnen tähti vaipui valtamerten taaksi. Veri sakoi samakkaaksi, laulu maata myöten hiipi: poikki oli kotkan siipi, lehto kaattu kaskimaaksi.</p>
+                  <p rend="justify">Joka hymyssä hän näki, joka sanass' salanuolen, katsoi aina kahdenpuolen, pelkäs yötä päivälläki. Yöllä heräs Hiiden väki, nosti otsaan kylmän hien, voitti piru vastuksien, haukaks sai jo kevätkäki.</p>
+                  <p rend="justify">Nyt jo piru nauraa tohti, näytti aatteet akanoiksi, kirnus hengen voitot voiksi, kauas kannel niekan johti korven onkaloita kohti, erämaihin erakkuuden; yksin kanssa ikuisuuden näin hän istui, näin hän pohti.</p>
+                  <p rend="justify">Saapui aatteet kaikenlaiset suuren yksinäisen luoksi, tuli luode, tuli vuoksi, matoi kangastukset maiset. Joskus pilvet purppuraiset aron iltaan ilon heitti, vaan ne kaikki jälleen peitti samum-tuulet tuiskivaiset.</p>
+                  <p rend="justify">Mut ei aina murretulla ylvään yksinäisen mieltä, jok' ei kaipaa ilon kieltä, jot' ei kiehdo kiilto kullan. Laureatus, lapsi mullan, katkeruutta keitti, kantoi, kunnes kaikki heitti, antoi päivän mennä, toisen tulla.</p>
+                  <p rend="justify">Ja ne saapui maita soita, päivät pitkät, päivät harmaat. Piili laulun keijut armaat, jotka ennen karkelolta piti illoin ihanoita, väikkyviä, välkkyviä. Mieli punoi säikehiä. punaisia, kamaloita.</p>
+                  <p rend="justify">Yöt ja päivät yhtä hamaa aatos kiersi, aatos kulki, yhteen huulet kuumat sulki, saattoi kielen sammaltamaan. Lyöty, lannistettu lamaan, varmaan hulluks oisi luultu, ellei lapsest' asti kuultu hänestä ois melkein samaa.</p>
+                  <p rend="justify">Fatalismi, köyhän silta, aina parhain oppi orjan, teki itsepäästä norjan, taittoi niskat niskurilta. Kulki niinkuin kesä-ilta yli mielen uhman pahan; ja hän oppi poimimahan kukkasia kaljamilta.</p>
+                  <p rend="justify">Ja hän taipui taakan alle, tyytyi niinkuin tyytyy rukka nöyrtymyksen kalvas kukka kasvoi korven kulkijalle. Ja hän nousi kukkulalle, näki tyhjäks elontyönsä, laski sauvan, päästi vyönsä sekä kuoli maailmalle.</p>
+                  <p rend="justify">Hän, mi kärsinyt ei iestä, astui valjahisin hyödyn; karvas oli kalkki lyödyn, vaan se juuri koetti miestä. Mittas reunat mieron tiestä, kulki teitä köyhän, kurjan; näin voi piiska elon nurjan kaurihista kilin piestä.</p>
+                  <p rend="justify">Ja se suuri fatalisti oli mielestään jo kili: tunto pesty, tehty tili elon kanssa kaunihisti. Ja hän huokas, kädet risti maailman tään tähden huonon, vihdoin kauriin vuoriluonnon kirkon pihattoihin pisti.</p>
+                  <p rend="justify">Laureatus muiden lailla vangiks otti järjen oman, järjen aina rauhattoman, järjen vastausta vailla. Asui mailla autuailla, tuli verraks tuhansien, kiros riemun, siunas hien, sai jo majan armon mailla.</p>
+                  <p rend="justify">Saapui aika sovituksen, aika lapsuus-onnen lauhan, aika anteeks-pyynnön, rauhan, äidin helmaan palauksen; ja hän aukas kodin uksen, katsonut ei enää taaksi, ettei uppois Herran haaksi jälleen uneen kauhistuksen.</p>
+                  <p rend="justify">Katsoi ylle, katsoi alle, ja hän tunsi uudet tuoksut, kuuli uutten vetten juoksut, palas voima voipuvalle. Kruunu viittoo voittajalle! Paastoo paha lihas luuksi! Taivu sielu tarvispuuksi, taivu taivaan jumalalle!</p>
+                  <p rend="justify">Hän, se Mestari, mi muovaa maailman ja ihmismielet, virittää voi harpun kielet soimaan virttä uutta, luovaa; kohta sanan voimin huovaa Herran haaksi Herran teitä: ei Hän kiellä, ei Hän peitä armoansa anteeks suovaa.</p>
+                  <p rend="justify">Herran sana virvoittaapi niinkuin virta, vesilähde, Herra nostaa huomentähden poveen sen, ken rakastaapi. Elo selvityksen saapi, kaikki kirkastuu ja koittaa; Laureatus voittaa, voittaa, laaksot, vuoret valkeaapi.</p>
+                  <div type="div4">
+                     <head>
+                        <label>III.</label>
+                     </head>
+                     <p rend="justify">Pyhä Antonius.</p>
+                     <p rend="justify">Pensaat puron vieremälle hiipiä hiljaiset ja taajat, hiljaa puiden latvat laajat hymyy laineen leikkinälle. Vieremälle vihreälle tyttö käy ja kuroittaapi, ja sen rinta riksuttaapi ja se ei lie hyvä hälle.</p>
+                     <p rend="justify">Laureatus, laulurukka, seisoo, miettii tytön luona; varoa ei tiedä vuona, mutta murheinen on hukka. Vihryt, kaunis nurmen nukka tuossa kutsuu, viittoo luokse, ruoho kuiskaa: "Joudu, juokse, viini vartoo, taita kukka!"</p>
+                     <p rend="justify">Sanat tuhmat eivät leikkaa ääntä sydänkielen herkän, iltarusko kuusenkerkän yli heittää kuperkeikkaa, yksin tuuli käy ja teikkaa heinäin huojuvitten päällä; kuule ei kuin kivet täällä, jotk' ei kerro joka seikkaa.</p>
+                     <p rend="justify">Laureatus aatteissansa kauan, kauan tuumii tälleen… vanha metsämieskö jälleen täällä panee paulojansa? Hyi, barbaari himoissansa! Pulmu pälvellään on pyhä. Vaan hän tuumii, tuumii yhä, eikä laukee pulmun ansa.</p>
+                     <p rend="justify">Immen posket pyörehinä puolikypsät punertavat, silmät suuret aukeavat katsomahan kysyvinä: "Nääthän, että annan minä! Laureatus, miks et ota? Ota taikka syttyy sota, paha, paha poika sinä!"</p>
+                     <p rend="justify">Ja nyt immen silmä tulta iskee nuoren immen vihan: "Eessämme on Eden ihan, etkö näe, kuule, kulta! Suotko nenän eestäs sulta kissalle sa maidon, rukka? Taita kukka, taita kukka, taikka loppuu maltti multa."</p>
+                     <p rend="justify">Laureatus aprikoipi. Kas, kuin silmä kaunis kiehtoo, veret liekkilöihin liehtoo, leikkilöihin somiin soipi! Vaan hän käden nähdä voipi, joka viittaa kärsittyihin, ja hän turvaa hymyilyihin, epää vaan ja eperöipi.</p>
+                     <p rend="justify">Loppui immen rauha silloin. Nyt jos milloinkaan oil aika hänen nähdä elon taika; nyt ol' aika, nyt jos milloin painaa vienoks pajunvilloin korven miehen kova mieli, nyt, kun kerran kertoi kieli, mitä sydän sykki illoin.</p>
+                     <p rend="justify">"lhanasti taivaan teitä saarnaat sanoissa ja töissä, mutta etkö ikävöi sä koskaan syömen säveleitä? Minut polje, minut heitä, mutta mua siedä, siedä! Mikä mull' on, min' en tiedä, peitä suu jo multa, peitä!"</p>
+                     <p rend="justify">Ja hän posken purppuraisen kätkee käsivarrellansa, rohkeutt' on rinnassansa, vaikk' on katse karitsaisen. Laureatus näkee naisen, huomaa sulon hienon, hennon, ja hän tuntee verten lennon, kuulee kutsun hurmaavaisen.</p>
+                     <p rend="justify">Vaan hän vait on ainoastaan. Vaikka on kuin maasta, puista ilkkuis tuhansista suista lasta, joka omenastaan huoli ei, vaan huitoo vastaan. Ja hän tietää loukkaavansa tyttöä, mi itkun kanssa hiljaa sotii onnelastaan.</p>
+                     <p rend="justify">Silloin, silloin anovalle apu joutuu, kieli kankee vapaa on, ja sanat lankee niinkuin kaste kanervalle. Tähdet syttyy taivahalle, Herra antaa armon soihdut, kääntää parhaaks Pahan loidut. Kiitos Hälle, korkealle!</p>
+                     <p rend="justify">"Anna pieni, Anna hyvä, en ma ole niinkuin luulet, mua viskoo vinhat tuulet, mua ahmaa aalto syvä. Synti, syömeen sisältyvä, usein mustaa mielen multa. Sielussani, Anna kulta, seulo nisu, seulo jyvä!</p>
+                     <p rend="justify">"Hyviks, ihanoiksi aivan uskot maailman ja minun, vaan on unta uskos sinun. Jos ma sainkin lahjat taivaan, sain ma myöskin lahjat vaivan, himot huonot, himot suuret… syvällä on synnin juuret, vaikka kuinka kaivan, kaivan.</p>
+                     <p rend="justify">"Vaikka orjantappuroita kyllin elontiellä niitin, kyllin niitin, kyllin siitin, viel' en aistejani voita, viel' en hengen hekkumoita suistaa voi ma synnintyöstä. juuri äsken olin syöstä… Anna, auttaa mua koita!</p>
+                     <p rend="justify">"Älä luule, että soimaan itseäni iloks vainen, mutta pienin kipunainen sydämessäin tulen voimaan syttää voi ja autioimaan. Siell' on paljon sytykettä! Anna suothan, suothan, että pääsen Jesuksen ma hoimaan!"</p>
+                     <p rend="justify">Anna vartoo vaan ja uottaa, mitä puhuu miesi pyhä. Ymmärtää hän ei voi yhä, miksi lempi synnin tuottaa: vaan hän luottaa vaan ja luottaa ja hän ymmärtää, ett' yksin hän saa käydä käsityksin, hän saa Herran miestä juottaa.</p>
+                     <p rend="justify">Anna lankee polvillensa, tarttuu käsiin voideltuihin, yhtyy yljän rukoiluihin tykö taaton taivaisensa. Ja hän häilyy hiljaksensa ja on valkea kuin vainaa, kun tää suvaitseepi painaa suukon hänen otsallensa.</p>
+                     <p rend="justify">Sonetteja Dianalle.</p>
+                     <p rend="justify">l.</p>
+                     <p rend="justify">Diana.</p>
+                     <p rend="justify">Sa synnyit sätehistä aamunmaan ja puiden vihreästä, ruohonpäistä, mut minä vaan sain syntys nähdä näistä, sa lienet ehkä hullun houre vaan.</p>
+                     <p rend="justify">Sun piirtees tyynet lepäs levossaan, kuun kairaa kutris kantoi välkkyväistä, ja paimenta sa lemmit leikkiväistä, sa jumal-synty, synnillistä maan!</p>
+                     <lg>
+                        <l>    Siit' asti luonto kaikk' on herännyt.</l>
+                        <l>    Ma kuulen laulut puron pulpunnasta</l>
+                        <l>    ja joka puusta äänet puhuu nyt.</l>
+                     </lg>
+                     <lg>
+                        <l>    Tää riemua on vallatonta vasta:</l>
+                        <l>    on lehdon karkeloihin kerännyt</l>
+                        <l>    Pan paljas tuonne immet Metsolasta.</l>
+                     </lg>
+                     <p rend="justify">2.</p>
+                     <p rend="justify">Tunnen virran tuolta puolen.</p>
+                     <p rend="justify">Ma olen erakko vain murheen, huolen, mies yksinäinen, hullu haaveiden, ma muiden maailmoista huoli en, vaan puisin puukoin kultavuorta vuolen.</p>
+                     <p rend="justify">Ma kuulen tuonen virran tuolle puolen sun kutsus elon juhlahan; ma, ken jo uinuin untuvilla unien, ma nousen — ja sun sulokättäs nuolen.</p>
+                     <p rend="justify">Ei hyvä kuolleit' ole herätellä, ei leikkiä lie lempi vainajain, ei koirana sit' uneen silitellä.</p>
+                     <p rend="justify">Kas, kuolleen lempi palaa punottain, ja vaikka hullun huul' on valju vain, niin verta, verta vuotaa sydän hellä.</p>
+                     <p rend="justify">3.</p>
+                     <p rend="justify">Kevätsade.</p>
+                     <p rend="justify">Kai hymyillä mun täytyy kyyneleille, joit' itken, itken onnen ilossain; näät eipä päästä kevään kekkereille, jos sydän sadettaan ei anna vain.</p>
+                     <p rend="justify">Maa kuiva vaatii jotain enemp' ain kuin pelkkää aurinkoa ahoteille. Ens sade juur' on hurma jumalain — ja sateen jälkeen itää ihme meille.</p>
+                     <p rend="justify">Se suuri ihme, kun me valveutaan, kun heräjävät sydänlehdet hienot maan loasta; kun loppuu kaihot maan,</p>
+                     <p rend="justify">ja elon salaisuudet suuret, pienot pyhinä puhkee, ole eikä vienot ne pirun juonia, vaan jumalan.</p>
+                     <p rend="justify">4.</p>
+                     <p rend="justify">En tahdo —</p>
+                     <p rend="justify">En tahdo yksin lentää, kun ma luulen pois pääseväni maihin parempiin sen kanssa, ken mun nosti keväimiin ja antoi laululleni aamutuulen.</p>
+                     <p rend="justify">Taas kuolevanko kevään nuoren kuulen, mi rungon vanhan rintaan annettiin? Kateusko jälleen katkeroisi huulen, kun juhlamalja käteen kannettiin?</p>
+                     <p rend="justify">En tahdo yksin lentää niinkuin kotka, en vaania myös päällä vuorien, kuin metsänpeto peljättynä en.</p>
+                     <p rend="justify">Vaan kanssa ystävien tahdon, jotka mua lempii, purren lehtipurjeisen taa salmen tyynen soutaa niinkuin sotka.</p>
+                     <p rend="justify">5.</p>
+                     <p rend="justify">Lopputili.</p>
+                     <p rend="justify">Kas, kaunis ystäväin, sa minkä teit: mun lempeni sa herätit ja peit vain pilkkanas, mut pidit suloisesti, se harmenemasta nää hapset esti.</p>
+                     <lg>
+                        <l>    Ma paljon ymmärrän, mut totisesti</l>
+                        <l>    en yhtä: luoksein miksi hetken jäit,</l>
+                        <l>    ees hetken tää miks onnen kupla kesti?</l>
+                        <l>    Nyt, ystäväin, sa multa paljon veit.</l>
+                     </lg>
+                     <lg>
+                        <l>    Mut Herra ottaa, minkä Herra antaa.</l>
+                        <l>    Siis hälle yksin kiitos nyt ja ain.</l>
+                        <l>    Ma tyynnä soudan taas päin tuonen rantaa.</l>
+                     </lg>
+                     <lg>
+                        <l>    Suo sentään uskoa mun muistossain,</l>
+                        <l>    mun että siipeni kuin kiurun kantaa</l>
+                        <l>    ja lauluni kuin onnen virsi vain.</l>
+                     </lg>
+                     <p rend="justify">Tenn-koski.</p>
+                     <p rend="justify">Tähdetönnä suvi-yöhyt päilyy, saavu ei hämy eikä kuu, valkeat Tenn-järven neiet häilyy, kosken lauluhun nukkuu puu. Seisoo haavehissa metsä varjoton, maa on tyyni, taivas kirkastettu on; Areskuta vain hangessaan hohtava katsoo yöhön valkeaan.</p>
+                     <p rend="justify">Terhen vieno yli nurmen nuojuu, kaste runsaana lankeaa, tuuli nukkuu, koivunlehvä huojuu, vuoksi kaisloja keinuttaa. Vaahtoon käy Tenn-järvi, virta Indalin syöksyy autuaana aamuruskoihin, kuuntelee kesän kirkas yö, kannelta kaikuvaa Tenn-koski lyö.</p>
+                     <p rend="justify">Ja jos joku aatos —</p>
+                     <p rend="justify">Ja jos joku aatos mun luonani lie, kun lankee kuoleman ilta, sen olkohon viittoma viime tie, mi päivän ja metsien mailta mun vie, kesän kerkeän sointujen silta.</p>
+                     <p rend="justify">Tien laulavan polkua viipyen pois minä kulkisin haaveessa harhain, meri, aallot ja aurinko viimeisen lois kesän kaunihin katseen, mi ystävän ois, ois kuin on mun kaipuuni parhain.</p>
+                     <p rend="justify">Polyteknikkojen marssi.</p>
+                     <p rend="justify">EI meill' ole mainetta es'isien, ei muistoja, muinaisuutta, mut jäljissämmepä kultahinen kevät kasvavi laihoa uutta. On kalpamme tieto, on kilpemme työ, näin kultuurikansoa luodaan, toden tieltä ja valkeuden väistyvi yö ja kunnolle kunnia suodaan.</p>
+                     <p rend="justify">Ei hurmehin lippumme hulmuakaan, ei riepuina riipu sen vaate, ei murhista, kauhuista muistuttamaan käy puhtahan viirimme aate. Sen kultakirjoja katsokaa! Ne korkeella tahdomme kantaa. Ei kansalle onnea kauniimpaa kuin työ sekä terveys antaa.</p>
+                     <p rend="justify">Käsivarret jos vankat poikaisi lie, jalo lippu, nyt liehu ja loista! Väkivalta ei rankaisematta vie sun kruunuas aurinkoista. Sua suojaa vartio uskollinen, sen rinnoissa lyö ajan laineet, valo valta on vuossadan vastahisen, ei menneiden muistojen maineet.</p>
+                     <p rend="justify">Työn lapset! On aateliskilpemme tuo, sotatorvemme ylpeä, sorja, se vaikka ei maailman mainetta suo, maat, valtiot vaivamme korjaa. Me syrjässä seisomme, kuolemme vait, vain työmme on hautamme pylväs, se kestävä on ajan ankarat lait, on onnemme ainoa, ylväs.</p>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>LYBECK</head>
+            <p rend="justify">Kun tuli kuoli.</p>
+            <p rend="justify">Istuivat piirissä kansan päät, tuskallisna he vahtivat tulta. Loisti, leimusi liekkien häät, karkeli kipunain kirjokulta. "Ne lentävät liikaa, ne polttavat talon", yks virkkoi, ja kaikki tuumivat niin, ett' olla se vaara voi tulipalon. Tulen ympäri muuri näin muurattiin. Mut tuli ei häkissä viihtynyt, se tien läpi muurinsa poltti nyt, se leimahti kansan päämiesten eteen, jotka torkkuivat työnsä tehtyään.</p>
+            <lg>
+               <l>    Niin nous heistä ylin ja sammutti veteen</l>
+               <l>    koko rovion, kauhu sydämessään.</l>
+            </lg>
+            <lg>
+               <l>    "Täss' olen ma", virkahti musta tuhka</l>
+               <l>    ja irvisti heille kuin ilkeä uhka.</l>
+            </lg>
+            <p rend="justify">1899.</p>
+            <p rend="justify">Pojilleni!</p>
+            <p rend="justify">Kaihtaen, voimatonna seison eessä välttämättömän: kaiken raskaan, mi teitä vartoo.</p>
+            <lg>
+               <l>    Mut älkää katsoko synkästi elämää —</l>
+               <l>    älkää silti kovasti, säälimättä</l>
+               <l>    kuin elämä katsoo!</l>
+            </lg>
+            <lg>
+               <l>    Käsin kaksin kantakaa</l>
+               <l>    taakka; mutta tehkää se pystypäin</l>
+               <l>    ja katse kirkkaana!</l>
+            </lg>
+            <lg>
+               <l>    Hyvä hymynne olkoon,</l>
+               <l>    lämmin, viisas kuin harvoilla vielä</l>
+               <l>    on voimakkailla.</l>
+            </lg>
+            <lg>
+               <l>    Vihamiehiä vältä ei kukaan;</l>
+               <l>    eivät he lepää, eivät unhota työtään —</l>
+               <l>    se heille kuuluu.</l>
+            </lg>
+            <lg>
+               <l>    Olkaa liian ylpeät kostamaan!</l>
+               <l>    Sydämen tyyni ylemmyys on kunnia</l>
+               <l>    kotinne, heimonne.</l>
+            </lg>
+            <p rend="justify">1903.</p>
+            <p rend="justify">Väsyneitä puita.</p>
+            <p rend="justify">Yö, jota kauan, kauan varroimme, lujaan ympäri päittemme sulkeutukoon! Myrsky ei lepää, aallot eivät asetu — ei aamu meitä varro; törmällä seisomme, kaukana, kauimpana.</p>
+            <p rend="justify">Lyö runkomme, myrsky, lyö viimeinen vastus juurista syömessä vanhan maan! Yö ei sitä kerro, aallot eivät asetu — ei aamu meitä varro; mut ei taipua, murtua vaan … vain murtua.</p>
+            <p rend="justify">Lainehet ahnaat, laajaksi hautamme luokaa, tehkää suureksi kaatumisemme! Kerran vaikenee myrsky, kerran valkenee yökin — ei meitä aamu varro; uuvuimme myrskyssä seisomaan, myrskyssä sotimaan.</p>
+            <p rend="justify">1903.</p>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>MÖRNE</head>
+            <p rend="justify">Viha.</p>
+            <p rend="justify">Se syöpyy mieliin kuin ruoste rautaan. Se tarttuu kurkkuun kuin vehkaleipä. Se puree kuin kylmyys paljasta, ryysyistä kyynärpäätä.</p>
+            <p rend="justify">Ei hän, joka tänään nyrkkinsä nostaa puhujalavalla sen ole isä. Sadat vuodet se maassa on itänyt hiljaa kaikissa, joilt' oli estetty ilma ja päivä, se huutaa aikojen syvyydestä, se on perintö isien, jotka murtuivat työssä taa auran ja karhin, joilta kielletty jano oli kirjaan ja kynään, jotka kyntivät alla herrojen ikeen, jotka tahtoivat itse asua maansa ja vietihin raastaen herrojen sotiin; jotka tahtoivat nostaa kattonsa matalan ja äänensä nostaa ja kokea voimansa määrän ja herrojen pilkkaa palkaksi saivat.</p>
+            <p rend="justify">Se viha, jok' on perintö harmajan muinais-ajan, se kutsuu, se kiehtoo, se liehtoo laumoja sotaan, se kytee kuuntelijoissa ympäri puhujalavan, alla toukokuu-taivaan; se syttyvi, kun sanat leimuavat, se silmäin tummista kulmista iskee tulta, se on tuomion kostava raippa, mi lyö maahan valtion hauraan.</p>
+            <p rend="justify">Runoilijat.</p>
+            <p rend="justify">Se laulu, joka nyt ei tahdo laata, kuin pääsky lentäköön se liki maata, on aika tuulen, aika myrskyn nyt. Valkeena särkkä seisoo vaahdossaan, hajoovat heinät, luodut kuivamaan, pelloilla päiv' on pölyyn pimennyt.</p>
+            <p rend="justify">Nyt kaikki yrtit, puut maa-emään juurtuu, mi nosti ne. Myös meille hetki suurtuu, elämäntaisto tunnussanan saa. Mut päällä pilvein, alla taivaan seijaan, tään ajan laulun ilmalaivat leijaa ja tuuleen tuonen-vankkaan — liputtaa.</p>
+            <p rend="justify">Minun vihani.</p>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>I.</label>
+               </head>
+               <p rend="justify">Ma vihaan näitä lauhan laulajia; ne sanarikkaan proosan sorvaa, ne rytmin ylpein hurmaa korvaa ja kukin leikkii vapaus-ritaria.</p>
+               <lg>
+                  <l>    Jo vuodet kuullut oon</l>
+                  <l>    tuon laulun tuulta kaislikkoon.</l>
+                  <l>    Se nyrkki milloinkaan ei lyö,</l>
+                  <l>    se salama ei koskaan satu maaliin.</l>
+               </lg>
+               <p rend="justify">Ma vihaan virttä nukuttajan. He eivät; — miehet, jotka uskaltaa hien ja loan halki vaeltaa, on miehet ajan.</p>
+               <div type="div3">
+                  <head>
+                     <label>II.</label>
+                  </head>
+                  <p rend="justify">Sanoja ammoin opin vihaamaan ja rakastamaan elämää. Luo maan ma painausin, sen imin voimaa vankkaa. Niin satoi taivas meille yötä sankkaa; sanoja kaksinkerroin vihaan nyt.</p>
+                  <p rend="justify">Tää kansa pohjan kunniaksi luotiin, se pakenee, kun suuri hetki suotiin, sanojen takaa turvan etsii nyt.</p>
+               </div>
+            </div>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>GRIPENBERG</head>
+            <p rend="justify">Teodora.</p>
+            <p rend="justify">Soi kahiseva silkki ja kultakirja-neule, käy jalokiven-heijastus huikaisevin, ja täysikuu hohtaa ja yön on tähtiseule yli keisarin ylpeän kaupungin. Ja siimes, mi suurena, synkkänä lankee, saa kadun kiiltomarmorin himmenemään. Hän saapuu, keisarinna, hän tulee, armas, ankee, täys-kuutamo ympäri yöllisen pään.</p>
+            <p rend="justify">Hän lähestyy, Teodora, yrttitarhani yössä, kun kaikki idän ruusut veriruskeat on, ja Astarotin patsas on kuun helmivyössä ja suihkukaivo laulaa lakkaamaton; hän saapuu, hän hiipivi pedon pienen jaloin niin hiljaa, niin hiljaa hiekalla tien, hän tulee tummin jäsenin ja veren tulipaloin ja kera lemmen pyyteitten leimuavien.</p>
+            <p rend="justify">Teodora, sun tahdon ma suudella huultas, mi käskeä, pyytää ja pilkata voi, Teodora, sun tahdon ma suudella suultas janon kuuman, ivan jäisen, mi ilkkuen soi; juoda katseesi tahdon, mi kiehtoo ja palaa, tulitukkaasi sormia tuoksuavaa, Teodora, sun uskon ma huultes valhevalaa, ma tahdon tulla turmioon ja unhoittaa!</p>
+            <p rend="justify">Kaunehin maa.</p>
+            <p rend="justify">Maa kaunehin maa on pohjoinen, missä metsiä pellot pelkää, karu, paatinen, kylmä on pinta sen, ei lannista aura sen selkää, mut uhmaten hongat harmaat ain sen taivahan ääriä saartaa ja yllä korpien vaikenevain sen pilvissä kotkat kaartaa.</p>
+            <p rend="justify">Maa kaunehin maa on metsien, maa ijäti uinuvan haaveen, se sitoo mielemme hiljaisen laill' arvoituksen ja aaveen, se kutsuu, se kiehtoo, se vaatii luo, sen puissa on loihtua, taikaa, ja eksyttävän salon kankahat nuo ne laulua kummaa kaikaa.</p>
+            <p rend="justify">Sa mieron-miettijän autuas maa, sa unten orpojen valta, sa pohjan ääretön korpimaa, en pääse sun tenhosi alta. mut kaunehin, rakkahin, tiedän ma vaan, on metsien laaja manner, juro, jyrkkä, jylhässä voimassaan, runon syntymättömän tanner.</p>
+            <p rend="justify">Kauniille naisille.</p>
+            <p rend="justify">Kauniille naisille soi kanteloimme tuliset kielet, tuska laulujen. Kauniita naisia me ihannoimme kentillä runon, lemmen, kukkien.</p>
+            <p rend="justify">Ei heille riitä se, sen nähdä voimme, hehkumme heille viime hetkehen. Kauniille naisille me karkeloimme, he käyvät rikkahan häävuoteesen.</p>
+            <p rend="justify">Me häihin pöytärunot runoilemme, me kilistämme, koska seura juo nimeä uutta iki-ihantehemme.</p>
+            <p rend="justify">Huudamme, "eläköön!" kun kaikuu tuo; lasista voiman saamme elääksemme ja lohdun sääliväinen portto suo.</p>
+            <p rend="justify">Albert Edelfelt.</p>
+            <p rend="justify">In memoriam.</p>
+            <p rend="justify">Maa autioituu, ain yhä kolkommaks käy syksy, synkistyy myös humina metsäin. Jo lännen päivä päättyvä kalpenee, yö äänetön uhkaa, unta ei tuo.</p>
+            <lg>
+               <l>    Syvistä soista, helmasta korpimaan,</l>
+               <l>    miss' uinuu routa kesken keinuvan turpeen,</l>
+               <l>    nyt suurten, mykkäin siipien lyönti käy</l>
+               <l>    yli keltaisen maan, yli jäähtyvän veen.</l>
+            </lg>
+            <lg>
+               <l>    On sydän sairas horjuvan tähkäpään,</l>
+               <l>    valossa aamun varjo väikkyvi kalpee;</l>
+               <l>    jään-sinervä sirppi ollutko lie, mi löi</l>
+               <l>    ja heilahti taas pois usmahan yön.</l>
+            </lg>
+            <lg>
+               <l>    Tunnemme hallan, on syvät haavat sen,</l>
+               <l>    ei turhaan nouse, välkä iskevä rauta.</l>
+               <l>    Kasvoimme kovan kourissa taiston, suo</l>
+               <l>    se armoa ei, ei pyydetä me.</l>
+            </lg>
+            <lg>
+               <l>    Kuitenkin, kuinka sirppi se sattuikaan,</l>
+               <l>    kun kaasi sun tuo valpas ain vihamiesi!</l>
+               <l>    Hän tarkkaan tähtää, tuntuvat iskut lyö,</l>
+               <l>    miss' ihmisen on kipu kirveltävin.</l>
+            </lg>
+            <lg>
+               <l>    Sa kaaduit, tukehtui tuli uhman tuo,</l>
+               <l>    yön valo sammui, poiss' on räiskyvä liekki.</l>
+               <l>    Mies sorea sortui auringon-miekkoineen,</l>
+               <l>    ei mahtia meill' edes kostamahan.</l>
+            </lg>
+            <lg>
+               <l>    Siis olet poissa, riemumme muinainen,</l>
+               <l>    Nää emme enää tulta sun sädesilmäis,</l>
+               <l>    sua emme enää, sua elon-syttäjää</l>
+               <l>    maan murheisen kesken ja syksyisen yön.</l>
+            </lg>
+            <lg>
+               <l>    Mut katso, kaikki, minkä sa annoit, jää.</l>
+               <l>    Kaikk' kaunis, mille hehkui ritarin rinta,</l>
+               <l>    se kasvaa, versoo hyystä ja hallastai;</l>
+               <l>    sun kylvösi kerran kukkia luo.</l>
+            </lg>
+            <p rend="justify">Humiskaa hongat haudalla sankarin, punaiset kaikki palakaa kesäruusut! Tekonsa nuor' on, syttävä, valoisa, runo muistonsa on sekä vaatimus työn.</p>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>LISÄYS</head>
+            <p rend="justify">Mukaelmia</p>
+            <p rend="justify">Kauniit silmät.</p>
+            <p rend="justify">Toiset laulaa Teeban sotaa, toiset Phrygein ryskinää, kiitä en ma miekan otaa, muuta tahdon ylistää; voittaneet mua eivät laivat, jalkaväki, ratsahat, toiset voimat voiton saivat: silmät kauniit katsoivat.</p>
+            <p rend="justify">Taide.</p>
+            <p rend="justify">Suloinen taide, lohtu hetken harmaan, päivien riemu maassa murheiden, sieluuni loihdit liekin pyhän, armaan, maan päälle saatat taivaan kauneuden.</p>
+            <p rend="justify">Huokaus vieno taiteen kultakielen, hartaus soinnun, maasta nousevan, aikoihin autuaampiin johdat mielen, suloinen taide, sua rakastan!</p>
+            <p rend="justify">Syksy.</p>
+            <p rend="justify">Ja ilma on raskas ja mykkä on maa niinkuin huone, mi vieraaksi kuoleman saa, myös sairaat on nurmet ja puut. Mun sieluni saartavi syys, ah syys, se on kuni lehti, min hallatar hyys, näy ruusua eilistä ei, sen kuolema vei.</p>
+            <p rend="justify">Legenda.</p>
+            <p rend="justify">Kasvatti Jesus ruususen, ol' armas aika lapsuuden, hän sitä hoiti hellästi, se kukat kauniit kanteli.</p>
+            <lg>
+               <l>    Mut Judas poikaparven tuo,</l>
+               <l>    se ryntää kukkakummun luo</l>
+               <l>    ja ryöstää kaikki ruusut pois</l>
+               <l>    kuin syksyn viima vienyt ois</l>
+            </lg>
+            <lg>
+               <l>    "Mistäpä saat nyt seppeleen?"</l>
+               <l>    jo pilkkaa Judas joukkoineen.</l>
+               <l>    "Heititte piikit kuitenkin",</l>
+               <l>    laps lausuu äänin hiljaisin.</l>
+            </lg>
+            <p rend="justify">Paljailla ruusunpiikeillään he seppelöivät armaan pään ja peitti valko-otsan tuon ei ruusut ruskeat, mut hurmeenvuo.</p>
+            <p rend="justify">Suru.</p>
+            <p rend="justify">Yön, yön viileä tuulonen tullos oi, pyyhkiös kyynel mun poskeni pois.</p>
+            <lg>
+               <l>    Maan, maan himmeä lintunen,</l>
+               <l>    laula oi,</l>
+               <l>    murheet mieltäni</l>
+               <l>    ahdistaa.</l>
+            </lg>
+            <p rend="justify">Veen, veen lempeä läikkä lyö, tuudi, oi, rauhaan riemut jo rauenneet.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

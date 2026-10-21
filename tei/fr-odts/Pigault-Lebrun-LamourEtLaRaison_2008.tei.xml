@@ -1,0 +1,2277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>L'amour et la raison</title>
+            <author>Pigault-Lebrun</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-01T19:53:31Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">odts/fr-odts/Pigault-Lebrun-LamourEtLaRaison_2008.epub.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Pigault-Lebrun</name>
+               <date>2024-01-01T19:53:31Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>L'amour et la raison</head>
+         <author>Pigault-Lebrun</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">odts/fr-odts/Pigault-Lebrun-LamourEtLaRaison_2008.epub.odt</p>
+         <p>Produced by Daniel Fromont</p>
+         <p>[Transcriber's note: Pigault-Lebrun (Charles-Antoine-Guillaume Pigault de l'Épinoy, dit) (1753-1835), <hi rend="italic">L'amour et la raison</hi>, 1790, édition de 1823]</p>
+         <pb/>
+         <div type="div1">
+            <head>SENLIS,</head>
+            <pb/>
+            <div type="div2">
+               <head>IMPRIMERIE DE TREMBLAY.</head>
+               <div type="div3">
+                  <head>SUITE</head>
+                  <div type="div4">
+                     <head>DU REPERTOIRE</head>
+                     <div type="div5">
+                        <head>DU</head>
+                     </div>
+                     <div type="div5">
+                        <head>THEATRE FRANÇAIS,</head>
+                     </div>
+                  </div>
+                  <div type="div4">
+                     <head>AVEC UN CHOIX DES PIECES DE PLUSIEURS AUTRES</head>
+                     <div type="div5">
+                        <head>THEATRES, ARRANGEES ET MISES EN ORDRE</head>
+                     </div>
+                  </div>
+                  <div type="div4">
+                     <head>PAR M. LEPEINTRE;</head>
+                  </div>
+                  <div type="div4">
+                     <head>ET PRECEDEES DE NOTICES SUR LES AUTEURS; LE TOUT TERMINE PAR UNE TABLE GENERALE.</head>
+                  </div>
+                  <div type="div4">
+                     <head>COMEDIES EN PROSE. - TOME XVI.</head>
+                  </div>
+                  <div type="div4">
+                     <head>A PARIS,</head>
+                     <div type="div5">
+                        <head>CHEZ MME VEUVE DABO,</head>
+                     </div>
+                     <div type="div5">
+                        <head>A LA LIBRAIRIE STEREOTYPE, RUE HAUTEFEUILLE, N° 16.</head>
+                        <p rend="justify">1823.</p>
+                        <p rend="justify">(…)</p>
+                     </div>
+                  </div>
+                  <div type="div4">
+                     <head>L'AMOUR</head>
+                     <div type="div5">
+                        <head>ET LA RAISON,</head>
+                     </div>
+                  </div>
+                  <div type="div4">
+                     <head>COMEDIE EN UN ACTE,</head>
+                  </div>
+                  <div type="div4">
+                     <head>PAR M. PIGAULT-LEBRUN;</head>
+                     <p rend="justify">Représentée, pour la première fois, sur le théâtre du</p>
+                     <p rend="justify">Palais-Royal, le 30 octobre 1790.</p>
+                  </div>
+                  <div type="div4">
+                     <head>NOTICE</head>
+                     <div type="div5">
+                        <head>SUR M. PIGAULT-LEBRUN.</head>
+                        <p rend="justify">Guillaume-Charles-Antoine PIGAULT-LEBRUN naquit à Calais le 8 avril 1753. Son père était président du tribunal appelé les <hi rend="italic">Traites</hi>, qui jugeait de toutes les causes relatives à la fraude.</p>
+                        <p rend="justify">Il entra encore jeune au service, et était dans la gendarmerie de la maison du roi, lorsque la révolution arriva. En 1792, il fut inspecteur des remontes. Ce sont les seules fonctions qu'il ait remplies lors des troubles politiques. Long-tems après, le frère de Buonaparte, Jérôme, voulut l'emmener en Westphalie après l'avoir nommé son bibliothécaire; mais l'empereur s'y opposa, et après avoir porté le titre honorifique de cet emploi pendant trois jours, il resta à Paris, et n'alla point en Westphalie comme l'assurent certains recueils peu exacts et quelques libelles mensongers. C'est uniquement la démangeaison de faire de l'esprit aux dépens de la vérité qui a fait dire, dans je ne sais quelle biographie, qu'étant à la cour du roi Jérôme, il avait été l'<hi rend="italic">Horace du Mécène Corsico-Westphalien</hi>. Depuis long-tems M. Pigault-Lebrun occupe une place dans une administration, et il n'a jamais intrigué pour faire sa fortune, ni ambitionné de parvenir aux honneurs.</p>
+                        <p rend="justify">M. Pigault-Lebrun jouit de deux réputations littéraires bien distinctes; et sous le rapport d'auteur dramatique, ce n'est plus le même homme considéré comme romancier; ses pièces de théâtre offrent un heureux mélange de sensibilité, de délicatesse et d'esprit, dont il est même trop prodigue et qui le fait remarquer entre tous les auteurs ses contemporains. C'est le successeur le plus distingué qu'ait eu Marivaux, et le meilleur disciple de son école. Toutefois on doit lui reconnaître plus de gaîté avec autant de brillant; mais il lui est inférieur en finesse, en comique de situations. Il est resté loin de son modèle dans l'analyse des sentimens du coeur des femmes, et surtout dans l'observation des convenances.</p>
+                        <p rend="justify">Avec le beau talent que M. Pigault-Lebrun a reçu de la nature, il eût été l'un des premiers écrivains de son siècle, si dans toutes ses productions il eût mis la circonspection qui est nécessaire à un auteur pour se faire lire de la bonne compagnie et toutes les classes du beau sexe.</p>
+                        <p rend="justify">Voici à peu de chose près la liste des pièces qu'il a composées depuis le commencement de sa longue carrière littéraire, outre celles qui sont insérées dans la présente collection.</p>
+                        <p rend="justify">
+                           <hi rend="italic">Charles et Caroline</hi>, comédie, la première qui ait été jouée au Théâtre Français, après qu'il eût pris le titre de <hi rend="italic">Théâtre de la République</hi>.</p>
+                        <p rend="justify">
+                           <hi rend="italic">Les Dragons et les Bénédictines</hi>, et <hi rend="italic">les Dragons en cantonnemen</hi>, comédies, jouées au théâtre de la Cité, en l'an II.</p>
+                        <p rend="justify">
+                           <hi rend="italic">Les Moeurs et le Divorce</hi>, comédie, jouée au même théâtre, la même année;</p>
+                        <p rend="justify">
+                           <hi rend="italic">Les Empiriques</hi>, comédie, jouée en l'an III au même théâtre.</p>
+                        <p rend="justify">
+                           <hi rend="italic">Le Blanc et le Noir</hi>, drame, joué à la Cité, en l'an IV, ainsi que <hi rend="italic">l'Esprit follet</hi>, comédie.</p>
+                        <p rend="justify">
+                           <hi rend="italic">La Lanterne magique</hi>, jouée aussi à la Cité, en l'an VI; <hi rend="italic">Contre-tems sur contre-tems</hi>, comédie, donnée aux Variétés.</p>
+                        <p rend="justify">
+                           <hi rend="italic">Le Memnon français</hi>, comédie, jouée à Saint-Quentin en 1807, et ensuite aux Français.</p>
+                        <p rend="justify">
+                           <hi rend="italic">L'Orphelin</hi>, comédie, jouée à la Cité.</p>
+                        <p rend="justify">En outre il a donné les pièces suivantes, jouées à divers théâtres: <hi rend="italic">Le Marchand provençal</hi>, comédie; <hi rend="italic">La Mère rivale</hi>, comédie; <hi rend="italic">Séraphine et Mendoce</hi>, comédie; <hi rend="italic">la Joueuse</hi>, comédie en vers; <hi rend="italic">L'Orpheline</hi>, comédie; <hi rend="italic">Les Femmes rusées</hi>, comédie; et <hi rend="italic">le Cousin et la Cousine</hi>, comédie.</p>
+                        <p rend="justify">Il a donné à Feydeau <hi rend="italic">Les Sabotiers</hi>  et <hi rend="italic">le Major Palmer</hi>, opéras-comiques.</p>
+                        <p rend="justify">Enfin il a fait, en société avec M. Chazet, <hi rend="italic">Les Comédiens d'une petite ville</hi>, vaudeville; et avec M. Dumaniant, <hi rend="italic">Les Calvinistes</hi>.</p>
+                        <p rend="justify">Nous ne donnerons pas ici la nomenclature de ses romans, qui serait longue et inutile. Pendant trente ans il ne s'est guère écoulé de mois qu'on n'en ait vu éclore un de sa composition; nul n'en a fait en aussi grand nombre que lui depuis Retif de la Bretonne, qui d'ailleurs était prodigieusement au-dessous de lui pour le style.</p>
+                        <p rend="justify">M. Pigault-Lebrun paraît maintenant se livrer à un genre plus sérieux et s'occuper d'ouvrages importans. Il vient de publier une histoire de France, en 6 volumes in-8°. Quel que soit le succès qu'elle obtienne, elle sera toujours jugée au-dessus de celles de Velly, du père Daniel, et autres historiens obséquieux ou prévenus.</p>
+                        <p rend="justify">M. Barba a recueilli les oeuvres de M. Pigault-Lebrun, auxquelles il a fait les honneurs d'un certain luxe typographique. Elles figureront sans doute dans toutes les bibliothèques des amateurs du plaisir et de ceux qui affectionnent un auteur spirituel et amusant, quel que soit le genre où il se soit exercé.</p>
+                     </div>
+                  </div>
+                  <div type="div4">
+                     <head>PERSONNAGES.</head>
+                     <p rend="justify">HORTENSE, jeune veuve.</p>
+                     <p rend="justify">MONDOR, vieux garçon.</p>
+                     <p rend="justify">AUGUSTE, cousin d'Hortense, jeune homme de seize à dix-sept ans.</p>
+                     <p rend="justify">MARTON, suivante d'Hortense.</p>
+                     <p rend="justify">DUMONT, valet de Mondor.</p>
+                     <div type="div5">
+                        <head>UN NOTAIRE.</head>
+                     </div>
+                     <div type="div5">
+                        <head>UN LAQUAIS.</head>
+                        <p rend="justify">La scène se passe dans l'appartement d'Hortense.</p>
+                     </div>
+                  </div>
+                  <div type="div4">
+                     <head>L'AMOUR</head>
+                     <div type="div5">
+                        <head>ET LA RAISON,</head>
+                     </div>
+                  </div>
+                  <div type="div4">
+                     <head>COMEDIE.</head>
+                  </div>
+                  <div type="div4">
+                     <head>SCENE PREMIERE.</head>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE, MARTON.</head>
+                     <lg>
+                        <l>(Elles sont assises à quelque distance l'une de l'autre.</l>
+                        <l>Hortense brode au métier, et Marton à la main.)</l>
+                     </lg>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Il arrive aujourd'hui.</p>
+                     <p rend="justify">HORTENSE, avec un soupir.</p>
+                     <p rend="justify">Hélas! oui, mon enfant.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Cet hélas part de l'ame.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Que dites-vous, Marton?</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Madame, je vous plains.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Ma chère amie, c'est à Mondor que je dus mon époux, cet époux qui me fut si cher; c'est à Mondor que cet époux mourant confia ma jeunesse, c'est Mondor qu'il nomma, si je devais jamais…</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Et voilà bien les hommes. Jaloux de leurs droits pendant leur vie, ils veulent les étendre au-delà du tombeau. Vous aimiez votre époux, c'est fort bien.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Il était si aimable!</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Oui, Madame, il était charmant; mais son ami ne lui ressemble guère.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Marton!</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Non, Madame, Mondor ne lui ressemble pas. C'est un ami solide, raisonnable et raisonnant; mais il n'a rien de ce qu'il faut pour remplacer un mari de vingt-cinq ans, et pour consoler une femme de votre âge.</p>
+                     <p rend="justify">HORTENSE, froidement et avec hauteur.</p>
+                     <p rend="justify">Il suffit, je crois, qu'il me plaise…</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Vous plaire! Il en est loin.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Vous prétendez…</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Voir mieux que vous dans le fond de votre ame. Non, vous ne l'aimez pas.</p>
+                     <p rend="justify">HORTENSE, avec humeur.</p>
+                     <p rend="justify">Mademoiselle!</p>
+                     <p rend="justify">MARTON, affectueusement.</p>
+                     <p rend="justify">Même, quand vous boudez vos gens, vous êtes toujours adorable.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <lg>
+                        <l>Allons, finis, ma bonne amie: tu m'aimes, je le sais…</l>
+                        <l>Mais…</l>
+                     </lg>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">En ce cas, laissez-moi donc dire. Est-ce mon intérêt qui me détermine? Est-ce moi qui dois épouser Mondor? Que vous êtes étranges, vous autres maîtres! Vous voulez qu'on vous serve, vous voulez qu'on vous aime, vous voulez qu'on vous devine: on vient à bout de tout cela à force de travail et de réflexion; crac, un bon caprice nous déjoue, nous éloigne, et, pour s'épargner un moment de mauvaise honte, on se condamne à des regrets éternels.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Des regrets! Ah! Marton, des regrets avec Mondor!</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Oui, Madame, avec Mondor. N'a-t-il pas cinquante ans?</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Eh! qu'importe? il a du mérite.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Un mérite… sur le retour.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Il vient d'assurer ma fortune et mon repos, en terminant avec les héritiers de mon mari le procès le plus incertain.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Le grand miracle! Il n'est pas de mince procureur qui n'en eût fait autant.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">J'espère que vous ne le confondez pas…</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Ma foi, Madame, la comparaison n'a rien de révoltant. Un procureur vous eût pris de l'argent, Mondor demande votre main : c'est mettre ses services au plus haut intérêt.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Il ne demande rien. Tendre, mais soumis, Mondor attend tout de ma délicatesse. Depuis deux ans qu'il s'est éloigné pour me servir, il ne m'a pas écrit une lettre qui ne fût dictée par le plus pur désintéressement. Mais, Mademoiselle, ne lui dussé-je rien, les derniers voeux de mon époux…</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Sont sans force dans le cas dont il s'agit. Lui donner pour successeur M. Mondor! c'est trop fort, en vérité, et je ne le souffrirai certainement pas.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Vos folies m'amusent quelquefois.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Ce n'est pas folie, c'est raison.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">A la bonne heure; mais votre raison m'excède, finissez.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Quoi! sérieusement vous voulez…</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Que vous vous taisiez, Mademoiselle.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Cependant, Madame…</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Silence! je l'ordonne.</p>
+                     <p rend="justify">(Elle se lève.)</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Soit, je me tais. (<hi rend="italic">En poussant de côté le métier d'Hortense</hi>.) Il ne sera peut-être pas si facile d'imposer silence à votre petit cousin.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Mon cousin? un enfant.</p>
+                     <p rend="justify">MARTON, finement.</p>
+                     <p rend="justify">Un enfant? Oh! sans doute.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">A qui je tiens lieu de mère.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Aussi vous respecte-t-il infiniment?</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Que d'un coup d'oeil je fais tomber à mes pieds.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Et à qui l'attitude plaît beaucoup.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Le pauvre enfant n'est pas dangereux.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Cela peut être; mais il est bien aimable.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Il a pour lui la candeur de l'enfance.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Et une figure céleste, convenez-en.</p>
+                     <p rend="justify">HORTENSE, avec franchise.</p>
+                     <p rend="justify">Oui, il est bien.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Une gaîté franche…</p>
+                     <p rend="justify">HORTENSE, se livrant davantage.</p>
+                     <p rend="justify">Et pleine d'esprit, Marton.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">C'est ce que je voulais dire. Riant toujours, et montrant…</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Les plus belles dents…</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Les plus belles dents du monde… Et cette fossette à la joue gauche…</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Et ses espiégleries…</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Charmantes, Madame, charmantes.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">L'art n'approche pas de tout cela.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Il n'en connut jamais; et quand il vous dit qu'il vous aime, c'est si naturellement…</p>
+                     <p rend="justify">HORTENSE, reprenant le ton réservé.</p>
+                     <p rend="justify">Il m'aime, et il le doit.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Oh! il remplit ses obligations dans toute leur étendue.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Il sait ce qu'il doit à la reconnaissance.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">C'est une belle vertu que la reconnaissance, mais je doute qu'il lui sacrifie son amour.</p>
+                     <p rend="justify">HORTENSE, avec sévérité.</p>
+                     <p rend="justify">Son amour! vous avez des expressions…</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Bien révoltantes, peut-être, mais bien vraies, convenez-en.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Vous m'offensez, je vous en avertis.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">C'est un malheur; mais je suis franche.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Votre opiniâtreté vise à l'impertinence.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Ah! Madame! Madame!… mais le voici, ce cher enfant; il n'a pas l'air de bonne humeur, et je crains qu'il ne soit plus impertinent que moi encore.</p>
+                  </div>
+                  <div type="div4">
+                     <head>
+                        <label>SCENE II.</label>
+                     </head>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE, AUGUSTE, MARTON.</head>
+                     <p rend="justify">HORTENSE, à Auguste, qui, après l'avoir aperçue, veut s'éloigner.</p>
+                     <p rend="justify">Approchez, Auguste, approchez.</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">Je ne voulais plus vous voir, Madame; non, je ne le voulais plus.</p>
+                     <p rend="justify">HORTENSE, le contrefesant.</p>
+                     <p rend="justify">Madame… je ne voulais plus vous voir… Quel langage, mon petit cousin?</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">Non, vous n'êtes plus ma cousine… non, je ne dois plus vous voir, puisque… Enfin, Madame…</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Ah! mon ami, comme tu me traites!</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">Vous vous mariez, vous vous mariez, Madame, et vous ne pensez pas à votre pauvre petit cousin.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Je ne vois pas qu'il puisse se plaindre…</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <lg>
+                        <l>Vous ne le voyez pas… vous ne le voyez pas… Je le crois,</l>
+                        <l>Madame; les droits sacrés de M. Mondor…</l>
+                     </lg>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Ce sont ces droits qui doivent vous interdire les regrets, et même le plus léger murmure.</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">Vous me jugez d'après vous. Vous êtes si raisonnable!</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Qui vous empêche de l'être autant que moi?</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">Il faudrait avoir votre insensibilité, et j'en suis bien éloigné. Croyez-vous, Madame…</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Auguste, ne me parle donc plus ainsi, tu m'affliges.</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">Je vous afflige, ma cousine, mon aimable cousine… Mais pensez donc, réfléchissez à ma situation. Je croyais n'avoir pour vous que de l'amitié, le retour de Mondor m'éclaire… Avez-vous cru que je passerais ma vie avec vous sans vous trouver charmante? vous êtes-vous flattée que mon coeur vous disputerait long-tems la victoire? Avez-vous pensé que Mondor pourrait me ravir un espoir?… Il arrive, ce Mondor, et il vous épouse!… Eh! que suis-je donc, moi? S'il vous a rendu service, il n'a fait que ce qu'il a dû, que ce qu'un autre, que ce que tous les hommes à sa place eussent fait avec transport. Quels sont ses titres pour vous obtenir? ses cinquante ans? je voudrais les avoir, s'il les faut pour vous plaire. (Tendrement.) Mais je les aurai avec le tems, ma belle cousine. Alors j'en aurai passé trente à vous adorer, à vous rendre heureuse, et dans trente ans je partirai du point où Mondor se trouve aujourd'hui. Pensez-y, divine Hortense, cela vaut la peine d'y réfléchir.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Finissez, Monsieur, vous êtes un enfant.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <lg>
+                        <l>Mais un enfant bien aimable. Vous en conveniez tout à l'heure,</l>
+                        <l>Madame.</l>
+                     </lg>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">Un enfant bien aimable! elle me trouve bien aimable, n'est-il pas vrai, Marton?</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Oui, Monsieur, charmant, et Madame s'y connaît.</p>
+                     <p rend="justify">HORTENSE, à Marton.</p>
+                     <p rend="justify">Par excès d'attachement vous vous ferez congédier.</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">La congédier! la congédier! Mondor est contre moi, vous êtes contre moi, tout l'univers est contre moi, il ne me reste que Marton, et vous voulez vous en défaire! Eh bien! Madame, congédiez-la, je la prendrai à mon service.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Oui, je vous le conseille, cela serait charmant.</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">Votre Mondor me déplaît à un point… je le hais, au moins, je vous en avertis; je le tuerai… Oh! je le tuerai.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Parlons raison, mon enfant.</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">Il n'y a raison qui tienne, c'est dit, je le tuerai.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Monsieur, il a droit à vos respects.</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">Je n'ai jamais appris à respecter un rival.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Continuez, Monsieur, compromettez-moi, exposez ma réputation, affligez un galant homme!…</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">Un galant homme… qui veut vous épouser!</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Quel homme faut-il donc que j'épouse?</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">Moi, Madame, moi.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Vous êtes honnête, sans doute, mais cela ne suffit pas.</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">Je ne vois pas ce qui me manque.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Il faudrait d'abord n'être pas un enfant.</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">Eh! qu'importe mon âge, si je sais vous aimer?</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Avoir un état qui…</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">J'en aurai bientôt un. Aujourd'hui l'honneur, les moeurs, les talens mènent à tout, et je me sens abondamment pourvu de tout cela.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Vous êtres modeste.</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <lg>
+                        <l>Je suis amoureux, et l'amour rend capable de tout; entendez-vous,</l>
+                        <l>Madame? il rend capable de tout.</l>
+                     </lg>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Ce jeune homme veut me faire la loi.</p>
+                     <p rend="justify">AUGUSTE, aux genoux d'Hortense.</p>
+                     <p rend="justify">Vous faire la loi? ah! Hortense, Hortense, qu'avez-vous dit ? vous donner des lois, moi qui suis soumis aux vôtres…</p>
+                     <p rend="justify">HORTENSE, souriant.</p>
+                     <p rend="justify">Et qui les recevez à genoux.</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">Me faites-vous un crime de mon entier dévouement?</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Non, mon ami; mais il des circonstances où l'amour doit se taire devant la raison. Vous connaissez les motifs qui m'unissent à Mondor; il arrive aujourd'hui, il doit compter sur ma main; il a ma parole, et bien certainement je ne la retirerai pas.</p>
+                     <p rend="justify">UN LAQUAIS, annonçant.</p>
+                     <p rend="justify">Un valet de M. Mondor.</p>
+                     <p rend="justify">(Il sort.)</p>
+                     <p rend="justify">HORTENSE, troublée.</p>
+                     <p rend="justify">Son valet, son valet, Marton. (A Auguste.) Si je vous suis chère, mon petit cousin, de grâce, retirez-vous.</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">Me retirer, Madame! Oh! non, non, bien décidément non.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Quand on aime une femme, Monsieur, on ne lui refuse rien.</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">Quand on fait quelque cas d'un parent, Madame, on le ménage davantage.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Mais voici ce valet.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Partez, Monsieur, ou restez, que m'importe? Mais je ne crois plus à votre attachement, je vous en avertis.</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">Si vous étiez assez injuste pour en douter un moment…</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Si vous aviez la moindre délicatesse, vous ne me résisteriez pas.</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">Je me retire, je me retire, Madame. Que ferez-vous pour le maître, si vous me chassez pour le valet?</p>
+                     <p rend="justify">(Il sort.)</p>
+                  </div>
+                  <div type="div4">
+                     <head>
+                        <label>SCENE III.</label>
+                     </head>
+                     <p rend="justify">DUMONT, fesant des révérences, HORTENSE, MARTON.</p>
+                     <p rend="justify">HORTENSE, à Marton.</p>
+                     <p rend="justify">Reçois ce garçon, reçois-le… dis-lui… ce que tu voudras; car pour moi, je ne pourrais ni l'entendre ni lui répondre.</p>
+                  </div>
+                  <div type="div4">
+                     <head>
+                        <label>SCENE IV.</label>
+                     </head>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT, MARTON.</head>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Votre maîtresse sort bien précipitamment, Mademoiselle.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Ce n'est pas ma faute, Monsieur.</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Aurait-elle oublié Dumont?</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Dumont a une de ces figures qu'on n'oublie jamais.</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Il joint à ses agrémens personnels les prérogatives d'un ambassadeur.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Ambassadeur? ah! de M. Mondor?</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">De M. Mondor.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Il écrit qu'il arrive?</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Il fait mieux, il arrive en effet.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">J'en suis ravie.</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Il me suit.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Il vous suit? Je rejoins ma maîtresse, elle aura besoin de moi pour se préparer à une entrevue de cette importance.</p>
+                  </div>
+                  <div type="div4">
+                     <head>
+                        <label>SCENE V.</label>
+                     </head>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Quelle conduite originale! la maîtresse m'évite, la suivante s'échappe, et mon maître… Mon maître aurait-il attendu si tard pour faire une sottise? Dois-je la laisser consommer, moi, valet intelligent et attaché? Que ces dames ne se flattent pas de m'en faire accroire! Je suis assez fin pour pénétrer leurs petits mystères, et assez adroit pour faire échouer leurs projets.</p>
+                  </div>
+                  <div type="div4">
+                     <head>
+                        <label>SCENE VI.</label>
+                     </head>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT, MONDOR.</head>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Eh bien! m'as-tu annoncé?</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Oui, Monsieur.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Et on m'attend?…</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Sans impatience, à ce qu'il m'a paru.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Que dis-tu?</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">La vérité. Tenez, Monsieur, je connais le coeur humain, et vous ferez sagement de prendre de mes almanachs.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Ah! ah!</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Oui, Monsieur. D'abord mon calcul porte sur des faits. Votre mariage est arrangé, vous arrivez; j'accours avec l'empressement d'un homme qui croit apporter une nouvelle agréable, Hortense disparaît; je vous annonce à la soubrette, elle me laisse à mes réflexions, et je vous avoue, Monsieur, que je n'en ai pas fait de bien satisfesantes.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Je te reconnais là: toujours inquiet et soupçonneux.</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Vous ne doutez de rien, vous, Monsieur: le chien d'amour-propre…</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">L'amour-propre? eh! j'ai donc de l'amour-propre, moi?</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Tout comme un autre, Monsieur. Il n'est pas d'homme qui ne soit un peu femme de ce côté-là.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Enfin tu veux que je me défie d'Hortense, et que je m'en rapporte tout-à-fait à toi.</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Je ne veux rien, Monsieur; mais je crois qu'il est plus sage de prévenir des regrets, que d'y chercher un remède…</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Qu'on ne trouve pas toujours.</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">C'est cela, Monsieur, c'est cela.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Cependant, si tes observations suffisent pour t'alarmer, elles ne m'autorisent pas à douter absolument de la sincérité d'Hortense. Sans manquer aux égards que je dois à ton discernement, il m'est, je crois, permis de voir les choses par mes yeux, de parler, de pressentir…</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Oui, Monsieur, voyez, parlez, pressentez; adressez-vous même, si vous le voulez, à M. Auguste.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Auguste est toujours ici?</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Je l'ai aperçu en entrant.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Il se pourrait fort bien que deux ans d'absence eussent apporté quelque changement dans la façon de penser d'Hortense.</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Oui, certainement, Monsieur.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Après tout, je ne suis pas encore marié.</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Non, Dieu merci.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Et pour peu que j'entrevoie du louche…</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Oh! il y a du micmac; vous verrez, vous verrez.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Dumont?</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Monsieur?</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Il y avait autrefois ici une suivante…</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Marton?</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Oui, Marton.</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Elle y est toujours; fille charmante, en honneur.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Va me la chercher.</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Elle est fine, ne vous y jouez pas.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">N'importe, je veux l'interroger.</p>
+                     <p rend="justify">DUMONT, d'un air capable.</p>
+                     <p rend="justify">Si vous me chargiez de ce soin, Monsieur?</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">C'est-à-dire que Monsieur a plus d'esprit que moi.</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Non, Monsieur, mais…</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Va me la chercher, te dis-je, je veux l'interroger.</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">J'y vais, Monsieur.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Que notre conversation soit un secret entre nous, entends-tu?</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Parbleu! c'est bien à moi qu'on fait de telles recommandations.</p>
+                  </div>
+                  <div type="div4">
+                     <head>
+                        <label>SCENE VII.</label>
+                     </head>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Le drôle n'est pas sot, et il serait possible qu'Hortense… Cependant ses lettres sont positives. Elle m'attend, dit-elle, elle voit avec plaisir approcher le moment… Dans le fait, ses lettres et sa conduite ne s'accordent pas trop. Quelle serait la cause?… Peut-être une de ces raisons dont les femmes ne conviennent jamais, que souvent elles n'osent s'avouer à elles-mêmes, une inclination naissante. Oui, il n'y aurait là rien que de très-ordinaire. Peut-être Hortense craint-elle de revenir sur ses pas, peut-être craint-elle une rupture qui lui ferait perdre de mon estime; mais, dans tous les cas, et comme dit fort bien M. Dumont, il est plus sage de prévenir des regrets que d'en chercher le remède.</p>
+                  </div>
+                  <div type="div4">
+                     <head>
+                        <label>SCENE VIII.</label>
+                     </head>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON, MONDOR.</head>
+                     <p rend="justify">MARTON, fesant des révérences.</p>
+                     <p rend="justify">Monsieur me demande?</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Oui, mon enfant.</p>
+                     <p rend="justify">MARTON, s'approchant, et saluant encore.</p>
+                     <p rend="justify">Que veut Monsieur?</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">D'abord, que tu laisses de côté l'étiquette qui m'ennuie, et que tu me répondes avec franchise: t'en sens-tu capable?</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">La question est captieuse.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Tu dois la trouver naturelle, si tu aimes ta maîtresse.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Autant que vous.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">C'est beaucoup dire; mais venons au fait: où est Hortense?</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Dans son appartement.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Qu'y fait-elle?</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Elle attend la fin d'une horrible migraine…</p>
+                     <p rend="justify">MONDOR, à part.</p>
+                     <p rend="justify">Ahi, ahi, ahi.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Que la nouvelle de votre retour a presque entièrement dissipée.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Serait-elle devenue sujette aux migraines? Je l'ai toujours connue raisonnable.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">L'un n'exclut pas l'autre, Monsieur. Une migraine est quelquefois le fruit de longues et profondes réflexions.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Et peut-être a-t-elle aujourd'hui ample matière à réfléchir?</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Ses réflexions me sont étrangères, Monsieur, ses incommodités me sont connues; parce que je dois ignorer les premières, et que mon devoir est de soulager les secondes.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Tu as de l'esprit, Marton.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Vous êtes bien bon, Monsieur.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Tu veux me voir venir, jouer avec moi de finesse; je vais te forcer à répondre catégoriquement: je compte épouser ta maîtresse.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Elle a pris son parti là-dessus.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Ah! elle a pris son parti là-dessus: pour une fille d'esprit, l'expression est un peu hasardée .</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Selon la civilité, cela se peut; selon la vérité, il n'en est pas de plus exactement littérale.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">C'est-à-dire que ta maîtresse n'a pas d'amour pour moi.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Je ne crois pas, Monsieur.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Cependant elle m'épouse.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Qu'est-ce que cela prouve? Avec de la vertu et de l'amitié, on doit remplir les voeux de l'époux le plus exigeant.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Fort bien, je ne dois prétendre qu'à de l'amitié dirigée par la vertu.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Que de maris voudraient pouvoir compter sur ce que vous rejetez si dédaigneusement!</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">J'aurais tort de me montrer aussi difficile qu'un jeune homme de vingt ans. A mon âge, on ne fait plus la loi, on la reçoit ; et comme tu dis, un mari est trop heureux que sa femme ait pour lui de l'amitié, pourvu toutefois qu'elle n'ait d'amour pour personne.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Oh! à ce égard-là, Monsieur…</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">A cet égard-là?…</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Je ne sais rien, Monsieur, absolument rien.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">En vérité?</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">D'honneur.</p>
+                     <p rend="justify">MONDOR, tirant une bourse.</p>
+                     <p rend="justify">Marton?</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Monsieur?</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Vois-tu cette bourse?</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Oui, Monsieur.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Elle est à toi si tu veux…</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Si je veux vous tourmenter et mentir.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Tu ne sais rien?</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Rien du tout.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">En ce cas, je garde ma bourse.</p>
+                     <p rend="justify">MARTON, avec humeur.</p>
+                     <p rend="justify">Vous avez raison, Monsieur, on est si souvent trompé par ceux qu'on a bien payés, qu'il est naturel de se défier même de ceux qui disent la vérité.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Ah! Marton est piquée.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Piquée pour un peu d'or! Vous me connaissez mal.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Ah! tu n'aimes pas l'argent? Si cependant je te donnais ma bourse?</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Je la prendrais, Monsieur.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">C'est bien honnête.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Mais aussi tranquillement que je vous ai vu la remettre dans votre poche.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Eh bien! prends, c'est le présent de noces.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Et si par hasard la noce n'a pas lieu?</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">En ce cas-là j'aurai donné sans condition. (<hi rend="italic">A part</hi>.) Dumont a raison: elle est fine! Je gagnerai davantage à m'expliquer avec la maîtresse.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Monsieur se parle à lui-même?</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Je dis que j'ai la plus grande envie de voir ta maîtresse.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Vous n'attendrez pas long-tems, Monsieur, la voici.</p>
+                  </div>
+                  <div type="div4">
+                     <head>
+                        <label>SCENE IX.</label>
+                     </head>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR, HORTENSE, MARTON.</head>
+                     <p rend="justify">MARTON, pendant qu'Hortense et Mondor se saluent.</p>
+                     <p rend="justify">Tirer de l'argent et ne rien dire, voilà le fin du métier.</p>
+                     <p rend="justify">HORTENSE, contrainte.</p>
+                     <p rend="justify">Je vous attendais avec impatience.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">J'étais, Madame, plus impatient que vous encore.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Je vous dois des excuses, Monsieur; une légère indisposition…</p>
+                     <p rend="justify">MONDOR, finement.</p>
+                     <p rend="justify">Je le sais, Madame, je le sais… Laissons cela, parlons d'abord de ce qui vous touche personnellement. Voilà votre portefeuille, je vous le remets dans un état que ni vous ni moi n'osions espérer. Votre fortune était incertaine; elle est assurée maintenant, et de ce côté ma tâche est remplie.</p>
+                     <p rend="justify">HORTENSE, prenant le portefeuille.</p>
+                     <p rend="justify">Mille grâces, Monsieur…</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Il me reste à parler d'un article qui peut-être n'intéresse que moi.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Que vous, Monsieur?</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <lg>
+                        <l>Ou qui du moins m'intéresse plus que personne; notre mariage,</l>
+                        <l>Madame.</l>
+                     </lg>
+                     <p rend="justify">MARTON, à part.</p>
+                     <p rend="justify">Ah! voilà le diable.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Vous n'avez plus d'intérêts qui ne soient les miens, Monsieur, et un hymen qui peut assurer votre félicité doit remplir tous mes désirs.</p>
+                     <p rend="justify">MONDOR, à part.</p>
+                     <p rend="justify">Doit remplir. (<hi rend="italic">Haut</hi>.) Mon coeur me dit de vous croire.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Et votre délicatesse vous en fait une loi.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Supérieurement raisonné, Madame. Cependant je veux vous mettre à votre aise. Vous m'avez promis votre main dans un de ces momens où la douleur ferme l'ame à toute autre sensation. Mes soins, mes services vous ont fait persévérer dans ce dessein; mais je suis loin de prétendre que vous mettiez plus d'importance à ce que j'ai fait pour vous, que je n'y en attache moi-même: je suis loin d'abuser de votre consentement, de votre reconnaissance, pour vous imposer des lois qui peseraient à votre coeur.</p>
+                     <p rend="justify">HORTENSE, embarrassée.</p>
+                     <p rend="justify">Qui peseraient à mon coeur? Le croyez-vous, Monsieur?</p>
+                     <p rend="justify">MARTON, à part.</p>
+                     <p rend="justify">Il aurait tort.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Il ne s'agit pas de mon opinion, Madame; c'est de votre bonheur futur qu'il faut nous occuper: j'ai cinquante ans, je ne suis pas beau, et j'ai des défauts tout comme un autre.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">J'ai aussi les miens, Monsieur, et si vous exigez une épouse parfaite…</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">De la perfection, Madame, il n'en existe point. Vous avez des défauts moins sensibles, sans doute, en ce qu'ils sont cachés sous les grâces de la jeunesse. N'importe: un homme raisonnable, sans déifier les faiblesses de l'objet aimé, sait au moins fermer les yeux sur celles qui ne tirent point à conséquence. Je connais votre ame, elle est noble et franche, et je m'en rapporterai entièrement à vous.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">S'il est ainsi, Monsieur, pourquoi multiplier des questions qui ne sont pas flatteuses?</p>
+                     <p rend="justify">MONDOR, avec ménagement.</p>
+                     <p rend="justify">Madame, Madame, il vaut mieux être indiscret la veille d'un mariage, qu'importun le lendemain.</p>
+                     <p rend="justify">HORTENSE, avec hauteur.</p>
+                     <p rend="justify">Monsieur!</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Ce n'est pas là le langage à la mode, je le sais, Madame; mais vous pardonnerez ce que mes expressions ont de désagréable en faveur du motif qui me les arrache. Je reviens. Vous n'avez plus d'intérêts qui ne soient les miens, dites-vous? Comme ami, je n'en doute pas; comme époux, c'est autre chose.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Continuez, Monsieur, continuez.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">C'est ce que je veux faire, Madame. Je veux m'expliquer entièrement avec vous, pour n'avoir plus qu'à jouir de mon bonheur, quand vous l'aurez assuré. De la fortune, de la raison, de la probité et un sincère attachement, cela peut-il vous suffire? Si votre coeur est libre, c'en est assez; s'il est prévenu pour un autre, ces qualités sont insuffisantes, et je me retire sans plainte, sans murmure. Imitez-moi, Madame, et bannissez toute espèce de dissimulation.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Je n'ai jamais conçu qu'une femme pût donner sa main sans son coeur. Si elle n'éprouve pas les feux ardens de l'amour…</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Ce n'est pas ce que je demande, ni même ce que je désire.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Si elle n'éprouve pas les feux ardens de l'amour, elle doit au moins céder à un sentiment de préférence…</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Et ce sentiment de préférence, vous l'éprouvez, Madame, vous l'éprouvez en ma faveur? vous en êtes certaine?</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Monsieur, si je connaissais quelqu'un que j'estimasse plus que vous, je ne vous épouserais pas.</p>
+                     <p rend="justify">MONDOR, à part.</p>
+                     <p rend="justify">Honnêtement, je ne peux pas insister davantage. (<hi rend="italic">Haut</hi>.) Je n'ai plus de doute, Madame; mon respect ne me permet plus d'en avoir, et vous connaîtrez, par l'ardeur de mes démarches, combien je suis flatté d'être a vous.</p>
+                  </div>
+                  <div type="div4">
+                     <head>
+                        <label>SCENE X.</label>
+                     </head>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE, MARTON</head>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Eh bien! Marton?</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Eh bien! Madame?</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Que dis-tu de cette explication?</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Elle n'est pas d'un bon augure.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Devais-je m'y attendre?</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Oh! non, sans doute.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">S'il m'eût jamais écrit ce qu'il vient de me dire…</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Les choses seraient moins avancées, je le crois.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Mais qu'a-t-il? Que me veut-il? Réponds, réponds donc; car cela est fait pour inquiéter, au moins.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Les hommes sont si bizarres!</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <lg>
+                        <l>Il était avec toi, que te disait-il? Que lui répondais-tu?</l>
+                        <l>Aurais-tu donné matière à des soupçons?…</l>
+                     </lg>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">J'ai été impénétrable.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Il t'a donc aussi questionnée?</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Pendant une heure.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Et tu n'es convenue de rien?</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Convenue de quoi, Madame?</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Eh! mon Dieu! vous m'entendez de reste! Mais vous êtes ingénieuse à me tourmenter.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Eh bien! j'ai nié, Madame, j'ai nié obstinément.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Vous avez nié! Et qu'avez-vous nié?</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Ce dont je ne pouvais convenir sans vous compromettre.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Des bévues ou des impertinences! voilà tout ce que vous faites; voilà tout ce que vous savez faire.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Mais, Madame, il y a un désordre dans vos idées…</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Ce désordre est dans votre tête, Mademoiselle. Avoir aussi peu d'intelligence, cela est inconcevable! Et me répondre énigmatiquement… Elle ne sauvera rien à ma délicatesse. Voyez si elle parlera.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Mais je ne sais que dire, moi, Madame, en vérité.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <lg>
+                        <l>Insupportable fille! Mondor vous a-t-il parlé d'Auguste?</l>
+                        <l>Avez-vous prononcé son nom? avez-vous fait l'aveu…</l>
+                     </lg>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">De quoi, Madame?</p>
+                     <p rend="justify">HORTENSE, très-vivement.</p>
+                     <p rend="justify">Des étourderies de ce jeune homme, de l'embarras affreux où elles me mettent.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Il n'a pas été question de lui.</p>
+                     <p rend="justify">HORTENSE, hors d'elle-même.</p>
+                     <p rend="justify">Tant pis, Mademoiselle, tant pis. Mondor sait qu'Auguste est chez moi, qu'Auguste est charmant. Votre affectation à n'en pas parler aura fait naître ces soupçons que j'ai si peu mérités, et dont je ne me consolerai jamais. Quelles conséquences Mondor n'aura-t-il pas tirée de vos petits détours? Il faudra que je supporte vos étourderies, que je m'excuse… M'excuser! cet enfant m'aime, est-ce ma faute? S'il menace, s'il éclate, pourrai-je lui imposer silence? Avec les intentions les plus pures, on a donc besoin d'indulgence! Quelle cruelle situation! Il faut cependant que je déclare tout à Mondor; et comment m'y prendre à présent? j'aurai l'air de ruser, de vouloir cacher mes démarches, ou de m'en permettre de répréhensibles. Que je suis malheureuse!</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">C'est moi, Madame, qui suis la seule à plaindre. On me questionne, j'élude; on me presse, je me défends: je crois bien faire, et je suis blâmée. Parler d'Auguste, n'était-ce pas mettre à des bagatelles une importance… (<hi rend="italic">Finement</hi>.) une importance que vous n'y attachez pas, puisque vous n'aimez pas cet enfant.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Je ne l'aime pas! je ne l'aime pas!… Non, sans doute, je ne l'aime pas; mais ces soupçons de Mondor, sur qui peuvent-ils tomber, si ce n'est sur Auguste? Vous verrez que je serai forcée de l'éloigner, et vous en serez l'unique cause.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Mais, Madame, s'il était si nécessaire de le rappeler au souvenir de M. Mondor, qui vous a empêchée d'en parler vous-même, et de?…</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">J'en aurais parlé à Mondor, quand j'ose à peine vous en parler, à vous; quand je ne puis y penser sans une émotion… bien innocente à la vérité, mais dont Mondor se serait aperçu… Sais-je ce qu'il se serait imaginé? Pauvre Auguste, tu seras malheureux, je le serai de ta peine, et cela parce que cette fille veut avoir de l'esprit! Quelle sotte prétention! sur quoi est-elle fondée? Je voudrais ne vous avoir jamais vue. (<hi rend="italic">Elle s'éloigne</hi>.)</p>
+                     <p rend="justify">MARTON, la suivant d'un ton suppliant.</p>
+                     <p rend="justify">Madame, Madame!</p>
+                     <p rend="justify">HORTENSE, sortant.</p>
+                     <p rend="justify">Ne me suivez pas, je vous le défends.</p>
+                  </div>
+                  <div type="div4">
+                     <head>
+                        <label>SCENE XI.</label>
+                     </head>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Les voilà, les voilà bien. Faites tout pour eux, un moment d'humeur rend vos services nuls. On vous cherche des torts que vous n'avez pas, pour se dissimuler ceux qu'on a effectivement. Oh! le sot métier que de servir des gens qui ne sont jamais d'accord avec eux-mêmes, et qui vous imputent leurs sottises, par cela seul qu'ils ne savent à qui s'en prendre.</p>
+                  </div>
+                  <div type="div4">
+                     <head>
+                        <label>SCENE XII.</label>
+                     </head>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON, DUMONT.</head>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Ah! te voilà?</p>
+                     <p rend="justify">MARTON, avec humeur.</p>
+                     <p rend="justify">Après.</p>
+                     <p rend="justify">DUMONT, après l'avoir regardée fixement.</p>
+                     <p rend="justify">La journée est nébuleuse.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Croyez-vous cela, M. Dumont?</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Oui, l'air du bureau n'est pas bon pour moi.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">C'est malheureux.</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Cependant il serait désagréable de quitter ainsi la partie.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Il est plus prudent de la quitter que de la perdre.</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">C'est à peu près la même chose.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Quand on prévoit si bien les coups, on n'expose pas son enjeu.</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Tu es revêche.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Que t'importe?</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Oh! cela m'est égal.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Je le crois..</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Mais la conduite de ta maîtresse…</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Es-tu fait pour y trouver à dire?</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Non pas moi, si tu veux, mais mon maître…</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Ton maître?</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Il commence à penser comme moi.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Aussi sots l'un que l'autre.</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">C'est bien flatteur.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Au fait! que veux-tu? Tu n'es pas venu ici sans dessein?</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Te faire part de mes observations.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">C'est inutile.</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Mon maître et ta maîtresse vont faire une folie.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Tu n'auras pas le crédit de les en empêcher.</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Ce ne sera pas moi, mais M. Auguste…</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">M. Auguste?…</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Il adore ta maîtresse.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Qui te l'a dit?</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Je m'en suis aperçu.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Voyez quel tact!</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Oserais-tu le nier?</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Aurais-tu conçu le projet de m'en faire convenir?</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Pourquoi pas.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Tu te crois bien fin?</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Assez pour te faire parler.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Je t'en défie.</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">C'est fait.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">C'est fait?</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Oui, tu as avoué.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Il est fort, celui-là.</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Si Auguste n'aimait pas ta maîtresse, au premier mot que je t'en ai dit, tu aurais jeté les hauts cris (je suis l'homme de confiance du futur); et si la chose était seulement incertaine, tu te serais défendue. Tu réponds par monosyllabes, tu veux rompre les chiens; atteinte et convaincue.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Ah! tu interprètes jusqu'à mon silence?</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Un habile homme tire parti de tout.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Et quand Auguste aimerait ma maîtresse, qu'en conclurais-tu?</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Qu'ayant pour lui bien des avantages que d'autres n'ont pas, il est payé de retour: n'est-il pas vrai?</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Je suis muette.</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Réponds, Marton; Auguste est aimé?</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Je suis muette, te dis-je.</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Qui ne dit rien, consent; prends-y garde.</p>
+                     <p rend="justify">MARTON, avec force.</p>
+                     <p rend="justify">Eh! non, non, non; Hortense ne l'aime pas.</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Tu me le dis d'un ton qui me persuade le contraire.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Que le diable t'emporte!</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Que le ciel te le rende!</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Dumont, jasons d'amitié, et laissons là l'esprit: depuis deux heures le mien ne m'a fait faire que des bévues. Que nous fassions bien ou mal, nos services sont pesés au poids du caprice. Aidons-nous, au lieu de nous nuire.</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Tope. Sois vraie, d'abord. Auguste aime ta maîtresse, et ta maîtresse aime Auguste.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Eh! sans doute; mais…</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Quoi, mais?…</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Quel usage veux-tu faire de cet aveu?</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Le reporter à mon maître, qui n'a pas de caprices, et qui pèse mes services au poids de la raison.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Ah! fripon, double fripon.</p>
+                     <p rend="justify">DUMONT, la contrefesant.</p>
+                     <p rend="justify">Il vaut mieux quitter la partie que de la perdre.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Dumont, mon ami Dumont, je t'en prie, je t'en supplie!</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Tu verras que mon maître et moi ne sommes pas si sots.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Mon cher petit Dumont!</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Je suis inexorable.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Me voilà renvoyée indubitablement.</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Non pas, non. M. Mondor saura prudemment concilier ses intérêts et les tiens. Vous conserverez, lui, sa liberté, toi, ta condition; il le faut, je le veux, et je viens de te donner un échantillon de mon savoir-faire, qui doit te convaincre de ma capacité.</p>
+                  </div>
+                  <div type="div4">
+                     <head>
+                        <label>SCENE XIII.</label>
+                     </head>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Haïe en secret de Mondor, dont j'ai éventé les finesses, querellée par ma maîtresse, jouée par ce valet, et cependant plus fine qu'aucun d'eux; tel est mon sort. Si une fille comme moi est impunément ballottée par des êtres de cette espèce, il faudra croire au fatalisme. Vengeons-nous à la fois de tous nos adversaires. Bannissons Mondor et son valet, et punissons Hortense, en la forçant d'être heureuse.</p>
+                  </div>
+                  <div type="div4">
+                     <head>
+                        <label>SCENE XIV.</label>
+                     </head>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE, MARTON.</head>
+                     <p rend="justify">AUGUSTE, accourant, hors de lui.</p>
+                     <p rend="justify">Marton, ma chère Marton, tu me vois au désespoir. Je suis abandonné, haï, assassiné!</p>
+                     <p rend="justify">MARTON, à part.</p>
+                     <p rend="justify">Ah! voilà mon vengeur! (<hi rend="italic">Haut</hi>.) Qu'avez-vous donc, Monsieur?</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">Je me suis jeté aux genoux d'Hortense, j'ai supplié, j'ai menacé, j'ai pleuré; elle ne veut rien entendre. Je vais la perdre, et il faut que je me taise: elle me l'a ordonné.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Elle vous l'a ordonné!</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">Mais d'une manière si pressante et si douce, que l'Amour lui-même eût cédé à la séduction. J'étais à ses pieds; je ne suis pas éloquent, mais le langage du coeur a de la véhémence, et je ne suivais que l'impulsion du mien. Elle écoutait et paraissait émue. Bientôt elle détourne la tête, en oubliant sa main. Je la saisis; je la baise…. Avec quelle ardeur je la baisai, cette main!</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Je connais cela, après?</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">Elle veut la retirer, j'ose lui résister pour la première fois de ma vie; sa main me reste, et je la baise encore. Ses yeux alors se tournent vers moi: ils sont mouillés, mais n'expriment pas de colère. Leur douceur m'enhardit…. je l'embrasse… Ah! Marton, comme on embrasse ce qu'on adore et ce qu'on va perdre! Tout à coup elle s'échappe de mes bras, fuis à l'extrémité de l'appartement, et prenant un air sévère : Finissez, Monsieur, me dit-elle, vous n'êtes plus un enfant, et ces libertés me déplaisent. Je me marie, respectez un lien sacré. Je réplique, elle insiste… Je m'emporte…. Alors, Marton, alors cette femme, oubliant son empire, descend à la prière, emploie à la fois et l'ascendant de la vertu, et le pouvoir magique de la beauté. Sa colère avait excité la mienne, sa douceur, sa bonté me laissent sans force. Je promets de ménager Hortense, de respecter Mondor. Ma promesse me coûtera mon repos, mon bonheur, et peut-être ma vie; mais je me serai immolé à ce que j'aime.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Non, Monsieur, on ne meurt pas d'amour, et à votre âge on est heureux quand on veut l'être. Céder à une femme attendrie et suppliante!</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">Que pouvais-je faire?</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Son bonheur.</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">Eh! comment?</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <lg>
+                        <l>En la forçant de renoncer à un mariage de raison, pour épouser</l>
+                        <l>Auguste qu'elle aime, quoiqu'elle veuille se le dissimuler.</l>
+                     </lg>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">Elle m'aime, dis-tu?.. Elle m'aime?…</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Il faut être aussi modeste pour ne pas s'en apercevoir, et aussi enfant pour n'en pas profiter.</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">Marton, ma fidèle Marton, ma seule, mon unique amie, éclaire-moi, conseille-moi, conduis-moi. Tu me rends à la vie, en me rendant à l'espoir; dis-moi, que dois-je faire pour…</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Déclarez tout à M. Mondor, peignez-lui votre amour, votre douleur; laissez entrevoir que vous êtes payé du plus tendre retour.</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">Hortense me désavouera.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Que vous importe? Mondor est vieux, il doit être jaloux. Qu'il renonce à Hortense, ce soir elle est à vous: d'ailleurs vous ne ferez que confirmer à Mondor ce que son valet lui aura déjà dit, et ce que peut-être il n'aura pas voulu croire.</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">Quoi! Dumont saurait?……</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Oui, Dumont sait qu'on vous aime; Mondor doit le soupçonner, moi j'en suis assurée, ma maîtresse le sent, il n'y a que vous dans toute la maison qui ne vous en doutiez pas.</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">Mais j'ai promis à ma belle cousine…..</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Vous avez promis…. mais vaincu par les prières d'Hortense, égaré par votre délicatesse, contenu par la crainte de lui déplaire…</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">Oh! oui, oui, Marton, tout cela est bien vrai.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Eh bien! Monsieur, tout acte qui n'est pas libre, parfaitement libre, ne saurait nous engager.</p>
+                     <p rend="justify">AUGUSTE, vivement.</p>
+                     <p rend="justify">Tu as raison, tu as raison.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Ne dites rien de notre petit complot; restez ici, attendez Mondor, ne le tuez pas; de l'éloquence, de la fermeté, l'amour fera le reste.</p>
+                  </div>
+                  <div type="div4">
+                     <head>
+                        <label>SCENE XV.</label>
+                     </head>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">Ah! Marton est charmante. Oui, j'ai promis trop légèrement, et un serment arraché ne m'oblige à rien. Le voici, ce rival heureux; modérons-nous, et abordons-le.</p>
+                  </div>
+                  <div type="div4">
+                     <head>
+                        <label>SCENE XVI.</label>
+                     </head>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT, MONDOR, AUGUSTE.</head>
+                     <p rend="justify">MONDOR, à Dumont, en entrant.</p>
+                     <p rend="justify">J'en ai assez entendu: le notaire est averti, je lui ai fait sa leçon, le reste me regarde.</p>
+                     <p rend="justify">AUGUSTE, avec timidité.</p>
+                     <p rend="justify">Monsieur, vous voulez épouser….. vous allez épouser…..</p>
+                     <p rend="justify">MONDOR, à Dumont, en dissimulant.</p>
+                     <p rend="justify">Quel est Monsieur?</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">C'est M. Auguste, le cousin et l'ami…..</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Monsieur Auguste, que j'ai vu si jeune, si intéressant, dont la physionomie promettait?…</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Et dont la physionomie a tenu parole.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">J'étais loin, Monsieur, de vous croire ici. Hortense ne m'a pas parlé de vous, Marton a gardé le même silence, tout cela m'étonne un peu, je l'avoue: au reste, vous voilà, j'en suis charmé; vous serez de ma noce, et vous l'embellirez.</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">Je serai de votre noce!…. vous croyez?…. Vous ne doutez pas que votre triomphe……</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Qu'avez-vous, Monsieur, vous paraissez troublé?</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">Je suis dans un état impossible à dépeindre.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Vous m'alarmez, mon cher ami.</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">Dites-moi d'abord, Monsieur, aimez-vous beaucoup ma cousine?</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Eperdument.</p>
+                     <p rend="justify">DUMONT, à MONDOR.</p>
+                     <p rend="justify">Eh! non, Monsieur, non; c'est convenu.</p>
+                     <p rend="justify">MONDOR, à Dumont.</p>
+                     <p rend="justify">Va-t'en.</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Mais, Monsieur.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Va-t'en, te dis-je.</p>
+                  </div>
+                  <div type="div4">
+                     <head>
+                        <label>SCENE XVII.</label>
+                     </head>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR, AUGUSTE.</head>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">Sérieusement, Monsieur, vous l'aimez éperdument?</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Cela vous étonne?</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">Au contraire, Monsieur; mais c'est que votre amour…..</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Mon amour?…</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">C'est que votre amour…..</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Ne s'accorde peut-être pas avec vos désirs secrets? A votre âge, Monsieur, on aime facilement: à votre âge, on est fort aimable; mais à votre âge, on ne se marie pas, ou on a tort.</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">On se marie bien au vôtre, Monsieur.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">On a peut-être tort aussi: cependant la comparaison n'est pas juste.</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">Pour ceux qu'elle humilie.</p>
+                     <p rend="justify">MONSOR, avec une feinte colère.</p>
+                     <p rend="justify">Monsieur, vous me tenez des propos…..</p>
+                     <p rend="justify">AUGUSTE, avec fierté.</p>
+                     <p rend="justify">Vous blessent-ils, Monsieur?</p>
+                     <p rend="justify">MONDOR, à part.</p>
+                     <p rend="justify">Il est brave; voyons s'il est délicat. (<hi rend="italic">Haut</hi>.) Avant de nous brouiller tout-à-fait, ne serait-il pas prudent de nous entendre, et de nous expliquer?</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">Soit, Monsieur, expliquons-nous: vous aimez Hortense, et je l'adore; vous l'épousez, et moi……</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Jusqu'ici je ne vois pas de raisons qui puissent me faire renoncer à sa main.</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">Vous n'en voyez pas, Monsieur?… Moi, j'en vois mille.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Ah! ah!</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">Et une seule doit suffire.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Eh bien! Monsieur, voyons cette raison.</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">C'est que…. (<hi rend="italic">A part</hi>.) Non, elle ne me le pardonnerait jamais.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Enfin, cette raison?</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">C'est que…..</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">C'est qu'Hortense vous aime, peut-être?</p>
+                     <p rend="justify">AUGUSTE, vivement.</p>
+                     <p rend="justify">Je ne dis pas cela.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Elle a agréé ma recherche, l'instant de notre hymen est fixé; c'est un sentiment de préférence qui la détermine. (<hi rend="italic">Ici Auguste fait un mouvement</hi>.) Oui, Monsieur, un sentiment de préférence, ce sont ses propres expressions. Je la crois, parce que je l'estime. Si elle vous eût aimé, peut-être eussé-je sacrifié mon amour.</p>
+                     <p rend="justify">AUGUSTE, très-vivement.</p>
+                     <lg>
+                        <l>Vous l'eussiez sacrifié!…. vous l'eussiez sacrifié!…. Ah</l>
+                        <l>! Monsieur.</l>
+                     </lg>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Mais Hortense ne vous aime pas, n'est-il pas vrai, elle ne vous aime pas? Prenez garde, Monsieur, qu'un mot hasardé peut nuire à la réputation d'une femme estimable.</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">Eh! Monsieur, que me demandez-vous? Je vais vous dévoiler mon ame, vous y lirez comme moi. Qu'importe que je sois aimé d'Hortense, que vous importent ses sentimens secrets, puisque vous connaissez sa vertu? Mais, Monsieur, c'est à la dernière extrémité que je vous implore. A votre âge, on surmonte l'amour: au mien, c'est un poison qui brûle, qui dévore. Vous avez toute votre raison, et la mienne n'est qu'à son aurore. Je voudrais vous aimer, je le désire, je le puis; ayez pitié de mes tourmens, ne me forcez pas à vous haïr.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Monsieur, vous me dites là des choses très-intéressantes, très-vivement senties, mais qui éludent ma question. Répondez net, s'il vous plaît. Si Hortense vous aime, si seulement elle vous a donné lieu de le croire, je vous la cède; elle m'a trompé, et je la méprise. Si au contraire……</p>
+                     <p rend="justify">AUGUSTE, avec force.</p>
+                     <p rend="justify">Monsieur, estimez ma cousine, et épousez-la.</p>
+                     <p rend="justify">MONDOR, à part.</p>
+                     <p rend="justify">C'est un honnête homme, et je suis content de lui.</p>
+                  </div>
+                  <div type="div4">
+                     <head>
+                        <label>SCENE XVIII.</label>
+                     </head>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR, HORTENSE, AUGUSTE.</head>
+                     <p rend="justify">HORTENSE, embarrassée.</p>
+                     <p rend="justify">Monsieur, notre mariage, qui m'a singulièrement préoccupée…….</p>
+                     <p rend="justify">MONDOR, à part.</p>
+                     <p rend="justify">Je le crois.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Les préliminaires….. les préparatifs…..</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">Que va-t-elle dire?</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Tout ce qui tient enfin à une affaire majeure, m'a fait perdre de vue des intérêts moins pressans.</p>
+                     <p rend="justify">MONDOR, à part.</p>
+                     <p rend="justify">La conversation va s'animer.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">J'ai négligé de vous parler de mon cousin… de mon cousin…. que j'aime.</p>
+                     <p rend="justify">MONDOR, avec intention.</p>
+                     <p rend="justify">Et qui mérite de l'être.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Oui, Monsieur.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Eh! Madame, quoi de plus simple? vous aimez votre cousin, c'est bien naturel. Il est charmant, le petit cousin, et près de toute autre femme il pourrait être dangereux.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Vous vous plaisez aujourd'hui à me dire des choses désagréables.</p>
+                     <p rend="justify">AUGUSTE, à part.</p>
+                     <p rend="justify">S'ils pouvaient se brouiller!</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Croyez-moi, Madame, ne perdons pas un tems précieux à disputer sur des mots; revenons, s'il vous plaît. (<hi rend="italic">La contrefesant</hi>.) Vous avez négligé de me parler de votre cousin….. de votre cousin….. que vous aimez.</p>
+                     <p rend="justify">HORTENSE, vivement.</p>
+                     <p rend="justify">Comme on aime un parent.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">C'est bien ainsi que je l'entends. Poursuivez, Madame.</p>
+                     <p rend="justify">HORTENSE, avec beaucoup d'embarras.</p>
+                     <p rend="justify">J'ai réfléchi, Monsieur…. j'ai réfléchi….</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Vous avez réfléchi?…</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Et je l'éloigne de moi.</p>
+                     <p rend="justify">AUGUSTE, bas à Hortense.</p>
+                     <p rend="justify">Que dites-vous, Madame?</p>
+                     <p rend="justify">MONDOR, à part.</p>
+                     <p rend="justify">Elle l'éloigne, elle le craint.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Il est tems qu'il s'occupe de son état et de sa fortune: je l'aiderai de la mienne, et vos conseils guideront sa jeunesse.</p>
+                     <p rend="justify">AUGUSTE, bas à Hortense.</p>
+                     <p rend="justify">Je ne partirai pas, c'est un parti pris.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Je ne vois pas qu'il faille pour cela l'éloigner de vous. Je vais être son parent, et votre affection lui est un sûr garant de la mienne. Vous avez commencé son éducation, il faut la finir; nous le devons, et je vous prie de ne pas vous y opposer.</p>
+                     <p rend="justify">AUGUSTE, bas à Hortense.</p>
+                     <p rend="justify">Rendez-vous, cruelle, ou je vais éclater.</p>
+                     <p rend="justify">HORTENSE, bas à Auguste.</p>
+                     <lg>
+                        <l>Si vous dites un mot, je ne vous parle de ma vie. (<hi rend="italic">A Mondor</hi>.)</l>
+                        <l>Croyez, Monsieur, que je n'agis pas sans de fortes raisons.</l>
+                     </lg>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Il serait dangereux peut-être de vouloir les approfondir: je vous avoue cependant que celles que vous m'opposez ne me persuadent pas, m'étonnent, et peuvent donner lieu à d'étranges soupçons.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Eh bien! Monsieur, sachez que je ne fais rien que pour prévenir ces soupçons. Je vais vous faire une confidence dictée par l'honneur, et nécessaire à mon repos: ce jeune homme m'aime.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Je le sais, Madame.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Mais il m'aime… d'amour.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Je le sais, Madame.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Vous le savez, Monsieur?</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">Oui, Madame, oui, Monsieur le sait.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Et vous trouvez étrange que je l'éloigne?</p>
+                     <p rend="justify">MONDOR, ironiquement.</p>
+                     <p rend="justify">Oui, Madame, puisque vous n'avez pour lui que de l'amitié.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Vous ne cherchez qu'à me tourmenter, Monsieur. Si je ne l'aime pas, vous devez louer ma prudence; si je l'aime, vous devez me savoir gré de mon sacrifice; mais les hommes sont injustes, sont ingrats, sont….</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Tout ce qu'il vous plaira, Madame. Une jolie femme n'a jamais tort avec moi.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Un compliment ne réparera pas ce que vos propos ont de piquant.</p>
+                     <p rend="justify">AUGUSTE, avec humeur.</p>
+                     <p rend="justify">Monsieur ne vous a rien dit que de très-sensé, Madame; et c'est vous qui prenez tout si singulièrement aujourd'hui…</p>
+                     <p rend="justify">HORTENSE, à Auguste.</p>
+                     <p rend="justify">Joignez-vous à Monsieur, je vous le conseille, je vous en prie ; ces deux hommes sont cruels! l'un m'excède…</p>
+                     <p rend="justify">MONDOR, l'interrompant.</p>
+                     <p rend="justify">Duquel parlez-vous, Madame?</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">Quoiqu'il en soit, je ne partirai pas. Je vous adore; votre époux le sait; il veut que je reste, et bien certainement je lui obéirai. Il est raisonnable, lui… et vous!…… Ah! cousine, n'est-ce pas assez de vous perdre, sans être forcé de m'éloigner? Je n'ai plus de parens, je n'ai que vous au monde qui s'intéresse à moi, que deviendrai-je si je vous quitte? Jeune, sans expérience, obligé de me distraire d'une passion malheureuse, je me livrerai malgré moi aux erreurs de mon âge : vous le saurez, et vous en serez tourmentée. Si je reste, au contraire, vos conseils, votre vertu, votre amitié douce et compatissante rétabliront insensiblement la paix dans mon ame. Je puiserai dans vos yeux la force de supporter mon sort. Ma cousine! ma belle cousine! (<hi rend="italic">Il tombe à ses genoux, et lui baisant la main</hi>.) Ne me chassez pas, je vous en conjure; ce serait m'arracher la vie!</p>
+                     <p rend="justify">MONDOR, passant entre Hortense et Auguste.</p>
+                     <p rend="justify">Bien! cousin, bien!</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Vous chasser! vous chasser! Je n'en ai jamais eu l'idée; mais il me semble qu'une absence de quelques mois…</p>
+                     <p rend="justify">AUGUSTE, à Mondor.</p>
+                     <p rend="justify">Monsieur, parlez pour moi, je vous en prie.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Malgré la nouveauté du personnage qu'on me fait jouer, je dois vous représenter, Madame, que tant de précipitation peut donner à penser à un monde toujours injuste et malin. On croirait peut-être que le départ de Monsieur serait l'effet de ma jalousie, et je ne suis pas jaloux.</p>
+                     <p rend="justify">HORTENSE, piquée.</p>
+                     <p rend="justify">Vous n'êtes pas jaloux?</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Non, Madame, je ne suis pas jaloux. Je verrais Monsieur passer sa vie à vos pieds, que je n'en prendrais pas le plus léger ombrage.</p>
+                     <p rend="justify">AUGUSTE, à Hortense.</p>
+                     <p rend="justify">Eh bien! je ne lui fais pas dire.</p>
+                     <p rend="justify">HORTENSE, à part.</p>
+                     <p rend="justify">Quel insupportable homme!</p>
+                  </div>
+                  <div type="div4">
+                     <head>
+                        <label>SCENE XIX.</label>
+                     </head>
+                  </div>
+                  <div type="div4">
+                     <head>LES PRECEDENS, MARTON, DUMONT, LE NOTAIRE.</head>
+                     <p rend="justify">DUMONT, annonçant.</p>
+                     <p rend="justify">Votre notaire.</p>
+                     <p rend="justify">MONDOR, allant au-devant du notaire.</p>
+                     <p rend="justify">Approchez, Monsieur, approchez.</p>
+                     <p rend="justify">AUGUSTE, s'asseyant.</p>
+                     <p rend="justify">Mon coeur s'en va.</p>
+                     <p rend="justify">HORTENSE, s'asseyant de l'autre côté.</p>
+                     <p rend="justify">Comme il souffre, ce pauvre enfant!</p>
+                     <p rend="justify">LE NOTAIRE, deux contrats à la main, bas à Mondor.</p>
+                     <p rend="justify">Avez-vous deviné?</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Parbleu! regardez le jeune homme.</p>
+                  </div>
+                  <div type="div4">
+                     <head>LE NOTAIRE.</head>
+                     <p rend="justify">Charmant! en vérité. (<hi rend="italic">Prenant le contrat de dessous</hi>.) En ce cas, c'est ce contrat-ci.</p>
+                     <p rend="justify">MONDOR, présentant la plume à Hortense.</p>
+                     <p rend="justify">Madame veut-elle signer?…</p>
+                     <p rend="justify">(Hortense signe d'un air triste.)</p>
+                  </div>
+                  <div type="div4">
+                     <head>MARTON.</head>
+                     <p rend="justify">Elle a signé! Ah! la pauvre femme!</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Mon maître ne signera pas.</p>
+                     <p rend="justify">LE NOTAIRE, à Mondor qui a pris la plume pour signer.</p>
+                     <p rend="justify">Plus bas, plus bas encore.</p>
+                     <p rend="justify">MONDOR, signant.</p>
+                     <p rend="justify">Ah! j'entends.</p>
+                     <p rend="justify">MARTON, à Dumont.</p>
+                     <p rend="justify">Eh bien! qu'en dis-tu?</p>
+                  </div>
+                  <div type="div4">
+                     <head>DUMONT.</head>
+                     <p rend="justify">Diable emporte si je m'y attendais!</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Et le petit cousin? Il nous fera aussi le plaisir de signer au contrat. (<hi rend="italic">Il présente à Auguste la plume et le contrat</hi>.) Ici, cousin, ici. (<hi rend="italic">A part</hi>.) Comme la main lui tremble……. ce cher enfant! il faut lui rendre ses forces. (<hi rend="italic">Haut</hi>.) Eh! mais…. j'oubliais…. étourdi que je suis! Madame a signé sans connaître les articles…</p>
+                     <p rend="justify">HORTENSE, très-froidement.</p>
+                     <p rend="justify">Monsieur, je m'en rapporte absolument à vous….</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Cela ne suffit pas. Je crois que les clauses principales ne vous déplairont pas; mais il faut que vous sachiez… (<hi rend="italic">Au notaire</hi>.) Lisez, Monsieur, lisez.</p>
+                     <p rend="justify">LE NOTAIRE, lisant.</p>
+                     <lg>
+                        <l>Par devant, et caetera….. Sont comparus Monsieur Auguste</l>
+                        <l>Vercour, et Dame Hortense….</l>
+                     </lg>
+                     <p rend="justify">HORTENSE, se levant précipitamment.</p>
+                     <p rend="justify">Monsieur, quelle est cette nouvelle plaisanterie?</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Celle-ci vaut bien les autres, convenez-en?</p>
+                  </div>
+                  <div type="div4">
+                     <head>AUGUSTE.</head>
+                     <p rend="justify">Quoi! Monsieur…</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Te voilà bien certain de ne pas partir, à moins que Madame ne veuille congédier son époux.</p>
+                     <p rend="justify">AUGUSTE, sautant au cou de Mondor.</p>
+                     <p rend="justify">Ah! mon bon ami, mon bon ami!</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Je n'y consentirai jamais.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Vous voulez qu'on vous prie…</p>
+                     <p rend="justify">MARTON, à Mondor.</p>
+                     <p rend="justify">Pour la forme.</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Oui, pour la forme.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Toujours des impertinences?</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Vous n'aurez pas de peine à me pardonner celle-ci.</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Mais, quelle folie! me faire épouser un enfant!</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Eh! qu'importe?</p>
+                  </div>
+                  <div type="div4">
+                     <head>HORTENSE.</head>
+                     <p rend="justify">Que dira le monde?</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Tout ce qu'il lui plaira. Monsieur est jeune, mais il a une belle ame, il m'en a convaincu. Vous serez heureuse, Auguste le sera, je le serai de votre commun bonheur. Nous laisserons dire les sots, et nous jouirons de la vie.</p>
+                     <p rend="justify">HORTENSE, avec une joie qu'elle voudrait dissimuler.</p>
+                     <p rend="justify">Vous êtes un terrible homme! vous me faites faire tout ce que vous voulez.</p>
+                     <p rend="justify">AUGUSTE, sautant.</p>
+                     <p rend="justify">Elle est à moi!</p>
+                  </div>
+                  <div type="div4">
+                     <head>MONDOR.</head>
+                     <p rend="justify">Vous m'épousiez par raison, l'amour vous parlait pour ce jeune homme, je m'en suis aperçu, car enfin je n'ai pas cinquante ans pour rien, et je me suis dit: " Il faut savoir aimer ses amis pour eux-mêmes ".</p>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>FIN DE L'AMOUR ET LA RAISON.</head>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

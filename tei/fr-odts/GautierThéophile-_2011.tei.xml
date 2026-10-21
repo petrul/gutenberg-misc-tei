@@ -1,0 +1,3251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Émaux et Camées</title>
+            <author>Théophile Gautier</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-01T19:22:37Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">odts/fr-odts/GautierThéophile-_2011.epub.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Théophile Gautier</name>
+               <date>2024-01-01T19:22:37Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Émaux et Camées</head>
+         <author>Théophile Gautier</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">odts/fr-odts/GautierThéophile-_2011.epub.odt</p>
+         <p>Au lecteur</p>
+         <p>COLLECTION POLYCHRÔME</p>
+         <head>ÉMAUX et CAMÉES</head>
+         <subtitle>G. CHARPENTIER et E. FASQUELLE</subtitle>
+         <p>ÉDITEURS</p>
+         <p>11, rue de Grenelle, Paris</p>
+         <p>
+            <hi rend="italic">Ouvrage paru dans la «COLLECTION POLYCHRÔME»:</hi>
+         </p>
+         <p>UN SIÈCLE DE MODES FÉMININES</p>
+         <p>(1794-1894)</p>
+         <p>un volume in-18. prix: <hi rend="bold">3</hi>  fr. <hi rend="bold">50</hi>.</p>
+         <subtitle>COLLECTION POLYCHRÔME</subtitle>
+         <pb/>
+         <div type="div1">
+            <head>Émaux et Camées</head>
+            <pb/>
+            <div type="div2">
+               <head>THÉOPHILE GAUTIER</head>
+               <p rend="justify">~~~~~~</p>
+            </div>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>ÉMAUX</head>
+            <pb/>
+            <div type="div2">
+               <head>ET</head>
+            </div>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>CAMÉES</head>
+            <pb/>
+            <div type="div2">
+               <head>ÉDITION ORNÉE DE CENT DIX AQUARELLES</head>
+               <div type="div3">
+                  <head>PAR</head>
+               </div>
+               <div type="div3">
+                  <head>HENRI CARUCHET</head>
+                  <p rend="justify">
+                     <hi rend="italic">Reproduites en couleurs</hi>
+                  </p>
+                  <p rend="justify">~~~~~~</p>
+                  <p rend="justify">PARIS</p>
+                  <p rend="justify">G. CHARPENTIER et E. FASQUELLE</p>
+                  <p rend="justify">ÉDITEURS</p>
+                  <p rend="justify">11, Rue de Grenelle, 11</p>
+                  <p rend="justify">1895</p>
+                  <div type="div4">
+                     <head>TABLE</head>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">PRÉFACE</hi>
+                     </p>
+                     <lg>
+                        <l>Pendant les guerres de l'empire,</l>
+                        <l>Gœthe, au bruit du canon brutal,</l>
+                        <l>Fit <hi rend="italic">le Divan occidental</hi>,</l>
+                        <l>Fraîche oasis où l'art respire.</l>
+                        <l>Pour Nisami quittant Shakspeare,</l>
+                        <l>Il se parfuma de çantal,</l>
+                        <l>Et sur un mètre oriental</l>
+                        <l>Nota le chant qu'Hudhud soupire.</l>
+                        <l>Comme Gœthe sur son divan</l>
+                        <l>A Weimar s'isolait des choses</l>
+                        <l>Et d'Hafiz effeuillait les roses,</l>
+                        <l>Sans prendre garde à l'ouragan</l>
+                        <l>Qui fouettait mes vitres fermées,</l>
+                        <l>Moi, j'ai fait <hi rend="italic">Émaux et Camées</hi>.</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">AFFINITÉS SECRÈTES</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="bold">MADRIGAL PANTHÉISTE</hi>
+                     </p>
+                     <lg>
+                        <l>Dans le fronton d'un temple antique,</l>
+                        <l>Deux blocs de marbre ont, trois mille ans</l>
+                        <l>Sur le fond bleu du ciel attique,</l>
+                        <l>Juxtaposé leurs rêves blancs;</l>
+                        <l>Dans la même nacre figées,</l>
+                        <l>Larmes des flots pleurant Vénus,</l>
+                        <l>Deux perles au gouffre plongées</l>
+                        <l>Se sont dit des mots inconnus;</l>
+                        <l>Au frais Généralife écloses,</l>
+                        <l>Sous le jet d'eau toujours en pleurs,</l>
+                        <l>Du temps de Boabdil, deux roses</l>
+                        <l>Ensemble ont fait jaser leurs fleurs;</l>
+                        <l>Sur les coupoles de Venise</l>
+                        <l>Deux ramiers blancs aux pieds rosés,</l>
+                        <l>Au nid où l'amour s'éternise,</l>
+                        <l>Un soir de mai se sont posés.</l>
+                        <l>Marbre, perle, rose, colombe,</l>
+                        <l>Tout se dissout, tout se détruit;</l>
+                        <l>La perle fond, le marbre tombe,</l>
+                        <l>La fleur se fane et l'oiseau fuit.</l>
+                        <l>En se quittant, chaque parcelle</l>
+                        <l>S'en va dans le creuset profond</l>
+                        <l>Grossir la pâte universelle</l>
+                        <l>Faite des formes que Dieu fond.</l>
+                        <l>Par de lentes métamorphoses,</l>
+                        <l>Les marbres blancs en blanches chairs,</l>
+                        <l>Les fleurs roses en lèvres roses</l>
+                        <l>Se refont dans des corps divers.</l>
+                        <l>Les ramiers de nouveau roucoulent</l>
+                        <l>Au cœur de deux jeunes amants,</l>
+                        <l>Et les perles en dents se moulent</l>
+                        <l>Pour l'écrin des rires charmants.</l>
+                        <l>De là naissent ces sympathies</l>
+                        <l>Aux impérieuses douceurs,</l>
+                        <l>Par qui les âmes averties</l>
+                        <l>Partout se reconnaissent sœurs.</l>
+                        <l>Docile à l'appel d'un arome,</l>
+                        <l>D'un rayon ou d'une couleur,</l>
+                        <l>L'atome vole vers l'atome</l>
+                        <l>Comme l'abeille vers la fleur.</l>
+                        <l>L'on se souvient des rêveries</l>
+                        <l>Sur le fronton ou dans la mer,</l>
+                        <l>Des conversations fleuries</l>
+                        <l>Près de la fontaine au flot clair,</l>
+                        <l>Des baisers et des frissons d'ailes</l>
+                        <l>Sur les dômes aux boules d'or,</l>
+                        <l>Et les molécules fidèles</l>
+                        <l>Se cherchent et s'aiment encor.</l>
+                        <l>L'amour oublié se réveille,</l>
+                        <l>Le passé vaguement renaît,</l>
+                        <l>La fleur sur la bouche vermeille</l>
+                        <l>Se respire et se reconnaît.</l>
+                        <l>Dans la nacre où le rire brille</l>
+                        <l>La perle revoit sa blancheur;</l>
+                        <l>Sur une peau de jeune fille,</l>
+                        <l>Le marbre ému sent sa fraîcheur.</l>
+                        <l>Le ramier trouve une voix douce,</l>
+                        <l>Écho de son gémissement,</l>
+                        <l>Toute résistance s'émousse,</l>
+                        <l>Et l'inconnu devient l'amant.</l>
+                        <l>Vous devant qui je brûle et tremble</l>
+                        <l>Quel flot, quel fronton, quel rosier,</l>
+                        <l>Quel dôme nous connut ensemble,</l>
+                        <l>Perle ou marbre, fleur ou ramier?</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">LE POÈME</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="bold">DE LA FEMME</hi>
+                     </p>
+                     <lg>
+                        <l>marbre de paros</l>
+                        <l>Un jour, au doux rêveur qui l'aime,</l>
+                        <l>En train de montrer ses trésors,</l>
+                        <l>Elle voulut lire un poème,</l>
+                        <l>Le poème de son beau corps.</l>
+                        <l>D'abord, superbe et triomphante</l>
+                        <l>Elle vint en grand apparat,</l>
+                        <l>Traînant avec des airs d'infante</l>
+                        <l>Un flot de velours nacarat:</l>
+                        <l>Telle qu'au rebord de sa loge</l>
+                        <l>Elle brille aux Italiens,</l>
+                        <l>Écoutant passer son éloge</l>
+                        <l>Dans les chants des musiciens</l>
+                        <l>Ensuite, en sa verve d'artiste,</l>
+                        <l>Laissant tomber l'épais velours,</l>
+                        <l>Dans un nuage de batiste</l>
+                        <l>Elle ébaucha ses fiers contours.</l>
+                        <l>Glissant de l'épaule à la hanche,</l>
+                        <l>La chemise aux plis nonchalants,</l>
+                        <l>Comme une tourterelle blanche</l>
+                        <l>Vint s'abattre sur ses pieds blancs.</l>
+                        <l>Pour Apelle ou pour Cléomène,</l>
+                        <l>Elle semblait, marbre de chair,</l>
+                        <l>En Vénus Anadyomène</l>
+                        <l>Poser nue au bord de la mer.</l>
+                        <l>De grosses perles de Venise</l>
+                        <l>Roulaient au lieu de gouttes d'eau,</l>
+                        <l>Grains laiteux qu'un rayon irise,</l>
+                        <l>Sur le frais satin de sa peau.</l>
+                        <l>Oh! quelles ravissantes choses</l>
+                        <l>Dans sa divine nudité,</l>
+                        <l>Avec les strophes de ses poses,</l>
+                        <l>Chantait cet hymne de beauté!</l>
+                        <l>Comme les flots baisant le sable</l>
+                        <l>Sous la lune aux tremblants rayons,</l>
+                        <l>Sa grâce était intarissable</l>
+                        <l>En molles ondulations.</l>
+                        <l>Mais bientôt, lasse d'art antique,</l>
+                        <l>De Phidias et de Vénus,</l>
+                        <l>Dans une autre stance plastique</l>
+                        <l>Elle groupe ses charmes nus.</l>
+                        <l>Sur un tapis de Cachemire,</l>
+                        <l>C'est la sultane du sérail,</l>
+                        <l>Riant au miroir qui l'admire</l>
+                        <l>Avec un rire de corail;</l>
+                        <l>La Géorgienne indolente,</l>
+                        <l>Avec son souple narguilhé,</l>
+                        <l>Étalant sa hanche opulente,</l>
+                        <l>Un pied sous l'autre replié,</l>
+                        <l>Et comme l'odalisque d'Ingres,</l>
+                        <l>De ses reins cambrant les rondeurs,</l>
+                        <l>En dépit des vertus malingres,</l>
+                        <l>En dépit des maigres pudeurs!</l>
+                        <l>Paresseuse odalisque, arrière!</l>
+                        <l>Voici le tableau dans son jour,</l>
+                        <l>Le diamant dans sa lumière;</l>
+                        <l>Voici la beauté dans l'amour!</l>
+                        <l>Sa tête penche et se renverse;</l>
+                        <l>Haletante, dressant les seins,</l>
+                        <l>Aux bras du rêve qui la berce,</l>
+                        <l>Elle tombe sur ses coussins.</l>
+                        <l>Ses paupières battent des ailes</l>
+                        <l>Sur leurs globes d'argent bruni,</l>
+                        <l>Et l'on voit monter ses prunelles</l>
+                        <l>Dans la nacre de l'infini.</l>
+                        <l>D'un linceul de point d'Angleterre</l>
+                        <l>Que l'on recouvre sa beauté:</l>
+                        <l>L'extase l'a prise à la terre;</l>
+                        <l>Elle est morte de volupté!</l>
+                        <l>Que les violettes de Parme,</l>
+                        <l>Au lieu des tristes fleurs des morts</l>
+                        <l>Où chaque perle est une larme,</l>
+                        <l>Pleurent en bouquets sur son corps!</l>
+                        <l>Et que mollement on la pose</l>
+                        <l>Sur son lit, tombeau blanc et doux,</l>
+                        <l>Où le poète, à la nuit close,</l>
+                        <l>Ira prier à deux genoux.</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">ETUDE DE MAINS</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="bold">I</hi>
+                     </p>
+                     <lg>
+                        <l>imperia</l>
+                        <l>Chez un sculpteur, moulée en plâtre,</l>
+                        <l>J'ai vu l'autre jour une main</l>
+                        <l>D'Aspasie ou de Cléopâtre,</l>
+                        <l>Pur fragment d'un chef-d'œuvre humain;</l>
+                        <l>Sous le baiser neigeux saisie</l>
+                        <l>Comme un lis par l'aube argenté,</l>
+                        <l>Comme une blanche poésie</l>
+                        <l>S'épanouissait sa beauté,</l>
+                        <l>Dans l'éclat de sa pâleur mate</l>
+                        <l>Elle étalait sur le velours</l>
+                        <l>Son élégance délicate</l>
+                        <l>Et ses doigts fins aux anneaux lourds.</l>
+                        <l>Une cambrure florentine,</l>
+                        <l>Avec un bel air de fierté,</l>
+                        <l>Faisait, en ligne serpentine,</l>
+                        <l>Onduler son pouce écarté.</l>
+                        <l>A-t-elle joué dans les boucles</l>
+                        <l>Des cheveux lustrés de don Juan,</l>
+                        <l>Ou sur son caftan d'escarboucles</l>
+                        <l>Peigné la barbe du sultan,</l>
+                        <l>Et tenu, courtisane ou reine,</l>
+                        <l>Entre ses doigts si bien sculptés,</l>
+                        <l>Le sceptre de la souveraine</l>
+                        <l>Ou le sceptre des voluptés?</l>
+                        <l>Elle a dû, nerveuse et mignonne,</l>
+                        <l>Souvent s'appuyer sur le col</l>
+                        <l>Et sur la croupe de lionne</l>
+                        <l>De sa chimère prise au vol.</l>
+                        <l>Impériales fantaisies,</l>
+                        <l>Amour des somptuosités;</l>
+                        <l>Voluptueuses frénésies,</l>
+                        <l>Rêves d'impossibilités,</l>
+                        <l>Romans extravagants, poèmes</l>
+                        <l>De haschisch et de vin du Rhin,</l>
+                        <l>Courses folles dans les bohèmes</l>
+                        <l>Sur le dos des coursiers sans frein;</l>
+                        <l>On voit tout cela dans les lignes</l>
+                        <l>De cette paume, livre blanc</l>
+                        <l>Où Vénus a tracé des signes</l>
+                        <l>Que l'amour ne lit qu'en tremblant.</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">II</hi>
+                     </p>
+                     <lg>
+                        <l>lacenaire</l>
+                        <l>Pour contraste, la main coupée</l>
+                        <l>De Lacenaire l'assassin,</l>
+                        <l>Dans des baumes puissants trempée</l>
+                        <l>Posait auprès, sur un coussin</l>
+                        <l>Curiosité dépravée!</l>
+                        <l>J'ai touché, malgré mes dégoûts,</l>
+                        <l>Du supplice encore mal lavée,</l>
+                        <l>Cette chair froide au duvet roux.</l>
+                        <l>Momifiée et toute jaune</l>
+                        <l>Comme la main d'un pharaon,</l>
+                        <l>Elle allonge ses doigts de faune</l>
+                        <l>Crispés par la tentation.</l>
+                        <l>Un prurit d'or et de chair vive</l>
+                        <l>Semble titiller de ses doigts</l>
+                        <l>L'immobilité convulsive,</l>
+                        <l>Et les tordre comme autrefois.</l>
+                        <l>Tous les vices avec leurs griffes</l>
+                        <l>Ont, dans les plis de cette peau,</l>
+                        <l>Tracé d'affreux hiéroglyphes,</l>
+                        <l>Lus couramment par le bourreau.</l>
+                        <l>On y voit les œuvres mauvaises</l>
+                        <l>Écrites en fauves sillons,</l>
+                        <l>Et les brûlures des fournaises</l>
+                        <l>Où bouillent les corruptions;</l>
+                        <l>Les débauches dans les Caprées</l>
+                        <l>Des tripots et des lupanars,</l>
+                        <l>De vin et de sang diaprées,</l>
+                        <l>Comme l'ennui des vieux Césars!</l>
+                        <l>En même temps molle et féroce,</l>
+                        <l>Sa forme a pour l'observateur</l>
+                        <l>Je ne sais quelle grâce atroce,</l>
+                        <l>La grâce du gladiateur!</l>
+                        <l>Criminelle aristocratie,</l>
+                        <l>Par la varlope ou le marteau</l>
+                        <l>Sa pulpe n'est pas endurcie,</l>
+                        <l>Car son outil fut un couteau.</l>
+                        <l>Saints calus du travail honnête,</l>
+                        <l>On y cherche en vain votre sceau.</l>
+                        <l>Vrai meurtrier et faux poète,</l>
+                        <l>Il fut le Manfred du ruisseau!</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">VARIATIONS</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="bold">SUR LE</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="bold">CARNAVAL DE VENISE</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="bold">I</hi>
+                     </p>
+                     <lg>
+                        <l>dans la rue</l>
+                        <l>Il est un vieil air populaire</l>
+                        <l>Par tous les violons raclé,</l>
+                        <l>Aux abois des chiens en colère</l>
+                        <l>Par tous les orgues nasillé.</l>
+                        <l>Les tabatières à musique</l>
+                        <l>L'ont sur leur répertoire inscrit;</l>
+                        <l>Pour les serins il est classique,</l>
+                        <l>Et ma grand'mère, enfant, l'apprit.</l>
+                        <l>Sur cet air, pistons, clarinettes,</l>
+                        <l>Dans les bals aux poudreux berceaux,</l>
+                        <l>Font sauter commis et grisettes,</l>
+                        <l>Et de leurs nids fuir les oiseaux.</l>
+                        <l>La guinguette, sous sa tonnelle</l>
+                        <l>De houblon et de chèvrefeuil,</l>
+                        <l>Fête, en braillant la ritournelle,</l>
+                        <l>Le gai dimanche et l'argenteuil.</l>
+                        <l>L'aveugle au basson qui pleurniche</l>
+                        <l>L'écorche en se trompant de doigts,</l>
+                        <l>La sébile aux dents, son caniche</l>
+                        <l>Près de lui le grogne à mi-voix.</l>
+                        <l>Et les petites guitaristes,</l>
+                        <l>Maigres sous leurs minces tartans,</l>
+                        <l>Le glapissent de leurs voix tristes</l>
+                        <l>Aux tables des cafés chantants.</l>
+                        <l>Paganini, le fantastique,</l>
+                        <l>Un soir, comme avec un crochet,</l>
+                        <l>A ramassé le thème antique</l>
+                        <l>Du bout de son divin archet,</l>
+                        <l>Et, brodant la gaze fanée</l>
+                        <l>Que l'oripeau rougit encor,</l>
+                        <l>Fait sur la phrase dédaignée</l>
+                        <l>Courir ses arabesques d'or.</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">II</hi>
+                     </p>
+                     <lg>
+                        <l>sur les lagunes</l>
+                        <l>Tra la, tra la, la, la, la laire!</l>
+                        <l>Qui ne connaît pas ce motif?</l>
+                        <l>A nos mamans il a su plaire,</l>
+                        <l>Tendre et gai, moqueur et plaintif:</l>
+                        <l>L'air du Carnaval de Venise,</l>
+                        <l>Sur les canaux jadis chanté</l>
+                        <l>Et qu'un soupir de folle brise</l>
+                        <l>Dans le ballet a transporté!</l>
+                        <l>Il me semble, quand on le joue,</l>
+                        <l>Voir glisser dans son bleu sillon</l>
+                        <l>Une gondole avec sa proue</l>
+                        <l>Faite en manche de violon.</l>
+                        <l>Sur une gamme chromatique,</l>
+                        <l>Le sein de perles ruisselant,</l>
+                        <l>La Vénus de l'Adriatique</l>
+                        <l>Sort de l'eau son corps rose et blanc.</l>
+                        <l>Les dômes, sur l'azur des ondes</l>
+                        <l>Suivant la phrase au pur contour,</l>
+                        <l>S'enflent comme des gorges rondes</l>
+                        <l>Que soulève un soupir d'amour.</l>
+                        <l>L'esquif aborde et me dépose,</l>
+                        <l>Jetant son amarre au pilier,</l>
+                        <l>Devant une façade rose,</l>
+                        <l>Sur le marbre d'un escalier.</l>
+                        <l>Avec ses palais, ses gondoles,</l>
+                        <l>Ses mascarades sur la mer,</l>
+                        <l>Ses doux chagrins, ses gaîtés folles,</l>
+                        <l>Tout Venise vit dans cet air.</l>
+                        <l>Une frêle corde qui vibre</l>
+                        <l>Refait sur un pizzicato,</l>
+                        <l>Comme autrefois joyeuse et libre,</l>
+                        <l>La ville de Canaletto!</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">III</hi>
+                     </p>
+                     <lg>
+                        <l>carnaval</l>
+                        <l>Venise pour le bal s'habille.</l>
+                        <l>De paillettes tout étoilé,</l>
+                        <l>Scintille, fourmille et babille</l>
+                        <l>Le carnaval bariolé.</l>
+                        <l>Arlequin, nègre par son masque,</l>
+                        <l>Serpent par ses mille couleurs,</l>
+                        <l>Rosse d'une note fantasque</l>
+                        <l>Cassandre son souffre-douleurs.</l>
+                        <l>Battant de l'aile avec sa manche</l>
+                        <l>Comme un pingouin sur un écueil,</l>
+                        <l>Le blanc Pierrot, par une blanche,</l>
+                        <l>Passe la tête et cligne l'œil.</l>
+                        <l>Le Docteur bolonais rabâche</l>
+                        <l>Avec la basse aux sons traînés;</l>
+                        <l>Polichinelle, qui se fâche,</l>
+                        <l>Se trouve une croche pour nez.</l>
+                        <l>Heurtant Trivelin qui se mouche</l>
+                        <l>Avec un trille extravagant,</l>
+                        <l>A Colombine Scaramouche</l>
+                        <l>Rend son éventail ou son gant.</l>
+                        <l>Sur une cadence se glisse</l>
+                        <l>Un domino ne laissant voir</l>
+                        <l>Qu'un malin regard en coulisse</l>
+                        <l>Aux paupières de satin noir.</l>
+                        <l>Ah! fine barbe de dentelle,</l>
+                        <l>Que fait voler un souffle pur,</l>
+                        <l>Cet arpége m'a dit: C'est elle!</l>
+                        <l>Malgré tes réseaux, j'en suis sûr.</l>
+                        <l>Et j'ai reconnu, rose et fraîche,</l>
+                        <l>Sous l'affreux profil de carton,</l>
+                        <l>Sa lèvre au fin duvet de pèche,</l>
+                        <l>Et la mouche de son menton.</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">IV</hi>
+                     </p>
+                     <lg>
+                        <l>clair de lune sentimental</l>
+                        <l>A travers la folle risée</l>
+                        <l>Que Saint-Marc renvoie au Lido,</l>
+                        <l>Une gamme monte en fusée,</l>
+                        <l>Comme au clair de lune un jet d'eau...</l>
+                        <l>A l'air qui jase d'un ton bouffe</l>
+                        <l>Et secoue au vent ses grelots,</l>
+                        <l>Un regret, ramier qu'on étouffe,</l>
+                        <l>Par instant mêle ses sanglots.</l>
+                        <l>Au loin, dans la brume sonore,</l>
+                        <l>Comme un rêve presque effacé,</l>
+                        <l>J'ai revu, pâle et triste encore,</l>
+                        <l>Mon vieil amour de l'an passé.</l>
+                        <l>Mon âme en pleurs s'est souvenue</l>
+                        <l>De l'avril, où, guettant au bois</l>
+                        <l>La violette à sa venue,</l>
+                        <l>Sous l'herbe nous mêlions nos doigts...</l>
+                        <l>Cette note de chanterelle,</l>
+                        <l>Vibrant comme l'harmonica,</l>
+                        <l>C'est la voix enfantine et grêle,</l>
+                        <l>Flèche d'argent qui me piqua.</l>
+                        <l>Le son en est si faux, si tendre,</l>
+                        <l>Si moqueur, si doux, si cruel,</l>
+                        <l>Si froid, si brûlant, qu'à l'entendre</l>
+                        <l>On ressent un plaisir mortel,</l>
+                        <l>Et que mon cœur, comme la voûte</l>
+                        <l>Dont l'eau pleure dans un bassin,</l>
+                        <l>Laisse tomber goutte par goutte</l>
+                        <l>Ses larmes rouges dans mon sein.</l>
+                        <l>Jovial et mélancolique,</l>
+                        <l>Ah! vieux thème du carnaval,</l>
+                        <l>Où le rire aux larmes réplique,</l>
+                        <l>Que ton charme m'a fait de mal!</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">SYMPHONIE</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="bold">EN</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="bold">BLANC MAJEUR</hi>
+                     </p>
+                     <lg>
+                        <l>De leur col blanc courbant les lignes</l>
+                        <l>On voit dans les contes du Nord,</l>
+                        <l>Sur le vieux Rhin, des femmes-cygnes</l>
+                        <l>Nager en chantant près du bord,</l>
+                        <l>Ou, suspendant à quelque branche</l>
+                        <l>Le plumage qui les revêt,</l>
+                        <l>Faire luire leur peau plus blanche</l>
+                        <l>Que la neige de leur duvet.</l>
+                        <l>De ces femmes il en est une,</l>
+                        <l>Qui chez nous descend quelquefois,</l>
+                        <l>Blanche comme le clair de lune</l>
+                        <l>Sur les glaciers dans les cieux froids;</l>
+                        <l>Conviant la vue enivrée</l>
+                        <l>De sa boréale fraîcheur</l>
+                        <l>A des régals de chair nacrée,</l>
+                        <l>A des débauches de blancheur</l>
+                        <l>Son sein, neige moulée en globe,</l>
+                        <l>Contre les camélias blancs</l>
+                        <l>Et le blanc satin de sa robe</l>
+                        <l>Soutient des combats insolents.</l>
+                        <l>Dans ces grandes batailles blanches,</l>
+                        <l>Satins et fleurs ont le dessous,</l>
+                        <l>Et, sans demander leurs revanches,</l>
+                        <l>Jaunissent comme des jaloux.</l>
+                        <l>Sur les blancheurs de son épaule,</l>
+                        <l>Paros au grain éblouissant,</l>
+                        <l>Comme dans une nuit du pôle,</l>
+                        <l>Un givre invisible descend.</l>
+                        <l>De quel mica de neige vierge,</l>
+                        <l>De quelle moelle de roseau,</l>
+                        <l>De quelle hostie et de quel cierge</l>
+                        <l>A-t-on fait le blanc de sa peau?</l>
+                        <l>A-t-on pris la goutte lactée</l>
+                        <l>Tachant l'azur du ciel d'hiver,</l>
+                        <l>Le lis à la pulpe argentée,</l>
+                        <l>La blanche écume de la mer;</l>
+                        <l>Le marbre blanc, chair froide et pâle,</l>
+                        <l>Où vivent les divinités;</l>
+                        <l>L'argent mat, la laiteuse opale</l>
+                        <l>Qu'irisent de vagues clartés;</l>
+                        <l>L'ivoire, où ses mains ont des ailes,</l>
+                        <l>Et, comme des papillons blancs,</l>
+                        <l>Sur la pointe des notes frêles</l>
+                        <l>Suspendent leurs baisers tremblants;</l>
+                        <l>L'hermine vierge de souillure,</l>
+                        <l>Qui, pour abriter leurs frissons,</l>
+                        <l>Ouate de sa blanche fourrure</l>
+                        <l>Les épaules et les blasons;</l>
+                        <l>Le vif-argent aux fleurs fantasques</l>
+                        <l>Dont les vitraux sont ramagés;</l>
+                        <l>Les blanches dentelles des vasques,</l>
+                        <l>Pleurs de l'ondine en l'air figés;</l>
+                        <l>L'aubépine de mai qui plie</l>
+                        <l>Sous les blancs frimas de ses fleurs;</l>
+                        <l>L'albâtre où la mélancolie</l>
+                        <l>Aime à retrouver ses pâleurs;</l>
+                        <l>Le duvet blanc de la colombe,</l>
+                        <l>Neigeant sur les toits du manoir,</l>
+                        <l>Et la stalactite qui tombe,</l>
+                        <l>Larme blanche de l'antre noir?</l>
+                        <l>Des Groenlands et des Norvèges</l>
+                        <l>Vient-elle avec Séraphita?</l>
+                        <l>Est-ce la Madone des neiges,</l>
+                        <l>Un sphinx blanc que l'hiver sculpta,</l>
+                        <l>Sphinx enterré par l'avalanche,</l>
+                        <l>Gardien des glaciers étoilés,</l>
+                        <l>Et qui, sous sa poitrine blanche,</l>
+                        <l>Cache de blancs secrets gelés?</l>
+                        <l>Sous la glace où calme il repose,</l>
+                        <l>Oh! qui pourra fondre ce cœur!</l>
+                        <l>Oh! qui pourra mettre un ton rose</l>
+                        <l>Dans cette implacable blancheur!</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">COQUETTERIE</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="bold">POSTHUME</hi>
+                     </p>
+                     <lg>
+                        <l>Quand je mourrai, que l'on me mette,</l>
+                        <l>Avant de clouer mon cercueil,</l>
+                        <l>Un peu de rouge à la pommette,</l>
+                        <l>Un peu de noir au bord de l'œil.</l>
+                        <l>Car je veux, dans ma bière close,</l>
+                        <l>Comme le soir de son aveu,</l>
+                        <l>Rester éternellement rose</l>
+                        <l>Avec du kh'ol sous mon œil bleu.</l>
+                        <l>Pas de suaire en toile fine,</l>
+                        <l>Mais drapez-moi dans les plis blancs</l>
+                        <l>De ma robe de mousseline,</l>
+                        <l>De ma robe à treize volants.</l>
+                        <l>C'est ma parure préférée;</l>
+                        <l>Je la portais quand je lui plus.</l>
+                        <l>Son premier regard l'a sacrée,</l>
+                        <l>Et depuis je ne la mis plus.</l>
+                        <l>Posez-moi, sans jaune immortelle,</l>
+                        <l>Sans coussin de larmes brodé,</l>
+                        <l>Sur mon oreiller de dentelle</l>
+                        <l>De ma chevelure inondé.</l>
+                        <l>Cet oreiller, dans les nuits folles,</l>
+                        <l>A vu dormir nos fronts unis,</l>
+                        <l>Et sous le drap noir des gondoles</l>
+                        <l>Compté nos baisers infinis.</l>
+                        <l>Entre mes mains de cire pâle,</l>
+                        <l>Que la prière réunit,</l>
+                        <l>Tournez ce chapelet d'opale,</l>
+                        <l>Par le pape à Rome bénit:</l>
+                        <l>Je l'égrènerai dans la couche</l>
+                        <l>D'où nul encor ne s'est levé;</l>
+                        <l>Sa bouche en a dit sur ma bouche</l>
+                        <l>Chaque <hi rend="italic">Pater</hi>  et chaque <hi rend="italic">Ave</hi>.</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">DIAMANT</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="bold">DU CŒUR</hi>
+                     </p>
+                     <lg>
+                        <l>Tout amoureux, de sa maîtresse,</l>
+                        <l>Sur son cœur ou dans son tiroir,</l>
+                        <l>Possède un gage qu'il caresse</l>
+                        <l>Aux jours de regret ou d'espoir.</l>
+                        <l>L'un d'une chevelure noire,</l>
+                        <l>Par un sourire encouragé,</l>
+                        <l>A pris une boucle que moire</l>
+                        <l>Un reflet bleu d'aile de geai.</l>
+                        <l>L'autre a, sur un cou blanc qui ploie,</l>
+                        <l>Coupé par derrière un flocon</l>
+                        <l>Retors et fin comme la soie</l>
+                        <l>Que l'on dévide du cocon.</l>
+                        <l>Un troisième, au fond d'une boîte,</l>
+                        <l>Reliquaire du souvenir,</l>
+                        <l>Cache un gant blanc, de forme étroite,</l>
+                        <l>Où nulle main ne peut tenir.</l>
+                        <l>Cet autre, pour s'en faire un charme,</l>
+                        <l>Dans un sachet, d'un chiffre orné,</l>
+                        <l>Coud des violettes de Parme,</l>
+                        <l>Frais cadeau qu'on reprend fané.</l>
+                        <l>Celui-ci baise la pantoufle</l>
+                        <l>Que Cendrillon perdit un soir;</l>
+                        <l>Et celui-ci conserve un souffle</l>
+                        <l>Dans la barbe d'un masque noir.</l>
+                        <l>Moi, je n'ai ni boucle lustrée,</l>
+                        <l>Ni gant, ni bouquet, ni soulier,</l>
+                        <l>Mais je garde, empreinte adorée,</l>
+                        <l>Une larme sur un papier:</l>
+                        <l>Pure rosée, unique goutte,</l>
+                        <l>D'un ciel d'azur tombée un jour,</l>
+                        <l>Joyau sans prix, perle dissoute</l>
+                        <l>Dans la coupe de mon amour!</l>
+                        <l>Et, pour moi, cette obscure tache</l>
+                        <l>Reluit comme un écrin d'Ophyr,</l>
+                        <l>Et du vélin bleu se détache,</l>
+                        <l>Diamant éclos d'un saphir.</l>
+                        <l>Cette larme, qui fait ma joie,</l>
+                        <l>Roula, trésor inespéré,</l>
+                        <l>Sur un de mes vers qu'elle noie,</l>
+                        <l>D'un œil qui n'a jamais pleuré!</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">PREMIER SOURIRE</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="bold">DU</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="bold">PRINTEMPS</hi>
+                     </p>
+                     <lg>
+                        <l>Tandis qu'à leurs œuvres perverses</l>
+                        <l>Les hommes courent haletants,</l>
+                        <l>Mars qui rit, malgré les averses,</l>
+                        <l>Prépare en secret le printemps.</l>
+                        <l>Pour les petites pâquerettes,</l>
+                        <l>Sournoisement lorsque tout dort,</l>
+                        <l>Il repasse des collerettes</l>
+                        <l>Et cisèle des boutons d'or.</l>
+                        <l>Dans le verger et dans la vigne,</l>
+                        <l>Il s'en va, furtif perruquier,</l>
+                        <l>Avec une houppe de cygne,</l>
+                        <l>Poudrer à frimas l'amandier.</l>
+                        <l>La nature au lit se repose;</l>
+                        <l>Lui, descend au jardin désert</l>
+                        <l>Et lace les boutons de rose</l>
+                        <l>Dans leur corset de velours vert.</l>
+                        <l>Tout en composant des solfèges,</l>
+                        <l>Qu'aux merles il siffle à mi-voix,</l>
+                        <l>Il sème aux prés les perce-neiges</l>
+                        <l>Et les violettes aux bois.</l>
+                        <l>Sur le cresson, de la fontaine</l>
+                        <l>Où le cerf boit, l'oreille au guet,</l>
+                        <l>De sa main cachée il égrène</l>
+                        <l>Les grelots d'argent du muguet.</l>
+                        <l>Sous l'herbe, pour que tu la cueilles,</l>
+                        <l>Il met la fraise au teint vermeil,</l>
+                        <l>Et te tresse un chapeau de feuilles</l>
+                        <l>Pour te garantir du soleil.</l>
+                        <l>Puis, lorsque sa besogne est faite,</l>
+                        <l>Et que son règne va finir,</l>
+                        <l>Au seuil d'avril tournant la tête,</l>
+                        <l>Il dit: «Printemps, tu peux venir!»</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">CONTRALTO</hi>
+                     </p>
+                     <lg>
+                        <l>On voit dans le musée antique,</l>
+                        <l>Sur un lit de marbre sculpté,</l>
+                        <l>Une statue énigmatique</l>
+                        <l>D'une inquiétante beauté.</l>
+                        <l>Est-ce un jeune homme? est-ce une femme,</l>
+                        <l>Une déesse, ou bien un dieu?</l>
+                        <l>L'amour, ayant peur d'être infâme,</l>
+                        <l>Hésite et suspend son aveu.</l>
+                        <l>Dans sa pose malicieuse,</l>
+                        <l>Elle s'étend, le dos tourné</l>
+                        <l>Devant la foule curieuse,</l>
+                        <l>Sur son coussin capitonné.</l>
+                        <l>Pour faire sa beauté maudite,</l>
+                        <l>Chaque sexe apporta son don.</l>
+                        <l>Tout homme dit: C'est Aphrodite!</l>
+                        <l>Toute femme: C'est Cupidon!</l>
+                        <l>Sexe douteux, grâce certaine,</l>
+                        <l>On dirait ce corps indécis</l>
+                        <l>Fondu, dans l'eau de la fontaine,</l>
+                        <l>Sous les baisers de Salmacis.</l>
+                        <l>Chimère ardente, effort suprême</l>
+                        <l>De l'art et de la volupté,</l>
+                        <l>Monstre charmant, comme je t'aime</l>
+                        <l>Avec ta multiple beauté!</l>
+                        <l>Bien qu'on défende ton approche,</l>
+                        <l>Sous la draperie aux plis droits</l>
+                        <l>Dont le bout à ton pied s'accroche,</l>
+                        <l>Mes yeux ont plongé bien des fois.</l>
+                        <l>Rêve de poète et d'artiste,</l>
+                        <l>Tu m'as bien des nuits occupé,</l>
+                        <l>Et mon caprice qui persiste</l>
+                        <l>Ne convient pas qu'il s'est trompé.</l>
+                        <l>Mais seulement il se transpose,</l>
+                        <l>Et, passant de la forme au son,</l>
+                        <l>Trouve dans sa métamorphose</l>
+                        <l>La jeune fille et le garçon.</l>
+                        <l>Que tu me plais, ô timbre étrange!</l>
+                        <l>Son double, homme et femme à la fois,</l>
+                        <l>Contralto, bizarre mélange,</l>
+                        <l>Hermaphrodite de la voix!</l>
+                        <l>C'est Roméo, c'est Juliette,</l>
+                        <l>Chantant avec un seul gosier;</l>
+                        <l>Le pigeon rauque et la fauvette</l>
+                        <l>Perchés sur le même rosier;</l>
+                        <l>C'est la châtelaine qui raille</l>
+                        <l>Son beau page parlant d'amour,</l>
+                        <l>L'amant au pied de la muraille,</l>
+                        <l>La dame au balcon de sa tour,</l>
+                        <l>Le papillon, blanche étincelle,</l>
+                        <l>Qu'en ses détours et ses ébats</l>
+                        <l>Poursuit un papillon fidèle,</l>
+                        <l>L'un volant haut et l'autre bas,</l>
+                        <l>L'ange qui descend et qui monte</l>
+                        <l>Sur l'escalier d'or voltigeant</l>
+                        <l>La cloche mêlant dans sa fonte</l>
+                        <l>La voix d'airain, la voix d'argent,</l>
+                        <l>La mélodie et l'harmonie,</l>
+                        <l>Le chant et l'accompagnement,</l>
+                        <l>A la grâce la force unie,</l>
+                        <l>La maîtresse embrassant l'amant!</l>
+                        <l>Sur le pli de sa jupe assise,</l>
+                        <l>Ce soir, ce sera Cendrillon</l>
+                        <l>Causant près du feu qu'elle attise</l>
+                        <l>Avec son ami le grillon;</l>
+                        <l>Demain le valeureux Arsace</l>
+                        <l>A son courroux donnant l'essor,</l>
+                        <l>Ou Tancrède avec sa cuirasse,</l>
+                        <l>Son épée et son casque d'or;</l>
+                        <l>Desdemona chantant le Saule,</l>
+                        <l>Zerline bernant Mazetto,</l>
+                        <l>Ou Malcolm le plaid sur l'épaule;</l>
+                        <l>C'est toi que j'aime, ô contralto!</l>
+                        <l>Nature charmante et bizarre</l>
+                        <l>Que Dieu d'un double attrait para,</l>
+                        <l>Toi qui pourrais, comme Gulnare,</l>
+                        <l>Être le Kaled d'un Lara,</l>
+                        <l>Et dont la voix, dans sa caresse,</l>
+                        <l>Réveillant le cœur endormi,</l>
+                        <l>Mêle aux soupirs de la maîtresse</l>
+                        <l>L'accent plus mâle de l'ami!</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">CÆRULEI OCULI</hi>
+                     </p>
+                     <lg>
+                        <l>Une femme mystérieuse,</l>
+                        <l>Dont la beauté trouble mes sens</l>
+                        <l>Se tient debout, silencieuse,</l>
+                        <l>Au bord des flots retentissants.</l>
+                        <l>Ses yeux, où le ciel se reflète,</l>
+                        <l>Mêlent à leur azur amer,</l>
+                        <l>Qu'étoile une humide paillette,</l>
+                        <l>Les teintes glauques de la mer.</l>
+                        <l>Dans les langueurs de leurs prunelles,</l>
+                        <l>Une grâce triste sourit;</l>
+                        <l>Les pleurs mouillent les étincelles</l>
+                        <l>Et la lumière s'attendrit;</l>
+                        <l>Et leurs cils comme des mouettes</l>
+                        <l>Qui rasent le flot aplani,</l>
+                        <l>Palpitent, ailes inquiètes,</l>
+                        <l>Sur leur azur indéfini.</l>
+                        <l>Comme dans l'eau bleue et profonde,</l>
+                        <l>Où dort plus d'un trésor coulé,</l>
+                        <l>On y découvre à travers l'onde</l>
+                        <l>La coupe du roi de Thulé.</l>
+                        <l>Sous leur transparence verdâtre,</l>
+                        <l>Brille, parmi le goémon,</l>
+                        <l>L'autre perle de Cléopâtre</l>
+                        <l>Près de l'anneau de Salomon.</l>
+                        <l>La couronne au gouffre lancée</l>
+                        <l>Dans la ballade de Schiller,</l>
+                        <l>Sans qu'un plongeur l'ait ramassée,</l>
+                        <l>Y jette encor son reflet clair.</l>
+                        <l>Un pouvoir magique m'entraîne</l>
+                        <l>Vers l'abîme de ce regard,</l>
+                        <l>Comme au sein des eaux la sirène</l>
+                        <l>Attirait Harald Harfagar.</l>
+                        <l>Mon âme, avec la violence</l>
+                        <l>D'un irrésistible désir,</l>
+                        <l>Au milieu du gouffre s'élance</l>
+                        <l>Vers l'ombre impossible à saisir.</l>
+                        <l>Montrant son sein, cachant sa queue,</l>
+                        <l>La sirène amoureusement</l>
+                        <l>Fait ondoyer sa blancheur bleue</l>
+                        <l>Sous l'émail vert du flot dormant.</l>
+                        <l>L'eau s'enfle comme une poitrine</l>
+                        <l>Aux soupirs de la passion;</l>
+                        <l>Le vent, dans sa conque marine,</l>
+                        <l>Murmure une incantation.</l>
+                        <l>«Oh! viens dans ma couche de nacre,</l>
+                        <l>Mes bras d'onde t'enlaceront;</l>
+                        <l>Les flots, perdant leur saveur âcre,</l>
+                        <l>Sur ta bouche, en miel couleront.</l>
+                        <l>«Laissant bruire sur nos têtes,</l>
+                        <l>La mer qui ne peut s'apaiser,</l>
+                        <l>Nous boirons l'oubli des tempêtes</l>
+                        <l>Dans la coupe de mon baiser.»</l>
+                        <l>Ainsi parle la voix humide</l>
+                        <l>De ce regard céruléen,</l>
+                        <l>Et mon cœur, sous l'onde perfide,</l>
+                        <l>Se noie et consomme l'hymen.</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">RONDALLA</hi>
+                     </p>
+                     <lg>
+                        <l>Enfant aux airs d'impératrice,</l>
+                        <l>Colombe aux regards de faucon,</l>
+                        <l>Tu me hais, mais c'est mon caprice,</l>
+                        <l>De me planter sous ton balcon.</l>
+                        <l>Là, je veux, le pied sur la borne,</l>
+                        <l>Pinçant les nerfs, tapant le bois,</l>
+                        <l>Faire luire à ton carreau morne</l>
+                        <l>Ta lampe et ton front à la fois.</l>
+                        <l>Je défends à toute guitare</l>
+                        <l>De bourdonner aux alentours.</l>
+                        <l>Ta rue est à moi:—je la barre</l>
+                        <l>Pour y chanter seul mes amours,</l>
+                        <l>Et je coupe les deux oreilles</l>
+                        <l>Au premier racleur de jambon</l>
+                        <l>Qui devant la chambre où tu veilles</l>
+                        <l>Braille un couplet mauvais ou bon.</l>
+                        <l>Dans sa gaîne mon couteau bouge;</l>
+                        <l>Allons, qui veut de l'incarnat?</l>
+                        <l>A son jabot qui veut du rouge</l>
+                        <l>Pour faire un bouton de grenat?</l>
+                        <l>Le sang dans les veines s'ennuie,</l>
+                        <l>Car il est fait pour se montrer;</l>
+                        <l>Le temps est noir, gare la pluie!</l>
+                        <l>Poltrons, hâtez-vous de rentrer.</l>
+                        <l>Sortez, vaillants! sortez, bravaches!</l>
+                        <l>L'avant-bras couvert du manteau,</l>
+                        <l>Que sur vos faces de gavaches</l>
+                        <l>J'écrive des croix au couteau!</l>
+                        <l>Qu'ils s'avancent! seuls ou par bande,</l>
+                        <l>De pied ferme je les attends.</l>
+                        <l>A ta gloire il faut que je fende</l>
+                        <l>Les naseaux de ces capitans.</l>
+                        <l>Au ruisseau qui gêne ta marche</l>
+                        <l>Et pourrait salir tes pieds blancs,</l>
+                        <l>Corps du Christ! je veux faire une arche</l>
+                        <l>Avec les côtes des galants.</l>
+                        <l>Pour te prouver combien je t'aime,</l>
+                        <l>Dis, je tuerai qui tu voudras:</l>
+                        <l>J'attaquerai Satan lui-même,</l>
+                        <l>Si pour linceul j'ai tes deux draps.</l>
+                        <l>Porte sourde!—Fenêtre aveugle!</l>
+                        <l>Tu dois pourtant ouïr ma voix;</l>
+                        <l>Comme un taureau blessé je beugle,</l>
+                        <l>Des chiens excitant les abois!</l>
+                        <l>Au moins plante un clou dans ta porte:</l>
+                        <l>Un clou pour accrocher mon cœur.</l>
+                        <l>A quoi sert que je le remporte</l>
+                        <l>Fou de rage, mort de langueur?</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">NOSTALGIES</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="bold">D'OBÉLISQUES</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="bold">I</hi>
+                     </p>
+                     <p rend="justify">L'OBÉLISQUE DE PARIS</p>
+                     <lg>
+                        <l>Sur cette place je m'ennuie,</l>
+                        <l>Obélisque dépareillé;</l>
+                        <l>Neige, givre, bruine et pluie</l>
+                        <l>Glacent mon flanc déjà rouillé;</l>
+                        <l>Et ma vieille aiguille, rougie</l>
+                        <l>Aux fournaises d'un ciel de feu</l>
+                        <l>Prend des pâleurs de nostalgie</l>
+                        <l>Dans cet air qui n'est jamais bleu.</l>
+                        <l>Devant les colosses moroses</l>
+                        <l>Et les pylônes de Luxor,</l>
+                        <l>Près de mon frère aux teintes roses</l>
+                        <l>Que ne suis-je debout encor,</l>
+                        <l>Plongeant dans l'azur immuable</l>
+                        <l>Mon pyramydion vermeil,</l>
+                        <l>Et de mon ombre, sur le sable,</l>
+                        <l>Écrivant les pas du soleil!</l>
+                        <l>Rhamsès, un jour mon bloc superbe,</l>
+                        <l>Où l'éternité s'ébréchait,</l>
+                        <l>Roula fauché comme un brin d'herbe,</l>
+                        <l>Et Paris s'en fit un hochet.</l>
+                        <l>La sentinelle granitique,</l>
+                        <l>Gardienne des énormités,</l>
+                        <l>Se dresse entre un faux temple antique</l>
+                        <l>Et la chambre des députés.</l>
+                        <l>Sur l'échafaud de Louis Seize,</l>
+                        <l>Monolithe au sens aboli,</l>
+                        <l>On a mis mon secret, qui pèse</l>
+                        <l>Le poids de cinq mille ans d'oubli.</l>
+                        <l>Les moineaux francs souillent ma tête,</l>
+                        <l>Où s'abattaient dans leur essor</l>
+                        <l>L'ibis rose et le gypaète</l>
+                        <l>Au blanc plumage, aux serres d'or.</l>
+                        <l>La Seine, noir égout des rues,</l>
+                        <l>Fleuve immonde fait de ruisseaux,</l>
+                        <l>Salit mon pied, que dans ses crues</l>
+                        <l>Baisait le Nil, père des eaux,</l>
+                        <l>Le Nil, géant à barbe blanche</l>
+                        <l>Coiffé de lotus et de joncs,</l>
+                        <l>Versant de son urne qui penche</l>
+                        <l>Des crocodiles pour goujons!</l>
+                        <l>Les chars d'or étoilés de nacre</l>
+                        <l>Des grands pharaons d'autrefois</l>
+                        <l>Rasaient mon bloc heurté du fiacre</l>
+                        <l>Emportant le dernier des rois.</l>
+                        <l>Jadis, devant ma pierre antique,</l>
+                        <l>Le pschent au front, les prêtres saints</l>
+                        <l>Promenaient la bari mystique</l>
+                        <l>Aux emblèmes dorés et peints;</l>
+                        <l>Mais aujourd'hui, pilier profane</l>
+                        <l>Entre deux fontaines campé,</l>
+                        <l>Je vois passer la courtisane</l>
+                        <l>Se renversant dans son coupé.</l>
+                        <l>Je vois, de janvier à décembre,</l>
+                        <l>La procession des bourgeois,</l>
+                        <l>Les Solons qui vont à la chambre,</l>
+                        <l>Et les Arthurs qui vont au bois.</l>
+                        <l>Oh! dans cent ans quels laids squelettes</l>
+                        <l>Fera ce peuple impie et fou,</l>
+                        <l>Qui se couche sans bandelettes</l>
+                        <l>Dans des cercueils que ferme un clou,</l>
+                        <l>Et n'a pas même d'hypogées</l>
+                        <l>A l'abri des corruptions,</l>
+                        <l>Dortoirs où, par siècles rangées,</l>
+                        <l>Plongent les générations!</l>
+                        <l>Sol sacré des hiéroglyphes</l>
+                        <l>Et des secrets sacerdotaux,</l>
+                        <l>Où les sphynx s'aiguisent les griffes</l>
+                        <l>Sur les angles des piédestaux,</l>
+                        <l>Où sous le pied sonne la crypte,</l>
+                        <l>Où l'épervier couve son nid,</l>
+                        <l>Je te pleure, ô ma vieille Égypte,</l>
+                        <l>Avec des larmes de granit!</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">II</hi>
+                     </p>
+                     <p rend="justify">L'OBÉLISQUE DE LUXOR</p>
+                     <lg>
+                        <l>Je veille, unique sentinelle</l>
+                        <l>De ce grand palais dévasté,</l>
+                        <l>Dans la solitude éternelle,</l>
+                        <l>En face de l'immensité.</l>
+                        <l>A l'horizon que rien ne borne,</l>
+                        <l>Stérile, muet, infini,</l>
+                        <l>Le désert sous le soleil morne,</l>
+                        <l>Déroule son linceul jauni.</l>
+                        <l>Au-dessus de la terre nue,</l>
+                        <l>Le ciel, autre désert d'azur,</l>
+                        <l>Où jamais ne flotte une nue,</l>
+                        <l>S'étale implacablement pur.</l>
+                        <l>Le Nil, dont l'eau morte s'étame</l>
+                        <l>D'une pellicule de plomb,</l>
+                        <l>Luit, ridé par l'hippopotame,</l>
+                        <l>Sous un jour mat tombant d'aplomb;</l>
+                        <l>Et les crocodiles rapaces,</l>
+                        <l>Sur le sable en feu des îlots,</l>
+                        <l>Demi-cuits dans leurs carapaces,</l>
+                        <l>Se pâment avec des sanglots.</l>
+                        <l>Immobile sur son pied grêle,</l>
+                        <l>L'ibis, le bec dans son jabot,</l>
+                        <l>Déchiffre au bout de quelque stèle</l>
+                        <l>Le cartouche sacré de Thot.</l>
+                        <l>L'hyène rit, le chacal miaule,</l>
+                        <l>Et, traçant des cercles dans l'air,</l>
+                        <l>L'épervier affamé piaule,</l>
+                        <l>Noire virgule du ciel clair.</l>
+                        <l>Mais ces bruits de la solitude</l>
+                        <l>Sont couverts par le bâillement</l>
+                        <l>Des sphinx, lassés de l'attitude</l>
+                        <l>Qu'ils gardent immuablement.</l>
+                        <l>Produit des blancs reflets du sable</l>
+                        <l>Et du soleil toujours brillant,</l>
+                        <l>Nul ennui ne t'est comparable,</l>
+                        <l>Spleen lumineux de l'Orient!</l>
+                        <l>C'est toi qui faisais crier: Grâce!</l>
+                        <l>A la satiété des rois</l>
+                        <l>Tombant vaincus sur leur terrasse,</l>
+                        <l>Et tu m'écrases de ton poids.</l>
+                        <l>Ici jamais le vent n'essuie</l>
+                        <l>Une larme à l'œil sec des cieux,</l>
+                        <l>Et le temps fatigué s'appuie</l>
+                        <l>Sur les palais silencieux.</l>
+                        <l>Pas un accident ne dérange</l>
+                        <l>La face de l'éternité;</l>
+                        <l>L'Égypte, en ce monde où tout change,</l>
+                        <l>Trône sur l'immobilité.</l>
+                        <l>Pour compagnons et pour amies,</l>
+                        <l>Quand l'ennui me prend par accès,</l>
+                        <l>J'ai les fellahs et les momies</l>
+                        <l>Contemporaines de Rhamsès;</l>
+                        <l>Je regarde un pilier qui penche,</l>
+                        <l>Un vieux colosse sans profil</l>
+                        <l>Et les canges à voile blanche</l>
+                        <l>Montant ou descendant le Nil.</l>
+                        <l>Que je voudrais comme mon frère,</l>
+                        <l>Dans ce grand Paris transporté,</l>
+                        <l>Auprès de lui, pour me distraire,</l>
+                        <l>Sur une place être planté!</l>
+                        <l>Là-bas, il voit à ses sculptures</l>
+                        <l>S'arrêter un peuple vivant,</l>
+                        <l>Hiératiques écritures,</l>
+                        <l>Que l'idée épelle en rêvant.</l>
+                        <l>Les fontaines juxtaposées</l>
+                        <l>Sur la poudre de son granit</l>
+                        <l>Jettent leurs brumes irisées.</l>
+                        <l>Il est vermeil, il rajeunit!</l>
+                        <l>Des veines roses de Syène</l>
+                        <l>Comme moi cependant il sort,</l>
+                        <l>Mais je reste à ma place ancienne,</l>
+                        <l>Il est vivant et je suis mort!</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">VIEUX DE LA VIEILLE</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="bold">15 DÉCEMBRE</hi>
+                     </p>
+                     <lg>
+                        <l>Par l'ennui chassé de ma chambre,</l>
+                        <l>J'errais le long du boulevard:</l>
+                        <l>Il faisait un temps de décembre,</l>
+                        <l>Vent froid, fine pluie et brouillard;</l>
+                        <l>Et là je vis, spectacle étrange,</l>
+                        <l>Échappés du sombre séjour,</l>
+                        <l>Sous la bruine et dans la fange,</l>
+                        <l>Passer des spectres en plein jour.</l>
+                        <l>Pourtant c'est la nuit que les ombres,</l>
+                        <l>Par un clair de lune allemand,</l>
+                        <l>Dans les vieilles tours en décombres,</l>
+                        <l>Reviennent ordinairement;</l>
+                        <l>C'est la nuit que les Elfes sortent</l>
+                        <l>Avec leur robe humide au bord,</l>
+                        <l>Et sous les nénuphars emportent</l>
+                        <l>Leur valseur de fatigue mort;</l>
+                        <l>C'est la nuit qu'a lieu la revue</l>
+                        <l>Dans la ballade de Zedlitz,</l>
+                        <l>Où l'Empereur, ombre entrevue,</l>
+                        <l>Compte les ombres d'Austerlitz.</l>
+                        <l>Mais des spectres près du Gymnase,</l>
+                        <l>A deux pas des Variétés,</l>
+                        <l>Sans brume ou linceul qui les gaze,</l>
+                        <l>Des spectres mouillés et crottés!</l>
+                        <l>Avec ses dents jaunes de tartre,</l>
+                        <l>Son crâne de mousse verdi,</l>
+                        <l>A Paris, boulevard Montmartre,</l>
+                        <l>Mob se montrant en plein midi!</l>
+                        <l>La chose vaut qu'on la regarde:</l>
+                        <l>Trois fantômes de vieux grognards!</l>
+                        <l>En uniformes de l'ex-garde,</l>
+                        <l>Avec deux ombres de hussards!</l>
+                        <l>On eût dit la lithographie</l>
+                        <l>Où, dessinés par un rayon,</l>
+                        <l>Les morts, que Raffet déifie,</l>
+                        <l>Passent, criant: Napoléon!</l>
+                        <l>Ce n'était pas les morts qu'éveille</l>
+                        <l>Le son du nocturne tambour,</l>
+                        <l>Mais bien quelques <hi rend="italic">vieux de la vieille</hi>
+                        </l>
+                        <l>Qui célébraient le grand retour.</l>
+                        <l>Depuis la suprême bataille,</l>
+                        <l>L'un a maigri, l'autre a grossi;</l>
+                        <l>L'habit jadis fait à leur taille</l>
+                        <l>Est trop grand ou trop rétréci.</l>
+                        <l>Nobles lambeaux, défroque épique,</l>
+                        <l>Saints haillons, qu'étoile une croix,</l>
+                        <l>Dans leur ridicule héroïque</l>
+                        <l>Plus beaux que des manteaux de rois;</l>
+                        <l>Un plumet énervé palpite</l>
+                        <l>Sur leur kolbach fauve et pelé;</l>
+                        <l>Près des trous de balle, la mite</l>
+                        <l>A rongé leur dolman criblé;</l>
+                        <l>Leur culotte de peau trop large</l>
+                        <l>Fait mille plis sur leur fémur;</l>
+                        <l>Leur sabre rouillé, lourde charge,</l>
+                        <l>Creuse le sol et bat le mur;</l>
+                        <l>Ou bien un embonpoint grotesque,</l>
+                        <l>Avec grand'peine boutonné,</l>
+                        <l>Fait un poussah, dont on rit presque,</l>
+                        <l>Du vieux héros tout chevronné.</l>
+                        <l>Ne les raillez pas, camarade;</l>
+                        <l>Saluez plutôt chapeau bas</l>
+                        <l>Ces Achilles d'une Iliade</l>
+                        <l>Qu'Homère n'inventerait pas.</l>
+                        <l>Respectez leur tête chenue!</l>
+                        <l>Sur leur front par vingt cieux bronzé,</l>
+                        <l>La cicatrice continue</l>
+                        <l>Le sillon que l'âge a creusé.</l>
+                        <l>Leur peau, bizarrement noircie,</l>
+                        <l>Dit l'Égypte aux soleils brûlants;</l>
+                        <l>Et les neiges de la Russie</l>
+                        <l>Poudrent encor leurs cheveux blancs.</l>
+                        <l>Si leurs mains tremblent, c'est sans doute</l>
+                        <l>Du froid de la Bérésina;</l>
+                        <l>Et s'ils boitent, c'est que la route</l>
+                        <l>Est longue du Caire à Wilna;</l>
+                        <l>S'ils sont perclus, c'est qu'à la guerre</l>
+                        <l>Les drapeaux étaient leurs seuls draps;</l>
+                        <l>Et si leur manche ne va guère,</l>
+                        <l>C'est qu'un boulet a pris leur bras.</l>
+                        <l>Ne nous moquons pas de ces hommes</l>
+                        <l>Qu'en riant le gamin poursuit;</l>
+                        <l>Ils furent le jour dont nous sommes</l>
+                        <l>Le soir et peut-être la nuit.</l>
+                        <l>Quand on oublie, ils se souviennent!</l>
+                        <l>Lancier rouge et grenadier bleu,</l>
+                        <l>Au pied de la colonne, ils viennent</l>
+                        <l>Comme à l'autel de leur seul dieu.</l>
+                        <l>Là, fiers de leur longue souffrance,</l>
+                        <l>Reconnaissants des maux subis,</l>
+                        <l>Ils sentent le cœur de la France</l>
+                        <l>Battre sous leurs pauvres habits.</l>
+                        <l>Aussi les pleurs trempent le rire</l>
+                        <l>En voyant ce saint carnaval,</l>
+                        <l>Cette mascarade d'empire,</l>
+                        <l>Passer comme un matin de bal;</l>
+                        <l>Et l'aigle de la grande armée</l>
+                        <l>Dans le ciel qu'emplit son essor,</l>
+                        <l>Du fond d'une gloire enflammée,</l>
+                        <l>Étend sur eux ses ailes d'or!</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">TRISTESSE</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="bold">EN MER</hi>
+                     </p>
+                     <lg>
+                        <l>Les mouettes volent et jouent;</l>
+                        <l>Et les blancs coursiers de la mer,</l>
+                        <l>Cabrés sur les vagues secouent</l>
+                        <l>Leurs crins échevelés dans l'air.</l>
+                        <l>Le jour tombe; une fine pluie</l>
+                        <l>Éteint les fournaises du soir,</l>
+                        <l>Et le steam-boat crachant la suie</l>
+                        <l>Rabat son long panache noir.</l>
+                        <l>Plus pâle que le ciel livide</l>
+                        <l>Je vais au pays du charbon,</l>
+                        <l>Du brouillard et du suicide;</l>
+                        <l>—Pour se tuer le temps est bon.</l>
+                        <l>Mon désir avide se noie</l>
+                        <l>Dans le gouffre amer qui blanchit;</l>
+                        <l>Le vaisseau danse, l'eau tournoie,</l>
+                        <l>Le vent de plus en plus fraîchit.</l>
+                        <l>Oh! je me sens l'âme navrée;</l>
+                        <l>L'Océan gonfle, en soupirant,</l>
+                        <l>Sa poitrine désespérée,</l>
+                        <l>Comme un ami qui me comprend.</l>
+                        <l>Allons, peines d'amour perdues,</l>
+                        <l>Espoirs lassés, illusions</l>
+                        <l>Du socle idéal descendues,</l>
+                        <l>Un saut dans les moites sillons!</l>
+                        <l>A la mer, souffrances passées,</l>
+                        <l>Qui revenez toujours, pressant</l>
+                        <l>Vos blessures cicatrisées</l>
+                        <l>Pour leur faire pleurer du sang!</l>
+                        <l>A la mer, spectre de mes rêves,</l>
+                        <l>Regrets aux mortelles pâleurs</l>
+                        <l>Dans un cœur rouge ayant sept glaives,</l>
+                        <l>Comme la Mère des douleurs.</l>
+                        <l>Chaque fantôme plonge et lutte</l>
+                        <l>Quelques instants avec le flot</l>
+                        <l>Qui sur lui ferme sa volute</l>
+                        <l>Et l'engloutit dans un sanglot.</l>
+                        <l>Lest de l'âme, pesant bagage,</l>
+                        <l>Trésors misérables et chers,</l>
+                        <l>Sombrez, et dans votre naufrage</l>
+                        <l>Je vais vous suivre au fond des mers!</l>
+                        <l>Bleuâtre, enflé, méconnaissable,</l>
+                        <l>Bercé par le flot qui bruit,</l>
+                        <l>Sur l'humide oreiller du sable</l>
+                        <l>Je dormirai bien cette nuit!</l>
+                        <l>... Mais une femme dans sa mante</l>
+                        <l>Sur le pont assise à l'écart,</l>
+                        <l>Une femme jeune et charmante</l>
+                        <l>Lève vers moi son long regard.</l>
+                        <l>Dans ce regard, à ma détresse</l>
+                        <l>La Sympathie aux bras ouverts</l>
+                        <l>Parle et sourit, sœur ou maîtresse.</l>
+                        <l>Salut, yeux bleus! bonsoir, flots verts!</l>
+                        <l>Les mouettes volent et jouent;</l>
+                        <l>Et les blancs coursiers de la mer,</l>
+                        <l>Cabrés sur les vagues, secouent</l>
+                        <l>Leurs crins échevelés dans l'air.</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">A</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="bold">UNE ROBE ROSE</hi>
+                     </p>
+                     <lg>
+                        <l>Que tu me plais dans cette robe</l>
+                        <l>Qui te déshabille si bien,</l>
+                        <l>Faisant jaillir ta gorge en globe,</l>
+                        <l>Montrant tout nu ton bras païen!</l>
+                        <l>Frêle comme une aile d'abeille,</l>
+                        <l>Frais comme un cœur de rose-thé,</l>
+                        <l>Son tissu, caresse vermeille,</l>
+                        <l>Voltige autour de ta beauté.</l>
+                        <l>De l'épiderme sur la soie</l>
+                        <l>Glissent des frissons argentés,</l>
+                        <l>Et l'étoffe à la chair renvoie</l>
+                        <l>Ses éclairs roses reflétés.</l>
+                        <l>D'où te vient cette robe étrange</l>
+                        <l>Qui semble faite de ta chair,</l>
+                        <l>Trame vivante qui mélange</l>
+                        <l>Avec ta peau son rose clair?</l>
+                        <l>Est-ce à la rougeur de l'aurore,</l>
+                        <l>A la coquille de Vénus,</l>
+                        <l>Au bouton de sein près d'éclore,</l>
+                        <l>Que sont pris ces tons inconnus?</l>
+                        <l>Ou bien l'étoffe est-elle teinte</l>
+                        <l>Dans les roses de ta pudeur?</l>
+                        <l>Non; vingt fois modelée et peinte,</l>
+                        <l>Ta forme connaît sa splendeur.</l>
+                        <l>Jetant le voile qui te pèse,</l>
+                        <l>Réalité que l'art rêva,</l>
+                        <l>Comme la princesse Borghèse</l>
+                        <l>Tu poserais pour Canova.</l>
+                        <l>Et ces plis roses sont les lèvres</l>
+                        <l>De mes désirs inapaisés,</l>
+                        <l>Mettant au corps dont tu les sèvres</l>
+                        <l>Une tunique de baisers.</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">LE MONDE</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="bold">EST MÉCHANT</hi>
+                     </p>
+                     <lg>
+                        <l>Le monde est méchant, ma petite:</l>
+                        <l>Avec son sourire moqueur</l>
+                        <l>Il dit qu'à ton côté palpite</l>
+                        <l>Une montre en place du cœur.</l>
+                        <l>—Pourtant ton sein ému s'élève</l>
+                        <l>Et s'abaisse comme la mer,</l>
+                        <l>Aux bouillonnements de la sève,</l>
+                        <l>Circulant sous ta jeune chair.</l>
+                        <l>Le monde est méchant, ma petite:</l>
+                        <l>Il dit que tes yeux vifs sont morts</l>
+                        <l>Et se meuvent dans leur orbite</l>
+                        <l>A temps égaux et par ressorts.</l>
+                        <l>—Pourtant une larme irisée</l>
+                        <l>Tremble à tes cils, mouvant rideau,</l>
+                        <l>Comme une perle de rosée</l>
+                        <l>Qui n'est pas prise au verre d'eau.</l>
+                        <l>Le monde est méchant, ma petite:</l>
+                        <l>Il dit que tu n'as pas d'esprit,</l>
+                        <l>Et que les vers qu'on te récite</l>
+                        <l>Sont pour toi comme du sanscrit.</l>
+                        <l>—Pourtant, sur ta bouche vermeille,</l>
+                        <l>Fleur s'ouvrant et se refermant,</l>
+                        <l>Le rire, intelligente abeille,</l>
+                        <l>Se pose à chaque trait charmant.</l>
+                        <l>C'est que tu m'aimes, ma petite,</l>
+                        <l>Et que tu hais tous ces gens-là.</l>
+                        <l>Quitte-moi;—comme ils diront vite:</l>
+                        <l>Quel cœur et quel esprit elle a!</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">INÈS</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="bold">DE</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="bold">LAS SIERRAS</hi>
+                     </p>
+                     <p rend="justify">A LA PETRA CAMARA</p>
+                     <lg>
+                        <l>Nodier raconte qu'en Espagne</l>
+                        <l>Trois officiers cherchant un soir,</l>
+                        <l>Une venta dans la campagne,</l>
+                        <l>Ne trouvèrent qu'un vieux manoir;</l>
+                        <l>Un vrai château d'Anne Radcliffe,</l>
+                        <l>Aux plafonds que le temps ploya,</l>
+                        <l>Aux vitraux rayés par la griffe</l>
+                        <l>Des chauves-souris de Goya,</l>
+                        <l>Aux vastes salles délabrées,</l>
+                        <l>Aux couloirs livrant leur secret,</l>
+                        <l>Architectures effondrées</l>
+                        <l>Où Piranèse se perdrait.</l>
+                        <l>Pendant le souper, que regarde</l>
+                        <l>Une collection d'aïeux</l>
+                        <l>Dans leurs cadres montant la garde,</l>
+                        <l>Un cri répond aux chants joyeux;</l>
+                        <l>D'un long corridor en décombres,</l>
+                        <l>Par la lune bizarrement</l>
+                        <l>Entrecoupé de clairs et d'ombres,</l>
+                        <l>Débusque un fantôme charmant;</l>
+                        <l>Peigne au chignon, basquine aux hanches,</l>
+                        <l>Une femme accourt en dansant,</l>
+                        <l>Dans les bandes noires et blanches</l>
+                        <l>Apparaissant, disparaissant.</l>
+                        <l>Avec une volupté morte,</l>
+                        <l>Cambrant les reins, penchant le cou,</l>
+                        <l>Elle s'arrête sur la porte,</l>
+                        <l>Sinistre et belle à rendre fou.</l>
+                        <l>Sa robe, passée et fripée</l>
+                        <l>Au froid humide des tombeaux,</l>
+                        <l>Fait luire, d'un rayon frappée,</l>
+                        <l>Quelques paillons sur ses lambeaux;</l>
+                        <l>D'un pétale découronnée</l>
+                        <l>A chaque soubresaut nerveux,</l>
+                        <l>Sa rose, jaunie et fanée,</l>
+                        <l>S'effeuille dans ses noirs cheveux.</l>
+                        <l>Une cicatrice, pareille</l>
+                        <l>A celle d'un coup de poignard,</l>
+                        <l>Forme une couture vermeille</l>
+                        <l>Sur sa gorge d'un ton blafard;</l>
+                        <l>Et ses mains pâles et fluettes,</l>
+                        <l>Au nez des soupeurs pleins d'effroi</l>
+                        <l>Entre-choquent les castagnettes,</l>
+                        <l>Comme des dents claquant de froid.</l>
+                        <l>Elle danse, morne bacchante,</l>
+                        <l>La cachucha sur un vieil air,</l>
+                        <l>D'une grâce si provocante,</l>
+                        <l>Qu'on la suivrait même en enfer.</l>
+                        <l>Ses cils palpitent sur ses joues</l>
+                        <l>Comme des ailes d'oiseau noir,</l>
+                        <l>Et sa bouche arquée a des moues</l>
+                        <l>A mettre un saint au désespoir.</l>
+                        <l>Quand de sa jupe qui tournoie</l>
+                        <l>Elle soulève le volant,</l>
+                        <l>Sa jambe, sous le bas de soie,</l>
+                        <l>Prend des lueurs de marbre blanc.</l>
+                        <l>Elle se penche jusqu'à terre,</l>
+                        <l>Et sa main, d'un geste coquet,</l>
+                        <l>Comme on fait des fleurs d'un parterre</l>
+                        <l>Groupe les désirs en bouquet.</l>
+                        <l>Est-ce un fantôme? est-ce une femme?</l>
+                        <l>Un rêve, une réalité,</l>
+                        <l>Qui scintille comme une flamme</l>
+                        <l>Dans un tourbillon de beauté?</l>
+                        <l>Cette apparition fantasque,</l>
+                        <l>C'est l'Espagne du temps passé,</l>
+                        <l>Aux frissons du tambour de basque</l>
+                        <l>S'élançant de son lit glacé,</l>
+                        <l>Et, brusquement ressuscitée</l>
+                        <l>Dans un suprême boléro,</l>
+                        <l>Montrant sous sa jupe argentée</l>
+                        <l>La <hi rend="italic">divisa</hi>  prise au taureau.</l>
+                        <l>La cicatrice qu'elle porte,</l>
+                        <l>C'est le coup de grâce donné</l>
+                        <l>A la génération morte,</l>
+                        <l>Par chaque siècle nouveau-né.</l>
+                        <l>J'ai vu ce fantôme au Gymnase,</l>
+                        <l>Où Paris entier l'admira,</l>
+                        <l>Lorsque dans son linceul de gaze</l>
+                        <l>Parut la Petra Camara,</l>
+                        <l>Impassible et passionnée,</l>
+                        <l>Fermant ses yeux morts de langueur,</l>
+                        <l>Et comme Inès l'assassinée</l>
+                        <l>Dansant, un poignard dans le cœur!</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">ODELETTE</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="bold">ANACRÉONTIQUE</hi>
+                     </p>
+                     <lg>
+                        <l>Pour que je t'aime, ô mon poète,</l>
+                        <l>Ne fais pas fuir par trop d'ardeur</l>
+                        <l>Mon amour, colombe inquiète,</l>
+                        <l>Au ciel rose de la pudeur.</l>
+                        <l>L'oiseau qui marche dans l'allée</l>
+                        <l>S'effraye et part au moindre bruit;</l>
+                        <l>Ma passion est chose ailée</l>
+                        <l>Et s'envole quand on la suit.</l>
+                        <l>Muet comme l'Hermès de marbre,</l>
+                        <l>Sous la charmille pose-toi;</l>
+                        <l>Tu verras bientôt de son arbre</l>
+                        <l>L'oiseau descendre sans effroi.</l>
+                        <l>Tes tempes sentiront près d'elles,</l>
+                        <l>Avec des souffles de fraîcheur,</l>
+                        <l>Une palpitation d'ailes</l>
+                        <l>Dans un tourbillon de blancheur,</l>
+                        <l>Et la colombe apprivoisée</l>
+                        <l>Sur ton épaule s'abattra,</l>
+                        <l>Et son bec à pointe rosée</l>
+                        <l>De ton baiser s'enivrera.</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">FUMÉE</hi>
+                     </p>
+                     <lg>
+                        <l>Là-bas, sous les arbres s'abrite</l>
+                        <l>Une chaumière au dos bossu;</l>
+                        <l>Le toit penche, le mur s'effrite,</l>
+                        <l>Le seuil de la porte est moussu.</l>
+                        <l>La fenêtre, un volet la bouche;</l>
+                        <l>Mais du taudis, comme au temps froid</l>
+                        <l>La tiède haleine d'une bouche,</l>
+                        <l>La respiration se voit.</l>
+                        <l>Un tire-bouchon de fumée,</l>
+                        <l>Tournant son mince filet bleu,</l>
+                        <l>De l'âme en ce bouge enfermée</l>
+                        <l>Porte des nouvelles à Dieu.</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">APOLLONIE</hi>
+                     </p>
+                     <lg>
+                        <l>J'aime ton nom d'Apollonie,</l>
+                        <l>Écho grec du sacré vallon,</l>
+                        <l>Qui, dans sa robuste harmonie,</l>
+                        <l>Te baptise sœur d'Apollon.</l>
+                        <l>Sur la lyre au plectre d'ivoire,</l>
+                        <l>Ce nom splendide et souverain,</l>
+                        <l>Beau comme l'amour et la gloire</l>
+                        <l>Prend des résonnances d'airain.</l>
+                        <l>Classique, il fait plonger les Elfes</l>
+                        <l>Au fond de leur lac allemand,</l>
+                        <l>Et seule la Pythie à Delphes</l>
+                        <l>Pourrait le porter dignement,</l>
+                        <l>Quand relevant sa robe antique</l>
+                        <l>Elle s'assoit au trépied d'or,</l>
+                        <l>Et dans sa pose fatidique</l>
+                        <l>Attend le dieu qui tarde encor.</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">L'AVEUGLE</hi>
+                     </p>
+                     <lg>
+                        <l>Un aveugle au coin d'une borne,</l>
+                        <l>Hagard comme au jour un hibou,</l>
+                        <l>Sur son flageolet, d'un air morne,</l>
+                        <l>Tâtonne en se trompant de trou,</l>
+                        <l>Et joue un ancien vaudeville</l>
+                        <l>Qu'il fausse imperturbablement;</l>
+                        <l>Son chien le conduit par la ville,</l>
+                        <l>Spectre diurne à l'œil dormant.</l>
+                        <l>Les jours sur lui passent sans luire;</l>
+                        <l>Sombre, il entend le monde obscur</l>
+                        <l>Et la vie invisible bruire</l>
+                        <l>Comme un torrent derrière un mur!</l>
+                        <l>Dieu sait quelles chimères noires</l>
+                        <l>Hantent cet opaque cerveau!</l>
+                        <l>Et quels illisibles grimoires</l>
+                        <l>L'idée écrit en ce caveau!</l>
+                        <l>Ainsi dans les puits de Venise,</l>
+                        <l>Un prisonnier à demi fou,</l>
+                        <l>Pendant sa nuit qui s'éternise,</l>
+                        <l>Grave des mots avec un clou.</l>
+                        <l>Mais peut-être aux heures funèbres,</l>
+                        <l>Quand la mort souffle le flambeau,</l>
+                        <l>L'âme habituée aux ténèbres</l>
+                        <l>Y verra clair dans le tombeau!</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">LIED</hi>
+                     </p>
+                     <lg>
+                        <l>Au mois d'avril, la terre est rose</l>
+                        <l>Comme la jeunesse et l'amour;</l>
+                        <l>Pucelle encore, à peine elle ose</l>
+                        <l>Payer le Printemps de retour.</l>
+                        <l>Au mois de juin, déjà plus pâle</l>
+                        <l>Et le cœur de désir troublé,</l>
+                        <l>Avec l'Été tout brun de hâle</l>
+                        <l>Elle se cache dans le blé.</l>
+                        <l>Au mois d'août, bacchante enivrée,</l>
+                        <l>Elle offre à l'Automne son sein,</l>
+                        <l>Et, roulant sur la peau tigrée,</l>
+                        <l>Fait jaillir le sang du raisin.</l>
+                        <l>En décembre, petite vieille,</l>
+                        <l>Par les frimas poudrée à blanc,</l>
+                        <l>Dans ses rêves elle réveille</l>
+                        <l>L'Hiver auprès d'elle ronflant.</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">FANTAISIES D'HIVER</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="bold">I</hi>
+                     </p>
+                     <lg>
+                        <l>Le nez rouge, la face blême,</l>
+                        <l>Sur un pupitre de glaçons,</l>
+                        <l>L'hiver exécute son thème</l>
+                        <l>Dans le quatuor des saisons.</l>
+                        <l>Il chante d'une voix peu sûre</l>
+                        <l>Des airs vieillots et chevrotants;</l>
+                        <l>Son pied glacé bat la mesure</l>
+                        <l>Et la semelle en même temps;</l>
+                        <l>Et comme Hændel, dont la perruque</l>
+                        <l>Perdait sa farine en tremblant,</l>
+                        <l>Il fait envoler de sa nuque</l>
+                        <l>La neige qui la poudre à blanc.</l>
+                     </lg>
+                     <p rend="justify">
+                        <hi rend="bold">II</hi>
+                     </p>
+                     <lg>
+                        <l>Dans le bassin des Tuileries,</l>
+                        <l>Le cygne s'est pris en nageant,</l>
+                        <l>Et les arbres, comme aux féeries,</l>
+                        <l>Sont en filigrane d'argent.</l>
+                        <l>Les vases ont des fleurs de givre,</l>
+                        <l>Sous la charmille aux blancs réseaux;</l>
+                        <l>Et sur la neige on voit se suivre</l>
+                        <l>Les pas étoilés des oiseaux.</l>
+                        <l>Au piédestal où, court-vêtue,</l>
+                        <l>Vénus coudoyait Phocion,</l>
+                        <l>L'Hiver a posé pour statue</l>
+                        <l>La frileuse de Clodion.</l>
+                     </lg>
+                     <p rend="justify">
+                        <hi rend="bold">III</hi>
+                     </p>
+                     <lg>
+                        <l>Les femmes passent sous les arbres</l>
+                        <l>En martre, hermine et menu-vair,</l>
+                        <l>Et les déesses, frileux marbres,</l>
+                        <l>Ont pris aussi l'habit d'hiver.</l>
+                        <l>La Vénus Anadyomène</l>
+                        <l>Est en pelisse à capuchon,</l>
+                        <l>Flore, que la brise malmène,</l>
+                        <l>Plonge ses mains dans son manchon.</l>
+                        <l>Et pour la saison, les bergères</l>
+                        <l>De Coysevox et de Coustou,</l>
+                        <l>Trouvant leurs écharpes légères,</l>
+                        <l>Ont des boas autour du cou.</l>
+                     </lg>
+                     <p rend="justify">
+                        <hi rend="bold">IV</hi>
+                     </p>
+                     <lg>
+                        <l>Sur la mode parisienne</l>
+                        <l>Le Nord pose ses manteaux lourds,</l>
+                        <l>Comme sur une Athénienne</l>
+                        <l>Un Scythe étendrait sa peau d'ours.</l>
+                        <l>Partout se mélange aux parures</l>
+                        <l>Dont Palmyre habille l'Hiver,</l>
+                        <l>Le faste russe des fourrures</l>
+                        <l>Que parfume le vétyver.</l>
+                        <l>Et le Plaisir rit dans l'alcôve</l>
+                        <l>Quand, au milieu des Amours nus,</l>
+                        <l>Des poils roux d'une bête fauve</l>
+                        <l>Sort le torse blanc de Vénus.</l>
+                     </lg>
+                     <p rend="justify">
+                        <hi rend="bold">V</hi>
+                     </p>
+                     <lg>
+                        <l>Sous le voile qui vous protège,</l>
+                        <l>Défiant les regards jaloux,</l>
+                        <l>Si vous sortez par cette neige,</l>
+                        <l>Redoutez vos pieds andalous;</l>
+                        <l>La neige saisit comme un moule</l>
+                        <l>L'empreinte de ce pied mignon</l>
+                        <l>Qui, sur le tapis blanc qu'il foule,</l>
+                        <l>Signe, à chaque pas, votre nom.</l>
+                        <l>Ainsi guidé, l'époux morose</l>
+                        <l>Peut parvenir au nid caché</l>
+                        <l>Où, de froid la joue encor rose,</l>
+                        <l>A l'Amour s'enlace Psyché.</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">LA SOURCE</hi>
+                     </p>
+                     <lg>
+                        <l>Tout près du lac filtre une source,</l>
+                        <l>Entre deux pierres, dans un coin;</l>
+                        <l>Allégrement l'eau prend sa course</l>
+                        <l>Comme pour s'en aller bien loin.</l>
+                        <l>Elle murmure: Oh! quelle joie!</l>
+                        <l>Sous la terre il faisait si noir!</l>
+                        <l>Maintenant ma rive verdoie,</l>
+                        <l>Le ciel se mire à mon miroir.</l>
+                        <l>Les myosotis aux fleurs bleues</l>
+                        <l>Me disent: Ne m'oubliez pas!</l>
+                        <l>Les libellules de leurs queues</l>
+                        <l>M'égratignent dans leurs ébats;</l>
+                        <l>A ma coupe l'oiseau s'abreuve,</l>
+                        <l>Qui sait?—Après quelques détours</l>
+                        <l>Peut-être deviendrai-je un fleuve</l>
+                        <l>Baignant vallons, rochers et tours.</l>
+                        <l>Je broderai de mon écume</l>
+                        <l>Ponts de pierre, quais de granit,</l>
+                        <l>Emportant le steamer qui fume</l>
+                        <l>A l'Océan où tout finit.</l>
+                        <l>Ainsi la jeune source jase,</l>
+                        <l>Formant cent projets d'avenir;</l>
+                        <l>Comme l'eau qui bout dans un vase,</l>
+                        <l>Son flot ne peut se contenir;</l>
+                        <l>Mais le berceau touche à la tombe;</l>
+                        <l>Le géant futur meurt petit;</l>
+                        <l>Née à peine, la source tombe</l>
+                        <l>Dans le grand lac qui l'engloutit!</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">BUCHERS</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="bold">ET</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="bold">TOMBEAUX</hi>
+                     </p>
+                     <lg>
+                        <l>Le squelette était invisible</l>
+                        <l>Au temps heureux de l'Art païen;</l>
+                        <l>L'homme, sous la forme sensible,</l>
+                        <l>Content du beau, ne cherchait rien.</l>
+                        <l>Pas de cadavre sous la tombe,</l>
+                        <l>Spectre hideux de l'être cher,</l>
+                        <l>Comme d'un vêtement qui tombe</l>
+                        <l>Se déshabillant de sa chair,</l>
+                        <l>Et, quand la pierre se lézarde,</l>
+                        <l>Parmi les épouvantements,</l>
+                        <l>Montrant à l'œil qui s'y hasarde</l>
+                        <l>Une armature d'ossements;</l>
+                        <l>Mais au feu du bûcher ravie</l>
+                        <l>Une pincée entre les doigts,</l>
+                        <l>Résidu léger de la vie,</l>
+                        <l>Qu'enserrait l'urne aux flancs étroits;</l>
+                        <l>Ce que le papillon de l'âme</l>
+                        <l>Laisse de poussière après lui,</l>
+                        <l>Et ce qui reste de la flamme</l>
+                        <l>Sur le trépied, quand elle a lui!</l>
+                        <l>Entre les fleurs et les acanthes,</l>
+                        <l>Dans le marbre joyeusement,</l>
+                        <l>Amours, œgipans et bacchantes</l>
+                        <l>Dansaient autour du monument;</l>
+                        <l>Tout au plus un petit génie</l>
+                        <l>Du pied éteignait un flambeau;</l>
+                        <l>Et l'art versait son harmonie</l>
+                        <l>Sur la tristesse du tombeau.</l>
+                        <l>Les tombes étaient attrayantes:</l>
+                        <l>Comme on fait d'un enfant qui dort,</l>
+                        <l>D'images douces et riantes</l>
+                        <l>La vie enveloppait la mort;</l>
+                        <l>La mort dissimulait sa face</l>
+                        <l>Aux trous profonds, au nez camard,</l>
+                        <l>Dont la hideur railleuse efface</l>
+                        <l>Les chimères du cauchemar.</l>
+                        <l>Le monstre, sous la chair splendide</l>
+                        <l>Cachait son fantôme inconnu,</l>
+                        <l>Et l'œil de la vierge candide</l>
+                        <l>Allait au bel éphèbe nu.</l>
+                        <l>Seulement pour pousser à boire,</l>
+                        <l>Au banquet de Trimalcion,</l>
+                        <l>Une larve, joujou d'ivoire,</l>
+                        <l>Faisait son apparition;</l>
+                        <l>Des dieux que l'art toujours révère</l>
+                        <l>Trônaient au ciel marmoréen;</l>
+                        <l>Mais l'Olympe cède au Calvaire,</l>
+                        <l>Jupiter au Nazaréen;</l>
+                        <l>Une voix dit: Pan est mort!—L'ombre</l>
+                        <l>S'étend.—Comme sur un drap noir,</l>
+                        <l>Sur la tristesse immense et sombre</l>
+                        <l>Le blanc squelette se fait voir;</l>
+                        <l>Il signe les pierres funèbres</l>
+                        <l>De son paraphe de fémurs,</l>
+                        <l>Pend son chapelet de vertèbres</l>
+                        <l>Dans les charniers, le long des murs,</l>
+                        <l>Des cercueils lève le couvercle</l>
+                        <l>Avec ses bras aux os pointus:</l>
+                        <l>Dessine ses côtes en cercle</l>
+                        <l>Et rit de son large rictus;</l>
+                        <l>Il pousse à la danse macabre</l>
+                        <l>L'empereur, le pape et le roi,</l>
+                        <l>Et de son cheval qui se cabre</l>
+                        <l>Jette bas le preux plein d'effroi;</l>
+                        <l>Il entre chez la courtisane</l>
+                        <l>Et fait des mines au miroir,</l>
+                        <l>Du malade il boit la tisane,</l>
+                        <l>De l'avare ouvre le tiroir;</l>
+                        <l>Piquant l'attelage qui rue</l>
+                        <l>Avec un os pour aiguillon,</l>
+                        <l>Du laboureur à la charrue</l>
+                        <l>Termine en fosse le sillon;</l>
+                        <l>Et, parmi la foule priée,</l>
+                        <l>Hôte inattendu, sous le banc,</l>
+                        <l>Vole à la pâle mariée</l>
+                        <l>Sa jarretière de ruban.</l>
+                        <l>A chaque pas grossit la bande;</l>
+                        <l>Le jeune au vieux donne la main;</l>
+                        <l>L'irrésistible sarabande</l>
+                        <l>Met en branle le genre humain.</l>
+                        <l>Le spectre en tête se déhanche,</l>
+                        <l>Dansant et jouant du rebec,</l>
+                        <l>Et sur fond noir, en couleur blanche,</l>
+                        <l>Holbein l'esquisse d'un trait sec.</l>
+                        <l>Quand le siècle devient frivole</l>
+                        <l>Il suit la mode; en tonnelet</l>
+                        <l>Retrousse son linceul et vole</l>
+                        <l>Comme un Cupidon de ballet</l>
+                        <l>Au tombeau-sofa des marquises</l>
+                        <l>Qui reposent, lasses d'amour,</l>
+                        <l>En des attitudes exquises,</l>
+                        <l>Dans les chapelles Pompadour.</l>
+                        <l>Mais voile-toi, masque sans joues,</l>
+                        <l>Comédien que le ver mord,</l>
+                        <l>Depuis assez longtemps tu joues</l>
+                        <l>Le mélodrame de la Mort.</l>
+                        <l>Reviens, reviens, bel art antique,</l>
+                        <l>De ton paros étincelant</l>
+                        <l>Couvrir ce squelette gothique;</l>
+                        <l>Dévore-le, bûcher brûlant!</l>
+                        <l>Si nous sommes une statue</l>
+                        <l>Sculptée à l'image de Dieu,</l>
+                        <l>Quand cette image est abattue,</l>
+                        <l>Jetons-en les débris au feu.</l>
+                        <l>Toi, forme immortelle, remonte</l>
+                        <l>Dans la flamme aux sources du beau,</l>
+                        <l>Sans que ton argile ait la honte</l>
+                        <l>Et les misères du tombeau!</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">LE SOUPER</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="bold">DES</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="bold">ARMURES</hi>
+                     </p>
+                     <lg>
+                        <l>Biorn, étrange cénobite,</l>
+                        <l>Sur le plateau d'un roc pelé,</l>
+                        <l>Hors du temps et du monde, habite</l>
+                        <l>La tour d'un burg démantelé.</l>
+                        <l>De sa porte l'esprit moderne</l>
+                        <l>En vain soulève le marteau.</l>
+                        <l>Biorn verrouille sa poterne</l>
+                        <l>Et barricade son château.</l>
+                        <l>Quand tous ont les yeux vers l'aurore,</l>
+                        <l>Biorn, sur son donjon perché,</l>
+                        <l>A l'horizon contemple encore</l>
+                        <l>La place du soleil couché.</l>
+                        <l>Ame rétrospective, il loge</l>
+                        <l>Dans son burg et dans le passé;</l>
+                        <l>Le pendule de son horloge</l>
+                        <l>Depuis des siècles est cassé.</l>
+                        <l>Sous ses ogives féodales</l>
+                        <l>Il erre, éveillant les échos,</l>
+                        <l>Et ses pas, sonnant sur les dalles,</l>
+                        <l>Semblent suivis de pas égaux.</l>
+                        <l>Il ne voit ni laïcs, ni prêtres,</l>
+                        <l>Ni gentilshommes, ni bourgeois,</l>
+                        <l>Mais les portraits de ses ancêtres</l>
+                        <l>Causent avec lui quelquefois.</l>
+                        <l>Et certains soirs, pour se distraire,</l>
+                        <l>Trouvant manger seul ennuyeux,</l>
+                        <l>Biorn, caprice funéraire,</l>
+                        <l>Invite à souper ses aïeux.</l>
+                        <l>Les fantômes, quand minuit sonne,</l>
+                        <l>Viennent armés de pied en cap;</l>
+                        <l>Biorn, qui malgré lui frissonne,</l>
+                        <l>Salue en haussant son hanap.</l>
+                        <l>Pour s'asseoir, chaque panoplie</l>
+                        <l>Fait un angle avec son genou,</l>
+                        <l>Dont l'articulation plie</l>
+                        <l>En grinçant comme un vieux verrou;</l>
+                        <l>Et tout d'une pièce, l'armure,</l>
+                        <l>D'un corps absent gauche cercueil,</l>
+                        <l>Rendant un creux et sourd murmure,</l>
+                        <l>Tombe entre les bras du fauteuil.</l>
+                        <l>Landgraves, rhingraves, burgraves,</l>
+                        <l>Venus du ciel ou de l'enfer,</l>
+                        <l>Ils sont tous là, muets et graves,</l>
+                        <l>Les roides convives de fer!</l>
+                        <l>Dans l'ombre, un rayon fauve indique</l>
+                        <l>Un monstre, guivre, aigle à deux cous,</l>
+                        <l>Pris au bestiaire héraldique</l>
+                        <l>Sur les cimiers faussés de coups.</l>
+                        <l>Du mufle des bêtes difformes</l>
+                        <l>Dressant leurs ongles arrogants,</l>
+                        <l>Partent des panaches énormes,</l>
+                        <l>Des lambrequins extravagants;</l>
+                        <l>Mais les casques ouverts sont vides</l>
+                        <l>Comme les timbres du blason;</l>
+                        <l>Seulement deux flammes livides</l>
+                        <l>Y luisent d'étrange façon.</l>
+                        <l>Toute la ferraille est assise</l>
+                        <l>Dans la salle du vieux manoir,</l>
+                        <l>Et, sur le mur, l'ombre indécise</l>
+                        <l>Donne à chaque hôte un page noir.</l>
+                        <l>Les liqueurs aux feux des bougies</l>
+                        <l>Ont des pourpres d'un ton suspect;</l>
+                        <l>Les mets dans leurs sauces rougies</l>
+                        <l>Prennent un singulier aspect.</l>
+                        <l>Parfois un corselet miroite,</l>
+                        <l>Un morion brille un moment</l>
+                        <l>Une pièce qui se déboîte</l>
+                        <l>Choit sur la nappe lourdement.</l>
+                        <l>L'on entend les battements d'ailes</l>
+                        <l>D'invisibles chauves-souris,</l>
+                        <l>Et les drapeaux des infidèles</l>
+                        <l>Palpitent le long du lambris.</l>
+                        <l>Avec des mouvements fantasques</l>
+                        <l>Courbant leurs phalanges d'airain,</l>
+                        <l>Les gantelets versent aux casques</l>
+                        <l>Des rasades de vin du Rhin,</l>
+                        <l>Ou découpent au fil des dagues</l>
+                        <l>Des sangliers sur des plats d'or...</l>
+                        <l>Cependant passent des bruits vagues</l>
+                        <l>Par les orgues du corridor.</l>
+                        <l>La débauche devient farouche,</l>
+                        <l>On n'entendrait pas tonner Dieu;</l>
+                        <l>Car, lorsqu'un fantôme découche,</l>
+                        <l>C'est le moins qu'il s'amuse un peu.</l>
+                        <l>Et la fantastique assemblée</l>
+                        <l>Se tracassant dans son harnois,</l>
+                        <l>L'orgie a sa rumeur doublée</l>
+                        <l>Du tintamarre des tournois.</l>
+                        <l>Gobelets, hanaps, vidrecomes,</l>
+                        <l>Vidés toujours, remplis en vain,</l>
+                        <l>Entre les mâchoires des heaumes</l>
+                        <l>Forment des cascades de vin.</l>
+                        <l>Les hauberts en bombent leurs ventres,</l>
+                        <l>Et le flot monte aux gorgerins;</l>
+                        <l>—Ils sont tous gris comme des chantres,</l>
+                        <l>Les vaillants comtes suzerains!</l>
+                        <l>L'un allonge dans la salade</l>
+                        <l>Nonchalamment ses pédieux.</l>
+                        <l>L'autre à son compagnon malade</l>
+                        <l>Fait un sermon fastidieux.</l>
+                        <l>Et des armures peu bégueules</l>
+                        <l>Rappellent, dardant leur boisson,</l>
+                        <l>Les lions lampassés de gueules</l>
+                        <l>Blasonnés sur leur écusson.</l>
+                        <l>D'une voix encore enrouée</l>
+                        <l>Par l'humidité du caveau,</l>
+                        <l>Max fredonne, ivresse enjouée,</l>
+                        <l>Un lied, en treize cents, nouveau,</l>
+                        <l>Albrecht, ayant le vin féroce,</l>
+                        <l>Se querelle avec ses voisins,</l>
+                        <l>Qu'il martèle, bossue et rosse,</l>
+                        <l>Comme il faisait des Sarrasins.</l>
+                        <l>Échauffé, Fritz ôte son casque,</l>
+                        <l>Jadis par un crâne habité,</l>
+                        <l>Ne pensant pas que sans son masque</l>
+                        <l>Il semble un tronc décapité.</l>
+                        <l>Bientôt ils roulent pêle-mêle</l>
+                        <l>Sous la table, parmi les brocs,</l>
+                        <l>Tête en bas, montrant la semelle</l>
+                        <l>De leurs souliers courbés en crocs.</l>
+                        <l>C'est un hideux champ de bataille</l>
+                        <l>Où les pots heurtent les armets,</l>
+                        <l>Où chaque mort par quelque entaille</l>
+                        <l>Au lieu de sang vomit des mets.</l>
+                        <l>Et Biorn, le poing sur la cuisse,</l>
+                        <l>Les contemple, morne et hagard,</l>
+                        <l>Tandis que, par le vitrail suisse,</l>
+                        <l>L'aube jette son bleu regard.</l>
+                        <l>La troupe, qu'un rayon traverse,</l>
+                        <l>Pâlit comme au jour un flambeau,</l>
+                        <l>Et le plus ivrogne se verse</l>
+                        <l>Le coup d'étrier du tombeau.</l>
+                        <l>Le coq chante, les spectres fuient</l>
+                        <l>Et, reprenant un air hautain,</l>
+                        <l>Sur l'oreiller de marbre appuient</l>
+                        <l>Leurs têtes lourdes du festin!</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">LA MONTRE</hi>
+                     </p>
+                     <lg>
+                        <l>Deux fois je regarde ma montre,</l>
+                        <l>Et deux fois à mes yeux distraits</l>
+                        <l>L'aiguille au même endroit se montre;</l>
+                        <l>Il est une heure..., une heure après.</l>
+                        <l>La figure de la pendule</l>
+                        <l>En rit dans le salon voisin,</l>
+                        <l>Et le timbre d'argent module</l>
+                        <l>Deux coups vibrant comme un tocsin.</l>
+                        <l>Le cadran solaire me raille</l>
+                        <l>En m'indiquant, de son long doigt,</l>
+                        <l>Le chemin que sur la muraille</l>
+                        <l>A fait son ombre qui s'accroît.</l>
+                        <l>Le clocher avec ironie</l>
+                        <l>Dit le vrai chiffre et le beffroi,</l>
+                        <l>Reprenant la note finie,</l>
+                        <l>A l'air de se moquer de moi.</l>
+                        <l>Tiens! la petite bête est morte.</l>
+                        <l>Je n'ai pas mis hier encor,</l>
+                        <l>Tant ma rêverie était forte,</l>
+                        <l>Au trou de rubis la clef d'or!</l>
+                        <l>Et je ne vois plus, dans sa boîte,</l>
+                        <l>Le fin ressort du balancier</l>
+                        <l>Aller, venir, à gauche, à droite,</l>
+                        <l>Ainsi qu'un papillon d'acier.</l>
+                        <l>C'est bien de moi! Quand je chevauche</l>
+                        <l>L'Hippogriffe, au pays du Bleu,</l>
+                        <l>Mon corps sans âme se débauche,</l>
+                        <l>Et s'en va comme il plaît à Dieu!</l>
+                        <l>L'éternité poursuit son cercle</l>
+                        <l>Autour de ce cadran muet,</l>
+                        <l>Et le temps, l'oreille au couvercle,</l>
+                        <l>Cherche ce cœur qui remuait;</l>
+                        <l>Ce cœur que l'enfant croit en vie,</l>
+                        <l>Et dont chaque pulsation</l>
+                        <l>Dans notre poitrine est suivie</l>
+                        <l>D'une égale vibration,</l>
+                        <l>Il ne bat plus, mais son grand frère</l>
+                        <l>Toujours palpite à mon côté.</l>
+                        <l>—Celui que rien ne peut distraire,</l>
+                        <l>Quand je dormais, l'a remonté!</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">LES NÉRÉIDES</hi>
+                     </p>
+                     <lg>
+                        <l>J'ai dans ma chambre une aquarelle</l>
+                        <l>Bizarre, et d'un peintre avec qui</l>
+                        <l>Mètre et rime sont en querelle,</l>
+                        <l>—Théophile Kniatowski.</l>
+                        <l>Sur l'écume blanche qui frange</l>
+                        <l>Le manteau glauque de la mer</l>
+                        <l>Se groupent en bouquet étrange</l>
+                        <l>Trois nymphes, fleurs du gouffre amer.</l>
+                        <l>Comme des lys noyés, la houle</l>
+                        <l>Fait dans sa volute d'argent</l>
+                        <l>Danser leurs beaux corps qu'elle roule,</l>
+                        <l>Les élevant, les submergeant.</l>
+                        <l>Sur leurs têtes blondes, coiffées</l>
+                        <l>De pétoncles et de roseaux,</l>
+                        <l>Elles mêlent, coquettes fées,</l>
+                        <l>L'écrin et la flore des eaux.</l>
+                        <l>Vidant sa nacre, l'huître à perle</l>
+                        <l>Constelle de son blanc trésor</l>
+                        <l>Leur gorge, où le flot qui déferle</l>
+                        <l>Suspend d'autres perles encor.</l>
+                        <l>Et, jusqu'aux hanches soulevées</l>
+                        <l>Par le bras des Tritons nerveux,</l>
+                        <l>Elles luisent, d'azur lavées,</l>
+                        <l>Sous l'or vert de leurs longs cheveux.</l>
+                        <l>Plus bas, leur blancheur sous l'eau bleue</l>
+                        <l>Se glace d'un visqueux frisson,</l>
+                        <l>Et le torse finit en queue,</l>
+                        <l>Moitié femme, moitié poisson.</l>
+                        <l>Mais qui regarde la nageoire</l>
+                        <l>Et les reins aux squameux replis,</l>
+                        <l>En voyant les bustes d'ivoire</l>
+                        <l>Par le baiser des mers polis?</l>
+                        <l>A l'horizon,—piquant mélange</l>
+                        <l>De fable et de réalité,—</l>
+                        <l>Paraît un vaisseau qui dérange</l>
+                        <l>Le chœur marin épouvanté.</l>
+                        <l>Son pavillon est tricolore;</l>
+                        <l>Son tuyau vomit la vapeur;</l>
+                        <l>Ses haubes fouettent l'eau sonore,</l>
+                        <l>Et les nymphes plongent de peur.</l>
+                        <l>Sans crainte elles suivaient par troupes</l>
+                        <l>Les trirèmes de l'Archipel,</l>
+                        <l>Et les dauphins, arquant leurs croupes,</l>
+                        <l>D'Arion attendaient l'appel.</l>
+                        <l>Mais le steam-boat avec ses roues,</l>
+                        <l>Comme Vulcain battant Vénus,</l>
+                        <l>Souffletterait leurs belles joues</l>
+                        <l>Et meurtrirait leurs membres nus.</l>
+                        <l>Adieu, fraîche mythologie!</l>
+                        <l>Le paquebot passe et, de loin,</l>
+                        <l>Croit voir sur la vague élargie</l>
+                        <l>Une culbute de marsouin.</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">LES</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="bold">ACCROCHE-CŒURS</hi>
+                     </p>
+                     <lg>
+                        <l>Ravivant les langueurs nacrées</l>
+                        <l>De tes yeux battus et vainqueurs,</l>
+                        <l>En mèches de parfum lustrées</l>
+                        <l>Se courbent deux accroche-cœurs.</l>
+                        <l>A voir s'arrondir sur tes joues</l>
+                        <l>Leurs orbes tournés par tes doigts,</l>
+                        <l>On dirait les petites roues</l>
+                        <l>Du char de Mab fait d'une noix;</l>
+                        <l>Ou l'arc de l'Amour dont les pointes</l>
+                        <l>Pour une flèche à décocher,</l>
+                        <l>En cercle d'or se sont rejointes</l>
+                        <l>A la tempe du jeune archer.</l>
+                        <l>Pourtant un scrupule me trouble,</l>
+                        <l>Je n'ai qu'un cœur, alors pourquoi,</l>
+                        <l>Coquette, un accroche-cœur double?</l>
+                        <l>Qui donc y pends-tu près de moi?</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">LA ROSE-THE</hi>
+                     </p>
+                     <lg>
+                        <l>La plus délicate des roses</l>
+                        <l>Est, à coup sûr, la rose-thé.</l>
+                        <l>Son bouton, aux feuilles mi-closes</l>
+                        <l>De carmin à peine est teinté.</l>
+                        <l>On dirait une rose blanche</l>
+                        <l>Qu'aurait fait rougir de pudeur,</l>
+                        <l>En la lutinant sur la branche,</l>
+                        <l>Un papillon trop plein d'ardeur.</l>
+                        <l>Son tissu rose et diaphane</l>
+                        <l>De la chair a le velouté;</l>
+                        <l>Auprès, tout incarnat se fane</l>
+                        <l>Ou prend de la vulgarité.</l>
+                        <l>Comme un teint aristocratique</l>
+                        <l>Noircit les fronts bruns de soleil,</l>
+                        <l>De ses sœurs elle rend rustique</l>
+                        <l>Le coloris chaud et vermeil.</l>
+                        <l>Mais, si votre main qui s'en joue,</l>
+                        <l>A quelque bal, pour son parfum,</l>
+                        <l>La rapproche de votre joue,</l>
+                        <l>Son frais éclat devient commun.</l>
+                        <l>Il n'est pas de rose assez tendre</l>
+                        <l>Sur la palette du printemps,</l>
+                        <l>Madame, pour oser prétendre</l>
+                        <l>Lutter contre vos dix-sept ans.</l>
+                        <l>La peau vaut mieux que le pétale,</l>
+                        <l>Et le sang pur d'un noble cœur</l>
+                        <l>Qui sur la jeunesse s'étale,</l>
+                        <l>De tous les roses est vainqueur!</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">CARMEN</hi>
+                     </p>
+                     <lg>
+                        <l>Carmen est maigre,—un trait de bistre</l>
+                        <l>Cerne son œil de gitana.</l>
+                        <l>Ses cheveux sont d'un noir sinistre,</l>
+                        <l>Sa peau, le diable la tanna.</l>
+                        <l>Les femmes disent qu'elle est laide,</l>
+                        <l>Mais tous les hommes en sont fous:</l>
+                        <l>Et l'archevêque de Tolède</l>
+                        <l>Chante la messe à ses genoux;</l>
+                        <l>Car sur sa nuque d'ambre fauve</l>
+                        <l>Se tord un énorme chignon</l>
+                        <l>Qui, dénoué, fait dans l'alcôve</l>
+                        <l>Une mante à son corps mignon.</l>
+                        <l>Et, parmi sa pâleur, éclate</l>
+                        <l>Une bouche aux rires vainqueurs;</l>
+                        <l>Piment rouge, fleur écarlate,</l>
+                        <l>Qui prend sa pourpre au sang des cœurs.</l>
+                        <l>Ainsi faite, la moricaude</l>
+                        <l>Bat les plus altières beautés,</l>
+                        <l>Et de ses yeux la lueur chaude</l>
+                        <l>Rend la flamme aux satiétés.</l>
+                        <l>Elle a, dans sa laideur piquante,</l>
+                        <l>Un grain de sel de cette mer</l>
+                        <l>D'où jaillit, nue et provocante,</l>
+                        <l>L'âcre Vénus du gouffre amer.</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">CE QUE DISENT</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="bold">LES</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="bold">HIRONDELLES</hi>
+                     </p>
+                     <p rend="justify">CHANSON D'AUTOMNE</p>
+                     <lg>
+                        <l>Déjà plus d'une feuille sèche</l>
+                        <l>Parsème les gazons jaunis;</l>
+                        <l>Soir et matin, la brise est fraîche,</l>
+                        <l>Hélas! les beaux jours sont finis!</l>
+                        <l>On voit s'ouvrir les fleurs que garde</l>
+                        <l>Le jardin, pour dernier trésor:</l>
+                        <l>Le dahlia met sa cocarde</l>
+                        <l>Et le souci sa toque d'or.</l>
+                        <l>La pluie au bassin fait des bulles,</l>
+                        <l>Les hirondelles sur le toit</l>
+                        <l>Tiennent des conciliabules:</l>
+                        <l>Voici l'hiver, voici le froid!</l>
+                        <l>Elles s'assemblent par centaines,</l>
+                        <l>Se concertant pour le départ.</l>
+                        <l>L'une dit: «Oh! que dans Athènes</l>
+                        <l>Il fait bon sur le vieux rempart!</l>
+                        <l>«Tous les ans j'y vais et je niche</l>
+                        <l>Aux métopes du Parthénon.</l>
+                        <l>Mon nid bouche dans la corniche</l>
+                        <l>Le trou d'un boulet de canon.»</l>
+                        <l>L'autre: «J'ai ma petite chambre</l>
+                        <l>A Smyrne, au plafond d'un café.</l>
+                        <l>Les Hadjis comptent leurs grains d'ambre</l>
+                        <l>Sur le seuil, d'un rayon chauffé.</l>
+                        <l>«J'entre et je sors, accoutumée</l>
+                        <l>Aux blondes vapeurs des chibouchs,</l>
+                        <l>Et parmi des flots de fumée,</l>
+                        <l>Je rase turbans et tarbouchs.»</l>
+                        <l>Celle-ci: «J'habite un triglyphe</l>
+                        <l>Au fronton d'un temple, à Balbeck.</l>
+                        <l>Je m'y suspends avec ma griffe</l>
+                        <l>Sur mes petits au large bec.»</l>
+                        <l>Celle-là: «Voici mon adresse:</l>
+                        <l>Rhodes, palais des chevaliers;</l>
+                        <l>Chaque hiver, ma tente s'y dresse</l>
+                        <l>Au chapiteau des noirs piliers.»</l>
+                        <l>La cinquième: «Je ferai halte,</l>
+                        <l>Car l'âge m'alourdit un peu,</l>
+                        <l>Aux blanches terrasses de Malte,</l>
+                        <l>Entre l'eau bleue et le ciel bleu.»</l>
+                        <l>La sixième: «Qu'on est à l'aise</l>
+                        <l>Au Caire, en haut des minarets!</l>
+                        <l>J'empâte un ornement de glaise,</l>
+                        <l>Et mes quartiers d'hiver sont prêts.»</l>
+                        <l>«A la seconde cataracte,</l>
+                        <l>Fait la dernière, j'ai mon nid;</l>
+                        <l>J'en ai noté la place exacte,</l>
+                        <l>Dans le pschent d'un roi de granit.»</l>
+                        <l>Toutes: «Demain combien de lieues</l>
+                        <l>Auront filé sous notre essaim,</l>
+                        <l>Plaines brunes, pics blancs, mers bleues</l>
+                        <l>Brodant d'écume leur bassin!»</l>
+                        <l>Avec cris et battements d'ailes,</l>
+                        <l>Sur la moulure aux bords étroits,</l>
+                        <l>Ainsi jasent les hirondelles,</l>
+                        <l>Voyant venir la rouille aux bois.</l>
+                        <l>Je comprends tout ce qu'elles disent,</l>
+                        <l>Car le poëte est un oiseau;</l>
+                        <l>Mais, captif, ses élans se brisent</l>
+                        <l>Contre un invisible réseau!</l>
+                        <l>Des ailes! des ailes! des ailes!</l>
+                        <l>Comme dans le chant de Ruckert,</l>
+                        <l>Pour voler, là-bas avec elles</l>
+                        <l>Au soleil d'or, au printemps vert!</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">NOËL</hi>
+                     </p>
+                     <lg>
+                        <l>Le ciel est noir, la terre est blanche;</l>
+                        <l>—Cloches, carillonnez gaîment!—</l>
+                        <l>Jésus est né.—La Vierge penche</l>
+                        <l>Sur lui son visage charmant.</l>
+                        <l>Pas de courtines festonnées</l>
+                        <l>Pour préserver l'enfant du froid,</l>
+                        <l>Rien que les toiles d'araignées</l>
+                        <l>Qui pendent des poutres du toit.</l>
+                        <l>Il tremble sur la paille fraîche,</l>
+                        <l>Ce cher petit enfant Jésus,</l>
+                        <l>Et pour l'échauffer dans sa crèche</l>
+                        <l>L'âne et le bœuf soufflent dessus.</l>
+                        <l>La neige au chaume coud ses franges,</l>
+                        <l>Mais sur le toit s'ouvre le ciel</l>
+                        <l>Et, tout en blanc, le chœur des anges</l>
+                        <l>Chante aux bergers: «<hi rend="italic">Noël! Noël!</hi>»</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">LES JOUJOUX</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="bold">DE LA MORTE</hi>
+                     </p>
+                     <lg>
+                        <l>La petite Marie est morte,</l>
+                        <l>Et son cercueil est si peu long</l>
+                        <l>Qu'il tient sous le bras qui l'emporte</l>
+                        <l>Comme un étui de violon.</l>
+                        <l>Sur le tapis et sur la table</l>
+                        <l>Traîne l'héritage enfantin.</l>
+                        <l>Les bras ballants, l'air lamentable,</l>
+                        <l>Tout affaissé, gît le pantin.</l>
+                        <l>Et si la poupée est plus ferme,</l>
+                        <l>C'est la faute de son bâton;</l>
+                        <l>Dans son œil une larme germe,</l>
+                        <l>Un soupir gonfle son carton.</l>
+                        <l>Une dînette abandonnée</l>
+                        <l>Mêle ses plats de bois verni</l>
+                        <l>A la troupe désarçonnée</l>
+                        <l>Des écuyers de Franconi.</l>
+                        <l>La boîte à musique est muette;</l>
+                        <l>Mais, quand on pousse le ressort</l>
+                        <l>Où se posait sa main fluette,</l>
+                        <l>Un murmure plaintif en sort.</l>
+                        <l>L'émotion chevrote et tremble</l>
+                        <l>Dans: <hi rend="italic">Ah! vous dirai-je, maman?</hi>
+                        </l>
+                        <l>Le <hi rend="italic">Quadrille des Lanciers</hi>  semble</l>
+                        <l>Triste comme un enterrement.</l>
+                        <l>Et des pleurs vous mouillent la joue</l>
+                        <l>Quand <hi rend="italic">la Donna è mobile</hi>,</l>
+                        <l>Sur le rouleau qui tourne et joue,</l>
+                        <l>Expire avec un son filé.</l>
+                        <l>Le cœur se navre à ce mélange</l>
+                        <l>Puérilement douloureux,</l>
+                        <l>Joujoux d'enfant laissés par l'ange,</l>
+                        <l>Berceau que la tombe a fait creux!</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">APRÈS</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="bold">LE FEUILLETON</hi>
+                     </p>
+                     <lg>
+                        <l>Mes colonnes sont alignées,</l>
+                        <l>Au portique du feuilleton;</l>
+                        <l>Elles supportent, résignées,</l>
+                        <l>Du journal le pesant fronton.</l>
+                        <l>Jusqu'à lundi je suis mon maître.</l>
+                        <l>Au diable chefs-d'œuvre mort-nés!</l>
+                        <l>Pour huit jours je puis me permettre</l>
+                        <l>De vous fermer ma porte au nez.</l>
+                        <l>Les ficelles des mélodrames</l>
+                        <l>N'ont plus le droit de se glisser</l>
+                        <l>Parmi les fils soyeux des trames</l>
+                        <l>Que mon caprice aime à tisser.</l>
+                        <l>Voix de l'âme et de la nature,</l>
+                        <l>J'écouterai vos purs sanglots,</l>
+                        <l>Sans que les couplets de facture</l>
+                        <l>M'étourdissent de leurs grelots,</l>
+                        <l>Et portant, dans mon verre à côtes</l>
+                        <l>La santé du temps disparu,</l>
+                        <l>Avec mes vieux rêves pour hôtes</l>
+                        <l>Je boirai le vin de mon cru:</l>
+                        <l>Le vin de ma propre pensée,</l>
+                        <l>Vierge de toute autre liqueur,</l>
+                        <l>Et que, par la vie écrasée,</l>
+                        <l>Répand la grappe de mon cœur!</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">LE CHATEAU</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="bold">DU SOUVENIR</hi>
+                     </p>
+                     <lg>
+                        <l>La main au front, le pied dans l'âtre,</l>
+                        <l>Je songe et cherche à revenir,</l>
+                        <l>Par delà le passé grisâtre,</l>
+                        <l>Au vieux château du Souvenir.</l>
+                        <l>Une gaze de brume estompe</l>
+                        <l>Arbres, maisons, plaines, coteaux,</l>
+                        <l>Et l'œil au carrefour qui trompe</l>
+                        <l>En vain consulte les poteaux.</l>
+                        <l>J'avance parmi les décombres</l>
+                        <l>De tout un monde enseveli,</l>
+                        <l>Dans le mystère des pénombres,</l>
+                        <l>A travers des limbes d'oubli.</l>
+                        <l>Mais voici, blanche et diaphane,</l>
+                        <l>La Mémoire, au bord du chemin,</l>
+                        <l>Qui me remet, comme Ariane,</l>
+                        <l>Son peloton de fil en main.</l>
+                        <l>Désormais la route est certaine;</l>
+                        <l>Le soleil voilé reparaît,</l>
+                        <l>Et du château la tour lointaine</l>
+                        <l>Pointe au-dessus de la forêt.</l>
+                        <l>Sous l'arcade où le jour s'émousse,</l>
+                        <l>De feuilles en feuilles tombant,</l>
+                        <l>Le sentier ancien dans la mousse</l>
+                        <l>Trace encor son étroit ruban.</l>
+                        <l>Mais la ronce en travers s'enlace:</l>
+                        <l>La liane tend son filet,</l>
+                        <l>Et la branche que je déplace</l>
+                        <l>Revient et me donne un soufflet.</l>
+                        <l>Enfin au bout de la clairière,</l>
+                        <l>Je découvre du vieux manoir</l>
+                        <l>Les tourelles en poivrière</l>
+                        <l>Et les hauts toits en éteignoir.</l>
+                        <l>Sur le comble aucune fumée</l>
+                        <l>Rayant le ciel d'un bleu sillon;</l>
+                        <l>Pas une fenêtre allumée</l>
+                        <l>D'une figure ou d'un rayon.</l>
+                        <l>Les chaînes du pont sont brisées;</l>
+                        <l>Aux fossés la lentille d'eau</l>
+                        <l>De ses taches vert-de-grisées</l>
+                        <l>Étale le glauque rideau.</l>
+                        <l>Des tortuosités de lierre</l>
+                        <l>Pénètrent dans chaque refend,</l>
+                        <l>Payant la tour hospitalière</l>
+                        <l>Qui les soutient... en l'étouffant.</l>
+                        <l>Le porche à la lune se ronge,</l>
+                        <l>Le temps le sculpte à sa façon,</l>
+                        <l>Et la pluie a passé l'éponge</l>
+                        <l>Sur les couleurs de mon blason.</l>
+                        <l>Tout ému, je pousse la porte</l>
+                        <l>Qui cède et geint sur ses pivots;</l>
+                        <l>Un air froid en sort et m'apporte</l>
+                        <l>Le fade parfum des caveaux.</l>
+                        <l>L'ortie aux morsures aiguës,</l>
+                        <l>La bardane aux larges contours,</l>
+                        <l>Sous les ombelles des ciguës,</l>
+                        <l>Prospèrent dans l'angle des cours.</l>
+                        <l>Sur les deux chimères de marbre,</l>
+                        <l>Gardiennes du perron verdi,</l>
+                        <l>Se découpe l'ombre d'un arbre</l>
+                        <l>Pendant mon absence grandi.</l>
+                        <l>Levant leurs pattes de lionne</l>
+                        <l>Elles se mettent en arrêt.</l>
+                        <l>Leur regard blanc me questionne</l>
+                        <l>Mais je leur dis le mot secret.</l>
+                        <l>Et je passe.—Dressant sa tête,</l>
+                        <l>Le vieux chien retombe assoupi,</l>
+                        <l>Et mon pas sonore inquiète</l>
+                        <l>L'écho dans son coin accroupi.</l>
+                        <l>Un jour louche et douteux se glisse</l>
+                        <l>Aux vitres jaunes du salon</l>
+                        <l>Où figurent, en haute lisse,</l>
+                        <l>Les aventures d'Apollon.</l>
+                        <l>Daphné, les hanches dans l'écorce,</l>
+                        <l>Étend toujours ses doigts touffus;</l>
+                        <l>Mais aux bras du dieu qui la force,</l>
+                        <l>Elle s'éteint, spectre confus.</l>
+                        <l>Apollon, chez Admète, garde</l>
+                        <l>Un troupeau, des mites atteint;</l>
+                        <l>Les neuf Muses, troupe hagarde,</l>
+                        <l>Pleurent sur un Pinde déteint;</l>
+                        <l>Et la Solitude en chemise</l>
+                        <l>Trace au doigt le mot: «Abandon»</l>
+                        <l>Dans la poudre qu'elle tamise</l>
+                        <l>Sur le marbre du guéridon.</l>
+                        <l>Je retrouve au long des tentures,</l>
+                        <l>Comme des hôtes endormis,</l>
+                        <l>Pastels blafards, sombres peintures,</l>
+                        <l>Jeunes beautés et vieux amis.</l>
+                        <l>Ma main tremblante enlève un crêpe,</l>
+                        <l>Et je vois mon défunt amour,</l>
+                        <l>Jupons bouffants, taille de guêpe,</l>
+                        <l>La Cidalise en Pompadour!</l>
+                        <l>Un bouton de rose s'entr'ouvre</l>
+                        <l>A son corset enrubanné,</l>
+                        <l>Dont la dentelle à demi couvre</l>
+                        <l>Un sein neigeux d'azur veiné;</l>
+                        <l>Ses yeux ont de moites paillettes,</l>
+                        <l>Comme aux feuilles que le froid mord,</l>
+                        <l>Sa pourpre monte à ses pommettes,</l>
+                        <l>Éclat trompeur, fard de la mort!</l>
+                        <l>Elle tressaille à mon approche,</l>
+                        <l>Et son regard, triste et charmant,</l>
+                        <l>Sur le mien, d'un air de reproche,</l>
+                        <l>Se fixe douloureusement.</l>
+                        <l>Bien que la vie au loin m'emporte,</l>
+                        <l>Ton nom dans mon cœur est marqué,</l>
+                        <l>Fleur de pastel, gentille morte,</l>
+                        <l>Ombre en habit de bal masqué!</l>
+                        <l>La nature de l'art jalouse,</l>
+                        <l>Voulant dépasser Murillo,</l>
+                        <l>A Paris créa l'Andalouse</l>
+                        <l>Qui rit dans le second tableau.</l>
+                        <l>Par un caprice poétique,</l>
+                        <l>Notre climat brumeux para</l>
+                        <l>D'une grâce au charme exotique</l>
+                        <l>Cette autre Petra Camara.</l>
+                        <l>De chaudes teintes orangées</l>
+                        <l>Dorent sa joue au fard vermeil;</l>
+                        <l>Ses paupières de jais frangées</l>
+                        <l>Filtrent des rayons de soleil.</l>
+                        <l>Entre ses lèvres d'écarlate</l>
+                        <l>Scintille un éclair argenté,</l>
+                        <l>Et sa beauté splendide éclate</l>
+                        <l>Comme une grenade en été.</l>
+                        <l>Au son des guitares d'Espagne</l>
+                        <l>Ma voix longtemps la célébra.</l>
+                        <l>Elle vint un jour, sans compagne,</l>
+                        <l>Et ma chambre fut l'Alhambra.</l>
+                        <l>Plus loin une beauté robuste,</l>
+                        <l>Aux bras forts cerclés d'anneaux lourds,</l>
+                        <l>Sertit le marbre de son buste</l>
+                        <l>Dans les perles et le velours.</l>
+                        <l>D'un air de reine qui s'ennuie</l>
+                        <l>Au sein de sa cour à genoux,</l>
+                        <l>Superbe et distraite, elle appuie</l>
+                        <l>La main sur un coffre à bijoux.</l>
+                        <l>Sa bouche humide et sensuelle</l>
+                        <l>Semble rouge du sang des cœurs,</l>
+                        <l>Et, pleins de volupté cruelle,</l>
+                        <l>Ses yeux ont des défis vainqueurs.</l>
+                        <l>Ici, plus de grâce touchante,</l>
+                        <l>Mais un attrait vertigineux.</l>
+                        <l>On dirait la Vénus méchante</l>
+                        <l>Qui préside aux amours haineux.</l>
+                        <l>Cette Vénus, mauvaise mère,</l>
+                        <l>Souvent a battu Cupidon.</l>
+                        <l>O toi, qui fus ma joie amère,</l>
+                        <l>Adieu pour toujours... et pardon!</l>
+                        <l>Dans son cadre, que l'ombre moire,</l>
+                        <l>Au lieu de réfléchir mes traits,</l>
+                        <l>La glace ébauche de mémoire</l>
+                        <l>Le plus ancien de mes portraits.</l>
+                        <l>Spectre rétrospectif qui double</l>
+                        <l>Un type à jamais effacé,</l>
+                        <l>Il sort du fond du miroir trouble</l>
+                        <l>Et des ténèbres du passé.</l>
+                        <l>Dans son pourpoint de satin rose,</l>
+                        <l>Qu'un goût hardi coloria,</l>
+                        <l>Il semble chercher une pose</l>
+                        <l>Pour Boulanger ou Devéria.</l>
+                        <l>Terreur du bourgeois glabre et chauve,</l>
+                        <l>Une chevelure à tous crins</l>
+                        <l>De roi franc ou de lion fauve</l>
+                        <l>Roule en torrent jusqu'à ses reins.</l>
+                        <l>Tel, romantique opiniâtre,</l>
+                        <l>Soldat de l'art qui lutte encor,</l>
+                        <l>Il se ruait vers le théâtre</l>
+                        <l>Quand d'Hernani sonnait le cor.</l>
+                        <l>... La nuit tombe et met avec l'ombre</l>
+                        <l>Ses terreurs aux recoins dormants.</l>
+                        <l>L'inconnu, machiniste sombre,</l>
+                        <l>Monte ses épouvantements.</l>
+                        <l>Des explosions de bougies</l>
+                        <l>Crèvent soudain sur les flambeaux!</l>
+                        <l>Leurs auréoles élargies</l>
+                        <l>Semblent des lampes de tombeaux.</l>
+                        <l>Une main d'ombre ouvre la porte</l>
+                        <l>Sans en faire grincer la clé.</l>
+                        <l>D'hôtes pâles qu'un souffle apporte</l>
+                        <l>Le salon se trouve peuplé.</l>
+                        <l>Les portraits quittent la muraille,</l>
+                        <l>Frottant de leurs mouchoirs jaunis,</l>
+                        <l>Sur leur visage qui s'éraille,</l>
+                        <l>La crasse fauve du vernis.</l>
+                        <l>D'un reflet rouge illuminée,</l>
+                        <l>La bande se chauffe les doigts</l>
+                        <l>Et fait cercle à la cheminée</l>
+                        <l>Où tout à coup flambe le bois.</l>
+                        <l>L'image au sépulcre ravie</l>
+                        <l>Perd son aspect roide et glacé;</l>
+                        <l>La chaude pourpre de la vie</l>
+                        <l>Remonte aux veines du passé.</l>
+                        <l>Les masques blafards se colorent</l>
+                        <l>Comme au temps où je les connus.</l>
+                        <l>O vous que mes regrets déplorent,</l>
+                        <l>Amis, merci d'être venus!</l>
+                        <l>Les vaillants de dix-huit cent trente,</l>
+                        <l>Je les revois tels que jadis.</l>
+                        <l>Comme les pirates d'Otrante</l>
+                        <l>Nous étions cent, nous sommes dix.</l>
+                        <l>L'un étale sa barbe rousse</l>
+                        <l>Comme Frédéric dans son roc,</l>
+                        <l>L'autre superbement retrousse</l>
+                        <l>Le bout de sa moustache en croc.</l>
+                        <l>Drapant sa souffrance secrète</l>
+                        <l>Sous les fiertés de son manteau,</l>
+                        <l>Pétrus fume une cigarette</l>
+                        <l>Qu'il baptise papelito.</l>
+                        <l>Celui-ci me conte ses rêves,</l>
+                        <l>Hélas! jamais réalisés,</l>
+                        <l>Icare tombé sur les grèves</l>
+                        <l>Où gisent les essors brisés.</l>
+                        <l>Celui-là me confie un drame</l>
+                        <l>Taillé sur le nouveau patron</l>
+                        <l>Qui fait, mêlant tout dans sa trame,</l>
+                        <l>Causer Molière et Calderon.</l>
+                        <l>Tom, qu'un abandon scandalise,</l>
+                        <l>Récite «Love's labours lost»,</l>
+                        <l>Et Fritz explique à Cidalise</l>
+                        <l>Le «Walpurgisnachtstraum» de Faust.</l>
+                        <l>Mais le jour luit à la fenêtre;</l>
+                        <l>Et les spectres, moins arrêtés,</l>
+                        <l>Laissent les objets transparaître</l>
+                        <l>Dans leurs diaphanéités.</l>
+                        <l>Les cires fondent consumées;</l>
+                        <l>Sous les cendres s'éteint le feu,</l>
+                        <l>Du parquet montent des fumées;</l>
+                        <l>Château du Souvenir, adieu!</l>
+                        <l>Encore une autre fois décembre</l>
+                        <l>Va retourner le sablier.</l>
+                        <l>Le présent entre dans ma chambre</l>
+                        <l>Et me dit en vain d'oublier.</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">CAMÉLIA</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="bold">ET</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="bold">PAQUERETTE</hi>
+                     </p>
+                     <lg>
+                        <l>On admire les fleurs de serre</l>
+                        <l>Qui loin de leur soleil natal,</l>
+                        <l>Comme des joyaux mis sous verre,</l>
+                        <l>Brillent sous un ciel de cristal.</l>
+                        <l>Sans que les brises les effleurent</l>
+                        <l>De leurs baisers mystérieux,</l>
+                        <l>Elles naissent, vivent et meurent</l>
+                        <l>Devant le regard curieux.</l>
+                        <l>A l'abri de murs diaphanes,</l>
+                        <l>De leur sein ouvrant le trésor,</l>
+                        <l>Comme de belles courtisanes,</l>
+                        <l>Elles se vendent à prix d'or.</l>
+                        <l>La porcelaine de la Chine</l>
+                        <l>Les reçoit par groupes coquets,</l>
+                        <l>Ou quelque main gantée et fine</l>
+                        <l>Au bal les balance en bouquets.</l>
+                        <l>Mais souvent parmi l'herbe verte,</l>
+                        <l>Fuyant les yeux, fuyant les doigts,</l>
+                        <l>De silence et d'ombre couverte,</l>
+                        <l>Une fleur vit au fond des bois.</l>
+                        <l>Un papillon blanc qui voltige,</l>
+                        <l>Un coup d'œil au hasard jeté,</l>
+                        <l>Vous fait surprendre sur sa tige</l>
+                        <l>La fleur dans sa simplicité,</l>
+                        <l>Belle de sa parure agreste</l>
+                        <l>S'épanouissant au ciel bleu,</l>
+                        <l>Et versant son parfum modeste</l>
+                        <l>Pour la solitude et pour Dieu.</l>
+                        <l>Sans toucher à son pur calice</l>
+                        <l>Qu'agite un frisson de pudeur,</l>
+                        <l>Vous respirez avec délice</l>
+                        <l>Son âme dans sa fraîche odeur.</l>
+                        <l>Et tulipes au port superbe,</l>
+                        <l>Camélias si cher payés,</l>
+                        <l>Pour la petite fleur sous l'herbe,</l>
+                        <l>En un instant, sont oubliés!</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">LA FELLAH</hi>
+                     </p>
+                     <p rend="justify">SUR UNE AQUARELLE DE LA PRINCESSE M...</p>
+                     <lg>
+                        <l>Caprice d'un pinceau fantasque</l>
+                        <l>Et d'un impérial loisir,</l>
+                        <l>Votre fellah, sphinx qui se masque,</l>
+                        <l>Propose une énigme au désir.</l>
+                        <l>C'est une mode bien austère</l>
+                        <l>Que ce masque et cet habit long,</l>
+                        <l>Elle intrigue par son mystère</l>
+                        <l>Tous les Œdipes du salon.</l>
+                        <l>L'antique Isis légua ses voiles</l>
+                        <l>Aux modernes filles du Nil;</l>
+                        <l>Mais, sous le bandeau, deux étoiles</l>
+                        <l>Brillent d'un feu pur et subtil.</l>
+                        <l>Ces yeux qui sont tout un poème</l>
+                        <l>De langueur et de volupté</l>
+                        <l>Disent, résolvant le problème,</l>
+                        <l>«Sois l'amour, je suis la beauté.»</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">LA MANSARDE</hi>
+                     </p>
+                     <lg>
+                        <l>Sur les tuiles où se hasarde</l>
+                        <l>Le chat guettant l'oiseau qui boit,</l>
+                        <l>De mon balcon une mansarde</l>
+                        <l>Entre deux tuyaux s'aperçoit.</l>
+                        <l>Pour la parer d'un faux bien-être,</l>
+                        <l>Si je mentais comme un auteur,</l>
+                        <l>Je pourrais faire à sa fenêtre</l>
+                        <l>Un cadre de pois de senteur,</l>
+                        <l>Et vous y montrer Rigolette</l>
+                        <l>Riant à son petit miroir,</l>
+                        <l>Dont le tain rayé ne reflète</l>
+                        <l>Que la moitié de son œil noir;</l>
+                        <l>Ou, la robe encor sans agrafe,</l>
+                        <l>Gorge et cheveux au vent, Margot</l>
+                        <l>Arrosant avec sa carafe</l>
+                        <l>Son jardin planté dans un pot;</l>
+                        <l>Ou bien quelque jeune poète</l>
+                        <l>Qui scande ses vers sibyllins,</l>
+                        <l>En contemplant la silhouette</l>
+                        <l>De Montmartre et de ses moulins.</l>
+                        <l>Par malheur, ma mansarde est vraie,</l>
+                        <l>Il n'y grimpe aucun liseron,</l>
+                        <l>Et la vitre y fait voir sa taie,</l>
+                        <l>Sous l'ais verdi d'un vieux chevron.</l>
+                        <l>Pour la grisette et pour l'artiste,</l>
+                        <l>Pour le veuf et pour le garçon,</l>
+                        <l>Une mansarde est toujours triste:</l>
+                        <l>Le grenier n'est beau qu'en chanson.</l>
+                        <l>Jadis, sous le comble dont l'angle</l>
+                        <l>Penchait les fronts pour le baiser,</l>
+                        <l>L'amour, content d'un lit de sangle,</l>
+                        <l>Avec Suzon venait causer.</l>
+                        <l>Mais pour ouater notre joie,</l>
+                        <l>Il faut des murs capitonnés,</l>
+                        <l>Des flots de dentelle et de soie,</l>
+                        <l>Des lits par Monbro festonnés.</l>
+                        <l>Un soir, n'étant pas revenue,</l>
+                        <l>Margot s'attarde au mont Breda,</l>
+                        <l>Et Rigolette entretenue</l>
+                        <l>N'arrose plus son réséda.</l>
+                        <l>Voilà longtemps que le poète</l>
+                        <l>Las de prendre la rime au vol,</l>
+                        <l>S'est fait <hi rend="italic">reporter</hi>  de gazette,</l>
+                        <l>Quittant le ciel pour l'entresol.</l>
+                        <l>Et l'on ne voit contre la vitre</l>
+                        <l>Qu'une vieille au maigre profil,</l>
+                        <l>Devant Minet, qu'elle chapitre,</l>
+                        <l>Tirant sans cesse un bout de fil.</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">LA NUE</hi>
+                     </p>
+                     <lg>
+                        <l>A l'horizon monte une nue,</l>
+                        <l>Sculptant sa forme dans l'azur:</l>
+                        <l>On dirait une vierge nue</l>
+                        <l>Émergeant d'un lac au flot pur.</l>
+                        <l>Debout dans sa conque nacrée,</l>
+                        <l>Elle vogue sur le bleu clair.</l>
+                        <l>Comme une Aphrodite éthérée,</l>
+                        <l>Faite de l'écume de l'air;</l>
+                        <l>On voit onder en molles poses</l>
+                        <l>Son torse au contour incertain,</l>
+                        <l>Et l'aurore répand des roses</l>
+                        <l>Sur son épaule de satin.</l>
+                        <l>Ses blancheurs de marbre et de neige</l>
+                        <l>Se fondent amoureusement</l>
+                        <l>Comme, au clair-obscur du Corrége,</l>
+                        <l>Le corps d'Antiope dormant.</l>
+                        <l>Elle plane dans la lumière</l>
+                        <l>Plus haut que l'Alpe ou l'Apennin;</l>
+                        <l>Reflet de la beauté première,</l>
+                        <l>Sœur de «l'éternel féminin».</l>
+                        <l>A son corps, en vain retenue,</l>
+                        <l>Sur l'aile de la passion,</l>
+                        <l>Mon âme vole à cette nue</l>
+                        <l>Et l'embrasse comme Ixion.</l>
+                        <l>La raison dit: «Vague fumée,</l>
+                        <l>Où l'on croit voir ce qu'on rêva,</l>
+                        <l>Ombre au gré du vent déformée,</l>
+                        <l>Bulle qui crève et qui s'en va!»</l>
+                        <l>Le sentiment répond: «Qu'importe!</l>
+                        <l>Qu'est-ce après tout que la beauté?</l>
+                        <l>Spectre charmant qu'un souffle emporte</l>
+                        <l>Et qui n'est rien, ayant été!</l>
+                        <l>«A l'Idéal ouvre ton âme,</l>
+                        <l>Mets dans ton cœur beaucoup de ciel,</l>
+                        <l>Aime une nue, aime une femme,</l>
+                        <l>Mais aime!—C'est l'essentiel!»</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">LE MERLE</hi>
+                     </p>
+                     <lg>
+                        <l>Un oiseau siffle dans les branches</l>
+                        <l>Et sautille gai, plein d'espoir,</l>
+                        <l>Sur les herbes, de givre blanches,</l>
+                        <l>En bottes jaunes, en frac noir.</l>
+                        <l>C'est un merle, chanteur crédule,</l>
+                        <l>Ignorant du calendrier,</l>
+                        <l>Qui rêve soleil, et module</l>
+                        <l>L'hymne d'avril en février.</l>
+                        <l>Pourtant il vente, il pleut à verse;</l>
+                        <l>L'Arve jaunit le Rhône bleu,</l>
+                        <l>Et le salon tendu de perse,</l>
+                        <l>Tient tous ses hôtes près du feu.</l>
+                        <l>Les monts sur l'épaule ont l'hermine,</l>
+                        <l>Comme des magistrats siégeant;</l>
+                        <l>Leur blanc tribunal examine</l>
+                        <l>Un cas d'hiver se prolongeant.</l>
+                        <l>Lustrant son aile qu'il essuie,</l>
+                        <l>L'oiseau persiste en sa chanson,</l>
+                        <l>Malgré neige, brouillard et pluie,</l>
+                        <l>Il croit à la jeune saison.</l>
+                        <l>Il gronde l'aube paresseuse</l>
+                        <l>De rester au lit si longtemps</l>
+                        <l>Et, gourmandant la fleur frileuse,</l>
+                        <l>Met en demeure le printemps.</l>
+                        <l>Il voit le jour derrière l'ombre;</l>
+                        <l>Tel un croyant, dans le saint lieu,</l>
+                        <l>L'autel désert, sous la nef sombre,</l>
+                        <l>Avec sa foi voit toujours Dieu.</l>
+                        <l>A la nature il se confie,</l>
+                        <l>Car son instinct pressent la loi.</l>
+                        <l>Qui rit de ta philosophie,</l>
+                        <l>Beau merle, est moins sage que toi!</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">LA FLEUR</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="bold">QUI FAIT</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="bold">LE PRINTEMPS</hi>
+                     </p>
+                     <lg>
+                        <l>Les marronniers de la terrasse</l>
+                        <l>Vont bientôt fleurir, à Saint-Jean,</l>
+                        <l>La villa d'où la vue embrasse</l>
+                        <l>Tant de monts bleus coiffés d'argent.</l>
+                        <l>La feuille, hier encor pliée</l>
+                        <l>Dans son étroit corset d'hiver,</l>
+                        <l>Met sur la branche déliée</l>
+                        <l>Les premières touches de vert.</l>
+                        <l>Mais en vain le soleil excite</l>
+                        <l>La sève des rameaux trop lents;</l>
+                        <l>La fleur retardataire hésite</l>
+                        <l>A faire voir ses thyrses blancs.</l>
+                        <l>Pourtant le pêcher est tout rose,</l>
+                        <l>Comme un désir de la pudeur.</l>
+                        <l>Et le pommier, que l'aube arrose,</l>
+                        <l>S'épanouit dans sa candeur.</l>
+                        <l>La véronique s'aventure</l>
+                        <l>Près des boutons d'or dans les prés,</l>
+                        <l>Les caresses de la nature</l>
+                        <l>Hâtent les germes rassurés.</l>
+                        <l>Il me faut retourner encor</l>
+                        <l>Au cercle d'enfer où je vis;</l>
+                        <l>Marronniers, pressez-vous d'éclore</l>
+                        <l>Et d'éblouir mes yeux ravis.</l>
+                        <l>Vous pouvez sortir pour la fête</l>
+                        <l>Vos girandoles sans péril,</l>
+                        <l>Un ciel bleu luit sur votre faîte</l>
+                        <l>Et déjà mai talonne avril.</l>
+                        <l>Par pitié donnez cette joie</l>
+                        <l>Au poète dans ses douleurs,</l>
+                        <l>Qu'avant de s'en aller, il voie</l>
+                        <l>Vos feux d'artifice de fleurs.</l>
+                        <l>Grands marronniers de la terrasse,</l>
+                        <l>Si fiers de vos splendeurs d'été,</l>
+                        <l>Montrez-vous à moi dans la grâce</l>
+                        <l>Qui précède votre beauté.</l>
+                        <l>Je connais vos riches livrées,</l>
+                        <l>Quand octobre, ouvrant son essor,</l>
+                        <l>Vous met des tuniques pourprées,</l>
+                        <l>Vous pose des couronnes d'or.</l>
+                        <l>Je vous ai vus, blanches ramées,</l>
+                        <l>Pareils aux dessins que le froid</l>
+                        <l>Aux vitres d'argent étamées</l>
+                        <l>Trace, la nuit, avec son doigt.</l>
+                        <l>Je sais tous vos aspects superbes,</l>
+                        <l>Arbres géants, vieux marronniers,</l>
+                        <l>Mais j'ignore vos fraîches gerbes</l>
+                        <l>Et vos aromes printaniers.</l>
+                        <l>Adieu, je pars lassé d'attendre;</l>
+                        <l>Gardez vos bouquets éclatants!</l>
+                        <l>Une autre fleur suave et tendre,</l>
+                        <l>Seule à mes yeux fait le printemps.</l>
+                        <l>Que mai remporte sa corbeille!</l>
+                        <l>Il me suffit de cette fleur;</l>
+                        <l>Toujours pour l'âme et pour l'abeille</l>
+                        <l>Elle a du miel pur dans le cœur.</l>
+                        <l>Par le ciel d'azur ou de brume</l>
+                        <l>Par la chaude ou froide saison,</l>
+                        <l>Elle sourit, charme et parfume,</l>
+                        <l>Violette de la maison!</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">DERNIER VŒU</hi>
+                     </p>
+                     <lg>
+                        <l>Voilà longtemps que je vous aime:</l>
+                        <l>—L'aveu remonte à dix-huit ans!—</l>
+                        <l>Vous êtes rose, je suis blême,</l>
+                        <l>J'ai les hivers, vous les printemps.</l>
+                        <l>Des lilas blancs de cimetière</l>
+                        <l>Près de mes tempes ont fleuri;</l>
+                        <l>J'aurai bientôt la touffe entière</l>
+                        <l>Pour ombrager mon front flétri.</l>
+                        <l>Mon soleil pâli qui décline</l>
+                        <l>Va disparaître à l'horizon,</l>
+                        <l>Et sur la funèbre colline</l>
+                        <l>Je vois ma dernière maison.</l>
+                        <l>Oh! que de votre lèvre il tombe</l>
+                        <l>Sur ma lèvre un tardif baiser,</l>
+                        <l>Pour que je puisse dans ma tombe,</l>
+                        <l>Le cœur tranquille, reposer!</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">PLAINTIVE</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="bold">TOURTERELLE</hi>
+                     </p>
+                     <lg>
+                        <l>Plaintive tourterelle,</l>
+                        <l>Qui roucoules toujours,</l>
+                        <l>Veux-tu prêter ton aile</l>
+                        <l>Pour servir mes amours!</l>
+                        <l>Comme toi, pauvre amante,</l>
+                        <l>Bien loin de mon ramier,</l>
+                        <l>Je pleure et me lamente</l>
+                        <l>Sans pouvoir l'oublier.</l>
+                        <l>Vole et que ton pied rose</l>
+                        <l>Sur l'arbre ou sur la tour</l>
+                        <l>Jamais ne se repose,</l>
+                        <l>Car je languis d'amour.</l>
+                        <l>Évite, ô ma colombe,</l>
+                        <l>La halte des palmiers</l>
+                        <l>Et tous les toits où tombe</l>
+                        <l>La neige des ramiers.</l>
+                        <l>Va droit sur sa fenêtre,</l>
+                        <l>Près du palais du roi,</l>
+                        <l>Donne-lui cette lettre</l>
+                        <l>Et deux baisers pour moi.</l>
+                        <l>Puis sur mon sein en flamme</l>
+                        <l>Qui ne peut s'apaiser,</l>
+                        <l>Reviens, avec son âme,</l>
+                        <l>Reviens te reposer.</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">LA</hi>
+                     </p>
+                     <p rend="justify">
+                        <hi rend="bold">BONNE SOIRÉE</hi>
+                     </p>
+                     <lg>
+                        <l>Quel temps de chien!—il pleut, il neige</l>
+                        <l>Les cochers, transis sur leur siège,</l>
+                        <l>Ont le nez bleu.</l>
+                        <l>Par ce vilain soir de décembre,</l>
+                        <l>Qu'il ferait bon garder la chambre,</l>
+                        <l>Devant son feu!</l>
+                        <l>A l'angle de la cheminée</l>
+                        <l>La chauffeuse capitonnée</l>
+                        <l>Vous tend les bras</l>
+                        <l>Et semble avec une caresse</l>
+                        <l>Vous dire comme une maîtresse:</l>
+                        <l>«Tu resteras!»</l>
+                        <l>Un papier rose à découpures,</l>
+                        <l>Comme un sein blanc sous des guipures,</l>
+                        <l>Voile à demi</l>
+                        <l>Le globe laiteux de la lampe</l>
+                        <l>Dont le reflet au plafond rampe,</l>
+                        <l>Tout endormi.</l>
+                        <l>On n'entend rien dans le silence</l>
+                        <l>Que le pendule qui balance</l>
+                        <l>Son disque d'or,</l>
+                        <l>Et que le vent qui pleure et rôde,</l>
+                        <l>Parcourant, pour entrer en fraude,</l>
+                        <l>Le corridor.</l>
+                        <l>C'est bal à l'ambassade anglaise;</l>
+                        <l>Mon habit noir est sur la chaise,</l>
+                        <l>Les bras ballants;</l>
+                        <l>Mon gilet bâille et ma chemise</l>
+                        <l>Semble dresser, pour être mise,</l>
+                        <l>Ses poignets blancs.</l>
+                        <l>Les brodequins à pointe étroite</l>
+                        <l>Montrent leur vernis qui miroite,</l>
+                        <l>Au feu placés;</l>
+                        <l>A côté des minces cravates</l>
+                        <l>S'allongent comme des mains plates</l>
+                        <l>Les gants glacés.</l>
+                        <l>Il faut sortir!—quelle corvée!</l>
+                        <l>Prendre la file à l'arrivée</l>
+                        <l>Et suivre au pas</l>
+                        <l>Les coupés des beautés altières</l>
+                        <l>Portant blasons sur leurs portières</l>
+                        <l>Et leurs appas.</l>
+                        <l>Rester debout contre une porte</l>
+                        <l>A voir se ruer la cohorte</l>
+                        <l>Des invités;</l>
+                        <l>Les vieux museaux, les frais visages,</l>
+                        <l>Les fracs en cœur et les corsages</l>
+                        <l>Décolletés;</l>
+                        <l>Les dos où fleurit la pustule,</l>
+                        <l>Couvrant leur peau rouge d'un tulle</l>
+                        <l>Aérien;</l>
+                        <l>Les dandys et les diplomates,</l>
+                        <l>Sur leurs faces à teintes mates,</l>
+                        <l>Ne montrant rien.</l>
+                        <l>Et ne pouvoir franchir la haie</l>
+                        <l>Des douairières aux yeux d'orfraie</l>
+                        <l>Ou de vautour,</l>
+                        <l>Pour aller dire à son oreille</l>
+                        <l>Petite, nacrée et vermeille,</l>
+                        <l>Un mot d'amour!</l>
+                        <l>Je n'irai pas!—et ferai mettre</l>
+                        <l>Dans son bouquet un bout de lettre,</l>
+                        <l>A l'Opéra.</l>
+                        <l>Par les violettes de Parme,</l>
+                        <l>La mauvaise humeur se désarme:</l>
+                        <l>Elle viendra!</l>
+                        <l>J'ai là l'<hi rend="italic">Intermezzo</hi>  de Heine,</l>
+                        <l>Le <hi rend="italic">Thomas Grain-d'orge</hi>  de Taine,</l>
+                        <l>Les deux Goncourt,</l>
+                        <l>Le temps, jusqu'à l'heure où s'achève</l>
+                        <l>Sur l'oreiller l'idée en rêve,</l>
+                        <l>Me sera court.</l>
+                     </lg>
+                     <p rend="justify"> </p>
+                     <p rend="justify"> </p>
+                     <p rend="justify">
+                        <hi rend="bold">L'ART</hi>
+                     </p>
+                     <p rend="justify">Oui, l'œuvre sort plus belle</p>
+                     <p rend="justify">D'une forme au travail</p>
+                     <p rend="justify">Rebelle,</p>
+                     <p rend="justify">Vers, marbre, onyx, émail.</p>
+                     <p rend="justify">Point de contraintes fausses!</p>
+                     <p rend="justify">Mais que pour marcher droit</p>
+                     <p rend="justify">Tu chausses,</p>
+                     <p rend="justify">Muse, un cothurne étroit.</p>
+                     <p rend="justify">Fi du rhythme commode,</p>
+                     <p rend="justify">Comme un soulier trop grand,</p>
+                     <p rend="justify">Du mode</p>
+                     <p rend="justify">Que tout pied quitte et prend!</p>
+                     <p rend="justify">Statuaire, repousse</p>
+                     <p rend="justify">L'argile que pétrit</p>
+                     <p rend="justify">Le pouce</p>
+                     <p rend="justify">Quand flotte ailleurs l'esprit,</p>
+                     <p rend="justify">Lutte avec le carrare,</p>
+                     <p rend="justify">Avec le paros dur</p>
+                     <p rend="justify">Et rare,</p>
+                     <p rend="justify">Gardiens du contour pur;</p>
+                     <p rend="justify">Emprunte à Syracuse</p>
+                     <p rend="justify">Son bronze où fermement</p>
+                     <p rend="justify">S'accuse</p>
+                     <p rend="justify">Le trait fier et charmant;</p>
+                     <p rend="justify">D'une main délicate</p>
+                     <p rend="justify">Poursuis dans un filon</p>
+                     <p rend="justify">D'agate</p>
+                     <p rend="justify">Le profil d'Apollon.</p>
+                     <p rend="justify">Peintre, fuis l'aquarelle,</p>
+                     <p rend="justify">Et fixe la couleur</p>
+                     <p rend="justify">Trop frêle</p>
+                     <p rend="justify">Au four de l'émailleur.</p>
+                     <p rend="justify">Fais les sirènes bleues,</p>
+                     <p rend="justify">Tordant de cent façons</p>
+                     <p rend="justify">Leurs queues,</p>
+                     <p rend="justify">Les monstres des blasons,</p>
+                     <p rend="justify">Dans son nimbe trilobe</p>
+                     <p rend="justify">La Vierge et son Jésus,</p>
+                     <p rend="justify">Le globe</p>
+                     <p rend="justify">Avec la croix dessus.</p>
+                     <p rend="justify">Tout passe.—L'art robuste</p>
+                     <p rend="justify">Seul a l'éternité,</p>
+                     <p rend="justify">Le buste</p>
+                     <p rend="justify">Survit à la cité.</p>
+                     <p rend="justify">Et la médaille austère</p>
+                     <p rend="justify">Que trouve un laboureur</p>
+                     <p rend="justify">Sous terre</p>
+                     <p rend="justify">Révèle un empereur.</p>
+                     <p rend="justify">Les dieux eux-mêmes meurent,</p>
+                     <p rend="justify">Mais les vers souverains</p>
+                     <p rend="justify">Demeurent</p>
+                     <p rend="justify">Plus forts que les airains.</p>
+                     <p rend="justify">Sculpte, lime, cisèle;</p>
+                     <p rend="justify">Que ton rêve flottant</p>
+                     <p rend="justify">Se scelle</p>
+                     <p rend="justify">Dans le bloc résistant!</p>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>TABLE</head>
+               <p rend="justify">Pages.</p>
+               <p rend="justify">Préface</p>
+               <p rend="justify">1</p>
+               <p rend="justify">Affinités secrètes, madrigal panthéiste</p>
+               <p rend="justify">3</p>
+               <p rend="justify">Le poème de la femme, marbre de Paros</p>
+               <p rend="justify">7</p>
+               <p rend="justify">Étude de mains.</p>
+               <p rend="justify">I.</p>
+               <p rend="justify">Impéria</p>
+               <p rend="justify">11</p>
+               <p rend="justify">II.</p>
+               <p rend="justify">Lacenaire</p>
+               <p rend="justify">15</p>
+               <p rend="justify">Variations sur le carnaval de Venise.</p>
+               <p rend="justify">I.</p>
+               <p rend="justify">Dans la rue</p>
+               <p rend="justify">19</p>
+               <p rend="justify">II.</p>
+               <p rend="justify">Sur les lagunes</p>
+               <p rend="justify">23</p>
+               <p rend="justify">III.</p>
+               <p rend="justify">Carnaval</p>
+               <p rend="justify">27</p>
+               <p rend="justify">IV.</p>
+               <p rend="justify">Clair de lune sentimental</p>
+               <p rend="justify">31</p>
+               <p rend="justify">Symphonie en blanc majeur</p>
+               <p rend="justify">35</p>
+               <p rend="justify">Coquetterie posthume</p>
+               <p rend="justify">39</p>
+               <p rend="justify">Diamant du cœur</p>
+               <p rend="justify">43</p>
+               <p rend="justify">Premier sourire du printemps</p>
+               <p rend="justify">47</p>
+               <p rend="justify">Contralto</p>
+               <p rend="justify">51</p>
+               <p rend="justify">Cærulei oculi</p>
+               <p rend="justify">55</p>
+               <p rend="justify">Rondalla</p>
+               <p rend="justify">59</p>
+               <p rend="justify">Nostalgies d'obélisques.</p>
+               <p rend="justify">I.</p>
+               <p rend="justify">L'obélisque de Paris</p>
+               <p rend="justify">63</p>
+               <p rend="justify">II.</p>
+               <p rend="justify">L'obélisque de Luxor</p>
+               <p rend="justify">67</p>
+               <p rend="justify">Vieux de la vieille, 15 décembre</p>
+               <p rend="justify">71</p>
+               <p rend="justify">Tristesse en mer</p>
+               <p rend="justify">77</p>
+               <p rend="justify">A une robe rose</p>
+               <p rend="justify">81</p>
+               <p rend="justify">Le monde est méchant</p>
+               <p rend="justify">83</p>
+               <p rend="justify">Inès de las sierras</p>
+               <p rend="justify">85</p>
+               <p rend="justify">Odelette anacréontique</p>
+               <p rend="justify">91</p>
+               <p rend="justify">Fumée</p>
+               <p rend="justify">93</p>
+               <p rend="justify">Apollonie</p>
+               <p rend="justify">95</p>
+               <p rend="justify">L'aveugle</p>
+               <p rend="justify">97</p>
+               <p rend="justify">Lied</p>
+               <p rend="justify">99</p>
+               <p rend="justify">Fantaisies d'hiver</p>
+               <p rend="justify">101</p>
+               <p rend="justify">La source</p>
+               <p rend="justify">105</p>
+               <p rend="justify">Buchers et tombeaux</p>
+               <p rend="justify">107</p>
+               <p rend="justify">Le souper des armures</p>
+               <p rend="justify">113</p>
+               <p rend="justify">La montre</p>
+               <p rend="justify">121</p>
+               <p rend="justify">Les néréides</p>
+               <p rend="justify">125</p>
+               <p rend="justify">Les accroche-cœurs</p>
+               <p rend="justify">129</p>
+               <p rend="justify">La rose-thé</p>
+               <p rend="justify">131</p>
+               <p rend="justify">Carmen</p>
+               <p rend="justify">133</p>
+               <p rend="justify">Ce que disent les hirondelles</p>
+               <p rend="justify">135</p>
+               <p rend="justify">Noel</p>
+               <p rend="justify">139</p>
+               <p rend="justify">Les joujoux de la morte</p>
+               <p rend="justify">141</p>
+               <p rend="justify">Après le feuilleton</p>
+               <p rend="justify">145</p>
+               <p rend="justify">Le chateau du souvenir</p>
+               <p rend="justify">147</p>
+               <p rend="justify">Camélia et paquerette</p>
+               <p rend="justify">159</p>
+               <p rend="justify">La fellah</p>
+               <p rend="justify">163</p>
+               <p rend="justify">La mansarde</p>
+               <p rend="justify">165</p>
+               <p rend="justify">La nue</p>
+               <p rend="justify">169</p>
+               <p rend="justify">Le merle</p>
+               <p rend="justify">173</p>
+               <p rend="justify">La fleur qui fait le printemps</p>
+               <p rend="justify">175</p>
+               <p rend="justify">Dernier vœu</p>
+               <p rend="justify">179</p>
+               <p rend="justify">Plaintive tourterelle</p>
+               <p rend="justify">181</p>
+               <p rend="justify">La bonne soirée</p>
+               <p rend="justify">183</p>
+               <p rend="justify">L'art</p>
+               <p rend="justify">187</p>
+               <p rend="justify">Imp. de Malherbe, 12, passage des Favorites, Paris</p>
+               <div type="div3">
+                  <head>Au lecteur</head>
+                  <p rend="justify">Cette version électronique reproduit dans son intégralité la version originale.</p>
+                  <p rend="justify">La ponctuation n'a pas été modifiée hormis quelques corrections mineures.</p>
+                  <p rend="justify">L'orthographe a été conservée. Seuls quelques mots ont été modifiés. Ils sont soulignés par des tirets. Passer la souris sur le mot pour voir le texte original.</p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

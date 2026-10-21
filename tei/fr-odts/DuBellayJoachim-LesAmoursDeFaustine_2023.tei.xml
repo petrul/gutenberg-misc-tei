@@ -1,0 +1,2119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Les amours de Faustine</title>
+            <author>Joachim Du Bellay</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-01T19:12:54Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">odts/fr-odts/DuBellayJoachim-LesAmoursDeFaustine_2023.epub.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Joachim Du Bellay</name>
+               <date>2024-01-01T19:12:54Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Les amours de Faustine</head>
+         <author>Joachim Du Bellay</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">odts/fr-odts/DuBellayJoachim-LesAmoursDeFaustine_2023.epub.odt</p>
+         <p>LES AMOURS DE FAUSTINE</p>
+         <p>JUSTIFICATION DU TIRAGE</p>
+         <p>Il a été tiré :</p>
+         <table rend="frame" xml:id="Table1">
+            <row>
+               <cell rend="justify">10</cell>
+               <cell>exemplaires sur Japon, numérotés de 1 à 10.</cell>
+            </row>
+            <row>
+               <cell rend="justify">20</cell>
+               <cell>exemplaires sur Hollande, numérotés de 11 à 30.</cell>
+            </row>
+            <row>
+               <cell rend="justify">70</cell>
+               <cell>exemplaires sur Arches, numérotés de 31 à 100.</cell>
+            </row>
+            <row>
+               <cell rend="justify">2.000</cell>
+               <cell>exemplaires ordinaires.</cell>
+            </row>
+         </table>
+         <p>La présente édition est l’édition originale de cet ouvrage.</p>
+         <p>Tous droits de reproduction réservés.<lb/>Copyright 1923 by  Edgar Malfère.</p>
+         <p>BIBLIOTHÈQUE DU HÉRISSON</p>
+         <p>JOACHIM DU BELLAY</p>
+         <head>LES AMOURS<lb/>DE FAUSTINE</head>
+         <p>Poésies latines traduites pour<lb/>la première fois et publiées avec<lb/>une introduction et des notes<lb/>par Thierry SANDRE</p>
+         <p>AMIENS<lb/>LIBRAIRIE EDGAR MALFÈRE<lb/>7, RUE DELAMBRE, 7</p>
+         <p>1923</p>
+         <p>OUVRAGES PUBLIÉS PAR THIERRY SANDRE</p>
+         <p>JEAN SECOND : <hi rend="italic">Le Livre des Baisers</hi>, texte et traduction, avec un poëme-préface de Pierre Louÿs, et de nombreuses imitations par Ronsard, Baïf et Belleau. (Bibliothèque du Hérisson, Edgar Malfère, édit.)</p>
+         <p>RUFIN : <hi rend="italic">Épigrammes</hi>, texte, notes, traduction, essai sur la vie du poëte, en collab. avec Paul-René Cousin. (Société des Trente, A. Messein, édit.)</p>
+         <p>SULPICIA : <hi rend="italic">Tablettes d’une Amoureuse</hi>, texte et traduction. (Les Amis d’Édouard).</p>
+         <p>ATHÉNÉE : <hi rend="italic">Le Livre de l’Amour et des Femmes</hi>, traduction. (L’Édition, Paris.)</p>
+         <p>ZAÏDAN : <hi rend="italic">Al Abbassa</hi>, roman, traduit de l’arabe. (Fontemoing, Paris.)</p>
+         <p>EN PRÉPARATION :</p>
+         <p>LONGUS : <hi rend="italic">Daphnis et Chloé</hi>, traduction.</p>
+         <p>OVIDE : <hi rend="italic">Les Amours</hi>, traduction.</p>
+         <p>MÉLÉAGRE : <hi rend="italic">Poésies complètes</hi>, texte et traduction.</p>
+         <p>A MARCEL BOULENGER</p>
+         <pb/>
+         <div type="div1">
+            <head>INTRODUCTION</head>
+            <p>I</p>
+            <p>En 1553, au printemps, Joachim du Bellay fit le voyage de Rome. Il devait y servir, en qualité de secrétaire et d’intendant, son oncle le cardinal du Bellay. Il partit avec enthousiasme, et d’abord il ne fut pas déçu : les trente-deux sonnets des <hi rend="italic">Antiquités de Rome</hi>, qui sont des premières heures de son séjour, montrent qu’il était content d’avoir réalisé le rêve de sa jeunesse. Mais sa joie ne fut pas de longue durée. Les difficultés de sa charge, les ennuis qu’elle lui causait, les intrigues auxquelles il assista, et le chagrin d’être loin de ses amis, de son Anjou et de sa France, tout s’unit pour lui rendre insupportable la ville magnifique. Il abandonna le projet d’ajouter des pièces aux trente-deux pièces déjà finies, et il composa les <hi rend="italic">Regrets</hi>, élégiaques et satiriques, son chef-d’œuvre. En 1558, rentré dans sa patrie, il publia quatre recueils de vers, coup sur coup : les <hi rend="italic">Antiquités de Rome</hi> ; les <hi rend="italic">Regrets</hi> ; les <hi rend="italic">Jeux rustiques</hi> ; et un livre que certains critiques ont été surpris de trouver sous la signature de l’auteur de la <hi rend="italic">Défense</hi> : les <hi rend="italic">Poëmata</hi>.</p>
+            <p>*<lb/>*  *</p>
+            <p>Dans la <hi rend="italic">Défense et Illustration de la Langue française</hi>, Joachim du Bellay s’était en effet élevé contre les poètes français qui écrivaient des vers latins au lieu d’écrire des vers français. Or il écrivit des vers latins. Cette contradiction a blessé de nombreux lecteurs. Scévole de Sainte-Marthe affirmait que Joachim du Bellay avait suivi le conseil de son oncle le cardinal. Naguère, M. Chamard jugea peu satisfaisante une pareille raison. « C’est une idée », dit-il, « qui devait venir naturellement à tout humaniste de la Renaissance foulant le sol de l’Italie ; et la société des lettrés romains, férus de poésie latine, et dont notre auteur briguait les suffrages, contribuait encore puissamment à l’engager dans cette voie. Parler latin à Rome ! mais c’était le tribut nécessaire que tout savant esprit devait à la cité romaine ! » Et le poète l’avait dit lui-même :</p>
+            <p>
+               <hi rend="italic">Hoc Latium poscit, Romanæ hæc debita linguæ</hi>
+            </p>
+            <p>
+               <hi rend="italic">Est opera, huc Genius compulit ipse loci.</hi>
+            </p>
+            <p>Oui, Joachim du Bellay fréquentait à Rome les hommes les plus doctes, tant italiens que français : Annibal Caro, Basilio Zanchi, Lorenzo Gambara, Bailleul, Bizet, Gohorry, Lestrange, Antoine Caracciol, Gordes, Panjas. Ils aimaient les vers latins. Joachim du Bellay en mesura pour leur rendre hommage et pour leur faire plaisir. Mais pourquoi chercher des excuses au poète ? Au XVI<hi rend="sup">e</hi>  siècle, on goûtait les vers latins à Paris comme à Rome. Rappelons-nous les <hi rend="italic">Deliciæ poetarum gallorum</hi>. En trois volumes de neuf cents pages de texte serré, cette anthologie contient des poésies latines de cent sept poètes, tous français, parmi lesquels je citerai les plus célèbres : Jean d’Aurat, J.-A. Baïf, Rémy Belleau, Cl. Binet, J.-J. Boissard, J. Bonnefons, Nicolas Bourbon, Th. de Bèze, Étienne Dolet, Florent Chrestien, E. Forcadel, Michel de L’Hospital, Étienne Jodelle, Salmon Macrin, M.-A. Muret, E. Pasquier, Jean Passerat, Nicolas Rapin, Scévole de Sainte-Marthe, Henri Estienne, Turnèbe, J.-A. de Thou, Pontus de Thyard, Jean Visaigier, etc… S’étonnera-t-on que Joachim du Bellay figure en bonne place au milieu d’eux ? Pourquoi veut-on qu’un poète n’ait pas, au besoin, et peut-être pour se distraire, le droit de se contredire ? Parce qu’il avait établi les propositions de 1549, le théoricien de la Pléiade était-il obligé de s’y astreindre étroitement ? Et, même s’il n’écrivit pas des vers latins afin de prouver qu’il était capable d’en écrire, comme tout le monde, Joachim du Bellay n’avait-il pas aussi le droit de violer ces règles posées par lui, puisque les règles sont faites pour les disciples et non point pour les maîtres ? Victor Hugo devait plus d’une fois être infidèle aux préceptes de la <hi rend="italic">Préface de Cromwell</hi>. Plus d’une fois, Joachim du Bellay fut infidèle aux préceptes de 1549. Il le fut d’ailleurs en connaissance de cause, et il s’en railla lui-même dans une des premières épigrammes des <hi rend="italic">Poëmata</hi>. Il disait :</p>
+            <p>La Muse française est pour moi, je l’avoue, ce qu’une épouse est pour son mari. Et c’est comme une maîtresse que je courtise la Muse latine.</p>
+            <p>— « Alors », diras-tu, « l’irrégulière passe avant l’épouse ? » C’est vrai. L’une est charmante, mais l’autre plaît davantage.</p>
+            <p>Au reste, en 1558, Joachim du Bellay avait fait ses preuves de poète français. Il pouvait publier sans crainte ses <hi rend="italic">Poëmata</hi>. Comme il publiait en même temps les <hi rend="italic">Regrets</hi>, il savait certainement qu’il passerait à la postérité comme poète français à plus juste titre que comme poète latin. Et c’est ce qui arriva.</p>
+            <p>Les <hi rend="italic">Poëmata</hi>  n’ont jamais eu tous les lecteurs qu’ils méritaient d’avoir. La faute en revient sans doute aux éditeurs. Le recueil se composait de quatre livres, <hi rend="italic">Élégies</hi>, <hi rend="italic">Épigrammes diverses</hi>, <hi rend="italic">Amours</hi>, et <hi rend="italic">Tombeaux</hi>, qui furent imprimés pour la première fois en 1558 par Fédéric Morel. Ils furent réimprimés, dans les <hi rend="italic">Deliciæ poetarum Gallorum</hi>. En 1779, dans les <hi rend="italic">Amœnitates poeticæ</hi>  de J. Barbou, on donna les <hi rend="italic">Amours</hi>  et plusieurs autres pièces. Il est assez difficile aujourd’hui de se procurer ces éditions anciennes. Pour avoir un texte courant et d’un prix abordable, il a fallu attendre la récente édition de Courbet[A] ; encore y relève-t-on quelques fautes légères. Quant à Marty-Lavaux, il n’a pas cru nécessaire de réimprimer les <hi rend="italic">Poëmata</hi>  dans sa grande édition de la Pléiade. Comment expliquer ce mépris ?</p>
+            <p>[A]  Librairie Garnier, 2 vol., 1919.</p>
+            <p>Il paraît qu’on ne lit plus le latin, depuis longtemps déjà. On ne le lit plus surtout parce qu’on ne nous y intéresse plus. Qu’on nous apporte une traduction d’un bon ouvrage que nous ne connaissons pas : nous aurons envie d’en voir l’original. Mais, dira-t-on, y a-t-il encore de bons ouvrages que nous ne connaissions pas ? Il y en a malheureusement beaucoup, beaucoup trop ! La littérature latine du Moyen-Age est considérable ; nous n’en savons pas grand’chose ; et toute la littérature française du XVI<hi rend="sup">e</hi>  siècle est doublée d’une littérature latine dont nous ne savons à peu près rien. Quel vaste champ à explorer ! Que de découvertes à faire ! Plus d’un chapitre de nos histoires littéraires y gagnerait une lumière utile. On laisse presque toujours dans l’ombre les poésies latines de nos poètes français. Les rares historiens qui les ont consultées y ont cependant trouvé des renseignements précieux. Ainsi certains détails de la vie de Joachim du Bellay ne nous sont venus que de ses <hi rend="italic">Poëmata</hi>. Néanmoins il ne suffit pas d’accorder à ces œuvres latines une valeur historique ; il faut aller plus loin, les considérer pour elles-mêmes ; elles ont une importance littéraire indiscutable. Il est temps de le répéter à ceux qui n’osent pas le croire, et de l’apprendre à ceux qui ne s’en doutent pas. C’est à leur intention que l’on publie ici une traduction des <hi rend="italic">Amours de Faustine</hi>. Elle vaut ce qu’elle vaut ; elle vaudra beaucoup, si elle incite à lire ou à relire le texte latin de Joachim du Bellay. Elle n’a pas d’autre ambition : les <hi rend="italic">Poëmata</hi>  n’avaient jamais été traduits.</p>
+            <p>II</p>
+            <p>Les <hi rend="italic">Amours</hi>, troisième partie des <hi rend="italic">Poëmata</hi>, racontent une aventure romaine de Joachim du Bellay.</p>
+            <p>Pendant les quatre premières années de son séjour à Rome, le poète avait évité toute passion. Aucune des innombrables courtisanes n’avait su l’attirer. Olivier de Magny, son compagnon d’exil, en avait célébré quelques-unes :</p>
+            <p>
+               <hi rend="italic">Le Grec soit tout ravy pour l’Isabelle aymer,</hi>
+            </p>
+            <p>
+               <hi rend="italic">Gohorry tout modeste accoure à la Faustine,</hi>
+            </p>
+            <p>
+               <hi rend="italic">Castin nouveau venu aille à la Florentine,</hi>
+            </p>
+            <p>
+               <hi rend="italic">Et Saint-Julien s’en aille à la Clere allumer.</hi>
+            </p>
+            <p>Un jour, Joachim du Bellay rencontra Faustine. Ce n’est probablement pas celle qui est nommée dans le quatrain d’Olivier de Magny. La Faustine de notre poète était mariée. Son mari avait quatre défauts qui la rendaient sympathique : tépidité, laideur, vieillesse, jalousie. Or elle était jeune ; elle avait des yeux noirs, des cheveux noirs, un front large d’une blancheur de neige, des lèvres couleur de rose, et des seins sculptés par les mains de l’Amour. Rome n’avait jamais vu et ne devait jamais voir femme plus belle, Faustine était charmante. Pour elle, on aurait pu recommencer la guerre de Troie, et l’on aurait commis des impiétés. Vieillards, adolescents, capitaines, et cardinaux, tous la trouvaient aimable. Joachim l’aima. Faustine ne fut pas cruelle. Quelle différence entre Olive et Faustine ! La jeune romaine ne pétrarquisait pas : l’aventure fut des plus simples.</p>
+            <p>A la vérité, les amours de Faustine et de Joachim du Bellay ne furent pas longtemps heureuses. C’est à peine si les amants purent se rencontrer sans gêne trois ou quatre fois. Le mari qu’on trompait sut qu’on le trompait. Or il n’était pas d’humeur à jouer les Vulcains. Pour mettre fin à son infortune, il n’imagina rien de mieux que d’enfermer Faustine dans un couvent, un soir, par surprise. Ici commence le drame d’où naquirent les poésies des <hi rend="italic">Amours</hi>. Tout le livre ne traite que de l’enlèvement de Faustine, des recherches et de l’ennui du poète, de ses souvenirs, de ses regrets, de son dépit, de ses joies mortes et de ses espoirs.</p>
+            <p>Dans le couvent, Faustine ne recevait que la visite de son mari. Sa mère n’y était pas admise. Néanmoins, le poète finit par découvrir l’endroit où Faustine était recluse. Il tenta de fléchir le portier. Le portier fut inflexible. Joachim du Bellay l’injuria, le compara à l’affreux Cerbère, pour préférer Cerbère. Il passait de longues heures nocturnes à regarder les fenêtres de la maison interdite. Il espérait qu’une fenêtre s’ouvrirait. Vainement. Il appelait. Personne ne répondait. Et il écrivait de violents distiques contre la porte obstinée. Il n’avait plus de goût pour quoi que ce fût. Le 2 mars 1557, des soldats français traversèrent Rome : ils marchaient sur Naples. Le poète ne les suivit pas. Il leur dit :</p>
+            <p>Vous, qu’arracha de la douce patrie et de vos chères campagnes le furieux amour de la guerre qui vous envoie en Italie,</p>
+            <p>Allez ! que la fortune soit avec vous ! et, puisque le destin vous appelle, allez où vous appelle aussi cette Naples, qui est française.</p>
+            <p>Quant à moi, je suis soldat de Vénus, j’abhorre Mars, et je ne conçois pas une si grande entreprise.</p>
+            <p>Je tenterai de délivrer de ses liens ma maîtresse qui est prisonnière, car elle m’est plus précieuse, et de beaucoup, que mes yeux mêmes.</p>
+            <p>Voilà le sol que je dois reconquérir d’une main vengeresse, voilà ma guerre, voilà mon courage, voilà ma Naples à moi.</p>
+            <p>Dédaignant Mars, Joachim du Bellay se souvint de Vénus. Il lui adressa selon les formes une prière émouvante. Faustine lui fut rendue. Comment ? Nous l’ignorons. Nous n’avons qu’un chant de victoire. La fin de cet amour nous échappe. Le poète n’en a fixé que le moment douloureux. Nous sommes réduits aux conjectures. Le retour de Faustine précéda-t-il de beaucoup le départ de son amant ? Y eut-il scandale, et le cardinal-oncle fut-il obligé d’éloigner son neveu ? Ou, tout simplement, Joachim du Bellay dut-il renoncer à sa maîtresse et rentrer en France pour y remettre en ordre la fortune du cardinal et tenir ses intérêts assez confus ? Mais le poète ne nous apprend rien. Faustine retrouvée, il se tait. Le tendre roman est terminé.</p>
+            <p>*<lb/>*  *</p>
+            <p>Qui était Faustine ?</p>
+            <p>D’après deux vers des <hi rend="italic">Amours</hi>, Émile Faguet a cru que Faustine se nommait <hi rend="italic">Colomba</hi>. En effet, on lit, au début d’une épigramme :</p>
+            <p>
+               <hi rend="italic">At tibi, si memini, nomen gentile Columba</hi>
+            </p>
+            <p>
+               <hi rend="italic">Conveniens formæ est ingenioque tuo.</hi>
+            </p>
+            <p>( — Mais non, j’y pense à propos, c’est le nom de Colombe — [ou Colomba] — qui sied à ta beauté et à ton caractère.)</p>
+            <p>Mais on peut douter que Faguet ait raison.</p>
+            <p>
+               <hi rend="italic">Nomen gentile</hi>  est troublant, puisqu’il signifie : nom de famille. Cependant, l’épigramme a pour titre : <hi rend="italic">Cognomen Faustinæ</hi>, le surnom de Faustine. Placé dans le titre, le mot <hi rend="italic">cognomen</hi>  a certainement son sens ordinaire. S’agit-il donc d’un surnom ? — C’est probable. — Les poètes du XVI<hi rend="sup">e</hi>  siècle avaient coutume de mêler à leurs amours des colombes, des tourterelles et des pigeons. <hi rend="italic">Mea Colomba</hi>, ou <hi rend="italic">ma Colombe</hi>, revient dans leurs vers, latins ou français, aussi fréquemment que revient <hi rend="italic">ma gazelle</hi>  dans les chansons arabes. Pourquoi Joachim du Bellay ne donnerait-il pas à Faustine le surnom de Colombe ?</p>
+            <p>D’autre part, dans une épigramme qui s’achève à l’instant où va commencer la pièce que nous considérons, il dit à Faustine qu’on aurait dû l’appeler <hi rend="italic">Pandora</hi>, parce qu’elle répand à profusion le bien et le mal. Huit vers roulent sur ce nom de <hi rend="italic">Pandora</hi>. Puis le poète s’écrie tout de suite :</p>
+            <p>— Mais non, j’y pense à propos, c’est le nom de Colombe qui sied… etc.</p>
+            <p>Et il développe cette idée nouvelle en quatorze vers, pour en mieux démontrer la justesse.</p>
+            <p>Reste à expliquer le <hi rend="italic">nomen gentile</hi>  (nom de famille) qui semble avoir trompé Faguet. Mais, d’abord, dans l’épigramme précédente, <hi rend="italic">Pandora</hi>  est aussi présenté comme le <hi rend="italic">nomen</hi>  qu’il aurait fallu donner à Faustine. Dans notre épigramme, on peut tolérer le même <hi rend="italic">nomen</hi>, suivi d’un <hi rend="italic">gentile</hi>  qui n’est peut-être pas d’une latinité excellente ici ; n’oublions pas cependant que le poète est français, et qu’il y a quelques gallicismes dans ses poésies latines. Ensuite, on peut noter que souvent un <hi rend="italic">decet</hi>  et un <hi rend="italic">decebat</hi>  se rendent par <hi rend="italic">il faudrait</hi>  et <hi rend="italic">il aurait fallu</hi>, l’indicatif prenant force de conditionnel. Ainsi, en admettant même que <hi rend="italic">gentile</hi>  ne fût pas de remplissage, le distique étudié devrait s’entendre :</p>
+            <p>— Mais non, j’y pense à propos : comme nom de famille, c’est Colomba (Colombe) qui te conviendrait… etc.</p>
+            <p>Enfin, cette discussion de détail est accessoire. Un motif d’ordre psychologique nous empêche de lire <hi rend="italic">Colomba</hi>. Joachim du Bellay aurait-il écrit le véritable nom de sa maîtresse ? L’usage et la plus élémentaire discrétion le lui défendaient. Mais c’est à nous surtout qu’il est défendu de croire Joachim du Bellay capable d’une telle incongruité.</p>
+            <p>Il est donc prudent, jusqu’à nouvel ordre, d’avouer qu’on ignore le nom de Faustine. Et nul n’osera-t-il enfin prétendre et mettre à la mode que ce genre de recherches, parfaitement vaines, à travers les secrets de la vie privée, même quand il s’agit de grands hommes et morts depuis longtemps, est d’une indécence parfaite ?</p>
+            <p>III</p>
+            <p>Qu’on ouvre maintenant ce petit recueil de vers d’amour. Ils emporteront sans peine l’amitié du lecteur. Ils n’ont pas besoin d’être plus longuement commentés. Les critiques qui ont daigné les parcourir en ont déjà loué comme il faut le mérite, la souplesse harmonieuse, et l’habileté syntaxique. Certes, en plus d’un endroit, on relève des tournures françaises, et les vers n’ont pas toujours cette maîtrise et cet air latin qu’ont ceux de M. A. Muret par exemple. Du moins, ils sont constamment d’une limpidité remarquable. Cela, les contemporains de Joachim du Bellay l’avaient déjà senti eux-mêmes. Scévole de Sainte-Marthe, dans son Éloge de Joachim du Bellay, rapporte ainsi leur opinion : « <hi rend="italic">ut vix nullum in carmine gallico parem habet, sic paucissimos in latino superiores</hi>. » (S’il n’y a presque personne qui soit son égal en poésie française, il y en a fort peu qui soient plus grands que lui en poésie latine.)</p>
+            <p>Le livre des <hi rend="italic">Amours</hi>  est d’une grande fraîcheur. Les détails savoureux y abondent. Le poète ici n’invente rien, ou du moins il invente fort peu, car l’affirmation ne doit pas être trop franche. Ne nous dissimulons pas en effet, qu’en écrivant ce petit roman, Joachim du Bellay se souvint plus d’une fois de Properce et d’Ovide, d’Ovide surtout dont je ne rappellerai ici que ce début d’élégie (<hi rend="italic">Amores</hi>, II, 12) :</p>
+            <p>Ite triumphales circum mea tempora lauri :</p>
+            <p>Vicimus ! In nostro est ecce Corinna sinu,</p>
+            <p>Quam vir, quam custos, quam janua firma, tot hostes,</p>
+            <p>Servabant, ne qua posset ab arte capi.</p>
+            <p>Cependant, Joachim du Bellay sut parfaitement adapter à son aventure personnelle les souvenirs classiques si séduisants. Œuvre littéraire, même au sens péjoratif du mot, les <hi rend="italic">Amours de Faustine</hi>  ont un parfum de confidence qui ne trompe point. Quelle douceur ! Ici le poète ne se contraint pas. Comme dans les <hi rend="italic">Regrets</hi>, il raconte ce que la passion seulement lui fait dire. Pour bien discourir d’amour, déclare un personnage de Corneille,</p>
+            <p>
+               <hi rend="italic">… il faut l’avoir bien fait :</hi>
+            </p>
+            <p>
+               <hi rend="italic">Un bon poëte ne vient que d’un amant parfait.</hi>
+            </p>
+            <p>Telle est la vertu des <hi rend="italic">Amours de Faustine</hi>. Joachim du Bellay s’est montré dans ces vers au naturel : ardent, voluptueux, élégiaque, dépité, et souvent ironique, même à ses dépens. Mise de côté la part des allusions mythologiques et des inévitables réminiscences littéraires, qui étaient de mode, les <hi rend="italic">Amours de Faustine</hi>  nous offrent ce charme simple de vie quotidienne qui nous plaît dans les <hi rend="italic">Amours de Marie</hi>  que chanta Ronsard.</p>
+            <p>Le goût de la simplicité, Joachim du Bellay le prit à Rome. Le poète revint d’Italie avec un génie nouveau. D’autres ont su l’imiter. De son temps, on apprécia la leçon qu’il avait tirée de son voyage. Dans un poème qui saluait le retour du « cher vagabond », au dernier distique Jean d’Aurat s’écriait :</p>
+            <p>
+               <hi rend="italic">Nunc quoque Bellaii discentes carmina Galli</hi>
+            </p>
+            <p>
+               <hi rend="italic">Hunc aliquid dicent addidicisse novi.</hi>
+            </p>
+            <p>(<hi rend="italic">Et maintenant, que les Français apprennent les vers de du Bellay ! Ils verront qu’il y a ajouté quelque chose qu’on ne lui connaissait pas.</hi>)</p>
+            <p>Thierry Sandre.</p>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>Les amours de Faustine</head>
+            <pb/>
+            <div type="div2">
+               <head>LES AMOURS DE FAUSTINE</head>
+               <p rend="justify">TEXTE ET TRADUCTION</p>
+               <div type="div3">
+                  <head>
+                     <label>I</label>
+                     <lb/>AD LECTOREM</head>
+                  <lg>
+                     <l>Cùm tot natorum casto sociata cubili</l>
+                     <l>Musa sit ex nobis Gallica facta parens,</l>
+                     <l>Miraris Latiam sic nos ardere puellam,</l>
+                     <l>Et veteris, Lector, rumpere jura tori.</l>
+                     <l>Gallica Musa mihi est, fateor, quod nupta marito :</l>
+                     <l>Pro Domina colitur Musa Latina mihi.</l>
+                     <l>Sic igitur (dices) præfertur adultera nuptæ ?</l>
+                     <l>Illa quidem bella est, sed magis ista placet.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>I</label>
+                     <lb/>AU LECTEUR[1]</head>
+                  <p rend="justify">Compagne de ma couche conjugale et mère de mes œuvres, la Muse française m’a donné bien des enfants,</p>
+                  <p rend="justify">et tu t’étonnes que je brûle ainsi pour une jeune Romaine, ô Lecteur, et que je viole les droits d’un ancien lit.</p>
+                  <p rend="justify">La Muse française est pour moi, je l’avoue, ce qu’une épouse est pour son mari. Et c’est comme une maîtresse que je courtise la Muse latine.</p>
+                  <p rend="justify">— « Alors, diras-tu, l’irrégulière passe avant l’épouse ? C’est vrai, l’une est charmante, mais l’autre plaît davantage.</p>
+                  <p rend="justify">[1] Voir les Notes, à la fin du volume.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>II</label>
+                     <lb/>AD GORDIUM</head>
+                  <lg>
+                     <l>Cui donem potius novum libellum,</l>
+                     <l>Quo raptum refero meæ puellæ,</l>
+                     <l>Gordi, quàm tibi, qui meam puellam</l>
+                     <l>Sic amas, propriam ut putes sororem ?</l>
+                     <l>Quare quicquid id est novi libelli,</l>
+                     <l>Gordi, quod tibi nunc damus legendum,</l>
+                     <l>Sic velim accipias, scias ut illam</l>
+                     <l>A me plus oculis meis amatam,</l>
+                     <l>Et te plus oculis meis amatum.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>II</label>
+                     <lb/>A GORDES[2]<lb/>(DEDICACE)</head>
+                  <p rend="justify">A qui donnerais-je ce petit recueil nouveau</p>
+                  <p rend="justify">où je raconte l’enlèvement de ma maîtresse,</p>
+                  <p rend="justify">sinon à toi, Gordes, qui aimes ma maîtresse</p>
+                  <p rend="justify">comme si tu la tenais pour ta sœur ?</p>
+                  <p rend="justify">Donc, tout ce qu’il y a dans ce petit recueil nouveau,</p>
+                  <p rend="justify">Gordes, que je te donne à lire aujourd’hui,</p>
+                  <p rend="justify">je voudrais que tu l’acceptasses en sachant bien</p>
+                  <p rend="justify">que j’aime Faustine plus que mes yeux</p>
+                  <p rend="justify">et que toi aussi je t’aime plus que mes yeux.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>III</label>
+                     <lb/>AD VENEREM</head>
+                  <lg>
+                     <l>Bella per Aemathios non hîc civilia campos,</l>
+                     <l>Fraternas acies, arma virumque cano.</l>
+                     <l>Nec quoque fert animus mutatas dicere formas,</l>
+                     <l>Raptoris stygii nec memorantur equi.</l>
+                     <l>Aeneadum genitrix causa est mihi carminis una :</l>
+                     <l>Materiam vati da Venus alma tuo.</l>
+                     <l>Tu quoque Faustinam nobis, formosa, dedisti :</l>
+                     <l>Qua nihil est tota pulchrius Ausonia.</l>
+                     <l>Hac mihi sublata, periit mihi pristinus ardor,</l>
+                     <l>Et quicquid mentis, vel fuit ingenii.</l>
+                     <l>Redde ergo ingenium, solitasque in carmina vires ;</l>
+                     <l>Faustinam potius sed mihi redde, precor.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>III</label>
+                     <lb/>A VÉNUS</head>
+                  <p rend="justify">Les guerres civiles qu’on vit aux champs de Macédoine[3], des luttes de frères, des faits d’armes et un héros[4], je ne chante pas cela ici.</p>
+                  <p rend="justify">Je n’ai pas l’intention non plus de conter des métamorphoses[5], ni de célébrer les chevaux stygiens d’un Ravisseur[6].</p>
+                  <p rend="justify">L’aïeule des Énéides, voilà l’unique objet de mon œuvre. Oui, Vénus bienfaisante, donne un thème à ton poète !</p>
+                  <p rend="justify">C’est toi aussi, charmante, qui m’avais donné Faustine, et il n’y a rien de plus beau dans toute l’Italie.</p>
+                  <p rend="justify">Or, on me l’a enlevée, et du coup l’enthousiasme de jadis est mort en moi, et ce que j’avais d’intelligence et de génie.</p>
+                  <p rend="justify">Rends-moi donc mon génie et mes forces habituelles pour chanter. Mais plutôt, rends-moi Faustine, telle est ma prière.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>IV</label>
+                     <lb/>RAPTUS FAUSTINÆ</head>
+                  <lg>
+                     <l>Qualis tartareo quondam Proserpina curru,</l>
+                     <l>Dum vaga discurrit saltibus (Enna) tuis,</l>
+                     <l>Nocturnis nuper rapta est Faustina quadrigis,</l>
+                     <l>Dum tenet, ah demens, limina aperta domus.</l>
+                     <l>Rapta est, me miserum, et cæco sub carcere clausa</l>
+                     <l>Conjugis ingrato nunc gemit in thalamo.</l>
+                     <l>Et nunc ille ferus tanquam de virgine rapta</l>
+                     <l>Exultat, nostris heu fruiturque malis.</l>
+                     <l>Interea infœlix mater lymphata per urbem</l>
+                     <l>Currit, et ignotas excubat ante fores,</l>
+                     <l>Te solam (Faustina) vocans, tua limina quaerens,</l>
+                     <l>Quæsisse ut natam dicitur alma Ceres.</l>
+                     <l>Ast ego, quem assiduo torret malus igne Cupido,</l>
+                     <l>Deferor, ut noto concita Baccha Deo.</l>
+                     <l>Nec dubitem œratos liceat si rumpere postes,</l>
+                     <l>Duraque nocturna solvere claustra manu,</l>
+                     <l>Irruere armatus : vel si hoc mala nostra ferat sors,</l>
+                     <l>Perferre audacis vincula Pirithoi.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>IV</label>
+                     <lb/>L’ENLÈVEMENT DE FAUSTINE</head>
+                  <p rend="justify">Telle qu’autrefois Proserpine sur un char infernal, pendant qu’à l’aventure elle errait, ô Enna[7], par tes ravins boisés,</p>
+                  <p rend="justify">ainsi, de nuit, tout récemment, on a enlevé Faustine en voiture, pendant qu’elle laissait ouverte — ah ! folie ! — la porte de sa maison.</p>
+                  <p rend="justify">On l’a enlevée, malheureux que je suis ! Dans un cachot impénétrable on l’a enfermée, et maintenant elle gémit dans le lit odieux d’un époux.</p>
+                  <p rend="justify">Et maintenant, lui, ce rustre, comme s’il avait enlevé une vierge il triomphe, hélas, et il se réjouit de ma peine,</p>
+                  <p rend="justify">tandis qu’une pauvre mère affolée court par la ville et passe la nuit devant des portes inconnues</p>
+                  <p rend="justify">en n’appelant que toi, Faustine, en cherchant ta retraite, comme chercha sa fille, à ce qu’on dit, la bienfaisante Cérès.</p>
+                  <p rend="justify">Quant à moi, que le cruel Désir brûle d’un feu constant, je suis hors de moi, comme une bacchante qu’excite son dieu familier.</p>
+                  <p rend="justify">Et je n’hésiterais pas, non ! Dût-on même briser des portes de bronze et faire sauter à coups de poing, dans la nuit, de solides verrous,</p>
+                  <p rend="justify">j’entrerais chez toi avec des armes. Ou bien, s’il fallait qu’à ce point la Fortune poussât ma peine, je subirais jusqu’au bout les chaînes de l’audacieux Pirithoüs[8].</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>V</label>
+                     <lb/>FAUSTINAM PRIMAM FUISSE QUAM ROMÆ ADAMAVERIT</head>
+                  <p rend="justify">Ipse tuas nuper temnebam, Roma, puellas :</p>
+                  <p rend="justify">Nullaque erat tanto de grege bella mihi.</p>
+                  <p rend="justify">Et jam quarta Ceres capiti nova serta parabat,</p>
+                  <p rend="justify">Nec dederam sævo colla superba jugo.</p>
+                  <p rend="justify">Risit cæcus Amor. Tu verro hanc, inquit, amato.</p>
+                  <p rend="justify">Faustinam nobis indicat ille simul.</p>
+                  <lg>
+                     <l>Indicat, et volucrem nervo stridente sagittam</l>
+                     <l>Infixit nobis corda sub ima puer.</l>
+                     <l>Nec satis hoc ; tradit formosam in vincla puellam,</l>
+                     <l>Et sacræ cogit claustra subire domus.</l>
+                     <l>Haud prius illa tamen nobis erepta fuit, quam</l>
+                     <l>Venit in amplexus terque quaterque meos.</l>
+                     <l>Scilicet hoc Cypris nos acrius urit, et ipse</l>
+                     <l>Altius in nostro pectore regnat Amor.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>V</label>
+                     <lb/>QUE FAUSTINE EST LA PREMIÈRE FEMME DONT IL SE SOIT ÉPRIS A ROME</head>
+                  <p rend="justify">C’est bien moi, Rome, naguère, qui dédaignais tes jeunes femmes. Nulle dans une société si nombreuse n’était jolie à mes yeux.</p>
+                  <p rend="justify">Déjà, pour la quatrième fois, Cérès se préparait des couronnes de fleurs nouvelles, et je n’avais pas encore donné ma nuque insolente à l’impitoyable joug.</p>
+                  <p rend="justify">L’Amour, qu’on ne voit pas, se mit à rire. « Or çà ! dit-il, voici une femme : aime-la. » En même temps, il me montre Faustine.</p>
+                  <p rend="justify">Il me la montre. La corde de l’arc retentit, et l’Enfant me planta un trait rapide en plein cœur.</p>
+                  <p rend="justify">Ce n’était pas assez. Voici qu’il livre aux chaînes la belle fille, et il la soumet de force aux verrous d’un couvent.</p>
+                  <p rend="justify">Néanmoins, elle ne me fut pas si tôt enlevée qu’elle ne fût d’abord venue dans mes bras jusqu’à trois et quatre fois.</p>
+                  <p rend="justify">On comprend donc que Cypris plus âprement me brûle et que plus profondément ancré dans ma poitrine règne l’Amour.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>VI</label>
+                     <lb/>AD JANUAM FAUSTINÆ</head>
+                  <p rend="justify">Hæc domus hæc illa est, nostros quæ claudit amores.</p>
+                  <p rend="justify">Ah nimis atque nimis janua dura mihi.</p>
+                  <lg>
+                     <l>Tu veneres ingrata meas, lususque, jocosque,</l>
+                     <l>Tu cohibes vinclis gaudia nostra tuis.</l>
+                     <l>At nunc ille senex forsan rosea illa labella</l>
+                     <l>Sugit, et amplexu mollia membra premit.</l>
+                     <l>Interea vagus, atque excors, sine mente animoque,</l>
+                     <l>Limina nocturnis nota tero pedibus.</l>
+                     <l>Et circunspicio Lycæo lumine, si qua</l>
+                     <l>Rimula sit nostris forte patens oculis.</l>
+                     <l>Nulla patet, vel si qua patet, sunt omnia muta,</l>
+                     <l>Vocibus ac nostris pervia nulla via est.</l>
+                     <l>Hei mihi, quod Dominæ nulla ratione potis sum,</l>
+                     <l>Me dulce in gremium mittere per tegulas.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>VI</label>
+                     <lb/>A LA PORTE DE FAUSTINE</head>
+                  <p rend="justify">La voici, la voici, cette affreuse maison qui enferme mes amours. Ah ! trop et trop cruelle porte !</p>
+                  <p rend="justify">C’est toi, insensible à mes plaisirs et à mes jeux et à mes amusements, c’est toi qui par tes chaînes m’empêches d’être heureux.</p>
+                  <p rend="justify">Quant à l’affreux vieillard, maintenant peut-être, ô délicates lèvres de rose, il vous suce, et dans ses bras, ô tendre corps, il te presse.</p>
+                  <p rend="justify">Et moi cependant, errant, hagard, sans âme et sans volonté, devant la porte que je connais j’use le sol, pendant la nuit, à force d’y passer.</p>
+                  <p rend="justify">Je cherche autour de moi, avec des yeux de Lyncée, si quelque fente ne va point par fortune s’ouvrir à mon regard.</p>
+                  <p rend="justify">Mais aucune ne s’ouvre ; ou, si quelqu’une s’ouvre, tout est silencieux : j’ai beau appeler, je ne vois point de passage où passer.</p>
+                  <p rend="justify">Malheur de moi ! puisque je ne trouve aucun moyen d’arriver jusqu’au sein chéri de ma maîtresse, même par la toiture.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>VII</label>
+                     <lb/>SE PERPETUO FAUSTINÆ MEMOREM FUTURUM</head>
+                  <p rend="justify">Quod scelus admisi infœlix ? quæ numina læsi,</p>
+                  <p rend="justify">Ut mihi sic, mea lux, eripienda fores ?</p>
+                  <p rend="justify">Nam cui tam subito tot gaudia sunt prærepta,</p>
+                  <p rend="justify">Iratos omnes huic decet esse Deos.</p>
+                  <p rend="justify">Ergo ego te posthac nunquam, mea vita, videbo ?</p>
+                  <p rend="justify">Audiero absentis nec tua verba miser ?</p>
+                  <lg>
+                     <l>At certè infixi nostro sub pectore vultus,</l>
+                     <l>Fixaque perpetuo verba loquentis erunt.</l>
+                     <l>Hoc mihi non Superi abstulerint, non Juppiter ipse,</l>
+                     <l>Non, si me toto fulmine dejiciat.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>VII</label>
+                     <lb/>QU’IL SE SOUVIENDRA TOUJOURS DE FAUSTINE</head>
+                  <p rend="justify">Quel crime ai-je commis, infortuné ? Quelles puissances ai-je offensées, pour que de cette façon, ô toute ma lumière, tu me sois ravie ?</p>
+                  <p rend="justify">Quand si brusquement tant de joies vous sont arrachées, il faut bien qu’on ait contre soi la colère de tous les dieux.</p>
+                  <p rend="justify">Ainsi donc, moi, toi, c’en est fait ? Jamais, ô ma vie, je ne te verrai ? Et je n’entendrai pas les mots que tu dis loin de moi, malheureux que je suis !</p>
+                  <p rend="justify">Du moins, sois-en sûre, je garderai gravés dans mon cœur les traits de ton visage, et gravés pour toujours les mots que tu m’as dits de près.</p>
+                  <p rend="justify">Cela, les dieux ne pourraient pas me l’enlever, ni Jupiter non plus, non ! même s’il m’écrasait de tout son tonnerre.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>VIII</label>
+                     <lb/>DE VULCANO ET MARITO FAUSTINÆ</head>
+                  <lg>
+                     <l>Ut Martem et Venerem vinclis excepit, et astu</l>
+                     <l>Mulciber, et cœlo fabula nota fuit,</l>
+                     <l>Sic tu ex insidiis Faustinam surripuisti,</l>
+                     <l>Scilicet ut tota notus in urbe fores.</l>
+                     <l>At cur non astu simili, similique catena</l>
+                     <l>Me, me etiam vinctum maxima Roma videt ?</l>
+                     <l>Sic te ulcisci ambos, conjux generose, decebat :</l>
+                     <l>Hoc demum poteras Mulciber esse modo.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>VIII</label>
+                     <lb/>VULCAIN ET LE MARI DE FAUSTINE</head>
+                  <p rend="justify">Si Mars et Vénus furent pris au piège par les liens et le stratagème de Vulcain, et si l’histoire devint la risée du ciel,</p>
+                  <p rend="justify">de même, toi, par trahison tu as enlevé Faustine, et naturellement on rit de toi dans toute la ville.</p>
+                  <p rend="justify">Mais pourquoi, par un stratagème semblable et un semblable filet, moi, moi aussi, ne suis-je pas enchaîné sous les yeux de l’immense Rome ?</p>
+                  <p rend="justify">C’est ainsi que tu aurais dû te venger de nous deux, ô époux magnanime. Ce n’est que de cette façon que tu pouvais être un vrai Vulcain.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>IX</label>
+                     <lb/>CUR SIT IRATUS MARITO FAUSTINÆ</head>
+                  <lg>
+                     <l>Non te ideo (ne forte aliquis nos dicat ineptos)</l>
+                     <l>Damnamus nostris, impie, versiculis,</l>
+                     <l>Quod tu Faustinam nuper de nocte silenti</l>
+                     <l>Materno sævus traxeris e gremio,</l>
+                     <l>Quodque illi miseræ, et duro sub carcere clausæ,</l>
+                     <l>Omnia crudelis gaudia sustuleris.</l>
+                     <l>Novimus et leges, et quæ sint jura mariti,</l>
+                     <l>Nec venit ex vero nostra querela toro.</l>
+                     <l>Sed quod frigidulus conjux, turpisque, senexque</l>
+                  </lg>
+                  <p rend="justify">(Ne quicquam de te durius ipse loquar)</p>
+                  <lg>
+                     <l>Tam bellam et lepidam, tali nec conjuge dignam,</l>
+                     <l>Externi cogas jura subire tori :</l>
+                     <l>Hoc inquam est sævum quod te facit, improbe, quodque</l>
+                     <l>Damnamus nostris, impie, versiculis.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>IX</label>
+                     <lb/>POURQUOI IL EN VEUT AU MARI DE FAUSTINE</head>
+                  <p rend="justify">Non, (car il ne faut pas qu’on dise que je suis absurde), si je te condamne, scélérat, dans mes petits vers,</p>
+                  <p rend="justify">ce n’est point parce que, récemment, par une nuit de silence, tu as, inhumain, arraché Faustine des bras de sa mère,</p>
+                  <p rend="justify">et parce qu’à cette malheureuse, enfermée en un rude cachot, tu as, cruel, supprimé tous les plaisirs.</p>
+                  <p rend="justify">Je connais aussi les lois, et quels sont les privilèges du mari, et ce n’est point parce que les droits du lit t’appartiennent que je te cherche querelle.</p>
+                  <p rend="justify">Mais c’est, époux un peu trop froid, et laid, et vieux, (car il ne faut pas que je parle de toi en termes trop rudes),</p>
+                  <p rend="justify">c’est parce qu’ayant une femme si charmante et aimable, et qui mérite mieux qu’un tel époux, tu la forces à se soumettre aux privilèges du lit d’un autre.</p>
+                  <p rend="justify">Voilà, dis-je, ce qui te fait inhumain, ô fourbe, et voilà pourquoi je te condamne, scélérat, dans mes petits vers.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>X</label>
+                     <lb/>CUM FAUSTINA INCLUSAM ESSE VENEREM ET AMOREM</head>
+                  <p rend="justify">Claustra tenent nostram (sic Dii voluere) puellam.</p>
+                  <p rend="justify">Fœlix quem clausum ferrea claustra tenent.</p>
+                  <lg>
+                     <l>Illic sunt Charites, lususque, jocique, leporesque,</l>
+                     <l>Et quicquid sedes incolit Idalias.</l>
+                     <l>Casta Venus sancto corpus jam velet amictu,</l>
+                     <l>Sacraque jam discat relligiosus Amor.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>X</label>
+                     <lb/>QU’AVEC FAUSTINE SONT EMPRISONNÉS VÉNUS ET L’AMOUR</head>
+                  <p rend="justify">Des verrous gardent ma maîtresse, telle est la volonté des dieux : heureux celui que ces verrous de fer gardent verrouillé !</p>
+                  <p rend="justify">Là sont les Grâces, et les Plaisirs, et les Amusements, et les Délices, et tout ce qui réside aux palais d’Idalie.</p>
+                  <p rend="justify">Chaste, que Vénus aujourd’hui se couvre le corps d’un voile sacré ! et qu’il s’initie aux choses saintes, aujourd’hui, religieusement, l’Amour !</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XI</label>
+                     <lb/>OPTAT SE INCLUSUM CUM FAUSTINA.</head>
+                  <lg>
+                     <l>O mihi si liceat furtivos jungere amores,</l>
+                     <l>Hic ubi, me miserum, clausa puella mea est,</l>
+                     <l>Mentirique novam mutata veste figuram,</l>
+                     <l>Juppiter ut quondam casta Diana fuit :</l>
+                     <l>Quam bene, virgineo tectus velamine corpus,</l>
+                     <l>Perferrem sancti jura severa loci !</l>
+                     <l>Nulla Deis melius faceret solennia sacra,</l>
+                     <l>Alternas melius conciperetve preces.</l>
+                     <l>Rursus cum tacita peteretur nocte cubile</l>
+                     <l>Et foret optati reddita forma viri,</l>
+                     <l>Haud quisquam melior validam exercere juventam,</l>
+                     <l>Nocturnisque sacris conciliare Deos.</l>
+                     <l>Sic gratis vicibus Vestæ Venerisque sacerdos,</l>
+                     <l>Nocte parum castus, luce pudica forem.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XI</label>
+                     <lb/>QU’IL VOUDRAIT BIEN ÊTRE EMPRISONNÉ AVEC FAUSTINE</head>
+                  <p rend="justify">S’il m’était permis de réaliser en secret mes amours, là où pour mon malheur ma maîtresse est emprisonnée,</p>
+                  <p rend="justify">et d’emprunter un nouveau visage en changeant de costume, tel Jupiter qui fut jadis la chaste Diane[9],</p>
+                  <p rend="justify">ah ! caché sous un vêtement de vierge, comme je supporterais bien la rigoureuse discipline du couvent !</p>
+                  <p rend="justify">Nulle mieux que moi ne ferait aux dieux ses dévotions, ou mieux que moi ne réciterait les prières que l’on reprend à tour de rôle.</p>
+                  <p rend="justify">En revanche, dans la nuit et le silence, lorsqu’il faudrait aller au lit, et que me serait rendue la forme d’un amant qu’on désire,</p>
+                  <p rend="justify">nul ne serait meilleur pour mettre à l’épreuve la vigueur de sa jeunesse, et, dans les cérémonies nocturnes, gagner la faveur des dieux.</p>
+                  <p rend="justify">Ainsi, par d’agréables métamorphoses ministre tour à tour de Vénus et de Vesta, fort peu chaste (au masculin) la nuit, je deviendrais pudique (au féminin) avec le jour.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XII</label>
+                     <lb/>CUR VESTALIBUS INNATI SINT VELUT QUIDAM AMORIS IGNICULI</head>
+                  <lg>
+                     <l>Æternum extingui Vestæ in penetralibus ignem</l>
+                     <l>Romulidum quondam relligio vetuit.</l>
+                     <l>Virginibus sacris nostros hinc mansit in annos,</l>
+                     <l>Pectora ut æternis ignibus urat Amor.</l>
+                     <l>Dii faxint, mea vita, tuos hic crescat in ignes</l>
+                     <l>Ignis, et ut nostri sis memor usque, precor.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XII</label>
+                     <lb/>POURQUOI LES VESTALES ONT NATURELLEMENT DE CERTAINS PETITS FEUX D’AMOUR</head>
+                  <p rend="justify">Le feu perpétuel du sanctuaire de Vesta ne devait jamais s’éteindre : ainsi l’ordonnait jadis la religion de Rome.</p>
+                  <p rend="justify">Il nous en est resté, pour les vierges sacrées, jusqu’à notre époque, ces feux perpétuels dont l’Amour leur brûle la poitrine.</p>
+                  <p rend="justify">Fassent les dieux, ô ma vie, que ton feu grandisse dans le sens de ces feux, et qu’il te souvienne du mien toujours : c’est ma prière.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XIII</label>
+                     <lb/>IN DURUM JANITOREM</head>
+                  <lg>
+                     <l>Ferrea jam nostras admittunt claustra querelas,</l>
+                     <l>E nostris lacrymis duraque saxa gemunt.</l>
+                     <l>At tu crudelis nimium, sævusque sacerdos</l>
+                     <l>Durior et ferro, durior et scopulis,</l>
+                     <l>Nec fletu assiduo, precibus nec flecteris ullis,</l>
+                     <l>Quas frustra ingratas spargimus ante fores.</l>
+                     <l>Sed torvum aspiciens rabida nos voce repellis,</l>
+                     <l>Et procul a sacris sedibus esse jubes.</l>
+                     <l>Te tamen Ismarii demulsum carmine vatis,</l>
+                     <l>Dum canit infernas flebilis ante domos,</l>
+                     <l>Auribus arrectis, et mota (Cerbere) cauda,</l>
+                     <l>Tergeminas fauces continuisse ferunt.</l>
+                     <l>Tum primum memorant Manes, sævasque Sorores,</l>
+                     <l>Et Ditem lacrymis ingemuisse piis.</l>
+                     <l>Nempe illum cœci penetrarat cuspide teli,</l>
+                     <l>Qui nostra immitis pectora læsit amor.</l>
+                     <l>Tu vero, immanis cedit cui janitor Orci,</l>
+                     <l>Cui cedunt tortis anguibus Eumenides,</l>
+                     <l>Fluctibus Ioniis et littore surdior omni</l>
+                     <l>Aversus nostras despicis usque preces.</l>
+                     <l>Scilicet humanos rides, sævissime, luctus :</l>
+                     <l>Et speras precibus posse movere Deos ?</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XIII</label>
+                     <lb/>CONTRE UN PORTIER INSENSIBLE</head>
+                  <p rend="justify">Tout de fer qu’ils soient, les verrous accueillent mes plaintes, et mes larmes font soupirer les pierres insensibles.</p>
+                  <p rend="justify">Mais toi, trop cruel et impitoyable prêtre, plus insensible que le fer et plus insensible que les roches,</p>
+                  <p rend="justify">tu ne te laisses fléchir ni par la constance de mes pleurs ni par mes prières, et c’est en vain que j’en répands devant ta porte rigoureuse.</p>
+                  <p rend="justify">Bien plus, tu me regardes de travers, tu me repousses avec rage, et tu m’ordonnes de rester loin de ton couvent.</p>
+                  <p rend="justify">Toi, du moins, ô Cerbère, tu fus pris par les vers du poète Orphée, lorsqu’en chantant il s’éplorait devant le palais des Enfers ;</p>
+                  <p rend="justify">les oreilles dressées, la queue en mouvement, tu fis taire ta triple gueule, dit la légende ;</p>
+                  <p rend="justify">et, on le raconte encore, les Mânes, les impitoyables Sœurs et Pluton se mirent à soupirer en versant des larmes pieuses.</p>
+                  <p rend="justify">Or l’Amour l’avait frappé d’un trait pointu qu’on ne voit pas venir, et c’est le même Amour qui m’a férocement blessé au cœur.</p>
+                  <p rend="justify">Mais toi, prêtre, tu l’emportes sur le monstrueux portier des morts, tu l’emportes sur les Euménides aux serpents tortueux,</p>
+                  <p rend="justify">tu es plus sourd que les flots de la mer Ionienne et que chacun de ses rivages, et tu te détournes, et tu dédaignes toujours mes prières.</p>
+                  <p rend="justify">Sans doute tu te ris des douleurs humaines, ô très impitoyable. Et tu as l’espoir que tes prières puissent émouvoir les dieux ?</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XIV</label>
+                     <lb/>CUM FAUSTINA OMNIA SIBI ESSE EREPTA</head>
+                  <lg>
+                     <l>Tu Veneri veneres, cœco tu spicula Amori,</l>
+                     <l>Mercurio linguæ munera surpueras.</l>
+                     <l>At qui te, mea lux, mea spes, mea vita, meum cor,</l>
+                     <l>Invidus ah nostris abstulit ex oculis,</l>
+                     <l>Ille oculos, sensusque omnes, mentemque, animumque,</l>
+                     <l>Atque adeo totum me mihi surripuit.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XIV</label>
+                     <lb/>QU’AVEC FAUSTINE ON LUI A TOUT ENLEVÉ</head>
+                  <p rend="justify">Faustine, à Vénus tu avais dérobé ses vénustés, ses traits à l’Amour qui est aveugle, à Mercure les trésors du langage.</p>
+                  <p rend="justify">Mais en revanche, ô ma lumière, mon espoir, ma vie et mon cœur, le jaloux qui t’a enlevée à mes yeux, ah !</p>
+                  <p rend="justify">celui-là m’a pris mes yeux, et tous mes sens, et mon intelligence, et ma volonté, et tant et tant qu’il m’a tout entier dérobé à moi-même.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XV</label>
+                     <lb/>PANDORÆ NOMEN APTIUS FUISSE FAUSTINÆ</head>
+                  <lg>
+                     <l>Qui tibi Faustinæ, mea lux, nomen dedit, is te</l>
+                     <l>Dixisset Pandora aptius et melius.</l>
+                     <l>Munera namque Deos in te omnia congessisse</l>
+                     <l>Ostendunt dotes corporis atque animi.</l>
+                     <l>Et tu etiam ex oculis, tanquam de pixide aperta,</l>
+                     <l>Omnia depromis seu bona, sive mala.</l>
+                     <l>At mihi te erepta, mi qua sine vivere durum est,</l>
+                     <l>Spes, o me miserum, nulla mihi remanet.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XV</label>
+                     <lb/>QUE LE NOM DE PANDORA EUT MIEUX CONVENU A FAUSTINE</head>
+                  <p rend="justify">Celui qui t’a donné le nom de Faustine, ô ma lumière, aurait dû t’appeler Pandora : cela te convenait davantage, et mieux.</p>
+                  <p rend="justify">En effet, tous les dons, les dieux les ont réunis en toi : on le voit bien aux beautés de ton corps et de ton esprit.</p>
+                  <p rend="justify">Et toi aussi, de tes yeux, ainsi que d’une boîte ouverte, tu peux tirer tout, le bien comme le mal.</p>
+                  <p rend="justify">Mais puisque tu m’es enlevée, car sans toi l’existence m’est une peine, ah ! malheureux ! nul espoir ne me reste.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XVI</label>
+                     <lb/>COGNOMEN FAUSTINÆ</head>
+                  <lg>
+                     <l>At tibi, si memini, nomen gentile Columba</l>
+                     <l>Conveniens formæ est, ingenioque tuo.</l>
+                     <l>Laudantur niveo mites candore Columbæ,</l>
+                     <l>Et tibi sub niveo pectore candor inest.</l>
+                     <l>Quid lusus, mea vita, tuos, quid murmura blanda,</l>
+                     <l>Quid referam noti nequitias thalami ?</l>
+                     <l>Tu tenero morsus figebas dente proterva,</l>
+                     <l>Atque columbatim basia longa dabas.</l>
+                     <l>Hei mihi quis raptor, credo Jove missus ab ipso,</l>
+                     <l>Te nostro avulsit chara Columba sinu ?</l>
+                     <l>Te malus accipiter captam tenet unguibus uncis,</l>
+                     <l>Et tua crudelis viscera dilaniat.</l>
+                     <l>I nunc, dic Veneri sacratas esse Columbas,</l>
+                     <l>Si tam, me miserum, bella Columba perit.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XVI</label>
+                     <lb/>LE SURNOM DE FAUSTINE</head>
+                  <p rend="justify">Mais non, j’y pense à propos, c’est le nom de Colombe qui sied à ta beauté et à ton caractère.</p>
+                  <p rend="justify">On vante, pour l’éclatante blancheur de leur neige, les tendres colombes ; et toi aussi tu as une poitrine de neige d’une blancheur éclatante.</p>
+                  <p rend="justify">Dirai-je tes jeux, ô ma vie ? Dirai-je tes soupirs charmants ? Dirai-je les folles voluptés de ce lit que je connais bien ?</p>
+                  <p rend="justify">En me mordant, tu me marquais de tes dents délicates, effrontément, et, à la manière des colombes, tu me donnais des baisers longs[10].</p>
+                  <p rend="justify">Ah ! qui donc, s’il n’était envoyé comme je crois par Jupiter lui-même, quel ravisseur t’aurait arrachée à mon étreinte, Colombe chérie ?</p>
+                  <p rend="justify">C’est un vautour cruel qui t’a prise. Il te garde, il a des serres crochues, et, féroce, il te déchire les entrailles.</p>
+                  <p rend="justify">Va maintenant, affirme que les colombes sont consacrées à Vénus, quand pour mon infortune une si délicieuse colombe se meurt !</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XVII</label>
+                     <lb/>FAUSTINÆ VELUT QUODDAM INESSE AMORIS NUMEN</head>
+                  <lg>
+                     <l>Per te, oculosque tuos, nuper (mea Diva) sine arcu,</l>
+                     <l>Et vacua errabat cœcus Amor pharetra.</l>
+                     <l>His jaculis armata Deos, hominesque, ferasque</l>
+                     <l>Cogebas sævi jura sub imperii.</l>
+                     <l>Non senibus gravitas morum, non profuit usus,</l>
+                     <l>Nec juvit tardo in corpore sanguis iners.</l>
+                     <l>Non Sophiæ studium doctos, non purpura Patres,</l>
+                     <l>Nec clypeus texit fortia corda Ducum.</l>
+                     <l>Omnia cesserunt : cessit quoque publica cura,</l>
+                     <l>Et posuit virtus triste supercilium.</l>
+                     <l>At nunc, proh Superi, captivo numine Amoris,</l>
+                     <l>Nil nisi trux Mavors, et fera bella placent.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XVII</label>
+                     <lb/>QU’EN FAUSTINE IL Y A UNE ESPÈCE DE FORCE D’AMOUR TOUTE DIVINE</head>
+                  <p rend="justify">C’est à cause de toi, à cause de tes yeux, que naguère, ô ma déesse, l’Amour aveuglé s’en allait au hasard, sans son arc, et le carquois vide[11].</p>
+                  <p rend="justify">Avec ses traits dont tu t’es armée, dieux, hommes et bêtes, tu courbais tout sous les ordres de ton rigoureux empire.</p>
+                  <p rend="justify">Les vieillards, non ! ils ne tirèrent aucun profit de leur pondération et de leur expérience, et rien ne leur servit d’avoir dans un corps fatigué un sang affaibli.</p>
+                  <p rend="justify">Non, l’étude de la sagesse ne fut pas une garantie pour les savants, ni leur pourpre pour les cardinaux, ni leur bouclier pour le cœur, solide cependant, des capitaines.</p>
+                  <p rend="justify">Tout se soumit. Soumis aussi les hommes d’état et leurs tourments ! Et la vertu déposa son visage chagrin.</p>
+                  <p rend="justify">Mais à présent, ah ! grands dieux ! la divine puissance d’amour est en prison. Et il n’y a plus que le farouche Mars et les guerres sauvages qui nous séduisent.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XVIII</label>
+                     <lb/>QUANTA SIT VIS AMORIS IN FAUSTINA</head>
+                  <lg>
+                     <l>Inter se potuit sanctos committere Patres</l>
+                     <l>Faustina, usque adeo forma superba fuit.</l>
+                     <l>Et quisquam juvenes furiis miratur iisdem</l>
+                     <l>Accendi, et sævo bella parare viro ?</l>
+                     <l>Qui talem, heu facinus, claustris cohibere puellam</l>
+                     <l>Sustinet, et nostras despicit usque minas.</l>
+                     <l>Sola decennali fuit hæc repetenda duello,</l>
+                     <l>Debuit hanc solus nam rapuisse Paris.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XVIII</label>
+                     <lb/>LE GRAND POUVOIR D’AMOUR QUE POSSÈDE FAUSTINE</head>
+                  <p rend="justify">Dresser les uns contre les autres les cardinaux, voilà ce qu’a pu faire Faustine, tant sa beauté s’élève au-dessus de tout.</p>
+                  <p rend="justify">S’étonnera-t-on que des jeunes gens soient enflammés des mêmes fureurs, et qu’ils se préparent à la lutte contre un mari barbare ?</p>
+                  <p rend="justify">Car il garde sous les verrous, ô crime ! une jeune femme pareille, et il tient bon, et il dédaigne toujours nos menaces.</p>
+                  <p rend="justify">Il n’y a que cette Faustine qui aurait mérité qu’on la reconquît par dix ans de guerre, car il n’y a que Pâris qui aurait dû l’enlever.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XIX</label>
+                     <lb/>QUOMODO RAPTA FUERIT FAUSTINA</head>
+                  <lg>
+                     <l>Cum te crudelis nuper nil tale merentem</l>
+                     <l>Materno conjux velleret e gremio,</l>
+                     <l>Tendentemque manus traheret, passisque capillis,</l>
+                     <l>Quid tibi tunc sensus, quid tibi mentis erat ?</l>
+                     <l>Fama est flebilibus mæstam te ululasse querelis,</l>
+                     <l>Sæpius et nomen congeminasse meum,</l>
+                     <l>Et nunc crudelem demissa voce maritum,</l>
+                     <l>Nunc matrem lacrymis sollicitasse piis.</l>
+                     <l>Stat ferus ille tamen, spernitque precantia verba,</l>
+                     <l>Verba vel immanes apta movere feras.</l>
+                     <l>Hei mihi, cur mæstis cum impleres questibus urbem,</l>
+                     <l>Non potui infœlix obvius esse tibi !</l>
+                     <l>Haud secus atque olim furiata mente Corœbus,</l>
+                     <l>Cassandram cum Ajax impius extraheret,</l>
+                     <l>Tunc me injecissem medium moriturus in agmen,</l>
+                     <l>Nullaque mors toto notior orbe foret.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XIX</label>
+                     <lb/>COMMENT FAUSTINE A ÉTÉ ENLEVÉE</head>
+                  <p rend="justify">Quand naguère, — et avec quelle cruauté, bien que tu ne méritasses point un pareil traitement ! — ton époux t’arracha des bras de ta mère,</p>
+                  <p rend="justify">quand il t’entraîna, les mains tendues et les cheveux épars, qu’as-tu senti alors ? et qu’as-tu pensé ?</p>
+                  <p rend="justify">On dit que, dans ta détresse, tu poussais des plaintes à faire pleurer, et souvent mon nom revenait au milieu de tes gémissements,</p>
+                  <p rend="justify">et tantôt tu t’adressais d’une voix brisée à ce mari cruel, et tantôt tu suppliais ta mère avec des larmes légitimes.</p>
+                  <p rend="justify">Mais lui, le brutal, de tenir bon, et de repousser tes prières, et c’étaient des prières capables d’émouvoir même des bêtes sauvages.</p>
+                  <p rend="justify">Hélas ! lorsque tu emplissais la ville de tes cris de détresse, pourquoi n’ai-je pas pu, infortuné, me trouver sur ta route ?</p>
+                  <p rend="justify">J’aurais fait ce que fit Corèbe jadis, dans un coup de folie, comme l’impie Ajax emmenait Cassandre[12].</p>
+                  <p rend="justify">Oui ! je me serais jeté au milieu de ton escorte, au risque d’y mourir, et il n’y aurait pas eu de mort plus illustre dans le monde entier.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XX</label>
+                     <lb/>AD MILITES GALLOS CUM AD BELLUM NEAPOLITANUM PROFICISCERENTUR</head>
+                  <lg>
+                     <l>Quos chara e patria avulsos et dulcibus arvis</l>
+                     <l>Sævus amor belli misit in Hesperiam,</l>
+                     <l>Pergite fœlices, fatisque vocantibus ite,</l>
+                     <l>Quo vos ipsa vocat Gallica Parthenope.</l>
+                     <l>Illic, si quid erit vobis virtutis avitæ,</l>
+                     <l>Et tanget patrii pectora Martis amor,</l>
+                     <l>Tot frustra repetita Ducum infœlicibus armis</l>
+                     <l>Procumbent vestra mœnia capta manu.</l>
+                     <l>Tunc Siculum scelus ulcisci, patriisque sepulchris</l>
+                     <l>Solvere Achillæas inferias dabitur.</l>
+                     <l>Ast ego qui Veneris miles, Martemque perosus</l>
+                     <l>Haud animo tantum concipio facinus,</l>
+                     <l>Solvere tentabo captivæ vincla puellæ,</l>
+                     <l>Quæ mihi longe ipsis charior est oculis.</l>
+                     <l>Hæc repetenda mihi tellus est vindice dextra,</l>
+                     <l>Hoc bellum, hæc virtus, hæc mea Parthenope.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XX</label>
+                     <lb/>AUX SOLDATS FRANÇAIS LORS DE LEUR DÉPART POUR LA GUERRE DE NAPLES[13]</head>
+                  <p rend="justify">Vous, qu’arracha de la douce patrie et de vos chères campagnes le furieux amour de la guerre qui vous envoie en Italie,</p>
+                  <p rend="justify">allez ! que la fortune soit avec vous, et, puisque le destin vous appelle, allez où vous appelle aussi cette Naples, qui est française.</p>
+                  <p rend="justify">Là, pourvu que vous ayez un peu du courage de vos aïeux et que vous touche au cœur l’amour de ce Mars qui animait vos pères,</p>
+                  <p rend="justify">vous verrez ce que les armes malheureuses de tant de capitaines ont en vain essayé de reprendre, tomber, remparts conquis, sous votre main.</p>
+                  <p rend="justify">Alors, vous châtierez la Sicile et son crime, et sur les tombeaux de vos pères vous offrirez, comme Achille, les sacrifices dûs. Telle est votre part.</p>
+                  <p rend="justify">Quant à moi, je suis soldat de Vénus, j’abhorre Mars, et je ne conçois pas une si grande entreprise.</p>
+                  <p rend="justify">Je tenterai de délivrer de ses liens ma maîtresse qui est prisonnière, car elle m’est plus précieuse, et de beaucoup, que mes yeux mêmes.</p>
+                  <p rend="justify">Voilà le sol que je dois reconquérir d’une main vengeresse, voilà ma guerre, voilà mon courage, voilà ma Naples à moi.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XXI</label>
+                     <lb/>AD POLYDORUM DE FAUSTINA</head>
+                  <lg>
+                     <l>Docte, quem primum Polydore nobis</l>
+                     <l>Præpotens junxit nemorum Diana,</l>
+                     <l>Vinculo sed mox propiore vinxit</l>
+                     <l>Innuba Pallas :</l>
+                     <l>Me fluens humor cerebro malignus,</l>
+                     <l>Febris atque ardens et anhela tussis</l>
+                     <l>Jam decem totis retinet diebus</l>
+                     <l>Membra trahentem.</l>
+                     <l>Non mihi dulcis latices Lyæi,</l>
+                     <l>Sed sitim sedant medicata nostram</l>
+                     <l>Pocula, atque imas penitus perurit</l>
+                     <l>Flamma medullas.</l>
+                     <l>Auget hunc ignem Veneris favilla,</l>
+                     <l>Et Puer sævo metuendus arcu,</l>
+                     <l>Nostra qui durus graviore fixit</l>
+                     <l>Pectora telo.</l>
+                     <l>Me suis urit facibus puella,</l>
+                     <l>Quam ferus clausam retinet maritus,</l>
+                     <l>Dum suæ raptum metuit rapinæ,</l>
+                     <l>Nostraque tela.</l>
+                     <l>Et quis in tali timidus puella</l>
+                     <l>Non foret, qualem (Polydore) magna</l>
+                     <l>Ante nec vidit, puto, nec videbit</l>
+                     <l>Roma puellam ?</l>
+                     <l>Sive nigrantes oculos comasque,</l>
+                     <l>Frontis aut latæ niveum nitorem,</l>
+                     <l>Seu genas spectes roseas, rosisque</l>
+                     <l>Picta labella.</l>
+                     <l>Seu magis tractes geminas papillas,</l>
+                     <l>Quas suis fecit manibus Cupido,</l>
+                     <l>Quæque non una tulimus beati</l>
+                     <l>Gaudia nocte.</l>
+                     <l>Dum fovet molli tepidum lacerto,</l>
+                     <l>Dum levi murmur ciet et susurro,</l>
+                     <l>Dum micat lingua, et varias per artes</l>
+                     <l>Improba ludit.</l>
+                     <l>Hanc Jocus semper comitatur, ipsi</l>
+                     <l>Alites circumvolitant Amores,</l>
+                     <l>Gratia, et Lusus, Venerisque semper</l>
+                     <l>Turba ministrat.</l>
+                     <l>Hæc meos febris populatur artus,</l>
+                     <l>Hic meas ignis furit in medullas,</l>
+                     <l>Sævus ut late furit in patentes</l>
+                     <l>Sirius agros.</l>
+                     <l>Hanc juvat tota, Polydore, Roma</l>
+                     <l>Persequi raptam medios per ignes,</l>
+                     <l>Quæ decem digna est repeti per annos</l>
+                     <l>Vindice dextra.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XXI</label>
+                     <lb/>A POLYDORE, A PROPOS DE FAUSTINE</head>
+                  <p rend="justify">Docte Polydore[14], qu’unit d’abord à moi la toute puissante Diane, déesse des forêts, mais que m’attacha bientôt d’un attachement plus étroit la chaste Pallas,</p>
+                  <p rend="justify">une humeur maligne me coule du cerveau, une fièvre ardente et une toux qui m’essouffle m’accablent depuis déjà dix jours entiers, et je me traîne avec peine.</p>
+                  <p rend="justify">Ce n’est pas avec les liqueurs de l’agréable Bacchus que j’apaise ma soif, mais avec des potions médicinales, et une flamme me brûle profondément, jusqu’à la moelle.</p>
+                  <p rend="justify">De plus, ce feu s’accroît sous l’étincelle de Vénus et par la faute de l’Enfant qu’il faut craindre et dont l’arc est mauvais, car le cruel m’a percé la poitrine d’un trait assez douloureux.</p>
+                  <p rend="justify">Je brûle à cause d’une jeune femme dont les yeux sont des tisons. Un brutal la tient enfermée : son mari, parce qu’il redoute de se voir enlever ce qu’il enleva lui-même, et parce qu’il a peur de mes traits.</p>
+                  <p rend="justify">Mais qui ne serait pas craintif devant une pareille jeune femme ? Pour grande que soit la ville, Polydore, on n’a jamais vu, je pense, et ne verra jamais dans Rome une telle jeune femme.</p>
+                  <p rend="justify">Regarde, elle a les yeux noirs, et les cheveux aussi ; son front large a l’éclat de la neige ; ses joues sont rosées ; et les roses colorent ses lèvres délicates.</p>
+                  <p rend="justify">Ou plutôt, touche ses tétins jumeaux : ils ont été sculptés par les mains de Cupidon. Ah ! que de joies nous avons goûtées dans notre bonheur, pendant plus d’une nuit !</p>
+                  <p rend="justify">Tantôt elle me réveille et me réchauffe dans ses bras si doux ; et tantôt, en soupirant, elle m’invite avec de légères tendresses ; tantôt elle s’anime de la langue, et, variant ses inventions, tente des jeux hardis…</p>
+                  <p rend="justify">Cette Faustine, le Plaisir toujours l’accompagne ; il y a même des Amours ailés qui voltigent autour d’elle, et la Grâce et les Jeux et l’escorte de Vénus, toujours, sont à son service.</p>
+                  <p rend="justify">Voilà la fièvre qui ravage mes membres, voilà le feu qui se déchaîne dans mes moelles, et c’est comme l’âpre canicule déchaînée sur les campagnes sans défense.</p>
+                  <p rend="justify">Cette Faustine qu’on m’a prise, Polydore, il faut qu’à travers Rome tout entière on la poursuive, et jusqu’au milieu des flammes, car elle mérite qu’on mette dix ans pour la reconquérir d’une main vengeresse.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XXII</label>
+                     <lb/>SOMNIUM</head>
+                  <lg>
+                     <l>Nox erat, et placidum carpebant cuncta soporem,</l>
+                     <l>Cum Puer in somnis visus adesse mihi.</l>
+                     <l>Arcum læva tenet, tenet aurea spicula dextra,</l>
+                     <l>Candenti ex humero picta pharetra sonat.</l>
+                     <l>Ille meos cernens vigili sub mente dolores,</l>
+                     <l>Luminaque e lacrymis turgida facta meis,</l>
+                     <l>Ultro me timidum verbis compellat amicis,</l>
+                     <l>Atque meas lacrymas sic miseratus, ait :</l>
+                     <l>Parce tuum, juvenis, consumere luctibus ævum,</l>
+                     <l>Et nostra toties de levitate queri.</l>
+                     <l>Quæ tibi non nostra, sed sævi fraude mariti</l>
+                     <l>Rapta est, illa tibi restituenda venit.</l>
+                     <l>Quid me, sæve Puer, deceptum fraude maligna,</l>
+                     <l>Tu quoque nunc falsis ludis imaginibus ?</l>
+                     <l>Si cupis ut credam, stygias testare paludes,</l>
+                     <l>Aut aliquo dubiam pignore stringe fidem.</l>
+                     <l>Sume, ait, et pictis pennam detraxit ab alis,</l>
+                     <l>Certior ut fias hoc tibi pignus erit.</l>
+                     <l>Sed quid ab hoc tandem sperandum pignore certi,</l>
+                     <l>Firmatura fidem si mihi penna datur ?</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XXII</label>
+                     <lb/>SONGE</head>
+                  <p rend="justify">Il faisait nuit, et tranquillement tout goûtait le repos, lorsqu’un Enfant m’apparut en songe. Il était devant moi.</p>
+                  <p rend="justify">Sa main gauche tient un arc ; sa droite tient des flèches relevées d’or ; à son épaule blanche pend un carquois décoré, qui fait du bruit.</p>
+                  <p rend="justify">Il voit bien que, loin de dormir, je roule dans ma tête des pensées douloureuses, et que mes yeux, pour avoir pleuré, sont gonflés.</p>
+                  <p rend="justify">Alors il vient vers moi. J’étais craintif ; il m’apostrophe amicalement et, comme mes larmes lui font pitié, il dit :</p>
+                  <p rend="justify">— « Arrête, jeune homme. N’épuise plus tes jours dans le chagrin, et ne te plains plus si souvent de mes caprices.</p>
+                  <p rend="justify">Cette femme, ce n’est pas moi, c’est un mari cruel qui par sa fourbe te l’enleva. Mais voici qu’elle va t’être rendue. »</p>
+                  <p rend="justify">— « Pourquoi, cruel enfant, puisqu’on m’a trompé par une fourbe méchante, faut-il que tu viennes aussi maintenant m’abuser avec tes mensonges ?</p>
+                  <p rend="justify">Si tu souhaites que je te croie, jure, et prends à témoin les eaux du Styx ! ou, plutôt, car je suis indécis, donne-moi un gage qui resserre ma confiance. »</p>
+                  <p rend="justify">— « Tiens », dit-il, et, s’arrachant une plume de ses ailes peintes : « Sois plus sûr de moi, voici mon gage. »</p>
+                  <p rend="justify">Mais enfin, que dois-je espérer ? Et quelle assurance tirer de ce gage, si, pour affermir ma confiance, c’est une plume qu’on me donne ?</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XXIII</label>
+                     <lb/>VOTUM AD VENEREM</head>
+                  <lg>
+                     <l>Si per te alma Venus, rerumque hominumque creatrix,</l>
+                     <l>Qua sine nil animis corporibusque placet,</l>
+                     <l>Sidereis Faustinæ oculis, verbisque fruisci,</l>
+                     <l>Et liceat noto reddere membra toro,</l>
+                     <l>Non tibi candenti stabunt de marmore templa,</l>
+                     <l>Hostia nec sanctos corruet ante focos.</l>
+                     <l>Purpurei sedenim flores, violæque, rosæque,</l>
+                     <l>Parque columbarum, Diva, tibi dabitur.</l>
+                     <l>Suspensaque tibi solventur vota tabella,</l>
+                     <l>Omnibus et seclis charta loquetur anus :</l>
+                     <l>Amissam mihi te Faustinam restituisse,</l>
+                     <l>Hoc est ipsum me restituisse mihi.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XXIII</label>
+                     <lb/>OFFRANDE A VÉNUS</head>
+                  <p rend="justify">Bienfaisante Vénus, créatrice des hommes et des choses, toi sans qui rien ne plaît aux âmes et aux corps,</p>
+                  <p rend="justify">si par toi je retrouve Faustine et ses yeux étoilés et ses entretiens pour que j’en tire ma joie, et si tu la rends toute au lit que tu connais,</p>
+                  <p rend="justify">ce ne sont point des temples de marbre blanc que j’élèverai pour toi, et je n’abattrai point de victime devant ton foyer sacré ;</p>
+                  <p rend="justify">mais plutôt, ce sont des fleurs de pourpre, des violettes, et des roses, et une couple de colombes, ô déesse, que je te donnerai.</p>
+                  <p rend="justify">Puis, pour m’acquitter de mon vœu, je suspendrai une tablette, de sorte qu’aux siècles à venir une inscription dira, avec le temps,</p>
+                  <p rend="justify">que tu m’as rendu la Faustine que j’avais perdue, et qu’ainsi tu m’as rendu à moi-même.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XXIV</label>
+                     <lb/>VOTI SOLUTIO</head>
+                  <lg>
+                     <l>Jam mihi mea reddita est Columba,</l>
+                     <l>Vos tristes elegi valete longum.</l>
+                     <l>At vos molliculi venite versus,</l>
+                     <l>Dum cano reditum meæ Columbæ,</l>
+                     <l>Quam plus ipse oculis meis amabam,</l>
+                     <l>Cujus basia, blandulumque murmur,</l>
+                     <l>Lusus, nequitiæ proterviores,</l>
+                     <l>Et morsus poterant, micante rostro,</l>
+                     <l>Ipsum vincere passerem Catulli.</l>
+                     <l>Nam mellita fuit, venusta, bella,</l>
+                     <l>Pulchra, candidula, atque delicata :</l>
+                     <l>Nil mage ut queat esse delicatum,</l>
+                     <l>Mellitum magis, aut magis venustum.</l>
+                     <l>Ut vobis male sit, mali Cinœdi,</l>
+                     <l>Fures improbuli, invenustulique,</l>
+                     <l>Qui talem mihi tam diu abstulistis</l>
+                     <l>Pulchram, candidulam, meam Columbam.</l>
+                     <l>At vos hendecasyllabi frequentes,</l>
+                     <l>Versus molliculi, venustulique,</l>
+                     <l>Adeste huc, precor : et quot estis omnes,</l>
+                     <l>Formosæ Veneri, bonisque Divis</l>
+                     <l>Votum solvite pro mea Columba.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XXIV</label>
+                     <lb/>LE VŒU ACCOMPLI</head>
+                  <p rend="justify">C’est fait, ma Colombe m’est rendue. O sombres élégies, adieu donc pour longtemps ! Mais vous, vers tendrelets, venez ! Je chante le retour de ma Colombe, — ah ! je l’aimais certes plus que mes yeux, — et ses baisers, ses soupirs charmants, ses jeux, ses caresses assez hardies, et ses morsures laissaient, bec palpitant, loin derrière elle, le moineau de Catulle.</p>
+                  <p rend="justify">Car elle était douce comme miel[15], gracieuse, jolie, belle, toute fraîche et mignonne. Non ! rien ne pouvait être plus mignon, et rien plus doux, ou plus gracieux. Malheur à vous, donc[16], effrontés méchants, larrons si fourbes et si peu gracieux, puisque vous m’avez si longtemps privé de ma belle et toute fraîche et mienne Colombe ! Mais vous, hendécasyllabes nombreux, vers tendrelets et pleins de grâce, venez à moi, je vous en prie ; et tous, tant que vous êtes, il vous faut, à l’admirable Vénus et aux dieux bienveillants, accomplir le vœu que j’ai fait pour ma Colombe.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XXV</label>
+                     <lb/>BASIA FAUSTINÆ</head>
+                  <lg>
+                     <l>Cum tu ad basia nostra sic reflectis</l>
+                     <l>Cervicem niveam, Columba, pœti</l>
+                     <l>Molle ut nescio quid natent ocelli,</l>
+                     <l>Præ desiderio mihi liquescit</l>
+                     <l>Ipsa pene anima, in tuumque sensim</l>
+                     <l>Prorsus exanimis sinum relabor.</l>
+                     <l>Admotis sed ubi hinc et hinc labellis,</l>
+                     <l>Udo tramite mutuum recursant</l>
+                     <l>Linguæ, et ambrosios anhelo ab ore</l>
+                     <l>Flores carpere mi licet beato,</l>
+                     <l>Tunc mi, tunc videor Jovis tonantis</l>
+                     <l>Assidere epulis, sacrumque nectar</l>
+                     <l>Haurire intrepide, Deum sodalis.</l>
+                     <l>Si summis bona proxima, o Columba,</l>
+                     <l>Præbes tam facilis beato amanti,</l>
+                     <l>Cur tu summa negas misello, et una</l>
+                     <l>Misellum facis, et facis beatum ?</l>
+                     <l>Num forsan metuis Deus fruendo</l>
+                     <l>Ipse ne efficiar, velimque solus</l>
+                     <l>Te sine Elysios videre campos ?</l>
+                     <l>Hunc, hunc pone metum, venusta, bella,</l>
+                     <l>Vitæ dimidium meæ, Columba :</l>
+                     <l>Nam quæcunque oculos tuos tenebit</l>
+                     <l>Sedes, illa mihi domos Deorum,</l>
+                     <l>Et campos referet beatiores.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XXV</label>
+                     <lb/>LES BAISERS DE FAUSTINE[17]</head>
+                  <p rend="justify">Lorsque vers mes baisers tu tends et plies ton cou de neige, ô Colombe, avec ces yeux mi-clos qui ont je ne sais quel air noyé de tendresse, sous le désir mon âme se fond totalement, et, peu à peu, sur ta poitrine, je perds conscience et je retombe. Mais lorsque nos lèvres, tantôt jointes et tantôt retirées, font un sentier humide où s’animent à tour de rôle nos langues, et que, sur ta bouche pâmée, je peux dans mon bonheur cueillir des fleurs d’armoise, alors, oui ! alors il me semble, ô Jupiter tonnant, que je suis à ta table et, ô nectar sacré, que je te bois à longs traits en compagnie des dieux.</p>
+                  <p rend="justify">Ce sont là les joies les plus proches des plus grandes, ô Colombe ! Et, puisque tu les offres avec tant de complaisance à ton bienheureux amant, pourquoi lui refuser les plus grandes, pauvret, et du même temps faire un pauvret de lui, et faire un bienheureux ? Crains-tu par hasard qu’une telle jouissance me transforme en dieu ? et que je veuille m’en aller seul pour voir sans toi les champs élysées ? Allons, allons ! quitte cette crainte, ô gracieuse, jolie, moitié de ma vie, ô Colombe. Tu le sais : qu’un endroit charme seulement tes yeux, il devient pour moi le palais des dieux et les champs du plus grand bonheur[18].</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XXVI</label>
+                     <lb/>DE POETARUM AMORIBUS AD GORDIUM</head>
+                  <p rend="justify">Gordi, plus oculis amate nobis,</p>
+                  <p rend="justify">Quicquid Lesbia, Delia, et Corinna,</p>
+                  <p rend="justify">Quicquid Cynthia, quicquid et Lycoris,</p>
+                  <p rend="justify">Quicquid Stella, Nina, et recens Neæra,</p>
+                  <p rend="justify">Laura, et Candida, vel fuit Gelonis,</p>
+                  <p rend="justify">(Ut nostras quoque nominem puellas)</p>
+                  <lg>
+                     <l>Cassandra æmula Laureæ puellæ,</l>
+                     <l>Quicquid Pasithea, et venusta nuper</l>
+                     <l>Mellina, et numenis Oliva nostris</l>
+                     <l>Dicta (si locus inter has Olivæ)</l>
+                     <l>Hoc Faustina mea, hoc mea est Columba.</l>
+                     <l>Hoc Faustina tua, hoc tua est Columba :</l>
+                     <l>Ob id nunc cupiam hîc adesse, Gordi,</l>
+                     <l>Et quicquid cecinit tener Catullus,</l>
+                     <l>Et quicquid cecinit tener Tibullus,</l>
+                     <l>Quicquid Naso canit, Propertiusque,</l>
+                     <l>Gallus, et Jovianus, Actiusque,</l>
+                     <l>Quicquid ipse Marullus, et Petrarca,</l>
+                     <l>Quicquid Beza canit, canit Macrinus,</l>
+                  </lg>
+                  <p rend="justify">(Ut nostros quoque nominem poëtas)</p>
+                  <lg>
+                     <l>Ronsardus gravis, et gravis Thyardus,</l>
+                     <l>Mollis Baifius, mihique (si quis</l>
+                     <l>Probatos locus inter est poëtas)</l>
+                     <l>Optarim veteres meos calores,</l>
+                     <l>Gordi, ut sic melius queam referre,</l>
+                     <l>Faustinamque meam, et meam Columbam,</l>
+                     <l>Faustinamque tuam, et tuam Columbam.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XXVI</label>
+                     <lb/>AMOURS DE POÈTES<lb/>(A GORDES)</head>
+                  <p rend="justify">Gordes, que j’aime plus que mes yeux, tout ce que fut Lesbie, Délie et Corinne, tout ce que fut Cynthie et tout ce que fut Lycoris, tout ce que fut Stella, Nina, et récemment Néère, Laure et Candide, ou Gélonis (car il faut que je cite aussi nos maîtresses), et Cassandre, rivale de Laure, autre maîtresse, tout ce que fut Pasithée, et naguère la jolie Melline, et Olive que mes vers ont chantée, (s’il y a place au milieu d’elles pour Olive), voilà ce qu’est ma Faustine, voilà ce qu’est ma Colombe, voilà ce qu’est ta Faustine, voilà ce qu’est ta Colombe.[19]</p>
+                  <p rend="justify">C’est pour cette raison qu’à présent Je voudrais qu’on trouvât ici, Gordes, et tout ce qu’a chanté le tendre Catulle, et tout ce qu’a chanté le tendre Tibulle, tout ce que chante Ovide, et Properce, et Gallus, et Jovian, et Actius, tout ce que chante Marulle, et Pétrarque, tout ce que chante Bèze et que chante Macrin, (car il faut que je cite aussi nos poëtes), et Ronsard, qui est majestueux, et le majestueux Thyard, et le délicat Baïf ; et pour moi, (s’il y a ma place au milieu de ces poëtes qui ont fait leurs preuves), je souhaiterais recouvrer mes ardeurs de jadis, Gordes, afin de pouvoir mieux célébrer et ma Faustine et ma Colombe, et ta Faustine et ta Colombe.</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>APPENDICE</head>
+               <p rend="justify">Le recueil des <hi rend="italic">Amores</hi>, troisième partie des <hi rend="italic">Poemata</hi>, se compose de 35 poëmes : 26 seulement peuvent être reproduits dans les <hi rend="italic">Amours de Faustine</hi>. Les autres sont de courtes pièces érotiques ou satiriques où rien n’a trait à Faustine. Nous avons cru devoir les supprimer des <hi rend="italic">Amours de Faustine</hi>. Cependant nous donnons ici, en appendice, trois pièces d’inspiration amoureuse dont la suppression totale ne s’imposait pas, et nous les faisons suivre du <hi rend="italic">Patriæ Desiderium</hi> (<hi rend="italic">la Patrie Regrettée</hi>), poëme fameux que Joachim du Bellay écrivit à Rome et d’où il tira plusieurs sonnets, bien connus, de ses <hi rend="italic">Regrets</hi>.</p>
+               <div type="div3">
+                  <head>
+                     <label>I</label>
+                     <lb/>PIÈCES SUPPRIMÉES</head>
+                  <div type="div4">
+                     <head>
+                        <label>1</label>
+                        <lb/>DE AMORIS VIOLENTIA EX ANACREONTE</head>
+                     <p rend="justify">Frontem cornigeram dedit juvencis</p>
+                     <p rend="justify">Natura, alitibus dedit volatum,</p>
+                     <p rend="justify">Fecit cornipedes equos, fugaces</p>
+                     <p rend="justify">Auritos lepores, natalitesque</p>
+                     <lg>
+                        <l>Pisces, fulmineos sues, leones</l>
+                        <l>Fecit magnanimos, viros sagaces :</l>
+                        <l>Ast hoc ingenio videns negatum</l>
+                        <l>Esse fœmineo, dedit puellis</l>
+                        <l>Formam igne atque acie potentiorem.</l>
+                     </lg>
+                  </div>
+                  <div type="div4">
+                     <head>
+                        <label>1</label>
+                        <lb/>LA FORCE DE L’AMOUR<lb/>(TIRÉ D’ANACRÉON)</head>
+                     <p rend="justify">Aux jeunes taureaux, la Nature a donné un front cornu ; aux oiseaux, elle a donné la faculté de voler ; elle a pourvu de sabots de corne les chevaux : elle a fait rapides les lièvres aux longues oreilles ; les poissons, capables de nager ; les sangliers, terribles comme la foudre ; et elle a fait les lions généreux, et les hommes perspicaces. Mais, quand elle vit qu’on refusait cette qualité aux femmes, elle donna aux filles la beauté, qui est plus puissante que le feu et le fer aiguisé.</p>
+                  </div>
+                  <div type="div4">
+                     <head>
+                        <label>2</label>
+                        <lb/>AD FABULLAM CUR AMATORIA NON SCRIBAT</head>
+                     <p rend="justify">Quod nullos faciam, Fabulla, versus</p>
+                     <p rend="justify">(Quamvis tot faciam, Fabulla, versus)</p>
+                     <lg>
+                        <l>Qualeis, qui populo suos amores</l>
+                        <l>Lascivis nimium explicant libellis,</l>
+                        <l>Miraris, tetricum et vocas poëtam,</l>
+                        <l>Rugosum nimis, et nimis Catonem,</l>
+                        <l>Subinde hoc repetens Catullianum :</l>
+                        <l>Nam castum esse decet pium poëtam</l>
+                        <l>Ipsum, versiculos nihil necesse est.</l>
+                        <l>Sed nobis aliter quidem videtur,</l>
+                        <l>Nec vatem decet esse tam pudicum,</l>
+                        <l>Qui versus faciat parum pudicos.</l>
+                        <l>Nam quid turpius est, Fabulla, quæso,</l>
+                        <l>Si gallum hunc facias, Deo salace,</l>
+                        <l>Cui versus decet esse prurientes ?</l>
+                        <l>Scimus quid sit Amor, Fabulla, scimus :</l>
+                        <l>Estque in versiculis bonus Cupido</l>
+                        <l>Nostris plurimus, et Venus jocosa,</l>
+                        <l>Blando quæ docuit sonare plectro,</l>
+                        <l>Dum nostris licuit bonis fruisci,</l>
+                        <l>Et nostras Domina fovente flammas,</l>
+                        <l>Ignis mollibus arsit in medullis.</l>
+                        <l>Nunc nos læta fugit juventa, nosque</l>
+                        <l>Divexant animi æstuantis undæ,</l>
+                        <l>Et curæ vigiles, metusque sævi,</l>
+                        <l>Omnes qui Veneres, Cupidinesque,</l>
+                        <l>Lusus, nequitias, sales, jocosque,</l>
+                        <l>A nostris abigunt, Fabulla, Musis.</l>
+                        <l>Quare quod superest, Fabulla bella,</l>
+                        <l>Si quid te lepidi juvant libelli,</l>
+                        <l>Quos scripsit manibus suis Cupido,</l>
+                        <l>Dictarunt Charites, canunt poëtæ,</l>
+                        <l>Ediscunt juvenes, tenent puellæ,</l>
+                        <l>Et quos ipsi etiam audiunt libenter</l>
+                        <l>Senes frigiduli, gravesque matres,</l>
+                        <l>Aut tu nostra legas nimis pudica,</l>
+                        <l>Aut tu nos facias minus pudicos.</l>
+                     </lg>
+                  </div>
+                  <div type="div4">
+                     <head>
+                        <label>2</label>
+                        <lb/>A FABULLA, POURQUOI IL N’ÉCRIT PAS DES VERS ÉROTIQUES</head>
+                     <p rend="justify">Parce que, Fabulla, je ne fais pas des vers (et cependant, Fabulla, je fais tant de vers !) comme ceux qui exposent au public leurs amours en de petits livres extrêmement licencieux, tu es étonnée, tu déclares que je suis un poëte sombre, par trop sévère et par trop Caton, et tu répètes aussitôt ces paroles de Catulle : « Certes, il faut qu’un poète qui se respecte soit chaste de sa personne, mais cette qualité n’est pas indispensable à ses petits vers. »[20]</p>
+                     <p rend="justify">Mais moi, à dire vrai, je pense autrement, et qu’il faut qu’un poète ne soit pas si réservé dans sa vie, s’il veut faire des vers qui ne soient pas trop réservés. Hé ! qu’y a-t-il de plus indécent, Fabulla, je te le demande, que de faire un eunuque[21], sous l’excitation de son dieu, de celui qui doit écrire des vers brûlants d’impudeur ?</p>
+                     <p rend="justify">Je sais ce que c’est que l’amour, Fabulla, je le sais. Dans mes petits vers, on a vu souvent le bon Cupidon, et la plaisante Vénus, car elle m’apprit à jouer de la lyre qui charme ; et cela dura tant que j’ai pu jouir de mon bonheur, tant que ma maîtresse entretint ma flamme, et que le feu fut ardent en mes moelles dociles.</p>
+                     <p rend="justify">Mais aujourd’hui, les joies de la jeunesse m’abandonnent. Je suis tourmenté par les houles d’un cœur qui s’agite, par des soucis toujours en éveil et par des inquiétudes cruelles, soins qui chassent tout, Vénus et Cupidons, jeux, voluptés, débauches et plaisirs, et les éloignent, ô Fabulla, de mes Muses.</p>
+                     <p rend="justify">C’est pourquoi désormais, charmante Fabulla, si tu aimes les petits livres mignards qu’écrivit de ses mains Cupidon même, ceux que dictent les Grâces et que chantent les poètes, ceux qu’apprennent les garçons et que possèdent les filles, ceux qu’entendent volontiers aussi les vieillards déjà glacés et les sévères mamans, de deux choses l’une : ou bien contente-toi de lire mes vers que tu trouves trop réservés, ou bien fais ce qu’il faut pour que je sois moins réservé.</p>
+                  </div>
+                  <div type="div4">
+                     <head>
+                        <label>3</label>
+                        <lb/>DE CŒCO VIAM INDICANTE</head>
+                     <lg>
+                        <l>Nox erat, et pactæ properabam ad tecta puellæ,</l>
+                        <l>Junguntur fano quæ, Lodoice, tuo.</l>
+                        <l>Quà sit iter quæro (nam me fallebat euntem</l>
+                        <l>Tum forte in varias semita secta vias).</l>
+                        <l>Hac, aliquis dixit, dextra simul indicat : atque is</l>
+                        <l>Cœcus erat : cœcum suspicor esse Deum.</l>
+                     </lg>
+                  </div>
+                  <div type="div4">
+                     <head>
+                        <label>3</label>
+                        <lb/>L’AVEUGLE QUI MONTRE LE CHEMIN</head>
+                     <p rend="justify">Il faisait nuit, et je me hâtais vers la maison de la jeune femme à qui je suis engagé. Tu sais, Louis[22], que cette maison est proche de ton sanctuaire.</p>
+                     <p rend="justify">Je cherchais mon chemin, (car, tandis que je marchais, je m’étais trompé au carrefour d’où partent des rues différentes).</p>
+                     <p rend="justify">— « Par ici », me dit quelqu’un. En même temps, il me montre de la main la direction. Or, c’était un aveugle. Cet aveugle, je le présume, était un dieu.</p>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>II</label>
+                     <lb/>PATRIÆ DESIDERIUM</head>
+                  <lg>
+                     <l>Quicunque ignotis lentus terit ocia terris,</l>
+                     <l>Et vagus externo quærit in orbe domum,</l>
+                     <l>Quem non dulcis amor, quem non revocare parentes,</l>
+                     <l>Nec potuit, si quid dulcius esse potest,</l>
+                     <l>Ferreus est, dignusque olim cui matris ab alvo,</l>
+                     <l>Hyrcanæ tigres ubera præbuerint.</l>
+                     <l>Non mihi saxea sunt, durove rigentia ferro</l>
+                     <l>Pectora, nec tigris, nec fuit ursa parens,</l>
+                     <l>Ut dulci patriæ durus non tangar amore,</l>
+                     <l>Totque procul menses exul ut esse velim.</l>
+                     <l>Quid namque exilium est aliud, quam sidera nota,</l>
+                     <l>Quam patriam, et proprios deseruisse lares ?</l>
+                     <l>Annua ter rapidi circum acta est orbita solis,</l>
+                     <l>Ex quo tam longas cogor inire vias :</l>
+                     <l>Ignotisque procul peregrinus degere tectis,</l>
+                     <l>Et Lyrii tantum vix meminisse mei,</l>
+                     <l>Atque alios ritus, aliosque ediscere mores,</l>
+                     <l>Fingere et insolito verba aliena sono.</l>
+                     <l>At quid Romana (dices) speciosius Aula,</l>
+                     <l>Aut quisnam toto pulchrior orbe locus ?</l>
+                     <l>Roma orbis patria est, quique altæ mœnia Romæ</l>
+                     <l>Incolit, in proprio degit et ille solo.</l>
+                     <l>Forsan et est Romæ (quod non contingere cuivis</l>
+                     <l>Hic solet externo) vivere dulce mihi :</l>
+                     <l>Est cui purpurei patruus pars magna Senatus,</l>
+                     <l>Atque idem Aonii pars quoque magna chori,</l>
+                     <l>Qui nostras ornetque bonus, foveatque Camœnas,</l>
+                     <l>Arceat a nostro pauperiemque lare.</l>
+                     <l>At quoties studia antiqua, antiquosque sodales,</l>
+                     <l>Et memini charam deseruisse domum,</l>
+                     <l>Quondam ubi sollicitas Persarum temnere gazas,</l>
+                     <l>Et fœlix parvo vivere doctus eram :</l>
+                     <l>Ipsa mihi patriæ toties occurrit imago,</l>
+                     <l>Et toties curis torqueor usque novis.</l>
+                     <l>Utque nihil desit, nobis tamen omnia desunt,</l>
+                     <l>Dum miseris noto non licet orbe frui.</l>
+                     <l>Nec Ligeris ripas, saltus, sylvasque comantes</l>
+                     <l>Cernere, et Andini pinguia culta soli,</l>
+                     <l>Quæ lacte, et Baccho, flaventis et ubere campi</l>
+                     <l>Antiquæ certant laudibus Italiæ.</l>
+                     <l>Ast Ithacus, licet ipsa foret Laërtia tellus</l>
+                     <l>Et Bacchi, et Cereris muneribus sterilis,</l>
+                     <l>In patriam rediit, reditum nec pulchra Calypso,</l>
+                     <l>Nec pulchra Alcinoi detinuit soboles.</l>
+                     <l>Fœlix, qui mores multorum vidit, et urbes,</l>
+                     <l>Sedibus et potuit consenuisse suis.</l>
+                     <l>Ortus quæque suos cupiunt, externa placentque</l>
+                     <l>Pauca diu, repetunt et sua lustra feræ.</l>
+                     <l>Quando erit, ut notæ fumantia culmina villæ,</l>
+                     <l>Et videam regni jugera parva mei ?</l>
+                     <l>Non septemgemini tangunt mea pectora Colles,</l>
+                     <l>Nec retinet sensus Tybridis unda meos.</l>
+                     <l>Non mihi sunt cordi veterum monumenta Quiritûm,</l>
+                     <l>Nec statuæ, nec me picta tabella juvat :</l>
+                     <l>Non mihi Laurentes Nymphæ, sylvæque virentes,</l>
+                     <l>Nec mihi, quæ quondam, florida rura placent.</l>
+                     <l>Ipsæ etiam quæ me primis docuere sub annis</l>
+                     <l>Ad citharam patrio flectere verba sono,</l>
+                     <l>Heu ! fugiunt Musæ, refugitque aversus Apollo,</l>
+                     <l>Et fugiunt digitos mollia plectra meos.</l>
+                     <l>Aulica dum nostros gestaret turba libellos,</l>
+                     <l>Et tereret manibus carmina nostra suis,</l>
+                     <l>Dumque meos Regis soror, illa, illa inclyta virgo</l>
+                     <l>Afflaret sancto numine versiculos,</l>
+                     <l>Margaris invicti Regis soror, aurea virtus</l>
+                     <l>Inter mortales cui dedit esse Deam :</l>
+                     <l>Tunc licuit totum fœcundo pectore Phœbum</l>
+                     <l>Concipere, et pleno pandere vela sinu.</l>
+                     <l>Nunc miseri ignotis cœci jactamur in undis,</l>
+                     <l>Credimus et Latio lintea nostra freto.</l>
+                     <l>Hoc Latium poscit, Romanæ hæc debita linguæ</l>
+                     <l>Est opera, huc Genius compulit ipse loci.</l>
+                     <l>Sic teneri quondam vates præceptor Amoris,</l>
+                     <l>Dum procul à patriis finibus exul agit,</l>
+                     <l>Barbara (nec puduit) Latiis prælata camœnis</l>
+                     <l>Carmina non propriam condidit ad citharam.</l>
+                     <l>Carmina Principibus gaudent, plausuque theatri,</l>
+                     <l>Quique placet paucis, displicet ipse sibi.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>II</label>
+                     <lb/>LA PATRIE REGRETTÉE[23]</head>
+                  <p rend="justify">Quiconque en un pays inconnu a longtemps fatigué ses loisirs, ou erré par une terre étrangère en s’y cherchant une maison,</p>
+                  <p rend="justify">si l’amour tendre, si le souvenir de ceux qui l’ont nourri, n’ont pu le rappeler, ni quelque autre raison plus tendre, — supposé qu’elle soit possible ;</p>
+                  <p rend="justify">il est de fer, et il méritait bien d’avoir, au sortir du ventre de sa mère, des tigresses d’Hyrcanie pour lui donner du lait.</p>
+                  <p rend="justify">Mais moi, mon cœur n’est pas de pierre ; il n’est pas dur comme le fer insensible ; je n’eus ni une tigresse ni une ourse pour me nourrir ;</p>
+                  <p rend="justify">pourrais-je donc, tendre patrie, être insensible à l’amour qui m’émeut, et pendant tant de mois rester loin des miens, exilé, volontairement ?</p>
+                  <p rend="justify">Qu’est-ce en effet que l’exil ? — O ciel que l’on connaît, patrie, foyer familial, c’est de ne vous avoir plus.</p>
+                  <p rend="justify">Par trois fois déjà le soleil dévorant a fait sa révolution annuelle, depuis que, malgré moi, je me suis engagé sur de si longs chemins.</p>
+                  <p rend="justify">Sous des toits inconnus, loin de chez moi, voyageur qui passe, je vis, et mon Lyré n’est plus à peine en moi qu’un souvenir.</p>
+                  <p rend="justify">J’ai appris d’autres usages et d’autres coutumes, et je parle une langue nouvelle qui sonne étrangement.</p>
+                  <p rend="justify">Oui, m’objectera-t-on, mais y a-t-il rien de plus superbe que la Cour de Rome ? Et y a-t-il dans l’univers entier un endroit plus beau ?</p>
+                  <p rend="justify">Certes, Rome est la patrie universelle, et celui qui demeure au milieu de l’antique Rome peut se vanter de vivre sur un sol qui est sien.</p>
+                  <p rend="justify">Oui, sans doute, à Rome, (et le premier étranger venu n’a peut-être pas cet avantage), la vie a des douceurs pour moi :</p>
+                  <p rend="justify">j’y ai un oncle, qui occupe une place importante au Sacré-Collège et qui occupe aussi une place importante au chœur d’Aonie ;</p>
+                  <p rend="justify">avec bienveillance, il encourage mes Muses, il les soutient, et il écarte la pauvreté de mon foyer.</p>
+                  <p rend="justify">Mais qu’importe ? Chaque fois qu’il me souvient que j’ai abandonné mes études anciennes, mes anciens compagnons, et cette maison si chère</p>
+                  <p rend="justify">où j’avais appris à mépriser les trésors de la Perse, sources de tracas, et à me contenter de vivre de peu,</p>
+                  <p rend="justify">chaque fois, c’est l’image de la patrie qui se dresse devant mes yeux, et chaque fois, dans ma peine, j’éprouve une torture toujours renouvelée.</p>
+                  <p rend="justify">Même quand je ne manque de rien, je peux dire que tout me manque, parce que j’ai le malheur de n’être pas dans un univers que je connaisse pour y prendre mon plaisir,</p>
+                  <p rend="justify">parce que je ne vois ni les rives de la Loire, ni les vallons, ni les forêts chevelues, ni les grasses moissons du pays angevin,</p>
+                  <p rend="justify">de ce pays que le lait, le vin, et les richesses des champs jaunis de blés font rivaliser en gloire avec l’antique Italie.</p>
+                  <p rend="justify">Mais pourquoi ces excuses ? Regardez Ulysse : les terres de Laërte avaient beau être stériles, car Bacchus et Cérès n’y donnaient rien ;</p>
+                  <p rend="justify">C’est dans cette patrie pourtant qu’il revint : et, comme il revenait, rien ne l’arrêta, pas plus la charmante Calypso que la charmante fille d’Alcinoüs.</p>
+                  <p rend="justify">Heureux qui a vu des peuples nombreux, leurs usages, leurs villes, et qui vieillit ensuite dans la maison qui est à lui !</p>
+                  <p rend="justify">Au lieu de sa naissance chacun veut revenir ; les pays étrangers ne plaisent pas longtemps ; les fauves mêmes cherchent toujours à regagner leur tanière.</p>
+                  <p rend="justify">Quand donc le verrai-je enfin, le toit fumant de la chaumière que je sais, et, toutes maigres qu’elles sont, les terres de mon domaine à moi ?</p>
+                  <p rend="justify">Non ! ce ne sont point les Sept Collines qui me touchent l’âme, et rien ne me retient, ému, devant les eaux du Tibre.</p>
+                  <p rend="justify">Non, mon cœur n’est pris par rien des monuments des vieux Romains, ni de leurs statues, et la peinture d’un tableau ne m’enchante pas.</p>
+                  <p rend="justify">Non, les Nymphes de Laurente, ces forêts verdoyantes, et, si elles m’ont plu naguère, ces campagnes fleuries, rien ne me fait plaisir.</p>
+                  <p rend="justify">Elles-mêmes, elles aussi, elles qui dans mes premières années m’ont appris à jouer de la lyre en assemblant les mots de ma langue maternelle,</p>
+                  <p rend="justify">hélas ! elles m’échappent, les Muses ! et Apollon me tourne le dos et m’échappe à son tour ; et l’archet, autrefois si docile, échappe à mes doigts.</p>
+                  <p rend="justify">Jadis, à la Cour, on se passait de main en main mes ouvrages ; à force de les feuilleter, on usait mes poèmes.</p>
+                  <p rend="justify">Jadis, une sœur du Roi, une grande, une illustre princesse, inspirait à mes vers sa volonté sacrée.</p>
+                  <p rend="justify">C’était Marguerite, la sœur du Roi invaincu, celle qui par ses vertus si rares avait mérité d’être, au milieu des mortels, une Déesse.</p>
+                  <p rend="justify">En ce temps-là, je pouvais, l’âme débordante, être plein d’Apollon et, toutes voiles gonflées, voguer au large.</p>
+                  <p rend="justify">Mais aujourd’hui, pour mon malheur, sans savoir où je vais, je suis à la merci de flots inconnus, et je confie ma barque aux vagues de la poésie latine.</p>
+                  <p rend="justify">C’est ce que le sol latin exige de moi ; à la langue de Rome je dois ce tribut ; c’est à quoi me contraint le Génie de ces lieux.</p>
+                  <p rend="justify">Ainsi fit jadis le poëte qui donnait des leçons d’amour ; il vivait loin de sa patrie ; on l’avait exilé ;</p>
+                  <p rend="justify">pour composer des poèmes en langue étrangère, sans rougir il délaissa les Muses latines, et il s’accompagna d’une lyre qui n’était pas la sienne.</p>
+                  <p rend="justify">Aux poèmes il faut en effet la faveur des Princes et les applaudissements du théâtre. Quand on n’a que trop peu de monde à qui plaire, on se déplaît à soi-même.</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>III</label>
+                     <lb/>TUMULUS ROMÆ VETERIS</head>
+                  <lg>
+                     <l>Montibus e septem totum diffusa per orbem,</l>
+                     <l>Sidera sublimi vertice Roma tuli.</l>
+                     <l>Sub pedibus terras utroque ab littore pressi,</l>
+                     <l>Athlantem tenuit dextra, sinistra Scytham.</l>
+                     <l>Juppiter hos etiam disjecit fulmine montes,</l>
+                     <l>Et tumulos jussit corporis esse mei.</l>
+                     <l>Incubuit capiti rupes Tarpeïa nostro,</l>
+                     <l>Pressa Quirinali pectora nostra jacent.</l>
+                     <l>Crura Palatinus, geminos hinc inde lacertos</l>
+                     <l>Collis Aventinus, Vimineusque tegunt.</l>
+                     <l>Exquiliæ hinc surgunt et surgit Cœlius illinc :</l>
+                     <l>Hæc quoque sunt pedibus facta sepulchra meis.</l>
+                     <l>Sic quæ viva sibi septem circundedit arceis,</l>
+                     <l>Mortua nunc septem contegitur tumulis.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>III</label>
+                     <lb/>TOMBEAU DE LA ROME ANTIQUE</head>
+                  <p rend="justify">Du haut de sept monts j’ai rayonné sur l’univers entier en supportant les astres de mon chef dressé, moi, Rome.</p>
+                  <p rend="justify">Mes pieds ont pesé sur le sol des deux rivages de la mer ; ma main droite a tenu l’Atlante : ma gauche, le Scythe.</p>
+                  <p rend="justify">Mais Jupiter a renversé de sa foudre ces monts, et par sa volonté ils sont les tombeaux de mon corps.</p>
+                  <p rend="justify">Sur ma tête la roche Tarpéienne s’est couchée : le Quirinal pèse sur ma poitrine étendue.</p>
+                  <p rend="justify">Comme mes jambes par le Palatin, mes deux bras sont couverts l’un par la colline Aventine et l’autre par la Viminale.</p>
+                  <p rend="justify">L’Esquilin ici se soulève, et là se soulève le Célius : eux aussi pour mes pieds sont devenus des sépulcres.</p>
+                  <p rend="justify">Et celle qui vivante s’entoura de sept citadelles, morte à présent, est couverte par sept tombeaux.</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>NOTES</head>
+               <p rend="justify">Poème I</p>
+               <p rend="justify">[1]  Le recueil des <hi rend="italic">Poemata</hi>  de Joachim du Bellay se divise en quatre livres : 1<hi rend="sup">o</hi>
+                  <hi rend="italic">Elegiæ</hi> ; 2<hi rend="sup">o</hi>
+                  <hi rend="italic">Varia Epigrammata</hi> ; 3<hi rend="sup">o</hi>
+                  <hi rend="italic">Amores</hi> ; 4<hi rend="sup">o</hi>
+                  <hi rend="italic">Tumuli</hi>.</p>
+               <p rend="justify">L’épigramme <hi rend="italic">Ad lectorem</hi>, reproduite dans la présente édition des <hi rend="italic">Amours de Faustine</hi>, se trouve en tête des <hi rend="italic">Varia Epigrammata</hi>. Nous l’avons déplacée pour en faire un prologue nécessaire.</p>
+               <p rend="justify">Poème II</p>
+               <p rend="justify">[2]  Gordes était l’un des meilleurs amis que J. du Bellay eût à Rome. C’est à lui que le poète dédie les <hi rend="italic">Amours de Faustine</hi>. Il lui adressa aussi d’autres pièces des <hi rend="italic">Poemata</hi>  et plusieurs sonnets des <hi rend="italic">Regrets</hi>  (sonnets 53, 57, 61, 73, 75, 89, 92, 144. — Édition H. Chamard).</p>
+               <p rend="justify">Poème III</p>
+               <p rend="justify">[3]  Allusion au premier vers de la <hi rend="italic">Pharsale</hi>  de Lucain :</p>
+               <p rend="justify">
+                  <hi rend="italic">Bella per Emathios plus quam civilia campos…</hi>
+               </p>
+               <p rend="justify">[4]  Allusion à l’<hi rend="italic">Énéide</hi>  de Virgile (<hi rend="italic">arma virumque cano…</hi>)</p>
+               <p rend="justify">[5]  Allusion au premier vers des <hi rend="italic">Métamorphoses</hi>  d’Ovide :</p>
+               <p rend="justify">
+                  <hi rend="italic">In nova fert animus mutatas dicere formas…</hi>
+               </p>
+               <p rend="justify">[6]  Allusion au premier vers de l’<hi rend="italic">Enlèvement de Proserpine</hi>, de Claudien :</p>
+               <p rend="justify">
+                  <hi rend="italic">Inferni raptoris equos…</hi>
+               </p>
+               <p rend="justify">Poème IV</p>
+               <p rend="justify">[7]  Enna, ancienne ville de Sicile, aujourd’hui Castro-Giovanni. C’est là que, selon la légende, eut lieu l’enlèvement de Proserpine par Pluton.</p>
+               <p rend="justify">[8]  Pirithoüs descendit aux Enfers avec Thésée pour délivrer Proserpine. Tous deux furent prisonniers de Pluton ; mais, tandis que Thésée fut sauvé par Hercule, Pirithoüs fut mis à mort.</p>
+               <p rend="justify">Poème XI</p>
+               <p rend="justify">[9]  Pour se faire aimer de Calisto, nymphe de la suite de Diane, Jupiter se présenta devant elle sous les traits de Diane.</p>
+               <p rend="justify">Poème XVI</p>
+               <p rend="justify">[10]  Les amours des « tendres colombes » inspiraient les poètes de la Pléiade. A chaque instant, ils y revenaient. Voici quelques exemples, au hasard :</p>
+               <lg>
+                  <l>
+                     <hi rend="italic">Ha ! tu devrais imiter les pigeons,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Qui bec en bec de baisers doux et longs</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Se font l’amour sur le haut d’une souche.</hi>
+                  </l>
+                  <l>Ronsard (Sonnets pour Astrée, sonnet XIV.)</l>
+                  <l>
+                     <hi rend="italic">Mon plaisir en ce mois c’est de voir les coloms</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">S’emboucher bec à bec de baisers doux et longs.</hi>
+                  </l>
+                  <l>Ronsard (Sonnets pour Hélène, sonnet XXXV.)</l>
+                  <l>
+                     <hi rend="italic">Vois sur cet arbre à désir</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Ces tourterelles mignardes</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">S’entrebaisoter tremblardes…</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Vois (tant leur amour est forte)</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Comme se voulant mêler</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">El’ se tachent engouler,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Tâchant de faire de sorte</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">De deux une seulement.</hi>
+                  </l>
+                  <l>Baif (Les Amours.)</l>
+                  <l>Poème XVII</l>
+               </lg>
+               <p rend="justify">[11]  Olivier de Magny, secrétaire de Jean de Saint-Marcel, seigneur d’Avanson, était à Rome l’un des meilleurs amis de Joachim du Bellay. Tandis que l’un y écrivit ses <hi rend="italic">Regrets</hi>, l’autre y composa ses <hi rend="italic">Souspirs</hi>, œuvre parallèle. Et Magny a tiré du Poème XVII des <hi rend="italic">Amours de Faustine</hi>  le sonnet que voici :</p>
+               <lg>
+                  <l>
+                     <hi rend="italic">Ces jours passez, comme Amour vouloit tendre</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Son arc doré pour mon ame offencer,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Il aperçeut ma Dame s’avancer,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Qui de ce coup accouroit me defendre.</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Lors en tel point il se sentit surprendre,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Que plein d’effroy, je luy vey commencer</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Un train qui peult tous les vents devancer,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Tant peult ma Dame inutile le rendre :</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Mais en fuyant, ses traits je vey tomber,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Et tout soubdain la belle se courber,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Qui les print tous. Depuis Cupidon erre</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Tout desarmé, plein d’un amer ennuy,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Et ma Cypris des despouilles de luy</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Fait ore aux dieux comme aux hommes la guerre.</hi>
+                  </l>
+               </lg>
+               <p rend="justify">(Les Souspirs, sonnet CX.)</p>
+               <p rend="justify">Poème XIX</p>
+               <p rend="justify">[12]  Allusion aux événements du sac de Troie par les Grecs, et aux violences d’Ajax qui s’empara de Cassandre, fille de Priam.</p>
+               <p rend="justify">Poème XX</p>
+               <p rend="justify">[13]  A la demande du pape Paul IV, une armée française, sous les ordres de François de Lorraine, duc de Guise, le vainqueur de Stenay et de Metz, fut envoyée dans le royaume de Naples en 1557, contre le duc d’Albe. Les troupes françaises furent à Rome le 2 mars. Au milieu d’elles, Joachim du Bellay rencontra Rémy Belleau, qui suivait René d’Elbeuf.</p>
+               <p rend="justify">Joachim du Bellay célébra le départ des soldats français. Après le désastre de l’expédition, il écrivit un autre poème latin, à la mémoire des Français morts pour le pape Paul IV. Ce poème figure dans les <hi rend="italic">Tumuli</hi>  des <hi rend="italic">Poemata</hi>, sous le titre : <hi rend="italic">In Gallicam juventutem quæ pro Paulo IV. pont. max. bello Parthenopæo occubuit.</hi>
+               </p>
+               <p rend="justify">Poème XXI</p>
+               <p rend="justify">[14]  Aucun renseignement sur ce Polydore, qui semble avoir été l’un de ces « doctes esprits » de Rome que J. du Bellay se plut à fréquenter.</p>
+               <p rend="justify">Poème XXIV</p>
+               <p rend="justify">[15]</p>
+               <p rend="justify">
+                  <hi rend="italic">Nam mellita fuit…</hi>
+               </p>
+               <p rend="justify">Imité de Catulle (Épig. III, vers 6 — Sur la mort du moineau de Lesbie) :</p>
+               <p rend="justify">
+                  <hi rend="italic">Nam mellitus erat…</hi>
+               </p>
+               <p rend="justify">[16]</p>
+               <p rend="justify">
+                  <hi rend="italic">Ut vobis male sit…</hi>
+               </p>
+               <p rend="justify">Le poème étant visiblement écrit sous l’influence des souvenirs de Catulle, je pense qu’il y a lieu de considérer le <hi rend="italic">ut</hi>  donné par l’édition originale comme une faute d’impression, et de le remplacer par <hi rend="italic">at</hi>. Ainsi se retrouvera plus exactement et plus logiquement le <hi rend="italic">at vobis male sit, male tenebræ</hi>  (vers 13) de Catulle.</p>
+               <p rend="justify">Poème XXV</p>
+               <p rend="justify">[17]  J. du Bellay se souvenait probablement de ce poème de Jean Second :</p>
+               <lg>
+                  <l>
+                     <hi rend="italic">Non dat basia, dat Neæra nectar,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Dat rores animæ suaveolentes,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Dat nardumque, thymumque, cinnamumque,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Et mel, quale jugis legunt Hymetti</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Aut in cecropiis apes rosetis,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Atque hinc virgineis et inde ceris</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Septum vimineo tegunt quasillo :</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Quæ si multa mihi voranda dentur,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Immortalis in iis repente fiam</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Magnorumque epulis fruar Deorum.</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Sed tu munere parce, parce tali,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Aut mecum dea fac, Neæra, fias :</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Non mensas sine te volo Deorum ;</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Non, si me rutilis præesse regnis,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Excluso Jove, Dii deæque cogant.</hi>
+                  </l>
+               </lg>
+               <p rend="justify">(<hi rend="italic">Basia</hi>, IV.)</p>
+               <p rend="justify">[18]  On retrouve les principales idées des <hi rend="italic">Basia Faustinæ</hi>  dans cet <hi rend="italic">Autre Bayser</hi>  des <hi rend="italic">Jeux Rustiques</hi> :</p>
+               <lg>
+                  <l>
+                     <hi rend="italic">Quand ton col de couleur de rose</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Se donne à mon embrassement,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Et ton œil languist doulcement</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">D’une paupiere à demy close,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Mon ame se fond du desir</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Dont elle est ardentement pleine,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Et ne peult souffrir à grand’peine</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">La force d’un si grand plaisir.</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Puis quand j’approche de la tienne</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Ma lèvre, et que si pres je suis</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Que la fleur recueillir je puis</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">De ton haleine ambrosienne :</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Quand le souspir de ces odeurs,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Ou noz deux langues qui se jouënt,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Moitement folastrent et nouënt,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Evente ces doulces ardeurs,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Il me semble estre assis à table</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Avec les Dieux, tant suis heureux,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Et boire à longs traicts savoureux</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Leur doulx breuvage delectable.</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Si le bien qui au plus grand bien</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Est plus prochain, prendre on me laisse,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Pourquoy ne permets-tu, maistresse,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Qu’encores le plus grand soit mien ?</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">As-tu peur que la jouissance</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">D’un si grand heur me face Dieu</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Et que sans toy je vole au lieu</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">D’éternelle rejouissance ?</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Belle, n’aye peur de cela,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Partout ou sera ta demeure,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Mon ciel, jusqu’à tant que je meure,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Et mon paradis sera là.</hi>
+                  </l>
+                  <l>Poème XXVI</l>
+               </lg>
+               <p rend="justify">[19]</p>
+               <list rend="bulleted">
+                  <item>Lesbie : maîtresse de Catulle.</item>
+                  <item>Délie : maîtresse de Tibulle.</item>
+                  <item>Corinne : maîtresse d’Ovide.</item>
+                  <item>Cynthie : maîtresse de Properce.</item>
+                  <item>Lycoris : maîtresse de Gallus.</item>
+                  <item>Stella : maîtresse de J.-J. Pontano.</item>
+                  <item>Nina : maîtresse d’Actius Sincerus Sannazar.</item>
+                  <item>Néère : maîtresse de Marulle.</item>
+                  <item>Laure : maîtresse de Pétrarque.</item>
+                  <item>Candide : maîtresse de Th. de Bèze.</item>
+                  <item>Gelonis : maîtresse de Salmon Macrin.</item>
+                  <item>Cassandre : maîtresse de Ronsard.</item>
+                  <item>Pasithée : maîtresse de Pontus de Thyard.</item>
+                  <item>Melline : maîtresse de Baïf.</item>
+                  <item>Olive : maîtresse de J. du Bellay.</item>
+               </list>
+               <p rend="justify">On remarquera que dans ce poëme, à un moment où il subit l’influence de Jean Second, Joachim du Bellay ne nomme pas celui qui fut évidemment un de ses maîtres en poésie latine. Est-ce coquetterie ? Il nomme Néère, qui fut chantée par Jean Second dans le <hi rend="italic">Livre des Baisers</hi>, et l’on s’attend que, dans sa liste des poètes, il cite un tout autre poëte que Marulle, lequel chanta bien aussi une Néère et fut d’ailleurs à juste titre un des plus réputés des poètes néo-latins. Pourquoi Joachim du Bellay escamote-t-il Jean Second ?</p>
+               <p rend="justify">Appendice I. — Poème 2</p>
+               <p rend="justify">[20]</p>
+               <p rend="justify">
+                  <hi rend="italic">Nam castum esse decet pium poetam</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Ipsum, versiculos nihil necesse est.</hi>
+               </p>
+               <p rend="justify">Ces deux vers sont en effet de Catulle : poème XVI, à Aurélius et Rufus, vers 5 et 6.</p>
+               <p rend="justify">[21] <hi rend="italic">Gallum</hi> : les Galles, prêtres de Cybèle, étaient eunuques.</p>
+               <p rend="justify">Appendice I. — Poème 3</p>
+               <p rend="justify">[22]  Il s’agit probablement ici de Louis Bailleul, qui s’occupait d’archéologie, et qui servit de guide à J. du Bellay à travers les ruines de Rome.</p>
+               <p rend="justify">Appendice II. — Patriæ desiderium</p>
+               <p rend="justify">[23]  Le thème de ce long poème latin est le thème de la plupart des sonnets dont se compose le livre des <hi rend="italic">Regrets</hi>. En plus d’un endroit, Joachim du Bellay répète l’idée de tel vers isolé du <hi rend="italic">Patriæ desiderium</hi>  en un alexandrin ou en un tercet. Ailleurs, c’est un sonnet entier qui développe ou traduit un fragment de l’élégie latine. Nous donnerons ici quelques-uns des plus beaux sonnets qu’on peut rapprocher du <hi rend="italic">Patriæ desiderium</hi>. Cependant, il faut noter qu’il n’est pas certain que le <hi rend="italic">Patriæ desiderium</hi>  soit antérieur à tous ces sonnets. Rien ne nous permet en effet d’affirmer que la version latine formant bloc précéda la version française dispersée. C’est peut-être de tous ces sonnets successifs que le poète se divertit à construire son long poème latin. Il convient donc de réserver la question de priorité, et de s’en tenir à la seule constatation d’un parallélisme curieux.</p>
+               <p rend="justify">I</p>
+               <lg>
+                  <l>
+                     <hi rend="italic">Quiconques (mon Bailleul) fait longuement séjour</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Soubs un ciel incogneu, et quiconques endure</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">D’aller de port en port cherchant son adventure,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Et peult vivre estranger dessoubs un autre jour :</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Qui peult mettre en oubly de ses parents l’amour,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">L’amour de sa maistresse, et l’amour que nature</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Nous fait porter au lieu de nostre nourriture,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Et voyage tousjours sans penser au retour :</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Il est fils d’un rocher ou d’une ourse cruelle,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Et digne qui jadis ait succé la mamelle</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">D’une tygre inhumaine : encor ne void-on point</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Que les fiers animaux en leurs forts ne retournent,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Et ceulx qui parmy nous domestiques séjournent,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Tousjours de la maison le doulx desir les poingt.</hi>
+                  </l>
+               </lg>
+               <p rend="justify">(<hi rend="italic">Les Regrets</hi>, sonnet XXX.)</p>
+               <p rend="justify">II</p>
+               <lg>
+                  <l>
+                     <hi rend="italic">Ce pendant que tu dis ta Cassandre divine,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Les louanges du Roy, et l’héritier d’Hector,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Et ce Montmorancy, nostre François Nestor,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Et que de sa faveur Henry t’estime digne,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Je me pourmene seul sur la rive Latine,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">La France regrettant, et regrettant encor</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Mes antiques amis, mon plus riche tresor,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Et le plaisant séjour de ma terre Angevine.</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Je regrette les bois, et les champs blondissans,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Les vignes, les jardins, et les prez verdissans,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Que mon fleuve traverse : icy pour recompense</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Ne voyant que l’orgueil de ces monceaux pierreux,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Ou me tient attaché d’un espoir malheureux</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Ce que possede moins celuy qui plus y pense.</hi>
+                  </l>
+               </lg>
+               <p rend="justify">(<hi rend="italic">Les Regrets</hi>, sonnet XIX.)</p>
+               <p rend="justify">III</p>
+               <lg>
+                  <l>
+                     <hi rend="italic">Heureux qui, comme Ulysse, a fait un beau voyage,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Ou comme cestuy là qui conquit la toison,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Et puis est retourné, plein d’usage et raison,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Vivre entre ses parents le reste de son aage !</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Quand revoiray-je, helas, de mon petit village</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Fumer la cheminée, et en quelle saison</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Revoiray-je le clos de ma pauvre maison,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Qui m’est une province, et beaucoup d’avantage ?</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Plus me plaist le séjour qu’ont basty mes ayeux,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Que des palais Romains le front audacieux :</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Plus que le marbre dur me plaist l’ardoise fine,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Plus mon Loyre Gaulois que le Tybre Latin,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Plus mon petit Lyré que le mont Palatin,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Et plus que l’air marin la doulceur Angevine.</hi>
+                  </l>
+               </lg>
+               <p rend="justify">(<hi rend="italic">Les Regrets</hi>, sonnet XXXI.)</p>
+               <p rend="justify">IV</p>
+               <lg>
+                  <l>
+                     <hi rend="italic">Las, ou est maintenant ce mespris de Fortune ?</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Ou est ce cœur vainqueur de toute adversité,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Cest honneste desir de l’immortalité,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Et ceste honneste flamme au peuple non commune ?</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Ou sont ces doulx plaisirs, qu’au soir soubs la nuict brune</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Les Muses me donnoient, alors qu’en liberté</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Dessus le verd tapy d’un rivage esquarté</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Je les menois danser aux rayons de la Lune ?</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Maintenant la Fortune est maistresse de moy,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Et mon cœur, qui souloit estre maistre de soy,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Est serf de mille maux et regrets qui m’ennuyent.</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">De la postérité je n’ay plus de souci,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Ceste divine ardeur, je ne l’ay plus aussi,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Et les Muses de moy, comme estranges, s’enfuyent.</hi>
+                  </l>
+               </lg>
+               <p rend="justify">(<hi rend="italic">Les Regrets</hi>, sonnet VI.)</p>
+               <p rend="justify">V</p>
+               <lg>
+                  <l>
+                     <hi rend="italic">Ce n’est le fleuve Thusque au superbe rivage,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Ce n’est l’air des Latins, ny le mont Palatin,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Qui ores (mon Ronsard) me fait parler Latin,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Changeant à l’estranger mon naturel langage.</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">C’est l’ennuy de me voir trois ans et d’avantage,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Ainsi qu’un Prométhé, cloué sur l’Aventin,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Ou l’espoir misérable et mon cruel destin,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Non le joug amoureux, me detient en servage.</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Et quoy (Ronsard) et quoy, si au bord estranger</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Ovide osa sa langue en barbare changer</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Afin d’estre entendu, qui me pourra reprendre</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">D’un change plus heureux ? nul, puis que le François,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Quoy qu’au Grec et Romain egalé tu te sois,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Au rivage Latin ne se peult faire entendre.</hi>
+                  </l>
+               </lg>
+               <p rend="justify">(<hi rend="italic">Les Regrets</hi>, sonnet X.)</p>
+               <p rend="justify">VI</p>
+               <lg>
+                  <l>
+                     <hi rend="italic">Ce pendant que la court mes ouvrages lisoit,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Et que la sœur du Roy, l’unique Marguerite,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Me faisant plus d’honneur que n’estoit mon merite,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">De son bel œil divin mes vers favorisoit,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Une fureur d’esprit au ciel me conduisoit</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">D’une aile qui la mort et les siècles evite,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Et le docte troppeau qui sur Parnasse habite,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">De son feu plus divin mon ardeur attisoit.</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Ores je suis muet, comme on void la Prophete,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Ne sentant plus le Dieu qui la tenoit sujette,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Perdre soudainement la fureur et la voix.</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Et qui ne prend plaisir qu’un Prince luy commande ?</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">L’honneur nourrit les arts, et la Muse demande</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Le theatre du peuple et la faveur des Roys.</hi>
+                  </l>
+               </lg>
+               <p rend="justify">(<hi rend="italic">Les Regrets</hi>, sonnet VII.)</p>
+               <p rend="justify">Appendice III. — Tumulus romæ veteris</p>
+               <p rend="justify">De cette élégie latine, il faut rapprocher le sonnet suivant, des <hi rend="italic">Antiquités de Rome</hi>  (sonnet IV) :</p>
+               <lg>
+                  <l>
+                     <hi rend="italic">Celle qui de son chef les estoilles passoit,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Et d’un pied sur Thetis, l’autre dessus l’Aurore,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">D’une main sur la Scythe, et l’autre sur le More,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">De la terre et du ciel la rondeur compassoit,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Juppiter ayant peur, si plus elle croissoit,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Que l’orgueil des Geans se relevast encore,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">L’accabla sous ces monts, ces sept monts qui sont ore</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Tumbeaux de la grandeur qui le ciel menassoit.</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Il luy meist sur le chef la croppe Saturnale,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Puis dessus l’estomac assist la Quirinale,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Sur le ventre il planta l’antique Palatin,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Mist sur la dextre main la hauteur Celienne,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Sur la senestre assist l’eschine Exquilienne,</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">Viminal sur un pied, sur l’autre l’Aventin.</hi>
+                  </l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>TABLE</head>
+               <p rend="justify"> </p>
+               <p rend="justify">Pages.</p>
+               <p rend="justify">I.</p>
+               <p rend="justify">— Introduction</p>
+               <p rend="justify">11</p>
+               <p rend="justify">II.</p>
+               <p rend="justify">— Les Amours de Faustine :</p>
+               <p rend="justify">1.</p>
+               <p rend="justify">
+                  <hi rend="italic">Ad Lectorem</hi>  (Au Lecteur)</p>
+               <p rend="justify">26</p>
+               <p rend="justify">2.</p>
+               <p rend="justify">
+                  <hi rend="italic">Ad Gordium</hi>  (A Gordes)</p>
+               <p rend="justify">28</p>
+               <p rend="justify">3.</p>
+               <p rend="justify">
+                  <hi rend="italic">Ad Venerem</hi>  (A Vénus)</p>
+               <p rend="justify">30</p>
+               <p rend="justify">4.</p>
+               <p rend="justify">
+                  <hi rend="italic">Raptus Faustinæ</hi>  (L’Enlèvement de Faustine)</p>
+               <p rend="justify">32</p>
+               <p rend="justify">5.</p>
+               <p rend="justify">
+                  <hi rend="italic">Faustinam primam fuisse quam Romæ adamaverit</hi>  (Que Faustine est la première femme dont il se soit épris à Rome)</p>
+               <p rend="justify">36</p>
+               <p rend="justify">6.</p>
+               <p rend="justify">
+                  <hi rend="italic">Ad januam Faustinæ</hi>  (A la porte de Faustine)</p>
+               <p rend="justify">38</p>
+               <p rend="justify">7.</p>
+               <p rend="justify">
+                  <hi rend="italic">Se perpetuo Faustinæ memorem futurum</hi>  (Qu’il se souviendra toujours de Faustine)</p>
+               <p rend="justify">40</p>
+               <p rend="justify">8.</p>
+               <p rend="justify">
+                  <hi rend="italic">De Vulcano et marito Faustinæ</hi>  (Vulcain et le mari de Faustine)</p>
+               <p rend="justify">42</p>
+               <p rend="justify">9.</p>
+               <p rend="justify">
+                  <hi rend="italic">Cur sit iratus marito Faustinæ</hi>  (Pourquoi il en veut au mari de Faustine)</p>
+               <p rend="justify">44</p>
+               <p rend="justify"> </p>
+               <p rend="justify">10.</p>
+               <p rend="justify">
+                  <hi rend="italic">Cum Faustina inclusam esse Venerem et Amorem</hi>  (Qu’avec Faustine sont emprisonnés Vénus et l’Amour)</p>
+               <p rend="justify">46</p>
+               <p rend="justify">11.</p>
+               <p rend="justify">
+                  <hi rend="italic">Optat se inclusum cum Faustina</hi>  (Qu’il voudrait bien être emprisonné avec Faustine)</p>
+               <p rend="justify">48</p>
+               <p rend="justify">12.</p>
+               <p rend="justify">
+                  <hi rend="italic">Cur Vestalibus innati sint velut quidam amoris igniculi</hi>  (Pourquoi les Vestales ont naturellement de certains petits feux d’amour)</p>
+               <p rend="justify">52</p>
+               <p rend="justify">13.</p>
+               <p rend="justify">
+                  <hi rend="italic">In durum janitorem</hi>  (Contre un portier insensible)</p>
+               <p rend="justify">54</p>
+               <p rend="justify">14.</p>
+               <p rend="justify">
+                  <hi rend="italic">Cum Faustina omnia sibi esse erepta</hi>  (Qu’avec Faustine on lui a tout enlevé)</p>
+               <p rend="justify">58</p>
+               <p rend="justify">15.</p>
+               <p rend="justify">
+                  <hi rend="italic">Pandoræ nomen aptius fuisse Faustinæ</hi>  (Que le nom de Pandora eût mieux convenu à Faustine)</p>
+               <p rend="justify">60</p>
+               <p rend="justify">16.</p>
+               <p rend="justify">
+                  <hi rend="italic">Cognomen Faustinæ</hi>  (Le surnom de Faustine)</p>
+               <p rend="justify">62</p>
+               <p rend="justify">17.</p>
+               <p rend="justify">
+                  <hi rend="italic">Faustinæ velut quoddam inesse amoris numen</hi>  (Qu’en Faustine il y a une espèce de force d’amour toute divine)</p>
+               <p rend="justify">66</p>
+               <p rend="justify">18.</p>
+               <p rend="justify">
+                  <hi rend="italic">Quanta sit vis amoris in Faustina</hi>  (Le grand pouvoir d’amour que possède Faustine)</p>
+               <p rend="justify">68</p>
+               <p rend="justify">19.</p>
+               <p rend="justify">
+                  <hi rend="italic">Quomodo rapta fuerit Faustina</hi>  (Comment Faustine a été enlevée)</p>
+               <p rend="justify">70</p>
+               <p rend="justify">20.</p>
+               <p rend="justify">
+                  <hi rend="italic">Ad milites Gallos cum ad bellum neapolitanum proficiscerentur</hi>  (Aux soldats français lors de leur départ pour la guerre de Naples)</p>
+               <p rend="justify">74</p>
+               <p rend="justify">21.</p>
+               <p rend="justify">
+                  <hi rend="italic">Ad Polydorum de Faustina</hi>  (A Polydore, à propos de Faustine)</p>
+               <p rend="justify">78</p>
+               <p rend="justify">22.</p>
+               <p rend="justify">
+                  <hi rend="italic">Somnium</hi>  (Songe)</p>
+               <p rend="justify">84</p>
+               <p rend="justify">23.</p>
+               <p rend="justify">
+                  <hi rend="italic">Votum ad Venerem</hi>  (Offrande à Vénus)</p>
+               <p rend="justify">88</p>
+               <p rend="justify">24.</p>
+               <p rend="justify">
+                  <hi rend="italic">Voti solutio</hi>  (Le vœu accompli)</p>
+               <p rend="justify">90</p>
+               <p rend="justify">25.</p>
+               <p rend="justify">
+                  <hi rend="italic">Basia Faustinæ</hi>  (Les baisers de Faustine)</p>
+               <p rend="justify">94</p>
+               <p rend="justify">26.</p>
+               <p rend="justify">
+                  <hi rend="italic">De poetarum amoribus ad Gordium</hi>  (Amours de poètes, — à Gordes)</p>
+               <p rend="justify">98</p>
+               <p rend="justify">III.</p>
+               <p rend="justify">— Appendice :</p>
+               <p rend="justify">I.</p>
+               <p rend="justify">Pièces supprimées :</p>
+               <p rend="justify"> </p>
+               <p rend="justify">1.</p>
+               <p rend="justify">
+                  <hi rend="italic">De amoris violentia, ex Anacreonte</hi>  (La Force de l’amour, — tiré d’Anacréon)</p>
+               <p rend="justify">104</p>
+               <p rend="justify">2.</p>
+               <p rend="justify">
+                  <hi rend="italic">Ad Fabullam cur amatoria non scribat</hi>  (A Fabulla, pourquoi il n’écrit pas des vers érotiques)</p>
+               <p rend="justify">106</p>
+               <p rend="justify">3.</p>
+               <p rend="justify">
+                  <hi rend="italic">De cœco viam indicante</hi>  (L’aveugle qui montre le chemin)</p>
+               <p rend="justify">110</p>
+               <p rend="justify">II.</p>
+               <p rend="justify">
+                  <hi rend="italic">Patriæ desiderium</hi>  (La patrie regrettée)</p>
+               <p rend="justify">112</p>
+               <p rend="justify">III.</p>
+               <p rend="justify">
+                  <hi rend="italic">Tumulus Romæ veteris</hi>  (Tombeau de la Rome antique)</p>
+               <p rend="justify">124</p>
+               <p rend="justify">IV.</p>
+               <p rend="justify">— Notes</p>
+               <p rend="justify">129</p>
+               <lg>
+                  <l>ACHEVÉ D’IMPRIMER</l>
+                  <l>LE 8 JANVIER 1923</l>
+                  <l>PAR F. PAILLART A</l>
+                  <l>ABBEVILLE (SOMME).</l>
+               </lg>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

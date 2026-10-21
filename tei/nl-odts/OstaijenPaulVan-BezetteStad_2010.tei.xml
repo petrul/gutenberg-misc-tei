@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bezette stad</title>
+            <author>Paul van Ostaijen</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-01T18:16:51Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">odts/nl-odts/OstaijenPaulVan-BezetteStad_2010.epub.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Paul van Ostaijen</name>
+               <date>2024-01-01T18:16:51Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Bezette stad</head>
+         <author>Paul van Ostaijen</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">odts/nl-odts/OstaijenPaulVan-BezetteStad_2010.epub.odt</p>
+         <p>Produced by Marc D'Hooghe</p>
+         <pb/>
+         <div type="div1">
+            <head>README FILE ONLY:</head>
+            <pb/>
+            <div type="div2">
+               <head>BEZETTE STAD</head>
+               <p rend="justify">By Paul van Ostayen</p>
+               <p rend="justify">Transcriber's Note: This eBook is presented only in PDF format:</p>
+               <p rend="justify">Project Gutenberg: 31978-pdf.pdf</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

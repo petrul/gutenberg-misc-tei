@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La géométrie en vers techniques</title>
+            <author>Lyon Des Roys</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-01T19:58:23Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">odts/fr-odts/RoysLyonDes-LaG_2008.epub.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Lyon Des Roys</name>
+               <date>2024-01-01T19:58:23Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>La géométrie en vers techniques</head>
+         <author>Lyon Des Roys</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">odts/fr-odts/RoysLyonDes-LaG_2008.epub.odt</p>
+         <head>LA GÉOMÉTRIE<lb/>EN VERS TECHNIQUES,</head>
+         <p>Par Desrois, ancien Doyen de Mortain.</p>
+         <p>Rien n'est beau que le vrai; le vrai seul est aimable.</p>
+         <p>A PARIS,<lb/>Chez l'Auteur, rue de la Loi, maison du C<hi rend="sup">en</hi>  Dareste, n<hi rend="sup">o</hi>  74, près la rue Faydeau.</p>
+         <p>An IX.—1801.</p>
+         <p>AVIS.</p>
+         <p>On est prévenu que tout ce qui ne se vendra pas chez l'Auteur sera contrefait.</p>
+         <pb/>
+         <div type="div1">
+            <head>La géométrie en vers techniques</head>
+            <pb/>
+            <div type="div2">
+               <head>ÉPITRE DÉDICATOIRE A MES ÉCOLIERS.</head>
+               <lg>
+                  <l>Chers Géomètres de Juilly,</l>
+                  <l>Pour qui mon cœur est tout rempli</l>
+                  <l>De bienveillance et de tendresse,</l>
+                  <l>C'est à vous que ceci s'adresse;</l>
+                  <l>C'est à vous que j'offre mes vers.</l>
+                  <l>Ils ne vous rendront point pervers:</l>
+                  <l>La rime en est quelquefois dure,</l>
+                  <l>Mais la vérité toujours pure;</l>
+                  <l>C'est-là leur seule qualité;</l>
+                  <l>C'est-là leur unique beauté.</l>
+                  <l>Il vous faudra quelque courage,</l>
+                  <l>Pour apprendre un pareil ouvrage.</l>
+                  <l>Mais enfin vous l'avez promis:</l>
+                  <l>Souvenez-vous en mes amis.</l>
+                  <l>Vous, dont la gloire m'intéresse,</l>
+                  <l>Ah! faites trève à la paresse.</l>
+                  <l>La paresse a bien des appas;</l>
+                  <l>Mais, sans gloire on n'existe pas:</l>
+                  <l>Le désir ardent de l'estime</l>
+                  <l>Nous fait faire un effort sublime.</l>
+                  <l>Cette estime, objet de vos vœux,</l>
+                  <l>Le besoin des cœurs généreux,</l>
+                  <l>Vous savez qu'on lui sacrifie</l>
+                  <l>Souvent jusqu'à sa propre vie:</l>
+                  <l>C'est-là le destin des héros;</l>
+                  <l>Elle sait payer les travaux</l>
+                  <l>De Bonaparte et d'Alexandre.</l>
+                  <l>Mais, bien plus, je dois vous apprendre</l>
+                  <l>Que le plaisir même, ici bas,</l>
+                  <l>Sans le travail ne s'obtient pas.</l>
+                  <l>C'est une vérité constante:</l>
+                  <l>Le reste trompe notre attente;</l>
+                  <l>Mais le travail a des douceurs</l>
+                  <l>Qui font oublier les rigueurs</l>
+                  <l>De la fortune et de l'envie;</l>
+                  <l>C'est le soutien de notre vie.</l>
+                  <l>Est-il besoin de vous montrer</l>
+                  <l>Tous les fruits qu'on en peut tirer?</l>
+                  <l>Être satisfait de soi-même,</l>
+                  <l>Repousser la pauvreté blême,</l>
+                  <l>Aux premiers emplois être mis,</l>
+                  <l>Recevoir chez soi ses amis,</l>
+                  <l>Élever, établir un frère,</l>
+                  <l>Venir au secours d'une mère;</l>
+                  <l>Tels sont ses fruits doux et charmans,</l>
+                  <l>Et tels sont, ô mes chers enfans,</l>
+                  <l>Les nobles plaisirs de la vie:</l>
+                  <l>Les autres ne sont que folie.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>PRÉFACE.</head>
+               <p rend="justify">La Géométrie est si cultivée de nos jours, qu'il n'est presque plus permis d'en ignorer les principes. Nos ouvrages modernes les présentent avec une netteté et une précision qui ne laisse rien à désirer. Mais plus ils sont conçus aisément, moins ils se gravent dans la mémoire; et quelques années de distraction, ou d'une étude étrangère, suffisent ordinairement pour les faire oublier.</p>
+               <p rend="justify">C'est à cet inconvénient que j'ai voulu remédier[1]. Attaché à une maison d'étude, où, conjointement avec les plus solides instructions, l'art des vers est si heureusement cultivé[2], j'ai bien osé appeler cet art au secours de la Géométrie; et, à force de lutter contre le plus rebelle de tous les sujets, je suis parvenu à exprimer assez clairement les principes les plus élémentaires. Heureux si l'utile se trouve où l'agréable ne saurait être.</p>
+               <p rend="justify">[1]  Sans doute, il y a de la folie à une pareille entreprise; mais si mes vers n'apprennent pas beaucoup de Géométrie à nos jeunes Français, peut-être apprendront-ils un peu de français à nos jeunes Géomètres: car on les accuse de négliger cette partie que nous regardions autrefois comme essentielle, et dont on fait encore beaucoup de cas à Juilly.</p>
+               <p rend="justify">[2]  Nous avons vu cette année des Rhétoriciens de quinze ans mettre Virgile en vers français, dont nos Poëtes les plus consommés se feraient honneur. De tels Elèves font assez l'éloge du Collége de Juilly. Mais la plus grande gloire de cette maison célèbre, c'est d'avoir été de tous temps l'école des bonnes mœurs, et de ces principes salutaires qui sont les seuls garans incorruptibles de toute sagesse et de toute vertu.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>LA GÉOMÉTRIE EN VERS TECHNIQUES.</head>
+               <lg>
+                  <l>Sans surface est le point, le plan sans épaisseur;</l>
+                  <l>La ligne droite ou courbe est longue sans largeur:</l>
+                  <l>La raison le condamne, et la raison l'exige.</l>
+                  <l>La ligne droite au but constamment se dirige;</l>
+                  <l>Et c'est, par conséquent, devant tous les humains</l>
+                  <l>Entre deux points donnés le plus court des chemins.</l>
+                  <l>La courbe est, au contraire, une route incertaine,</l>
+                  <l>Qui vers le point quitté bien souvent me ramène;</l>
+                  <l>Mais elle a des vertus qui par-tout font du bruit:</l>
+                  <l>C'est le cercle d'abord qui me plaît et m'instruit.</l>
+                  <l>Voyez l'astre du jour en sa vaste carrière;</l>
+                  <l>Il promène avec pompe un cercle de lumière,</l>
+                  <l>Forme parfaite aux yeux, dont l'art du Créateur</l>
+                  <l>Sur nos savans esprits revendique l'honneur.</l>
+                  <l>J'établirai d'abord, comme lois générales,</l>
+               </lg>
+               <p rend="justify">Que les arcques[3]  égaux ont des cordes égales,</p>
+               <lg>
+                  <l>Et que les plus grands arcs sont toujours sous-tendus</l>
+                  <l>Par les cordes aussi qui s'étendent le plus.</l>
+                  <l>L'angle, au centre placé par sa propre nature,</l>
+                  <l>Dans les degrés du cercle a trouvé sa mesure:</l>
+                  <l>L'aigu, l'obtus, le droit qui n'a point de rivaux;</l>
+                  <l>Opposés au sommets, ils sont toujours égaux.</l>
+               </lg>
+               <p rend="justify">[3]  C'est une licence que je prends à l'exemple des anciens poëtes, qui écrivaient <hi rend="italic">avecque</hi>. Je prends encore celle de faire rimer les dérivés <hi rend="italic">angles</hi>, <hi rend="italic">triangles</hi>; <hi rend="italic">internes</hi>, <hi rend="italic">externes</hi>, &amp;c.</p>
+               <lg>
+                  <l>La perpendiculaire a confondu l'oblique;</l>
+                  <l>Je la démontrerai plus courte sans réplique,</l>
+                  <l>Et que chacun des points, mesuré dans son lieu,</l>
+                  <l>Des deux extrémités tient le juste milieu.</l>
+                  <l>A l'abri de l'envie, en compagnes fidèles,</l>
+                  <l>On voit marcher de front deux lignes parallèles;</l>
+                  <l>Mais l'oblique sécante, aussitôt survenant</l>
+                  <l>Va nous faire observer l'angle correspondant.</l>
+                  <l>Il sert à comparer les alternes internes,</l>
+                  <l>Egaux entre eux ainsi qu'entre eux sont les externes.</l>
+                  <l>Deux cercles se touchant en un point, quel qu'il soit,</l>
+                  <l>Leurs centres et le point sont sur un chemin droit.</l>
+                  <l>Si la corde au rayon est perpendiculaire,</l>
+                  <l>Elle est coupée en deux, et la part circulaire.</l>
+                  <l>Parallèles étant deux cordes, j'en conclus</l>
+                  <l>Que deux arcques égaux y seront contenus,</l>
+                  <l>Et que toute tangente à corde parallèle,</l>
+                  <l>Touche au milieu de l'arc sous-tendu par icelle.</l>
+                  <l>L'angle dont le sommet à la courbe se rend,</l>
+                  <l>A moitié des degrés de l'arcque qu'il comprend,</l>
+                  <l>Lorsqu'il est au dehors, le cas devient complexe,</l>
+                  <l>Du concave moitié, moins moitié du convexe;</l>
+                  <l>S'il est entre le centre et la courbe compris,</l>
+                  <l>Des moitiés des deux arcs les degrés seront pris.</l>
+                  <l>Avançant pas-à-pas, par des règles austères</l>
+                  <l>Des triangles égaux traçons les caractères.</l>
+               </lg>
+               <p rend="justify">1<hi rend="sup">o</hi>  Entre côtés égaux un angle intercepté;</p>
+               <p rend="justify">2<hi rend="sup">o</hi>  Les deux angles égaux sur un égal côté;</p>
+               <p rend="justify">3<hi rend="sup">o</hi>  Les trois côtés enfin tous égaux l'un à l'autre,</p>
+               <p rend="justify">Satisfont sur cela mon esprit et le vôtre.</p>
+               <lg>
+                  <l>Ces trois règles qui sont faciles à montrer,</l>
+                  <l>Dans d'autres vérités sauront nous faire entrer.</l>
+                  <l>Parallèles gissant entre deux parallèles,</l>
+                  <l>S'offrent par la seconde être égales entre elles.</l>
+               </lg>
+               <div type="div3">
+                  <head>POLYGONES</head>
+                  <lg>
+                     <l>Le nombre des côtés détermine le nom</l>
+                     <l>De chaque polygone ou régulier ou non.</l>
+                     <l>Il est, dans tous les cas, divisible en triangles:</l>
+                     <l>Comptez-en deux de moins que vous ne comptez d'angles;</l>
+                     <l>Et, prenant pour chacun cent quatre-vingt degrés,</l>
+                     <l>Vous en ferez la somme et la diviserez.</l>
+                     <l>Chaque ligue en un sens se trouvant prolongée,</l>
+                     <l>De tous leurs supplémens la figure est chargée.</l>
+                     <l>La somme de ceux-ci vaudra trois cent soixante,</l>
+                     <l>Entre eux et le total différence constante.</l>
+                     <l>Ensemble étant égaux les angles et côtés,</l>
+                     <l>Les polygones sont réguliers réputés.</l>
+                     <l>Dans le cercle toujours un tel polygone entre,</l>
+                     <l>Soit l'angle intérieur, soit l'angle dit au centre</l>
+                     <l>Est par ce que j'ai dit, aisément supputé,</l>
+                     <l>Rayon dans l'exagone est égal au côté.</l>
+                     <l>Veut-on un polygone à forme régulière,</l>
+                     <l>Qui, répété, recouvre une surface entière?</l>
+                     <l>Que du cercle complet l'angle soit diviseur.</l>
+                     <l>A l'heureux exagone accordez-en l'honneur.</l>
+                     <l>L'abeille l'a choisi: voyez-la qui dispose</l>
+                     <l>La case où se rendra le tribut de la rose;</l>
+                     <l>Elle vous instruit mieux que ma triste leçon.</l>
+                     <l>Quand pourrai-je en avoir autour de ma maison;</l>
+                     <l>Et, cultivant en paix mon coin de la Champagne,</l>
+                     <l>De leurs essaims nombreux enrichir ma campagne?</l>
+                     <l>Mais à d'autres travaux je me vois condamné.</l>
+                     <l>Rimons en attendant ce destin fortuné.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LIGNES PROPORTIONNELLES</head>
+                  <lg>
+                     <l>Coupant l'un des côtés d'un angle rectiligne</l>
+                     <l>En égales longueurs que le compas désigne,</l>
+                     <l>Et de chacun des points où l'on s'est arrêté</l>
+                     <l>Parallèles menant jusqu'à l'autre côté,</l>
+                     <l>Je soutiens celui-ci coupé depuis le faîte</l>
+                     <l>En parts qui sont aussi d'égalité parfaite.</l>
+                     <l>Si l'on prend nombre égal de ces égales parts,</l>
+                     <l>L'on aura sur chacun ou des tiers ou des quarts;</l>
+                     <l>Et divisant l'un d'eux au gré de son envie,</l>
+                     <l>Sur l'autre l'on aura la semblable partie:</l>
+                     <l>Le rapport que je cherche ainsi sera trouvé,</l>
+                     <l>Et je construis l'échelle au plan que j'ai levé.</l>
+                     <l>De-là nous passons droit aux triangles semblables</l>
+                     <l>Dont les propriétés sont inappréciables.</l>
+                     <l>On peut les reconnaître à trois signes certains</l>
+                  </lg>
+                  <p rend="justify">1<hi rend="sup">o</hi>  Deux côtés comprenant même angle dans leurs seins,</p>
+                  <p rend="justify">Et de qui les longueurs sont proportionnelles;</p>
+                  <p rend="justify">2<hi rend="sup">o</hi>  Les trois faces ayant même rapport entre elles;</p>
+                  <p rend="justify">3<hi rend="sup">o</hi>  Les trois angles égaux que l'on réduit à deux,</p>
+                  <lg>
+                     <l>Tels sont de leurs vertus les symptômes heureux.</l>
+                     <l>Je vais, par leur secours, bravant toute défense,</l>
+                     <l>D'inaccessibles lieux mesurer la distance;</l>
+                     <l>Je vais sans y monter vous dire avec rigueur</l>
+                     <l>Combien votre clocher peut avoir de hauteur.</l>
+                     <l>Ces jeux n'étonnent plus que les yeux de l'enfance:</l>
+                     <l>Nous avons des secrets de toute autre importance;</l>
+                     <l>Mais pour y pénétrer, il faut que vos esprits</l>
+                     <l>Du désir de savoir soient vivement épris.</l>
+                     <l>Le triangle rectangle et son hypothénuse</l>
+                     <l>Ont des propriétés que pas un ne récuse;</l>
+                     <l>La perpendiculaire allant à l'angle droit</l>
+                     <l>De nous les démontrer aura bientôt le droit.</l>
+                     <l>En deux extrêmes parts coupant l'hypothénuse</l>
+                     <l>C'est un terme moyen dont au besoin l'on use.</l>
+                     <l>Les deux côtés de plus sont moyens en tout temps</l>
+                     <l>Entre l'hypothénuse et chacun des segmens.</l>
+                     <l>Les cordes ont reçu le don non équivoque</l>
+                     <l>De se couper toujours en raison réciproque.</l>
+                     <l>Sécantes qui font angle en un point mitoyen,</l>
+                     <l>Font chacune un extrême et chacune un moyen,</l>
+                     <l>Ou réciproques sont aux parts extérieures.</l>
+                     <l>Les plus claires raisons sont toujours les meilleures.</l>
+                     <l>La perpendiculaire, au diamètre allant,</l>
+                     <l>Est moyenne aux deux parts, je le prouve à l'instant.</l>
+                     <l>De pareille vertu s'honore la tangente</l>
+                     <l>Entre un côté sortant et l'entière sécante.</l>
+                     <l>Deux figures étant semblables, sous sentez</l>
+                     <l>Que leurs contours entiers sont comme leurs côtés,</l>
+                     <l>Et qu'un même rapport règne sans différences</l>
+                     <l>Entre divers rayons et leurs circonférences.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LES SURFACES.</head>
+                  <lg>
+                     <l>Amour universel de la propriété,</l>
+                     <l>C'est par toi que notre art un jour fut inventé;</l>
+                     <l>Mais il n'est rien de bon où l'abus ne se glisse,</l>
+                     <l>Et souvent dans nos cœurs tu deviens avarice.</l>
+                     <l>Que ce vilain défaut chez nous soit ignoré.</l>
+                     <l>Pour commune mesure adoptons un quarré:</l>
+                     <l>Son côté, tour-à-tour placé sur chaque face,</l>
+                     <l>Du rectangle aisément nous produit la surface.</l>
+                     <l>Le parallélogramme au rectangle équivaut,</l>
+                     <l>Quand il est aussi large et qu'il n'est pas plus haut.</l>
+                     <l>Vous multiplierez donc la hauteur par la base;</l>
+                     <l>Opérez lestement, démontrez sans emphase,</l>
+                     <l>Et prenant simplement la moitié du produit,</l>
+                     <l>Au triangle déjà vous vous trouvez conduit:</l>
+                     <l>Puisqu'il est la moitié du parallélogramme,</l>
+                     <l>A mon secours, par-tout, c'est lui que je réclame.</l>
+                     <l>Le trapèze en a deux plus ou moins inégaux;</l>
+                     <l>Vous prendrez un moyen aux deux côtés rivaux:</l>
+                     <l>L'exagone en a quatre ou six en son enceinte,</l>
+                     <l>Et la surface courbe elle-même est atteinte.</l>
+                     <l>Le cercle est composé de triangles aigus,</l>
+                     <l>Entre un double rayon tout autour contenus.</l>
+                     <l>Vous pouvez, pour facteurs, prendre en toute assurance</l>
+                     <l>La moitié du rayon et la circonférence;</l>
+                     <l>Mais, hélas! l'on n'a pu trouver par nul effort</l>
+                     <l>De la courbe au rayon l'introuvable rapport.</l>
+                     <l>N'espérons pas qu'ici notre ignorance fasse</l>
+                     <l>Ce que n'ont pas pu faire et <hi rend="italic">Lagrange</hi> et <hi rend="italic">Laplace</hi>:</l>
+                     <l>D'ailleurs nous avons l'art d'en approcher si bien</l>
+                     <l>Qu'un rapport plus parfait ne servirait à rien.</l>
+                     <l>Il suffit qu'à présent votre tête possède</l>
+                     <l>Celui qu'avait trouvé notre maître Archimède.</l>
+                     <l>IL en est un plus sûr, mais aussi moins succinct;</l>
+                     <l>C'est celui de cent treize à trois cent cinquant'-cinq:</l>
+                     <l>Il approche du but à des millionnièmes.</l>
+                     <l>L'autre, vous le savez, est les vingt-deux septièmes;</l>
+                     <l>Multipliez par lui le quarré du rayon,</l>
+                     <l>Vous aurez, sur-le-champ, tout cercle en question.</l>
+                     <l>Vous savez comment sont deux semblables surfaces:</l>
+                     <l>Leur rapport est celui des quarrés de leurs faces.</l>
+                     <l>Les cercles suivent donc les quarrés des rayons:</l>
+                     <l>L'on abrège par là les opérations.</l>
+                     <l>C'est un simple calcul dont tous les jours on use,</l>
+                     <l>Ainsi que du quarré fait sur l'hypothénuse,</l>
+                     <l>Qui vaut les deux quarrés construits sur l'angle droit,</l>
+                     <l>Propriété chez nous renommée à bon droit.</l>
+                     <l>Maints problèmes jolis sont résolus par elle;</l>
+                     <l>Par elle, j'ai de deux la racine fidelle.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>DES PLANS.</head>
+                  <lg>
+                     <l>Il est de la nature et l'essence des plans</l>
+                     <l>Que la droite sur eux s'applique en tous les sens:</l>
+                     <l>D'où s'en suit que deux plans forment un plan unique,</l>
+                     <l>Lorsque l'un par trois points à l'autre communique;</l>
+                     <l>Je veux dire trois points sur deux lignes placés.</l>
+                     <l>Pour toute section une ligne est assez:</l>
+                     <l>Même on peut (mais le cas est rare et difficile)</l>
+                     <l>Par une même ligne en faire passer mille.</l>
+                     <l>Cette exiguité fait peine à concevoir;</l>
+                     <l>Mais avec la chicane il n'est point de savoir.</l>
+                     <l>Sur un plan une ligne est perpendiculaire,</l>
+                     <l>Lorsque deux angles droits à son pied l'on repaire:</l>
+                     <l>Et si par elle était un nouveau plan conduit,</l>
+                     <l>Droit serait l'angle plan que l'on aurait produit.</l>
+                     <l>Par-là nous découvrons les moyens nécessaires</l>
+                     <l>Pour faire que les plans soient perpendiculaires.</l>
+                     <l>Quant aux angles divers, par leur concours formés,</l>
+                     <l>C'est sur la section qu'ils seront estimés.</l>
+                     <l>Lorsqu'un tiers plan survient sur deux plans parallèles,</l>
+                     <l>Il fait deux sections parallèles entre elles;</l>
+                     <l>Et l'on retrouve ici les angles différens</l>
+                     <l>Que l'on démontre égaux par les correspondans.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>SOLIDES.</head>
+                  <lg>
+                     <l>Les plans incessamment sont liés aux solides.</l>
+                     <l>Quand des plans de niveau coupent deux pyramides,</l>
+                     <l>On a des sections qui, semblables d'ailleurs,</l>
+                     <l>Marchent dans le rapport des quarrés des hauteurs.</l>
+                     <l>Si donc même hauteur règne entre deux d'entre elles,</l>
+                     <l>Toutes ces sections sont proportionnelles,</l>
+                     <l>Et des bases dès-lors dépend l'égalité,</l>
+                     <l>En volume total ou bien solidité:</l>
+                     <l>Car égale trouvant une base première,</l>
+                     <l>Égale aussi sera la tranche élémentaire,</l>
+                     <l>Dont on peut concevoir ces deux corps composés;</l>
+                     <l>Tels à Lafère on voit les boulets entassés.</l>
+                     <l>Mais vous m'interrompez: au nom de pyramide,</l>
+                     <l>Votre esprit a déjà franchi la plage humide;</l>
+                     <l>Il s'égare déjà dans ces célèbres lieux,</l>
+                     <l>Dont le sol a nourri tant d'hommes et de dieux;</l>
+                     <l>Dont le premier Consul, par plus d'une victoire,</l>
+                     <l>Après quatre mille ans ressuscita la gloire.</l>
+                     <l>Déjà vous prétendez mesurer de vos mains</l>
+                     <l>Ces tombeaux respectés du temps et des Romains.</l>
+                     <l>Mais par cuber le prisme il faut que l'on procède;</l>
+                     <l>Il en est un nommé parallélipipède,</l>
+                     <l>Dont la solidité facilement se voit:</l>
+                     <l>La figure en relief la fait toucher au doigt.</l>
+                     <l>Il faut multiplier le côté par la base:</l>
+                     <l>Dans cette règle-ci, le prisme droit se case;</l>
+                     <l>Et quant au prisme oblique, on le dit à bon droit</l>
+                     <l>Ayant même hauteur, égale au prisme droit.</l>
+                     <l>D'ailleurs tout prisme en lui contient trois pyramides:</l>
+                     <l>Ainsi, pour revenir à ces derniers solides,</l>
+                     <l>Prenez avec la base un tiers de la hauteur,</l>
+                     <l>Et faites le produit de ce double facteur.</l>
+                     <l>Par base de solide, on entend la surface</l>
+                     <l>Du plan horizontal sur qui le corps se place.</l>
+                     <l>Il en est où la base est bonne en tous les sens,</l>
+                     <l>La pyramide à quatre, et le prisme à six plans.</l>
+                     <l>Plus nombreux en côtés, ces deux-ci vont nous peindre</l>
+                     <l>La pyramide un cône et le prisme un cylindre.</l>
+                     <l>Semblablement la sphère a su se convertir</l>
+                     <l>En cent cônes allant à son centre aboutir,</l>
+                     <l>Et qui trouvent chacun leur base à sa surface:</l>
+                     <l>Cette surface seule est ce qui m'embarrasse;</l>
+                     <l>Mais un détour permis en ces sortes de cas,</l>
+                     <l>Par le cône tronqué me tire d'embarras,</l>
+                     <l>Et me fait voir qu'il faut prendre le pérymètre,</l>
+                     <l>Et le multiplier par le seul diamètre.</l>
+                     <l>Pour la sphère on a donc triple dimension,</l>
+                     <l>Axe, circonférence, et le tiers du rayon.</l>
+                     <l>Par ce tiers, du secteur multipliez la zone,</l>
+                     <l>Et pour faire un segment, retranchez-en le cône.</l>
+                     <l>Le rapport de la sphère à son axe cubé</l>
+                     <l>Sur onze et vingt-et-un est à-peu-près tombé.</l>
+                     <l>Quatre cercles facteurs du sixième de l'axe</l>
+                     <l>Aux deux tiers du cylindre en réduisent la taxe:</l>
+                     <l>Et ce qui paraîtra surprenant en ceci,</l>
+                     <l>C'est qu'on a ce rapport aux surfaces aussi.</l>
+                     <l>Le cône inscrit en eux, pour un tiers intercède;</l>
+                     <l>C'est ce qu'a le premier découvert Archimède:</l>
+                     <l>Aux traces qu'en portait un informe carreau,</l>
+                     <l>Cicéron transporté reconnut son tombeau.</l>
+                     <l>Quel beau secret encore Archimède nous donne,</l>
+                     <l>Lorsque dans le fluide il plonge sa couronne:</l>
+                     <l>L'on peut cuber ainsi tout corps irrégulier,</l>
+                     <l>Et sachant de chacun le poids particulier,</l>
+                     <l>Des métaux confondus connaître l'alliage,</l>
+                     <l>En faire le départ sans altérer l'ouvrage.</l>
+                     <l>Pour termes de rapport dans les solidités,</l>
+                     <l>Prenez les cubes faits des semblables côtés.</l>
+                     <l>Le vulgaire souvent, trompé par l'apparence,</l>
+                     <l>Dans ces sortes de cas montre son ignorance,</l>
+                     <l>Prenant la ligne au lieu du cube ou du quarré;</l>
+                     <l>Et dans de faux calculs il se trouve égaré.</l>
+                     <l>Si cette erreur, par fois, n'est pas fort dangereuse,</l>
+                     <l>Du moins pour l'homme instruit elle est toujours honteuse.</l>
+                     <l>N'allez pas hésiter sur un pareil sujet.</l>
+                     <l>Mille autres vérités seraient de mon objet;</l>
+                     <l>Mais je m'arrête ici, content pour toute gloire,</l>
+                     <l>Si mes vers quelquefois aident votre mémoire.</l>
+                     <l>De plaire et de charmer ils n'ont pas l'heureux don:</l>
+                     <l>Notre langue n'est pas la langue d'Apollon.</l>
+                     <l>Mais, sans que le compas sur la lyre anticipe,</l>
+                     <l>La rime peut servir à graver le principe</l>
+                     <l>Indispensable clef qui seule peut ouvrir</l>
+                     <l>Cette noble carrière où vous voulez courir.</l>
+                     <l>Puissiez-vous quelque jour avec gloire y paraître!</l>
+                     <l>Puissiez-vous de bien loin devancer votre maître!</l>
+                     <l>Aidez-vous de Bossut, de Monge et de Lacroix;</l>
+                     <l>Et sans cesse étendant vos plaisirs et vos droits,</l>
+                     <l>Atteignez, s'il se peut, à ce sublime ouvrage</l>
+                     <l>Qui fait le désespoir des savans de notre âge.</l>
+                     <l>L'esprit s'aiguise encore de l'obstacle irrité:</l>
+                  </lg>
+                  <p rend="justify">Par un adolescent[4]  Laplace est commenté.</p>
+                  <p rend="justify">[4]  Byot, examinateur de l'école polytechnique.</p>
+                  <lg>
+                     <l>Mais lorsque vous suivrez les astres dans les cieux,</l>
+                     <l>N'en jetez pas sur nous un regard dédaigneux:</l>
+                     <l>Simples dans vos discours, sages dans vos systèmes,</l>
+                     <l>Défiez-vous toujours et d'eux et de vous-mêmes.</l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>NOTES DE L'AUTEUR.</head>
+               <p rend="justify">Que du cercle complet l'angle soit diviseur.</p>
+               <p rend="justify">A l'heureux exagone accordez-en l'honneur.</p>
+               <p rend="justify">Pour qu'on puisse couvrir une surface <hi rend="italic">exactement</hi>  avec des polygones réguliers de même espèce, il faut que l'angle intérieur soit tel, que, répété un certain nombre de fois, il fasse 360 degrés.</p>
+               <p rend="justify">Ainsi l'angle du quarré étant de 90 degrés, quatre quarrés se rangeront autour d'un même point sans laisser aucun intervalle. L'angle du triangle équilatéral étant de 60 degrés, six triangles équilatéraux se rangeront aussi <hi rend="italic">exactement</hi>  autour d'un même point. Ces deux figures sont donc propres à couvrir une surface.</p>
+               <p rend="justify">Mais quoiqu'elles soient et l'autre comprises dans la dénomination générique de polygone, cependant ce nom se donne plus particulièrement aux figures qui ont plus de quatre côtés. Or, de toutes ces figures, l'exagone est la seule qui satisfasse à la condition; car, entre 90 et 120, il n'y a aucun diviseur exact de 360, et il n'y en a aucun non plus de 120 à 180.</p>
+               <p rend="justify">Le cercle est composé de triangles aigus,</p>
+               <p rend="justify">Entre un double rayon tout autour contenus.</p>
+               <p rend="justify">Une analogie directe nous conduit à juger le cercle de même condition que les polygones, et à regarder sa surface comme un composé de triangles, ou comme un seul triangle qui a la circonférence pour base et le rayon pour hauteur.</p>
+               <p rend="justify">Cependant cette manière de considérer le cercle, qui remonte jusqu'à la naissance du l'art, à été jugée insuffisante par les grands maîtres de ce siècle, et ce n'est pas sans raison. Ils veulent nous apprendre à ne pas nous contenter en géométrie des preuves d'analogie et de sentiment, et à tout soumettre, autant qu'il est possible, à la rigueur du calcul.</p>
+               <p rend="justify">D'ailleurs les méthodes qu'ils emploient dans ce cas-ci et dans ceux qui en dépendent, n'excluent jamais entièrement l'idée d'infini, et ne sont, en quelque sorte, que des vérifications, puisqu'on est toujours obligé de supposer et de mettre en avant l'expression que l'on est censé chercher.</p>
+               <p rend="justify">Nous avons l'art d'en approcher si bien,</p>
+               <p rend="justify">Qu'un rapport plus parfait ne servirait de rien.</p>
+               <p rend="justify">En effet le rapport de 113 à 355, d'Adrien Métius, ayant un quotient vrai jusqu'au septième chiffre décimal, donne celui de 1:3,1415926, ou celui de 10000000:31415926. C'est-à-dire, qu'il faudrait un cercle dont le rayon eût plus de dix millions de pieds ou de 666 lieues de diamètre, pour qu'il y eût un pied d'erreur dans la circonférence calculée sur le rapport.</p>
+               <p rend="justify">Mais l'on pousse quand on veut l'approximation encore plus loin, et presque à l'infini, puisqu'on a déterminé jusqu'au vingt-septième chiffre décimal.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>ERRATA.</head>
+               <p rend="justify">Épitre Dédicatoire, vers 18, sans la gloire; <hi rend="italic">lisez:</hi> sans gloire.</p>
+               <p rend="justify">
+                  <hi rend="italic">Idem</hi>, vers 39, être content; <hi rend="italic">lisez:</hi>  être satisfait.</p>
+               <p rend="justify">Page 14, après le vers 26, on a omis ces deux-ci:</p>
+               <p rend="justify">Il en est où la base est bonne en tous les sens,</p>
+               <p rend="justify">La pyramide à quatre, et le prisme à six plans.</p>
+               <p rend="justify">Il est inutile d'observer que, pour entendre ces sortes de vers, il faut être déjà un peu géomètre. Il s'agit ici de la pyramide triangulaire et du prisme quarré, dans lesquels on prend pour base une quelconque des faces, indifféremment.</p>
+               <p rend="justify">L'Auteur donne actuellement des Leçons à Paris, chez lui et en ville.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>NOTE DU TRANSCRIPTEUR</head>
+               <p rend="justify">On a effectué les corrections signalées dans les errata. L'orthographe est conforme à l'original.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

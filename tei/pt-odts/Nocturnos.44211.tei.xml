@@ -1,0 +1,3568 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nocturnos</title>
+            <author>Gonçalves Crespo</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-01T18:22:37Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt/>
+         <sourceDesc>
+            <p rend="start color(#000000)">odts/pt-odts/Nocturnos.44211.epub.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Gonçalves Crespo</name>
+               <date>2024-01-01T18:22:37Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Nocturnos</head>
+         <author>Gonçalves Crespo</author>
+         <p rend="start color(#000000)">odts/pt-odts/Nocturnos.44211.epub.odt</p>
+         <p>
+            <hi rend="bold">Nota de editor:</hi> Devido à existência de erros tipográficos neste texto, foram tomadas várias decisões quanto à versão final. Em caso de dúvida, a grafia foi mantida de acordo com o original. No final deste livro encontrará a lista de erros corrigidos.<lb/>
+            <lb/>
+         </p>
+         <p>Rita Farinha (Novembro 2013)</p>
+         <pb/>
+         <div type="div1">
+            <head>Nocturnos</head>
+            <pb/>
+            <div type="div2">
+               <head>NOCTURNOS</head>
+               <lg>
+                  <l/>
+                  <l/>
+                  <l/>
+                  <l>D'esta edição tiraram-se mais <hi rend="italic">trinta exemplares</hi> que não entraram no mercado; sendo:</l>
+                  <l/>
+               </lg>
+               <table rend="frame" xml:id="Table1">
+                  <row>
+                     <cell>12 exemplares em papel Japão</cell>
+                     <cell>n.<hi rend="sup">os</hi> 1 a 12</cell>
+                  </row>
+                  <row>
+                     <cell>12 exemplares em papel Whatman</cell>
+                     <cell>n.<hi rend="sup">os</hi> 13 a 24</cell>
+                  </row>
+                  <row>
+                     <cell>12 exemplares em papel China</cell>
+                     <cell>n.<hi rend="sup">os</hi> 25 a 30</cell>
+                  </row>
+               </table>
+               <lg>
+                  <l/>
+                  <l/>
+                  <l/>
+                  <l/>
+               </lg>
+               <div type="div3">
+                  <head>GONÇALVES CRESPO</head>
+                  <lg>
+                     <l/>
+                     <l/>
+                  </lg>
+               </div>
+            </div>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>NOCTURNOS</head>
+            <lg>
+               <l/>
+               <l/>
+            </lg>
+            <pb/>
+            <div type="div2">
+               <head>LISBOA<lb/>
+                  <lb/>
+                  <hi rend="italic">18, Rua Oriental do Passeio</hi>
+                  <lb/>
+                  <lb/>1882</head>
+               <lg>
+                  <l/>
+                  <l/>
+                  <l/>
+                  <l/>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Direitos reservados</hi>
+               </p>
+               <lg>
+                  <l/>
+                  <l/>
+                  <l/>
+                  <l/>
+               </lg>
+               <p rend="justify">LISBOA—<hi rend="smallcaps">Imprensa Nacional</hi>
+               </p>
+               <lg>
+                  <l/>
+                  <l/>
+                  <l/>
+                  <l/>
+                  <l/>
+               </lg>
+               <div type="div3">
+                  <head>A MINHA MULHER<lb/>
+                     <lb/>MARIA AMALIA VAZ DE CARVALHO</head>
+                  <lg>
+                     <l/>
+                     <l/>
+                  </lg>
+                  <p rend="justify">
+                     <hi rend="italic">A ti, ó boa e rara e fiel amiga,</hi>
+                  </p>
+                  <lg>
+                     <l>
+                        <hi rend="italic">A mais sancta e a melhor das companheiras,</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">A ti, ó flôr mimosa e alma antiga,</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">—Doce Premio que ris ao meu cançaço—</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">A ti, ó meu Conselho, estas ligeiras</hi>
+                     </l>
+                     <l>
+                        <hi rend="italic">Folhas que ponho a medo em teu regaço.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l/>
+                     <l/>
+                     <l/>
+                     <l/>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>CONFIDENZA</head>
+                  <lg>
+                     <l/>
+                     <l/>
+                  </lg>
+                  <lg>
+                     <l>Perguntaste-me um dia a vida que eu levava.</l>
+                     <l>Mimosa e eburnea flôr,</l>
+                     <l>Em antes de te vêr; respondo-te: sonhava...</l>
+                     <l>Ouviste, meu amôr?</l>
+                  </lg>
+                  <lg>
+                     <l>Não era bem sonhar: ás vezes largo espaço</l>
+                     <l>Ficava-me a sorrir</l>
+                     <l>Para os quadros que eu via em luminoso traço</l>
+                     <l>Nas télas do porvir.</l>
+                  </lg>
+                  <lg>
+                     <l>Presta-me o ouvido attento, escuta-me, querida,</l>
+                     <l>Os que me lembram mais:</l>
+                     <l>Assim, fita nos meus, ó pomba estremecida,</l>
+                     <l>Os olhos teus leaes!</l>
+                  </lg>
+                  <lg>
+                     <l>Olha este quadro e vê: o campo alegre e franco,</l>
+                     <l>Uma aurora de abril:</l>
+                     <l>Da larga estrada á beira um campanario branco,</l>
+                     <l>O céu profundo anil.</l>
+                  </lg>
+                  <lg>
+                     <l>De uma casa á janella uma creança loura,</l>
+                     <l>Loura como um trigal:</l>
+                     <l>Fiando á luz do sol que leve a sobredoura</l>
+                     <l>De aureola ideal.</l>
+                  </lg>
+                  <lg>
+                     <l>Toda risos e festa a doce creatura</l>
+                     <l>Olhava para mim,</l>
+                     <l>E eu repetia a sós: «alcanço-te, ventura!</l>
+                     <l>Serei feliz emfim!»</l>
+                  </lg>
+                  <lg>
+                     <l>De um outro quadro então recordo-me saudoso,</l>
+                     <l>E alongo os olhos meus</l>
+                     <l>Para o quadro gentil, o sonho mais gracioso,</l>
+                     <l>Que me cahiu dos céus!</l>
+                  </lg>
+                  <lg>
+                     <l>Fica ao longe da vil poeira das cidades</l>
+                     <l>E do seu vão rumôr,</l>
+                     <l>O palacio esquecido; ás horas das trindades,</l>
+                     <l>Entremos nelle, flôr!</l>
+                  </lg>
+                  <lg>
+                     <l>Deixemos os jardins, as aleas, o arvoredo,</l>
+                     <l>E o oloroso pomar;</l>
+                     <l>Subamos essa escada, agora, a furto e a medo,</l>
+                     <l>Comecemos a olhar.</l>
+                  </lg>
+                  <lg>
+                     <l>É vetusto o salão; em flaccida poltrona</l>
+                     <l>Repoisa e scisma alguem:</l>
+                     <l>Alguem que nos recorda a imagem da Madona,</l>
+                     <l>Grave e sizuda mãe.</l>
+                  </lg>
+                  <lg>
+                     <l>D'esse alguem no regaço um anjo se reclina</l>
+                     <l>Confiado e feliz,</l>
+                     <l>Sáe-lhe um arôma subtil da bôcca pequenina.</l>
+                     <l>Falla, não sei que diz.</l>
+                  </lg>
+                  <lg>
+                     <l>É casta essa creança e pura entre as mais puras,</l>
+                     <l>Que em sonhos vi jámais;</l>
+                     <l>Tem o vago esplendôr das biblicas figuras</l>
+                     <l>Dos antigos missaes.</l>
+                  </lg>
+                  <lg>
+                     <l>É moça e é menina: olhar nenhum ainda</l>
+                     <l>De leve a maculou.</l>
+                     <l>Dorme no seio della o amôr, a crença infinda</l>
+                     <l>Que Deus lhe confiou.</l>
+                  </lg>
+                  <lg>
+                     <l>Quando ella abre, sorrindo, as palpebras franjadas,</l>
+                     <l>Ficamos a pensar</l>
+                     <l>Nos mysterios do céu, nas cousas ignoradas</l>
+                     <l>Que descobre esse olhar.</l>
+                  </lg>
+                  <lg>
+                     <l>Deixa que eu me ajoelhe extasiado e mudo,</l>
+                     <l>Cego de tanta luz,</l>
+                     <l>E que tremulo beije o tépido veludo</l>
+                     <l>De seus pésinhos nús!</l>
+                  </lg>
+                  <lg>
+                     <l>E não córa, bem vês, a candida creança!</l>
+                     <l>Antes meiga sorri,</l>
+                     <l>E entre risos me diz, compondo a escura trança:</l>
+                     <l>«Pensava agora em ti!</l>
+                  </lg>
+                  <lg>
+                     <l>«Porque tardaste tanto, ó poeta? eu te esperava</l>
+                     <l>«Na minha solidão!</l>
+                     <l>«Vem os segredos vêr que para ti guardava</l>
+                     <l>«Dentro do coração!»</l>
+                  </lg>
+                  <lg>
+                     <l>Concertáe vossa orchestra, harmonicas espheras,</l>
+                     <l>No célico esplendor!</l>
+                     <l>Maria, essa creança, ó flôr das primaveras,</l>
+                     <l>Eras tu, meu amôr!</l>
+                  </lg>
+                  <lg>
+                     <l/>
+                     <l/>
+                     <l/>
+                     <l/>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>O VELHINHO</head>
+                  <div type="div4">
+                     <head>A J. Cesar Machado</head>
+                     <lg>
+                        <l/>
+                        <l/>
+                     </lg>
+                     <p rend="justify">Aquelle que ali vae triste e cançado</p>
+                     <lg>
+                        <l>E mais tremente que os juncaes do brejo.</l>
+                        <l>Foi outrora o mais bello e o mais amado</l>
+                        <l>Entre os moços do antigo logarejo.</l>
+                     </lg>
+                     <p rend="justify">Nas fitas d'esse labio desmaiado</p>
+                     <lg>
+                        <l>Quantas mulheres tremulas de pejo</l>
+                        <l>Não sorveram os néctares do beijo</l>
+                        <l>Dos trigaes sobre o leito perfumado!</l>
+                     </lg>
+                     <p rend="justify">Hoje é velhinho, e falla dos francezes</p>
+                     <p rend="justify">Aos rapazes da eschola, e ás raparigas<lb/>Que não cançam de ouvil-o... As mais das vezes</p>
+                     <p rend="justify">Sobre a ponte, sósinho, ouve as cantigas</p>
+                     <p rend="justify">Das que lavam no rio, e o olhar extende<lb/>Ao sol que ao longe na agonia esplende...</p>
+                     <lg>
+                        <l/>
+                        <l/>
+                        <l/>
+                        <l/>
+                     </lg>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>ANIMAL BRAVIO</head>
+                  <div type="div4">
+                     <head>A M<hi rend="sup">elle</hi> Eugenia Vizeu</head>
+                     <lg>
+                        <l/>
+                        <l/>
+                     </lg>
+                     <p rend="justify">Preferiras um ramo caprichoso</p>
+                     <lg>
+                        <l>De escolha rara e de um concerto fino,</l>
+                        <l>Onde visses o cácto purpurino</l>
+                        <l>E os nevados jasmins do Tormentoso.</l>
+                     </lg>
+                     <p rend="justify">Em vez do ramo exotico e oloroso,</p>
+                     <lg>
+                        <l>Casto recreio d'esse olhar divino,</l>
+                        <l>Acceita, Eugenia, este animal felino,</l>
+                        <l>Que o meu braço subjuga vigoroso.</l>
+                     </lg>
+                     <p rend="justify">Tive artes de o amansar: eil-o sereno!</p>
+                     <p rend="justify">Acode á minha voz, e ao meu aceno<lb/>Como um jaguar á voz de um saltimbanco...</p>
+                     <p rend="justify">Vamos, sonêto! a prumo! ajoelhe, présto!</p>
+                     <p rend="justify">E á doce Eugenia, do sorriso honesto,<lb/>A fimbria oscule do vestido branco!</p>
+                     <lg>
+                        <l/>
+                        <l/>
+                        <l/>
+                        <l/>
+                     </lg>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>AD AGROS</head>
+                  <lg>
+                     <l/>
+                     <l/>
+                  </lg>
+                  <p rend="justify">Não tardes, flôr; a aldeia nos espera,</p>
+                  <lg>
+                     <l>Chovem arômas dos folhudos ramos:</l>
+                     <l>Suspensa do meu braço, eia! partamos!</l>
+                     <l>Olha-nos Deus da crystallina esphera.</l>
+                  </lg>
+                  <p rend="justify">Nas manhãs da passada primavera</p>
+                  <lg>
+                     <l>Com que delícia ethérea nos amámos!</l>
+                     <l>Iremos vêr os nomes que traçámos</l>
+                     <l>No rude tronco em que se enlaça a hera.</l>
+                  </lg>
+                  <p rend="justify">Não tardes, meu amôr, sei de um caminho,</p>
+                  <p rend="justify">Que sobe a encosta, e vae direito ao moinho,<lb/>Em cujas vélas bate o vento em cheio...</p>
+                  <p rend="justify">Seguir-nos-hão as aves namoradas,</p>
+                  <p rend="justify">Que ao som das tuas infantis risadas<lb/>Modularão seu tremulo gorgeio...</p>
+                  <lg>
+                     <l/>
+                     <l/>
+                     <l/>
+                     <l/>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>A NUVEM</head>
+                  <div type="div4">
+                     <head>De Th. Gauthier</head>
+                     <lg>
+                        <l/>
+                        <l/>
+                     </lg>
+                     <p rend="justify">As roupas deslaçando, entra no banho</p>
+                     <lg>
+                        <l>A languida sultana enamorada:</l>
+                        <l>Livre do pente, os hombros nús lhe beija</l>
+                        <l>A longa e fina trança desatada.</l>
+                     </lg>
+                     <p rend="justify">Atraz dos vidros o sultão a espreita;</p>
+                     <lg>
+                        <l>E comsigo murmura: «como é bella!</l>
+                        <l>«Ninguem a vê, ninguem! o negro eunucho</l>
+                        <l>«Do harem na tôrre solitario vela!»</l>
+                     </lg>
+                     <p rend="justify">—Eu a vejo, uma nuvem lhe responde</p>
+                     <lg>
+                        <l>Do sereno e alto azul illuminado:</l>
+                        <l>—Vejo-lhe os seios nús, vejo-lhe o dorso,</l>
+                        <l>—E o seu corpo de perolas colmado—</l>
+                     </lg>
+                     <p rend="justify">Fez-se pallido Ahmehd bem como a lua,</p>
+                     <lg>
+                        <l>E erguendo o seu kandjar de folha rara,</l>
+                        <l>Desce, e apunhala a nua favorita...</l>
+                        <l>Quanto á nuvem... no azul se dissipára...</l>
+                     </lg>
+                     <lg>
+                        <l/>
+                        <l/>
+                        <l/>
+                        <l/>
+                     </lg>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>O JURAMENTO DO ARABE</head>
+                  <div type="div4">
+                     <head>A Teixeira de Queiroz</head>
+                     <lg>
+                        <l/>
+                        <l/>
+                     </lg>
+                     <p rend="justify">Baçús, mulher de Ali, pastôra de camêlas,</p>
+                     <lg>
+                        <l>Viu de noute, ao fulgor das rútilas estrellas,</l>
+                        <l>Wail, chefe minaz de barbara pujança,</l>
+                        <l>Matar-lhe um animal. Baçús jurou vingança;</l>
+                        <l>Corre, célere vôa, entra na tenda e conta</l>
+                        <l>A um hospede de Ali a grave e inulta affronta.</l>
+                     </lg>
+                     <lg>
+                        <l>«Baçús, disse tranquillo o hospede gentil,</l>
+                        <l>Vingar-te-hei com meu braço, eu matarei Wail.»</l>
+                     </lg>
+                     <lg>
+                        <l>Disse e cumpriu.</l>
+                     </lg>
+                     <lg>
+                        <l>Foi esta a causa verdadeira</l>
+                     </lg>
+                     <lg>
+                        <l>Da guerra pertinaz, horrivel, carniceira</l>
+                        <l>Que as tribus dividiu. Na lucta fratricida</l>
+                        <l>Omar, filho de Amrú, perdêra o alento e a vida.</l>
+                     </lg>
+                     <p rend="justify">Amrú que lanças mil aos rudes prélios leva,</p>
+                     <lg>
+                        <l>E que em sangue inimigo, irado, os odios céva,</l>
+                        <l>Incansavel procura, e é sempre embalde, o vil</l>
+                        <l>Matador de seu filho, o trêdo Muhalhil.</l>
+                     </lg>
+                     <p rend="justify">Uma noite, na tenda, a um moço prisioneiro,</p>
+                     <p rend="justify">Recem-colhido em campo, o indomito guerreiro<lb/>Fallou severo assim:</p>
+                     <p rend="justify">«Escravo, attende, e escuta:</p>
+                     <lg>
+                        <l>«Aponta-me a região, o monte, o plaino, a gruta,</l>
+                        <l>«Em que vive o traidôr Muhalhil, dize a verdade;</l>
+                        <l>«Dá-me que o alcance vivo, e é tua a liberdade!»</l>
+                     </lg>
+                     <p rend="justify">E o moço perguntou:</p>
+                     <p rend="justify">«É por Allah que o juras?»</p>
+                     <p rend="justify">—Juro, o chefe tornou—</p>
+                     <p rend="justify">«Sou o homem que procuras!</p>
+                     <p rend="justify">«Muhalhil é o meu nome, eu fui que espedacei<lb/>«A lança de teu filho, e aos pés o subjuguei!»</p>
+                     <lg>
+                        <l>E intrépido fitava o attonito inimigo.</l>
+                        <l/>
+                        <l>Amrú volveu:—És livre, Allah seja comtigo!</l>
+                     </lg>
+                     <lg>
+                        <l/>
+                        <l/>
+                        <l/>
+                        <l/>
+                     </lg>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>NUM LEQUE</head>
+                  <lg>
+                     <l/>
+                     <l/>
+                  </lg>
+                  <p rend="justify">Amar e ser amado, que ventura!</p>
+                  <lg>
+                     <l>Não amar, sendo amado, é um triste horrôr:</l>
+                     <l>Mas na vida ha uma noite mais escura,</l>
+                     <l>É amar alguem que não nos tenha amôr!</l>
+                  </lg>
+                  <lg>
+                     <l/>
+                     <l/>
+                     <l/>
+                     <l/>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>OLHOS DE JUDIA</head>
+                  <lg>
+                     <l/>
+                     <l/>
+                  </lg>
+                  <p rend="justify">No transparente olhar das virgens da Allemanha</p>
+                  <lg>
+                     <l>Nada um fluido subtil tam pleno de scismar,</l>
+                     <l>Que a gente cuida ouvir uma sonata extranha</l>
+                     <l>Num castello do Rheno em noites de luar.</l>
+                  </lg>
+                  <p rend="justify">Flôr do Guadalquivir, gloria da ardente Hespanha,</p>
+                  <lg>
+                     <l>Se dardejas, sorrindo, um teu lascivo olhar,</l>
+                     <l>O crespo, o encapellado e procelloso mar</l>
+                     <l>Dos desejos febris o coração nos banha.</l>
+                  </lg>
+                  <p rend="justify">Nos teus olhos porém venusta semi-deia,</p>
+                  <p rend="justify">Como nas mutações de um rapido scenario,<lb/>Desdobram-se ante mim paizagens da Judeia...</p>
+                  <p rend="justify">Vejo o louro Jesus vagueando solitario,</p>
+                  <p rend="justify">Vejo-o no Horto a chorar, ouço-lhe a voz na Ceia<lb/>E escuto-lhe o gemido extremo no Calvario.</p>
+                  <lg>
+                     <l/>
+                     <l/>
+                     <l/>
+                     <l/>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>H. HEINE<lb/>
+                     <lb/>NUMEROS DO INTERMEZZO</head>
+                  <div type="div4">
+                     <head>A M<hi rend="sup">elle</hi> Louìse de Almeida e Albuquerque</head>
+                     <lg>
+                        <l/>
+                        <l/>
+                        <l/>
+                        <l/>
+                     </lg>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>I</label>
+                  </head>
+                  <lg>
+                     <l/>
+                     <l/>
+                  </lg>
+                  <lg>
+                     <l>Rosas e lirios, pombas, sol radiante,</l>
+                     <l>Tudo isso outrora, no fugaz passado,</l>
+                     <l>Eu adorei constante.</l>
+                  </lg>
+                  <lg>
+                     <l>E d'esse amôr, que tive immaculado</l>
+                  </lg>
+                  <lg>
+                     <l>Por lirios e aves e subtis perfumes,</l>
+                     <l>Nem já me lembro, seductôra amante,</l>
+                     <l>Fonte pura de amôr, que em ti resumes</l>
+                     <l>A rosa, o lirio, a pomba e o sol radiante!</l>
+                  </lg>
+                  <lg>
+                     <l/>
+                     <l/>
+                     <l/>
+                     <l/>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>II</label>
+                  </head>
+                  <lg>
+                     <l/>
+                     <l/>
+                  </lg>
+                  <p rend="justify">De um lirio branco no mimoso calix</p>
+                  <p rend="justify">Se eu a fosse depôr</p>
+                  <p rend="justify">A vaga essencia de meu peito, em breve<lb/>Escutáras no calice de neve</p>
+                  <p rend="justify">Uma canção de amôr.</p>
+                  <p rend="justify">Canção divina relembrando as ancias,</p>
+                  <p rend="justify">E o languido tremôr</p>
+                  <p rend="justify">Daquelle beijo, em noite mysteriosa,<lb/>Que me deram teus labios côr de rosa,</p>
+                  <p rend="justify">Meu doce e casto amôr!</p>
+                  <lg>
+                     <l/>
+                     <l/>
+                     <l/>
+                     <l/>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>III</label>
+                  </head>
+                  <lg>
+                     <l/>
+                     <l/>
+                  </lg>
+                  <p rend="justify">Á luz viva do claro sol radioso</p>
+                  <p rend="justify">O lóto inclina a fronte esmaecida,<lb/>E espera a noite pensativo e ancioso.</p>
+                  <lg>
+                     <l>Rompe a lua, e derrama a luz querida</l>
+                     <l>Na corolla mimosa</l>
+                     <l>Da pobre flôr que se abre enlanguecida.</l>
+                     <l>Pobre flôr amorosa!</l>
+                  </lg>
+                  <lg>
+                     <l>Olhando o céu e a lua até parece</l>
+                     <l>Que, em desmaios de amôr,</l>
+                  </lg>
+                  <lg>
+                     <l>Treme, palpita, córa e desfallece</l>
+                     <l/>
+                     <l>A scismadora e enamorada flôr!</l>
+                  </lg>
+                  <lg>
+                     <l/>
+                     <l/>
+                     <l/>
+                     <l/>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>IV</label>
+                  </head>
+                  <lg>
+                     <l/>
+                     <l/>
+                  </lg>
+                  <p rend="justify">Sobre os olhos formosos<lb/>Da minha doce amada</p>
+                  <p rend="justify">Rimei canções que os astros decoraram;<lb/>E embalsamei-lhe a bôcca perfumada</p>
+                  <p rend="justify">Em tercêtos graciosos.</p>
+                  <p rend="justify">Innumeras estancias decantaram</p>
+                  <p rend="justify">Seu rôsto peregrino</p>
+                  <p rend="justify">Que os jaspeados lirios escurece.</p>
+                  <p rend="justify">Que sonêto divino</p>
+                  <p rend="justify">Eu rendilhára com subtis lavôres<lb/>Sobre o seu coração... se ella o tivesse!</p>
+                  <lg>
+                     <l/>
+                     <l/>
+                     <l/>
+                     <l/>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>V</label>
+                  </head>
+                  <lg>
+                     <l/>
+                     <l/>
+                  </lg>
+                  <lg>
+                     <l>Pozeram-te no rôsto o aéreo véu nupcial.</l>
+                     <l>Bem sei que te perdi, mas não te quero mal.</l>
+                  </lg>
+                  <lg>
+                     <l>Brilham do teu collar as pedras luminosas,</l>
+                     <l>Mas no teu coração que noites luctuosas!</l>
+                  </lg>
+                  <lg>
+                     <l>Em sonhos eu desci, ó misera mulher,</l>
+                     <l>Ás sombras da tua alma, e vi-te o padecer...</l>
+                  </lg>
+                  <lg>
+                     <l>Bem sei que te perdi, ó minha doce amada,</l>
+                     <l>Mas não te quero mal, és muito desgraçada</l>
+                  </lg>
+                  <lg>
+                     <l/>
+                     <l/>
+                     <l/>
+                     <l/>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>VI</head>
+                  <lg>
+                     <l/>
+                     <l/>
+                  </lg>
+                  <p rend="justify">Sei-o; a tua vida é sem ventura,</p>
+                  <lg>
+                     <l>É-nos commum esta funérea sorte.</l>
+                     <l>Cáe sobre nós a mesma noite escura,</l>
+                     <l>E isto não finda sem que chegue a morte.</l>
+                  </lg>
+                  <p rend="justify">Se vejo nesse olhar um rir travêsso,</p>
+                  <lg>
+                     <l>E em teu labio a insolencia costumada,</l>
+                     <l>E o orgulho inflar teu coração... padeço,</l>
+                     <l>E murmuro: «és como eu, tam desgraçada!»</l>
+                  </lg>
+                  <p rend="justify">Bem sei que ris, mas o teu labio treme:</p>
+                  <lg>
+                     <l>Nos teus olhos azues o pranto brilha:</l>
+                     <l>Tens orgulho, e essa voz suspira e geme...</l>
+                     <l>Como nós somos desgraçados, filha!</l>
+                  </lg>
+                  <lg>
+                     <l/>
+                     <l/>
+                     <l/>
+                     <l/>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>VII</label>
+                  </head>
+                  <lg>
+                     <l/>
+                     <l/>
+                  </lg>
+                  <p rend="justify">Se as flôres do balsedo</p>
+                  <lg>
+                     <l>Podessem ver meu peito alanceado,</l>
+                     <l>Como allivio ao meu aspero degredo,</l>
+                     <l>Mandar-me-hiam, das moitas do balsedo,</l>
+                     <l>De seus prantos o balsamo sagrado.</l>
+                  </lg>
+                  <p rend="justify">Se os rouxinoes da floresta</p>
+                  <lg>
+                     <l>Soubessem quanta dôr me rasga o seio,</l>
+                     <l>Para espancar a minha noite mésta,</l>
+                     <l>Mandar-me-hiam, das sombras da floresta,</l>
+                     <l>O seu mais terno e encantadôr gorgeio.</l>
+                  </lg>
+                  <p rend="justify">Se as estrellas do espaço</p>
+                  <lg>
+                     <l>Soubessem tudo quanto soffro em vida,</l>
+                     <l>Para embalar d'esta alma o vil cançaço,</l>
+                     <l>Mandar-me-hiam, dos concavos do espaço,</l>
+                     <l>Uma doce palavra condoída.</l>
+                  </lg>
+                  <p rend="justify">E essa que sabe tudo,</p>
+                  <lg>
+                     <l>O inferno e o horror da minha mocidade,</l>
+                     <l>É a dona das tranças de veludo,</l>
+                     <l>E das unhas rosadas... sabe tudo</l>
+                     <l>E apunhála-me a vida sem piedade!</l>
+                  </lg>
+                  <lg>
+                     <l/>
+                     <l/>
+                     <l/>
+                     <l/>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>VIII</label>
+                  </head>
+                  <lg>
+                     <l/>
+                     <l/>
+                  </lg>
+                  <lg>
+                     <l>Não me sabes dizer, ó minha amada,</l>
+                     <l>O motivo, a razão</l>
+                     <l>Porque pendem a face desmaiada</l>
+                     <l>As rosas para o chão?</l>
+                  </lg>
+                  <lg>
+                     <l>Não me sabes dizer porque, no meio</l>
+                     <l>Do vasto prado em flôr,</l>
+                     <l>Das violetas cáe no roxo seio</l>
+                     <l>Um véu de lucto e dôr?</l>
+                  </lg>
+                  <lg>
+                     <l>Diz-me porque ouço a voz das cotovias</l>
+                     <l>Hoje lugubre assim?</l>
+                     <l>E porque exhalam mortes e agonias</l>
+                     <l>As urnas do jasmim?</l>
+                  </lg>
+                  <lg>
+                     <l>Por que motivo o sol tam claro e puro</l>
+                     <l>De crepes se vestiu?</l>
+                     <l>Porque um sinistro pezadelo escuro</l>
+                     <l>Sobre a terra cahiu?</l>
+                  </lg>
+                  <lg>
+                     <l>Bem sei eu porque vejo tudo triste</l>
+                     <l>Sem luz e sem calôr...</l>
+                     <l>É que tu, pomba branca, me fugiste</l>
+                     <l>Meu amôr, meu amôr!</l>
+                  </lg>
+                  <lg>
+                     <l/>
+                     <l/>
+                     <l/>
+                     <l/>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>IX</label>
+                  </head>
+                  <lg>
+                     <l/>
+                     <l/>
+                  </lg>
+                  <p rend="justify">Disseram-te de mim feios horrôres,</p>
+                  <p rend="justify">De imaginarias culpas me crivaram,<lb/>E sobre as minhas lastimaveis dôres</p>
+                  <p rend="justify">Um negro véu lançaram!</p>
+                  <p rend="justify">Distenderam os labios sacudindo</p>
+                  <p rend="justify">Com grave e serio gesto a fronte, e ao cabo...<lb/>(E acreditaste-os tu, meu anjo lindo!)</p>
+                  <p rend="justify">Chamaram-me o Diabo!</p>
+                  <p rend="justify">O que ha de mais escuro e de mais feio</p>
+                  <p rend="justify">Na minha vida, ignoram-no os sandeus,<lb/>Tam occulto este amôr vive em meu seio,</p>
+                  <p rend="justify">Ó luz dos olhos meus!</p>
+                  <lg>
+                     <l/>
+                     <l/>
+                     <l/>
+                     <l/>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>X</label>
+                  </head>
+                  <lg>
+                     <l/>
+                     <l/>
+                  </lg>
+                  <p rend="justify">Naquella manhã ditosa</p>
+                  <lg>
+                     <l>O sol mandava-nos beijos;</l>
+                     <l>Do rouxinol os solfejos</l>
+                     <l>Suspiravam na amplidão.</l>
+                  </lg>
+                  <p rend="justify">Se me lembro, ai! se me lembro</p>
+                  <lg>
+                     <l>D'esse amplexo demorado,</l>
+                     <l>Com que tu, meu lirio amado,</l>
+                     <l>Uniste-me ao coração!</l>
+                  </lg>
+                  <p rend="justify">Grasnava o côrvo agoirento,</p>
+                  <lg>
+                     <l>As sêccas folhas cahiam,</l>
+                     <l>E uns tristes raios desciam</l>
+                     <l>Da plumbea curva dos céus.</l>
+                  </lg>
+                  <p rend="justify">Se me lembro, ai! se me lembro</p>
+                  <lg>
+                     <l>Da fria e grave mesura</l>
+                     <l>Que, naquella tarde escura,</l>
+                     <l>Fizeste ao dizer-me—adeus!</l>
+                  </lg>
+                  <lg>
+                     <l/>
+                     <l/>
+                     <l/>
+                     <l/>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XI</label>
+                  </head>
+                  <lg>
+                     <l/>
+                     <l/>
+                  </lg>
+                  <p rend="justify">Fôste fiel, no caminho</p>
+                  <lg>
+                     <l>Doloroso que eu seguia,</l>
+                     <l>Déste-me alentos, carinho,</l>
+                     <l>Meu consôlo fôste, e guia.</l>
+                  </lg>
+                  <p rend="justify">Déste-me tudo, ó consorte,</p>
+                  <lg>
+                     <l>Roupa branca e até dinheiro!</l>
+                     <l>E ao partir para o extrangeiro</l>
+                     <l>Compraste-me o passaporte!</l>
+                  </lg>
+                  <p rend="justify">Deus t'o pague, meu amôr!</p>
+                  <lg>
+                     <l>E um viver te dê tranquillo!</l>
+                     <l>Mas que te não faça aquillo</l>
+                     <l>Que tu me fizeste, flôr!</l>
+                  </lg>
+                  <lg>
+                     <l/>
+                     <l/>
+                     <l/>
+                     <l/>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XII</label>
+                  </head>
+                  <lg>
+                     <l/>
+                     <l/>
+                  </lg>
+                  <p rend="justify">Emquanto eu andava viajando, a minha</p>
+                  <lg>
+                     <l>Noiva gentil, o meu thesouro amado,</l>
+                     <l>Julgando que eu tardava e que não vinha,</l>
+                     <l>Fez á pressa o vestido de noivado,</l>
+                     <l>E um dia, ao pé do altar, entrega anciosa</l>
+                     <l>A um fôfo peralvilho a mão de esposa.</l>
+                  </lg>
+                  <p rend="justify">Nada no mundo a minha amada eguala;</p>
+                  <lg>
+                     <l>Nem eu sei a que a possa comparar!</l>
+                     <l>Que doce é o aroma que o seu labio exhala!</l>
+                     <l>Que gesto lindo! e que formoso olhar!</l>
+                     <l>Suspende a queixa, coração trahido,</l>
+                     <l>Deixaste o céu, do céu fôste banido!</l>
+                  </lg>
+                  <lg>
+                     <l/>
+                     <l/>
+                     <l/>
+                     <l/>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XIII</label>
+                  </head>
+                  <lg>
+                     <l/>
+                     <l/>
+                  </lg>
+                  <p rend="justify">Quando morreres, filha, ao teu jazigo</p>
+                  <lg>
+                     <l>Descerei taciturno e allucinado,</l>
+                     <l>E abraçando esse corpo delicado,</l>
+                     <l>No frio marmor dormirei comtigo.</l>
+                  </lg>
+                  <p rend="justify">E tu muda, e tu fria, e tu gelada!</p>
+                  <lg>
+                     <l>E eu nos meus braços a apertar-te ainda!</l>
+                     <l>E nas sombras daquella noite infinda</l>
+                     <l>Clamo, estremeço e morro, alma adorada!</l>
+                  </lg>
+                  <p rend="justify">Os mortos, alta noute, pouco e pouco</p>
+                  <lg>
+                     <l>Erguer-se-hão, ao luar, rindo e dançando;</l>
+                     <l>E eu ficarei na sombra, ó sonho louco!</l>
+                     <l>No teu seio de jaspe repoisando.</l>
+                  </lg>
+                  <p rend="justify">E quando a hora chegue em que as trombêtas</p>
+                  <lg>
+                     <l>Do Juizo Final se ouvirem todas,</l>
+                     <l>Não surgirás, inveja das violetas,</l>
+                     <l>Do escuro leito das eternas bôdas!</l>
+                  </lg>
+                  <lg>
+                     <l/>
+                     <l/>
+                     <l/>
+                     <l/>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XIV</label>
+                  </head>
+                  <lg>
+                     <l/>
+                     <l/>
+                  </lg>
+                  <p rend="justify">Do Norte sobre um monte,</p>
+                  <p rend="justify">Alto frio e gelado,<lb/>Um pinheiro isolado</p>
+                  <p rend="justify">Ergue entre o gêlo a merencoria fronte.</p>
+                  <p rend="justify">Todo tremulo, o misero deseja</p>
+                  <lg>
+                     <l>Ser a esbelta palmeira viridente</l>
+                     <l>Que em terra adusta odeia a luz ardente</l>
+                     <l>Que sobre ella o implacavel sol dardeja.</l>
+                  </lg>
+                  <lg>
+                     <l/>
+                     <l/>
+                     <l/>
+                     <l/>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XV</label>
+                  </head>
+                  <lg>
+                     <l/>
+                     <l/>
+                  </lg>
+                  <p rend="justify">Das minhas penas fiz canções aladas</p>
+                  <lg>
+                     <l>De alegre geito e jovial feição.</l>
+                     <l>Vi-as partir em doidas revoadas,</l>
+                     <l>E vi-as procurar teu coração.</l>
+                  </lg>
+                  <p rend="justify">Partem alegres, voltam lacrymosas,</p>
+                  <lg>
+                     <l>Perdido o fresco riso ingenuo e lêdo,</l>
+                     <l>Mas do que viram guardam, silenciosas,</l>
+                     <l>O mais profundo e lugubre segredo.</l>
+                  </lg>
+                  <lg>
+                     <l/>
+                     <l/>
+                     <l/>
+                     <l/>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XVI</label>
+                  </head>
+                  <lg>
+                     <l/>
+                     <l/>
+                  </lg>
+                  <p rend="justify">Eu não posso esquecer, perdão, minha senhora,</p>
+                  <lg>
+                     <l>—Estes laços de amôr custam a desatar—</l>
+                     <l>Eu não posso esquecer, ó minha doce aurora,</l>
+                     <l>Que subjuguei teu corpo e essa alma singular...</l>
+                  </lg>
+                  <p rend="justify">Teu corpo, ai! o teu corpo esbelto, moço e branco,</p>
+                  <lg>
+                     <l>Já foi meu, já foi meu... mas neste instante, flôr,</l>
+                     <l>Da tua alma prescindo, e escuta, serei franco,</l>
+                     <l>Basta-me a que possuo, ah! basta, meu amôr!</l>
+                  </lg>
+                  <p rend="justify">Se um dia succeder, que esse teu seio trema</p>
+                  <lg>
+                     <l>De novo juncto ao meu, hei-de insuflar-te, doudo,</l>
+                     <l>Metade da minha alma, e então, gloria suprema!</l>
+                     <l>De ambos nós, meu amôr, faremos um só todo...</l>
+                  </lg>
+                  <lg>
+                     <l/>
+                     <l/>
+                     <l/>
+                     <l/>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>XVII</head>
+                  <lg>
+                     <l/>
+                     <l/>
+                  </lg>
+                  <lg>
+                     <l>É domingo: o burguez deixa os asphaltos,</l>
+                     <l>Dando o braço á burgueza;</l>
+                     <l>Procura o campo, e, ao vêl-o, exclama aos saltos:</l>
+                     <l>«Ó filha, que lindeza!»</l>
+                  </lg>
+                  <lg>
+                     <l>E pasma do verdôr febril, romantico,</l>
+                     <l>Da múrmura floresta;</l>
+                     <l>E a sua longa orelha absorve o cantico</l>
+                     <l>Da passarada em festa.</l>
+                  </lg>
+                  <lg>
+                     <l>Eu que não saio, escondo a gelosia</l>
+                     <l>Com negros cortinados,</l>
+                     <l>E recebo a visita, em pleno dia,</l>
+                     <l>Dos espectros amados.</l>
+                  </lg>
+                  <lg>
+                     <l>E aquelle Amôr que eu vi morrer outrora.</l>
+                     <l>No meu quarto apparece!</l>
+                     <l>Senta-se ao pé de mim, beija-me e chora,</l>
+                     <l>E treme e desfallece!</l>
+                  </lg>
+                  <lg>
+                     <l/>
+                     <l/>
+                     <l/>
+                     <l/>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XVIII</label>
+                  </head>
+                  <lg>
+                     <l/>
+                     <l/>
+                  </lg>
+                  <p rend="justify">Rompia a manhã, rompia</p>
+                  <lg>
+                     <l>Alegre como um trinado,</l>
+                     <l>E eu ia triste e calado,</l>
+                     <l>No meio d'essa alegria,</l>
+                     <l>Por entre as flôres do prado...</l>
+                     <l>Rompia a manhã, rompia...</l>
+                  </lg>
+                  <p rend="justify">Vendo-me, as flôres do prado</p>
+                  <lg>
+                     <l>Mais as rosas do silvedo</l>
+                     <l>Cochicharam em segredo...</l>
+                     <l>E erguendo os olhos, a medo,</l>
+                  </lg>
+                  <lg>
+                     <l>Num tom de voz repassado</l>
+                     <l>Da mais branda languidez:</l>
+                     <l>«Como elle vae irritado,</l>
+                     <l>«Os olhos fitos no chão!</l>
+                     <l>«Perdôa por esta vez,</l>
+                     <l>«Não ralhes com ella, não?»</l>
+                  </lg>
+                  <lg>
+                     <l/>
+                     <l/>
+                     <l/>
+                     <l/>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XIX</label>
+                  </head>
+                  <lg>
+                     <l/>
+                     <l/>
+                  </lg>
+                  <p rend="justify">Na tua face ardente e avelludada</p>
+                  <lg>
+                     <l>Encandeia-se a luz do quente Estio,</l>
+                     <l>Mas no teu coração, ó minha amada,</l>
+                     <l>Habita o Inverno enregelado e frio.</l>
+                  </lg>
+                  <p rend="justify">Mas quem assim te vê bella e formosa,</p>
+                  <lg>
+                     <l>Verá mais tarde o Inverno tôrvo e feio</l>
+                     <l>Nessa tua gentil face mimosa,</l>
+                     <l>E o rubro Estio no teu branco seio!</l>
+                  </lg>
+                  <lg>
+                     <l/>
+                     <l/>
+                     <l/>
+                     <l/>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XX</label>
+                  </head>
+                  <lg>
+                     <l/>
+                     <l/>
+                  </lg>
+                  <p rend="justify">No momento do <hi rend="italic">adeus</hi>  succede que os amantes</p>
+                  <lg>
+                     <l>Se abraçam, a chorar, com vozes soluçantes.</l>
+                     <l>Força, é força partir; a mão prende-se á mão,</l>
+                     <l>E uma infinda tristesa inunda o coração.</l>
+                  </lg>
+                  <p rend="justify">Para nós, meu amôr, nessa hora de agonia</p>
+                  <lg>
+                     <l>Não houve o padecer que as almas excrucia:</l>
+                     <l>Foi grave o nosso <hi rend="italic">adeus</hi>  e frio, e só agora</l>
+                     <l>É que a Dôr nos subjuga, e a Angustia nos devora.</l>
+                  </lg>
+                  <lg>
+                     <l/>
+                     <l/>
+                     <l/>
+                     <l/>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XXI</label>
+                  </head>
+                  <lg>
+                     <l/>
+                     <l/>
+                  </lg>
+                  <p rend="justify">Sonhei: de novo suspirava o vento</p>
+                  <p rend="justify">Das tilias sob a cupula odorante;<lb/>E como outrora ouvia o juramento</p>
+                  <p rend="justify">Do teu amôr constante.</p>
+                  <p rend="justify">Que protestos de amôr nesse momento!</p>
+                  <p rend="justify">Mas na febre dos beijos que me deste,<lb/>Como para gravar teu juramento</p>
+                  <p rend="justify">Em meus dedos mordeste!</p>
+                  <p rend="justify">Dona do riso alegre, ó meu tormento!</p>
+                  <p rend="justify">Dona de olhos azues, ó minha amada!<lb/>Já me bastava o doce juramento,</p>
+                  <p rend="justify">Foi de mais a dentada!</p>
+                  <lg>
+                     <l/>
+                     <l/>
+                     <l/>
+                     <l/>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XXII</label>
+                  </head>
+                  <lg>
+                     <l/>
+                     <l/>
+                  </lg>
+                  <p rend="justify">Chorei: sonhava e era comtigo, estavas</p>
+                  <lg>
+                     <l>Morta num cemiterio, fria, fria...</l>
+                     <l>E, ao despertar, senti que o pranto, em lavas,</l>
+                     <l>De meus cançados olhos escorria.</l>
+                  </lg>
+                  <p rend="justify">Chorei: sonhava e era comtigo, rosa;</p>
+                  <lg>
+                     <l>Havias-me, sem dó, abandonado:</l>
+                     <l>E, ao despertar da noite tormentosa,</l>
+                     <l>Tinha o rôsto de lagrimas banhado.</l>
+                  </lg>
+                  <p rend="justify">Chorei: sonhava, e era comtigo, ó linda!</p>
+                  <lg>
+                     <l>Dizias-me, a sorrir, «como eu te adoro!»</l>
+                     <l>Desperto, e logo numa angustia infinda,</l>
+                     <l>Eis-me a chorar de novo e ainda choro!</l>
+                  </lg>
+                  <lg>
+                     <l/>
+                     <l/>
+                     <l/>
+                     <l/>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XXIII</label>
+                  </head>
+                  <lg>
+                     <l/>
+                     <l/>
+                  </lg>
+                  <lg>
+                     <l>Batido do torvelinho</l>
+                     <l>O bosque palpita ao açoite</l>
+                     <l>Do vento outomnal; é noite.</l>
+                  </lg>
+                  <p rend="justify">Monto a cavallo e metto-me a caminho.</p>
+                  <lg>
+                     <l>E este inquieto pensamento,</l>
+                     <l>E esta phantasia errante</l>
+                     <l>Levaram-me nesse instante</l>
+                  </lg>
+                  <p rend="justify">Ao teu virgineo e candido aposento.</p>
+                  <lg>
+                     <l>Os cães ladram; nas sonoras</l>
+                     <l>Escadas assoma gente,</l>
+                     <l>E eu no marmore luzente</l>
+                  </lg>
+                  <p rend="justify">Faço tinir as rútilas esporas.</p>
+                  <lg>
+                     <l>No teu quarto da baunilha</l>
+                     <l>Vôam cálidos arômas;</l>
+                     <l>Tu dormes, soltas as cômas,</l>
+                  </lg>
+                  <p rend="justify">E eu nos teus braços cáio, minha filha!</p>
+                  <lg>
+                     <l>Soluça o vento magoado:</l>
+                     <l>Diz um carvalho altaneiro:</l>
+                     <l>«Cavalleiro, cavalleiro,</l>
+                  </lg>
+                  <p rend="justify">«Suspende o teu sonhar allucinado!»</p>
+                  <lg>
+                     <l/>
+                     <l/>
+                     <l/>
+                     <l/>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>XXIV</label>
+                  </head>
+                  <lg>
+                     <l/>
+                     <l/>
+                  </lg>
+                  <lg>
+                     <l>Eu enterro as canções de amôr e o fel amargo</l>
+                     <l>Do meu triste sonhar:</l>
+                     <l>Quero um caixão profundo, immenso, vasto e largo;</l>
+                     <l>Depressa, ide-o buscar!</l>
+                  </lg>
+                  <lg>
+                     <l>Um caixão formidando, um féretro-portento,</l>
+                     <l>Que sobreexceda e vença</l>
+                     <l>O pêzo sobrehumano e o enorme comprimento</l>
+                     <l>Da ponte de Mayença.</l>
+                  </lg>
+                  <lg>
+                     <l>Trazei-m'o sem demora; eu hei-de enchêl-o em breve;</l>
+                     <l>Vereis a promptidão.</l>
+                     <l>De Heidelberg o tonel será pequeno e leve</l>
+                     <l>Ao pé d'esse caixão.</l>
+                  </lg>
+                  <lg>
+                     <l>Doze gigantes quero, o aspecto feio e rudo,</l>
+                     <l>E de um vigôr sem conta,</l>
+                     <l>Que me façam lembrar Christovam, o membrudo,</l>
+                     <l>Que em Colonia se aponta.</l>
+                  </lg>
+                  <lg>
+                     <l>Gigantes, balouçae o féretro luctuoso!</l>
+                     <l>Vamos! agora, ao mar!</l>
+                     <l>Cova maior existe? Abysmo assim grandioso</l>
+                     <l>Difficil é de achar.</l>
+                  </lg>
+                  <lg>
+                     <l>Sabeis porque eu desejo um féretro assim largo,</l>
+                     <l>De vastas dimensões?</l>
+                     <l>É que enterro, infeliz, o amôr, o fel amargo</l>
+                     <l>Das minhas illusões.</l>
+                  </lg>
+                  <lg>
+                     <l/>
+                     <l/>
+                     <l/>
+                     <l/>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>O MINUÊTE</head>
+                  <div type="div4">
+                     <head>Ao dr. Thomaz de Carvalho</head>
+                     <lg>
+                        <l/>
+                        <l/>
+                     </lg>
+                     <lg>
+                        <l>Espaçoso é o salão: jarras a cada canto;</l>
+                        <l>Admira-se o lavôr do tecto de páu sancto.</l>
+                     </lg>
+                     <lg>
+                        <l>Cadeiras de espaldar com fulvas pregarias:</l>
+                        <l>Um enorme sophá: largas tapeçarias.</l>
+                     </lg>
+                     <lg>
+                        <l>O purpureo tapete aos olhos nos revela</l>
+                        <l>Entre as garras de um tigre anciosa uma gazella.</l>
+                     </lg>
+                     <lg>
+                        <l>Retratos em redor: olhemos o primeiro:</l>
+                        <l>No Tóro as mãos de Affonso o armaram cavalleiro.</l>
+                     </lg>
+                     <lg>
+                        <l>Era Arcebispo aquelle: esta foi açafata...</l>
+                        <l>Que frescura sensual nos labios de escarlata!</l>
+                     </lg>
+                     <lg>
+                        <l>Olhos revendo o azul que sobre a Italia assoma:</l>
+                        <l>Em finos caracóes, a loura e ondada côma:</l>
+                     </lg>
+                     <lg>
+                        <l>Collo robusto e nú: cabeça triumphante:</l>
+                        <l>Consta que certo rei... passemos adeante!</l>
+                     </lg>
+                     <lg>
+                        <l>Este, que vês, morreu num africano areal</l>
+                        <l>Por vingança cruel do aspero Pombal.</l>
+                     </lg>
+                     <lg>
+                        <l>D'esse olhar na expressão infinda e inenarravel</l>
+                        <l>Desabrocha uma dôr profunda e inconsolavel.</l>
+                     </lg>
+                     <lg>
+                        <l>Defronte, uma donzella, o rosto meigo e afflicto,</l>
+                        <l>Num extasis adora o pallido proscripto.</l>
+                     </lg>
+                     <lg>
+                        <l>O teu sonho nupcial, franzina morgadinha,</l>
+                        <l>Tam cedo se desfez, ó misera e mesquinha!</l>
+                     </lg>
+                     <lg>
+                        <l>No burel escondeste o viço e a formusura,</l>
+                        <l>E desmaiaste, flôr, no chão de uma clausura!...</l>
+                     </lg>
+                     <lg>
+                        <l>Repara nos desdens do fôfo conselheiro,</l>
+                        <l>Que sorridente aspira a flôr de um jasmineiro!</l>
+                     </lg>
+                     <lg>
+                        <l>Em canones doutor: no Paço foi bemquisto:</l>
+                        <l>Orna-lhe o peito a cruz de um habito de Christo.</l>
+                     </lg>
+                     <lg>
+                        <l>Esse outro combatendo ás portas de Bayona,</l>
+                        <l>Como um bravo, alcançou a rútila dragôna.</l>
+                     </lg>
+                     <lg>
+                        <l>Vibra flammas do olhar; cabeça erecta e audaz;</l>
+                        <l>Illumina-lhe o rôsto a gloria de um gilvaz.</l>
+                     </lg>
+                     <lg>
+                        <l>Assistímos, ao vêl-o, ás pugnas carniceiras,</l>
+                        <l>E ouvimos o clangôr das musicas guerreiras...</l>
+                     </lg>
+                     <lg>
+                        <l>No antiquissimo espelho, á sombra das cortinas,</l>
+                        <l>Reflecte-se o primôr de argenteas serpentinas.</l>
+                     </lg>
+                     <lg>
+                        <l>Sob o espelho se aninha um cravo marchetado,</l>
+                        <l>Mimo outrora da casa, e prenda de um noivado.</l>
+                     </lg>
+                     <lg>
+                        <l>Ao lado um cofre encerra, em amoravel ninho,</l>
+                        <l>Antiga partitura em velho pergaminho.</l>
+                     </lg>
+                     <lg>
+                        <l>Uma noite extendi a musica na estante,</l>
+                        <l>E o cravo suspirou... naquelle mesmo instante</l>
+                     </lg>
+                     <lg>
+                        <l>Da eburnea pallidez doentia do teclado</l>
+                        <l>Manso e manso evolou-se o arôma do passado.</l>
+                     </lg>
+                     <lg>
+                        <l>E vi descer do quadro a languida açafata</l>
+                        <l>Que, ao discreto pallôr das lampadas de prata,</l>
+                     </lg>
+                     <lg>
+                        <l>A fimbria alevantando azul do seu vestido</l>
+                        <l>O rôsto acerejado, o gesto commovido,</l>
+                     </lg>
+                     <lg>
+                        <l>A sorrir, deslisou graciosa no tapête,</l>
+                        <l>Dançando airosamente o airoso minuête...</l>
+                     </lg>
+                     <lg>
+                        <l/>
+                        <l/>
+                        <l/>
+                        <l/>
+                     </lg>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>O COVEIRO</head>
+                  <div type="div4">
+                     <head>A Alberto Braga</head>
+                     <lg>
+                        <l/>
+                        <l/>
+                     </lg>
+                     <p rend="justify">Elle entrou cabisbaixo e silencioso</p>
+                     <lg>
+                        <l>Na immunda tasca, e foi sentar-se a um canto;</l>
+                        <l>Deram-lhe vinho, recusou, o espanto</l>
+                        <l>Cresceu no olhar do taberneiro oleoso.</l>
+                     </lg>
+                     <p rend="justify">Elle era o mais antigo e o mais ruidoso</p>
+                     <lg>
+                        <l>Dos freguezes da casa: ao obsceno canto</l>
+                        <l>Ninguem prestava mais lascivo encanto</l>
+                        <l>Ao som magoado de um violão choroso.</l>
+                     </lg>
+                     <p rend="justify">Mas o velho sentára-se distante</p>
+                     <p rend="justify">Da alegre turba, a vista lacrymante<lb/>Mergulhada nas chammas do brazido...</p>
+                     <p rend="justify">Disse um da roda: «espanta-me o coveiro!»</p>
+                     <p rend="justify">—Morreu-lhe ha pouco a filha...—distrahido<lb/>Volveu da bisca um contumaz parceiro.</p>
+                     <lg>
+                        <l/>
+                        <l/>
+                        <l/>
+                        <l/>
+                     </lg>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>ADEUS!</head>
+                  <lg>
+                     <l/>
+                     <l/>
+                  </lg>
+                  <p rend="justify">Uma vez, numa camara elegante,</p>
+                  <lg>
+                     <l>De um contador no marmore de rosa,</l>
+                     <l>Entre os mil nadas feminis que exhalam</l>
+                     <l>Uns aromas subtis que nos embalam,</l>
+                     <l>Vi uma concha pallida e graciosa.</l>
+                  </lg>
+                  <p rend="justify">Sentira eu nella um som confuso e triste,</p>
+                  <lg>
+                     <l>Como o dos sinos em remota aldeia;</l>
+                     <l>Pobre concha! morria de saudade</l>
+                     <l>Daquella vaga e triste immensidade</l>
+                     <l>Do mar que chora na deserta areia.</l>
+                  </lg>
+                  <p rend="justify">Olha, querida, como nessa concha,</p>
+                  <lg>
+                     <l>Anda chorando em mim continuamente</l>
+                     <l>Essa timida voz que tu soltaste,</l>
+                     <l>Essa palavra <hi rend="smallcaps">ADEUS</hi>  que murmuraste</l>
+                     <l>Aos meus ouvidos languida e tremente!</l>
+                  </lg>
+                  <lg>
+                     <l/>
+                     <l/>
+                     <l/>
+                     <l/>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>CAMONEANA</head>
+                  <lg>
+                     <l/>
+                     <l/>
+                     <l/>
+                     <l/>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>I</label>
+                  </head>
+               </div>
+               <div type="div3">
+                  <head>NA EGREJA DAS CHAGAS</head>
+                  <div type="div4">
+                     <head>Ao dr. A. A. de Carvalho Monteiro</head>
+                     <lg>
+                        <l/>
+                        <l/>
+                     </lg>
+                     <p rend="justify">Proxima vinha a nobre Catharina</p>
+                     <lg>
+                        <l>Da porta principal da egreja, quando</l>
+                        <l>Seu olhar encontrou suave e brando</l>
+                        <l>O olhar de um moço de presença fina.</l>
+                     </lg>
+                     <p rend="justify">E, ao fulgôr d'esse olhar ardente, inclina</p>
+                     <lg>
+                        <l>A dama o rôsto, timida, córando...</l>
+                        <l>Arfa-lhe o niveo seio, palpitando,</l>
+                        <l>Em doida e extranha commoção divina.</l>
+                     </lg>
+                     <p rend="justify">Camões, que outro não era o moço, ardido,</p>
+                     <p rend="justify">Num gesto de galan desvanecido,<lb/>«Quem vos pudéra merecer!» murmura.</p>
+                     <p rend="justify">E a dama, ao ouvil-o, languida sorria,</p>
+                     <p rend="justify">Pois que em todos os tempos a ouzadia<lb/>Ao amôr nunca trouxe desventura.</p>
+                     <lg>
+                        <l/>
+                        <l/>
+                        <l/>
+                        <l/>
+                     </lg>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>II</label>
+                  </head>
+               </div>
+               <div type="div3">
+                  <head>A LEITURA DOS LUSIADAS</head>
+                  <div type="div4">
+                     <head>A Vicente Pindella</head>
+                     <lg>
+                        <l/>
+                        <l/>
+                     </lg>
+                     <p rend="justify">Do moço rei defronte, esbelto e cavalleiro</p>
+                     <lg>
+                        <l>Camões recita; a côrte, silenciosa</l>
+                        <l>Ante a rubra explosão do cantico guerreiro,</l>
+                        <l>Admira essa Epopeia enorme e prodigiosa.</l>
+                     </lg>
+                     <p rend="justify">«... Ruge a electrica voz do Adamastôr furiosa;</p>
+                     <lg>
+                        <l>«Nas amuradas canta o alegre marinheiro;</l>
+                        <l>«Do Oceano á flôr scintilla a esteira luminosa</l>
+                        <l>«Dos pesados galeões do Gama aventureiro.</l>
+                     </lg>
+                     <p rend="justify">«Terra! grita o gageiro; e á praia melindana</p>
+                     <p rend="justify">«Desce douda e febril a gente lusitana<lb/>«Desfraldam-se os pendões ao claro céu do Oriente...»</p>
+                     <p rend="justify">Da gloria ante o esplendôr o olhar d'El-Rey fulgura;</p>
+                     <p rend="justify">O Camara no emtanto, alma sombria e escura,<lb/>No rei os olhos crava, e ri felinamente.</p>
+                     <lg>
+                        <l/>
+                        <l/>
+                        <l/>
+                        <l/>
+                     </lg>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>III</label>
+                  </head>
+               </div>
+               <div type="div3">
+                  <head>ANNOS DEPOIS</head>
+                  <div type="div4">
+                     <head>A Bernardo Pindella</head>
+                     <lg>
+                        <l/>
+                        <l/>
+                     </lg>
+                     <p rend="justify">Juncto de um catre vil, grosseiro e feio,</p>
+                     <lg>
+                        <l>Por uma noite de luar saudoso,</l>
+                        <l>Camões, pendida a fronte sobre o seio,</l>
+                        <l>Scisma embebido num pesar luctuoso...</l>
+                     </lg>
+                     <p rend="justify">Eis que na rua um cantico amôroso</p>
+                     <lg>
+                        <l>Subitaneo se ouviu da noite em meio:</l>
+                        <l>Já se abrem as adufas com receio...</l>
+                        <l>Noite de amôres! que trovar mimoso!</l>
+                     </lg>
+                     <p rend="justify">Camões acorda, e á gelosia assôma,</p>
+                     <p rend="justify">E aquelle canto, como um antigo arôma,<lb/>Resuscita-lhe os risos do passado.</p>
+                     <p rend="justify">Viu-se moço e feliz, e ah! nesse instante,</p>
+                     <p rend="justify">No azul viu perpassar, claro e distante,<lb/>De Natercia gentil, o vulto amado...</p>
+                     <lg>
+                        <l/>
+                        <l/>
+                        <l/>
+                        <l/>
+                     </lg>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>ESPHYNGE</head>
+                  <div type="div4">
+                     <head>Traducção de uns versos de Alexandre Dumas<lb/>escriptos num leque<lb/>em que estava pintada uma Esphynge</head>
+                     <lg>
+                        <l/>
+                        <l/>
+                     </lg>
+                     <p rend="justify">Que me queres, Esphynge? O que procuras? diz-m'o:</p>
+                     <lg>
+                        <l>Se do poeta o segredo intentas penetrar,</l>
+                        <l>Desce dos annos meus ao tenebroso abysmo,</l>
+                        <l>Verás o Amôr aos Vinte e aos Sessenta o Pesar.</l>
+                     </lg>
+                     <p rend="justify">Sim, Pesar, não de haver lançado aos quatro ventos</p>
+                     <lg>
+                        <l>Com prodiga loucura o verbo triumphante,</l>
+                        <l>A ambição, o dinheiro, os risos e os tormentos,</l>
+                        <l>E as auroras de abril que passam num instante!</l>
+                     </lg>
+                     <p rend="justify">Mas Pesar de sentir dentro em meu peito agora,</p>
+                     <lg>
+                        <l>Como accêso vulcão em gêlos sepultado,</l>
+                        <l>Do juvenil desejo a flamma que devora,</l>
+                        <l>E de não poder mais, amando, ser amado!</l>
+                     </lg>
+                     <lg>
+                        <l/>
+                        <l/>
+                        <l/>
+                        <l/>
+                     </lg>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>A CEIA DE TIBERIO</head>
+                  <div type="div4">
+                     <head>Ao dr. J. Frederico Laranjo</head>
+                     <lg>
+                        <l/>
+                        <l/>
+                     </lg>
+                     <p rend="justify">Opulento é o festim: em todo o vasto imperio</p>
+                     <p rend="justify">Outro não houve egual. Caprêa a dissoluta,<lb/>O retiro de amôr do perfido Tiberio,</p>
+                     <p rend="justify">Illuminada ri. Ao longe Roma escuta</p>
+                     <p rend="justify">O confuso rumôr da tenebrosa orgia:<lb/>Assim geme, assim ronca o mar em funda gruta.</p>
+                     <p rend="justify">Fascina, attrae, seduz, e os olhos extasia</p>
+                     <p rend="justify">A imperial vivenda: a sala é deslumbrante:<lb/>Ouro e gêmmas sem fim confundem-se á porfia.</p>
+                     <p rend="justify">Das lampadas rebrilha o lume coruscante;</p>
+                     <p rend="justify">Nos triclinios esplende a purpura escarlata,<lb/>A fina tartaruga e o sandalo odorante.</p>
+                     <p rend="justify">Aos angulos da sala, em primorosa prata,</p>
+                     <p rend="justify">Erotico esculptor grupos fundiu lascivos,<lb/>Em cujos membros nús Volupia se retrata.</p>
+                     <p rend="justify">Resaltam da parede os satyros esquivos</p>
+                     <p rend="justify">Sob o pampano alegre: as nymphas, em corêas,<lb/>Dançam na riba, em flôr, de arroios fugitivos.</p>
+                     <p rend="justify">Em marmórea piscina enroscam-se as murêas,</p>
+                     <p rend="justify">Dos patricios de Roma o pabulo dilecto,<lb/>Vezes sem conto, escravo, ali rompeste as veias!</p>
+                     <p rend="justify">Pendem verdes festões do primoroso tecto,</p>
+                     <p rend="justify">Pyrrheico ali pintára um matagal folhudo,<lb/>E um lago crystallino, encantador, discreto.</p>
+                     <p rend="justify">Diana ao sol enxuga as tranças de veludo,</p>
+                     <p rend="justify">Acteon espreita ancioso, e, ó rapida alegria!<lb/>Aos poucos se transforma em cervo ramalhudo.</p>
+                     <p rend="justify">Em Miléto foi tincta a azul tapeçaria,</p>
+                     <p rend="justify">Que nas mesas se extende e nos mosaicos dorme;<lb/>Dos velarios se escôa o arôma que inebria.</p>
+                     <p rend="justify">A festa é no pendor: num áureo prato informe</p>
+                     <p rend="justify">Eis que entra um javali, formosas gaditanas<lb/>Dançam em derredor. Ulula a grita enorme.</p>
+                     <p rend="justify">Jorra o vinho de Kós purpureas espadanas;</p>
+                     <p rend="justify">Dos convivas na fronte enlaça-se a verbena,<lb/>Preludiam no emtanto as frautas sicilianas.</p>
+                     <p rend="justify">Adoudada suspira uma canção obscena:</p>
+                     <p rend="justify">Fervem beijos no ar, os seios pulam, crescem<lb/>E desnudam-se á luz, Tiberio assim o ordena.</p>
+                     <p rend="justify">As matronas, ao vêr o duro gesto, obedecem,</p>
+                     <p rend="justify">E lá passam gentis, deslisam mansamente<lb/>Dos marmores á flôr; são nuas, endoudecem!</p>
+                     <p rend="justify">Um retiario nervudo, e um gladiador valente</p>
+                     <p rend="justify">Combatem, são leões; o pallido vencido<lb/>Mistura o sangue rubro ao vinho rescendente.</p>
+                     <p rend="justify">Ora Tiberio ri... Mas subito um gemido</p>
+                     <p rend="justify">Longo e triste chorou nos paços de Caprêa...<lb/>Indagam: talvez fosse o gladiador ferido...</p>
+                     <p rend="justify">Nesse instante Jesus morria na Judeia!</p>
+                     <lg>
+                        <l/>
+                        <l/>
+                        <l/>
+                        <l/>
+                     </lg>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>TRIO DE POETAS</head>
+                  <lg>
+                     <l/>
+                     <l/>
+                     <l/>
+                     <l/>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>I</label>
+                  </head>
+               </div>
+               <div type="div3">
+                  <head>JOÃO DE LEMOS</head>
+                  <div type="div4">
+                     <head>Ao Visconde de Pindella</head>
+                     <lg>
+                        <l/>
+                        <l/>
+                     </lg>
+                     <p rend="justify">Na cidade gentil do austero estudo</p>
+                     <lg>
+                        <l>Sobranceira ao Mondego socegado,</l>
+                        <l>Em cuja riba o sinceiral folhudo</l>
+                        <l>De rouxinoes suspira gorgeiado,</l>
+                     </lg>
+                     <p rend="justify">Fôste erguido no concavo do escudo</p>
+                     <lg>
+                        <l>Pelos moços de outrora, e celebrado</l>
+                        <l>Trovador, cavalleiro, e namorado...</l>
+                        <l>Tempo de glorias! Como passa tudo!</l>
+                     </lg>
+                     <p rend="justify">No emtanto ás vezes, na provincia, quando</p>
+                     <p rend="justify">A um dôce, honesto e feminino bando<lb/>Digo a <hi rend="smallcaps">lua de londres</hi>, de repente</p>
+                     <p rend="justify">Da infancia volvo á candida simpleza,</p>
+                     <p rend="justify">E ondulam na minh'alma vagamente<lb/>Tremulas notas de fugaz tristeza.</p>
+                     <lg>
+                        <l/>
+                        <l/>
+                        <l/>
+                        <l/>
+                     </lg>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>II</label>
+                  </head>
+               </div>
+               <div type="div3">
+                  <head>JOÃO DE DEUS</head>
+                  <div type="div4">
+                     <head>A Anthero do Quental</head>
+                     <lg>
+                        <l/>
+                        <l/>
+                     </lg>
+                     <p rend="justify">Sempre que o leio, sinto-me captivo</p>
+                     <lg>
+                        <l>De um não sei quê, de infinda suavidade,</l>
+                        <l>E entram commigo uns longes de saudade,</l>
+                        <l>Que me deixam sizudo e pensativo.</l>
+                     </lg>
+                     <p rend="justify">Sonho: quizéra, em triste soledade,</p>
+                     <lg>
+                        <l>Viver das gentes apartado e esquivo,</l>
+                        <l>E erguer-me a esse planeta primitivo</l>
+                        <l>Onde resplenda a eterna mocidade.</l>
+                     </lg>
+                     <p rend="justify">Já o seu nome é tão suave e brando,</p>
+                     <p rend="justify">Tão eufonico, meigo e delicado,<lb/>Que fica nos ouvidos suspirando...</p>
+                     <p rend="justify">Diz a lenda que vive descuidado,</p>
+                     <p rend="justify">
+                        <hi rend="smallcaps">Ramos</hi>  tecendo, e <hi rend="smallcaps">flores</hi>  emmoitando,<lb/>Da Chymera nos seios reclinado.</p>
+                     <lg>
+                        <l/>
+                        <l/>
+                        <l/>
+                        <l/>
+                     </lg>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>
+                     <label>III</label>
+                  </head>
+               </div>
+               <div type="div3">
+                  <head>JOÃO PENHA</head>
+                  <div type="div4">
+                     <head>A Augusto Sarmento</head>
+                     <lg>
+                        <l/>
+                        <l/>
+                     </lg>
+                     <p rend="justify">Nervoso mestre, domadôr valente</p>
+                     <lg>
+                        <l>Da Rima e do Sonêto portuguez,</l>
+                        <l>Não te eguala a pericia de um chinez</l>
+                        <l>Na pintura de um vaso transparente.</l>
+                     </lg>
+                     <p rend="justify">Ha no teu verso a musica dolente</p>
+                     <lg>
+                        <l>Da guitarra andaluza, e muita vez</l>
+                        <l>Rompe em meio da extranha languidez</l>
+                        <l>O silvo estriduloso da serpente.</l>
+                     </lg>
+                     <p rend="justify">No <hi rend="smallcaps">vinho e fel</hi>  traçaste o escuro drama</p>
+                     <p rend="justify">Em que soluça e ri, na extensa gamma,<lb/>Teu desgrenhado amôr, doido e fatal...</p>
+                     <p rend="justify">Mas se do peito ancioso o dardo arrancas,</p>
+                     <p rend="justify">Teu canto exhala as alegrias francas<lb/>De uma rubra Kermesse colossal.</p>
+                     <lg>
+                        <l/>
+                        <l/>
+                        <l/>
+                        <l/>
+                     </lg>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>CHYMERAS</head>
+                  <div type="div4">
+                     <head>A meu tio João de Almeida e Albuquerque</head>
+                     <lg>
+                        <l/>
+                        <l/>
+                     </lg>
+                     <p rend="justify">O mar já me tentou: aspirações fogosas</p>
+                     <lg>
+                        <l>Fizeram-me idear phantasticas viagens;</l>
+                        <l>Eu sonhava trazer de incognitas paragens</l>
+                        <l>Noticias immortaes ás gentes curiosas.</l>
+                     </lg>
+                     <p rend="justify">Mais tarde desejei riquezas fabulosas,</p>
+                     <lg>
+                        <l>Um palacio escondido em múrmuras folhagens,</l>
+                        <l>Onde eu fosse occultar as candidas imagens</l>
+                        <l>Das virgens que evoquei por noites silenciosas.</l>
+                     </lg>
+                     <p rend="justify">Mas tudo isso passou: agora só me resta</p>
+                     <p rend="justify">Das chymeras que tive, uma visão modesta,<lb/>Um sonho encantador, de paz e de ventura.</p>
+                     <p rend="justify">É simples; uma alcôva, um berço, um innocente,</p>
+                     <p rend="justify">E uma esposa adorada, envolta, a negligente!<lb/>De um longo penteadôr na immaculada alvura...</p>
+                     <lg>
+                        <l/>
+                        <l/>
+                        <l/>
+                        <l/>
+                     </lg>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>ODOR DI FEMINA</head>
+                  <div type="div4">
+                     <head>A Alberto Pimentel</head>
+                     <lg>
+                        <l/>
+                        <l/>
+                     </lg>
+                     <p rend="justify">Era austero e sizudo; não havia</p>
+                     <lg>
+                        <l>Frade mais exemplar nesse convento;</l>
+                        <l>No seu cavado rôsto macilento</l>
+                        <l>Um poêma de lagrimas se lia.</l>
+                     </lg>
+                     <p rend="justify">Uma vez que na extensa livraria</p>
+                     <lg>
+                        <l>Folheava o triste um livro pardacento,</l>
+                        <l>Viram-no desmaiar, cahir do assento,</l>
+                        <l>Convulso, e tôrvo sobre a lágea fria.</l>
+                     </lg>
+                     <p rend="justify">De que morrêra o venerando frade?</p>
+                     <p rend="justify">Em vão busco as origens da verdade,<lb/>Ninguem m'a disse, explique-a quem pudér.</p>
+                     <p rend="justify">Consta que um bibliophilo comprára</p>
+                     <p rend="justify">O livro estranho e que, ao abril-o, achára<lb/>Uns dourados cabellos de mulher...</p>
+                     <lg>
+                        <l/>
+                        <l/>
+                        <l/>
+                        <l/>
+                     </lg>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>EM CAMINHO DA GUILHOTINA</head>
+                  <div type="div4">
+                     <head>Á Senhora Condessa de Sabugoza</head>
+                     <lg>
+                        <l/>
+                        <l/>
+                     </lg>
+                     <p rend="justify">A <hi rend="italic">viuva Capet</hi>  vae ser guilhotinada.</p>
+                     <lg>
+                        <l>Ora naquelle dia o povo de Pariz</l>
+                        <l>Formidavel, brutal, colerico, feliz,</l>
+                        <l>Erguera-se ao primeiro alvôr da madrugada.</l>
+                     </lg>
+                     <p rend="justify">No caminho traçado ao funebre cortejo</p>
+                     <p rend="justify">O povo redemoinha;</p>
+                     <p rend="justify">Que todos sentem n'alma o tragico desejo<lb/>De ver como Sansão degolla uma rainha.</p>
+                     <p rend="justify">Da carreta em redor ondeiam os soldados;</p>
+                     <p rend="justify">De cima dos telhados</p>
+                     <p rend="justify">Da rua, dos portaes, dos muros, dos balcões<lb/>Chovem sobre a rainha as vis imprecações.</p>
+                     <p rend="justify">Ella comtudo altiva erecta e desdenhosa</p>
+                     <p rend="justify">Olha tranquillamente</p>
+                     <p rend="justify">Para o revolto mar da plebe tumultuosa.</p>
+                     <p rend="justify">E emquanto aquelle povo inquieto e repulsivo</p>
+                     <p rend="justify">Anceia por ouvir o grito convulsivo</p>
+                     <p rend="justify">E o derradeiro arranco</p>
+                     <p rend="justify">D'essa mulher, e ri abominavelmente,<lb/>Um homem só, o algoz, vae triste e reverente.</p>
+                     <p rend="justify">Póde nascer ao pé da forca um lirio branco.</p>
+                     <p rend="justify">A carreta parou. Desce a rainha. Nisto</p>
+                     <p rend="justify">Viram-se uns braços nús</p>
+                     <p rend="justify">Erguerem para o ar, á flôr da multidão,<lb/>Uma loura creança, alegre como a luz,</p>
+                     <p rend="justify">Suave como o Christo,</p>
+                     <p rend="justify">A quem talvez faltando em casa a enxerga e o pão,<lb/>A mãe quizera dar aquella distracção.</p>
+                     <p rend="justify">No primeiro degráu da escura guilhotina</p>
+                     <p rend="justify">A rainha de França</p>
+                     <lg>
+                        <l>Ergueu o olhar e viu essa gentil creança</l>
+                        <l>Levar a mão á flôr da bôcca pequenina,</l>
+                        <l>E atirar-lhe, a sorrir, um beijo doce e honesto...</l>
+                     </lg>
+                     <p rend="justify">E ella que fôra audaz, heroica e resoluta,</p>
+                     <lg>
+                        <l>E ouvira, com desdem, da plebe a injuria bruta,</l>
+                        <l>Ante a esmola infantil, graciosa, d'esse gesto,</l>
+                        <l>Chorou.</l>
+                     </lg>
+                     <p rend="justify">«Chorou, emfim! A infame succumbiu!»</p>
+                     <p rend="justify">De entre o povo uma voz selvatica rugiu.</p>
+                     <lg>
+                        <l/>
+                        <l/>
+                        <l/>
+                        <l/>
+                     </lg>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>A VIUVA</head>
+                  <div type="div4">
+                     <head>Á Senhora D. Margarida Street</head>
+                     <lg>
+                        <l/>
+                        <l/>
+                     </lg>
+                     <p rend="justify">Fóra de portas vive. É silenciosa</p>
+                     <lg>
+                        <l>A modesta vivenda em que ella habita,</l>
+                        <l>Ali correu-lhe a vida bonançosa,</l>
+                        <l>Ali golpeou-lhe os seios a desdíta.</l>
+                     </lg>
+                     <p rend="justify">Raro de quando em quando uma visita</p>
+                     <lg>
+                        <l>Novas lhe traz da vida tumultuosa,</l>
+                        <l>E ella sorrindo a furto, descuidosa,</l>
+                        <l>No azul os olhos em silencio fita.</l>
+                     </lg>
+                     <p rend="justify">Sósinha e triste a pallida viuva,</p>
+                     <p rend="justify">Por essas noites de invernia e chuva,<lb/>A um honesto e feminil labor se entrega.</p>
+                     <p rend="justify">E, alta noite, levanta, em dôr sepulta,</p>
+                     <p rend="justify">O olhar, que fixa, e demorado prega<lb/>No eterno Ausente que num quadro avulta.</p>
+                     <lg>
+                        <l/>
+                        <l/>
+                        <l/>
+                        <l/>
+                     </lg>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>FLÔR DO PANTANO</head>
+                  <div type="div4">
+                     <head>A Bulhão Pato</head>
+                     <lg>
+                        <l/>
+                        <l/>
+                     </lg>
+                     <p rend="justify">É pequenina e séria,</p>
+                     <lg>
+                        <l>E tem o gesto grave</l>
+                        <l>Da filha de um burgrave,</l>
+                        <l>A candida Valeria.</l>
+                     </lg>
+                     <p rend="justify">Não ha flôr mais suave,</p>
+                     <lg>
+                        <l>De essencia mais ethérea,</l>
+                        <l>E abriu-lhe a vida a chave</l>
+                        <l>Do Vicio e da Miseria!</l>
+                     </lg>
+                     <p rend="justify">Na sua loura côma</p>
+                     <p rend="justify">Nunca passou o arôma<lb/>Dos beijos maternaes.</p>
+                     <p rend="justify">Ó credula Ignorancia,</p>
+                     <p rend="justify">Esconde áquella infancia<lb/>O nome vil dos paes!</p>
+                     <lg>
+                        <l/>
+                        <l/>
+                        <l/>
+                        <l/>
+                     </lg>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>A RESPOSTA DO INQUISIDÔR</head>
+                  <div type="div4">
+                     <head>A meu tio Luiz de Almeida e Albuquerque</head>
+                     <div type="div5">
+                        <head>
+                           <label>I</label>
+                        </head>
+                        <p rend="justify">A sala em que medita El-Rey é silenciosa,</p>
+                        <p rend="justify">Apainelada e fria, o largo reposteiro<lb/>Ondula brandamente á aragem preguiçosa.</p>
+                     </div>
+                     <div type="div5">
+                        <head>
+                           <label>II</label>
+                        </head>
+                        <p rend="justify">Á cathedra real um Christo sobranceiro</p>
+                        <p rend="justify">Mésto, livido, nú, ferido e ensanguentado<lb/>Exhala sobre o seio o alento derradeiro.</p>
+                     </div>
+                     <div type="div5">
+                        <head>
+                           <label>III</label>
+                        </head>
+                        <p rend="justify">El-Rey medita e scisma: o seu olhar turbado,</p>
+                        <p rend="justify">O seu obliquo olhar, o seu olhar de féra,<lb/>Vibra irrequieta luz, parece allucinado.</p>
+                     </div>
+                     <div type="div5">
+                        <head>
+                           <label>IV</label>
+                        </head>
+                        <p rend="justify">Nisto á porta assomou a calva fronte austera</p>
+                        <p rend="justify">De um velho, e logo atraz um pagem que murmura:<lb/>«Eis o monge, Senhor, que Vossa Alteza espera!»</p>
+                     </div>
+                     <div type="div5">
+                        <head>
+                           <label>V</label>
+                        </head>
+                        <p rend="justify">Curvára, ao entrar, o monge a tremula estatura:</p>
+                        <p rend="justify">Mãos dispostas em cruz no largo peito ancioso,<lb/>E humilhada a cerviz na ascetica postura.</p>
+                     </div>
+                     <div type="div5">
+                        <head>
+                           <label>VI</label>
+                        </head>
+                        <p rend="justify">E comtudo esse frade humilde e respeitoso,</p>
+                        <p rend="justify">De olhos fitos no chão, tão fragil como um vime,<lb/>Na presença de um rei, de um Cesar poderoso,</p>
+                     </div>
+                     <div type="div5">
+                        <head>
+                           <label>VII</label>
+                        </head>
+                        <p rend="justify">É fanatico e audaz; com mão de bronze opprime</p>
+                        <p rend="justify">O Solio, a Egreja, o Lar, e os corações dos crentes;<lb/>Flagella a sombra e o amôr, condemna a luz, e o crime!</p>
+                     </div>
+                     <div type="div5">
+                        <head>
+                           <label>VIII</label>
+                        </head>
+                        <p rend="justify">Quando elle vae passando, as timoratas gentes</p>
+                        <p rend="justify">Benzem-se com pavôr e param de improviso<lb/>As canções juvenis nas aleas rescendentes.</p>
+                     </div>
+                     <div type="div5">
+                        <head>
+                           <label>IX</label>
+                        </head>
+                        <p rend="justify">Nunca nos labios seus florira o alegre riso,</p>
+                        <p rend="justify">Tem cem annos, jamais beijára uma creança,<lb/>E crê subir, talvez, morrendo, ao Paraizo!</p>
+                     </div>
+                     <div type="div5">
+                        <head>
+                           <label>X</label>
+                        </head>
+                        <p rend="justify">Na Hespanha, no Perú, em Napoles, na França</p>
+                        <p rend="justify">Paira como o sinistro espirito do Mal,<lb/>O negro inquisidôr, feroz como a Vingança.</p>
+                     </div>
+                     <div type="div5">
+                        <head>
+                           <label>XI</label>
+                        </head>
+                        <p rend="justify">Sisto quinto, o cruel, fizera-o cardeal,</p>
+                        <p rend="justify">E a Hespanha pôde ver com assombroso espanto<lb/>Juncto do rei-panthera o inquisidôr-chacal.</p>
+                     </div>
+                     <div type="div5">
+                        <head>
+                           <label>XII</label>
+                        </head>
+                        <p rend="justify">E Philippe dizia ao monge no entretanto:</p>
+                        <p rend="justify">«Sentinella da Lei, piedoso inquisidôr,<lb/>«Tu que fallas com Deus e és padre, e és bom, e és sancto</p>
+                     </div>
+                     <div type="div5">
+                        <head>
+                           <label>XIII</label>
+                        </head>
+                        <p rend="justify">«Arranca-me este pezo, afasta-me este horrôr!</p>
+                        <p rend="justify">«Ah! diz'-me, cardeal, se é um vil, se é um precito<lb/>«O rei que é justo e mata o filho que é traidôr...»</p>
+                     </div>
+                     <div type="div5">
+                        <head>
+                           <label>XIV</label>
+                        </head>
+                        <p rend="justify">E mais não disse o rei, tôrvo, sombrio e afflicto.</p>
+                        <p rend="justify">No emtanto o inquisidôr erguendo imperturbavel<lb/>O seu hediondo olhar das lageas de granito,</p>
+                     </div>
+                     <div type="div5">
+                        <head>
+                           <label>XV</label>
+                        </head>
+                        <p rend="justify">Assim tornou com voz vibrante e formidavel:</p>
+                        <p rend="justify">—Ó principe, e apontava o livido Jesus,<lb/>—Para acalmar dos céus a colera implacavel</p>
+                     </div>
+                     <div type="div5">
+                        <head>
+                           <label>XVI</label>
+                        </head>
+                        <p rend="justify">—O Eterno fez morrer seu filho numa cruz!—</p>
+                        <lg>
+                           <l/>
+                           <l/>
+                           <l/>
+                           <l/>
+                        </lg>
+                     </div>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>FERVET AMOR</head>
+                  <div type="div4">
+                     <head>Ao dr. Antonio Candido</head>
+                     <lg>
+                        <l/>
+                        <l/>
+                     </lg>
+                     <p rend="justify">Dá para a cêrca a estreita e humilde cella</p>
+                     <lg>
+                        <l>D'essa que os seus abandonou, trocando</l>
+                        <l>O calôr da familia ameno e brando</l>
+                        <l>Pelo claustro que o sangue esfria e gela.</l>
+                     </lg>
+                     <p rend="justify">Nos florões manuelinos da janella</p>
+                     <lg>
+                        <l>Papeiam aves o seu ninho armando,</l>
+                        <l>Veêm-se ao longe os trigos ondulando...</l>
+                        <l>Maio sorri na pradaria bella.</l>
+                     </lg>
+                     <p rend="justify">Zumbe o insecto na flôr do rosmaninho:</p>
+                     <p rend="justify">Nas giéstas pousa a abelha ébria de gôso:<lb/>Zunem bezouros e palpita o ninho.</p>
+                     <p rend="justify">E a freira scisma e córa, ao vêr, ancioso,</p>
+                     <p rend="justify">Do seu cátre virgineo sobre o linho<lb/>Um par de borboletas amoroso.</p>
+                     <lg>
+                        <l/>
+                        <l/>
+                        <l/>
+                        <l/>
+                     </lg>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>NA ALDEIA</head>
+                  <div type="div4">
+                     <head>A Christovam Ayres</head>
+                     <lg>
+                        <l/>
+                        <l/>
+                     </lg>
+                     <p rend="justify">Duas horas da tarde. Um sol ardente</p>
+                     <lg>
+                        <l>Nos côlmos dardejando, e nos eirados.</l>
+                        <l>Sobreleva aos sussurros abafados</l>
+                        <l>O grito das bigornas estridente.</l>
+                     </lg>
+                     <p rend="justify">A taberna é vazia; mansamente</p>
+                     <lg>
+                        <l>Treme o loureiro nos humbraes pintados;</l>
+                        <l>Zumbem á porta insectos variegados</l>
+                        <l>Envolvidos do sol na luz tremente.</l>
+                     </lg>
+                     <p rend="justify">Fia á soleira uma velhinha: o filho</p>
+                     <p rend="justify">No céu mal acordou da aurora o brilho,<lb/>Sahiu para os cançaços da lavoura.</p>
+                     <p rend="justify">A nóra lava na ribeira, e os netos</p>
+                     <p rend="justify">Ao longe correm semi-nús, inquietos,<lb/>No mar ondeante da seára loura.</p>
+                     <lg>
+                        <l/>
+                        <l/>
+                        <l/>
+                        <l/>
+                     </lg>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>ESTUDANTINA</head>
+                  <lg>
+                     <l/>
+                     <l/>
+                  </lg>
+                  <p rend="justify">Acorda, minha Thereza,</p>
+                  <lg>
+                     <l>Descerra a janella tua!</l>
+                     <l>Espalha-se a luz da lua</l>
+                     <l>Pela poetica deveza...</l>
+                     <l>Entre os sinceiros da margem</l>
+                     <l>Murmura o claro Mondego,</l>
+                     <l>A noite corre em socêgo...</l>
+                     <l>Acorda, minha Thereza!</l>
+                  </lg>
+                  <p rend="justify">Não dorme quem tem amôres,</p>
+                  <lg>
+                     <l>E o teu postigo é cerrado!</l>
+                     <l>Deixa o leito perfumado,</l>
+                     <l>E o travesseiro de flôres,</l>
+                     <l>Se queres que eu acredite,</l>
+                     <l>Ó minha pallida amiga,</l>
+                     <l>Nas palavras da cantiga:</l>
+                     <l>«Não dorme quem tem amôres!»</l>
+                  </lg>
+                  <p rend="justify">Por isso eu vélo cantando,</p>
+                  <lg>
+                     <l>E esta guitarra suspira,</l>
+                     <l>E o meu coração delira</l>
+                     <l>Mal vem a lua apontando...</l>
+                     <l>É que, á noite, lirio branco,</l>
+                     <l>Os astros guardam segredo</l>
+                     <l>Dos beijos dados a medo...</l>
+                     <l>Por isso eu vélo cantando...</l>
+                  </lg>
+                  <p rend="justify">Quero vêr-te, como outrora</p>
+                  <lg>
+                     <l>Nesse postigo inclinada,</l>
+                     <l>Conversando enamorada</l>
+                     <l>Até ao raiar da aurora...</l>
+                     <l>Um lenço posto no liso</l>
+                     <l>Dos teus hombros jaspeados,</l>
+                     <l>Os cabellos destrançados...</l>
+                     <l>Quero vêr-te como outrora.</l>
+                  </lg>
+                  <p rend="justify">Não te assustes, Julieta,</p>
+                  <lg>
+                     <l>Que a manhã te encontre ainda</l>
+                     <l>Bebendo a canção infinda</l>
+                     <l>Que soluça o teu poeta.</l>
+                     <l>Cantará de entre os loureiros</l>
+                     <l>Uma alegre cotovia,</l>
+                     <l>Mal venha rompendo o dia...</l>
+                     <l>Não te assustes, Julieta!</l>
+                  </lg>
+                  <p rend="justify">Mas dorme a branca Thereza,</p>
+                  <lg>
+                     <l>Cerrada a janella sua;</l>
+                     <l>Espalha-se a luz da lua</l>
+                     <l>Pela poetica deveza...</l>
+                     <l>Entre os sinceiros da margem,</l>
+                     <l>Murmura e corre o Mondego,</l>
+                     <l>Que tristeza e que socêgo!</l>
+                     <l>Ai! dorme, dorme, Thereza!</l>
+                  </lg>
+                  <lg>
+                     <l/>
+                     <l/>
+                     <l/>
+                     <l/>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>AS ONDINAS</head>
+                  <div type="div4">
+                     <head>H. HEINE</head>
+                     <div type="div5">
+                        <head>Ao Visconde de Castilho II</head>
+                        <p rend="justify">Na praia tranquilla murmuram sonoras</p>
+                        <p rend="justify">As ondas do mar.</p>
+                        <p rend="justify">E, ao dôce das aguas murmúrio palreiro,<lb/>Na areia dormita gentil cavalleiro</p>
+                        <p rend="justify">Á luz do luar.</p>
+                        <p rend="justify">As bellas ondinas emergem das grutas</p>
+                        <p rend="justify">De vivo coral,</p>
+                        <p rend="justify">Accórrem ligeiras, e apontam, sorrindo,<lb/>O moço que julgam devéras dormindo</p>
+                        <p rend="justify">No argenteo areal.</p>
+                        <p rend="justify">Vem esta, e perpassa do gorro nas plumas</p>
+                        <p rend="justify">As mãos de setim.</p>
+                        <p rend="justify">E aquella, com gesto divino, gracioso,<lb/>Nos ares levanta do joven formoso</p>
+                        <p rend="justify">O aureo telim.</p>
+                        <p rend="justify">Ess'outra, que lavas, que fogo não vibram</p>
+                        <p rend="justify">Seus olhos de anil!</p>
+                        <p rend="justify">Debruça-se e arranca-lhe a rútila espada,<lb/>Nos copos brilhantes se apoia azougada,</p>
+                        <p rend="justify">Travessa e gentil.</p>
+                        <p rend="justify">A quarta, saltando, retouça, lasciva,</p>
+                        <p rend="justify">Do moço em redor;</p>
+                        <p rend="justify">Suspira mansinho, de manso murmúra:<lb/>«Podésse eu em vida gosar a ventura</p>
+                        <p rend="justify">Do teu fino amôr!»</p>
+                        <p rend="justify">A quinta rebeija-lhe as mãos, enlevada</p>
+                        <p rend="justify">Num sonho feliz,</p>
+                        <p rend="justify">E a sexta, com tremula e dôce esquivança,<lb/>Perfuma-lhe a bôcca, formosa creança!</p>
+                        <p rend="justify">Com beijos subtis...</p>
+                        <p rend="justify">E o moço, fingindo que dorme tranquillo,</p>
+                        <p rend="justify">Não quer acordar.</p>
+                        <p rend="justify">E deixa que o abracem as bellas Ondinas,<lb/>E languido gosa caricias divinas</p>
+                        <p rend="justify">Á luz do luar...</p>
+                        <lg>
+                           <l/>
+                           <l/>
+                           <l/>
+                           <l/>
+                        </lg>
+                     </div>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>NO JOGO DAS CANNAS</head>
+                  <div type="div4">
+                     <head>A Camillo Castello Branco</head>
+                     <lg>
+                        <l/>
+                        <l/>
+                     </lg>
+                     <p rend="justify">Em garbosos corceis da Arabia cavalgando</p>
+                     <lg>
+                        <l>Entram na larga arêna os próceres luzidos;</l>
+                        <l>Corusca a pedraria, e esplendem, fluctuando,</l>
+                        <l>Dos cocáres a pluma e a sêda dos vestidos.</l>
+                     </lg>
+                     <p rend="justify">A quadrilha gentil dos Tavoras ardidos,</p>
+                     <lg>
+                        <l>Com os lacaios da Tôrre um prélio simulando,</l>
+                        <l>Terça galhardamente; o apparatoso bando</l>
+                        <l>Deixa os olhos da turba em extase embebidos.</l>
+                     </lg>
+                     <p rend="justify">Nas janellas do paço é toda a fidalguia:</p>
+                     <p rend="justify">Que jocundo prazer, que risos, que alegria!<lb/>Espectaculo augusto, e nobre, e singular!</p>
+                     <p rend="justify">O sexto Affonso applaude: emtanto, maliciosa,</p>
+                     <p rend="justify">Maria de Nemours, sorrindo, a incestuosa!<lb/>No cunhado, subtil, poisa o lascivo olhar...</p>
+                     <lg>
+                        <l/>
+                        <l/>
+                        <l/>
+                        <l/>
+                     </lg>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>NUNCA EU TE LÊSSE, BALLADA!</head>
+                  <lg>
+                     <l/>
+                     <l/>
+                  </lg>
+                  <p rend="justify">Suspende a dura sentença</p>
+                  <lg>
+                     <l>Que de teus labios ouvi.</l>
+                     <l>E ergue do chão os quebrados</l>
+                     <l>Teus negros olhos magoados,</l>
+                     <l>Quando me acerco de ti.</l>
+                  </lg>
+                  <p rend="justify">Ergueste-os, encantadôra!</p>
+                  <lg>
+                     <l>Mas antes do teu perdão,</l>
+                     <l>Attende-me, e ouve, senhora,</l>
+                     <l>Com todo o teu coração.</l>
+                  </lg>
+                  <p rend="justify">Escuta:</p>
+                  <p rend="justify">«A um rei namorado</p>
+                  <lg>
+                     <l>«Sincera e fiel amante,</l>
+                     <l>«Ao morrer, tinha deixado,</l>
+                     <l>«De antigo affecto em penhor,</l>
+                     <l>«Cinzelada taça de ouro</l>
+                     <l>«Do mais subido valor.</l>
+                  </lg>
+                  <p rend="justify">«O rei preferia a tudo</p>
+                  <lg>
+                     <l>«Aquella doce lembrança</l>
+                     <l>«Que lhe trazia os arômas</l>
+                     <l>«De umas fluctuantes cômas,</l>
+                     <l>«E de uns labios de veludo,</l>
+                     <l>«Que elle beijára em creança.</l>
+                  </lg>
+                  <p rend="justify">«Toda a vez que elle bebia</p>
+                  <lg>
+                     <l>«Por esse vaso sagrado,</l>
+                     <l>«Uma extatica alegria</l>
+                     <l>«Como flôr ideal sorria</l>
+                     <l>«No seu turvo olhar cançado.</l>
+                  </lg>
+                  <p rend="justify">«Um dia sentiu-se o pobre</p>
+                  <lg>
+                     <l>«Mais triste, velho e abatido,</l>
+                     <l>«Abraçou-se commovido</l>
+                     <l>«Á taça, o tremulo amante:</l>
+                  </lg>
+                  <p rend="justify">«E as lagrimas, uma a uma,</p>
+                  <lg>
+                     <l>«eslisaram nesse instante</l>
+                     <l>«Nos rudes flócos de espuma</l>
+                     <l>«Da longa barba fluctuante.</l>
+                  </lg>
+                  <p rend="justify">quella hora de agonia,</p>
+                  <lg>
+                     <l>«Chamou seus filhos e herdeiro,</l>
+                     <l>«Deu-lhes tudo o que possuia,</l>
+                     <l>«Ouro, palacios, riquezas,</l>
+                     <l>«O seu castello roqueiro,</l>
+                     <l>«E as suas largas devezas.</l>
+                  </lg>
+                  <p rend="justify">«Dividiu tudo, contente;</p>
+                  <p rend="justify">«A taça guardou sómente.</p>
+                  <p rend="justify">«Sentindo fugir-lhe a vida,</p>
+                  <lg>
+                     <l>«Manda o triste convidar</l>
+                     <l>«Seus pares, filhos e herdeiro</l>
+                     <l>«Para um festim derradeiro</l>
+                     <l>«No castello sobranceiro</l>
+                     <l>«Ás verdes aguas do mar...</l>
+                  </lg>
+                  <p rend="justify">«Em meio da festa, o velho</p>
+                  <p rend="justify">«Ergueu a taça e, sorrindo,</p>
+                  <p rend="justify">«Embebido o olhar no infindo,<lb/>«Um frouxo canto soltou...</p>
+                  <p rend="justify">«E mal o canto findára,</p>
+                  <p rend="justify">«No leito da onda amara<lb/>«A taça de ouro lançou...»</p>
+                  <p rend="justify">Eram profundos ciumes</p>
+                  <lg>
+                     <l>Os d'esse rei namorado,</l>
+                     <l>Que não fosse alguem beber</l>
+                     <l>Por esse vaso sagrado,</l>
+                     <l>E viesse a conhecer</l>
+                     <l>Os cariciosos perfumes</l>
+                     <l>Que o tinham embriagado...</l>
+                  </lg>
+                  <p rend="justify">Hontem, á tarde, beijando-a</p>
+                  <lg>
+                     <l>De teu labio a viva rosa,</l>
+                     <l>Lembrou-me a historia singela</l>
+                     <l>D'essa ballada amorosa;</l>
+                     <l>E dentro em mim de repente</l>
+                     <l>Tam extranha dôr senti,</l>
+                     <l>Que num impeto demente</l>
+                     <l>De teu labio humido e ardente</l>
+                     <l>Com tôrvo aspecto fugi!</l>
+                  </lg>
+                  <p rend="justify">Lembrou-me, cabeça louca!</p>
+                  <lg>
+                     <l>Que se eu acaso morresse,</l>
+                     <l>Talvez um outro sorvesse</l>
+                     <l>Os beijos da tua bôcca...</l>
+                  </lg>
+                  <p rend="justify">E no azul indefinido,</p>
+                  <lg>
+                     <l>Ó minha piedosa anémona!</l>
+                     <l>Cuidei ouvir o gemido</l>
+                     <l>Da moribunda Desdemona...</l>
+                  </lg>
+                  <p rend="justify">Ai, desavisado amôr!</p>
+                  <lg>
+                     <l>Perdôa, sombra adorada!</l>
+                     <l>Nunca eu te avistasse, flôr!</l>
+                     <l>Nunca eu te lêsse, ballada!</l>
+                  </lg>
+                  <lg>
+                     <l/>
+                     <l/>
+                     <l/>
+                     <l/>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>A NEGRA</head>
+                  <div type="div4">
+                     <head>Ao dr. A. A. da Fonseca Pinto</head>
+                     <lg>
+                        <l/>
+                        <l/>
+                     </lg>
+                     <lg>
+                        <l>Teus olhos, ó robusta creatura,</l>
+                        <l>Ó filha tropical!</l>
+                        <l>Relembram os pavôres de uma escura</l>
+                        <l>Floresta virginal.</l>
+                     </lg>
+                     <lg>
+                        <l>És negra sim, mas que formosos dentes,</l>
+                        <l>Que perolas sem par</l>
+                        <l>Eu vejo e admiro em rubidos crescentes</l>
+                        <l>Se te escuto fallar!</l>
+                     </lg>
+                     <lg>
+                        <l>Teu corpo é forte, elastico, nervoso.</l>
+                        <l>Que doce a ondulação</l>
+                        <l>Do teu andar, que lembra o andar gracioso</l>
+                        <l>Das onças do sertão!</l>
+                     </lg>
+                     <lg>
+                        <l>As languidas sinhás, gentis, mimosas,</l>
+                        <l>Desprezam tua côr,</l>
+                        <l>Mas invejam-te as formas gloriosas</l>
+                        <l>E o olhar provocadôr.</l>
+                     </lg>
+                     <lg>
+                        <l>Mas andas triste, inquieta e distrahida;</l>
+                        <l>Foges dos cafesaes,</l>
+                        <l>E no escuro das mattas, escondida,</l>
+                        <l>Soltas magoados ais...</l>
+                     </lg>
+                     <lg>
+                        <l>Nas esteiras, á noite, o corpo estiras</l>
+                        <l>E, com ancias sem fim,</l>
+                        <l>Levas aos seios nús, beijas e aspiras</l>
+                        <l>Um candido jasmim...</l>
+                     </lg>
+                     <lg>
+                        <l>Amas a lua que embranquece os mattos,</l>
+                        <l>Ó negra jurity!</l>
+                        <l>A flôr da laranjeira, e os niveos cáctos</l>
+                        <l>E tens horrôr de ti!...</l>
+                     </lg>
+                     <lg>
+                        <l>Amas tudo o que lembre o <hi rend="italic">branco</hi>, o rosto</l>
+                        <l>Que viste por teu mal,</l>
+                        <l>Um dia que sahias, ao sol pôsto,</l>
+                        <l>De um verde taquaral...</l>
+                     </lg>
+                     <lg>
+                        <l/>
+                        <l/>
+                        <l/>
+                        <l/>
+                     </lg>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>MATER DOLOROSA</head>
+                  <div type="div4">
+                     <head>A Rangel de Lima</head>
+                     <lg>
+                        <l/>
+                        <l/>
+                     </lg>
+                     <p rend="justify">Quando se fez ao largo a nave escura</p>
+                     <lg>
+                        <l>Na praia essa mulher ficou chorando,</l>
+                        <l>No doloroso aspecto figurando</l>
+                        <l>A lacrymosa estatua da amargura.</l>
+                     </lg>
+                     <p rend="justify">Dos céus a curva era tranquilla e pura:</p>
+                     <lg>
+                        <l>Das gementes alcyones o bando</l>
+                        <l>Via-se ao longe, em circulos, voando</l>
+                        <l>Dos mares sobre a cérula planura.</l>
+                     </lg>
+                     <p rend="justify">Nas ondas se atufára o sol radioso,</p>
+                     <p rend="justify">E a lua succedêra, astro mavioso,<lb/>De alvôr banhando os alcantis das fragas...</p>
+                     <p rend="justify">E aquella pobre mãe, não dando conta</p>
+                     <p rend="justify">Que o sol morrêra, e que o luar desponta,<lb/>A vista embebe na amplidão das vagas...</p>
+                     <lg>
+                        <l/>
+                        <l/>
+                        <l/>
+                        <l/>
+                     </lg>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>AS PRIMEIRAS LAGRIMAS DE EL-REY</head>
+                  <div type="div4">
+                     <head>A M. Pinheiro Chagas</head>
+                     <div type="div5">
+                        <head>
+                           <label>I</label>
+                        </head>
+                        <p rend="justify">O principe morrêra, e logo os cortezãos,</p>
+                        <p rend="justify">Em prantos derredor do mortuario leito,<lb/>Erguem a voz em grita aos ceus levando as mãos.</p>
+                     </div>
+                     <div type="div5">
+                        <head>
+                           <label>II</label>
+                        </head>
+                        <p rend="justify">El-Rey, João segundo, a fronte sobre o peito,</p>
+                        <p rend="justify">Contempla dos brandões á luz ensanguentada<lb/>O filho, e a dôr lhe avinca o grave e duro aspeito.</p>
+                     </div>
+                     <div type="div5">
+                        <head>
+                           <label>III</label>
+                        </head>
+                        <p rend="justify">E eis que, a um gesto do rei, a turba consternada</p>
+                        <p rend="justify">A pouco e pouco sáe, reina o silencio, apenas<lb/>Cortado pelo uivar longinquo da nortada.</p>
+                     </div>
+                     <div type="div5">
+                        <head>
+                           <label>IV</label>
+                        </head>
+                        <p rend="justify">Sobre o filho curvado, immerso em cruas penas,</p>
+                        <p rend="justify">Aquelle rei sinistro, energico e tigrino,<lb/>Tinha na frouxa voz modulações serenas.</p>
+                     </div>
+                     <div type="div5">
+                        <head>
+                           <label>V</label>
+                        </head>
+                        <p rend="justify">E o filho inerte e mudo! então num desatino</p>
+                        <p rend="justify">Deixou-se El-Rey caír, ao acaso, num escabêllo<lb/>E quedou-se a pensar no seu atroz destino.</p>
+                     </div>
+                     <div type="div5">
+                        <head>
+                           <label>VI</label>
+                        </head>
+                        <p rend="justify">Um enorme, um confuso e bronzeo pesadêlo</p>
+                        <p rend="justify">Caíu-lhe sobre o enfêrmo espirito enluctado,<lb/>E o suor inundou-lhe as barbas e o cabello.</p>
+                     </div>
+                     <div type="div5">
+                        <head>
+                           <label>VII</label>
+                        </head>
+                        <p rend="justify">Talvez que o triste visse, em sonho allucinado,</p>
+                        <p rend="justify">Do duque de Vizeu o espectro vingativo<lb/>Apontando-lhe, a rir, o Infante inanimado.</p>
+                     </div>
+                     <div type="div5">
+                        <head>
+                           <label>VIII</label>
+                        </head>
+                        <p rend="justify">E escutasse a feroz imprecação que altivo</p>
+                        <p rend="justify">No cadafalso, outróra, o duque de Bragança<lb/>Ás faces lhe cuspiu com gesto convulsivo.</p>
+                     </div>
+                     <div type="div5">
+                        <head>
+                           <label>IX</label>
+                        </head>
+                        <p rend="justify">Subito ergue-se o rei, e para o leito avança,</p>
+                        <p rend="justify">E uma lagrima então, embalde reprimida,<lb/>Das barbas lhe cahiu no rosto da creança...</p>
+                     </div>
+                     <div type="div5">
+                        <head>
+                           <label>X</label>
+                        </head>
+                        <p rend="justify">A vez primeira foi que El-Rey chorou em vida.</p>
+                        <lg>
+                           <l/>
+                           <l/>
+                           <l/>
+                           <l/>
+                        </lg>
+                     </div>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>O CURA SANCTA CRUZ</head>
+                  <div type="div4">
+                     <head>CONTO DE A. DAUDET</head>
+                     <div type="div5">
+                        <head>Ao dr. Sousa Martins</head>
+                        <p rend="justify">O implacavel carlista, o Cura Sancta Cruz,</p>
+                        <lg>
+                           <l>Que em nome do seu rei, e em nome de Jesus,</l>
+                           <l>Da Navarra febril leva do sul ao norte</l>
+                           <l>O odio, a perseguição, o incendio, o estrago, a morte.</l>
+                        </lg>
+                        <p rend="justify">Nessa clara manhã risonha do Natal,</p>
+                        <lg>
+                           <l>Tendo sobre o uniforme a veste clerical,</l>
+                           <l>Na montanha, ao ar livre, á luz do sol, diz missa</l>
+                           <l>Á guerrilha que o escuta extatica e submissa.</l>
+                        </lg>
+                        <p rend="justify">Como um rebanho vil, a um lado, os prisioneiros</p>
+                        <lg>
+                           <l>Ouvem-no, a tiritar, cheios de um medo atroz:</l>
+                           <l>Olham-se mutuamente os tôrvos companheiros,</l>
+                           <l>E murmuram: «meu Deus, o que será de nós?»</l>
+                        </lg>
+                        <p rend="justify">Porque emfim toda a vez que o sanguinario Cura</p>
+                        <lg>
+                           <l>Se volta, e o <hi rend="italic">oremus</hi>  diz, segundo o ritual,</l>
+                           <l>Da sacra vestimenta avultam na brancura</l>
+                           <l>De pistolas um jogo e a fórma de um punhal.</l>
+                        </lg>
+                        <p rend="justify">Quando afinal chegou o instante, a occasião</p>
+                        <lg>
+                           <l>Em que a missa termina, o Cura, erguendo um braço,</l>
+                           <l>Grave traçou no ar e na mudez do espaço</l>
+                           <l>O clemente signal da paz e do perdão.</l>
+                        </lg>
+                        <p rend="justify">A missa terminára.</p>
+                        <p rend="justify">O Cura nesse dia</p>
+                        <p rend="justify">Como sentisse n'alma uns raios de alegria,</p>
+                        <lg>
+                           <l>De bondade e de amor, foi-se direito ao bando</l>
+                           <l>Dos captivos, e assim fallou circumvagando</l>
+                           <l>A vista em derredor: «<hi rend="italic">Hermanos, viva Dios!</hi>
+                           </l>
+                        </lg>
+                        <p rend="justify">«Corre ahi que sou máu, fanatico e feroz...</p>
+                        <lg>
+                           <l>«Pois em breve ides ver como se engana, quem</l>
+                           <l>«Diz que eu sou o anti-Christo e que abomino o bem.</l>
+                           <l>«Como é dia de festa e é dia de Natal,</l>
+                           <l>«Dou-vos a liberdade, e não vos quero mal!</l>
+                        </lg>
+                        <p rend="justify">«Mas haveis de primeiro, e isto, prompto e sem custo</p>
+                        <p rend="justify">De joelhos beijar o pavilhão augusto<lb/>De El-Rey nosso senhor...»</p>
+                        <lg>
+                           <l>E mandou desfraldar</l>
+                           <l>O carlista pendão, branco como o luar...</l>
+                        </lg>
+                        <lg>
+                           <l>Todos logo á porfia atiram-se por terra</l>
+                           <l>E um grito: Viva El-Rey! echoou de serra em serra.</l>
+                        </lg>
+                        <lg>
+                           <l>No emtanto um prisioneiro, um moço imberbe ainda,</l>
+                        </lg>
+                        <lg>
+                           <l>Firme ficou de pé, e olhava com infinda</l>
+                           <l>Expressão de desdem a extranha vilania...</l>
+                           <l>Braços postos em cruz, e intrepido sorria.</l>
+                        </lg>
+                        <p rend="justify">«E tu?» surprezo disse e transtornado o Cura.</p>
+                        <lg>
+                           <l>—Padre, volveu-lhe o esbelto joven, com brandura,</l>
+                           <l>—Mata-me! aqui me tens! rio-me d'esse panno!</l>
+                           <l>—Ao teu rei não me curvo... Eu sou republicano...—</l>
+                        </lg>
+                        <p rend="justify">O Cura um acêno fez; formou-se um pelotão:</p>
+                        <p rend="justify">«Vamos! inda uma vez, viva D. Carlos!»</p>
+                        <p rend="justify">—Não!—</p>
+                        <p rend="justify">E havia nessa voz tamanha heroicidade</p>
+                        <p rend="justify">E uma energia tal, que uns longes de piedade<lb/>Scintillaram no olhar do tôrvo guerrilheiro.</p>
+                        <p rend="justify">«Muito bem, morrerás: mas dize-me primeiro,</p>
+                        <p rend="justify">«O que desejas tu? Queres beber, fumar?...</p>
+                        <p rend="justify">—Padre, se vou morrer, quero-me confessar...</p>
+                        <p rend="justify">«Ouvir-te-hei!» disse o Cura, e, ao acaso, num granito<lb/>Assentou-se.</p>
+                        <p rend="justify">O captivo, olhos no chão, contrito</p>
+                        <lg>
+                           <l>Os joelhos dobrou... Nesse fugaz instante</l>
+                           <l>Elle viu, elle viu, num sonho lacrymante,</l>
+                           <l>A sua infancia, o lar, o tecto de seus paes,</l>
+                           <l>Os choupos do seu rio, os placidos casáes:</l>
+                           <l>Viu a noiva gentil, a egreja, os arvoredos</l>
+                           <l>E os parentes e irmãos, socios de seus brinquedos.</l>
+                        </lg>
+                        <p rend="justify">Ah! quem póde esquecer o seu paiz natal!<lb/>Ah! quem póde esquecer a benção maternal!</p>
+                        <p rend="justify">Em distancia a guerrilha os dous observa... Então</p>
+                        <lg>
+                           <l>Emquanto o padre escuta attento o prisioneiro,</l>
+                           <l>Subito uma descarga estoira na amplidão.</l>
+                           <l>Tremem a serra e o val, treme o desfiladeiro.</l>
+                        </lg>
+                        <p rend="justify">«Ás armas! o inimigo!» a sentinella brada.</p>
+                        <p rend="justify">De golpe ergue-se o Cura, e á jóldra amotinada<lb/>Vôa, dá ordens, clama, emquanto as balas chovem.</p>
+                        <p rend="justify">Nisto viu que inda estava ajoelhado o joven!<lb/>Pára.</p>
+                        <p rend="justify">«Que fazes tu?» indaga em tom severo</p>
+                        <p rend="justify">—Padre, diz a creança, a absolvição espero—</p>
+                        <p rend="justify">E em meio da febril convulsão da batalha,</p>
+                        <lg>
+                           <l>Emquanto rompe e rasga os ares a metralha,</l>
+                           <l>Viu-se o Cura depois de abençoar, ligeiro,</l>
+                           <l>A fronte juvenil do heroico prisioneiro,</l>
+                           <l>Pegar de uma clavina, e dando um passo ao lado,</l>
+                           <l>Varar tranquillamente o craneo do soldado.</l>
+                        </lg>
+                        <lg>
+                           <l/>
+                           <l/>
+                           <l/>
+                           <l/>
+                        </lg>
+                     </div>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>A VENDA DOS BOIS</head>
+                  <div type="div4">
+                     <head>Ao dr. J. de Vasconcellos Gusmão</head>
+                     <div type="div5">
+                        <head>
+                           <label>I</label>
+                        </head>
+                        <p rend="justify">O velho entrára triste: ao pé, juncto do lar,</p>
+                        <p rend="justify">Estava a companheira, absôrta, a meditar.</p>
+                        <p rend="justify">—Mulher, a fé perdi, fallei a toda a gente,</p>
+                        <p rend="justify">E ninguem me valeu!—E ella com voz tremente:</p>
+                        <p rend="justify">«Dize-me, e o brazileiro?»<lb/>—Esse foi o primeiro.</p>
+                        <p rend="justify">—Batí, fui ter com elle á casa do jantar.</p>
+                        <p rend="justify">Expliquei-lhe ao que vinha... entrou a gracejar:<lb/>«Com que então você quer <hi rend="italic">livrar</hi>  o seu rapaz?...</p>
+                        <p rend="justify">«Visinho, tão mal faz!</p>
+                        <lg>
+                           <l>«Deixe-me ir cada qual á sorte e ao seu destino!</l>
+                           <l>«Seu filho é um mocetão valente e muito digno</l>
+                           <l>«De servir o paiz...»</l>
+                        </lg>
+                        <p rend="justify">—E descascava um fructo...</p>
+                        <p rend="justify">—Desatei a chorar... «—Homem não seja bruto!<lb/>A farda não é morte...»</p>
+                        <p rend="justify">—E disse mais e mais</p>
+                        <p rend="justify">—Cousas de quem não sabe a dôr de uns tristes paes!</p>
+                        <p rend="justify">E emquanto o velho punha a vista lacrymosa</p>
+                        <p rend="justify">Nos brazidos, a voz da mãe afflicta e anciosa<lb/>Perguntou: «e o prior?»</p>
+                        <p rend="justify">—Negou, negou tambem!—</p>
+                        <p rend="justify">A angustiada mãe</p>
+                        <p rend="justify">Retorcia o avental com mão febril, ardente.</p>
+                        <p rend="justify">No silencio da noite então distinctamente,</p>
+                        <p rend="justify">Um profundo mugido,<lb/>Triste como um gemido,</p>
+                        <p rend="justify">Longo e longo chorou no lugubre aposento...</p>
+                        <p rend="justify">Entreolharam-se os dois...</p>
+                        <p rend="justify">Nisto acóde á mulher um estranho pensamento...</p>
+                        <p rend="justify">«Temos ainda os bois!</p>
+                        <p rend="justify">Vendamol-os!» E ria...</p>
+                        <p rend="justify">O entristecido olhar</p>
+                        <p rend="justify">Do velho lavrador de lagrymas nublou-se.</p>
+                        <p rend="justify">E entrou a suspirar:<lb/>—Vender os infelizes!</p>
+                        <lg>
+                           <l>—Uns pobres animaes, a quem só mingoa a fala</l>
+                           <l>—Para serem Christãos! Parece que me estala</l>
+                           <l>—No peito o coração... Vender os infelizes!...</l>
+                           <l>—Pois seja assim, mulher! Farei o que tu dizes...</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>
+                           <label>II</label>
+                        </head>
+                        <p rend="justify">Vinha rompendo a aurora</p>
+                        <lg>
+                           <l>Risonha, virginal, feliz como um noivado,</l>
+                           <l>Das aves á compita o tremulo trinado</l>
+                           <l>Entre as balsas gorgeava. Era em descanço a nóra.</l>
+                        </lg>
+                        <p rend="justify">No emtanto o lavrador, tremente e vacillante</p>
+                        <p rend="justify">Como um ladrão nocturno, ou como um namorado,<lb/>Abriu, de par em par, as portas do curral.</p>
+                        <lg>
+                           <l>Subito nesse instante</l>
+                           <l>Volveram para a entrada os bois o olhar leal,</l>
+                           <l>Bondoso, humano e franco.</l>
+                        </lg>
+                        <lg>
+                           <l>Que festiva alegria</l>
+                        </lg>
+                        <p rend="justify">O frequente menear das caudas traduzia<lb/>Resvalando em seu forte e musculoso flanco!</p>
+                        <p rend="justify">O velho antigamente</p>
+                        <p rend="justify">Tinha sempre, ao chegar, uma palavra amiga,</p>
+                        <p rend="justify">Um dicto, uma cantiga,</p>
+                        <p rend="justify">A que sempre um mugido alegre respondia.<lb/>Mas naquella manhã, silenciosamente,</p>
+                        <lg>
+                           <l>Fatal como o dever</l>
+                           <l>O velho foi buscar, a um canto, uma correia,</l>
+                           <l>E lançou-a a tremer</l>
+                           <l>Dos anafados bois ás pontas recurvadas.</l>
+                        </lg>
+                        <lg>
+                           <l>E sahiram os tres.</l>
+                           <l>Nos concavos da aldeia</l>
+                           <l>Choviam as canções das aves namoradas.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>
+                           <label>III</label>
+                        </head>
+                        <p rend="justify">No cáes ha o moirejar das fabricas ruidoso;</p>
+                        <p rend="justify">Feroz e discordante</p>
+                        <p rend="justify">Juncta-se á voz humana o arfar estrepitante<lb/>Dos valentes pulmões das machinas inglezas.</p>
+                        <lg>
+                           <l>Em novellos, ancioso,</l>
+                           <l>Golpham as chaminés o denso e o escuro fumo</l>
+                           <l>Que ascende e toma o rumo</l>
+                           <l>Do claro e vasto azul, vazio de tristezas.</l>
+                        </lg>
+                        <lg>
+                           <l>Como um cetáceo ingente, encarvoado e feio</l>
+                        </lg>
+                        <p rend="justify">Um enorme Vapôr<lb/>De outros avulta em meio.</p>
+                        <p rend="justify">Em seu largo convez a marinhagem canta<lb/>E na faina febril as ancoras levanta.</p>
+                        <p rend="justify">Naquella espessa náu, um velho, um lavradôr</p>
+                        <p rend="justify">Entre a faina do cáes, fita o dolente olhar...<lb/>É que ali dentro vão os bois, o seu amôr...</p>
+                        <p rend="justify">E áquella magoa intensa<lb/>E inenarravel dôr</p>
+                        <p rend="justify">Responde a descuidosa e gelida indifferença<lb/>Dos Homens, e dos Céus, e do profundo Mar...</p>
+                        <lg>
+                           <l/>
+                           <l/>
+                           <l/>
+                           <l/>
+                        </lg>
+                     </div>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>AO RABEQUISTA<lb/>EUGENIO DEGREMONT</head>
+                  <div type="div4">
+                     <head>Recitada na noite de 25 de fevereiro de 1876<lb/>no theatro de S. João do Porto<lb/>
+                     </head>
+                     <p rend="justify">Vêde-o! É tão creança! ó mães, olhae-o!</p>
+                     <p rend="justify">Como é vivo o fulgor e ardente o raio</p>
+                     <p rend="justify">Que vibra nesse olhar!</p>
+                     <p rend="justify">Faz gosto vel-o assim tão pequenino<lb/>Enlevado nos sons do violino</p>
+                     <lg>
+                        <l>A sonhar, a sonhar...</l>
+                     </lg>
+                     <lg>
+                        <l>E ao passo que a sua alma vae sonhando,</l>
+                        <l>Vão-se ante nossos olhos desdobrando</l>
+                        <l>Quadros a mil e mil.</l>
+                     </lg>
+                     <p rend="justify">A rabeca suspira? Assim amenas<lb/>São na longinqua roça as cantilenas</p>
+                     <lg>
+                        <l>Das moças do Brazil.</l>
+                     </lg>
+                     <lg>
+                        <l>Vibra rispidos sons? E logo ouvimos</l>
+                        <l>Curvar o vento da floresta os cimos</l>
+                        <l>Com ruidoso fragôr...</l>
+                     </lg>
+                     <p rend="justify">E uivam pintadas onças e as araras<lb/>Roçam, fugindo, as tremulas taquaras,</p>
+                     <lg>
+                        <l>E crocita o condôr.</l>
+                     </lg>
+                     <lg>
+                        <l>Enterrados nas humidas pastagens</l>
+                        <l>Mugem raivosos bufalos selvagens,</l>
+                        <l>E por entre os sarçaes</l>
+                     </lg>
+                     <p rend="justify">Pula a panthera; os jacarés astutos<lb/>Choram, fingindo lacrymosos lutos</p>
+                     <lg>
+                        <l>Nos fulvos areaes.</l>
+                     </lg>
+                     <lg>
+                        <l>Soluçou a rabeca? Ouvi, formosas,</l>
+                        <l>São os negros soltando as lastimosas</l>
+                        <l>Canções do seu paiz;</l>
+                     </lg>
+                     <p rend="justify">Sem familia, sem patria, sem amôres,<lb/>Ninguem mitiga o fel daquellas dôres,</p>
+                     <lg>
+                        <l>Triste raça infeliz!</l>
+                     </lg>
+                     <lg>
+                        <l>Agora, como em namorado anceio,</l>
+                        <l>Sae da rabeca um languido gorgeio</l>
+                        <l>Que enleva o coração.</l>
+                     </lg>
+                     <p rend="justify">E a saudade repinta-nos ao vivo<lb/>Dos sabiás o cantico lascivo</p>
+                     <lg>
+                        <l>Nas sombras do sertão.</l>
+                     </lg>
+                     <lg>
+                        <l>Tudo isso e mais eu vejo, admiro e escuto,</l>
+                        <l>Com meu olhar de prantos não enxuto,</l>
+                        <l>Ó creança gentil,</l>
+                     </lg>
+                     <p rend="justify">Que em vez de perseguir as borboletas<lb/>Vens batalhar no meio dos atletas</p>
+                     <p rend="justify">E honrar o teu Brazil!</p>
+                     <p rend="justify">Não presumas, porém, prodigio das creanças!</p>
+                     <lg>
+                        <l>Que basta o fogo, o estro, a viva inspiração;</l>
+                        <l>É mister trabalhar, sem isso nada alcanças;</l>
+                        <l>A gloria chamarás, ser-te-ha o appello em vão.</l>
+                     </lg>
+                     <p rend="justify">Pois que! tu cuidarás, creança, porventura</p>
+                     <lg>
+                        <l>Que sem luctar, soffrer, sem horridos tormentos</l>
+                        <l>O artista poderia erguer aos quatro ventos</l>
+                        <l>A Epopêa, o Drama, a Estatua, a Partitura?</l>
+                     </lg>
+                     <p rend="justify">Vamos, trabalha pois ó meu precoce artista,</p>
+                     <lg>
+                        <l>Dos precipicios ri, vinga-me o barrocal!</l>
+                        <l>Para o profundo azul estende a larga vista.</l>
+                        <l>Eis-te nos alcantis! Eleva-te ao ideal!</l>
+                     </lg>
+                     <lg>
+                        <l/>
+                        <l/>
+                        <l/>
+                        <l/>
+                     </lg>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>AS VELHAS NEGRAS</head>
+                  <div type="div4">
+                     <head>A M.<hi rend="sup">me</hi> Aline de Gusmão</head>
+                     <p rend="justify">As velhas negras, coitadas,</p>
+                     <lg>
+                        <l>Ao longe estam assentadas</l>
+                        <l>Do batuque folgasão.</l>
+                        <l>Pulam creoulas faceiras</l>
+                        <l>Em derredor das fogueiras</l>
+                        <l>E das pipas de alcatrão.</l>
+                     </lg>
+                     <p rend="justify">Na floresta rumorosa</p>
+                     <lg>
+                        <l>Esparge a lua formosa</l>
+                        <l>A clara luz tropical.</l>
+                        <l>Tremeluzem pyrilampos</l>
+                        <l>No verde-escuro dos campos</l>
+                        <l>E nos concavos do val.</l>
+                     </lg>
+                     <p rend="justify">Que noite de paz! que noite!</p>
+                     <lg>
+                        <l>Não se ouve o estalar do açoite,</l>
+                        <l>Nem as pragas do feitor!</l>
+                        <l>E as pobres negras, coitadas,</l>
+                        <l>Pendem as frontes cançadas</l>
+                        <l>Num lethargico torpôr!</l>
+                     </lg>
+                     <p rend="justify">E scismam: outrora, e d'antes</p>
+                     <lg>
+                        <l>Havia tambem descantes,</l>
+                        <l>E o tempo era tam feliz!</l>
+                        <l>Ai! que profunda saudade</l>
+                        <l>Da vida, da mocidade</l>
+                        <l>Nas mattas do seu paiz!</l>
+                     </lg>
+                     <p rend="justify">E ante o seu olhar vazio</p>
+                     <p rend="justify">De esperanças, frio, frio<lb/>Como um véu de viuvez,</p>
+                     <lg>
+                        <l>Resurge e chora o passado</l>
+                        <l>—Pobre ninho abandonado</l>
+                        <l>Que a neve alagou, desfez...—</l>
+                     </lg>
+                     <p rend="justify">E pensam nos seus amôres</p>
+                     <lg>
+                        <l>Ephemeros como as flôres</l>
+                        <l>Que o sol queima no sertão...</l>
+                        <l>Os filhos, quando crescidos,</l>
+                        <l>Foram levados, vendidos,</l>
+                        <l>E ninguem sabe onde estão.</l>
+                     </lg>
+                     <p rend="justify">Conheceram muito dono:</p>
+                     <lg>
+                        <l>Embalaram tanto somno</l>
+                        <l>De tanta sinhá gentil!</l>
+                        <l>Foram mucambas amadas,</l>
+                        <l>E agora inuteis, curvadas,</l>
+                        <l>Numa velhice imbecil!</l>
+                     </lg>
+                     <p rend="justify">No emtanto o luar de prata</p>
+                     <lg>
+                        <l>Envolve a collina e a matta</l>
+                        <l>E os cafesáes em redor!</l>
+                        <l>E os negros, mostrando os dentes,</l>
+                        <l>Saltam lepidos, contentes,</l>
+                        <l>No batuque estrugidor.</l>
+                     </lg>
+                     <p rend="justify">No espaçoso e amplo terreiro</p>
+                     <lg>
+                        <l>A filha do Fazendeiro,</l>
+                        <l>A sinhá sentimental,</l>
+                        <l>Ouve um primo recem-vindo,</l>
+                        <l>Que lhe narra o poema infindo</l>
+                        <l>Das noites de Portugal.</l>
+                     </lg>
+                     <p rend="justify">E ella avista, entre sorrisos,</p>
+                     <lg>
+                        <l>De uns longinquos paraisos</l>
+                        <l>A tentadôra visão...</l>
+                        <l>No emtanto as velhas, coitadas,</l>
+                        <l>Scismam ao longe assentadas</l>
+                        <l>Do batuque folgasão...</l>
+                     </lg>
+                     <lg>
+                        <l/>
+                        <l/>
+                        <l/>
+                        <l/>
+                     </lg>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>O RELOGIO</head>
+                  <div type="div4">
+                     <head>No album de Eduardo Burnay</head>
+                     <p rend="justify">Eburneo é o mostradôr: as horas são de prata,</p>
+                     <lg>
+                        <l>Lê-se a firma Breguet por baixo do gracioso</l>
+                        <l>Rendilhado ponteiro; a tampa é enorme e chata:</l>
+                        <l>Nella o esmalte produz um quadro delicioso.</l>
+                     </lg>
+                     <p rend="justify">Rapara: eis um salão: casquilho malicioso</p>
+                     <lg>
+                        <l>Das festas cortesãs o mimo a flôr, a nata,</l>
+                        <l>Juncto a um cravo sonoro a alegre voz desata.</l>
+                        <l>Uma fidalga o escuta ebria de amôr e gôso.</l>
+                     </lg>
+                     <p rend="justify">Rasga-se ampla a janella: ao longe o olhar descobre</p>
+                     <p rend="justify">O correcto jardim e o parque extenso e nobre.<lb/>As nuvens no alto céu fluctuam como espumas,</p>
+                     <p rend="justify">Da paizagem no fundo, em lago transparente,</p>
+                     <p rend="justify">Onde se espelha o azul e o laranjal frondente,<lb/>Um cysne á luz do sol estende as niveas plumas.</p>
+                     <lg>
+                        <l/>
+                        <l/>
+                        <l/>
+                        <l/>
+                     </lg>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>A MORTE DE D. QUICHOTE</head>
+                  <div type="div4">
+                     <head>Ao Conde de Sabugosa</head>
+                     <p rend="justify">Rôto o escudo, sem lança, a cóta escalavrada,</p>
+                     <lg>
+                        <l>Sósinho, abandonado e á tôa como um cego,</l>
+                        <l>Do crepusculo á luz dolente e immaculada</l>
+                        <l>Entra na sua aldeia o altivo heroe Manchego.</l>
+                     </lg>
+                     <p rend="justify">O tenue fumo sáe do côlmo das herdades,</p>
+                     <lg>
+                        <l>Riem ao pé da fonte as frescas raparigas,</l>
+                        <l>E á clara vibração sonora das trindades</l>
+                        <l>Junctam-se brandamente as vozes e as cantigas.</l>
+                     </lg>
+                     <p rend="justify">E o audaz Campeador, o Justiceiro, o Forte,</p>
+                     <lg>
+                        <l>Que andára pelo mundo a combater os máus,</l>
+                        <l>Defendendo a Mulher, desafiando a Morte,</l>
+                        <l>Do paterno casal sentou-se nos degráus.</l>
+                     </lg>
+                     <p rend="justify">Nos joelhos fincando o cotovêlo agudo</p>
+                     <lg>
+                        <l>E no punho cerrado a fronte reclinando,</l>
+                        <l>Quedou-se largo espaço, illacrymavel, mudo,</l>
+                        <l>Para o inutil passado os olhos alongando...</l>
+                     </lg>
+                     <p rend="justify">E ali, na dôce paz da sua alegre aldeia,</p>
+                     <lg>
+                        <l>Sentiu que o avassallava uma tristeza infinda,</l>
+                        <l>Quando esta voz se ouviu: «morreu-te a Dulcinêa,</l>
+                        <l>Missionario do Bem, tua missão é finda!»</l>
+                     </lg>
+                     <p rend="justify">E elle a ouvir e a scismar! A trefega sobrinha</p>
+                     <lg>
+                        <l>Beija-o, falla-lhe, ri, abraça-o, mas o Heróe</l>
+                        <l>Dest'arte lhe volveu «A morte se avisinha,</l>
+                        <l>Levae-me para o leito!» E ouvil-o pena e dóe.</l>
+                     </lg>
+                     <p rend="justify">Do leito á cabeceira o Bacharel e o Cura</p>
+                     <lg>
+                        <l>Tentam resuscitar-lhe os sonhos e as chymeras;</l>
+                        <l>Pintam-lhe o negro Mal triumphante, ó amargura!</l>
+                        <l>O fraco aos pés do forte, o bom lançado ás féras...</l>
+                     </lg>
+                     <p rend="justify">Contam-lhe o frio horror dos carceres sem luz.</p>
+                     <lg>
+                        <l>Que nas tôrres feudaes pompeava o velho Crime.</l>
+                        <l>Que os crescentes do Islam tinham vencido a Cruz,</l>
+                        <l>Que a Injustiça era a Lei... Então feroz, sublime.</l>
+                     </lg>
+                     <p rend="justify">Inquieto, semi-nú, sinistro, o cavalleiro</p>
+                     <lg>
+                        <l>Bradou como um trovão: «Enverguem-me a loriga!</l>
+                        <l>«Sellem-me o Rocinante, ó Sancho, ó escudeiro,</l>
+                        <l>«Traze-me a lança, présto! e a minha espada amiga!»</l>
+                     </lg>
+                     <p rend="justify">Tinha em brazas o olhar, e truculento o aspeito,</p>
+                     <lg>
+                        <l>E vibrava em redôr a imaginaria lança...</l>
+                        <l>Logo depois cahiu do respaldar do leito,</l>
+                        <l>Morto: tendo no labio um riso de creança!</l>
+                     </lg>
+                     <lg>
+                        <l/>
+                        <l/>
+                        <l/>
+                        <l/>
+                     </lg>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>INDICE</head>
+               <lg>
+                  <l/>
+                  <l/>
+                  <l/>
+               </lg>
+               <table rend="frame" xml:id="Table2">
+                  <row>
+                     <cell>A minha mulher</cell>
+                     <cell rend="end">1</cell>
+                  </row>
+                  <row>
+                     <cell>Confidenza</cell>
+                     <cell rend="end">3</cell>
+                  </row>
+                  <row>
+                     <cell>O velhinho</cell>
+                     <cell rend="end">8</cell>
+                  </row>
+                  <row>
+                     <cell>Animal bravio</cell>
+                     <cell rend="end">10</cell>
+                  </row>
+                  <row>
+                     <cell>Ad agros</cell>
+                     <cell rend="end">12</cell>
+                  </row>
+                  <row>
+                     <cell>A nuvem</cell>
+                     <cell rend="end">14</cell>
+                  </row>
+                  <row>
+                     <cell>O juramento do arabe</cell>
+                     <cell rend="end">16</cell>
+                  </row>
+                  <row>
+                     <cell>Num leque</cell>
+                     <cell rend="end">19</cell>
+                  </row>
+                  <row>
+                     <cell>Olhos de Judia</cell>
+                     <cell rend="end">20</cell>
+                  </row>
+                  <row>
+                     <cell>Numeros do Intermezzo:</cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+               <table rend="frame" xml:id="Table3">
+                  <row>
+                     <cell> </cell>
+                     <cell>I</cell>
+                     <cell rend="end">24</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>II</cell>
+                     <cell rend="end">25</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>III</cell>
+                     <cell rend="end">26</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>IV</cell>
+                     <cell rend="end">28</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>V</cell>
+                     <cell rend="end">29</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>VI</cell>
+                     <cell rend="end">30</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>VII</cell>
+                     <cell rend="end">32</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>VIII</cell>
+                     <cell rend="end">34</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>IX</cell>
+                     <cell rend="end">36</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>X</cell>
+                     <cell rend="end">38</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>XI</cell>
+                     <cell rend="end">40</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>XII</cell>
+                     <cell rend="end">42</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>XIII</cell>
+                     <cell rend="end">44</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>XIV</cell>
+                     <cell rend="end">46</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>XV</cell>
+                     <cell rend="end">47</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>XVI</cell>
+                     <cell rend="end">48</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>XVII</cell>
+                     <cell rend="end">50</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>XVIII</cell>
+                     <cell rend="end">52</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>XIX</cell>
+                     <cell rend="end">54</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>XX</cell>
+                     <cell rend="end">55</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>XXI</cell>
+                     <cell rend="end">56</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>XXII</cell>
+                     <cell rend="end">58</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>XXIII</cell>
+                     <cell rend="end">60</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>XXIV</cell>
+                     <cell rend="end">62</cell>
+                  </row>
+               </table>
+               <table rend="frame" xml:id="Table4">
+                  <row>
+                     <cell>O minuête</cell>
+                     <cell rend="end">65</cell>
+                  </row>
+                  <row>
+                     <cell>O coveiro</cell>
+                     <cell rend="end">70</cell>
+                  </row>
+                  <row>
+                     <cell>Adeus!</cell>
+                     <cell rend="end">72</cell>
+                  </row>
+                  <row>
+                     <cell>Camoneana:</cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+               <table rend="frame" xml:id="Table5">
+                  <row>
+                     <cell> </cell>
+                     <cell>A egreja das Chagas</cell>
+                     <cell rend="end">76</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>A leitura dos Lusiadas</cell>
+                     <cell rend="end">78</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>Annos depois</cell>
+                     <cell rend="end">80</cell>
+                  </row>
+               </table>
+               <table rend="frame" xml:id="Table6">
+                  <row>
+                     <cell>Esphynge</cell>
+                     <cell rend="end">83</cell>
+                  </row>
+                  <row>
+                     <cell>A ceia de Tiberio</cell>
+                     <cell rend="end">85</cell>
+                  </row>
+                  <row>
+                     <cell>Trio de poetas:</cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+               <table rend="frame" xml:id="Table7">
+                  <row>
+                     <cell> </cell>
+                     <cell>João de Lemos</cell>
+                     <cell rend="end">90</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>João de Deus</cell>
+                     <cell rend="end">92</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>João Penha</cell>
+                     <cell rend="end">94</cell>
+                  </row>
+               </table>
+               <table rend="frame" xml:id="Table8">
+                  <row>
+                     <cell>Chymeras</cell>
+                     <cell rend="end">97</cell>
+                  </row>
+                  <row>
+                     <cell>Odor di femina</cell>
+                     <cell rend="end">99</cell>
+                  </row>
+                  <row>
+                     <cell>Em caminho da guilhotina</cell>
+                     <cell rend="end">101</cell>
+                  </row>
+                  <row>
+                     <cell>A viuva</cell>
+                     <cell rend="end">104</cell>
+                  </row>
+                  <row>
+                     <cell>Flôr do pantano</cell>
+                     <cell rend="end">106</cell>
+                  </row>
+                  <row>
+                     <cell>A resposta do inquisidôr</cell>
+                     <cell rend="end">108</cell>
+                  </row>
+                  <row>
+                     <cell>Fervet amor</cell>
+                     <cell rend="end">112</cell>
+                  </row>
+                  <row>
+                     <cell>Na aldeia</cell>
+                     <cell rend="end">114</cell>
+                  </row>
+                  <row>
+                     <cell>Estudantina</cell>
+                     <cell rend="end">116</cell>
+                  </row>
+                  <row>
+                     <cell>As Ondinas</cell>
+                     <cell rend="end">119</cell>
+                  </row>
+                  <row>
+                     <cell>No jogo das cannas</cell>
+                     <cell rend="end">122</cell>
+                  </row>
+                  <row>
+                     <cell>Nunca eu te lêsse, ballada</cell>
+                     <cell rend="end">124</cell>
+                  </row>
+                  <row>
+                     <cell>A negra</cell>
+                     <cell rend="end">129</cell>
+                  </row>
+                  <row>
+                     <cell>Mater dolorosa</cell>
+                     <cell rend="end">132</cell>
+                  </row>
+                  <row>
+                     <cell>As primeiras lagrimas de El-Rey</cell>
+                     <cell rend="end">134</cell>
+                  </row>
+                  <row>
+                     <cell>O Cura Sancta Cruz</cell>
+                     <cell rend="end">137</cell>
+                  </row>
+               </table>
+               <table rend="frame" xml:id="Table9">
+                  <row>
+                     <cell>A venda dos bois</cell>
+                     <cell rend="end">142</cell>
+                  </row>
+                  <row>
+                     <cell>Ao rabequista Eugenio Degremont</cell>
+                     <cell rend="end">147</cell>
+                  </row>
+                  <row>
+                     <cell>As velhas negras</cell>
+                     <cell rend="end">151</cell>
+                  </row>
+                  <row>
+                     <cell>O relogio</cell>
+                     <cell rend="end">155</cell>
+                  </row>
+                  <row>
+                     <cell>A morte de D. Quichote</cell>
+                     <cell rend="end">157</cell>
+                  </row>
+               </table>
+               <lg>
+                  <l/>
+                  <l/>
+                  <l/>
+                  <l/>
+                  <l/>
+               </lg>
+               <div type="div3">
+                  <head>TERMINOU-SE A IMPRESSÃO<lb/>
+                     <lb/>
+                     <lb/>NOS PRELOS DA</head>
+               </div>
+               <div type="div3">
+                  <head>IMPRENSA NACIONAL DE LISBOA</head>
+                  <div type="div4">
+                     <head>a 6 de março de 1882</head>
+                     <lg>
+                        <l/>
+                        <l/>
+                        <l/>
+                     </lg>
+                  </div>
+                  <div type="div4">
+                     <head>
+                        <hi rend="italic">18, Rua Oriental do Passeio</hi>
+                        <lb/>LISBOA</head>
+                     <lg>
+                        <l/>
+                        <l/>
+                     </lg>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Lista de erros corrigidos</head>
+               <p rend="justify">Aqui encontram-se listados todos os erros encontrados e corrigidos:</p>
+               <lg>
+                  <l/>
+                  <l/>
+               </lg>
+               <table rend="frame" xml:id="Table10">
+                  <row>
+                     <cell> </cell>
+                     <cell rend="center">Original</cell>
+                     <cell> </cell>
+                     <cell rend="center">Correcção</cell>
+                  </row>
+                  <row>
+                     <cell>#pág. 30</cell>
+                     <cell rend="center">V</cell>
+                     <cell rend="center">...</cell>
+                     <cell rend="center">VI</cell>
+                  </row>
+                  <row>
+                     <cell>#pág. 50</cell>
+                     <cell rend="center">XVI</cell>
+                     <cell rend="center">...</cell>
+                     <cell rend="center">XVII</cell>
+                  </row>
+               </table>
+               <lg>
+                  <l>Identificámos a duplicação de títulos em numeração romana.</l>
+                  <l>Rectificámos mantendo a ordenação crescente, nomeadamente nos casos referidos acima.</l>
+               </lg>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

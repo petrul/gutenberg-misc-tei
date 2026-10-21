@@ -1,0 +1,2729 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Euripides' Elektra</title>
+            <author>Euripides</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-01T23:14:39Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">odts/sv-odts/Euripides-EuripidesElektra_2018.epub.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Euripides</name>
+               <date>2024-01-01T23:14:39Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Euripides' Elektra</head>
+         <author>Euripides</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">odts/sv-odts/Euripides-EuripidesElektra_2018.epub.odt</p>
+         <p>Produced by Jari Koivisto</p>
+         <head>EURIPIDES' ELEKTRA</head>
+         <p>Öfversatt</p>
+         <p>af</p>
+         <p>Axel Gabriel Sjöström.</p>
+         <p>Helsingfors, hos J.C. FRENCKELL &amp; SON, 1843.</p>
+         <p>          Euripidis Electra.<lb/>           Svethice redditus<lb/>                cuius<lb/>           Particulam Primam<lb/>VENIA AMPLISSIMAE FACULTATIS PHILOSOPHICAE AD IMPERIALEM<lb/>     ALEXANDRIALEM IN PENNIA UNIVERSITATEM<lb/>                PRAESIDE<lb/>        AXELIO GABRIELE SJÖSTRÖM<lb/>Literaturae Graecae Professore Publico et Ordinarie<lb/>                  P.P<lb/>               RESPONDENS<lb/>    CAROLUS JOHANNES AUGUSTUS LEIDENIUS<lb/>                Borealis<lb/>    In Auditorio Philos; die 7 Jun. 1843<lb/>                h.a.m. 10.<lb/>             HELSINGFORSIAE<lb/> EX OFFICINA TYPOGRAPHICA FRENCKELLIANA<lb/>
+         </p>
+         <pb/>
+         <div type="div1">
+            <head>ELEKTRA.</head>
+            <pb/>
+            <div type="div2">
+               <head>PERSONERNE:</head>
+               <lg>
+                  <l>BONDEN.</l>
+                  <l>ELEKTRA.</l>
+                  <l>ORESTES.</l>
+                  <l>PYLADES, stum.</l>
+                  <l>KLYTAIMNESTRA.</l>
+                  <l>KHOREN.</l>
+                  <l>GUBBEN.</l>
+                  <l>SÄNDEBUDET.</l>
+                  <l>DIOSKURERNE.</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>BONDEN.</head>
+               <lg>
+                  <l>    O, gamle Argosland, och du, Inachosflod,</l>
+                  <l>    Dän fordom på ettusen skepp i härnad drog</l>
+                  <l>    Mot Troerlandet Agamemnon, konungen;</l>
+                  <l>    Och se'n han nedgjort herrskarn uti Ilios,</l>
+                  <l>    Drott Priamos; och tagit stolta staden in, 5</l>
+                  <l>    Till samma Argos återkom, uppställande</l>
+                  <l>    I höga templen fiendernas bytesskatt!</l>
+                  <l>    Der gick nog allting väl; men hemma i sin borg</l>
+                  <l>    Han föll för Klytaimnestras, egen makas, svek,</l>
+                  <l>    Och för Aigisthos', sonens af Thyestes, hand. 10</l>
+                  <l>    Så Tantalos' urgamla spira lemnande,</l>
+                  <l>    Han dog, och nu Aigisthos konung är härstäds,</l>
+                  <l>    Och har till maka dottren utaf Tyndareus.</l>
+                  <l>    Af dem, han lemnade, när han till Troia for,</l>
+                  <l>    Sonen Orestes, och ungtärnan Elektra, 15</l>
+                  <l>    Af dessa bortstal fadrens gamle vårdare</l>
+                  <l>    Orestes, som Aigisthos hade dräpa tänkt,</l>
+                  <l>    Och gaf åt Strophios, att fostras i Phokensers land,</l>
+                  <l>    Men i sin faders boning blef Elektra qvar,</l>
+                  <l>    Och henne strax, såsrnart hon blifvit mogen mö, 20</l>
+                  <l>    Begärde uti Hellas' land de förste män.</l>
+                  <l>    Af fruktan, att en son hon skulle föda fram</l>
+                  <l>    Till Agamemnons hämnare, i borgen höll</l>
+                  <l>    Aigisthos henne, och åt friaren ej gaf,</l>
+                  <l>    Nu då det mellertid var mycken fara vardt, 25</l>
+                  <l>    Att åt ättboren man hon hemligt födde barn,</l>
+                  <l>    Beslöt han dräpa henne; gryma modren dock</l>
+                  <l>    Sin dotter räddade utur Aigisthos' våld.</l>
+                  <l>    Ty för sin makes dråp ett svepskäl hade hon,</l>
+                  <l>    Men fruktade, att hatad bli för barnets mord. 30</l>
+                  <l>    Och efter detta stemplade Aigisthos nu</l>
+                  <l>    Sålunda: ho som dräpte Agamemnons son,</l>
+                  <l>    Som rymmt ur landet, skulle derför bli betald.</l>
+                  <l>    Elektra deremot bortskänkte han åt mig</l>
+                  <l>    Till maka; mig, som från de Mykenaiers ätt 35</l>
+                  <l>    Härstammar, och i sådan hänsigt icke blygs.</l>
+                  <l>    Ty glansrik genom börden, jag på egendom</l>
+                  <l>    Är arm: och <hi rend="italic">Fattigdom föröder Adelskap</hi>;</l>
+                  <l>    Så att han ringa fruktan bar för ringa man.</l>
+                  <l>    Men om en man med värdighet Elektra fått, 40</l>
+                  <l>    Förgäten hämd åt Agamemnons dräp helt visst</l>
+                  <l>    En sådan väckt, ock gett Aigisthos rättvist straff.</l>
+                  <l>    Ock har jag aldrig hennes bädd — det vet Kypris —</l>
+                  <l>    Oskära vågat; och för mig hon jungfru är.</l>
+                  <l>    Förty jag blygs, att rik mans dotter, som jag fått, 45</l>
+                  <l>    I sådant kränka, hvartill jag är oförtjent.</l>
+                  <l>    Och honom, som i folkets mund min svåger nämns,</l>
+                  <l>    Stackars Orestes, ömkar jag, om, hem anländ,</l>
+                  <l>    Han måste skåda systrens bröllop olyksfullt.</l>
+                  <l>    Men skulle någon säga, att en narr jag är, 50</l>
+                  <l>    Som fått ung Jungfru i gemak, och nalkas ej,</l>
+                  <l>    Han vete, att med lätta sinnens alnmått han</l>
+                  <l>    Det rätta mäter, och är just en sådan sjelf.</l>
+               </lg>
+               <div type="div3">
+                  <head>ELEKTRA.</head>
+                  <lg>
+                     <l>    Kolsvarta natt, de gyllne stjernors fostreraka,</l>
+                     <l>    I hvilken, detta embar på mitt hufvud stäldt, 55</l>
+                     <l>    Till vattenkällan jag mig hän begifver nu,</l>
+                     <l>    Visst icke störtad än i sådan uselhet,</l>
+                     <l>    Men för att visa gudarna Aigisthos' brott,</l>
+                     <l>    Och upp mot ethern sända suckar till min far!</l>
+                     <l>    Förty nidqvinnan, Tyndaridskan, moder min, 60</l>
+                     <l>    Att smickra bolarn, stötte mig utur vår borg;</l>
+                     <l>    Och sedan åt Aigisthos andra barn hon födt,</l>
+                     <l>    Tillöfverlopps Orestes räknar hon och mig.</l>
+                  </lg>
+                  <div type="div4">
+                     <head>BONDEN.</head>
+                     <lg>
+                        <l>    För min skull, hvi, osälla, gör du dig besvär</l>
+                        <l>    Med slikt bestyr, du försteligt uppfostrade. 65</l>
+                        <l>    Och hvi afstår du ej, då jag dig ber derom?</l>
+                     </lg>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <lg>
+                           <l>    Jag skattar dig jemlik med gudarna, som vän;</l>
+                           <l>    Ty i min nöd du icke har missaktat mig.</l>
+                           <l>    Skön är för dödliga den lott, att räddaren</l>
+                           <l>    Uti olyckan finna, som jag funnit dig. 70</l>
+                           <l>    Jag derför bör, ock oombedd, hvad jag förmår,</l>
+                           <l>    Din börda lätta, att du henne bära kan,</l>
+                           <l>    Samt dela arbete med dig. Du har dock nog</l>
+                           <l>    Bestyr derute. Inomhus det är min pligt,</l>
+                           <l>    Att allt omsköta. <hi rend="italic">Ljuft för arbetskarlen är, 75</hi>
+                           </l>
+                           <l>
+                              <hi rend="italic">    Från gärdet hemländ, att god ordning möta få.</hi>
+                           </l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>BONDEN.</head>
+                        <lg>
+                           <l>    Gå bara, om dig lyster; ty ej långt ifrån</l>
+                           <l>    Vårt pörte källan är; men jag, då dager blir,</l>
+                           <l>    Till åkern drifver oxarna, och sår min teg.</l>
+                           <l>    <hi rend="italic">Lat vu'en ingen, fast han Gud på tungan bär, 80</hi>
+                           </l>
+                           <l>
+                              <hi rend="italic">    Förutan arbete, sitt uppehälle fick.</hi>
+                           </l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <lg>
+                           <l>    Min Pylades, dig ibland menskor skattar jag</l>
+                           <l>    I vänskap och i trohet främst, och redlighet!</l>
+                           <l>    Du är den ende, som Orestes älskat har,</l>
+                           <l>    Mig, stackars man, utaf Aigisthos grymt förföljd, 85</l>
+                           <l>    Som gaf min far sin bane, af förderflig mor</l>
+                           <l>    Biträdd, ifrån orakelguden kommer jag</l>
+                           <l>    Till Argoslandet, så att ingen vet derom,</l>
+                           <l>    I mening, att med mord umgälla mördarne.</l>
+                           <l>    Min faders graf besökte jag, förlidne natt, 90</l>
+                           <l>    Och gjöt en tår, och offrade en lock derpå.</l>
+                           <l>    Och slagtade ett lamm, hvars blod jag rinna lät</l>
+                           <l>    I hemlighet, att intet vet våldsherrskaren.</l>
+                           <l>    Dock inom stadens mur min fot ej sätter jag;</l>
+                           <l>    Men tveksam mellan tvenne dåd jag kommit hit 95</l>
+                           <l>    Till landets gränser: för att genast vandra bort</l>
+                           <l>    Åt annan ort, om spejarn sett mig, sökande</l>
+                           <l>    Min syster åter; — ty man säger, att förmäld</l>
+                           <l>    Hon fäst sitt bo, och icke mera jungfru är; —</l>
+                           <l>    Att råka henne, och till min deltagerska 100</l>
+                           <l>    I hämden få, och forska hvad bak muren hörs.</l>
+                           <l>    Alltså — ty Eos höjer ren sin stråleblick —</l>
+                           <l>    Från denna stig vi vika må på annan stråt.</l>
+                           <l>    Ty någon plogkarl, eller någon piga tör</l>
+                           <l>    Väl visa sig, af hvilken vi utforska må, 105</l>
+                           <l>    Om syster min har fäst sitt bo i denna trakt.</l>
+                           <l>    Dock der jag varsnar någon ibland tärnorna,</l>
+                           <l>    Som ifrån källan bär på klippta hufvudet</l>
+                           <l>    Ett embar; sittom derför här och spörjom åt</l>
+                           <l>    Hos tjensteqvinnan, om vi någon kunskap få, 110</l>
+                           <l>    Min Pylades, i sak, hvarför vi kommit hit.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <lg>
+                           <l>    Stig hurtigt på! nu är hög tid; <hi rend="italic">Stroph.</hi>
+                           </l>
+                           <l>    O skynda, skynda dig, gråtande, framåt!</l>
+                           <l>    Ve mig, ve mig!</l>
+                           <l>    Agamemnons egen dotter 115</l>
+                           <l>    Är jag, och mig födde Klytaimnestra,</l>
+                           <l>    Skräcklig dotter af Tyndareus.</l>
+                           <l>    Jag kallas den olyckssälla</l>
+                           <l>    Elektra af medborgsmän.</l>
+                           <l>    Ve, ve, de tryckande hjerteqval, 120</l>
+                           <l>    O far, och mitt gryma lif!</l>
+                           <l>    Du redan i underjord</l>
+                           <l>    Hvilar, af egen maka dräpt,</l>
+                           <l>    Och Aigisthos, o Agamemnon.</l>
+                           <l>    Välan, stämm upp din sorgelåt, 125</l>
+                           <l>    Och väck mångtåriga fröjden!</l>
+                           <l>    — — — — — — — — — —</l>
+                           <l>    Stig hurtigt på! nu är hög tid;</l>
+                           <l>    O skynda, skynda dig, gråtande, framåt!</l>
+                           <l>    Ve mig, ve mig!</l>
+                           <l>    I hvilken stad, och i hvilket hus, 130</l>
+                           <l>    O stackars min broder, tjenar du,</l>
+                           <l>    I fadrens salar lemnande,</l>
+                           <l>    Vid bittraste olyckslott,</l>
+                           <l>    Beklagliga systren qvar?</l>
+                           <l>    Måtte du komma, i sådan nöd, 135</l>
+                           <l>    Mig arma till räddning, Zeus, o Zeus,</l>
+                           <l>    Och hämnare af min faders</l>
+                           <l>    Skändeligt gjutna blod,</l>
+                           <l>    Ställande kosan till Argos' land!</l>
+                           <l>    Men nu detta embar frän huf- 140</l>
+                           <l>    vudet lyftande, nattliga klageljud</l>
+                           <l>    Jag till min fader vill höja upp.</l>
+                           <l>    Dödsqvädet, o fader, en klagesång <hi rend="italic">Epod.</hi>
+                           </l>
+                           <l>    Jag sänder ditneder i suckar,</l>
+                           <l>    Af hvilka jag alla dagar 145</l>
+                           <l>    Qväljs, och med naglarna</l>
+                           <l>    Sönderklöser min hals,</l>
+                           <l>    Och drabbar mitt klippta hufvud med handen,</l>
+                           <l>    Allt för din död.</l>
+                           <l>    Ve, ve, jag vill slita min lock! 150</l>
+                           <l>    Och liksom melodiska svanen</l>
+                           <l>    I strömmande flodens bädd</l>
+                           <l>    Påkallar sin älsklige far,</l>
+                           <l>    Som i gillrets i svekliga garn</l>
+                           <l>    Fann döden: så dig, olycklige 155</l>
+                           <l>    Fader, begråter jag,</l>
+                           <l>    Som fick det aldrayttersta badet i</l>
+                           <l>    Dödens ohyggliga bädd.</l>
+                           <l>    Ve mig — ve,</l>
+                           <l>    För bittra din mordyxas skull, fader, 160</l>
+                           <l>    För bittra din resas beslut från Ilios!</l>
+                           <l>    Ej med ett prunkskärp mötte dig.</l>
+                           <l>    Makan, och icke med blomsterkrans;</l>
+                           <l>    Nej, med tveeggige svärdet hon</l>
+                           <l>    Aigisthos i sorglig nidbragd halp, 165</l>
+                           <l>    Som hon hemligt tog i sitt läger.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>KHOREN.</head>
+                        <lg>
+                           <l>    Agamemnons dotter, jag kommen är, <hi rend="italic">Stroph.</hi> 1.</l>
+                           <l>    Elektra, till din landtliga boning.</l>
+                           <l>    Hit lände en, lände en mjölkdrinkare,</l>
+                           <l>    Mykenaier och bergsbo nyss, 170</l>
+                           <l>    Som säger, att till öfvermorgon</l>
+                           <l>    Utsätta en offerfest</l>
+                           <l>    Argeierne, och till Hero</l>
+                           <l>    Samtlige jungfrur erna gå.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <lg>
+                           <l>    Ej, väninnor, för högtidsprål <hi rend="italic">Stroph.</hi> 2. 175</l>
+                           <l>    Hjertat, eller för gyllene</l>
+                           <l>    Keder, mer hänföres hos mig,</l>
+                           <l>    Arma; ej träder jag nånsin i dans</l>
+                           <l>    Med Argeiska tärnorna mer,</l>
+                           <l>    Svängande svarfvade foten. 180</l>
+                           <l>    Tåren mitt offer är,</l>
+                           <l>    Och jag, olyckliga, vårdar blott</l>
+                           <l>    Om tåren, alla dagar.</l>
+                           <l>    Skåda mitt tofviga hår,</l>
+                           <l>    Och denna trasiga kappa, om 185</l>
+                           <l>    De anstå Agamemnons</l>
+                           <l>    Konungsliga dotter, och</l>
+                           <l>    Troia, som städse min fader</l>
+                           <l>    Minnes, af hvilken det intogs.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>KHOREN.</head>
+                        <lg>
+                           <l>    Gud är mäktig; men värdigas dock af mig <hi rend="italic">Motstr.</hi> 190</l>
+                           <l>    Mångstickade manteln taga, och kläda på</l>
+                           <l>    Det gyllene tillägg till ditt fägrings glans!</l>
+                           <l>    Menar du, med tårar dig,</l>
+                           <l>    Fast gudar du ej vördar, seger få</l>
+                           <l>    På fienderna? — <hi rend="italic">Genom suckar ej, 195</hi>
+                           </l>
+                           <l>
+                              <hi rend="italic">    Men böner, höjda till gu-</hi>
+                           </l>
+                           <l>
+                              <hi rend="italic">    dars thron, vinns lyckan, mitt barn.</hi>
+                           </l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <lg>
+                           <l>    Ej bland gudarna någon bor <hi rend="italic">Motstr.</hi> 2.</l>
+                           <l>    Den olyckligas verop öf-</l>
+                           <l>    ver öfvadt fadermord. 200</l>
+                           <l>    Ve mig, för dräpte fadren, ve!</l>
+                           <l>    Samt för den lefvande irraren,</l>
+                           <l>    Som nu vistas i fremmande land,</l>
+                           <l>    Den arme man, och sitter kanske</l>
+                           <l>    Vid drängars härd, 205</l>
+                           <l>    Fast son af ståtelig far.</l>
+                           <l>    Sjelf jag i fattiga hybblet ber,</l>
+                           <l>    Förtvinande i mitt sinne,</l>
+                           <l>    Bortkörd ur min faders palats,</l>
+                           <l>    Uppå bergsklinterna här. 210</l>
+                           <l>    Men mor hon ligger i mördarns bädd,</l>
+                           <l>    Och sofver hos annor man.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>KHOREN.</head>
+                        <lg>
+                           <l>    För Hellas' folk till mången ofärd skulden är</l>
+                           <l>    Din moders syster, Helens, och för ditt hus.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <lg>
+                           <l>    Ack, sek, J qvinnor! nu jag afstår från min gråt. 215</l>
+                           <l>    Invid vår boning fremlingar, som lägrat sig</l>
+                           <l>    Derborta, smyga ju utur försåtet fram.</l>
+                           <l>    Du, vägen utför, skyndsamt, och till hybblet jag</l>
+                           <l>    Illgerningsmännen måga fly med snabba steg.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Blif qvar, beklagansvärda, och min hand ej räds! 220</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Jag vid Apollon beder: slå mig ej ihjäl!</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Jag andra dräpa ville, mer fiendtliga.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Gå hän, och nalkas ej hvad dig ej nalkas höfs.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Ej kan jag någon närma mig med större skäl.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Säg, hvi du svärdbeväpnad dröjer vid mitt tjell? 225</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Blif qvar, och hör mig! du kanhända träffat rätt.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Jag blir, och är fullkomligt din, som makten har.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Från broder din med tidender jag kommit hit.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Säg mig, du käre, om han lefver, eller dött?</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Han lefver; ty det bästa först jag säga vill. 230</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Dig önskas välgång som de ljufva ordens lön.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Oss båda unnar jag gemensamt denna lott.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Hvar vistas han, den usle, uselt landsförvist?</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Han tvinar bort, och lyder lag än här, än der.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Och lider brist på dagens nödtorft möjligen? 235</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">O nej! men dock <hi rend="italic">vanmäktig är landsflyktig man.</hi>
+                        </p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Med hvilket budskap kommer du från honom nu?</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Jag frågar: lefver du? hvad qval betrycka dig?</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Först skådar du, hur till en skrika jag förbytts,</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Af qvalen tvinad, att jag just beklagar dig. 240</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Mitt hufvud rakadt är och hår, på Skythers vis.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Din broder och din dräpte far dig smärta gör.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">O ve! hvad är mig kärare, än desse två?</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Ack, ack, hvad hyser du för tankar om din bror?</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Han borta är, den älsklige, och hemma ej. 245</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Se'n hvilken tid från staden fjerran bor du här?</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">O fremling, mig man gifte bort, en olycksstund!</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Din arme bror! — din man dock Mykenaier är?</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Ej så, som fadren ärnade bortgifta mig.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Ack, låt mig höra, och berätta för din bror! 250</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">I denna koja bor jag här, på fjerran trakt.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Slikt hus koherden eller dikarn värdigt är.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Javäl en fattig hedersman, och mot mig blid.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Hvad blidhet är det då, som finns hos din gemål?</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Min bädd han aldrig nånsin djerfts att närma sig. 255</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Af kyskhetslöfte bragt derhän, af kallt förakt?</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Min fader kränka och min mor han ville ej.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Vardt han ej glad emellertid att ega dig?</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Han ej Aigisthos gilla vill, som gifteman.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Begriper! — — att ej för Orestes stå tillsvars. 260</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Visst var han rädd för det också; men eljes klok.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <lg>
+                           <l>    Ack!</l>
+                           <l>    En hedersman du nämner, som bör hållas väl.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Ifall han kommer hem, som nu är bortastadd.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Än moder din, fördrog hon sådant giftermål?</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">
+                           <hi rend="italic">Nog älskar qvinnan karlarna; ej egna barn.</hi> 265</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Säg mig, hvarför Aigisthos dig så skymfade?</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Han gaf mig honom, att jag blefve ungars mor.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Ej söners, som dig skulle hämnas framdeles?</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Såsom han stemplat, skall han göra mig besked.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Vet modrens make, att ännu du jungfru går? 270</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Det vet han icke; jag med tystnad döljer det.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Tillåts väninnorna, här stå, att höra oss?</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Jo, dina ord och mina vackert dölja de.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Hvad gjorde väl Orestes, om han komme hem?</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Det frågar du? — ett skamligt tal! Är väl nu tid? 275</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Hur sloge han ihjäl sin faders banemän?</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Af fienderna lidande hvad fadren led.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Med hans hjelp vågade du dräpa moder din?</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Ja visst, med samma yxa, som min fader draps.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Får jag det säga? är ditt tal att lita på? 280</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Jag doge gerna se'n jag gjutit modrens blod.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <lg>
+                           <l>    Ack!</l>
+                           <l>    Om nu Orestes vore här, och hörde allt!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Änskönt jag såge, kände jag ej honom mer.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Det är ej under; ung du skildes från ung bror.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">En ende skulle känna honom dock ännu. 285</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Han visst, som sägs ha honom ifrån döden frälst?</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Hans egen fars skolmästare, en gammal man.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Din far; den mördade, säg, hvilar han i graf?</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Han hvilar, som han hvilar, vräkt ur egen borg.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Ve mig! hvad sade du? de dödlige alltså 290 <hi rend="italic">Af andras qval förnimma äfven smärtens gadd.</hi> Förtälj mig saken! att jag bär till broder din Oljufva ord, men nödiga att höra dock. <hi rend="italic">Barmhertighet dock aldrig uti oträngdt mål, Hos visa männer finns; men icke strafflöst är, 295 Om alltför mycken vishet hos den vise bor.</hi>
+                        </p>
+                     </div>
+                     <div type="div5">
+                        <head>KHOREN.</head>
+                        <lg>
+                           <l>    Densamma hjertats önskan delar äfven jag.</l>
+                           <l>    Ty fjerran här på landet boende, jag ej</l>
+                           <l>    Af stadens nidverk vet, men ville veta nu.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <lg>
+                           <l>    Må vara! om jag måste. Men jag måste väl 300</l>
+                           <l>    Förtro åt vännen mina och min faders qval.</l>
+                           <l>    Men dig, o främling, beder jag, som talet väckt,</l>
+                           <l>    Säg för Orestes mina lidanden, och hans,</l>
+                           <l>    Och aldraförst, af hurdan mantel jag är skyld,</l>
+                           <l>    Hur smutsig jag är, och inunder hvilket tak 305</l>
+                           <l>    Jag bor, som dock härstammar ifrån kongaborg.</l>
+                           <l>    Ock jag med skottspoln väfver mina kläder sjelf,</l>
+                           <l>    Såframt jag ej vill naken gå, och lottlös bli;</l>
+                           <l>    Sjelf äfven vattnet ifrån floden hämtar jag,</l>
+                           <l>    Från gudafester utestängd, från danser skild. 310</l>
+                           <l>    Jag hustrur hatar, då jag sjelf är jungfru blott?</l>
+                           <l>    Jag Kastor hatar, som, förrn han bland gudar kom,</l>
+                           <l>    Förlofvades med mig, sin egen anförvandt.</l>
+                           <l>    Min mor, omgifven utaf Phrygisk bytesskatt,</l>
+                           <l>    På thronen sitter, och de Asiatiska 315</l>
+                           <l>    Småtärnor stå bredvid, dem far tillfångatogs</l>
+                           <l>    Idaiska mantlarna tlllsammanfästade</l>
+                           <l>    Med gyllne spännen; dock min faders svarta blod</l>
+                           <l>    I borgen ruttnar än, och han, som honom drap,</l>
+                           <l>    Bestigande min faders vagn, far hurtigt fram; 320</l>
+                           <l>    Och spiran, hvarmed far anförde Hellas' folk,</l>
+                           <l>    Han öfver modig håller i blodsölad hand.</l>
+                           <l>    Men Agamemnons minnesvård missfirmad blir,</l>
+                           <l>    Samt undfår gjuteoffer, eller myrtenstjelk</l>
+                           <l>    Ej någonsin, och tom på smycken står hans graf. 325</l>
+                           <l>    Af vin uppfuktad mellertid, min moders man</l>
+                           <l>    Den store, som han kallas, trampar deruppå,</l>
+                           <l>    Och på grafstenen slungar sten på sten,</l>
+                           <l>    Samt vågar föra emot oss ett sådant tal:</l>
+                           <l>    "Hvar är Orestes? Han sin faders vård minsann 330</l>
+                           <l>    Rätt väl försvarar?" — Så han hädas, bortastadd.</l>
+                           <l>    Säg honom det, o fremling, då jag ber derom,</l>
+                           <l>    På månge andres vägnar, hvilkas tolk jag är,</l>
+                           <l>    Så händerna, som tungan, och beängslad själ,</l>
+                           <l>    Och mitt kalskurna hufvud, och Orestes' far. 335</l>
+                           <l>    Ty nesligt är, om samme far de Phryger slog,</l>
+                           <l>    Men han allena ej en ende dräpa kan,</l>
+                           <l>    Den unge kämpen, aflad utaf bättre far.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>KHOREN.</head>
+                        <lg>
+                           <l>    Der ser jag mannen, just din make menar jag,</l>
+                           <l>    Som, efter slutadt arbete, nu kommer hem. 340</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>BONDEN.</head>
+                        <lg>
+                           <l>    Ha! hvad är det för fremlingar, jag skådar här?</l>
+                           <l>    Utaf hvad orsak ha de till mitt hybbles dörr</l>
+                           <l>    Anländt? monntro de söka mig? <hi rend="italic">Stor skam</hi>
+                           </l>
+                           <l>
+                              <hi rend="italic">    För hustru, att med unga glopar stå i prat.</hi>
+                           </l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <lg>
+                           <l>    Min kära du, mot mig ej må du svartsjuk bli! 345</l>
+                           <l>    Du sanningen skall veta strax: de fremmande</l>
+                           <l>    Ifrån Orestes kommit hit, som sändebud.</l>
+                           <l>    J fremlingar, misstycken icke gubbens ord!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>BONDEN.</head>
+                        <p rend="justify">Hvad säga de? Finns mannen till, och ser guds dag?</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Så spörjes visst; och deras tal mig trovärdt syns. 350</p>
+                     </div>
+                     <div type="div5">
+                        <head>BONDEN.</head>
+                        <p rend="justify">Monntro han minnes fadren än, och dina qval?</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Det vill jag tro; vanmäktig är landsflyktig man.</p>
+                     </div>
+                     <div type="div5">
+                        <head>BONDEN.</head>
+                        <p rend="justify">Hvad tidender ha de ifrån Orestes bragt?</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Att speja mina lidanden han skickat dem.</p>
+                     </div>
+                     <div type="div5">
+                        <head>BONDEN.</head>
+                        <p rend="justify">Somt se de säkert sjelfve; somt förtäljer du. 355</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Dem känna de, och intet görs dem mer behof.</p>
+                     </div>
+                     <div type="div5">
+                        <head>BONDEN.</head>
+                        <lg>
+                           <l>    Alltså man dörren längesedan öppna bordt:</l>
+                           <l>    Inträden här! Som lön för goda ord J fån</l>
+                           <l>    Gästplägning strav, så godt mitt ringa hus förmår.</l>
+                           <l>    Fort, drängar, lyften derför in ressakerna, 360</l>
+                           <l>    Och krusen icke J, från älskad älsklige</l>
+                           <l>    Hitkomne! Ty änskönt jag är en fattig man,</l>
+                           <l>    Min ringa härkomsts bruk för er ej röjer jag.</l>
+                        </lg>
+                        <p rend="justify">ORESTES (till Elektra).</p>
+                        <lg>
+                           <l>    Vid gudar, han som till ett kyskhetsäktenskap</l>
+                           <l>    Med dig förmäldes, vill Orestes ingen skam! 365</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Just denne kallas man åt mig, olyckliga!</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <lg>
+                           <l>    O ve!</l>
+                           <l>    Ej finns ett säkert tecken uppå mannamod;</l>
+                           <l>    Förty förvirring är de dödliges natur.</l>
+                           <l>    Jag ofta sett, att sonen utaf ädel far</l>
+                           <l>    Blef usling; sett af slema fäder goda barn; 370</l>
+                           <l>    Sett armod uti rike mannens tankesätt,</l>
+                           <l>    Men höga tankar hos den läge bettlaren.</l>
+                           <l>    Hur skall alltså man dömma rätt i sådan sak?</l>
+                           <l>    Kanhända efter rikdom? dålig domare!</l>
+                           <l>    Än efter dem som intet ha? nej, armoden 375</l>
+                           <l>    Är krämpig, och i nödens stund lär mannen svek.</l>
+                           <l>    Än efter vapnen? <hi rend="italic">Ho, då han lansudden såg,</hi>
+                           </l>
+                           <l>
+                              <hi rend="italic">    Intygade väl rätt, hvem som den tappre är?</hi>
+                           </l>
+                           <l>    Det bästa blir, att lemna sådan sak derhän.</l>
+                           <l>    Ty denne mannen, hvarken bland Argeier stor, 380</l>
+                           <l>    Ej heller uppblåst af sin ätts förmenta glans,</l>
+                           <l>    Men utur hopen en, befunnits har brakarl,</l>
+                           <l>    Er sansen, J, som, utaf toma fördomar</l>
+                           <l>    Uppfyllde, ståten och, på tonen, menskorna</l>
+                           <l>    Bedömmen och, på umgängssättet, ädlingar! 385</l>
+                           <l>    <hi rend="italic">De ädle männer ensame förvalta väl</hi>
+                           </l>
+                           <l>
+                              <hi rend="italic">    Så stad, som hus; men toma kroppar utan själ,</hi>
+                           </l>
+                           <l>
+                              <hi rend="italic">    De äro stoder uppå torg: — I härnaden</hi>
+                           </l>
+                           <l>
+                              <hi rend="italic">    Den starke armen, som den svage, skördas hän:</hi>
+                           </l>
+                           <l>
+                              <hi rend="italic">    Och sådant allt beror af tapperhet och art.</hi> 390</l>
+                           <l>    Derför — han är det värd, tillstädes eller ej,</l>
+                           <l>    Agamemnons son, för hvars skull hit vi kommit ha —</l>
+                           <l>    Nu låtom oss mottaga bjudningen; välan,</l>
+                           <l>    J tjenare, vi måste in; den fattige</l>
+                           <l>    Mer än den rike vare mig välvillig värd! 395</l>
+                           <l>    Alltså jag prisar denne mannens gästfrihet;</l>
+                           <l>    Men såge hellre, att din egen bror likväl,</l>
+                           <l>    Sjelf lycklig, mig ledsagade i lyckligt hus.</l>
+                           <l>    Kanske han kommer; ty <hi rend="italic">orakelgudens ord</hi>
+                           </l>
+                           <l>
+                              <hi rend="italic">    Ha laga kraft</hi>; ej menskors spådom aktar jag. 400</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>KHOREN.</head>
+                        <lg>
+                           <l>    Nu, mer än nånsin, o Elektra värmes upp</l>
+                           <l>    Af fröjd vårt hjerta; ty måhända stadgar sig</l>
+                           <l>    Vår lycka herrligt, som så långsamt hittills skred.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <lg>
+                           <l>    Min stackars man, då nog du vet vår fattigdom,</l>
+                           <l>    Hvi tog du dessa gäster mot, förmer än du? 405</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>BONDEN.</head>
+                        <lg>
+                           <l>    Hvi, om de äro, som de synas, ädlingar,</l>
+                           <l>    Ej hölle de tillgodo smått såväl som stort?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <lg>
+                           <l>    Emedan du misstagit dig, och fattig är,</l>
+                           <l>    Så gå nu till min fäders gamle vårdare,</l>
+                           <l>    Der han vid floden Tanaos, som genomskär 410</l>
+                           <l>    Argeiska landets gränser, liksom Spartas jords,</l>
+                           <l>    Med hjorden vistas, se'n ur staden han fördref!</l>
+                           <l>    Bed honom gå till hybblet sitt, och derifrån</l>
+                           <l>    Till fremlingarnas bord förskjuta oss en rätt.</l>
+                           <l>    Hur han skall glädjas, och beprisa gudarna, 415</l>
+                           <l>    Förnimmande, att gossen lefver, som han frälst!</l>
+                           <l>    Ty ej ur fadersborgen, och utaf vår mor</l>
+                           <l>    Vi något finge; men blott harm bebådade</l>
+                           <l>    Om skökan hörde, att Orestes lefver än.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>BONDEN.</head>
+                        <lg>
+                           <l>    Om dig så synes, vill jag bringa detta bud 420</l>
+                           <l>    Till gubben; gå nu oförtöfvadt du ditin,</l>
+                           <l>    Och ställ i ordning der! Blott hustrun vilja har,</l>
+                           <l>    Hon för en måltid tusen medel finner upp.</l>
+                           <l>    Ock är så mycket i vårt hybble qvar ännu,</l>
+                           <l>    Så att vi gitte dessa mätta för en dag. 425</l>
+                           <l>    Men efter nu på sådant ämne tanken föll,</l>
+                           <l>    Begrundar jag, hur penningen har mycken kraft.</l>
+                           <l>    Att hjelpa vänner med, samt, när man krämpa får,</l>
+                           <l>    Der ur sig redat daglig nödtorft är likväl</l>
+                           <l>    En ringa ting; ty mättad mage gör enhvar, 430</l>
+                           <l>    Såväl den rika, som den arma lika fröjd.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>KHOREN.</head>
+                        <lg>
+                           <l>    Stolte galejor, som drogen fordom till Troia, <hi rend="italic">Slroph.</hi> 1.</l>
+                           <l>    Med otaliga årors mängd,</l>
+                           <l>    Bland Nereiderna hållande dans,</l>
+                           <l>    Der flöjtvänlig svängde Del- 435</l>
+                           <l>    phinen sig, omkring mörksprö-</l>
+                           <l>    tiga stammar vältrad,</l>
+                           <l>    Beledsagande Thetis' son,</l>
+                           <l>    I föttrens språng lätte Akhilleus,</l>
+                           <l>    Med Agamemnon, till Troiske, 440</l>
+                           <l>    Simoentiska stranden!</l>
+                           <l>    Och Nereiderne, lemnande Euboias kust, <hi rend="italic">Motstr.</hi> 1.</l>
+                           <l>    Från Hephaistos' gyllene städ</l>
+                           <l>    Hämtade vapnens konstfulla verk,</l>
+                           <l>    Uppå Pelion, och i hö- 445</l>
+                           <l>    ga Ossas heliga lunder,</l>
+                           <l>    Nymphernas vårdtorn,</l>
+                           <l>    Spörjande dessa, hvar hjeltens far,</l>
+                           <l>    Riddaren, fostrat åt Hellas dess ljus,</l>
+                           <l>    Thetis', hafsgudinnans, ättling, 450</l>
+                           <l>    Åt Atreides ett snabbfotadt värn.</l>
+                           <l>    Men af någon i Naupliske hamnen, _Stroph_2.</l>
+                           <l>    Som från Ilios kommit, de hörde,</l>
+                           <l>    Att, uppå din, o Thetis' son,</l>
+                           <l>    Herrlige skölds omkrets, 455</l>
+                           <l>    Följande bilder, skräckbilder</l>
+                           <l>    För Phrygerna, ristats in.</l>
+                           <l>    På kringlöpande randens rund</l>
+                           <l>    Halsskördaren Perseus, med vingad</l>
+                           <l>    Sko öfver hafvet, fram- 460</l>
+                           <l>    for, och Gorgos hufvud höll,</l>
+                           <l>    Med Zeus' budbärare Hermes,</l>
+                           <l>    Maias landtlige ättling.</l>
+                           <l>    Och i midten af skölden strilade <hi rend="italic">Motstr.</hi> 2.</l>
+                           <l>    Solens blanka skifva 465</l>
+                           <l>    Med vinghästarnas spann,</l>
+                           <l>    och stjernors etheriske danshär,</l>
+                           <l>    Pleiader, Hyader, för Hektors</l>
+                           <l>    Ögon ett dödsbad.</l>
+                           <l>    Uppå gullsirade hjelmen sågos 470</l>
+                           <l>    Sphinger, med sjungna bytet i klorna</l>
+                           <l>    Hållet; på pansaret, som är</l>
+                           <l>    Ländvärnaren, i fyr-</l>
+                           <l>    språng lopp en lejoninna, och blicken</l>
+                           <l>    Peirenaiske fålen följde. 475</l>
+                           <l>    På mordiska glafven fyrhofvade hästar sig stegrade, <hi rend="italic">Epod.</hi>
+                           </l>
+                           <l>    och kring ryggen hvirflade skyar af stoft.</l>
+                           <l>    Sådane männers drott,</l>
+                           <l>    Stridpröfvade kämpars, drap du, o Tyndareus' 480</l>
+                           <l>    Dotter, din egen gemål, vanartade qvinna!</l>
+                           <l>    Thy skola de himmelske dig en gång</l>
+                           <l>    Nedsända till underjorden, och jag</l>
+                           <l>    Skall se ur den blödande strupen 485</l>
+                           <l>    Med svärd utgjutet, ditt blod.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>GUBBEN.</head>
+                        <lg>
+                           <l>    Hvar är hon, hvar min unga, vördnadsvärda fru,</l>
+                           <l>    Agamemnons dotter, som jag fordom fostrade?</l>
+                           <l>    Hur brant är ej uppgången hit till hennes hus,</l>
+                           <l>    För sammankrumpen gammal man, att trampa på! 490</l>
+                           <l>    Till sina vänner måste man dock, tänja ut</l>
+                           <l>    Refbenen ömsesids och krökta knäets veck.</l>
+                           <l>    Ack, dotter min, jag ser du nyss hemkommen är,</l>
+                           <l>    Jag skyndat hit, att bringa dig ett litet lamm,</l>
+                           <l>    Som jag ur hjordarna åt dig utplockade, 495</l>
+                           <l>    Och blomsterkransar, jemte ostar, som jag valt;</l>
+                           <l>    Dessutom ock en gammal skatt ur källaren,</l>
+                           <l>    Till doften ljuflig, njugg, men kostelig likväl,</l>
+                           <l>    Att blanda ut en skål med krukans svaga dryck</l>
+                           <l>    Man bringe detta till de fremmande, du fått, 500</l>
+                           <l>    Men jag med fliken af min kappa ögonen,</l>
+                           <l>    Dän tårar välla, torka vill emellertid.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <lg>
+                           <l>    Hvad är, du gamle, som ditt öga fuktigt gör?</l>
+                           <l>    Du minns kanske min ofärd, sedan fordomtid?</l>
+                           <l>    Kanske Orestes' usla landsflykt smärtar dig? 505</l>
+                           <l>    Kanske min fader, som du förr i famnen bar,</l>
+                           <l>    Och gagnlöst fostrade för dig och vännerna?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>GUBBEN.</head>
+                        <lg>
+                           <l>    Visst gagnlöst! nu jag dock ej kunde hejda mig.</l>
+                           <l>    Ty då af händelse jag lände till hans graf,</l>
+                           <l>    I ensamheten föll jag ned derpå, och gret, 510</l>
+                           <l>    Och öppnande på legeln, offergjöt derur,</l>
+                           <l>    Och myrtenqvisrtar ställde kring på kumlets rand</l>
+                           <l>    På sjelfva bålet såg jag då svartulligt får,</l>
+                           <l>    Nyss slagtadt, och ej längese'n utgjutet blod,</l>
+                           <l>    Och blonde hårets lockar såg jag, skördade, 515</l>
+                           <l>    Samt undrade, min dotter, ho bland menniskor</l>
+                           <l>    Tordts grafven nalkas; det ej en Argeier var.</l>
+                           <l>    Men kanske kom din broder hem i hemlighet,</l>
+                           <l>    Och hyllade dervid sin faders olycksgraf.</l>
+                           <l>    Betrakta locken, läggande vid eget här, 520</l>
+                           <l>    Om det ej är till färgen lika med dethär.</l>
+                           <l>    <hi rend="italic">Förty hos dem, som rinner samme faders blod,</hi>
+                           </l>
+                           <l>
+                              <hi rend="italic">    Plär mången kroppens del antaga samma skick.</hi>
+                           </l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <lg>
+                           <l>    Du, gamle, ordar hvad ej vise männer höfs,</l>
+                           <l>    Ifall du menar, att min djerfve bror, i smyg, 525</l>
+                           <l>    Af fruktan för Aigisthos, kom till detta land.</l>
+                           <l>    Dessutom hvad är väl en hårlocks vittnesbörd?</l>
+                           <l>    Hans, i palaistran bildad ut på riddarvis;</l>
+                           <l>    Min, utaf kammen agad? — Slikt omöjligt är.</l>
+                           <l>    Du lika lockar finna skall hos många nog, 530</l>
+                           <l>    I hvilka samme blod ej rinner, gamle man.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>GUBBEN.</head>
+                        <lg>
+                           <l>    Träd du uti hans spår, och pröfva, om hans sko</l>
+                           <l>    Ett märke lemnat, passligt för din fot, mitt barn!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <lg>
+                           <l>    Hur är det möjligt, att uti stenbunden mark,</l>
+                           <l>    Som denna, aftryck gjordes? om dock vore så, 535</l>
+                           <l>    Kanhända är två syskons fot ej lika stor,</l>
+                           <l>    En qvinnas och en mans: <hi rend="italic">Karl lofven tar.</hi>
+                           </l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>GUBBEN.</head>
+                        <lg>
+                           <l>    Ifall din bror till våra bygder kommen är,</l>
+                           <l>    Säg, om du märke eger på skottspolens verk,</l>
+                           <l>    Hvari jag honom hemligt räddade från död? 540</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <lg>
+                           <l>    Ack, minns du ej, att, då Orestes gick från oss,</l>
+                           <l>    Jag än var barn? men om jag äfven kappor väft,</l>
+                           <l>    Hur skulle han, då liten pilt, i samma gå,</l>
+                           <l>    Såframt ej kläder jemte kroppen vexa till?</l>
+                           <l>    Nej, någon fremling, af medömkan, klippt sin lock 545</l>
+                           <l>    På grafven, eller rörd af hela landets sorg.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>GUBBEN.</head>
+                        <lg>
+                           <l>    Hvar äro fremlingarne nu? jag önskar se,</l>
+                           <l>    Och spörja dem om allt, ehvad din broder rör.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Der komma de utur vårt tjell med snabba steg.</p>
+                     </div>
+                     <div type="div5">
+                        <head>GUBBEN.</head>
+                        <lg>
+                           <l>    De högvälborna! — dock jag lemnar det osagdt; 550</l>
+                           <l>    Ty högvälboren mången var en stympare.</l>
+                           <l>    Likväl jag fremlingarna nu välkomna vill.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <lg>
+                           <l>    Var helsad, gubbe! utaf hvem, Elektra, säg,</l>
+                           <l>    Har du den gamla vänsqvarlefvan qvar ännu?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">O fremling, det är han, som fostrade min far. 555</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Hvad säger du? densamme, som din broder stal.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Min bror han räddat, om han eljes lefver än.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <lg>
+                           <l>    O ve!</l>
+                           <l>    Hvi ser han på mig, likasom skärskådande</l>
+                           <l>    Ett silfversmycke? menar han mig någon lik?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Kanske han gläds, att ann Orestes se i dig. 560</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">En älskad man; men hvarför stöfvar han omkring?</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Du fremmande, med häpnad, ock jag detta ser.</p>
+                     </div>
+                     <div type="div5">
+                        <head>GUBBEN.</head>
+                        <p rend="justify">Elektra, väna dotter, bed till gudarna!</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Om hvad? om det som icke är, om det som är.</p>
+                     </div>
+                     <div type="div5">
+                        <head>GUBBEN.</head>
+                        <p rend="justify">Att få den dyra skatten, som gud visar dig. 565</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Till gudarna jag beder; nu hvad vill du mer?</p>
+                     </div>
+                     <div type="div5">
+                        <head>GUBBEN.</head>
+                        <p rend="justify">Nu kasta ögat, barn, på denne älsklige!</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">En stund jag fruktat, att ej mer du riktig är.</p>
+                     </div>
+                     <div type="div5">
+                        <head>GUBBEN.</head>
+                        <p rend="justify">Är jag ej riktig, jag, som skådar broder din?</p>
+                     </div>
+                  </div>
+                  <div type="div4">
+                     <head>ELEKTRA.</head>
+                     <p rend="justify">Hvad har du, gamle, sagt? ditt tal oväntadt är. 570</p>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Att här jag ser Orestes, Agamemnons son.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Hvad märke har du, som jag kunde lita på.</p>
+                     </div>
+                     <div type="div5">
+                        <head>GUBBEN.</head>
+                        <lg>
+                           <l>    Ett ärr vid ögat efter blodigt sår, han fick,</l>
+                           <l>    Då han en kalf förföljde jemte dig, och stalp.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Hvaba? jag märket skådar efter fallet sjelf. 575</p>
+                     </div>
+                     <div type="div5">
+                        <head>GUBBEN.</head>
+                        <p rend="justify">Men dröjer än, att närma dig den käraste?</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <lg>
+                           <l>    Nej, icke mer; utaf ditt märke är min själ</l>
+                           <l>    Fullt öfvertygad. Du, som lände ändtligen,</l>
+                           <l>    Dig eger jag. — — —</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Och du omsider ägs af mig.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Jag aldrig trodde — — — 580</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Jag ej heller hoppades.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Är du den rätte?</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <lg>
+                           <l>                     Ja, din ende bundsförvandt!</l>
+                           <l>    Ifall det varp jag drager upp, som kastas nu.</l>
+                           <l>    Det vet jag, och man mer ej bör på gudar tro,</l>
+                           <l>    Om brottet högre ställes än rättrådighet</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>KHOREN.</head>
+                        <lg>
+                           <l>    Du är här; du är här, senfärdige dag! 585</l>
+                           <l>    Du har grytt, och för fosterlandet röjt</l>
+                           <l>    Den hjelte, som, flyktande längese'n</l>
+                           <l>    Fjerran från fädrens palats</l>
+                           <l>    Usel irrade omkring.</l>
+                           <l>    En gud, ja, en gud skall bringa till oss 590</l>
+                           <l>    Segren, väninna.</l>
+                           <l>    Höj händer, höj röst, och bön uppsänd.</l>
+                           <l>    Till gudar, att lyckligt, lyckligt</l>
+                           <l>    Din bror uti vår stad må träda in! 595</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <lg>
+                           <l>    Rättså! mig välkomsthelsningens behaglighet</l>
+                           <l>    Är ljuf; härnäst jag ärnar återgälda allt.</l>
+                           <l>    Men, gamle, du som lände hit i rätter tid,</l>
+                           <l>    Säg mig, hur skall jag tukta fadrens baneman,</l>
+                           <l>    Och moder min, som ingick gudlöst giftermål. 600</l>
+                           <l>    Finns än i Argos qvar för mig bevågenhet?</l>
+                           <l>    Är allt för oss förloradt, såsom lyckan är?</l>
+                           <l>    Hvem bör jag träffa, vare sig natt eller dag?</l>
+                           <l>    På hvilken väg mig vända emot fienden?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>GUBBEN.</head>
+                        <p rend="justify">Min son, för dig, olycklige, ej finns en vän, 605</p>
+                        <lg>
+                           <l>    I denna verld är vänskapen ett hittegods,</l>
+                           <l>    Den vänskapen, som lika delar godt och ondt.</l>
+                           <l>    Och du som är i grund och botten vännelös,</l>
+                           <l>    Ej hoppet mera ens har qvar; hör och förnimm:</l>
+                           <l>    Utaf din egen hand och slumpen det beror, 610</l>
+                           <l>    Om du din faders borg och stad än återfår.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Hvad bör jag göra för att nå ett sådant mål?</p>
+                     </div>
+                     <div type="div5">
+                        <head>GUBBEN.</head>
+                        <p rend="justify">Thyestes son du dräpa bör, och moder din.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Det segerpris jag önskar ha; men huru få?</p>
+                     </div>
+                     <div type="div5">
+                        <head>GUBBEN.</head>
+                        <p rend="justify">Om hur du ville, du i borgen slipper ej. 615</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Af vakter och drabanters armar skyddas den.</p>
+                     </div>
+                     <div type="div5">
+                        <head>GUBBEN.</head>
+                        <p rend="justify">Rätt sagdt! han rädes dig, och aldrig sofver trygg.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Må vara! men i sak mig råd, du gamle man!</p>
+                     </div>
+                     <div type="div5">
+                        <head>GUBBEN.</head>
+                        <p rend="justify">Hör på du bara! mig ett infall kommit på</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Du något godt att säga har: jag öra är. 620</p>
+                     </div>
+                     <div type="div5">
+                        <head>GUBBEN.</head>
+                        <p rend="justify">Aigisthos nyss jag varsnade, då hit jag smög.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Detder förstår jag; men uppå hvad ställe då?</p>
+                     </div>
+                     <div type="div5">
+                        <head>GUBBEN.</head>
+                        <p rend="justify">Uti hästhagen, litet stycke härifrån.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Hvad gjorde han? på hopplöshet, mig gryr ett hopp.</p>
+                     </div>
+                     <div type="div5">
+                        <head>GUBBEN.</head>
+                        <p rend="justify">Åt nympherna en fest han redde: tyckte jag. 625</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">För barnens fostring, eller för en väntad son?</p>
+                     </div>
+                     <div type="div5">
+                        <head>GUBBEN.</head>
+                        <p rend="justify">Ett vet jag blott: med oxars slagt bestyrde han.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">I månges sällskap, eller blott med eget folk?</p>
+                     </div>
+                     <div type="div5">
+                        <head>GUBBEN.</head>
+                        <p rend="justify">Argeier fanns der ingen, utan slafvars hop.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Är någon, som mig röja kunde, gamle man? 630</p>
+                     </div>
+                     <div type="div5">
+                        <head>GUBBEN.</head>
+                        <p rend="justify">De äro tjenare, som dig ej nånsin sett.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Ifall vi segre, äro de bevågne oss?</p>
+                     </div>
+                     <div type="div5">
+                        <head>GUBBEN.</head>
+                        <p rend="justify">Ja; sådan är ju slafvars sed, dig gagnelig.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Hur i all verlden kunde jag den mannen nå?</p>
+                     </div>
+                     <div type="div5">
+                        <head>GUBBEN.</head>
+                        <p rend="justify">Du vandrar dit, dän, offrande, han varsnar dig. 635</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Invid den vägen, som jag tror, han hagen har.</p>
+                     </div>
+                     <div type="div5">
+                        <head>GUBBEN.</head>
+                        <p rend="justify">Och när han ser dig, dig till gäst inbjuder han.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Till bitter bordskamrat, allenast gud så vill.</p>
+                     </div>
+                     <div type="div5">
+                        <head>GUBBEN.</head>
+                        <p rend="justify">I öfrigt, hur det faller sig, tag ditt beslut!</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Förträffligt sagdt! och moder min hvar vistas hon. 640</p>
+                     </div>
+                     <div type="div5">
+                        <head>GUBBEN.</head>
+                        <p rend="justify">I Argos; och till mannens fest ej kommer hon.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Hvi reste icke modet min med giljaren?</p>
+                     </div>
+                     <div type="div5">
+                        <head>GUBBEN.</head>
+                        <p rend="justify">Hon fruktade byfolkets prat, och hemma blef.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Begriper! misstänkt hon hos staten känner sig.</p>
+                     </div>
+                     <div type="div5">
+                        <head>GUBBEN.</head>
+                        <p rend="justify">Så ungefär; en gudlös qvinna hatad blir. 645</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Hur kan jag dräpa båda två i samma hugg?</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Jag sjelf bestyra vill om modrens nederlag.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">En sådan sak skall slumpen visst utföra väl.</p>
+                        <p rend="justify">ELEKTRA (visande på gubben).</p>
+                        <p rend="justify">Då två vi äre, denne ock bör tjena oss.</p>
+                     </div>
+                     <div type="div5">
+                        <head>GUBBEN.</head>
+                        <p rend="justify">Så blir det; men hur reder du din moders död? 650</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <lg>
+                           <l>    Gå, gamle man, ock till hos Klytaimnestra säg,</l>
+                           <l>    Att jag i barnsäng ligger med ett gossebarn.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>GUBBEN.</head>
+                        <p rend="justify">Att längese'n du födde, eller nyligen?</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">För tio dagar, barnsängsqvinnors reningstid.</p>
+                     </div>
+                     <div type="div5">
+                        <head>GUBBEN.</head>
+                        <p rend="justify">Ock hur kan detta bringa på din moder död? 655</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Blott hon förnimmer, att jag sjukas, är hon här.</p>
+                     </div>
+                     <div type="div5">
+                        <head>GUBBEN.</head>
+                        <p rend="justify">Hvi tror du, att hon vårdar sig om dig, mitt barn?</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Jo visst, i fröjd att mor jag är, hon gråta skall.</p>
+                     </div>
+                     <div type="div5">
+                        <head>GUBBEN.</head>
+                        <p rend="justify">Kanske, — till vändningspunkten återgår mitt tal.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Och när hon kommit, klart är, att hon dödad blir. 660</p>
+                     </div>
+                     <div type="div5">
+                        <head>GUBBEN.</head>
+                        <p rend="justify">Och genom sjelfva husets dörr inträde hon!</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Sak samma nästan, som att gå till dödens hem?</p>
+                     </div>
+                     <div type="div5">
+                        <head>GUBBEN.</head>
+                        <p rend="justify">Ack! att jag doge, se'n jag detta skåda fått!</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Först visa nu Orestes väg, du gamle man!</p>
+                     </div>
+                     <div type="div5">
+                        <head>GUBBEN.</head>
+                        <p rend="justify">Dit, der Aigisthos gudars offer reder till? 665</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Och när min mor du möter, frambär mina ord!</p>
+                     </div>
+                     <div type="div5">
+                        <head>GUBBEN.</head>
+                        <p rend="justify">Så att hon tror dem vara gångne ur din mund.</p>
+                        <p rend="justify">ELEKTRA (till Orestes).</p>
+                        <p rend="justify">Nu dig det gäller; första mordets lott är din.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Jag gerna går, blott någon blir vägvisare.</p>
+                     </div>
+                     <div type="div5">
+                        <head>GUBBEN.</head>
+                        <p rend="justify">Oändligt gerna vill jag följa dig åstad. 670</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <lg>
+                           <l>    Zeus, fadrens gud, och fiendernes hämnare,</l>
+                           <l>    Dig ömka öfver oss, som lidit ömkligen!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Dig ömka öfver oss, afkomlingar af dig!</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <lg>
+                           <l>    O Hera, vid Mykenes gudaaltar högst,</l>
+                           <l>    Förläna segren, om vår bön rättmätig är!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Förläna oss en rättvis hämd för fadrens mord! 675</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <lg>
+                           <l>    Och du, min far, som, mördad, dväljs inunder jord,</l>
+                           <l>    Du drottning, jord, till hvilken händren sträcker jag,</l>
+                           <l>    Bispring, bispring två dina aldrakärsta barn!</l>
+                           <l>    Kom, fader, och som bundsförvandter tag med dig. 680</l>
+                           <l>    De hjeltars vålnader, som ödde samfält Phrygerna,</l>
+                           <l>    Och bära hat till gudalösa nidingsmän!</l>
+                           <l>    Har du mig hört, du af min mor misshandlade?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <lg>
+                           <l>    Allt, vet jag, hör vår fader; — nu är tid, att gå;</l>
+                           <l>    Thy dig jag manar, att Aigisthos slå ihjäl. 685</l>
+                           <l>    Men om, besegrad, döende du störtar ned,</l>
+                           <l>    Ock jag är död, och tälj mig ej bland lefvande.</l>
+                           <l>    Ty med tveeggadt svärd mitt hufvud drabbar jag.</l>
+                           <l>    Nu går jag i min koja, och om allt bestyr,</l>
+                           <l>    Så att, ifall om dig god tidning blir förspord, 690</l>
+                           <l>    Allt huset jubla må; men om du nedergörs,</l>
+                           <l>    Motsatsen träffar in: dig detta säger jag.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Allt vet jag nu.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <lg>
+                           <l>                     En karl alltså du vara bör.</l>
+                           <l>                                        (till Khoren)</l>
+                           <l>    Men J, o qvinnor, genom edert anskri högt</l>
+                           <l>    Förkunnen bardaleken! Jag vill hålla vakt, 695</l>
+                           <l>    Med draget svärd i handen, mellertid.</l>
+                           <l>    Ty, ock af fienden besegrad, aldrig jag</l>
+                           <l>    Det hån skall lida, att min kropp misshandlad blir.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>KHOREN.</head>
+                        <lg>
+                           <l>    Om dejliga moder min en sägn <hi rend="italic">Stroph.</hi> 1.</l>
+                           <l>    Från Argeiska bergen ännu står. 700</l>
+                           <l>    Bland grånade rykten qvar,</l>
+                           <l>    Att, uppå välfogade pipan sin,</l>
+                           <l>    Ljufljudiga sången blåste</l>
+                           <l>    Pan, lundarnes konung,</l>
+                           <l>    Skönulliga, gyllene lammet lockande fram; 705</l>
+                           <l>    Men på klippans spets</l>
+                           <l>    Framträdde härolden, och utbrast:</l>
+                           <l>    Till torget, till torget, Mykenaier,</l>
+                           <l>    Vandren, att se lycksalige förstarnes 710</l>
+                           <l>    Järtecken, skräcktecken!</l>
+                           <l>    Argeiernes skaror smyckade templen ut;</l>
+                           <l>    Och guldsirade altaren re- <hi rend="italic">Motstr.</hi> 1.</l>
+                           <l>    ste sig, på hvilka i staden högt</l>
+                           <l>    Glodde Argeiernes offereld. 715</l>
+                           <l>    Ur flöjten, de sångmörs tjenstesven,</l>
+                           <l>    Aldraskönaste stämma ljöd;</l>
+                           <l>    Och älsklige sånger sig mängde deri</l>
+                           <l>    Öfver gyllene lammet, Thyestes till pris.</l>
+                           <l>    Ty, i hemlig bädd, 720</l>
+                           <l>    När Atreus' hulda gemål</l>
+                           <l>    Han tubbat, järtecknet han förde</l>
+                           <l>    Hem till sig; och vändande åter till torget, han ropte,</l>
+                           <l>    Att nu det hornade, gull-</l>
+                           <l>    ulliga får han gömde i eget hus. 725</l>
+                           <l>    Då förbytte, o då, <hi rend="italic">Stroph.</hi> 2.</l>
+                           <l>    Stjernornes stråliga stråt</l>
+                           <l>    Zeus, och solens ljusblick,</l>
+                           <l>    Samt morgonens mjella hy, 730</l>
+                           <l>    Och vesterns rymder uppvärm-</l>
+                           <l>    de med gudsänd flammas glöd.</l>
+                           <l>    Vattendigre skyar stå i nord,</l>
+                           <l>    Och torre Ammoniske fält dagg-</l>
+                           <l>    löse förtvina, från Zeus 735</l>
+                           <l>    Beröfvade herrlige skurars skatt.</l>
+                           <l>    Han förmäles också, <hi rend="italic">Motstr.</hi> 2.</l>
+                           <l>    Änskönt jag föga det tror,</l>
+                           <l>    Solens värmande guldblick</l>
+                           <l>    Omvexlat, och bort- 740</l>
+                           <l>    vändt, till menniskors ofärd,</l>
+                           <l>    Till de dödliges näpst.</l>
+                           <l>    De hisklige sägner äro dock</l>
+                           <l>    Till gudars dyrkan ett varningsbud,</l>
+                           <l>    Dem glömde du bort, och din make 745</l>
+                           <l>    Drap, du, herrlige bröders syster.</l>
+                           <l>                         (härunder mördas Aigisthos.)</l>
+                           <l>    O ve! o ve!</l>
+                           <l>    Väninnor, hörden J ett skri! — Påkom mig blott</l>
+                           <l>    Tom skrämsel, som jag underjordens åskor hört?</l>
+                           <l>    Ha! desse pustar ej otydligt vexa till;</l>
+                           <l>    Elektra; du vår fru, begif ur tjellet dig! 750</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Väninnor, hvad är frågan om? hvad hotar oss?</p>
+                     </div>
+                     <div type="div5">
+                        <head>KHOREN.</head>
+                        <p rend="justify">Ett vet jag blott: jag rosslet hör af döende.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Jag äfven hör det, visst från fjerran, men ändock.</p>
+                     </div>
+                     <div type="div5">
+                        <head>KHOREN.</head>
+                        <p rend="justify">Långväga kommer ljudet hit, men tydeligt.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Är det Argeiers, eller mine vänners suck? 755</p>
+                     </div>
+                     <div type="div5">
+                        <head>KHOREN.</head>
+                        <p rend="justify">Jag vet ej; <hi rend="italic">hvarje nödskri går på samma ton</hi>.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Du menar visst Aigisthos' mord; hvad dröje vi?</p>
+                     </div>
+                     <div type="div5">
+                        <head>KHOREN.</head>
+                        <p rend="justify">Dröj än, att säkert du ditt öde veta må.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">O nej! vi äre slagne; kom ej redan bud?</p>
+                     </div>
+                     <div type="div5">
+                        <head>KHOREN.</head>
+                        <p rend="justify">Det kommer: <hi rend="italic">dräpa konungen, är vansklig sak</hi>. 760</p>
+                     </div>
+                     <div type="div5">
+                        <head>SÄNDEBUDET.</head>
+                        <lg>
+                           <l>    O du Mykenska, segersälla jungfrukhor,</l>
+                           <l>    Orestes', seger alla vänner bådar jag,</l>
+                           <l>    Och Agamemnons baneman, på marken sträckt,</l>
+                           <l>    Aigisthos; derför må vi prisa gudarna!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Ho är du? hur kan du bestyrka dina ord? 765</p>
+                     </div>
+                     <div type="div5">
+                        <head>SÄNDEBUDET.</head>
+                        <p rend="justify">Din broders tjenare, fast skådad nyss, du känner ej?</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <lg>
+                           <l>    Min vän; i skrämseln svårt, ditt anlete mig var</l>
+                           <l>    Att minnas; men jag känner dig nu åter väl.</l>
+                           <l>    Hvad hörs? min faders lede dråpman skördades?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>SÄNDEBUDET.</head>
+                        <p rend="justify">Han skördades! två gånger sagdt, om så du vill. 770</p>
+                     </div>
+                     <div type="div5">
+                        <head>KHOREN.</head>
+                        <p rend="justify">Rättvisa, du som allting ser, du kom likväl!</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <lg>
+                           <l>    På hurdant sätt, och genom hvilket mordanslag</l>
+                           <l>    Drap broder min Thyestes' son? berätta det!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>SÄNDEBUDET.</head>
+                        <lg>
+                           <l>    Se'n utur dessa tjell vår fot vi flyttat bort,</l>
+                           <l>    Uppå en körväg trädde vi med tvenne spår; 775</l>
+                           <l>    Der fanns de Mykenaiers kong, den herrlige.</l>
+                           <l>    Han vandrade sombäst i vattenymnig park,</l>
+                           <l>    Och bröt af spenslig myrten kransar för sitt hår.</l>
+                           <l>    Han ropte strax: välkomne! hvilka ären J?</l>
+                           <l>    Och hvadan kommen J? och ifrån hvilket land? 780</l>
+                           <l>    Orestes svarte: Thessaler! — Till Alpheos</l>
+                           <l>    Vi bringe Zeus, Olympiern, vår offergärd.</l>
+                           <l>    Men när Aigisthos detta hörde, sade han:</l>
+                           <l>    Nu måsten J, som gäster stanna qvar hos mig</l>
+                           <l>    Vid festgelaget; just jag offer reder till 785</l>
+                           <l>    Åt nympherna; stån J imorgon tidigt opp,</l>
+                           <l>    J hinnen fram ändå: men låtom oss gå in!</l>
+                           <l>    Och som han detta sade, fattande vår hand,</l>
+                           <l>    Han ledde in oss; neka var allsicke värdt</l>
+                           <l>    Och när vi inne voro, så han ordade: 790</l>
+                           <l>    Tvättvatten bringe man åt fremlingarna strax,</l>
+                           <l>    Så att de må vid altaret rentvagne stå.</l>
+                           <l>    Orestes svarte: nyss vi äre renade</l>
+                           <l>    Med klara vattnet, hämtadt utur flodens bädd;</l>
+                           <l>    Men om, med stadsbor, egnar fremlingar slikt värf, 795</l>
+                           <l>    Aigisthos, stå vi redo, och ej vägre dig.</l>
+                           <l>    Det talet lemnade de nu, och bröto af;</l>
+                           <l>    Se'n ställde sina lansar bort, sin herres värn,</l>
+                           <l>    Dess tjenare, och grepo alle verket an.</l>
+                           <l>    De offerdjuret förde in; mjölkorgen de; 800</l>
+                           <l>    De åter tände elden upp, och härden kring</l>
+                           <l>    Framsatte kittlar: stoj i hela huset var;</l>
+                           <l>    Din moders sängkamrat då framtog offermjöl,</l>
+                           <l>    Och strödde på altaret, under dessa ord:</l>
+                           <l>    Bergsnympher, unnen mig, att offra mången gång, 805</l>
+                           <l>    Och Tyndariden, min gemål, i sitt palats,</l>
+                           <l>    Då oss går väl, som nu, men illa fienden!</l>
+                           <l>    Orestes mente han och dig. Min herre om</l>
+                           <l>    Motsatsen bad, ej tydligt rösten höjande:</l>
+                           <l>    Att fadersborgen återfå. Ur korgen tog 810</l>
+                           <l>    Aigisthos hvassa knifven nu, och kalfvens hår</l>
+                           <l>    Afskar, och dem i helga elden kastade,</l>
+                           <l>    Och stack i nacken kalfven, som betjenterne</l>
+                           <l>    Framhöllo, medan han tilltalte så din bror:</l>
+                           <l>    Ibland utmärkelser hos Thessaler, den sägs 815</l>
+                           <l>    Främst vara, att en tjur man skickligt sönderskär,</l>
+                           <l>    Och tyglar hästen. Fatta, fremling, detta stål,</l>
+                           <l>    Och visa, att slikt rop om Thessaler är sannt.</l>
+                           <l>    Han grep påstund välsmidda Dorerknifven då,</l>
+                           <l>    Och, kastande skönhäktig mantel från sin rygg, 820</l>
+                           <l>    Han Pylades sig valde till medhjelpare,</l>
+                           <l>    Och tjenarne dref hän; tog tag i kalfvens fot,</l>
+                           <l>    Och hvita köttet blottade med utsträckt hand,</l>
+                           <l>    Och afdrog skinnet fortare, än kapploppshäst</l>
+                           <l>    Två dubbelhvarf på banan har tillryggalaggt; 825</l>
+                           <l>    Upp skar han buken; men i hand inkråmet tog</l>
+                           <l>    Aigisthos, och besåg det. Ingen hängläpp fanns</l>
+                           <l>    Vid lefvern, men i gallan hål och öppningar</l>
+                           <l>    För spejarn röjde idel slema förebud.</l>
+                           <l>    Nu vredgas mannen, och min herre spörjer så: 830</l>
+                           <l>    Nå, hvad går åt dig? — Fremling, ett försåt jag räds</l>
+                           <l>    Från fjerran; ty bland alla menskor hätskast är</l>
+                           <l>    Mig Agamemnons son, fiendtlig mot mitt hus.</l>
+                           <l>    Han svarade: du rädes en landsflyktings list,</l>
+                           <l>    Du, stadens drott? nej, låtom oss kalasa nu? 835</l>
+                           <l>    På frågeoffret; Phthier, för min Dorerknif,</l>
+                           <l>    Man binge, att jag bringan ristar upp dermed.</l>
+                           <l>    Han fattar knifven, och skär till; Aigisthos tar</l>
+                           <l>    Till skådning lungan. Men då ned han böjde sig,</l>
+                           <l>    På yttersta tåspetsarna din broder steg, 840</l>
+                           <l>    Uti nackskarfveu honom högg, och genomskar</l>
+                           <l>    Ryggdelarna; Aigisthos' hela kropp dervid</l>
+                           <l>    Spratt upp och ned, och högt han skrek i dödens nöd.</l>
+                           <l>    I samma stund framrusade hans tjenare,</l>
+                           <l>    Att kämpa, månge emot två, som modige 845</l>
+                           <l>    Dock höllo stånd, och svängde lansarna till värn,</l>
+                           <l>    Pylades och Orestes, hvilken sade: jag</l>
+                           <l>    Ej kom fiendtlig emot staden och mitt folk;</l>
+                           <l>    Men mellertid min faders mördare jag näpst,</l>
+                           <l>    Stackars Orestes. Derför dräpen icke mig, 850</l>
+                           <l>    Fars gamle knektar! Och såsnart de dessa ord</l>
+                           <l>    Förnummit, lans de sänkte, och han kändes nu</l>
+                           <l>    Utaf en gammal gubbe, som i borgen var.</l>
+                           <l>    Och strax din broders hufvud de bekransade,</l>
+                           <l>    I glädjen, jublande; han kommer redan sjelf, 855</l>
+                           <l>    Att visa dig ett hufvud, icke af Gorgo,</l>
+                           <l>    Men af Aigisthos, som du hatar: blod blef blods</l>
+                           <l>    Bittra procent för honom, den nu dödade.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>KHOREN.</head>
+                        <lg>
+                           <l>    Höj, min väninna, foten till dans, <hi rend="italic">Stroph.</hi>
+                           </l>
+                           <l>    Som kidet, ett himla 860</l>
+                           <l>    Hopp utförande med behag!</l>
+                           <l>    Sig segerkransen har vunnit</l>
+                           <l>    För skönare bragd in vid Alpheio's flod</l>
+                           <l>    Din broder; och derföre sjung med mig</l>
+                           <l>    Sköntonande segersång! 865</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <lg>
+                           <l>    O, himladager, o fyrspannigt solens ljus,</l>
+                           <l>    O jord, och natt, som jag tillförne skådade!</l>
+                           <l>    Nu är mitt öga fritt, liksom min synkrets fri,</l>
+                           <l>    Ty död Aigisthos ligger, fadrens baneman.</l>
+                           <l>    Välan, utaf hårsmycken i mitt hus hvad helst 870</l>
+                           <l>    Jag gömmer, vill jag nu, väninnor, bära hit,</l>
+                           <l>    Och kransa brodrens hufvud, segervinnarens.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>KHOREN.</head>
+                        <lg>
+                           <l>    Pryd du med smyckena nu <hi rend="italic">Motstr.</hi>
+                           </l>
+                           <l>    Hans hufvud. Oss det egnar,</l>
+                           <l>    Att börja, vid sång, den älsklige dans. 875</l>
+                           <l>    Nu skola de fordne, de käre</l>
+                           <l>    Förstar regera i vårt land,</l>
+                           <l>    Med skäl de orättrådiga ödande.</l>
+                           <l>    I fröjd instämme vår röst!</l>
+                        </lg>
+                     </div>
+                  </div>
+                  <div type="div4">
+                     <head>ELEKTRA.</head>
+                     <lg>
+                        <l>    Du segersälle, son af far, som priset vann 880</l>
+                        <l>    I striderna vid Ilios, Orestes min,</l>
+                        <l>    Låt denna krans mig fläta dig kring lockarns!</l>
+                        <l>    Ty efter futtig och sexplethrig kamp, du kom</l>
+                        <l>    Till hemmet ej; men se'n du dräpt vår fiende</l>
+                        <l>    Aigisthos, som din fader mördade och min. 885</l>
+                        <l>    Du ock hans stridskamrat, utaf en hedersman</l>
+                        <l>    Uppfostrade, Pylades, kransen ur min hand</l>
+                        <l>    Emottag; ty du har med honom lika del</l>
+                        <l>    I striden: eder evig framgång önskar jag.</l>
+                     </lg>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <lg>
+                           <l>    Anse, Elektra, för vår lyckas upphofsmän. 890</l>
+                           <l>    Först gudarna, och sedan må du prisa mig,</l>
+                           <l>    Verkställaren af ödets bud och gudarnes.</l>
+                           <l>    Här står jag nu, som drap med verk, och ej med ord</l>
+                           <l>    Aigisthos; och att denna sak må varda klar</l>
+                           <l>    För alla, bringar jag med mig den dräpne sjelf, 895</l>
+                           <l>    Som du kan kasta ut för vargen, om du vill,</l>
+                           <l>    Kan ge åt etherns söner, fåglarna, till rof,</l>
+                           <l>    Uppfästande uppå en stång; ty han är nu</l>
+                           <l>    Din slaf, densamme, som förut din herre var.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Jag derför blyges; men vill tala ut likväl. 900</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Hvad då? säg ut! ty fjerran fruktan är från dig.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">De döda kränka: att ej harm mig drabba må.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Ej finna en ende, som dig derför tadlade.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Tyckmycken är ju dock vår stad, och tadelsjuk.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <lg>
+                           <l>    Säg, syster, hvad du vill! på oförsonlig grund 905</l>
+                           <l>    Vi begge mot den mannen fattat fiendskap.</l>
+                        </lg>
+                        <p rend="justify">ELEKTRA (till Aigisthos).</p>
+                        <lg>
+                           <l>    Rätt så! Hvar bör jag börja mina lidandens</l>
+                           <l>    Framställning? hvad bör stå tillsist? i midten hvad?</l>
+                           <l>    Visst är, att ingen morgonstund jag underlät,</l>
+                           <l>    Att högt upprepa hvad jag ville säga dig, 910</l>
+                           <l>    Ifall jag blefve från min fordna fruktan fri</l>
+                           <l>    En gång. Nu är jag det, och vill den ofärd all</l>
+                           <l>    Framställa, som jag, när du lefde, önskade.</l>
+                           <l>    Du skapte mitt förderf, och gjorde faderlös</l>
+                           <l>    Mig och min bror, fastän af oss ej nånsin kränkt. 915</l>
+                           <l>    Min mor du nesligt äktade, dess make drap,</l>
+                           <l>    Hellenernes härhövitsman, och drog ej ut.</l>
+                           <l>    Så långt du gick i dårskap, att du trodde ej</l>
+                           <l>    Min moders äktenskap förderfligt kunna bli</l>
+                           <l>    För dig, som dock missfirmade min faders bädd. 920</l>
+                           <l>    En hvar det vete, som en annans hustru har</l>
+                           <l>    I hemlighet förfört, och nödgas äkta se'n,</l>
+                           <l>    Att han olycklig är, ifall han tror, att hon,</l>
+                           <l>    Hos förre mannen okysk, kysk hos honom blir.</l>
+                           <l>    Du ömkligt lefde, som dig mente lefva väl, 925</l>
+                           <l>    Förty du visste, att du brottsligt dig förmält,</l>
+                           <l>    Och mor min visste, att en gudlös man hon fått.</l>
+                           <l>    Så, sleme båda, J hvarandras väl förstört,</l>
+                           <l>    Din lycka hon, och du får dela hennes skam.</l>
+                           <l>    Och bland Argeier alla så om dig förmäls: 930</l>
+                           <l>    Han var sin hustrus, men ej hustrun var sin mans.</l>
+                           <l>    Det snöpligt är, att uti gården väldet förs</l>
+                           <l>    Af hustrun, ej af mannen. Ock de sönerna</l>
+                           <l>    Jag skyr, som efter far sin icke bära namn,</l>
+                           <l>    Men efter modren nämnde bli, uti en stat. 935</l>
+                           <l>    Ty tager mannen sig förnäm och bättre fru,</l>
+                           <l>    Om mannen ingen fråga är, om hustrun blott.</l>
+                           <l>    Ock du, som detta ej förstod, dock mest bedrogs.</l>
+                           <l>    Du skröt dig något vara, genom skatter stark,</l>
+                           <l>    Som intet äro, utan för ett kort bestånd. 940</l>
+                           <l>    Naturn orubblig är, men icke penningen.</l>
+                           <l>    Och städs qvardröjande, hon lyfter hufvudet.</l>
+                           <l>    Men orättmätig rikdom och med brott forvärfd,</l>
+                           <l>    Ur gården flyktar, se'n han blomstrat liten tid.</l>
+                           <l>    Hvad qvinnor angår, — för en jungfru passar ej 945</l>
+                           <l>    Slikt tal — jag tiger, men vill peka rakt derpå.</l>
+                           <l>    Du felat har, som egde sjelf en kongaborg,</l>
+                           <l>    Och var en vacker karl; ack, vare min gemål</l>
+                           <l>    Snutfager icke, men af äkta karlagry!</l>
+                           <l>    Ty slike männers söner brås på krigets gud, 950</l>
+                           <l>    Men fagre piltar äro blott dansprydnader.</l>
+                           <l>    Tvi dig, du dåre, som omsider straffades,</l>
+                           <l>    Ovetande! hvar niding drabbe sådant slut!</l>
+                           <l>    Ej må enhvar, som vackert första hvarfvet lopp,</l>
+                           <l>    Förmena sig ha vunnet spel, förrn han uppnår 955</l>
+                           <l>    Bestämda målet, och kring lifvets slutpunkt vändt.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>KHOREN.</head>
+                        <lg>
+                           <l>    Han illa gjorde; men han illa näpstes ock</l>
+                           <l>    Af dig och denne: väldig makt rättvisan har.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <lg>
+                           <l>    Rätt så! men nu hans döda kropp bör lyftas in,</l>
+                           <l>    J tjenare, och stå i mörkret, att, vår mor 960</l>
+                           <l>    Hitkommen, före döden, ej må liket se.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Håll upp, och låt osa taleämne byta om!</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Hvi så? ser du ifrån Mykenai hjelpare?</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">O nej, min moder, som har födt mig, skådar jag.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Hon löper just behändigt midt i snaran nu. 965</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Och bröstar sig uti sin vagn, uti sin skrud.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Hvad är att göra? dräpe vi vår egen mor?</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Dig grep då miskund, när din moders kropp du såg?</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <lg>
+                           <l>    O ve!</l>
+                           <l>    Hur skall jag döda den, som födt och fostrat mig?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">På samma sätt, som hon din fader drap, och min. 970</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">O Phoibos, mycken galenskap du bådade — — —</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Ehvar Apollon ovis är, ho är der klok?</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Du, hvars orakel bjöd mig döda den, ej höfs.</p>
+                     </div>
+                  </div>
+                  <div type="div4">
+                     <head>ELEKTRA.</head>
+                     <p rend="justify">Hvad skadar dig, att taga på. din fader hämd?</p>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">För modermord jag stämmas skall, som var då ren. 975</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Ifall din far ej hämnas du, gudlös du är.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Jag mellertid för modrens mord skall straffad bli.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Åt hvem vill du väl öfverlemna fadrens hämd?</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Har djefvulen ej detta talt, i guds gestalt?</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Ifrån den helga trefoten? Jag tror det ej. 980</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Ej öfvertygas jag, att väl oraklet talt.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Var ej feghjertad; glöm ej bort ditt mannamod!</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Bör jag anstempla emot henne samma list?</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Hvarmed dess man du snärjde, och Aigisthos drap.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <lg>
+                           <l>    Jag mig inställer, och begynner skräckligt verk, 985</l>
+                           <l>    Och skräckligt utför, om så täckes gudarna.</l>
+                           <l>    Får gå; men ljuf och bitter denna bragd mig är.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>KHOREN.</head>
+                        <lg>
+                           <l>    Hell dig!</l>
+                           <l>    Du drottning uti det Argeiska land,</l>
+                           <l>    Dotter af Tyndareus,</l>
+                           <l>    Och syster till Zeus' modige söner två, 990</l>
+                           <l>    Som bland stjernor i flammande ethern</l>
+                           <l>    Bo, och i hafvets brusande svall</l>
+                           <l>    Hyllas af menskor med räddares ära!</l>
+                           <l>    Hell dig, som jag likt de saliga vördar,</l>
+                           <l>    För din rikdom och välgång stör! 995</l>
+                           <l>    Att vårda sig om din lycka, är</l>
+                           <l>    Hög tid, o drottning.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>KLYTAIMNESTRA.</head>
+                        <lg>
+                           <l>    Ur kärran stigen nu, Troinnor, och i hand</l>
+                           <l>    Mig fatten, att min fot ur denna vagn jag får.</l>
+                           <l>    Ty gudatemplena med Phrygiskt byte rikt 1000</l>
+                           <l>    Beprydde äro; men jag valde dessa ut</l>
+                           <l>    Från Troerlandet, för den dotter, som jag mist:</l>
+                           <l>    En ringa äreskänk, men grann för mitt palats.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <lg>
+                           <l>    O, får ej jag, slafvinnan, ur mitt fadershus</l>
+                           <l>    Bortjagade, som detta olyckstjell bebor, 1005</l>
+                           <l>    O moder, fatta, äfven jag din sälla hand?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>KLYTAIMNESTRA.</head>
+                        <p rend="justify">Här har jag tärnor nog; gör dig ej alls besvär!</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <lg>
+                           <l>    Hvi dref du mig som fånge ur min fadersborg?</l>
+                           <l>    När borgen från mig togs, jag ock tillfångatogs,</l>
+                           <l>    Likt dessa alla, och min far beröfvades. 1010</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>KLYTAIMNESTRA.</head>
+                        <lg>
+                           <l>    Isanning slika rådslag stemplade din far</l>
+                           <l>    Mot vänner sina, som han ingalunda bordt.</l>
+                           <l>    Jag orda vill: <hi rend="italic">enär slem tanke fattat har</hi>
+                           </l>
+                           <l>
+                              <hi rend="italic">    En qvinna, på dess tunga bor viss bitterhet.</hi>
+                           </l>
+                           <l>    Mot oss är det af dig ej rätt; när sakerna 1015</l>
+                           <l>    Du känna lärt, ifall till hat du eger skäl,</l>
+                           <l>    Med skäl du hatar; hvarom ej, hvi hata oss?</l>
+                           <l>    Mig Tyndareus åt fader din till maka gaf,</l>
+                           <l>    Ej för att mördas sjelf, ej heller barnet mitt;</l>
+                           <l>    Dock han min dotter, på Akhilleus' frieri 1020</l>
+                           <l>    Förtröstande, ifrån palatset förde bort</l>
+                           <l>    Till Aulis' samlingsplats, och der vid bålets eld</l>
+                           <l>    Han Iphigenes mjella hals afmejade.</l>
+                           <l>    Och hade han, att rädda staten från förderf,</l>
+                           <l>    Att gagna huset, eller frälsa andra barn, 1025</l>
+                           <l>    Dräpt en för många, vore det förlåteligt.</l>
+                           <l>    Nu, då Helena galen var, han ej förstod</l>
+                           <l>    Att rymmarinnan näpsa, som han fångat upp,</l>
+                           <l>    Men dräpte dotter min, för hennes skull.</l>
+                           <l>    Likväl för detta, fastän mig skett oförrätt, 1030</l>
+                           <l>    Jag ej förgrymmats, och min egen make dräpt,</l>
+                           <l>    Men sedan kom han med Kassandra, trollmön, hem,</l>
+                           <l>    Och bragte henne i vår bädd, och hustrur två</l>
+                           <l>    I samma hus han underhöll på samma gång.</l>
+                           <l>    En toka qvinnan är alltså: det säger jag.</l>
+                           <l>    Och när så saken står, om mannen snedsprång gör,</l>
+                           <l>    Och stöter äkta hälften bort, hon sin gemål</l>
+                           <l>    Att likna söker, och sig skaffar annor vän.</l>
+                           <l>    Nu brister ljudligt tadel ut mot oss påstund;</l>
+                           <l>    Men männerne, som vållat allt, belackas ej. 1040</l>
+                           <l>    Om Menelaos hemligt röfvats ur sin borg,</l>
+                           <l>    Jag bordt Orestes dräpa, att min systers man</l>
+                           <l>    Dymedelst rädda? Nu din fader mellertid</l>
+                           <l>    Har vågat slikt; och fastän han min dotter drap,</l>
+                           <l>    Han skulle icke dö för mig, men lida jag? 1045</l>
+                           <l>    Jag drap, och tog den enda väg, som möjlig var</l>
+                           <l>    Till mannens fiender; ty bland hans vänner hvem</l>
+                           <l>    Väl hade mig bisprungit vid din faders mord?</l>
+                           <l>    Säg, om du önskar, och frimodigt svara mig,</l>
+                           <l>    Hurvida ej med rätta far din dödades? 1050</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <lg>
+                           <l>    Nog har du rätt; men rättvisan för skam med sig.</l>
+                           <l>    En hustru bör i allo vika för sin man,</l>
+                           <l>    Om hon är god; ifall du icke medger det,</l>
+                           <l>    Så innefattas du allsicke i mitt tal.</l>
+                           <l>    Betänk, min moder, hvad du sednast yttrade. 1055</l>
+                           <l>    Mig lemnande inför dig så frimodighet!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>KLYTAIMNESTRA.</head>
+                        <p rend="justify">Jag medger det ännu, och nekar ej, mitt barn.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Och se'n du hört mig, moder, gör du mig ej ondt?</p>
+                     </div>
+                     <div type="div5">
+                        <head>KLYTAIMNESTRA.</head>
+                        <p rend="justify">Visst icke; gerna med din tanke sämjes jag.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <lg>
+                           <l>    Jag orda vill, och början utaf talet är: 1060</l>
+                           <l>    O, att du, moder, hyste bättre tankesätt!</l>
+                           <l>    Ty skönheten är värdig visst berömmelse</l>
+                           <l>    Hos Helena och dig; ett dårligt syskonpar</l>
+                           <l>    Likväl J båda ären, och ej Kastor värdige.</l>
+                           <l>    Ty hon, bortröfvad, följde sjelf frivillig med; 1065</l>
+                           <l>    Den störste man i hela Hellas dräpte du,</l>
+                           <l>    Med förevändning att, för dottren, din gemål</l>
+                           <l>    Du mördade; den saken ingen vet, som jag.</l>
+                           <l>    Ty innan dottrens offrande beslutet var,</l>
+                           <l>    Och knapt din make ifrån borgen dragit hän, 1070</l>
+                           <l>    Du framför spegeln putsade din blonda lock.</l>
+                           <l>    Den hustru, som, när mannen utur huset går,</l>
+                           <l>    Sig pyntar till, uppteckna bland de slemas tal.</l>
+                           <l>    Ty hon behöfver ej i dörrn till skådning te</l>
+                           <l>    Sitt fagra anlete, om hon ej stemplar ondt. 1075</l>
+                           <l>    Bland alla Helleninnor vet jag endast dig,</l>
+                           <l>    Som röjde glädje, när de Troers sak gick fram;</l>
+                           <l>    Och mörka miner viste, när dem gick emot,</l>
+                           <l>    Ej önskande, att Agamemnon komme hem.</l>
+                           <l>    Till kyska tankar hade dock du goda skäl; 1080</l>
+                           <l>    En man du egde, sämre än Aigisthos ej,</l>
+                           <l>    Som Hellas sjelf utkorat sig till höfvitsman.</l>
+                           <l>    Och när din syster Helena så skickat sig,</l>
+                           <l>    Stor ära kunde du förvärfva: <hi rend="italic">brottet är</hi>
+                           </l>
+                           <l>
+                              <hi rend="italic">    För dygdiga en spegel och en föresyn.</hi> 1085</l>
+                           <l>    Men om vår fader, som du sagt, din dotter drap,</l>
+                           <l>    Hvad oförrätt har jag dig gjort, och broder min?</l>
+                           <l>    Och när du mördat din gemål, hvi ej åt oss</l>
+                           <l>    Förvara fadersborgen, men till fremmande</l>
+                           <l>    Den flytta, och dermed bekosta bröllopet? 1090</l>
+                           <l>    I landsflykt vistas ej din man, för sonens skull,</l>
+                           <l>    Och ej för min skull draps, som, lefvande, han mer</l>
+                           <l>    Två gånger drap, än syster min; om mord med mord</l>
+                           <l>    Bör lagligt gäldas, måste vi dig slå ihjäl,</l>
+                           <l>    Jag och din son Orestes, hämnande vår far; 1095</l>
+                           <l>    Ty är det ena rättvist, är det andra rätt.</l>
+                           <l>    Men den som fäster sig vid börd och rikedom,</l>
+                           <l>    Och tager sig slem hustru, är en dåre; <hi rend="italic">ty</hi>
+                           </l>
+                           <l>
+                              <hi rend="italic">    En kysk och liten bädd är bättre än en stor.</hi>
+                           </l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>KHOREN.</head>
+                        <lg>
+                           <l>    Af slump beror hvart giftermål: jag skådat har, 1100</l>
+                           <l>    Hur några väl, och någre illa slagit ut.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>KLYTAIMNESTRA.</head>
+                        <lg>
+                           <l>    Min dotter, alltid hade du din fader kär.</l>
+                           <l>    Så händer det: en håller sig till manligt kön;</l>
+                           <l>    En annan åter älskar mera mor än far.</l>
+                           <l>    Jag vill förlåta dig; ty ej så särdeles 1105</l>
+                           <l>    Jag gläder mig åt det, som blifvit gjordt, mitt barn.</l>
+                           <l>    Hvi är du så otvättad och så illaklädd,</l>
+                           <l>    Du barnsängsqvinna, efter nyligt födselvärf?</l>
+                           <l>    Ve mig, eländiga, och mina stemplingar!</l>
+                           <l>    Jag, mera än sig bordt, till vrede maken dref. 1110</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <lg>
+                           <l>    Försent du suckar, då du ingen räddning har.</l>
+                           <l>    Min far är mördad, och hvarför från fjerran land</l>
+                           <l>    Ej återhämtar du din son, den irrande?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>KLYTAIMNESTRA.</head>
+                        <lg>
+                           <l>    Af fruktan, på <hi rend="italic">min</hi> fördel skådar jag, ej <hi rend="italic">hans</hi>;</l>
+                           <l>    Ty, som det säges, är han vred för fadrens mord. 1115</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Hvi har du väl uppretat din gemål mot oss?</p>
+                     </div>
+                     <div type="div5">
+                        <head>KLYTAIMNESTRA.</head>
+                        <p rend="justify">Så är hans vana, och du syns mig oförsynt.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Ja, jag är sårad; vill dock lägga vreden bort.</p>
+                     </div>
+                     <div type="div5">
+                        <head>KLYTAIMNESTRA.</head>
+                        <p rend="justify">Ej framdeles han mer mot dig obillig är.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Han tänker bålt; ty i mitt hus han vistas nu. 1120</p>
+                     </div>
+                     <div type="div5">
+                        <head>KLYTAIMNESTRA.</head>
+                        <p rend="justify">Inser du ej, att du ny träta tänder opp?</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Jag tiger; ty jag honom räds just som jag räds.</p>
+                     </div>
+                     <div type="div5">
+                        <head>KLYTAIMNESTRA.</head>
+                        <p rend="justify">Afstå från sådant tal! hvi bjöd du, barn, mig hit?</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <lg>
+                           <l>    Du om min nedkomst, som jag tror, haft tidender</l>
+                           <l>    Thy offra nu för mig, som bruket ej förstår, — 1125</l>
+                           <l>    Och barnet tio dagars är, på gammalt vis!</l>
+                           <l>    Jag ej sakkunnig är, och var ej moder förr.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>KLYTAIMNESTRA.</head>
+                        <p rend="justify">Det värfvet henne tillhör, som förlöste dig.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Jag sjelf förlöste mig, och födde ensam barn.</p>
+                     </div>
+                     <div type="div5">
+                        <head>KLYTAIMNESTRA.</head>
+                        <p rend="justify">Så utan grannar och väninnor är ditt tjell? 1130</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">
+                           <hi rend="italic">Ej tiggare till vänner någon ega vill.</hi>
+                        </p>
+                     </div>
+                     <div type="div5">
+                        <head>KLYTAIMNESTRA.</head>
+                        <lg>
+                           <l>    Nåväl, jag går, för att på barnets laga tid</l>
+                           <l>    Åt gudar offra; och när denna tjenst jag gjort</l>
+                           <l>    Åt dig, jag res till landet, der åt nympherna</l>
+                           <l>    Min make offrar. Men mitt anspann, tjenare, 1135</l>
+                           <l>    Till krubban leden, och utfodren! När J tron,</l>
+                           <l>    Att jag från detta gudaoffer ledig är,</l>
+                           <l>    Infinnen er! <hi rend="italic">Sin make ock man tjena bör.</hi>
+                           </l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <lg>
+                           <l>    Stig in i tiggarkojan, och dig akta väl,</l>
+                           <l>    Att i rökstugan ej din kappa sotig blir! 1140</l>
+                           <l>    Der skall du offra hvad åt gudar offras bör.</l>
+                           <l>    Mjölkorgen finns derinne, och den brynte knif,</l>
+                           <l>    Som dräpte tjuren, vid hvars sida du jemväl</l>
+                           <l>    Skall ligga fälld, en brud i <hi rend="italic">mörkrets</hi> boningar</l>
+                           <l>    Åt den, du sof hos, <hi rend="italic">ljusan</hi> dag. Den vännetjenst 1145</l>
+                           <l>    Jag gör dig, och du ger mig hämd för fadrens mord.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>KHOREN.</head>
+                        <lg>
+                           <l>    Så brottet umgälls. — Andre vindar blå- <hi rend="italic">Stroph.</hi>
+                           </l>
+                           <l>    sa nu opp. I sitt eget badkar</l>
+                           <l>    Min förste fordom mördad vardt.</l>
+                           <l>    Men palatset gaf genljud, 1150</l>
+                           <l>    Och stentinnarne, medan han utbrast: o,</l>
+                           <l>    Förfärliga qvinna, hvi mördar du mig,</l>
+                           <l>    Som, vid tionde grödan, till foster-</l>
+                           <l>    jorden är hemländ?</l>
+                           <l>    Nu henne straffet drabbar, återvändt, <hi rend="italic">Motstr.</hi> 1155</l>
+                           <l>    Som kränkte äkta bädden, och sin stackars man,</l>
+                           <l>    Omsider ländande till hemmets bygd</l>
+                           <l>    Till himmelska och Kyklopeiska mu-</l>
+                           <l>    rarna, ihjälslog, i hvasslipadt hugg,</l>
+                           <l>    Med yxan fattad uti hand. Beklagansvärd 1160</l>
+                           <l>    Är han, som den nedri-</l>
+                           <l>    ga tog, till sin ofärd.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <lg>
+                           <l>    Lik bergets lejoninna, ströfvande</l>
+                           <l>    Bland skogens ekar, slikt utförde hon.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>KLYTAIMNESTRA.</head>
+                        <p rend="justify">J barn, vid gudarne, ej dräpen eder mor! 1165</p>
+                     </div>
+                     <div type="div5">
+                        <head>KHOREN.</head>
+                        <p rend="justify">Hör du utur tjellet rösten?</p>
+                     </div>
+                     <div type="div5">
+                        <head>KLYTAIMNESTRA.</head>
+                        <p rend="justify">Ve mig, ve!</p>
+                     </div>
+                     <div type="div5">
+                        <head>KHOREN.</head>
+                        <lg>
+                           <l>    Jag suckar ock, då hon af egna barnen dräps.</l>
+                           <l>    Så skipar gud sin rätt, när stunden är;</l>
+                           <l>    Du illa lidit, nen du gudlöst din gemål, 1170</l>
+                           <l>    Eländiga, bemött.</l>
+                           <l>    Utaf sin egen moders nyutgjutna blod</l>
+                           <l>    Besölade, ur huset komma desse två,</l>
+                           <l>    Med fasans tecken efter usla helsningen.</l>
+                           <l>    Ej finns en enda boning ömkansvärdare, 1175</l>
+                           <l>    Och fanns ej, än de Tantaleiske ättlingars.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <lg>
+                           <l>    O Jord och Zeus, allskådaren af menskoverk,</l>
+                           <l>    Betrakten dessa gerningar af blod</l>
+                           <l>    Och blygd, två kroppar på mark</l>
+                           <l>    Liggande, genom min hands</l>
+                           <l>    Dråpslag, ersättning för mitt lidande! 1180</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <lg>
+                           <l>    Rätt gråtvärdt, broder! men min skulden är;</l>
+                           <l>    Till ofärd kom jag, elän-</l>
+                           <l>    diga, åt modren, som mig till verlden födt.</l>
+                           <l>    O, ve din lott, din olyckslott,</l>
+                           <l>    Du moder min!</l>
+                           <l>    Fördömdt, och bittert, och än mer 1185</l>
+                           <l>    Af egna barn du utstod.</l>
+                           <l>    Men vår faders mord umgällde du rättvist.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <lg>
+                           <l>    O Phoibos, ditt orakel domen fällt; 1190</l>
+                           <l>    Fördolda smärtor har du åter-</l>
+                           <l>    bragt i dagen, och en blodig bädd beredt</l>
+                           <l>    Uppå den Helleniske jorden.</l>
+                           <l>    Till hvilken stad vill jag väl gå! ja, hvilken värd,</l>
+                           <l>    Och hvilken fromsinnt man en blick 1195</l>
+                           <l>    Skall unna mig, som mördade egen moder?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <lg>
+                           <l>    Ve mig, ve! hvart går jag? till hvilken dans</l>
+                           <l>    Eller bröllop? och hvilken make</l>
+                           <l>    Mottar mig i brudeligt läger? 1200</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <lg>
+                           <l>    Igen, igen du tankesätt</l>
+                           <l>    Har ändrat, efter vinden;</l>
+                           <l>    Ty nu du tänker fromt, som icke nyss</l>
+                           <l>    Rätt tänkte, men förskräckligt handlade</l>
+                           <l>    Emot ovillige brodren, du kära. 1205</l>
+                           <l>    O, såg du ej, hur stackars modren blottade,</l>
+                           <l>    Och visade sitt bröst, inunder mördandet?</l>
+                           <l>    Ve mig, ve mig!</l>
+                           <l>    Förskräckligt att skåda! och jag storgret.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <lg>
+                           <l>    Jag nogsamt märkte, hvilka gryma qval du led</l>
+                           <l>    Enär din moders jämmerklagan du förnam.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <lg>
+                           <l>    Sin röst dervid hon höjde, fattande mitt skägg</l>
+                           <l>    Med handen: o min son, hos dig bönfaller jag 1215</l>
+                           <l>    Och vid min kind så fast</l>
+                           <l>    Hon hängde sig, att vapnet mig ur händren föll.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <lg>
+                           <l>    Ve mig! hur kunde du med öppna ögon se</l>
+                           <l>    Din moders mord, enär hon hof sin sista suck? 1220</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <lg>
+                           <l>    Jag öfver ögonen min mantel kastade,</l>
+                           <l>    Och fattade tag i svärdet,</l>
+                           <l>    Som jag stötte i modrens hals.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <lg>
+                           <l>    Och jag dertill uppmante dig,</l>
+                           <l>    Och jemte dig i svärdet höll, 1225</l>
+                           <l>    Då du gjorde den hiskliga bragd.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <lg>
+                           <l>    Tag nu, och öfvertäck med manteln modrens kropp</l>
+                           <l>    Att såret icke synas må;</l>
+                           <l>    Ack moder, du födde dig banemän!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <lg>
+                           <l>    Se, älskade och icke älskade 1230</l>
+                           <l>    Vi svepe kappan dig omkring,</l>
+                           <l>    Till ett slut på vår ofärd stor.</l>
+                           <l>                             (Dioskurerne synas.)</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>KHOREN.</head>
+                        <lg>
+                           <l>    Deruppe på kammen af husets tak</l>
+                           <l>    Sig demoner visa, eller kanhända också</l>
+                           <l>    Himmelske gudar; ty icke dödliges väg 1235</l>
+                           <l>    Går fram der; hvarför nu träda desse</l>
+                           <l>    Till klar beskådning för menskor?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>DIOSKURERNE.</head>
+                        <lg>
+                           <l>    O son af Agamemnon, hör! dig ropa an</l>
+                           <l>    De båda Dioskurer, bröder till din mor,</l>
+                           <l>    Jag, Kastor, och min broder, Polydeukes, här. 1240</l>
+                           <l>    Ty se'n vi nyss för skeppet bistra hafvets svall</l>
+                           <l>    Nedtystat, kommo vi till Argos, seende</l>
+                           <l>    Vår systers nederlag, som ock din modet är.</l>
+                           <l>    Sitt rätta straff hon lidit har, som du ej gett,</l>
+                           <l>    Nej Phoibos, Phoibos! Dock jag tiger; ty han är 1245</l>
+                           <l>    Min kong: sjelf vis, han vist orakel dig ej gaf.</l>
+                           <l>    Det måste alltså bli dervid, men vidare</l>
+                           <l>    Bör ske hvad ödet sjelft om dig beslöt, och Zeus.</l>
+                           <l>    Åt Pylades Elektra gif till äkta hälft,</l>
+                           <l>    Och lemna Argos; ty ej mer det passar sig, 1250</l>
+                           <l>    Att du den staden nalkas, se'n du modren drap.</l>
+                           <l>    De stränge Kerer skola, de hundblickige,</l>
+                           <l>    Förfölja dig, den rasande kringirraren.</l>
+                           <l>    Och när du kommer till Athen, ödmjuka dig</l>
+                           <l>    För Pallas' helga stod, som skall bortskrämma dem 1255</l>
+                           <l>    Med vilda drakar, att de icke nalkas dig,</l>
+                           <l>    I det för dig hon Gorgo-skölden håller sträckt.</l>
+                           <l>    Der Ares har en kulle, hvarpå gudar först</l>
+                           <l>    Tilldoms sig satte, rörande utgjutet blod,</l>
+                           <l>    När vildsinnt Ares dräpit Halirrhothios, 1260</l>
+                           <l>    Hafsgudens son, som hade vildfört skändligen</l>
+                           <l>    Hans egen dotter; och alltsedan denna dag</l>
+                           <l>    En fast och helig domstol finns for gudar der.</l>
+                           <l>    Der måste du inställa dig för detta mord;</l>
+                           <l>    Men lika röster, som afgifvas, fria dig 1265</l>
+                           <l>    Från laga död; ty Loxias vill taga sjelf</l>
+                           <l>    Uppå sig skulden, då han modrens mord befallt.</l>
+                           <l>    Och för en framtid denna lagen skall bestå,</l>
+                           <l>    Att städs, vid lika röster, vinner svaranden.</l>
+                           <l>    Af harm betagne, skola skräckgudinnorna 1270</l>
+                           <l>    Vid sjelfva kullen dyka ned i jordens svalg,</l>
+                           <l>    Som blir för menskor dyrkansvärd orakelort.</l>
+                           <l>    I Arkadernes stad, invid Alpheios' flod,</l>
+                           <l>    Ej långt ifrån Lykaiske templet bör du bo,</l>
+                           <l>    Och efter dig den staden äfven heta skall. 1275</l>
+                           <l>    Dig har jag detta sagt. Aigisthos' döda kropp</l>
+                           <l>    Medborgarne i Argos skola jorda ned.</l>
+                           <l>    Din mor skall han, som nyss vid Nauplia ankrade,</l>
+                           <l>    Menelaos, se'n han Troerlandet tagit in,</l>
+                           <l>    Samt Helena begrafva; ty från Proteus' borg 1280</l>
+                           <l>    Hon kommer, och Egypten; ej från Phrygerna.</l>
+                           <l>    Men Zeus, att fräta skulle bli och menskors mord,</l>
+                           <l>    Till Ilios skickade en bild af Helena</l>
+                           <l>    Och Pylades, när han sin brud och maka fått,</l>
+                           <l>    Bör återvända hem till det Akhaiska land; 1285</l>
+                           <l>    Din svåger, som blott heter så, han bringa bör</l>
+                           <l>    Till de Phokensers jord, och gifva skatters mängd.</l>
+                           <l>    Men du, med foten trampande på Isthmos' näs,</l>
+                           <l>    Begif dig till Kekropias borg, den herrliga;</l>
+                           <l>    Ty se'n beskärda mordets bragd du förde ut, 1290</l>
+                           <l>    Du lycklig lefva får, ifrån bekymmer skild.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>KHOREN.</head>
+                        <lg>
+                           <l>    O J söner af Zeus, är det lofligt med er</l>
+                           <l>    Att i närmare samtal vi träde?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>DIOSKURERNE.</head>
+                        <p rend="justify">Jo, J ären af mord ej smutsade, J!</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Får jag säga ett ord, Tyndarider, också? 1295</p>
+                     </div>
+                     <div type="div5">
+                        <head>DIOSKURERNE.</head>
+                        <lg>
+                           <l>    Äfven du; ty på Phoibos välfva jag skall</l>
+                           <l>    Blodige bragden.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>KHOREN.</head>
+                        <lg>
+                           <l>    Då J ären gudar och bröder två</l>
+                           <l>    Till den mördade der,</l>
+                           <l>    Hvi värjden J döden från huset ej? 1300</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>DIOSKURERNE.</head>
+                        <lg>
+                           <l>    Här gällde oryggeligt ödes beslut,</l>
+                           <l>    Och Phoibos' ovisa tungas orakel.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <lg>
+                           <l>    Af hvad för Apollon, af hvilket orakel</l>
+                           <l>    Blef jag dömd till min mors mördarinna?</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>DIOSKURERNE.</head>
+                        <p rend="justify">
+                           <hi rend="italic">För gemensamt brott gemensamt straff:</hi> 1305 Förfädernes illbragd, Den ena, er båda förderfvat.</p>
+                        <p rend="justify">ORESTES (till Elektra).</p>
+                        <lg>
+                           <l>    O syster min, du, som jag knappt fick se,</l>
+                           <l>    Då jag strax beröfvas din kärlek,</l>
+                           <l>    Och måste dig lemna, och lemnas! 1310</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>DIOSKURERNE.</head>
+                        <lg>
+                           <l>    Hon har make och eget hus; och hon</l>
+                           <l>    Ingen nöd utstår; men lemna hon bör</l>
+                           <l>    De Argeiers stad.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <lg>
+                           <l>    Monne svårare suckan höja,</l>
+                           <l>    Än då hemlandsgränsen man lemnar? 1315</l>
+                           <l>    Men jag ur fädernehuset går,</l>
+                           <l>    Att hos fremmande domare gälda</l>
+                           <l>    Mordet på moder min.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>DIOSKURERNE.</head>
+                        <lg>
+                           <l>    Förskräcks ej! Till Pallas'</l>
+                           <l>    Heliga stad du kommer, men tålig var! 1320</l>
+                        </lg>
+                        <p rend="justify">ELEKTRA (<hi rend="italic">till Orestes</hi>).</p>
+                        <lg>
+                           <l>    Ack, foga nu hjerta till hjerta ömt,</l>
+                           <l>    Kärälsklige broder!</l>
+                           <l>    Ty från fäderneborgen oss jagar hän</l>
+                           <l>    Vår moders blodiga bön.</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <lg>
+                           <l>    Omslut mig, famna mig, gråt, 1325</l>
+                           <l>    Som du gräte på brodersgraf!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>DIOSKURERNE.</head>
+                        <lg>
+                           <l>    O ve, o ve, förskräckligt var ditt tal</l>
+                           <l>    Ock för gudar, att höra på!</l>
+                           <l>    Ty hos mig och de himmelska finnes</l>
+                           <l>    Ömkan för dödliges hjertqval. 1330</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Jag ej mera dig skåda får.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Och ej jag skall nalkas ditt öga!</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Desse äro mins sista ord till dig.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <lg>
+                           <l>    Farväl, o stad!</l>
+                           <l>    Och faren väl, J medborgsqvinnor alla! 1335</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <p rend="justify">Tillgifnaste, O, går du redan hän?</p>
+                     </div>
+                     <div type="div5">
+                        <head>ELEKTRA.</head>
+                        <p rend="justify">Jag går; och tåren fuktar det veka ögat.</p>
+                     </div>
+                     <div type="div5">
+                        <head>ORESTES.</head>
+                        <lg>
+                           <l>    O Pylades, far gladelig nu, och tag 1340</l>
+                           <l>    Elektra, din fästmö, med!</l>
+                        </lg>
+                     </div>
+                     <div type="div5">
+                        <head>DIOSKURERNE.</head>
+                        <lg>
+                           <l>    Vi bestyre om bröllop; men flyende</l>
+                           <l>    De hundarne hör, till Athen dig begif.</l>
+                           <l>    Ty förskräckligt de trampa i dina spår,</l>
+                           <l>    Drakhändte, och svarte i synen, 1345</l>
+                           <l>    Bringande gryme smärtors frukt;</l>
+                           <l>    Men uppå Sikeler hafvet vi två</l>
+                           <l>    Bringe galejorna hjelp i nöd,</l>
+                           <l>    Och, vandrande genom etherns rymder,</l>
+                           <l>    Vi de nesliga brotten ej värne. 1350</l>
+                           <l>    Men dem som älska billighet och rätt</l>
+                           <l>    I detta lif, från alla tunga</l>
+                           <l>    Vedermödor lisande, vi rädde.</l>
+                           <l>    Alltså må ingen älska brottets skam,</l>
+                           <l>    Eller med mened segla fram! 1355</l>
+                        </lg>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

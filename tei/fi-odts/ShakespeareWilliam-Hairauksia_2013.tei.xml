@@ -1,0 +1,3001 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hairauksia</title>
+            <author>William Shakespeare</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-01T20:17:42Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">odts/fi-odts/ShakespeareWilliam-Hairauksia_2013.epub.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>William Shakespeare</name>
+               <date>2024-01-01T20:17:42Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Hairauksia</head>
+         <author>William Shakespeare</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">odts/fi-odts/ShakespeareWilliam-Hairauksia_2013.epub.odt</p>
+         <p>E-text prepared by Tapio Riikonen</p>
+         <pb/>
+         <div type="div1">
+            <head>HAIRAUKSIA</head>
+            <p rend="justify">Kirj.</p>
+            <p rend="justify">
+               <hi rend="bold">William Shakespeare</hi>
+            </p>
+            <p rend="justify"> </p>
+            <p rend="justify"> </p>
+            <p rend="justify">Paavo Cajanderin suomennus ilmestyi v. 1910.</p>
+            <p rend="justify">
+               <hi rend="bold">Näytelmän henkilöt:</hi>
+            </p>
+            <lg>
+               <l>SOLINUS, Epheson herttua.</l>
+               <l>AEGEON, Syrakusan kauppias.</l>
+               <l>ANTIPHOLUS Ephesolainen, | Aegeonin ja Aemilian pojat.</l>
+               <l>ANTIPHOLUS Syrakusalainen, |</l>
+               <l>DROMIO Ephesolainen, | kaksoisveljekset, edellisten orjat.</l>
+               <l>DROMIO Syrakusalainen, |</l>
+               <l>BALTHASAR, kauppias.</l>
+               <l>ANGELO, kultaseppä.</l>
+               <l>Muuan kauppias, Antipholus Syrakusalaisen ystävä.</l>
+               <l>Toinen kauppias.</l>
+               <l>TOLLO, koulumestari.</l>
+               <l>AEMILIA, Aegeonin vaimo, abbedissa.</l>
+               <l>ADRIANA, Antipholus Ephesolaisen vaimo.</l>
+               <l>LUCIANA, edellisen sisar.</l>
+               <l>LUCIE, Adrianan palvelustyttö.</l>
+               <l>Muuan huvinainen.</l>
+               <l>Vanginvartija, oikeudenpalvelijoita, seuralaisia y.m.</l>
+            </lg>
+            <p rend="justify">Tapahtuu Ephesossa.</p>
+            <pb/>
+            <div type="div2">
+               <head>ENSIMMÄINEN NÄYTÖS.</head>
+               <div type="div3">
+                  <head>Ensimmäinen kohtaus.</head>
+                  <lg>
+                     <l>Sali herttuan hovilinnassa.</l>
+                     <l/>
+                     <l>(Herttua, Aegeon, vanginvartija, oikeudenpalvelijoita</l>
+                     <l>ja muita seuralaisia tulee.)</l>
+                     <l/>
+                     <l>AEGEON.</l>
+                     <l>Solinus, jatka, surma mulle säädä,</l>
+                     <l>Ja kuolotuomiolla tuskat päätä.</l>
+                     <l/>
+                     <l>HERTTUA.</l>
+                     <l>Äl' intä, Syrakusan kauppias.</l>
+                     <l>Sun hyväkses en loukkaa lakejamme.</l>
+                     <l>Se riitaisuus ja vaino, jonka nosti</l>
+                     <l>Taannoinen herttuanne herja teko</l>
+                     <l>Mun maani kunnon kauppiaita kohtaan —</l>
+                     <l>Joilt' ynsä laki otti lunnaiks veren,</l>
+                     <l>Kun henkeään ei rahall' ostaa voineet —</l>
+                     <l>Pois tuimast' ajaa katseestani säälin.</l>
+                     <l>Näet, verivaino tuo kun alkoi meidän</l>
+                     <l>Ja korskain kansalaistes välillä</l>
+                     <l>Niin juhlallinen kansanpäätös lehtiin,</l>
+                     <l>Niin Syrakusassa kuin meilläkin,</l>
+                     <l>Kaikk' estää kauppa vihollisen maalla.</l>
+                     <l>Ja vielä lisäksi: ephesolainen</l>
+                     <l>Jos tulee Syrakusan markkinoille,</l>
+                     <l>Tai taas jos syrakusalainen saapuu</l>
+                     <l>Epheson satamaan, niin surman saa</l>
+                     <l>Ja tavaransa menee herttualle,</l>
+                     <l>Jos tuhatta ei markkaa suorita</l>
+                     <l>Sakoiksi hän ja päänsä päästimeksi.</l>
+                     <l>Sun varasi, jos kuinka arvataan,</l>
+                     <l>Ei nouse ylemmäksi sataa markkaa;</l>
+                     <l>Siis laki tuomitsee sun kuolemaan.</l>
+                     <l/>
+                     <l>AEGEON.</l>
+                     <l>Se lohduttaa: kun tuomioni saan,</l>
+                     <l>Niin tuskat päättyy päivän laskemaan.</l>
+                     <l/>
+                     <l>HERTTUA.</l>
+                     <l>Lyhyeen kerro, Syrakusan mies,</l>
+                     <l>Min tähden kotikaupunkisi jätit</l>
+                     <l>Ja miksi tulit tänne Ephesoon.</l>
+                     <l/>
+                     <l>AEGEON.</l>
+                     <l>Ei vaikeampaa tehtävätä lie</l>
+                     <l>Kuin kertomattoman on tuskan kerto.</l>
+                     <l>Mut, jotta mailma tietäis, että surmaan</l>
+                     <l>Mun luonnonkäsky vei eik' inha rikos,</l>
+                     <l>Niin kerron minkä sallii suruni.</l>
+                     <l>Ma Syrakusass' olen syntynyt;</l>
+                     <l>Nain vaimon, jok' ois onnen mulle tuonut</l>
+                     <l>Ja minä hälle, jos ois onni suonut.</l>
+                     <l>Iloa oli elo; varat karttui</l>
+                     <l>Etuisain matkain kautta Epidamnoon,</l>
+                     <l>Joit' usein tein. Mut toimijani kuoli,</l>
+                     <l>Ja pelko, ettei kauppa menis lamaan,</l>
+                     <l>Mun riisti hellän vaimon sylistä.</l>
+                     <l>Kuus' kuukautt oltiin erin; silloin hän —</l>
+                     <l>Vaikk uupumallaan mielitaakkans' alla,</l>
+                     <l>Tuon rangaistuksen, jok' on vaimon osa —</l>
+                     <l>Jo ryhtyi toimiin mua seuratakseen</l>
+                     <l>Ja pian terveenä mun saavutti.</l>
+                     <l>Et aikaakaan, niin onnellinen äiti</l>
+                     <l>Hänestä tuli kahden sievän pojan,</l>
+                     <l>Jotk', ihmeeks, niin ol' yhdennäköiset,</l>
+                     <l>Ett' erottaa vain nimestään ne saattoi.</l>
+                     <l>Samassa talossa ja samaan aikaan</l>
+                     <l>Kaks poikaa kansan-vaimo synnytti</l>
+                     <l>Niinikään kaksoiset ja yhdenmoiset.</l>
+                     <l>Kun perin köyhät oli vanhemmat,</l>
+                     <l>Ne pojilleni palvelijoiks ostin.</l>
+                     <l>Pojista moisist' ylen ylväänä</l>
+                     <l>Hopitti vaimo usein kotimatkaan;</l>
+                     <l>Väkisin suostuinkin. Ah liian varhain</l>
+                     <l>Tulimme laivaan! Tuskin peninkulman</l>
+                     <l>Olimme Epidamnost' ehtineet,</l>
+                     <l>Kun tuulta aina totteleva syvyys</l>
+                     <l>Jo antoi turmiokkaan tuhon merkin.</l>
+                     <l>Ei enää ollut suurta toivoa.</l>
+                     <l>Hämärä valonhäive taivaalta</l>
+                     <l>Vain teki tuskaiselle tunnollemme</l>
+                     <l>Pikaisen surman kahta varmemmaksi.</l>
+                     <l>Sit' iloll' oisin itse syleillyt,</l>
+                     <l>Mut vaimoni kun lakkaamatta itki —</l>
+                     <l>Hän itki ennalta, kun näki vaaran —</l>
+                     <l>Ja poika-kullat saineest' uikuttivat —</l>
+                     <l>Tavasta vain ja vaaraa tuntematta —</l>
+                     <l>Mun täytyi meille saada viivykettä,</l>
+                     <l>Ja tämän sain, — ei muuta neuvoa:</l>
+                     <l>Veneeseen merimiehet pakons' otti</l>
+                     <l>Ja meille laiva jäi, jo hukkumallaan.</l>
+                     <l>Emonen, enin arka kuopuksestaan,</l>
+                     <l>Sitaisi tämän pieneen hätämastoon —</l>
+                     <l>Jok' aina myrskyn vuoks on varana —</l>
+                     <l>Ja toisistakin kaksoisista toisen.</l>
+                     <l>Minä toisist' yhtä hyvää pidin huolta.</l>
+                     <l>Näin tehtiin lasten. Vaimoni ja minä,</l>
+                     <l>Kummankin silmä missä silmäterä,</l>
+                     <l>Molempiin maston päihin sitouduimme,</l>
+                     <l>Ja ajelimme heti virran mukaan</l>
+                     <l>Päin Korinthoa, niinkuin luulimme.</l>
+                     <l>Mut vihdoin silmäns' aurinko loi maahan,</l>
+                     <l>Hajoittain usman, joka meidät peitti.</l>
+                     <l>Ja ikävöidyn valon voimasta</l>
+                     <l>Tyventyi meri, ja me havaitsimme</l>
+                     <l>Kaks laivaa, jotka kaukaa tuli kohti</l>
+                     <l>Korinthosta ja Epidamnosta.</l>
+                     <l>Mut ennenkuin ne saapui — Suo mun päättää!</l>
+                     <l>Alusta tästä arvaa loppu itse.</l>
+                     <l/>
+                     <l>HERTTUA.</l>
+                     <l>Ei, jatka, vanhus, älä keskeytä;</l>
+                     <l>Sua säälin, vaikk' en sua armahdakaan.</l>
+                     <l/>
+                     <l>AEGEON.</l>
+                     <l>Sen jumalat jos tehneet ois, ei mulla</l>
+                     <l>Nyt syyt' ois heitä armottomiks syyttää!</l>
+                     <l>Kun laivat vielä oli virstain päässä,</l>
+                     <l>Me törmäsimme luotoon valtavaan,</l>
+                     <l>Ja siihen voimall' iskeytyen laiva,</l>
+                     <l>Apumme ainut, särkyi kahtia,</l>
+                     <l>Näin säälimättä erottaen meidät</l>
+                     <l>Soi kummallekin sentään sallimus</l>
+                     <l>Iloista, huolist' yhtäläisen osan.</l>
+                     <l>Tuo vaimoraukan puoli, joka oli</l>
+                     <l>Keveempi painoon, vaikkei tuskaan nähden,</l>
+                     <l>Ajautui nopeammin tuulen mukaan,</l>
+                     <l>Ja nämä kolme korjas nähtemme</l>
+                     <l>Korinthon kalastajat, niinkuin luultiin.</l>
+                     <l>Tapasi vihdoin toinen laiva meidät;</l>
+                     <l>Kun saivat tietää, kenen pelastivat,</l>
+                     <l>Niin hyvin kohtelivat vieraitaan;</l>
+                     <l>Ja kalastajilt' oisi saalis mennyt.</l>
+                     <l>Mut kun ol' alus huono purjehtija,</l>
+                     <l>Niin suuntans' ohjasi se kotiin päin. —</l>
+                     <l>Jäin perikadost' eloon, jotta saisin</l>
+                     <l>Eloni synkän tarun kertoa.</l>
+                     <l/>
+                     <l>HERTTUA.</l>
+                     <l>Mut niiden tähden, joita huolehdit,</l>
+                     <l>Suvaitse tehdä mulle täysi selko,</l>
+                     <l>Kuink' on sun sitten käynyt sekä heidän.</l>
+                     <l/>
+                     <l>AEGEON.</l>
+                     <l>Pojista nuorin, huolistani vanhin,</l>
+                     <l>Kahdeksantoista-vuotiaana usein</l>
+                     <l>Uteli veljeään ja vaati, että</l>
+                     <l>Sais palvelijan kanssa — jolt' on ikään</l>
+                     <l>Kateissa veli, hänen nimisensä —</l>
+                     <l>Vaeltaa veljeänsä etsimään.</l>
+                     <l>Halusta nähdä rakastettuni</l>
+                     <l>Nyt panin alttiiks toisen rakastetun.</l>
+                     <l>Viis kesää Kreikass' olen retkeillyt,</l>
+                     <l>Samoillut halki koko Aasian,</l>
+                     <l>Ja kotimatkall' Ephesoon nyt ehdin,</l>
+                     <l>Toivotta tosin, mutta päättäneenä</l>
+                     <l>Hakea kaikki ihmis-asumat</l>
+                     <l>Mut tähän päättyy elämäni taru:</l>
+                     <l>Ilolla heti kuolisin, jos takais</l>
+                     <l>Vain retkeilyni heille elämän.</l>
+                     <l/>
+                     <l>HERTTUA.</l>
+                     <l>Aegeon-parka, jolle kohtalo</l>
+                     <l>Noin kauhean on tuhon taakan pannut!</l>
+                     <l>Mut, usko pois, jos ei mua estäis laki,</l>
+                     <l>Valani, kruununi ja arvoni,</l>
+                     <l>Joit' ei saa prinssi, vaikka tahtois, sortaa,</l>
+                     <l>Niin puoltajakses itse rupeisin.</l>
+                     <l>Mut vaikka kuoloon olet tuomittu</l>
+                     <l>Ja annettua päätöst' en voi purkaa</l>
+                     <l>Pait arvoani perin haittaamalla,</l>
+                     <l>Sua tahdon toki auttaa minkä voin.</l>
+                     <l>Siis, kauppias, saat tämän päivän aikaa</l>
+                     <l>Hakea avullisten apua.</l>
+                     <l>Kaikk' ystäväsi Ephesossa etsi,</l>
+                     <l>Täys summa hanki, kerjää tahi lainaa,</l>
+                     <l>Niin elää saat; on muuten surmas varma. —</l>
+                     <l>Sa ota hänet huostaas, vartija.</l>
+                     <l/>
+                     <l>VANGINVARTIJA</l>
+                     <l>Käskynne mukaan, armollinen herra.</l>
+                     <l/>
+                     <l>AEGEON.</l>
+                     <l>Avutta, toivotta, Aegeon koittaa</l>
+                     <l>Viel' yhden päivän elämälleen voittaa.</l>
+                     <l/>
+                     <l>(Menevät.)</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Toinen kohtaus.</head>
+                  <lg>
+                     <l>Aukea paikka.</l>
+                     <l/>
+                     <l>(Antipholus Syrakusalainen, eräs kauppias ja</l>
+                     <l>Dromio Syrakusalainen tulevat.)</l>
+                     <l/>
+                     <l>KAUPPIAS.</l>
+                     <l>Sanokaa Epidamnost' olevanne,</l>
+                     <l>Tai tavaranne heti pannaan kiinni.</l>
+                     <l>Juur' eräs Syrakusan kauppias</l>
+                     <l>On vangittu, kun tänne maihin astui;</l>
+                     <l>Ja kun ei lunnaita hän maksaa voi,</l>
+                     <l>Lain mukaan täytyy hänen kuolla ennen</l>
+                     <l>Kuin länteen väsyneenä päivä laskee.</l>
+                     <l>Kas, tässä tallitsemani on rahat.</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Vie Kentauriin ne, majapaikkaamme,</l>
+                     <l>Ja viivy siellä, Dromio, kunnes tulen.</l>
+                     <l>On tunti aikaa vielä päivällisiin;</l>
+                     <l>Sill' aikaa kaupunkia katselen</l>
+                     <l>Ja silmään rakennuksia ja kauppaa.</l>
+                     <l>Palajan sitte hiukan nukkumaan;</l>
+                     <l>Väsynyt matkast' olen, aivan jäykkä.</l>
+                     <l>No, mene matkaasi!</l>
+                     <l/>
+                     <l>DROMIO SYR.</l>
+                     <l>Vois moni tuosta sanast' ottaa kiinni</l>
+                     <l>Ja taskut täynnä mennä matkaansa!</l>
+                     <l/>
+                     <l>(Menee.)</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Hän uskollinen mies on, joka usein</l>
+                     <l>Kun huolist' olen uupunut ja synkkä.</l>
+                     <l>Keventää mieltä leikkipuheillaan.</l>
+                     <l>Mitä, jos käytte mukaan kaupungille</l>
+                     <l>Ja sitten mennään yhdess' atrioimaan?</l>
+                     <l/>
+                     <l>KAUPPIAS.</l>
+                     <l>Mun luokseen kutsuneet on kauppiaat,</l>
+                     <l>Joist' etu suuri kaupoilleni koituu.</l>
+                     <l>Anteeksi suokaa; jälkeen kello viiden,</l>
+                     <l>Jos suvaitsette, turull' yhdyn teihin</l>
+                     <l>Ja jään vaikk' iltamyöhään luoksenne;</l>
+                     <l>Mut tällä haavaa mua toimet estää.</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Hyvästi siksi! Minä ajanvietteeks</l>
+                     <l>Nyt menen kaupunkia katsomaan.</l>
+                     <l/>
+                     <l>KAUPPIAS.</l>
+                     <l>Suurt' iloa ma teille toivotan.</l>
+                     <l/>
+                     <l>(Menee.)</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Suurt' iloa ken mulle toivottaa,</l>
+                     <l>Se sitä toivottaa, jot' en saa koskaan.</l>
+                     <l>Maailmass' olen niinkuin vesitilkka,</l>
+                     <l>Mi toista tilkkaa valtamerest' etsii:</l>
+                     <l>Toverin löytääkseen se mereen syöksyy,</l>
+                     <l>Mut hukkuu itse näkymättömiin.</l>
+                     <l>Minäkin, äidin löytääkseni, veljen,</l>
+                     <l>Näin onnetonna hukkaan itseni.</l>
+                     <l>(Dromio Ephesolainen tulee.)</l>
+                     <l>Kas, tuossa syntymäni kalenteri!</l>
+                     <l>No, mitä? Miks niin pian palasit? —</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Pianko? Pikemminpä liian myöhään.</l>
+                     <l>Vartaasta porsas putoo, kana paahtuu,</l>
+                     <l>Kakstoist' on kello lyönyt tornissa,</l>
+                     <l>Ja rouva lyönyt korvalleni yks.</l>
+                     <l>Hän on niin tulinen, kun ruoka jäähtyy,</l>
+                     <l>Ja ruoka jäähtyy, te kun myöhästytte;</l>
+                     <l>Te myöhästytte, kun ei ole nälkä,</l>
+                     <l>Ja nälkä ei, kun olette jo syönyt;</l>
+                     <l>Mut me, me paastolla ja rukouksella</l>
+                     <l>Vain saamme vikojanne sovitella.</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Mies, säästä keuhkojasi. Sano vain,</l>
+                     <l>Mihinkä panit rahat, jotka annoin?</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Sen markan, jonka torstainako sain</l>
+                     <l>Ja jolla maksoin rouvan häntävyön?</l>
+                     <l>Satulasepäll' on se eikä mulla.</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>En ole tänään leikkituulella.</l>
+                     <l>Nyt pila pois, ja sano, miss' on rahat.</l>
+                     <l>Olemme oudot täällä; kuinka voit</l>
+                     <l>Noin suuren summan käsistäsi jättää?</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Piloilkaa pöydässä; nyt syömään vain!</l>
+                     <l>Rouvanne laskun mukaan nyt on aika;</l>
+                     <l>Saan muuten minä kaikki laskuuni,</l>
+                     <l>Ja viivystänne hän mua kalloon laskee.</l>
+                     <l>Jos kello teillä vatsass' ois kuin mulla,</l>
+                     <l>Se käskemättä teidät kotiin lois.</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Ei, Dromio, ei, tuo leikki ei nyt sovi,</l>
+                     <l>Se säästä toiseen, iloisempaan aikaan.</l>
+                     <l>Miss' on ne rahat, jotka sulle uskoin?</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Minulle? Min' en teiltä rahaa saanut.</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Soo, herra konna! Heitä kujeilut</l>
+                     <l>Ja sano, miten täytit tehtäväsi.</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Mun tehtäväni oli tuoda teidät</l>
+                     <l>Turulta kotiin syömään Phoenixiin.</l>
+                     <l>Rouvanne sisarineen vartoo teitä.</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Niin totta kristitty kuin olen, vastaa</l>
+                     <l>Mihinkä turvapaikkaan rahat veit,</l>
+                     <l>Tai halkaisen tuon hauskan älykoppas,</l>
+                     <l>Jok' ilvehtii kun huonoll' olen päällä.</l>
+                     <l>Miss' on ne tuhat kolikkaa, jotk' annoin?</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Mua kyllä joskus kalloon kolikoitte,</l>
+                     <l>Ja rouva mua selkään kolikoi,</l>
+                     <l>Mut tuhanteen ei kolikkaan ne nouse.</l>
+                     <l>Ja jos nyt takaisin ne maksaisin,</l>
+                     <l>Niin malttimielell' ette ottais niitä.</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Rouvasta puhut. Sano, kuka rouva?</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Rouvanne, emäntäni Phoenixissä.</l>
+                     <l>Hän paastoo, kunnes syömään tulette,</l>
+                     <l>Ja rukoilee, ett' tulisitte syömään.</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Haa! Mua vasten naamaa ivaatko.</l>
+                     <l>Sen vaikka kielsin? Tuossa, herra konna!</l>
+                     <l/>
+                     <l>(Lyö häntä.)</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Hillitkää, Herran tähden, kättänne,</l>
+                     <l>Tai jalkoihini turvata mun täytyy.</l>
+                     <l/>
+                     <l>(Menee.)</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Niin totta kuin ma elän, jollain juonin</l>
+                     <l>Rahani tuolta lurjukselt' on viety.</l>
+                     <l>Sanotaan, että täällä liikkuu petos:</l>
+                     <l>Lumoojat liukkaat, silmänkääntäjät,</l>
+                     <l>Pimeyden velhot, jotka mielen vimmaa.</l>
+                     <l>Sielun ja ruumiin rumentajat noidat,</l>
+                     <l>Kavalat konnat, tekopyhät myyrät,</l>
+                     <l>Ja muut sellaiset synnin kätyrit.</l>
+                     <l>Jos niin on, lähden täältä pian matkaan.</l>
+                     <l>Nyt Dromion kintereillä Kentauriin!</l>
+                     <l>Rahani, pelkään, multa peijattiin.</l>
+                     <l/>
+                     <l>(Menee.)</l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>TOINEN NÄYTÖS.</head>
+               <div type="div3">
+                  <head>Ensimmäinen kohtaus.</head>
+                  <lg>
+                     <l>Aukea paikka.</l>
+                     <l>(Adriana ja Luciana tulevat.)</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Ei palaa mieheni, ei palvelija,</l>
+                     <l>Jonk' äsken laitoin herraans' etsimään!</l>
+                     <l>Ja, Luciana, kaksi jo on kello.</l>
+                     <l/>
+                     <l>LUCIANA.</l>
+                     <l>Lie joltain kauppiaalta kutsun saanut</l>
+                     <l>Ja mennyt syömään suoraan turulta.</l>
+                     <l>Käy, sisko, ruoalle, ja älä narku.</l>
+                     <l>Mies vapautensa herra on, ja aika</l>
+                     <l>On miehen herra, ja kun aika käskee,</l>
+                     <l>Hän tulee, menee. Maltu, sisko, siis.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Miks miesten vapaus suuremp' on kuin meidän?</l>
+                     <l/>
+                     <l>LUCIANA.</l>
+                     <l>Siks että ulkoiset on toimet heidän.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Jos minä samoin teen, hän sit' ei siedä.</l>
+                     <l/>
+                     <l>LUCIANA.</l>
+                     <l>Mies pitää naisen ohjissaan, se tiedä.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Noin ohjattava aasi olkohon!</l>
+                     <l/>
+                     <l>LUCIANA.</l>
+                     <l>Saa piiskaa, jos on äksy, vallaton.</l>
+                     <l>Siteissä kaikk' on, mit' on taivaan alla,</l>
+                     <l>Veess', ilmassa ja maassa, kaikkialla.</l>
+                     <l>Kaloissa, linnuissa ja elukoissa</l>
+                     <l>Naispuol' on urospuolen kammitsoissa.</l>
+                     <l>Mies, jumalainen, luonnon kuningas,</l>
+                     <l>Maan mannerten ja vetten valtias,</l>
+                     <l>Joll' äly suuremp' on ja aatteen-ala,</l>
+                     <l>Kuin mihin lintu yltäisi tai kala,</l>
+                     <l>Hän hallitsee ja käskee vaimoaan;</l>
+                     <l>Siis paras noutaa miehes mieltä vaan.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Tuo orjuus se sun naimisista estää.</l>
+                     <l/>
+                     <l>LUCIANA.</l>
+                     <l>Ei se, vaan vaimon vaikeutt' en vois kestää.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Mut orjuudenko? Kestäisitkö sen?</l>
+                     <l/>
+                     <l>LUCIANA.</l>
+                     <l>Ennenkuin lemmin, opin nöyryyden.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Mut jos käy muiden luona valtiaas?</l>
+                     <l/>
+                     <l>LUCIANA.</l>
+                     <l>Niin varron, kunnes kotiin tulee taas.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Kyll' laupeit' ollaan, kun ei ärsytetä;</l>
+                     <l>Kun kaikk' on hyvin, malttikaan ei petä.</l>
+                     <l>Kun kurja raukka voihkaa vaivojaan,</l>
+                     <l>Niin käsket häntä tyyni olemaan;</l>
+                     <l>Mut itselläs jos sama tuskan taakka,</l>
+                     <l>Niin valittelet uupumukseen saakka.</l>
+                     <l>Ei sulla pahaa miestä harmina,</l>
+                     <l>Siis helppo malttia on saarnata.</l>
+                     <l>Mut jos saat vielä oikein häijyn herran,</l>
+                     <l>Niin kyllä hupsu malttis loppuu kerran.</l>
+                     <l/>
+                     <l>LUCIANA.</l>
+                     <l>Kokeeksi naimisiin ma menen pian. —</l>
+                     <l>Jo tulee herras, näen jo palvelijan.</l>
+                     <l/>
+                     <l>(Dromio Ephesolainen tulee.)</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>No, joko vitka herras täällä käsin?</l>
+                  </lg>
+                  <p rend="justify">DROMIO EPH. Kyllä hän tässä käsin kävi, molemminkin käsin, sen voivat molemmat korvani todistaa.</p>
+                  <lg>
+                     <l>ADRIANA.</l>
+                     <l>Puhuitko kanssaan? Mielens' arvaatko?</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Kyll', kyllä; kirjoitti sen korvilleni.</l>
+                     <l>Kirottu käsi! Ymmäll' olin aivan.</l>
+                  </lg>
+                  <p rend="justify">ADRIANA. Puhuiko hän niin epävarmasti, ett'et pystyny tajuamaan hänen mieltään?</p>
+                  <p rend="justify">DROMIO EPH. Kyllä hän varmasti iski, niin että liiankin hyvin iskut tajusin, ja kuitenkin niin epävarmasti, että aivan olin ymmällä.</p>
+                  <lg>
+                     <l>ADRIANA.</l>
+                     <l>Mut sano, eikö hän jo tule kotiin?</l>
+                     <l>Hän koko kohtelias on vaimolleen!</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Oi, herrani on varmaan sarvihullu.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Mitä? Sarvihullu?</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Sill' en sano, ett' on</l>
+                     <l>Hänellä sarvet, mutta hullu on hän.</l>
+                     <l>Kun pyysin häntä kotiin ruoalle,</l>
+                     <l>Niin vaati multa tuhat kultamarkkaa.</l>
+                     <l>"Ruoalle", käskin; "rahat!" sanoi hän;</l>
+                     <l>"Kana paahtuu", sanoin; "rahat!" sanoi hän;</l>
+                     <l>"Pois kotiin", minä; "rahat!" sanoi hän;</l>
+                     <l>"Miss' on ne tuhat markkaa, sano, konna?"</l>
+                     <l>"Sika palaa", minä sanoin; "rahat!" hän;</l>
+                     <l>"Rouvani", sanoin minä; "hiiteen rouvas!</l>
+                     <l>En tunne rouvaas; piru vieköön rouvas!"</l>
+                     <l/>
+                     <l>LUCIANA.</l>
+                     <l>Ken sanoi?</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Herrani. "En tiedä", sanoi,</l>
+                     <l>"Kodista, vaimost' enkä rouvasta."</l>
+                     <l>Asia, jota kielen tuli ajaa,</l>
+                     <l>Tuon kotiin seljässäni, kiitos hälle.</l>
+                     <l>Sanalla sanoen, sain selkääni.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Takaisin, orja! Kotiin hänet laita.</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Takaisin, saamaan uuden selkäsaunan?</l>
+                     <l>Ei, Herran tähden, lähettäkää toinen.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Takaisin, muuten ristiluusi merkin!</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Hän sitten uudet ristinmerkit antaa.</l>
+                     <l>Näin teette minust' ihan pyhimyksen.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Pois, lavertaja! Laita herras kotiin.</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Niin sukeako olen mielestänne,</l>
+                     <l>Ett' ihan potkitte kuin palloa?</l>
+                     <l>Te tuonne, tänne hän, ja päätäpahkaa!</l>
+                     <l>Ken tätä kestää, täytyy olla nahkaa.</l>
+                     <l/>
+                     <l>(Menee.)</l>
+                     <l/>
+                     <l>LUCIANA.</l>
+                     <l>Hyi, vihan tuli poskillasi palaa!</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Hän jotain henttua nyt varmaan halaa,</l>
+                     <l>Kun vaimons' ikävissään täällä riutuu.</l>
+                     <l>Ijänkö tähden poskiltani hiutuu</l>
+                     <l>Sulouden viehätys? Ei: hän sen vei.</l>
+                     <l>Olenko tyhmä? Älyäkö ei?</l>
+                     <l>Elävin mielevyyskin vihdoin turtuu</l>
+                     <l>Ja kivikovaan tylyytehen murtuu.</l>
+                     <l>Hän kauniiseenko pukuun viehättyy?</l>
+                     <l>Hänell' on rahat; mun ei ole syy.</l>
+                     <l>Jos kuihtunut ma olen, niin hän kulon</l>
+                     <l>On itse aikaan saanut, kaiken sulon</l>
+                     <l>Kun mult' on vienyt. Lämmin katse vaan,</l>
+                     <l>Niin taas on kauneuteni ennallaan!</l>
+                     <l>Hän huima kauris on, yl' aidan karkaa</l>
+                     <l>Vain muille laitumille. Voi mua, parkaa!</l>
+                     <l/>
+                     <l>LUCIANA.</l>
+                     <l>Pois luulevaisuus tuo! Se rauhaas järsii.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Ei, tunnoton vain narri moista kärsii.</l>
+                     <l>Hän viipyy luona muiden armahitten,</l>
+                     <l>Ois muuten tullut kotiin aikaa sitten.</l>
+                     <l>Lupasi mulle vitjat, tiedäthän;</l>
+                     <l>Oi, jospa tässä vain mua pettäis hän</l>
+                     <l>Ja palais uskollisna vuoteesensa!</l>
+                     <l>Helein timanttikin somuutensa</l>
+                     <l>Voi menettää; ja kirkkain kultakin,</l>
+                     <l>Kun sitä moni hiertää, väkisin</l>
+                     <l>Voi kulua; ja mainemiehen parhaan</l>
+                     <l>Voi turmelus ja petos viedä harhaan.</l>
+                     <l>Kun sulollani hänt' en voittaa voi,</l>
+                     <l>Pois itken lopunkin, ja kuolen, oi!</l>
+                     <l/>
+                     <l>LUCIANA.</l>
+                     <l>Noin houkat luulevaiset hupakoi!</l>
+                     <l/>
+                     <l>(Menevät.)</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Toinen kohtaus.</head>
+                  <lg>
+                     <l>Sama paikka.</l>
+                     <l>(Antipholus Syrakusalainen tulee.)</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Ne rahat, jotka Dromio sai, ne talless'</l>
+                     <l>On Kentaurissa, ja se valpas orja</l>
+                     <l>Mua etsimään on mennyt kaupungille.</l>
+                     <l>Kun mietin mitä kertoi isäntä,</l>
+                     <l>Tavata hänt' en ole voinut sitten</l>
+                     <l>Kuin turulla ma hänest' erkanin.</l>
+                     <l>Tuoss' on hän.</l>
+                     <l>(Dromio Syrakusalainen tulee.)</l>
+                     <l>Joko meni hyvä tuuli?</l>
+                     <l>Jos selkääs tahdot, ilku vieläkin!</l>
+                     <l>Et rahaa saanut? Kentaurist' et tiedä?</l>
+                     <l>Vai rouvas laittoi pyytämään mua syömään?</l>
+                     <l>Vai Phoenixissä asun? Hourailitko,</l>
+                     <l>Noin hullusti kun mulle vastasit?</l>
+                     <l/>
+                     <l>DROMIO SYR.</l>
+                     <l>Mitä vastasin? Ma tuost' en tiedä mitään.</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Vast'ikään, tässä, tuskin siit' on tunti.</l>
+                     <l/>
+                     <l>DROMIO SYR.</l>
+                     <l>En ole teitä nähnyt sitten kuin</l>
+                     <l>Kentauriin menin rahojanne viemään.</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Sa kielsit, konna, rahat saaneesi,</l>
+                     <l>Ja puhuit rouvasta ja puolisesta;</l>
+                     <l>Vihani, toivon ma, sa tuta sait.</l>
+                     <l/>
+                     <l>DROMIO SYR.</l>
+                     <l>On hauskaa nähdä teitä ilopäällä.</l>
+                     <l>Vaan miksi tätä pilaa? Sanokaa.</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Suun sisäänkö mua irvistät ja pilkkaat?</l>
+                     <l>Vai pilaa tämä? Tuossa saat, ja tuossa!</l>
+                     <l/>
+                     <l>(Lyö häntä.)</l>
+                     <l/>
+                     <l>DROMIO SYR.</l>
+                     <l>Seis, Herran tähden! Pila on jo totta.</l>
+                     <l>Hyvästä mistä tämän hyvän saan?</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Siks että joskus tuttavallisesti</l>
+                     <l>Pilailin kanssas niinkuin narrin kanssa,</l>
+                     <l>Nyt uhmall' ystäväksi tungeksit</l>
+                     <l>Ja vakaatkin teet hetket yhteismaaksi.</l>
+                     <l>Kun päivä paistaa, sääski survokoon,</l>
+                     <l>Mut koloon luikkikoon, kun päivä peittyy.</l>
+                     <l>Kun aiot suottailla, mua silmiin katso,</l>
+                     <l>Ja katsantoni mukaan menos muuta,</l>
+                     <l>Ma muuten ajukoppas pehmitän.</l>
+                  </lg>
+                  <p rend="justify">DROMIO SYR. Ajukoppani, niinkö sanoitte? Jos vain jättäisitte pois pehmityksen, niin oisi pää sopivampi. Mutta, jos tätä lyömistä kauemmin jatkatte, niin saan todellakin hankkia kopan päähäni, kopittaa sen kokonaan; sillä muuten saa ajuni turvautua selkääni. Mutta, hyvä herra, miksi minua pieksette?</p>
+                  <p rend="justify">ANTIPHOLUS SYR. Etkö tiedä?</p>
+                  <p rend="justify">DROMIO SYR. En muuta tiedä, kuin että olen piesty.</p>
+                  <p rend="justify">ANTIPHOLUS SYR. Sanonko sinulle syyn?</p>
+                  <p rend="justify">DROMIO SYR. Sanokaa, ja aihe myöskin; sillä sanotaan että joka syyllä on aiheensa.</p>
+                  <lg>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Siis ensin syy: siks että mua ilkuit;</l>
+                     <l>Sitt' aihe: että toistamiseen ilkuit.</l>
+                     <l/>
+                     <l>DROMIO SYR.</l>
+                     <l>Näin ketään ihmist' onko koskaan piesty yhdell' erää.</l>
+                     <l>Vaikk' aiheissa ja syiss' ei ole pontta eikä perää? —</l>
+                     <l>Hyvä; kiitoksia vain!</l>
+                  </lg>
+                  <p rend="justify">ANTIPHOLUS SYR. Kiitoksiako? Mistä?</p>
+                  <p rend="justify">DROMIO SYR. No niin, siitä paljaasta, jonka sain tyhjästä.</p>
+                  <p rend="justify">ANTIPHOLUS SYR. Ensi kerralla korvaan sen ja annan tyhjän paljaasta. Mutta sano, eikö jo ole ruoka-aika?</p>
+                  <p rend="justify">DROMIO SYR. Ei, herra: paisti ei ole vielä mitä minä olen.</p>
+                  <p rend="justify">ANTIPHOLUS SYR. Mitä ei? Sano suoraan.</p>
+                  <p rend="justify">DROMIO SYR. Muokattu.</p>
+                  <p rend="justify">ANTIPHOLUS SYR. Se on siis varmaan sitkeä?</p>
+                  <p rend="justify">DROMIO SYR. Jos on, niin älkää sitä syökö.</p>
+                  <p rend="justify">ANTIPHOLUS SYR. Miksi en?</p>
+                  <p rend="justify">DROMIO SYR. Voisitte tulla sapelle ja antaa minulle uuden sitkeän muokkauksen.</p>
+                  <p rend="justify">ANTIPHOLUS SYR. No, tiedä sitte ajajiasi ilveillä; aika kaikella.</p>
+                  <p rend="justify">DROMIO SYR. Tuon olisin voinut vääräksi näyttää, ennenkuin tulitte noin sapelle.</p>
+                  <p rend="justify">ANTIPHOLUS SYR. Millä väitteellä?</p>
+                  <p rend="justify">DROMIO SYR. Väitteellä yhtä silolla ja selvällä kuin itse Aika-vaarin oma kalju pää.</p>
+                  <p rend="justify">ANTIPHOLUS SYR. Anna kuulla.</p>
+                  <p rend="justify">DROMIO SYR. Ei ole aika saada uusia hiuksia, kun on vanhuuttaan kaljuksi tullut.</p>
+                  <p rend="justify">ANTIPHOLUS SYR. Eikö niitä voi saada oston ja kiinnityksen kautta?</p>
+                  <p rend="justify">DROMIO SYR. Kyllä, jos ostaa tekotukan ja kiinnittää päähänsä toisen hiukset.</p>
+                  <p rend="justify">ANTIPHOLUS SYR. Miksi aika on niin itara hiuksille, vaikka se muuten on kasvannaisista niin rikas?</p>
+                  <p rend="justify">DROMIO SYR. Niin nähkääs, se on siunaus, jonka se suo elukoille; ja minkä se ihmisiltä vähentää hiuksia, sen se lisää heille älyä.</p>
+                  <p rend="justify">ANTIPHOLUS SYR. Mutta paljo on ihmisiä, joilla on enemmän hiuksia kuin älyä.</p>
+                  <p rend="justify">DROMIO SYR. Mutta kellään ei niin vähän, ett'ei voisi menettää hiuksiansa.</p>
+                  <p rend="justify">ANTIPHOLUS SYR. Äskenhän päätit, että paksutukkaiset ihmiset ovat älyttömiä kömpelöitä.</p>
+                  <p rend="justify">DROMIO SYR. Jota kömpelömpiä ovat, sitä pikemmin älynsä menettävät; ainakin sen menettävät jonkinlaisessa huvituksessa.</p>
+                  <p rend="justify">ANTIPHOLUS SYR. Mistä syystä?</p>
+                  <p rend="justify">DROMIO SYR. Kahdestakin syystä, ja terveet ovat kumpikin.</p>
+                  <p rend="justify">ANTIPHOLUS SYR. Ei niinkään terveet.</p>
+                  <p rend="justify">DROMIO SYR. No, varmat sitten.</p>
+                  <p rend="justify">ANTIPHOLUS SYR. Ei varmatkaan näin epäiltävissä asioissa.</p>
+                  <p rend="justify">DROMIO SYR. No, vissit sitten.</p>
+                  <p rend="justify">ANTIPHOLUS SYR. Sano ne.</p>
+                  <p rend="justify">DROMIO SYR. Ensiksikin heiltä säästyy käherrysrahat; toiseksi eivät syödessään tiputtele hiuksia liemeensä.</p>
+                  <p rend="justify">ANTIPHOLUS SYR. Olet tässä pitkin aikaa koettanut todistaa, ettei "aika kaikella".</p>
+                  <p rend="justify">DROMIO SYR. Niin oikein, ja olenkin sen todistanut nimittäin ett'ei ole aika saada uusia hiuksia, kun on vanhuuttaan kaljuksi tullut.</p>
+                  <p rend="justify">ANTIPHOLUS SYR. Mutta syy, miksi ei ole aika niitä saada, ei ollut varsin todistava.</p>
+                  <p rend="justify">DROMIO SYR. Sen korjaan näin: Aika itse on kalju, ja sen vuoksi sillä on maailman loppuun asti kaljupäitä seuralaisia.</p>
+                  <p rend="justify">ANTIPHOLUS SYR. Tiesinhän että loppupäätös tulisi kalju. Mutta vait! Kuka tuolla viittoo?</p>
+                  <lg>
+                     <l>(Adriana ja Luciana tulevat.)</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Antipholus, niin, juroile ja yrmi!</l>
+                     <l>Sa toiseen naiseen hellän katseen luot.</l>
+                     <l>En minä vaimosi, en Adriana.</l>
+                     <l>Oi, ennen — ehdollas sen usein vannoit —</l>
+                     <l>Ei puhe korvissasi sointunut,</l>
+                     <l>Ei näky silmiäsi miellyttänyt.</l>
+                     <l>Ei kosketus sun kättäs hivellyt,</l>
+                     <l>Ei ruoka makuisa sun kielellesi,</l>
+                     <l>Jos min' en puhunut, tai katsonut,</l>
+                     <l>Tai koskenut, tai ruokaa etees pannut.</l>
+                     <l>Oi, mikä syynä, puolisoni, mikä,</l>
+                     <l>Ett' alat itseäs noin vieroa?</l>
+                     <l>Niin, vierot itseäs, kun vierot mua,</l>
+                     <l>Jok', yhdistyen luopumatta sinuun,</l>
+                     <l>Parempaa itseäsi paremp' olen.</l>
+                     <l>Oi, minust' älä itseäsi riistä!</l>
+                     <l>Sun, ystävä, ois yhtä helppo heittää</l>
+                     <l>Syvyyden kuohuun vesipisara</l>
+                     <l>Ja silkkana se sieltä jälleen ottaa</l>
+                     <l>Vajausta tai lisäystä vailla,</l>
+                     <l>Kuin minust' oma itses ottaa pois,</l>
+                     <l>Minua samass' ottamatta mukaan.</l>
+                     <l>Oi, kuinka syvään sydäntäsi vihlois,</l>
+                     <l>Jos kuulisit, ett' olen uskoton</l>
+                     <l>Ja että sulle pyhitetty ruumis</l>
+                     <l>On hillittömän himon tahraama!</l>
+                     <l>Mua polkisit ja minuun sylkisit,</l>
+                     <l>Viskaisit yljän-nimen silmilleni,</l>
+                     <l>Repisit otsaltani porton martaan,</l>
+                     <l>Sormesta vihkimerkin viiltäisit</l>
+                     <l>Ja kiroin vihlovin sen musertaisit.</l>
+                     <l>Tuon kaiken voit, sen tiedän; tee se siis!</l>
+                     <l>Minussa salavuoteuden on tahra,</l>
+                     <l>Veressä synnin hehkuma: jos yksi</l>
+                     <l>Me olemme, ja sinä uskoton,</l>
+                     <l>Niin myrkky lihastasi minuun tarttuu,</l>
+                     <l>Ja portoksi sa minut saastutat.</l>
+                     <l>Siis vaali vihkivuodettas, niin sinä</l>
+                     <l>Tahrasta säästyt, häpeästä minä.</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Mua syytättekö, rouva? Teit' en tunne.</l>
+                     <l>Vastikään olen tullut Ephesoon;</l>
+                     <l>Kylänne outo, outo puheennekin.</l>
+                     <l>Tuot' älyni jos tutkii kuinka vakaan,</l>
+                     <l>Niin siit' en älyä mä rahtuakaan.</l>
+                     <l/>
+                     <l>LUCIANA.</l>
+                     <l>Hyi, veli, kuinka olet muuttunut!</l>
+                     <l>Noin sisartan' et ennen kohdellut.</l>
+                     <l>Hän Dromion pani hakemaan sua syömään.</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Kuin? Dromion?</l>
+                     <l/>
+                     <l>DROMIO SYR.</l>
+                     <l>Minutko?</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Niin, sinut, niin, ja vastauksen toit:</l>
+                     <l>Ett' antoi korvilles ja kielsi että</l>
+                     <l>Tää kotins' on ja minä vaimonsa.</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Oletko puhutellut tätä rouvaa?</l>
+                     <l>Salaista juontako? Mik aikomus?</l>
+                     <l/>
+                     <l>DROMIO SYR.</l>
+                     <l>Minäkö? Hänt' en ole koskaan nähnyt.</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Kanalja, valehtelet: kerroithan</l>
+                     <l>Turulla mulle ihan samat sanat.</l>
+                     <l/>
+                     <l>DROMIO SYR.</l>
+                     <l>En ole koskaan häntä puhutellut.</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Mut kuinka meidän' nimemme hän tuntee?</l>
+                     <l>Hän lienee varmaan saanut ilmestyksen?</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Oh, kuinka vähän arvoos soveltuu</l>
+                     <l>Noin yksiss' ilveiss' olla orjas kanssa</l>
+                     <l>Ja häntä usuttaa mua suututtamaan!</l>
+                     <l>Jo katkeraa on olla sinust' erin,</l>
+                     <l>Mut ylenkatsees katkeraa on perin.</l>
+                     <l>Oi, hihaasi ma tartun, armas sinä,</l>
+                     <l>Sin' olet jalava, ja köynnös minä;</l>
+                     <l>Mun heikkouttani voimas kannattaa,</l>
+                     <l>Se voimastasi uutta voimaa saa.</l>
+                     <l>Muu meit' ei erota kuin turha röyty,</l>
+                     <l>Loislieko, muratti tai sammalhöyty,</l>
+                     <l>Mi ruokkoomatta kasvaa, vertas juo</l>
+                     <l>Ja ytys kalvaa, tuhon sulle tuo.</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Minulle puhuu; näin mua kietoo vain.</l>
+                     <l>Vai nukuksissaniko hänet nain?</l>
+                     <l>Ja unissani sainko tämän luulon?</l>
+                     <l>Mik' erhe multa näön vie ja kuulon?</l>
+                     <l>Siks kunnes johde saadaan ongelmaan,</l>
+                     <l>Niin tähän pilaan suostua ma saan.</l>
+                     <l/>
+                     <l>LUCIANA.</l>
+                     <l>No, laita, Dromio, että saamme ruokaa.</l>
+                     <l/>
+                     <l>DROMIO SYR.</l>
+                     <l>Jumal' armahda, ja syntis-parka huokaa!</l>
+                     <l>Tää keijojen on maa: oi, kauhistusta!</l>
+                     <l>Tääll' aaveet, peikot liikkuu, hiisi musta.</l>
+                     <l>Jos niit' et kuule, sielusi ne syövät</l>
+                     <l>Ja sinut tikankirjavaksi lyövät.</l>
+                     <l/>
+                     <l>LUCIANA.</l>
+                     <l>No, mitä mutiset? Sa vastaa toki,</l>
+                     <l>Etana, kuhnuri ja tähkänoki!</l>
+                     <l/>
+                     <l>DROMIO SYR.</l>
+                     <l>Min' olen muuttunut. Niin, enkös ole?</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Niin, mieleltäsi, niinkuin minäkin.</l>
+                     <l/>
+                     <l>DROMIO SYR.</l>
+                     <l>Ei, herra, mieleltä ja ruumiilta.</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Näköises olet.</l>
+                     <l/>
+                     <l>DROMIO SYR.</l>
+                     <l>Olen apina.</l>
+                     <l/>
+                     <l>LUCIANA.</l>
+                     <l>Paremmin sano, että olet aasi.</l>
+                     <l/>
+                     <l>DROMIO SYR.</l>
+                     <l>Niin, hän mua ajaa. — Miss' on heinämaasi?</l>
+                     <l>Kyll' aasi lienen, kun en heti minä</l>
+                     <l>Sua tuntenut, niinkuin mun tunsit sinä.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Pois! Täss en enää ole narrinanne</l>
+                     <l>Ja silmiäni hierusta ja itke,</l>
+                     <l>Kun mies ja orja pilkkaa tuskaani.</l>
+                     <l>Pois, syömään! — Dromio, katso ovea. —</l>
+                     <l>Mies rakas, yläkerrassa nyt syömme.</l>
+                     <l>Pahoista elkeistäs saat tilin tehdä. —</l>
+                     <l>(Dromiolle.)</l>
+                     <l>Jos kuka kysyy herraasi, niin sano,</l>
+                     <l>Ett' on hän poissa; älä päästä sisään. —</l>
+                     <l>No, sisko, tule. — Dromio, katso usta.</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Taivasko tää, vai maa, vai horna musta?</l>
+                     <l>Nukunko? Valvonko? Lien järjiltäni?</l>
+                     <l>Nuo tuntee mun, mut min' en itseäni!</l>
+                     <l>Teen niin kuin hekin; menköön yhteen humuun!</l>
+                     <l>Koht' ehkä päivä pilkkii tähän sumuun.</l>
+                     <l/>
+                     <l>DROMIO SYR.</l>
+                     <l>Tähänkö, herra, vartijaksi jään?</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Jos ketään päästät, halon sulta pään.</l>
+                     <l/>
+                     <l>LUCIANA.</l>
+                     <l>Antipholus, jo pöytään käsketään.</l>
+                     <l/>
+                     <l>(Menevät.)</l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>KOLMAS NÄYTÖS.</head>
+               <div type="div3">
+                  <head>Ensimmäinen kohtaus.</head>
+                  <lg>
+                     <l>Aukea paikka.</l>
+                     <l/>
+                     <l>(Antipholus Ephesolainen, Dromio Ephesolainen,</l>
+                     <l>Angelo ja Balthasar tulevat.)</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Anteeksi, hyvä herra Angelo,</l>
+                     <l>Jos myöhästyn, niin vaimoni mua toruu.</l>
+                     <l>Sanokaa, että teidän pajaanne</l>
+                     <l>Jäin vitjain valmistusta katsomaan,</l>
+                     <l>Ja että huomenna ne hälle tuotte.</l>
+                     <l>Tuo konna väittää vasten silmiä,</l>
+                     <l>Ett' olen häntä lyönyt turulla,</l>
+                     <l>Hokenut hältä tuhat kultamarkkaa,</l>
+                     <l>Kotini kieltänyt ja vaimoni. —</l>
+                     <l>Hä, juoppolalli, mitä sillä aioit?</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Puhukaa mitä puhutte; ma tiedän minkä tiedän:</l>
+                     <l>Turulla mua pieksitte, sen sanoa ma siedän;</l>
+                     <l>Jos päärmää oisi nahkani ja iskut mustett' ois,</l>
+                     <l>Niin käs'alanne lukea mun seljästäni vois.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Sin' olet aasi, kuules.</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Siin' aasi toden totta,</l>
+                     <l>Ett' iskut kantaa saan ma ja herjat vastaan ottaa.</l>
+                     <l>Mut' potkaista kuin aasi mun oisi pitänyt,</l>
+                     <l>Ett' oisitte te vasta sitä karttaa tietänyt.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Balthasar, miks noin synkkä? Mun pöytään pyytää suokaa;</l>
+                     <l>Sen hyvänsuonto korvaa, jos mitä puuttuu ruokaa.</l>
+                     <l/>
+                     <l>BALTHASAR.</l>
+                     <l>Jo hyvänsuonto riittää, en herkkuja ma huokaa.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Mut, Balthasar, jos lihaa ja kalaa puuttuu vaan,</l>
+                     <l>Niin puutetta ei peitä se hyvänsuontokaan.</l>
+                     <l/>
+                     <l>BALTHASAR.</l>
+                     <l>Saa hyvää ruokaa aina, työmieskään sit' ei vajaa.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Samaten hyvänsuontoa, mut tyhjältä se kajaa.</l>
+                     <l/>
+                     <l>BALTHASAR.</l>
+                     <l>Vähätkin ruoat maistuu jos käs' on antelias.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Niin, isäntä jos saita on, ja vieras kitulias.</l>
+                     <l>On atriani kehno, sen sanon teille vakaan,</l>
+                     <l>Mut sydämmestä suotua, vaikk' ei lie parastakaan.</l>
+                     <l>Vait! Oveniko suljettu! Hoi, auki paikalla!</l>
+                     <l/>
+                     <l>DROMIO EPH. (kolkuttaa ovea).</l>
+                     <l>Brigitta, Martta, Katri, Lucie, Cecilia!</l>
+                     <l/>
+                     <l>DROMIO SYR. (sisältä).</l>
+                     <l>Epatto, lortti, pässinpää, sa, mölli, aasi, moukka!</l>
+                     <l>Pois ovelta, tai katuojaan istu, senkin houkka!</l>
+                     <l>Sa naisiako lumoat ja noinko laumoittain,</l>
+                     <l>Kun yksikin jo liikaa ois? Pois tiehes lähde vain!</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Mik' aasi portinvahdiksi! Noin herraa odotuttaa!</l>
+                     <l/>
+                     <l>DROMIO SYR. (sisältä).</l>
+                     <l>No menköön matkaan; jalkansa voi muuten palelluttaa.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Ken siellä suutaan soittaa? Hoi, portit avariksi!</l>
+                     <l/>
+                     <l>DROMIO SYR. (sisältä).</l>
+                     <l>Se tehdään, mutta milloin tehdään? Kysyn ensin: miksi?</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Haa, miksi? Lounastaakseni. En ole syönyt vielä.</l>
+                     <l/>
+                     <l>DROMIO SYR. (sisältä).</l>
+                     <l>Siis tulkaa toiste takaisin; tääll' olette nyt tiellä.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Ken sinä, joka suljet mult' oman taloni?</l>
+                     <l/>
+                     <l>DROMIO SYR. (sisältä).</l>
+                     <l>Nykyinen portinvartija, ja Dromio nimeni.</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Sa multa nimen varastit ja viran, senkin kaljo:</l>
+                     <l>Vähä toisesta tul' arvoa, ja toisesta raippoja paljo.</l>
+                     <l>Tän' aamuna tuo ammatti jos sulla ollut ois,</l>
+                     <l>Niin nimes olis aasi nyt ja selkäs vihavois.</l>
+                     <l/>
+                     <l>LUCIE (sisältä).</l>
+                     <l>Mut mikä melu tuolla? Ken siellä jyskii? Hyi!</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Ovi auki herralle, Lucie!</l>
+                     <l/>
+                     <l>LUCIE (sisältä).</l>
+                     <l>Hän liiaks myöhästyi.</l>
+                     <l>Se sano herrallesi.</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Mut tääkös naurettavaa!</l>
+                     <l>Ma sanon sananlaskun nyt: "Ken anoo, sille avaa."</l>
+                     <l/>
+                     <l>LUCIE (sisältä).</l>
+                     <l>Ja minä vastaan toisella: "Sa saitko pitkän nenän?"</l>
+                     <l/>
+                     <l>DROMIO SYR. (sisällä).</l>
+                     <l>Jos nimes on Lucie, niin nyt, Lucie, teit kelpo tenän.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Mut kuules, sinä tyttö, toki sisään päästänet?</l>
+                     <l/>
+                     <l>LUCIE (sisältä).</l>
+                     <l>Min' aioin juuri kysyä.</l>
+                     <l/>
+                     <l>DROMIO SYR. (sisällä).</l>
+                     <l>Ja vastaat, että et.</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Kiesauksi! Isku iskusta! Sa hyvin taistelet.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Sa, luuska, päästä sisään.</l>
+                     <l/>
+                     <l>LUCIE (sisältä).</l>
+                     <l>Kenen luo, mun tietää suokaa.</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Ovea oikein nuijikaa.</l>
+                     <l/>
+                     <l>LUCIE (sisältä).</l>
+                     <l>Ei vähästä se huokaa.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Mut sinä vielä huokaat, jahka ovi pirstautuu.</l>
+                     <l/>
+                     <l>LUCIANA (sisältä).</l>
+                     <l>Mut siitä työstä teitä sitten vartoo jalkapuu.</l>
+                     <l/>
+                     <l>ADRIANA (sisältä).</l>
+                     <l>Ken siellä oven takana noin meluaa ja jyskää?</l>
+                     <l/>
+                     <l>DROMIO SYR. (sisältä).</l>
+                     <l>He, kylän katunaskalit ne siellä varmaan ryskää.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Sinäkö, eukko? Oisit vain jo voinut ennen tulla.</l>
+                     <l/>
+                     <l>ADRIANA (sisältä).</l>
+                     <l>Vai eukkos, senkin konna! Pois! Tääll' ei paikkaa sulla.</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Kas, tuota riivattua! Pois tulkaa, konna, siis.</l>
+                     <l/>
+                     <l>ANGELO.</l>
+                     <l>Nyt ruoan niinkuin hyvänsuonnon taisi viedä hiis.</l>
+                     <l/>
+                     <l>BALTHASAR.</l>
+                     <l>Niin, äsken niistä kiisteltiin, nyt kaikki meni hupaan.</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Ovella vieraat seisovat; no, käskekäätte tupaan.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Ei, nyt ei sisään päästä: tuuli pahalla on puolla.</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Jos teillä paksu takki on, ei siitä tarvis huolla.</l>
+                     <l>Sisällä lämmin ruoka on; me täällä palellaan;</l>
+                     <l>Voi patahulluks tulla mies, jos näin hänt' ivataan.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Minulle joutuin ase tuo, ma hajotan tuon oven.</l>
+                     <l/>
+                     <l>DROMIO SYR. (sisältä).</l>
+                     <l>Niin, hajota tai hajuta, mut päähäs lyön mä loven.</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>On sanat pelkkää ilmaa, ei niistä hajoo pää;</l>
+                     <l>Mut pakaras jos hajotan, niin siitä haju jää.</l>
+                     <l/>
+                     <l>DROMIO SYR. (sisältä).</l>
+                     <l>Hyi, senkin rivo! Miss' on hajus? Ulos lähtekää.</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Tääll' ulkona jo ollaan; nyt sisään päästä, jorppi!</l>
+                     <l/>
+                     <l>DROMIO SYR. (sisältä).</l>
+                     <l>Ei, ennen poikii koiraskin ja valkeneepi korppi.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Tuon oven auki murran; tuo mulle sorkkarauta.</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Sorkka ja ihan karvatonko? Sehän, jumal'auta,</l>
+                     <l>On niinkuin korppi valkoinen ja koiras poikiva!</l>
+                     <l>No, sorkka pitää saamanne ja oikein loikkiva.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Niin, sorkkarauta tänne tuo ja rautainen, se muista.</l>
+                     <l/>
+                     <l>BALTHASAR.</l>
+                     <l>Oi, mahtukaa! Ei tästä hyvää luista.</l>
+                     <l>Soditte omaa mainettanne vastaan</l>
+                     <l>Ja vaimonnekin puhtaan kunnian</l>
+                     <l>Vedätte epäluulon tahrapiiriin.</l>
+                     <l>Älynsä hyvin tiedätte; jo tämä,</l>
+                     <l>Ja ikä, vakavuus ja kunto takaa</l>
+                     <l>Ett' tässä piilee syy, jot' ette tunne,</l>
+                     <l>Ja varmaankin hän syynsä selittää,</l>
+                     <l>Miks oven teiltä tähän aikaan sulki.</l>
+                     <l>Mua kuulkaa: tyyntykää ja tulkaa pois.</l>
+                     <l>Me Tiikerissä kaikin ruokailkaamme.</l>
+                     <l>Sitt' illemmällä yksin palatkaa</l>
+                     <l>Kysymään syytä tähän outoon kieltoon.</l>
+                     <l>Nyt väkisin jos oven avaatte,</l>
+                     <l>Näin päiväis-aikaan, kun on liike suuri,</l>
+                     <l>Niin yleinen on juorun aine valmis;</l>
+                     <l>Ja panettelu, jota kansa uskoo</l>
+                     <l>Hyvästä maineestanne huolimatta,</l>
+                     <l>Näin pääsee julkeana juurtumaan</l>
+                     <l>Ja kuoltuanne vielä hautaan seuraa.</l>
+                     <l>Ei parjauksesta jälkeisetkään pääse,</l>
+                     <l>Mihin se kerran tarttuu, siihen jää se.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Teen tahtonne ja lähden tyynnä pois;</l>
+                     <l>Mut kiusallakin lystäillä nyt aion.</l>
+                     <l>Ma tunnen tytön, jok' on varsin hauska,</l>
+                     <l>Soma ja sutka, — hurja, mutta hieno;</l>
+                     <l>Siell' atrioimme. Saman tytön tähden</l>
+                     <l>Mun vaimoni — vaikk' ilman syytä tosin —</l>
+                     <l>On usein pannut minut kovalle.</l>
+                     <l>Siell' atrioimme. — (Angelolle.) Menkää kotiin te</l>
+                     <l>Ja tuokaa vitjat — valmiit ne jo lienee —</l>
+                     <l>Ja viekää Piikkisikaan — se sen talon</l>
+                     <l>On nimi. Vitjat nuo ma lahjoitan —</l>
+                     <l>Jos muuksi en, niin vaimolleni kiusaks —</l>
+                     <l>Tytölle tuolle. Tehkää joutua.</l>
+                     <l>Kun oma ovi multa suljetaan.</l>
+                     <l>Niin hauskaa muualt' etsiä ma saan.</l>
+                     <l/>
+                     <l>ANGELO.</l>
+                     <l>Siis hetken päästä tapaan teidät siellä?</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Niin. — Tästä tulee kallis lysti vielä.</l>
+                     <l/>
+                     <l>(Menevät.)</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Toinen kohtaus.</head>
+                  <lg>
+                     <l>Sama paikka.</l>
+                     <l>(Luciana ja Antipholus Syrakusalainen tulevat.)</l>
+                     <l/>
+                     <l>LUCIANA.</l>
+                     <l>Antipholus, noin yljän tehtävät</l>
+                     <l>Sa unhotatko? Lemmen keväimessä</l>
+                     <l>Jo lemmen aaluvatko hävität?</l>
+                     <l>Noin lempi kuihtuuko jo heitiessä?</l>
+                     <l>Jos kullan tähden sisareni nait,</l>
+                     <l>Niin kullan tähden häntä helli myös.</l>
+                     <l>Jos muita hyväilet, niin ole vait</l>
+                     <l>Ja ulkokiilloin peitä pahat työs.</l>
+                     <l>Sit' ei saa havaita sun silmistäs;</l>
+                     <l>Häpyäs älä huuda maailmalle;</l>
+                     <l>Puheissa, menoiss' ole häveljäs</l>
+                     <l>Ja vikas peitä hyveen vaipan alle.</l>
+                     <l>Silm' olkoon kirkas, vaikk' on sydän musta;</l>
+                     <l>Pyhyyden naamus synnillesi luo;</l>
+                     <l>Salassa petä, vältä paljastusta;</l>
+                     <l>Vain tyhmä varas tekons' ilmi tuo.</l>
+                     <l>On kaksoisloukkaus vihkivuode jättää</l>
+                     <l>Ja pöydässä sit' ilmein osoittaa;</l>
+                     <l>Häpeä usein kunniata kättää;</l>
+                     <l>Työn ruman ruma sana suurentaa.</l>
+                     <l>Nais-parka luottamust' on täynnä ihan:</l>
+                     <l>Siis sano, että häntä rakastat;</l>
+                     <l>Muut kätes viekööt, kun vain hän saa hihan;</l>
+                     <l>Hän sua seuraa mihin kuljetat.</l>
+                     <l>Siis palaa hänen luokseen, veli hellä,</l>
+                     <l>Hyväile, vaimoks sano, sopu tee.</l>
+                     <l>On luvallista hiukan teeskennellä,</l>
+                     <l>Jos maire sana riidan ratkaisee.</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Ihana impi — nimeäs en tiedä,</l>
+                     <l>Ja ihme että sinä tiedät mun —</l>
+                     <l>Älysi, sulosi ei vertaa siedä,</l>
+                     <l>Sua jumal-olennoksi otaksun.</l>
+                     <l>Mit' aatella ja virkkaa? Mit' on tämä?</l>
+                     <l>Oi, sano, — olen tyhmä tuhkimus,</l>
+                     <l>Älytön houkka, erheen pimittämä —</l>
+                     <l>Selitä sanais sala-arvoitus.</l>
+                     <l>Näin vastoin selvää järkeä mun vietkö</l>
+                     <l>Ihmeitten maahan tuntemattomaan?</l>
+                     <l>Mun uudeks luotko? Jumala sa lietkö?</l>
+                     <l>Minut muuta siis, sua seuraan minne vaan.</l>
+                     <l>Jos olen mikä olen, tiedän että</l>
+                     <l>En ole polon sisaresi mies,</l>
+                     <l>Ei häneen mulla vihkivahviketta;</l>
+                     <l>Vain sinuun, sinuun hehkuu poven lies.</l>
+                     <l>Sireeni kaunis, lauluin älä mua</l>
+                     <l>Sisares kyyneltulviin vajota;</l>
+                     <l>Itselles laula vain; ma palvon sua.</l>
+                     <l>Veen hopeille hiuskultas hajota,</l>
+                     <l>Niin siihen minä vaivun, siihen nukun,</l>
+                     <l>Ja aattelen, kun hekumassa uin:</l>
+                     <l>"Ken kuolee näin, se kuolee hymysuin",</l>
+                     <l>Ja autuaana lemmen syliin hukun.</l>
+                     <l/>
+                     <l>LUCIANA.</l>
+                     <l>Sa houru oletko, kun puhut noin?</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>En houru, mutta houreess' olla voin.</l>
+                     <l/>
+                     <l>LUCIANA.</l>
+                     <l>Se vika johtuu sinun silmistäsi.</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Kun katson, aurinko, sun säteitäsi.</l>
+                     <l/>
+                     <l>LUCIANA.</l>
+                     <l>Jos katsot mitä pitää, seestyy näkö.</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Siis, armas, yötäkö ja pimeyttäkö?</l>
+                     <l/>
+                     <l>LUCIANA.</l>
+                     <l>Sun armaas siskoni on enkä minä.</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Niin, siskos sisko.</l>
+                     <l/>
+                     <l>LUCIANA.</l>
+                     <l>Siskoni, niin.</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Sinä,</l>
+                     <l>Sinä itse paremp' olet itseni,</l>
+                     <l>Sydämmeni sydän, silmä silmäni,</l>
+                     <l>Eloni, onneni ja toiveheni,</l>
+                     <l>Maan päällä taivaani ja autuuteni.</l>
+                     <l/>
+                     <l>LUCIANA.</l>
+                     <l>Tuo kaikk' on siskoni, en minä lain.</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>No, armas, ole sitte sisko vain.</l>
+                     <l>Sua lemmin; ota, elämäni, ota!</l>
+                     <l>Ei sulla miestä, mull' ei aviota.</l>
+                     <l>Kätesi anna!</l>
+                     <l/>
+                     <l>LUCIANA.</l>
+                     <l>Hiljaa! Vaiti! Vältä!</l>
+                     <l>Ma noudan siskoni ja kysyn hältä.</l>
+                     <l/>
+                     <l>(Menee.)</l>
+                     <l/>
+                     <l>(Dromio Syrakusalainen tulee kiirein.)</l>
+                  </lg>
+                  <p rend="justify">ANTIPHOLUS SYR. No, mitä nyt, Dromio? Mihin niin kiireellä juokset?</p>
+                  <p rend="justify">DROMIO SYR. Tunnetteko minut, herra? Olenko Dromio? Olenko käskyläisenne? Olenko oma itseni?</p>
+                  <p rend="justify">ANTIPHOLUS SYR. Olet, Dromio olet, käskyläiseni olet, oma itsesi olet.</p>
+                  <p rend="justify">DROMIO SYR. Olen aasi, olen naisen käskyissä, olen poissa nahoistani.</p>
+                  <p rend="justify">ANTIPHOLUS SYR. Mitenkä naisen käskyissä? Miten poissa nahoistasi?</p>
+                  <p rend="justify">DROMIO SYR. Niin, poissa nahoistani, kun olen naisen vallassa, semmoisen, joka tekee vaatimuksia, juoksee perässäni, tahtoo omakseen.</p>
+                  <p rend="justify">ANTIPHOLUS SYR. Mitä hän sinulta vaatii?</p>
+                  <p rend="justify">DROMIO SYR. He, samaa mitä te hevoseltanne; tahtoo minua eläimekseen; ei siksi, että minä olen eläin, hän mua tahdo; vaan siksi että itse on sangen eläimellinen luontokappale, siksi hän tekee vaatimuksia.</p>
+                  <p rend="justify">ANTIPHOLUS SYR. Mikä hän on?</p>
+                  <p rend="justify">DROMIO SYR. Melko kunnioitusta herättävä ruho; semmoinen, josta ei voi puhua lisäämättä: kunnioittamalla sanoen. Minä teen siinä laihat kaupat, ja kuitenkin hän on sangen lihava pala.</p>
+                  <p rend="justify">ANTIPHOLUS SYR. Lihava pala? Mitä sillä tarkoitat?</p>
+                  <p rend="justify">DROMIO SYR. He, hemmetissä, hän on kyökkyri ja läpikotaisin rasvaa; en tiedä mihin muuhun häntä käyttää kuin tehdä hänestä lamppu ja karata hänen luotaan hänen omassa valossaan. Lyön vetoa että hänen rääsynsä ja niihin juuttunut tali kestäisivät palaa kokonaisen Venäjän talven; ja jos hän elää tuomiopäivään, niin palaa hän viikon kauemmin kuin koko maailma.</p>
+                  <p rend="justify">ANTIPHOLUS SYR. Millainen on hänen hipiänsä?</p>
+                  <p rend="justify">DROMIO SYR. Musta kuin minun saappaani, mutta niin puhtaat likimainkaan eivät ole hänen kasvonsa; sillä kun hänestä hiki valuu, niin voi siinä nilkkojaan myöten kahlata rasvanliassa.</p>
+                  <p rend="justify">ANTIPHOLUS SYR. Mutta sen vian voi vedellä auttaa.</p>
+                  <p rend="justify">DROMIO SYR. Ei, hyvä herra; se on syöpynyt nahkaan; ei Noan vedenpaisumuskaan voisi sitä viruttaa pois.</p>
+                  <p rend="justify">ANTIPHOLUS SYR. Mikä on hänen nimensä?</p>
+                  <p rend="justify">DROMIO SYR. Metri; mutta hänen nimensä ja kolme vaaksaa päälle ei riittäisi mitaksi lonkasta lonkkaan.</p>
+                  <p rend="justify">ANTIPHOLUS SYR. Hän on siis jotenkin leveä?</p>
+                  <p rend="justify">DROMIO SYR. Ei sen pitempi päästä jalkaan kuin lonkasta lonkkaan. Hän on pyöreä kuin maapallo; siitä voisin löytää maita.</p>
+                  <p rend="justify">ANTIPHOLUS SYR. Missä ruumiin osassa on Irlanti?</p>
+                  <p rend="justify">DROMIO SYR. Takapuoliskossa; sen tunnen rämeistä.</p>
+                  <p rend="justify">ANTIPHOLUS SYR. Entä Skotlanti?</p>
+                  <p rend="justify">DROMIO SYR. Sen tunnen hedelmättömyydestä; keskellä hänen karkeata kämmentään.</p>
+                  <p rend="justify">ANTIPHOLUS SYR. Entä Ranska?</p>
+                  <p rend="justify">DROMIO SYR. Otsassa, joka kuhmuilla varustettuna käy pahkasotaa tukkaa vastaan.</p>
+                  <p rend="justify">ANTIPHOLUS SYR. Missä Englanti?</p>
+                  <p rend="justify">DROMIO SYR. Etsiskelin liituvuoria, mutta silmäni ei keksinyt mitään valkoista; luulen kuitenkin että se on hänen poskipäällään, päättäen siitä suolavirrasta, joka juoksi sen ja Ranskan välillä.</p>
+                  <p rend="justify">ANTIPHOLUS SYR. Entä Espanja?</p>
+                  <p rend="justify">DROMIO SYR. Sitä tosiaankaan en nähnyt; mutta tunsin sen hänen kuumasta hengestään.</p>
+                  <p rend="justify">ANTIPHOLUS SYR. Entä missä Amerikka ja Intiat?</p>
+                  <p rend="justify">DROMIO SYR. Oh, ne ovat hänen nenällään, joka kauttaaltaan rubiineilla, safiireilla ja karbunkeilla koristettuna, kallistuu loistoaarteineen Espanjan kuuman hengen puoleen, joka lähettää kokonaisen armaadan kauppalaivoja noutamaan rahtia hänen nokaltaan.</p>
+                  <p rend="justify">ANTIPHOLUS SYR. Missä oli Belgia ja Alankomaat?</p>
+                  <p rend="justify">DROMIO SYR. Hyvä herra, niin syvään en katsellut. Sanalla sanoen, tämä juhta, tämä noita kärtteli minua, kutsui minua Dromioksi, vannoi että olin hänet kihlannut, sanoi mitä salamerkkejä minun on ruumiillani, esimerkiksi pilkku olassa, luomi niskassa, suuri syylä vasemmassa käsivarressa, niin että kauhistuneena juoksin häntä pakoon kuin velhoa. Jos teräksestä ei mun rintani oisi ja sydämmeni uskossa harras, Niin kyökkyrin rakkina oisin nyt, ja mun kädessäni paistinvarras.</p>
+                  <lg>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Satamaan lähde, Dromio, suoraa päätä;</l>
+                     <l>Jos maalta päin on tuulta vähääkään,</l>
+                     <l>Niin tässä kaupungiss' en ole yötä.</l>
+                     <l>Jos laivaa lähdöss' on, niin tieto tuo;</l>
+                     <l>Turulla kävelen ja sua varron.</l>
+                     <l>Jos kaikki tuntee mun ja min' en ketään,</l>
+                     <l>On paras että matkaan livistetään.</l>
+                     <l/>
+                     <l>DROMIO SYR.</l>
+                     <l>Niin karhua ei kukaan pakoon vihkaa</l>
+                     <l>Kuin minä tämän naikon naimakihkaa.</l>
+                     <l/>
+                     <l>(Menee.)</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Tää kylä se on ihka noitain pesä;</l>
+                     <l>Siis aika täältä pian päästä pois.</l>
+                     <l>Tuo nainen, joka miehekseen mua väitti,</l>
+                     <l>Mua perin kammottaa. Mut kaunis sisar,</l>
+                     <l>Joll' ihmeellisen viehkeät on sulot</l>
+                     <l>Ja puhe hurmaava ja käytös myöskin,</l>
+                     <l>Milt'ei mun pettämään saa itseni.</l>
+                     <l>Siis ett'ei mua kietois oma ansa,</l>
+                     <l>En kuule hänen tenholaulujansa.</l>
+                     <l/>
+                     <l>(Angelo tulee.)</l>
+                     <l/>
+                     <l>ANGELO.</l>
+                     <l>Antipholus!</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Niin, se on nimeni.</l>
+                     <l/>
+                     <l>ANGELO.</l>
+                     <l>Sen hyvin tiedän, herra. Täss' on vitjat.</l>
+                     <l>Ne aioin tuoda teille Piikkisikaan,</l>
+                     <l>Mut täytyi odottaa, ei olleet valmiit.</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Mik' aikeenne on? Mitä minä niillä?</l>
+                     <l/>
+                     <l>ANGELO.</l>
+                     <l>Mitä vain mieli; ne on teitä varten.</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Minua? Niit' en ole tilannut.</l>
+                     <l/>
+                     <l>ANGELO.</l>
+                     <l>Ei kerran, kahdesti, vaan kymmenesti;</l>
+                     <l>Ne viekää kotiin lahjaks rouvallenne;</l>
+                     <l>Käyn illallisen jälkeen luonanne</l>
+                     <l>Ja otan silloin maksun vitjoistani.</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Nyt maksu ottakaa, tai muuten pian</l>
+                     <l>Pääsette rahoista ja vitjoista.</l>
+                     <l/>
+                     <l>ANGELO.</l>
+                     <l>Olette leikkisä. Hyvästi, herra!</l>
+                     <l/>
+                     <l>(Menee.)</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Mut tääpä kummaa, totta toisen kerran!</l>
+                     <l>Vaan niin ei tyhmää miestä, toden totta,</l>
+                     <l>Jok' epäis tarjottua lahjaa ottaa.</l>
+                     <l>Ei täällä hätäpäivää ole kellään,</l>
+                     <l>Kun kadullakin kultaa tyrkytellään.</l>
+                     <l>Mut joutuin Dromiota tapaamaan,</l>
+                     <l>Ja kiirein pois, kun laiva lähtee vaan!</l>
+                     <l/>
+                     <l>(Menee.)</l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>NELJÄS NÄYTÖS.</head>
+               <div type="div3">
+                  <head>Ensimmäinen kohtaus.</head>
+                  <lg>
+                     <l>Sama paikka.</l>
+                     <l>(Eräs kauppias, Angelo ja oikeudenpalvelija tulevat.)</l>
+                     <l/>
+                     <l>KAUPPIAS.</l>
+                     <l>Helluntaiks' oli velka maksettava;</l>
+                     <l>En ole sitä vaatinut, ja nytkään</l>
+                     <l>En vaatisi, jos minulla ei matka</l>
+                     <l>Ois Persiaan ja siihen rahaa tarvis.</l>
+                     <l>Siis suorittakaa heti veikanne,</l>
+                     <l>Tää herra muuten pistää teidät tyrmään.</l>
+                     <l/>
+                     <l>ANGELO.</l>
+                     <l>Se summa, jonka teille olen velkaa,</l>
+                     <l>Antipholukselt' on mun saatavaa.</l>
+                     <l>Paraillaan juur' kun teidät tapasin,</l>
+                     <l>Hän multa vitjat sai, ja kello viidelt'</l>
+                     <l>On mulla määrä saada niistä maksu.</l>
+                     <l>Jos suvaitsette tulla kanssani,</l>
+                     <l>Niin velan maksan pois ja vielä kiitän.</l>
+                     <l/>
+                     <l>(Antipholus Ephesolainen ja Dromio Ephesolainen tulevat.)</l>
+                     <l/>
+                     <l>OIKEUDENPALVELIJA.</l>
+                     <l>Se vaiva säästyy: tuossa tulee hän.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH. (Dromiolle).</l>
+                     <l>Sill' aikaa kultasepällä kun käyn,</l>
+                     <l>Sin' osta köydenpätkä; sitä maistaa</l>
+                     <l>Saa vaimoni ja kätyrinsä,</l>
+                     <l>Kun päiväll' oven multa sulkivat. —</l>
+                     <l>Tuoss' onkin kultaseppä. — Mene oiti</l>
+                     <l>Ja osta köydenpää ja tuo se kotiin.</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Kyll' ostan, — tuhat puntaa vuodess' ostan!</l>
+                     <l/>
+                     <l>(Menee.)</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Kyll' oivan avun saa, ken teihin uskoo!</l>
+                     <l>Te lupasitte itse vitjat tuoda;</l>
+                     <l>Ei tullut seppää eikä vitjoja.</l>
+                     <l>Teist' ehkä liiaks kestäis ystävyys,</l>
+                     <l>Jos vitjat kiintäis sen: siks' ette tullut.</l>
+                     <l/>
+                     <l>ANGELO.</l>
+                     <l>Sijansa leikki saakoon! Tässä lasku</l>
+                     <l>On vitjain painost' ihan karaatilleen;</l>
+                     <l>Työpalkaksi ja hienon kullan hinnaks</l>
+                     <l>Saan kolme tukaattia yli sen,</l>
+                     <l>Mit' olen tälle herralle ma velkaa.</l>
+                     <l>Nyt pyydän, heti maksakaa ne hälle:</l>
+                     <l>On matkaan menoss', ei voi odottaa.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Nyt paikalla ei mulla ole rahaa,</l>
+                     <l>Lisäksi asioit' on kaupungilla.</l>
+                     <l>Talooni, Angelo, tää vieras viekää;</l>
+                     <l>Samassa vitjat viekää vaimolleni</l>
+                     <l>Ja hältä maksu niistä pyytäkää.</l>
+                     <l>Ehk' olen siellä silloin jo kuin tekin.</l>
+                     <l/>
+                     <l>ANGELO.</l>
+                     <l>Siis vitjat hälle itse annatte?</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>En; myötänne ne viekää; viivyn ehkä.</l>
+                     <l/>
+                     <l>ANGELO.</l>
+                     <l>Hyv' on. Teill' onko vitjat mukana?</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Jos mull' ei ole niitä, on ne teillä;</l>
+                     <l>Jos ei, niin ette rahojakaan saa.</l>
+                     <l/>
+                     <l>ANGELO.</l>
+                     <l>Ei, leikki pois, ja tuokaa tänne vitjat.</l>
+                     <l>Jo tuul' ja luode tätä herraa vartoo;</l>
+                     <l>Hänt' olen liiaksikin viivytellyt.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Tuon pilan peitteeks keksitte, kun ette</l>
+                     <l>Sananne mukaan Piikkisikaan tullut.</l>
+                     <l>Mun tulis teitä nuhdella, mut te</l>
+                     <l>Alatte toran, niinkuin mikä akka.</l>
+                     <l/>
+                     <l>KAUPPIAS.</l>
+                     <l>Jo aika rientää; pyydän, joutukaa.</l>
+                     <l/>
+                     <l>ANGELO.</l>
+                     <l>Näette minkä harmin tuo hän; vitjat —</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Ne viekää rouvalle, niin saatte rahat.</l>
+                     <l/>
+                     <l>ANGELO.</l>
+                     <l>Kas vain! Vastikäänhän ne teille annoin.</l>
+                     <l>Pois vitjat vain, tai joku vakuus suokaa.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Hyi! Pilan ajatte jo pilalle.</l>
+                     <l>Miss' on ne vitjat? Näyttäkää ne mulle.</l>
+                     <l/>
+                     <l>KAUPPIAS.</l>
+                     <l>Ei mulla aikaa moista jankkaa kuulla.</l>
+                     <l>No, herra, saanko velkani vai en?</l>
+                     <l>Jos en, niin hänet velkatyrmään laitan.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Vai velka? Mitä minä teille velkaa?</l>
+                     <l/>
+                     <l>ANGELO.</l>
+                     <l>Sen, mikä mulle tulee vitjoista.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>En mitään velkaa, ennenkuin ne saan.</l>
+                     <l/>
+                     <l>ANGELO.</l>
+                     <l>Ne saitte, siit' ei puolta tuntia.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>En mitään saanut; väitteenne mua loukkaa.</l>
+                     <l/>
+                     <l>ANGELO.</l>
+                     <l>Viel' enemmän mua loukkaa kieltonne.</l>
+                     <l>Mun luottoni on vaarass', ajatelkaa.</l>
+                     <l/>
+                     <l>KAUPPIAS (oikeudenpalvelijalle).</l>
+                     <l>Mun kanteestani pankaa hänet tyrmään.</l>
+                     <l/>
+                     <l>OIKEUDENPALVELIJA.</l>
+                     <l>Nimessä herttuan, mua seuratkaa.</l>
+                     <l/>
+                     <l>ANGELO.</l>
+                     <l>Tää koskee kipeästi maineeseeni. —</l>
+                     <l>Nuo rahat puolestani maksakaa,</l>
+                     <l>Tuon kautta muuten vangitutan teidät.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Vai maksaa siitä, mit' en koskaan saanut!</l>
+                     <l>No, hölmö, minut vangitse, jos tohdit.</l>
+                     <l/>
+                     <l>ANGELO.</l>
+                     <l>Mies, tuossa palkkas! Hänet vangitse.</l>
+                     <l>En omaa veljeäni säästäisi,</l>
+                     <l>Jos hän näin julkisesti mua solvais.</l>
+                     <l/>
+                     <l>OIKEUDENPALVELIJA.</l>
+                     <l>Te haaston kuulitte. Pois tyrmään siis.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Ma sua seuraan, kunnes takuun hankin.</l>
+                     <l>(Angelolle.)</l>
+                     <l>Tää lysti teille maksaa enemmän</l>
+                     <l>Kuin kaikki kulta, mit' on puodissanne.</l>
+                     <l/>
+                     <l>ANGELO.</l>
+                     <l>Kyll' oikeutt' on vielä Ephesossa:</l>
+                     <l>Tulette julkihäpeään, sen takaan.</l>
+                     <l/>
+                     <l>(Dromio Syrakusalainen tulee.)</l>
+                     <l/>
+                     <l>DROMIO SYR.</l>
+                     <l>Tääll' Epidamnosta on alus, herra;</l>
+                     <l>Ja heti kun sen isäntä on tullut,</l>
+                     <l>Se lähtee matkaan. Tavaranne olen</l>
+                     <l>Jo laivaan vienyt, olen ostanut</l>
+                     <l>Jo öljyt, palsamit ja <hi rend="italic">aqvavitat</hi>.</l>
+                     <l>Jo varusteiss' on kaikki; hauska tuuli</l>
+                     <l>Puhaltaa maalta päin; vain odottavat</l>
+                     <l>Aluksen isäntää ja teitä, herra.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Oletko hassu? Senkin pahnan-alus!</l>
+                     <l>Mik' Epidamnon alus mua vartoo?</l>
+                     <l/>
+                     <l>DROMIO SYR.</l>
+                     <l>Alusta laitoitte mun tiedustamaan.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Sun laitoin köyden ostoon, senkin hölmö,</l>
+                     <l>Ja sanoin minkä vuoks ja mitä varten.</l>
+                     <l/>
+                     <l>DROMIO SYR.</l>
+                     <l>Vai köyttä varten minut laitoitte?</l>
+                     <l>Alusta laitoitte mun tiedustamaan.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Kun aikaa saan, niin tästä kanssas kiistän</l>
+                     <l>Ja tarkemmiksi korvas opetan.</l>
+                     <l>Pois heti, lurjus, Adrianan luo!</l>
+                     <l>Tuoss' avain, käske että pulpetista,</l>
+                     <l>Jonk' yltä peittää turkkilainen vaate,</l>
+                     <l>Lähettää mulle rahakukkaron.</l>
+                     <l>Kadulla minut vangittu on, sano,</l>
+                     <l>Ja lunnaiks rahaa tarvitaan. Pois, joutuin! —</l>
+                     <l>(Oikeudenpalvelijalle.)</l>
+                     <l>Nyt tyrmään, kunnes rahat saapuvat.</l>
+                     <l/>
+                     <l>(Kauppias, Angelo, oikeudenpalvelija ja</l>
+                     <l>Antipholus Ephesolainen poistuvat.)</l>
+                     <l/>
+                     <l>DROMIO SYR.</l>
+                     <l>Siis Adrianan luo, miss' atrioitiin</l>
+                     <l>Ja missä mua kosi Dowsabel!</l>
+                     <l>Mun sylihini hän on liian paksu.</l>
+                     <l>Mut mennä täytyy, vaikk' ei mieli tee;</l>
+                     <l>Kun herra käskee, orja tottelee.</l>
+                     <l/>
+                     <l>(Menee.)</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Toinen kohtaus.</head>
+                  <lg>
+                     <l>(Adriana ja Luciana tulevat.)</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Ah! Luciana, niinkö hän sua kosi?</l>
+                     <l>Mut silmist' etkö nähnyt, tokko tosi</l>
+                     <l>Hänellä oli? Punainen vai kalvas</l>
+                     <l>Oliko, sano? Sumea vai valvas?</l>
+                     <l>Ja eikö kasvoillansa ilmaunut</l>
+                     <l>Sydämmen meteoorein taistelut?</l>
+                     <l/>
+                     <l>LUCIANA.</l>
+                     <l>Hän sanoi; oikeutt' ei häneen sulla.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Niin, kun ei anna; tuskaa siit' on mulla.</l>
+                     <l/>
+                     <l>LUCIANA.</l>
+                     <l>Tääll' olevansa, vannoi, muukalainen.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Se totta, vaikka vala väärä vainen.</l>
+                     <l/>
+                     <l>LUCIANA.</l>
+                     <l>Ma puhuin puolestasi.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Mitä sanoi?</l>
+                     <l/>
+                     <l>LUCIANA.</l>
+                     <l>Mit' anoin sulle, sitä multa anoi.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Mitenkä lempeäs hän nostaa koitti?</l>
+                     <l/>
+                     <l>LUCIANA.</l>
+                     <l>Niin siivosti, mun että melkein voitti:</l>
+                     <l>Puhetta kiitteli ja kauneutta.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Puhuitko mieliks?</l>
+                     <l/>
+                     <l>LUCIANA.</l>
+                     <l>Maltuhan! No mutta!</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>En malttua voi enää, enkä mieli;</l>
+                     <l>Kun ei saa sydän haastaa, haastaa kieli:</l>
+                     <l>Hän rujokas on, vanha, väärä, kuiva,</l>
+                     <l>On ruma, rampa, kaaho kauttaaltaan,</l>
+                     <l>Typerä, tyly, raaka, rietas, nuiva,</l>
+                     <l>Kuvaton ruumiiltaan ja sielultaan.</l>
+                     <l/>
+                     <l>LUCIANA.</l>
+                     <l>Ja kiivoittelet vielä mokomaa?</l>
+                     <l>Kun pääsee pahast', ei saa valittaa.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Hän paremp' on kuin mitä kieli luikkaa;</l>
+                     <l>Kun sitä vain ei huomais kukaan muu!</l>
+                     <l>Pesästään matkan päässä hyyppä huikkaa;</l>
+                     <l>Povess' on sääli, vaikka sättii suu.</l>
+                     <l/>
+                     <l>(Dromio Syrakusalainen tulee.)</l>
+                     <l/>
+                     <l>DROMIO SYR.</l>
+                     <l>Pulpetti! Kukkaro! On kiire mulla.</l>
+                     <l/>
+                     <l>LUCIANA.</l>
+                     <l>Noin hengästynyt?</l>
+                     <l/>
+                     <l>DROMIO SYR.</l>
+                     <l>Täytyi juosten tulla.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Mut kuink' on, herras? Missä on hän, missä?</l>
+                     <l/>
+                     <l>DROMIO SYR.</l>
+                     <l>Manalan kuiluss', itse helvetissä!</l>
+                     <l>Ikijakullinen piru hänet sieppas,</l>
+                     <l>Hiis, jonk' on kova sydän raudoitettu,</l>
+                     <l>Maapeikko, lempo, raaka, tunteeton,</l>
+                     <l>Susimas mies, mi puhlunnahoiss' on,</l>
+                     <l>Vakooja, olkaveikko, joka kaikki solat urkkii</l>
+                     <l>Ja kaikki läpikäytävät ja salasopet kurkkii,</l>
+                     <l>Hapuva hurtta, jolle saalis sattuu haistimiin,</l>
+                     <l>Jok' ennen tuomiopäivää jo vie sielut helvettiin.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Mut sano, mikä hätänä on, mies.</l>
+                     <l/>
+                     <l>DROMIO SYR.</l>
+                     <l>En tiedä mikä hätänä, mut hätä oli putkaan.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Hän vankinako? Kenen vaateesta?</l>
+                     <l/>
+                     <l>DROMIO SYR.</l>
+                     <l>En tiedä kenen vaateesta, mut vaatteista kenties</l>
+                     <l>Saan päättää, että vaatija oli puhlunnahka-mies.</l>
+                     <l>Mut lunnaiks hälle laittakaa nyt rahat pulpetista.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Käy, sisko, noutamaan.</l>
+                     <l>(Luciana menee.)</l>
+                     <l>Mut kummaa, ett' on</l>
+                     <l>Hänellä velkaa, jost' en minä tiedä. —</l>
+                     <l>Vai jokin sitoumusko hänet sitoo?</l>
+                     <l/>
+                     <l>DROMIO SYR.</l>
+                     <l>Ei, sitoumus, ei, se on vahvempaa:</l>
+                     <l>On vitjat, vitjat! Kuulkaa: kilahtaa!</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Vitjatko? Mitä?</l>
+                     <l/>
+                     <l>DROMIO SYR.</l>
+                     <l>Eikä: kello, kello.</l>
+                     <l>Mun täytyy täältä mennä nyt; tul' liikaa viivytyksi:</l>
+                     <l>Kun lähdin, oli kello kaks, ja nyt se lyöpi yksi.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Siis taapäin aika käy! Sep' outoa.</l>
+                     <l/>
+                     <l>DROMIO SYR.</l>
+                     <l>Kun aika kohtaa poliisin, se taantuu pelosta.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Ikäänkuin aika velass' ois! Sun puheesi on somaa.</l>
+                     <l/>
+                     <l>DROMIO SYR.</l>
+                     <l>Hävinnyt on se: velkaa on se kaiken, minkä omaa.</l>
+                     <l>Ja lisäks se on varaskin; ei ole mikään taika,</l>
+                     <l>Ett' olkoon päivä taikka yö, niin varkain kulkee aika.</l>
+                     <l>Jos varas siis ja velass' on ja kohtaa poliisin,</l>
+                     <l>Niin ihmekö, jos tunnin verran taantuu päiväkin?</l>
+                     <l/>
+                     <l>(Luciana palaa.)</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>No, tuoss' on rahat; vie ne joutuin vain,</l>
+                     <l>Ja käske että herras kotiin rientää. —</l>
+                     <l>Pois tule, sisko; pahan luulon sain;</l>
+                     <l>Ne luulot tuskaa tuo ja tuskaa lientää.</l>
+                     <l/>
+                     <l>(Menevät.)</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Kolmas kohtaus.</head>
+                  <lg>
+                     <l>Sama paikka.</l>
+                     <l>(Antipholus Syrakusalainen tulee.)</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Jos kenen kohtaan, hän mua tervehtii,</l>
+                     <l>Ikäänkuin tuttavaa ja ystävätä;</l>
+                     <l>Ja kaikki kutsuvat mua nimeltä.</l>
+                     <l>Ken kultaa tarjoilee, ken luokseen pyytää,</l>
+                     <l>Ken hyväst' avustani kiittelee,</l>
+                     <l>Ken kaupittelee mulle tavaroitaan.</l>
+                     <l>Mua räätäl' äsken kutsui puotiinsa</l>
+                     <l>Ja näytti silkkiä, jot' oli mulle</l>
+                     <l>Hän ostanut, ja otti vaatteen mittaa.</l>
+                     <l>Nää varmaan kuvittelun lumeit' on,</l>
+                     <l>Tai asuu täällä Lapin loihtijoita.</l>
+                     <l/>
+                     <l>(Dromio Syrakusalainen tulee.)</l>
+                  </lg>
+                  <p rend="justify">DROMIO SYR. Tässä on se kulta, jota käskitte minun noutaa. Mihin olette pannut sen uuspukuisen vanhan Aatamin kuvan?</p>
+                  <p rend="justify">ANTIPHOLUS SYR. Mitä kultaa tämä? Mistä Aatamista puhut?</p>
+                  <p rend="justify">DROMIO SYR. En siitä Aatamista, joka työnnettiin paratiisista, vaan siitä Aatamista, joka työntää tyrmään; joka käy sen vasikan nahoissa, joka tapettiin tuhlaajapojan tuliaisiksi; joka kulki perässänne kuin paha enkeli ja vaati teitä luopumaan vapaudestanne.</p>
+                  <p rend="justify">ANTIPHOLUS SYR. En ymmärrä sinua.</p>
+                  <p rend="justify">DROMIO SYR. Vai ette? No, sehän on selvä juttu. Häntä tarkoitan, joka tuli niinkuin paasiviulu nahkakotelossa; sitä miestä, nähkääs, joka väsyneille herrasmiehille tarjoo käsikynkkäänsä ja pyytää sisään lepäämään; joka säälii kaikkia repaleisia ja antaa heille oikein tyrnävän puvun; joka panee parhaansa tehdäkseen pampullaan suurempia urotöitä kuin maurilainen keihäällään.</p>
+                  <p rend="justify">ANTIPHOLUS SYR. Mitä? Tarkoitatko poliisimiestä?</p>
+                  <p rend="justify">DROMIO SYR. Niin, sellaista suorasukaista kruununmiestä, joka panee siteisiin jokaisen, joka ei tee suoraksi sitoumuksiaan; joka aina luulee, että ollaan makuulle menossa ja sanoo: "Jääkää rauhaan!"</p>
+                  <p rend="justify">ANTIPHOLUS SYR. Anna sinäkin tyhmyytesi jäädä rauhaan. Lähteekö laiva tänä iltana? Pääsemmekö matkaan?</p>
+                  <p rend="justify">DROMIO SYR. Toinhan, hyvä herra, jo tunti sitten teille sanan, että parkkilaiva Sukkela lähtee tänä iltana, mutta silloin teidät kruununmies pidätti, niin että nyt saatte odottaa pursilaiva Viivytystä. Tässä ovat ne enkelit, jotka käskitte minun tuoda lunnaiksenne.</p>
+                  <lg>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Mies hassahtanut on; niinikään minä.</l>
+                     <l>Me vaellamme täällä lumeissa.</l>
+                     <l>Josp' armon vallat meitä täältä auttais!</l>
+                     <l/>
+                     <l>(Eräs huvinainen tulee.)</l>
+                     <l/>
+                     <l>HUVINAINEN.</l>
+                     <l>Antipholus, haa, tapasinpa teidät!</l>
+                     <l>Näen että löysitte jo kultasepän.</l>
+                     <l>Ne nuoko mulle lupaamanne vitjat?</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Pois, saatana! Ja älä mua kiusaa!</l>
+                     <l/>
+                     <l>DROMIO SYR.</l>
+                     <l>Herra, onko tuo neiti Saatana?</l>
+                  </lg>
+                  <p rend="justify">ANTIPHOLUS SYR. On itse perkele.</p>
+                  <p rend="justify">DROMIO SYR. Vielä pahempikin: hän on kiron isän isoäiti, ja kulkee valkeissa vaatteissa niinkuin siipat ainakin; siitä tulee, että siipat, kun sanovat: "minä kirottu", tarkoittavat: "minä valkeuden lapsi". On kirjoitettu että he näkyvät ihmisille valkeuden enkeleinä; valkeus on tulen vaikuttama, ja tuli polttaa; ergo, tuollaiset valkeat mamselit polttavat. Älkää menkö häntä liki.</p>
+                  <lg>
+                     <l>HUVINAINEN.</l>
+                     <l>Olette hauskat, herra sekä renki.</l>
+                     <l>Pois tulkaa; vielä kerran ruokailkaamme.</l>
+                  </lg>
+                  <p rend="justify">DROMIO SYR. Herra, jos toivotte saavanne liemiruokaa, niin tilatkaa itsellenne pitkä lusikka.</p>
+                  <p rend="justify">ANTIPHOLUS SYR. Miksi niin, Dromio?</p>
+                  <p rend="justify">DROMIO SYR. Sillä, joka pirun kanssa syö, pitää olla pitkä lusikka.</p>
+                  <lg>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Pois, perkele! Vai ruokailusta haastat?</l>
+                     <l>Sin' olet noita, niinkuin kaikki muut.</l>
+                     <l>Pois sinut manaan: jätä minut, mene!</l>
+                     <l/>
+                     <l>HUVINAINEN.</l>
+                     <l>Pois sormus, jonka pöydäss' otitte,</l>
+                     <l>Tai kiiltokivestäni vitjat mulle;</l>
+                     <l>Pois silloin menen enkä teitä häiri.</l>
+                     <l/>
+                     <l>DROMIO SYR.</l>
+                     <l>Pirulle muuten kelpaa kynnenvuolu,</l>
+                     <l>Hius, oljenkorsi, veritilkka, neula,</l>
+                     <l>Tai pähkinä, tai kirsimarjan sydän;</l>
+                     <l>Mut tuo on ahneempi, hän vaatii vitjat.</l>
+                     <l>Varokaa; hän jos vitjat saa, niin piru</l>
+                     <l>Sen räminällä meidät säikyttää.</l>
+                     <l/>
+                     <l>HUVINAINEN.</l>
+                     <l>Ma pyydän herra: sormus taikka vitjat!</l>
+                     <l>Noin ettehän te mua pettää voi!</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Pakene, noita! — Tule, Dromio, pois!</l>
+                     <l/>
+                     <l>DROMIO SYR.</l>
+                     <l>"Pois, prameus!" sanoi riikinkukko; se teille, neiti, opiks ois.</l>
+                     <l/>
+                     <l>(Antipholus Syrakusalainen ja Dromio Syrakusalainen menevät.)</l>
+                     <l/>
+                     <l>HUVINAINEN.</l>
+                     <l>Antipholus on, todentotta, hullu,</l>
+                     <l>Noin tuhmasti ei muuten käyttäytyis.</l>
+                     <l>Vei viidensadan markan sormukseni</l>
+                     <l>Ja mulle siitä vitjat lupasi;</l>
+                     <l>Nyt multa kieltää toisen sekä toisen.</l>
+                     <l>Syy, miksi häntä hulluks arvelen, —</l>
+                     <l>Vaikk' äskeistä en vimmaans' ottais lukuun —</l>
+                     <l>On hassut pöytäpuheensa, kun sanoi</l>
+                     <l>Ett' oma ovi hältä suljettiin.</l>
+                     <l>Nuo puuskat hänen vaimons' ehkä tuntee</l>
+                     <l>Ja oven hältä sulki tahallaan.</l>
+                     <l>Nyt paras rientää hänen kotiinsa</l>
+                     <l>Ja väittää rouvalle, ett' asuntooni</l>
+                     <l>Hän hyökkäs raivossaan ja väkisin</l>
+                     <l>Vei sormukseni. Paras koittaa tätä:</l>
+                     <l>En viittäsataa markkaa hevin jätä.</l>
+                     <l/>
+                     <l>(Menee.)</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Neljäs kohtaus.</head>
+                  <lg>
+                     <l>Sama paikka.</l>
+                     <l>(Antipholus Ephesolainen ja vanginvartija tulevat.)</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Mies, ole huoletta: en minä karkaa;</l>
+                     <l>Kyll' ennen lähtöäni kätees annan</l>
+                     <l>Sen summan, josta olen vangittu.</l>
+                     <l>Pahalla pääll' on tänään vaimoni;</l>
+                     <l>Ei vähällä hän sananviejää usko.</l>
+                     <l>Ett' Ephesossa minut vangitaan,</l>
+                     <l>Se, näet, kuuluu pahalt' eukon korvaan.</l>
+                     <l>(Dromio Ephesolainen tulee, kädessä köydenpää.)</l>
+                     <l>Tuoss' orjani; hän varmaan rahat tuo. —</l>
+                     <l>No, toitko mitä panin sinun tuomaan?</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Tuoss' on; se riittää kaikki maksamaan.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Mut' miss' on rahat?</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>He, rahat köydest' annoin, hyvä herra.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Viissataa tukaattia köydestä?</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Viissataa lisää sillä rahall' ostan.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Mik' oli sinun määrä tuoda, lurjus?</l>
+                  </lg>
+                  <p rend="justify">DROMIO EPH. Määrä oli tuoda köydenpää, ja nyt olen sen määrän päässä.</p>
+                  <p rend="justify">ANTIPHOLUS EPH. Ja määrän päässä tuon saat tuliaisiks.</p>
+                  <p rend="justify">(Lyö häntä.)<lb/>
+                  </p>
+                  <p rend="justify">VANGINVARTIJA. Ah, kärsivällisyyttä, hyvä herra!</p>
+                  <p rend="justify">DROMIO EPH. Minä se kärsivällisyyttä tarvitsen, minä se hädässä olen.</p>
+                  <p rend="justify">VANGINVARTIJA. Mies hyvä, kieltäs hillitse.</p>
+                  <p rend="justify">DROMIO EPH. Kehoittakaa pikemmin häntä hillitsemään kättään.</p>
+                  <p rend="justify">ANTIPHOLUS EPH. Senkin äpärä, tunnoton konna!</p>
+                  <p rend="justify">DROMIO EPH. Hyvä, jos olisin tunnoton, ett'en tuntisi iskujanne.</p>
+                  <p rend="justify">ANTIPHOLUS EPH. Sinussa ei tunnu muu kuin iskut, enempää kuin aasissakaan.</p>
+                  <p rend="justify">DROMIO EPH. Aasi olen tosiaankin; te olette minua korvista vetänyt. — Olen palvellut häntä syntymähetkestäni tähän hetkeen asti, enkä ole muuta hänen kädestään saanut kuin iskuja. Kun minun on kylmä, lämmittää hän minua selkäsaunalla; kun minun on lämmin, jäähdyttää hän minua selkäsaunalla; sillä herättää, kun nukun; sillä ajaa nousemaan, kun istun; sillä työntää ovesta, kun menen ulos; sillä tervehtii, kun tulen kotiin; sitä kannan seljässäni, kuin kerjäläis-akka kakaraansa; ja kun hän on minut raajarikoksi hakannut, saan vielä mennä raipat selässä ovelta ovelle kerjäämään.</p>
+                  <lg>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Mua seuratkaa nyt; tuoss' on vaimoni.</l>
+                     <l/>
+                     <l>(Adriana, Luciana, huvinainen ja koulumestari Tollo tulevat.)</l>
+                  </lg>
+                  <p rend="justify">DROMIO EPH. Rouva hyvä, <hi rend="italic">respice finem</hi>, ajatelkaa loppupäätä, tai paremmin papukaijan ennustusta: "Varo köydenpäätä."</p>
+                  <p rend="justify">ANTIPHOLUS EPH. Vieläkö siinä jaarittelet?</p>
+                  <lg>
+                     <l>(Lyö häntä.)</l>
+                     <l/>
+                     <l>HUVINAINEN.</l>
+                     <l>Sanokaa: eikö puolisonne hullu?</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Tuo raaka teko sitä todistaa. —</l>
+                     <l>Te Tollo tohtori, te tenhomies,</l>
+                     <l>Tajuunsa jälleen hänet saattakaa,</l>
+                     <l>Niin teille annan mitä haluatte.</l>
+                     <l/>
+                     <l>LUCIANA.</l>
+                     <l>Voi, kuink' on katse palava ja tuima!</l>
+                     <l/>
+                     <l>HUVINAINEN.</l>
+                     <l>Kas, kuinka raivosta hän vapisee!</l>
+                     <l/>
+                     <l>TOLLO.</l>
+                     <l>Kätenne tuokaa, niin saan koittaa suonta.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Tuoss' on se, sillä korvianne koitan.</l>
+                     <l/>
+                     <l>(Lyö häntä korvalle.)</l>
+                     <l/>
+                     <l>TOLLO.</l>
+                     <l>Sa, saatana, mi tuossa miehess' asut,</l>
+                     <l>Pyhästi sua manaan, väisty pois!</l>
+                     <l>Pois pimeyden valtakuntaas oiti!</l>
+                     <l>Sua manaan taivaan kaikkein pyhäin kautta.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Höperö velho, vait! En ole hullu.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Oi, josp' et oisi, kurja sielu-parka!</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Haa, nukke, nuoko liiketuttavasi?</l>
+                     <l>Tuo saframiko-naama sinun kanssas</l>
+                     <l>Mun talossani tänään söi ja mässäs,</l>
+                     <l>Syyn tiedossa kun ovi suljettiin,</l>
+                     <l>Ja kiellettiin mult' omaan taloon pääsy?</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Kotona, armas, söit, sen taivas tietää.</l>
+                     <l>Oi, jospa oisit kotiin jäänytkin,</l>
+                     <l>Niin juorut välttäisit ja julkipilkat!</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Kotona söinkö? Sano sinä, lurjus.</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Kotona ette syönyt, se on vissi.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Kadulle jäinhän? Lukossahan ovi?</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Kadulle jäitte, <hi rend="italic">pardy</hi>, lukoss' ovi.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Siin' eikö itse hän mua haukkunut?</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>
+                        <hi rend="italic">Sans fable</hi>, itse siinä teitä haukkui.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Ja kyökkyrikin tiuskaili ja ilkkui?</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Niin oikein, kyökkivestaali se ilkkui.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Ja enkö vihoissani sieltä mennyt?</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Se varma, todistaa sen voivat luuni;</l>
+                     <l>Se vihan vimma niissä vielä tuntuu.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Hyväkö puoltaa moista hulluutta?</l>
+                     <l/>
+                     <l>TOLLO.</l>
+                     <l>Ei haittaakaan; mies tuntee herrans' oikut,</l>
+                     <l>Ja myöntymällä vimmaa viihdyttää.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Sa panit sepän vangitsemaan minut.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Lähetin sulle Dromion kanssa rahat,</l>
+                     <l>Jotk' oli kiire saada lunnaiksesi.</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Mun kanssani! Kai hyvä oli tahto,</l>
+                     <l>Mut rahaa min' en saanut riunaakaan.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Menithän rahakukkaroa perään?</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Niin, luokseni hän tuli, ja sen annoin.</l>
+                     <l/>
+                     <l>LUCIANA.</l>
+                     <l>Ja minä tiedän, että se on totta.</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Jumala tietäköön ja köytyri,</l>
+                     <l>Ett' toimekseni sain vain köyden-oston.</l>
+                     <l/>
+                     <l>TOLLO.</l>
+                     <l>Ne ovat hullut, renki niinkuin herra,</l>
+                     <l>Sit' ontto, kuollut katse osoittaa;</l>
+                     <l>Ne pitää köyttää, mustaan koppiin panna.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Miks tänään multa oven suljit sinä? —</l>
+                     <l>(Dromiolle.)</l>
+                     <l>Ja sinä miksi salaat rahapussin?</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Mies rakas, ovea en sulkenut.</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Ja, rakas herra, min' en rahaa saanut;</l>
+                     <l>Mut ovi meiltä suljettiin, se totta.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Valetta kumpikin, sa viekas konna!</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Valetta sun on kaikki, viekas narttu!</l>
+                     <l>Kirottuun roskajoukkoon liittäydyt</l>
+                     <l>Minusta tehdäksesi halpaa pilkkaa.</l>
+                     <l>Mut kynsin revin päästäs silmäs nuo,</l>
+                     <l>Joit' ilahuttaa moinen rietas leikki.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Sitokaa hänet, ettei liki pääse!</l>
+                     <l/>
+                     <l>TOLLO.</l>
+                     <l>Apua tänne! Lisää väkeä!</l>
+                     <l>Väkevä hänessä on paholainen.</l>
+                     <l/>
+                     <l>LUCIANA.</l>
+                     <l>Voi, raukkaa, kuink' on kalman kalvas katse!</l>
+                     <l/>
+                     <l>(Kolme, neljä miestä tulee sisään, ja</l>
+                     <l>sitovat Antipholuksen ja Dromion.)</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Mun tapatteko? — Vanginvartija,</l>
+                     <l>Min' olen vankis; sallitko sa noiden</l>
+                     <l>Pois minut ryöstää?</l>
+                     <l/>
+                     <l>VANGINVARTIJA.</l>
+                     <l>Miehet, päästäkää.</l>
+                     <l>Mun vankini hän on, hänt' ette saa.</l>
+                     <l/>
+                     <l>TOLLO.</l>
+                     <l>Sitokaa tuokin mies; on hullu hänkin.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Mit' aiot sinä, tyhmä kruunun mies?</l>
+                     <l>Ilosi onko nähdä kurjan raukan</l>
+                     <l>Tekevän haittaa, turmaa itselleen?</l>
+                     <l/>
+                     <l>VANGINVARTIJA.</l>
+                     <l>Hän mun on vankini; jos hänet heitän,</l>
+                     <l>Saan itse maksaa hänen velkansa.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Kaikk' ennen lähtöäni sulle suorin.</l>
+                     <l>Nyt saata minut saamamiehen luo,</l>
+                     <l>Ja kun saan tietää, mist' on velka tullut,</l>
+                     <l>Niin maksan sen. — Te, hyvä tohtori,</l>
+                     <l>Pitäkää huolta, että säilyyn hänet</l>
+                     <l>Kotiini viedään. — Päivää onnetonta!</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Niin, luuskaa onnetonta!</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Herra, näin jouduin teidän tähden kiinnitykseen.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>He, huuti, konna! Raivoonko mun saatat?</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>No, suottako te kiinni jouduitte?</l>
+                     <l>Raivotkaa, huutakaa vain perkeleitä!</l>
+                     <l/>
+                     <l>LUCIANA.</l>
+                     <l>Nuo sieluparat, kuinka hourivat!</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Pois hänet viekää. — Sisko, tule mukaan.</l>
+                     <l/>
+                     <l>(Antipholus Ephesolainen, Dromio Ephesolainen,</l>
+                     <l>Tollo ja palvelijat menevät.)</l>
+                     <l/>
+                     <l>Sanokaa, kuka hänet tyrmään vaati?</l>
+                     <l/>
+                     <l>VANGINVARTIJA.</l>
+                     <l>Angelo, kultaseppä. Onko tuttu?</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Hyvinkin tunnen. Kuinka suur' on summa?</l>
+                     <l/>
+                     <l>VANGINVARTIJA.</l>
+                     <l>Kakssataa tukaattia.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Mistä velka?</l>
+                     <l/>
+                     <l>VANGINVARTIJA.</l>
+                     <l>Vitjoista, jotka miehenne on saanut.</l>
+                     <l/>
+                     <l>HUVINAINEN.</l>
+                     <l>Kun puolisonne tänään raivossaan</l>
+                     <l>Kotiini tuli ja vei sormukseni —</l>
+                     <l>Se sormus hällä sormess' oli äsken —</l>
+                     <l>Niin heti näin sen jälkeen hällä vitjat.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Voi olla, mutta minä niit' en nähnyt. —</l>
+                     <l>Mies, saata minut kultasepän luo;</l>
+                     <l>Mun täytyy tästä saada täysi selvä.</l>
+                     <l/>
+                     <l>(Antipholus Syrakusalainen, paljastettu miekka</l>
+                     <l>kädessä, ja Dromio Syrakusalainen tulevat.)</l>
+                     <l/>
+                     <l>LUCIANA.</l>
+                     <l>Jes' auttakoon! Nyt ovat päässeet irti!</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Ja miekat paljaina! Hoi, apua!</l>
+                     <l/>
+                     <l>Sitokaa heidät.</l>
+                     <l/>
+                     <l>VANGINVARTIJA.</l>
+                     <l>Pois! Meit' uhkaa surma.</l>
+                     <l/>
+                     <l>(Adriana, Luciana ja vanginvartija juoksevat pois.)</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Kas vain, nuo noidat miekkaa pelkäävät!</l>
+                     <l/>
+                     <l>DROMIO SYR.</l>
+                     <l>Pois karkas hän, jok' aikoi vaimoksenne.</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Pois Kentauriin! Sielt' ota tavaramme.</l>
+                     <l>Eheinä jos vain pääsisimme laivaan!</l>
+                  </lg>
+                  <p rend="justify">DROMIO SYR. Mitä jos jäisimme tänne yöksi; eivät varmaankaan tee meille mitään pahaa. Näittehän, että puhuttelevat meitä ystävällisesti ja antavat meille kultaa. Minusta he ovat niin hyvänluontoista väkeä, että, jos tuota hupsua ihravuorta ei olisi, joka vaatii minua miehekseen, olisin vallan halukas jäämään tänne ja rupeamaan poppamieheksi.</p>
+                  <lg>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>En mistään hinnast' yöksi tänne jää.</l>
+                     <l>Pois joutuin, laita laivaan tavaramme!</l>
+                     <l/>
+                     <l>(Menevät.)</l>
+                  </lg>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>VIIDES NÄYTÖS.</head>
+               <div type="div3">
+                  <head>Ensimmäinen kohtaus.</head>
+                  <lg>
+                     <l>(Kauppias ja Angelo tulevat.)</l>
+                     <l/>
+                     <l>ANGELO.</l>
+                     <l>On sääli, että estin teiltä matkan;</l>
+                     <l>Mut, vannon sen, hän vitjat multa sai,</l>
+                     <l>Vaikk' ei, sen häpeemätön, sitä myönnä.</l>
+                     <l/>
+                     <l>KAUPPIAS.</l>
+                     <l>Millainen miehellä on maine täällä?</l>
+                     <l/>
+                     <l>ANGELO.</l>
+                     <l>Hänell' on kunnioitettava nimi,</l>
+                     <l>Rajaton luotto, kaikkein suosio;</l>
+                     <l>Ei kenestäkään jälkeen jää; niin, sanans'</l>
+                     <l>On painavampi kuin mun rikkauteni.</l>
+                     <l/>
+                     <l>KAUPPIAS.</l>
+                     <l>Vait! Hiljaa! Tuossa, luulemma, hän tulee.</l>
+                     <l/>
+                     <l>(Antipholus Syrakusalainen ja Dromio Syrakusalainen tulevat.)</l>
+                     <l/>
+                     <l>ANGELO.</l>
+                     <l>Niin oikein, samat vitjat kaulassa,</l>
+                     <l>Jotk' omaavansa kielsi pyhästi.</l>
+                     <l>Lähemmä tulkaa; puhuttelen häntä. —</l>
+                     <l>Signor Antipholus, on kummaa, miksi</l>
+                     <l>Näin mulle huolta tuotatte ja pilkkaa,</l>
+                     <l>Ja — aito häväistykseks itsellenne —</l>
+                     <l>Valoilla, verukkeilla kiellätte</l>
+                     <l>Nuo vitjat saaneenne, joit' aivan julki</l>
+                     <l>Pidätte nyt. Pait mitä tuosta koitui</l>
+                     <l>Menoja, häpeää ja vankeutta,</l>
+                     <l>Viel' arvon ystävääni hävititte,</l>
+                     <l>Jolt' estyi matka tämän jutun tähden;</l>
+                     <l>Hän muuten merta kyntäisi jo tänään.</l>
+                     <l>Nuo vitjat multa saitte; kiellättekö?</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Niin sainkin; sit' en ole kieltänytkään.</l>
+                     <l/>
+                     <l>KAUPPIAS.</l>
+                     <l>Kyll' olette, ja vielä valalla.</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Ken kuuli, että valalla sen kielsin?</l>
+                     <l/>
+                     <l>KAUPPIAS.</l>
+                     <l>He, itsehän sen kuulin omin korvin.</l>
+                     <l>Häpeä, herja! Synti, että elät</l>
+                     <l>Ja liikut missä kunnon miehet kulkee.</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Sin' olet konna, joka noin mua syytät.</l>
+                     <l>Ma heti kuntoni ja kunniani</l>
+                     <l>Sinulle näytän, vastata jos tohdit.</l>
+                     <l/>
+                     <l>KAUPPIAS.</l>
+                     <l>Sen tohdin; konnaksi sun julistan.</l>
+                     <l/>
+                     <l>(Paljastavat miekkansa.)</l>
+                     <l/>
+                     <l>(Adriana, Luciana, huvinainen y.m. tulevat.)</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Varokaa, Herran tähden! Hän on hullu. —</l>
+                     <l>Käsiksi häneen! Miekka hältä pois!</l>
+                     <l>Myös Dromio sitokaa. Ne viekää kotiin.</l>
+                     <l/>
+                     <l>DROMIO SYR.</l>
+                     <l>Pois joutuin! Lähi-taloon, Herran tähden!</l>
+                     <l>Pois, tuohon luostariin, tai hukka perii!</l>
+                     <l/>
+                     <l>(Antipholus ja Dromio pakenevat luostariin.)</l>
+                     <l/>
+                     <l>(Abbedissa tulee.)</l>
+                     <l/>
+                     <l>ABBEDISSA.</l>
+                     <l>Seis, ihmiset! Miks tänne tunkeilette?</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Pois ottamaan mun houkkaa miestäni.</l>
+                     <l>Tie auki, että saamme hänet köyttää</l>
+                     <l>Ja viedä kotiin saamaan parannusta.</l>
+                     <l/>
+                     <l>ANGELO.</l>
+                     <l>Jo aavistin ett' älyssään ei ollut.</l>
+                     <l/>
+                     <l>KAUPPIAS.</l>
+                     <l>Pahasti tein, kun miekan paljastin.</l>
+                     <l/>
+                     <l>ABBEDISSA.</l>
+                     <l>Hän kauanko on tuossa tilass' ollut?</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Tään viikon hän on ollut kolkon synkkä</l>
+                     <l>Ja aivan erilainen entisestään;</l>
+                     <l>Mut vasta iltapäivällä on tauti</l>
+                     <l>Noin kiihkeäksi raivoks yltynyt.</l>
+                     <l/>
+                     <l>ABBEDISSA.</l>
+                     <l>Hält' onko meri niellyt tavaraa?</l>
+                     <l>Vai kuollut ystävä? Vai onko silmä</l>
+                     <l>Sitonut mielen luvattomaan lempeen?</l>
+                     <l>Se yleinen on vika nuorten miesten,</l>
+                     <l>Jotk' ovat liiaks silmää iskeneet.</l>
+                     <l>Mikä näistä suruista on ollut hällä?</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Ei mikään, paitsi ehkä viimeinen;</l>
+                     <l>Pois hänet kodist' usein lempi veti.</l>
+                     <l/>
+                     <l>ABBEDISSA.</l>
+                     <l>Ois teidän tullut siitä nuhdella.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Sen teinkin.</l>
+                     <l/>
+                     <l>ABBEDISSA.</l>
+                     <l>Ette kyllin ankarasti.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Niin ankarasti kuin vain kainous salli.</l>
+                     <l/>
+                     <l>ABBEDISSA.</l>
+                     <l>Salassa ehkä.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Julkisesti myös.</l>
+                     <l/>
+                     <l>ABBEDISSA.</l>
+                     <l>Mut ette kyllin usein.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Tuohan oli</l>
+                     <l>Meill' ainaisena puhe-aiheena.</l>
+                     <l>Ei saanut toraltani makuurauhaa,</l>
+                     <l>Ei ruokarauhaa toraltani saanut;</l>
+                     <l>Kun yksin oltiin, muust' en puhunut,</l>
+                     <l>Kun seurass' oltiin, näykin siitä aina;</l>
+                     <l>Pahaksi, rumaksi sit' aina väitin.</l>
+                     <l/>
+                     <l>ABBEDISSA.</l>
+                     <l>Ja siitä miehenne on hulluks tullut.</l>
+                     <l>Pahempi hullun koiran puremaa</l>
+                     <l>On luulevaisen naisen toran myrkky.</l>
+                     <l>Sun jankutukses hält' on unen vienyt,</l>
+                     <l>Ja siit' on hänen päänsä heikennyt.</l>
+                     <l>Moitteillas höystit hänen atriansa;</l>
+                     <l>Ei ruoka sula, jos ei ruokarauhaa;</l>
+                     <l>Nuo raivot kuumeen puuskat siitä syntyi.</l>
+                     <l>Ja hulluudenhan oiretta on kuume.</l>
+                     <l>Toreillas estit hältä huvikkeet</l>
+                     <l>Ja virkistyksen sulot; siitä tuli</l>
+                     <l>Tuo tympeä ja raskas mielensynkkyys,</l>
+                     <l>Kamalan epätoivon heimolainen,</l>
+                     <l>Ja kannoill' iso myrkyllinen liuta</l>
+                     <l>Kipuja, kalpeit' elon jäytäjiä.</l>
+                     <l>Jos unet, verot, huvit häiritset,</l>
+                     <l>Höpertyy eläimet ja ihmiset.</l>
+                     <l>Niin, mustasukkaisilla vehkeilläsi</l>
+                     <l>Sin' olet järjen vienyt mieheltäsi.</l>
+                     <l/>
+                     <l>LUCIANA.</l>
+                     <l>Hän aina nuhteissaan on ollut laaka.</l>
+                     <l>Kun mies on ollut tyly, julma, raaka. —</l>
+                     <l>Sa kuulet nämä moitteet, etkä vastaa?</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Mun omantuntoni hän herätti. —</l>
+                     <l>Nyt, ihmiskullat, hänet pelastakaa!</l>
+                     <l/>
+                     <l>ABBEDISSA.</l>
+                     <l>Ei, talooni ei pääse yksikään.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>No, tuottakaa siis hänet väellänne.</l>
+                     <l/>
+                     <l>ABBEDISSA.</l>
+                     <l>Ei, ei. Hän turvautui pyhäkköön,</l>
+                     <l>Ja häntä suojelee se käsiltänne,</l>
+                     <l>Siks kunnes hänet taas saan järkiinsä,</l>
+                     <l>Jos, ainakin ma parastani koitan.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Ei, minä hoidan miestäni ja vaalin</l>
+                     <l>Ja lääkitsen, se mun on tehtäväni,</l>
+                     <l>En siinä kaipaa muiden apua;</l>
+                     <l>Siis sallikaa mun viedä hänet kotiin.</l>
+                     <l/>
+                     <l>ABBEDISSA.</l>
+                     <l>Vain malttia! Hänt' ei saa häiritä,</l>
+                     <l>Siks kunnes olen kaikin taatuin keinoin —</l>
+                     <l>Parannusjuomin, lääkkein, rukouksin —</l>
+                     <l>Hänestä yrittänyt tehdä miestä.</l>
+                     <l>Rakkaudentyö mun lupauksiini kuuluu</l>
+                     <l>Ja luostariston pyhiin tehtäviin.</l>
+                     <l>Siis mene pois ja jätä hänet tänne.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>En täältä mene enkä häntä jätä.</l>
+                     <l>Ei pyhyytenne ole arvoista</l>
+                     <l>Erottaa mies ja vaimo toisistaan.</l>
+                     <l/>
+                     <l>ABBEDISSA.</l>
+                     <l>Nyt rauhoitu ja mene; hänt' et saa.</l>
+                     <l/>
+                     <l>(Menee.)</l>
+                     <l/>
+                     <l>LUCIANA.</l>
+                     <l>Valita herttualle herjastasi.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Sen teen; ma jalkoihinsa heittäydyn,</l>
+                     <l>Enk' ennen nouse kuin saa rukoukseni</l>
+                     <l>Ja kyyneleeni aikaan sen, ett' itse</l>
+                     <l>Hän abbedissalt' ottaa mieheni.</l>
+                     <l/>
+                     <l>KAUPPIAS.</l>
+                     <l>Mut viisari jo, näen mä, näyttää viittä;</l>
+                     <l>Ja kohta varmaan täss' on herttua</l>
+                     <l>Menossa tuohon synkkään, kolkkoon laaksoon,</l>
+                     <l>Kamalaan surman sijaan, mestauspaikkaan,</l>
+                     <l>Mi tuoss' on luostar'ojan takana.</l>
+                     <l/>
+                     <l>ANGELO.</l>
+                     <l>Hän miksi sinne menee?</l>
+                     <l/>
+                     <l>KAUPPIAS.</l>
+                     <l>Katsomaan,</l>
+                     <l>Kun Syrakusan arvon kauppias,</l>
+                     <l>Jonk' onnettomuus tänne maihin toi</l>
+                     <l>Lain uhkamääräyksistä huolimatta,</l>
+                     <l>Nyt rikoksestaan julki mestataan.</l>
+                     <l/>
+                     <l>ANGELO.</l>
+                     <l>Tuoss' ovat. Katselkaamme teloitusta.</l>
+                     <l/>
+                     <l>LUCIANA.</l>
+                     <l>Polvilles maahan, kun käy herttua ohi!</l>
+                     <l/>
+                     <l>(Herttua tulee seurueineen; hänen jälkeensä Aegeon,</l>
+                     <l>avopäin, teloittajan ja oikeudenpalvelijain saattamana.)</l>
+                     <l/>
+                     <l>HERTTUA.</l>
+                     <l>Julistus lue vielä kerran julki:</l>
+                     <l>Jos ystävää on, joka sakon maksaa,</l>
+                     <l>Hän eloon jäädä saa, sen lupaamme.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Oikeutta, herttua, abbedissaa vastaan!</l>
+                     <l/>
+                     <l>HERTTUA.</l>
+                     <l>Hän kunnioitettu on kelpo nainen:</l>
+                     <l>Ei suinkaan sulle vääryytt' ole tehnyt.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Anteeksi: mieheni, Antipholus —</l>
+                     <l>Jok' uutterast' on vaatimuksestanne</l>
+                     <l>Mun ja mun tavaraini haltija —</l>
+                     <l>On tänään julman raivopuuskan saanut:</l>
+                     <l>Katuja pitkin juoksee vimmassaan,</l>
+                     <l>Mukana renki, jok' on yhtä hullu,</l>
+                     <l>Ja hyökkää porvarien asuntoihin,</l>
+                     <l>Mist' ottaa kalliit kivet, sormukset,</l>
+                     <l>Niin, kaikki, mitä hullun tekee mieli.</l>
+                     <l>Jo kerran hänet sidoin, kotiin laitoin,</l>
+                     <l>Ja menin tuhot sopimaan, joit' oli</l>
+                     <l>Hän siellä täällä tehnyt raivoissaan,</l>
+                     <l>Mut äkkiä — en tiedä millä keinoin —</l>
+                     <l>Hän pääsi vartijainsa käsistä</l>
+                     <l>Ja tuli hullun palvelijansa kanssa,</l>
+                     <l>Molemmat hurjapäinä, miekka maalla,</l>
+                     <l>Taas meitä vastaan, meitä miekall' uhkas,</l>
+                     <l>Ja pakoon ajoi. Tähän luostariin</l>
+                     <l>He pakenivat; heitä seurasimme,</l>
+                     <l>Mut abbedissa täällä ovet sulkee,</l>
+                     <l>Ei meitä sisään päästä, eikä lupaa</l>
+                     <l>Hänt' antaa meille kotiin viedäksemme.</l>
+                     <l>Siis, armollinen herttua, anna käsky</l>
+                     <l>Ett' ulos meidän hoitoomme hän tuodaan.</l>
+                     <l/>
+                     <l>HERTTUA.</l>
+                     <l>Mua miehes sodass' ammoin palveli,</l>
+                     <l>Ja ruhtinaallisen tein lupauksen.</l>
+                     <l>Kun hänet vihkikumppanikses otit,</l>
+                     <l>Hänelle tehdä mitä hyvää voin. —</l>
+                     <l>Siis joku kolkuttakoon portille</l>
+                     <l>Ja tuokoon abbedissan puheilleni.</l>
+                     <l>En lähde ennen kuin on tämä selvä.</l>
+                     <l/>
+                     <l>(Palvelija tulee.)</l>
+                     <l/>
+                     <l>PALVELIJA.</l>
+                     <l>Oi, rouva, rouva, pakoon, joutuin pakoon!</l>
+                     <l>On irti herra, sekä renki; piesty</l>
+                     <l>On piiat, sidottu on tohtori;</l>
+                     <l>Kekälein parran hältä kärvensivät,</l>
+                     <l>Ja aina kun se tuleen leimahti,</l>
+                     <l>Valoivat likavettä sangoittain</l>
+                     <l>Sen sammukkeeksi. Kärsimystä herra</l>
+                     <l>Hänelle saarnaa, ja sill'aikaa renki</l>
+                     <l>Pään putipuhtaaks keritsee, kuin narrin.</l>
+                     <l>Jos koht' ei saada apua, niin varmaan</l>
+                     <l>He kahden miehin velhon tappavat.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Vait, hölmö! Tääll' on herrasi ja renki;</l>
+                     <l>Valetta kaikki, mitä meille kerrot.</l>
+                     <l/>
+                     <l>PALVELIJA.</l>
+                     <l>Se totta on, niin totta kuin ma elän,</l>
+                     <l>On tuskin hengenvedon aikaa siitä.</l>
+                     <l>Hän teitä huutaa, vannoo, että teiltä</l>
+                     <l>Hän tavatessa kasvot kärventää.</l>
+                     <l>(Huutoa kuuluu ulkoa.)</l>
+                     <l>Hän tulee, rouva, kuulkaa; pakoon joutuin!</l>
+                     <l/>
+                     <l>HERTTUA.</l>
+                     <l>Ei vaaraa; jääkää. Peitset tanaan, miehet!</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Voi, se on mieheni! Nyt näette kaikki:</l>
+                     <l>Hän kulkee näkymättä kautta ilmain.</l>
+                     <l>Vast'ikään oli tuolla luostarissa,</l>
+                     <l>Ja tässä nyt! Tuost' ymmäll' olen aivan.</l>
+                     <l/>
+                     <l>(Antipholus Ephesolainen ja Dromio Ephesolainen tulevat.)</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Oikeutta, herttua! Pyydän oikeutta</l>
+                     <l>Siit' avusta, jonk' ammoin sulle tein',</l>
+                     <l>Kun sodassa sua suojelin ja monta</l>
+                     <l>Sain haavaa henkes pelastaissani;</l>
+                     <l>Sen veren nimessä, jot' edestäsi</l>
+                     <l>Ma vuodatin, nyt pyydän oikeutta.</l>
+                     <l/>
+                     <l>AEGEON.</l>
+                     <l>Jos kuolon pelosta en houri, — tuossa</l>
+                     <l>On poikani, Antipholus, ja Dromio.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Oikeutta, herttua, tuohon naiseen nähden,</l>
+                     <l>Jonk' itse annoit mulle puolisoksi!</l>
+                     <l>Hän on mua häväissyt ja pilkannut</l>
+                     <l>Syvimmän loukkauksen määrään saakka.</l>
+                     <l>Yl' ihmisymmärryksen käy se herja,</l>
+                     <l>Jot' on hän tänään minuun syytänyt.</l>
+                     <l/>
+                     <l>HERTTUA.</l>
+                     <l>Kuin, sano vain, niin oikeutta saat.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Hän tänään, herttua, multa ovet sulki</l>
+                     <l>Ja mässäs talossani ruojain kanssa.</l>
+                     <l/>
+                     <l>HERTTUA.</l>
+                     <l>Suur' rikos! Nainen, teitkö sen?</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>En, herttua.</l>
+                     <l>Minä ja hän ja sisareni tänään</l>
+                     <l>Yhdessä söimme. Autuuteeni vannon,</l>
+                     <l>Ett' on tuo syytös mua kohtaan väärä.</l>
+                     <l/>
+                     <l>LUCIANA.</l>
+                     <l>Yörauhaani ja päivän valoon vannon,</l>
+                     <l>Ett' ihka totta, mitä sanoo hän.</l>
+                     <l/>
+                     <l>ANGELO.</l>
+                     <l>Naisvaloja! He väärin vannovat.</l>
+                     <l>Täss' asiass' on hullu oikeassa.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Ma tiedän, herttua, täysin mitä sanon;</l>
+                     <l>Ei viina mua vimmaa, vihan raivo</l>
+                     <l>Ei järkeäni huumaa, vaikka moinen</l>
+                     <l>Vois syytös viisaammankin tehdä hulluks.</l>
+                     <l>Tuo nainen pöydästään mun tänään sulki;</l>
+                     <l>Tää seppä, jos ei yhtä juonta lie,</l>
+                     <l>Todistaa voi sen, mukana hän oli.</l>
+                     <l>Hän meni tuomaan mulle vitjoja,</l>
+                     <l>Luvaten toimittaa ne Piikkisikaan,</l>
+                     <l>Miss' atrioimme, Balthasar ja minä.</l>
+                     <l>Kun oli syöty, eikä tullut hän,</l>
+                     <l>Niin etsin häntä. Kadull' yhdyin häneen</l>
+                     <l>Ja tähän herraan, joka seurass' oli.</l>
+                     <l>Pyhästi siinä luihu seppä vannoi,</l>
+                     <l>Ett' olin tänään hältä vitjat saanut,</l>
+                     <l>Joit' en, sen taivas tietköön, nähnytkään.</l>
+                     <l>Mun kruununmiehen käski vangita.</l>
+                     <l>Ma seurasin, ja kotiin laitoin orjan</l>
+                     <l>Rahoja tuomaan; hän ei niitä tuonut.</l>
+                     <l>Vakaasti silloin pyysin vartijaa</l>
+                     <l>Kotiini käymään minun kanssani.</l>
+                     <l>Me kohtasimme tiellä vaimoni</l>
+                     <l>Ja hänen siskonsa ja apureita</l>
+                     <l>Katalan liudan; niiden joukossa</l>
+                     <l>Ol' eräs Tollo, laiha nälkäkurki,</l>
+                     <l>Luuranko, ennustaja, puoskari,</l>
+                     <l>Räsyinen ilvehtijä, kurja konna,</l>
+                     <l>Kapeaposki, kuoppasilmä otus,</l>
+                     <l>Elävä ruotto. Tämä häijy konna</l>
+                     <l>Rupesi mukamas mua manaamaan,</l>
+                     <l>Mua silmään katsoi, tunnusteli suonta</l>
+                     <l>Ja suipponenällään mua nenäili</l>
+                     <l>Ja huusi: "Hän on hullu." Koko joukko</l>
+                     <l>Nyt hyökkäs minuun, sitoi, vei mun kotiin,</l>
+                     <l>Ja pimeään ja märkään holviin työnsi</l>
+                     <l>Mun sekä rengin, yhteen sidottuina.</l>
+                     <l>Kalusin hampain poikki siteeni</l>
+                     <l>Ja pääsin vapauteen, ja suoraa päätä</l>
+                     <l>Armonne luokse riensin. Pyydän, herttua,</l>
+                     <l>Niin tehkää, että täysin hyvitetään</l>
+                     <l>Tää suuri häväistys ja syvä loukkaus.</l>
+                     <l/>
+                     <l>ANGELO.</l>
+                     <l>Sen, herttua, voin todistaa, ettei hän</l>
+                     <l>Kotona syönyt; ovet oli kiinni.</l>
+                     <l/>
+                     <l>HERTTUA.</l>
+                     <l>Mut saiko sulta vitjat nuo, vai ei?</l>
+                     <l/>
+                     <l>ANGELO.</l>
+                     <l>Sai, herra; nämä ihmiset ne näki</l>
+                     <l>Hänellä kaulassa, kun tuonne juoksi.</l>
+                     <l/>
+                     <l>KAUPPIAS.</l>
+                     <l>Minäkin vannon korvin kuulleeni</l>
+                     <l>Ett' omistitte vitjat saaneenne,</l>
+                     <l>Vaikk' ensin turulla sen kielsitte;</l>
+                     <l>Siks uhkasin ma teitä miekallani,</l>
+                     <l>Mut silloin pakenitte luostariin,</l>
+                     <l>Jost' ihmeen kautta varmaan pelastuitte.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>En ole tuossa luostarissa ollut,</l>
+                     <l>Et ole miekallas mua uhannut,</l>
+                     <l>En vitjojakaan nähnyt. Kautta taivaan,</l>
+                     <l>On väärä syytöksesi mua kohtaan.</l>
+                     <l/>
+                     <l>HERTTUA.</l>
+                     <l>Haa, tääpä vasta sekava on juttu!</l>
+                     <l>Olette kaikki Circen juomaa juoneet.</l>
+                     <l>Jos tänne hänet veitte, ois hän täällä;</l>
+                     <l>Jos hullu ois, noin tyynesti ei haastais.</l>
+                     <l>Te sanotte, ett' talossaan hän söi,</l>
+                     <l>Mut seppä kieltää sen. — Mies, puhu sinä.</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Tuon kanssa söi hän Piikkisiassa.</l>
+                     <l/>
+                     <l>HUVINAINEN.</l>
+                     <l>Niin, ja tuon sormuksen vei sormestani.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Se totta on: tää sormus hänen on.</l>
+                     <l/>
+                     <l>HERTTUA.</l>
+                     <l>Mut näitkö, että luostariin hän meni?</l>
+                     <l/>
+                     <l>HUVINAINEN.</l>
+                     <l>Niin selvään, herttua, kuin teidät näen.</l>
+                     <l/>
+                     <l>HERTTUA.</l>
+                     <l>Mut tääpä kummaa! — Tuokaa abbedissa!</l>
+                     <l>Olette kaikki kieropäät, tai hullut.</l>
+                     <l/>
+                     <l>(Muudan seuralainen menee.)</l>
+                     <l/>
+                     <l>AEGEON.</l>
+                     <l>Ylevä herttua, sallitteko sanan?</l>
+                     <l>Näen ystävän, jok' ehkä pelastaa</l>
+                     <l>Ja vapauttaa mun maksamalla lunnaat.</l>
+                     <l/>
+                     <l>HERTTUA.</l>
+                     <l>Vapaasti puhu, Syrakusan mies.</l>
+                     <l/>
+                     <l>AEGEON.</l>
+                     <l>Nimenne eikö lie Antipholus,</l>
+                     <l>Ja tuoko ei lie Dromio, orjanne?</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Ma tunti sitten orjankahleiss' olin,</l>
+                     <l>Mut hän ne puri poikki, kiitos hälle;</l>
+                     <l>Nyt olen Dromio ja vapaa mies.</l>
+                     <l/>
+                     <l>AEGEON.</l>
+                     <l>Molemmat kyllä minut tunnette.</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Teiss' itseämme tunnemme: me kahleiss</l>
+                     <l>Olimme äsken niinkuin tekin nyt.</l>
+                     <l>Vai lienettekö Tollon potilaita?</l>
+                     <l/>
+                     <l>AEGEON.</l>
+                     <l>Mit' oudostatte? Tunnette mun hyvin.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>En ole koskaan ennen teitä nähnyt.</l>
+                     <l/>
+                     <l>AEGEON.</l>
+                     <l>Mun tuska muutti siitä kun mun näitte,</l>
+                     <l>Ja syvä suru ajan riettain käsin</l>
+                     <l>Kaversi oudot uurteet kasvoihin.</l>
+                     <l>Mut sano, etkö tunne ääntäni?</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>En sitäkään.</l>
+                     <l/>
+                     <l>AEGEON.</l>
+                     <l>Et, Dromio, sinäkään?</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>En, toden totta.</l>
+                     <l/>
+                     <l>AEGEON.</l>
+                     <l>Tiedän, että tunnet.</l>
+                  </lg>
+                  <p rend="justify">DROMIO EPH. Vai niin, herra; mutta minä olen varma siitä, että en tunne; ja kieltäköön sananne kuka hyvänsä, niin olette nyt kiinnitetty häntä uskomaan.</p>
+                  <lg>
+                     <l>AEGEON.</l>
+                     <l>Et ääntäkään? Oi, näinkö aika karsii!</l>
+                     <l>Vain vuotta seitsemän, ja kieli parka</l>
+                     <l>Niin jäykennytkö on, ett' ainut poika</l>
+                     <l>Sen surun särkemää ei sointaa tunne?</l>
+                     <l>Vaikk' uurtoiset mun kasvoni nyt peittää</l>
+                     <l>Tuon mannonsyöjän talven lumihiuteet,</l>
+                     <l>Ja veren viemärit on kaikki jäässä,</l>
+                     <l>Eloni yöhön tok' on jäänyt muisto</l>
+                     <l>Ja heikko tuike silmään sammuvaan</l>
+                     <l>Ja kuuroon korvaan heikko kuulon tunne:</l>
+                     <l>Nää vanhat todistajat sanoo kaikki,</l>
+                     <l>Ett' olet poikani Antipholus.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Ma isääni en ole koskaan nähnyt.</l>
+                     <l/>
+                     <l>AEGEON.</l>
+                     <l>On vuotta siitä seitsemän, sen tiedät,</l>
+                     <l>Kun Syrakusass' erottiin. Mut ehkä</l>
+                     <l>Häpeät tunnustaa näin kurjaa miestä?</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Ken täällä minut tuntee, herttuakin,</l>
+                     <l>Voi todistaa, ett'ei niin ole laita.</l>
+                     <l>En ole Syrakusaa koskaan nähnyt.</l>
+                     <l/>
+                     <l>HERTTUA.</l>
+                     <l>Niin, tiedä, mies, kakskymment' olen vuotta</l>
+                     <l>Antipholuksen ollut valtias;</l>
+                     <l>Sill' ajall' ei sun maillas ole käynyt.</l>
+                     <l>Sa pelosta tai vanhuuttasi hourit.</l>
+                     <l/>
+                     <l>(Abbedissa, Antipholus Syrakusalainen ja</l>
+                     <l>Dromio Syrakusalainen tulevat.)</l>
+                     <l/>
+                     <l>ABBEDISSA.</l>
+                     <l>Suur' herttua, tässä sorrettu on mies.</l>
+                     <l/>
+                     <l>(Kaikki tunkeilevat katsomaan heitä.)</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Kaks miestä mull' on, jos ei silmä petä.</l>
+                     <l/>
+                     <l>HERTTUA.</l>
+                     <l>Ja toinen niist' on toisen kuvajainen;</l>
+                     <l>Ja sama noiden. Ken on lihaa, verta.</l>
+                     <l>Ja ken on henki? Sanokoon ken voi.</l>
+                     <l/>
+                     <l>DROMIO SYR.</l>
+                     <l>Min' olen Dromio; pois tuo toinen häädä.</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Min' olen Dromio; minun anna jäädä.</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Aegeonko, vai hänen haamunsa?</l>
+                     <l/>
+                     <l>DROMIO SYR.</l>
+                     <l>Mun vanha herrani! Ken teidät sitoi?</l>
+                     <l/>
+                     <l>ABBEDISSA.</l>
+                     <l>Ken lienee sitonut, ma siteet päästän,</l>
+                     <l>Ja miehen itselleni vapautan. —</l>
+                     <l>Aegeon, sano, oletko se mies,</l>
+                     <l>Joll' oli vaimo, nimeltään Aemilia,</l>
+                     <l>Ja josta sulle syntyi kaksi poikaa?</l>
+                     <l>Jos se Aegeon olet, oi, niin puhu,</l>
+                     <l>Ja puhu samalle Aemilialle.</l>
+                     <l/>
+                     <l>AEGEON.</l>
+                     <l>Jos unt' en näe, Aemilia sa olet.</l>
+                     <l>Jos olet se, niin sano, miss' on poika,</l>
+                     <l>Jok' oli kanssas turmalautalla?</l>
+                     <l/>
+                     <l>ABBEDISSA.</l>
+                     <l>Epidamnolaiset hänet pelastivat</l>
+                     <l>Ja minut myös ja Dromion kaksoisveljen.</l>
+                     <l>Mut poikani ja Dromion multa heti</l>
+                     <l>Korinthon raa'at kalastajat ryösti;</l>
+                     <l>Jäin yksin epidamnolaisten käsiin.</l>
+                     <l>En tiedä mitä heistä tullut on,</l>
+                     <l>Mut mit' on tullut minusta, sen näet.</l>
+                     <l/>
+                     <l>HERTTUA.</l>
+                     <l>Haa! Tähän liittyy aamullinen taru:</l>
+                     <l>Kaks yhdennäköistä Antipholusta,</l>
+                     <l>Ja kaksi Dromiota yhdenmoista;</l>
+                     <l>Lisäksi haaksirikko, josta kertoi. —</l>
+                     <l>Nuo ovat niiden lasten vanhemmat,</l>
+                     <l>Jotk' yhteen onnen sattuma on tuonut.</l>
+                     <l>Antipholus, Korinthostako tulit?</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>En minä; Syrakusasta ma tulin.</l>
+                     <l/>
+                     <l>HERTTUA.</l>
+                     <l>Käy syrjään; teitä en voi erottaa.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Minä, arvon herttua, tulin Korinthosta.</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Ja minä hänen kanssaan.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Toi meidät tänne herttua Menaphon,</l>
+                     <l>Setänne kuulu, mainehikas urho.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Ken teistä tänään kanssain atrioi?</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Minä, armas rouva.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Tehän mieheni?</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Ei, sanon minä.</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Saman sanon minä;</l>
+                     <l>Ja kuitenkin hän mua siksi kutsui;</l>
+                     <l>Ja hänen siskonsa, tää kaunis neiti,</l>
+                     <l>Mua veljeks sanoi, — Mitä silloin puhuin,</l>
+                     <l>Siit' ensi tilassa kai tulee tosi,</l>
+                     <l>Jos ei lie unta mitä näen ja kuulen.</l>
+                     <l/>
+                     <l>ANGELO.</l>
+                     <l>Nuo on ne vitjat, jotka multa saitte.</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Sen kyllä uskon, enkä sitä kiellä.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Te noista vitjoista mun vangitsitte.</l>
+                     <l/>
+                     <l>ANGELO.</l>
+                     <l>Sen kyllä uskon, enkä sitä kiellä.</l>
+                     <l/>
+                     <l>ADRIANA.</l>
+                     <l>Lähetin Dromiolla lunnaiksi</l>
+                     <l>Sinulle rahaa; niit' ei lie hän tuonut.</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Minulla ette.</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Tään rahakukkaron ma teiltä sain,</l>
+                     <l>Ja Dromio, renkini, sen mulle toi.</l>
+                     <l>Meist' aina toinen kohtas toisen orjan;</l>
+                     <l>Mua häneks luultiin, häntä minuksi;</l>
+                     <l>Ja siit' on kaikki hairaukset tulleet.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Nyt tällä kullall' ostan vapaaks isän.</l>
+                     <l/>
+                     <l>HERTTUA.</l>
+                     <l>Ei tarvis; henkiin jääköön isäsi.</l>
+                     <l/>
+                     <l>HUVINAINEN.</l>
+                     <l>Mut minun pitää saada sormukseni.</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Tuoss', ottakaa! Suur' kiitos pidoista!</l>
+                     <l/>
+                     <l>ABBEDISSA.</l>
+                     <l>Ylevä herttua, suvaitkaahan käydä</l>
+                     <l>Nyt meidän kanssa tähän luostariin,</l>
+                     <l>Niin saatte tyynni kuulla kohtalomme.</l>
+                     <l>Ja kaikki tässä paikall' olevat,</l>
+                     <l>Jotk' ovat tämän päivän hairauksissa</l>
+                     <l>Vääryyttä kärsineet, he tulkoot mukaan,</l>
+                     <l>Niin kaikki saavat täyden hyvitteen.</l>
+                     <l>Viiskolmatt' olen vuotta voihkanut</l>
+                     <l>Ma teidän tähden, poikani; nyt vasta</l>
+                     <l>Ma raskaast' olen kuormastani päässyt. —</l>
+                     <l>Te, herttua, mieheni, ja lapseni,</l>
+                     <l>Ja tekin, näiden synnyinkalenteri,</l>
+                     <l>Pois tulkaa; ristiäiset toimikaamme,</l>
+                     <l>Ja pitkäin tuskain jälkeen iloitkaamme.</l>
+                     <l/>
+                     <l>HERTTUA.</l>
+                     <l>Ma mielelläni tulen kummiksi.</l>
+                     <l/>
+                     <l>(Herttua, abbedissa, Aegeon, huvinainen,</l>
+                     <l>kauppias, Angelo ja seuralaiset menevät.)</l>
+                     <l/>
+                     <l>DROMIO SYR.</l>
+                     <l>Laivasta tuonko tavaranne, herra?</l>
+                     <l/>
+                     <l>ANTIPHOLUS EPH.</l>
+                     <l>Mit' olet tavaroita laivaan vienyt?</l>
+                     <l/>
+                     <l>DROMIO SYR.</l>
+                     <l>Ne kapineet, jotk' oli Kentaurissa.</l>
+                     <l/>
+                     <l>ANTIPHOLUS SYR.</l>
+                     <l>Hän mulle puhuu. — Minä herras olen.</l>
+                     <l>Pois tule; kyllä niistä huolehdin.</l>
+                     <l>Iloitse nyt ja veljes kaulaan karkaa.</l>
+                     <l/>
+                     <l>(Antipholus Syrakusalainen, Antipholus Ephesolainen,</l>
+                     <l>Adriana ja Luciana menevät.)</l>
+                     <l/>
+                     <l>DROMIO SYR.</l>
+                     <l>Tuo teidän talon paksu kyökkyri,</l>
+                     <l>Jok' äsken tarjoillaan mua kyökkäytti,</l>
+                     <l>Nyt tulee siskoks mulle, eikä vaimoks.</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Sin' olet peilini, et veljeni;</l>
+                     <l>Sinusta näen, ett' olen sievä mies.</l>
+                     <l>Menetkö tuonne sisään ristiäisiin?</l>
+                     <l/>
+                     <l>DROMIO SYR.</l>
+                     <l>Edellä en; sin' olet vanhempi.</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Se kysymys; kuink' otat siitä selvän?</l>
+                     <l/>
+                     <l>DROMIO SYR.</l>
+                     <l>Esikois-oikeudesta solmustamme;</l>
+                     <l>Sill'aikaa mene sinä edellä.</l>
+                     <l/>
+                     <l>DROMIO EPH.</l>
+                     <l>Parempi näin:</l>
+                     <l>Me veljeksinä tulimme yht'aikaa maailmaan,</l>
+                     <l>Siis käsi kädess' astumme, ei eellä kumpikaan.</l>
+                     <l/>
+                     <l>(Menevät.)</l>
+                  </lg>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

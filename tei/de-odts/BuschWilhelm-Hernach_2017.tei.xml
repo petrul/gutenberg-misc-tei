@@ -1,0 +1,1107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hernach</title>
+            <author>Wilhelm Busch</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-01T18:39:43Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">odts/de-odts/BuschWilhelm-Hernach_2017.epub.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Wilhelm Busch</name>
+               <date>2024-01-01T18:39:43Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Hernach</head>
+         <author>Wilhelm Busch</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">odts/de-odts/BuschWilhelm-Hernach_2017.epub.odt</p>
+         <p>E-text prepared by Delphine Lettau, Paul Dring,<lb/>and the DP Canada On-line Proofreading Team<lb/>(<ptr target="http://www.pgdpcanada.net/"/>)</p>
+         <pb/>
+         <div type="div1">
+            <head>Hernach</head>
+            <p rend="justify">von</p>
+            <pb/>
+            <div type="div2">
+               <head>Wilhelm Busch</head>
+               <table rend="frame" xml:id="Table1">
+                  <row>
+                     <cell rend="center">TITLE PAGE</cell>
+                  </row>
+               </table>
+               <lg>
+                  <l>31. bis 35. Tausend</l>
+                  <l>München</l>
+                  <l>Lothar Joachim Verlag</l>
+                  <l>1908</l>
+               </lg>
+               <p rend="justify"> </p>
+               <p rend="justify"> </p>
+               <lg>
+                  <l>
+                     <hi rend="italic">Published September 10 1908, Privilege of Copyright</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">in the U. S. reserved under the Act approved</hi>
+                  </l>
+                  <l>
+                     <hi rend="italic">March 3 1905 by Lothar Joachim, Munich</hi>
+                  </l>
+                  <l/>
+                  <l>Alle Rechte vorbehalten</l>
+               </lg>
+               <p rend="justify"> </p>
+               <p rend="justify"> </p>
+               <div type="div3">
+                  <head>Prosaischer Kauz</head>
+                  <table rend="frame" xml:id="Table2">
+                     <row>
+                        <cell rend="center">KAUZ</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table3">
+                     <row>
+                        <cell>Der holde Mond erhebt sich leise.<lb/>Ein alter Kauz denkt nur an Mäuse.<lb/>
+                        </cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Unwillkommener Besuch</head>
+                  <table rend="frame" xml:id="Table4">
+                     <row>
+                        <cell rend="center">BESUCH</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table5">
+                     <row>
+                        <cell>Wird man im Mittagschlaf gestört,<lb/>Das ist verdrießlich, das empört.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Rast im Walde</head>
+                  <table rend="frame" xml:id="Table6">
+                     <row>
+                        <cell rend="center">RAST IM WALDE</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table7">
+                     <row>
+                        <cell>Es hielten mal Wandrer<lb/>Im Walde Ruh,<lb/>Da kamen zwei Häslein<lb/>Und schauten zu.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Ständchen</head>
+                  <table rend="frame" xml:id="Table8">
+                     <row>
+                        <cell rend="center">STAENDCHEN</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table9">
+                     <row>
+                        <cell>Ein Ständchen in der Frühlingsnacht<lb/>Ist leicht gebracht.<lb/>Nur ist es fraglich, ob's gelingt,<lb/>Daß es zu Röschens Herzen dringt.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Abendkonzert</head>
+                  <table rend="frame" xml:id="Table10">
+                     <row>
+                        <cell rend="center">ABENDKONZERT</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table11">
+                     <row>
+                        <cell>Ein Konzert von Dilettanten.<lb/>Stimmt auch grad nicht jeder Ton,<lb/>Wie bei rechten Musikanten,<lb/>Ihnen selbst gefällt es schon.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Maitanz</head>
+                  <table rend="frame" xml:id="Table12">
+                     <row>
+                        <cell rend="center">MAITANZ</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table13">
+                     <row>
+                        <cell>Fritz Heuschreck spielte Schrippdiddellitt!<lb/>Auf seinem Violinchen;<lb/>Der Käferkasperl tanzte mit<lb/>Dem Schmetterlingskathrinchen.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Osterhas</head>
+                  <table rend="frame" xml:id="Table14">
+                     <row>
+                        <cell rend="center">OSTERHAS</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table15">
+                     <row>
+                        <cell>Es ist das Osterfest alljährlich<lb/>Doch für den Hasen recht beschwerlich.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Der Verdächtige</head>
+                  <table rend="frame" xml:id="Table16">
+                     <row>
+                        <cell rend="center">OSTERHAS</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table17">
+                     <row>
+                        <cell>Trau keinem Filou,<lb/>Und hätt' er auch beide Augen zu.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Kartoffelidyll</head>
+                  <table rend="frame" xml:id="Table18">
+                     <row>
+                        <cell rend="center">KARTOFFELIDYLL</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Die brave Großmutter</head>
+                  <table rend="frame" xml:id="Table19">
+                     <row>
+                        <cell rend="center">DIE BRAVE GROSSMUTTER</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table20">
+                     <row>
+                        <cell>Großmütterchen tut alles gern<lb/>Für Hänschen, ihren kleinen Herrn.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Der Gefällige I</head>
+                  <table rend="frame" xml:id="Table21">
+                     <row>
+                        <cell rend="center">DER GEFAELLIGE I</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table22">
+                     <row>
+                        <cell>Die Grete steigt zum Hühnernest.<lb/>Der Hansel hält die Leiter fest.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Der Gefällige II</head>
+                  <table rend="frame" xml:id="Table23">
+                     <row>
+                        <cell rend="center">DER GEFAELLIGE II</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table24">
+                     <row>
+                        <cell>Die Leiter bricht von dem Gewicht.<lb/>Erfreulich ist's für Beide nicht.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Die Zeit I</head>
+                  <table rend="frame" xml:id="Table25">
+                     <row>
+                        <cell rend="center">DIE ZEIT I</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table26">
+                     <row>
+                        <cell>So ist nun mal die Zeit allhie,<lb/>Erst trägt sie dich,</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Die Zeit II</head>
+                  <table rend="frame" xml:id="Table27">
+                     <row>
+                        <cell rend="center">DIE ZEIT II</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table28">
+                     <row>
+                        <cell>— Dann trägst du sie;</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Die Zeit III</head>
+                  <table rend="frame" xml:id="Table29">
+                     <row>
+                        <cell rend="center">DIE ZEIT III</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table30">
+                     <row>
+                        <cell>Und wann's vorüber, weißt du nie.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Dorfpolitiker I</head>
+                  <table rend="frame" xml:id="Table31">
+                     <row>
+                        <cell rend="center">DORFPOLITIKER I</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table32">
+                     <row>
+                        <cell>Altentheiler liest mit Ruh<lb/>In der Landeszeitung;<lb/>Friedlich grast die treue Kuh<lb/>Unter seiner Leitung.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Dorfpolitiker II</head>
+                  <table rend="frame" xml:id="Table33">
+                     <row>
+                        <cell rend="center">DORFPOLITIKER II</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table34">
+                     <row>
+                        <cell>Wenn sich zwei so einig sind<lb/>Und sich lange kennen,<lb/>Ach, wie kommt dann oft geschwind<lb/>Einer, sie zu trennen.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Dorfpolitiker III</head>
+                  <table rend="frame" xml:id="Table35">
+                     <row>
+                        <cell rend="center">DORFPOLITIKER III</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table36">
+                     <row>
+                        <cell>Daß die Trennung möglichst kurz,<lb/>Die die zwei betroffen,<lb/>Daß nicht gar zu hart der Sturz,<lb/>Nun, wir wollen's hoffen.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Überraschung I</head>
+                  <table rend="frame" xml:id="Table37">
+                     <row>
+                        <cell rend="center">ÜBERRSCHUNG I</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table38">
+                     <row>
+                        <cell>Stets findet Überraschung statt<lb/>Da, wo man's nicht erwartet hat;</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Überraschung II</head>
+                  <table rend="frame" xml:id="Table39">
+                     <row>
+                        <cell rend="center">ÜBERRSCHUNG II</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table40">
+                     <row>
+                        <cell>Doch daß dieselbe überall<lb/>Grad angenehm, ist nicht der Fall.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Überraschung III</head>
+                  <table rend="frame" xml:id="Table41">
+                     <row>
+                        <cell rend="center">ÜBERRSCHUNG III</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table42">
+                     <row>
+                        <cell>Gar oft erschreckt uns eine sehr,<lb/>Und eine andre noch viel mehr.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Die böse Ziege I</head>
+                  <table rend="frame" xml:id="Table43">
+                     <row>
+                        <cell rend="center">ZIEGE I</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table44">
+                     <row>
+                        <cell>Ein Sträußlein, abgepflückt,<lb/>Damit es schmücke,</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Die böse Ziege II</head>
+                  <table rend="frame" xml:id="Table45">
+                     <row>
+                        <cell rend="center">ZIEGE II</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table46">
+                     <row>
+                        <cell>Wird oft, eh' daß es schmückt,<lb/>Ein Raub der Zicke.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Eule und Star</head>
+                  <table rend="frame" xml:id="Table47">
+                     <row>
+                        <cell rend="center">EULE UND STAR</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table48">
+                     <row>
+                        <cell>Guten Tag, Frau Eule!<lb/>Habt Ihr Langeweile? —<lb/>Ja, eben jetzt,<lb/>So lang Ihr schwätzt!</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Schnitzeln</head>
+                  <table rend="frame" xml:id="Table49">
+                     <row>
+                        <cell rend="center">SCHNITZELN</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Schnauz</head>
+                  <table rend="frame" xml:id="Table50">
+                     <row>
+                        <cell rend="center">SCHNAUZ</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table51">
+                     <row>
+                        <cell>Derweil sein Herr Besuche macht,<lb/>Hält Schnauz bei Hut und Schirm die Wacht.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Messerschleifen</head>
+                  <table rend="frame" xml:id="Table52">
+                     <row>
+                        <cell rend="center">MESSERSCHLEIFEN</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table53">
+                     <row>
+                        <cell>Der Vater schleift das Messer schön,<lb/>Gemütlich tut er das.<lb/>Das Hänschen muß den Schleifstein dreh'n,<lb/>Tät lieber anders was.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Künstlers Hoffnung</head>
+                  <table rend="frame" xml:id="Table54">
+                     <row>
+                        <cell rend="center">KUuml;NSTLERS HOFFNUNG</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table55">
+                     <row>
+                        <cell>Armer Künstler hat es sauer,<lb/>Doch Erfolg kommt allgemach!<lb/>Zeigt sich nur erst ein Beschauer,<lb/>Folgen wohl die andern nach.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Komm, komm!</head>
+                  <table rend="frame" xml:id="Table56">
+                     <row>
+                        <cell rend="center">KOMM, KOMM!</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table57">
+                     <row>
+                        <cell>Mit Güte lockt fast überall<lb/>Die Frau ihr Schweinchen in den Stall.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Innerer Wert</head>
+                  <table rend="frame" xml:id="Table58">
+                     <row>
+                        <cell rend="center">INNERER WERT</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table59">
+                     <row>
+                        <cell>Ein kluger Mann verehrt das Schwein;<lb/>Er denkt an dessen Zweck.<lb/>Von außen ist es ja nicht fein,<lb/>Doch drinnen sitzt der Speck.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Glück im Unglück</head>
+                  <table rend="frame" xml:id="Table60">
+                     <row>
+                        <cell rend="center">GLUECK IM UNGLUECK</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table61">
+                     <row>
+                        <cell>»Das war noch 'n Glück!«<lb/>Rief der Heuschreck. Da ließ er ein Bein zurück.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Das Nilpferd</head>
+                  <table rend="frame" xml:id="Table62">
+                     <row>
+                        <cell rend="center">DAS NILPFERD</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table63">
+                     <row>
+                        <cell>Das Nilpferd pflückt sich oft gemütlich<lb/>Ein Blümchen ab. Das macht sich niedlich!</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Schnitzeln</head>
+                  <table rend="frame" xml:id="Table64">
+                     <row>
+                        <cell rend="center">SCHNITZELN</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Idyll</head>
+                  <table rend="frame" xml:id="Table65">
+                     <row>
+                        <cell rend="center">IDYLL</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Alter schützt vor Torheit nicht</head>
+                  <table rend="frame" xml:id="Table66">
+                     <row>
+                        <cell rend="center">ALTER SCHUETZT VOR TORHEIT NICHT</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table67">
+                     <row>
+                        <cell>Nein sowas! Ein altes verständiges Schwein,<lb/>Und fällt kopfüber ins Faß hinein!!</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Schnitzeln</head>
+                  <table rend="frame" xml:id="Table68">
+                     <row>
+                        <cell rend="center">SCHNITZELN</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Drohendes Verhängnis</head>
+                  <table rend="frame" xml:id="Table69">
+                     <row>
+                        <cell rend="center">DROHENDES VERHAENGNIS</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table70">
+                     <row>
+                        <cell>Der Spritzefisch ist ein<lb/>Gar listiger Geselle.<lb/>Gib acht und hüt' dich fein,<lb/>Leichtsinnige Libelle!!</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Schnitzeln</head>
+                  <table rend="frame" xml:id="Table71">
+                     <row>
+                        <cell rend="center">SCHNITZELN</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Prosit Neujahr!</head>
+                  <table rend="frame" xml:id="Table72">
+                     <row>
+                        <cell rend="center">PROSIT NEUJAHR!</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table73">
+                     <row>
+                        <cell>Das Schwein<lb/>Sei Dein!</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Prosit Neujahr!</head>
+                  <table rend="frame" xml:id="Table74">
+                     <row>
+                        <cell rend="center">PROSIT NEUJAHR!</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table75">
+                     <row>
+                        <cell>Geld laßt von Herzen Allen uns gönnen,<lb/>So viel die Esel nur tragen können.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Prosit Neujahr!</head>
+                  <table rend="frame" xml:id="Table76">
+                     <row>
+                        <cell rend="center">PROSIT NEUJAHR!</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table77">
+                     <row>
+                        <cell>Da steht und kräht er.<lb/>Vielleicht gerät er.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Prosit Neujahr!</head>
+                  <table rend="frame" xml:id="Table78">
+                     <row>
+                        <cell rend="center">PROSIT NEUJAHR!</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table79">
+                     <row>
+                        <cell>Das alte Jahr gar schnell entwich.<lb/>Es konnt sich kaum gedulden,<lb/>Und ließ mit Freuden hinter sich<lb/>Den dicken Sack voll Schulden.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Nachhilfe</head>
+                  <table rend="frame" xml:id="Table80">
+                     <row>
+                        <cell rend="center">NACHHILFE</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table81">
+                     <row>
+                        <cell>Dem Esel, störrisch im Geschäfte,<lb/>Verleiht der Knittel neue Kräfte.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Drohendes Verhängnis</head>
+                  <table rend="frame" xml:id="Table82">
+                     <row>
+                        <cell rend="center">DROHENDES VERHAENGNIS</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table83">
+                     <row>
+                        <cell>Es machen sich die Fliegen<lb/>Ein luftig Tanzvergnügen.<lb/>Der Frosch der denkt: Nur munter!<lb/>Ihr kommt schon noch herunter!</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Zerstörte Hoffnung</head>
+                  <table rend="frame" xml:id="Table84">
+                     <row>
+                        <cell rend="center">ZERSTOERTE HOFFNUNG</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table85">
+                     <row>
+                        <cell>Mutter und Sohn mit frohem Gesichte<lb/>Gingen zu Markt. — Es sind die Eier<lb/>Heuer hübsch teuer,<lb/>Das Stück zwei Dreier. —<lb/>Perdatsch! Da liegt die ganze Geschichte!</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Kühlung</head>
+                  <table rend="frame" xml:id="Table86">
+                     <row>
+                        <cell rend="center">KUEHLUNG</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table87">
+                     <row>
+                        <cell>Es ging Professor Schretter<lb/>Ins Feld bei heißem Wetter.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <table rend="frame" xml:id="Table88">
+                     <row>
+                        <cell rend="center">KUEHLUNG</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table89">
+                     <row>
+                        <cell>Er bückt sich tief, auf daß er<lb/>Mal tränke, übers Wasser.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <table rend="frame" xml:id="Table90">
+                     <row>
+                        <cell rend="center">KUEHLUNG</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table91">
+                     <row>
+                        <cell>Da kam die Geiß, und bubbs!<lb/>Gibt sie ihm einen Schubbs.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <table rend="frame" xml:id="Table92">
+                     <row>
+                        <cell rend="center">KUEHLUNG</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table93">
+                     <row>
+                        <cell>Und wer es sieht, der fühlt:<lb/>Jetzt ist er abgekühlt.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Schnitzeln</head>
+                  <table rend="frame" xml:id="Table94">
+                     <row>
+                        <cell rend="center">SCHNITZELN</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Der Gratulant</head>
+                  <table rend="frame" xml:id="Table95">
+                     <row>
+                        <cell rend="center">DER GRATULANT</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table96">
+                     <row>
+                        <cell>Zu spät, mein Lieber!<lb/>Der Namenstag ist längst vorüber.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Gefahr im Verzuge</head>
+                  <table rend="frame" xml:id="Table97">
+                     <row>
+                        <cell rend="center">GEFAHR IM VERZUGE</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table98">
+                     <row>
+                        <cell>Wenn das Rhinozeros, das schlimme,<lb/>Dich kriegen will in seinem Grimme,<lb/>Dann steig auf einen Baum beizeiten,<lb/>Sonst hast du Unannehmlichkeiten.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Ein Muster der Schnelligkeit</head>
+                  <table rend="frame" xml:id="Table99">
+                     <row>
+                        <cell rend="center">MUSTER DER SCHNELLIGKEIT</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table100">
+                     <row>
+                        <cell>Die Panzerkröte sprach zur Schnecke:<lb/>Pfui! Schäme dich!<lb/>Du kommst ja gar nicht recht vom Flecke!<lb/>Da sieh mal mich!!</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Unverhofft</head>
+                  <table rend="frame" xml:id="Table101">
+                     <row>
+                        <cell rend="center">UNVERHOFFT</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table102">
+                     <row>
+                        <cell>Der Negerknabe ging so still<lb/>Am Nil dahin. Plötzlich erblickt er<lb/>Ein unverhofftes Krokodil.<lb/>Oh, wie erschrickt er!!<lb/>
+                        </cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Der fliegende Frosch I</head>
+                  <table rend="frame" xml:id="Table103">
+                     <row>
+                        <cell rend="center">DER FLIEGENDE FROSCH I</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table104">
+                     <row>
+                        <cell>Wenn einer, der mit Mühe kaum<lb/>Gekrochen ist auf einen Baum,</cell>
+                     </row>
+                  </table>
+               </div>
+               <div type="div3">
+                  <head>Der fliegende Frosch II</head>
+                  <table rend="frame" xml:id="Table105">
+                     <row>
+                        <cell rend="center">DER FLIEGENDE FROSCH II</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table106">
+                     <row>
+                        <cell>Schon meint, daß er ein Vogel wär,<lb/>
+                        </cell>
+                     </row>
+                  </table>
+               </div>
+               <div type="div3">
+                  <head>Der fliegende Frosch III</head>
+                  <table rend="frame" xml:id="Table107">
+                     <row>
+                        <cell rend="center">DER FLIEGENDE FROSCH III</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table108">
+                     <row>
+                        <cell>So irrt sich der.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Der unverschämte Igel I</head>
+                  <table rend="frame" xml:id="Table109">
+                     <row>
+                        <cell rend="center">DER UNVERSCHAEMTE IGEL I</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table110">
+                     <row>
+                        <cell>In einem Baumstamm, unten hohl,<lb/>Da sitzt der Has und fühlt sich wohl.</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table111">
+                     <row>
+                        <cell rend="center">DER UNVERSCHAEMTE IGEL I</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table112">
+                     <row>
+                        <cell>Ein Igel, dem der Ort gefiel,<lb/>Möcht auch hinein, weil's draußen kühl.</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table113">
+                     <row>
+                        <cell rend="center">DER UNVERSCHAEMTE IGEL I</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table114">
+                     <row>
+                        <cell>Der Hase, voller Gütigkeit,<lb/>Macht höflich Platz und rückt beiseit.</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table115">
+                     <row>
+                        <cell rend="center">DER UNVERSCHAEMTE IGEL I</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table116">
+                     <row>
+                        <cell>Doch kaum ist er beiseit gerückt,<lb/>Fühlt er bereits, daß ihn was prickt.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Der unverschämte Igel II</head>
+                  <table rend="frame" xml:id="Table117">
+                     <row>
+                        <cell rend="center">DER UNVERSCHAEMTE IGEL II</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table118">
+                     <row>
+                        <cell>Und plötzlich so geprickelt hat's,<lb/>Er muß heraus mit einem Satz.</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table119">
+                     <row>
+                        <cell rend="center">DER UNVERSCHAEMTE IGEL II</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table120">
+                     <row>
+                        <cell>Oh, unverschämtes Stacheltier!<lb/>Aha, der Fuchs ist auch schon hier.</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table121">
+                     <row>
+                        <cell rend="center">DER UNVERSCHAEMTE IGEL II</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table122">
+                     <row>
+                        <cell>Zwar gleich macht sich der Igel dick<lb/>Und zieht sich in sich selbst zurück.</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table123">
+                     <row>
+                        <cell rend="center">DER UNVERSCHAEMTE IGEL II</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table124">
+                     <row>
+                        <cell>Der Fuchs, der gern den Igel frißt,<lb/>Weiß aber, was zu machen ist.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Der unverschämte Igel III</head>
+                  <table rend="frame" xml:id="Table125">
+                     <row>
+                        <cell rend="center">DER UNVERSCHAEMTE IGEL III</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table126">
+                     <row>
+                        <cell>Und weiß, wie man ihn fassen kann,<lb/>Und schüttelt und verzehrt ihn dann.</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table127">
+                     <row>
+                        <cell rend="center">DER UNVERSCHAEMTE IGEL III</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table128">
+                     <row>
+                        <cell>Hier liegt die Haut, ganz hohl und leer.<lb/>Den Hasen, scheint's, erfreut es sehr.</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table129">
+                     <row>
+                        <cell rend="center">DER UNVERSCHAEMTE IGEL III</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table130">
+                     <row>
+                        <cell>Doch innerlich, so wie man sieht,<lb/>Ging ihm die Sache zu Gemüt.</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table131">
+                     <row>
+                        <cell rend="center">DER UNVERSCHAEMTE IGEL III</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table132">
+                     <row>
+                        <cell>Gottlob, nun sitzt der gute Has<lb/>Gemütlich wieder, wo er saß.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Gestörtes Duett I</head>
+                  <table rend="frame" xml:id="Table133">
+                     <row>
+                        <cell rend="center">GESTOERTES DUETT I</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table134">
+                     <row>
+                        <cell>Melodisch sangen Katz und Kater<lb/>Ihr zärtlich Lied des Abends spät.<lb/>Den Stock ergreift des Hauses Vater,<lb/>Die Mutter nimmt das Waschgerät.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Gestörtes Duett II</head>
+                  <table rend="frame" xml:id="Table135">
+                     <row>
+                        <cell rend="center">GESTOERTES DUETT iI</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table136">
+                     <row>
+                        <cell>Die sanften Liebestöne schwiegen;<lb/>Es zischt und kracht im Treppenhaus.<lb/>Der Vater purzelt von der Stiegen,<lb/>Die Mutter gießt die Schale aus.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+               <div type="div3">
+                  <head>Sorglos</head>
+                  <table rend="frame" xml:id="Table137">
+                     <row>
+                        <cell rend="center">SORGLOS</cell>
+                     </row>
+                  </table>
+                  <table rend="frame" xml:id="Table138">
+                     <row>
+                        <cell>Selbst mancher Weise<lb/>Besieht ein leeres Denkgehäuse<lb/>Mit Ernst und Bangen. —<lb/>Der Rabe ist ganz unbefangen.</cell>
+                     </row>
+                  </table>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+                  <p rend="justify">Im Frühjahr 1905 übergab mir mein Onkel Wilhelm Busch in Mechtshausen zur Aufbewahrung als ein Geschenk für meine Mutter, seine Schwester, das eingesiegelte druckfertige Manuskript von »Hernach« mit der Bemerkung, daß es nach seinem Tode veröffentlicht werden könnte.</p>
+                  <p rend="justify">Es finden sich darin folgende Bemerkungen von seiner Hand:</p>
+                  <p rend="justify">zu Bl. 9: »Copie von der untersten Zeichnung für Wohlthätigkeitszweck nach Frankfurt gegeben«.</p>
+                  <p rend="justify">zu Bl. 29: »Copie hiervon nebst Text wurde für einen Wohlthätigkeitszweck an Frau Schaeuffelen nach München gegeben 1894.«</p>
+                  <p rend="justify">zu Bl. 52: »Ähnliche Zeichnung wie diese erste nebst Text für Wohlthätigkeitszweck an Frau Schaeuffelen nach München gegeben.«</p>
+                  <p rend="justify">zu Bl. 55: »November 1892 hab ich Text und Zeichnungen auf Wunsch des Redacteurs Trojan dem »Kladderadatsch« für eine Nummer unentgeltlich zur Verfügung gestellt (erschienen zu Weihnachten) mir im Übrigen aber alle Rechte vorbehalten.</p>
+                  <p rend="justify">Wilh. Busch.«<lb/>
+                  </p>
+                  <lg>
+                     <l>Höckelheim</l>
+                     <l>bei Northeim,</l>
+                     <l>Juni 1908.</l>
+                     <l/>
+                     <l>O. Nöldeke, Pastor.</l>
+                  </lg>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+                  <lg>
+                     <l>Von diesem Buche ist in demselben Verlage</l>
+                     <l/>
+                     <l>eine Liebhaber-Ausgabe</l>
+                     <l/>
+                     <l>erschienen. * 1000 Exemplare numeriert.</l>
+                     <l/>
+                     <l>Die Zeichnungen sind in Lichtdruck, die</l>
+                     <l>Texte in des Dichters Handschrift faksimiliert</l>
+                     <l>wiedergegeben und auf 60 Kartons gelegt.</l>
+                     <l/>
+                     <l>Preis dieser Ausgabe</l>
+                     <l>in Kalbleder gebunden M. 16.—</l>
+                  </lg>
+                  <p rend="justify">Für Liebhaber eigener Einbände ist eine Anzahl davon in Interimsband gebunden erschienen, deren Preis M. 12.— beträgt.</p>
+                  <p rend="justify"> </p>
+                  <p rend="justify"> </p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

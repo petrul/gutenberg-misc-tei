@@ -1,0 +1,1370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Anakreons sånger</title>
+            <author>Anacreon</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-01T23:13:26Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">odts/sv-odts/Anacreon-AnakreonsS_2016.epub.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Anacreon</name>
+               <date>2024-01-01T23:13:26Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Anakreons sånger</head>
+         <author>Anacreon</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">odts/sv-odts/Anacreon-AnakreonsS_2016.epub.odt</p>
+         <p>E-text prepared by Jari Koivisto</p>
+         <head>ANAKREONS SÅNGER</head>
+         <p>Öfwersatta</p>
+         <p>af</p>
+         <p>Axel Gabriel Sjöström</p>
+         <p>ABOAE, typis Frenckellianis, 1826.</p>
+         <pb/>
+         <div type="div1">
+            <head>Anakreons sånger</head>
+            <pb/>
+            <div type="div2">
+               <head>ANACREON</head>
+               <div type="div3">
+                  <head>SVETHICE REDDITUS</head>
+                  <div type="div4">
+                     <head>QUEM</head>
+                     <p rend="justify">Venia Ampliss. Facult. Philos. Ab.</p>
+                     <p rend="justify">p. p.</p>
+                     <lg>
+                        <l>              Mag. AXELIUS GABR. SJÖSTRÖM</l>
+                        <l>            Facult. Philos. Adjunctus E. O.</l>
+                     </lg>
+                     <p rend="justify">Et</p>
+                     <lg>
+                        <l>              JOHANNES FREDRICUS LINDBERG</l>
+                        <l>              Stipend. Publicus Borealis</l>
+                     </lg>
+                     <lg>
+                        <l>          In Auditorio Philos. die 31 Maji 1826</l>
+                        <l>                horis a.m. consvetis</l>
+                     </lg>
+                     <p rend="justify">Particula 1</p>
+                     <p rend="justify">ABOAE, typis Frenckellianis.</p>
+                     <lg>
+                        <l>                          Till</l>
+                        <l>      Presidenten, General-Majoren, vice-Cancelleren,</l>
+                        <l>                          och</l>
+                        <l>              Commendeuren med Stora Korset af</l>
+                        <l>                Kongl. Swenska Swärds-Orden,</l>
+                        <l>                       Herr Grefwe</l>
+                        <l>                  JOHAN FREDRIK AMINOFF</l>
+                     </lg>
+                     <p rend="justify">I wilda Juniqwällen,</p>
+                     <lg>
+                        <l>    Då lifwets unga hjerta</l>
+                        <l>    Högt spritter af förtjusning,</l>
+                        <l>    Då all naturen firar</l>
+                        <l>    Sin fägrings skönsta fester:</l>
+                        <l>    Hwem såg ej dagens drottning,</l>
+                        <l>    Sen hon sin fackla utsläckt,</l>
+                        <l>    Med klar och plötslig trollglans</l>
+                        <l>    Bestråla enslig hydda,</l>
+                        <l>    På blomsterkrönta kullen,</l>
+                        <l>    Och hwiska genom fönstret:</l>
+                        <l>    "Så när jag glömt ta afsked!"</l>
+                        <l>    Då pläga barnen jollra:</l>
+                        <l>    "Se! Solen såg bakom sig!"</l>
+                     </lg>
+                     <lg>
+                        <l>    Till <hi rend="italic">Tredje Gustafs</hi>  tider</l>
+                        <l>    Ett återsken, likt detta,</l>
+                        <l>    Sig spred af Riddarandan,</l>
+                        <l>    Den äkta, undranswärda,</l>
+                        <l>    Som ej af fruktan wisste,</l>
+                        <l>    Och bjöd sin trots åt tadlet.</l>
+                        <l>    Då stod hwar redlig tanke</l>
+                        <l>    Orubbelig som fjellen,</l>
+                        <l>    Då lågade hwar känsla</l>
+                        <l>    För Gud, för Fosterjorden,</l>
+                        <l>    För Fursten och för Äran;</l>
+                        <l>    Och sinnet, liksom sippan</l>
+                        <l>    För morgonrodna'ns smekkyss,</l>
+                        <l>    Upplät sig utan twekan</l>
+                        <l>    För allt hwad skönt och herrligt</l>
+                        <l>    I Konsten finns och Dikten.</l>
+                     </lg>
+                     <lg>
+                        <l>    Och der i <hi rend="italic">Gustafs</hi>-borgen,</l>
+                        <l>    Der blef Du, Ädle, inwigd</l>
+                        <l>    För slika pligters öfning.</l>
+                        <l>    Förgäfwes åren flyktat,</l>
+                        <l>    Förgäfwes stunder werkat,</l>
+                        <l>    Och nya slägten uppträdt:</l>
+                        <l>    Wi wörde <hi rend="italic">Dig</hi>  ibland oss,</l>
+                        <l>    Med ungdomskänslor fästad</l>
+                        <l>    Wid ungdomsidealen.</l>
+                     </lg>
+                     <lg>
+                        <l>    Försmå ej några blommor</l>
+                        <l>    Från Hellas' bättre tider!</l>
+                        <l>    För nordens kalla isfläkt</l>
+                        <l>    De skaptes ej. Förlåt dock,</l>
+                        <l>    I skuggan af <hi rend="italic">Din</hi>  Lager</l>
+                        <l>    De wille helst förwissna.</l>
+                     </lg>
+                     <p rend="justify">Axel Gabriel Sjöström.</p>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>ANAKREONS SÅNGER</head>
+            <p rend="justify">Anm. Öfwersättaren har följt Joh. Fr. Degen's Edition: <hi rend="italic">Anakreontos kai Sapphous Oidai kai alla Lusika. Anakreons und Sapphos Lieder nebst andern Lyrischen Gedichten</hi>. Text und Übers. 2:te sehr vermehrte und verb. Ausg. Leipzig 1821. 8:o.</p>
+            <p rend="justify">1. Till Lyran.</p>
+            <lg>
+               <l>    Jag will de twå Atreider,</l>
+               <l>    Jag Kadmos will besjunga,</l>
+               <l>    Men från min Lyras strängar</l>
+               <l>    Blott kärlek återljuder.</l>
+               <l>    Nyss bytte jag wäl senor,</l>
+               <l>    Ja, tog en annan Lyra,</l>
+               <l>    Att qwäda om Herakles,</l>
+               <l>    Och hans bedrifter: kärlek,</l>
+               <l>    Blott kärlek swarte Lyran.</l>
+               <l>    Så lefwen wäl för ewigt,</l>
+               <l>    I Hjeltar! ty min Lyra</l>
+               <l>    Skall sjunga blott om kärlek.</l>
+            </lg>
+            <p rend="justify">2. De Sköna.</p>
+            <lg>
+               <l>    Åt oxarne naturen</l>
+               <l>    Gaf horn, åt hästen hofwar,</l>
+               <l>    Åt haten fotens snabbhet,</l>
+               <l>    Åt lejoninnan tandgap,</l>
+               <l>    Åt fisken konst att simma,</l>
+               <l>    Åt fåglarne att flyga,</l>
+               <l>    Och själens kraft åt mannen.</l>
+               <l>    Fanns intet qwar åt qwinnan?</l>
+               <l>    Hwad gaf hon henne? Skönhet;</l>
+               <l>    I alla sköldars ställe,</l>
+               <l>    I alla lansars ställe.</l>
+               <l>    Ty stålet sjelf och elden</l>
+               <l>    Besegras af de Sköna.</l>
+            </lg>
+            <p rend="justify">3. Kärleken på besök.</p>
+            <lg>
+               <l>    En gång under midnattsstunden,</l>
+               <l>    Då när Björnen ren på fästet,</l>
+               <l>    Wid Bootes' hand sig wänder,</l>
+               <l>    Och de dödeligas flägten</l>
+               <l>    Efter dagens mödor hwila:</l>
+               <l>    Då stod sonen till Kythere</l>
+               <l>    Bak min dörr, och slog på rigeln.</l>
+               <l>    Hwem är, — sporde jag — som knackar,</l>
+               <l>    Och mig stör i mina drömmar?</l>
+               <l>    Eros swarte: öppna, öppna!</l>
+               <l>    Jag är blott ett barn, förskräcks ej!</l>
+               <l>    Som af regnet blött, i månlös</l>
+               <l>    Natt förgäfwes letar wägen.</l>
+               <l>    Jag blef rörd, då slikt jag hörde,</l>
+               <l>    Och så fort jag lampan påtändt,</l>
+               <l>    Lät jag dörren upp och mötte</l>
+               <l>    Utanför en pilt med båga,</l>
+               <l>    Ett par wingar och ett koger.</l>
+               <l>    Wid min härd jag gossen satte,</l>
+               <l>    värmde upp hans frusna händer</l>
+               <l>    Uti mina, och ur håret</l>
+               <l>    Kramade ett ymnigt watten.</l>
+               <l>    Gossen, nu ej frusen längre,</l>
+               <l>    Sade: kom, låt oss försöka</l>
+               <l>    Denna båge, om kanhända</l>
+               <l>    Strängen blifwit slapp af regnet!</l>
+               <l>    Strax han lägger an och träffar</l>
+               <l>    Lik ett sting mig midt i hjertat,</l>
+               <l>    Hoppar upp, och säger spefullt:</l>
+               <l>    Bäste wärd, mig önska lycka!</l>
+               <l>    Bågen än är oförderfwad;</l>
+               <l>    Men du tör så ondt i hjertat.</l>
+            </lg>
+            <p rend="justify">4. Till sig sjelf.</p>
+            <lg>
+               <l>    Uppå späda skott af myrten,</l>
+               <l>    Uppå weka Lotosblommor</l>
+               <l>    Will jag lägra mig, och dricka.</l>
+               <l>    Eros må sin mantel fästa</l>
+               <l>    Med Papyros öfwer skullran,</l>
+               <l>    Och mig tjena såsom munskänk!</l>
+               <l>    Ty likt hjulet under wagnen,</l>
+               <l>    Rullar lifwet på sin bana,</l>
+               <l>    Och en handfull stoft wi ligge,</l>
+               <l>    Sedan benen ha förmultnat.</l>
+               <l>    Hwi skall du min grafsten smörja?</l>
+               <l>    Hwi begjuta jorden fruktlöst?</l>
+               <l>    Heldre, medan än jag lefwer,</l>
+               <l>    Smörj mig sjelf, mitt hår med rosor</l>
+               <l>    Kransa, och min flicka kalla!</l>
+               <l>    Innan hän jag wandra måste,</l>
+               <l>    Kärlek, till de dödas dansar,</l>
+               <l>    Will jag jaga bort bekymren.</l>
+            </lg>
+            <p rend="justify">5. Till Rosen.</p>
+            <lg>
+               <l>    Rosen, små Eroters blomma,</l>
+               <l>    Må med drufwan sammanparas!</l>
+               <l>    Rosen med de sköna bladen</l>
+               <l>    Sen wi slingrat kring wår tinning</l>
+               <l>    Drickom under glam och löje!</l>
+               <l>    Rosen är den skönsta blomma,</l>
+               <l>    Rosen wårens eget skötbarn,</l>
+               <l>    Rosen ock för gudar täcklig;</l>
+               <l>    Sjelf Kythere's son med Rosor</l>
+               <l>    Sirar sina lena lockar,</l>
+               <l>    När han dansar med Chariter.</l>
+               <l>    Kransoms derför! Dionysos,</l>
+               <l>    Jag will anslå Lyrans strängar,</l>
+               <l>    I ditt wigda tempels helgdom,</l>
+               <l>    Jag will med en barmskön flicka,</l>
+               <l>    Rosenkransad, träda dansen.</l>
+            </lg>
+            <p rend="justify">6. Gelaget.</p>
+            <lg>
+               <l>    Kransar kringom tinningarne</l>
+               <l>    Sen wi utaf Rosor flätat,</l>
+               <l>    Dricka wi med glam och löje</l>
+               <l>    Och wid Lyrans ljud en flicka,</l>
+               <l>    Swängande i handen thyrser,</l>
+               <l>    Som af murgrönsflingor susa,</l>
+               <l>    På smånätta fötter swingar.</l>
+               <l>    Och en pilt med lena lockar,</l>
+               <l>    Ur hwars mun blott wällukt andas</l>
+               <l>    I accord med strängaspelet</l>
+               <l>    Gjuter ljufwa melodier.</l>
+               <l>    Sjelfwe Eros, gyllenlockig,</l>
+               <l>    Med den tjusande Lyaios,</l>
+               <l>    Och den tjusande Kythere,</l>
+               <l>    Det för gubbar älskanswärda</l>
+               <l>    Lustgelaget glad bewistar.</l>
+            </lg>
+            <p rend="justify">7. Till Kärleken.</p>
+            <lg>
+               <l>    Med ett liljestängel Eros</l>
+               <l>    Slog mig, han den oförsynte,</l>
+               <l>    Och mig bjöd att med sig springa.</l>
+               <l>    Strax igenom strida strömmar,</l>
+               <l>    Skogens snar och klippors branter</l>
+               <l>    Bar det af, och swetten lacka',</l>
+               <l>    Hjertat ända upp till halsen</l>
+               <l>    Steg, så att jag nära gwäfdes.</l>
+               <l>    Se, då rörde han med weka</l>
+               <l>    Wingars slag min panna, sade:</l>
+               <l>    Nej minsann du gitter älska!</l>
+            </lg>
+            <p rend="justify">8. Drömmen.</p>
+            <lg>
+               <l>    Det war natt: i sömnens armar</l>
+               <l>    Låg jag sträckt på purpurbädden,</l>
+               <l>    Rusig af Lyaios' skänker,</l>
+               <l>    Och jag tyckte mig på tårna</l>
+               <l>    Ila stad allt hwad jag kunde,</l>
+               <l>    under ras med unga flickor.</l>
+               <l>    Men jag gäckades af swenner,</l>
+               <l>    Mera sköna än Lyaios,</l>
+               <l>    Och fick höra bittra stickord</l>
+               <l>    Derför att jag lopp med dessa.</l>
+               <l>    Och när en jag kyssa wille,</l>
+               <l>    Rymde alla bort med drömmen.</l>
+               <l>    Stackars jag! der låg jag ensam,</l>
+               <l>    Önskande att åter somna.</l>
+            </lg>
+            <p rend="justify">9. Till Dufwan.</p>
+            <lg>
+               <l>    "Du älskligt täckta dufwa</l>
+               <l>    Wharfrån, wharfrån din luftfärd?</l>
+               <l>    Hwarfrån den mängd af oljor,</l>
+               <l>    Hwars doft i höga rymden</l>
+               <l>    Ifrån din winge dryper?</l>
+               <l>    Hwem är du? hwad bestyr du?"</l>
+               <l>    "Anakreon har sändt mig</l>
+               <l>    Till älsklingen, Bathyllos,</l>
+               <l>    Som nu för tiden alla</l>
+               <l>    Befaller och beherrskar.</l>
+               <l>    Mig bytte sjelf Kythere</l>
+               <l>    Emot en liten wisa;</l>
+               <l>    Anakreon jag sedan,</l>
+               <l>    I samma wärs betjenar,</l>
+               <l>    Och, som du ser, jag medför</l>
+               <l>    Nu äfwen bref från honom.</l>
+               <l>    Wäl har han loft att frihet</l>
+               <l>    Mig innan kort förära.</l>
+               <l>    Men fast han ger mig frihet,</l>
+               <l>    Dock i hans tjenst jag dröjer.</l>
+               <l>    Hwad tarfwas mig att flyga</l>
+               <l>    Omkring på berg och slätter,</l>
+               <l>    Och sittande i träden</l>
+               <l>    Af öknens frukter näras?</l>
+               <l>    Anakreon mig räcker,</l>
+               <l>    Och jag med lystnad plockar</l>
+               <l>    Utur hans händer hwetbröd;</l>
+               <l>    Han ger mig och att dricka</l>
+               <l>    Det win han sjelf hat smakat.</l>
+               <l>    Och sen jag druckit, hoppar</l>
+               <l>    Jag glad omkring min herre,</l>
+               <l>    Som jag med wingen swalkar,</l>
+               <l>    Och somnar sist så stilla,</l>
+               <l>    Och sofwer på hans Lyra,</l>
+               <l>    Nu wet du allt; gå hädan!</l>
+               <l>    Du gjort mig mera pratig,</l>
+               <l>    Långt mer än skatan är det."</l>
+            </lg>
+            <p rend="justify">10. Erosbilden af wax.</p>
+            <lg>
+               <l>    I wax pusserad, Eros</l>
+               <l>    Utaf en yngling utbjöds;</l>
+               <l>    Jag fram till honom trädde,</l>
+               <l>    Så spörjande: hur mycket</l>
+               <l>    Begär du för ditt arbet?</l>
+               <l>    Han swarte på sin Bondska:</l>
+               <l>    Betala hwad er lyster!</l>
+               <l>    Att allt ni dock må weta:</l>
+               <l>    Ej är i wax jag konstnär,</l>
+               <l>    Men jag ej längre trïfwes</l>
+               <l>    Med Eros och hans anspråk.</l>
+               <l>    Gif hit då för en Drachma</l>
+               <l>    Den sköna sofkamraten!</l>
+               <l>    Nu, Eros, utan dröjsmål</l>
+               <l>    Mitt hjärta tänd; ty eljes</l>
+               <l>    Jag kastar dig på brasan.</l>
+            </lg>
+            <p rend="justify">11. Till sig sjelf.</p>
+            <lg>
+               <l>    Mig flickorna förkunna:</l>
+               <l>    "Anakreon du åldrats!</l>
+               <l>    Tag spegeln här, och skåda,</l>
+               <l>    Du har ej mer ett hårstrå,</l>
+               <l>    Och kal är ju din panna."</l>
+               <l>    Men jag, om dessa hårstrån</l>
+               <l>    Än finnas, om de fallit,</l>
+               <l>    Ej wet. Det wet jag endast.</l>
+               <l>    Att sig för gubben egnar</l>
+               <l>    Dessmera munter skämta,</l>
+               <l>    Ju mer han nalkas grafwen.</l>
+            </lg>
+            <p rend="justify">12. Till Swalan.</p>
+            <lg>
+               <l>    Hwad will jag åt dig göra,</l>
+               <l>    Du pladdersjuka swala?</l>
+               <l>    Säg? fånga dig och klippa</l>
+               <l>    Den lätta wingen af dig?</l>
+               <l>    Säg, bör jag skrida längre,</l>
+               <l>    Och lik den wilde Tereus</l>
+               <l>    Ifrån dig tungan skära?</l>
+               <l>    Hwi har ur ljufwa drömmar</l>
+               <l>    Du med så tidigt qwitter</l>
+               <l>    Frånrófwat mig Bathyllos?</l>
+            </lg>
+            <p rend="justify">* * * * *</p>
+            <pb/>
+            <div type="div2">
+               <head>ANACREON</head>
+               <div type="div3">
+                  <head>SVETHICE REDDITUS</head>
+                  <div type="div4">
+                     <head>QUEM</head>
+                     <p rend="justify">Venia Ampliss. Facult. Philos. Ab.</p>
+                     <p rend="justify">p. p.</p>
+                     <lg>
+                        <l>              Mag. AXELIUS GABR. SJÖSTRÖM</l>
+                        <l>            Facult. Philos. Adjunctus E. O.</l>
+                     </lg>
+                     <p rend="justify">Et</p>
+                     <lg>
+                        <l>                  GUSTAVUS ÅKERROOS</l>
+                        <l>                 Stip. Publ. Aboêns.</l>
+                     </lg>
+                     <lg>
+                        <l>          In Auditorio Philos. die 31 Maji 1826</l>
+                        <l>                horis p.m. consvetis</l>
+                     </lg>
+                     <p rend="justify">Particula 2</p>
+                     <p rend="justify">ABOAE, typis Frenckellianis.</p>
+                     <p rend="justify">13. Till sig själf.</p>
+                     <lg>
+                        <l>    Dig, tjusande Kybebe</l>
+                        <l>    Sen han din kärlek gäckat,</l>
+                        <l>    På bergen Attis ropte,</l>
+                        <l>    Som det berättas, wansinnt;</l>
+                        <l>    Wid Klaros' källrand andra,</l>
+                        <l>    Knapt lagerkrönte Phoibos'</l>
+                        <l>    Drakelbölja druckit,</l>
+                        <l>    Förrn utom sig de skria.</l>
+                        <l>    Jag åter, ljuft berusad</l>
+                        <l>    Af drufwan och essencen,</l>
+                        <l>    Och af min älskarinna,</l>
+                        <l>    Will ock, will ändtlig rasa.</l>
+                     </lg>
+                     <p rend="justify">14. Till Kärleksguden,</p>
+                     <lg>
+                        <l>    Jag måst, jag måste älska:</l>
+                        <l>    Till älskog mante Eros;</l>
+                        <l>    Jag war nog obetänksam,</l>
+                        <l>    Och lydde ej dess maning.</l>
+                        <l>    Men han, firar tog han bågen,</l>
+                        <l>    Tog ock sitt gyllne koger,</l>
+                        <l>    Och bjöd mig på ett enwig.</l>
+                        <l>    På skuldrorna jag lyfte</l>
+                        <l>    Mitt pansar lik Achilleus,</l>
+                        <l>    Mig tog båd sköld och lansar,</l>
+                        <l>    Och kämpade mot Eros.</l>
+                        <l>    Han sköt; jag flydde undan.</l>
+                        <l>    När han ej några pilar</l>
+                        <l>    Mer egde qwar, i harmen</l>
+                        <l>    Han sköt sig sjelf, för pilen;</l>
+                        <l>    I midten af mitt hjerta</l>
+                        <l>    Han trängde: jag war slagen.</l>
+                        <l>    Förgäfwes bär jag skölden,</l>
+                        <l>    Hwad båta yttre wapen,</l>
+                        <l>    När striden står derinne?</l>
+                     </lg>
+                     <p rend="justify">15. Der sorglösa lifwet.</p>
+                     <lg>
+                        <l>    Ej bryr jag mig om Gyges,</l>
+                        <l>    De Sardiers rika konung,</l>
+                        <l>    Mig aldrig afund fängslat,</l>
+                        <l>    Ej furstars guld jag åtrår.</l>
+                        <l>    Mig lyster, att med oljor</l>
+                        <l>    Begjuta skägg och haka,</l>
+                        <l>    Mig lyster, att med rosor</l>
+                        <l>    Min tinning skönt bekransa.</l>
+                        <l>    Jag lefwer blott för dagen;</l>
+                        <l>    Ho wet, hwad sker i morgon?</l>
+                        <l>    Alltså, förrn himlen mulnar,</l>
+                        <l>    Så drick och håll dig rolig,</l>
+                        <l>    Ock offra åt Lyaios,</l>
+                        <l>    Att ej en krämpa kommer,</l>
+                        <l>    Och bjuder: "stopp! ej mera!"</l>
+                     </lg>
+                     <p rend="justify">16. Till sig sjelf.</p>
+                     <lg>
+                        <l>    Du sjunger Thebes strider,</l>
+                        <l>    En annan de Troianska,</l>
+                        <l>    Jag fältslag, dem jag tappat.</l>
+                        <l>    Ej rytteri mig slagit,</l>
+                        <l>    Ej fotfolk eller flotta:</l>
+                        <l>    En ny, helt annan krigshär,</l>
+                        <l>    En här af ögon war det.</l>
+                     </lg>
+                     <p rend="justify">17. Ófwer en Silfwerbägare.</p>
+                     <lg>
+                        <l>    Hos dig, du silfwerkonstnär,</l>
+                        <l>    Hephaistos, jag beställer</l>
+                        <l>    En rustning? nej, wisst icke;</l>
+                        <l>    Hwad bryr jag mig om krigen?</l>
+                        <l>    Gör en pokal, så rymlig,</l>
+                        <l>    Så djup du nånsin mäktar.</l>
+                        <l>    På den åt mig gravera</l>
+                        <l>    Ej några stjernebilder,</l>
+                        <l>    Ej Wagnen, ej Orion!</l>
+                        <l>    Hwad angå mig Pleiader,</l>
+                        <l>    Hwad angår mig Bootes?</l>
+                        <l>    Mig endast rankor bilda,</l>
+                        <l>    Och drufwor på sin stengel,</l>
+                        <l>    Och plockande Mainader!</l>
+                        <l>    Mig bilda ock en winpress,</l>
+                        <l>    Med gyllne tramparswenner,</l>
+                        <l>    Den tjusande Lyaios,</l>
+                        <l>    Och Eros och Bathyllos!</l>
+                     </lg>
+                     <p rend="justify">18. Öfwer densamma.</p>
+                     <lg>
+                        <l>    Gör mig du, behagens konstnär,</l>
+                        <l>    En pokal, åt wåren helgad,</l>
+                        <l>    Med den stund som åt oss bringar</l>
+                        <l>    Aldraförst de täcka rosor!</l>
+                        <l>    Och på glatta silfwerytan</l>
+                        <l>    Teckna af ett muntert dryckslag;</l>
+                        <l>    Lemna bort allt det som icke</l>
+                        <l>    Skickar sig för winets fester,</l>
+                        <l>    Hwar förfärlig mordhistorie!</l>
+                        <l>    Bilda heldre guden Bakchos,</l>
+                        <l>    Ättling utaf Zeus Kronion,</l>
+                        <l>    Och begärens drottning, Kypris,</l>
+                        <l>    I gelag med Bröllopsgudar!</l>
+                        <l>    Wapenlösa små Eroter</l>
+                        <l>    Gör, och leende Chariter</l>
+                        <l>    I en yfwig rankas skugga,</l>
+                        <l>    Rik på löf och rik på drufwor!</l>
+                        <l>    Bilda fagra swenner äfwen,</l>
+                        <l>    Och låt Phoibos för dem spela!</l>
+                     </lg>
+                     <p rend="justify">19. Man måste dricka.</p>
+                     <lg>
+                        <l>    Den swarta jorden dricker</l>
+                        <l>    Och träden dricka henne,</l>
+                        <l>    Och hafwet dricker floder,</l>
+                        <l>    Men solen dricker hafwet,</l>
+                        <l>    Och månen sjelfwa solen.</l>
+                        <l>    Hwad knoten I då, wänner,</l>
+                        <l>    Om äfwen jag will dricka?</l>
+                     </lg>
+                     <p rend="justify">20. Till en Flicka.</p>
+                     <lg>
+                        <l>    På Phrygiens kustberg fordom</l>
+                        <l>    Till sten Niobe byttes,</l>
+                        <l>    Och förr som swala kringflög</l>
+                        <l>    Pandions dotter, Prokne.</l>
+                        <l>    Jag wille bli en spegel,</l>
+                        <l>    Att städs du såge på mig,</l>
+                        <l>    Jag wille klädning blifwa,</l>
+                        <l>    Att ständigt bäras af dig.</l>
+                        <l>    Jag wille watten wara,</l>
+                        <l>    Att twä dig ren i badet,</l>
+                        <l>    Och balsam, goda flicka,</l>
+                        <l>    Att dofta ljuft omkring dig;</l>
+                        <l>    Och en corset för barmen,</l>
+                        <l>    En perla uppå halsen,</l>
+                        <l>    En sko jag wille blifwa,</l>
+                        <l>    Att af din fot helst trampas.</l>
+                     </lg>
+                     <p rend="justify">21. Till sig sjelf.</p>
+                     <lg>
+                        <l>    Gifwen åt mig, flickor, gifwen</l>
+                        <l>    En pokal till brädden rågad,</l>
+                        <l>    Ty af hettan genomglödgad</l>
+                        <l>    Jag numer med möda andas.</l>
+                        <l>    Gifwen ock Lyaios' blommor</l>
+                        <l>    Och hans kransar; jag will knyta</l>
+                        <l>    Dem om pannan, ty jag brinner.</l>
+                        <l>    Men den eld som kärlek upptändt</l>
+                        <l>    Stackars hjerta, hwarmed släcka?</l>
+                     </lg>
+                     <p rend="justify">22. Till Bathyllos.</p>
+                     <lg>
+                        <l>    Sätt dig ned, o min Bathyllos,</l>
+                        <l>    Här i skuggan! Skönt är trädet.</l>
+                        <l>    Och de späda löfwen darra</l>
+                        <l>    Uppå spenslig qwist för winden.</l>
+                        <l>    Och med sakta sorl i nejden</l>
+                        <l>    Källan till sig alla lockar.</l>
+                        <l>    Ho kan se och ej besöka</l>
+                        <l>    Sådan lustort? billigt frågas.</l>
+                     </lg>
+                     <p rend="justify">23, Till rikedomen.</p>
+                     <lg>
+                        <l>    Förmådde gyllne skatter</l>
+                        <l>    Åt menniskan ge lifwet,</l>
+                        <l>    Jag gömde dem med omsorg,</l>
+                        <l>    Att döden, när han kommer,</l>
+                        <l>    Må ta sin del och wandra.</l>
+                        <l>    Men då nu ingen dödlig</l>
+                        <l>    Kan åt sig köpa lifwet,</l>
+                        <l>    Hwi suckar jag förgäfwes?</l>
+                        <l>    Hwi höjer jag min klagan?</l>
+                        <l>    Är jag bestämd till döden,</l>
+                        <l>    Hwad kan mig guldet båta?</l>
+                        <l>    Man unne mig att dricka,</l>
+                        <l>    Att dricka ljufwa winet</l>
+                        <l>    I goda wänners samqwäm.</l>
+                        <l>    Och uppå mjuka bädden</l>
+                        <l>    Få Kypris' bragder öfwa.</l>
+                     </lg>
+                     <p rend="justify">24. Till sig sjelf.</p>
+                     <lg>
+                        <l>    Som jag är en dödlig boren,</l>
+                        <l>    Skapt att wandra lifwets bana,</l>
+                        <l>    Wet jag blott den tid som flyktat.</l>
+                        <l>    Wet ej kommande sekunder.</l>
+                        <l>    Lemnen mig i ro, bekymmer!</l>
+                        <l>    Jag med er har intet otaldt.</l>
+                        <l>    Förrn mig döden öfwerraskar,</l>
+                        <l>    Will jag skämta, le och dansa</l>
+                        <l>    Med den tjusande Lyaios.</l>
+                     </lg>
+                     <p rend="justify">25. Till sig sjelf.</p>
+                     <lg>
+                        <l>    När min pokal jag tömmer,</l>
+                        <l>    Bekymren slumra alla.</l>
+                        <l>    Hwad angå mig bekymren,</l>
+                        <l>    Hwad mödorna och qwalen?</l>
+                        <l>    Dö måst jag, mot min wilja.</l>
+                        <l>    Hwi då mitt lif förspela?</l>
+                        <l>    Friskt låt oss tömma bägarn,</l>
+                        <l>    Den åt Lyaios wigda!</l>
+                        <l>    Ty medan den wi tömme,</l>
+                        <l>    Bekymren slumra alla.</l>
+                     </lg>
+                     <p rend="justify">26. Till sig sjelf.</p>
+                     <lg>
+                        <l>    När hos mig Bakchos gästar,</l>
+                        <l>    Bekymren slumra alla;</l>
+                        <l>    Jag tror mig rik som Kroisos,</l>
+                        <l>    Och börjar grannt att qwäda;</l>
+                        <l>    Jag ligger murgrönkransad,</l>
+                        <l>    Och ler åt hela werlden:</l>
+                        <l>    Ställ till, slå i! Jag dricker!</l>
+                        <l>    Bär hit pokalen, gosse!</l>
+                        <l>    Jag ligger heldre rusig,</l>
+                        <l>    Än bäddad ned i grafwen.</l>
+                     </lg>
+                     <p rend="justify">27. Till Bakchos.</p>
+                     <lg>
+                        <l>    Kronions son, Lyaios,</l>
+                        <l>    Som alla griller jagar,</l>
+                        <l>    Så snart uti mitt sinne</l>
+                        <l>    Den tjusningsrike smygt sig,</l>
+                        <l>    Han lär mig genast dansa.</l>
+                        <l>    Tänk, hwad jag då har roligt,</l>
+                        <l>    Jag lustgelagens hjelte!</l>
+                        <l>    Men efter dans och sånger,</l>
+                        <l>    Undfägnar mig Kythere,</l>
+                        <l>    Och jag igen will dansa.</l>
+                     </lg>
+                     <p rend="justify">* * * * *</p>
+                     <div type="div5">
+                        <head>ANACREON</head>
+                     </div>
+                     <div type="div5">
+                        <head>SVETHICE REDDITUS</head>
+                     </div>
+                     <div type="div5">
+                        <head>QUEM</head>
+                        <p rend="justify">Venia Ampliss. Facult. Philos. Ab.</p>
+                        <p rend="justify">p. p.</p>
+                        <lg>
+                           <l>              Mag. AXELIUS GABR. SJÖSTRÖM</l>
+                           <l>            Facult. Philos. Adjunctus E. O.</l>
+                        </lg>
+                        <p rend="justify">Et</p>
+                        <lg>
+                           <l>                ADOLPHUS REGINALDUS LANG</l>
+                           <l>              Stipendiar. Publ. Tavastenses</l>
+                        </lg>
+                        <lg>
+                           <l>          In Auditorio Philos. die 3 Junii 1826</l>
+                           <l>                horis a.m. consvetis</l>
+                        </lg>
+                        <p rend="justify">Particula 3</p>
+                        <p rend="justify">ABOAE, typis Frenckellianis.</p>
+                        <p rend="justify">28. Till sin Älskarinna.</p>
+                        <lg>
+                           <l>    Nu wälan, du förste konstnär,</l>
+                           <l>    Nu till penseln, förste konstnär,</l>
+                           <l>    Du i Rhodiers skola ypperst,</l>
+                           <l>    Af min bortastadda sköna</l>
+                           <l>    Gör en bild, som jag dig säger!</l>
+                           <l>    Till en början håret måla,</l>
+                           <l>    På en gång båd lent och dunkelt,</l>
+                           <l>    Och om färgen så kan blandas,</l>
+                           <l>    Må det ock af oljor dofta!</l>
+                           <l>    Ofwanom den trinda kinden,</l>
+                           <l>    Och inunder ebenlocken</l>
+                           <l>    Må du elfenpannan måla.</l>
+                           <l>    Men, jag ber, låt ögonbrynen</l>
+                           <l>    Sig ej skilja, ej förmångas,</l>
+                           <l>    Utan gör dem, lika hennes,</l>
+                           <l>    Att i hemlighet de mötas,</l>
+                           <l>    Och gör ögonhåren swarta!</l>
+                           <l>    Och dess blick, ja, den i sanning</l>
+                           <l>    Må af eld du utarbeta,</l>
+                           <l>    Både blå, liksom Athene's;</l>
+                           <l>    Och försmäktande, likt Kypris'!</l>
+                           <l>    Till dess näsa, till dess kinder.</l>
+                           <l>    Må du mjölk med rosor många!</l>
+                           <l>    Gör dess läpp Wältalighetens,</l>
+                           <l>    Som enhwar till kyssar lockar!</l>
+                           <l>    I den weka hakans gröpning,</l>
+                           <l>    Uppå alabasterhalsen</l>
+                           <l>    Må Behagen alla swärma!</l>
+                           <l>    Och för öfrigt hölj den sköna</l>
+                           <l>    Uti lätta purpurslöjor,</l>
+                           <l>    Låt oss se en skymt af hullet,</l>
+                           <l>    Som om kroppens fägring wittnar.</l>
+                           <l>    Det är nog! Jag flickan skådar;</l>
+                           <l>    O, på stund portrait, du talar!</l>
+                        </lg>
+                        <p rend="justify">29. Till Bathyllos.</p>
+                        <lg>
+                           <l>    Wännen min, Bathyllos, måla</l>
+                           <l>    På det sätt jag nu beskrifwer.</l>
+                           <l>    Låt hans hår af oljor glänta,</l>
+                           <l>    Gör det inwid roten dunkelt,</l>
+                           <l>    Men på ytan guldbestråladt!</l>
+                           <l>    Och hans flätors fria ringlar,</l>
+                           <l>    Dem du wårdslöst sammanhopar,</l>
+                           <l>    Låt dem falla, hur det träffar</l>
+                           <l>    Och hans weka, friska panna</l>
+                           <l>    Må af ögonbryn bekransas,</l>
+                           <l>    Dunklare än nattens slöjor.</l>
+                           <l>    Trotsigt gör det swarta ögat,</l>
+                           <l>    Men i glöden mildhet blanda,</l>
+                           <l>    Och det ena tag af Ares,</l>
+                           <l>    Tag det andra af Kythere,</l>
+                           <l>    Att dess anblick nu förjagar,</l>
+                           <l>    Nu med tjusning till sig lockar,</l>
+                           <l>    Som ett äppel rosenkinden</l>
+                           <l>    Må du bilda, lent befjunad;</l>
+                           <l>    Sjelfwa Blygsamhetens rodnad,</l>
+                           <l>    Om du mäktar, gjut deröfwer.</l>
+                           <l>    Och dans tappar … än jag twekar,</l>
+                           <l>    På hwad sätt de borde bildas:</l>
+                           <l>    Fina, fulla af förtrollning;</l>
+                           <l>    Sagdt i korthet, må portraitet</l>
+                           <l>    Synas tala, fast det tiger.</l>
+                           <l>    Och när anletet är färdigt,</l>
+                           <l>    Må hans elfenhals du måla,</l>
+                           <l>    Som Adonis' öfwerträffar.</l>
+                           <l>    Gör hans barm och båda händer</l>
+                           <l>    Lika Hermes' barm och händer,</l>
+                           <l>    Och hans lår som Polydeukes',</l>
+                           <l>    Och hans mage som Lyaios'.</l>
+                           <l>    Ofwanom de weka låren,</l>
+                           <l>    Dessa lår, som eldar hysa,</l>
+                           <l>    Må, med barna-oskuld, röjas</l>
+                           <l>    Kärlekens begär i knoppning.</l>
+                           <l>    Dock, en usel konst du öfwar.</l>
+                           <l>    Då du ej förmår att wisa</l>
+                           <l>    Hwad af allt är skönast, ryggen.</l>
+                           <l>    Skall jag föttren ock beskrifwa?…</l>
+                           <l>    Här det pris, du sjelf har utsatt!</l>
+                           <l>    Tag Apollon, som der hänger.</l>
+                           <l>    Och deras Bathyllos bilda;</l>
+                           <l>    Kommer du en gång till Samos,</l>
+                           <l>    Gör en Phoibos af Bathyllos.</l>
+                        </lg>
+                        <p rend="justify">30. Till Kärleken.</p>
+                        <lg>
+                           <l>    Åt Skönheten blef Kärlek</l>
+                           <l>    Af Sånggudinnor lemnad,</l>
+                           <l>    I blomsterbojor bunden.</l>
+                           <l>    Och Kythereia genast,</l>
+                           <l>    Försedd med lösen, sökte</l>
+                           <l>    Sin kära son befria:</l>
+                           <l>    Om ock man pilten löser,</l>
+                           <l>    Han stannar qwar, han går ej:</l>
+                           <l>    Han want sig wid sitt fängsel.</l>
+                        </lg>
+                        <p rend="justify">31. Till sig sjelf.</p>
+                        <lg>
+                           <l>    Wid gudar, låt mig dricka,</l>
+                           <l>    I fulla klunkar dricka.</l>
+                           <l>    Ty rasa, rasa will jag!</l>
+                           <l>    Ock rasade Alkimaion,</l>
+                           <l>    Samt barfotad Orestes,</l>
+                           <l>    Som egna mödrar dräpte.</l>
+                           <l>    Men jag, som ingen dräpit.</l>
+                           <l>    Sen jag har tömmt pokalen,</l>
+                           <l>    Will rasa, rasa will jag.</l>
+                           <l>    Förr rasade Herakles,</l>
+                           <l>    Med fasanswärda kogret</l>
+                           <l>    Och Iphiteiska bågen.</l>
+                           <l>    Så rasade ock Aias.</l>
+                           <l>    Med egen sköld bewäpnad,</l>
+                           <l>    Då Hektors swärd han swängde.</l>
+                           <l>    Jag med en krans i håret</l>
+                           <l>    Och en pokal i handen,</l>
+                           <l>    Ej swärd, ej heller båge,</l>
+                           <l>    Will rasa, rasa will jag.</l>
+                        </lg>
+                        <p rend="justify">32. Till sina älskarinnor.</p>
+                        <lg>
+                           <l>    I fall du löfwen alla</l>
+                           <l>    I skogen räkna mäktar,</l>
+                           <l>    Och räkna böljor alla,</l>
+                           <l>    Som gå i oceanen:</l>
+                           <l>    Dig ensam jag förordnar,</l>
+                           <l>    Att mina flickor räkna.</l>
+                           <l>    Ifrån Athen att börja,</l>
+                           <l>    Skrif tjugu älskarinnor,</l>
+                           <l>    Dessutom femton andra.</l>
+                           <l>    Och sedan från Korinthos</l>
+                           <l>    Skrif hopar uppå hopar;</l>
+                           <l>    Det ligger i Achaia,</l>
+                           <l>    De sköna flickors hembygd.</l>
+                           <l>    Skrif upp bland Lesbierna,</l>
+                           <l>    Och allt från Ionierna,</l>
+                           <l>    Från Karien och Rhodos,</l>
+                           <l>    Twåtusen älskarinnor. —</l>
+                           <l>    Hwad nu? — skrif, skrif du bara!</l>
+                           <l>    Jag än ej Syriens flickor.</l>
+                           <l>    Ej än Kanobos' räknat.</l>
+                           <l>    Ej Kretas, som besitter</l>
+                           <l>    All fägring, och der Eros</l>
+                           <l>    I hwarje stad har fester.</l>
+                           <l>    Will du jag ock skall räkna</l>
+                           <l>    Från Indien och Baktra,</l>
+                           <l>    Och utanför Gadeira,</l>
+                           <l>    Mitt hjertas herrskarinnor?</l>
+                        </lg>
+                        <p rend="justify">33. Till Swalan.</p>
+                        <lg>
+                           <l>    Du kommer, goda swala,</l>
+                           <l>    Hwart nytändt år tillbaka,</l>
+                           <l>    Och bygger bo om wåren;</l>
+                           <l>    Till wintern res du hädan</l>
+                           <l>    Till Nilen, eller Memphis.</l>
+                           <l>    Men Kärlek alltid bygger</l>
+                           <l>    Sitt bo uti mitt hjerta.</l>
+                           <l>    En Lusta ren har wingar,</l>
+                           <l>    En annan gömms i skalet,</l>
+                           <l>    En är till hälften utkläckt,</l>
+                           <l>    Och oupphörligt pittra</l>
+                           <l>    De små med öppna munnar.</l>
+                           <l>    De mindre kärleksungar</l>
+                           <l>    Utaf de större matas.</l>
+                           <l>    Och knapt de hunnit wexa,</l>
+                           <l>    Förrän de wärpa sjelfwe.</l>
+                           <l>    Hwad skall jag ta mig före?</l>
+                           <l>    Ej mäktar jag så många</l>
+                           <l>    Eroter härbergera.</l>
+                        </lg>
+                        <p rend="justify">34. Till en Flicka.</p>
+                        <lg>
+                           <l>    Spring icke undan, Flicka;</l>
+                           <l>    För Gubbens gråa lockar!</l>
+                           <l>    Sky ej, ehuru du eger,</l>
+                           <l>    Din ungdoms fulla blomma</l>
+                           <l>    Den gamle mannens kärlek!</l>
+                           <l>    Se, hur de hwita liljor,</l>
+                           <l>    Att öka kransens wärde,</l>
+                           <l>    Med rosor sammanflätas!</l>
+                        </lg>
+                        <p rend="justify">35. Zeus och Europa.</p>
+                        <lg>
+                           <l>    Den oxen här, o yngling,</l>
+                           <l>    En Zeus mig tyckes wara;</l>
+                           <l>    Ty han ju bära på ryggen</l>
+                           <l>    Den flickan ifrån Sidon,</l>
+                           <l>    Far öfwer wida hafwet,</l>
+                           <l>    Och skär med hofwen böljan.</l>
+                           <l>    Ej nånsin någon oxe,</l>
+                           <l>    Som utur hjorden flyktat,</l>
+                           <l>    Än simmat öfwer hafwet</l>
+                           <l>    Om icke han allena.</l>
+                        </lg>
+                        <p rend="justify">36. Till lifwets fröjder.</p>
+                        <lg>
+                           <l>    Hwarför truga på mig talkonst.</l>
+                           <l>    Och lagfarenhetens reglor?</l>
+                           <l>    Hwad angå mig slika glosor,</l>
+                           <l>    Som ej till det minsta båta?</l>
+                           <l>    Lär mig heldre dryckeskonsten,</l>
+                           <l>    Att jag ljufwa bägarn tömmer;</l>
+                           <l>    Lär långt heldre mig att leka</l>
+                           <l>    Med den gyllne Aphrodite!</l>
+                           <l>    Gråhår hufwudet bekransa:</l>
+                           <l>    Hit med win, med watten, gosse,</l>
+                           <l>    Söf mitt sinne, att det slumrar!</l>
+                           <l>    Innan kort du mig begrafwer</l>
+                           <l>    Och den döde intet åtrår.</l>
+                        </lg>
+                        <p rend="justify">37. Till Wåren.</p>
+                        <lg>
+                           <l>    Se, hur skönt till wårens möte</l>
+                           <l>    Rosor utströs af Behagen!</l>
+                           <l>    Se, hur böljan sakta, sakta</l>
+                           <l>    Tynar af på hafwets spegel!</l>
+                           <l>    Se, hur anden kring lofwerar.</l>
+                           <l>    Se, hur tranan gör sin wandring!</l>
+                           <l>    Solen står så klar på fästet,</l>
+                           <l>    Molnens alla skuggor jagas,</l>
+                           <l>    Åkerns teg sin fägring röjer.</l>
+                           <l>    Ren olivens frukter mogna,</l>
+                           <l>    Rankan festligt sig bekransar,</l>
+                           <l>    Under hwarje blad, hwar blomstjelk</l>
+                           <l>    Tittar fram en liten drufwa.</l>
+                        </lg>
+                        <p rend="justify">38. Till sig sjelf.</p>
+                        <lg>
+                           <l>    Jag gammal är, men dricker</l>
+                           <l>    Långt mera än de unga.</l>
+                           <l>    Och, gäller det att dansa,</l>
+                           <l>    Min winsäck ät min dansstaf,</l>
+                           <l>    En annan har jag icke.</l>
+                           <l>    Den som är böjd för strider,</l>
+                           <l>    Wälan, han fritt må strida.</l>
+                           <l>    Bär hit, du gosse, bägarn,</l>
+                           <l>    Sen du behörigt blandat</l>
+                           <l>    Det håningsöta winet!</l>
+                           <l>    Jag gammal är, men dansar</l>
+                           <l>    Likt Bakchos' fosterfader</l>
+                           <l>    I kretsen af de unga.</l>
+                        </lg>
+                        <p rend="justify">39. Till sig sjelf.</p>
+                        <lg>
+                           <l>    När jag druckit drufwans safter.</l>
+                           <l>    Tändes glädjen i min hjerta,</l>
+                           <l>    Som till Sångmöns dyrkan waknar.</l>
+                        </lg>
+                        <lg>
+                           <l>    När jag druckit drufwans safter,</l>
+                           <l>    Strax bekymrens skaror flykta,</l>
+                           <l>    Och de anslagsfulla tankar</l>
+                           <l>    Till den storm, som hafwen upprör.</l>
+                        </lg>
+                        <lg>
+                           <l>    När jag druckit drufwans safter,</l>
+                           <l>    Sorgförjagaren Lyaios</l>
+                           <l>    Under wårens blomsterdagar</l>
+                           <l>    Lär mig dansa, winberusad.</l>
+                        </lg>
+                        <lg>
+                           <l>    När jag druckit drufwans safter,</l>
+                           <l>    Jag mig blomsterkransar binder,</l>
+                           <l>    Dem kring mina lockar wirar,</l>
+                           <l>    Sjunger lifwets stilla lycka.</l>
+                        </lg>
+                        <lg>
+                           <l>    När jag druckit drufwans safter,</l>
+                           <l>    Doftande af oljors wällukt,</l>
+                           <l>    Armen kring min flicka sluten,</l>
+                           <l>    Jag beprisar Kythereia.</l>
+                        </lg>
+                        <lg>
+                           <l>    När jag druckit drufwans safter,</l>
+                           <l>    Och wid rågade pokalen</l>
+                           <l>    Alla pannans rynkor jemnat,</l>
+                           <l>    I de ungas krets jag glammar.</l>
+                        </lg>
+                        <lg>
+                           <l>    När jag druckit drufwans safter,</l>
+                           <l>    Är deri min enda winning.</l>
+                           <l>    Som jag bortom grafwen medför,</l>
+                           <l>    Ty på allt gör döden ände.</l>
+                        </lg>
+                        <p rend="justify">* * * * *</p>
+                     </div>
+                     <div type="div5">
+                        <head>ANACREON</head>
+                     </div>
+                     <div type="div5">
+                        <head>SVETHICE REDDITUS</head>
+                     </div>
+                     <div type="div5">
+                        <head>QUEM</head>
+                        <p rend="justify">Venia Ampliss. Facult. Philos. Ab.</p>
+                        <p rend="justify">p. p.</p>
+                        <lg>
+                           <l>              Mag. AXELIUS GABR. SJÖSTRÖM</l>
+                           <l>            Facult. Philos. Adjunctus E. O.</l>
+                        </lg>
+                        <p rend="justify">Et</p>
+                        <lg>
+                           <l>                MAGNUS ERICUS ALOPAEUS</l>
+                           <l>                     Viburgensis</l>
+                        </lg>
+                        <lg>
+                           <l>          In Auditorio Philos. die 3 Junii 1826</l>
+                           <l>                horis p.m. consvetis</l>
+                        </lg>
+                        <p rend="justify">Particula 4</p>
+                        <p rend="justify">ABOAE, typis Frenckellianis.</p>
+                        <p rend="justify">40. Till Kärleken.</p>
+                        <lg>
+                           <l>    Ett bi som här om dagen</l>
+                           <l>    Bland rosor sof, i fingret</l>
+                           <l>    Stack ystre Kärleksguden</l>
+                           <l>    Helt oförtänkt. Små händren</l>
+                           <l>    Han jemrande ihopslog,</l>
+                           <l>    Han lopp, han flög på stunden</l>
+                           <l>    Till tjusande Kythere.</l>
+                           <l>    "We mig, — min mor, — han sade:</l>
+                           <l>    We mig jag är förlorad,</l>
+                           <l>    En liten orm mig sårad,</l>
+                           <l>    En wingad orm; de landtbor</l>
+                           <l>    Må honom bi benämna."</l>
+                           <l>    Hon swarte: "om en bigadd</l>
+                           <l>    Dig gör så mycken smärta,</l>
+                           <l>    Hwad menar du de lida,</l>
+                           <l>    Min son, dem du har sårat?"</l>
+                        </lg>
+                        <p rend="justify">41. Dryckessång.</p>
+                        <lg>
+                           <l>    Må wi glade bägarn tömma,</l>
+                           <l>    Mä wi winets gud besjunga,</l>
+                           <l>    Som oss lärt förstå danser,</l>
+                           <l>    Som är wän af dryckeswisan,</l>
+                           <l>    Som är Kärleksgudens stallbror,</l>
+                           <l>    Som är älskling åt Kythere;</l>
+                           <l>    Han har Ruset skänkt åt werlden,</l>
+                           <l>    Han är far åt lifwets Fröjder,</l>
+                           <l>    Han är den som smärtan döfwar,</l>
+                           <l>    Han är den som sorgen söfwer!</l>
+                           <l>    Ty när sköna gossar bringa</l>
+                           <l>    En pokal, behörigt blandad,</l>
+                           <l>    Då förjagas hwart bekymmer,</l>
+                           <l>    Och far hän på stormens wingar.</l>
+                           <l>    Må wi derför bägarn fatta,</l>
+                           <l>    Och ge grillerna på båten!</l>
+                           <l>    Ty hwad hjelper det en dödlig,</l>
+                           <l>    Att han qwäljer sig och ängslas?</l>
+                           <l>    Och ho wet sin framtids öden?</l>
+                           <l>    Uti natt är lifwet inswept.</l>
+                           <l>    Jag will dricka, jag will dansa,</l>
+                           <l>    Doftande af oljor skalkas</l>
+                           <l>    [I gelag med wackra gossar]</l>
+                           <l>    Och med sköna älskarinnor.</l>
+                           <l>    Ho som will, må ta på nacken</l>
+                           <l>    Hela bördan af bekymmer.</l>
+                           <l>    Må wi glade bägarn tömma,</l>
+                           <l>    Må wi winets gud besjunga!</l>
+                        </lg>
+                        <p rend="justify">42. Till sig sjelf.</p>
+                        <lg>
+                           <l>    Dionysos, wän af skämtet,</l>
+                           <l>    Genom dans mitt sinne tjusar,</l>
+                           <l>    Och jag fröjdas wid min lyra</l>
+                           <l>    Med den unge dryckskamraten.</l>
+                           <l>    Men likwäl att liljekransar</l>
+                           <l>    Kringom tinningarna fläta,</l>
+                           <l>    Och med täcka ungmör skalkas,</l>
+                           <l>    Det af allting mest mig fröjdar.</l>
+                           <l>    Afund känner ej mitt hjerta,</l>
+                           <l>    Afund ej, all twedrägts ursprung.</l>
+                           <l>    För den tadelsjuka tungans</l>
+                           <l>    Slöa pilar jag mig aktar.</l>
+                           <l>    Kif wid bägarn är min afsky</l>
+                           <l>    På de stojande kalasen,</l>
+                           <l>    Men med unga tjusarinnor</l>
+                           <l>    Under sång och spel jag dansar.</l>
+                           <l>    Låt oss lefwa i all stillhet!</l>
+                        </lg>
+                        <p rend="justify">43. Till Tettix.</p>
+                        <p rend="justify">[Ett slags gräshoppa.]</p>
+                        <lg>
+                           <l>    Du är lycklig, lilla sångkräk,</l>
+                           <l>    Ty i topparna af träden,</l>
+                           <l>    Med en droppe dagg bespisad,</l>
+                           <l>    Som en konung glad, du sjunger.</l>
+                           <l>    Dig ju tillhör allt i nejden,</l>
+                           <l>    Hwad du ser på åkerfälten,</l>
+                           <l>    Hwad du ser i skogen alstras.</l>
+                           <l>    Utaf landtbor är du älskad,</l>
+                           <l>    Ty du gör dem ingen skada,</l>
+                           <l>    Alla menskor dig wärdera,</l>
+                           <l>    Glada förebud af sommarn.</l>
+                           <l>    Sånggudinnorne dig älska,</l>
+                           <l>    Ja, dig älskar sjelfwe Phoibos,</l>
+                           <l>    Som dig gaf den gälla rösten.</l>
+                           <l>    Ingen ålderdom dig trycker,</l>
+                           <l>    Wisa sångarinna, jordbarn,</l>
+                           <l>    Qwalfri, utan blod i kroppen!</l>
+                           <l>    Nästan är du gudar jemlik.</l>
+                        </lg>
+                        <p rend="justify">44. Drömmen.</p>
+                        <lg>
+                           <l>    Mig uti en dröm det syntes,</l>
+                           <l>    Att jag sprang; på axelbladen</l>
+                           <l>    Sutto wingar. Kärleksguden</l>
+                           <l>    Bly kring sköna benen häftadt,</l>
+                           <l>    Följde efter och hann upp mig.</l>
+                           <l>    Hwad will sådan dröm betyda?</l>
+                           <l>    Jo, att jag, i många tusen</l>
+                           <l>    Kärleksbragder inbegripen,</l>
+                           <l>    Reder mig utur de andra,</l>
+                           <l>    Blott af denna ena fängslad.</l>
+                        </lg>
+                        <p rend="justify">45. Kärlekens pilar.</p>
+                        <lg>
+                           <l>    Kythereias halte make</l>
+                           <l>    Wid sin äsja uppå Lemnos</l>
+                           <l>    Härdar jernet för att smida</l>
+                           <l>    Pilar åt de små Eroter.</l>
+                           <l>    Kypris tar ett kärl med håning,</l>
+                           <l>    Hwartill Eros galla blandat,</l>
+                           <l>    Doppar deri hullingarna.</l>
+                           <l>    En gång Ares kom från striden¡</l>
+                           <l>    Swängande det tunga spjutet,</l>
+                           <l>    Log med hån åt Eros' pilar,</l>
+                           <l>    "Dessa pilar", — sade Eros, —</l>
+                           <l>    "Äro dryga nog; försök blott!"</l>
+                           <l>    Då tog Ares dem i handen:</l>
+                           <l>    Inom sig Kythere smålog.</l>
+                           <l>    Med en suck den stolte krigsgud</l>
+                           <l>    Sade: "dryga nog! tag bort dem!"</l>
+                           <l>    "Nej, behåll dem!" swarte Eros.</l>
+                        </lg>
+                        <p rend="justify">46. Till Kärleken.</p>
+                        <lg>
+                           <l>    Det ät swårt, att icke älska,</l>
+                           <l>    Det är swårt också att älska,</l>
+                           <l>    Men af allt i werlden swårast,</l>
+                           <l>    Att få korgen, när man älskar.</l>
+                           <l>    Höga anor, snille, dygder</l>
+                           <l>    Med förakt af kärlek trampas;</l>
+                           <l>    "Har du guld?" det är dess walspråk.</l>
+                           <l>    Ware han fördömd, den förste,</l>
+                           <l>    Som åt guld sin kärlek skänkte!</l>
+                           <l>    Ty allt sen ej bröder finnas,</l>
+                           <l>    Ty allt sedan ej föråldrar,</l>
+                           <l>    Han är skuld till mord och strider,</l>
+                           <l>    Genom honom — desto wärre! —</l>
+                           <l>    Wi förgås, som älskog drifwa.</l>
+                        </lg>
+                        <p rend="justify">47. Den gamle mannen.</p>
+                        <lg>
+                           <l>    Hell dig, du glade gubbe,</l>
+                           <l>    Hell, yngling, dig i dansen!</l>
+                           <l>    En gubbe, när han dansar,</l>
+                           <l>    Är till sitt gråhår gubbe,</l>
+                           <l>    Till själen är han yngling.</l>
+                        </lg>
+                        <p rend="justify">48. Till Bakchos.</p>
+                        <lg>
+                           <l>    Han, som gossen gör i faran</l>
+                           <l>    Oförskräckt, i kärlek orädd,</l>
+                           <l>    Och till dansare i dryckslag,</l>
+                           <l>    Winets gud oss sjelf besöker,</l>
+                           <l>    Bringande, att qwalen lindra,</l>
+                           <l>    Ljuflig älskogsdryck åt menskor,</l>
+                           <l>    Rankans ädla ättling, winet,</l>
+                           <l>    Som, i drufwan inneslutet,</l>
+                           <l>    Han på klasarna förwarar,</l>
+                           <l>    Så att, sen de drufwan plockat,</l>
+                           <l>    Sunda alla må förblifwa,</l>
+                           <l>    Sunda till den sköna kroppen,</l>
+                           <l>    Sunda till det glada sinnet,</l>
+                           <l>    Tills de se det nya året.</l>
+                        </lg>
+                        <p rend="justify">49. Öfwer en Diskos med Aphrodites bild.</p>
+                        <lg>
+                           <l>    Hwem har detta haf graverat?</l>
+                           <l>    Hwilket hänryckt konstnärsnille</l>
+                           <l>    Gjöt wäl öfwer Diskos böljan,</l>
+                           <l>    Som på hafwets rygg sig hwälfwer?</l>
+                           <l>    Hwilken gudakraft förmådde</l>
+                           <l>    Uppå wattnets yta bilda</l>
+                           <l>    Späda Kythereia, moder</l>
+                           <l>    Åt de ewigt sälla gudar?</l>
+                           <l>    Naken han oss henne wisar;</l>
+                           <l>    Hwad ej skickligt wor' att skåda,</l>
+                           <l>    Endast det en bölja gömmer.</l>
+                           <l>    Fram hon gungar och tillbaka,</l>
+                           <l>    Lik det hwita hafsgräs buren</l>
+                           <l>    På den spegelklara ytan,</l>
+                           <l>    Och med sorl hörs wågen swalla</l>
+                           <l>    Kring den sköna simmarinnan.</l>
+                           <l>    Ofwan rosenbarmens hwälfning,</l>
+                           <l>    Och inunder weka nacken</l>
+                           <l>    Böljan delar sig, och Kypris,</l>
+                           <l>    Lik en lilja bland violen,</l>
+                           <l>    Ur det lugna hafwets fåra</l>
+                           <l>    Möter wåra fikna blickar.</l>
+                           <l>    Öfwer silfwergrunden färdas</l>
+                           <l>    Uppå dansande delphiner</l>
+                           <l>    Trånaden och Kärleksguden,</l>
+                           <l>    Leende åt menskofunder.</l>
+                           <l>    Och en buktig här af fiskar,</l>
+                           <l>    Sprittande ur böljans sköte</l>
+                           <l>    Smeker Kythereia kärligt,</l>
+                           <l>    Så att hon med löje simmar.</l>
+                        </lg>
+                        <p rend="justify">50. Winpresssång.</p>
+                        <lg>
+                           <l>    Ynglingar och flickor bära</l>
+                           <l>    Uti korgar på sin axel</l>
+                           <l>    Purpurdunkla drufwans klasar,</l>
+                           <l>    Som de tömma i en winpress;</l>
+                           <l>    Endast ynglingarne trampa,</l>
+                           <l>    Lösa musten ur sitt fängsel,</l>
+                           <l>    Medan de till gudens ära</l>
+                           <l>    Stämma höga winpresssånger.</l>
+                           <l>    Skön är Bakchos att betrakta,</l>
+                           <l>    Der han fräser färsk i karen;</l>
+                           <l>    När en gubbe tömmt pokalen,</l>
+                           <l>    Dansar han på swaga fötter,</l>
+                           <l>    Så att silfwerlocken fläktar;</l>
+                           <l>    Men af win och kärlek drucken,</l>
+                           <l>    Gossen på sin flicka lurar,</l>
+                           <l>    Der i dunkla löfwens skugga,</l>
+                           <l>    Sträckande den weka kroppen,</l>
+                           <l>    Tjusarinnan ligger insöfd,</l>
+                           <l>    Som han nu i otid retar,</l>
+                           <l>    Att förråda eget bröllop;</l>
+                           <l>    Hwad han ej med godo winner,</l>
+                           <l>    Tar han ut mot hennes wilja.</l>
+                           <l>    Ty de unga finnen Bakchos</l>
+                           <l>    Eggar till förwägna lekar.</l>
+                        </lg>
+                        <p rend="justify">51. Till Rosen.</p>
+                        <p rend="justify">(Wexelsång.)</p>
+                        <lg>
+                           <l>    Wåren, krönt med blomsterkransar,</l>
+                           <l>    Och den hulda Ros jag sjunger:</l>
+                           <l>    Hjelp mig qwäda; älskarinna!</l>
+                        </lg>
+                        <lg>
+                           <l>    Ty hon är en fläkt från gudar.</l>
+                           <l>    Hon är menniskornas wällust,</l>
+                           <l>    Och Behagens skönsta smycke</l>
+                           <l>    Uti kärleks blomstermånad,</l>
+                           <l>    Hon är Kypris' största fägnad,</l>
+                           <l>    Och ett mål för skalders qwäden,</l>
+                           <l>    Sånggudinnors ljufwa blomma.</l>
+                        </lg>
+                        <lg>
+                           <l>    Mildt hon doftar dem till möte,</l>
+                           <l>    Som på törnestigen wandra;</l>
+                           <l>    Mild är kärleks blomma, bruten,</l>
+                           <l>    Och i weka händer sluten,</l>
+                           <l>    När man henne sakta fingrar.</l>
+                        </lg>
+                        <lg>
+                           <l>    Hon år skaldernas förtjusning</l>
+                           <l>    Wid gelagen och wid borden,</l>
+                           <l>    Och wid Dionysos' fester.</l>
+                           <l>    Säg, hwad funnes utom Rosen?</l>
+                           <l>    Morgonrodna'n rosenfingrad,</l>
+                           <l>    Rosenarmad nymphen kallas,</l>
+                           <l>    Aphrodite rosenhyad,</l>
+                           <l>    I de wisa skalders qwäden.</l>
+                        </lg>
+                        <lg>
+                           <l>    Hon är bot för hwarje krämpa.</l>
+                           <l>    Hon mot sjelfwa döden wärjer,</l>
+                           <l>    Hon förmår att tiden trotsa,</l>
+                           <l>    Rosen än på gamla dagar</l>
+                           <l>    Eget qwar sin ungdoms wällust.</l>
+                        </lg>
+                        <lg>
+                           <l>    Låt oss sjunga hennes ursprung!</l>
+                           <l>    När ut hafwets blåa sköte</l>
+                           <l>    Den med skumdagg höljda Kypris,</l>
+                           <l>    Oceanens dotter, uppsteg,</l>
+                           <l>    När den krigiska Athene</l>
+                           <l>    Ur Kronions hjerna föddes.</l>
+                           <l>    Fruktad af Olympens gudar:</l>
+                           <l>    Äfwen då den sköna Rosens</l>
+                           <l>    Nya skott ur jorden wexte,</l>
+                           <l>    Konstens undranswärda alster.</l>
+                           <l>    Men de sälla gudars skara.</l>
+                           <l>    För att bilda Rosen, gjöto</l>
+                           <l>    Nektar deruppå, och herrlig</l>
+                           <l>    Utur törnehäcken framgick</l>
+                           <l>    Bakchos' ewigt unga blomma.</l>
+                        </lg>
+                        <p rend="justify">52. Till sig sjelf.</p>
+                        <lg>
+                           <l>    När jag ser de ungas kretsar,</l>
+                           <l>    Ungdomsåren återwända,</l>
+                           <l>    Då på stund, på stund till dansen</l>
+                           <l>    Gubben som en fågel ilar.</l>
+                           <l>    Dröj hos mig en stund Kybeba,</l>
+                           <l>    Gif mig blommor, jag will kransas!</l>
+                           <l>    Bort med gråhår och med krämpor.</l>
+                           <l>    Ung jag dansar bland de unga.</l>
+                           <l>    Bär mig hit den saft forn runnit</l>
+                           <l>    Utur Dionysos' drufwa,</l>
+                           <l>    Att du gubbens kraft må skåda,</l>
+                           <l>    Som ännu förmår att sjunga,</l>
+                           <l>    Som ännu förmår att dricka,</l>
+                           <l>    Och att swärma med förtjusning.</l>
+                        </lg>
+                        <p rend="justify">53. De älskande.</p>
+                        <lg>
+                           <l>    Uppå sin länd har hästen</l>
+                           <l>    Ett inbrändt kännemärke;</l>
+                           <l>    Den höga mössan röjer</l>
+                           <l>    En kämpe bland de Parther.</l>
+                           <l>    Wid första anblick genast</l>
+                           <l>    Jag skiljer dem som älska;</l>
+                           <l>    De bära i sitt hjerta</l>
+                           <l>    Ett litet kännemärke.</l>
+                        </lg>
+                        <p rend="justify">54. Till sig sjelf.</p>
+                        <lg>
+                           <l>    Grånad är mig allaredan</l>
+                           <l>    Tinningen, och hwit min hjessa,</l>
+                           <l>    Tjusningsfulla ungdomstiden</l>
+                           <l>    Är förbi och tändren murknat.</l>
+                           <l>    Och af lifwets glada dagar</l>
+                           <l>    Är ej mera mången öfrig.</l>
+                           <l>    Derför ofta tårar rinna,</l>
+                           <l>    När jag tänker rädd på döden.</l>
+                           <l>    Så förskräcklig är Tartarens</l>
+                           <l>    Afgrund, grym den wäg som leder</l>
+                           <l>    Dit; ty hwar som nederstigit,</l>
+                           <l>    Stiger aldrig upp sen mera.</l>
+                        </lg>
+                        <p rend="justify">55. Man bör dricka.</p>
+                        <lg>
+                           <l>    Nu wälan, bär hit, o gosse,</l>
+                           <l>    Bägarn, att i fulla klunkar</l>
+                           <l>    Jag må dricka! Tio delar</l>
+                           <l>    Watten häll deri, af winet</l>
+                           <l>    Fem, att jag förutan buller</l>
+                           <l>    Må i winets floder bada!</l>
+                           <l>    Nu bär hit, men ingalunda</l>
+                           <l>    Må wi efter Skythers plägsed,</l>
+                           <l>    Under larmande och wäsen,</l>
+                           <l>    Tömma bägarn. Låt oss dricka</l>
+                           <l>    Under sköna sångers samljud!</l>
+                        </lg>
+                        <p rend="justify">56. Till Kärleken.</p>
+                        <p rend="justify">(Fragment.)</p>
+                        <lg>
+                           <l>    Åt den sköna Kärleksguden,</l>
+                           <l>    Höljd i rika blomsterbindlar,</l>
+                           <l>    Will jag egna detta qwäde.</l>
+                           <l>    Han är herre öfwer gudar,</l>
+                           <l>    Han de dödlige regerar…</l>
+                        </lg>
+                        <p rend="justify">57. Till Artemis.</p>
+                        <lg>
+                           <l>    Bedjande, o jägarinna,</l>
+                           <l>    Dig jag nalkas, djurens drottning¡</l>
+                           <l>    Blonda dotter af Kronion.</l>
+                           <l>    Ila till Lethaiosfloden,</l>
+                           <l>    Sänd en nådblick ifrån höjden</l>
+                           <l>    Till de oförskräckte hjeltars</l>
+                           <l>    Stad! Jag wet, du ej beskyddar,</l>
+                           <l>    Wilda, oförsynta menskor.</l>
+                        </lg>
+                        <p rend="justify">58. Till en Flicka.</p>
+                        <lg>
+                           <l>    Fåle ifrån Thrakien, hwarför</l>
+                           <l>    Ser du på mig med så sneda</l>
+                           <l>    Ögon, flyr mig obarmhertigt?</l>
+                           <l>    Tror du skalden intet känner?</l>
+                           <l>    Wet då nu, jag wille sirligt</l>
+                           <l>    Töm och betsel på dig hänga,</l>
+                           <l>    Wille sedan hurtigt swänga</l>
+                           <l>    Kring med dig på wädjobanan.</l>
+                           <l>    Nu på ängarna du betar,</l>
+                           <l>    Hoppar ystert kring och skalkas;</l>
+                           <l>    Ingen ryttare du eger,</l>
+                           <l>    Efter konstens reglor öfwad.</l>
+                        </lg>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

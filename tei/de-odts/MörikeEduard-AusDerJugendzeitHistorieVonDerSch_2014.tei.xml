@@ -1,0 +1,1377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aus der Jugendzeit; Historie von der schönen Lau</title>
+            <author>Eduard Mörike</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-01T19:05:11Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">odts/de-odts/MörikeEduard-AusDerJugendzeitHistorieVonDerSch_2014.epub.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Eduard Mörike</name>
+               <date>2024-01-01T19:05:11Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Aus der Jugendzeit; Historie von der schönen Lau</head>
+         <author>Eduard Mörike</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">odts/de-odts/MörikeEduard-AusDerJugendzeitHistorieVonDerSch_2014.epub.odt</p>
+         <p>Anmerkungen zur Transkription</p>
+         <p>Schreibweise und Interpunktion des Originaltextes wurden übernommen, lediglich offensichtliche Druckfehler wurden korrigiert. Eine Liste der vorgenommenen Änderungen  findet sich am Ende des Textes.</p>
+         <p>Der Originaltext ist in Fraktur gesetzt.</p>
+         <p>Die Illustrationen wurden zwischen Absätze bzw. zwischen Gedichtstrophen verschoben. Das Inhaltsverzeichnis wurde vom Ende des Buches an den Anfang verschoben.</p>
+         <p>Anmerkungen zur Transkription</p>
+         <p>(speziell für mobile Geräte)</p>
+         <p>Schreibweise und Interpunktion des Originaltextes wurden übernommen, lediglich offensichtliche Druckfehler wurden korrigiert. Eine Liste der vorgenommenen Änderungen  findet sich am Ende des Textes.</p>
+         <p>Der Originaltext ist in Fraktur gesetzt. Im Original <hi rend="italic">gesperrt</hi>  gesetzter Text wurde <hi rend="italic">kursiv</hi>  wiedergegeben.</p>
+         <p>Die Illustrationen wurden zwischen Absätze bzw. zwischen Gedichtstrophen verschoben. Das Inhaltsverzeichnis wurde vom Ende des Buches an den Anfang verschoben.</p>
+         <p>Das Cover war nicht Teil des Originals und wurde unter Verwendung einer Illustration aus dem Buch im Zuge der Transkription erstellt.</p>
+         <p>Meisterbücher für das deutsche Haus</p>
+         <p>Was deutsch und echt wüßt' keiner mehr,</p>
+         <p>lebt's nicht in deutscher Meister Ehr'.</p>
+         <head>Aus der Jugendzeit<lb/>Historie von der schönen Lau</head>
+         <p>  Dichtungen<lb/>von<lb/>Eduard Mörike</p>
+         <p>mit Federzeichnungen von<lb/>Franz Stassen</p>
+         <p>Verlagslogo</p>
+         <p>Berlin<lb/>Verlagsanstalt für Vaterländische Geschichte und Kunst<lb/>G. m. b. H.</p>
+         <p>Alle Rechte vorbehalten<lb/>Copyright 1920 by Verlagsanstalt für Vaterländische<lb/>Geschichte und Kunst, G. m. b. H., in Berlin</p>
+         <p>Druck von Fischer &amp; Wittig in Leipzig</p>
+         <pb/>
+         <div type="div1">
+            <head>Aus der Jugendzeit; Historie von der schönen Lau</head>
+            <pb/>
+            <div type="div2">
+               <head>Inhalt.</head>
+               <table rend="frame" xml:id="Table1">
+                  <row role="label">
+                     <cell rend="start bold"> </cell>
+                     <cell rend="end">Seite</cell>
+                  </row>
+                  <row>
+                     <cell>Aus der Jugendzeit</cell>
+                     <cell rend="end">3</cell>
+                  </row>
+                  <row>
+                     <cell>Selbstgeständnis</cell>
+                     <cell rend="end">5</cell>
+                  </row>
+                  <row>
+                     <cell>An einem Wintermorgen</cell>
+                     <cell rend="end">6</cell>
+                  </row>
+                  <row>
+                     <cell>Erinnerung</cell>
+                     <cell rend="end">10</cell>
+                  </row>
+                  <row>
+                     <cell>Lied vom Winde</cell>
+                     <cell rend="end">14</cell>
+                  </row>
+                  <row>
+                     <cell>Rat einer Alten</cell>
+                     <cell rend="end">16</cell>
+                  </row>
+                  <row>
+                     <cell>Der Knabe und das Immlein</cell>
+                     <cell rend="end">18</cell>
+                  </row>
+                  <row>
+                     <cell>Er ist's</cell>
+                     <cell rend="end">20</cell>
+                  </row>
+                  <row>
+                     <cell>Zu viel</cell>
+                     <cell rend="end">22</cell>
+                  </row>
+                  <row>
+                     <cell>Im Frühling</cell>
+                     <cell rend="end">23</cell>
+                  </row>
+                  <row>
+                     <cell>An die Geliebte</cell>
+                     <cell rend="end">25</cell>
+                  </row>
+                  <row>
+                     <cell>Der Gärtner</cell>
+                     <cell rend="end">26</cell>
+                  </row>
+                  <row>
+                     <cell>Die schöne Buche</cell>
+                     <cell rend="end">28</cell>
+                  </row>
+                  <row>
+                     <cell>Nächtliche Fahrt</cell>
+                     <cell rend="end">31</cell>
+                  </row>
+                  <row>
+                     <cell>Frage und Antwort</cell>
+                     <cell rend="end">35</cell>
+                  </row>
+                  <row>
+                     <cell>Schön-Rotraut</cell>
+                     <cell rend="end">36</cell>
+                  </row>
+                  <row>
+                     <cell>Nimmersatte Liebe</cell>
+                     <cell rend="end">39</cell>
+                  </row>
+                  <row>
+                     <cell>Der Jäger</cell>
+                     <cell rend="end">41</cell>
+                  </row>
+                  <row>
+                     <cell>Jägerlied</cell>
+                     <cell rend="end">44</cell>
+                  </row>
+                  <row>
+                     <cell>Scherz</cell>
+                     <cell rend="end">45</cell>
+                  </row>
+                  <row>
+                     <cell>Abreise</cell>
+                     <cell rend="end">48</cell>
+                  </row>
+                  <row>
+                     <cell>Storchenbotschaft</cell>
+                     <cell rend="end">50</cell>
+                  </row>
+                  <row>
+                     <cell>Begegnung</cell>
+                     <cell rend="end">53</cell>
+                  </row>
+                  <row>
+                     <cell>In der Frühe</cell>
+                     <cell rend="end">55</cell>
+                  </row>
+                  <row>
+                     <cell>Um Mitternacht</cell>
+                     <cell rend="end">56</cell>
+                  </row>
+                  <row>
+                     <cell>Gesang zu zweien in der Nacht</cell>
+                     <cell rend="end">58</cell>
+                  </row>
+                  <row>
+                     <cell>Josephine</cell>
+                     <cell rend="end">60</cell>
+                  </row>
+                  <row>
+                     <cell>Peregrina</cell>
+                     <cell rend="end">64</cell>
+                  </row>
+                  <row>
+                     <cell>Das verlassene Mägdlein</cell>
+                     <cell rend="end">66</cell>
+                  </row>
+                  <row>
+                     <cell>Agnes</cell>
+                     <cell rend="end">68</cell>
+                  </row>
+                  <row>
+                     <cell>An eine Äolsharfe</cell>
+                     <cell rend="end">70</cell>
+                  </row>
+                  <row>
+                     <cell>Gesang Weylas</cell>
+                     <cell rend="end">72</cell>
+                  </row>
+                  <row>
+                     <cell>Heimweh</cell>
+                     <cell rend="end">74</cell>
+                  </row>
+                  <row>
+                     <cell>Auf einer Wanderung</cell>
+                     <cell rend="end">76</cell>
+                  </row>
+                  <row>
+                     <cell>Auf eine Christblume</cell>
+                     <cell rend="end">78</cell>
+                  </row>
+                  <row>
+                     <cell>An meine Mutter</cell>
+                     <cell rend="end">82</cell>
+                  </row>
+                  <row>
+                     <cell>Historie von der schönen Lau</cell>
+                     <cell rend="end">83</cell>
+                  </row>
+               </table>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Aus der Jugendzeit</head>
+               <p rend="justify">Dekoration</p>
+               <div type="div3">
+                  <head>Selbstgeständnis.</head>
+                  <p rend="justify">Ich bin meiner Mutter einzig Kind,</p>
+                  <p rend="justify">und weil die andern ausblieben sind,</p>
+                  <p rend="justify">was weiß ich wie viel, die sechs oder sieben,</p>
+                  <p rend="justify">ist eben alles an mir hängen blieben;</p>
+                  <p rend="justify">ich hab' müssen die Liebe, die Treue, die Güte</p>
+                  <p rend="justify">für ein ganz halb Dutzend allein aufessen,</p>
+                  <p rend="justify">ich will's mein Lebtag nicht vergessen.</p>
+                  <p rend="justify">Es hätte mir aber noch wohl mögen frommen,</p>
+                  <p rend="justify">hätt' ich nur auch Schläg' für sechse bekommen.</p>
+                  <p rend="justify">Dekoration</p>
+               </div>
+               <div type="div3">
+                  <head>An einem Wintermorgen, vor Sonnenaufgang.</head>
+                  <p rend="justify">O flaumenleichte Zeit der dunkeln Frühe!</p>
+                  <p rend="justify">Welch neue Welt bewegest du in mir?</p>
+                  <p rend="justify">Was ist's, daß ich auf einmal nun in dir</p>
+                  <p rend="justify">von sanfter Wollust meines Daseins glühe?</p>
+                  <p rend="justify">Einem Kristall gleicht meine Seele nun,</p>
+                  <p rend="justify">den noch kein falscher Strahl des Lichts getroffen;</p>
+                  <p rend="justify">zu fluten scheint mein Geist, er scheint zu ruhn,</p>
+                  <p rend="justify">dem Eindruck naher Wunderkräfte offen,</p>
+                  <p rend="justify">die aus dem klaren Gürtel blauer Luft</p>
+                  <p rend="justify">zuletzt ein Zauberwort vor meine Sinne ruft.</p>
+                  <p rend="justify">Bei hellen Augen glaub' ich doch zu schwanken;</p>
+                  <p rend="justify">ich schließe sie, daß nicht der Traum entweiche.</p>
+                  <p rend="justify">Seh' ich hinab in lichte Feenreiche?</p>
+                  <p rend="justify">Wer hat den bunten Schwarm von Bildern und Gedanken</p>
+                  <p rend="justify">zur Pforte meines Herzens hergeladen,</p>
+                  <p rend="justify">die glänzend sich in diesem Busen baden,</p>
+                  <p rend="justify">goldfarb'gen Fischlein gleich im Gartenteiche?</p>
+                  <p rend="justify">Illustration</p>
+                  <p rend="justify">Ich höre bald der Hirtenflöten Klänge,</p>
+                  <p rend="justify">wie um die Krippe jener Wundernacht,</p>
+                  <p rend="justify">bald weinbekränzter Jugend Lustgesänge;</p>
+                  <p rend="justify">wer hat das friedenselige Gedränge</p>
+                  <p rend="justify">in meine traurigen Wände hergebracht?</p>
+                  <p rend="justify">Und welch Gefühl entzückter Stärke,</p>
+                  <p rend="justify">indem mein Sinn sich frisch zur Ferne lenkt!</p>
+                  <p rend="justify">Vom ersten Mark des heut'gen Tags getränkt,</p>
+                  <p rend="justify">fühl' ich mir Mut zu jedem frommen Werke.</p>
+                  <p rend="justify">Die Seele fliegt, so weit der Himmel reicht,</p>
+                  <p rend="justify">der Genius jauchzt in mir! Doch sage,</p>
+                  <p rend="justify">warum wird jetzt der Blick von Wehmut feucht?</p>
+                  <p rend="justify">Ist's ein verloren Glück, was mich erweicht?</p>
+                  <p rend="justify">Ist es ein werdendes, was ich im Herzen trage?</p>
+                  <p rend="justify">— Hinweg, mein Geist! hier gilt kein Stillestehn:</p>
+                  <p rend="justify">Es ist ein Augenblick, und alles wird verwehn!</p>
+                  <p rend="justify">Dort, sieh! am Horizont lüpft sich der Vorhang schon!</p>
+                  <p rend="justify">Es träumt der Tag, nun sei die Nacht entflohn;</p>
+                  <p rend="justify">die Purpurlippe, die geschlossen lag,</p>
+                  <p rend="justify">haucht, halb geöffnet, süße Atemzüge:</p>
+                  <p rend="justify">Auf einmal blitzt das Aug', und, wie ein Gott, der Tag</p>
+                  <p rend="justify">beginnt im Sprung die königlichen Flüge!</p>
+                  <p rend="justify">Dekoration</p>
+               </div>
+               <div type="div3">
+                  <head>Erinnerung.</head>
+                  <p rend="justify">Jenes war zum letzten Male,</p>
+                  <p rend="justify">daß ich mit dir ging, o Klärchen!</p>
+                  <p rend="justify">Ja, das war das letztemal,</p>
+                  <p rend="justify">daß wir uns wie Kinder freuten.</p>
+                  <p rend="justify">Als wir eines Tages eilig</p>
+                  <p rend="justify">durch die breiten, sonnenhellen,</p>
+                  <p rend="justify">regnerischen Straßen, unter</p>
+                  <p rend="justify">
+                     <hi rend="italic">einem</hi>  Schirm geborgen, liefen;</p>
+                  <p rend="justify">beide heimlich eingeschlossen</p>
+                  <p rend="justify">wie in einem Feenstübchen,</p>
+                  <p rend="justify">endlich einmal Arm in Arme!</p>
+                  <p rend="justify">Wenig wagten wir zu reden,</p>
+                  <p rend="justify">denn das Herz schlug zu gewaltig;</p>
+                  <p rend="justify">beide merkten wir es schweigend,</p>
+                  <p rend="justify">und ein jedes schob im stillen</p>
+                  <p rend="justify">des Gesichtes glüh'nde Röte</p>
+                  <p rend="justify">auf den Widerschein des Schirmes.</p>
+                  <p rend="justify">Illustration</p>
+                  <p rend="justify">Ach, ein Engel warst du da!</p>
+                  <p rend="justify">Wie du auf den Boden immer</p>
+                  <p rend="justify">blicktest und die blonden Locken</p>
+                  <p rend="justify">um den hellen Nacken fielen!</p>
+                  <p rend="justify">„Jetzt ist wohl ein Regenbogen</p>
+                  <p rend="justify">hinter uns am Himmel,“ sagt' ich,</p>
+                  <p rend="justify">„und die Wachtel dort im Fenster,</p>
+                  <p rend="justify">deucht mir, schlägt noch eins so froh!“</p>
+                  <p rend="justify">Und im Weitergehen dacht' ich</p>
+                  <p rend="justify">unsrer ersten Jugendspiele,</p>
+                  <p rend="justify">dachte an dein heimatliches</p>
+                  <p rend="justify">Dorf und seine tausend Freuden.</p>
+                  <p rend="justify">— „Weißt du auch noch,“ frug ich dich,</p>
+                  <p rend="justify">„Nachbar Büttnermeisters Höfchen,</p>
+                  <p rend="justify">wo die großen Kufen lagen,</p>
+                  <p rend="justify">drin wir Sonntags nach Mittag uns</p>
+                  <p rend="justify">immer häuslich niederließen,</p>
+                  <p rend="justify">plauderten, Geschichten lasen,</p>
+                  <p rend="justify">während drüben in der Kirche</p>
+                  <p rend="justify">Kinderlehre war — (ich höre</p>
+                  <p rend="justify">heute noch den Ton der Orgel</p>
+                  <p rend="justify">durch die Stille ringsumher):</p>
+                  <p rend="justify">sage, lesen wir nicht einmal</p>
+                  <p rend="justify">wieder wie zu jenen Zeiten</p>
+                  <p rend="justify">— just nicht in der Kufe, mein' ich —</p>
+                  <p rend="justify">den beliebten Robinson?“</p>
+                  <p rend="justify">Und du lächeltest und bogest</p>
+                  <p rend="justify">mit mir um die letzte Ecke.</p>
+                  <p rend="justify">Und ich bat dich um ein Röschen,</p>
+                  <p rend="justify">das du an der Brust getragen,</p>
+                  <p rend="justify">und mit scheuen Augen schnelle</p>
+                  <p rend="justify">reichtest du mir's hin im Gehen:</p>
+                  <p rend="justify">zitternd hob ich's an die Lippen,</p>
+                  <p rend="justify">küßt' es brünstig zwei- und dreimal;</p>
+                  <p rend="justify">niemand konnte dessen spotten,</p>
+                  <p rend="justify">keine Seele hat's gesehen,</p>
+                  <p rend="justify">und du selber sahst es nicht.</p>
+                  <p rend="justify">An dem fremden Haus, wohin</p>
+                  <p rend="justify">ich dich zu begleiten hatte,</p>
+                  <p rend="justify">standen wir nun, weißt, ich drückte</p>
+                  <p rend="justify">dir die Hand und —</p>
+                  <p rend="justify">Dieses war zum letzten Male,</p>
+                  <p rend="justify">daß ich mit dir ging, o Klärchen!</p>
+                  <p rend="justify">Ja, das war das letztemal,</p>
+                  <p rend="justify">daß wir uns wie Kinder freuten.</p>
+                  <p rend="justify">Dekoration</p>
+               </div>
+               <div type="div3">
+                  <head>Lied vom Winde.</head>
+                  <p rend="justify">Sausewind, Brausewind,</p>
+                  <p rend="justify">dort und hier!</p>
+                  <p rend="justify">Deine Heimat sage mir!</p>
+                  <p rend="justify">„Kindlein, wir fahren</p>
+                  <p rend="justify">seit viel vielen Jahren</p>
+                  <p rend="justify">durch die weit weite Welt,</p>
+                  <p rend="justify">und möchten's erfragen,</p>
+                  <p rend="justify">die Antwort erjagen,</p>
+                  <p rend="justify">bei den Bergen, den Meeren,</p>
+                  <p rend="justify">bei des Himmels klingenden Heeren:</p>
+                  <p rend="justify">die wissen es nie.</p>
+                  <p rend="justify">Bist du klüger als sie,</p>
+                  <p rend="justify">magst du es sagen.</p>
+                  <p rend="justify">— Fort, wohlauf!</p>
+                  <p rend="justify">Halt' uns nicht auf!</p>
+                  <p rend="justify">Kommen andre nach, unsre Brüder,</p>
+                  <p rend="justify">da frag' wieder.“</p>
+                  <p rend="justify">Halt' an! Gemach,</p>
+                  <p rend="justify">eine kleine Frist!</p>
+                  <p rend="justify">Sagt, wo der Liebe Heimat ist,</p>
+                  <p rend="justify">ihr Anfang, ihr Ende?</p>
+                  <p rend="justify">„Wer's nennen könnte!</p>
+                  <p rend="justify">Schelmisches Kind,</p>
+                  <p rend="justify">Lieb' ist wie Wind,</p>
+                  <p rend="justify">rasch und lebendig,</p>
+                  <p rend="justify">ruhet nie,</p>
+                  <p rend="justify">ewig ist sie,</p>
+                  <p rend="justify">aber nicht immer beständig.</p>
+                  <p rend="justify">— Fort! Wohlauf! auf!</p>
+                  <p rend="justify">Halt' uns nicht auf!</p>
+                  <p rend="justify">Fort über Stoppel und Wälder und Wiesen!</p>
+                  <p rend="justify">Wenn ich dein Schätzchen seh',</p>
+                  <p rend="justify">will ich es grüßen.</p>
+                  <p rend="justify">Kindlein, ade!“</p>
+                  <p rend="justify">Illustration</p>
+                  <p rend="justify">Illustration</p>
+                  <p rend="justify">B</p>
+               </div>
+               <div type="div3">
+                  <head>Rat einer Alten.</head>
+                  <p rend="justify">Bin jung gewesen,</p>
+                  <p rend="justify">kann auch mitreden,</p>
+                  <p rend="justify">und alt geworden,</p>
+                  <p rend="justify">drum gilt mein Wort.</p>
+                  <p rend="justify">Schön reife Beeren</p>
+                  <p rend="justify">am Bäumchen hangen:</p>
+                  <p rend="justify">Nachbar, da hilft kein</p>
+                  <p rend="justify">Zaun um den Garten;</p>
+                  <p rend="justify">lustige Vögel</p>
+                  <p rend="justify">wissen den Weg.</p>
+                  <p rend="justify">Aber, mein Dirnchen,</p>
+                  <p rend="justify">du laß dir raten:</p>
+                  <p rend="justify">Halte dein Schätzchen</p>
+                  <p rend="justify">wohl in der Liebe,</p>
+                  <p rend="justify">wohl im Respekt!</p>
+                  <p rend="justify">Mit den zwei Fädlein,</p>
+                  <p rend="justify">in eins gedrehet,</p>
+                  <p rend="justify">ziehst du am kleinen</p>
+                  <p rend="justify">Finger ihn nach.</p>
+                  <p rend="justify">Aufrichtig Herze,</p>
+                  <p rend="justify">doch schweigen können,</p>
+                  <p rend="justify">früh mit der Sonne</p>
+                  <p rend="justify">mutig zur Arbeit,</p>
+                  <p rend="justify">gesunde Glieder,</p>
+                  <p rend="justify">saubere Linnen,</p>
+                  <p rend="justify">das machet Mädchen</p>
+                  <p rend="justify">und Weibchen wert.</p>
+                  <p rend="justify">Bin jung gewesen,</p>
+                  <p rend="justify">kann auch mitreden,</p>
+                  <p rend="justify">und alt geworden,</p>
+                  <p rend="justify">drum gilt mein Wort.</p>
+                  <p rend="justify">Dekoration</p>
+               </div>
+               <div type="div3">
+                  <head>Der Knabe und das Immlein.</head>
+                  <p rend="justify">Im Weinberg auf der Höhe</p>
+                  <p rend="justify">ein Häuslein steht so windebang;</p>
+                  <p rend="justify">hat weder Tür noch Fenster,</p>
+                  <p rend="justify">die Weile wird ihm lang.</p>
+                  <p rend="justify">Und ist der Tag so schwüle,</p>
+                  <p rend="justify">sind all verstummt die Vögelein,</p>
+                  <p rend="justify">summt an der Sonnenblume</p>
+                  <p rend="justify">ein Immlein ganz allein.</p>
+                  <p rend="justify">Mein Lieb hat einen Garten,</p>
+                  <p rend="justify">da steht ein hübsches Immenhaus:</p>
+                  <p rend="justify">Kommst du daher geflogen?</p>
+                  <p rend="justify">Schickt sie dich nach mir aus?</p>
+                  <p rend="justify">„O nein, du feiner Knabe,</p>
+                  <p rend="justify">es hieß mich niemand Boten gehn;</p>
+                  <p rend="justify">dies Kind weiß nichts von Lieben,</p>
+                  <p rend="justify">hat dich noch kaum gesehn.</p>
+                  <p rend="justify">„Was wüßten auch die Mädchen,</p>
+                  <p rend="justify">wenn sie kaum aus der Schule sind!</p>
+                  <p rend="justify">Dein herzallerliebstes Schätzchen</p>
+                  <p rend="justify">ist noch ein Mutterkind.</p>
+                  <p rend="justify">„Ich bring' ihm Wachs und Honig;</p>
+                  <p rend="justify">ade! — ich hab' ein ganzes Pfund;</p>
+                  <p rend="justify">wie wird das Schätzchen lachen,</p>
+                  <p rend="justify">ihm wässert schon der Mund.“</p>
+                  <p rend="justify">Ach, wolltest du ihr sagen,</p>
+                  <p rend="justify">ich wüßte, was viel süßer ist:</p>
+                  <p rend="justify">Nichts Lieblichers auf Erden,</p>
+                  <p rend="justify">als wenn man herzt und küßt!</p>
+                  <p rend="justify">Dekoration</p>
+               </div>
+               <div type="div3">
+                  <head>Er ist's.</head>
+                  <p rend="justify">Frühling läßt sein blaues Band</p>
+                  <p rend="justify">wieder flattern durch die Lüfte;</p>
+                  <p rend="justify">süße, wohlbekannte Düfte</p>
+                  <p rend="justify">streifen ahnungsvoll das Land.</p>
+                  <p rend="justify">Veilchen träumen schon,</p>
+                  <p rend="justify">wollen balde kommen.</p>
+                  <p rend="justify">— Horch, von fern ein leiser Harfenton!</p>
+                  <p rend="justify">Frühling, ja du bist's!</p>
+                  <p rend="justify">Dich hab' ich vernommen!</p>
+                  <p rend="justify">Illustration</p>
+                  <p rend="justify">Dekoration</p>
+               </div>
+               <div type="div3">
+                  <head>Zu viel.</head>
+                  <p rend="justify">Der Himmel glänzt vom reinsten Frühlingslichte,</p>
+                  <p rend="justify">ihm schwillt der Hügel sehnsuchtsvoll entgegen,</p>
+                  <p rend="justify">die starre Welt zerfließt in Liebessegen</p>
+                  <p rend="justify">und schmiegt sich rund zum zärtlichsten Gedichte.</p>
+                  <p rend="justify">Am Dorfeshang, dort bei der luft'gen Fichte,</p>
+                  <p rend="justify">ist meiner Liebsten kleines Haus gelegen —</p>
+                  <p rend="justify">o Herz, was hilft dein Wiegen und dein Wägen,</p>
+                  <p rend="justify">daß all der Wonnestreit in dir sich schlichte!</p>
+                  <p rend="justify">Du, Liebe, hilf den süßen Zauber lösen,</p>
+                  <p rend="justify">womit Natur in meinem Innern wühlet!</p>
+                  <p rend="justify">Und du, o Frühling, hilf die Liebe beugen!</p>
+                  <p rend="justify">Lisch aus, o Tag! Laß mich in Nacht genesen!</p>
+                  <p rend="justify">Indes ihr sanften Sterne göttlich kühlet,</p>
+                  <p rend="justify">will ich zum Abgrund der Betrachtung steigen.</p>
+                  <p rend="justify">Illustration</p>
+               </div>
+               <div type="div3">
+                  <head>Im Frühling.</head>
+                  <p rend="justify">Hier lieg' ich auf dem Frühlingshügel:</p>
+                  <p rend="justify">Die Wolke wird mein Flügel,</p>
+                  <p rend="justify">ein Vogel fliegt mir voraus.</p>
+                  <p rend="justify">ach, sag' mir, alleinzige Liebe,</p>
+                  <p rend="justify">wo du bleibst, daß ich bei dir bliebe!</p>
+                  <p rend="justify">Doch du und die Lüfte, ihr habt kein Haus.</p>
+                  <p rend="justify">Der Sonnenblume gleich steht mein Gemüte offen,</p>
+                  <p rend="justify">sehnend,</p>
+                  <p rend="justify">sich dehnend</p>
+                  <p rend="justify">in Lieben und Hoffen.</p>
+                  <p rend="justify">Frühling, was bist du gewillt?</p>
+                  <p rend="justify">
+                     <hi rend="strikethrough">Wann' werd</hi>Wann werd' ich gestillt?</p>
+                  <p rend="justify">Die Wolke seh' ich wandeln und den Fluß,</p>
+                  <p rend="justify">es dringt der Sonne goldner Kuß</p>
+                  <p rend="justify">mir tief bis ins Geblüt hinein;</p>
+                  <p rend="justify">die Augen, wunderbar berauschet,</p>
+                  <p rend="justify">tun, als schliefen sie ein,</p>
+                  <p rend="justify">nur noch das Ohr dem Ton der Biene lauschet.</p>
+                  <p rend="justify">Ich denke dies und denke das,</p>
+                  <p rend="justify">ich sehne mich, und weiß nicht recht nach was:</p>
+                  <p rend="justify">Halb ist es Lust, halb ist es Klage;</p>
+                  <p rend="justify">mein Herz, o sage,</p>
+                  <p rend="justify">was webst du für Erinnerung</p>
+                  <p rend="justify">in golden grüner Zweige Dämmerung?</p>
+                  <p rend="justify">— Alte, unnennbare Tage!</p>
+                  <p rend="justify">Dekoration</p>
+               </div>
+               <div type="div3">
+                  <head>An die Geliebte.</head>
+                  <p rend="justify">Wenn ich, von deinem Anschaun tief gestillt,</p>
+                  <p rend="justify">mich stumm an deinem heil'gen Wert vergnüge,</p>
+                  <p rend="justify">dann hör' ich recht die leisen Atemzüge</p>
+                  <p rend="justify">des Engels, welcher sich in dir verhüllt,</p>
+                  <p rend="justify">Und ein erstaunt, ein fragend Lächeln quillt</p>
+                  <p rend="justify">auf meinem Mund, ob mich kein Traum betrüge,</p>
+                  <p rend="justify">daß nun in dir, zu ewiger Genüge,</p>
+                  <p rend="justify">mein kühnster Wunsch, mein einz'ger, sich erfüllt?</p>
+                  <p rend="justify">Von Tiefe dann zu Tiefen stürzt mein Sinn,</p>
+                  <p rend="justify">ich höre aus der Gottheit nächt'ger Ferne</p>
+                  <p rend="justify">die Quellen des Geschicks melodisch rauschen.</p>
+                  <p rend="justify">Betäubt kehr' ich den Blick nach oben hin,</p>
+                  <p rend="justify">zum Himmel auf, da lächeln alle Sterne;</p>
+                  <p rend="justify">ich kniee, ihrem Lichtgesang zu lauschen.</p>
+                  <p rend="justify">Dekoration</p>
+               </div>
+               <div type="div3">
+                  <head>Der Gärtner.</head>
+                  <p rend="justify">Auf ihrem Leibrößlein,</p>
+                  <p rend="justify">so weiß wie der Schnee,</p>
+                  <p rend="justify">die schönste Prinzessin</p>
+                  <p rend="justify">reit't durch die Allee.</p>
+                  <p rend="justify">Der Weg, den das Rößlein</p>
+                  <p rend="justify">hintanzet so hold,</p>
+                  <p rend="justify">der Sand, den ich streute,</p>
+                  <p rend="justify">er blinket wie Gold.</p>
+                  <p rend="justify">Du rosenfarbs Hütlein,</p>
+                  <p rend="justify">wohl auf und wohl ab,</p>
+                  <p rend="justify">o wirf eine Feder</p>
+                  <p rend="justify">verstohlen herab!</p>
+                  <p rend="justify">Und willst du dagegen</p>
+                  <p rend="justify">eine Blüte von mir,</p>
+                  <p rend="justify">nimm tausend für eine,</p>
+                  <p rend="justify">nimm alle dafür!</p>
+                  <p rend="justify">Illustration</p>
+                  <p rend="justify">Dekoration</p>
+               </div>
+               <div type="div3">
+                  <head>Die schöne Buche.</head>
+                  <p rend="justify">Ganz verborgen im Wald kenn' ich ein Plätzchen, da stehet</p>
+                  <p rend="justify">eine Buche, man sieht schöner im Bilde sie nicht.</p>
+                  <p rend="justify">Rein und glatt, in gediegenem Wuchs erhebt sie sich einzeln,</p>
+                  <p rend="justify">keiner der Nachbarn rührt ihr an den seidenen Schmuck.</p>
+                  <p rend="justify">Rings, so weit sein Gezweig der stattliche Baum ausbreitet,</p>
+                  <p rend="justify">grünet der Rasen, das Aug' still zu erquicken, umher;</p>
+                  <p rend="justify">Gleich nach allen Seiten umzirkt er den Stamm in der Mitte;</p>
+                  <p rend="justify">kunstlos schuf die Natur selber dies liebliche Rund.</p>
+                  <p rend="justify">Zartes Gebüsch umkränzet es erst; hochstämmige Bäume,</p>
+                  <p rend="justify">folgend in dichtem Gedräng', wehren dem himmlischen Blau.</p>
+                  <p rend="justify">Neben der dunkleren Fülle des Eichbaums wieget die Birke</p>
+                  <p rend="justify">ihr jungfräuliches Haupt schüchtern im goldenen Licht.</p>
+                  <p rend="justify">Nur wo, verdeckt vom Felsen, der Fußsteig jäh sich hinabschlingt,</p>
+                  <p rend="justify">lässet die Hellung mich ahnen das offene Feld.</p>
+                  <p rend="justify">— Als ich unlängst einsam, von neuen Gestalten des Sommers</p>
+                  <p rend="justify">ab dem Pfade gelockt, dort im Gebüsch mich verlor,</p>
+                  <p rend="justify">Führt' ein freundlicher Geist, des Hains auflauschende Gottheit,</p>
+                  <p rend="justify">hier mich zum erstenmal, plötzlich, den Staunenden, ein.</p>
+                  <p rend="justify">Welch Entzücken! Es war um die hohe Stunde des Mittags,</p>
+                  <p rend="justify">lautlos alles, es schwieg selber der Vogel im Laub.</p>
+                  <p rend="justify">Und ich zauderte noch, auf den zierlichen Teppich zu treten;</p>
+                  <p rend="justify">festlich empfing er den Fuß, leise beschritt ich ihn nur.</p>
+                  <p rend="justify">Jetzo, gelehnt an den Stamm (er trägt sein breites Gewölbe</p>
+                  <p rend="justify">nicht zu hoch), ließ ich rundum die Augen ergehn,</p>
+                  <p rend="justify">Wo den beschatteten Kreis die feurig strahlende Sonne,</p>
+                  <p rend="justify">fast gleich messend umher, säumte mit blendendem Rand.</p>
+                  <p rend="justify">Aber ich stand und rührte mich nicht; dämonischer Stille,</p>
+                  <p rend="justify">unergründlicher Ruh' lauschte mein innerer Sinn.</p>
+                  <p rend="justify">Eingeschlossen mit dir in diesem sonnigen Zauber-</p>
+                  <p rend="justify">gürtel, o Einsamkeit, fühlt' ich und dachte nur dich!</p>
+                  <p rend="justify">Illustration</p>
+               </div>
+               <div type="div3">
+                  <head>Nächtliche Fahrt.</head>
+                  <p rend="justify">Jüngst im Traum ward ich getragen</p>
+                  <p rend="justify">über fremdes Heideland;</p>
+                  <p rend="justify">vor den halbverschloßnen Wagen</p>
+                  <p rend="justify">schien ein Trauerzug gespannt.</p>
+                  <p rend="justify">Dann durch mondbeglänzte Wälder</p>
+                  <p rend="justify">ging die sonderbare Fahrt,</p>
+                  <p rend="justify">bis der Anblick offner Felder</p>
+                  <p rend="justify">endlich mir bekannter ward.</p>
+                  <p rend="justify">Wie im lustigen Gewimmel</p>
+                  <p rend="justify">tanzt nun Busch und Baum vorbei.</p>
+                  <p rend="justify">Und ein Dorf nun — guter Himmel!</p>
+                  <p rend="justify">O mir ahnet, was es sei.</p>
+                  <p rend="justify">Sah ich doch vorzeiten gerne</p>
+                  <p rend="justify">diese Häuser oft und viel,</p>
+                  <p rend="justify">die am Wagen die Laterne</p>
+                  <p rend="justify">streift im stummen Schattenspiel.</p>
+                  <p rend="justify">Ja, dort unterm Giebeldache</p>
+                  <p rend="justify">schlummerst du, vergeßlich Herz!</p>
+                  <p rend="justify">Und daß dein Getreuer wache,</p>
+                  <p rend="justify">sagt dir kein geheimer Schmerz.</p>
+                  <p rend="justify">— Ferne waren schon die Hütten;</p>
+                  <p rend="justify">sieh, da flattert's durch den Wind!</p>
+                  <p rend="justify">Eine Gabe zu erbitten</p>
+                  <p rend="justify">schien ein armes, holdes Kind.</p>
+                  <p rend="justify">Wie vom bösen Geist getrieben,</p>
+                  <p rend="justify">werf' ich rasch der Bettlerin</p>
+                  <p rend="justify">ein Geschenk von meiner Lieben,</p>
+                  <p rend="justify">jene goldne Kette, hin.</p>
+                  <p rend="justify">Plötzlich scheint ein Rad gebunden,</p>
+                  <p rend="justify">und der Wagen steht gebannt,</p>
+                  <p rend="justify">und das schöne Mädchen unten</p>
+                  <p rend="justify">hält mich schelmisch bei der Hand.</p>
+                  <p rend="justify">„Denkt man so damit zu schalten?</p>
+                  <p rend="justify">So entdeck' ich den Betrug?</p>
+                  <p rend="justify">Doch den Wagen festzuhalten,</p>
+                  <p rend="justify">war die Kette stark genug.</p>
+                  <p rend="justify">„Willst du, daß ich dir verzeihe,</p>
+                  <p rend="justify">sei erst selber wieder gut!</p>
+                  <p rend="justify">Oder wo ist deine Treue,</p>
+                  <p rend="justify">böser Junge, falsches Blut?“</p>
+                  <p rend="justify">Und sie streichelt mir die Wange,</p>
+                  <p rend="justify">küßt mir das erfrorne Kinn,</p>
+                  <p rend="justify">steht und lächelt, weinet lange</p>
+                  <p rend="justify">als die schönste Büßerin.</p>
+                  <p rend="justify">Doch mir bleibt der Mund verschlossen,</p>
+                  <p rend="justify">und kaum weiß ich, was geschehn;</p>
+                  <p rend="justify">ganz in ihren Arm gegossen,</p>
+                  <p rend="justify">schien ich selig zu vergehn.</p>
+                  <p rend="justify">Und nun fliegt mit uns, ihr Pferde,</p>
+                  <p rend="justify">in die graue Welt hinein!</p>
+                  <p rend="justify">Unter uns vergeh' die Erde,</p>
+                  <p rend="justify">und kein Morgen soll mehr sein!</p>
+                  <p rend="justify">Dekoration</p>
+               </div>
+               <div type="div3">
+                  <head>Frage und Antwort.</head>
+                  <p rend="justify">Fragst du mich, woher die bange</p>
+                  <p rend="justify">Liebe mir zum Herzen kam,</p>
+                  <p rend="justify">und warum ich ihr nicht lange</p>
+                  <p rend="justify">schon den bittern Stachel nahm?</p>
+                  <p rend="justify">Sprich, warum mit Geisterschnelle</p>
+                  <p rend="justify">wohl der Wind die Flügel rührt,</p>
+                  <p rend="justify">und woher die süße Quelle</p>
+                  <p rend="justify">die verborgnen Wasser führt?</p>
+                  <p rend="justify">Banne du auf seiner Fährte</p>
+                  <p rend="justify">mir den Wind in vollem Lauf!</p>
+                  <p rend="justify">Halte mit der Zaubergerte</p>
+                  <p rend="justify">du die süßen Quellen auf!</p>
+                  <p rend="justify">Dekoration</p>
+               </div>
+               <div type="div3">
+                  <head>Schön-Rotraut.</head>
+                  <p rend="justify">Wie heißt König Ringangs Töchterlein?</p>
+                  <p rend="justify">Rotraut, Schön-Rotraut.</p>
+                  <p rend="justify">Was tut sie denn den ganzen Tag,</p>
+                  <p rend="justify">da sie wohl nicht spinnen und nähen mag?</p>
+                  <p rend="justify">Tut fischen und jagen.</p>
+                  <p rend="justify">O daß ich doch ihr Jäger wär'!</p>
+                  <p rend="justify">Fischen und jagen freute mich sehr.</p>
+                  <p rend="justify">— Schweig stille, mein Herze!</p>
+                  <p rend="justify">Und über eine kleine Weil',</p>
+                  <p rend="justify">Rotraut, Schön-Rotraut,</p>
+                  <p rend="justify">so dient der Knab' auf Ringangs Schloß</p>
+                  <p rend="justify">in Jägertracht und hat ein Roß,</p>
+                  <p rend="justify">mit Rotraut zu jagen.</p>
+                  <p rend="justify">O daß ich doch ein Königssohn wär'!</p>
+                  <p rend="justify">Rotraut, Schön-Rotraut lieb' ich so sehr.</p>
+                  <p rend="justify">— Schweig stille, mein Herze!</p>
+                  <p rend="justify">Illustration</p>
+                  <p rend="justify">Einsmals sie ruhten am Eichenbaum,</p>
+                  <p rend="justify">da lacht Schön-Rotraut:</p>
+                  <p rend="justify">„Was siehst mich an so wunniglich?</p>
+                  <p rend="justify">Wenn du das Herz hast, küsse mich!“</p>
+                  <p rend="justify">Ach erschrak der Knabe!</p>
+                  <p rend="justify">Doch denket er: ‚mir ist's vergunnt‘,</p>
+                  <p rend="justify">und küsset Schön-Rotraut auf den Mund.</p>
+                  <p rend="justify">— Schweig stille, mein Herze!</p>
+                  <p rend="justify">Darauf sie ritten schweigend heim,</p>
+                  <p rend="justify">Rotraut, Schön-Rotraut;</p>
+                  <p rend="justify">es jauchzt der Knab' in seinem Sinn:</p>
+                  <p rend="justify">‚Und würd'st du heute Kaiserin,</p>
+                  <p rend="justify">mich sollt's nicht kränken!</p>
+                  <p rend="justify">Ihr tausend Blätter im Walde wißt,</p>
+                  <p rend="justify">ich hab' Schön-Rotrauts Mund geküßt!</p>
+                  <p rend="justify">— Schweig stille, mein Herze!‘</p>
+                  <p rend="justify">Dekoration</p>
+               </div>
+               <div type="div3">
+                  <head>Nimmersatte Liebe.</head>
+                  <p rend="justify">So ist die Lieb'! So ist die Lieb'!</p>
+                  <p rend="justify">Mit Küssen nicht zu stillen:</p>
+                  <p rend="justify">Wer ist der Tor und will ein Sieb</p>
+                  <p rend="justify">mit eitel Wasser füllen?</p>
+                  <p rend="justify">Und schöpfst du an die tausend Jahr'</p>
+                  <p rend="justify">und küssest ewig, ewig gar,</p>
+                  <p rend="justify">du tust ihr nie zu Willen.</p>
+                  <p rend="justify">Die Lieb', die Lieb' hat alle Stund'</p>
+                  <p rend="justify">neu wunderlich Gelüsten;</p>
+                  <p rend="justify">wir bissen uns die Lippen wund,</p>
+                  <p rend="justify">da wir uns heute küßten.</p>
+                  <p rend="justify">Das Mädchen hielt in guter Ruh',</p>
+                  <p rend="justify">wie's Lämmlein unterm Messer.</p>
+                  <p rend="justify">Ihr Auge bat: ‚Nur immer zu!</p>
+                  <p rend="justify">Je weher, desto besser!‘</p>
+                  <p rend="justify">So ist die Lieb', und war auch so,</p>
+                  <p rend="justify">wie lang' es Liebe gibt,</p>
+                  <p rend="justify">und anders war Herr Salomo,</p>
+                  <p rend="justify">der Weise, nicht verliebt.</p>
+                  <p rend="justify">Illustration</p>
+               </div>
+               <div type="div3">
+                  <head>Der Jäger.</head>
+                  <p rend="justify">Drei Tage Regen fort und fort,</p>
+                  <p rend="justify">kein Sonnenschein zur Stunde;</p>
+                  <p rend="justify">drei Tage lang kein gutes Wort</p>
+                  <p rend="justify">aus meiner Liebsten Munde!</p>
+                  <p rend="justify">Sie trutzt mit mir und ich mit ihr,</p>
+                  <p rend="justify">so hat sie's haben wollen;</p>
+                  <p rend="justify">mir aber nagt's am Herzen hier,</p>
+                  <p rend="justify">das Schmollen und das Grollen.</p>
+                  <p rend="justify">Willkommen denn, des Jägers Lust,</p>
+                  <p rend="justify">Gewittersturm und Regen!</p>
+                  <p rend="justify">Fest zugeknöpft die heiße Brust,</p>
+                  <p rend="justify">und jauchzend euch entgegen!</p>
+                  <p rend="justify">Nun sitzt sie wohl daheim und lacht</p>
+                  <p rend="justify">und scherzt mit den Geschwistern;</p>
+                  <p rend="justify">ich höre in des Waldes Nacht</p>
+                  <p rend="justify">die alten Blätter flüstern.</p>
+                  <p rend="justify">Nun sitzt sie wohl und weinet laut</p>
+                  <p rend="justify">im Kämmerlein, in Sorgen;</p>
+                  <p rend="justify">mir ist es wie dem Wilde traut,</p>
+                  <p rend="justify">in Finsternis geborgen.</p>
+                  <p rend="justify">Kein Hirsch und Rehlein überall!</p>
+                  <p rend="justify">Ein Schuß zum Zeitvertreibe!</p>
+                  <p rend="justify">Gesunder Knall und Widerhall</p>
+                  <p rend="justify">erfrischt das Mark im Leibe. —</p>
+                  <p rend="justify">Doch wie der Donner nun verhallt</p>
+                  <p rend="justify">in Tälern, durch die Runde,</p>
+                  <p rend="justify">ein plötzlich Weh mich überwallt,</p>
+                  <p rend="justify">mir sinkt das Herz zu Grunde.</p>
+                  <p rend="justify">Sie trutzt mit mir und ich mit ihr,</p>
+                  <p rend="justify">so hat sie's haben wollen,</p>
+                  <p rend="justify">mir aber frißt's am Herzen hier,</p>
+                  <p rend="justify">das Schmollen und das Grollen.</p>
+                  <p rend="justify">Und auf! und nach der Liebsten Haus!</p>
+                  <p rend="justify">Und sie gefaßt ums Mieder!</p>
+                  <p rend="justify">„Drück' mir die nassen Locken aus,</p>
+                  <p rend="justify">und küss' und hab' mich wieder!“</p>
+                  <p rend="justify">Dekoration</p>
+               </div>
+               <div type="div3">
+                  <head>Jägerlied.</head>
+                  <p rend="justify">Zierlich ist des Vogels Tritt im Schnee,</p>
+                  <p rend="justify">wenn er wandelt auf des Berges Höh':</p>
+                  <p rend="justify">Zierlicher schreibt Liebchens liebe Hand,</p>
+                  <p rend="justify">schreibt ein Brieflein mir in ferne Land'.</p>
+                  <p rend="justify">In die Lüfte hoch ein Reiher steigt,</p>
+                  <p rend="justify">dahin weder Pfeil noch Kugel fleugt:</p>
+                  <p rend="justify">Tausendmal so hoch und so geschwind</p>
+                  <p rend="justify">die Gedanken treuer Liebe sind.</p>
+                  <p rend="justify">Dekoration</p>
+               </div>
+               <div type="div3">
+                  <head>Scherz.</head>
+                  <p rend="justify">Einen Morgengruß ihr früh zu bringen</p>
+                  <p rend="justify">und mein Morgenbrot bei ihr zu holen,</p>
+                  <p rend="justify">geh' ich sachte an des Mädchens Türe,</p>
+                  <p rend="justify">öffne rasch, da steht mein schlankes Bäumchen</p>
+                  <p rend="justify">vor dem Spiegel schon und wäscht sich emsig.</p>
+                  <p rend="justify">O wie lieblich träuft die weiße Stirne,</p>
+                  <p rend="justify">träuft die Rosenwange Silbernässe!</p>
+                  <p rend="justify">Hangen aufgelöst die süßen Haare!</p>
+                  <p rend="justify">Locker spielen Tücher und Gewänder.</p>
+                  <p rend="justify">Aber wie sie zagt und scheucht und abwehrt!</p>
+                  <p rend="justify">Gleich, sogleich soll ich den Rückzug nehmen!</p>
+                  <p rend="justify">„Närrchen,“ rief ich, „sei mir so kein Närrchen:</p>
+                  <p rend="justify">Das ist Brautrecht, ist Verlobtensitte.</p>
+                  <p rend="justify">Laß mich nur, ich will ja blind und lahm sein,</p>
+                  <p rend="justify">will den Kopf und alle beide Augen</p>
+                  <p rend="justify">in die Fülle deiner Locken stecken,</p>
+                  <p rend="justify">will die Hände mit den Flechten binden —“</p>
+                  <p rend="justify">„Nein, du gehst!“ — „Im Winkel laß mich stehen,</p>
+                  <p rend="justify">dir bescheidentlich den Rücken kehren!“</p>
+                  <p rend="justify">„Ei, so mag's, damit ich Ruhe habe!“</p>
+                  <p rend="justify">Und ich stand gehorsam in der Ecke,</p>
+                  <p rend="justify">lächerlich, wie ein gestrafter Junge,</p>
+                  <p rend="justify">der die Lektion nicht wohl bestanden,</p>
+                  <p rend="justify">muckste nicht und kühlte mir die Lippen</p>
+                  <p rend="justify">an der weißen Wand mit leisem Kusse,</p>
+                  <p rend="justify">eine volle, eine lange Stunde;</p>
+                  <p rend="justify">ja, so wahr ich lebe. Doch, wer etwa</p>
+                  <p rend="justify">einen kleinen Zweifel möchte haben</p>
+                  <p rend="justify">(was ich ihm just nicht verargen dürfte),</p>
+                  <p rend="justify">nun, der frage nur das Mädchen selber:</p>
+                  <p rend="justify">Die wird ihn — noch zierlicher belügen.</p>
+                  <p rend="justify">Illustration</p>
+                  <p rend="justify">Dekoration</p>
+               </div>
+               <div type="div3">
+                  <head>Abreise.</head>
+                  <p rend="justify">Fertig schon zur Abfahrt steht der Wagen,</p>
+                  <p rend="justify">und das Posthorn bläst zum letzten Male.</p>
+                  <p rend="justify">Sagt, wo bleibt der vierte Mann so lange?</p>
+                  <p rend="justify">Ruft ihn, soll er nicht dahinten bleiben!</p>
+                  <p rend="justify">— Indes fällt ein rascher Sommerregen;</p>
+                  <p rend="justify">eh' man hundert zählt, ist er vorüber;</p>
+                  <p rend="justify">fast zu kurz, den heißen Staub zu löschen;</p>
+                  <p rend="justify">doch auch diese Letzung ist willkommen.</p>
+                  <p rend="justify">Kühlung füllt und Wohlgeruch den weiten</p>
+                  <p rend="justify">Platz, und an den Häusern ringsum öffnet</p>
+                  <p rend="justify">sich ein Blumenfenster um das andre.</p>
+                  <p rend="justify">Endlich kommt der junge Mann. Geschwinde!</p>
+                  <p rend="justify">Eingestiegen! — Und fort rollt der Wagen.</p>
+                  <p rend="justify">Aber sehet, auf dem nassen Pflaster</p>
+                  <p rend="justify">vor dem Posthaus, wo er stillgehalten,</p>
+                  <p rend="justify">läßt er einen trocknen Fleck zurücke,</p>
+                  <p rend="justify">lang und breit, sogar die Räder sieht man</p>
+                  <p rend="justify">angezeigt, und wo die Pferde standen.</p>
+                  <p rend="justify">Aber dort in jenem hübschen Hause,</p>
+                  <p rend="justify">drin der Jüngling sich so lang' verweilte,</p>
+                  <p rend="justify">steht ein Mädchen hinterm Fensterladen,</p>
+                  <p rend="justify">blicket auf die weiß gelass'ne Stelle,</p>
+                  <p rend="justify">hält ihr Tüchlein vors Gesicht und weinet.</p>
+                  <p rend="justify">Mag es ihr so ernst sein? Ohne Zweifel;</p>
+                  <p rend="justify">doch der Jammer wird nicht lange währen:</p>
+                  <p rend="justify">Mädchenaugen, wißt ihr, trocknen hurtig,</p>
+                  <p rend="justify">und eh' auf dem Markt die Steine wieder</p>
+                  <p rend="justify">alle hell geworden von der Sonne,</p>
+                  <p rend="justify">könnet ihr den Wildfang lachen hören.</p>
+                  <p rend="justify">Dekoration</p>
+               </div>
+               <div type="div3">
+                  <head>Storchenbotschaft.</head>
+                  <p rend="justify">Des Schäfers sein Haus und das steht auf zwei Rad,</p>
+                  <p rend="justify">steht hoch auf der Heiden, so frühe wie spat;</p>
+                  <p rend="justify">und wenn nur ein mancher so'n Nachtquartier hätt'!</p>
+                  <p rend="justify">Ein Schäfer tauscht nicht mit dem König sein Bett.</p>
+                  <p rend="justify">Und käm' ihm zur Nacht auch was Seltsames vor,</p>
+                  <p rend="justify">er betet sein Sprüchel und legt sich aufs Ohr;</p>
+                  <p rend="justify">ein Geistlein, ein Hexlein, so luftige Wicht',</p>
+                  <p rend="justify">sie klopfen ihm wohl, doch er antwortet nicht.</p>
+                  <p rend="justify">Einmal doch, da ward es ihm wirklich zu bunt:</p>
+                  <p rend="justify">Es knopert am Laden, es winselt der Hund;</p>
+                  <p rend="justify">nun ziehet mein Schäfer den Riegel — ei schau!</p>
+                  <p rend="justify">Da stehen zwei Störche, der Mann und die Frau.</p>
+                  <p rend="justify">Illustration</p>
+                  <p rend="justify">Das Pärchen, es machet ein schön Kompliment,</p>
+                  <p rend="justify">es möchte gern reden, ach, wenn es nur könnt'!</p>
+                  <p rend="justify">Was will mir das Ziefer? — ist so was erhört?</p>
+                  <p rend="justify">Doch ist mir wohl fröhliche Botschaft beschert.</p>
+                  <p rend="justify">Ihr seid wohl dahinten zu Hause am Rhein?</p>
+                  <p rend="justify">Ihr habt wohl mein Mädel gebissen ins Bein?</p>
+                  <p rend="justify">Nun weinet das Kind und die Mutter noch mehr,</p>
+                  <p rend="justify">sie wünschet den Herzallerliebsten sich her?</p>
+                  <p rend="justify">Und wünschet daneben die Taufe bestellt:</p>
+                  <p rend="justify">Ein Lämmlein, ein Würstlein, ein Beutelein Geld?</p>
+                  <p rend="justify">So sagt nur, ich käm' in zwei Tag oder drei,</p>
+                  <p rend="justify">und grüßt mir mein Bübel und rührt ihm den Brei!</p>
+                  <p rend="justify">Doch halt! warum stellt ihr zu zweien euch ein?</p>
+                  <p rend="justify">Es werden doch, hoff' ich, nicht Zwillinge sein? —</p>
+                  <p rend="justify">Da klappern die Störche im lustigsten Ton,</p>
+                  <p rend="justify">sie nicken und <hi rend="strikethrough">knicksten</hi>  knicksen und fliegen davon.</p>
+                  <p rend="justify">Dekoration</p>
+               </div>
+               <div type="div3">
+                  <head>Begegnung.</head>
+                  <p rend="justify">Was doch heut nacht ein Sturm gewesen,</p>
+                  <p rend="justify">bis erst der Morgen sich geregt!</p>
+                  <p rend="justify">Wie hat der ungebetne Besen</p>
+                  <p rend="justify">Kamin und Gassen ausgefegt!</p>
+                  <p rend="justify">Da kommt ein Mädchen schon die Straßen,</p>
+                  <p rend="justify">das halb verschüchtert um sich sieht;</p>
+                  <p rend="justify">wie Rosen, die der Wind zerblasen,</p>
+                  <p rend="justify">so unstet ihr Gesichtchen glüht.</p>
+                  <p rend="justify">Ein schöner Bursch tritt ihr entgegen,</p>
+                  <p rend="justify">er will ihr voll Entzücken nahn:</p>
+                  <p rend="justify">Wie sehn sich freudig und verlegen</p>
+                  <p rend="justify">die ungewohnten Schelme an!</p>
+                  <p rend="justify">Er scheint zu fragen, ob das Liebchen</p>
+                  <p rend="justify">die Zöpfe schon zurecht gemacht,</p>
+                  <p rend="justify">die heute nacht im offnen Stübchen</p>
+                  <p rend="justify">ein Sturm in Unordnung gebracht.</p>
+                  <p rend="justify">Der Bursche träumt noch von den Küssen,</p>
+                  <p rend="justify">die ihm das süße Kind getauscht,</p>
+                  <p rend="justify">er steht, von Anmut hingerissen,</p>
+                  <p rend="justify">derweil sie um die Ecke rauscht.</p>
+                  <p rend="justify">Dekoration</p>
+               </div>
+               <div type="div3">
+                  <head>In der Frühe.</head>
+                  <p rend="justify">Kein Schlaf noch kühlt das Auge mir,</p>
+                  <p rend="justify">dort gehet schon der Tag herfür</p>
+                  <p rend="justify">an meinem Kammerfenster.</p>
+                  <p rend="justify">Es wühlet mein verstörter Sinn</p>
+                  <p rend="justify">noch zwischen Zweifeln her und hin</p>
+                  <p rend="justify">und schaffet Nachtgespenster.</p>
+                  <p rend="justify">— Ängste, quäle</p>
+                  <p rend="justify">dich nicht länger, meine Seele!</p>
+                  <p rend="justify">Freu' dich! schon sind da und dorten</p>
+                  <p rend="justify">Morgenglocken wach geworden.</p>
+                  <p rend="justify">Dekoration</p>
+               </div>
+               <div type="div3">
+                  <head>Um Mitternacht.</head>
+                  <p rend="justify">Gelassen stieg die Nacht ans Land,</p>
+                  <p rend="justify">lehnt träumend an der Berge Wand;</p>
+                  <p rend="justify">ihr Auge sieht die goldne Wage nun</p>
+                  <p rend="justify">der Zeit in gleichen Schalen stille ruhn.</p>
+                  <p rend="justify">Und kecker rauschen die Quellen hervor,</p>
+                  <p rend="justify">sie singen der Mutter, der Nacht, ins Ohr</p>
+                  <p rend="justify">vom Tage,</p>
+                  <p rend="justify">vom heute gewesenen Tage.</p>
+                  <p rend="justify">Das uralt alte Schlummerlied,</p>
+                  <p rend="justify">sie achtet's nicht, sie ist es müd';</p>
+                  <p rend="justify">ihr klingt des Himmels Bläue süßer noch,</p>
+                  <p rend="justify">der flücht'gen Stunden gleichgeschwung'nes Joch.</p>
+                  <p rend="justify">Doch immer behalten die Quellen das Wort,</p>
+                  <p rend="justify">es singen die Wasser im Schlafe noch fort</p>
+                  <p rend="justify">vom Tage,</p>
+                  <p rend="justify">vom heute gewesenen Tage.</p>
+                  <p rend="justify">Illustration</p>
+                  <p rend="justify">Dekoration</p>
+               </div>
+               <div type="div3">
+                  <head>Gesang zu zweien in der Nacht.</head>
+                  <p rend="justify">Sie.</p>
+                  <p rend="justify">Wie süß der Nachtwind nun die Wiese streift</p>
+                  <p rend="justify">und klingend jetzt den jungen Hain durchläuft!</p>
+                  <p rend="justify">Da noch der freche Tag verstummt,</p>
+                  <p rend="justify">hört man der Erdenkräfte flüsterndes Gedränge,</p>
+                  <p rend="justify">das aufwärts in die zärtlichen Gesänge</p>
+                  <p rend="justify">der reingestimmten Lüfte summt.</p>
+                  <p rend="justify">Er.</p>
+                  <p rend="justify">Vernehm' ich doch die wunderbarsten Stimmen,</p>
+                  <p rend="justify">vom lauen Wind wollüstig hingeschleift,</p>
+                  <p rend="justify">indes, mit ungewissem Licht gestreift,</p>
+                  <p rend="justify">der Himmel selber scheinet hinzuschwimmen.</p>
+                  <p rend="justify">Sie.</p>
+                  <p rend="justify">Wie ein Gewebe zuckt die Luft manchmal,</p>
+                  <p rend="justify">durchsichtiger und heller aufzuwehen;</p>
+                  <p rend="justify">dazwischen hört man weiche Töne gehen</p>
+                  <p rend="justify">von sel'gen Feen, die im blauen Saal</p>
+                  <p rend="justify">zum Sphärenklang,</p>
+                  <p rend="justify">und fleißig mit Gesang,</p>
+                  <p rend="justify">silberne Spindeln hin und wieder drehen.</p>
+                  <p rend="justify">Er.</p>
+                  <p rend="justify">O holde Nacht, du gehst mit leisem Tritt</p>
+                  <p rend="justify">auf schwarzem Samt, der nur am Tage grünet,</p>
+                  <p rend="justify">und luftig schwirrender Musik bedienet</p>
+                  <p rend="justify">sich nun dein Fuß zum leichten Schritt,</p>
+                  <p rend="justify">womit du Stund' um Stunde missest,</p>
+                  <p rend="justify">dich lieblich in dir selbst vergissest —</p>
+                  <p rend="justify">du schwärmst, es schwärmt der Schöpfung Seele mit!</p>
+                  <p rend="justify">Dekoration</p>
+               </div>
+               <div type="div3">
+                  <head>Josephine.</head>
+                  <p rend="justify">Das Hochamt war. Der Morgensonne Blick</p>
+                  <p rend="justify">glomm wunderbar im süßen Weihrauchscheine;</p>
+                  <p rend="justify">der Priester schwieg; nun brauste die Musik</p>
+                  <p rend="justify">vom Chor herab zur Tiefe der Gemeine.</p>
+                  <p rend="justify">So stürzt ein sonnetrunkner Aar</p>
+                  <p rend="justify">vom Himmel sich mit herrlichem Gefieder,</p>
+                  <p rend="justify">so läßt Jehovens Mantel unsichtbar</p>
+                  <p rend="justify">sich stürmend aus den Wolken nieder.</p>
+                  <p rend="justify">Dazwischen hört' ich eine Stimme wehen,</p>
+                  <p rend="justify">die sanft den Sturm der Chöre unterbrach;</p>
+                  <p rend="justify">sie schmiegte sich mit schwesterlichem Flehen</p>
+                  <p rend="justify">dem süß verwandten Ton der Flöte nach.</p>
+                  <p rend="justify">Wer ist's, der diese Himmelsklänge schickt?</p>
+                  <p rend="justify">Das Mädchen dort, das so bescheiden blickt.</p>
+                  <p rend="justify">Ich eile sachte auf die Galerie;</p>
+                  <p rend="justify">zwar klopft mein Herz, doch tret' ich hinter sie.</p>
+                  <p rend="justify">Hier konnt' ich denn in unschuldsvoller Lust</p>
+                  <p rend="justify">mit leiser Hand ihr festlich Kleid berühren,</p>
+                  <p rend="justify">ich konnte still, ihr selber unbewußt,</p>
+                  <p rend="justify">die nahe Regung ihres Wesens spüren.</p>
+                  <p rend="justify">Illustration</p>
+                  <p rend="justify">Doch, welch ein Blick und welche Miene,</p>
+                  <p rend="justify">als ich das Wort nun endlich nahm</p>
+                  <p rend="justify">und nun der Name Josephine</p>
+                  <p rend="justify">mir herzlich auf die Lippen kam!</p>
+                  <p rend="justify">Welch zages Spiel die braunen Augen hatten!</p>
+                  <p rend="justify">Wie barg sich unterm tiefgesenkten Schatten</p>
+                  <p rend="justify">der Wimper gern die ros'ge Scham!</p>
+                  <p rend="justify">Und wie der Mund, der eben im Gesang</p>
+                  <p rend="justify">die Gottheit noch auf seiner Schwelle hegte,</p>
+                  <p rend="justify">sich von der Töne heil'gem Überschwang</p>
+                  <p rend="justify">zu mir mit schlichter Rede herbewegte!</p>
+                  <p rend="justify">O dieser Ton — ich fühlt' es nur zu bald,</p>
+                  <p rend="justify">schlich sich ins Herz und macht' es tief erkranken;</p>
+                  <p rend="justify">ich stehe wie ein Träumer in Gedanken,</p>
+                  <p rend="justify">indes die Orgel nun verhallt,</p>
+                  <p rend="justify">die Sängerin vorüberwallt,</p>
+                  <p rend="justify">die Kirche aufbricht und die Kerzen wanken.</p>
+                  <p rend="justify">Dekoration</p>
+               </div>
+               <div type="div3">
+                  <head>Peregrina.</head>
+                  <p rend="justify">Ein Irrsal kam in die Mondscheingärten</p>
+                  <p rend="justify">einer einst heiligen Liebe.</p>
+                  <p rend="justify">Schaudernd entdeckt' ich verjährten Betrug.</p>
+                  <p rend="justify">Und mit weinendem Blick, doch grausam,</p>
+                  <p rend="justify">hieß ich das schlanke,</p>
+                  <p rend="justify">zauberhafte Mädchen</p>
+                  <p rend="justify">ferne gehen von mir.</p>
+                  <p rend="justify">Ach, ihre hohe Stirn</p>
+                  <p rend="justify">war gesenkt, denn sie liebte mich;</p>
+                  <p rend="justify">aber sie zog mit Schweigen</p>
+                  <p rend="justify">fort in die graue</p>
+                  <p rend="justify">Welt hinaus.</p>
+                  <p rend="justify">Krank seitdem,</p>
+                  <p rend="justify">wund ist und wehe mein Herz.</p>
+                  <p rend="justify">Nimmer wird es genesen!</p>
+                  <p rend="justify">Als ginge, luftgesponnen, ein Zauberfaden</p>
+                  <p rend="justify">von ihr zu mir, ein ängstig Band,</p>
+                  <p rend="justify">so zieht es, zieht mich schmachtend ihr nach!</p>
+                  <p rend="justify">— Wie? wenn ich eines Tags auf meiner Schwelle</p>
+                  <p rend="justify">sie sitzen fände, wie einst, im Morgenzwielicht,</p>
+                  <p rend="justify">das Wanderbündel neben ihr,</p>
+                  <p rend="justify">und ihr Auge, treuherzig zu mir aufschauend,</p>
+                  <p rend="justify">sagte: Da bin ich wieder</p>
+                  <p rend="justify">hergekommen aus weiter Welt!</p>
+                  <p rend="justify">Illustration</p>
+               </div>
+               <div type="div3">
+                  <head>Das verlassene Mägdlein.</head>
+                  <p rend="justify">Früh, wann die Hähne krähn,</p>
+                  <p rend="justify">eh' die Sternlein verschwinden,</p>
+                  <p rend="justify">muß ich am Herde stehn,</p>
+                  <p rend="justify">muß Feuer zünden.</p>
+                  <p rend="justify">Schön ist der Flammen Schein,</p>
+                  <p rend="justify">es springen die Funken;</p>
+                  <p rend="justify">ich schaue so drein,</p>
+                  <p rend="justify">in Leid versunken.</p>
+                  <p rend="justify">Plötzlich, da kommt es mir,</p>
+                  <p rend="justify">treuloser Knabe,</p>
+                  <p rend="justify">daß ich die Nacht von dir</p>
+                  <p rend="justify">geträumet habe.</p>
+                  <p rend="justify">Träne auf Träne dann</p>
+                  <p rend="justify">stürzet hernieder;</p>
+                  <p rend="justify">so kommt der Tag heran —</p>
+                  <p rend="justify">o ging' er wieder!</p>
+                  <p rend="justify">Dekoration</p>
+               </div>
+               <div type="div3">
+                  <head>Agnes.</head>
+                  <p rend="justify">Rosenzeit! wie schnell vorbei,</p>
+                  <p rend="justify">schnell vorbei</p>
+                  <p rend="justify">bist du doch gegangen!</p>
+                  <p rend="justify">Wär' mein Lieb nur blieben treu,</p>
+                  <p rend="justify">blieben treu,</p>
+                  <p rend="justify">sollte mir nicht bangen.</p>
+                  <p rend="justify">Um die Ernte wohlgemut,</p>
+                  <p rend="justify">wohlgemut</p>
+                  <p rend="justify">Schnitterinnen singen.</p>
+                  <p rend="justify">Aber ach! mir kranken Blut,</p>
+                  <p rend="justify">mir kranken Blut</p>
+                  <p rend="justify">will nichts mehr gelingen.</p>
+                  <p rend="justify">Schleiche so durchs Wiesental,</p>
+                  <p rend="justify">so durchs Tal</p>
+                  <p rend="justify">als im Traum verloren,</p>
+                  <p rend="justify">Nach dem Berg, da tausendmal,</p>
+                  <p rend="justify">tausendmal,</p>
+                  <p rend="justify">er mir Treu' geschworen.</p>
+                  <p rend="justify">Oben auf des Hügels Rand,</p>
+                  <p rend="justify">abgewandt,</p>
+                  <p rend="justify">wein' ich bei der Linde;</p>
+                  <p rend="justify">an dem Hut mein Rosenband,</p>
+                  <p rend="justify">von seiner Hand,</p>
+                  <p rend="justify">spielet in dem Winde.</p>
+                  <p rend="justify">Dekoration</p>
+               </div>
+               <div type="div3">
+                  <head>An eine Äolsharfe.</head>
+                  <p rend="justify">Angelehnt an die Efeuwand</p>
+                  <p rend="justify">dieser alten Terrasse,</p>
+                  <p rend="justify">du, einer lustgebornen Muse</p>
+                  <p rend="justify">geheimnisvolles Saitenspiel,</p>
+                  <p rend="justify">fang' an,</p>
+                  <p rend="justify">fange wieder an</p>
+                  <p rend="justify">deine melodische Klage!</p>
+                  <p rend="justify">Ihr kommet, Winde, fern herüber,</p>
+                  <p rend="justify">ach! von des Knaben,</p>
+                  <p rend="justify">der mir so lieb war,</p>
+                  <p rend="justify">frisch grünendem Hügel.</p>
+                  <p rend="justify">Und Frühlingsblüten unterweges streifend,</p>
+                  <p rend="justify">übersättigt mit Wohlgerüchen,</p>
+                  <p rend="justify">wie süß bedrängt ihr dies Herz!</p>
+                  <p rend="justify">Und säuselt her in die Saiten,</p>
+                  <p rend="justify">angezogen von wohllautender Wehmut,</p>
+                  <p rend="justify">wachsend im Zug meiner Sehnsucht,</p>
+                  <p rend="justify">und hinsterbend wieder.</p>
+                  <p rend="justify">Aber auf einmal,</p>
+                  <p rend="justify">wie der Wind heftiger herstößt,</p>
+                  <p rend="justify">ein holder Schrei der Harfe</p>
+                  <p rend="justify">wiederholt, mir zu süßem Erschrecken,</p>
+                  <p rend="justify">meiner Seele plötzliche Regung;</p>
+                  <p rend="justify">und hier — die volle Rose streut, geschüttelt,</p>
+                  <p rend="justify">all' ihre Blätter vor meine Füße!</p>
+                  <p rend="justify">Dekoration</p>
+               </div>
+               <div type="div3">
+                  <head>Gesang Weylas.</head>
+                  <p rend="justify">Du bist Orplid, mein Land!</p>
+                  <p rend="justify">Das ferne leuchtet;</p>
+                  <p rend="justify">vom Meere dampfet dein besonnter Strand</p>
+                  <p rend="justify">den Nebel, so der Götter Wange feuchtet.</p>
+                  <p rend="justify">Uralte Wasser steigen</p>
+                  <p rend="justify">verjüngt um deine Hüften, Kind!</p>
+                  <p rend="justify">vor deiner Gottheit beugen</p>
+                  <p rend="justify">sich Könige, die deine Wärter sind.</p>
+                  <p rend="justify">Illustration</p>
+                  <p rend="justify">Illustration</p>
+               </div>
+               <div type="div3">
+                  <head>Heimweh.</head>
+                  <p rend="justify">Anders wird die Welt mit jedem Schritt,</p>
+                  <p rend="justify">den ich weiter von der Liebsten mache;</p>
+                  <p rend="justify">mein Herz, das will nicht weiter mit.</p>
+                  <p rend="justify">Hier scheint die Sonne kalt ins Land,</p>
+                  <p rend="justify">hier deucht mir alles unbekannt,</p>
+                  <p rend="justify">sogar die Blumen am Bache!</p>
+                  <p rend="justify">Hat jede Sache</p>
+                  <p rend="justify">so fremd eine Miene, so falsch ein Gesicht.</p>
+                  <p rend="justify">Das Bächlein murmelt wohl und spricht:</p>
+                  <p rend="justify">Armer Knabe, komm bei mir vorüber,</p>
+                  <p rend="justify">siehst auch hier Vergißmeinnicht!</p>
+                  <p rend="justify">— Ja, die sind schön an jedem Ort,</p>
+                  <p rend="justify">aber nicht wie dort!</p>
+                  <p rend="justify">Fort, nur fort!</p>
+                  <p rend="justify">Die Augen gehn mir über!</p>
+                  <p rend="justify">Dekoration</p>
+               </div>
+               <div type="div3">
+                  <head>Auf einer Wanderung.</head>
+                  <p rend="justify">In ein freundliches Städtchen tret' ich ein,</p>
+                  <p rend="justify">in den Straßen liegt roter Abendschein.</p>
+                  <p rend="justify">Aus einem offnen Fenster eben,</p>
+                  <p rend="justify">über den reichsten Blumenflor</p>
+                  <p rend="justify">hinweg, hört man Goldglockentöne schweben,</p>
+                  <p rend="justify">und eine Stimme scheint ein Nachtigallenchor,</p>
+                  <p rend="justify">daß die Blüten beben,</p>
+                  <p rend="justify">daß die Lüfte leben,</p>
+                  <p rend="justify">daß in höherem Rot die Rosen leuchten vor.</p>
+                  <p rend="justify">Lang' hielt ich staunend, lustbeklommen.</p>
+                  <p rend="justify">Wie ich hinaus vors Tor gekommen,</p>
+                  <p rend="justify">ich weiß es wahrlich selber nicht.</p>
+                  <p rend="justify">Ach hier, wie liegt die Welt so licht!</p>
+                  <p rend="justify">Der Himmel wogt in purpurnem Gewühle,</p>
+                  <p rend="justify">rückwärts die Stadt in goldnem Rauch;</p>
+                  <p rend="justify">Wie rauscht der Erlenbach, wie rauscht im Grund die Mühle!</p>
+                  <p rend="justify">Ich bin wie trunken, irregeführt, —</p>
+                  <p rend="justify">o Muse, du hast mein Herz berührt</p>
+                  <p rend="justify">mit einem Liebeshauch!</p>
+                  <p rend="justify">Dekoration</p>
+               </div>
+               <div type="div3">
+                  <head>Auf eine Christblume.</head>
+                  <p rend="justify">1.</p>
+                  <p rend="justify">Tochter des Walds, du Lilienverwandte,</p>
+                  <p rend="justify">so lang' von mir gesuchte, unbekannte,</p>
+                  <p rend="justify">im fremden Kirchhof, öd' und winterlich,</p>
+                  <p rend="justify">zum erstenmal, o schöne, find' ich dich!</p>
+                  <p rend="justify">Von welcher Hand gepflegt du hier erblühtest,</p>
+                  <p rend="justify">ich weiß es nicht, noch wessen Grab du hütest;</p>
+                  <p rend="justify">ist es ein Jüngling, so geschah ihm Heil,</p>
+                  <p rend="justify">ist's eine Jungfrau, lieblich fiel ihr Teil.</p>
+                  <p rend="justify">Im nächt'gen Hain, von Schneelicht überbreitet,</p>
+                  <p rend="justify">wo fromm das Reh an dir vorüberweidet,</p>
+                  <p rend="justify">bei der Kapelle, am kristallnen Teich,</p>
+                  <p rend="justify">dort sucht' ich deiner Heimat Zauberreich.</p>
+                  <p rend="justify">Illustration</p>
+                  <p rend="justify">Schön bist du, Kind des Mondes, nicht der Sonne;</p>
+                  <p rend="justify">dir wäre tödlich andrer Blumen Wonne,</p>
+                  <p rend="justify">dich nährt, den keuschen Leib voll Reif und Duft,</p>
+                  <p rend="justify">himmlischer Kälte balsamsüße Luft.</p>
+                  <p rend="justify">In deines Busens goldner Fülle gründet</p>
+                  <p rend="justify">ein Wohlgeruch, der sich nur kaum verkündet;</p>
+                  <p rend="justify">so duftete, berührt von Engelshand,</p>
+                  <p rend="justify">der benedeiten Mutter Brautgewand.</p>
+                  <p rend="justify">Dich würden, mahnend an das heil'ge Leiden,</p>
+                  <p rend="justify">fünf Purpurtropfen schön und einzig kleiden:</p>
+                  <p rend="justify">Doch kindlich zierst du um die Weihnachtzeit</p>
+                  <p rend="justify">lichtgrün mit einem Hauch dein weißes Kleid.</p>
+                  <p rend="justify">Der Elfe, der in mitternächt'ger Stunde</p>
+                  <p rend="justify">zum Tanze geht im lichterhellen Grunde,</p>
+                  <p rend="justify">vor deiner mystischen Glorie steht er scheu</p>
+                  <p rend="justify">neugierig still von fern und huscht vorbei.</p>
+                  <p rend="justify">2.</p>
+                  <p rend="justify">Im Winterboden schläft, ein Blumenkeim,</p>
+                  <p rend="justify">der Schmetterling, der einst um Busch und Hügel</p>
+                  <p rend="justify">in Frühlingsnächten wiegt' den samtnen Flügel;</p>
+                  <p rend="justify">nie soll er kosten deinen Honigseim.</p>
+                  <p rend="justify">Wer aber weiß, ob nicht sein zarter Geist,</p>
+                  <p rend="justify">wenn jede Zier des Sommers hingesunken,</p>
+                  <p rend="justify">dereinst, von deinem leisen Dufte trunken,</p>
+                  <p rend="justify">mir unsichtbar, dich blühende umkreist?</p>
+                  <p rend="justify">Dekoration</p>
+               </div>
+               <div type="div3">
+                  <head>An meine Mutter.</head>
+                  <p rend="justify">Siehe, von allen den Liedern nicht eines gilt dir, o Mutter!</p>
+                  <p rend="justify">Dich zu preisen, o glaub's, bin ich zu arm und zu reich.</p>
+                  <p rend="justify">Ein noch ungesungenes Lied ruhst du mir im Busen,</p>
+                  <p rend="justify">keinem vernehmbar sonst, mich nur zu trösten bestimmt,</p>
+                  <p rend="justify">wenn sich das Herz unmutig der Welt abwendet und einsam</p>
+                  <p rend="justify">seines himmlischen Teils bleibenden Frieden bedenkt.</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Historie von der schönen Lau</head>
+               <p rend="justify">Dekoration</p>
+               <p rend="justify">Der Blautopf ist der große runde Kessel eines wundersamen Quells bei einer jähen Felsenwand gleich hinter dem Kloster. Gen Morgen sendet er ein Flüßchen aus, die Blau, welche der Donau zufällt. Dieser Teich ist einwärts wie ein tiefer Trichter, sein Wasser von Farbe ganz blau, sehr herrlich, mit Worten nicht wohl zu beschreiben; wenn man es aber schöpft, sieht es ganz hell in dem Gefäß.</p>
+               <p rend="justify">Zu unterst auf dem Grund saß ehemals eine Wasserfrau mit langen fließenden Haaren. Ihr Leib war allenthalben wie eines schönen, natürlichen Weibs, dies eine ausgenommen, daß sie zwischen den Fingern und Zehen eine Schwimmhaut hatte, blühweiß und zärter als ein Blatt vom Mohn. Im Städtlein ist noch heutzutag ein alter Bau, vormals ein Frauenkloster, hernach zu einer großen Wirtschaft eingerichtet, und hieß darum der Nonnenhof. Dort hing vor sechzig Jahren noch ein Bildnis von dem Wasserweib, trotz Rauch und Alter noch wohl kenntlich in den Farben. Da hatte sie die Hände kreuzweis auf die Brust gelegt, ihr Angesicht sah weißlich, das Haupthaar schwarz, die Augen aber, welche sehr groß waren, blau. Beim Volk hieß sie die arge Lau im Topf, auch wohl die schöne Lau. Gegen die Menschen erzeigte sie sich bald böse, bald gut. Zuzeiten, wenn sie im Unmut den Gumpen übergehen ließ, kam Stadt und Kloster in Gefahr, dann brachten ihr die Bürger in einem feierlichen Aufzug oft Geschenke, sie zu begütigen, als: Gold- und Silbergeschirr, Becher, Schalen, kleine Messer und andre Dinge, dawider zwar, als einen heidnischen Gebrauch und Götzendienst, die Mönche redlich eiferten, bis derselbe auch endlich ganz abgestellt worden. So feind darum die Wasserfrau dem Kloster war, geschah es doch nicht selten, wenn Pater Emeran die Orgel drüben schlug und kein Mensch in der Nähe war, daß sie am lichten Tag mit halbem Leib heraufkam und zuhorchte; dabei trug sie zuweilen einen Kranz von breiten Blättern auf dem Kopf und auch dergleichen um den Hals.</p>
+               <p rend="justify">Illustration</p>
+               <p rend="justify">Ein frecher Hirtenjung' belauschte sie einmal in dem Gebüsch und rief: „Hei, Laubfrosch! git's guat Wetter?“ Geschwinder als ein Blitz und giftiger als eine Otter fuhr sie heraus, ergriff den Knaben beim Schopf und riß ihn mit hinunter in eine ihrer nassen Kammern, wo sie den ohnmächtig Gewordenen jämmerlich verschmachten und verfaulen lassen wollte. Bald aber kam er wieder zu sich, fand eine Tür und kam, über Stufen und Gänge, durch viele Gemächer in einen schönen Saal. Hier war es lieblich, glusam mitten im Winter. In einer Ecke brannte, indem die Lau und ihre Dienerschaft schon schlief, auf einem hohen Leuchter mit goldenen Vogelfüßen als Nachtlicht eine Ampel. Es stand viel köstlicher Hausrat herum an den Wänden, und diese waren samt dem Estrich ganz mit Teppichen staffiert, Bildweberei in allen Farben. Der Knabe hurtig nahm das Licht herunter von dem Stock, sah sich in Eile um, was er noch sonst erwischen möchte, und griff aus einem Schrank etwas heraus, das stak in einem Beutel und war mächtig schwer, deswegen er vermeinte, es sei Gold; lief dann und kam vor ein erzenes Pförtlein, das mochte in der Dicke gut zwo Fäuste sein, schob die Riegel zurück und stieg eine steinerne Treppe hinauf in unterschiedlichen Absätzen, bald links, bald wieder rechts, gewiß vierhundert Stufen, bis sie zuletzt ausgingen und er auf ungeräumte Klüfte stieß; da mußte er das Licht dahinten lassen und kletterte so mit Gefahr seines Lebens noch eine Stunde lang im Finstern hin und her, dann aber brachte er den Kopf auf einmal aus der Erde. Es war tief Nacht und dicker Wald um ihn. Als er nach vielem Irregehen endlich mit der ersten Morgenhelle auf gänge Pfade kam und von dem Felsen aus das Städtlein unten erblickte, verlangte ihn am Tag zu sehen, was in dem Beutel wäre; da war es weiter nichts als ein Stück Blei, ein schwerer Kegel, spannenlang, mit einem Öhr an seinem obern Ende, weiß vor Alter. Im Zorn warf er den Plunder weg, ins Tal hinab, und sagte nachher weiter niemand von dem Raub, weil er sich dessen schämte. Doch kam von ihm die erste Kunde von der Wohnung der Wasserfrau unter die Leute.</p>
+               <p rend="justify">Nun ist zu wissen, daß die schöne Lau nicht hier am Ort zu Hause war; vielmehr war sie, als eine Fürstentochter, und zwar, von Mutterseiten her halbmenschlichen Geblüts, mit einem alten Donaunix am Schwarzen Meer vermählt. Ihr Mann verbannte sie, darum, daß sie nur tote Kinder hatte. Das aber kam, weil sie stets traurig war, ohn' einige besondere Ursach'. Die Schwiegermutter hatte ihr geweissagt, sie möge eher nicht eines lebenden Kindes genesen, als bis sie fünfmal von Herzen gelacht haben würde. Beim fünften Male müßte etwas sein, das dürfe sie nicht wissen, noch auch der alte Nix. Es wollte aber damit niemals glücken, soviel auch ihre Leute deshalb Fleiß anwendeten; endlich da mochte sie der alte König ferner nicht an seinem Hofe leiden und sandte sie an diesen Ort, unweit der obern Donau, wo seine Schwester wohnte. Die Schwiegermutter hatte ihr zum Dienst und Zeitvertreib etliche Kammerzofen und Mägde mitgegeben, so muntere und kluge Mädchen, als je auf Entenfüßen gingen (denn was von dem gemeinen Stamm der Wasserweiber ist, hat rechte Entenfüße); die zogen sie, pur für die Langeweile, sechsmal des Tages anders an — denn außerhalb dem Wasser ging sie in köstlichen Gewändern, doch barfuß —, erzählten ihr alte Geschichten und Mären, machten Musik, tanzten und scherzten vor ihr. An jenem Saal, darin der Hirtenbub gewesen, war der Fürstin ihr Gaden oder Schlafgemach, von welchem eine Treppe in den Blautopf ging. Da lag sie manchen lieben Tag und manche Sommernacht, der Kühlung wegen. Auch hatte sie allerlei lustige Tiere, wie Vögel, Küllhasen und Affen, vornehmlich aber einen possigen Zwerg, durch welchen vormals einem Ohm der Fürstin war von ebensolcher Traurigkeit geholfen worden. Sie spielte alle Abend Damenziehen, Schachzagel oder Schaf und Wolf mit ihm; so oft er einen ungeschickten Zug getan, schnitt er die raresten Gesichter, keines dem andern gleich, nein, immer eines ärger als das andere, daß auch der weise Salomo das Lachen nicht gehalten hätte, geschweige denn die Kammerjungfern oder du selber, liebe Leserin, wärst du dabei gewesen; nur bei der schönen Lau schlug eben gar nichts an, kaum daß sie ein paarmal den Mund verzog.</p>
+               <p rend="justify">Es kamen alle Jahr um Winters Anfang Boten von daheim, die klopften an der Halle mit dem Hammer, da frugen dann die Jungfern:</p>
+               <lg>
+                  <l>Wer pochet, daß einem das Herz erschrickt?</l>
+                  <l>Und jene sprachen:</l>
+                  <l>Der König schickt!</l>
+                  <l>Gebt uns wahrhaftigen Bescheid,</l>
+                  <l>was Guts ihr habt geschafft die Zeit.</l>
+               </lg>
+               <lg>
+                  <l>Und sie sagten:</l>
+               </lg>
+               <p rend="justify">Wir haben die ferndigen1)  Lieder gesungen</p>
+               <p rend="justify">und haben die ferndigen Tänze gesprungen,</p>
+               <p rend="justify">gewonnen war es um ein Haar! —</p>
+               <p rend="justify">Kommt, liebe Herren, übers Jahr.</p>
+               <p rend="justify">So zogen sie wieder nach Haus. Die Frau war aber vor der Botschaft und darnach stets noch einmal so traurig.</p>
+               <p rend="justify">Im Nonnenhof war eine dicke Wirtin, Frau Betha Seysolffin, ein frohes Biederweib, christlich, leutselig, gütig; zumal an armen reisenden Gesellen bewies sie sich als eine rechte Fremdenmutter. Die Wirtschaft führte zumeist ihr ältster Sohn, Stephan, welcher verehlicht war; ein anderer, Xaver, war Klosterkoch, zwo Töchter noch bei ihr. Sie hatte einen kleinen Küchengarten vor der Stadt, dem Topf zunächst. Als sie im Frühjahr einst am ersten warmen Tag dort war und ihre Beete richtete, den Kappis2), den Salat zu säen, Bohnen und Zwiebel zu stecken, besah sie sich von ungefähr auch einmal recht mit Wohlgefallen wieder das schöne blaue Wasser überm Zaun und mit Verdruß daneben einen alten garstigen Schutthügel, der schändete den ganzen Platz; nahm also, wie sie fertig war mit ihrer Arbeit und das Gartentürlein hinter sich zugemacht hatte, die Hacke noch einmal, riß flink das gröbste Unkraut aus, erlas etliche Kürbiskern' aus ihrem Samenkorb und steckte hin und wieder einen in den Haufen. (Der Abt im Kloster, der die Wirtin, als eine saubere Frau, gern sah — man hätte sie nicht über vierzig Jahr geschätzt, er selber aber war gleich ihr ein starkbeleibter Herr — stand just am Fenster oben und grüßte herüber, indem er mit dem Finger drohte, als halte sie zu seiner Widersacherin.) Die Wüstung grünte nun den ganzen Sommer, daß es eine Freude war, und hingen dann im Herbst die großen gelben Kürbis an den Abhang nieder bis zu dem Teich.</p>
+               <p rend="justify">Jetzt ging einstmals der Wirtin Tochter, Jutta, in den Keller, woselbst sich noch von alten Zeiten her ein offener Brunnen mit einem steinernen Kasten befand. Beim Schein des Lichts erblickte sie darinne mit Entsetzen die schöne Lau, schwebend bis an die Brust im Wasser; sprang voller Angst davon und sagt's der Mutter an; die fürchtete sich nicht und stieg allein hinunter, litt auch nicht, daß ihr der Sohn zum Schutz nachfolgte, weil das Weib nackt war.</p>
+               <p rend="justify">Der wunderliche Gast sprach diesen Gruß:</p>
+               <p rend="justify">„Die Wasserfrau ist kommen</p>
+               <p rend="justify">gekrochen und geschwommen,</p>
+               <p rend="justify">durch Gänge steinig, wüst und kraus,</p>
+               <p rend="justify">zur Wirtin in das Nonnenhaus,</p>
+               <p rend="justify">sie hat sich meinethalb gebückt,</p>
+               <p rend="justify">mein' Topf geschmückt</p>
+               <p rend="justify">mit Früchten und mit Ranken,</p>
+               <p rend="justify">das muß ich billig danken.“</p>
+               <p rend="justify">Sie hatte einen Kreisel aus wasserhellem Stein in ihrer Hand, den gab sie der Wirtin und sagte: „Nehmt dieses Spielzeug, liebe Frau, zu meinem Angedenken! Ihr werdet guten Nutzen davon haben. Denn jüngsthin habe ich gehört, wie Ihr in Eurem Garten der Nachbarin klagtet, Euch sei schon auf die Kirchweih angst, wo immer die Bürger und Bauern zu Unfrieden kämen und Mord und Totschlag zu befahren sei. Derhalben, liebe Frau, wenn wieder die trunkenen Gäste bei Tanz und Zeche Streit beginnen, nehmt den Topf zur Hand und dreht ihn vor der Tür des Saals im Öhrn3), da wird man hören durch das ganze Haus ein mächtiges und herrliches Getöne, daß alle gleich die Fäuste werden sinken lassen und guter Dinge sein, denn jählings ist ein jeder nüchtern und gescheit geworden. Ist es an dem, so werfet Eure Schürze auf den Topf, da wickelt er sich alsbald ein und lieget stille.“</p>
+               <p rend="justify">Illustration</p>
+               <p rend="justify">So redete das Wasserweib. Frau Betha nahm vergnügt das Kleinod samt der goldenen Schnur und dem Halter von Ebenholz, rief ihrer Tochter Jutta her (sie stand nur hinter dem Krautfaß an der Staffel), wies ihr die Gabe, dankte und lud die Frau, so oft die Zeit ihr lang wär', freundlich ein zu fernerem Besuch, darauf das Weib hinabfuhr und verschwand.</p>
+               <p rend="justify">Es dauerte nicht lang', so wurde offenbar, welch einen Schatz die Wirtschaft an dem Topf gewann. Denn nicht allein, daß er durch seine Kraft und hohe Tugend die übeln Händel allezeit in einer Kürze dämpfte, er brachte auch dem Gasthaus bald erstaunliche Einkehr zuwege. Wer in die Gegend kam, gemein oder vornehm, ging ihm zulieb'; insonderheit kam bald der Graf von Helfenstein, von Wirtemberg und etliche große Prälaten; ja ein berühmter Herzog aus Lombardenland, so bei dem Herzoge von Bayern gastweis war und dieses Wegs nach Frankreich reiste, bot vieles Geld für dieses Stück, wenn es die Wirtin lassen wollte. Gewiß auch war in keinem andern Land seinesgleichen zu sehn und zu hören. Erst, wenn er anhub, sich zu drehen, ging es doucement her, dann klang es stärker und stärker, so hoch wie tief, und immer herrlicher, als wie der Schall von vielen Pfeifen, der quoll und stieg durch alle Stockwerke bis unter das Dach und bis in den Keller, dergestalt, daß alle Wände, Dielen, Säulen und Geländer schienen davon erfüllt zu sein, zu tönen und zu schwellen. Wenn nun das Tuch auf ihn geworfen wurde und er ohnmächtig lag, so hörte gleichwohl die Musik so bald nicht auf, es zog vielmehr der ausgeladene Schwall mit starken Klingen, Dröhnen, Summen noch wohl bei einer Viertelstunde hin und her.</p>
+               <p rend="justify">Bei uns im Schwabenland heißt so ein Topf aus Holz gemeinhin eine Habergeis; Frau Betha ihrer ward nach seinem vornehmsten Geschäft insgemein genannt der Bauren-Schwaiger. Er war gemacht aus einem großen Amethyst, des Name besagen will: wider den Trunk, weil er den schweren Dunst des Weins geschwinde aus dem Kopf vertreibt, ja schon von Anbeginn dawider tut, daß einen guten Zecher das Selige berühre; darum ihn auch weltlich und geistliche Herren sonst häufig pflegten am Finger zu tragen.</p>
+               <p rend="justify">Die Wasserfrau kam jeden Mond einmal, auch je und je unverhofft zwischen der Zeit, weshalb die Wirtin eine Schelle richten ließ, oben im Haus, mit einem Draht, der lief herunter an der Wand beim Brunnen, damit sie sich gleichbald anzeigen konnte. Also ward sie je mehr und mehr zutunlich zu den wackeren Frauen, der Mutter samt den Töchtern und der Söhnerin.</p>
+               <p rend="justify">Einstmals an einem Nachmittag im Sommer, da eben keine Gäste kamen, der Sohn mit den Knechten und Mägden hinaus in das Heu gefahren war, Frau Betha mit der Ältesten im Keller Wein abließ, die Lau im Brunnen aber Kurzweil halben dem Geschäft zusah und nun die Frauen noch ein wenig mit ihr plauderten, da fing die Wirtin an: „Mögt Ihr Euch denn einmal in meinem Haus und Hof umsehn? Die Jutta könnte Euch etwas von Kleidern geben; ihr seid von einer Größe.“</p>
+               <p rend="justify">„Ja“, sagte sie, „ich wollte lange gern die Wohnungen der Menschen sehn, was alles sie darin gewerben, spinnen, weben, ingleichen auch wie Eure Töchter Hochzeit machen und ihre kleinen Kinder in der Wiege schwenken.“</p>
+               <p rend="justify">Da lief die Tochter fröhlich mit Eile hinauf, ein rein Leintuch zu holen, bracht' es und half ihr aus dem Kasten steigen, das tat sie sonder Mühe und lachenden Mundes. Flugs schlug ihr die Dirne das Tuch um den Leib und führte sie bei ihrer Hand eine schmale Stiege hinauf in der hintersten Ecke des Kellers, da man durch eine Falltür oben gleich in der Töchter Kammer gelangt. Allda ließ sie sich trocken machen und saß auf einem Stuhl, indem ihr Jutta die Füße abrieb. Wie diese ihr nun an die Sohle kam, fuhr sie zurück und kicherte. „War's nicht gelacht?“ frug sie selber sogleich. — „Was anders?“ rief das Mädchen und jauchzte: „Gebenedeiet sei uns der Tag! ein erstes Mal wär' es geglückt!“ — Die Wirtin hörte in der Küche das Gelächter und die Freude, kam herein, begierig, wie es zugegangen, doch als sie die Ursach' vernommen — du armer Tropf, so dachte sie, das wird ja schwerlich <hi rend="strikethrough">gelten!“</hi>  gelten! — ließ sich indes nichts merken, und Jutte nahm etliche Stücke heraus aus dem Schrank, das Beste, was sie hatte, die Hausfreundin zu kleiden. „Seht“, sagte die Mutter: „Sie will wohl aus Euch eine Susann Preisnestel machen.“ — „Nein“, rief die Lau in ihrer Fröhlichkeit, „laß mich die Aschengruttel sein in deinem Märchen!“ — nahm einen schlechten runden Faltenrock und eine Jacke; nicht Schuh noch Strümpfe litt sie an den Füßen, auch hingen ihre Haare ungezöpft bis auf die Knöchel nieder. So strich sie durch das Haus von unten bis zu oberst, durch Küche, Stuben und Gemächer. Sie verwunderte sich des gemeinsten Gerätes und seines Gebrauchs, besah den reingefegten Schenktisch und darüber in langen Reihen die zinnenen Kannen und Gläser, alle gleich gestürzt, mit hängendem Deckel, dazu den kupfernen Schwenkkessel samt der Bürste und mitten in der Stube an der Decke der Weber Zunftgeschmuck, mit Seidenband und Silberdraht geziert, in dem Kästlein von Glas. Von ungefähr erblickte sie ihr eigen Bild im Spiegel, davor blieb sie betroffen und erstockt eine ganze Weile stehn, und als darauf die Söhnerin sie mit in ihre Stube nahm und ihr ein neues Spiegelein, drei Groschen wert, verehrte, da meinte sie Wunders zu haben; denn unter allen ihren Schätzen fand sich dergleichen nicht.</p>
+               <p rend="justify">Bevor sie aber Abschied nahm, geschah's, daß sie hinter den Vorhang des Alkoven schaute, woselbst der jungen Frau und ihres Mannes Bett sowie der Kinder Schlafstätte war. Saß da ein Enkelein mit rotgeschlafenen Backen, hemdig und einen Apfel in der Hand, auf einem runden Stühlchen von guter Ulmer Hafnerarbeit, grünverglaset. Das wollte dem Gast außer Maßen gefallen; sie nannte es einen viel zierlichen Sitz, rümpft' aber die Nase mit eins, und da die drei Frauen sich wandten zu lachen, vermerkte sie etwas und fing auch hell zu lachen an, und hielt sich die ehrliche Wirtin den Bauch, indem sie sprach: „Diesmal fürwahr hat es gegolten, und Gott schenk' Euch so einen frischen Buben, als mein Hans da ist!“</p>
+               <p rend="justify">Illustration</p>
+               <p rend="justify">Die Nacht darauf, daß sich dies zugetragen, legte sich die schöne Lau getrost und wohlgemut, wie schon in langen Jahren nicht, im Grund des <hi rend="strikethrough">Blautops</hi>Blautopfs nieder, schlief gleich ein, und bald erschien ihr ein närrischer Traum.</p>
+               <p rend="justify">Ihr deuchte da, es war die Stunde nach Mittag, wo in der heißen Jahreszeit die Leute auf der Wiese sind und mähen, die Mönche aber sich in ihren kühlen Zellen eine Ruhe machen, daher es noch einmal so still im ganzen Kloster und rings um seine Mauern war. Es stund jedoch nicht lange an, so kam der Abt herausspaziert und sah, ob nicht etwa die Wirtin in ihrem Garten sei. Dieselbe aber saß als eine dicke Wasserfrau mit langen Haaren in dem Topf, allwo der Abt sie bald entdeckte, sie begrüßte und ihr einen Kuß gab, so mächtig, daß es vom Klostertürmlein widerschallte, und schallte es der Turm ans Refektorium, das sagt' es der Kirche, und die sagt's dem Pferdstall, und der sagt's dem Fischhaus, und das sagt's dem Waschhaus, und im Waschhaus, da riefen's die Zuber und Kübel sich zu. Der Abt erschrak bei solchem Lärm; ihm war, wie er sich nach der Wirtin bückte, sein Käpplein in Blautopf gefallen; sie gab es ihm geschwind, und er watschelte hurtig davon.</p>
+               <p rend="justify">Da aber kam aus dem Kloster heraus unser Herrgott, zu sehn, was es gebe. Er hatte einen langen weißen Bart und einen roten Rock. Und frug den Abt, der ihm just in die Hände lief:</p>
+               <p rend="justify">„Herr Abt, wie ward Euer Käpplein so naß?“</p>
+               <p rend="justify">Und er antwortete:</p>
+               <p rend="justify">„Es ist mir ein Wildschwein am Wald verkommen,</p>
+               <p rend="justify">vor dem hab' ich Reißaus genommen;</p>
+               <p rend="justify">ich rannte sehr und schwitzet' baß.</p>
+               <p rend="justify">Davon ward wohl mein Käpplein so naß.“</p>
+               <p rend="justify">Illustration</p>
+               <p rend="justify">Da hob unser Herrgott, unwirs ob der Lüge, seinen Finger auf, winkt' ihm und ging voran, dem Kloster zu. Der Abt sah hehlings noch einmal nach der Frau Wirtin um, und diese rief: „Ach liebe Zeit, ach liebe Zeit, jetzt kommt der gut' alt' Herr in die Prison!“</p>
+               <p rend="justify">Dies war der schönen Lau ihr Traum. Sie wußte aber beim Erwachen und spürte noch an ihrem Herzen, daß sie im Schlaf sehr lachte, und ihr hüpfte noch wachend die Brust, daß der Blautopf oben Ringlein schlug.</p>
+               <p rend="justify">Weil es den Tag zuvor sehr schwül gewesen, so blitzte es jetzt in der Nacht. Der Schein erhellte den Blautopf ganz, auch spürte sie am Boden, es donnere weitweg. So blieb sie mit zufriedenem Gemüte noch eine Weile ruhen, den Kopf in ihre Hand gestützt, und sah dem Wetterblicken zu. Nun stieg sie auf, zu wissen, ob der Morgen etwa komme; allein es war noch nicht viel über Mitternacht. Der Mond stand glatt und schön über dem Rusenschloß, die Lüfte aber waren voll vom Würzgeruch der Mahden.</p>
+               <p rend="justify">Sie meinte fast die Geduld nicht zu haben bis an die Stunde, wo sie im Nonnenhof ihr neues Glück verkünden durfte, ja wenig fehlte, daß sie sich jetzt nicht mitten in der Nacht aufmachte und vor Juttas Türe kam (wie sie nur einmal, Trostes wegen, in übergroßem Jammer nach der jüngsten Botschaft aus der Heimat tat), doch sie besann sich anders und ging zu besserer Zeit.</p>
+               <p rend="justify">Frau Betha hörte ihren Traum gutmütig an, obwohl er ihr ein wenig ehrenrührig schien. Bedenklich aber sagte sie darauf: „Baut nicht auf solches Lachen, das im Schlaf geschah; der Teufel ist ein Schelm. Wenn Ihr auf solches Trugwerk hin die Boten mit fröhlicher Zeitung entließet und die Zukunft strafte Euch Lügen, es könnte schlimm daheim ergehen.“</p>
+               <p rend="justify">Auf diese ihre Rede hing die schöne Lau den Mund gar sehr und sagte: „Frau Ahne hat der Traum verdrossen!“ — nahm kleinlauten Abschied und tauchte hinunter.</p>
+               <p rend="justify">Es war nah bei Mittag, da rief der Pater Schaffner im Kloster dem Bruder Kellermeister eifrig zu: „Ich merk', es ist im Gumpen letz! die Arge will Euch Eure Faß wohl wieder einmal schwimmen lehren. Tut Eure Läden eilig zu, vermachet alles wohl!“</p>
+               <p rend="justify">Nun aber war des Klosters Koch, der Wirtin Sohn, ein lustiger Vogel, welchen die Lau wohl leiden mochte. Der dachte ihren Jäst4)  mit einem Schnak zu stillen, lief nach seiner Kammer, zog die Bettscher' aus der Lagerstätte und steckte sie am Blautopf in den Rasen, wo das Wasser auszutreten pflegte, und stellte sich mit Worten und Gebärden als einen vielgetreuen Diener an, der mächtig Ängsten hätte, daß seine Herrschaft aus dem Bette fallen und etwa Schaden nehmen möchte. Da sie nun sah das Holz so recht mit Fleiß gesteckt und über das Bächlein gespreizt, kam ihr in ihrem Zorn das Lachen an, und lachte überlaut, daß man's im Klostergarten hörte.</p>
+               <p rend="justify">Als sie hierauf am Abend zu den Frauen kam, da wußten sie es schon vom Koch und wünschten ihr mit tausend Freuden Glück. Die Wirtin sagte: „Der Xaver ist von Kindesbeinen an gewesen als wie der Zuberklaus, jetzt kommt uns seine Torheit zustatten.“</p>
+               <p rend="justify">Nun aber ging ein Monat nach dem andern herum, es wollte sich zum dritten- oder viertenmal nicht wieder schicken. Martini war vorbei, noch wenig Wochen, und die Boten standen wieder vor der Tür. Da ward es den guten Wirtsleuten selbst bang, ob heuer noch etwas zustande käme, und alle hatten nur zu trösten an der Frau. Je größer deren Angst, je weniger zu hoffen war.</p>
+               <p rend="justify">Damit sie ihres Kummers eher vergesse, lud ihr Frau Betha einen Lichtkarz ein, da nach dem Abendessen ein halb Dutzend muntre Dirnen und Weiber aus der Verwandtschaft in einer abgelegenen Stube mit ihren Kunkeln sich zusammensetzten. Die Lau kam alle Abend in Juttas altem Rock und Kittel und ließ sich weit vom warmen Ofen weg in einem Winkel auf den Boden nieder und hörte dem Geplauder zu, von Anfang als ein stummer Gast, ward aber bald zutraulich und bekannt mit allen. Um ihretwillen machte sich Frau Betha eines Abends ein Geschäft daraus, ihr Weihnachtskripplein für die Enkel beizeiten herzurichten: die Mutter Gottes mit dem Kind im Stall, bei ihr die drei Weisen aus Morgenland, ein jeder mit seinem Kamel, darauf er hergereist kam und seine Gaben brachte. Dies alles aufzuputzen und zu leimen, was etwa lotter war, saß die Frau Wirtin an dem Tisch beim Licht mit ihrer Brille, und die Wasserfrau mit höchlichem Ergötzen sah ihr zu, sowie sie auch gerne vernahm, was ihr von heiligen Geschichten dabei gesagt wurde, doch nicht, daß sie dieselben dem rechten Verstand nach begriff oder zu Herzen nahm, wie gern auch die Wirtin es wollte.</p>
+               <p rend="justify">Illustration</p>
+               <p rend="justify">Frau Betha wußte ferner viel lehrreicher Fabeln und Denkreime, auch spitzweise Fragen und Rätsel; die gab sie nacheinander auf zu raten, weil sonderlich die Wasserfrau von Hause aus dergleichen liebte und immer gar zufrieden schien, wenn sie es ein und das andre Mal traf (das doch nicht allzu leicht geriet). Eines derselben gefiel ihr vor allen, und was damit gemeint ist, nannte sie ohne Besinnen:</p>
+               <p rend="justify">„Ich bin eine dürre Königin,</p>
+               <p rend="justify">trag' auf dem Haupt eine zierliche Kron',</p>
+               <p rend="justify">und die mir dienen mit treuem Sinn,</p>
+               <p rend="justify">die haben großen Lohn.</p>
+               <p rend="justify">„Meine Frauen müssen mich schön frisiern,</p>
+               <p rend="justify">erzählen mir Märlein ohne Zahl,</p>
+               <p rend="justify">sie lassen kein einzig Haar an mir,</p>
+               <p rend="justify">doch siehst du mich nimmer kahl.</p>
+               <p rend="justify">„Spazieren fahr' ich frank und frei,</p>
+               <p rend="justify">das geht so rasch, das geht so fein;</p>
+               <p rend="justify">nur komm' ich nicht vom Platz dabei —</p>
+               <p rend="justify">sagt, Leute, was mag das sein?“</p>
+               <p rend="justify">Darüber sagte sie, in etwas fröhlicher denn zuvor: „Wenn ich dereinstens wiederum in meiner Heimat bin und kommt einmal ein schwäbisch Landeskind, zumal aus eurer Stadt, auf einer Kriegsfahrt oder sonst durch der Walachen Land an unsere Gestade, so ruf' er mich bei Namen, dort wo der Strom am breitesten hineingeht in das Meer — versteht, zehn Meilen einwärts in dieselbe See erstreckt sich meines Mannes Reich, soweit das süße Wasser sie mit seiner Farbe färbt —, dann will ich kommen und dem Fremdling zu Rat und Hilfe sein. Damit er aber sicher sei, ob ich es bin und keine andere, die ihm schaden möchte, so stelle er dies Rätsel. Niemand aus unserem Geschlechte außer mir wird ihm darauf antworten, denn dortzuland sind solche Rocken und Rädlein, als ihr in Schwaben führet, nicht gesehn, noch kennen sie dort eure Sprache; darum mag dies die Losung sein.“</p>
+               <p rend="justify">Auf einen andern Abend ward erzählt vom Doktor Veylland und Herrn Konrad von Wirtemberg, dem alten Gaugrafen, in dessen Tagen es noch keine Stadt mit Namen Stuttgart gab. Im Wiesental, da wo dieselbe sich nachmals erhob, stund nur ein stattliches Schloß mit Wassergraben und Zugbrücke, von Bruno, dem Domherrn von Speyer, Konradens Oheim, erbaut, und nicht gar weit davon ein hohes steinernes Haus. In diesem wohnte dazumal mit einem alten Diener ganz allein ein sonderlicher Mann, der war in natürlicher Kunst und in Arzneikunst sehr gelehrt und war mit seinem Herrn, dem Grafen, weit in der Welt herumgereist, in heißen Ländern, von wo er manche Seltsamkeit an Tieren, vielerlei Gewächsen und Meerwundern heraus nach Schwaben brachte. In seinem Öhrn sah man der fremden Sachen eine Menge an den Wänden herum hangen: die Haut vom Krokodil sowie Schlangen und fliegende Fische. Fast alle Wochen kam der Graf einmal zu ihm; mit andern Leuten pflegte er wenig Gemeinschaft. Man wollte behaupten, er mache Gold; gewiß ist, daß er sich unsichtbar machen konnte, denn er verwahrte unter seinem Kram einen Krackenfischzahn. Einst nämlich, als er auf dem Roten Meer das Bleilot niederließ, die Tiefe zu erforschen, da zockt' es unterm Wasser, daß das Tau fast riß. Es hatte sich ein Krackenfisch im Lot verbissen und zween seiner Zähne darinne gelassen. Sie sind wie eine Schustersahle spitz und glänzend schwarz. Der eine stak sehr fest, der andre ließ sich leicht ausziehen. Da nun ein solcher Zahn, etwa in Silber oder Gold gefaßt und bei sich getragen, besagte hohe Kraft besitzt und zu den größten Gütern, so man für Geld nicht haben kann, gehört, der Doktor aber dafür hielt, es zieme eine solche Gabe niemand besser als einem weisen und wohldenkenden Gebieter, damit er überall, in seinen eigenen und Feindes Landen, sein Ohr und Auge habe, so gab er einen dieser Zähne seinem Grafen, wie er ja ohnedem wohl schuldig war, mit Anzeigung von dessen Heimlichkeit, davon der Herr nichts wußte. Von diesem Tage an erzeigte sich der Graf dem Doktor gnädiger als allen seinen Edelleuten oder Räten und hielt ihn recht als seinen lieben Freund, ließ ihm auch gern und sonder Neid das Lot zu eigen, darin der andere Zahn war, doch unter dem Gelöbnis, sich dessen ohne Not nicht zu bedienen, auch ihn vor seinem Ableben entweder ihm, dem Grafen, erblich zu verlassen oder auf alle Weise der Welt zu entrücken, wo nicht ihn gänzlich zu vertilgen. Der edle Graf starb aber um zwei Jahre eher als der Veylland und hinterließ das Kleinod seinen Söhnen nicht; man glaubt, aus Gottesfurcht und weisem Vorbedacht hab' er's mit in das Grab genommen oder sonst verborgen.</p>
+               <p rend="justify">Wie nun der Doktor auch am Sterben lag, so rief er seinen treuen Diener Kurt zu ihm ans Bett und sagte: „Lieber Kurt! Es gehet diese Nacht mit mir zu Ende, so will ich dir noch deine guten Dienste danken und etliche Dinge befehlen. Dort bei den Büchern, in dem Fach zu unterst in der Ecke, ist ein Beutel mit hundert Imperialen, den nimm sogleich zu dir; du wirst auf Lebenszeit genug daran haben. Zum zweiten, das alte geschriebene Buch in dem Kästlein daselbst verbrenne jetzt vor meinen Augen hier in dem Kamin. Zum dritten findest du ein Bleilot dort, das nimm, verbirg's bei deinen Sachen, und wenn du aus dem Hause gehst in deine Heimat, gen Blaubeuren, laß es dein erstes sein, daß du es in den Blautopf wirfst.“ — Hiermit war er darauf bedacht, daß es, ohne Gottes besondere Fügung, in ewigen Zeiten nicht in irgendeines Menschen Hände komme. Denn damals hatte sich die Lau noch nie im Blautopf blicken lassen und hielt man selben überdies für unergründlich.</p>
+               <p rend="justify">Nachdem der gute Diener jenes alles teils auf der Stelle ausgerichtet, teils versprochen, nahm er mit Tränen Abschied von dem Doktor, welcher vor Tage noch das Zeitliche gesegnete.</p>
+               <p rend="justify">Als nachher die Gerichtspersonen kamen und allen kleinen Quark aussuchten und versiegelten, da hatte Kurt das Bleilot zwar beiseit' gebracht, den Beutel aber nicht versteckt, denn er war keiner von den Schlauesten, und mußte ihn da lassen, bekam auch nach der Hand nicht einen Deut davon zu sehen, kaum daß die schnöden Erben ihm den Jahreslohn auszahlten.</p>
+               <p rend="justify">Solch Unglück ahnete ihm schon, als er, auch ohnedem betrübt genug, mit seinem Bündelein in seiner Vaterstadt einzog. Jetzt dachte er an nichts, als seines Herrn Befehl vor allen Dingen zu vollziehen. Weil er seit dreiundzwanzig Jahren nimmer hier gewesen, so kannte er die Leute nicht, die ihm begegneten, und da er gleichwohl einem und dem andern Guten Abend sagte, gab's ihm niemand zurück. Die Leute schauten sich, wenn er vorüberkam, verwundert an den Häusern um, wer doch da gegrüßt haben möchte, denn keines erblickte den Mann. Dies kam, weil ihm das Lot in seinem Bündel auf der linken Seite hing; ein andermal, wenn er es rechts trug, war er von allen gesehen. Er aber sprach für sich: „Zu meiner Zeit sind dia Blaubeuramar so grob ett gwä5).“</p>
+               <p rend="justify">Vom Blautopf fand er seinen Vetter, den Seilermeister, mit dem Jungen am Geschäft, indem er längs der Klostermauer, rückwärts gehend, Werg aus seiner Schürze spann, und weiterhin der Knabe trillte die Schnur mit dem Rad. — „Gott grüaß di Vetter Seiler!“ rief der Kurt und klopft' ihm auf die Achsel. Der Meister guckt sich um, verblaßt, läßt seine Arbeit aus den Händen fallen und lauft, was seine Beine mögen. Da lachte der andere, sprechend: „Der denkt, mei' Seel, i wandele geistweis! D'Leut hant g'wiß mi für tot hia g'sagt, anstatt mein' Herra — ei so schlag!“</p>
+               <p rend="justify">Jetzt ging er zu dem Teich, knüpfte sein Bündel auf und zog das Lot heraus. Da fiel ihm ein, er möchte doch auch wissen, ob es wahr sei, daß der Gumpen keinen Grund noch Boden habe (er wär' gern auch ein wenig so ein Spiriguckes wie sein Herr gewesen), und weil er vorhin in des Seilers Korb drei große starke Schnürbund liegen sehn, so holte er dieselben her und band das Lot an einen. Es lagen just auch frischgebohrte Teichel6), eine schwere Menge, in dem Wasser bis gegen die Mitte des Topfs, darauf er sicher Posto fassen konnte, und also ließ er das Gewicht hinunter, indem er immer ein Stück Schnur an seinem ausgestreckten Arm abmaß, drei solcher Längen auf ein Klafter rechnete und laut abzählte: „— 1 Klafter, 2 Klafter, 3, 4, 5, 6, 7, 8, 9, 10“; — da ging der erste Schnurbund aus und mußte er den zweiten an das Ende knüpfen, maß wiederum ab und zählte bis auf 20. Da war der andere Schnurbund gar. — „Heidaguguk, ist dees a Tiafe!“ — und band den dritten an das Trumm, fuhr fort zu zählen: „21, 22, 23, 24 — Höll-Element, mei' Arm will nimme! — 25, 26, 27, 28, 29, 30 — Jetzet guat Nacht, 's Meß hot a End! Do heißt's halt, mir nex, dir nex, rappede kappede, so isch usganga!“ — Er schlang die Schnur, bevor er aufzog, um das Holz, darauf er stand, ein wenig zu verschnaufen, und urteilte bei sich: der Topf ist währle bodalaus.</p>
+               <p rend="justify">Illustration</p>
+               <p rend="justify">Indem der Spinnerinnen eine diesen Schwank erzählte, tat die Wirtin einen schlauen Blick zur Lau hinüber, welche lächelte; denn freilich wußte sie am besten, wie es gegangen war mit dieser Messerei; doch sagten beide nichts. Dem Leser aber soll es unverhalten sein.</p>
+               <p rend="justify">Die schöne Lau lag jenen Nachmittag auf dem Sand in der Tiefe, und, ihr zu Füßen, eine Kammerjungfer, Aleila, welche ihr die liebste war, beschnitte ihr in guter Ruh die Zehen mit einer goldenen Schere, wie von Zeit zu Zeit geschah.</p>
+               <p rend="justify">Da kam hernieder langsam aus der klaren Höh' ein schwarzes Ding, als wie ein Kegel, des sich im Anfang beide sehr verwunderten, bis sie erkannten, was es sei. Wie nun das Lot mit neunzig Schuh den Boden rührte, da ergriff die scherzlustige Zofe die Schnur und zog gemach mit beiden Händen, zog und zog, so lang', bis sie nicht mehr nachgab. Alsdann nahm sie geschwind die Schere und schnitt das Lot hinweg, erlangte einen dicken Zwiebel, der war erst gestern in den Topf gefallen und war fast eines Kinderkopfes groß, und band ihn bei dem grünen Schossen an die Schnur, damit der Mann erstaune, ein ander Lot zu finden, als das er ausgeworfen. Derweile aber hatte die schöne Lau den Krackenzahn im Blei mit Freuden und Verwunderung entdeckt. Sie wußte seine Kraft gar wohl, und ob zwar für sich selbst die Wasserweiber oder -männer nicht viel danach fragen, so gönnen sie den Menschen doch so großen Vorteil nicht, zumalen sie das Meer und was sich darin findet von Anbeginn als ihren Pacht und Lehn ansprechen. Deswegen denn die schöne Lau mit dieser ungefähren Beute sich dereinst, wenn sie zu Hause käme, beim alten Nix, ihrem Gemahl, Lobs zu erholen hoffte. Doch wollte sie den Mann, der oben stund, nicht lassen ohn' Entgelt, nahm also alles, was sie eben auf dem Leibe hatte, nämlich die schöne Perlenschnur an ihrem Hals, schlang selbe um den großen Zwiebel, gerade als er sich nunmehr erhob; und daran war es nicht genug: sie hing zuteuerst auch die goldene Schere noch daran und sah mit hellem Aug', wie das Gewicht hinaufgezogen ward. Die Zofe aber, neubegierig, wie sich das Menschenkind dabei gebärde, stieg hinter dem Lot in die Höhe und weidete sich zwo Spannen unterhalb dem Spiegel an des Alten Schreck und Verwirrung. Zuletzt fuhr sie mit ihren beiden aufgehobenen Händen ein maler viere in der Luft herum, die weißen Finger als zu einem Fächer oder Wadel ausgespreizt. Es waren aber schon zuvor auf des Vetters Seilers Geschrei viel Leute aus der Stadt herausgekommen, die standen um den Blautopf her und sahn dem Abenteuer zu, bis wo die grausigen Hände erschienen; da stob mit eins die Menge voneinander und entrann.</p>
+               <p rend="justify">Der alte Diener aber war von Stund an irrsch im Kopf ganzer sieben Tage und sah der Lau ihre Geschenke gar nicht an, sondern saß da, bei seinem Vetter, hinterm Ofen, und sprach des Tags wohl hundertmal ein altes Sprüchlein vor sich hin, von welchem kein Gelehrter in ganz Schwabenland Bescheid zu geben weiß, woher und wie oder wann erstmals es unter die Leute gekommen. Denn von ihm selber hatte es der Alte nicht; man gab es lang vor seiner Zeit, gleichwie noch heutigestags, den Kindern scherzweis auf, wer es ganz hurtig nacheinander ohne Tadel am öftesten hersagen könne; und lauten die Worte:</p>
+               <p rend="justify">„'s leit a Klötzle Blei glei bei Blaubeura,</p>
+               <p rend="justify">glei bei Blaubeura leit a Klötzle Blei.“</p>
+               <p rend="justify">Die Wirtin nannt' es einen rechten Leirenbendel und sagte: „Wer hätte auch den mindesten Verstand da drin gesucht, geschweige eine Prophezeiung!“</p>
+               <p rend="justify">Als endlich der Kurt mit dem siebenten Morgen seine gute Besinnung wiederfand und ihm der Vetter die kostbaren Sachen darwies, so sein rechtliches Eigentum wären, da schmunzelte er doch, tat sie in sicheren Verschluß und ging mit des Seilers7)  zu Rat, was damit anzufangen. Sie achteten alle fürs beste, er reise mit Perlen und Schere gen Stuttgart, wo eben Graf Ludwig sein Hoflager hatte, und biete sie demselben an zum Kauf. So tat er denn. Der hohe Herr war auch nicht karg und gleich bereit, so seltene Zier nach Schätzung eines Meisters für seine Frau zu nehmen; nur als er von dem Alten hörte, wie er dazu gekommen, fuhr er auf und drehte sich voll Ärger auf dem Absatz um, daß ihm der Wunderzahn verloren sei. Ihm war vordem etwas von diesem kund geworden, und hatte er dem Doktor, bald nach Herrn Konrads Hintritt, seines Vaters, sehr darum angelegen, doch umsonst.</p>
+               <p rend="justify">Dies war nun die Geschichte, davon die Spinnerinnen damals plauderten. Doch ihnen war das Beste daran unbekannt. Eine Gevatterin, so auch mit ihrer Kunkel unter ihnen saß, hätte noch gar gern gehört, ob wohl die schöne Lau das Lot noch habe, auch was sie damit tue, und red'te so von weitem darauf hin; da gab Frau Betha ihr nach ihrer Weise einen kleinen Stich und sprach zur Lau: „Ja, gelt, jetzt macht Ihr Euch bisweilen unsichtbar, geht herum in den Häusern und guckt den Weibern in die Töpfe, was sie zu Mittag kochen? Eine schöne Sach' um so ein Lot für fürwitzige Leute!“</p>
+               <p rend="justify">Inmittelst fing der Dirnen eine an, halblaut das närrische Gesetzlein herzusagen; die andern taten ein gleiches, und jede wollt' es besser können, und keine brachte es zum dritten oder viertenmal glatt aus dem Mund; dadurch gab es viel Lachen. Zum letzten mußte es die schöne Lau probieren, die Jutte ließ ihr keine Ruh'. Sie wurde rot bis an die Schläfe, doch hub sie an und klüglicherweise gar langsam:</p>
+               <p rend="justify">„'s leit a Klötzle Blei glei bei Blaubeuren.“</p>
+               <p rend="justify">Die Wirtin rief ihr zu, so sei es keine Kunst, es müsse gehen wie geschmiert! Da nahm sie ihren Anlauf frisch hinweg, kam auch alsbald vom Pfad ins Stoppelfeld, fuhr buntüberecks und wußte nimmer gicks noch gacks. Jetzt, wie man denken kann, gab es Gelächter einer Stuben voll, das hättet ihr nur hören sollen, und mitten draus hervor der schönen Lau ihr Lachen, so hell wie ihre Zähne, die man alle sah!</p>
+               <p rend="justify">Doch unversehens, mitten in dieser Fröhlichkeit und Lust, begab sich ein mächtiges Schrecken.</p>
+               <p rend="justify">Der Sohn vom Haus, der Wirt, — er kam gerade mit dem Wagen heim von Sonderbuch und fand die Knechte verschlafen im Stall — sprang hastig die Stiege herauf, rief seine Mutter vor die Tür und sagte, daß es alle hören konnten: „Um Gottes willen, schickt die Lau nach Haus! Hört Ihr denn nicht im Städtlein den Lärm? Der Blautopf leert sich aus, die untere Gasse ist schon unter Wasser, und in dem Berg am Gumpen ist ein Getös und Rollen, als wenn die Sündflut käme!“ Indem er noch so sprach, tat innen die Lau einen Schrei: „Das ist der König, mein Gemahl, und ich bin nicht daheim!“ — Hiermit fiel sie von ihrem Stuhl sinnlos zu Boden, daß die Stube zitterte. Der Sohn war wieder fort, die Spinnerinnen liefen jammernd heim mit ihren Rocken, die andern aber wußten nicht, was anzufangen mit der armen Lau, welche wie tot da lag. Eins machte ihr die Kleider auf, ein anderes strich sie an, das dritte riß die Fenster auf, und schafften doch alle miteinander nichts.</p>
+               <p rend="justify">Da streckte unverhofft der lustige Koch den Kopf zur Tür herein, sprechend: „Ich hab' mir's eingebildet, sie wär' bei euch! Doch, wie ich sehe, geht's nicht allzu lustig her. Macht, <hi rend="strikethrough">das</hi>  daß die Ente in das Wasser kommt, so wird sie schwimmen!“ — „Du hast gut reden!“ sprach die Mutter mit Beben; „hat man sie auch im Keller und im Brunnen, kann sie sich unten nicht den Hals abstürzen im Geklüft?“ — „Was Keller!“ rief der Sohn: „was Brunnen! das geht ja freilich nicht — laßt mich nur machen! Not kennt kein Gebot — ich trag' sie in den Blautopf.“ Und damit nahm er, als ein starker Kerl, die Wasserfrau auf seine Arme. „Komm, Jutta — nicht heulen! — geh mir voran mit der Latern'!“ — „In Gottes Namen!“ sagte die Wirtin; „doch nehmt den Weg hinten herum durch die Gärten: es wimmelt die Straße mit Leuten und Lichtern.“ — „Der Fisch hat sein Gewicht!“ sprach er im Gehn, schritt aber festen Tritts die Stiege hinunter, dann über den Hof und links und rechts, zwischen Hecken und Zäunen hindurch.</p>
+               <p rend="justify">Am Gumpen fanden sie das Wasser schon merklich gefallen, gewahrten aber nicht, wie die drei Zofen, mit den Köpfen dicht unter dem Spiegel, ängstig hin und wieder schwammen, nach ihrer Frau ausschauend. Das Mädchen stellte die Laterne hin, der Koch entledigte sich seiner Last, indem er sie behutsam mit dem Rücken an den Kürbishügel lehnte. Da raunte ihm sein eigener Schalk ins Ohr: wenn du sie küßtest, freute dich's dein Leben lang, und könntest du doch sagen, du habest einmal eine Wasserfrau geküßt. — Und eh' er es recht dachte, war's geschehen. Da löschte ein Schluck Wasser aus dem Topf das Licht urplötzlich aus, daß es stichdunkel war umher, und tat es dann nicht anders, als wenn ein ganz halb Dutzend nasser Hände auf ein paar kernige Backen fiel, und wo es sonst hintraf. Die Schwester rief: „Was gibt es denn?“ — „Maulschellen heißt man's hier herum!“ sprach er; „ich hätte nicht gedacht, daß sie am Schwarzen Meer sottige Ding' auch kenneten!“ — Dies sagend, stahl er sich eilends davon, doch weil es vom Widerhall drüben am Kloster auf Mauern und Dächern und Wänden mit Maulschellen brazzelte, stund er bestürzt, wußte nicht recht wohin, denn er glaubte den Feind vorn und hinten. (Solch einer Witzung brauchte es, damit er sich des Mundes nicht berühme, den er geküßt, unwissend zwar, daß er es müssen tun der schönen Lau zum Heil.)</p>
+               <p rend="justify">Illustration</p>
+               <p rend="justify">Inwährend diesem argen Lärm nun hörte man die Fürstin in ihrem Ohnmachtschlaf so innig lachen, wie sie damals im Traum getan, wo sie den Abt sah springen. Der Koch vernahm es noch von weitem, und ob er's schon auf sich zog und mit Grund, erkannte er doch gern daraus, daß es nicht weiter Not mehr habe mit der Frau.</p>
+               <p rend="justify">Bald kam mit guter Zeitung auch die Jutte heim, die Kleider, den Rock und das Leibchen im Arm, welche die schöne Lau zum letztenmal heut' am Leibe gehabt. Von ihren Kammerjungfern, die sie am Topf in Beisein des Mädchens empfingen, erfuhr sie gleich zu ihrem großen Trost, der König sei noch nicht gekommen, doch mög' es nicht mehr lang anstehn, die große Wasserstraße sei schon angefüllt. Dies nämlich war ein breiter hoher Felsenweg, tief unterhalb der menschlichen Wohnstätten, schön grad und eben mitten durch den Berg gezogen, zwo Meilen lang von da bis an die Donau, wo des alten Nixen Schwester ihren Fürstensitz hatte. Derselben waren viele Flüsse, Bäche, Quellen dieses Gaus dienstbar; die schwellten, wenn das Aufgebot an sie erging, besagte Straße in gar kurzer Zeit so hoch mit ihren Wassern, daß sie mit allem Seegetier, Meerrossen und Wagen füglich befahren werden mochte, welches bei festlicher Gelegenheit zuweilen als ein schönes Schaugepräng' mit vielen Fackeln und Musik von Hörnern und Pauken geschah.</p>
+               <p rend="justify">Die Zofen eilten jetzo sehr mit ihrer Herrin in das Putzgemach, um sie zu salben, zöpfen und köstlich anzuziehen; das sie auch gern zuließ und selbst mithalf, denn sie in ihrem Innern fühlte, es sei nun jegliches erfüllt zusamt dem Fünften, so der alte Nix und sie nicht wissen durfte.</p>
+               <p rend="justify">Drei Stunden wohl, nachdem der Wächter Mitternacht gerufen, es schlief im Nonnenhof schon alles, erscholl die Kellerglocke zweimal mächtig, zum Zeichen, daß es Eile habe, und hurtig waren auch die Frauen und die Töchter auf dem Platz.</p>
+               <p rend="justify">Die Lau begrüßte sie wie sonst vom Brunnen aus, nur war ihr Gesicht von der Freude verschönt, und ihre Augen glänzten, wie man es nie an ihr gesehen. Sie sprach: „Wißt, daß mein Ehgemahl um Mitternacht gekommen ist. Die Schwieger hat es ihm voraus verkündigt ohnelängst, daß sich in dieser Nacht mein gutes Glück vollenden soll, darauf er ohne Säumen auszog, mit Geleit der Fürsten, seinem Ohm und meinem Bruder Synd und vielen Herren. Am Morgen reisen wir. Der König ist mir hold und gnädig, als hieß' ich von heute an erst sein Gespons. Sie werden gleich vom Mahl aufstehn, sobald sie den Umtrunk gehalten. Ich schlich auf meine Kammer und hierher, noch meine Gastfreunde zu grüßen und zu herzen. Ich sage Dank, Frau Ahne, liebe Jutta, Euch Söhnerin und Jüngste dir. Grüßet, die nicht zugegen sind, die Männer und die Mägde. In jedem dritten Jahr wird euch Botschaft von mir; auch mag es wohl geschehn, daß ich noch bälder komme selber, da bring' ich mit auf diesen meinen Armen ein lebend Merkmal, daß die Lau bei euch gelacht. Das wollen euch die Meinen allezeit gedenken, wie ich selbst. Für jetzo, wisset, liebe Wirtin, ist mein Sinn, einen Segen zu stiften in dieses Haus für viele seiner Gäste. Oft habe ich vernommen, wie Ihr den armen wandernden Gesellen Gut's getan mit freier Zehrung und Herberg'. Damit Ihr solchen fortan mögt noch eine weitere Handreichung tun, so werdet Ihr zu diesem Ende finden beim Brunnen hier einen steinernen Krug voll guter Silbergroschen: davon teilt ihnen nach Gutdünken mit, und will ich das Gefäß, bevor der letzte Pfennig ausgegeben, wieder füllen. Zudem will ich noch stiften auf alle hundert Jahr fünf Glückstage (denn dies ist meine holde Zahl), mit unterschiedlichen Geschenken, also, daß, wer von reisenden Gesellen der erste über Eure Schwelle tritt am Tag, der mir das erste Lachen brachte, der soll empfangen, aus Eurer oder Eurer Kinder Hand, von fünferlei Stücken das Haupt. Ein jeder, so den Preis gewinnt, gelobe, nicht Ort noch Zeit dieser Bescherung zu verraten. Ihr findet aber solche Gaben jedesmal hier nächst dem Brunnen. Die Stiftung wisset, mache ich für alle Zeit, solang' ein Glied von Eurem Stammen auf der Wirtschaft ist.“</p>
+               <p rend="justify">Illustration</p>
+               <p rend="justify">Nach diesen Worten redete sie nochmals leise mit der Wirtin und sagte zuletzt: „Vergesset nicht das Lot! Der kleine Schuster soll es nimmermehr bekommen.“ — Da nahm sie nochmals Abschied und küßte ein jedes. Die beiden Frauen und die Mädchen weinten sehr. Sie steckte Jutten einen Fingerreif mit grünem Schmelzwerk an und sprach dabei: „Ade, Jutta! Wir haben zusammen besondere Holdschaft gehabt, die müsse fernerhin bestehen!“ — Nun tauchte sie hinunter, winkte und verschwand.</p>
+               <p rend="justify">In einer Nische hinter dem Brunnen fand sich richtig der Krug samt den verheißnen Angebinden. Es war in der Mauer ein Loch mit eisernem Türlein versehen, von dem man nie gewußt, wohin es führe; das stand jetzt aufgeschlagen, und war daraus ersichtlich, daß die Sachen durch dienstbare Hand auf diesem Weg seien hergebracht worden, deshalb auch alles wohl trocken verblieb. Es lag dabei: ein Würfelbecher aus Drachenhaut, mit goldenen Buckeln beschlagen, ein Dolch mit kostbar eingelegtem Griff, ein elfenbeinen Weberschifflein, ein schönes Tuch von fremder Weberei und mehr dergleichen. Aparte aber lag ein Kochlöffel aus Rosenholz mit langem Stiel, von oben herab fein gemalt und vergoldet, den war die Wirtin angewiesen, dem lustigen Koch zum Andenken zu geben. Auch keins der andern war vergessen.</p>
+               <p rend="justify">Frau Betha hielt bis an ihr Lebensende die Ordnung der guten Lau heilig, und ihre Nachkommen nicht minder. Daß jene sich nachmals mit ihrem Kind im Nonnenhof zum Besuch eingefunden, davon zwar steht nichts in dem alten Buch, <hi rend="strikethrough">daß</hi>  das diese Geschichten berichtet, doch mag ich es wohl glauben.</p>
+               <list rend="numbered">
+                  <item>1) vom vorigen.</item>
+                  <item>2) Kohl.</item>
+                  <item>3) Hausflur.</item>
+                  <item>4) Zorn.</item>
+                  <item>5) Nicht gewesen.</item>
+                  <item>6) Wasserleitungsröhren.</item>
+                  <item>7) Mit den Seilersleuten.</item>
+               </list>
+               <p rend="justify">Dekoration</p>
+               <p rend="justify">Anmerkungen zur Transkription:</p>
+               <p rend="justify">Im folgenden sind die Änderungen am Originaltext aufgeführt:</p>
+               <list rend="bulleted">
+                  <item>Seite 24: Apostroph verschoben:<lb/>
+                     <hi rend="strikethrough">Wann' werd</hi>Wann werd' ich gestillt?</item>
+                  <item>Seite 52: „knicksten“ geändert zu „knicksen“:<lb/>sie nicken und <hi rend="strikethrough">knicksten</hi>knicksen und fliegen davon.</item>
+                  <item>Seite 59: Folgende Zeilen sind im Original eingerückt:<lb/>dazwischen hört man weiche Töne gehen<lb/>von sel'gen Feen, die im blauen Saal<lb/>zum Sphärenklang,<lb/>und fleißig mit Gesang,<lb/>silberne Spindeln hin und wieder drehen.</item>
+                  <item>Seite 102: Überflüssiges Anführungszeichen gelöscht:<lb/>wird ja schwerlich <hi rend="strikethrough">gelten!“</hi>gelten! — ließ sich indes nichts merken,</item>
+                  <item>Seite 104: „Blautops“ geändert zu „Blautopfs“:<lb/>im Grund des <hi rend="strikethrough">Blautops</hi>Blautopfs nieder,</item>
+                  <item>Seite 120: Fehlendes Anführungszeichen ergänzt:<lb/>sind dia Blaubeuramar so grob ett gwä5).“</item>
+                  <item>Seite 131: „das“ geändert zu „daß“:<lb/>Macht, <hi rend="strikethrough">das</hi>daß die Ente in das Wasser kommt,</item>
+                  <item>Seite 131: Fehlendes Anführungszeichen ergänzt:<lb/>sprach die Mutter mit Beben; „hat man sie auch im Keller</item>
+                  <item>Seite 131: Fehlendes Anführungszeichen ergänzt:<lb/>sich unten nicht den Hals abstürzen im Geklüft?“</item>
+                  <item>Seite 139: Fehlendes Anführungszeichen ergänzt:<lb/>ein Glied von Eurem Stammen auf der Wirtschaft ist.“</item>
+                  <item>Seite 141: „daß“ geändert zu „das“:<lb/>steht nichts in dem alten Buch, <hi rend="strikethrough">daß</hi>das diese Geschichten berichtet,</item>
+               </list>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

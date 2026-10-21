@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La Pantoufle de Sapho</title>
+            <author>Ritter von Leopold Sacher-Masoch</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-01T19:58:34Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">odts/fr-odts/Sacher-MasochLeopoldRitterVon-LaPantoufleDeSapho_2005.epub.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Ritter von Leopold Sacher-Masoch</name>
+               <date>2024-01-01T19:58:34Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>La Pantoufle de Sapho</head>
+         <author>Ritter von Leopold Sacher-Masoch</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">odts/fr-odts/Sacher-MasochLeopoldRitterVon-LaPantoufleDeSapho_2005.epub.odt</p>
+         <head>La Pantoufle</head>
+         <subtitle>de</subtitle>
+         <pb/>
+         <div type="div1">
+            <head>Sapho</head>
+            <pb/>
+            <div type="div2">
+               <head>&amp; Autres Contes</head>
+               <div type="div3">
+                  <head>CHARLES CARRINGTON,<lb/>Libraire-Éditeur<lb/>13, Faubourg Montmartre, Paris</head>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>SACHER MASOCH</head>
+               <div type="div3">
+                  <head>L'AMOUR CRUEL A TRAVERS LES AGES<lb/>
+                     <lb/>
+                  </head>
+               </div>
+               <div type="div3">
+                  <head>LA</head>
+               </div>
+            </div>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>PANTOUFLE DE SAPHO</head>
+            <pb/>
+            <div type="div2">
+               <head>et autres Contes<lb/>
+                  <lb/>
+               </head>
+               <div type="div3">
+                  <head>Traduit par D. DOLORÈS</head>
+                  <p rend="justify">
+                     <figure>
+                        <binaryObject xml:id="d3e862" encoding="base64" mimeType="image/jpg">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</binaryObject>
+                     </figure>
+                  </p>
+               </div>
+               <div type="div3">
+                  <head>PARIS</head>
+               </div>
+               <div type="div3">
+                  <head>CHARLES CARRINGTON, LIBRAIRE-ÉDITEUR</head>
+                  <div type="div4">
+                     <head>13, Faubourg Montmartre, 13</head>
+                  </div>
+                  <div type="div4">
+                     <head>
+                        <label>1907</label>
+                     </head>
+                  </div>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>LA PANTOUFLE DE SAPHO</head>
+               <div type="div3">
+                  <head>(1859)</head>
+               </div>
+               <div type="div3">
+                  <head>LA PANTOUFLE DE SAPHO</head>
+               </div>
+               <div type="div3">
+                  <head>(1859)</head>
+                  <p rend="justify">L'hiver de 1859 étendait son blanc et floconneux tapis de neige sur les remparts de la joyeuse capitale autrichienne et, aux environs, sur les coupoles du Kahlenberg et du Leopoldsberg. Le monde brillant et aristocratique était rentré des eaux et de ses terres, et l'on s'amusait, dans les salons privés, ainsi qu'aux lieux de réjouissances publiques, simplement et gaîment, comme cela n'était guère possible, alors, que dans la ville impériale, résidence de l'empereur Franz.</p>
+                  <p rend="justify">Mais le point culminant des distractions et des plaisirs, comme de l'intérêt artistique et littéraire, était encore et toujours le Burgthéâtre, institution populaire au sens le plus élevé, où les aspirations idéales de l'élite de la nation se joignaient aux efforts les plus nobles, car une censure hautement sagace rognait les ailes fougueuses du Pégase autrichien, et la vie politique n'agitait encore que la Hongrie avoisinante, ne se manifestant guère que par les paroles, les chansons et les actes des compagnonnages allemands et de quelques étudiants des universités de Vienne ou de Prague.</p>
+                  <p rend="justify">Entre le public et les acteurs, régnait une véritable intimité, car les Viennois de cette époque ne se contentaient pas d'admirer l'artiste sur la scène; ils le suivaient dans sa vie journalière et jusque dans sa demeure, non pour épier un scandale et s'amuser des vices des protagonistes chargés d'incarner les rêves héroïques ou spirituels des poètes, comme cela a lieu de nos jours, mais avec le naïf désir de voir la pâle Louise assise à sa table à thé, d'entendre la rêveuse Charlotte potiner en buvant du café, de surprendre la fière princesse Eboli en train de tricoter des bas ou le vaillant chevalier Goetz de faire sa partie de tarok. Le public viennois était au courant de tout ce qui se passait derrière les coulisses. Il connaissait le nom de chaque adorateur de la Stich; il savait toujours, à n'en pas douter, quel soir Korn était plus rauque que de coutume et en quel lieu il avait bu le champagne responsable, et, lorsqu'enfin Sophie Schrœder monta, tel un soleil, au firmament de l'art dramatique, faisant pâlir toutes les étoiles, il ne tomba pas une épingle dans le boudoir de la tragédienne sans que le Tout-Vienne en fût informé, depuis le chancelier d'Etat jusqu'à l'apprenti cordonnier, depuis le cocher de fiacre jusqu'à l'empereur.</p>
+                  <p rend="justify">L'intérêt que prenait la ville entière à la personnalité de Sophie était de nature exclusivement artistique, bien que partant d'un sentiment très humain, car la Schrœder n'était ni belle ni même élégante.</p>
+                  <p rend="justify">Mais, quand elle paraissait drapée à la grecque, sur les planches, quand sa superbe voix laissait tomber les ondes mélodiques de la langue rythmée, quand son génie invoquait des figures d'une vérité saisissante et d'une dignité surhumaine, elle entraînait les cœurs, comme jamais aucune artiste ne l'avait fait. A ces moments, elle devenait belle, d'une beauté antique et qu'on eût crue sortie d'un sarcophage ancien.</p>
+                  <p rend="justify">Sophie n'était pas grande, mais elle avait ce port de tête imposant que possédait avant elle l'auteur du <hi rend="italic">Faust</hi>, et qui la faisaient paraître plus haute qu'elle ne l'était en réalité.</p>
+                  <p rend="justify">Il n'était pas une grande dame, pas une souveraine, qui ne lui eussent envié sa distinction native et l'empire qu'elle exerçait sur les mortels. Elle semblait née pour voir un peuple à ses pieds, tant son regard était dominateur.</p>
+                  <p rend="justify">Sa situation matérielle eût pu être brillante, mais ne l'était point, parce qu'en vraie fille de l'art, la Schrœder n'entendait rien aux choses pratiques, et sa délicatesse s'opposait à ce qu'elle se laissât entourer, par ses adorateurs, de ce luxe princier que possèdent de nos jours les plus insignifiantes comédiennes.</p>
+                  <p rend="justify">Sophie avait une idée trop haute de l'amour, de l'art et d'elle-même,—surtout d'elle-même,—pour se faire payer ses faveurs avec des diamants. Si elle souriait à un homme, ce sourire partait du cœur, et si elle consentait à l'enivrer, elle voulait être elle-même heureuse de toute son âme. La courtisanerie qui engendre le dégoût et dont, à l'heure actuelle, souffre et se meurt l'art dramatique, lui était complètement inconnue.</p>
+                  <p rend="justify">Il était donc naturel que, ses fiers sourcils ayant décoché une fois de plus les flèches d'amour dans un cœur, elle fût la dernière à en être informée. On se chuchotait la nouvelle dans les loges, on en parlait dans les fauteuils, on en riait en se poussant du coude, au parterre et aux galeries, alors qu'elle-même ne savait rien encore du noble captif qu'elle avait fait.</p>
+                  <p rend="justify">En l'année 1859, le public du Burgthéâtre remarqua un jeune homme qui, chaque soir où la Schrœder jouait, occupait le fauteuil du coin de gauche au premier rang, dont le regard, sitôt qu'elle paraissait, s'attachait avec une émotion fiévreuse à tous ses mouvements, et dont l'enthousiasme était si entraînant que, maintes fois, il oubliait les lois du théâtre pour applaudir au milieu d'une scène. Tout Vienne savait depuis longtemps que c'était un prince polonais, colossalement riche et épris d'une délirante passion pour la tragédienne, avant que la Schrœder se doutât seulement de l'existence de cet heureux malheureux.</p>
+                  <p rend="justify">Un jour qu'elle attendait en scène le commencement du premier acte, Sophie remarqua quelques comédiennes qui examinaient la salle à travers le trou du rideau, et entendit le colloque suivant:</p>
+                  <p rend="justify">—Le voilà encore.</p>
+                  <p rend="justify">—Qui cela?</p>
+                  <p rend="justify">—Le soupirant muet de la Schrœder.</p>
+                  <p rend="justify">La Schrœder s'approcha pour mieux écouter.</p>
+                  <p rend="justify">—Fais-le-moi voir. Où donc est-il?</p>
+                  <p rend="justify">—Là, dans le coin de gauche, au premier rang.</p>
+                  <p rend="justify">La Schrœder, cette fois, en savait assez et, quand le rideau fut levé, elle profita d'une réplique, pour chercher des yeux l'inconnu.</p>
+                  <p rend="justify">Quinze jours se passèrent avant qu'elle n'apprît son nom. Il était effectivement polonais et fort riche, mais il n'était point prince, un simple gentilhomme, Félicien de Wasilewski.</p>
+                  <p rend="justify">Depuis ce jour, Sophie le remarqua chaque fois qu'elle jouait, et elle apprit que, tout aussi régulièrement, il demeurait absent quand elle ne jouait point.</p>
+                  <p rend="justify">Au bout de peu de temps, une entente tacite s'établit entre la tragédienne et son admirateur. En entrant en scène, son premier regard était pour lui, de même son dernier coup d'œil avant de sortir. Si une tirade lui réussissait particulièrement, le Polonais hochait imperceptiblement la tête et ce léger mouvement n'échappait point à l'artiste. Quand, à l'issue de la représentation, elle montait dans le carrosse du Burgthéâtre, surnommé ironiquement le <hi rend="italic">Chariot de Thespis</hi>  parce qu'il résonnait avec un bruit de ferraille sur le pavé cahoteux de l'antique ville, le Polonais se trouvait à la porte de sortie, la dévorant de ses yeux ardents, bien qu'il ne pût apercevoir d'elle que le bout de son nez, tout le reste étant emmitouflé de fourrures et de voiles.</p>
+                  <p rend="justify">Un soir qu'elle venait de remplir un de ses meilleurs rôles, elle était assise et prête à fermer la portière, quand une superbe couronne de lauriers vint s'abattre à ses pieds.</p>
+                  <p rend="justify">Le Polonais la lui avait jetée et s'était aussitôt enfui.</p>
+                  <p rend="justify">Ce mystérieux et craintif hommage, en ce lieu solitaire et sous le couvert de la nuit, toucha le cœur sensible et poétique de la tragédienne plus que les ovations bruyantes et impétueuses à la lumière des lustres et dans la salle comble.</p>
+                  <p rend="justify">La Schrœder commença à s'intéresser au jeune homme et à se demander si elle pourrait l'aimer?</p>
+                  <p rend="justify">Une autre fois, le dégel était survenu; des cascades ruisselaient des gouttières et des torrents mugissaient le long des trottoirs. La Schrœder hésitait à enjamber les flaques d'eau qui la séparaient du lourd véhicule. Le Polonais fut aussitôt sur place, étendit son manteau sur le pavé, et elle put atteindre sa voiture, les pieds secs.</p>
+                  <p rend="justify">Cet exploit chevaleresque remplit de joie l'artiste, mais quand elle se pencha pour remercier son cavalier-servant, celui-ci, ramassant son manteau, s'était éclipsé.</p>
+                  <p rend="justify">Grillparzer que son drame romantique de l'<hi rend="italic">Aïeule</hi>  avait placé parmi les dramaturges favoris de l'Allemagne, au temps où la tragédie du Destin empruntée au théâtre espagnol, était de mode comme, de nos jours, le drame d'adultère français, venait de confier au Burgthéâtre une nouvelle pièce, intitulée <hi rend="italic">Sapho</hi>. Quittant les abruptes sentiers romantiques, il reprenait la large voie classique où Schiller et Gœthe, après plus d'un écart, s'étaient également retrouvés. Le rôle de Sapho avait été écrit, non à la manière de nos ouvriers modernes, qui ajustent leurs rôles sur les acteurs, comme un tailleur ajuste un costume,—Grillparzer était poète dans l'âme et c'est du fond de son être qu'il tirait ses héros—mais, pas plus que le reste du monde, il ne pouvait échapper à la puissante influence de la Schrœder, ni se dérober à l'impression grandiose qu'elle produisait, et le rôle de son héroïne avait pris, à son insu, les traits et l'allure de la tragédienne à qui naturellement il incombait.</p>
+                  <p rend="justify">Le matin de la répétition de lecture, tandis que la pure et idéale diction de Sophie enthousiasmait ses camarades et remplissait le cœur modeste de l'auteur d'un glorieux espoir dans [*] succès futur, au coin de la place Saint-Michel et du marché aux choux, se tenait une femme pauvrement vêtue, qui cachait son visage sous le fichu passé sur sa tête. Elle semblait avoir honte, pourtant elle ne mendiait point et se serrait, inquiète, contre la muraille, en tremblant de tous ses membres, car il faisait un froid impitoyable et elle ne portait qu'une robe d'été rapiécée sous son vieux fichu.</p>
+                  <p rend="justify">Pourtant elle ne mendiait point. Elle n'essayait même pas de tendre la main quand un grand seigneur ou une élégante dame, confortablement emmitouflés de fourrure, passaient auprès d'elle. Aussi, personne ne la remarquait, pas même le sergent de ville qui faisait les cent pas non loin de là.</p>
+                  <p rend="justify">La pauvre vieille, plus morte que vive, ressemblait à une de ces statues de pierre que le pieux Moyen Age incrustait dans les murailles de ses églises en souvenir des défunts. Elle était tout aussi muette et privée de mouvement. Mais, quand les comédiens, après la répétition, sortirent par la petite porte du théâtre et se répandirent sur la place, une violente commotion fit tressaillir le corps de la pauvresse. Elle soupira et sa tremblante main, raidie par le froid, serra plus fort contre son visage ravagé par l'affliction, le fichu qui le couvrait.</p>
+                  <p rend="justify">Les acteurs se séparèrent au milieu de la place en échangeant d'aimables saluts, et Sophie Schrœder se dirigea seule vers l'endroit où tremblait la vieille. Elle traversait le marché pour se rendre au Graben et, l'esprit tout rempli de son rôle, allait passer, comme tout le monde, si un hasard ne l'eût arrachée à ses pensées et attiré son attention.</p>
+                  <p rend="justify">—Vous perdez quelque chose, lui dit une voix rauque qui semblait brisée et dont, cependant, le timbre lui parut familier.</p>
+                  <p rend="justify">Se retournant, elle vit la main décharnée de la vieille lui tendant le rôle qu'elle avait laissé glisser de son manchon.</p>
+                  <p rend="justify">Sophie Schrœder, surprise, considéra la pauvre femme.</p>
+                  <p rend="justify">—Qu'avez-vous? lui dit-elle de sa merveilleuse voix, vous paraissez bien pauvre et malheureuse. Pourquoi me cachez-vous votre visage comme s'il m'était connu?</p>
+                  <p rend="justify">La vieille femme étouffa un sanglot et voulut s'éloigner. La Schrœder, de son bras robuste, la retint et, doucement, écarta le fichu.</p>
+                  <p rend="justify">—Mon Dieu, balbutia-t-elle en découvrant le visage défait, c'est vous, ma chère Muller? Vous, dans cette situation? Dois-je trouver la belle artiste, aux pieds de qui se prosternaient les comtes et les princes, réduite ... à mendier!</p>
+                  <p rend="justify">—Je n'ai pas mendié, murmura la vieille, tandis que des larmes brûlantes coulaient le long de ses joues émaciées. Je suis seulement restée debout dans ce coin.</p>
+                  <p rend="justify">»C'est la première fois, j'avais si affreusement faim, mais personne ne m'a rien donné et je mourrais plutôt que de recommencer.</p>
+                  <p rend="justify">—Je ne veux pas que vous recommenciez, s'écria Sophie. C'est moi qui vais ...</p>
+                  <p rend="justify">La tragédienne ouvrit sa bourse, mais l'intérieur de cette bourse offrait un spectacle bien triste ou bien risible, comme on voudra. La grande Sophie eut de la peine à rassembler vingt kreuzer, qu'elle glissa dans la main de la vieille tout en lui montrant sa bourse vide.</p>
+                  <p rend="justify">—Voyez, chère Muller, je ne possède rien moi-même. Il n'en va pas autrement avec nous autres comédiens, si quelques marchands ne me faisaient crédit, je serais souvent bien embarrassée pour m'habiller. Mais cette bagatelle ne vous tire pas d'affaire.</p>
+                  <p rend="justify">—Mais si, mais si, murmura la comédienne en serrant la main de sa camarade.</p>
+                  <p rend="justify">—Non, non, il vous faut beaucoup plus. Comment ferons-nous?</p>
+                  <p rend="justify">Sophie se mit à réfléchir. Des badauds de tous rangs s'étaient rassemblés autour des deux femmes, car la curiosité des Viennois est notoire. Tout à coup, la Schrœder fendit le groupe. Une belle et heureuse inspiration venait d'illuminer sa physionomie d'habitude austère. Elle entra précipitamment dans une boutique de confiseur et en revint, une assiette à la main. C'est moi qui mendirai[*] pour vous, Muller, dit-elle avec ce sourire qui lui ouvrait tous les cœurs.</p>
+                  <p rend="justify">Effectivement, elle se plaça à côté de la vieille actrice et tendit l'assiette.</p>
+                  <p rend="justify">—Une aumôme[*] pour une malheureuse, je vous prie, la charité pour une pauvre comédienne âgée.</p>
+                  <p rend="justify">En quelques secondes, l'assiette se couvrit de pièces d'argent et de cuivre de toutes sortes. Mais cela ne satisfit pas la quêteuse. Quand Sophie se mêlait de quelque chose, elle voulait que ce fût bien, et elle ne se lassa pas de prier et de tendre l'assiette. Les passants, qui apercevaient la Schrœder, dans sa pelisse brune bien connue, entourée d'une foule de curieux, s'arrêtaient et se frayaient un chemin jusqu'à elle. Grands seigneurs et grandes dames jouaient des coudes et se mêlaient à la foule, pour le plaisir de déposer une bank-note dans l'assiette que tenait la main de la célèbre femme, jusqu'au policier, qui approcha, les sourcils froncés, et s'effaça en reconnaissant la Schrœder.</p>
+                  <p rend="justify">—La mendicité est interdite sous peine d'amende, grommela-t-il respectueusement dans sa moustache noire, mais non aux comédiens impériaux et royaux.</p>
+                  <p rend="justify">—Mon Dieu, que vous êtes bonne, soupira la vieille. Que Dieu vous le rende! moi je ne le puis, c'est trop, beaucoup trop.</p>
+                  <p rend="justify">Enfin la Schrœder elle-même se déclara satisfaite. Elle souleva le pan du fichu de la vieille et, d'un geste hardi, y jeta pêle-mêle les bank-notes, les pièces d'argent et les monnaies de cuivre, lorsqu'au moment de rapporter l'assiette, elle dut la tendre une fois encore: son adorateur, le gentilhomme polonais, surgit inopinément, la tête découverte, offrant un billet de 50 florins.</p>
+                  <p rend="justify">Un regard rayonnant de la femme adorée fut sa récompense.</p>
+                  <p rend="justify">—Cela suffira bien pour quelque temps, n'est-ce pas, Muller? dit la tragédienne en se tournant une dernière fois vers sa camarade. Puis, tu reviendras, n'oublie pas, Muller, promets-moi de ne pas oublier!</p>
+                  <p rend="justify">Mais les badauds de Vienne n'abandonnèrent pas aussi facilement leur comédienne favorite. Ils l'escortèrent au delà du marché aux chevaux jusqu'au Graben, où elle dut se réfugier sous la voûte de la «Chatte» jusqu'à ce que la foule se fût dispersée.</p>
+                  <p rend="justify">Chemin faisant, Sophie ne put s'empêcher de repenser au Polonais.</p>
+                  <p rend="justify">«Il m'intéresse, s'avouait-elle. Il est beau, ses manières sont nobles et il a certainement bon cœur. Mais je ne suis pas dans l'âge où l'on recherche les adolescents!</p>
+                  <p rend="justify">Il n'est pas assez viril, il lui manque d'être un homme et, à moi, d'être Sapho. Je pourrais difficilement l'aimer. Et lui? Espérons qu'il sera raisonnable et ne se jettera pas dans le Danube.»</p>
+                  <p rend="justify">L'Autriche ne possédait encore, à ce moment, aucune littérature digne de ce nom et qui méritât de fixer l'attention de l'Europe. Les œuvres dont on s'occupait dans la ville impériale, étaient d'importation étrangère, comme Frédéric Schlegel et Zacharie Werner. L'empereur Franz, qui eût volontiers entouré son trône nouvellement redoré après tant de difficultés et de luttes, de noms illustres et glorieux, témoigna une joie qui ne lui était pas habituelle en des circonstances de ce genre, en apprenant que l'auteur de l'œuvre qui venait de triompher à la Burg, était un Autrichien. Il le fit venir dans sa loge, lui tapa familièrement sur l'épaule et prononça toutes sortes de paroles aimables, dans le débonnaire dialecte viennois. Mais lorsque, s'enquérant des conditions du poète, il apprit qu'il était fonctionnaire, l'Empereur arrêta net l'entretien et lui tourna le dos. A ses yeux, quand on servait l'Etat, écrire autre chose que des actes officiels constituait un délit. Aussi Grillparzer que la critique viennoise traitait sans bienveillance, n'eut, après comme avant, d'autres ressources que son talent et la faveur du public. Celle-ci, d'ailleurs, ne lui fut point ménagée; l'<hi rend="italic">Aïeule</hi>  fut acclamée avant que les gazettes eussent eu le temps de formuler leur avis, et non moins chaudement après.</p>
+                  <p rend="justify">C'est en ce public si avisé et si vibrant, que Grillparzer mit toute son espérance lors de la mise à l'étude de <hi rend="italic">Sapho</hi>, paraissant deux ans après l'<hi rend="italic">Aïeule</hi>, et sa foi fut non moins inébranlable en la puissance dramatique de la Schrœder. Il savait que non seulement elle ne trahirait aucune de ses intentions de poète, mais que la plénitude de son jeu et la majesté plastique de ses mouvements infuseraient la vie à son héroïne. Il allait voir l'artiste presque journellement et plus souvent encore pendant les jours qui précédèrent la représentation, non pour lui donner des conseils, mais pour puiser chez elle courage et confiance, le jeune auteur de 30 ans commençant déjà à souffrir de ce pessimisme artistique qui, plus tard, devait envenimer tous ses efforts et lui faire abandonner la lice.</p>
+                  <p rend="justify">Quelques heures avant la première, Grillparzer se trouvait encore sur le petit canapé à fleurs du salon de Sophie, tandis que les affiches de la <hi rend="italic">Sapho</hi>  s'étalaient sur tous les murs attirant les curieux qui faisaient cercle autour, et que les amateurs de théâtre suivaient impatiemment des yeux les aiguilles de leurs pendules. Le poète regardait la comédienne arranger, avec l'aide de M^lle Babette, des étoffes, dans le grand panier qui lui servait de garde-robe.</p>
+                  <p rend="justify">—Mais, mon cher maître dit soudain l'actrice en se plaçant devant lui et en rejetant la tête en arrière, d'un mouvement qui lui était familier, je n'ai plus que faire de vous.</p>
+                  <p rend="justify">—Vraiment? fit le poète, et il leva vers elle ses beaux yeux bleus suppliants. Puis, d'un ton résigné:—Alors il me faut partir.</p>
+                  <p rend="justify">Grillparzer se leva en poussant un soupir, prit son chapeau et soupira de nouveau.</p>
+                  <p rend="justify">La Schrœder lui tendit la main.</p>
+                  <p rend="justify">—Je pars, dit-il en considérant cette main, mais—vous savez que je déteste le baise-main—je dois vous baiser la main. Si j'étais berlinois, je dirais que votre main est spirituelle, mais, en bon Viennois, je vous dis seulement: vous avez des menottes affriolantes.</p>
+                  <p rend="justify">Il porta la main, qui paraissait sculptée dans de l'ivoire, à ses lèvres et partit.</p>
+                  <p rend="justify">A peine la Schrœder se trouva-t-elle seule, qu'on frappa à la porte.</p>
+                  <p rend="justify">La vieille comédienne, M^me Muller, entra timidement.</p>
+                  <p rend="justify">—Mon Dieu, vous allez m'en vouloir de me présenter au moment d'une première. Je sais que ce n'est pas agréable et qu'on n'aime pas cela. J'ai été moi-même dans ce cas. Mais vous me pardonnerez, quand vous saurez que j'ai été bien malade et que je le suis encore, mais, quand j'ai appris qu'on jouait aujourd'hui une pièce nouvelle de l'auteur de l'<hi rend="italic">Aïeule</hi>  et que c'est vous, divine Schrœder, qui créiez <hi rend="italic">Sapho</hi>, je suis sautée de mon lit et accourue. Il faut que je vous voie jouer, il le faut. Ayez pitié de moi, donnez-moi une carte pour la galerie.</p>
+                  <p rend="justify">La vieille levait des mains suppliantes.</p>
+                  <p rend="justify">—Rassurez-vous, vous me verrez jouer, ma chère Muller, mais, avant tout, prenez une tasse de café bien chaud, cela vous fera du bien.</p>
+                  <p rend="justify">La Schrœder força sa vieille camarade à prendre place sur le canapé, et la servit de ses propres mains.</p>
+                  <p rend="justify">Pendant qu'elle était assise à humer le breuvage réconfortant et qu'un sourire de bonheur épanouissait ses vieux traits ridés, la Schrœder terminait ses préparatifs tout en causant.</p>
+                  <p rend="justify">—Il est impossible que vous montiez à la galerie ce soir, je ne le permettrai pas. On s'y étouffera, vous pourriez vous trouver mal, la foule, la chaleur ... Le parterre doit être comble également, vous ne pourriez vous tenir debout et les sièges doivent être tous loués.</p>
+                  <p rend="justify">Elle réfléchissait.</p>
+                  <p rend="justify">—Savez-vous quoi? je vous emmène dans les coulisses au lieu de Babette, qui trouvera une place à l'orchestre où on la connaît bien.</p>
+                  <p rend="justify">—Que vous êtes bonne!</p>
+                  <p rend="justify">—Et où en est l'argent? poursuivit la tragédienne. Nous autres artistes en manquons toujours. Ainsi, parlez franc. Que vous faut-il? La maladie a tout absorbé?</p>
+                  <p rend="justify">—Vous croyez cela? repartit la vieille en souriant. Oh non, je suis devenue très économe. Avec ce que je dois à votre générosité, je puis encore vivre le quart d'une année.</p>
+                  <p rend="justify">La Schrœder avait ouvert son porte-monnaie et éclata de rire.</p>
+                  <p rend="justify">—Voyez, dit-elle, joyeuse comme une enfant, je voulais vous gâter et ne possède rien moi-même. Vous êtes en ce moment plus riche que moi. Je donne à Babette ce qu'il lui faut pour tout le mois, une fois qu'elle l'a dans ses mains, je n'ai plus le droit d'y toucher; le reste passe par la fenêtre, je ne sais comment. L'important est que vous soyez momentanément à l'abri du besoin. Mais occupons-nous de l'avenir.</p>
+                  <p rend="justify">—Divine amie, si je pouvais entreprendre un petit commerce, un tout petit commerce, soupira la vieille actrice.</p>
+                  <p rend="justify">—Bon. Et combien faudrait-il? je n'en ai pas le moindre soupçon. Mille écus peut-être?</p>
+                  <p rend="justify">La vieille femme eut presque une frayeur.</p>
+                  <p rend="justify">—Mille écus? s'écria-t-elle, le dixième suffirait. Cent écus.</p>
+                  <p rend="justify">—Vous les aurez, assura la Schrœder. Mais j'entends le vacarme de notre arche de Noé. Babette, donne-moi ma pelisse.</p>
+                  <p rend="justify">D'un geste rapide, elle glissa dans la chaude fourrure et descendit majestueusement les marches de l'escalier. La vieille Muller suivit, toujours enveloppée de son fichu.</p>
+                  <p rend="justify">Le Burgthéâtre était plein à s'étouffer, jusque dans les plus petits recoins. Un public de choix attendait avec une impatience fébrile le lever du rideau. Au premier rang, se tenait, à sa place accoutumée, Félicien Wasilewski, en proie à une agitation extraordinaire. Il se levait, se rasseyait, couvrait son visage de ses mains et déchirait son mouchoir de poche en mille petits morceaux. Enfin, la pièce commença. Le premier acte se passa dans l'habituel mouvement d'une salle trop pleine. Mais les mots du chœur: «Salut! Sapho, Salut!» eurent un effet magique. Il se fit un profond silence et tous les regards se tournèrent vers Sophie, faisant son entrée sur un char de triomphe, comme un être que la nature a créé pour dominer.</p>
+                  <p rend="justify">Les modes gréco-romaines de ce temps permettaient à l'artiste une liberté d'habillement, telle que, de nos jours, on ne la concède qu'aux chanteuses d'opérettes. Une ample draperie blanche, retenue sur l'épaule par une agrafe en or massif, suivait de près le contour ferme et élastique des seins, laissant à découvert des bras superbes. Du côté gauche, tombait, le long de la hanche, un manteau écarlate brodé d'or. Séparée, au milieu du front, l'opulente chevelure se déroulait en anneaux le long des tempes et, retenue par un bandeau blanc tissé d'or formait un nœud de boucles sombres, qui retombaient sur la nuque.</p>
+                  <p rend="justify">Félicien tressaillit en la voyant ainsi. Elle lui sembla presque terrible. Dans la majesté de ses formes, il y avait une puissance presque violente qui le terrassait, et son pied délicat chaussé de sandales d'or appelait son baiser plus impérieusement que jamais ne l'avaient fait la main blanche ou les lèvres rouges d'une femme. Mais, quand elle commença de parler, quand sa voix merveilleuse résonna, pareille tantôt à un son de cloches, tantôt à un murmure de harpe, lorsque dans chaque mouvement s'exprima la grande âme de la poétesse adorée du peuple et souveraine des cœurs rentrant victorieuse des jeux olympiques, Sapho lui parut être la divine Sophie elle-même, la femme fière et dominatrice, despotique en amour, comme en art. Il sentit alors combien follement il l'aimait, mais aussi à quel point le courage lui manquerait de jamais lui demander ses faveurs.</p>
+                  <p rend="justify">Grillparzer et Sophie fêtèrent ce soir un triomphe complet et qui ne devait être surpassé que plus tard, lorsque, en Médée, la Schrœder pétrifia littéralement son auditoire par le mot trois fois répété: «Malheur»!</p>
+                  <p rend="justify">C'est surtout à la tombée du rideau que les applaudissements devinrent délirants et, pendant que Sophie se voyait contrainte de paraître et de reparaître indéfiniment, le Polonais, saisi d'une idée subite, enjamba la rampe de l'orchestre et fut en quelques instants dans la rue.</p>
+                  <p rend="justify">M^lle Babette était, comme toujours, rentrée la première à la maison, afin de s'occuper du thé que Sophie aimait à trouver tout fumant sur la table. Elle haletait en montant les marches de l'escalier et tâtonna en cherchant le trou de la serrure. Soudain, une main glacée s'empara de la sienne et elle sentit une ombre se dresser près d'elle.</p>
+                  <p rend="justify">M^lle Babette en éprouva une telle frayeur que la voix lui manqua pour crier. En ces temps de romantisme et d'histoires de brigands, l'apparition d'un revenant était, pour une imagination exaltée par les pièces de théâtre et les romans, quelque chose de tout naturel.</p>
+                  <p rend="justify">La gouvernante tremblait de tous ses membres et menaçait de s'évanouir. Heureusement, une formule pour conjurer les esprits lui revint en mémoire, et elle murmura d'une voix étouffée par l'angoisse:</p>
+                  <p rend="justify">—Tous les bons esprits louent le Seigneur.</p>
+                  <p rend="justify">—Je suis un très bon esprit, répondit une voix douce, et le Seigneur que je loue, s'appelle Sophie Schrœder.</p>
+                  <p rend="justify">—Qui êtes-vous? questionna Fräulein Babette légèrement rassurée, et que me voulez-vous à cette heure?</p>
+                  <p rend="justify">—Ouvrez d'abord, poursuivit l'invisible visiteur, et faites de la lumière, je m'expliquerai ensuite.</p>
+                  <p rend="justify">—Mais je ne puis vous laisser entrer, soupira Mademoiselle, vous êtes peut-être....</p>
+                  <p rend="justify">—<hi rend="italic">Rinaldo Rinaldini</hi>  ou <hi rend="italic">Jaromir</hi>  en personne? railla le noctambule. Tranquillisez-vous, je ne suis ni un brigand, ni un démon de l'enfer, ni même un simple revenant, seulement un enthousiaste adorateur de la divine Schrœder et de son talent.</p>
+                  <p rend="justify">—Et vous venez si tard ...</p>
+                  <p rend="justify">—Je le sais bien, mademoiselle Babette, mais il me faut vous parler, à vous seule. Ouvrez, au nom du ciel, sans quoi Sapho va revenir et tout serait perdu.</p>
+                  <p rend="justify">M^lle Babette, se laissant enfin convaincre, ouvrit et chercha du feu. A la lumière douteuse d'une chandelle, elle reconnut le Polonais. Il se tenait devant elle, moitié gêné, moitié railleur, enveloppé d'un long manteau et tenant à la main une magnifique couronne de lauriers.</p>
+                  <p rend="justify">—Ah! c'est vous, dit-elle. Et vous désirez que je remette cette couronne à la Schrœder?</p>
+                  <p rend="justify">Elle étendait sa maigre main, pour la prendre.</p>
+                  <p rend="justify">—Certainement, je le veux, mais ce n'est pas tout ce que j'ai à vous demander.</p>
+                  <p rend="justify">—Parlez vite, car elle va venir, et il faut qu'elle trouve son thé prêt, sans quoi elle se fâchera.</p>
+                  <p rend="justify">—Laissez-le-moi faire. Nous autres Polonais nous y entendons à la perfection. Je serai si heureux que la grande Sapho bût, ce soir, du thé préparé de ma main.</p>
+                  <p rend="justify">—Nous n'avons pas le temps ...</p>
+                  <p rend="justify">—Plus qu'il ne faut.</p>
+                  <p rend="justify">Babette secoua la tête, puis se hâta de chercher ce qu'il fallait.</p>
+                  <p rend="justify">—Au moins, entrez dans ma chambre, continua-t-elle, afin que je puisse vous faire sortir inaperçu. Par ici, monsieur le Comte.</p>
+                  <p rend="justify">On donnait, en ce temps, le titre de comte à tous les Polonais indistinctement.</p>
+                  <p rend="justify">Le jeune homme obéit et fit montre d'une véritable virtuosité à composer le breuvage ambré.</p>
+                  <p rend="justify">M^lle Babette ne revenait pas de son étonnement. Tout en manipulant le samovar, il s'entretenait avec la gouvernante.</p>
+                  <p rend="justify">—Donc, chère Mademoiselle, vous lui remettrez la couronne?</p>
+                  <p rend="justify">—Certainement.</p>
+                  <p rend="justify">—Et vous lui exprimerez toute ma fervente admiration pour son rôle d'aujourd'hui?</p>
+                  <p rend="justify">—Oui, monsieur le Comte.</p>
+                  <p rend="justify">—Elle a été insurpassable.</p>
+                  <p rend="justify">—Grandiose!</p>
+                  <p rend="justify">—Vous comprenez donc que je vénère votre maîtresse.</p>
+                  <p rend="justify">—Je m'étonnerais du contraire.</p>
+                  <p rend="justify">—Et vous comprenez que je l'aime, que je suis forcé de l'aimer, de l'adorer?</p>
+                  <p rend="justify">—Si j'étais homme, je ferais comme vous.</p>
+                  <p rend="justify">—Par conséquent, ma chère, ma bonne, mon angélique Mademoiselle, procurez-moi quelque chose que Sophie Schrœder ait porté, et si ce n'était qu'un simple ruban ayant reposé sur sa divine poitrine, je le conserverais comme un fétiche, un talisman, aussi longtemps que je vivrais et jusqu'à l'heure de ma mort.</p>
+                  <p rend="justify">—C'est ce que je ne puis pas, monsieur le Comte.</p>
+                  <p rend="justify">—Vous ne pouvez pas? se récria le Polonais. Et me laisser mourir, sans une consolation, sans un réconfort, cela vous le pouvez?</p>
+                  <p rend="justify">—Mais que voulez-vous que je vous donne?</p>
+                  <p rend="justify">—Ce que vous voudrez.</p>
+                  <p rend="justify">—Il n'y a pas un seul objet dont elle puisse se passer.</p>
+                  <p rend="justify">Le Polonais, qui avait fini de préparer le thé, saisit le flambeau avec une hâte fébrile, et se dirigea d'un pas rapide, à travers les salles, jusqu'à la chambre à coucher de la tragédienne. Là il s'arrêta avec un tressaillement d'extase et regarda autour de lui avec émotion.</p>
+                  <p rend="justify">—Que faites-vous? s'écria Babette qui l'avait suivi épouvantée, ne savez-vous pas que c'est ici un sanctuaire que le pied d'aucun mortel n'est autorisé à fouler?</p>
+                  <p rend="justify">—Laissez-moi jouir de ce moment divin, repartit le Polonais avec feu. C'est derrière ces rideaux que repose ce corps divin et, ce tapis, son pied l'effleure journellement!</p>
+                  <p rend="justify">Il s'agenouilla et baisa le tapis. En se relevant, il tenait à la main une pantoufle, qu'il brandit triomphalement.</p>
+                  <p rend="justify">—Vous vous demandez ce que vous allez me donner? chère, délicieuse Babette, donnez-moi cette pantoufle de l'immortelle, vous ferez de moi le plus heureux des mortels.</p>
+                  <p rend="justify">—Cette pantoufle moins que toute autre chose, repartit Babette, elle va rentrer et voudra la mettre.</p>
+                  <p rend="justify">—Plus jamais elle ne la mettra, s'écria l'amoureux d'un ton résolu.</p>
+                  <p rend="justify">En vain, l'excellente fille fit tous ses efforts pour la lui reprendre, le jeune homme échappait sans cesse à sa poursuite et elle dut lui faire la chasse, à travers toute la série des chambres, jusque dans la cuisine. Là, le Polonais prit son manteau, mit son chapeau et voulut sortir, mais M^lle Babette le retint, nouvelle Putiphar, par le pan de son manteau.</p>
+                  <p rend="justify">—Seigneur Dieu! gémit-elle, vous ferez encore mon malheur. Je ne vous laisserai point partir, monsieur le Comte, que vous ne m'ayez rendu la pantoufle.</p>
+                  <p rend="justify">—Je ne la rendrai qu'avec la vie.</p>
+                  <p rend="justify">—Êtes-vous donc tout à fait fou?</p>
+                  <p rend="justify">—Je vous en donne son poids d'or, fit l'exalté en tirant de sa poche, sa main pleine de ducats qu'il jeta sur la table.</p>
+                  <p rend="justify">—Non, non, cria la malheureuse gouvernante avec angoisse, je ne veux pas de votre or, je ne prends point d'argent, je veux la pantoufle!</p>
+                  <p rend="justify">—Ayez pitié, donnez-la-moi!</p>
+                  <p rend="justify">—Pourquoi donc vous faut-il absolument cette pantoufle?</p>
+                  <p rend="justify">—La pantoufle de Sapho, reprit le gentilhomme avec solennité, pour y imprimer chaque jour mes lèvres, à l'endroit qu'a touché son doux pied.</p>
+                  <p rend="justify">—Mon Dieu, tout cela est bien bel et bon, soupira M^lle Babette, les chevaliers et les nobles brigands en agissaient ainsi; mais, si la pantoufle manque, je suis perdue. Rendez-la-moi.</p>
+                  <p rend="justify">—Babette, céleste Babette, pouvez-vous être assez cruelle pour m'arracher l'objet de mon adoration?</p>
+                  <p rend="justify">—Oui, je suis assez cruelle ... dit-elle en souriant, le rôle de cruelle lui plaisait évidemment.</p>
+                  <p rend="justify">—Même, si je vous implore à genoux?</p>
+                  <p rend="justify">Le jeune homme s'était jeté à ses pieds et levait la pantoufle d'un air suppliant.</p>
+                  <p rend="justify">—Mais, mon Dieu, que faites-vous donc?</p>
+                  <p rend="justify">Au même instant, la porte s'ouvrit, on perçut un froissement de jupes, Babette poussa un cri et le Polonais, bondissant sur ses pieds, demeura comme pétrifié.</p>
+                  <p rend="justify">La Schrœder venait de paraître sur le seuil. Elle portait encore le bandeau tissé d'or autour de sa tête et le péplum blanc de Sapho. Elle n'avait quitté que son manteau, le remplaçant par sa chaude pelisse.</p>
+                  <p rend="justify">Sophie se présentait la tête haute, dans toute sa majesté, ses formes opulentes et son bras robuste entourés de la sombre fourrure, comme sur l'image fameuse que nous possédons d'elle.</p>
+                  <p rend="justify">Un regard, un éclair de ses yeux qui eut relégué dans l'ombre toutes les impératrices et les princesses régnantes que les Viennois avaient eu récemment le loisir d'admirer au grand Congrès, et le jeune enthousiaste se trouva à genoux.</p>
+                  <p rend="justify">Elle fit deux pas en avant et s'arrêta, comme une souveraine devant un esclave qui s'est attiré le plus terrible châtiment. Les yeux de la tragédienne le fixèrent un moment, puis, se tournant vers Babette:</p>
+                  <p rend="justify">—Que se passe-t-il? questionna-t-elle. Comment Monsieur se trouve-t-il dans ma demeure? et qui l'a autorisé à y pénétrer?</p>
+                  <p rend="justify">M^lle Babette, rouge jusqu'aux oreilles, se tenait, les jambes tremblantes, comme une pécheresse.</p>
+                  <p rend="justify">—Il ... je ... parce que ... balbutia-t-elle.</p>
+                  <p rend="justify">—Je demande une réponse. Qui a fait entrer Monsieur?</p>
+                  <p rend="justify">Wasilewski se releva.</p>
+                  <p rend="justify">—Ne la grondez pas, dit-il, elle ne pouvait faire autrement. Mon enthousiasme pour vous, Madame, a triomphé de ses résistances. Je suis le seul coupable, le seul.</p>
+                  <p rend="justify">—Vous avouez donc?</p>
+                  <p rend="justify">—Je ne nie point, je demande grâce.</p>
+                  <p rend="justify">—Vous reconnaissez votre faute?</p>
+                  <p rend="justify">—Grâce!</p>
+                  <p rend="justify">L'actrice ne put s'empêcher de sourire.</p>
+                  <p rend="justify">—D'abord l'instruction et la sentence. La grâce ne vient qu'ensuite.</p>
+                  <p rend="justify">—Oui, punissez-moi, supplia le gentilhomme d'une voix tremblante d'amour et, un peu aussi, de crainte. Punissez-moi cruellement, le châtiment même que vous m'infligerez, me sera une joie et une consolation.</p>
+                  <p rend="justify">—Avant tout, je désire savoir ce que vous vouliez de ma fidèle Babette et pourquoi vous lui avez offert de l'argent.</p>
+                  <p rend="justify">—Je l'ai priée, répondit loyalement et simplement le jeune homme, de me donner la pantoufle de Sapho et, comme elle me la refusait et cherchait à me l'arracher, je lui ai offert ...</p>
+                  <p rend="justify">Il se tut en baissant les yeux.</p>
+                  <p rend="justify">—Une poignée d'or pour une vieille pantoufle? railla la Schrœder, tandis qu'un charmant sourire éclairait son austère visage. Mais où donc est ce précieux objet? Je suis lasse et en ai besoin pour me reposer ...</p>
+                  <p rend="justify">—Oserais-je vous prier de me laisser gracieusement ce que M^lle Babette m'a si impitoyablement refusé?</p>
+                  <p rend="justify">—Quelle valeur attribuez-vous donc à cette pantoufle? questionna la tragédienne, s'égayant de plus en plus.</p>
+                  <p rend="justify">—Je ne puis vous dire cela ici ...</p>
+                  <p rend="justify">—Suivez-moi donc au salon, dit Sophie, qui commençait à s'amuser royalement de la situation. Là, vous me donnerez l'explication de votre singulier désir.</p>
+                  <p rend="justify">Elle passa devant, avec l'allure d'une souveraine, et il suivit docilement, comme un enfant ou un fol amoureux. La Schrœder alluma les bougies d'un candélabre en argent qui se trouvait, sur une console dorée, devant un trumeau, et se laissa choir, avec cette majesté qui sied mieux aux femmes opulentes que la grâce aux maigres, sur le canapé, et indiqua un siège à son hôte, d'un geste plein de noblesse.</p>
+                  <p rend="justify">—Vous vous nommez?...</p>
+                  <p rend="justify">—Félicien Wasilewski.</p>
+                  <p rend="justify">—Donc monsieur Wa ... comment dites-vous?</p>
+                  <p rend="justify">—Wasilewski.</p>
+                  <p rend="justify">—C'est un nom difficile. Wasilewski, est-ce bien cela?</p>
+                  <p rend="justify">Le Polonais s'inclina.</p>
+                  <p rend="justify">—Et ce serait réellement le seul désir de vous approprier ma pantoufle, qui vous aurait fait pénétrer à une heure aussi insolite dans mon domicile?</p>
+                  <p rend="justify">—Je vous ai vue dans tous vos rôles. A chaque création nouvelle, grandissait mon admiration pour la grande tragédienne, maîtresse de toutes les cordes du clavier humain, et mon adoration pour la belle artiste ...</p>
+                  <p rend="justify">—Je ne suis pas belle, Monsieur.</p>
+                  <p rend="justify">—Pour moi, vous êtes belle, et si vous ne l'êtes point, le sentiment que vous inspirez à mon cœur est encore cent fois plus idéal et plus sacré, puisqu'il vous rend belle, plus belle que toutes les femmes de la terre. Je vous aime.</p>
+                  <p rend="justify">—Monsieur!</p>
+                  <p rend="justify">—Pardonnez-moi, je ne puis faire autrement. Ce n'est point un enivrement de mes sens, un aveuglement de mon esprit, je dois vous aimer comme je dois respirer ... pour vivre.</p>
+                  <p rend="justify">Cette fois, la Schrœder baissa son regard altier.</p>
+                  <p rend="justify">—Monsieur, je serai sincère: l'intérêt que vous me portez a cessé, depuis longtemps, d'être un mystère pour moi. Vous l'avez exprimé si souvent, d'une manière aussi chevaleresque que délicate, mais je n'y voyais qu'un hommage à la tragédienne ...</p>
+                  <p rend="justify">—C'est plus, beaucoup plus, c'est tout ce qu'un cœur d'homme peut éprouver pour une femme ...</p>
+                  <p rend="justify">—Nous parlions de ma pantoufle, interrompit la jeune femme.</p>
+                  <p rend="justify">—Oui ... c'est vrai ... en effet. Écoutez-moi donc. J'étais rempli d'admiration pour vous, je vous adorais, vous seule. Vint la soirée d'aujourd'hui. Je vous vis dans votre nouveau rôle et fus saisi d'un enthousiasme, d'un saint délire, qui me poussa à enfreindre toutes les règles des convenances et à déposer à vos pieds une couronne de lauriers, en vous dérobant, en échange, un objet quelconque qui vous eût servi, et si ce n'était qu'un ruban. J'aperçus votre pantoufle ...</p>
+                  <p rend="justify">—Vous avez pénétré dans ma chambre à coucher? interrompit l'actrice en fronçant les sourcils.</p>
+                  <p rend="justify">—Pardonnez-moi, supplia le jeune homme.</p>
+                  <p rend="justify">En prononçant ces mots, son regard avait une expression si enfantine, si sincère, sa main s'empara de celle de l'actrice avec une passion si convaincue, qu'elle ne se sentit pas le cœur de lui garder rancune.</p>
+                  <p rend="justify">—Je vous pardonne, dit-elle.</p>
+                  <p rend="justify">—Et ... vous me permettez de vous dire ... que je vous aime ...</p>
+                  <p rend="justify">—Non, pas cela.</p>
+                  <p rend="justify">—Vous me condamnez au silence?</p>
+                  <p rend="justify">—Je vous y condamne.</p>
+                  <p rend="justify">—Vous êtes cruelle.</p>
+                  <p rend="justify">—C'est la première fois qu'on me dit cela. Cruelle est la femme qui attire en souriant un homme dans ses filets pour, ensuite, s'en moquer et s'amuser de son tourment. Je ne suis pas une coquette, Monsieur, et l'on n'a jamais pu se plaindre que de ma franchise et de ma loyauté. Ne pas entretenir une vaine espérance, n'est pas cruel mais honnête.</p>
+                  <p rend="justify">—Je sais, Madame, que vous possédez cette loyauté de caractère, si rare dans le monde du théâtre, et je sais aussi que vous êtes vertueuse.</p>
+                  <p rend="justify">—Oui et non, repartit l'actrice avec un sourire. Selon moi, la vertu ne consiste pas dans les principes, mais uniquement dans l'amour. Une femme qui, par amour du lucre et du luxe, accorde sa main à un homme qu'elle n'aime point, n'est pas moins vicieuse que Phryné qui vend ses faveurs. Le calcul est aussi répugnant que le dévergondage. En revanche, une jeune femme qui aime sincèrement, est toujours vertueuse, qu'elle offre ses lèvres roses au baiser dans une chambre nuptiale somptueusement décorée, ou sous les tilleuls et sur la bruyère, ainsi que chante le poète d'amour, Walther de la Vogelweide.</p>
+                  <p rend="justify">—Je vous comprends.</p>
+                  <p rend="justify">—Me comprenez-vous tout à fait?</p>
+                  <p rend="justify">—Je le crains.</p>
+                  <p rend="justify">—Reparlons de la pantoufle.</p>
+                  <p rend="justify">—Non, parlons du sentiment qui me domine et me remplit, qui me fait tressaillir au son de votre voix, au moindre froissement de votre robe. Ne croyez pas que je sois assez téméraire pour oser espérer être payé de retour. Je serais trop heureux déjà, de pouvoir, journellement, vous mettre et ôter vos souliers, et vous offrir mon bras pour monter dans votre carrosse ...</p>
+                  <p rend="justify">—De tels rapports sont impossibles, déclara la jeune femme d'un ton ferme, du moins en ce qui me concerne. Une coquette prendrait sans doute quelque plaisir à recevoir ces hommages, et s'en ferait un jeu. Mais moi, je ne me sens pas capable d'occasionner des tourments que je ne pourrais apaiser, les augmenter, me paraîtrait indigne de moi. Je suis sincère, monsieur Wasilewski. Vous m'intéressez, mais je ne puis être à vous. C'est pourquoi, il faut nous séparer. Vous voulez être mon esclave? Je suis fort capable de réduire un homme en esclavage, mais un homme que j'aimerais et que je pourrais rendre heureux.</p>
+                  <p rend="justify">—Vous avez raison, soupira Wasilewski après un long et douloureux silence. Je dois vous fuir. Je vous aime de toute la folle ardeur d'un cœur innocent, mais votre compassion me serait intolérable. Une femme cruelle peut seule renoncer à l'amour, et vous, vous êtes bonne. Je me ressaisirai, je ne vous verrai plus. Je retournerai dans ma patrie et tâcherai de vous oublier, mais—un sourire d'enfant éclaira sa tristesse—il faut que vous me donniez un talisman, divine Sapho, votre pantoufle.</p>
+                  <p rend="justify">—Et pourquoi justement ma pantoufle?</p>
+                  <p rend="justify">—Il est d'usage, dans mon pays, lorsqu'on aime et qu'on veut offrir le suprême hommage à une femme, de lui dérober son soulier et d'y boire à sa santé, répondit le jeune homme avec un sérieux atteignant presque à la solennité. Je baiserai journellement l'endroit qu'a touché votre pied.</p>
+                  <p rend="justify">La grande Schrœder s'abîmait dans les réflexions. Autour de ses lèvres, se jouait comme de l'espièglerie.</p>
+                  <p rend="justify">—Bien, monsieur, dit-elle enfin, je vous fais cadeau de la pantoufle.</p>
+                  <p rend="justify">—Comment vous remercier? s'exclama le jeune homme en lui prenant la main et en la couvrant de baisers.</p>
+                  <p rend="justify">—Ecoutez la suite. Vous offriez à Babette une poignée de ducats pour cet objet?...</p>
+                  <p rend="justify">—En effet.</p>
+                  <p rend="justify">—Si vous étiez prêt à payer d'une telle prodigalité une vieille pantoufle usée, que donneriez-vous pour le pied même de Sapho?</p>
+                  <p rend="justify">—Le pied! comment cela?</p>
+                  <p rend="justify">—Ecoutez-moi jusqu'au bout. J'ai ici une pauvre comédienne qui se nomme Muller, une artiste de mérite et une excellente femme. Actuellement, elle meurt de faim et de froid et est presque toujours malade.</p>
+                  <p rend="justify">—Je devine, cette mendiante ...</p>
+                  <p rend="justify">—Elle-même. Vous la rendriez heureuse en lui donnant les moyens d'entreprendre un petit commerce, et c'est pourquoi je vous demande, à vous qui offriez de l'or pour baiser la pantoufle de Sapho, combien vous donneriez pour baiser son pied même?</p>
+                  <p rend="justify">La bienfaisante artiste, en un caprice olympien, avait eu cette charmante pensée; mais, à l'instant où elle la formulait, elle en eut honte, rougit et baissa les yeux. Wasilewski ne lui laissa pas le temps de se reprendre.</p>
+                  <p rend="justify">—J'offre ma fortune entière pour une telle faveur.</p>
+                  <p rend="justify">—Vous prenez ma folle idée au sérieux?</p>
+                  <p rend="justify">—Ne reprenez point votre parole, je vous en supplie.</p>
+                  <p rend="justify">—Eh bien, soit, fit la Schrœder en retrouvant son sourire. Vous pourrez me baiser le pied, mais ...</p>
+                  <p rend="justify">—Je vais vous faire un écrit ...</p>
+                  <p rend="justify">—Non, non, interrompit la tragédienne, je n'accepte qu'une somme pouvant tirer de souci ma pauvre Muller et dont vous puissiez facilement vous passer, car je vous sais riche.</p>
+                  <p rend="justify">—Je suis à vos ordres.</p>
+                  <p rend="justify">—Peut-être cent ducats?...</p>
+                  <p rend="justify">Le gentilhomme se précipita dans la chambre voisine où il avait remarqué la présence d'un écritoire, et rapporta à la tragédienne une feuille couverte de sable d'or. Elle la parcourut. C'était un chèque de 500 ducats. Sophie plia la feuille lentement, très lentement, et la cacha dans son sein palpitant, tandis qu'une rougeur révélatrice montait de ses joues à son front et, bientôt, couvrait son visage tout entier. Enfin, rejetant avec décision, sa fière tête en arrière:</p>
+                  <p rend="justify">—Il le faut, dit-elle. Avec ces mots, toute sa sérénité rayonnante de déesse lui revint.</p>
+                  <p rend="justify">—Venez, prononça-t-elle de sa voix sonore. Elle alla brusquement au fauteuil le plus proche, s'y laissa tomber et, avant que son adorateur eût compris son intention, elle rejeta sa sandale et dénuda son pied, d'une forme aussi parfaite que n'importe quel marbre antique.</p>
+                  <p rend="justify">—Ici, commanda-t-elle.</p>
+                  <p rend="justify">Wasilewski vit briller le pied sous la sombre fourrure qui enveloppait les divins membres de l'artiste, et tressaillit.</p>
+                  <p rend="justify">—Eh bien, vous ne voulez pas le baiser? dit-elle avec un sourire enchanteur. Elle était vraiment belle, en ce moment.</p>
+                  <p rend="justify">Le jeune homme se prosterna devant elle et pressa ses lèvres brûlantes sur le marbre glacé qu'elle lui présentait, une fois, deux fois. Puis il mit son front contre terre et, avant qu'elle n'eût pu l'empêcher, saisit le pied et le posa sur sa nuque.</p>
+                  <p rend="justify">—Laissez-moi être votre esclave, pour toujours.</p>
+                  <p rend="justify">La Schrœder retira vivement son pied.</p>
+                  <p rend="justify">—Levez-vous, ordonna-t-elle. Vous ne pouvez pas être mon esclave.</p>
+                  <p rend="justify">—Non, non, je ne dois pas.</p>
+                  <p rend="justify">Il restait toujours à genoux et la contemplait en extase. Enfin, il revint à lui, baisa une fois encore, avec une tendresse passionnée, le pied de Sapho et sortit précipitamment.</p>
+                  <p rend="justify">Sophie Schrœder demeura immobile, le front appuyé dans sa main, et perdue dans ses pensées.</p>
+                  <p rend="justify">Félicien Wasilewski est mort, il y a quelques années, dans ses terres de Pologne. Il avait atteint un grand âge et ne s'était jamais marié.</p>
+                  <lg>
+                     <l>Ses héritiers découvrirent, parmi toutes sortes d'objets précieux, un coffret d'ébène incrusté d'ivoire, où se trouvait une vieille pantoufle fanée. Le premier étonnement passé, ils s'en amusèrent, et n'en parlent jamais qu'en riant.</l>
+                     <l/>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>Transcriber's Notes:</head>
+                  <list rend="bulleted">
+                     <item>[*] indicates a missing word or probable typo in the text.</item>
+                     <item>Other possible typos have been left as found in the original.</item>
+                     <item>This is only one story from the collection named on the title page. Some other stories were culled from the same collection and can also be found at Project Gutenberg.</item>
+                  </list>
+               </div>
+               <div type="div3">
+                  <head>LIBRAIRIE CH. CARRINGTON—PARIS.</head>
+                  <p rend="justify">La Czarine Noire et autres contes. <hi rend="bold">L'Amour cruel à travers les âges</hi>, par Sacher Masoch—1 vol. in-18 jésus . . . 5 fr.</p>
+                  <p rend="justify">Tortures et Tourments des Martyrs Chrétiens. Traité des Instruments de Martyre et des divers Modes de Supplices employés par les païens contre les chrétiens, par le Révérend Père Ant. Gallonio.—Un fort beau vol. pet. in-4° avec 46 planches . . . 20 fr.</p>
+                  <p rend="justify">La Porte du Baiser, traduit de l'anglais de J.W. Harding, par F. Boutet, préface de M. le Comte Robert de Montesquiou.—Un vol. in-18 jésus, couv. illustrée, dessins hors texte . . . 3 fr. 50</p>
+                  <p rend="justify">«<hi rend="italic">La Porte du Baiser</hi>  illustre l'une des épopées les plus intéressantes de l'histoire du peuple d'Israël: la guerre entre Ezéchias et Sennachérib, le terrible roi de Babylone.»</p>
+                  <p rend="justify">Le Beau Nègre, par Hector France.—Nul mieux que M. H. France ne pouvait peindre cette intensité de couleur, les paysages tropicaux où se joue ce drame véridique. Nul ne pouvait analyser, avec cette finesse et cette sûreté, les passions ardentes dont sont agités les personnages de ce livre plein de vie. La couverture, tirée en couleurs, est de L. Malteste, les illustrations sont de G. Dola.—Un vol. in-8° . . . 3 fr. 50</p>
+                  <p rend="justify">Pan Michaël <hi rend="bold">(Messire Volodyovski)</hi>  par Henryk Sienkiewicz, auteur de <hi rend="italic">«QUO VADIS»</hi>.—Un fort vol. in-18 jésus de 600 pages. 10 dessins hors texte de M. Van Maele, couv. illustrée . . . 3 fr. 50</p>
+                  <p rend="justify">
+                     <hi rend="italic">Pan Michaël</hi>, qui clôt magnifiquement la trilogie consacrée à l'histoire de la Pologne du temps de Sobieski, ne le cède en rien aux ouvrages qu'il complète: <hi rend="italic">Par le Fer et par le Feu</hi>  et <hi rend="italic">Le Déluge</hi>.</p>
+                  <p rend="justify">Au-delà des Portes, par E. Stuart-Phelps. Ouvrage consacré à la vie d'outre-tombe. Traduction française et préface de Ch. Grolleau.—Un vol. in-12, couvert. illustrée . . . 3 fr. 50</p>
+                  <p rend="justify">Les Quatrains d'Omar Khayyam, traduits du persan et publiés avec une introduction et des notes par Ch. Grolleau.—1 vol. pet. in-4°, papier de Hollande, cadres de style persan tirés en rouge, couv. rempliée, titre or en relief. Tirage limité à 500 ex. numérotes . . . 10 fr.</p>
+                  <p rend="justify">La Destinée de l'Homme, par John Fiske. Traduction et préface par Ch. Grolleau.—Un vol. in-12 oblong . . . 4 fr.</p>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

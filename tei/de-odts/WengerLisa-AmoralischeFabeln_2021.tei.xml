@@ -1,0 +1,1308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Amoralische Fabeln</title>
+            <author>Lisa Wenger</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-01T19:21:51Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">odts/de-odts/WengerLisa-AmoralischeFabeln_2021.epub.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Lisa Wenger</name>
+               <date>2024-01-01T19:21:51Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Amoralische Fabeln</head>
+         <author>Lisa Wenger</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">odts/de-odts/WengerLisa-AmoralischeFabeln_2021.epub.odt</p>
+         <p>Lisa Wenger</p>
+         <head>Amoralische Fabeln</head>
+         <p>Mit Zeichnungen von Carl O. Petersen<lb/>Grethlein &amp; Co. / Zürich und Leipzig</p>
+         <p>Alle Rechte, insbesondere das der Übersetzung in fremde Sprachen,<lb/>vorbehalten. Copyright 1920 by Grethlein &amp; Co., Zürich</p>
+         <pb/>
+         <div type="div1">
+            <head>Amoralische Fabeln</head>
+            <pb/>
+            <div type="div2">
+               <head>Theo Wenger<lb/>gewidmet</head>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Inhalt</head>
+               <table rend="frame" xml:id="Table1">
+                  <row>
+                     <cell> </cell>
+                     <cell>Seite</cell>
+                  </row>
+                  <row>
+                     <cell>Was das Schäfchen sagen darf und was nicht!</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>Der schwarze Fleck</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>Als das Hühnchen zur Schule sollte</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>Der weiße Maulwurf</cell>
+                     <cell>14</cell>
+                  </row>
+                  <row>
+                     <cell>Das unschuldige Lämmlein</cell>
+                     <cell>19</cell>
+                  </row>
+                  <row>
+                     <cell>Als die Hühner wählen durften</cell>
+                     <cell>22</cell>
+                  </row>
+                  <row>
+                     <cell>So oder so!</cell>
+                     <cell>27</cell>
+                  </row>
+                  <row>
+                     <cell>Warum die Schafe heiraten</cell>
+                     <cell>31</cell>
+                  </row>
+                  <row>
+                     <cell>Das Festessen</cell>
+                     <cell>34</cell>
+                  </row>
+                  <row>
+                     <cell>Einsicht</cell>
+                     <cell>39</cell>
+                  </row>
+                  <row>
+                     <cell>Eintagsfliegen</cell>
+                     <cell>42</cell>
+                  </row>
+                  <row>
+                     <cell>Der Gesangverein</cell>
+                     <cell>46</cell>
+                  </row>
+                  <row>
+                     <cell>Das kluge Huhn</cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell>Der alte Schafbock</cell>
+                     <cell>54</cell>
+                  </row>
+                  <row>
+                     <cell>Vom bescheidenen Hähnchen</cell>
+                     <cell>59</cell>
+                  </row>
+                  <row>
+                     <cell>Das neue Buch</cell>
+                     <cell>61</cell>
+                  </row>
+                  <row>
+                     <cell>Die lieben Nachbarn</cell>
+                     <cell>67</cell>
+                  </row>
+                  <row>
+                     <cell>Wie der Binsenteich erforscht wurde</cell>
+                     <cell>70</cell>
+                  </row>
+                  <row>
+                     <cell>Das Begräbnis</cell>
+                     <cell>78</cell>
+                  </row>
+                  <row>
+                     <cell>Die Ratgeber</cell>
+                     <cell>82</cell>
+                  </row>
+                  <row>
+                     <cell>Das künstliche Auge</cell>
+                     <cell>87</cell>
+                  </row>
+                  <row>
+                     <cell>Die Richter</cell>
+                     <cell>92</cell>
+                  </row>
+                  <row>
+                     <cell>Schicksal dreier Freunde</cell>
+                     <cell>96</cell>
+                  </row>
+                  <row>
+                     <cell>Der Goldfasan</cell>
+                     <cell>104</cell>
+                  </row>
+                  <row>
+                     <cell>Vom Huhn, das etwas gelernt hatte</cell>
+                     <cell>109</cell>
+                  </row>
+                  <row>
+                     <cell>Er und Sie</cell>
+                     <cell>113</cell>
+                  </row>
+               </table>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Was das Schäfchen sagen darf und was nicht!</head>
+               <p rend="justify">
+                  <hi rend="bold">E</hi>in junges Schaf lief an der Seite des Böckleins glücklich über die Wiese. Es schmiegte seine feuchte Schnauze dicht an die Nase seines Gefährten, und die Löcklein ihrer weichen, wolligen Felle kräuselten sich ineinander. Das gefiel dem Schäflein, das neben seiner Mutter graste.</p>
+               <p rend="justify">»Frau Mutter, ich will auch heiraten,« sagte es, »heiraten ist ein schönes Ding!« Bedächtig sah das Schaf auf sein Junges.</p>
+               <p rend="justify">»Wie man's nimmt,« sagte es, »aber schön, oder nicht schön, ein wohlerzogenes Schäfchen sagt nie, daß es gerne heiraten möchte.«</p>
+               <p rend="justify">»Frau Mutter, ich denke es aber!«</p>
+               <p rend="justify">»Denke es so viel du willst, Schäfchen, aber sag es nicht. Als ich jung war, wäre es keinem von uns eingefallen, vom Heiraten zu reden.«</p>
+               <p rend="justify">»Aber geheiratet habt ihr doch alle.«</p>
+               <p rend="justify">»Natürlich! Selbstverständlich! Aber das ist etwas anderes als davon reden.« Eine alte Ziege hatte zugehört.</p>
+               <p rend="justify">»Die Jugend von heute ist überhaupt schamlos,« sagte sie. »Da habe ich neulich erleben müssen, daß zwei halbwüchsige Ziegen von ihren zukünftigen Jungen sprachen!«</p>
+               <p rend="justify">»Ja, darf man das auch nicht?« fragte das Schäflein, »darum heiratet man ja eben, um Junge zu kriegen.«</p>
+               <p rend="justify">»Schweig,« rief das Schaf erschrocken.</p>
+               <p rend="justify">  »Pst, pst, pst,« mahnte die Ziege.</p>
+               <p rend="justify">»Ich kann nur etwas nicht begreifen,« fing das Schäfchen wieder an. »Neulich sagte ich, ich wollte nicht heiraten, es sei lustiger so, als wenn man sich ewig um seine Jungen kümmern müsse und nie springen könne, wohin man wolle. Da haben mich alle gescholten, und haben gesagt, das sei die Bestimmung eines Schafes, Mutter zu werden, und die Natur habe es so gewollt. Und der Herr Vater hat mir gesagt, ich sei ein ganz entartetes Lamm, und kein Böcklein werde mich je heiraten wollen, wenn ich eine solche Gesinnung hätte. Und jetzt werde ich wieder gescholten und habe nun doch die richtige Gesinnung.« Das Schäfchen mähte kläglich.</p>
+               <p rend="justify">»Kind,« sagte die Alte, »es ist da ein Unterschied. Sagst du, du habest keine Lust zum Heiraten, es sei dir unbequem und du wollest deine Freiheit wahren, so fallen alle männlichen Schafe über dich her. Und sagst du, du möchtest gerne heiraten, die weiblichen. Sagst du aber, du freuest dich auf deine Jungen, so nennen dich die Mutterschafe schamlos, und sagst du, du hättest lieber keine, so schütteln alle die Köpfe, die männlichen und die weiblichen, die alten und die jungen. Darum, Schäfchen, sei klug! Schweig! Denken kannst du, was du willst!« Die alte Ziege nickte.</p>
+               <p rend="justify">»Du hast eine kluge Mutter,« sagte sie. – Das Schäfchen beherzigte der Mutter Lehren.</p>
+               <p rend="justify">»Dein Junges entwickelt sich prächtig,« sagten die Verwandten zu dem alten Schaf. »Es kann nicht fehlen, es wird sich bald verheiraten.« Bescheiden schwieg die Alte, und kaute an einem Gräslein.</p>
+               <p rend="justify">Bald darauf verliebte sich das Schäflein. Und tüchtig. Da hatte es plötzlich alle Lehren seiner Mutter vergessen. Es sagte jedem offen, daß es sich entsetzlich auf das Heiraten freue, daß es mindestens ein Dutzend Junge haben möchte, und daß es nicht gewußt habe, wie lieb ein Böcklein sei. Es sagte das alles keck heraus und erwartete ungeheure Schelte. Aber es kamen keine. Böcke und Schafe freuten sich über das naive Schäflein.</p>
+               <p rend="justify">»Frau Mutter,« fragte es erstaunt, »wie kommt es, daß das, was ich sage, nun auf einmal nicht mehr unpassend ist?«</p>
+               <p rend="justify">»Schäfchen,« sagte das alte Schaf, »das will ich dir sagen. Ehe man weiß, ob dich einer will, mußt du schweigen zu allen Dingen. Will dich aber einer, so darfst du von dem Augenblick an sagen, was du willst. Auch denken. Auch tun.«</p>
+               <p rend="justify">»Ich will es mir merken, Frau Mutter,« sagte das junge Schaf und sprang lustig mit seinem Böcklein davon.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Der schwarze Fleck</head>
+               <p rend="justify">
+                  <hi rend="bold">E</hi>s war einmal eine entzückende kleine Maus. Ein Fellchen hatte sie, so weiß wie Schnee, durchsichtige, rosafarbene Ohren, ein zartrosa Schwänzchen, und ein spitzes und schmales Schnäuzlein mit langen, feinen Haaren. Das Schönste aber waren ihre roten Augen.</p>
+               <p rend="justify">Die weiße Maus hatte einen Vater – die Mutter war in einer Falle verunglückt – Brüder, und zwei Schwestern. Sie hatte auch viele Freundinnen und natürlich sehr viele Freunde.</p>
+               <p rend="justify">Aber sie durfte sie selten sehen. Der Vater hatte ihr genau vorgeschrieben, wo sie spazieren durfte: Dem Getäfel entlang, unten über den Fußboden, in den kleinen Schrank und unter das Sofa. Andere Wege sollte sie keine machen. Und bei Leibe nicht auf den Schreibtisch klettern, denn dort war das große Tintenfaß, und dem durfte keine weiße Maus zu nahe kommen.</p>
+               <p rend="justify">Das Mäuschen gehorchte so lange es ihm möglich war. Dabei langweilte es sich aber unaussprechlich, immer mehr und mehr, und zuletzt konnte es die ungeheure Langeweile gar nicht mehr aushalten. Es mochte überhaupt nicht mehr ausgehen, blieb daheim und knusperte Zucker, weil es nichts Besseres zu tun wußte.</p>
+               <p rend="justify">»Pst! Pst!« machte es eines Tages vor seinem Loch. Die weiße Maus hob ihren Kopf.</p>
+               <p rend="justify">  »Mäuschen, komm mit,« bat eine junge Ratte mit prachtvollem Schnurrbart. »Wir wollen ein wenig auf dem Schreibtisch spazieren gehen!«</p>
+               <p rend="justify">»Ich darf nicht!« sagte das Mäuschen.</p>
+               <p rend="justify">»Man darf manches nicht und tut es doch!«</p>
+               <p rend="justify">»Aber der Vater!« sagte das Mäuschen.</p>
+               <p rend="justify">»Weiß es nicht.«</p>
+               <p rend="justify">»Die Brüder?«</p>
+               <p rend="justify">»Sehen es nicht.«</p>
+               <p rend="justify">»Die Schwestern?«</p>
+               <p rend="justify">»Erfahren es nicht.«</p>
+               <p rend="justify">»So will ich kommen!« und sie gingen zusammen.</p>
+               <p rend="justify">Und richtig! Das schneeweiße Mäuschen kam zu nahe an das Tintenfaß und machte sich an der Seite einen häßlichen, schwarzen Fleck.</p>
+               <p rend="justify">Es schüttelte sich, bürstete und wischte an sich herum, aber der Fleck wollte nicht weichen.</p>
+               <p rend="justify">»Was wird der Vater sagen!« jammerte es. Die Ratte strich sich den Schnurrbart.</p>
+               <p rend="justify">»Und die Brüder! Die beißen mich tot, sie haben noch nie jemand in der Familie gehabt, der einen Fleck hatte!« Die Ratte strich sich den Schnurrbart.</p>
+               <p rend="justify">»Und meine Schwestern! Es wird keine mehr sich mit mir zeigen wollen!« Die Ratte strich sich den Schnurrbart und verschwand in einem Loch unter dem Schreibtisch. Da ging das weiße Mäuschen allein nach Hause.</p>
+               <p rend="justify">  Es ist nicht zu sagen, was es nun alles auszuhalten hatte. Man höhnte, schalt, verlästerte, verachtete, verdammte und verfluchte das weiße Mäuschen! Man trat es, rupfte ihm die Barthaare aus, beschmutzte sein reines Fellchen, man zog sich von ihm zurück und kündigte ihm die Freundschaft.</p>
+               <p rend="justify">Zuletzt hing die Familie ein Mäntelchen über den schwarzen Fleck, aber man wußte doch, daß er da sei. Das arme Mäuschen schämte sich so sehr, daß es beständig den Kopf gesenkt hielt, und das feine Schwänzlein eingezogen.</p>
+               <p rend="justify">Freundinnen hatte es nun natürlich keine mehr. Aber auch Freunde nicht. Sie sagten, daß es ihnen unmöglich sei, mit Mäusen zu verkehren, die nicht tadellose Fellchen hätten.</p>
+               <p rend="justify">Da sagte sich das Mäuschen ruhig: Nun gehe ich zu den grauen Mäusen. Verachtet bin ich so wie so! Dort kann ich mich wenigstens amüsieren. Es ging. Die Familie sagte: Unser Mäuschen ist tot! Und dann seufzte sie. Wenn jemand von ihm reden wollte, winkten sie mit den Pfoten und sagten: Ach ja!</p>
+               <p rend="justify">Das Mäuslein aber hatte nun ein lustiges Leben. Es sprang herum, wo es wollte, es tanzte, wenn es lustig war, über Stock und Stein, und ließ seinen schwarzen Fleck Fleck sein.</p>
+               <p rend="justify">Es hatte Freunde und Freundinnen die Menge, und unterhielt sich vergnügt mit den grauen Mäusen.</p>
+               <p rend="justify">Und wer begrüßte plötzlich das weiße Mäuslein wieder freudig und liebenswürdig? Alle seine früheren Freunde.</p>
+               <p rend="justify">  Und eines schönen Abends erschienen auch seine Brüder unter ihnen. Das Mäuslein sperrte seine roten Augen weit auf.</p>
+               <p rend="justify">»Was! Ihr kennt die grauen Mäuse! Ihr habt mir doch gesagt – –«</p>
+               <p rend="justify">Aber die Brüder zwinkerten nur mit den Augen und taten, als kennten sie die Maus nicht.</p>
+               <p rend="justify">Da geschah es, daß eine Ratte sich in sie verliebte. So fürchterlich verliebte, daß sie zur Maus sagte: »Ich will dich heiraten!«</p>
+               <p rend="justify">»Du!« warnte die weiße Maus, »vergiß meinen schwarzen Fleck nicht.«</p>
+               <p rend="justify">»Wenn ich dich heirate, so hast du keinen schwarzen Fleck mehr!« Die Ratte war die reichste Ratte weit und breit. Sie besaß riesige Kellereien, ungeheure Vorräte an Weizen und Obst und Fett und Nüssen und Zucker, kurz, ihr Reichtum war unermeßlich.</p>
+               <p rend="justify">Und als die Ratte die weiße Maus geheiratet hatte, gingen sie zu der Maus Vater. Der machte große Augen.</p>
+               <p rend="justify">»Herr Schwiegervater, ist es nicht merkwürdig, wie der schwarze Fleck auf dem Pelz meiner Frau schon verblaßt ist?« Der Vater der weißen Maus nahm ein Vergrößerungsglas, sah hindurch und sagte mit einer Stimme, die ganz ölig war vor Freundlichkeit:</p>
+               <p rend="justify">»Ich sehe den Fleck überhaupt nicht mehr!«</p>
+               <p rend="justify">Dann ging die Ratte zu den Brüdern, führte sie in ihre Keller ein, und vor ihre Vorräte und fragte: »Was sagt ihr zu dem Fleck meiner Frau?«</p>
+               <p rend="justify">»Er ist verschwunden,« erklärten die Brüder bestimmt.</p>
+               <p rend="justify">Und die Schwestern sagten, man hätte den Fleck überhaupt kaum je bemerkt. Sie aßen und tranken alle auf der Ratte Kosten und holten sich aus ihren Vorräten, was sie brauchten. Auch erzählten sie jedem, der es hören wollte, von der reichen Heirat ihrer Jüngsten.</p>
+               <p rend="justify">Da strich sich die Ratte zufrieden den Schnurrbart und gab eine große Gesellschaft, mit allen Herrlichkeiten, die sich Mäuse nur wünschen können.</p>
+               <p rend="justify">Sie fragte jeden Eingeladenen im geheimen: »Was sagen Sie zu dem Fleck meiner Frau?« und jeder einzelne antwortete: »Was für einen Fleck meinen Sie? Ihre Gemahlin besitzt den entzückendsten weißen Pelz, den man sehen kann!«</p>
+               <p rend="justify">Da ging die weiße Maus wieder fröhlich herum unter den andern weißen Mäusen und vergaß zuletzt selbst, daß sie einmal einen schwarzen Fleck auf ihrem feinen Pelz gehabt hatte.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Als das Hühnchen zur Schule sollte</head>
+               <p rend="justify">
+                  <hi rend="bold">D</hi>as Hühnchen war sechs Monate alt geworden und sollte zur Schule. Es wurde deshalb Familienrat abgehalten.</p>
+               <p rend="justify">»So jung und muß schon zur Schule,« sagte die gelbe Tante mit den Federn an den Beinen. »Eier legen lernt es ja von selber!«</p>
+               <p rend="justify">»Setz dem Kücken doch nichts in den Kopf,« mahnte die Großmutter des Hühnchens. »Ich bin in die Schule gegangen, du bist in die Schule gegangen, wir alle sind in die Schule gegangen, da muß es eben auch in die Schule gehen.«</p>
+               <p rend="justify">»Warum, weiß ich freilich nicht,« sagte der Maulwurf, der seine Gänge im Hühnerhof angelegt hatte und nun auf Besuch gekommen war; »ich habe nie etwas gelernt und bin doch durch die Welt gekommen.«</p>
+               <p rend="justify">»Aber wie,« rief die Amsel, die auf dem Baum im Hof wohnte. »Wie! Im Dunkeln ist er gekrochen sein Leben lang, und Freuden hat er keine gehabt außer dem Fressen.«</p>
+               <p rend="justify">»Schweig du dort oben,« krähte ärgerlich der Hahn; »du gehörst nicht zur Familie und hast hier nicht mitzureden. Kinder aus unserer Sippe gehen zur Schule, natürlich, aber nicht wegen dem Lernen; das haben wir nicht nötig.«</p>
+               <p rend="justify">»Warum denn?« fragte die Amsel erstaunt.</p>
+               <p rend="justify">  »Weil es sich schickt,« sagte der Hahn würdevoll, und die Henne, die Mutter der Kücken, sagte: »Und weil die andern es so machen.«</p>
+               <p rend="justify">»Natürlich!« rief der ganze Hühnerhof, und die Großmutter – es war eine mächtige Langshanhenne, die viel Ansehen genoß – gluckste und sagte: »Natürlich!«</p>
+               <p rend="justify">Also sollte das Kücken zur Schule ...</p>
+               <p rend="justify">»Was meint ihr, zu welchem Lehrer wir unser Hühnchen schicken wollen?« fragte der Hahn.</p>
+               <p rend="justify">»Zum Grünspecht,« rief die Amsel vom Baum herunter; »Er weiß viel und hat viel gesehen.«</p>
+               <p rend="justify">»Zu dem!« rief empört Mutter Henne. »Wißt ihr, was das für einer ist? Der hat zu einer unserer Nachbarinnen gesagt, es wäre Zeit, daß die Hühner endlich etwas anderes lernten als nur Eier legen und gackeln. Das hat er gesagt.« Die Henne kratzte sich mit dem Fuß unter dem Flügel; es war eine Gewohnheit, die sie hatte.</p>
+               <p rend="justify">»Schwiegersohn,« rief majestätisch die Großmutter Langshan, »da verlieren wir wohl weiter keine Worte. Was soll ein Huhn überhaupt anderes lernen als Eier legen und gackeln? Doch nicht singen wie eine Nachtigall?«</p>
+               <p rend="justify">»Warum nicht,« rief wieder die Amsel. »Es wäre eine angenehme Abwechslung.«</p>
+               <p rend="justify">»Ich habe gegackelt,« rief das alte Huhn, »meine Tochter hat gegackelt, wir alle haben gegackelt, warum sollte unser Hühnchen nicht auch gackeln?«</p>
+               <p rend="justify">  Zum Grünspecht sollte das Hühnchen also nicht in die Schule, beschloß der Familienrat ...</p>
+               <p rend="justify">Nach langem Nachdenken und Disputieren war man endlich einig geworden, daß das Kücken zu der Pute sollte – zu der mit den Bronzefedern natürlich, nicht zu der grauen – und daß die Familie es sogleich der Lehrerin vorstellen wolle.</p>
+               <p rend="justify">Hahn, Henne, Großmutter Langshan und die gelbe Tante mit den Federn an den Beinen begleiteten das Hühnchen.</p>
+               <p rend="justify">»Es soll vor allem richtig gackeln lernen,« begann die Großmutter und betrachtete die Pute mit ihrem rechten Auge. Über das linke hing der Kamm; sie gebrauchte es selten und sparte es für Notfälle auf. »Dann soll es in allen Pflichten unterrichtet werden, die ein Huhn von Familie kennen und ausüben muß: im Eierlegen, im Brüten, im treuen Führen der Jungen.«</p>
+               <p rend="justify">»Versteht sich,« sagte die bronzene Pute; »das lernt es alles am besten bei mir.«</p>
+               <p rend="justify">»Es soll Untertänigkeit gegen seinen künftigen Gebieter lernen,« befahl der Hahn.</p>
+               <p rend="justify">»Natürlich, das lernt es alles am besten bei mir,« sagte die Pute mit den Bronzefedern.</p>
+               <p rend="justify">»Es soll lernen, sich mit den anderen Hennen vertragen; denn das ist sehr wichtig,« empfahl Mutter Henne und kratzte sich unter dem rechten Flügel.</p>
+               <p rend="justify">»Versteht sich, das lernt es am besten bei mir,« antwortete das Bronzehuhn.</p>
+               <p rend="justify">  »Ich glaube, Sie sind dumm,« sagte die gelbe Tante mit den Federn an den Beinen.</p>
+               <p rend="justify">»Das bin ich,« sagte das große Geschöpf und gluckste; »aber gerade darum kann ich die Kücken so gut in ihre Pflichten einführen: sie werden nicht abgelenkt.«</p>
+               <p rend="justify">»Da hat sie recht,« nickte zufrieden Großmutter Langshan. »Und bitte, bringen Sie dem Hühnchen Respekt vor dem Alter bei.«</p>
+               <p rend="justify">»Und lehren Sie es seine Eltern ehren,« sagte der Hahn.</p>
+               <p rend="justify">»Und prägen Sie ihm ein, daß ein Huhn auf der Welt sei, um zu nützen,« bat Mutter Henne und kratzte sich.</p>
+               <p rend="justify">»Und sagen Sie ihm gleich von Anfang an, Eierlegen sei ein Vergnügen; sonst glaubt es das Kücken später nicht mehr!« mahnte die gelbe Tante mit den Federn.</p>
+               <p rend="justify">»Das tue ich alles,« versprach das Bronzehuhn; »es haben noch nie Eltern ihre Hühnchen gebracht, denen ich das nicht versprechen mußte.«</p>
+               <p rend="justify">»Und so soll es sein,« sagte die Großmutter und warf ihren Kamm ausnahmsweise auf die rechte Seite, »und so ist es von jeher gewesen! Aber wo ist unser Kücken?«</p>
+               <p rend="justify">Es spazierte vergnügt mit einem jungen Hähnchen aus der Nachbarschaft herum.</p>
+               <p rend="justify">»Du, höre einmal,« sagte das zum Hühnchen, »von acht bis zehn legt die Pute, und von zehn bis zwölf schläft sie; da können wir den ganzen Morgen spazieren gehen.«</p>
+               <p rend="justify">»Aber dann lerne ich ja nichts,« antwortete das Hühnchen.</p>
+               <p rend="justify">  »Gerade dann lernst du, was du brauchst; das andere kommt nachher von selber,« beruhigte es das Hähnchen.</p>
+               <p rend="justify">Da kam aber die Familie und nahm das Hühnchen in ihre Mitte und zog mit ihm heimwärts.</p>
+               <p rend="justify">»Man tut für seine Kinder, was man kann, nicht wahr, Schwiegersohn?« sagte Großmutter Langshan.</p>
+               <p rend="justify">»Und so gut man es versteht!« pfiff die Amsel vom Baum herunter; aber niemand achtete auf sie.</p>
+               <p rend="justify">Sie gehörte ja nicht in den Hühnerhof.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <lb/>Der weiße Maulwurf</head>
+               <p rend="justify">
+                  <hi rend="bold">G</hi>roße Aufregung herrschte unter den Maulwürfen. Sie standen in Scharen beisammen und wisperten.</p>
+               <p rend="justify">»Wer hat ihn gesehen?« fragte der Älteste der Maulwürfe.</p>
+               <p rend="justify">»Ich, ich, ich,« schrien viele durcheinander.</p>
+               <p rend="justify">»Ist er wirklich weiß?« fragte der Älteste.</p>
+               <p rend="justify">»Schneeweiß! Auch nicht ein schwarzes Härchen ist an ihm,« rief eine junge Maulwurfsfrau. Der Haufe schwieg bestürzt.</p>
+               <p rend="justify">»Wohin wird es noch kommen?« sagte der Älteste mit hohler Stimme, »wenn sogar die Maulwürfe es wagen, allem Hergebrachten ins Gesicht zu schlagen?«</p>
+               <p rend="justify">»Vielleicht ist er nur gefärbt,« rief einer entschuldigend.</p>
+               <p rend="justify">»Nein,« sagte die junge Maulwurfsfrau, »er ist echt! Die Haut unter dem Fell ist ganz rosenrot.«</p>
+               <p rend="justify">  »Du hast dir den Weißen genau angesehen,« sagte höhnisch einer der Maulwürfe.</p>
+               <p rend="justify">»Das habe ich, so gut ich mit meinen Schlitzäuglein sehen konnte.« Die andern stutzten.</p>
+               <p rend="justify">»Ich wäre dafür, den Weißen aus unseren Feldern zu verjagen,« schlug einer vor. Es war ein gewöhnlicher Maulwurf mit kurzem grauem Schwanz. »Wie leicht könnte er unserer Jugend solche Unsitten beibringen. Ich habe auch gehört, daß er aufrührerische Reden hält.«</p>
+               <p rend="justify">»Aufrührerische Reden?« rief der Älteste, »das ist das Schlimmste! Nur nichts Neues! Nur keine Veränderungen! Nur keine Versuche, die doch fehlschlagen! Ich kenne die Welt. Ich habe lange genug in ihr gelebt. Wer sind die wahrhaft Glücklichen und Weisen?« Der Älteste neigte die spitze Schnauze und kniff die winzigen Äuglein zusammen. »Die die Erfahrungen von Generationen benützen und die leichtsinnigen Neuerungen verabscheuen. Fort mit dem weißen Maulwurf!«</p>
+               <p rend="justify">»Fort mit dem weißen Maulwurf!« schrien alle. Nur die Maulwurfsfrau schrie nicht mit.</p>
+               <p rend="justify">»Er hat größere Augen als alle unsere Maulwürfe,« sagte sie zu ihrer Nachbarin, »er kann einen wirklich damit ansehen, und dann glänzen sie.«</p>
+               <p rend="justify">»Das kann ich mir gar nicht vorstellen,« sagte die Maulwürfin.</p>
+               <p rend="justify">Da kam hastig ein junger Maulwurf daher.</p>
+               <p rend="justify">  »Wißt ihr, was der weiße Maulwurf sagt?« rief er schon von weitem.</p>
+               <p rend="justify">»Nein!« schrien die andern und umringten ihn.</p>
+               <p rend="justify">»Er sagt, wir sollten größere Augen haben, ich habe es selbst gehört!«</p>
+               <p rend="justify">»Größere Augen?« fragten empört die Zuhörer. »Wozu?«</p>
+               <p rend="justify">»Er sagt, wir sollten besser sehen können!«</p>
+               <p rend="justify">»Besser sehen! Was denn?« riefen wieder die Umstehenden. »Was will denn der Kerl?«</p>
+               <p rend="justify">»Er sagt, wir sollten lernen das Schöne sehen, auch außerhalb unserer Gänge.«</p>
+               <p rend="justify">»Außerhalb unsern Gängen,« schrie die Menge, »was gibt es denn da zu sehen?«</p>
+               <p rend="justify">»Er ist verrückt,« sagte der Grauschwänzige.</p>
+               <p rend="justify">»Er ist ein Aufrührer, ein Revolutionär,« schrien viele.</p>
+               <p rend="justify">»Er ist einfach ein Esel!« erklärte der Älteste. »Besser sehen lernen! Haben Maulwürfe je gut sehen können? Und dann: Gibt es außerhalb unserer Gänge überhaupt Schönes? Ein Esel ist er, oder ein Idealist, das kommt auf eins heraus.«</p>
+               <p rend="justify">Da wurde es hell hinten im Gang. Der weiße Maulwurf kam.</p>
+               <p rend="justify">»Da ist er, da kommt er,« wisperte es. Die Schlitzäuglein öffneten sich, die kurzen Hälse streckten sich, die grauen und bräunlichen Schwanzstummel fuhren aufgeregt hin und her. Aber alle schwiegen, auch der Älteste. Da fragte der weiße Maulwurf:</p>
+               <p rend="justify">  »Warum soll ich fort? Habe ich euch etwas zuleide getan?«</p>
+               <p rend="justify">»Nein,« sagte der Grauschwänzige, »aber du bist weiß und wir sind schwarz!«</p>
+               <p rend="justify">»Du willst neue Bräuche einführen!« rief der Älteste.</p>
+               <p rend="justify">»Du sagst, wir verstünden nicht zu sehen,« schrie die Menge.</p>
+               <p rend="justify">»Und das ist wahr,« bestätigte ruhig der weiße Maulwurf. »Ihr seht nur, was ihr sehen wollt, und es gibt so vieles, das ihr sehen könntet!«</p>
+               <p rend="justify">»Wir brauchen nichts zu sehen,« schrien die Maulwürfe.</p>
+               <p rend="justify">»Wir wissen alles auswendig,« rief einer.</p>
+               <p rend="justify">»Uns gefällt das Schöne gar nicht,« piepste ein anderer.</p>
+               <p rend="justify">»Versucht es doch einmal,« bat der Weiße. »Ihr werdet sehen, es gefällt euch dann!« Und feurig fuhr er fort: »Wenn es für euch zu spät ist, so laßt mich wenigstens eure Kinder hinausführen! Laßt sie einmal hinauf auf die Erde und zeigt ihnen den Glanz des Mondes und das flimmernde Licht der Sterne.«</p>
+               <p rend="justify">»Verführer! Jugendverderber!« schrie wütend der Älteste. »Nun erkenne ich dich! Zwietracht willst du säen zwischen uns und der Jugend! Unzufriedenheit willst du pflanzen! Hochmut willst du züchten! Wir, die Alten, sollen uns schämen müssen vor der Jugend mit unseren kleinen Äuglein! Ich kenne dich und deinesgleichen! Jawohl! Mond und Sterne! Die hätten wir längst gesehen, wäre es gut für Maulwürfe! Fort! Hinaus! Hinaus mit dir aus unseren Gängen!«</p>
+               <p rend="justify">»Fort mit dir,« schrien die Schwarzen. »Fort mit dir! Fort!« Die Maulwürfe drängten den Fremdling durch den engen Gang. Sie kamen an der Maulwurfsfrau vorbei, die dort mit ihrer Nachbarin stand.</p>
+               <p rend="justify">»Den Besten unter euch verjagt ihr!« rief sie spöttisch.</p>
+               <p rend="justify">»Den Besten!« schrie der Graugeschwänzte. »Nennst du einen weißen Maulwurf den Besten?« Dann wandte er sich zu dem Verhaßten und schrie:</p>
+               <p rend="justify">»So hast du unser Volk schon verhetzt!« und warf sich auf ihn und versetzte ihm wütende Bisse.</p>
+               <p rend="justify">Als die andern das sahen, wagten sie es ebenfalls, und fielen über den weißen Maulwurf her. Bald hatten sie ihn totgebissen. Der weiße Pelz färbte sich rot vom Blute des Gemordeten und ärgerte niemand mehr.</p>
+               <p rend="justify">Zufrieden tappten alle im Dunkeln nach ihren Wohnungen. Zu sehen brauchten sie ja nichts, denn schon ihre Eltern, Großeltern und Urgroßeltern waren diesen Weg gegangen! –</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Das unschuldige Lämmlein</head>
+               <p rend="justify">
+                  <hi rend="bold">»W</hi>ie das Lämmchen groß wird,« sagte seine Tante, das Schaf, »da wird man bald ans Heiraten denken müssen.«</p>
+               <p rend="justify">»Das tue ich auch,« sagte das Lämmchen.</p>
+               <p rend="justify">»Glaub es nicht,« jammerte des Lämmchens Mutter, »es denkt noch nicht an derartige Sachen. Es ist ja noch so unschuldig.«</p>
+               <p rend="justify">»Was hat das Heiraten mit der Unschuld zu tun?« fragte das Lämmchen.</p>
+               <p rend="justify">»Nichts!« rief das Tanten-Schaf.</p>
+               <p rend="justify">»Das verstehst du nicht,« sagte die Alte.</p>
+               <p rend="justify">»Das verstehst du nicht! Das antwortet man mir immer, wenn ich etwas wissen möchte,« sagte das Lämmchen ärgerlich.</p>
+               <p rend="justify">Mutter und Tante sahen einander an.</p>
+               <p rend="justify">»Wenn du einmal ein großes Schaf bist, so weißt du alles ganz von selber.« Da kam der Bock, Lämmchens Onkel.</p>
+               <p rend="justify">»Onkel, was heißt unschuldig?« fragte es. Der Onkel kratzte sich mit dem linken Hinterfuß am Kopf.</p>
+               <p rend="justify">»Unschuldig? Das bedeutet halt, daß man nichts weiß.«</p>
+               <p rend="justify">»Aber Onkel!« rief das Lämmchen, »ich weiß so viel! Da bin ich doch nicht unschuldig?«</p>
+               <p rend="justify">»Die Sachen, die man nicht weiß, wenn man unschuldig ist,« sagte der arme verlegene Bock, »sind nicht dieselben Sachen, die man weiß, wenn man unschuldig ist!« Er schnaufte laut. »Aha,« sagte das Lämmchen. »Sind Sie auch unschuldig, Onkel Bock?«</p>
+               <p rend="justify">»Ach, Lämmchen, weißt du« – sagte der Bock und sah sich hilflos um, »es ist so lange her, daß ich gar nicht mehr weiß, ob ich es immer noch bin!« Mutter Schaf und Tante stießen sich mit den Köpfen.</p>
+               <p rend="justify">»Sind Sie unschuldig, Frau Mutter?« fragte das Lämmlein.</p>
+               <p rend="justify">»Verheiratete Leute nennt man nicht mehr unschuldig,« sagte ärgerlich das Schaf.</p>
+               <p rend="justify">»Du bist einfältig,« rief das Tanten-Schaf, »heirate, dann weißt du es!«</p>
+               <p rend="justify">»Ich bin dumm und ich bin unschuldig, das ist viel auf einmal,« sagte kläglich das Lämmchen, »da will ich mich mit dem Heiraten beeilen so viel ich kann, denn unschuldig und einfältig ist niemand gern.«</p>
+               <p rend="justify">»Aber Lämmchen,« riefen Bock, Mutter-Schaf und Schaf-Tante, »das sagt man doch nicht!«</p>
+               <p rend="justify">»Warum denn nicht?«</p>
+               <p rend="justify">»Weil, wenn du das sagst, die anderen Leute denken könnten, du seist nicht mehr unschuldig!«</p>
+               <p rend="justify">»Ja aber,« sagte das Lämmlein, »ich will ja gerade heiraten, damit ich nicht mehr unschuldig sein muß.«</p>
+               <p rend="justify">Da rannten die drei Alten in großen Sprüngen davon.</p>
+               <p rend="justify">»Es muß arg sein mit meiner Unschuld,« dachte betrübt das Lämmchen, »daß die so davonrennen. Dort oben auf der Weide grast mein Vetter, das Böcklein. Der ist klug, der kann mir gewiß sagen, was die anderen nicht wissen.« Und das gute Lämmchen ging zum Böcklein. –</p>
+               <p rend="justify">Am Abend sagte es zum alten Schaf: »Frau Mutter, ich weiß es jetzt. Unschuldig ist beides, angenehm und unangenehm. Eine Weile freut man sich, daß man es ist, und nach einer Weile freut man sich, daß man es nicht mehr ist. Selber weiß man es nie, wenn man unschuldig ist, aber man weiß es sicher, wenn man es nicht mehr ist. So lange man unschuldig ist, spricht man nie davon, und wenn man nicht mehr unschuldig ist, spricht man immer davon. Von der Unschuld der anderen, meine ich!«</p>
+               <p rend="justify">Argwöhnisch drehte das Schaf den Kopf. »Woher hast du diese Weisheit?« fragte es.</p>
+               <p rend="justify">»Von meinem Vetter, dem Böcklein,« sagte vergnügt das Lämmchen, »und er hat mir sie ganz umsonst beigebracht!« – –</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <lb/>Als die Hühner wählen durften</head>
+               <p rend="justify">
+                  <hi rend="bold">E</hi>lf oder zwölf Hühner saßen auf dem Mist, blinzelten in der Sonne und kratzten sich. Es war heiß, und keines hatte Lust nach Würmern zu suchen oder Eier zu legen.</p>
+               <p rend="justify">Sie gackelten aber zusammen.</p>
+               <p rend="justify">»Wißt ihr, daß wir Hühner von heute an öffentlich dasselbe Recht haben sollen wie die Hähne?« fragte eine schöne, stolze Henne und reckte sich dabei, daß sie gleich um eine Handbreite höher schien. Die Hühner öffneten die rotgeränderten, verblüfften Augen.</p>
+               <p rend="justify">»So,« sagte eines. Dann lauste es sich behaglicher als vorher.</p>
+               <p rend="justify">»Mir ist das einerlei,« gackelte ein anderes, das elf Kücken um sich versammelt hatte, und jetzt noch spektakelte zur Erinnerung an die 15 Eier, welche es nacheinander gelegt. »Was geht mich die Politik an? Ich verstehe nichts davon.«</p>
+               <p rend="justify">»Es ist nicht nur wegen der Politik,« sagte die schöne Henne. »Wir sollen auch sonst mitreden dürfen, zum Beispiel, wenn eine neue Pute für die Schule gewählt wird.« Das interessierte nun die Hühner alle, denn die meisten hatten Kücken.</p>
+               <p rend="justify">»Das ist sicher, daß ich die Bronzepute nicht wieder wähle,« kreischte ein dickes Huhn mit einem Federbusch zwischen jeder Zehe. »Sie hat allen meinen Kücken schlechte Zeugnisse gegeben.«</p>
+               <p rend="justify">»Ich wähle sie auch nicht,« piepste das Perlhuhn. Es sah aus wie ein uraltes Jüngferchen mit einem weißpunktierten Schal, aus dem das kleine, nackte, neugierige Köpfchen hervorschaute.</p>
+               <p rend="justify">»Ich wähle sie auch nicht.«</p>
+               <p rend="justify">»Warum nicht,« fragte die schöne Henne.</p>
+               <p rend="justify">»Weil sie in der Schule den Kücken gesagt hat, alle Hühner hätten ein Herz und eine Lunge und eine Leber, und andere unappetitliche Sachen. Dafür schicke ich meine Jungen nicht zur Schule, daß sie solche Dinge lernen.«</p>
+               <p rend="justify">»Da hast du recht,« stimmte auch eine Rouen-Ente bei, die so stark war, daß sie ihren Leib auf der Erde nachschleifen mußte. »Traurig ist das. Wir sind auf einen Punkt der sogenannten Aufklärung gekommen, den man schon, den man schon –«</p>
+               <p rend="justify">»Unmoral nennen könnte,« half das Perlhuhn nach, und drehte sein unbedeutendes Köpfchen beifallheischend nach allen Seiten.</p>
+               <p rend="justify">»Und die Poesie? Wo bleibt die, wenn unmündige Kücken schon wissen, was Hahn und Hühner inwendig haben? Nein, die Bronzepute wähle ich nicht,« schnatterte die Rouen-Ente.</p>
+               <p rend="justify">»Ich auch nicht,« meinte eine bräunliche Laufente, die eilig und aufrecht angewatschelt kam, »was kann sie unsere Jungen lehren? Sie weiß selber nicht, was sich für Puten gehört. Sie legt sich ja nicht einmal platt auf die Erde, wenn der Truthahn vorüberrauscht, wie es sich für Puten schickt, sie sieht ihn herausfordernd an und bleibt stehen.«</p>
+               <p rend="justify">»Usch,« riefen alle Hühner entsetzt und pluderten sich. Eine Weile schwiegen sie, drehten sich nach allen Seiten nachdenklich im Sand und schüttelten die Federn.</p>
+               <p rend="justify">»Also, wen wählen wir?« begann darauf wieder eine. Es war eine weiße Henne, der Liebling des Hahns.</p>
+               <p rend="justify">»Ich wähle die graue Pute,« sagte die Dicke mit den Federbüschen entschlossen, »wenn ich der Haber schicke, so macht sie allen meinen Hühnchen und Hähnchen gute Zeugnisse.«</p>
+               <p rend="justify">»Sie ist häßlich, sie wird nie jemandem gefallen,« gackerte zufrieden die weiße Henne. »Ich wähle sie.«</p>
+               <p rend="justify">  »Sie weiß selber nicht, ob die Hühner Milz und Leber im Leib haben,« piepste das Perlhuhn, »also kann sie die Kücken nichts Unanständiges lehren, wie es jetzt Mode ist. Ich wähle sie.« Es trippelte davon.</p>
+               <p rend="justify">»Sie kann sich im Eierlegen bei weitem nicht mit mir messen, man wird sie mir nie vorziehen,« dachte die Laufente. »Ich wähle sie auch, warum nicht?«</p>
+               <p rend="justify">»Schwimmen kann sie nicht wie ich,« prahlte die Rouen-Ente, »mir ist sie also recht.«</p>
+               <p rend="justify">»Das alles geht die Schule gar nichts an,« rief unwillig das schöne Huhn.</p>
+               <p rend="justify">»Aber uns,« kreischte die Dicke, »uns, meine Liebe, uns! Übrigens kann ich morgen nicht zur Wahl kommen. Ich lege von 11-1 Uhr.«</p>
+               <p rend="justify">»Und ich fange morgen mit Brüten an,« gackerte eines.</p>
+               <p rend="justify">»Und ich führe meine Jungen zum ersten Mal aus,« rief ein anderes.</p>
+               <p rend="justify">»Ich gehe mit dem Gockel spazieren,« brüstete sich die Weiße, und riß einen Regenwurm, der sich verzweifelt wehrte, aus der Erde.</p>
+               <p rend="justify">»Du kannst morgen nicht mit dem Gockel spazieren,« verwies sie das schöne Huhn. »Der Gockel geht morgen zur Wahl.«</p>
+               <p rend="justify">»Ich kann auch nicht kommen,« rief die Rouen-Ente mit dem dicken Leib wichtig. »Ich werde morgen gebraten.« Sie wußte nicht recht, war das ein angenehmes oder ein unangenehmes Ding, aber jedenfalls war es interessanter als das Wählen einer Schulpute.</p>
+               <p rend="justify">»Und ich gehe und wähle,« rief das schöne Huhn, »und wenn ich ganz allein gehen muß.«</p>
+               <p rend="justify">Und richtig, am nächsten Morgen war sie die einzige, die sich aufmachte, um die neue Pute für die Kückenschule zu wählen. Der Hahn war wahrhaftig mit dem weißen Huhn spazieren gegangen.</p>
+               <p rend="justify">Da niemand da war, der der grauen Pute die Stimme hätte geben können, so wurde die Bronzene einstimmig gewählt.</p>
+               <p rend="justify">»Es ist ein unerhörtes Unrecht,« sagten die Hühner des Hühnerhofes nachher zornig. »Was haben wir davon, daß wir wählen dürfen, wenn doch nicht die gewählt werden, die wir wollen?«</p>
+               <p rend="justify">Sie steckten die Köpfe unter die Flügel, plusterten sich auf, und hielten ihr Mittagsschläfchen ab.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>So oder so!</head>
+               <p rend="justify">
+                  <hi rend="bold">»U</hi>nd ich sage dir, Gelbes: Wenn du überhaupt willst, daß ein Enterich dich heiratet, so lerne das Gehorchen,« rief eine dicke weiße Peking-Ente und wippte aufgeregt mit dem Schwänzlein.</p>
+               <p rend="justify">»Warum, Frau Mutter?«</p>
+               <p rend="justify">»Weil dich sonst keiner nimmt!«</p>
+               <p rend="justify">»Es braucht mich keiner zu nehmen, dem ich gehorchen muß,« sagte das Gelbe. Es war eigentlich schon weiß geworden und hatte nur einen gelben Schnabel.</p>
+               <p rend="justify">»Was für einen willst du denn?« fragte entsetzt die Alte.</p>
+               <p rend="justify">»Einem der mich tun läßt, was ich will,« sagte sehr bestimmt das junge weiße Entlein mit dem gelben Schnabel.</p>
+               <p rend="justify">»Und was willst du?« forschte die Ente angstvoll.</p>
+               <p rend="justify">»Gleiche Rechte wie der Enterich.«</p>
+               <p rend="justify">»Was sind das für Rechte, du schreckliches Geschöpf?« schrie die Entenmutter, die noch nie solche Ansichten gehört hatte.</p>
+               <p rend="justify">»Ich will baden, wo ich will, ich will fressen, was ich will, ich will auf die Wiese gehen, wann ich will, und ich will meine Jungen aufziehen, wie ich will: da hat mir keiner etwas dreinzureden, denn es sind meine Jungen!« Das Gelbschnäbelchen mußte Atem schöpfen. Die Alte steckte einen Augenblick den Kopf unter den Flügel, sie mußte sich sammeln.</p>
+               <p rend="justify">  Da mischte sich eine bunte Rouen-Ente ins Gespräch.</p>
+               <p rend="justify">»Entchen,« sagte sie zu dem weißen Entlein, »sieh' dich vor! Es könnte schief gehen mit solchen Grundsätzen. Da, sieh' mein eigenes Junges. Dem habe ich meine Ansichten beigebracht und bin glücklich und gut durchs Leben gekommen. Kleines Buntes, wer wird dein Herr sein?«</p>
+               <p rend="justify">»Der Enterich,« sagte die kleine Rouen-Ente.</p>
+               <p rend="justify">»Was ist deine Pflicht?«</p>
+               <p rend="justify">»Gehorsam ist meine Pflicht!«</p>
+               <p rend="justify">»Was wird dein Glück sein?«</p>
+               <p rend="justify">»Meine Jungen aufzuziehen, wird mein Glück sein!«</p>
+               <p rend="justify">»Und dein Stolz!« mahnte die Alte.</p>
+               <p rend="justify">»Und mein Stolz,« fügte die Junge hastig hinzu.</p>
+               <p rend="justify">»Lächerlich!« schüttelte sich der Gelbschnabel.</p>
+               <p rend="justify">Da kam ein Enterich gewatschelt. Groß, schneeweiß, krausen Flaum im Nacken und die Schwanzfedern gelockt, wie es sich für einen Enterich aus guter Familie schickt. Er verbeugte sich vor dem weißen Entlein.</p>
+               <p rend="justify">»Es ist Zeit, daß ich mir eine Familie gründe,« sagte er. »Können Sie sich entschließen, meine Gefährtin zu werden?« Die Art seiner Rede gefiel dem Entlein.</p>
+               <p rend="justify">»Werde ich volle Freiheit haben, zu tun, was ich will?« fragte das kecke Ding.</p>
+               <p rend="justify">»Das werden Sie!« versprach der Enterich.</p>
+               <p rend="justify">»So will ich mit Ihnen ziehen,« entschied das Entlein, und sah mit seinen beerenschwarzen kugelrunden Augen zu seiner Mutter hinüber.</p>
+               <p rend="justify">»Frau Mutter, nun werden Sie etwas erleben,« rief es. Aber die alte Peking-Ente antwortete nicht. Sie schlürfte eben eine dicke Raupe in sich hinein.</p>
+               <p rend="justify">Der Enterich trat nun auch vor das junge Rouen-Entchen.</p>
+               <p rend="justify">»Wollen auch Sie mit mir kommen?« fragte er etwas von oben herab.</p>
+               <p rend="justify">»Es ist mir eine große Ehre,« sagte bescheiden das Bunte und verneigte sich, »und ich werde Ihnen eine gehorsame Gefährtin sein.«</p>
+               <p rend="justify">»Freut mich,« sagte der Enterich. Die beiden jungen Enten nahmen nun Abschied von ihren Müttern und zogen mit dem Enterich auf seinen Hof.</p>
+               <p rend="justify">Dort lebten sie vergnügt zusammen. Das weiße Entlein nach neuen Grundsätzen, und das Bunte nach alten. Da der Enterich ein guter Kerl war, kam es mit den Grundsätzen ganz aufs selbe heraus.</p>
+               <p rend="justify">Sie fraßen alle drei aus einer Schüssel: die Weiße, weil sie fressen wollte, und die Bunte, weil sie fressen durfte.</p>
+               <p rend="justify">Sie zogen beide hinter dem Enterich her auf die grüne Wiese, die Weiße, weil es ihr so paßte, und die Bunte, weil sie nichts Besseres zu tun wußte.</p>
+               <p rend="justify">Sie legten jeden Morgen ihr Ei, die Gelbschnäbelige, weil sie wußte, daß es ihr von der Natur so bestimmt war, und die andere, weil das Ei ja von selber kam.</p>
+               <p rend="justify">  Und beide bekamen Junge, niedliche gelbe Dinger. Und beide führten sie gut und gewissenhaft: Die Weiße, weil sie die herzigen Geschöpfe liebte, ob sie wollte oder nicht, und die Bunte, weil sie sie auch liebte und es noch dazu ihre Pflicht und ihr Stolz war.</p>
+               <p rend="justify">Die mit den neuen Grundsätzen führte und erzog ihre Jungen, wie sie es für gut fand, denn der Enterich redete ihr nie darein, er hatte anderes zu tun. Und die mit den alten Grundsätzen führte sie auch allein, denn auch um ihre Kleinen kümmerte sich der Enterich nicht.</p>
+               <p rend="justify">Und als die beiden Enten älter geworden und die Eier nur mehr spärlich kamen, da stieg die Köchin hinunter zum Ententeich, packte die Weiße und die Bunte, drehte ihnen den Kragen um und kochte sie an einer braunen Tunke.</p>
+               <p rend="justify">»Es waren gute Enten, alle beide!« sagte betrübt der Enterich und nahm sich schweren Herzens zwei andere.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Warum die Schafe heiraten</head>
+               <p rend="justify">
+                  <hi rend="bold">»F</hi>rau Mutter,« fragte das Lämmlein, »warum haben Sie eigentlich geheiratet?«</p>
+               <p rend="justify">»Das ist eine dumme Frage,« sagte des Lämmleins Cousine. »Warum heiratet man? Darum!«</p>
+               <p rend="justify">»Darum! Das möchte ich gerade wissen, was ›darum‹ bedeutet.«</p>
+               <p rend="justify">»Lämmlein, zum Heiraten gibt es mancherlei Gründe,« erklärte nun das alte Schaf, »zum Beispiel die Liebe.«</p>
+               <p rend="justify">»Aha!« sagte das Lämmlein. »Frau Mutter, da haben Sie aus Liebe geheiratet?«</p>
+               <p rend="justify">»Bewahre! Dazu war ich viel zu vernünftig.«</p>
+               <p rend="justify">»Hat die Schafs-Cousine aus Liebe geheiratet?«</p>
+               <p rend="justify">»Auch nicht,« sagte diese, »dazu war ich zu alt.«</p>
+               <p rend="justify">»Aber meine älteste Schwester?«</p>
+               <p rend="justify">»Ach nein, die war zu häßlich dazu.«</p>
+               <p rend="justify">»Der Bruder?«</p>
+               <p rend="justify">»Der war zu arm dazu.«</p>
+               <p rend="justify">»Ja, aber,« fragte das Lämmchen verwundert, »wer heiratet denn aus Liebe?«</p>
+               <p rend="justify">Das alte Schaf dachte lange darüber nach, kratzte sich energisch mit dem Hinterfuß die Seite, scharrte ein wenig mit dem Vorderfuß auf der Erde, aber es fiel ihr doch niemand ein, der aus Liebe geheiratet hatte. Es riß ein Kräutlein aus und sagte: »Ich weiß es wahrhaftig nicht!«</p>
+               <p rend="justify">  »Und warum kann man noch heiraten, Frau Mutter?«</p>
+               <p rend="justify">»Um einen warmen Stall zu haben, gutes Futter, und – nun, um eben ein würdiges, verheiratetes, gediegenes Schaf zu sein.«</p>
+               <p rend="justify">»Und warum noch, Frau Mutter?«</p>
+               <p rend="justify">»Lämmchen, du fragst zuviel!«</p>
+               <p rend="justify">»Frau Mutter, wenn ich nicht frage, so weiß ich es nicht.«</p>
+               <p rend="justify">»Warum man heiratet, brauchst du nicht zu wissen, du wirst es schon noch erfahren,« sagte die Schafs-Cousine.</p>
+               <p rend="justify">»Ich will aber aus Liebe heiraten,« erklärte bestimmt das Lämmchen, »das gefällt mir am besten.«</p>
+               <p rend="justify">»Mir auch,« brummte das alte Schaf, und die Schafs-Cousine sagte: »Heirate du nur, Lämmchen! Ganz gleich aus welchem Grunde. Die Liebe kommt nach.«</p>
+               <p rend="justify">»Ganz gleich zu wem,« spottete der Schafs-Cousine alter Bock.</p>
+               <p rend="justify">»Setzt meinem Schäflein keine Dummheiten in den Kopf,« schalt der Schafsbock, des Lämmchens Vater.</p>
+               <p rend="justify">»Herr Vater, so sagen Sie mir, warum Sie geheiratet haben? Aus Liebe? Oder um einen warmen Stall zu haben? Oder um verheiratet zu sein? Ich möchte es so gerne wissen.«</p>
+               <p rend="justify">»Lämmchen, Lämmchen,« seufzte der Bock, »mußt du denn alles erfahren?«</p>
+               <p rend="justify">»Heraus damit!« schrie der Schafs-Cousine Alter.</p>
+               <p rend="justify">  »Ein rechter Bock von altem Schrot und Korn hat nur einen einzigen Grund, warum er heiratet: Um dem Staate zu dienen und eine Familie zu gründen.«</p>
+               <p rend="justify">»Mäh! Bäh!« machte das Cousinen-Schaf.</p>
+               <p rend="justify">»Das war aber schön von Ihnen, Herr Vater!« sagte bewundernd das Lämmchen und stellte seine Fragen ein.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <lb/>Das Festessen</head>
+               <p rend="justify">
+                  <hi rend="bold">D</hi>er Laubfrosch wollte heiraten, und alle Verwandten und Nachbarn sollten an der Hochzeit teilnehmen. Er hatte eben die Liste der Eingeladenen beendet, und überlegte nun mit einem seiner Verwandten das Festessen.</p>
+               <p rend="justify">»Zuerst geben wir gebratene Mücken als Voressen,« sagte der Laubfrosch.</p>
+               <p rend="justify">»Lieber Freund, dann muß ich auf die Freude verzichten, deiner Hochzeit beizuwohnen,« rief ein Eichhorn, das oben im Baume wohnte und nie zugeben wollte, daß es junge Vögel und Vogeleier fraß, »Fleisch von Tieren esse ich nie!«</p>
+               <p rend="justify">»Nicht?« fragte verwundert die Eidechse, eine Freundin des Laubfrosches. »Warum nicht?«</p>
+               <p rend="justify">»Ich bitte Sie! Tiere töten! Sie sind doch unsersgleichen!«</p>
+               <p rend="justify">  »Ja, du liebe Zeit,« rief die Eidechse, »das tun wir doch fast alle.«</p>
+               <p rend="justify">»So! Da haben wir es wieder! Weil es alle tun, ist es recht! Meinetwegen, geben Sie gebratene Mücken, ich esse eben daheim meine Nüsse.«</p>
+               <p rend="justify">»Bewahre!« begütigte der Laubfrosch, »ich werde mit Freuden für Sie Nüsse besorgen. Also: erster Gang: gebratene Mücken und Nüsse. Zweiter Gang vielleicht Ameiseneier?«</p>
+               <p rend="justify">»Es tut mir leid,« rief der Regenwurm, »die esse ich grundsätzlich nie.« Der Regenwurm hatte so viele Grundsätze, daß er an nichts anderes denken konnte als daran, keinen zu vergessen. Sonst sah und hörte er nichts, und nur wenn einer von Grundsätzen sprach, hob er den Kopf.</p>
+               <p rend="justify">»Mit was darf ich Ihnen denn aufwarten?« fragte freundlich der Laubfrosch.</p>
+               <p rend="justify">»Mit feiner Erde, wenn ich bitten darf,« sagte der Regenwurm, »ein Drittel Walderde, ein Drittel Sand und ein Drittel Roßmist.«</p>
+               <p rend="justify">»Ich werde alles sehr gerne für Sie besorgen lassen,« sagte der Laubfrosch. »Zweiter Gang: Ameiseneier und Walderde. Weiter!«</p>
+               <p rend="justify">»Ich möchte geröstetes Mehl vorschlagen,« rief die Feldmaus.</p>
+               <p rend="justify">»Pfui!« schrie die Biene aus dem Garten von nebenan, »Mehl! Einen solchen Teig wollen Sie sich in den Magen schmieren? Davon erholen Sie sich in vierzehn Tagen nicht! Nein! Blütenstaub, das ist das Richtige! Das ist die Speise, wie die Natur sie bietet!« Sie schwirrte mit den Flügeln im Gedanken an die beliebte Speise.</p>
+               <p rend="justify">»Für Blütenstaub danke ich,« schrie die Eidechse. »Es ist lächerlich. Und damit wollen Sie genährt sein? Enthält Blütenstaub Eiweiß? Oder Fett? Also! Eine Fliege, womöglich einen zarten Mehlwurm, das lasse ich mir gefallen.«</p>
+               <p rend="justify">»Ich werde mir das Vergnügen machen, sowohl Blütenstaub als Mehlwürmer auftragen zu lassen,« versicherte höflich der Laubfrosch.</p>
+               <p rend="justify">»Wenn ich eingeladen werden sollte,« rief ein Maulwurf, der seinen Kopf eben aus dem frischgeworfenen Hügel herausstreckte, »so muß ich sehr um frische Regenwürmer bitten!« Der Regenwurm, der dicht neben dem Hügel lag, machte sich eilig davon.</p>
+               <p rend="justify">»Pfui!« schrien Eichhorn und Biene, »was für ein roher Patron!«</p>
+               <p rend="justify">»Halt du den Schnabel,« sagte die Eidechse höflich zum Eichhorn. Sie aß selber gerne lebende Tiere. »Du issest auch was dich gelüstet!«</p>
+               <p rend="justify">»Nein!« rief das Eichhorn. »Nicht was mich gelüstet, sondern was ich kriegen kann.«</p>
+               <p rend="justify">»Wo bleiben da die Grundsätze?« jammerte der Regenwurm hinter dem Stein hervor, der ihm als Schutzwehr diente. »Keine Macht der Erde brächte mich dazu zu essen was ich für unrichtig halte.«</p>
+               <p rend="justify">»Zum Glück lebe ich nicht nach Grundsätzen,« brummte die Schmeißfliege, »ich halte es mit der Abwechslung: Zucker, Fleisch, Aas –«</p>
+               <p rend="justify">»Aas!« schrien alle Tiere, »Aas! Sie ekelhaftes Vieh!«</p>
+               <p rend="justify">»Tut nur nicht so,« wehrte sich die Fliege, »ihr wißt nicht, was ihr verschmäht. Versucht es erst, ehe ihr verdammt.«</p>
+               <p rend="justify">»Pfui!« schrien wieder im Chor die Tiere.</p>
+               <p rend="justify">»Übrigens begehre ich gar nicht an eurem faden Essen teilzunehmen,« sagte ärgerlich die Schmeißfliege.</p>
+               <p rend="justify">»Bitte, bitte, Frau Fliege, ich werde gerne für ein Stücklein Aas sorgen,« beruhigte sie der Laubfrosch. »Und wie wäre es mit Wasserschnecken?« wandte er sich wieder an seinen Verwandten.</p>
+               <p rend="justify">»Herrlich!« rief der Frosch, der Onkel des Bräutigams, und:</p>
+               <p rend="justify">»Gräßlich!« schüttelte sich die Raupe. »Wenn ich um Kohl bitten dürfte? Ich esse nur Gemüse.«</p>
+               <p rend="justify">»Sehr gern!« Der Laubfrosch notierte: Wasserschnecken und Kohl.</p>
+               <p rend="justify">»Werde ich auch eingeladen?« fragte plötzlich eine Stimme. Eine Ringelnatter kroch unter dem Busch hervor und lag nun dicht vor dem grünen, entsetzten Bräutigam.</p>
+               <p rend="justify">»Gewiß, gewiß, selbstverständlich,« sagte er zitternd, »es wird mir eine große Ehre sein! Und was darf ich der verehrten Natter anbieten?«</p>
+               <p rend="justify">»Ich esse grundsätzlich immer, was da ist,« sagte die Schlange. Damit packte sie den Laubfrosch und verschluckte ihn langsam.</p>
+               <p rend="justify">Sämtliche Nachbarn und Freunde des Dahingegangenen stoben eiligst auseinander.</p>
+               <p rend="justify">»Nun ist es aus mit Hochzeit und Festessen,« jammerte die Schmeißfliege.</p>
+               <p rend="justify">»Leider!« seufzte der Regenwurm, »aber sie hat ihn doch aus Grundsatz aufgefressen.«</p>
+               <p rend="justify">»Sie hätte dich verschlucken sollen mit samt deinen Grundsätzen,« brummte die Schmeißfliege, und tat sich an einer toten Schwalbe gütlich, die am Wege lag.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Einsicht</head>
+               <p rend="justify">Eine schneeweiße Pfauentaube saß mit dem Tauber auf dem Dach. Sie glänzten in der Sonne und schnäbelten sich zärtlich.</p>
+               <p rend="justify">»Das ist stark,« sagte das Truthuhn, das seinen Kopf ganz schief halten mußte und dazu blinzeln um hinaufzusehen. Es wollte weiter reden; aber da ging der Truthahn vorbei, kollerte und blähte sich, und das Truthuhn warf sich platt auf die Erde, verliebt und demütig. Es sah mit seinen blöden Augen zu dem stattlichen Tier empor, das mit Rasseln und Trommeln dafür dankte und sich aufblies wie ein Luftballon.</p>
+               <p rend="justify">»Daß man einen Tauber anbeten kann!« kreischte das Truthuhn.</p>
+               <p rend="justify">»Einen kleinen, unbedeutenden, farblosen Vogel, der keinem Geschöpf Respekt einzuflößen imstande ist.« Es lag nun flach da, wie ein breiter, bräunlicher Eierkuchen. Dem Truthahn schwoll der rote Zierat an Kopf und Hals. Er wurde purpurrot.</p>
+               <p rend="justify">»Daß er die Zärtlichkeit der Taube überhaupt für voll nimmt,« kollerte er. »Daß er so wenig Einsicht hat und glaubt, was die Kleine da oben girrt.« Er schüttelte sich. Das Truthuhn vor ihm wurde noch flacher.</p>
+               <p rend="justify">»Er ist ein Tauber,« sagte es verächtlich. »Kein Herrscher, kein König unter seinesgleichen, kein ...« Es konnte nicht weiter, und schnappte nach Luft. Sein bläuliches Köpflein bewegte sich vorwärts und rückwärts. Es schloß die Augen und wartete, ob der Truthahn seine Ergebenheit belohnen werde. Aber er rauschte weiter. Wie dunkles Gold glänzte sein Gefieder. Er wußte, daß er der Stolz des Hühnerhofes war.</p>
+               <p rend="justify">Der große, weiße Hahn hatte dem Zwiegespräch zugehört. Er schwieg. Stolz drehte er den gebogenen Hals, und gravitätisch ging er seinen Hühnern voran durch den großen Hof. Eine der Hennen sagte, daß sie sich wundere, daß der Truthahn sich mit der dummen Dinde abgeben möge, die Verehrung und Zärtlichkeit heuchle. »Und er glaubt das alles,« sagte ein braungesprenkeltes Huhn, und trippelte zum Hahn. Der hob sich, schüttelte sich und krähte. Alle Hühner sahen sich an.</p>
+               <p rend="justify">»So wie du, kräht keiner,« sagte eines.</p>
+               <p rend="justify">»Wer hat dein stolzes Auge?« fragte ein anderes, und gab der Nachbarin einen Hieb, denn sie hatte ihm eine Mücke vor dem Schnabel weggeschnappt.</p>
+               <p rend="justify">»Wessen Schwanzfedern wölben sich wie die deinen?«</p>
+               <p rend="justify">»Wer ist so weiß wie du?«</p>
+               <p rend="justify">»Wer könnte uns beschützen, wie du es tust?« Der Hahn schwieg. Er war klug. Aber er stolzierte durch den Hof, schlug mit den Flügeln und krähte, daß alle Hähne der Nachbarschaft antworteten.</p>
+               <p rend="justify">Der Enterich, der am Zaun in der Sonne lag, hatte mit seinen beerenschwarzen Augen dem allem zugesehen. Er war aber zu faul, um zu sagen, was er dachte. Er wippte nur mit dem Schwänzlein und schnatterte ganz leise. Seine beiden Enten konnten sich nicht genug wundern, daß der Hahn solche grobe Schmeicheleien glaube. Sie sahen hinüber zum Hahn und schnatterten empört und verächtlich. Dann begannen sie gleichzeitig den Enterich zärtlich zu lausen. Er ließ es sich gefallen.</p>
+               <p rend="justify">Warum auch nicht?</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Eintagsfliegen</head>
+               <p rend="justify">
+                  <hi rend="bold">E</hi>in paar leichtbeschwingte Fliegen summten um den schön gezopften Misthaufen im Hühnerhof herum.</p>
+               <p rend="justify">Eine von ihnen, eine behäbige, wie blaues Metall glänzende Roßfliege setzte sich auf den hölzernen Zaun, der den Hof umschloß, denn es war unter ihrer Würde, sich tiefer unten niederzulassen. Sie hatte der Welt Großes geschenkt. Eine Entdeckung von Ewigkeitswert war ihr gelungen: Sie hatte die Grenze der Erde erreicht. Triumphierend sah sie sich um.</p>
+               <p rend="justify">»Die ganze Welt ist nun unser,« sagte sie, und ein Schauer der Ehrfurcht machte die zarten Flügel der andern erzittern.</p>
+               <p rend="justify">»Unser, im wahren Sinn des Wortes,« sagte bewundernd eine kleine, muntere Fliege. »Nach allen Richtungen haben wir sie erforscht. Sie birgt kein Geheimnis mehr für uns.« Die tausend Augen der Zuhörer richteten sich wieder auf die Roßfliege, die aber unwillig surrte, denn sie liebte es nicht, wenn andere in der Mehrzahl von ihrer Entdeckung redeten.</p>
+               <p rend="justify">Die muntere Fliege kratzte sich etwas verlegen mit dem dünnen Beinchen den Kopf.</p>
+               <p rend="justify">»Ich sage wir, weil ich dadurch andeuten möchte, daß das Universum teilnimmt an dem Großen, das in diesen Tagen geschah. Und auch, weil wir andern es uns nicht nehmen lassen wollen, uns als einen Teil des Ganzen zu fühlen, als einen Stein am Bauwerk der Wissenschaft, als eine Staffel an der Leiter des Ruhms, deren höchste Stufe unsere glorreiche Roßfliege – es verneigten sich alle zum Zeichen des Respekts und schwirrten mit den Flügeln – erreicht hat.«</p>
+               <p rend="justify">Die Gefeierte sah bescheiden mit den tausend Facetten ihrer Augen zum Himmel auf, mit der anderen Hälfte spiegelte sie im Kreis herum, ob man ihr auch allseitig die gebührende Hochachtung erweise.</p>
+               <p rend="justify">Plötzlich flogen alle Anwesenden erschrocken auf, denn es nahte sich ein großer, unbekannter Fliegenschwarm. Sie setzten sich aber sogleich wieder, da die Herannahenden kamen, um dem blauglänzenden Forscher Ehre zu erweisen.</p>
+               <p rend="justify">Ein gegenseitiges, höfliches Flügelrauschen, Summen und Surren erhob sich. Ein bewunderndes Auf- und Abwogen, ein Gratulieren, bescheidenes Abwehren, interessiertes Fragen, bestimmtes, sicheres Antworten. Eine grünschillernde Fliege sprach für die andern. Sie wandte sich an die Roßfliege.</p>
+               <p rend="justify">»Du hast es erreicht,« begann sie. »Ohnegleichen ist dein Ruhm. Himmel und Erde sind dir kein Geheimnis mehr. Die Grenze der Welt hast du erforscht. Unter die Unsterblichen bist du aufgenommen worden.« Sie funkelte mit ihren geschliffenen Augen die Roßfliege an, die zusehends dicker, größer, blauer und haariger wurde. Alles an ihr wuchs und gleißte.</p>
+               <p rend="justify">  Sie surrte auf das korrekteste ihren Dank, nahm den Orden der erlösten Paradiesfliegen entgegen, und geleitete darauf die Deputation über den Misthaufen, durch den Hof, weit in den Garten hinaus. –</p>
+               <p rend="justify">»Die Blaue platzt noch vor Hochmut,« sagte eine Biene, die an ihr vorüberflog. Sie kroch in eine rosafarbene Primel, blieb dort eine Weile, und kam heraus, die Füßchen voll Blütenstaub. »Was hat man davon, wenn man weiß, daß am Ende der Welt ein Berg ist, den keiner überfliegen kann?« fragte sie.</p>
+               <p rend="justify">»Nichts,« sagte verächtlich ein Schmetterling, der auf der Primel saß. »Aber was hast du von deiner Arbeit?«</p>
+               <p rend="justify">Verblüfft sah die Biene ihn an.</p>
+               <p rend="justify">»Genug, meine ich. Die Welt bewundert uns und braucht uns. Ohne uns schritte der dürrbeinige Hunger durch das Land. Ohne uns stürbe, was Odem hat. Was ich davon habe? Dumme Frage: Wir sind die Ernährer der Welt.« Zornig schnellte sie ihren Stachel gegen den samtnen Schmetterling.</p>
+               <p rend="justify">Er wiegte sich jetzt auf einer frühen Narzisse, die weiß wie er, ihr goldenes Krönchen auf der Stirne, ihren zarten Duft verbreitete.</p>
+               <p rend="justify">»Arbeitstiere ihr,« sagte er verächtlich. »Ihr braucht auf euren Stand auch noch stolz zu sein. Grobes Volk, aller Schönheit bar. Wir Schmetterlinge sind der Zweck der Schöpfung. Wir sind das Schöne. Wir tragen den blauen Himmel, die bunten Blumen, die durchsichtigen Steine und den Schimmer des Goldes auf unsern Flügeln. Wir baden uns im flirrenden Sonnenstrahl und nähren uns von glitzerndem Tau. Wir leben um zu genießen. Ohne uns wäre die Welt öde, glanzlos, traurig.«</p>
+               <p rend="justify">Er berührte den silberschimmernden Atlas der Narzisse mit den zarten Flügeln. Die Biene flog mürrisch summend davon, dem Garten zu, wo ihr Korb stand. Sie flog mit ihren beschwerten Füßen langsam an der blauen Roßfliege vorüber, die eben heimkehrte in der Mitte ihrer Anbeter.</p>
+               <p rend="justify">»Faulenzer,« brummte die Biene.</p>
+               <p rend="justify">In der Nacht kam ein Frost. Am Morgen lagen sie alle starr und steif am Boden, die Fliegen, die Biene und der Schmetterling. Auf dem Rücken lagen sie und streckten die Beine gen Himmel. – Über ihnen lächelten die Sterne.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Der Gesangverein</head>
+               <p rend="justify">
+                  <hi rend="bold">M</hi>itten in einem Steinbruch lag ein Tümpel, der von großen Blättern beschattet war, und wo der Gesangverein »Froschenia« seine Übungen abhielt. Jeden Donnerstag Abend.</p>
+               <p rend="justify">Es war ein feiner Gesangverein, und nur feine Leute sangen mit. Waren andere Elemente eingetreten, so wurden sie rechtzeitig hinausgeekelt. Sämtliche Mitglieder hatten Grün als ihre Farbe erwählt, und so erschienen bei den Übungen die Damen in grünen Roben, die Herren in ebensolchen Fracks, mit weißen oder gelben Piquéwesten*.</p>
+               <p rend="justify">* Die Verpflichtung, nur grün gekleidet den Übungen beizuwohnen, hielt auch Unbemittelte fern. Sie waren nicht erwünscht.</p>
+               <p rend="justify">Es war kurz vor acht Uhr. Man fand sich immer ein paar Minuten vor der Zeit ein, teils um des notwendigen, sehr beliebten Flirts willen, teils um die ebenso berechtigte Medisance zu Wort kommen zu lassen.</p>
+               <p rend="justify">Nur die ganz jungen Fräuleins kamen naiv um des Singens willen, sie schwärmten aber für den Kapellmeister. Daß er verheiratet war, tat nichts zur Sache, da die Backfische gänzlich wunschlos schwärmten.</p>
+               <p rend="justify">Der Meister kam und bestieg sein Pult.</p>
+               <p rend="justify">»O Gott!« sagten die ganz jungen Fräuleins und sahen sich errötend an.</p>
+               <p rend="justify">  Die älteren Damen warfen sich bedeutungsvolle Blicke zu; denn der Musiker hatte mit einer unter ihnen einen kurzen Gruß getauscht. Man wußte, daß sie einander sehr genau kannten.</p>
+               <p rend="justify">»Ekelhafter Patron,« näselte ein Student, »glaubt sich hier Hahn im Korb.« Die Studenten waren wütend, weil sie von den Backfischen nicht beachtet wurden; die hatten nur Augen für den verehrten Meister.</p>
+               <p rend="justify">Der Kapellmeister gab das Zeichen zum Beginn. Man übte aus Carmen.</p>
+               <p rend="justify">»Ich bitte die Bässe gefälligst beginnen zu wollen!« rief der Dirigent. Alle erhoben sich, und: Mut in der Brust, siegesbewußt! erscholl es unter den großen Blättern.</p>
+               <p rend="justify">»Halt! Etwas mehr Feuer, muß ich bitten!« rief der Kapellmeister. Also noch einmal: Mut in der Brust, siegesbewußt! Diesmal wurde der Chor zu Ende gesungen.</p>
+               <p rend="justify">»Meine Herren,« schrie der Musiker, »ich habe Sie singen lassen, um einmal den vollen Eindruck eines derartigen Singsangs zu bekommen! Meine Herren! Ist das gesungen? Das ist geleiert. Haben Sie denn keine Ahnung, was das ist: Mut in der Brust? Hat denn noch keiner von Ihnen Siegesbewußtsein empfunden! Mut ist – –«</p>
+               <p rend="justify">Da patschte es im Wasser, ein roter Schnabel wurde sichtbar, und ein paar lange Beine traten mitten zwischen die grünen Herren und Damen.</p>
+               <p rend="justify">Eine Sekunde lang war alles starr; dann sprangen, huschten, schwammen und quiekten sie durcheinander und waren im Nu verschwunden. Der Storch hatte das Nachsehen und schrie höhnisch: »Jawohl! Mut in der Brust! Ihr seid mir die Rechten!« Dann suchte er sich anderswo sein Nachtessen.</p>
+               <p rend="justify">Es dauerte eine lange Weile, ehe sich einer der Herren Frösche hervorwagte, dann ein zweiter und dritter. Endlich war die ganze Gesellschaft wieder beisammen. Sie waren noch ganz aufgeregt von dem Abenteuer. Der Dirigent begab sich an sein Pult, bedeutend milder gestimmt, klopfte dreimal mit seinem Stab und rief: »Meine Herren und Damen! Ich bitte um das Lied: Ein Veilchen auf der Wiese stand!« Das Lied wurde mit Empfindung gesungen, und mußte nur ein einziges Mal wiederholt werden.</p>
+               <p rend="justify">Da aber der Meister beim Schluß des Liedes die Augen jedesmal nach der vorerwähnten Dame verdrehte, begann ein Backfisch zu kichern, andere fielen ein, es lachten die älteren Fräuleins, es lachten die Damen, die Herren, zuletzt alle.</p>
+               <p rend="justify">Wütend klopfte der Kapellmeister.</p>
+               <p rend="justify">»Ich bitte die ungezogenen Backfische den Saal zu verlassen!« schrie er.</p>
+               <p rend="justify">»Was! Ungezogenen Backfische!« brüllten die Studenten, »das lassen wir uns nicht gefallen!« Sie stürmten das Dirigentenpult, packten den armen Musiker an den Beinen, und in hohem Bogen flog er ins Wasser.</p>
+               <p rend="justify">  Die Übung war aus. Arm in Arm verließen die Studenten mit den Backfischen das Lokal. Diese schwärmten nun für ihre Verteidiger, die ihren Vorteil wahrnahmen. Hinter jedem Blatt saß ein Pärchen.</p>
+               <p rend="justify">Die Damen waren vorsichtiger; sie trafen sich mit den betreffenden Herren erst weit draußen und benutzten die Schatten der Binsen.</p>
+               <p rend="justify">Die älteren Herren aber zogen in den »Goldenen Frosch«, um den heutigen Abend durchzusprechen. Die Stimmung war sehr animiert, es wurde viel getrunken. Nach Mitternacht schwankte eine Reihe grünbefrackter Gestalten nach Hause und sang: Mut in der Brust, siegesbewußt! mit so viel Verve und Feuer, daß auch der Kapellmeister zufrieden gewesen wäre!</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <lb/>Das kluge Huhn</head>
+               <p rend="justify">
+                  <hi rend="bold">I</hi>m Hühnerhof war große Gesellschaft. Von überall her waren die Hühner und Enten eingeladen. Zu einem Gericht frischer Maikäfer hieß es, in Wahrheit aber um die neue Nachbarin in Augenschein zu nehmen. Es ging das Gerücht in der Gegend, daß sie eine Andalusierin sei. Und das mußte wahr sein, denn tief schwarz war das Gefieder, und blau die Bäcklein, wirklich blau. Andere Spanier, Minorka zum Beispiel, hatte man ja auch schon gesehen, aber Andalusier noch nie.</p>
+               <p rend="justify">Die Fremde benahm sich wirklich nett. Sie begrüßte jede der Hennen einzeln, und nur ganz kurz den Hahn.</p>
+               <p rend="justify">Sie beantwortete sämtliche Fragen mit »Ja« oder »Nein«. Selber fragte sie nichts.</p>
+               <p rend="justify">  Nur bei den Hennen, die Junge hatten, forschte sie eifrig, ob alle die Kleinen gesund seien, und fügte hinzu, daß sie selten so hübsche Jungen gesehen habe.</p>
+               <p rend="justify">Diese weise Frage hatte sie von ihrer Großmutter.</p>
+               <p rend="justify">»Kücken,« hatte die gesagt; »du gehst nun in die weite Welt. Klug bist du nicht. Also gibt es für dich nur zweierlei zu beobachten: Begegnet dir ein Hahn, so sei schweigsam, und begegnet dir ein Huhn, so lobe seine Jungen. Beide werden deine Klugheit preisen.«</p>
+               <p rend="justify">Die einzige Klugheit des spanischen Kückens war aber die, daß es seiner Großmutter gehorchte. Und auch diese Klugheit verdankte es nur seiner Dummheit. Es fiel ihm leichter zu gehorchen, als selbst zu denken.</p>
+               <p rend="justify">Der Rat des alten spanischen Huhnes bewährte sich.</p>
+               <p rend="justify">»Es ist wirklich eine gescheite Henne,« sagten die mütterlichen Hühner.</p>
+               <p rend="justify">»Das ist sie,« bestätigte der Hahn und fügte anzüglich hinzu: »Wenigstens gackelt sie nicht den ganzen Tag wie gewisse andre. Sie muß klug sein.«</p>
+               <p rend="justify">Nun war die Parole ausgegeben. Die kluge Spanierin wurde sie überall genannt.</p>
+               <p rend="justify">»Sie kann reizend zuhören,« sagten die guten, schwatzhaften Hühner und merkten nie, daß die Fremde bei ihren Erzählungen die Augen geschlossen hatte und träumte.</p>
+               <p rend="justify">»Und so bescheiden ist sie,« sagte die alte Ente. Sie konnte es nicht leiden, wenn ihr jemand widersprach, ganz besonders wenn es junge Leute waren. Die Jungen hatten »Ja« zu antworten, und damit basta.</p>
+               <p rend="justify">Und »Ja« antwortete die Spanierin immer, warum hätte sie »Nein« sagen sollen? Es war ihr ja ganz gleichgültig, was die Alte da behauptete.</p>
+               <p rend="justify">Der Hahn aber liebte seine schwarze Andalusierin sehr. Sie bewunderte ihn schweigend. Mit kindlichen, runden Augen sah sie zu ihm auf. Sie schwieg, wenn die anderen gackelten. Sie lief immer dicht hinter dem Hahn und ging nie eigene Wege. Auch hatte sie nie eine eigene Meinung.</p>
+               <p rend="justify">Später hatte die Spanierin Junge. Reizende, schwarze, kleine Geschöpfe. Sie hütete und fütterte sie und lief nie von ihrer Seite. Das tut ein Huhn aus Instinkt, dazu braucht es keinen Verstand.</p>
+               <p rend="justify">Als sie aufwuchsen, gab es freilich Hindernisse.</p>
+               <p rend="justify">»Was muß ich tun, um in der Welt fortzukommen?« fragte einer der jungen Gockel.</p>
+               <p rend="justify">»Du mußt »ja« und »nein« sagen und die Kücken der Hennen loben,« sagte das Huhn. »Das hat mich meine Großmutter gelehrt, und ich bin gut damit ausgekommen.«</p>
+               <p rend="justify">Das Huhn sah nicht, daß hinter dem Zaun eine schöne, bunte Katze saß, mit feurigen, gelben Augen, die das Gockelchen unverwandt anstarrte. Es lief auf sie zu. Die Katze packte es und trug es im Maul davon.</p>
+               <p rend="justify">  »Was muß ich tun, um in der Welt fortzukommen?« fragte auch eines der jungen Hühnchen.</p>
+               <p rend="justify">»Du mußt dem Gockel gefallen, das hat schon meine Großmutter mich gelehrt,« sagte das spanische Huhn und warnte das Hühnchen nicht vor dem Habicht, der mit gierigen Augen über dem Hühnerhof kreiste. Er schoß herab und packte das Hühnchen mit seinen scharfen Krallen.</p>
+               <p rend="justify">Auch die andern Kücken kamen gelaufen.</p>
+               <p rend="justify">»Was ist das Schönste in der Welt?« fragten sie.</p>
+               <p rend="justify">»Das Schlafen,« sagte die Andalusierin und schloß ihre Augen. Die Kücken schlossen auch ihre Augen.</p>
+               <p rend="justify">Sie sagten des ganze Leben »ja« und »nein«. Sie fraßen und schliefen.</p>
+               <p rend="justify">Als das spanische Huhn starb, hielt der Hahn die Grabrede. Er nannte die Andalusierin die Klügste des Hühnerhofes.</p>
+               <p rend="justify">»Des Hühnerhofes,« nickte klappernd der Storch und flog davon.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Der alte Schafbock</head>
+               <p rend="justify">
+                  <hi rend="bold">I</hi>n der Schafherde lebte ein alter Bock. Er war nicht liebenswürdig gewesen, als er jung war, und er glaubte nun das Recht zu haben, noch viel weniger liebenswürdig zu sein, da er alt geworden. Um seines Alters willen mußte die ganze Herde sich ihm beugen. Einzig gegen die jungen Schäfchen war er freundlich, und die hätten es lieber gehabt, wenn er weniger artig gewesen wäre. Dies fanden auch die jungen Böcke. »Das Recht des Alters« nannte es der Schafbock, wenn er an den Lämmern herumschnüffelte.</p>
+               <p rend="justify">Er hatte aber noch andre Eigenschaften.</p>
+               <p rend="justify">Meistens erzählte er lange, langweilige Geschichten, und vergaß im Laufe der Erzählung das Ende. Er fing dann von vorne an und erzählte die Geschichte noch einmal. Aber dann passierte es ihm leicht, daß er die Pointe einer andern Erzählung dieser anfügte. Das merkten aber nur die andern, er selbst nie.</p>
+               <p rend="justify">Man sah es ihm immer an, wenn er erzählen wollte, er hatte dann einen matten, in sich gekehrten Blick. Wer ihn bemerkte, nahm Reißaus. Nur die ganz Jungen nicht, die sahen nie, was ihnen drohte; noch nicht einmal merkten sie es, wenn der Alte sie zu sich rief.</p>
+               <p rend="justify">»Laßt euch einmal erzählen, wie zu meiner Zeit die Alten behandelt wurden,« sagte er dann, und die Helden seiner Geschichten wurden jedesmal tugendhafter, und die Böcklein, die zuhörten, kamen sich jedesmal gemeiner vor, wenn sie sich mit den Altersgenossen des alten Schafbockes verglichen. Aber wieder nur die ganz Jungen.</p>
+               <p rend="justify">Die andern kannten die Form, nach der die schönen, moralischen Lügen geprägt wurden.</p>
+               <p rend="justify">Der alte Bock hatte aber nicht nur Belehrendes zu erzählen. Stand er unter den Schafen, so ging es nach einer andern Melodie, und hatte er sich gar an die Jungen herangeschlichen, so hörte er überhaupt mit Erzählen auf, und die Lämmlein mußten sich von ihm lecken lassen, so sehr ihnen vor seinen kahlen Stellen im Pelz und seinen roten Augen ekelte.</p>
+               <p rend="justify">»Denkt, ich sei euer Großvater, meine Lämmchen,« sagte er. Aber das dachten sie nicht und sprangen bei der ersten Gelegenheit davon.</p>
+               <p rend="justify">Der alte Schafbock hörte nicht mehr gut, deshalb mußte jedes Wort, das in seiner Gegenwart gesprochen wurde, wiederholt werden, auch das gleichgültigste.</p>
+               <p rend="justify">»Das ist das Recht des Alters,« behauptete er auch da. Zudem nahm er alles übel, und die Jungen mußten um Verzeihung bitten, wenn sie es schon nicht böse gemeint hatten.</p>
+               <p rend="justify">»Das ist die Pflicht der Jugend,« sagte er. Er hatte auch ein schlechtes Gedächtnis und wiederholte fortwährend dasselbe. Wenn den andern die Geduld ausging, und sie über ihn weg zusammen redeten, wurde er wütend.</p>
+               <p rend="justify">»Nie wäre so etwas zu meiner Zeit möglich gewesen,« schrie er. »Die heutige Jugend ist entartet, der Respekt vor dem Alter ist tot!«</p>
+               <p rend="justify">»Warum soll man eigentlich gerade vor dem Alter Respekt haben?« fragte ein kräftiges Böcklein.</p>
+               <p rend="justify">»Warum? Warum?« Der Alte schnappte nach Luft. Er erstickte fast vor Zorn. Er schnaufte und nieste und schäumte und bespritzte die Umstehenden. Aber als er fertig war, fand er doch keine Antwort.</p>
+               <p rend="justify">»Darum!« mähte er endlich heiser. »Ich verlange Respekt von euch, das ist mein Recht! Ihr habt zu schweigen, wenn ich rede, ihr habt zuzuhören, wenn ich erzähle, ihr habt stillzuhalten, wenn ich euch liebkose. Ihr habt mir nicht zu widersprechen, wenn ich etwas behaupte, und ihr habt mich zu ehren und zu lieben und zu achten.« Erschöpft schwieg er.</p>
+               <p rend="justify">»Warum?« fragten sie wieder. »Wir wollen wissen warum!«</p>
+               <p rend="justify">»Weil ich alt bin!« Der alte Schafbock ging seinem Stalle zu, um zu schlafen.</p>
+               <p rend="justify">»Wenn er freundlich wäre,« sagten die Schafe, »wir wollten ihm gerne helfen und ihm dienen!«</p>
+               <p rend="justify">»Wenn er würdevoll wäre,« sagten die jungen Böcklein, »wir wollten ihm gerne gehorchen.«</p>
+               <p rend="justify">»Wenn er weise wäre,« sagten die alten Schafe, »wir hörten gerne seine Lehren. Aber er ist nur alt. Hat er darum ein Recht auf unser aller Wohlbehagen?«</p>
+               <p rend="justify">»Nein,« schrien alle, »er hat keines! Wir wollen ausziehen und uns belehren über die Rechte des Alters.« Die ganze Schafherde ging über Land.</p>
+               <p rend="justify">Sie fanden ein altes Pferd auf der Weide. Still und ruhig graste es. Sprangen unerfahrene, junge Pferde zu nahe an den Fluß, so hielt es sie auf. Den Füllen wehrte es die Fliegen. Wollten die Pferde in wildem Jagen ihre Glieder üben, so stand es beiseite, und freute sich der tollen Sprünge und gedachte dabei der eigenen Jugend. Und die jungen Pferde suchten die saftigsten Kräuter und führten das alte Pferd dorthin. Sie rieben sich schmeichelnd an ihm und scherzten mit ihm. Sie liebten es, denn es freute sich ihrer Jugend.</p>
+               <p rend="justify">»Hat das alte Pferd von seinen Rechten gesprochen?« fragte der Leiter der Schafherde.</p>
+               <p rend="justify">»Kein Wort!« riefen alle. Darauf fanden sie einen rissigen, uralten Baum. Hohl war sein Stamm, und dürre Äste ragten traurig zum Himmel auf. Aber fröhlicher Efeu war am Stamme in die Höhe geklettert und schmiegte sich schmeichelnd an die Eiche.</p>
+               <p rend="justify">»Kann der Baum den Efeu zwingen, ihn zu schmücken, darum weil er alt ist?« fragte der Leitbock die Herde.</p>
+               <p rend="justify">»Niemals,« antworteten die Tiere.</p>
+               <p rend="justify">Am Bache lag ein alter, grauer Stein. Er lag mitten im Flußbett und störte den Lauf des Bächleins. Aber er hatte sich mit grünem Moos bedeckt, er hatte seine scharfen Kanten und Ecken vom lustigen Wässerlein abschleifen lassen und hörte freundlich auf sein Murmeln und Plätschern, und freute sich des munteren Gefährten, der sein Alter erheiterte.</p>
+               <p rend="justify">»Warum kräuselt sich der Bach so gerne um den alten Stein?« fragte der Bock die Herde.</p>
+               <p rend="justify">»Weil der Alte ihn nicht hemmt!« rief die Herde.</p>
+               <p rend="justify">»So brauchen wir nicht weiter zu ziehen,« sagte der Bock. »Wir wissen nun, was wir wissen wollten.« Und sie zogen heimwärts bis zu ihrer Weide, wo der alte Bock mürrisch an der Sonne lag und schalt, daß man ihn so lange allein gelassen.</p>
+               <p rend="justify">»Ich habe ein Recht, zu verlangen, daß man bei mir bleibe,« rief er und stieß die Nahestehenden mit den Hörnern.</p>
+               <p rend="justify">»Fort mit dir,« schrie nun die ganze Herde. »Du hast kein Recht auf uns, nur weil du alt bist! Gehe zu Pferd, Baum und Stein und lerne von ihnen, wie man sich Liebe erwirbt.« Und sie ließen den Bock stehen und rannten leichtfüßig hinauf in die Berge, in die Sonne, zu duftendem Tymian und Vergißmeinnicht.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Vom bescheidenen Hähnchen</head>
+               <p rend="justify">
+                  <hi rend="bold">»F</hi>rau Mutter, wir möchten uns ein wenig in der Welt umsehen,« sagte das jüngste Hähnchen zu der Henne.</p>
+               <p rend="justify">»Ja, das möchten wir,« sagte auch das älteste.</p>
+               <p rend="justify">»Was heutzutage die Kinder nicht alles wollen!« Die Henne schüttelte den Kopf. »So geht! Ihr werdet bald genug wieder da sein. Und was ich sagen wollte: Seid ja recht bescheiden und drängt euch nirgends vor. Das können die Erwachsenen nicht leiden.«</p>
+               <p rend="justify">Die Hähnchen machten sich eilends davon und krähten heiser und vergnügt in die Welt hinaus. Die Henne sah ihnen nach.</p>
+               <p rend="justify">»Um den Ältesten ist mir nicht bange,« sagte sie zum Hahn, »aber der Jüngste.«</p>
+               <p rend="justify">»Jugend hat keine Tugend,« bedeutete sie der Hahn.</p>
+               <p rend="justify">Die Hähnchen zogen über das Feld, und das jüngste wurde hungrig.</p>
+               <p rend="justify">»Hast du etwas zu essen?« fragte es seinen Bruder.</p>
+               <p rend="justify">»Nein,« sagte der Älteste; »aber da kriecht eine fette Raupe.«</p>
+               <p rend="justify">»Danke!« sagte das Jüngste, und fraß sie auf. Verblüfft sah der andere zu.</p>
+               <p rend="justify">»Eigentlich hätte sie mir gehört. Ich habe sie zuerst gesehen.«</p>
+               <p rend="justify">»Aber ich habe sie zuerst gefressen,« sagte ruhig das Hähnchen.</p>
+               <p rend="justify">  Sie liefen weiter und liefen manchen Tag, und die Welt hatte immer noch kein Ende. Es wurde ihnen fast unheimlich zumute.</p>
+               <p rend="justify">»Ich wollte, ich wäre wieder daheim bei der Frau Mutter!« sagte das Älteste.</p>
+               <p rend="justify">»Das glaube ich!« lachte der Fuchs, der plötzlich vor ihnen stand. »Welches von euch beiden möchte nun zuerst gefressen werden?«</p>
+               <p rend="justify">»Bitte, Herr Fuchs, ich warte gerne,« sagte das jüngste Hähnchen bescheiden.</p>
+               <p rend="justify">Da packte der Fuchs den Ältesten und zerriß ihn. Das Jüngste aber lief über das Feld heimwärts, so schnell es konnte. Es rannte und flog und krähte, bis es endlich bei seiner Mutter war.</p>
+               <p rend="justify">»Frau Mutter,« schrie es schon von weitem, »oh, wie recht haben Sie gehabt. Bescheidenheit ist eine schöne Sache.«</p>
+               <p rend="justify">»So,« sagte die Henne und sah ihren Jüngsten mißtrauisch an, »und wo hast du denn deinen Bruder?«</p>
+               <p rend="justify">»Den hat der Fuchs gefressen, Frau Mutter. Und hätte ich nicht auf Sie gehört und mich unbescheiden vorgedrängt, so hätte die Sache schief ablaufen können.«</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Das neue Buch</head>
+               <p rend="justify">
+                  <hi rend="bold">E</hi>s war einmal ein alter Uhu, der nicht mehr auf die Jagd gehen konnte, und sich von seinen Söhnen füttern lassen mußte. Da dachte er, daß er ein Buch schreiben wolle, und zwar ein Buch, in dem man sehen konnte, wie es in der Welt zugehe. Er wollte es drucken lassen für die Schulkinder.</p>
+               <p rend="justify">Er ließ seine drei Freunde kommen: Den Maulwurf, den Hahn und die Schwalbe; die sollten ihm berichten, was sie von der Welt wüßten.</p>
+               <p rend="justify">Es waren Leute, die viel erfahren hatten, zudem wichen sie nie von der Wahrheit ab, und dem Uhu lag besonders viel daran, daß in dem Buch nur die reine Wahrheit gesagt würde.</p>
+               <p rend="justify">Sie begaben sich zusammen an den Rand des nächsten Waldes, um ungestört verhandeln zu können. Der Uhu saß im Stamm einer alten, hohlen Eiche, der Hahn ging gravitätisch davor auf und ab und der Maulwurf grub sich ein Loch, aus dem er nur den Kopf herausstreckte. Die Schwalbe aber flog auf den untersten Zweig des Baumes, unter dem sie beraten wollten.</p>
+               <p rend="justify">Der Uhu nahm sein Notizbuch, spitzte seinen Bleistift, und bat den Maulwurf anzufangen. Der setzte sich in Positur und begann:</p>
+               <p rend="justify">»Die Welt ist dunkel.«</p>
+               <p rend="justify">  »Dunkel?« fragte die Schwalbe verwundert.</p>
+               <p rend="justify">»Ja, dunkel,« antwortete der Maulwurf bestimmt. »Dunkel und eng. Lange, schmale Gänge durchziehen sie, in denen man bequem gehen kann. Man macht die Gänge selbst, und hat viel Arbeit damit. Nahrung gibt es in Menge. Die Tiere besitzen alle einen schwarzen samtnen Pelz.«</p>
+               <p rend="justify">»Einen schwarzen Pelz!« rief der Hahn. »Was für ein Unsinn!«</p>
+               <p rend="justify">»Jawohl, einen schwarzen Pelz! Es gibt auch Maulwürfe, die einen weißen Pelz haben. Aber zum Glück sind sie sehr selten. Man verachtet sie, weil sie nicht sind wie alle andern.«</p>
+               <p rend="justify">Der Uhu schrieb alles, was der Maulwurf gesagt, in sein Notizbuch. Zu einigen Mitteilungen machte er Bemerkungen. Er sagte aber nichts, sondern fragte höflich den Maulwurf, ob er noch etwas mitzuteilen habe.</p>
+               <p rend="justify">»O ja,« sagte der Maulwurf, »die Hauptsache! In der Welt ist es sehr langweilig. Ein Tag ist wie der andere, und man hat nur zwei Zerstreuungen. Die eine ist das Essen. Die andere ist, daß man alle anderen Tiere über die Achsel ansieht, die nicht in der Welt wohnen und nicht leben wie die Maulwürfe. Und das ist die feinste Freude für einen Maulwurf.«</p>
+               <p rend="justify">Der Uhu notierte alles. Darauf bat er den Hahn, nun auch seine Erfahrungen mitzuteilen.</p>
+               <p rend="justify">  »Die Welt,« begann der Hahn, »ist meistens eine lustige Sache. Genug zu essen, genug zu trinken und Hühner, soviel man will!«</p>
+               <p rend="justify">»Soviel man will!« stöhnte entsetzt der Maulwurf.</p>
+               <p rend="justify">»Jawohl! Soviel man will! Die Welt ist viereckig und hat einen Zaun aus Draht rings herum. Die Welt hat ein Licht am Himmel, dann ist es warm. Manchmal fallen aber weiße Fetzen vom Himmel und dann ist es kalt.«</p>
+               <p rend="justify">»Weiße Fetzen?« fragte erstaunt die Schwalbe.</p>
+               <p rend="justify">»Ja, und wenn die herabfallen, wird die ganze Welt weiß davon. Kein Tier legt dann Eier. Es gibt in der Welt jemand, der einem alle Tage Futter bringt. In der Welt haben die Tiere Federn und einen roten Kamm.«</p>
+               <p rend="justify">»Einen Kamm?« riefen Maulwurf und Schwalbe. »Das ist nicht wahr.«</p>
+               <p rend="justify">»So! Nicht wahr!« krähte heftig der Hahn. »Ich habe doch einen, und unsere Kücken haben einen, wenn sie zur Welt kommen, meine Hühner haben einen, und dann: nicht wahr! Jedes Wort ist wahr, das ich sage! Ich habe alles selbst beobachtet, ich lebe mitten in der Welt und betrachte sie von morgens bis abends.«</p>
+               <p rend="justify">Der Uhu bat höflich den Hahn, sich nicht zu ärgern. Es zweifle niemand an der Wahrheit seiner Behauptungen, nur nehme eben nicht jedes denselben Standpunkt ein. Da gebe es dann leicht Differenzen.</p>
+               <p rend="justify">»Das Schönste in der Welt,« fuhr der Hahn besänftigt fort, »ist der Misthaufen. Das ist eine wahre Fundgrube. Würmer, Käfer, Körner, kurz alles, was man sich wünschen kann, ist vorhanden. Das ist eine Lust, wenn alle da kratzen und scharren, picken und gackern, und nie fühlt man sich so als Mann, als wenn man auf seinem Mist steht inmitten seiner Hühner und stolz in die Welt hinauskräht.«</p>
+               <p rend="justify">Ganz ergriffen hörte der Uhu zu. Zu der letzten Bemerkung des Hahns machte er ein Kreuz, damit er sie besonders sorgfältig ausarbeite.</p>
+               <p rend="justify">Dann bat er die Schwalbe, nun auch ihre Beobachtungen und Erlebnisse zum besten zu geben.</p>
+               <p rend="justify">»Die Welt,« fing die Schwalbe an, »ist unendlich groß. Sie besteht aus Meeren und Ländern, aus Bergen und Tälern. Das Schönste in der Welt ist, wie ein Pfeil die Luft zu durchmessen, von einem Land ins andere, Meere zu überfliegen und seine Brust dem Sturme preiszugeben.«</p>
+               <p rend="justify">»Ein gräßliches Vergnügen!« wimmerte der Maulwurf, und der Hahn und der Uhu schüttelten ihre Köpfe. Der Uhu fragte nicht weiter. Es kam ihm gar zu phantastisch vor, was die Schwalbe erzählte, gar zu unwahrscheinlich und übertrieben. Jedenfalls würde er sich in seinem Buch mehr an die beiden andern halten.</p>
+               <p rend="justify">Der Uhu dankte den Dreien sehr für die nützlichen Mitteilungen, und versprach jedem ein Exemplar des Buches, wenn es erscheinen würde. Er sagte, daß die Ansichten der drei Freunde weit auseinander gingen, daß aber, da alle drei ehrenwerte Leute seien, an ihrem Worte nicht zu zweifeln sei. Er werde alles sorgfältig prüfen und aus allen Darstellungen dasjenige nehmen, was ihm für die Kinder das Passendste scheine.</p>
+               <p rend="justify">Nach einigen Monaten kam das Buch für die Schulkinder heraus. Lehrer Storch las in der Schule daraus vor. Es hieß da:</p>
+               <p rend="justify">Die Welt ist dunkel. Oft ist eine Sonne da, doch scheint sie nicht immer. Wenn sie scheint, sehen sie nicht alle.</p>
+               <p rend="justify">In der Welt haben die Tiere einen Kamm, manchmal aber einen schwarzen Pelz. Die Welt ist unendlich groß, und alles ist mit einem Zaun umgeben. Sie ist viereckig.</p>
+               <p rend="justify">Das Schönste in der Welt ist der Misthaufen. Einige fliegen darüber weg und geben ihre Brust dem Sturme preis, die meisten aber krähen und suchen Würmer.</p>
+               <p rend="justify">In der Welt sind enge, dunkle Gänge und darinnen verachtet man die andern Tiere. In der Welt ist es sehr langweilig, manchmal auch lustig, besonders wenn man Hühner hat, soviel man will und genug zu essen.</p>
+               <p rend="justify">Viele Tiere sehen Flocken vom Himmel fallen, andere sehen sie nie.</p>
+               <p rend="justify">In der Welt bringt jemand den Tieren Futter ... usw.</p>
+               <p rend="justify">Als der Storch fertig vorgelesen hatte, mußten die Kinder es durchbuchstabieren, und dann mußten sie es auswendig lernen.</p>
+               <p rend="justify">Der Uhu hatte es sich lange überlegt, welche der verschiedenen Ansichten der Tiere er bringen wolle, denn sie stimmten ja durchaus nicht überein. Er wollte keinen seiner Freunde ärgern, indem er etwas wegließ, auch war ihm alles gleich wertvoll und schien ihm unentbehrlich für sein Buch.</p>
+               <p rend="justify">Zuletzt fand er einen Ausweg. Er machte Zettelchen, schrieb sämtliche Beobachtungen von Maulwurf, Hahn und Schwalbe einzeln darauf, warf sie dann in eine Schüssel, schüttelte sie tüchtig und fing an zu ziehen. Den ersten Zettel, den er zog, gebrauchte er für das Buch, den zweiten nicht, den dritten wieder für das Buch, den vierten nicht, und so weiter, bis er den letzten gezogen hatte.</p>
+               <p rend="justify">Das war gerecht und einfach und konnte ihm keinerlei Unannehmlichkeiten zuziehen. Und so entstand das Buch.</p>
+               <p rend="justify">Der Storch stattete dem Uhu einen Besuch ab und dankte ihm begeistert im Namen der heranwachsenden Jugend für das interessante Werk.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Die lieben Nachbarn</head>
+               <p rend="justify">
+                  <hi rend="bold">»H</hi>abt ihr es schon gehört, der Nachbar von nebenan will eine Stadtmaus heiraten!« sagte eine Feldmaus zu ihren Besucherinnen. Sie glättete ihr braunes Pelzlein und ringelte zierlich den Schwanz.</p>
+               <p rend="justify">»Eine Stadtmaus? Doch nicht die Weiße mit den roten Augen, die neulich hier auf Besuch war?«</p>
+               <p rend="justify">»Gerade die!«</p>
+               <p rend="justify">»Jetzt hört aber doch alles auf!« jammerte eine der drei, eine fette braune Feldmaus. »Also die Weiße! Nun, der Nachbar kann sich gratulieren!«</p>
+               <p rend="justify">»Warum? Was wissen Sie von der weißen Maus?« schrien aufgeregt die andern.</p>
+               <p rend="justify">»Ich weiß nichts, und ich sage nichts; aber denken tue ich mein Teil.«</p>
+               <p rend="justify">»Woher wissen Sie es, Frau Feldmausin?« fragten die drei und rückten näher zusammen.</p>
+               <p rend="justify">»Das darf ich nicht sagen. Aber die Person, die es mir mitteilte, ist zuverlässig, durchaus zuverlässig. Wenn das unser Nachbar wüßte! Der würde sich schwer hüten, so eine zu heiraten.«</p>
+               <p rend="justify">»Man sollte ihn warnen,« riefen alle; »das ist beinahe unsere Pflicht!«</p>
+               <p rend="justify">»Jawohl, es ist eigentlich unsere Pflicht!« Alle nickten mit den Köpfen und sahen sich bedeutungsvoll an. Es glänzte unternehmungslustig in den beerenschwarzen Äuglein. Und die vier machten sich eilig auf, und gingen zum Nachbarn hinüber.</p>
+               <p rend="justify">»Herr Nachbar, wir kommen in einer delikaten Angelegenheit.«</p>
+               <p rend="justify">»Liebe Freundinnen, ihr kommt gewiß, um mir zu gratulieren. Es ist ja kein Geheimnis mehr, gar nicht.« Die vier lächelten sauersüß und wünschten Glück.</p>
+               <p rend="justify">»Meine Braut ist reizend,« rief der Verliebte. Die vier nickten.</p>
+               <p rend="justify">»Das ist sie, gewiß; dagegen ist nichts zu sagen.«</p>
+               <p rend="justify">»Und tugendhaft,« betonte nochmals der Nachbar.</p>
+               <p rend="justify">Die langen Schnurrbarthaare der Feldmäuse zitterten vor Erwartung.</p>
+               <p rend="justify">»Jetzt!« sagte leise die eine, und stieß ihre Nachbarin an, damit sie reden solle.</p>
+               <p rend="justify">»Herr Nachbar,« begann die Fette und räusperte sich, »es ist leider unsere Pflicht, Ihnen mitzuteilen, daß Ihre Braut ...«</p>
+               <p rend="justify">»Daß meine Braut?«</p>
+               <p rend="justify">»Das Lob, tugendhaft zu sein, nicht ganz verdient.«</p>
+               <p rend="justify">»So,« sagte der Nachbar, »was wissen Sie denn von ihr?« Die fette Maus kam etwas aus der Fassung: Der Bräutigam blieb gar zu gelassen.</p>
+               <p rend="justify">»Sie ist ... sie hatte ... kurz, man hat sie mit einer braunen Maus im Mondschein spazieren sehen!« Erleichtert setzte sich die Feldmaus; es war eben keine Kleinigkeit, einem Bräutigam so etwas zu sagen.</p>
+               <p rend="justify">»So!« sagte der Nachbar.</p>
+               <p rend="justify">»So! So, sagen Sie, Herr Nachbar? Und mit diesen Grundsätzen wollen Sie in die Ehe treten? Bei so etwas bleiben Sie gelassen? Die beiden haben sich nämlich auch geküßt!« Triumphierend sah die Feldmaus im Kreise herum.</p>
+               <p rend="justify">Der Nachbar lachte. Da erhoben sich alle vier würdevoll.</p>
+               <p rend="justify">»Wir haben unsere Pflicht getan,« sagten sie. »Das Weitere ist Ihre Sache!« Steif wandten sie sich zum Gehen, ihre Schwänzchen fuhren aufgeregt hin und her. Sie waren schwer enttäuscht. »Wir bedauern gestört zu haben!«</p>
+               <p rend="justify">»Gar nicht, aber gar nicht!« rief der Nachbar. »Die große, dunkelbraune Maus bin ich nämlich selber gewesen. Übrigens lade ich Sie alle zur Hochzeit ein.«</p>
+               <p rend="justify">Und er öffnete die Türe und machte eine tiefe Verbeugung ...</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Wie der Binsenteich erforscht wurde</head>
+               <p rend="justify">
+                  <hi rend="bold">I</hi>n einem Wald, der noch wenig bekannt war, wurde ein Teich entdeckt. Er war viereckig, und seine Ufer waren mit Binsen bewachsen, deshalb wurde er von seinen Erforschern der »Binsenteich« genannt. Mehr wußte man noch nicht über den interessanten Ort. Bald beschloß der »Verein strebsamer Amphibien«, drei wissenschaftlich gebildete Mitglieder auszurüsten und hinzusenden in den unbekannten Wald.</p>
+               <p rend="justify">Es meldeten sich eine Kröte, eine Ringelnatter und ein Enterich. Letzterer war zwar nicht Mitglied des Vereins, hatte aber doch schon öfters Vorträge gehalten, und da er Fachmann in allem, was Tiefteicherforschung hieß, war, so hatte man sein Anerbieten gern angenommen.</p>
+               <p rend="justify">Die Expedition begann ihre Reise gemeinsam, beschloß aber bald, sich zu trennen, um ja recht verschiedene und subjektive Resultate zu gewinnen. Die Kröte sollte die Ufer und die Flora des Teiches als ihr zu erforschendes Gebiet betrachten, die Ringelnatter die Fauna, der Enterich aber die Tiefen, sowie die allgemeine Bodenbeschaffenheit usw. Sie trennten sich, nachdem sie den Zeitpunkt der Rückreise bestimmt hatten.</p>
+               <p rend="justify">Die Kröte hüpfte langsam vorwärts, ruhte sich von Zeit zu Zeit aus, wartete, bis sich irgendein Insekt dicht vor ihre Nase setzte, und hüpfte, wenn sie gegessen und verdaut hatte, weiter. Sie brauchte lange Zeit, bis sie endlich beim Binsenteich ankam.</p>
+               <p rend="justify">Am ersten Tag erholte sie sich von ihren Strapazen.</p>
+               <p rend="justify">Am zweiten fragte sie eine Ameise, die vorüberlief, was es denn hier für Blumen gäbe?</p>
+               <p rend="justify">»Blumen?« fragte diese verwundert, »Blumen gibt es keine hier! Ich wenigstens habe noch keine gefunden.«</p>
+               <p rend="justify">»Schön, schön,« sagte die Kröte bedächtig, »da kann ich es mir ja bequem machen.« Sie setzte sich in den Schatten eines großen Klettenblattes und schlief ein. Am dritten Tage machte sie sich an die Erforschung des Teiches und seiner Ufer. Sie hockte auf einem Stein, ließ sich von der Sonne bescheinen und sah sich rings um. Aber sie sah nichts. Es schien ihr ein Teich zu sein wie ein anderer. Als sie dies alles in ihr Notizbuch eingetragen, schlief sie wieder ein und wachte nur des Abends auf, um etwas Nahrung zu sich zu nehmen.</p>
+               <p rend="justify">Die Ringelnatter war indessen auch nicht müßig gewesen. Sie war bald beim Teich angekommen und schlüpfte nun eifrig, ihrer hehren Aufgabe eingedenk, durch die Binsen.</p>
+               <p rend="justify">  Sie begegnete einer Wildente, die sich eben auf die Jagd begeben wollte, und nahm diese sofort in ihre Dienste.</p>
+               <p rend="justify">»Wie steht es hier mit der Fauna, meine liebe Ente?« fragte leutselig die Ringelnatter.</p>
+               <p rend="justify">»Ausgezeichnet,« berichtete diese, »ganz ausgezeichnet. Die Frösche sind so zart wie nirgends sonst, auch Wasserschnecken gibt es in Menge, ebenso Fischlein, und der Sand, den man zum Verdauen braucht, ist weiß und fein. Vor Hunden und Menschen ist man durchaus sicher.«</p>
+               <p rend="justify">Der Ringelnatter lief das Wasser im Maul zusammen.</p>
+               <p rend="justify">»Wie wäre es, meine liebe Ente, wenn wir erst ein wenig jagen würden?«</p>
+               <p rend="justify">»Um der größeren Wahrheit meines Berichtes willen wäre das sogar dringend notwendig.« Und die beiden begannen die Jagd. Lautlos glitt die Natter am Ufer hin, erhaschte da einen armen Frosch, der sich an dem schönen Sommermorgen seines Lebens freute, packte dort eine ahnungslose Schnecke, oder ein unerfahrenes Fischlein, und bereicherte ihr Wissen auf diese Weise rasch und angenehm.</p>
+               <p rend="justify">Auch der Enterich war beim Teich angekommen. Als er sich von seinen Kollegen getrennt hatte, fiel ihm ein, er könne doch seine Braut, eine reizende schneeweiße Pekingente, mit auf die Reise nehmen, und kaum war der Gedanke in ihm wach geworden, als er sich auch schon auf dem Weg dorthin befand.</p>
+               <p rend="justify">Die junge Ente war entzückt, daß sie an einer so interessanten und hochwichtigen Expedition teilnehmen sollte, packte rasch das Nötige – Öl zum Schmieren ihrer Federn und einen Lappen zum Reinigen – zusammen, und machte sich mit ihrem Enterich auf den Weg.</p>
+               <p rend="justify">Als sie beim Teich angekommen waren, stürzten sie sich alle beide in das Wasser, tauchten, schwammen, bespritzten einander, und ruderten zuletzt friedlich Seite an Seite, sich mit den Schnäbeln zärtlich berührend und die schwarzen Augen verliebt verdrehend. Dann suchten sie sich ihre Mahlzeit, was nicht schwer war, da es von fetten Tieren aller Art wimmelte. Nachher schliefen sie, und dann gingen sie in den Wald spazieren.</p>
+               <p rend="justify">So trieben sie es den ganzen Tag, und fingen am nächsten Morgen von vorne an. Daß der Enterich den Binsenteich erforschen sollte, hatten sie ganz vergessen. Endlich fiel es ihnen ein, gerade am letzten Tag. Aber der Enterich verließ sich auf alles, was er schon wußte und gelesen hatte, und auf seine Gabe, zu improvisieren.</p>
+               <p rend="justify">  Darum machte er sich fröhlich und guter Dinge auf die Heimreise, und traf an dem vereinbarten Ort mit der Kröte und der Ringelnatter zusammen. Letztere war dick und fett geworden, konnte sich nur langsam fortbewegen und litt an Verdauungsstörungen. Die Kröte aber sah ganz schlaftrunken aus. ... Sie hatte sich das Datum ihrer Abreise aufgeschrieben, das Papier an einen Baum geheftet, und eine junge Haselmaus gebeten, sie zu wecken, wenn sie etwa schlafen sollte. Dann hatte sie weitergeschlafen.</p>
+               <p rend="justify">Die drei fingen nun an, sich zu unterhalten über alles, was ihnen am Teich aufgefallen war. Der Enterich sprach sehr geschickt, begeistert, erfüllt von seiner Mission, ließ auch merken, daß ihm viel Neues und Wunderbares aufgefallen und vorgekommen sei, und daß es manche Überraschungen geben werde.</p>
+               <p rend="justify">Die Ringelnatter fühlte sich etwas bedrückt. Es wollte ihr nun doch scheinen, als ob die großen Hoffnungen, die der Verein strebsamer Amphibien auf sie gesetzt, nicht so recht erfüllt würden. Sie durchlas deshalb zu Hause sämtliche Bücher, die über Teichfauna handelten, notierte sich mancherlei, und ging nun ziemlich getrost dem Augenblick entgegen, wo sie in öffentlichem Vortrag dem Publikum ihre Entdeckungen mitteilen sollte. Die Kröte aber machte sich keinerlei Gedanken.</p>
+               <p rend="justify">Der wichtige Tag war gekommen. Dicht zusammengedrängt saßen die Zuhörer. Erwartungsvoll wisperte und piepste und summte und quakte es. Vorne saßen die Schnellschreiber mit gespitztem Stift. Auch ein ganzes Pensionat junger Entlein war da, um ihren verehrten Lehrer, den Enterich, sprechen zu hören. Die schwarzen Äuglein glänzten.</p>
+               <p rend="justify">»Er wird himmlisch sprechen!« sagten sie.</p>
+               <p rend="justify">Die Kröte betrat zuerst die Rednerbühne. Langsam und schwerfällig begann sie: »Der von mir erforschte Teich ist viereckig. Es ist ein Teich wie alle andern. Blumen wachsen keine dort.« Darauf sagte sie noch einiges über ein paar Wasserpflanzen, die zufällig in der Nähe ihres Klettenblattes gewachsen, dann verließ sie ihren Platz.</p>
+               <p rend="justify">Der Beifall war sehr mäßig.</p>
+               <p rend="justify">»Eigentlich ist das nichts Neues,« sagten die ganz gewöhnlichen Leute. Die von der Wissenschaft schüttelten die Köpfe, sagten aber nichts.</p>
+               <p rend="justify">Der Präsident des Vereins strebsamer Amphibien dankte ziemlich kühl im Namen des Vereins.</p>
+               <p rend="justify">Die Kröte setzte sich auf die erste Bank und schlief ein.</p>
+               <p rend="justify">Darauf kam die Reihe des Sprechens an die Ringelnatter. Sie richtete sich gerade auf, züngelte nach rechts, und begann ihren Vortrag. Sie sprach sachlich und fachgemäß über alles, was sie in ihren Büchern gelesen, brachte Daten und Zahlen, nannte die Länge des Teiches in Metern, und konnte genaue Schilderungen machen über die Eßbarkeit sämtlicher im Teich sich aufhaltenden Tiere.</p>
+               <p rend="justify">  Als sie geendet, klatschten die Zuschauer, und riefen Bravo.</p>
+               <p rend="justify">»Recht interessant,« meinten die ganz gewöhnlichen Tiere.</p>
+               <p rend="justify">»Kommt uns bekannt vor,« kritisierten die akademisch gebildeten, aber dem Publikum sagten sie das natürlich nicht.</p>
+               <p rend="justify">Nun erhob sich der Enterich. Er verneigte sich gegen das Publikum, glättete eine widerspenstige Feder und begann:</p>
+               <p rend="justify">»Tief versteckt im unerforschten Wald liegt ein Teich. Wie schlafend liegt er da, Binsen flüstern an seinen Ufern, Ulmen rauschen darüber hin und Seerosen träumen an seinen Wassern!«</p>
+               <p rend="justify">»O Gott wie schön!« flüsterten die jungen Entenfräulein.</p>
+               <p rend="justify">»Seine Ufer sind bevölkert mit uns gänzlich unbekannten Tieren. Sie sind grün, weißbäuchig, hocken zum Teil auf Blättern und schwimmen zum Teil im Wasser. Abends singen sie mit lauter Stimme merkwürdige Lieder.«</p>
+               <p rend="justify">»Höchst interessant,« nickten die ganz gewöhnlichen Leute zufrieden. Die Schnellschreiber schrieben mit Windeseile.</p>
+               <p rend="justify">»Das Wasser selbst wimmelt von einer sonderbaren Art von Lebewesen. Sie jagen blitzschnell dahin, glitzern wie Silber, schnellen oft in die Höhe, um nach Insekten zu schnappen, und verstecken sich unter den Steinen.« Der Enterich schwieg einen Augenblick, und das Publikum benützte die Pause, um seinen Gefühlen Luft zu machen. Dann fuhr der Redner fort, die Ufer, die Blumen und den Boden des Teiches zu schildern. Eine interessante Mitteilung folgte der anderen, das entzückte Publikum meinte im Walde zu sein und die neu entdeckten Tiere, die wunderbaren Blumen zu sehen, das Liebesgeflüster der Insekten zu hören, sie glaubten, hinunterzutauchen in die Tiefen und die seltsamen Gebilde zu bewundern, die auf dem Boden des Binsenteiches ruhten, und brachen, als der Redner geendet, in unermeßlichen Jubel aus.</p>
+               <p rend="justify">Sämtliche jungen Enten weinten vor Freude. Das ganze Komitee des Vereins strebsamer Amphibien drängte sich um den Enterich und machte ihn zum Ehrenmitglied. Bescheiden dankte der also Gefeierte, verbeugte sich und verließ mit seiner Braut den Versammlungsort.</p>
+               <p rend="justify">Kröte und Ringelnatter sahen ihm voll Neid nach.</p>
+               <p rend="justify">»Merkwürdig, was der alles gesehen hat,« sagte die Kröte, »es muß auf der anderen Seite des Teiches gewesen sein, denn ich habe nichts bemerkt!«</p>
+               <p rend="justify">»Ich auch nicht«, dachte die Ringelnatter, aber sie war klüger als die Kröte und sagte es nicht laut.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Das Begräbnis</head>
+               <p rend="justify">
+                  <hi rend="bold">E</hi>ine sehr angesehene Maus war tot und sollte begraben werden. Um das Lager des Verstorbenen war die Familie versammelt, und wartete auf die Eingeladenen. Zwei Mäuse standen abseits, eine graue und eine weiße. Die Weiße hatte einst die tote Maus geliebt, und die graue war von dem Verstorbenen geliebt und verlassen worden.</p>
+               <p rend="justify">»Er hat die Seinen genug gequält,« sagte sie; »ich habe jahrelang zugesehen, und seine Witwe wird ihm nicht manche Träne nachweinen.«</p>
+               <p rend="justify">»Sie war auch darnach,« sagte giftig die Weiße; »ich habe sie in ihrer Jugend gekannt. Gefallsüchtig und faul und ... Guten Abend, lieber Freund! Es freut mich, Sie zu sehen, wenn auch der Anlaß ein trauriger ist.«</p>
+               <p rend="justify">»Ein sehr trauriger, liebe Cousine. Wir alle verlieren viel an ihm. Die ganze Gesellschaft trauert mit der Familie.« Der Vetter der weißen Maus trat beiseite, und sprach mit einem Neueingetretenen.</p>
+               <p rend="justify">»Sehen Sie dort die weiße Maus,« sagte der. »Sie hat in ihrer Jugend den Verstorbenen geliebt und trauert nun um ihn, als wäre sie seine Witwe.«</p>
+               <p rend="justify">»Vielleicht mehr als die Witwe selbst,« meinte bedeutungsvoll der Angeredete; »ich könnte Ihnen Dinge erzählen, an denen der Tote keine Freude gehabt hätte!«</p>
+               <p rend="justify">»Was Sie nicht sagen.«</p>
+               <p rend="justify">  »Ein ander Mal; hier könnte man uns hören.«</p>
+               <p rend="justify">Eine kräftige braune Maus trat zu der Witwe. »Im Namen sämtlicher Mäuse unserer Gesellschaft spreche ich Ihnen mein tiefstes Beileid aus. Wir alle trauern mit Ihnen. Da ist keiner und keine, die nicht an Ihrem Schmerz Anteil nehme, und die nicht die Hochherzigkeit, die Freigebigkeit und die Güte des Verstorbenen priese.«</p>
+               <p rend="justify">»Der und freigebig!« sagte verächtlich die graue Maus zur weißen. »Ja, wenn es alle wußten und ihn dafür lobten, da gab er; aber frag' die Maus, seine Frau, die könnte dir erzählen. Ein Geizhals war er, ein gemeiner.«</p>
+               <p rend="justify">»Er wird auch nicht allein schuld sein,« sagte aufgeregt die Maus, die ihn unglücklich geliebt hatte. »Da hätte ich seine Frau sein sollen! Ich hätte anders sparen und zu seiner Sache sehen wollen! Die Äpfel ließ sie im Keller verfaulen und die Würmer fraßen den halben Weizen! Begreifst du überhaupt, daß er sie nahm? Aus einer solchen Familie? Arm! Und nicht einmal hübsch!«</p>
+               <p rend="justify">»Nicht hübsch! Sie war doch sehr hübsch!«</p>
+               <p rend="justify">»Der Geschmack ist verschieden,« sagte schnippisch die weiße Maus.</p>
+               <p rend="justify">»Ja leider,« wisperte die Graue.</p>
+               <p rend="justify">»Ich möchte eigentlich wissen, woher er die Mittel hatte, so großartig zu leben,« sagte der Vetter zu seinem Nachbarn; »er war doch nicht eigentlich reich.«</p>
+               <p rend="justify">»Oho! Reich war er schon! Ganze Haufen Weizen lagen da und Kerzen und Speck. Wie er dazu kam, ist freilich eine andere Sache.«</p>
+               <p rend="justify">»So, so! Aha! Ja, ich habe auch schon etwas munkeln hören.«</p>
+               <p rend="justify">Mehr und immer mehr Trauernde waren gekommen. Arme Mäuse waren keine da. Aber viele Mäusevereinsvorsteher. Sie alle lobten den Verstorbenen, seinen wohlwollenden Sinn, seine Freigebigkeit. Die junge schöne Maus, die dort am Lager des Toten stand, hörte gar nicht mehr, was die vielen redeten. Alle hatten dasselbe gesagt, und allen hatten sie dasselbe geantwortet.</p>
+               <p rend="justify">»Nun kann ich von unseren Vorräten nehmen, soviel ich will; es hat mir keiner mehr darein zu reden!« dachte sie. »Und geben kann ich davon, wem ich will!« Sie versank in Luftschlössern. Auch die kräftige braune Maus, die so schön an der Bahre gesprochen hatte, machte solche.</p>
+               <p rend="justify">»Vielleicht wäre es ganz klug, wenn ich die Witwe heiratete. Dann ist all der Weizen mein.« Und die braune Maus drückte die Pfoten der verwitweten Maus und sah ihr mitleidig und bedeutungsvoll in die Augen.</p>
+               <p rend="justify">»Verfügen Sie ganz über mich.«</p>
+               <p rend="justify">»Mit dem hätte ich ein anderes Leben führen können,« dachte die Witwe und fragte sich, wann die braune Maus wohl kommen werde, um sie zu trösten.</p>
+               <p rend="justify">»Vielleicht gleich nach dem Begräbnis. Ich wollte, es wäre schon vorbei.«</p>
+               <p rend="justify">  Die reiche Maus wurde begraben. Der Verstorbene lag nun still da und konnte alles das nicht mehr tun, was er bei Lebzeiten so gerne getan hatte: Seine Frau ärgern, seinen Freunden sagen, er könne ihnen – leider! – nicht helfen, vor seinem Weizenhaufen sitzen und sich freuen, daß er ihn gestohlen, die armen Mäuse anfahren, wenn sie bettelten, und den Reichen geben, wenn es nachher im Mäuse-Tagblatt stand. – Das alles konnte die tote Maus nicht mehr. – Der Mäuseverein-Vorsteher sprach aber sehr schön an des Verstorbenen Grab. Die weiße Maus, die ihn in ihrer Jugend geliebt hatte, weinte, aber freute sich, daß die Witwe, die sie ihr ganzes Leben lang beneidet, ihn nun auch nicht mehr habe.</p>
+               <p rend="justify">Die braune kräftige Maus freute sich, daß der Verstorbene solche Haufen Weizen hinterlassen, und ihm nun durch seine Witwe Gelegenheit gebe, die Haufen zu genießen.</p>
+               <p rend="justify">Die Witwe sogar trauerte dankbar. Dankbar dafür, daß er nun tot war. Und zierlich führte sie ihr Schwänzchen an die Augen – sie waren ihr wahrhaftig feucht geworden.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Die Ratgeber</head>
+               <p rend="justify">
+                  <hi rend="bold">T</hi>rübselig saß eine Henne im Sand, und blinzelte müde mit den runden Augen. Sie fühlte sich krank, mochte nicht mehr Eier legen, auch nicht spazieren, und nahm die fette Kellerassel, die der Hahn ihr bot, nicht an.</p>
+               <p rend="justify">Er stand vor ihr, schön und stolz, und schüttelte seinen blutroten Kamm.</p>
+               <p rend="justify">»Du hast dich überfressen,« sagte er, »faste, und morgen bist du wieder gesund.« Er muß es wissen, dachte die Henne, denn er ist der Hahn.</p>
+               <p rend="justify">»Wie du meinst,« sagte sie ergeben. Sie hatte keinen Appetit, daher ließ sie die Assel sich vor dem Schnabel vorüberspazieren. Der Hahn stolzierte der Wiese zu.</p>
+               <p rend="justify">Die alte Pekingente, bei der sich jung und alt Rat und Weisheit holte, hörte von dem Hahn, daß seine Lieblingshenne krank sei, und kam eilig angewatschelt, den vom Alter braunen Schnabel in die Brustfedern gedrückt.</p>
+               <p rend="justify">Sie sah das Huhn durchdringend an.</p>
+               <p rend="justify">»Öffne den Schnabel.« Das Huhn riß ihn auf. »Wackle mit dem Schwanz.« Das Huhn wackelte. »Plustere dich.« Das Huhn plusterte sich. »Du hast den Pips,« sagte die Ente, deren Bauch bis auf die Erde hing, bestimmt. »Äußerlich reibst du den Hals mit frischen Schnecken ein, innerlich trinkst du angemachtes Ameisenwasser. Tue, was ich dir sage, und morgen bist du wieder gesund.«</p>
+               <p rend="justify">  »Wie du meinst, Entenmutter,« sagte das Huhn. Es war überzeugt, daß die Ente alles wußte, denn alle glaubten an sie. Es machte sich auf die Suche nach Ameisen und Schnecken, mußte aber oft in die Furchen sitzen, denn es war recht schwach. Die Alte wackelte schnatternd davon.</p>
+               <p rend="justify">Die Pute des Nachbarn, die ebenso dumm als abergläubisch war, trippelte heran, gluckte und sprach dem Huhn von einem unfehlbaren Sympathiemittel, an das sie unverbrüchlich glaubte.</p>
+               <p rend="justify">»Suche drei Federn des Hahns, die er an einem Sonntag verloren hat, nimm die Schale von einem Erstlingsei, auf das die Henne nicht stolz war, und einen Engerling, der noch nichts im Magen hat, verbrenne das alles und laß den Tau darauf fallen. Die Asche wird dich heilen, so wahr ich schön bin.« Sie schritt gespreizt, sich verneigend und immerfort glucksend, davon. Das Huhn hatte seine rotgeränderten Augen aufgerissen und sich bei der Pute bedankt. Es glaubte an ihre Kunst, und fing mühsam an, die Erde nach Engerlingen zu durchwühlen.</p>
+               <p rend="justify">Da kam zufällig die Hauskatze daher, die mit dem Huhn auf gutem Fuße stand, und fragte, was es da mache.</p>
+               <p rend="justify">»Dummes Zeug,« sagte sie, als die Henne sie über ihre Bestrebungen aufgeklärt, »das ist alles Narretei. Daran glaubt kein kluges Huhn. Nein, in Honig gekochter Mäusedreck ist gut für dich, der hilft über Nacht.« Die gutmütige Katze strich sich den Schnurrbart und schob das entkräftete Huhn der Scheune zu. »Dort finden wir, was wir suchen,« sagte sie.</p>
+               <p rend="justify">Aber an dem Scheunentor stand der Hund und lachte Huhn und Katze aus, als er hörte, was sie wollten.</p>
+               <p rend="justify">»Was weiß die Katze! Die versteht nichts von Medizin,« sagte er verächtlich. »Ich hole dir den Doktor, der hilft dir sicher.« Böse lief die Katze davon, und der Hund geleitete die Kranke nach Hause.</p>
+               <p rend="justify">»Wie du meinst,« sagte die Henne mit ihrer letzten Kraft. Im Hühnerhof streckte die Bedauernswerte beide Beine von sich und atmete mühsam und stoßweise.</p>
+               <p rend="justify">»Sie muß besser genährt werden,« sagte eine gefräßige, grünschillernde Ente, »gebt ihr doch zu essen.« Sie stopfte so viele Regenwürmer, Käfer und Erde in den Schnabel des Huhnes, als hineingehen wollte. Das gute Tier behielt den Schnabel gleich offen, damit die Ente weniger Mühe habe. Die mußte es verstehen, einen Kranken zu nähren, denn sie fraß selber den ganzen Tag. Alle Hühner, Puten, Perlhühner und Truthähne standen im Kreis um das Huhn herum. Jedes tat sein Bestes mit guten Räten. »Wie du meinst,« sagte das Huhn zu einem jeden. Zuletzt konnte sie auch das nicht mehr sagen.</p>
+               <p rend="justify">Da kollerte der Truthahn, blies sich auf, wurde rot und trommelte: »Fieber hat sie. Ihr Leib ist zu heiß, sie hat zu viel Federn,« und er und seine Henne ließen es sich angelegen sein, dem Huhn die Brustfedern auszurupfen. Es zitterte heftig, wehrte sich aber nicht und sagte nichts. Sie mußten ja wissen, was sie taten.</p>
+               <p rend="justify">Da kam der Hund mit dem Doktor.</p>
+               <p rend="justify">Er fühlte an der Kranken herum, sah ihr in den Schnabel, untersuchte ihr die Augen, sah nach, ob es ihr am Vermögen zum Legen fehle und wollte eben seine Verordnungen zum besten geben.</p>
+               <p rend="justify">Da wurde das geduldige Huhn plötzlich wütend. Es hatte genug. Es schrie und gackerte gellend und heiser, rannte, als hätte es den Verstand verloren, im Kreise herum, sprang in die Höhe, schlug sich den Kopf an die Baumstämme, tobte und wütete, daß alle die Umstehenden entsetzt und in großer Angst zurückwichen.</p>
+               <p rend="justify">»Sie ist verrückt geworden,« dachte der Hahn und ergab sich in das Schicksal, eine andere Henne zu seinem Lieblingshuhn ernennen zu müssen.</p>
+               <p rend="justify">»Warum hat sie nicht getan, was ich ihr riet,« schnatterte die alte Ente erbost. Sie vertrug alles, nur nicht, daß man ihren Rat mißachtete.</p>
+               <p rend="justify">»Geschieht ihr recht,« brummte der Hund, »warum holt sie den Doktor nicht und glaubt jeder dummen Katze.«</p>
+               <p rend="justify">»Hätte sie Sympathie angewendet,« sagte die Pute leise zu einem Perlhuhn. »Sie wäre munter wie ein Fisch im Wasser.«</p>
+               <p rend="justify">»Geschieht ihr recht, warum nahm sie alle die fetten Kellerasseln, die ihr der Hahn bot, und ließ uns keine übrig,« nickten zwei verrupfte Hühner, die keinem Hahn der Welt mehr gefallen konnten, aber doch gern Leckerbissen aßen.</p>
+               <p rend="justify">»Jetzt gibt's Platz für mich,« dachte triumphierend das jüngste Huhn und machte sich in die Nähe des Hahns.</p>
+               <p rend="justify">Alle sahen auf das Huhn, das noch immer wie rasend herumtobte, endlich zur Erde fiel und sich in den Stall schleppen ließ.</p>
+               <p rend="justify">Dort verfiel es in einen tiefen Schlaf, schwitzte und wachte bis zum Morgen nicht auf, denn es wagte sich niemand mit Ratschlägen an das Verrückte heran. Am nächsten Tag war es wieder gesund und sagte guten Morgen.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Das künstliche Auge</head>
+               <p rend="justify">
+                  <hi rend="bold">E</hi>s war einmal einer, der ein künstliches Auge hatte. Das andere war ein gewöhnliches Auge, wie es jeder Mensch besitzt.</p>
+               <p rend="justify">Niemand begriff, warum der Mann Dinge sah, die kein anderer sehen konnte, und warum er oft behauptete, es sei gar nichts da, wenn es alle anderen sahen.</p>
+               <p rend="justify">Es kam daher, weil er einmal mit dem natürlichen Auge die Dinge betrachtete, und ein ander Mal mit dem künstlichen Auge. Öffnete er nur letzteres, so verzerrte sich ihm alles, was er sah, und wechselte Form und Farbe.</p>
+               <p rend="justify">»Maulwürfe!« höhnte er die Leute, die kopfschüttelnd behaupteten, sie begriffen gar nicht, was er sehe. Oder er lachte sie aus.</p>
+               <p rend="justify">»Sie bewundern wieder, was nicht da ist!« sagte er achselzuckend.</p>
+               <p rend="justify">Der Mann ging über Land. Es war ein anderer bei ihm, ein Maler mit gewöhnlichen Augen. Der mit dem künstlichen Auge hatte eine mitleidige Verachtung für ihn, der Maler fühlte sie, und es war ihm unbehaglich.</p>
+               <p rend="justify">»Ewig diese grünen Bäume,« murrte der Mann, dessen künstliches Auge noch schlief. »Es wird nachgerade langweilig! Grün! Solche altmodische Farbe!« Da erwachte sein Auge.</p>
+               <p rend="justify">»Donnerwetter! Sie sind ja gar nicht grün! Da ist ja alles Farbe! Glut, Feuer! Fort mit den grünen Bäumen!«</p>
+               <p rend="justify">Zögernd widersprach der Maler.</p>
+               <p rend="justify">»Sie sind aber doch grün.«</p>
+               <p rend="justify">»So, sind sie grün?« höhnte der andere, »weil ihr Blindschleichen sie grün seht, sind sie grün, nicht wahr?«</p>
+               <p rend="justify">Dem Hohn gegenüber sind die Leute feig. Darum schämte sich der Maler und bekehrte sich rasch.</p>
+               <p rend="justify">»Es ist wahr, sie sind rot!« sagte er zaghaft. Er sah sie zwar nicht eigentlich rot, aber es schien ihm doch, als ob sie einen rötlichen Schimmer hätten. Und bald kamen sie ihm rot vor, dunkelrot.</p>
+               <p rend="justify">Darauf malte er ein Bild mit Bäumen, die wie in Blut getaucht aussahen, und den mächtigen Strom, der sein Bild quer durchschnitt, machte er ebenfalls rot. Auch das Gras, aber dieses mehr bläulich-rot!</p>
+               <p rend="justify">Im Vordergrund krochen drei Schnecken, deren Fühlhörner sich berührten.</p>
+               <p rend="justify">Der Maler wußte wohl, daß das Publikum sein himbeerfarbenes Bild nicht ohne weiteres annehmen würde. Er nannte es daher: Seelenharmonie. Das würde den Leuten zu denken geben.</p>
+               <p rend="justify">Das Publikum stand vor des Malers Bild und lachte. Darauf schalt es. Dann versuchte es die Seelenharmonie zu begreifen. Zuletzt schämte es sich, daß es sie nicht begriff, und als es so weit war, hatte der Maler gewonnenes Spiel. Alle Welt bewunderte die »Seelenharmonie«, und das Museum der Stadt kaufte sie. Der Maler schrieb sich die Sache hinter die Ohren.</p>
+               <p rend="justify">Wieder ging der Mann mit dem Maler spazieren. Sein natürliches Auge schlief, und nur das künstliche wachte. Er betrachtete den Wald.</p>
+               <p rend="justify">»Hübsch, dieser Silberton,« sagte er daher. Diesmal versuchte es der Maler nicht einmal, seinen eigenen Augen zu glauben. Er sah den Wald sofort im Silberton, ging nach Hause und schuf ein Bild. Grau alles, einförmig, nebelhaft, verschwommen. Im Vordergrund ein schmutzig grüner Sumpf, auf dem eine gelbe Dahlie schwamm. »Toter Haß« hieß das Bild im Katalog.</p>
+               <p rend="justify">Drei volle Tage brauchte das Publikum, bis es sich die rote Harmonie abgewöhnt hatte, dann aber hob es mit Begeisterung den »Toten Haß« auf den Schild. Und wieder nach drei Tagen sprach die Stadt von nichts anderem. Der Maler trug einen schweren Geldsack auf die Bank.</p>
+               <p rend="justify">Zum dritten Mal gingen die zwei über Land. Der Mann schloß seine beiden Augen und spitzte dafür die Ohren.</p>
+               <p rend="justify">»Hören muß man die Schönheit, nicht sehen!« rief er in Ekstase, »gar nichts soll auf der Leinwand sein, damit man voll genieße, empfinde, fühle!«</p>
+               <p rend="justify">Der Maler malte ein Bild, und als er fertig war, sah die Leinwand aus, als wäre sie leer.</p>
+               <p rend="justify">»Ah!« rief der Mann, »ausgezeichnet! Feuchtes Holz, Moos, faules Holz! Mord! Kühle Schauer zittern über meine Haut!« Er schloß die Augen.</p>
+               <p rend="justify">Das Bild wurde zwischen zwei spitzen, schwarzen Bäumen aufgehängt, Klapperschlangen wandten sich um die Stämme. Graue Schleier fielen in geraden Falten über die Leinwand. »Mord« stand in langen verzerrten Buchstaben auf dem Rahmen. Er hatte die Form eines Galgens.</p>
+               <p rend="justify">Das Publikum kam. Keiner wagte laut zu atmen oder gar sich zu schneuzen. Man empfand das Bild, fühlte es, nahm es auf.</p>
+               <p rend="justify">»Ah!« seufzten alle. Ihre Seelen gingen auf den Fußspitzen. Ohne Gänsehaut ging keiner aus dem Saal.</p>
+               <p rend="justify">Der Mann und der Maler saßen auf einer der Ruhebänke. Der Mann mit dem künstlichen Auge hielt sein natürliches Auge geschlossen, und der Maler alle beide.</p>
+               <p rend="justify">»Wie schwer er an seinem Bilde trägt,« sagten die Leute und betrachteten sein blasses Gesicht.</p>
+               <p rend="justify">Da kam ein Fremder zur Tür herein, mit blauen Augen und klarem Blick. Erstaunt betrachtete er den Maler, das Publikum und das Bild. Dann lachte er, laut und herzlich. Von dem Lachen zerrissen die Schleier vor dem Bild, und man sah plötzlich, daß die Leinwand leer war, leer und öde. Da fingen die Leute an sich zu räuspern, zu schneuzen, zu schwatzen und zu husten. Man konnte ordentlich hören, wie ihnen die Augen aufgingen.</p>
+               <p rend="justify">  Sie scharten sich um den Maler. »Hinaus!« schrie die Menge zornig.</p>
+               <p rend="justify">Der Mann mit dem künstlichen Auge war schon fort. »Warte es ab,« sagte er zu ihm, »deine Zeit wird wieder kommen.« Da verkroch sich das Auge so, daß gar nichts mehr von ihm zu sehen war. –</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Die Richter</head>
+               <p rend="justify">
+                  <hi rend="bold">»N</hi>ein,« sagte die Maus, deren Großmutter eine weiße Maus gewesen, »das glaube ich nicht. So schlecht ist niemand.«</p>
+               <p rend="justify">»Ich will ja auch nichts gesagt haben. Ich glaube es selber nicht. Bestimmt kann es ja niemand behaupten ...« sagte der Maulwurf. »Aber wissen Sie ...« Die Maus, deren Großmutter eine weiße Maus gewesen, und die darum meinte, sie sei auch eine weiße Maus, zitterte mit den Schnurrbarthaaren, so begierig war sie zu erfahren, was denn eigentlich vorgefallen sei ...</p>
+               <p rend="justify">»Ja wissen Sie.« Der Maulwurf strich sich über das behagliche Bäuchlein und glättete seinen schwarzen Pelz, »man hat mir gesagt ... man hat sie zusammen gesehen ...«</p>
+               <p rend="justify">Aha. Eine Sie und ein Er. Die Maus mit der weißen Großmutter ringelte das Schwänzchen. Es stand ganz steif in die Höhe. Vorne strich sie sich sanft und bescheiden über das Schnäuzlein und schloß halb die glänzend schwarzen Augen. »Ich bin eigentlich keine Freundin von derartigem. Sie wissen, meine Großmutter ...« Der Maulwurf verbeugte sich.</p>
+               <p rend="justify">»Ja, natürlich, ich weiß. Ich würde es auch gar nicht wagen, so etwas weiter zu sagen, aber ... man hat sie zusammen gesehen. Es läßt sich nicht leugnen. Sie waren in der Speisekammer.« Des Maulwurfs blinde Äuglein blinzelten.</p>
+               <p rend="justify">»Pfui,« sagte die Maus im Tone der weißen Großmutter. »Man sah sie im Keller ...«</p>
+               <p rend="justify">»Oh,« zirpte die Maus. Das Schwänzlein fiel erschöpft herunter. »Sie haben zusammen an einer Kerze geknabbert.«</p>
+               <p rend="justify">»Ah,« piepste die Enkelin der Seligen. »Und das alles, trotzdem ...«</p>
+               <p rend="justify">»Was, trotzdem?«</p>
+               <p rend="justify">»Trotzdem er für eine Mausin und ... neun Kinderchen, nackt und bloß, ja, nackt und bloß, zu sorgen hat.«</p>
+               <p rend="justify">»Es ist nicht möglich,« ächzte die Maus.</p>
+               <p rend="justify">»Möglich und wahr.« Bestimmt sagte es der Maulwurf, und faltete seine rosigen Patschchen über dem Leib. »Man muß mit ihr reden. So etwas wollen wir nicht dulden. Ich will mich nicht heilig sprechen, aber so etwas ... so etwas ...« Er schwieg.</p>
+               <p rend="justify">»Sie haben recht,« sagte die Maus, und es schien ihr plötzlich, als ob ihr Pelz heller würde und einen gewissen Glanz bekäme. »Man muß mit ihr reden.«</p>
+               <p rend="justify">»Ausgezeichnet,« nickte der Maulwurf beifällig, »das muß man. Sie sollen wenigstens wissen, die Sünder, daß man weiß ...«</p>
+               <p rend="justify">»Natürlich. Das wäre noch schöner, wenn sich zwei einfach lieben könnten, ohne daß ... wie soll ich sagen ... einfach so ... ohne weiteres ...« Der Maulwurf schwieg. Er war kein Redner.</p>
+               <p rend="justify">Die Maus, deren ehrwürdige Großmutter noch weißer gewesen als je, entschloß sich rasch.</p>
+               <p rend="justify">»Ich rede mit ihr,« quietschte sie. Und sie ging stracks und redete mit der Angeschuldigten.</p>
+               <p rend="justify">»Es ist uns allen bekannt,« begann sie, »bekannt, daß ...«</p>
+               <p rend="justify">»Bekannt, daß?« fragte die hübsche, braune Feldmaus. »Was?«</p>
+               <p rend="justify">»Es fällt mir schwer zu sagen ... daß wir wissen ... daß Sie mit – Sie wissen, wen ich meine – zusammen in der Speisekammer gewesen sind, und im Keller gewesen sind, und zusammen an einer Kerze genascht haben ... Ich habe den Auftrag, Ihnen zu sagen, daß wir dieses sträfliche Verhältnis nicht dulden wollen. Nein, wir wollen nicht, daß zwei unerlaubterweise und so ohne weiters glücklich zusammen seien, und wir meinen ...«</p>
+               <p rend="justify">»Was? Was wollen Sie eigentlich sagen? Was für ein Verhältnis? Der – und ich?« Die Maus, die die schwere Aufgabe übernommen, der hübschen Feldmaus mitzuteilen, daß sie sich nicht ungestraft einem sträflichen Glück hingeben könne, saß auf ihren Hinterpfötchen, ringelte zierlich das graue Schwänzchen, drehte den Schnurrbart und besah sich zufrieden. Sie war weiß geworden, so weiß, wie ihre selige Großmutter nie gewesen. Wahrhaftig.</p>
+               <p rend="justify">  Die braune Feldmaus aber hatte der Schlag getroffen vor Entrüstung über die ungerechte Anklage.</p>
+               <p rend="justify">»Ein Gottesgericht,« sagte nachher die weiße Maus zum Maulwurf. Sie gingen und riefen den Totengräber, daß er seines Amtes walte.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Schicksal dreier Freunde<lb/>(Ein Scherz)</head>
+               <p rend="justify">
+                  <hi rend="bold">I</hi>n der Herberge »Zum harmlosen Haustier« waren unter anderen auch drei Handwerksburschen eingekehrt, ein Floh, eine Laus und eine Wanze. Sie waren aus südlichen Ländern gekommen und wollten es nun für einige Zeit mit dem Norden versuchen.</p>
+               <p rend="justify">Überhaupt, sie wollten die Welt kennen lernen. Da sie nun ungefähr alle dasselbe Ziel hatten, so ziemlich dieselben politischen Ansichten und alle drei italienisch verstanden, so verband sie bald eine feste Freundschaft.</p>
+               <p rend="justify">Die Wanze entstammte behaglichen Verhältnissen. In einem reichen Bauernhaus hatte sie das Licht der Welt erblickt, und sich auch – einem Vertrag gemäß, den die Familie seit Generationen besaß – von dem Blut der angesehenen Familie genährt, zu der gehörig sie sich betrachtete.</p>
+               <p rend="justify">Es war mehr Neugier als Notwendigkeit, die sie bewog, ihren reichen Brotkorb zu verlassen und aufs Ungewisse in die Welt hinauszureisen. Aber warne einer die Jugend. Vater und Mutter Wanze konnten nichts anderes tun, als ihren Sohn neu ausstatten, und ihm den einzigen weisen Spruch mitgeben, den sie kannten: Laß dich nicht erwischen.</p>
+               <p rend="justify">Bei der Laus standen die Sachen anders. Sie war hinterm Zaun geboren, unter Zigeunern. Da war keine Seßhaftigkeit, kein Eigentum, kein Respekt vor Mein und Dein. Die Köpfe der Leute gehörten jedem, der kam und sich ansiedelte. Gefiel es einem nicht mehr auf diesem Kopf, so probierte man es auf jenem, kurz, der Laus war das Zigeunertum so in Fleisch und Blut übergegangen, daß sie es bei ihrem Stamm nicht mehr aushielt und sich schleunigst auf Reisen begab. Ihr größter Feind war die Seife, und sie war so darauf eingewöhnt, sie von weitem zu riechen, daß es ihr kaum je geschah, sich auf einem Kopf niederzulassen, der mit Seife in Berührung gekommen. Sie erwartete viel von der Zukunft; die größten Abenteuer und die kühnsten Unternehmungen schreckten sie nicht ab. Ihre Devise war: Ich verfolge meine Feinde.</p>
+               <p rend="justify">Der Floh war Sozialdemokrat vom reinsten Wasser. Nicht nur, daß seine Familie sich seit Generationen in Rot kleidete, nicht nur, daß sein Vater auf dem Felde der Ehre gestorben, sondern seine Mutter hatte ihn zur Welt gebracht, als sie eben der Rede eines berühmten Sozialistenführers lauschte, und dessen kostbares Blut war seine erste Nahrung gewesen. So glaubte er sich zu hohen Dingen ausersehen, und ging in die Welt hinaus mit dem Feuer der Begeisterung.</p>
+               <p rend="justify">Blut ist ein ganz besondrer Saft, stand auf seinem Gürtel eingestickt.</p>
+               <p rend="justify">Diese drei also waren es, die sich im »Harmlosen Haustier« gefunden hatten. Sie plauderten bis spät in die Nacht hinein und machten sich am andern Morgen in aller Frühe auf, um Arbeit und ein Unterkommen zu suchen. Eine Viertelmeile vor der Stadt machten sie Halt. Sie waren an einem Kreuzweg angekommen und wollten sich da trennen. Vorher aber versprachen sie, sich an einem bestimmten Tag wieder zusammenzufinden, um von da aus gemeinsam weiter zu reisen, ihrer Heimat, Italien, zu.</p>
+               <p rend="justify">Der Floh war der erste, der die zwei anderen verließ. Ein rüstiger Wandrer, der eben vorüberging, diente ihm als Fortbewegungsmittel. Der Floh hatte sich auf einen Stein gestellt, und war eins, zwei, drei, dem Burschen auf die Schulter gesprungen. Es dauerte keine Minute, bis des guten Mannes Hand tastend über den Rücken fuhr, woran die zwei Zurückgebliebenen merkten, daß der Floh frühstückte.</p>
+               <p rend="justify">Darauf machte sich die Wanze auf den Weg. Sie mußte ziemlich lange gehen, ehe sie einen mit Stroh gefüllten Wagen traf, an dem sie hinaufkletterte und sich verbarg. In dem Stroh waren Güter, die zur Eisenbahn geführt werden sollten, und so kam die Wanze bequem in die große Stadt.</p>
+               <p rend="justify">Die Laus, die als Letzte zurückblieb, wartete geduldig. Um die Mittagsstunde kam ein Vagabund, der sich unter einer Linde am Weg niederlegte und sein Mittagsschläfchen hielt. Die Laus bezog ihn und war froh, auf diese Weise bis zur nächsten Stadt transportiert zu werden, von wo aus sie nach Osten weiter reiste. –</p>
+               <p rend="justify">  Der Tag war da. Die Sonne schien warm auf die Linde, die am Wege stand, und die neugierig war zu erfahren, wie es den drei Burschen wohl ergangen sei, die sich versprochen hatten, unter ihrem Schatten wieder zusammenzutreffen.</p>
+               <p rend="justify">Da sah man von ferne die Wanze daherkommen. Wohlgenährt und behäbig sah sie aus. Aufs schönste parfümiert und poliert. Sie ließ sich an dem kleinen Abhang nieder, der neben der Landstraße zum Sitzen einlud, und wartete auf ihre Gefährten. Sie mußte lange warten, nichts ließ sich sehen weit und breit.</p>
+               <p rend="justify">Sie wollte schon aufbrechen, um im nächsten Dorf Einkehr zu halten, da hörte sie ein lautes Summen, und ein Bienchen ließ sich neben ihr nieder, das ihr mit einer Verbeugung einen Brief überreichte. Erstaunt nahm die Wanze den Brief, öffnete ihn und las mit höchster Überraschung, was die Laus schrieb:</p>
+               <p rend="justify">»Liebe Freunde. Es ist mir leider unmöglich, heute an unserer geplanten Zusammenkunft teilzunehmen. Meine Stellung erlaubt mir nicht, mich auch nur einen Tag von hier zu entfernen, – ich bin nämlich in Belgrad, Serbien – denn es lauern zu viele darauf, sie einzunehmen.</p>
+               <p rend="justify">Ich kam vor einem Jahr nach Belgrad auf dem gewöhnlichen Weg, Eisenbahn vierter Klasse, mit einem Slovaken. Von da zog ich zu einem Soldaten, einem Unteroffizier, später wurde ich ins Offizierskasino eingeführt durch einen der Burschen, und nachher war es nicht mehr schwer, mich zu den höchsten Stellen emporzuschwingen.</p>
+               <p rend="justify">Kurz und gut: Ich war anwesend, als ein gewisses Telegramm vorgelesen wurde, kurz vor der Ermordung des Königspaares. Ich merkte mir alles, was geredet wurde, und verbarg es still in meinem Herzen. Nachdem ein neuer König den Thron bestiegen, versuchte ich, in seine Nähe zu gelangen, und ich erreichte es verhältnismäßig leicht. Ich wartete den Augenblick ab, in dem der Herrscher vor seiner Privatschatulle saß und darin wühlen wollte. Ich trat vor und sprach:</p>
+               <p rend="justify">»Majestät,« sagte ich, »ich bin Mitwisser wichtiger Geheimnisse. Will Majestät mir eine verbürgte und verbriefte Stellung als Ober-Hof-Laus anweisen, so bewahre ich dies Geheimnis in meinem treuen Busen. Wenn nicht, so habe ich Zeugen, um meine Aussage zu bestätigen. Sollte mir etwas passieren, so sind meine Memoiren an sicherer Stelle niedergelegt. Majestät wähle.«</p>
+               <p rend="justify">Majestät wählte, und ich bekam die Stelle als Ober-Hof-Laus. Da höchstdieselbe mir nicht ihr eigenes Haupt anbieten durfte – die Serben halten streng darauf, daß ihr König nur die besten Seifen gebrauche – so konnte ich nach Belieben auswählen, wo ich meine Residenz aufschlagen wollte. Seither lebe ich in Freuden und Herrlichkeit, und ihr werdet wohl begreifen, daß ich keine Lust habe, mich weiter zu begeben. Ich teile euch auch mit, daß ich meine Devise: Ich verfolge meine Feinde, umgeändert habe in: Üb immer Treu und Redlichkeit, und euch ersuche, davon Vormerkung nehmen zu wollen. Im übrigen bitte ich euch, mein teures Vaterland zu grüßen, wenn ihr dorthin zurückkehrt.</p>
+               <table rend="frame" xml:id="Table2">
+                  <row>
+                     <cell>Euer getreuer<lb/>Janos-Laus, Ritter des Georgienordens 1.</cell>
+                  </row>
+               </table>
+               <p rend="justify">Starr vor Staunen hatte die Wanze gelesen. Dem ist es noch besser gegangen als mir, dachte sie.</p>
+               <p rend="justify">Denn auch sie war in recht angenehmer Stellung gewesen. Als sie in Berlin ausgepackt wurde, befand sie sich in der Wohnung der ersten Hof-Opern-Sängerin. Es schien der Wanze ein Ort zu sein, wo es sich leben lasse. Sie kroch still in ein reich mit Spitzen besetztes Bett und hoffte, die reizende, zarte Italienerin, die sich im Zimmer befand, möchte die Besitzerin des Bettes sein. Und ihre Hoffnung betrog sie nicht.</p>
+               <p rend="justify">Als sie in dunkler Nacht das süße Blut der Dame kostete, durchrieselte sie ein langentbehrtes Gefühl. Italienerblut, das geliebte, belebte sie. Sie vergaß der Vorsicht. Ein Lichtstrahl traf sie, und: Wanze, rief eine helle Stimme in der Sprache ihrer Heimat, denn auch die Italienerin grüßten durch das Tier italienische Erinnerungen. Die Diva setzte die Wanze wieder sorgfältig unter die Matratze ins Dunkle. Dort blieb sie und wurde dick und fett. Dennoch packte sie das Heimweh, so daß sie sich nun auf der Reise nach der Heimat befand. –</p>
+               <p rend="justify">Die Sonne stand schon hoch am Himmel, und noch war kein Floh zu sehen. Die Wanze wurde ungeduldig. Sie sah sich suchend um und bemerkte ein Stück Zeitungspapier, in das ein reisender Handwerksbursche seine Wurst gewickelt und weggeworfen haben mußte, denn es waren Fettflecke darauf. Die Wanze begann aus Langerweile darin zu lesen. Ihre Augen wurden größer und größer.</p>
+               <p rend="justify">In dem Blatt stand gedruckt: Majestätsbeleidigung. Wieder wurde das Verbrechen begangen, das in letzter Zeit unsere Polizei und unsere Staatsanwälte ihrer kostbaren Zeit beraubt. Wir meinen die Majestätsbeleidigung. Zum Glück trifft es diesmal nicht einen Untertanen der Majestäten, sondern einen Italiener, aus bekannter, sozialdemokratischer Familie, einen Floh, der seiner verdammenswerten Gesinnung in den Worten Ausdruck gab: Blut ist ein ganz besondrer Saft, die auf seinen Gürtel eingestickt waren. Besagter Floh konnte sich – wie es zuging, ist uns durchaus unbegreiflich – bis in die Gesellschaft einschleichen, welche die Ehre hatte, mit einer hohen Persönlichkeit den Abend zu verbringen.</p>
+               <p rend="justify">In gänzlich schamloser Weise rühmte sich der Angeklagte später bei seinesgleichen, er habe das Blut des Kronprinzen getrunken, und – darin bestand eben die Ruchlosigkeit – es habe ihm nicht besser geschmeckt als anderes auch.</p>
+               <p rend="justify">  Für diese Beleidigung eines hohen Herrn wurde der Angeklagte zu vier Jahren Zuchthaus verurteilt, was jeden treuen Untertanen des prinzlichen Hauses mit Genugtuung erfüllen muß.</p>
+               <p rend="justify">So las die Wanze, und sie konnte nicht im Zweifel sein, daß es sich um ihren Freund handle. Schmerzlich bewegt von seinem Schicksal raffte sie sich auf und begab sich auf die Heimreise.</p>
+               <p rend="justify">Oft gedachte sie des Janos-Laus am serbischen Hof und des Flohes, der im Gefängnis, seiner Überzeugung treu, schmachtete. Später hörte sie, daß er in einem Anfall von Wahnsinn sich auf den Wärter gestürzt, und daß dieser ihn einfach zerdrückt habe. So endete der hoffnungsvolle Sprößling einer für die gute Sache begeisterten Familie.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Der Goldfasan</head>
+               <p rend="justify">
+                  <hi rend="bold">D</hi>ie Türe des Hühnerhofes knarrte. Man schob ein goldenes Etwas herein. Es flatterte herum, kreischte, beruhigte sich und sah sich um. Es war ein Goldfasan.</p>
+               <p rend="justify">Er überblickte die Hühner und Enten, die ihn verwundert anstarrten, senkte hochmütig die Augenlider, hob den Schnabel und sagte: »Ich bin ein Goldfasan!« Dann sah er sich um, welchen Effekt seine Worte auf die Hühner gemacht hatten.</p>
+               <p rend="justify">»Freut mich, Ihre Bekanntschaft zu machen!« sagte der Hahn im Namen aller. »Ein aufgeblasener Kerl,« dachte er dabei.</p>
+               <p rend="justify">»Ein recht gewöhnlicher Patron,« urteilte der Fasan über den Hahn. Er ging langsam auf und ab, seine Schwanzfedern schleiften auf der Erde, und seinen goldenen Kragen schob er unaufhörlich nach vorn, erst nach links und dann nach rechts. Dann sah er sich wieder um, was die Hühner wohl dazu sagten. Er konnte zufrieden sein.</p>
+               <p rend="justify">»Ein ausnehmend vornehmer Vogel,« sagte die Gelbe.</p>
+               <p rend="justify">»Das ist etwas anderes als unser Hahn,« gluckste die Graugesprenkelte.</p>
+               <p rend="justify">»Du, sieht man, daß mein Kamm erfroren ist? Ist er blau?« fragte ein großes, schwarzes Huhn mit riesigem Kamm.</p>
+               <p rend="justify">»Nein,« sagte die Gelbe. Aber man sah es doch.</p>
+               <p rend="justify">»Sieh, wie trübselig sich unser Hahn ausnimmt, den herrlichen, goldenen Federn des Fasans gegenüber. Der muß reich sein.«</p>
+               <p rend="justify">»Und vornehm!« sagte die Graugesprenkelte.</p>
+               <p rend="justify">Ein sehr schönes, weißes Huhn mit großem, rotem Kamm spazierte am Fasan vorbei. Es war des Hahns Lieblingshenne. Der Goldene machte seine schönsten Bücklinge und schob den Kragen unaufhörlich nach vorne, daß es gleißte und glänzte.</p>
+               <p rend="justify">»Wie herrlich ist Ihr Gefieder, schöne Italienerin.«</p>
+               <p rend="justify">»Bitte!« sagte sie und rauschte mit den Federn.</p>
+               <p rend="justify">»Und welch herrliches Rot schmückt Ihren Kamm! Nie sah ich dergleichen!« rief feurig der Goldfasan.</p>
+               <p rend="justify">»Bitte!« gluckste verschämt das Huhn.</p>
+               <p rend="justify">»Gehören Sie dem Hahn hier?« fragte der Goldfasan.</p>
+               <p rend="justify">»Ja, bis jetzt!« sagte das Huhn. Des Goldfasans Kragen schnellte nach vorn, er blies sich auf, er rasselte mit den Federn und schüttelte sich. Er funkelte förmlich.</p>
+               <p rend="justify">»Wenn ich Sie zu einem Gang durch die Wiesen einladen dürfte?« fragte er.</p>
+               <p rend="justify">»Ach bitte, ja!« gackerte schmelzend das Huhn. Sie gingen. Durch das hohe Gras glänzte es golden und schimmerte es weiß. Der ganze Hühnerhof sah den beiden nach.</p>
+               <p rend="justify">»Es hört einfach alles auf,« sagte eine behäbige Henne mit zehn schwarzen Kücken, »einfach alles!«</p>
+               <p rend="justify">»Und begreifst du, daß er unter allen gerade die Weiße ausgewählt hat? Das dumme Ding, fade wie Bohnenstroh?« fragte ein junges, schwarzes Hühnchen.</p>
+               <p rend="justify">»Aber schneeweiß!«</p>
+               <p rend="justify">»Schneeweiß! Dem Hahn gefällt schwarz besser!«</p>
+               <p rend="justify">»Was willst du denn mehr? Oder hätte der Goldene dort auch schwarz schöner finden sollen?«</p>
+               <p rend="justify">Der Hahn stand auf dem Mist und scharrte Körner heraus und Regenwürmer für seine Hühner. Er krähte laut und schmetternd, daß man es über zwei Wiesen hören konnte. Stolz überflogen seine Augen seine wohlgenährte und wohlgehütete Schar.</p>
+               <p rend="justify">»Hahn! Du solltest auch so glänzende Federn haben,« sagte eines der Hühner und betrachtete geringschätzig die schöngebogenen, grünen Sicheln des Hahns.</p>
+               <p rend="justify">»Und einen bronzenen Rücken!« kritisierte ein zweites.</p>
+               <p rend="justify">»Und einen goldenen Kragen!« piepste das junge Hühnchen.</p>
+               <p rend="justify">»Ich bin, wie ich bin,« sagte der Hahn. »Wer fort will, kann gehen.«</p>
+               <p rend="justify">»Sei nur nicht gleich so grob,« schalt das graugesprenkelte Huhn, das vorhin dem Goldfasan zugehört hatte, als er mit dem weißen Huhn sprach, »wir wollen uns das nicht gefallen lassen.«</p>
+               <p rend="justify">Das schneeweiße Huhn kam zurück mit seinem Begleiter. Die ganze Hühnergesellschaft umstand den glänzenden Vogel und bewunderte ihn.</p>
+               <p rend="justify">Gravitätisch kam der Hahn geschritten.</p>
+               <p rend="justify">  »Fasan! Das weiße Huhn gehört zu mir. Du mußt mit mir darum kämpfen.« Der Fasan war kein Feigling. Er blähte sich und stellte sich in Positur.</p>
+               <p rend="justify">Lange standen sie so, Auge in Auge, den Hals gestreckt, die Sporen bereit. Dann schossen sie aufeinander los und hackten sich mit den Schnäbeln. Und plötzlich standen sie wieder unbeweglich einander gegenüber.</p>
+               <p rend="justify">Goldene und grüne Federn flogen herum, und goldene und grüne Federn lagen auf der Erde um die zwei Kämpfer.</p>
+               <p rend="justify">Leise gackernd und glucksend standen die Hühner im Kreise herum. Die Schneeweiße tat, als gehe sie die Sache nichts an. Sie zerhackte einen Regenwurm und schielte dabei unter ihrem Kamm hervor nach Hahn und Fasan.</p>
+               <p rend="justify">Plötzlich ertönte ein sonderbarer, krähender Schrei, der Hahn taumelte, kreischte, flatterte und lag auf der Erde. Blut lief über die Federn des Halses und färbte sie dunkelrot. Der Verwundete zuckte, schlug mit den Flügeln und wurde still. Dann schnappte er nach Luft und war tot.</p>
+               <p rend="justify">Es erhob sich ein großes Gegacker, ein Wehklagen und Jammern und Piepsen.</p>
+               <p rend="justify">»Wer sucht uns nun die Käfer? Und die guten, zarten Regenwürmer? Wer beschützt uns vor dem Habicht? Wer? Wer?«</p>
+               <p rend="justify">»Ich bin nun euer Beschützer,« sagte der Goldfasan, und die Hühner gaben sich zufrieden.</p>
+               <p rend="justify">  Das Schneeweiße stand neben ihm und strich zärtlich eine Feder glatt an seinem goldenen Halskragen.</p>
+               <p rend="justify">»Ich liebe dich ewig,« sagte der Goldfasan zu ihr. Das italienische Huhn schloß die Augen vor Glück.</p>
+               <p rend="justify">Am nächsten Tag war der Goldfasan verschwunden.</p>
+               <p rend="justify">Die Hühner saßen ganz verstört auf dem Mist und sahen hinüber in den Nachbarshof, wo unter Fasan und bronzenen Puten der Goldfasan herumspazierte, ohne auch nur einmal den Hals nach der verlassenen Schar zu drehen.</p>
+               <p rend="justify">Die Schneeweiße flog auf den Zaun, sah sehnsüchtig hinüber und gluckste.</p>
+               <p rend="justify">Der Fasan sah sie, senkte die Lider, hob den Schnabel und schob seinen Kragen vor. Dann ging er mit seiner goldenen Gefährtin weiter.</p>
+               <p rend="justify">Lautlos saß das arme Weiße auf dem Zaun. Dann streckte es den Kopf unter die Flügel und rührte sich nicht mehr.</p>
+               <p rend="justify">Dicht zusammengedrängt stand die verwaiste Hühnerschar. Dann sagte eine: »Wenn wir doch unsern Hahn wieder hätten!«</p>
+               <p rend="justify">»Ja,« sagte die Graugesprenkelte, »nun können wir unsere Regenwürmer selber suchen!« Und eifrig begannen sie alle zu scharren.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Vom Huhn, das etwas gelernt hatte</head>
+               <p rend="justify">
+                  <hi rend="bold">E</hi>in schönes, fremdes Huhn hatte sich auf einen Hühnerhof verirrt und suchte nach Nahrung.</p>
+               <p rend="justify">Es hatte glänzende Federn und silberne Ringe an den Beinen. Es lebte mit seiner Familie bei einer Künstlertruppe und verstand zu apportieren, sich auf Kommando tot zu stellen und über sein eigenes Ei zu hüpfen, rückwärts und vorwärts, und Purzelbäume zu machen. Und das war sein Hauptkunststück. Jetzt stand es in einer Ecke und pickte Körner auf.</p>
+               <p rend="justify">»Was ist das für ein auffallendes Geschöpf?« fragte die dicke, graue Henne den Hahn.</p>
+               <p rend="justify">»Sie hat ja silberne Ringe an den Füßen. Woher hat sie die?« forschte die braun und weiße, die lange Federn an den Beinen hatte.</p>
+               <p rend="justify">»Ich weiß es nicht,« sagte der Hahn, »aber sie gefällt mir.«</p>
+               <p rend="justify">»Natürlich!« gluckste geringschätzig die graue. »Dir gefällt alles Neue.«</p>
+               <p rend="justify">»Das Alte auch,« sagte höflich der Hahn und verbeugte sich.</p>
+               <p rend="justify">Inzwischen saßen die anderen Hühner um die Fremde herum und forschten sie aus über Heimat und Familie.</p>
+               <p rend="justify">»Ich trete in einem Zirkus auf. Ich habe allerlei gelernt,« erzählte harmlos das Huhn, und beschrieb, was es für Kunststücke machen könne. Da erhob sich ein ungeheures Gegacker. Ein paar der Hennen flohen, einige gingen vorsichtig um die Fremde herum, um sie nicht zu berühren, einige rannten nach ihren Kücken, um sie von ihr fern zu halten und ein paar sahen sich um, was der Hahn dazu sage.</p>
+               <p rend="justify">»Purzelbäume macht sie! Wie gräßlich!« gackerte ein mageres Huhn, das als Eierlegerin berühmt war. »Das schickt sich ja aber gar nicht.«</p>
+               <p rend="justify">»Warum nicht?« fragte das Huhn.</p>
+               <p rend="justify">»Darum nicht. Es ist gegen die Natur.«</p>
+               <p rend="justify">»Was haben meine Purzelbäume mit der Natur zu tun?«</p>
+               <p rend="justify">»Es ist einfach gegen die Natur! Wo kämen die Kücken und die Hähne hin, wenn alle Hühner etwas lernen wollten?«</p>
+               <p rend="justify">»O, behüte, da ist keine Gefahr,« sagte das fremde, schwarze Huhn etwas pikiert.</p>
+               <p rend="justify">Da fing eine Rouen-Ente zu schnattern an und mit den Flügeln zu schlagen. Sie war ein Muster von Tüchtigkeit, eine große Eierlegerin und Führerin der Jugend, und genoß viel Ansehen.</p>
+               <p rend="justify">»Darf man fragen: Gehören Sie zu einem Hahn?«</p>
+               <p rend="justify">»Natürlich!« sagte die Fremde. »Und zu einem schönen, ausländischen.«</p>
+               <p rend="justify">»Haben Sie Kücken?«</p>
+               <p rend="justify">»Das will ich meinen. Und sie haben alle schon ihre Flügelchen und Schwanzfedern.«</p>
+               <p rend="justify">»Und dabei treten Sie auf? Und machen den Zuschauern Kunststücke vor und daheim piepsen ihre Jungen, haben nichts zu fressen, frieren und haben keinen, der auf sie achtet. Eine ganz liederliche Mutter sind Sie, vor Ihnen kann man ja gar keine Achtung haben und muß unsere jungen Hähne und Entlein vor Ihnen warnen.« Das wurde aber dem fremden Huhn zu bunt.</p>
+               <p rend="justify">»So! Und woher wissen Sie denn, daß ich meine Jungen vernachlässige? Sehen Sie sich die Kücken einmal an. Aufgeweckt und lustig und klug sehen sie in die Welt. Und fragen Sie meinen Hahn, mit wem er am liebsten auf der Wiese spaziert, mit mir oder den anderen Hühnern?«</p>
+               <p rend="justify">Die Rouen-Ente wollte dazwischen schnattern, aber die Schwarze kam ihr zuvor.</p>
+               <p rend="justify">»Und fragen Sie den Ihren, warum er immer neue Hühner haben muß. Die seinen sind schön genug, man kann kaum schönere finden. Weil ihr Enten und Hühner alle tötlich langweilig seid, und man es auf die Dauer mit euch gar nicht aushalten kann, darum!«</p>
+               <p rend="justify">Da drangen sämtliche Hühner und Enten auf das schwarze Huhn ein, und zwickten es und rissen ihm die Federn aus und gackelten und kreischten.</p>
+               <p rend="justify">»Laßt sie in Ruh,« krähte der Hahn. »Das, was sie sagt, ist wahr.«</p>
+               <p rend="justify">»Wahr!« kreischten die Hühner. »Ist das nun unser Dank!«</p>
+               <p rend="justify">»Und wie haben wir dich geliebt!« gackelte jammernd die Graue.</p>
+               <p rend="justify">  »Sie liebt ihren Hahn auch,« sagte der Hahn.</p>
+               <p rend="justify">»Und wie eifrig haben wir dir Eier gelegt,« beklagten sich ein paar andere.</p>
+               <p rend="justify">»Das hat sie auch getan.«</p>
+               <p rend="justify">»Und wie viele Kücken haben wir dir geschenkt,« prahlte eine große, gelbe Henne mit sieben Jungen.</p>
+               <p rend="justify">»Sie hat deren neun.«</p>
+               <p rend="justify">»Ja,« lärmten die Hühner durcheinander, »aber wie werden sie aussehen! Mager und verrupft und mit nackten Hälsen. Und zum Schluß frißt sie Katze und Habicht, denn wer paßt auf sie auf?«</p>
+               <p rend="justify">Da piepste es draußen vor dem Hühnerhof aus vielen kleinen Kehlen und neun kugelrunde, glänzende, zierliche Kücken liefen vor dem Holzgitter herum.</p>
+               <p rend="justify">Als das schwarze Huhn sie sah, flog es mit lautem Freudengegacker auf sie zu. Die Kücken rannten um das Huhn herum, flogen ihm auf Kopf und Hals, krochen unter seine Flügel und wieder hervor und piepsten seelenvergnügt und freuten sich.</p>
+               <p rend="justify">Oben auf dem Zaun aber standen sämtliche Hühner des Hofes und unten guckten die Enten durch das Gitter.</p>
+               <p rend="justify">»Und wie gefallen euch meine Kücken?« rief das schwarze Huhn. Es bekam keine Antwort, aber an dem Tag mußte der Hahn sämtliche Regenwürmer selber essen. Er machte sich aber nichts daraus.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Er und Sie</head>
+               <p rend="justify">Es war einmal ein Zaunkönig, der mit seinem Weibchen in Frieden und Eintracht lebte. Alle Jahre bauten die beiden ihr Nest in einem Zaun, nicht ganz oben, damit es nicht hinein regne, und nicht ganz unten, damit keine Katze sie überraschen könne, sondern schön gerade in der Mitte. Jahr um Jahr taten sie das und waren glücklich und zufrieden dabei.</p>
+               <p rend="justify">Aber einmal – kein Mensch wußte warum – fiel es dem Zaunkönig ein, sich einen andern Platz auszusuchen, um sich sein Nest zu bauen.</p>
+               <p rend="justify">»Frau,« sagte er, »mir ist es verleidet, immer im Zaun herumzukriechen. Bin ich ein König oder bin ich es nicht? Also! Wenn ich aber König bin, so will ich auch hoch auf einem Baum nisten, wie es sich für einen König schickt!«</p>
+               <p rend="justify">»Aber, Männchen,« sagte erschrocken die Zaunkönigin, »was fällt dir nur ein. So lange leben wir nun im Zaun und sind glücklich dabei, was willst du denn Besseres?«</p>
+               <p rend="justify">»Gerade weil wir so lange im Zaun saßen, soll es nun anders werden. Und kurz und gut, ich will auf einer Tanne nisten, oder auf einer Pappel wie der Rabe.«</p>
+               <p rend="justify">»Mann!« rief die Zaunkönigin, »du wirst doch nicht! Auf einer Pappel, wo Regen und Wind hindurchbläst, und der Sturm ....«</p>
+               <p rend="justify">»Und kurz und gut, ich will auf einer Pappel nisten,« schrie der Zaunkönig noch einmal, »und morgen fangen wir an unser Nest zu bauen.«</p>
+               <p rend="justify">Das Weibchen schwieg. Es war klug und wußte wohl, daß es nichts Gescheiteres tun konnte, aber daß die Sache schlimm ablaufen würde, das wußte es ebenfalls im voraus.</p>
+               <p rend="justify">Früh am Morgen saß der Zaunkönig schon auf dem höchsten Zweig seines Zaunes und hielt Umschau. Er war stolz auf seinen Entschluß und überzeugt, daß die Vögel ihn bewundern würden ob seines Mutes und seines Unternehmungsgeistes.</p>
+               <p rend="justify">Er wählte die allerhöchste Pappel aus unter den vielen, die da standen, besichtigte deren Äste und Zweige und fand endlich eine passende, geschützte Stelle, ganz oben, wo man das Land überblicken konnte. Erfreut flog er heim zu seinem Weibchen.</p>
+               <p rend="justify">»So, Frau,« rief er, »nun können wir anfangen! Ich habe gefunden, was wir brauchen!« Seufzend band das Weibchen das Notwendigste in ein Bündelchen, streichelte zärtlich mit dem Schnabel sein altes Nestlein und folgte seinem Gemahl in die neue Heimat.</p>
+               <p rend="justify">Als es sich auf dem Ast niederließ, den der Zaunkönig ausgesucht hatte, wurde ihm ganz elend zu Mute. Es durfte gar nicht daran denken, was geschehen könnte, wenn eines der zukünftigen Jungen da hinausfallen würde. Weil es aber wußte, daß es nun zu spät sei, etwas zu sagen, so war es wiederum ganz still.</p>
+               <p rend="justify">  Ein Rotkehlchen, das in der Nähe ihrer früheren Wohnung hauste, kam angeflogen, um zu sehen, was Zaunkönigs denn so lange auf der Pappel zu tun hätten.</p>
+               <p rend="justify">»Wir bauen unser Nest,« sagte selbstbewußt der Zaunkönig.</p>
+               <p rend="justify">»Was! Da oben auf der Pappel, wo der Regen herein kann und der Wind?«</p>
+               <p rend="justify">»Schweig!« schrie der Zaunkönig, »das ist meine Sache und geht dich gar nichts an!«</p>
+               <p rend="justify">»Gar nichts,« sagte vergnügt das Rotkehlchen und freute sich, daß die Sache schief ausgehen würde.</p>
+               <p rend="justify">Darauf kam der Rabe geflogen. Er wohnte auf der nächsten Pappel.</p>
+               <p rend="justify">»Ich gratuliere zu der neuen Wohnung,« krächzte er höhnisch, »du bist auch der Rechte, um hier oben zu wohnen, du Zwerg!«</p>
+               <p rend="justify">Die Federn des Zaunkönigs sträubten sich vor Zorn. »Lümmel!« schrie er, »sieh du zu deinen Sachen und mach', daß du fortkommst.«</p>
+               <p rend="justify">Aber der Rabe blieb sitzen und sah zu, wie das Paar Reiserchen zusammentrug, feine Halme und zarte Moose, und dachte bei sich, daß der Sturm sogar sein eigenes Nest, das doch aus fingerlangen und dicken Reisern gebaut war, schüttelte. Endlich flog er davon.</p>
+               <p rend="justify">Der Zaunkönig fuhr fort, mit Feuereifer zu bauen, und sein Weibchen half ihm getreulich. Nachbarn kamen und fragten, was er denn da oben mache?</p>
+               <p rend="justify">  »Ich baue mein Nest,« sagte er jedesmal stolz, und die Vögel flogen weg und unterhielten sich über den Größenwahn des Zaunkönigs.</p>
+               <p rend="justify">Nach einigen Tagen war das Nest fertig bis auf ein paar weiche Federchen und einige feste Grashalme, um es am Hauptzweig zu befestigen.</p>
+               <p rend="justify">»Siehst du nun?« triumphierte der Zaunkönig.</p>
+               <p rend="justify">Das Weibchen hätte sagen können, daß noch nicht aller Tage Abend sei, aber es war ein sehr kluges Weibchen und sagte nichts.</p>
+               <p rend="justify">In der Nacht aber fingen die Blätter der Pappel leise zu zittern an, die schlanken Zweige bogen sich, Wolken ballten sich am Himmel zusammen, und Blitze zuckten. Der Regen klatschte nieder auf die Pappel und überschwemmte das neuerbaute Nestlein, der Wind zauste daran, und bei jedem Blitzstrahl sahen der Zaunkönig und sein Weibchen, wie ein Stück ihres mühsamen Werkes nach dem andern davonflog. Zuletzt wirbelte der Sturm das ganze Nest in die Lüfte.</p>
+               <p rend="justify">Naß bis auf die Haut saßen die armen kleinen Vögel auf ihrem Zweig. Sie zitterten vor Kälte, die Hagelkörner trafen ihre zarten Körperchen, und in Todesangst streckten sie ihre Köpfchen unter die Flügel.</p>
+               <p rend="justify">Der Zaunkönig hatte beständig nach seinem Weibchen geschielt, ob es nicht schelten werde, aber das gute, kleine Geschöpf mochte ihn nun nicht höhnen, da das Unglück über ihn gekommen war. Es schwieg ganz still und duckte sich so nahe an einen Ast, als es konnte.</p>
+               <p rend="justify">Der Rabe auf der Pappel schrie aber in einem fort: »Siehst du wohl! Siehst du wohl! Siehst du wohl!«</p>
+               <p rend="justify">Am andern Morgen, als der Himmel wieder schön blau auf die Vögelchen hinunterstrahlte, die Sonne schien und die Schmetterlinge herumflogen, glättete der Zaunkönig seine Federn, schüttelte sich und flog ohne weiteres seinem alten Wohnort zu.</p>
+               <p rend="justify">»Es ist doch merkwürdig,« sagte er zu seiner Frau, als ob nichts geschehen wäre, »wie wohl es einem daheim ist! Ich begreife gar nicht, warum wir eigentlich fortgezogen sind!«</p>
+               <p rend="justify">Das Weibchen zog ein widerspenstiges Federchen durch seinen Schnabel und glättete es. Es sagte aber nichts, sondern sah den Zaunkönig nur von der Seite an. Der sang seelenvergnügt in den Morgen hinein.</p>
+               <p rend="justify">Am Abend kam Besuch, und man sprach von diesem und jenem. Auch von dem Glück des königlichen Paares.</p>
+               <p rend="justify">»Nachbarn,« sagte der Zaunkönig, »ich und mein Weibchen, wir haben uns noch nie gezankt! Sie hat freilich einen harten Kopf und weiß was sie will. Aber ich bin der Gescheitere, ich gebe nach. Gelt, Frau!« Der Zaunkönig glaubte wahrhaftig, was er sagte.</p>
+               <p rend="justify">»Natürlich,« sagte sie, denn sie war ein sehr kluges Weibchen. Der Zaunkönig nickte zufrieden, er hatte gar keine andere Antwort erwartet!</p>
+               <p rend="justify">
+                  <lb/>
+                  <hi rend="italic">Finis</hi>
+               </p>
+               <p rend="justify">Gedruckt bei Oscar Brandstetter in Leipzig</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>Hinweise zur Transkription</head>
+               <p rend="justify">Es wurden die Widmung von ihrer ursprünglichen Position am Buchanfang sowie das Inhaltsverzeichnis von seiner ursprünglichen Position am Buchende vor den Textanfang verschoben.</p>
+               <p rend="justify">Das Originalbuch ist in Fraktur gesetzt.</p>
+               <p rend="justify">Der Text des Originalbuches wurde grundsätzlich beibehalten, mit folgenden Ausnahmen,</p>
+               <lg>
+                  <l>Seite 2:</l>
+                  <l>"männichen" geändert in "männlichen"</l>
+                  <l>(so fallen alle männlichen Schafe über dich her)</l>
+               </lg>
+               <lg>
+                  <l>Seite 3:</l>
+                  <l>"Wie" geändert in "wie"</l>
+                  <l>(fragte es erstaunt, »wie kommt es)</l>
+               </lg>
+               <lg>
+                  <l>Seite 3:</l>
+                  <l>"Das" geändert in "das"</l>
+                  <l>(sagte das alte Schaf, »das will ich dir)</l>
+               </lg>
+               <lg>
+                  <l>Seite 5:</l>
+                  <l>"," geändert in "."</l>
+                  <l>(Ratte mit prachtvollem Schnurrbart. »Wir wollen)</l>
+               </lg>
+               <lg>
+                  <l>Seite 7:</l>
+                  <l>"Vergiß" geändert in "vergiß"</l>
+                  <l>(warnte die weiße Maus, »vergiß meinen)</l>
+               </lg>
+               <lg>
+                  <l>Seite 10:</l>
+                  <l>"," geändert in "."</l>
+                  <l>(rief wieder die Amsel. »Es wäre eine)</l>
+               </lg>
+               <lg>
+                  <l>Seite 10:</l>
+                  <l>"Meine" geändert in "meine"</l>
+                  <l>(rief das alte Huhn, »meine Tochter)</l>
+               </lg>
+               <lg>
+                  <l>Seite 11:</l>
+                  <l>"Im Brüten" geändert in "im Brüten"</l>
+                  <l>(ausüben muß: im Eierlegen, im Brüten, im treuen Führen)</l>
+               </lg>
+               <lg>
+                  <l>Seite 11:</l>
+                  <l>"Das" geändert in "das"</l>
+                  <l>(sagte die bronzene Pute; »das lernt es)</l>
+               </lg>
+               <lg>
+                  <l>Seite 18:</l>
+                  <l>"," geändert in "."</l>
+                  <l>(schrien die Schwarzen. »Fort mit dir!)</l>
+               </lg>
+               <lg>
+                  <l>Seite 19:</l>
+                  <l>"." geändert in ","</l>
+                  <l>(wenn ich etwas wissen möchte,« sagte das Lämmchen)</l>
+               </lg>
+               <lg>
+                  <l>Seite 19:</l>
+                  <l>"Ich" geändert in "ich"</l>
+                  <l>(rief das Lämmchen, »ich weiß so viel!)</l>
+               </lg>
+               <lg>
+                  <l>Seite 20:</l>
+                  <l>"»" eingefügt</l>
+                  <l>(»Sind Sie unschuldig, Frau Mutter?« fragte das Lämmlein.)</l>
+               </lg>
+               <lg>
+                  <l>Seite 20:</l>
+                  <l>"Ich" geändert in "ich"</l>
+                  <l>(sagte das Lämmlein, »ich will ja gerade heiraten)</l>
+               </lg>
+               <lg>
+                  <l>Seite 21:</l>
+                  <l>"Und" geändert in "und"</l>
+                  <l>(sagte vergnügt das Lämmchen, »und er hat mir)</l>
+               </lg>
+               <lg>
+                  <l>Seite 22:</l>
+                  <l>"den" geändert in "dem"</l>
+                  <l>(Elf oder zwölf Hühner saßen auf dem Mist)</l>
+               </lg>
+               <lg>
+                  <l>Seite 32:</l>
+                  <l>"." geändert in ","</l>
+                  <l>(du wirst es schon noch erfahren,« sagte die Schafs-Cousin)</l>
+               </lg>
+               <lg>
+                  <l>Seite 33:</l>
+                  <l>"." geändert in ","</l>
+                  <l>(»Das war aber schön von Ihnen, Herr Vater!«)</l>
+               </lg>
+               <lg>
+                  <l>Seite 35:</l>
+                  <l>"Er" geändert in "Es"</l>
+                  <l>(»Es tut mir leid,« rief der Regenwurm)</l>
+               </lg>
+               <lg>
+                  <l>Seite 35:</l>
+                  <l>"anders" geändert in "anderes"</l>
+                  <l>(daß er an nichts anderes denken konnte als daran)</l>
+               </lg>
+               <lg>
+                  <l>Seite 36:</l>
+                  <l>"," geändert in "."</l>
+                  <l>(rief das Eichhorn. »Nicht was mich gelüstet)</l>
+               </lg>
+               <lg>
+                  <l>Seite 42:</l>
+                  <l>"," eingefügt</l>
+                  <l>(denn sie liebte es nicht, wenn andere)</l>
+               </lg>
+               <lg>
+                  <l>Seite 47:</l>
+                  <l>"Ich" geändert in "ich"</l>
+                  <l>(schrie der Musiker, »ich habe Sie singen lassen)</l>
+               </lg>
+               <lg>
+                  <l>Seite 47:</l>
+                  <l>"," eingefügt</l>
+                  <l>(Eine Sekunde lang war alles starr; dann sprangen,)</l>
+               </lg>
+               <lg>
+                  <l>Seite 59:</l>
+                  <l>"Aber" geändert in "aber"</l>
+                  <l>(sagte sie zum Hahn, »aber der Jüngste.«)</l>
+               </lg>
+               <lg>
+                  <l>Seite 68:</l>
+                  <l>"Es" geändert in "es"</l>
+                  <l>(und räusperte sich, »es ist leider unsere Pflicht)</l>
+               </lg>
+               <lg>
+                  <l>Seite 78:</l>
+                  <l>"." geändert in ","</l>
+                  <l>(»Sehen Sie dort die weiße Maus,« sagte der)</l>
+               </lg>
+               <lg>
+                  <l>Seite 80:</l>
+                  <l>"«" eingefügt</l>
+                  <l>(dazu kam, ist freilich eine andere Sache.«)</l>
+               </lg>
+               <lg>
+                  <l>Seite 80:</l>
+                  <l>"." geändert in ","</l>
+                  <l>(anderes Leben führen können,« dachte die Witwe)</l>
+               </lg>
+               <lg>
+                  <l>Seite 107:</l>
+                  <l>"Fansan" geändert in "Fasan"</l>
+                  <l>(Der Fasan war kein Feigling.)</l>
+               </lg>
+               <lg>
+                  <l>Seite 114:</l>
+                  <l>"," eingefügt</l>
+                  <l>(rief er, »nun können wir anfangen!)</l>
+               </lg>
+               <lg>
+                  <l>Seite 116:</l>
+                  <l>"alle" geändert in "aller"</l>
+                  <l>(daß noch nicht aller Tage Abend sei)</l>
+               </lg>
+               <lg>
+                  <l>Seite 117:</l>
+                  <l>"!" geändert in ":"</l>
+                  <l>(schrie aber in einem fort: »Siehst du wohl!)</l>
+               </lg>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

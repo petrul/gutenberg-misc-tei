@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Miragaia: Romance Popular</title>
+            <author>Visconde de João Batista da Silva Leitão de Almeida Garrett Almeida Garrett</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-01T18:22:26Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">odts/pt-odts/Miragaia: Romance Popular.24411.epub.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Visconde de João Batista da Silva Leitão de Almeida Garrett Almeida Garrett</name>
+               <date>2024-01-01T18:22:26Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Miragaia: Romance Popular</head>
+         <author>Visconde de João Batista da Silva Leitão de Almeida Garrett Almeida Garrett</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">odts/pt-odts/Miragaia: Romance Popular.24411.epub.odt</p>
+         <pb/>
+         <div type="div1">
+            <head>MIRAGAIA</head>
+            <pb/>
+            <div type="div2">
+               <head>ROMANCE POPULAR</head>
+               <div type="div3">
+                  <head>PELO A. DE ADOZINDA, BERNAL FRANCEZ, ETC.</head>
+                  <div type="div4">
+                     <head>ILLUSTRAÇÕES DOS SRS. BORDALLO E COELHO.</head>
+                     <div type="div5">
+                        <head>LISBOA<lb/>TYP. DA SOCIEDADE PROPAGADORA DOS CONHECIMENTOS UTEIS<lb/>LARGO DO PELOURINHO N.º 24.<lb/>MDCCCXLIV.</head>
+                        <p rend="justify">Quando dei ésta bagatella aos Srs. Editores do jornal das bellas-artes para encherem algum vão que lhes sobrasse n'aquella tam linda e tam elegante publicação, escrevi, a um canto do proprio rascunho original que não tive paciencia de copear, as seguintes palavras:</p>
+                        <p rend="justify">«Este romance é uma verdadeira reconstrucção de um monumento antigo. Algumas coplas são textualmente conservadas da tradição popular, e se cantam no meio da historia <hi rend="italic">rezada</hi>, ainda hoje repetida por velhas e barbeiros do logar. O conde D. Pedro e os chronistas velhos tambem fabulam cada um a seu modo. O auctor, ou, mais exactamente, o recopilador, seguiu muito pontualmente a narrativa oral do povo, e sobretudo quiz ser fiel ao stylo, modos, e tom de cantar e contar d'elle; sem o quê, é sua íntima persuasão que se não póde restituir a perdida nacionalidade á nossa litteratura.»</p>
+                        <p rend="justify">O postscriptum, servindo de nota ou commento, sahiu impresso no primeiro número do referido jornal com os dois primeiros cantares do romance, e foi ampliado com algumas observações por extremo lisongeiras dos Srs. Editores, a quem tomára eu auxiliar como elles merecem por sua gentil imprêza, que é a mais bella e das mais uteis que se teem commettido em Portugal.</p>
+                        <p rend="justify">Devo ao seu favor, não so o terem adornado a minha miragaia com as suas graciosas gravuras em madeira que todos teem admirado, mas o permittirem que fizesse com ellas ésta pequena edição em separado com que quero brindar alguns amigos apaixonados, como eu, de nossas antigualhas populares.</p>
+                        <p rend="justify">É uma folha avulsa do meu romanceiro geral cujo primeiro volume ja está em podêr do público; e lá será reposta em tempo e logar conveniente.</p>
+                        <p rend="justify">Foi das primeiras coisas d'este genero em que trabalhei; e é a mais antiga reminiscencia de poesia popular que me ficou da infancia, porque eu abri os olhos á primeira luz da razão nos proprios sitios em que se passam as principaes scenas d'este romance. Dos cinco aos dez annos de edade vivi com meus paes n'uma pequena quinta, chamada o «Castello », que tinhamos áquem Doiro, e que se dizia tirar esse nome da vizinhança das ruinas do antigo castello mourisco que alli jazem perto. Com os olhos tapados eu iria ainda hoje achar todos esses sitios marcados pela tradição popular. Muita vez brinquei na fonte do rei Ramiro,--cuja água é deliciosa com effeito; e tenho idêa de me ter custado caro, outra vez, o imitar, com uma gaita da feira de San'Miguel, os toques da bozina de S. M. Leoneza, impoleirado eu, como elle, n'um resto de muralha velha do castello d'elrei Alboazar: o que meu pae desapprovou com tam significante energia, que ainda hoje me lembra tambem.</p>
+                        <p rend="justify">Assim ólho para ésta pobre Miragaia como para um brinco meu de criança que me apparecesse agora; e quero-lhe--que mal ha n'isso?--quero-lhe como a tal. Não a julguem tambem por mais, que o não vale.</p>
+                        <p rend="justify">Lisboa 24 de Janeiro 1844.</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <pb/>
+         <div type="div1">
+            <head>MIRAGAIA</head>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>I</label>
+               </head>
+               <p rend="justify">Ilustração do capítulo I</p>
+               <lg>
+                  <l>Noite escura tam formosa,</l>
+                  <l>Linda noite sem luar,</l>
+                  <l>As tuas estrellas de oiro</l>
+                  <l>Quem n'as poderá contar!</l>
+                  <l/>
+                  <l>Como as folhinhas do bosque,</l>
+                  <l>Como as areias do mar...</l>
+                  <l>Em tantas lettras se escreve</l>
+                  <l>O que Deus mandou guardar.</l>
+                  <l/>
+                  <l>Mas guai do homem que se fia</l>
+                  <l>N'essas lettras decifrar!</l>
+                  <l>Que a ler no livro de Deus</l>
+                  <l>Nem anjo póde atinar.</l>
+                  <l/>
+                  <l>Bem ledo está Dom Ramiro</l>
+                  <l>Com sua dama a folgar;</l>
+                  <l>Um perro bruxo judio</l>
+                  <l>Foi causa de elle a roubar:</l>
+                  <l/>
+                  <l>Disse-lhe que pelos astros</l>
+                  <l>Bem lhe podia affirmar</l>
+                  <l>Que Zahara, a flor da belleza,</l>
+                  <l>Lhe devia de tocar.</l>
+                  <l/>
+                  <l>E o rei veio de cilada</l>
+                  <l>D'além do Doiro passar,</l>
+                  <l>E furtou a linda moira,</l>
+                  <l>A irman d'Alboazar.</l>
+                  <l/>
+                  <l>A <hi rend="italic">Milhor</hi>, que é terra sua</l>
+                  <l>E está á beira do mar,</l>
+                  <l>Se acolheu com sua dama,</l>
+                  <l>Nem de mais sabe cuidar.</l>
+                  <l/>
+                  <l>Chora a triste da rainha,</l>
+                  <l>Não se póde consolar:</l>
+                  <l>Deixá-la por [~u]a moira</l>
+                  <l>Deixá-la com tal dezar!</l>
+                  <l/>
+                  <l>E a noite é escura cerrada,</l>
+                  <l>Noite negra sem luar,</l>
+                  <l>Sosinha no seu balcão</l>
+                  <l>Assim se estava a queixar:</l>
+                  <l/>
+                  <l>--«Rei Ramiro, rei Ramiro,</l>
+                  <l>Rei de muito mau pezar,</l>
+                  <l>Em que te errei d'alma ou corpo,</l>
+                  <l>Que fiz para tal penar?</l>
+                  <l/>
+                  <l>«Diz que é formosa essa moira,</l>
+                  <l>Que te soube infeitiçar...</l>
+                  <l>Mas tu dizias-me d'antes</l>
+                  <l>Que eu era bella sem par.</l>
+                  <l/>
+                  <l>«Que é môça, na flor da vida...</l>
+                  <l>Eu, se ainda bem sei contar,</l>
+                  <l>Ha tres que tinha vinte annos,</l>
+                  <l>Fi-los depois de casar.</l>
+                  <l/>
+                  <l>«Diz que tem os olhos pretos.</l>
+                  <l>D'estes que sabem mandar...</l>
+                  <l>Os meus são azues, coitados!</l>
+                  <l>Não sabem senão chorar.</l>
+                  <l/>
+                  <l>«Zahara, que é flor, lhe chamam</l>
+                  <l>A mim, Gaia... Que acertar!</l>
+                  <l>Eu fiquei sem alegria,</l>
+                  <l>A flor quem lh'a hade voltar?</l>
+                  <l/>
+                  <l>«Oh! quem podéra ser homem,</l>
+                  <l>Vestir armas, cavalgar,</l>
+                  <l>Que eu me fôra ja direita</l>
+                  <l>A esse moiro Alboazar...»</l>
+                  <l/>
+                  <l>Palavras não eram dittas,</l>
+                  <l>Os olhos foi a abaixar,</l>
+                  <l>Muitos vultos acercados</l>
+                  <l>Ao palacio viu estar.</l>
+                  <l/>
+                  <l>--«Peronella, Peronella,</l>
+                  <l>Criada do meu mandar,</l>
+                  <l>Que vultos serão aquelles</l>
+                  <l>Que por alli vejo andar?»</l>
+                  <l/>
+                  <l>Peronella não responde:</l>
+                  <l>Que havia de ella fallar?</l>
+                  <l>Riccas peitas de oiro e joias</l>
+                  <l>A tinham feito callar.</l>
+                  <l/>
+                  <l>A rainha que se erguia</l>
+                  <l>Por sua gente a bradar,</l>
+                  <l>Sette moiros cavalleiros</l>
+                  <l>A foram logo cercar;</l>
+                  <l/>
+                  <l>Soltam prégas de um turbante,</l>
+                  <l>A bôcca lhe vão tapar;</l>
+                  <l>Tres a tomaram nos braços...</l>
+                  <l>Nem mais um ai pôde dar.</l>
+                  <l/>
+                  <l>Criados da sua casa,</l>
+                  <l>Nenhum veio a seu chamar;</l>
+                  <l>Ou peitados ou captivos</l>
+                  <l>Não n'a podem resgatar.</l>
+                  <l/>
+                  <l>São sette os moiros que entraram,</l>
+                  <l>Sette os estão a aguardar;</l>
+                  <l>Não fallam nem uns nem outros...</l>
+                  <l>E prestes, a cavalgar!</l>
+                  <l/>
+                  <l>So um, que de arção a toma,</l>
+                  <l>Parece aos outros mandar...</l>
+                  <l>Junctos junctos, certos certos,</l>
+                  <l>Galopa a bom galopar!</l>
+                  <l/>
+                  <l>Toda a noite, toda a noite</l>
+                  <l>Vão correndo sem cessar;</l>
+                  <l>Pelos montes trote largo,</l>
+                  <l>Por valles a desfilar.</l>
+                  <l/>
+                  <l>Nos ribeiros--peito n'agua,</l>
+                  <l>Chape, chape, a vadear!</l>
+                  <l>Nas defesas dos vallados</l>
+                  <l>Up! salto--e a galgar!</l>
+                  <l/>
+                  <l>Vai o dia alvorecendo,</l>
+                  <l>Estão á beira do mar.</l>
+                  <l>Que rio é este tam fundo</l>
+                  <l>Que n'elle vem desaguar?</l>
+                  <l/>
+                  <l>A bôcca ja tinha livre,</l>
+                  <l>Mas não acerta a fallar</l>
+                  <l>A pasmada da rainha...</l>
+                  <l>Cuida ainda de sonhar!</l>
+                  <l/>
+                  <l>--«Rio Doiro, rio Doiro,</l>
+                  <l>Rio de mau navegar,</l>
+                  <l>Dize-me, essas tuas aguas</l>
+                  <l>Aonde as foste buscar?</l>
+                  <l/>
+                  <l>«Dir-te-hei a perola fina</l>
+                  <l>Aonde eu a fui roubar.</l>
+                  <l>Ribeiros correm ao rio,</l>
+                  <l>O rio corre a la mar,</l>
+                  <l/>
+                  <l>«Quem me roubou minha joia,</l>
+                  <l>Sua joia lhe fui roubar.»</l>
+                  <l>O moiro que assim cantava,</l>
+                  <l>Gaia que o estava a mirar...</l>
+                  <l/>
+                  <l>Quanto o mais mirares, Gaia,</l>
+                  <l>Mais formoso o hasde achar.</l>
+                  <l>--«Quantos barcos alli véem!»</l>
+                  <l>--«Barcos que nos véem buscar.»</l>
+                  <l>--«Que lindo castello aquelle!»</l>
+                  <l>--«É o do moiro Alboazar.»</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>II</label>
+               </head>
+               <p rend="justify">Ilustração do capítulo II</p>
+               <lg>
+                  <l>Rei Ramiro, rei Ramiro,</l>
+                  <l>Rei de muito mau pezar,</l>
+                  <l>Ruins fadas te fadaram,</l>
+                  <l>Má sina te foram dar.</l>
+                  <l/>
+                  <l>Do que tens não fazer conta,</l>
+                  <l>O que não tens cubiçar..!</l>
+                  <l>Zahara, a flor de teus cuidados,</l>
+                  <l>Ja te não dá que pensar.</l>
+                  <l/>
+                  <l>A rainha, que era tua,</l>
+                  <l>Que não soubeste guardar,</l>
+                  <l>Agora morto de zelos</l>
+                  <l>Do moiro a queres cobrar.</l>
+                  <l/>
+                  <l>Oh!.. que barcos são aquelles</l>
+                  <l>Doiro acima a navegar?</l>
+                  <l>A noite escura cerrada,</l>
+                  <l>E elles mansinho a remar...</l>
+                  <l/>
+                  <l>Cozeram-se com a terra,</l>
+                  <l>Lá se foram incostar;</l>
+                  <l>Entre os ramos dos salgueiros</l>
+                  <l>Mal se podem divisar.</l>
+                  <l/>
+                  <l>Um homem saltou em terra:</l>
+                  <l>Onde irá n'aquelle andar?</l>
+                  <l>Leva bordão e esclavina,</l>
+                  <l>Nas contas vai a rezar.</l>
+                  <l/>
+                  <l>Inda a névoa tolda o rio,</l>
+                  <l>O sol ja vem a rasgar,</l>
+                  <l>Pela incosta do castello</l>
+                  <l>Vai um romeiro a cantar:</l>
+                  <l/>
+                  <l>--«Sanctiago de Galliza,</l>
+                  <l>Longe fica o vosso altar:</l>
+                  <l>Peregrino que la chegue</l>
+                  <l>Não sabe se hade voltar.»</l>
+                  <l/>
+                  <l>Na incosta do castello</l>
+                  <l>Uma fonte está a manar;</l>
+                  <l>Donzella que está na fonte</l>
+                  <l>Poz-se o romeiro a escutar»</l>
+                  <l/>
+                  <l>A donzella está na fonte,</l>
+                  <l>A jarra cheia a deitar:</l>
+                  <l>--«Bemditto sejais, romeiro,</l>
+                  <l>E o vosso doce cantar!</l>
+                  <l/>
+                  <l>«Por éstas terras de moiros</l>
+                  <l>É maravilha de azar,</l>
+                  <l>Ouvir cantigas tão sanctas</l>
+                  <l>Cantigas do meu criar.</l>
+                  <l/>
+                  <l>«Sette padres as cantavam</l>
+                  <l>Á roda de um bento altar;</l>
+                  <l>Outros sette respondiam</l>
+                  <l>No côro do salmear,</l>
+                  <l>Entre véspera e completas;</l>
+                  <l>E os sinos a repicar.</l>
+                  <l/>
+                  <l>«Ai triste da minha vida</l>
+                  <l>Que os não oiço ja tocar!</l>
+                  <l>E as rezas d'estes moiros</l>
+                  <l>Ao demo as quizera eu dar.»</l>
+                  <l/>
+                  <l>--«Deus vos mantenha, donzella</l>
+                  <l>E o vosso cortez fallar:</l>
+                  <l>Por éstas terras de moiros</l>
+                  <l>Quem tal soubera de achar!</l>
+                  <l/>
+                  <l>«Por vossa tenção, donzella,</l>
+                  <l>Uma reza heide rezar</l>
+                  <l>Aqui ao-pé d'esta fonte,</l>
+                  <l>Que não posso mais andar.</l>
+                  <l/>
+                  <l>«Oh! que fresca está a fonte,</l>
+                  <l>Oh! que sêde de matar!</l>
+                  <l>Que Deus vos salve, donzella,</l>
+                  <l>Se aqui me deixais sentar.»</l>
+                  <l/>
+                  <l>--«Sente-se o bom do romeiro,</l>
+                  <l>Assente-se a descansar.</l>
+                  <l>Fresca é a fonte, doce a agua,</l>
+                  <l>Tem virtude singular:</l>
+                  <l/>
+                  <l>«D'outra não bebe a rainha</l>
+                  <l>Que aqui m'a manda buscar</l>
+                  <l>Por manhanzinha bem cedo</l>
+                  <l>Antes de o sol aquentar.»</l>
+                  <l/>
+                  <l>--«Doce agua deve de ser,</l>
+                  <l>De virtude singular:</l>
+                  <l>Dae-me vós uma vez d'ella</l>
+                  <l>Que me quero consolar.»</l>
+                  <l/>
+                  <l>--«Beba o peregrino, beba</l>
+                  <l>Por esta fonte real,</l>
+                  <l>Cântara de prata virgem,</l>
+                  <l>Tem mais valor que oiro tal.»</l>
+                  <l/>
+                  <l>--«Dona Gaia que diria,</l>
+                  <l>Que faria Alboazar</l>
+                  <l>Se visse o pobre romeiro</l>
+                  <l>Beber da fonte real?..»</l>
+                  <l/>
+                  <l>--«Inda era noite fechada</l>
+                  <l>Meu senhor foi a caçar:</l>
+                  <l>Maus javardos o detenham,.</l>
+                  <l>Que é bem ruim de aturar!</l>
+                  <l/>
+                  <l>«Minha senhora, coitada,</l>
+                  <l>Essa não tem que fallar:</l>
+                  <l>Quem ja teve fontes de oiro</l>
+                  <l>Prata não sabe zelar.»</l>
+                  <l/>
+                  <l>--«Pois um recado, donzella,</l>
+                  <l>Agora lhe heisde levar;</l>
+                  <l>Que o romeiro christão</l>
+                  <l>Lhe deseja de fallar</l>
+                  <l/>
+                  <l>«Da parte de um que é ja morto,</l>
+                  <l>Que morreu por seu pezar,</l>
+                  <l>Que á hora de sua morte</l>
+                  <l>Este annel lhe quiz mandar.»</l>
+                  <l/>
+                  <l>Tirou o annel do dedo,</l>
+                  <l>E na jarra o foi deitar:</l>
+                  <l>--«Quando ella beber da agua</l>
+                  <l>No annel hade attentar.»</l>
+                  <l/>
+                  <l>Fôra d'alli a donzella,</l>
+                  <l>Ia morta por fallar...</l>
+                  <l>--«Anda ca, ó Peronella,</l>
+                  <l>Criada de mau mandar,</l>
+                  <l/>
+                  <l>«Tua ama morrendo á sêde</l>
+                  <l>E tu na fonte a folgar?»</l>
+                  <l>--«Folgar não folguei, senhora,</l>
+                  <l>Mas deixei-me adormentar,</l>
+                  <l/>
+                  <l>«Que a moira vida que eu levo</l>
+                  <l>Ja não n'a posso aturar.</l>
+                  <l>Ai terra da minha terra,</l>
+                  <l>Ai <hi rend="italic">Milhor</hi>  da beira-mar!</l>
+                  <l/>
+                  <l>«Aquella sim que era vida,</l>
+                  <l>Aquillo que era folgar!</l>
+                  <l>E em sancto temor de Deus,</l>
+                  <l>Não aqui n'este peccar!»</l>
+                  <l/>
+                  <l>--«Cal-te, cal-te, Peronella,</l>
+                  <l>Não me queiras attentar;</l>
+                  <l>Que eu a viver entre moiros</l>
+                  <l>Me não vim por meu gostar.</l>
+                  <l/>
+                  <l>«Mas ja tenho perdoado</l>
+                  <l>A quem lá me foi roubar,</l>
+                  <l>Que antes escrava contente</l>
+                  <l>Do que rainha a chorar.</l>
+                  <l/>
+                  <l>«Forte christandade aquella,</l>
+                  <l>Bom era aquelle reinar!</l>
+                  <l>Viver so, desemparada,</l>
+                  <l>Ver a moira em meu logar!..»</l>
+                  <l/>
+                  <l>Lembrava-lhe a sua offensa,</l>
+                  <l>Está-lhe o sangue a queimar...</l>
+                  <l>Na agua fria da fonte</l>
+                  <l>A sêde quiz apagar.</l>
+                  <l/>
+                  <l>A fonte de prata virgem</l>
+                  <l>Á bôcca foi a levar,</l>
+                  <l>As riccas pedras do annel</l>
+                  <l>No fundo viu a brilhar.</l>
+                  <l/>
+                  <l>--«Jesus seja c'o a minha alma!</l>
+                  <l>Feitiços me querem dar...</l>
+                  <l>O fogo a arder dentro n'agua</l>
+                  <l>E ella fria de nevar!»</l>
+                  <l/>
+                  <l>--«Senhora, c'o esses feitiços</l>
+                  <l>Me tomára eu imbruxar!</l>
+                  <l>Foi um bemditto romeiro</l>
+                  <l>Que á fonte fui incontrar,</l>
+                  <l/>
+                  <l>«Que ahi deitou esse annel</l>
+                  <l>Para próva singular</l>
+                  <l>De um recado que vos trouxe</l>
+                  <l>Com que muito heisde folgar.»</l>
+                  <l/>
+                  <l>--«Venha ja esse romeiro,</l>
+                  <l>Que lhe quero ja fallar:</l>
+                  <l>Embaixador deve ser</l>
+                  <l>Quem traz presente real.»</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>III</label>
+               </head>
+               <p rend="justify">Ilustração do capítulo III</p>
+               <lg>
+                  <l>Por Deus vos digo, romeiro,</l>
+                  <l>Que vos queirais levantar;</l>
+                  <l>Minhas mãos não são reliquias,</l>
+                  <l>Basta de tanto beijar!»</l>
+                  <l/>
+                  <l>O romeiro não se erguia,</l>
+                  <l>As mãos não lhe quer largar;</l>
+                  <l>Os beijos uns sobre os outros</l>
+                  <l>Que era um nunca acabar.</l>
+                  <l/>
+                  <l>Ia a infadar-se a rainha,</l>
+                  <l>Ouviu-o a soluçar,</l>
+                  <l>E as lagrymas, quatro e quatro,</l>
+                  <l>Nas mãos sentia rollar:</l>
+                  <l/>
+                  <l>--«Que tem o bom do romeiro</l>
+                  <l>Que lhe dá tanto pezar?</l>
+                  <l>Diga-me las suas penas</l>
+                  <l>Se lh'as posso alliviar.»</l>
+                  <l/>
+                  <l>--«Minhas penas não são minhas,</l>
+                  <l>Que aos mortos morre o penar:</l>
+                  <l>Mas a vida que eu perdi</l>
+                  <l>Em vós podia incontrar.</l>
+                  <l/>
+                  <l>«Minhas penas não são minhas,</l>
+                  <l>Senão vossas, mal pezar!</l>
+                  <l>Que uma rainha christan</l>
+                  <l>Feita moira vim achar...»</l>
+                  <l/>
+                  <l>--«Romeiro não tomeis coita</l>
+                  <l>Por quem se não quer coitar:</l>
+                  <l>Do que fui ja me não lembro,</l>
+                  <l>O que sou não me é dezar.</l>
+                  <l/>
+                  <l>«Deus terá dó da minha alma,</l>
+                  <l>Que meu não foi o peccar;</l>
+                  <l>E a esse traidor Ramiro</l>
+                  <l>As contas lhe hade tomar.»</l>
+                  <l/>
+                  <l>--«Pois não espereis, senhora,</l>
+                  <l>Por Deus que póde tardar:</l>
+                  <l>Dom Ramiro aqui o tendes,</l>
+                  <l>Mandae-o ja castigar.»</l>
+                  <l/>
+                  <l>Em pé está Dom Ramiro,</l>
+                  <l>Ja não ha que disfarçar:</l>
+                  <l>Aquellas barbas tam brancas</l>
+                  <l>Cahiram de um impuxar;</l>
+                  <l/>
+                  <l>O bordão e a esclavina</l>
+                  <l>A terra foram parar:</l>
+                  <l>Não ha ver mais gentilezas</l>
+                  <l>De meneio e de trajar.</l>
+                  <l/>
+                  <l>Quem viu olhos como aquelles</l>
+                  <l>Com que o ella está a mirar!</l>
+                  <l>Quem passou ja transes d'alma</l>
+                  <l>Como ella está a passar?</l>
+                  <l/>
+                  <l>Um tremor que não é mêdo,</l>
+                  <l>Um surriso de infiar,</l>
+                  <l>Vergonha que não é pejo,</l>
+                  <l>Faces que ardem sem corar...</l>
+                  <l/>
+                  <l>Tudo isso tem no semblante,</l>
+                  <l>Tudo lhe está a assomar</l>
+                  <l>Como ondas que vão e véem</l>
+                  <l>Na travessia do mar.</l>
+                  <l/>
+                  <l>A vingança é o prazer do homem;</l>
+                  <l>Da mulher, é seu manjar:</l>
+                  <l>Assim perdoa elle e vive,</l>
+                  <l>Ella não--que era acabar.</l>
+                  <l/>
+                  <l>Vingar-se foi o primeiro</l>
+                  <l>E o derradeiro pensar</l>
+                  <l>Que, entre tantos pensamentos,</l>
+                  <l>Em Gaia estão a pullar:</l>
+                  <l/>
+                  <l>Logo depois a vaidade,</l>
+                  <l>O gôsto de triumphar</l>
+                  <l>N'um coração que foi seu,</l>
+                  <l>Que seu lhe torna a voltar.</l>
+                  <l/>
+                  <l>E o rei moiro estava longe</l>
+                  <l>C'os seus no monte a caçar,</l>
+                  <l>Ella so n'aquella tôrre...</l>
+                  <l>Prudencia e dissimular!</l>
+                  <l/>
+                  <l>Abre a bôcca a um surriso</l>
+                  <l>Doce e triste--de matar!</l>
+                  <l>Tempéra a chamma dos olhos,</l>
+                  <l>Abafa-a por mais queimar.</l>
+                  <l/>
+                  <l>Poz na voz aquelle incauto</l>
+                  <l>Que--ou minta ou não, é fatal.</l>
+                  <l>E, com o inferno no seio,</l>
+                  <l>Falla o ceo no seu fallar.</l>
+                  <l/>
+                  <l>Ja os amargos queixumes</l>
+                  <l>Se imbrandecem no chorar,</l>
+                  <l>E em sua propria justiça</l>
+                  <l>Com arte finge affrouxar.</l>
+                  <l/>
+                  <l>Protesta a bôcca a verdade:</l>
+                  <l>«Que não hade perdoar...»</l>
+                  <l>Mas a verdade dos labios</l>
+                  <l>Os olhos querem negar.</l>
+                  <l/>
+                  <l>De joelhos Dom Ramiro</l>
+                  <l>Alli se estava a humilhar,</l>
+                  <l>Supplíca, roga, promette...</l>
+                  <l>Ella parece hesitar.</l>
+                  <l/>
+                  <l>Senão quando uma bozina</l>
+                  <l>Se ouviu ao longe tocar...</l>
+                  <l>A rainha mal podia</l>
+                  <l>O seu prazer disfarçar:</l>
+                  <l/>
+                  <l>--«Escondei-vos, Dom Ramiro,</l>
+                  <l>Que é chegado Alboazar;</l>
+                  <l>Depressa, n'este aposento...</l>
+                  <l>Ou ja me vereis matar.»</l>
+                  <l/>
+                  <l>Mal a chave deu tres voltas,</l>
+                  <l>Na manga a foi resguardar;</l>
+                  <l>Mal tirou a mão da cotta,</l>
+                  <l>Que o rei moiro vinha a entrar.</l>
+                  <l/>
+                  <l>--«Tristes novas, minha Gaia,</l>
+                  <l>Novas de muito pezar!</l>
+                  <l>Primeira vez em tres annos</l>
+                  <l>Que me succede este azar!..</l>
+                  <l/>
+                  <l>«Toquei a minha bozina</l>
+                  <l>Ás portas, antes de entrar,</l>
+                  <l>E não correste ás ameias</l>
+                  <l>Para me ver e saudar!</l>
+                  <l/>
+                  <l>«Muito mal fizeste, amiga,</l>
+                  <l>Em tam mal me costumar:</l>
+                  <l>Não sei que fazes agora</l>
+                  <l>Em me querer emendar...»</l>
+                  <l/>
+                  <l>No coração da rainha</l>
+                  <l>Batalha se estão a dar</l>
+                  <l>Os mais estranhos affectos</l>
+                  <l>Que nunca se hãode incontrar:</l>
+                  <l/>
+                  <l>O que foi, o que é agora,</l>
+                  <l>E a ambição de reinar...</l>
+                  <l>O amor que tem ao moiro,</l>
+                  <l>E o gôsto de se vingar...</l>
+                  <l/>
+                  <l>Venceu amor e vingança:</l>
+                  <l>Deviam de triumphar,</l>
+                  <l>Que era em peito de mulher</l>
+                  <l>Que a batalha se foi dar.</l>
+                  <l/>
+                  <l>--«Novas tenho e grandes novas,</l>
+                  <l>Amigo, para vos dar:</l>
+                  <l>Tomae esta chave e abride,</l>
+                  <l>Vereis se são de pezar.»</l>
+                  <l/>
+                  <l>Com que ância elle abriu a porta,</l>
+                  <l>Vista que foi incontrar!..</l>
+                  <l>Palavras que alli disseram,</l>
+                  <l>Não n'as saberei contar:</l>
+                  <l/>
+                  <l>Que foi um bramir de ventos,</l>
+                  <l>Um bater d'aguas no mar,</l>
+                  <l>Um confundir ceo e terra,</l>
+                  <l>Querer-se o mundo acabar...</l>
+                  <l/>
+                  <l>Vereis por fim o rei moiro</l>
+                  <l>Que sentença veio a dar:</l>
+                  <l>--«Perdeste a honra, christão:</l>
+                  <l>Vida, quero-t'a deixar.</l>
+                  <l/>
+                  <l>«De uma vez que me roubaste</l>
+                  <l>Muito bem me fiz pagar:</l>
+                  <l>D'esta basta-me a vergonha</l>
+                  <l>Para de ti me vingar.»</l>
+                  <l/>
+                  <l>Sentia-se elrei Ramiro</l>
+                  <l>Do despeito devorar;</l>
+                  <l>Com ar contricto e affligido</l>
+                  <l>Assim lhe foi a fallar:</l>
+                  <l/>
+                  <l>--«Grandes foram meus peccados,</l>
+                  <l>Poderoso Alboazar;</l>
+                  <l>E taes que a mercê da vida</l>
+                  <l>De ti não posso acceitar:</l>
+                  <l/>
+                  <l>«Eu não vim a teu castello</l>
+                  <l>Senão so por me intregar,</l>
+                  <l>Para receber a morte</l>
+                  <l>Que tu me quizeres dar:</l>
+                  <l/>
+                  <l>«Que assim me foi ordenado</l>
+                  <l>Para minha alma salvar</l>
+                  <l>Por um sancto confessor</l>
+                  <l>A quem me fui confessar.</l>
+                  <l/>
+                  <l>«E mais me disse e mandou,</l>
+                  <l>E assim t'o quero rogar,</l>
+                  <l>Que, pois foi pública a offensa,</l>
+                  <l>Público seja o penar:</l>
+                  <l/>
+                  <l>«Que ahi n'essa praça d'armas</l>
+                  <l>Tua gente faças junctar,</l>
+                  <l>Ahi deante de todos</l>
+                  <l>A vida quero acabar</l>
+                  <l/>
+                  <l>«Tangendo n'ésta bozina</l>
+                  <l>Tangendo até rebentar;</l>
+                  <l>Que digam os que isto virem,</l>
+                  <l>E lhes fique de alembrar:</l>
+                  <l/>
+                  <l>«Grande foi o seu peccado,</l>
+                  <l>«No mundo andou a soar;</l>
+                  <l>«Mas a sua penitencia</l>
+                  <l>«Mais alto som veio a dar.»</l>
+                  <l/>
+                  <l>Quizera-lhe o bom do moiro</l>
+                  <l>Por fôrça alli perdoar:</l>
+                  <l>Mas se a pêrra da rainha</l>
+                  <l>Jurou de á morte o levar!...</l>
+                  <l/>
+                  <l>Veis na praça do castello,</l>
+                  <l>Toda moirama a ajunctar;</l>
+                  <l>Em pé no meio da turba</l>
+                  <l>Ramiro se foi alçar.</l>
+                  <l/>
+                  <l>Tange que lhe tangerás,</l>
+                  <l>Toca rijo a bom tocar;</l>
+                  <l>Por muitas leguas á roda</l>
+                  <l>Reboava o bozinar.</l>
+                  <l/>
+                  <l>Se o ouvirão nas galés</l>
+                  <l>Que deixou a beira-mar?</l>
+                  <l>De-certo ouviram, que um grito</l>
+                  <l>Tremendo se ouve soar...</l>
+               </lg>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <label>IV</label>
+               </head>
+               <p rend="justify">Ilustração do capítulo IV</p>
+               <lg>
+                  <l>«Sanctiago!.. Cerra, cerra!</l>
+                  <l>Sanctiago, e a matar!»</l>
+                  <l>Abertas estão as portas</l>
+                  <l>Da torre de par em par;</l>
+                  <l/>
+                  <l>Nem atalaias nos muros</l>
+                  <l>Nem roldas para as velar.</l>
+                  <l>Os moiros despercebidos</l>
+                  <l>Sentem-se logo apertar</l>
+                  <l/>
+                  <l>De um tropel de leonezes</l>
+                  <l>Ja portas a dentro a entrar.</l>
+                  <l>Deixa a bozina Ramiro,</l>
+                  <l>Mão á espada foi lançar,</l>
+                  <l/>
+                  <l>E, de um só golpe, fendente,</l>
+                  <l>Sem mais pôr nem mais tirar,</l>
+                  <l>Parte a cabeça até os peitos</l>
+                  <l>Ao rei moiro Alboazar.</l>
+                  <l/>
+                  <l>Ja tudo é morto ou captivo,</l>
+                  <l>Ja o castello está a queimar,</l>
+                  <l>Ás galés, com seu despojo,</l>
+                  <l>Se foram logo imbarcar.</l>
+                  <l/>
+                  <l>--«Voga, rema! d'além Doiro</l>
+                  <l>Á pressa, á pressa a passar,</l>
+                  <l>Que ja oiço alli na praia</l>
+                  <l>Cavallos a relinchar.</l>
+                  <l/>
+                  <l>«Bandeiras são de Leão</l>
+                  <l>Que lá vejo tremular:</l>
+                  <l>Voga, voga, que além Doiro</l>
+                  <l>É terra nossa!.. a remar!</l>
+                  <l/>
+                  <l>«D'aqui é moirama cerrada</l>
+                  <l>Até Coimbra e Thomar.</l>
+                  <l>Voga, rema, e d'além Doiro!</l>
+                  <l>D'aquem não ha que fiar.»</l>
+                  <l/>
+                  <l>Á poppa vai Dom Ramiro</l>
+                  <l>De sua galé real,</l>
+                  <l>Leva a rainha á direita</l>
+                  <l>Como quem a quer honrar:</l>
+                  <l/>
+                  <l>Ella muda, os olhos baixos</l>
+                  <l>Leva n'agua... sem olhar,</l>
+                  <l>E como quem de outras vistas</l>
+                  <l>Se quer so desaffrontar.</l>
+                  <l/>
+                  <l>Ou Dom Ramiro fingia</l>
+                  <l>Ou não vem n'isso a attentar:</l>
+                  <l>Ja vão a meia corrente,</l>
+                  <l>Sem um para o outro fallar.</l>
+                  <l/>
+                  <l>Ainda arde, inda fumega</l>
+                  <l>O alcaçar de Alboazar:</l>
+                  <l>Gaia alevantou os olhos,</l>
+                  <l>Triste se poz a mirar;</l>
+                  <l/>
+                  <l>As lagrymas, uma e uma,</l>
+                  <l>Lhe estavam a desfiar,</l>
+                  <l>Ao longo, longo das faces</l>
+                  <l>Correm... sem ella as chorar.</l>
+                  <l/>
+                  <l>Olhou elrei para Gaia,</l>
+                  <l>Não se pôde mais callar:</l>
+                  <l>Cuidava o bom do marido</l>
+                  <l>Que era remorso e pezar</l>
+                  <l/>
+                  <l>Do mau termo atraiçoado</l>
+                  <l>Que com elle fôra usar</l>
+                  <l>Quando o intregou ao moiro</l>
+                  <l>Tam so para se vingar.</l>
+                  <l/>
+                  <l>Com a voz internecida</l>
+                  <l>Assim lhe foi a fallar:</l>
+                  <l>--«Que tens, Gaia... minha Gaia?</l>
+                  <l>Ora pois! não mais chorar,</l>
+                  <l/>
+                  <l>«Que o feito é feito...»--«E bem feito!»</l>
+                  <l>Tornou-lhe ella a soluçar,</l>
+                  <l>Rompendo agora n'uns prantos</l>
+                  <l>Que parecia estalar:</l>
+                  <l/>
+                  <l>«E bem feito, rei Ramiro!</l>
+                  <l>Valente acção! de pasmar!</l>
+                  <l>Á lei de bom cavalleiro,</l>
+                  <l>Para de um rei se contar!</l>
+                  <l/>
+                  <l>«Á falsa fe o mataste...</l>
+                  <l>Quem a vida te quiz dar!</l>
+                  <l>Á traição... que d'outro modo</l>
+                  <l>Não es homem para tal.</l>
+                  <l/>
+                  <l>«Mataste o mais bello moiro,</l>
+                  <l>Mais gentil, mais para amar</l>
+                  <l>Que entre moiros e christãos</l>
+                  <l>Nunca mais não terá par.</l>
+                  <l/>
+                  <l>«Perguntas-me porque choro!..</l>
+                  <l>Traidor rei, que heide eu chorar?</l>
+                  <l>Que o não tenho nos meus braços,</l>
+                  <l>Que a teu poder vim parar.</l>
+                  <l/>
+                  <l>«Perguntaste-me o que miro!..</l>
+                  <l>Traidor rei, que heide eu mirar?</l>
+                  <l>As torres d'aquelle alcaçar</l>
+                  <l>Que ainda estão a fumegar:</l>
+                  <l/>
+                  <l>«Se eu fui alli tam ditosa,</l>
+                  <l>Se alli soube o que era amar,</l>
+                  <l>Se alli me fica alma e vida...</l>
+                  <l>Traidor rei, que heide eu mirar?»</l>
+                  <l/>
+                  <l>--«Pois <hi rend="italic">mira</hi>, <hi rend="italic">Gaia!</hi>» E, dizendo,</l>
+                  <l>Da espada foi arrancar:</l>
+                  <l>
+                     <hi rend="italic">«Mira</hi>, <hi rend="italic">Gaia</hi>, que esses olhos</l>
+                  <l>Não terão mais que mirar.»</l>
+                  <l/>
+                  <l>Foi-lhe a cabeça de um talho;</l>
+                  <l>E com o pé, sem olhar,</l>
+                  <l>Borda fóra impuxa o corpo...</l>
+                  <l>O Doiro que os leve ao mar.</l>
+                  <l/>
+                  <l>Do estranho caso inda agora</l>
+                  <l>Memoria está a durar:</l>
+                  <l>Gaia é o nome do castello</l>
+                  <l>Que alli Gaia fez queimar;</l>
+                  <l/>
+                  <l>E d'além Doiro, essa praia</l>
+                  <l>Onde o barco ia a aproar</l>
+                  <l>Quando bradou «Mira, Gaia!»</l>
+                  <l>O rei que a vai degollar,</l>
+                  <l/>
+                  <l>Ainda hoje está dizendo</l>
+                  <l>Na tradição popular,</l>
+                  <l>Que o nome tem--Miragaia</l>
+                  <l>D'aquelle fatal mirar.</l>
+               </lg>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,2114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Estudo de Guitarra</title>
+            <author>Antônio da Silva Leite</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-01T18:20:52Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">odts/pt-odts/Estudo de Guitarra.63664.epub.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name>Antônio da Silva Leite</name>
+               <date>2024-01-01T18:20:52Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Estudo de Guitarra</head>
+         <author>Antônio da Silva Leite</author>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">odts/pt-odts/Estudo de Guitarra.63664.epub.odt</p>
+         <head>ESTUDO DE GUITARRA,</head>
+         <p>EM QUE SE EXPOEM</p>
+         <p>O MEIO MAIS FACIL PARA APRENDER A TOCAR</p>
+         <p>ESTE INSTRUMENTO:</p>
+         <p>
+            <hi rend="italic">DIVIDIDO EM DUAS PARTES.</hi>
+         </p>
+         <p>A PRIMEIRA CONTEM AS PRINCIPAES REGRAS DA MUSICA,</p>
+         <p>E DO ACCOMPANHAMENTO.</p>
+         <p>A SEGUNDA AS DA GUITARRA;</p>
+         <p>A que se ajunta huma Collecçaõ de <hi rend="italic">Minuetes</hi>, <hi rend="italic">Marchas</hi>, <hi rend="italic">Allegros</hi>, <hi rend="italic">Contradanças</hi>, e outras <hi rend="italic">Peças</hi>  mais usuaes para desembaraço dos Principiantes: tudo com accompanhamento de Segunda <hi rend="italic">Guitarra</hi>.</p>
+         <p>OFFERECIDO</p>
+         <p>Á ILLUSTRISSIMA, E EXCELLENTISSIMA</p>
+         <p>SENHORA D. ANTONIA MAGDALENA</p>
+         <p>DE QUADROS E SOUSA,</p>
+         <p>
+            <hi rend="italic">SENHORA DE TAVAREDE</hi>.</p>
+         <p>POR</p>
+         <p>ANTONIO DA SILVA LEITE,</p>
+         <p>
+            <hi rend="italic">Mestre de Capella, natural da Cidade do Porto</hi>.</p>
+         <p>_</p>
+         <p>PORTO,</p>
+         <p>NA OFFICINA TYPOGRAFICA DE ANTONIO ALVAREZ RIBEIRO,</p>
+         <p>Anno de <hi rend="bold">M.DCC.XCVI.</hi>
+         </p>
+         <p>
+            <hi rend="italic">Com licença da Mesa do Desembargo do Paço.</hi>
+         </p>
+         <p>Vende-se na mesma Officina na rua de S. Miguel, nas casas N.<hi rend="sup">o</hi>  260, e na rua das Flores, na loja de Livros á esquina da travessa do Ferraz.</p>
+         <p>
+            <lb/>
+            <hi rend="italic">Interiora amimi penetrat, animumque vehementissime pulsat.</hi>
+         </p>
+         <p>
+            <lb/>Plato in tertio Reipubl.  </p>
+         <p>
+            <lb/>
+            <lb/>Foi taxado este livro em papel a 1200 reis. Lisboa 15 de Março de 1796.<lb/>
+         </p>
+         <p>
+            <lb/>
+            <hi rend="italic">Com seis Rubricas.  </hi>
+         </p>
+         <pb/>
+         <div type="div1">
+            <head>Estudo de Guitarra</head>
+            <pb/>
+            <div type="div2">
+               <head>ILLUT., E EXCELLENT. SENHORA.</head>
+               <p rend="justify">
+                  <hi rend="italic">O desejo de ser util aos Patricios amantes da Musica, concorrendo com as minhas fracas luzes, alcançadas pelo estudo, e applicaçaõ em que me tenho empregado desde a infancia; concorrendo, digo, para o approveitamento dos que se deleitaõ com o honesto, e grato prazer que causa esta Arte Scientifica, de que tambem resulta em parte a cultura das grandes Cidades: esse foi o que me obrigou, além de outras Composiçoens, em que tenho trabalhado, a escrever tambem sobre o suave, e harmonico Instrumento da</hi> Guitarra, <hi rend="italic">taõ applaudida neste tempo, por todos os que sabem deleitar-se com a doçura da harmonia; e o que me anima a dár á luz este breve Opusculo, em que exponho com a possivel clareza as Regras conducentes para aprendello com facilidade; e a applicaçaõ pratica das mesmas nos</hi> Minuetes, Marchas, etc. <hi rend="italic">que offereço juntos: o mesmo desejo he o que igualmente me inspira o arrojo de pertender dar-lhe o valor, que naõ tem, ennobrecendo-o com o Illustre, e Respeitavel Nome de</hi> V. Excellencia.</p>
+               <p rend="justify">
+                  <hi rend="italic">Sim</hi>, Illustrissima, e Excellentissima Senhora, <hi rend="italic">naõ he só a reverente, e sincera veneraçaõ com que respeito a</hi>  V. Excellencia, <hi rend="italic">como felice Consorte do Illustrissimo, do Sabio, e Zeloso Senador, que com tanto zelo promove a felicidade, e esplendor da minha Patria; e a quem eu sou devedor de memoraveis beneficios: naõ he ainda a gloria que me resulta de ser o primeiro, que me lembro de ir aos Pés de</hi>  V. Excellencia <hi rend="italic">com huma offerta scientifica, e que pelo objecto, naõ desmerecerá a Attençaõ do seu Discreto Espirito: naõ saõ estes sentimentos o estimulo da minha ousadia; ainda assim eu me julgaria réo de imprudente atrevimento de deslustrar o Illustre Nome de</hi>  V. Excellencia, <hi rend="italic">estampando-o juntamente com o meu, se me naõ animassem sentimentos mais dignos do Nobre, e Generoso Animo de</hi>  V. Excellencia.</p>
+               <p rend="justify">
+                  <hi rend="italic">O contemplar em</hi>  V. Excellencia <hi rend="italic">a generosa benignidade que caracteriza o seu Coraçaõ, e que brilha entre as Insignes, e Illustres Qualidades de que o Ceo a dotára, e a fazem crédora da justa veneraçaõ com que a respeitaõ todos, os que tem a ventura de admiralla: o contemplar em</hi>  V. Excellencia <hi rend="italic">hum Coraçaõ magnanimo, todo empenhado na felicidade dos Portuenses, e possuido dos beneficos sentimentos com que</hi>  V. Excellencia <hi rend="italic">verifica ser hum só o Coraçaõ, que a anima, e ao seu Illustrissimo Esposo, como quiz o Divino Instituidor do Felice Consorcio, a que a destinara a sabia Providencia; Isto</hi>, Illustrissima, e Excellentissima Senhora, <hi rend="italic">isto he o que me anima a esperar de</hi>  V. Excellencia <hi rend="italic">se dignará proteger os meus sinceros desejos; e consentir, que eu procure offuscar os defeitos desta obra com o esplendor do Illustrissimo Nome de</hi>  V. Excellencia. <hi rend="italic">O Público a verá entaõ sem fastio, e julgando util a Doutrina, que mereceu a approvaçaõ de</hi>  V. Excellencia, <hi rend="italic">tirará della o fructo que desejo; e eu darei por felicissimo o meu trabalho.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Prospere o Senhor, e dilate para felicidade minha, e da minha Patria, a Preciosa Vida de</hi>  V. Excellencia, <hi rend="italic">cuja Maõ bejo reverente, e agradecido á grande honra da sua benigna Protecçaõ.</hi>
+               </p>
+               <p rend="justify">  <hi rend="italic">ILL.</hi>
+                  <hi rend="sup italic">MA</hi>
+                  <hi rend="italic">, e EX.</hi>
+                  <hi rend="sup italic">MA</hi>
+                  <hi rend="italic">  SENHORA</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">De</hi>  V. Excellencia</p>
+               <p rend="justify">
+                  <lb/>
+                  <hi rend="italic">O mais humilde, e reverente Criado.</hi>
+               </p>
+               <p rend="justify">
+                  <lb/>Antonio da Silva Leite.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>PROLOGO.</head>
+               <p rend="justify">Amigo Leitor, por vêr o quanto me há sido custoso, na multidaõ dos Discipulos, que hei tido de <hi rend="italic">Guitarra</hi>, o estar para cada hum delles escrevendo, naõ só as necessarias Regras do mesmo Instrumento, como depois destas varios <hi rend="italic">Minuetes</hi>, <hi rend="italic">Marchas</hi>, <hi rend="italic">Allegros</hi>, <hi rend="italic">e Contradanças</hi>, <hi rend="italic">etc.</hi> he, naõ só por esta razaõ, como por evitar trabalho, e perda de tempo, que me propuz a dar ao Prélo esta pequena Obra, na qual recopilei tudo o que julguei necessario para huma primaria instrucçaõ: e porque naõ sendo estas Regras arbitrarias, as vejo viciadas por muitos Tocadores; e porque tambem muitos dos mesmos <hi rend="italic">Minuetes</hi>, <hi rend="italic">Marchas</hi>, <hi rend="italic">etc.</hi> que transcrevo nesta mesma Obra, os vejo irregularmente escriptos, principalmente nas segundas <hi rend="italic">Guitarras</hi>, que sendo compostas por sugeitos curiosos, que nada sabem de <hi rend="italic">Contraponto</hi>, estaõ a cada passo commettendo erros os mais notaveis; por tanto, tomando este pequeno trabalho, cuidei em pôr tudo com aquella ordem, e clareza, que julguei mais confórme á razaõ: se te quizeres instruir, pódes usar sem escrupulo della, e se te notarem de algum defeito recebido pela mesma instrucçaõ, dize ao tal contendente, que existo no Porto, de donde poderei com promptidaõ satisfazer ás suas objecçoens.</p>
+               <p rend="justify">
+                  <lb/>
+                  <hi rend="italic">Vale.</hi>
+               </p>
+               <p rend="justify">_</p>
+               <p rend="justify">ESTUDO DE GUITARRA.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>
+                  <hi rend="bold">PARTE I.</hi>
+               </head>
+               <div type="div3">
+                  <head>§. I.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Da Musica.</hi>
+                  </p>
+                  <p rend="justify">A Musica he Arte, porque dá preceitos para se poder tocar; e cantar com acerto.</p>
+                  <p rend="justify">Divide-se esta em <hi rend="italic">Theoretica</hi>, e <hi rend="italic">Pratica</hi>. A Musica <hi rend="italic">Theoretica</hi>, he a que comprehende os preceitos, e dá a razaõ: e a <hi rend="italic">Pratica</hi>, he a que se faz executando os mesmos preceitos, ou tocando, ou cantando.</p>
+               </div>
+               <div type="div3">
+                  <head>§. II.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Dos Signos.</hi>
+                  </p>
+                  <p rend="justify">Ordena-se a Musica por sette differentes letras, a que a Arte dá o nome de <hi rend="italic">Signos</hi>, que saõ: <hi rend="italic">A, B, C, D, E, F, G.</hi>  Estes devem tambem saber-se ás avessas, dizendo por este modo: <hi rend="italic">G, F, E, D, C, B, A.</hi>
+                  </p>
+               </div>
+               <div type="div3">
+                  <head>§. III.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Das Linhas, e Espaços.</hi>
+                  </p>
+                  <p rend="justify">As primeiras bases, sobre que a Musica se sustenta, saõ as <hi rend="italic">Linhas</hi>, e os <hi rend="italic">Espaços</hi>. <hi rend="italic">Linhas</hi>, saõ huns riscos, que atravessaõ o papel da parte esquerda para a direita. <hi rend="italic">Espaços</hi>, saõ os claros, que ficaõ de permeio entre as mesmas <hi rend="italic">Linhas</hi>. Há na Musica <hi rend="italic">Linhas</hi>, e <hi rend="italic">Espaços naturaes</hi>, e <hi rend="italic">accidentaes</hi>. As <hi rend="italic">Linhas naturaes</hi>  saõ cinco, e os <hi rend="italic">Espaços</hi>  quatro: e as <hi rend="italic">accidentaes</hi>, pódem suppôr-se pela parte superior até quatro, e pela inferior até duas, com os seus respectivos espaços, como mostro no seguinte</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">EXEMPLO.</hi>
+                  </p>
+                  <p rend="justify">_</p>
+               </div>
+               <div type="div3">
+                  <head>§. IV.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Das Claves.</hi>
+                  </p>
+                  <p rend="justify">O Primeiro signal que se costuma assignar nas <hi rend="italic">Linhas</hi>, he a <hi rend="italic">Clave</hi>, a qual serve para fitar os signos nas <hi rend="italic">Linhas</hi>, e <hi rend="italic">Espaços</hi>. Há na Musica tres <hi rend="italic">Claves</hi>, a saber: <hi rend="italic">Clave de F., Clave de C., e Clave de G.</hi>  A <hi rend="italic">Clave de F.</hi>  assigna-se na quarta linha; a de <hi rend="italic">C.</hi>, póde-se assignar na 1.<hi rend="sup">a</hi>, 3.<hi rend="sup">a</hi>  ou 4.<hi rend="sup">a</hi>; e a de <hi rend="italic">G</hi>., que he a <hi rend="italic">Clave</hi>  propria da Guitarra, assigna-se na 2.<hi rend="sup">a</hi>. As suas fórmas se mostraõ no seguinte</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">EXEMPLO.</hi>
+                  </p>
+                  <p rend="justify">_</p>
+               </div>
+               <div type="div3">
+                  <head>§. V.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Do Conhecimento dos Signos.</hi>
+                  </p>
+                  <p rend="justify">Como a <hi rend="italic">Clave</hi>  he a que fita os Signos nas <hi rend="italic">Linhas</hi>, e <hi rend="italic">Espaços</hi>; para se conhecerem os seus proprios lugares, se hirá applicando a cada <hi rend="italic">Linha</hi>, e <hi rend="italic">Espaço</hi>  o seucompetente Signo, e para isto se deve advertir, que os Signos para cima da Clave, contaõ-se sempre ás direitas, e para baixo ás avessas: e como a Clave de <hi rend="italic">G</hi>., he a que compete á Guitarra; por tanto se mostraõ todos os Signos, comprehendidos nos pontos, que tem a mesma Guitarra, no seguinte</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">EXEMPLO.</hi>
+                  </p>
+                  <p rend="justify">_</p>
+               </div>
+               <div type="div3">
+                  <head>§. VI.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Dos Accidentes.</hi>
+                  </p>
+                  <p rend="justify">Depois da <hi rend="italic">Clave</hi>, sendo a composiçaõ da Musica do genero Chromatico, seguem-se os <hi rend="italic">Accidentes</hi>, os quaes saõ certos signaes que significaõ alteraçaõ, e diminuiçaõ. Os <hi rend="italic">Accidentes</hi>  saõ tres, a saber: <hi rend="italic">Sustenido</hi>, <hi rend="italic">B-mol</hi>, e <hi rend="italic">B-quadro</hi>: o <hi rend="italic">Sustenido</hi>  faz levantar meio ponto mais á figura, a que estiver applicado; o <hi rend="italic">B-mol</hi>  faz diminuir; e o <hi rend="italic">B-quadro</hi>  faz pôr a figura, que tiver <hi rend="italic">Sustenido</hi>, ou <hi rend="italic">B-mol</hi>, no seu natural: as suas fórmas se mostraõ no seguinte</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">EXEMPLO.</hi>
+                  </p>
+                  <p rend="justify">_</p>
+               </div>
+               <div type="div3">
+                  <head>§. VII.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Da ordem de assignar os Accidentes.</hi>
+                  </p>
+                  <p rend="justify">Podem assignar-se depois da <hi rend="italic">Clave</hi>  até sette <hi rend="italic">Sustenidos</hi>, e outros tantos <hi rend="italic">B-moes</hi>; a ordem de os assignar he esta: o 1.<hi rend="sup">o</hi>
+                     <hi rend="italic">Sustenido</hi>  assigna-se em <hi rend="italic">F.</hi>, o 2.<hi rend="sup">o</hi>  em <hi rend="italic">C.</hi>, o 3.<hi rend="sup">o</hi>  em <hi rend="italic">G.</hi>, o 4.<hi rend="sup">o</hi>  em <hi rend="italic">D.</hi>, o 5.<hi rend="sup">o</hi>  em <hi rend="italic">A.</hi>, o 6.<hi rend="sup">o</hi>  em <hi rend="italic">E.</hi>, e o 7.<hi rend="sup">o</hi>  em <hi rend="italic">B.</hi>; e os <hi rend="italic">B-moes</hi>  assignaõ-se pelo contrario dos <hi rend="italic">Sustenidos</hi>: o 1.<hi rend="sup">o</hi>  em <hi rend="italic">B.</hi>, o 2.<hi rend="sup">o</hi>  em <hi rend="italic">E.</hi>, o 3.<hi rend="sup">o</hi>  em <hi rend="italic">A.</hi>, o 4.<hi rend="sup">o</hi>  em <hi rend="italic">D.</hi>, o 5.<hi rend="sup">o</hi>  em <hi rend="italic">G.</hi>, o 6.<hi rend="sup">o</hi>  em <hi rend="italic">C.</hi>, e o 7.<hi rend="sup">o</hi>  em <hi rend="italic">F.</hi>
+                  </p>
+               </div>
+               <div type="div3">
+                  <head>§. VIII.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Dos Accidentes Originaes, e Accidentaes.</hi>
+                  </p>
+                  <p rend="justify">Os <hi rend="italic">Accidentes</hi>, que se assignaõ depois da <hi rend="italic">Clave</hi>, chamaõ-se <hi rend="italic">Originaes</hi>, porque guiaõ em toda a peça; e os outros que occorrem pelo meio da mesma peça, chamaõ-se <hi rend="italic">Accidentaes</hi>, porque guiaõ unicamente naquelle compaço, em que positivamente vem assignados.</p>
+               </div>
+               <div type="div3">
+                  <head>§. IX.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Dos Tempos.</hi>
+                  </p>
+                  <p rend="justify">Depois da <hi rend="italic">Clave</hi>, ou dos <hi rend="italic">Accidentes</hi>, seguem-se os <hi rend="italic">Tempos</hi>, que servem para dar valor ás figuras. Os <hi rend="italic">Tempos</hi>  saõ tres, a saber: <hi rend="italic">Tempo Quaternario</hi>, <hi rend="italic">Ternario</hi>, e <hi rend="italic">Binario</hi>. O <hi rend="italic">Tempo Quaternario</hi>, assigna-se com hum <hi rend="italic">C</hi>  entre as linhas naturaes, e a este mesmo tempo pertence por derivaçaõ o tempo numerario de 12 por 8. O <hi rend="italic">Ternario</hi>  assigna-se com hum numero de 3, ou de 9, posto sobre o numero 1, 2, 4, ou 8; e o <hi rend="italic">Binario</hi>  assigna-se com hum <hi rend="italic">C</hi>  cortado com hum risco, a cujo tempo chamaõ <hi rend="italic">de</hi>
+                     <hi rend="italic">Capella</hi>, ou com hum numero de 2, ou de 6, posto sobre o numero 4, ou 8, como tudo se mostra no seguinte</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">EXEMPLO.</hi>
+                  </p>
+                  <p rend="justify">_</p>
+               </div>
+               <div type="div3">
+                  <head>§. X.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Do Compaço.</hi>
+                  </p>
+                  <p rend="justify">Os <hi rend="italic">Tempos</hi>  medem-se com o <hi rend="italic">Compaço</hi>, o qual he hum movimento recto, que se faz, quando se canta, com a maõ, e quando se toca, com o pé. O Compaço do tempo <hi rend="italic">Quaternario</hi>  faz-se de quatro partes, dando duas pancadas no chaõ, e outras duas no ár: o Compaço do tempo <hi rend="italic">Ternario</hi>, faz-se de tres partes, dando duas pancadas no chaõ, e huma no ár; e o Compaço do tempo <hi rend="italic">Binario</hi>, faz-se de duas partes, dando huma pancada no chaõ, e outra no ár, tudo com indefectivel igualdade.</p>
+               </div>
+               <div type="div3">
+                  <head>§. XI.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Das Figuras.</hi>
+                  </p>
+                  <p rend="justify">Para fitar os Sons, tanto da voz humana, como dos instrumentos, usa a Musica de 10. differentes figuras que saõ: <hi rend="italic">Maxima</hi>, <hi rend="italic">Longa</hi>, <hi rend="italic">Breve</hi>, <hi rend="italic">Semibreve</hi>, <hi rend="italic">Minima</hi>, <hi rend="italic">Seminima</hi>, <hi rend="italic">Colchêa</hi>, <hi rend="italic">Semicolchêa</hi>, <hi rend="italic">Fusa</hi>, <hi rend="italic">Semifusa</hi>: acada huma destas figuras, correspondem outras tantas pausas, que saõ <hi rend="italic">pausa de Maxima</hi>, <hi rend="italic">pausa de Longa</hi>, <hi rend="italic">etc.</hi>[1]  As suas fórmas se mostraõ no seguinte</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">EXEMPLO.</hi>
+                  </p>
+                  <p rend="justify">_</p>
+               </div>
+               <div type="div3">
+                  <head>§. XII.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Do valor das Figuras.</hi>
+                  </p>
+                  <p rend="justify">No tempo <hi rend="italic">Quaternario</hi>, vale a <hi rend="italic">Maxima</hi>  oito Compaços; a <hi rend="italic">Longa</hi>  quatro, a <hi rend="italic">Breve</hi>  dous, a <hi rend="italic">Semibreve</hi>  hum, a <hi rend="italic">Minima</hi>  vale meio, e vaõ duas ao Compaço, <hi rend="italic">Seminimas</hi>  vaõ quatro, <hi rend="italic">Colchêas</hi>  oito, <hi rend="italic">Semicolchêas</hi>  desaseis, <hi rend="italic">Fusas</hi>  trinta e duas, e <hi rend="italic">Semifusas</hi>  sessenta e quatro; e este mesmo valor teráõ as suas competentes pauzas.[2]</p>
+               </div>
+               <div type="div3">
+                  <head>§. XIII.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Da Sincopa, ou Contra-tempo.</hi>
+                  </p>
+                  <p rend="justify">Quando as figuras occupaõ as partes intermedias do Compaço, tomando já huma, já outra parte, sem assentar em alguma dellas, como por exemplo: se no tempo <hi rend="italic">Quaternario</hi>  entrasse em hum Compaço huma <hi rend="italic">Colchêa</hi>  com trez <hi rend="italic">Seminimas</hi>  consecutivas, e huma <hi rend="italic">Colchêa</hi>  no fim, he isto o que se chama <hi rend="italic">Sincopa</hi>, ou <hi rend="italic">Contra-tempo</hi>.</p>
+               </div>
+               <div type="div3">
+                  <head>§. XIV.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Da Derivaçaõ dos Tempos Numerarios.</hi>
+                  </p>
+                  <p rend="justify">Os <hi rend="italic">Tempos Numerarios</hi>, derivaõ-se todos do <hi rend="italic">Quaternario</hi>, e por isso, para se fazer esta derivaçaõ com regularidade se attenderá, que o numero da parte inferior, mostra sempre as figuras que entraõ ao Compaço no tempo <hi rend="italic">Quaternario</hi>, e o da parte superior mostra, e diz, que em lugar de irem aquellas figuras, que mostra o numero da parte inferior, que hiaõ no tempo <hi rend="italic">Quaternario</hi>  ao Compaço, haõ de ir tantas da mesma qualidade, quantas o numero superior indica; e assim v. g. 3/8, quer dizer, que em lugar de 8 <hi rend="italic">Colchêas</hi>, que hiaõ no tempo <hi rend="italic">Quaternario</hi>  ao Compaço, neste haõ de ir sómente 3; e esta mesma ordem se entenderá a respeito de todos os de mais tempos: no tempo porém de <hi rend="italic">Capella</hi>, vaõ as mesmas figuras, que no <hi rend="italic">Quaternario</hi>, com a differença, que neste, como se faz o Compaço de duas partes, se ha de dar huma Minima no chaõ, e outra no ar.</p>
+               </div>
+               <div type="div3">
+                  <head>§. XV.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Da Numeraçaõ das tres primeiras Pausas nos Tempos Numerarios.</hi>
+                  </p>
+                  <p rend="justify">As tres primeiras <hi rend="italic">Pausas</hi>, que saõ: <hi rend="italic">Pausa de Longa</hi>, <hi rend="italic">Pausa de Breve</hi>, e <hi rend="italic">Pausa de Semibreve</hi>, nos <hi rend="italic">Tempos Numerarios</hi>  naõ valem, mas sim numeraõ como no <hi rend="italic">Tempo Quaternario</hi>. Huma <hi rend="italic">Pausa de Longa</hi>  numera 4 Compaços, duas juntas 8, huma de <hi rend="italic">Breve</hi>  2, e huma de <hi rend="italic">Semibreve</hi>  1.[3]</p>
+               </div>
+               <div type="div3">
+                  <head>§. XVI.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Dos Andamentos.</hi>
+                  </p>
+                  <p rend="justify">Quem determina, e annuncia o movimento mais, ou menos vagaroso, e mais, ou menos apressado, que devemos dar no <hi rend="italic">Compaço</hi>  de todos os <hi rend="italic">Tempos</hi>  da <hi rend="italic">Musica</hi>, saõ os <hi rend="italic">Andamentos</hi>; os quaes saõ certos vocabulos, que se costumaõ assignar na frente de qualquer Peça, para lhe designar a marcha, que ha de ter.</p>
+                  <p rend="justify">Os <hi rend="italic">Andamentos</hi>, que mais se usaõ, saõ cinco; a saber: <hi rend="bold italic">Largo</hi>, <hi rend="bold italic">Adagio</hi>, <hi rend="bold italic">Andante</hi>, <hi rend="bold italic">Alegro</hi>, e <hi rend="bold italic">Presto</hi>, que em Portuguez significaõ: <hi rend="bold italic">Lento</hi>, <hi rend="bold italic">Moderado</hi>, <hi rend="bold italic">Elegante</hi>, ou <hi rend="bold italic">Gracioso</hi>, <hi rend="bold italic">Alegre</hi>, e <hi rend="bold italic">Rápido</hi>.</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Largo</hi>,[4]  annuncia hum <hi rend="bold italic">Andamento</hi>  o mais vagaroso.</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Adagio</hi>,[5]  annuncia hum <hi rend="bold italic">Andamento</hi>  vagaroso, porém mais apressado, que o <hi rend="bold italic">Largo</hi>.</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Andante</hi>,[6]  annuncia hum <hi rend="bold italic">Andamento</hi>  mais apressado, que <hi rend="bold italic">Adagio</hi>.</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Alegro</hi>,[7]  annuncia hum <hi rend="bold italic">Andamento</hi>  alegre, e o mais vivo de todos, depois do <hi rend="bold italic">Presto</hi>.</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Presto</hi>,[8]  indica o mais prompto, e o mais apressado de todos os <hi rend="bold italic">Andamentos</hi>  estabelecidos.</p>
+                  <p rend="justify">Estes cinco <hi rend="bold italic">Andamentos</hi>  subdividem-se em quatro mais, que saõ: <hi rend="bold italic">Larguetto</hi>, <hi rend="bold italic">Andantino</hi>, <hi rend="bold italic">Alegretto</hi>, e <hi rend="bold italic">Prestissimo</hi>.</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Larguetto</hi>, annuncia hum <hi rend="bold italic">Andamento</hi>  pouco menos vagaroso, que o <hi rend="bold italic">Largo</hi>; mais que o <hi rend="bold italic">Andante</hi>  e quasi como o <hi rend="bold italic">Andantino</hi>.</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Andantino</hi>, indica hum <hi rend="bold italic">Andamento</hi>  com alguma alegria menos no compaço, significando o diminutivo <hi rend="bold italic">Larguetto</hi>  totalmente o contrario, como he preciso observar.</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Alegretto</hi>, indica hum <hi rend="bold italic">Andamento</hi>  com huma alegria mais moderada, e no compaço alguma actividade menos.</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Prestissimo</hi>, superlativo de <hi rend="bold italic">Presto</hi>, he de todos os <hi rend="bold italic">Andamentos</hi>, o que indica o movimento mais apressado.</p>
+                  <p rend="justify">Além destes ha outros, que indicaõ de mais o caracter, e expressaõ da Peça, que se ha de tocar, assim como: <hi rend="bold italic">Amoroso</hi>, <hi rend="bold italic">Agitatto</hi>, <hi rend="bold italic">Vivace</hi>, <hi rend="bold italic">Gustoso</hi>, <hi rend="bold italic">Affectuoso</hi>, <hi rend="bold italic">Moderatto</hi>, <hi rend="bold italic">Magestoso</hi>, <hi rend="bold italic">Com brio</hi>, <hi rend="italic">etc.</hi>
+                  </p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Amoroso</hi>.[9]  Esta palavra escrita na frente de huma Aria, indica hum <hi rend="bold italic">Andamento</hi>  doce, e vagaroso, de sons tecidos graciosamente, e animados com huma expressaõ terna, e tocante.</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Agitatto</hi>, indica hum <hi rend="bold italic">Andamento</hi>  apressado, com alguma actividade, que indique furor, e agitaçaõ.</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Vivace</hi>. Esta palavra Italiana, indica hum <hi rend="bold italic">Andamento</hi>  alegre, prompto, e animado; e huma execuçaõ atrevida, e cheia de fogo.</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Gustoso</hi>, indica hum <hi rend="bold italic">Andamento</hi>  expressivo, agradavel, e que causa contentamento.</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Affectuoso</hi>, indica hum <hi rend="bold italic">Andamento</hi>, que mova os affectos d'Alma.</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Moderatto</hi>, indica hum <hi rend="bold italic">Andamento</hi>, nem muito vagaroso, nem muito apressado; mas sim medio entre estes dous <hi rend="bold italic">Andamentos</hi>, isto he, moderado.</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Magestoso</hi>, indica hum <hi rend="bold italic">Andamento</hi>  grave, e cheio de magestade.</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Com brio</hi>  finalmente, indica hum <hi rend="bold italic">Andamento</hi>  apressado, porém que na expressaõ seja revestido de garbo, e brio.</p>
+               </div>
+               <div type="div3">
+                  <head>§. XVII.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Dos Signaes significativos.</hi>
+                  </p>
+                  <p rend="justify">Os signaes significativos, de que finalmente usa a Musica, além dos que temos ponderado, saõ 13, a saber: <hi rend="italic">Esses</hi>, <hi rend="italic">Guiaõ</hi>, <hi rend="italic">Travessaõ</hi>, <hi rend="italic">Ligadura</hi>, <hi rend="italic">Ponto de augmentaçaõ</hi>, <hi rend="italic">Tres-que-altera</hi>, <hi rend="italic">Seis-que-altera</hi>, <hi rend="italic">Communia</hi>, <hi rend="italic">Repetiçaõ</hi>, <hi rend="italic">Al segno</hi>, <hi rend="italic">Sino al segno</hi>, <hi rend="italic">Da Capo</hi>, e <hi rend="italic">Pausas geraes</hi>. As suas fórmas se mostraõ no seguinte</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">EXEMPLO.</hi>
+                  </p>
+                  <p rend="justify">_</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Esses</hi>, denotaõ repetir o compaço, ou compaços, que ficaõ entre elles.</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Guiaõ</hi>, serve para mostrar a figura, que vai para a seguinte regra, ou lauda.</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Travessaõ</hi>, serve para dividir os compaços.</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Ligadura</hi>, serve para de duas figuras fazer huma, seja de igual, ou desigual valor.</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Ponto de augmentaçaõ</hi>, augmenta mais ametade do valor á figura, que lhe fica atraz[10].</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">3-Que-altera</hi>, quer dizer, que daremos por alteraçaõ deminutiva tres figuras no tempo, em que houveramos de dar duas da mesma qualidade.</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">6-Que-altera</hi>, quer dizer, que daremos pela mesma alteraçaõ deminutiva seis figuras, no tempo em que houveramos de dar quatro da mesma qualidade.</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Communia</hi>,[11]  serve para parar por algum pequeno espaço.</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Repetiçaõ</hi>, serve para repetir duas vezes aquella parte, que tiver o seu signal.</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Al segno</hi>, significa repetir a Musica só do signal apontado, e naõ do principio.</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Sino al segno</hi>, denota repetir a Musica do fim ao principio, unicamente até o signal, que vier apontado[12].</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Da Capo</hi>, que em breve se assigna D. C., he para se tornar ao principio.</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Pausas geraes</hi>, servem para finalizar a composiçaõ.</p>
+               </div>
+               <div type="div3">
+                  <head>§. XVIII.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Dos Signaes expressivos.</hi>
+                  </p>
+                  <p rend="justify">Os <hi rend="italic">Signaes expressivos</hi>, que servem para o bom gosto, e graça do que se toca, saõ nove, a saber: <hi rend="italic">Trino</hi>, <hi rend="italic">Apojo</hi>, <hi rend="italic">Portamentos</hi>, <hi rend="italic">Mordente</hi>, <hi rend="italic">Rastilho</hi>, <hi rend="italic">Crescêndo</hi>, ou <hi rend="italic">Esforçando</hi>, <hi rend="italic">Piano</hi>, ou <hi rend="italic">Dolce</hi>, <hi rend="italic">Forte</hi>, <hi rend="italic">Pianissimo</hi>, e <hi rend="italic">Fortissimo</hi>.</p>
+                  <p rend="justify">O <hi rend="bold italic">Trino</hi>, que se assigna com hum <hi rend="italic">tr.</hi>  por cima de huma figura, que muitas vezes he a penultima de huma cadencia, faz-se tocando-se com a maior velocidade dous pontos, que saõ: o expresso, e o que lhe fica superior.</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Apojo</hi>,[13]  he huma figurinha, que se assigna antes da figura, que lhe precede, e vale ametade do valor da dita figura.</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Portamentos</hi>,[14]  saõ humas figurinhas pequenas, que muitas vezes se assignaõ antes das figuras; estas ainda que sejaõ duas, tres, quatro, ou mais, participaõ unicamente d'ametade da figura para onde passaõ.</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Mordente</hi>, que naõ tem signal expresso, faz-se quando tremulando com o dedo se fere a <hi rend="italic">Nota</hi>  expressa com a debaixo <hi rend="italic">tacita</hi>, que sempre será em distancia de meio ponto.</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Rastilho</hi>, que tambem naõ tem signal expressivo, he quando se passa rastejando com o dedo por todos os semitons, de huma <hi rend="italic">Nota</hi>  expressa para outra, que lhe fica em distancia de 3.<hi rend="sup">a</hi>, 4.<hi rend="sup">a</hi>, ou 5.<hi rend="sup">a</hi>  superior.</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Crescendo</hi>,[15]  ou <hi rend="italic">Esforçando</hi>, que em breve se costuma pôr <hi rend="italic">cresc.sf.</hi>, he para se estender, e esforçar o som do forte para o brando, ou pelo contrario, do brando para o forte.</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Piano</hi>,[16]  ou <hi rend="italic">Dolce</hi>, que em breve se costuma pôr <hi rend="italic">p.</hi>, ou <hi rend="italic">dolc.</hi>, he para se tocar baixo, ou brandamente. <hi rend="italic">Forte</hi>, que em breve se costuma pôr <hi rend="italic">f.</hi>., he para se tocar fortemente.</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Pianissimo</hi>, e <hi rend="bold italic">Fortissimo</hi>, que em breve se costuma pôr <hi rend="italic">p.</hi>
+                     <hi rend="sup italic">mo</hi>, <hi rend="italic">f.</hi>
+                     <hi rend="sup italic">mo</hi>, ou <hi rend="italic">pp.</hi>, <hi rend="italic">ff.</hi>, saõ os superlativos de <hi rend="italic">piano</hi>, e <hi rend="italic">forte</hi>, e annunciaõ que se deve tocar o mais <hi rend="italic">brando</hi>, ou o mais forte, que possa ser.</p>
+               </div>
+               <div type="div3">
+                  <head>§. XIX.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Do Tom.</hi>
+                  </p>
+                  <p rend="justify">Antes que se principie a tocar, deve-se conhecer o <hi rend="italic">Tom</hi>; o qual he hum harmónico Compendio de sette differentes <hi rend="italic">Intervallos</hi>, que se explicaõ tocando-se na <hi rend="italic">Guitarra</hi>  as <hi rend="italic">cordas</hi>, a que pertencem os <hi rend="italic">Signos</hi>
+                     <hi rend="italic">C</hi>, <hi rend="italic">D</hi>, <hi rend="italic">E</hi>, <hi rend="italic">F</hi>, <hi rend="italic">G</hi>, <hi rend="italic">A</hi>, <hi rend="italic">B</hi>, <hi rend="italic">C</hi>, a que chamaõ hum <hi rend="italic">Diapasaõ</hi>.[17]</p>
+               </div>
+               <div type="div3">
+                  <head>§. XX.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Da Divisaõ do Tom.</hi>
+                  </p>
+                  <p rend="justify">O <hi rend="italic">Tom</hi>  póde ser de dous modos, a saber: de 3.<hi rend="sup">a</hi>
+                     <hi rend="italic">Maior</hi>, e de 3.<hi rend="sup">a</hi>
+                     <hi rend="italic">Menor</hi>. O <hi rend="italic">Tom</hi>  de 3.<hi rend="sup">a</hi>
+                     <hi rend="italic">Maior</hi>, he o que na distancia de huma <hi rend="italic">Terceira</hi>  comprehende dous pontos, como por exemplo; tocando-se estes tres <hi rend="italic">Signos</hi>
+                     <hi rend="italic">C</hi>, <hi rend="italic">D</hi>, <hi rend="italic">E</hi>: e o de 3.<hi rend="sup">a</hi>
+                     <hi rend="italic">Menor</hi>, he o que na mesma distancia comprehende ponto e meio, como por exemplo; tocando-se estes <hi rend="italic">A</hi>, <hi rend="italic">B</hi>, <hi rend="italic">C</hi>.</p>
+               </div>
+               <div type="div3">
+                  <head>§. XXI.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Do Conhecimento dos Tons.</hi>
+                  </p>
+                  <p rend="justify">Como em cada hum dos <hi rend="italic">Signos</hi>  póde ter principio hum <hi rend="italic">Tom</hi>, para isto se saber com a possivel clareza, se observaráõ as seguintes <hi rend="italic">Regras</hi>.</p>
+                  <div type="div4">
+                     <head>REGRA I.</head>
+                     <p rend="justify">Naõ vindo depois da <hi rend="italic">Clave</hi>, eu pelo progresso da Musica algum <hi rend="italic">Sustenido</hi>, ou b-<hi rend="italic">mol</hi> assignado pela sua ordem, será o <hi rend="italic">Tom</hi> de <hi rend="italic">C</hi> com 3.<hi rend="sup">a</hi>
+                        <hi rend="italic">Maior</hi>, ou de <hi rend="italic">A</hi> com 3.<hi rend="sup">a</hi>
+                        <hi rend="italic">Menor</hi>[18].</p>
+                  </div>
+                  <div type="div4">
+                     <head>REGRA II.</head>
+                     <p rend="justify">Sendo a Composiçaõ da <hi rend="italic">Musica</hi> do <hi rend="italic">Genero Chromatico</hi>,[19] e vindo depois da <hi rend="italic">Clave</hi> 2♯♯, ou ha de ser <hi rend="italic">D</hi>, 3.<hi rend="sup">a</hi>
+                        <hi rend="italic">Maior</hi>, ou <hi rend="italic">B</hi>, 3.<hi rend="sup">a</hi>
+                        <hi rend="italic">Menor</hi>.</p>
+                     <p rend="justify">Vindo 5♭♭, ou ha de ser <hi rend="italic">D</hi>♭, 3.<hi rend="sup">a</hi>
+                        <hi rend="italic">Maior</hi>, ou <hi rend="italic">B</hi>♭, 3.<hi rend="sup">a</hi>
+                        <hi rend="italic">Menor</hi>.</p>
+                     <p rend="justify">Vindo 4♯♯, ou ha de ser <hi rend="italic">E</hi>, 3.<hi rend="sup">a</hi>
+                        <hi rend="italic">Maior</hi>, ou <hi rend="italic">C</hi>♯, 3.<hi rend="sup">a</hi>
+                        <hi rend="italic">Menor</hi>.</p>
+                     <p rend="justify">Vindo 3♭♭, ou ha de ser <hi rend="italic">E</hi>♭, 3.<hi rend="sup">a</hi>
+                        <hi rend="italic">Maior</hi>, ou <hi rend="italic">C</hi>, 3.<hi rend="sup">a</hi>
+                        <hi rend="italic">Menor</hi>.</p>
+                     <p rend="justify">Vindo 6♯♯, ou ha de ser <hi rend="italic">F</hi>♯, 3.<hi rend="sup">a</hi>
+                        <hi rend="italic">Maior</hi>, ou <hi rend="italic">D</hi>♯, 3.<hi rend="sup">a</hi>
+                        <hi rend="italic">Menor</hi>.</p>
+                     <p rend="justify">Vindo 1♭, ou ha de ser <hi rend="italic">F</hi>, 3.<hi rend="sup">a</hi>
+                        <hi rend="italic">Maior</hi>, ou <hi rend="italic">D</hi>, 3.<hi rend="sup">a</hi>
+                        <hi rend="italic">Menor</hi>.</p>
+                     <p rend="justify">Vindo 1♯, ou ha de ser <hi rend="italic">G</hi>, 3.<hi rend="sup">a</hi>
+                        <hi rend="italic">Maior</hi>, ou <hi rend="italic">E</hi>, 3.<hi rend="sup">a</hi>
+                        <hi rend="italic">Menor</hi>.</p>
+                     <p rend="justify">Vindo 6♭♭, ou ha de ser <hi rend="italic">G</hi>♭, 3.<hi rend="sup">a</hi>
+                        <hi rend="italic">Maior</hi>, ou <hi rend="italic">E</hi>♭, 3.<hi rend="sup">a</hi>
+                        <hi rend="italic">Menor</hi>.</p>
+                     <p rend="justify">Vindo 3♯♯, ou ha de ser <hi rend="italic">A</hi>, 3.<hi rend="sup">a</hi>
+                        <hi rend="italic">Maior</hi>, ou <hi rend="italic">F</hi>♯, 3.<hi rend="sup">a</hi>
+                        <hi rend="italic">Menor</hi>.</p>
+                     <p rend="justify">Vindo 4♭♭, ou ha de ser <hi rend="italic">A</hi>♭, 3.<hi rend="sup">a</hi>
+                        <hi rend="italic">Maior</hi>, ou <hi rend="italic">F</hi>, 3.<hi rend="sup">a</hi>
+                        <hi rend="italic">Menor</hi>.</p>
+                     <p rend="justify">Vindo 5♯♯, ou ha de ser <hi rend="italic">B</hi>, 3.<hi rend="sup">a</hi>
+                        <hi rend="italic">Maior</hi>, ou <hi rend="italic">G</hi>♯, 3.<hi rend="sup">a</hi>
+                        <hi rend="italic">Menor</hi>.</p>
+                     <p rend="justify">Vindo 2♭♭, ou ha de ser <hi rend="italic">B</hi>♭, 3.<hi rend="sup">a</hi>
+                        <hi rend="italic">Maior</hi>, ou <hi rend="italic">G</hi>, 3.<hi rend="sup">a</hi>
+                        <hi rend="italic">Menor</hi>.</p>
+                     <p rend="justify">Vindo finalmente 7♯♯, ou ha de ser <hi rend="italic">C</hi>♯, 3.<hi rend="sup">a</hi>
+                        <hi rend="italic">Maior</hi>, ou <hi rend="italic">A</hi>♯, 3.<hi rend="sup">a</hi>
+                        <hi rend="italic">Menor</hi>.</p>
+                     <p rend="justify">Vindo 7♭♭, ou ha de ser <hi rend="italic">C</hi>♭, 3.<hi rend="sup">a</hi>
+                        <hi rend="italic">Maior</hi>, ou <hi rend="italic">A</hi>♭, 3.<hi rend="sup">a</hi>
+                        <hi rend="italic">Menor</hi>.</p>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>§. XXII.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Do Accompanhamento.</hi>
+                  </p>
+                  <p rend="justify">Como julguei ser tambem necessario, ao que tóca, e estuda a <hi rend="italic">Guitarra</hi>, o saber accompanhar algumas <hi rend="italic">Modinhas</hi>, <hi rend="italic">Minuetes</hi>, e outras <hi rend="italic">Peças</hi>  deste genero, só pelo <hi rend="italic">Basso Contínuo</hi>[20]; he por esta razaõ, que escrevi mais os seguintes Paragrafos, para lhe servirem de huma breve instrucçaõ.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Accompanhamento</hi>, he a execuçaõ de huma harmonía completa, e regular sobre hum Instrumento proprio a fazer esta harmonía, assim como o <hi rend="italic">Orgaõ</hi>, o <hi rend="italic">Cravo</hi>, a <hi rend="italic">Tiorha</hi>, a <hi rend="italic">Cithara</hi>, a <hi rend="italic">Guitarra</hi>, <hi rend="italic">etc.</hi>  Porém como o <hi rend="italic">Basso Contínuo</hi>, juntamente com os seus competentes <hi rend="italic">Acordes</hi>[21], naõ se pódem dizer separados na <hi rend="italic">Guitarra</hi>, e como nella vejo, que só se poderá dizer huma destas, que ordinariamente saõ os <hi rend="italic">Acordes</hi>, que se applicaõ ás <hi rend="italic">Notas</hi>  do <hi rend="italic">Basso Contínuo</hi>; por esta razaõ he que sem demora de tempo, vou a tratar da applicaçaõ destes mesmos <hi rend="italic">Acordes</hi>  sobre as <hi rend="italic">Notas</hi>  do mesmo <hi rend="italic">Basso</hi>; circunstancia esta a mais necessaria, para o que quizer bem accompanhar[22].</p>
+               </div>
+               <div type="div3">
+                  <head>§. XXIII.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Do como se numeraõ os Intervallos, e Notas de cada Tom.</hi>
+                  </p>
+                  <p rend="justify">Cada <hi rend="italic">Tom</hi>, subindo <hi rend="italic">Diathonicamente</hi>[23], tem dentro de hum <hi rend="italic">Diapasaõ</hi>  sette differentes <hi rend="italic">Intervallos</hi>, a que chamaõ <hi rend="italic">Notas do Tom</hi>. Estas nomêaõ-se desta sorte: <hi rend="italic">Primeira</hi>[24], <hi rend="italic">Segunda</hi>, <hi rend="italic">Terceira</hi>, <hi rend="italic">Quarta</hi>, <hi rend="italic">Quinta</hi>, <hi rend="italic">Sexta</hi>, <hi rend="italic">Septima</hi>, e <hi rend="italic">Oitava</hi>.</p>
+                  <p rend="justify">Os <hi rend="italic">Acordes</hi>, que se daõ sobre estas <hi rend="italic">Notas</hi>, e que vem escritos humas vezes pela parte superior, e outras pela inferior do <hi rend="italic">Basso Contínuo</hi>, e que as mais das vezes se imaginaõ, segundo as <hi rend="italic">Regras da Oitava</hi>[25], sobre as <hi rend="italic">Notas</hi>  do mesmo <hi rend="italic">Basso Contínuo</hi>; numeraõ-se desta sorte: 2, 3, 4, 5, 6, 7, 8, 9,[26]  10, 11, etc. Hum 2, significa huma <hi rend="italic">Segunda Nota</hi>[27]  acima da <hi rend="italic">Nota</hi>  escrita; hum 3, huma <hi rend="italic">Terceira</hi>; hum 4, huma <hi rend="italic">Quarta</hi>, etc.</p>
+               </div>
+               <div type="div3">
+                  <head>§. XXIV.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Da differença das Especies</hi>
+                  </p>
+                  <p rend="justify">Os <hi rend="italic">Numeros</hi>, que nos relataõ os <hi rend="italic">Acordes</hi>, a que os Praticos chamaõ <hi rend="italic">Especies</hi>[28], dividem-se em <hi rend="italic">Maiores</hi>, <hi rend="italic">Menores</hi>, <hi rend="italic">Perfeitas</hi>, <hi rend="italic">Superfluas</hi>, <hi rend="italic">Diminutas</hi>, e por isto <hi rend="italic">Falsas</hi>.</p>
+                  <p rend="justify">A <hi rend="italic">segunda</hi>  póde ser <hi rend="italic">Maior</hi>, <hi rend="italic">Menor</hi>, e <hi rend="italic">Superflua</hi>[29]; (sirva-nos de exemplo o <hi rend="italic">Tom Natural</hi>  de <hi rend="italic">C</hi>).</p>
+                  <p rend="justify">He <hi rend="italic">Segunda Maior</hi>  de <hi rend="italic">C</hi>, <hi rend="italic">D Natural</hi>; <hi rend="italic">Menor D</hi>♭; e <hi rend="italic">Superflua D</hi>♯.</p>
+                  <p rend="justify">A <hi rend="italic">Terceira</hi>  póde ser tambem <hi rend="italic">Maior</hi>, <hi rend="italic">Menor</hi>, <hi rend="italic">e Superflua</hi>[30].</p>
+                  <p rend="justify">He <hi rend="italic">Terceira Maior</hi>  de <hi rend="italic">C</hi>, <hi rend="italic">E Natural</hi>; <hi rend="italic">Menor E</hi>♭; e <hi rend="italic">Superflua E</hi>♯.</p>
+                  <p rend="justify">A <hi rend="italic">Quarta</hi>  póde ser <hi rend="italic">Perfeita</hi>, <hi rend="italic">Superflua</hi>, e <hi rend="italic">Diminuta</hi>.</p>
+                  <p rend="justify">A <hi rend="italic">Quarta Perfeita</hi>  de <hi rend="italic">C</hi>, he <hi rend="italic">F Natural</hi>; <hi rend="italic">Superflua F</hi>♯; e a <hi rend="italic">Diminuta F</hi>♭.</p>
+                  <p rend="justify">A <hi rend="italic">Quinta</hi>  póde tambem ser <hi rend="italic">Perfeita</hi>, <hi rend="italic">Superflua</hi>, e <hi rend="italic">Diminuta</hi>.</p>
+                  <p rend="justify">A <hi rend="italic">Quinta</hi>[31] <hi rend="italic">Perfeita</hi>  de <hi rend="italic">C</hi>  he <hi rend="italic">G Natural</hi>, <hi rend="italic">Superflua</hi>
+                     <hi rend="italic">G</hi>♯; e a <hi rend="italic">Diminuta</hi>
+                     <hi rend="italic">G</hi>♭.</p>
+                  <p rend="justify">A <hi rend="italic">Sexta</hi>  póde ser <hi rend="italic">Maior</hi>, <hi rend="italic">Menor</hi>, e <hi rend="italic">Superflua</hi>[32].</p>
+                  <p rend="justify">A <hi rend="italic">Sexta Maior</hi>  de <hi rend="italic">C</hi>  he <hi rend="italic">A Natural</hi>; a <hi rend="italic">Menor</hi>  he <hi rend="italic">A</hi>♭; e a <hi rend="italic">Superflua</hi>
+                     <hi rend="italic">A</hi>♯.</p>
+                  <p rend="justify">A <hi rend="italic">Septima</hi>  póde tambem ser <hi rend="italic">Maior</hi>, <hi rend="italic">Menor</hi>, e <hi rend="italic">Superflua</hi>[33].</p>
+                  <p rend="justify">He <hi rend="italic">Septima Maior</hi>  de <hi rend="italic">C</hi>, <hi rend="italic">B Natural</hi>; <hi rend="italic">Menor</hi>
+                     <hi rend="italic">B</hi>♭; e <hi rend="italic">Superflua</hi>
+                     <hi rend="italic">B</hi>♯.</p>
+                  <p rend="justify">A <hi rend="italic">Oitava</hi>  póde ser <hi rend="italic">Perfeita</hi>, <hi rend="italic">Superflua</hi>, e <hi rend="italic">Diminuta</hi>.</p>
+                  <p rend="justify">He <hi rend="italic">Oitava</hi>  de <hi rend="italic">C Natural</hi>, outro <hi rend="italic">C Igual Oitava</hi>  acima; <hi rend="italic">Superflua</hi>
+                     <hi rend="italic">C</hi>♯; e <hi rend="italic">Diminuta</hi>
+                     <hi rend="italic">C</hi>♭[34].</p>
+                  <p rend="justify">Os exemplos, que ponho nestes <hi rend="italic">Tons</hi>, pódem servir relativamente para todos os demais.</p>
+               </div>
+               <div type="div3">
+                  <head>§. XXV.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Das Especies, com que se accompanhaõ as Notas de cada Tom.</hi>
+                  </p>
+                  <p rend="justify">Como cada <hi rend="italic">Tom</hi>  encerra dentro do seu <hi rend="italic">Diapasaõ</hi>  sette <hi rend="italic">Notas</hi>, como já se disse, he de saber, que <hi rend="italic">segundo a Regra da Oitava</hi>: a <hi rend="italic">Primeira Nota do Tom</hi>, seja de 3.<hi rend="sup">a</hi>
+                     <hi rend="italic">Maior</hi>, ou de 3.<hi rend="sup">a</hi>
+                     <hi rend="italic">Menor</hi>, accompanha-se com 3.<hi rend="sup">a</hi>, 5.<hi rend="sup">a</hi>, e 8.<hi rend="sup">a</hi>; e se numera [8/5/3], ou [5/3], ou simplesmente 5.[35]</p>
+                  <p rend="justify">A <hi rend="italic">Segunda</hi>  accompanha-se com 3.<hi rend="sup">a</hi>
+                     <hi rend="italic">Menor</hi>, 4.<hi rend="sup">a</hi>, 6.<hi rend="sup">a</hi>  Maior, e 8.<hi rend="sup">a</hi>; e se numera [8/[6|]/3], ou [6/3], ou simplesmente 6.[36]</p>
+                  <p rend="justify">A <hi rend="italic">Terceira</hi>  accompanha-se com 3.<hi rend="sup">a</hi>, 6.<hi rend="sup">a</hi>, e 8.<hi rend="sup">a</hi>, e se numera [8/6/3], ou [6/3], ou simplesmente 6.</p>
+                  <p rend="justify">A <hi rend="italic">Quarta</hi>  accompanha-se por tres modos: Quando vai para a 5.<hi rend="sup">a</hi>, accompanha-se com 3.<hi rend="sup">a</hi>, 6.<hi rend="sup">a</hi>, e 8.<hi rend="sup">a</hi>, e se numera [8/6/3], ou [6/3], ou simplesmente 6.</p>
+                  <p rend="justify">Quando vem depois da 5.<hi rend="sup">a</hi>, accompanha-se com 2.<hi rend="sup">a</hi>, 4.<hi rend="sup">a</hi>
+                     <hi rend="italic">Superflua</hi>, 6.<hi rend="sup">a</hi>, e 8.<hi rend="sup">a</hi>; e se numera [8/6/4/2], ou [6/[4|]/2], ou [6/[4|]], ou simplesmente [4|].</p>
+                  <p rend="justify">Quando salta de outra qualquer <hi rend="italic">Nota</hi>, accompanha-se com 3.<hi rend="sup">a</hi>, 5.<hi rend="sup">a</hi>, e 8.<hi rend="sup">a</hi>; e se numera como a primeira <hi rend="italic">Nota</hi>  do <hi rend="italic">Tom</hi>.</p>
+                  <p rend="justify">A <hi rend="italic">Quinta</hi>  em todos os <hi rend="italic">Tons</hi>, accompanha-se com 3.<hi rend="sup">a</hi>
+                     <hi rend="italic">Maior</hi>, 5.<hi rend="sup">a</hi>, e 8.<hi rend="sup">a</hi>; e se numera [8/5/3] ou [8/5/3♮], ou [5/3♮], ou simplesmente hum ♯[37].</p>
+                  <p rend="justify">A <hi rend="italic">Sexta</hi>  accompanha-se por tres modos: Quando vai para a 7.<hi rend="sup">a</hi>, accompanha-se com 3.<hi rend="sup">a</hi>
+                     <hi rend="italic">Menor</hi>, 6.<hi rend="sup">a</hi>
+                     <hi rend="italic">Menor</hi>, e 8.<hi rend="sup">a</hi>; e se numera [8/6/3], ou [6/3], ou simplesmente 6.</p>
+                  <p rend="justify">Quando vem para a 5.<hi rend="sup">a</hi>, accompanha-se da mesma sorte; porém o mais das vezes com 6.<hi rend="sup">a</hi>
+                     <hi rend="italic">Maior</hi>, e se numera [8/[6|]/3], ou [8/6/3♯], ou simplesmente 6♯.</p>
+                  <p rend="justify">Quando salta de outra qualquer <hi rend="italic">Nota</hi>, accompanha-se algumas vezes com 3.<hi rend="sup">a</hi>, 5.<hi rend="sup">a</hi>, e 8.<hi rend="sup">a</hi>, que se numera, como a primeira <hi rend="italic">Nota do Tom</hi>.[38]</p>
+                  <p rend="justify">A <hi rend="italic">Septima</hi>  finalmente, accompanha-se com 3.<hi rend="sup">a</hi>, 5.<hi rend="sup">a</hi>
+                     <hi rend="italic">Diminuta</hi>, e 6.<hi rend="sup">a</hi>; e se numera [6/5/3], ou [6/3], ou simplesmente 6.[39]</p>
+               </div>
+               <div type="div3">
+                  <head>§. XXVI.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Da Reducçaõ dos Acordes antecedentes, nas posturas da Guitarra.</hi>
+                  </p>
+                  <p rend="justify">Como a numeraçaõ dos <hi rend="italic">Acordes</hi>  que deixamos nos tres §§. antecedentes, pertencem mais ao <hi rend="italic">Basso Contínuo</hi>, e saõ mais proprios para o <hi rend="italic">Cravo</hi>, do que para a <hi rend="italic">Guitarra</hi>; para fazermos huma <hi rend="italic">Reducçaõ</hi>  destes na pratica das <hi rend="italic">posturas da Guitarra</hi>, devemos saber, que a <hi rend="italic">postura</hi>  que se der na <hi rend="italic">Tonica fundamental</hi>[40], que he a 1.<hi rend="sup">a</hi>
+                     <hi rend="italic">Nota</hi>  do <hi rend="italic">Tom</hi>, será a mesma, que competirá á 3.<hi rend="sup">a</hi>, e 8.<hi rend="sup">a</hi>; e á 5.<hi rend="sup">a</hi>  quando vier numerada com [6/4].</p>
+                  <p rend="justify">A <hi rend="italic">postura</hi>, que se der na <hi rend="italic">Dominante</hi>, que he a 5.<hi rend="sup">a</hi>  do <hi rend="italic">Tom</hi>, será a mesma, que competirá á 2.<hi rend="sup">a</hi>, e 7.<hi rend="sup">a</hi>  do mesmo <hi rend="italic">Tom</hi>; e á 4.<hi rend="sup">a</hi>  quando vier depois da 5.<hi rend="sup">a</hi>  accompanhada com 2.<hi rend="sup">a</hi>, e 4.<hi rend="sup">a</hi>.</p>
+                  <p rend="justify">A <hi rend="italic">postura</hi>, que se der na <hi rend="italic">Sub-Dominante</hi>, que he a 4.<hi rend="sup">a</hi>  do <hi rend="italic">Tom</hi>, quando vier accompanhada com 3.<hi rend="sup">a</hi>, e 5.<hi rend="sup">a</hi>, será a mesma, que competirá á 6.<hi rend="sup">a</hi>; isto se entende, naõ vindo estas com outras <hi rend="italic">Especies</hi>; de forte, que a <hi rend="italic">Escála</hi>  de hum <hi rend="italic">Diapasaõ</hi>  reduz-se ás tres <hi rend="italic">posturas</hi>, que acima deixo expressas; porque como a <hi rend="italic">Guitarra</hi>  naõ póde dizer o <hi rend="italic">Basso Contínuo</hi>, e dizendo-o naõ causa o preciso effeito; por este motivo, he que reduzí ás referidas <hi rend="italic">posturas</hi>, as <hi rend="italic">Notas</hi>  da <hi rend="italic">Escála</hi>  do mesmo <hi rend="italic">Basso Contínuo</hi>, que serviráõ de Norte, para o que quizer accompanhar neste Instrumento algumas <hi rend="italic">Modinhas</hi>, <hi rend="italic">Minuetes</hi>, <hi rend="italic">etc</hi>.</p>
+               </div>
+               <div type="div3">
+                  <head>§. XXVII.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Da Analogia, e Transiçoens ordinarias dos Tons de 3.</hi>
+                     <hi rend="sup italic">a</hi>
+                     <hi rend="italic">  Maior.</hi>
+                  </p>
+                  <p rend="justify">A <hi rend="italic">Transiçaõ</hi>  dos <hi rend="italic">Tons</hi>, consiste em se passar de hum para outro <hi rend="italic">Tom</hi>, que lhe fica mais <hi rend="italic">Analogo</hi>.</p>
+                  <p rend="justify">Nos <hi rend="italic">Tons</hi>  de 3.<hi rend="sup">a</hi>
+                     <hi rend="italic">Maior</hi>, he o seu <hi rend="italic">Tom</hi>  mais <hi rend="italic">Analogo</hi>, e para onde ordinariamente se costuma passar, o <hi rend="italic">Tom</hi>  da sua 5.<hi rend="sup">a</hi>
+                     <hi rend="italic">superior</hi>  com 3.<hi rend="sup">a</hi>
+                     <hi rend="italic">Maior</hi>, e isto se conhecerá, quando no <hi rend="italic">Basso Contínuo</hi>  apparecer algum <hi rend="italic">Acorde</hi>, em que a 4.<hi rend="sup">a</hi>  do <hi rend="italic">Tom</hi>  venha <hi rend="italic">alterada</hi>[41].</p>
+                  <p rend="justify">Póde tambem passar-se para o <hi rend="italic">Tom</hi>  da 4.<hi rend="sup">a</hi>  com 3.<hi rend="sup">a</hi>
+                     <hi rend="italic">Maior</hi>; e isto se conhecerá, quando no mesmo <hi rend="italic">Basso Contínuo</hi>  apparecer algum <hi rend="italic">Acorde</hi>, em que venha a 7.<hi rend="sup">a</hi>
+                     <hi rend="italic">Menor</hi>[42].</p>
+                  <p rend="justify">Póde tambem passar-se para o <hi rend="italic">Tom</hi>  da 6.<hi rend="sup">a</hi>  com 3.<hi rend="sup">a</hi>
+                     <hi rend="italic">Menor</hi>; e isto se conhecerá, quando no <hi rend="italic">Basso Contínuo</hi>  se achar algum <hi rend="italic">Acorde</hi>, em que venha a sua 5.<hi rend="sup">a</hi>
+                     <hi rend="italic">alterada</hi>[43].</p>
+                  <p rend="justify">Póde tambem passar-se para o mesmo <hi rend="italic">Tom</hi>  com 3.<hi rend="sup">a</hi>
+                     <hi rend="italic">Menor</hi>; e isto se conhecerá, quando no <hi rend="italic">Basso Contínuo</hi>  vier numerada sobre a 1.<hi rend="sup">a</hi>
+                     <hi rend="italic">Nota</hi>  do <hi rend="italic">Tom</hi>  a dita 3.<hi rend="sup">a</hi>
+                     <hi rend="italic">Menor</hi>; e entaõ será tambem a 6.<hi rend="sup">a</hi>
+                     <hi rend="italic">Menor</hi>.</p>
+                  <p rend="justify">Tambem se póde passar para o <hi rend="italic">Tom</hi>  da 2.<hi rend="sup">a</hi>  com 3.<hi rend="sup">a</hi>
+                     <hi rend="italic">Menor</hi>; e isto se conhecerá, quando no <hi rend="italic">Basso Contínuo</hi>  apparecer algum <hi rend="italic">Acorde</hi>, em que a 1.<hi rend="sup">a</hi>
+                     <hi rend="italic">Nota</hi>  do <hi rend="italic">Tom</hi>  venha <hi rend="italic">alterada</hi>[44].</p>
+                  <p rend="justify">Tambem se poderá passar para o <hi rend="italic">Tom</hi>  da 3.<hi rend="sup">a</hi>  do <hi rend="italic">Tom</hi>  com 3.<hi rend="sup">a</hi>
+                     <hi rend="italic">Menor</hi>  (o que raras vezes acontece), e isto se conhecerá, quando no <hi rend="italic">Basso Contínuo</hi>  apparecer algum <hi rend="italic">Acorde</hi>, em que a 2.<hi rend="sup">a</hi>  do <hi rend="italic">Tom</hi>[45]  venha <hi rend="italic">alterada</hi>. Veja-se o seguinte <hi rend="italic">Esquema</hi>, no qual, segundo esta ordem, se mostraõ todos os <hi rend="italic">Tons Analogos</hi>, formados, e deduzidos de todos os sette <hi rend="italic">Signos</hi>[46].</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">ESQUEMA</hi>
+                  </p>
+                  <table rend="frame" xml:id="Table1">
+                     <row>
+                        <cell> Origem dos <lb/>Tons de 3.<hi rend="sup">a</hi>
+                           <lb/>Maior.<lb/> </cell>
+                        <cell> Tons das <lb/>suas 5.<hi rend="sup">as</hi>
+                           <lb/>com 3.<hi rend="sup">a</hi>
+                           <lb/>Maior.</cell>
+                        <cell> Tons das <lb/>suas 4.<hi rend="sup">as</hi>
+                           <lb/>com 3.<hi rend="sup">a</hi>
+                           <lb/>Maior.</cell>
+                        <cell> Tons das <lb/>suas 6.<hi rend="sup">as</hi>
+                           <lb/>com 3.<hi rend="sup">a</hi>
+                           <lb/>Menor.</cell>
+                        <cell> O mesmo <lb/>Tom<lb/>com 3.<hi rend="sup">a</hi>
+                           <lb/>Menor.</cell>
+                        <cell> Tons das <lb/>suas 2.<hi rend="sup">as</hi>
+                           <lb/>com 3.<hi rend="sup">a</hi>
+                           <lb/>Menor.</cell>
+                        <cell> Tons das <lb/>suas 3.<hi rend="sup">as</hi>
+                           <lb/>com 3.<hi rend="sup">a</hi>
+                           <lb/>Menor.</cell>
+                     </row>
+                     <row>
+                        <cell>——</cell>
+                        <cell>——</cell>
+                        <cell>——</cell>
+                        <cell>——</cell>
+                        <cell>——</cell>
+                        <cell>——</cell>
+                        <cell>——</cell>
+                     </row>
+                     <row>
+                        <cell>C</cell>
+                        <cell>G</cell>
+                        <cell>F</cell>
+                        <cell>A</cell>
+                        <cell>C</cell>
+                        <cell>D</cell>
+                        <cell>E</cell>
+                     </row>
+                     <row>
+                        <cell>D</cell>
+                        <cell>A</cell>
+                        <cell>G</cell>
+                        <cell>B</cell>
+                        <cell>D</cell>
+                        <cell>E</cell>
+                        <cell>F♯</cell>
+                     </row>
+                     <row>
+                        <cell>E</cell>
+                        <cell>B</cell>
+                        <cell>A</cell>
+                        <cell>C♯</cell>
+                        <cell>E</cell>
+                        <cell>F♯</cell>
+                        <cell>G♯</cell>
+                     </row>
+                     <row>
+                        <cell>F</cell>
+                        <cell>C</cell>
+                        <cell>B♭</cell>
+                        <cell>D</cell>
+                        <cell>F</cell>
+                        <cell>G</cell>
+                        <cell>A</cell>
+                     </row>
+                     <row>
+                        <cell>G</cell>
+                        <cell>D</cell>
+                        <cell>C</cell>
+                        <cell>E</cell>
+                        <cell>G</cell>
+                        <cell>A</cell>
+                        <cell>B</cell>
+                     </row>
+                     <row>
+                        <cell>A</cell>
+                        <cell>E</cell>
+                        <cell>D</cell>
+                        <cell>F♯</cell>
+                        <cell>A</cell>
+                        <cell>B</cell>
+                        <cell>C♯</cell>
+                     </row>
+                     <row>
+                        <cell>B</cell>
+                        <cell>F♯</cell>
+                        <cell>E</cell>
+                        <cell>G♯</cell>
+                        <cell>B</cell>
+                        <cell>C♯</cell>
+                        <cell>D♯</cell>
+                     </row>
+                     <row>
+                        <cell>——</cell>
+                        <cell>——</cell>
+                        <cell>——</cell>
+                        <cell>——</cell>
+                        <cell>——</cell>
+                        <cell>——</cell>
+                        <cell>——</cell>
+                     </row>
+                  </table>
+               </div>
+               <div type="div3">
+                  <head>§. XXVIII.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Da Analogia, e Transiçoens ordinarias dos Tons de 3.</hi>
+                     <hi rend="sup italic">a</hi>
+                     <hi rend="italic">  Menor.</hi>
+                  </p>
+                  <p rend="justify">Nos <hi rend="italic">Tons</hi>  de 3.<hi rend="sup">a</hi>
+                     <hi rend="italic">Menor</hi>  he o seu <hi rend="italic">Tom</hi>  mais <hi rend="italic">Analogo</hi>, e para onde ordinariamente se costuma passar, o <hi rend="italic">Tom</hi>  da sua 3.<hi rend="sup">a</hi>
+                     <hi rend="italic">superior</hi>; e isto se conhecerá, quando no <hi rend="italic">Basso Contínuo</hi>  apparecer a mesma 3.<hi rend="sup">a</hi>  accompanhada com 3.<hi rend="sup">a</hi>, e 5.<hi rend="sup">a</hi>[47]</p>
+                  <p rend="justify">Tambem se póde passar para o <hi rend="italic">Tom</hi>  da 4.<hi rend="sup">a</hi>  com 3.<hi rend="sup">a</hi>
+                     <hi rend="italic">Menor</hi>; e isto se conhecerá, quando no <hi rend="italic">Basso Contínuo</hi>  apparecer algum <hi rend="italic">Acorde</hi>, em que venha a 3.<hi rend="sup">a</hi>  do <hi rend="italic">Tom Maior</hi>, e a 1.<hi rend="sup">a</hi>
+                     <hi rend="italic">Nota</hi>  com 7.<hi rend="sup">a</hi>[48]</p>
+                  <p rend="justify">Tambem se póde passar para o <hi rend="italic">Tom</hi>  da 5.<hi rend="sup">a</hi>  com 3.<hi rend="sup">a</hi>
+                     <hi rend="italic">Menor</hi>; e isto se conhecerá, quando no <hi rend="italic">Basso Contínuo</hi>  apparecer algum <hi rend="italic">Acorde</hi>, em que a 4<hi rend="sup">a</hi>  venha <hi rend="italic">alterada</hi>[49].</p>
+                  <p rend="justify">Tambem se póde passar para o <hi rend="italic">Tom</hi>  da 6.<hi rend="sup">a</hi>  com 3.<hi rend="sup">a</hi>
+                     <hi rend="italic">Maior</hi>; e isto se conhecerá, quando no <hi rend="italic">Basso Contínuo</hi>  apparecer algum <hi rend="italic">Acorde</hi>, em que venha a 2.<hi rend="sup">a</hi>
+                     <hi rend="italic">Menor</hi>[50]  com a 3.<hi rend="sup">a</hi>, e 5.<hi rend="sup">a</hi>  do mesmo <hi rend="italic">Tom</hi>.</p>
+                  <p rend="justify">Tambem se póde passar para o <hi rend="italic">Tom</hi>  da 7.<hi rend="sup">a</hi>  com 3.<hi rend="sup">a</hi>
+                     <hi rend="italic">Maior</hi>; e isto se conhecerá, quando no <hi rend="italic">Basso Contínuo</hi>  apparecer algum <hi rend="italic">Acorde</hi>, em que venha com a sua 3.<hi rend="sup">a</hi>
+                     <hi rend="italic">Menor</hi>[51], a 6.<hi rend="sup">a</hi>
+                     <hi rend="italic">Maior</hi>.</p>
+                  <p rend="justify">Tambem se póde passar para o <hi rend="italic">Tom</hi>  de 2.<hi rend="sup">a</hi>
+                     <hi rend="italic">Menor</hi>  com 3.<hi rend="sup">a</hi>
+                     <hi rend="italic">Maior</hi>  (o que raras vezes acontece); e isto se conhecerá, quando no <hi rend="italic">Basso Contínuo</hi>  apparecer algum <hi rend="italic">Acorde</hi>, em que venha a 5.<hi rend="sup">a</hi>
+                     <hi rend="italic">Diminuta</hi>[52]  com 6.<hi rend="sup">a</hi>  juntamente.</p>
+                  <p rend="justify">Nestes <hi rend="italic">Tons</hi>  tambem pódem haver algumas outras <hi rend="italic">Transiçoens</hi>  extravagantes, que os Compositores tem por livre arbitrio introduzido; e que na verdade naõ deixaõ de ser algumas vezes gratas, por virem intempestivamente, e fugirem do trilho commum, e das <hi rend="italic">Regras</hi>, que acima exponho: porém para isto se fazer com arte, que rodeios naõ saõ necessarios, tanto no <hi rend="italic">Accompanhamento</hi>, como nas <hi rend="italic">Partes concertantes</hi>? Que gosto naõ he preciso, para ao depois suavizar o ouvido na tornada ao <hi rend="italic">Tom</hi>  primario? Digaõ-no os grandes Mestres, que elles confessaráõ comigo, que se algumas vezes chegaõ a separar-se das <hi rend="italic">Regras</hi>  estabelecidas, he unicamente por se quererem fazer célebres, e merecerem algum reparo do Público; e naõ por ser preceito, que mande fazer huma tal separaçaõ; fugindo deste modo dos naturaes enlaxamentos, que a <hi rend="italic">Analogia</hi>, e <hi rend="italic">Transiçaõ</hi>  dos <hi rend="italic">Tons</hi>  conserva entre si, e que saõ o matiz mais vivo, que orna a <hi rend="italic">Musica</hi>, e que serve de recreio para os seus apaixonados.</p>
+                  <p rend="justify">As ordinarias <hi rend="italic">Transiçoens</hi>, que antecedentemente exponho, pódem vêr-se, segundo a sua ordem, no seguinte</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">ESQUEMA</hi>
+                  </p>
+                  <table rend="frame" xml:id="Table2">
+                     <row>
+                        <cell> Origem dos <lb/>Tons de 3.<hi rend="sup">a</hi>
+                           <lb/>Menor.<lb/> </cell>
+                        <cell> Tons das <lb/>3.<hi rend="sup">as</hi>
+                           <lb/>com 3.<hi rend="sup">a</hi>
+                           <lb/>Maior.</cell>
+                        <cell> Tons das <lb/>4.<hi rend="sup">as</hi>
+                           <lb/>com 3.<hi rend="sup">a</hi>
+                           <lb/>Menor.</cell>
+                        <cell> Tons das <lb/>5.<hi rend="sup">as</hi>
+                           <lb/>com 3.<hi rend="sup">a</hi>
+                           <lb/>Menor.</cell>
+                        <cell> Tons das <lb/>6.<hi rend="sup">as</hi>
+                           <lb/>com 3.<hi rend="sup">a</hi>
+                           <lb/>Maior.</cell>
+                        <cell> Tons das <lb/>7.<hi rend="sup">as</hi>
+                           <lb/>com 3.<hi rend="sup">a</hi>
+                           <lb/>Maior.</cell>
+                        <cell>Tons da <lb/> 2.<hi rend="sup">a</hi> Men.<lb/>com 3.<hi rend="sup">a</hi>
+                           <lb/>Maior.</cell>
+                     </row>
+                     <row>
+                        <cell>——</cell>
+                        <cell>——</cell>
+                        <cell>——</cell>
+                        <cell>——</cell>
+                        <cell>——</cell>
+                        <cell>——</cell>
+                        <cell>——</cell>
+                     </row>
+                     <row>
+                        <cell>C</cell>
+                        <cell>E♭</cell>
+                        <cell>F</cell>
+                        <cell>G</cell>
+                        <cell>A♭</cell>
+                        <cell>B♭</cell>
+                        <cell>D♭</cell>
+                     </row>
+                     <row>
+                        <cell>D</cell>
+                        <cell>F</cell>
+                        <cell>G</cell>
+                        <cell>A</cell>
+                        <cell>B♭</cell>
+                        <cell>C</cell>
+                        <cell>E♭</cell>
+                     </row>
+                     <row>
+                        <cell>E</cell>
+                        <cell>G</cell>
+                        <cell>A</cell>
+                        <cell>B</cell>
+                        <cell>C</cell>
+                        <cell>D</cell>
+                        <cell>F</cell>
+                     </row>
+                     <row>
+                        <cell>F</cell>
+                        <cell>A♭</cell>
+                        <cell>B♭</cell>
+                        <cell>C</cell>
+                        <cell>D♭</cell>
+                        <cell>E♭</cell>
+                        <cell>G♭</cell>
+                     </row>
+                     <row>
+                        <cell>G</cell>
+                        <cell>B♭</cell>
+                        <cell>C</cell>
+                        <cell>D</cell>
+                        <cell>E♭</cell>
+                        <cell>F</cell>
+                        <cell>A♭</cell>
+                     </row>
+                     <row>
+                        <cell>A</cell>
+                        <cell>C</cell>
+                        <cell>D</cell>
+                        <cell>E</cell>
+                        <cell>F</cell>
+                        <cell>G</cell>
+                        <cell>B♭</cell>
+                     </row>
+                     <row>
+                        <cell>B</cell>
+                        <cell>D</cell>
+                        <cell>E</cell>
+                        <cell>F♯</cell>
+                        <cell>G</cell>
+                        <cell>A</cell>
+                        <cell>C</cell>
+                     </row>
+                     <row>
+                        <cell>——</cell>
+                        <cell>——</cell>
+                        <cell>——</cell>
+                        <cell>——</cell>
+                        <cell>——</cell>
+                        <cell>——</cell>
+                        <cell>——</cell>
+                     </row>
+                  </table>
+                  <p rend="justify">Todas estas <hi rend="italic">Regras</hi>, e o mais que nesta Primeira Parte deixo referido, he o que essencialmente pertence ao Mechanismo da <hi rend="italic">Musica</hi>: vamos agora vêr, e especular o que pertence ao da <hi rend="italic">Guitarra</hi>, na Segunda Parte, que se segue.</p>
+                  <p rend="justify">
+                     <hi rend="italic">Fim da Primeira Parte.</hi>
+                  </p>
+                  <p rend="justify">_</p>
+                  <p rend="justify">
+                     <hi rend="bold">ESTUDO DE GUITARRA.</hi>
+                  </p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>PARTE II.</head>
+               <p rend="justify">DAS REGRAS MAIS PRINCIPAES PERTENCENTES A' GUITARRA.</p>
+               <div type="div3">
+                  <head>§. I.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Da Invençaõ, e Serventia da Guitarra.</hi>
+                  </p>
+                  <p rend="justify">A <hi rend="italic">Guitarra</hi>, que segundo dizem, teve a sua origem na <hi rend="italic">Gram-Bretanha</hi>, he hum instrumento, que pela sua harmonía, e suavidade tem sido aceito por muitos Póvos, que achando-a capâz de supprir por alguns instrumentos de maior vulto, como o <hi rend="italic">Cravo</hi>, e outros; e assás sufficiente para entretenimento de huma Assembléa, evitando o incommodo, que poderia causar o convite de huma <hi rend="italic">Orquesta</hi>, a adoptáraõ uniformemente, esmerando-se em a tocarem com toda a destreza: e vendo eu que a Naçaõ Portugueza a tinha tambem adoptado, e se empenhava em tocalla com a maior perfeiçaõ, desejando concorrer para a instrucçaõ dos meus Nacionaes, com esse pouco cabedal que possuo, por naõ haver <hi rend="italic">Tractado</hi>  algum que falle desta materia, compûs o presente <hi rend="italic">Opusculo</hi>, e nelle ajuntei as <hi rend="italic">Regras</hi>, que me pareceraõ mais proprias, e necessarias para se aprender a tocar com perfeiçaõ o dito instrumento, nas quaes mostro naõ só a sua <hi rend="italic">Escala</hi>[53], a divisaõ dos meios pontos, e outras difficuldades; como tambem lhe ajuntei alguns <hi rend="italic">Minuetes</hi>, <hi rend="italic">Contradanças</hi>, <hi rend="italic">Marchas</hi>, e <hi rend="italic">Alegros</hi>, para desembaraçar o Principiante, tudo pelo <hi rend="italic">Tom natural</hi>  de <hi rend="italic">C</hi>, proprio da <hi rend="italic">Escala</hi>  do mencionado instrumento; e logo depois seis <hi rend="italic">Sonatas</hi>[54], com accompanhamento de hum <hi rend="italic">Violino</hi>, e duas <hi rend="italic">Trompas ad libitum</hi>, que por enserrarem algumas difficuldades nos <hi rend="italic">Transportes</hi>, poderáõ servir de completa instrucçaõ para qualquer Curioso, que intente perfeitamente tocallo.</p>
+               </div>
+               <div type="div3">
+                  <head>§. II.</head>
+                  <p rend="justify">
+                     <hi rend="italic">De como deve ser construida a Guitarra, e das qualidades que nella se requerem para ser bem affinada.</hi>
+                  </p>
+                  <p rend="justify">Para que a <hi rend="italic">Guitarra</hi>  seja boa, requerem-se tres cousas, a saber: boa madeira na sua construcçaõ; proporçaõ nas suas partes, principalmente nas doze <hi rend="italic">Divisoens</hi>  d'arame, que ordinariamente atravessaõ o <hi rend="italic">ponto</hi>[55]; e finalmente, que o <hi rend="italic">cavallête</hi>  esteja, em relaçaõ ao mesmo <hi rend="italic">ponto</hi>, no seu competente lugar. A madeira da sua construcçaõ deve ser de <hi rend="italic">Platano</hi>  muito secca, isto se entende, naõ o <hi rend="italic">tampo</hi>, porque este deve ser de <hi rend="italic">Veneza</hi>, por ser madeira mais leve; e sendo ella de vêa fina, e rija, muito melhor, porque o som das <hi rend="italic">Cordas</hi>  reflecte mais, e faz hum excellente effeito, estando o <hi rend="italic">bojo</hi>, ou <hi rend="italic">cabaço</hi>[56]  bem colligado, e de tal sorte unido, que nelle naõ haja boraco, ou frincha por onde lhe entre o ar: de mais, para a <hi rend="italic">Affinaçaõ</hi>  ser regular, e completa, deve procurar-se que da duodecima <hi rend="italic">Divisaõ</hi>  do <hi rend="italic">ponto</hi>  para a parte do <hi rend="italic">cavallête</hi>, haja a mesma distancia de <hi rend="italic">Corda</hi>, que ha da <hi rend="italic">pestana</hi>[57]  para a mesma <hi rend="italic">Divisaõ</hi>; porque, segundo a <hi rend="italic">Physica</hi>, e <hi rend="italic">Mathematica Divisaõ</hi>  de huma <hi rend="italic">Corda</hi>, estando esta preza de ambos os extremos, e pondo-se-lhe bem no meio hum <hi rend="italic">cavallête</hi>, de sorte que fique tanta <hi rend="italic">Corda</hi>  para huma, como para outra parte, dará em cada huma destas partes huma <hi rend="italic">Oitava</hi>; dividindo-a da mesma sorte em tres partes iguaes, dará huma 5.<hi rend="sup">a</hi>, <hi rend="italic">Oitava</hi>  acima da 5.<hi rend="sup">a</hi>  do som da <hi rend="italic">Corda solta</hi>; dividindo-a em quatro, dará huma 4.<hi rend="sup">a</hi>; e em cinco, dará huma terceira[58]; porque he huma verdade demonstrada, e geralmente admettida, que quanto mais pequena fôr huma <hi rend="italic">Corda</hi>, mais <hi rend="italic">vibraçoens</hi>  ella ha de fazer em hum mesmo tempo, por exemplo: em huma hora, em hum minuto, em hum segundo,[59]  etc.; e por tanto o som será mais agudo: e porque a maior parte dos Artifices, principalmente do meu Paiz, ignoraõ estes preceitos <hi rend="italic">Physicos</hi>, e <hi rend="italic">Mathematicos</hi>; he por esta razaõ, que as <hi rend="italic">Guitarras</hi>  lhe sahem taõ irregulares, e taõ desaffinadas nos distinctos sons das mencionadas <hi rend="italic">Divisoens</hi>, que atravessaõ o <hi rend="italic">ponto</hi>; circunstancia que se deve bem averiguar, pois que he o mais essencial, e necessario neste Instrumento: e porque para fazer a <hi rend="italic">Musica</hi>  o seu devido effeito, he preciso que o Instrumento seja, além de bem fabricado, bem affinado: attendendo-se bem ao que neste §. exponho, poderá qualquer sugeito comprar alguma <hi rend="italic">Guitarra</hi>, que se lhe offereça, que estou certo naõ errará, mas antes tirará della o perciso effeito, qual he o deleitar-se com a suave harmonia dos seus regulares sons[60].</p>
+               </div>
+               <div type="div3">
+                  <head>§. III.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Da Perfeiçaõ da Guitarra.</hi>
+                  </p>
+                  <p rend="justify">A <hi rend="italic">Guitarra</hi>  naõ se póde considerar, nem pôr no numero dos instrumentos imperfeitos; porque se me disserem que o he, bem facilmente lhe poderei provar, que naõ ha algum perfeito; porque v. g. a <hi rend="italic">Rabeca</hi>  do <hi rend="italic">Bordaõ</hi>  para baixo, já soffre sua imperfeiçaõ, pois naõ tem os <hi rend="italic">pontos</hi>  que tem o <hi rend="italic">Rabecaõ</hi>, nem o <hi rend="italic">Rabecaõ</hi>  os <hi rend="italic">pontos</hi>  da <hi rend="italic">Rabeca</hi>: se me disserem, que nem tudo se póde tocar na <hi rend="italic">Guitarra</hi>, tambem direi, que nem tudo se póde tocar na <hi rend="italic">Rabeca</hi>, senaõ só as <hi rend="italic">Peças</hi>  positivamente feitas, segundo a ordem da sua <hi rend="italic">Escála</hi>; e em vantagem da <hi rend="italic">Guitarra</hi>, digo, que quem souber bem as <hi rend="italic">Regras do Accompanhamento</hi>, e dos <hi rend="italic">Transportes</hi>  da mesma <hi rend="italic">Guitarra</hi>, facilmente poderá accompanhar qualquer <hi rend="italic">Peça</hi>  de <hi rend="italic">Musica</hi>, naõ tendo o <hi rend="italic">Basso</hi>  passos de obrigaçaõ, nem muitas <hi rend="italic">Notas cambiadas</hi>, e isto muito principalmente em <hi rend="italic">Modinhas</hi>  a <hi rend="italic">duo</hi>, ou a <hi rend="italic">solo</hi>, o que naõ se poderá facilmente fazer na <hi rend="italic">Rabeca</hi>, ou outro qualquer instrumento d'arco.</p>
+               </div>
+               <div type="div3">
+                  <head>§. IV.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Advertencia ao Curioso.</hi>
+                  </p>
+                  <p rend="justify">Depois que o Curioso tiver aprendido a <hi rend="italic">Arte de Musica</hi>, e estiver bem instruido no Mechanismo della, muito principalmente no conhecimento da <hi rend="italic">Clave</hi>  de <hi rend="italic">G</hi>, nos <hi rend="italic">Signos</hi>  que competem pela dita <hi rend="italic">Clave</hi>  ás <hi rend="italic">Linhas</hi>, e <hi rend="italic">Espaços</hi>; nos <hi rend="italic">Tempos</hi>, e nas <hi rend="italic">Figuras</hi>, que em cada hum delles entraõ no <hi rend="italic">Compaço</hi>, e ultimamente em todos os demais caracteres, de que a <hi rend="italic">Musica</hi>  se orna; advertirá com toda a individuaçaõ nas <hi rend="italic">Regras</hi>, que vou expôr, as quaes por breves, e resumidas, já mais deixaráõ de lhe dar huma noçaõ clara, e distincta do que pertence á especulaçaõ deste Instrumento.</p>
+               </div>
+               <div type="div3">
+                  <head>§. V.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Das Cordas.</hi>
+                  </p>
+                  <p rend="justify">A <hi rend="italic">Guitarra</hi>  consta de seis <hi rend="italic">Cordas</hi>, que saõ: <hi rend="italic">Primas</hi>, <hi rend="italic">Segundas</hi>, <hi rend="italic">Terceiras</hi>, <hi rend="italic">Quartas</hi>, <hi rend="italic">Quinta</hi>, e <hi rend="italic">Sexta</hi>. Destas, quatro saõ <hi rend="italic">dobradas</hi>, e duas, <hi rend="italic">singélas</hi>. As <hi rend="italic">dobradas</hi>  saõ as quatro primeiras, que vem a ser: as <hi rend="italic">Primas</hi>, <hi rend="italic">Segundas</hi>, <hi rend="italic">Terceiras</hi>, e <hi rend="italic">Quartas</hi>; e as <hi rend="italic">singélas</hi>  saõ as duas ultimas, que saõ: a <hi rend="italic">Quinta</hi>, e a <hi rend="italic">Sexta</hi>[61].</p>
+               </div>
+               <div type="div3">
+                  <head>§. VI.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Do Numero das Cordas.</hi>
+                  </p>
+                  <p rend="justify">As <hi rend="italic">Primas</hi>[62], devem ser de Carrinho n.<hi rend="sup">o</hi>  8.<hi rend="sup">o</hi>, e naõ n.<hi rend="sup">o</hi>  7.<hi rend="sup">o</hi>, como muitos querem, sem attenderem á proporçaõ da <hi rend="italic">Corda</hi>.</p>
+                  <p rend="justify">As <hi rend="italic">Segundas</hi>, devem ser de Carrinho n.<hi rend="sup">o</hi>  6.<hi rend="sup">o</hi>
+                  </p>
+                  <p rend="justify">As <hi rend="italic">Terceiras</hi>, devem ser de Carrinho n.<hi rend="sup">o</hi>  4.<hi rend="sup">o</hi>[63].</p>
+                  <p rend="justify">As <hi rend="italic">Quartas</hi>, seraõ dous <hi rend="italic">Bordoens cobertos</hi>, chamados vulgarmente <hi rend="italic">Bordoens de G-sol-re-ut</hi>.</p>
+                  <p rend="justify">A <hi rend="italic">Quinta</hi>, será hum <hi rend="italic">Bordaõ</hi>  de <hi rend="italic">E-la-mi</hi>; e a <hi rend="italic">Sexta</hi>, outro de <hi rend="italic">C-sol-fa-ut</hi>.</p>
+               </div>
+               <div type="div3">
+                  <head>§. VII.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Do modo como se devem pôr as Cordas.</hi>
+                  </p>
+                  <p rend="justify">Eleito o competente Carrinho, se tirará delle a <hi rend="italic">Corda</hi>  necessaria, de sorte que fique pouco mais acima do comprimento da <hi rend="italic">Guitarra</hi>, porém que venha sem defeito, ou signal algum de quebradura; e depois se dobrará quasi junto ás pontas, fazendo-lhe hum pequeno circulo em cada huma dellas para se prender, tanto no botaõ do pé, como no ferrinho, ou lingueta da sua competente tarracha[64]; e logo que estiver feito o dito circulo, se cingirá a <hi rend="italic">Corda</hi>  com os bocados dos seus extremos, de sorte, que fiquem muito colligados, e unidos, para assim naõ darem de si, nem tambem desandarem; e depois disto feito, se meterá nos seus competentes lugares,[65]  e entaõ se affinará do modo, que relato no §. XII.</p>
+               </div>
+               <div type="div3">
+                  <head>§. VIII.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Do Modo como se devem ferir as Cordas.</hi>
+                  </p>
+                  <p rend="justify">As <hi rend="italic">Cordas</hi>  da <hi rend="italic">Guitarra</hi>, a que chamaõ <hi rend="italic">Corpo sonoro</hi>[66], para causarem o seu preciso effeito, devem-se ferir com a polpa dos dedos, e tambem com as pontas das unhas: isto se entende, naõ se tocando <hi rend="italic">piano</hi>, que a tocar-se, será unicamente com a polpa dos dedos, e nunca com as unhas, por fazer mais grato, e brando o som que das mesmas exigimos.</p>
+               </div>
+               <div type="div3">
+                  <head>§. IX.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Do Som solto.</hi>
+                  </p>
+                  <p rend="justify">Como a vibraçaõ de cada huma <hi rend="italic">Corda</hi>  da <hi rend="italic">Guitarra</hi>, dura em quanto ella treme, quando se quizer supitar o seu competente som, se porá immediatamente o dedo, que a serio, em cima, que desta sorte se dará o <hi rend="italic">Som solto</hi>[67], e cessará por tanto a vibraçaõ[68].</p>
+               </div>
+               <div type="div3">
+                  <head>§. X.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Dos Signos, que competem a cada huma das Cordas.</hi>
+                  </p>
+                  <p rend="justify">Os <hi rend="italic">Signos</hi>, que competem ás ditas <hi rend="italic">Cordas</hi>, começando da parte dos <hi rend="italic">Bordoens</hi>; saõ da maneira seguinte.</p>
+                  <p rend="justify">O <hi rend="italic">Signo C</hi>, que se assigna no primeiro <hi rend="italic">C</hi>  abaixo da <hi rend="italic">Clave</hi>, he o <hi rend="italic">Signo</hi>  que pertence á <hi rend="italic">6.</hi>
+                     <hi rend="sup italic">a</hi>
+                     <hi rend="italic">  Corda</hi>, que he o <hi rend="italic">Bordaõ</hi>  mais grosso.</p>
+                  <p rend="justify">O <hi rend="italic">Signo E</hi>, que se assigna no primeiro <hi rend="italic">E</hi>  abaixo da <hi rend="italic">Clave</hi>, he o <hi rend="italic">Signo</hi>  que pertence á <hi rend="italic">5.</hi>
+                     <hi rend="sup italic">a</hi>
+                     <hi rend="italic">  Corda</hi>, que he o outro <hi rend="italic">Bordaõ</hi>  acima.</p>
+                  <p rend="justify">O <hi rend="italic">Signo G</hi>, que se assigna na segunda <hi rend="italic">Linha</hi>, que he a posiçaõ certa da <hi rend="italic">Clave</hi>, he o <hi rend="italic">Signo</hi>  que pertence ás <hi rend="italic">4.</hi>
+                     <hi rend="sup italic">as</hi>
+                     <hi rend="italic">  Cordas</hi>, que saõ os dous <hi rend="italic">Bordoens</hi>  acima.</p>
+                  <p rend="justify">O <hi rend="italic">Signo C</hi>, que se assigna no primeiro <hi rend="italic">C</hi>  acima da <hi rend="italic">Clave</hi>, he o <hi rend="italic">Signo</hi>  que pertence ás <hi rend="italic">3.</hi>
+                     <hi rend="sup italic">as</hi>
+                     <hi rend="italic">  Cordas</hi>, que saõ as duas <hi rend="italic">Cordas</hi>  n.<hi rend="sup">o</hi>  4.<hi rend="sup">o</hi>
+                  </p>
+                  <p rend="justify">O <hi rend="italic">Signo E.</hi>, que se assigna no primeiro <hi rend="italic">E</hi>  acima da <hi rend="italic">Clave</hi>, he o <hi rend="italic">Signo</hi>  que pertence ás <hi rend="italic">2.</hi>
+                     <hi rend="sup italic">as</hi>, que saõ as duas <hi rend="italic">Cordas</hi>  n.<hi rend="sup">o</hi>  6.<hi rend="sup">o</hi>
+                  </p>
+                  <p rend="justify">O <hi rend="italic">Signo G.</hi>, que se assigna no primeiro <hi rend="italic">G</hi>  acima da <hi rend="italic">Clave</hi>, he o <hi rend="italic">Signo</hi>  que pertence ás <hi rend="italic">1.</hi>
+                     <hi rend="sup italic">as</hi>, que saõ as duas <hi rend="italic">Cordas</hi>  n.<hi rend="sup">o</hi>  8.<hi rend="sup">o</hi>, como tudo se póde vér no seguinte</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">EXEMPLO.</hi>
+                  </p>
+                  <p rend="justify">_ [Ouvir]</p>
+               </div>
+               <div type="div3">
+                  <head>§. XI.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Das doze Divisoens d'arame, a que chamaõ</hi> Trastes<hi rend="italic">, as quaes dividem todos os meios pontos, que se achaõ no braço da Guitarra; e da Numeraçaõ de todos os Signos, assim naturaes, como accidentáes, que competem a cada huma das Cordas deste Instrumento.</hi>
+                  </p>
+                  <p rend="justify">Quem divide todos os meios pontos, que vaõ do <hi rend="italic">C.</hi>  da <hi rend="italic">6.</hi>
+                     <hi rend="sup italic">a</hi>
+                     <hi rend="italic">  Corda</hi>, ou <hi rend="italic">Bordaõ</hi>; até o <hi rend="italic">G. Oitava</hi>  acima do <hi rend="italic">G.</hi>  das <hi rend="italic">Primas</hi>, saõ os <hi rend="italic">Trastes</hi>, que saõ as doze <hi rend="italic">Divisoens</hi>  d'arame, que atravessaõ o braço da <hi rend="italic">Guitarra</hi>; e por tanto, carregando-se com firmeza com a polpa de hum competente dedo, no meio[69]  de cada huma das mesmas <hi rend="italic">Divisoens</hi>, se attenderá, a que do meio de huma para o de outra immediata, ha sempre o augmento de meio ponto; isto se entende, vindo da parte das cravelhas para o cavallete; e pelo contrario haverá diminuiçaõ de meio ponto, vindo da parte do cavallête para as cravelhas; e porque cada huma <hi rend="italic">Corda</hi>, dentro do ambito das referidas <hi rend="italic">Divisoens</hi>, naõ encerra mais que a distancia de huma <hi rend="italic">Oitava</hi>, a qual se fórma apreciavelmente com as mesmas <hi rend="italic">Divisoens</hi>, que commummente naõ passaõ de doze; por tanto deve-se saber, que como a <hi rend="italic">Corda solta</hi>  he <hi rend="italic">C natural</hi>, como já se disse, o qual se assigna na primeira <hi rend="italic">Linha accidental</hi>, que fica abaixo da primeira <hi rend="italic">natural</hi>; carregando-se bem no meio da primeira <hi rend="italic">Divisaõ</hi>  d'arame será <hi rend="italic">C</hi>♯, ou <hi rend="italic">D</hi>♭: carregando-se acima[70], será <hi rend="italic">D natural</hi>; mais acima, <hi rend="italic">D</hi>♯, ou <hi rend="italic">E</hi>♭; mais acima, <hi rend="italic">E natural</hi>, ou <hi rend="italic">F</hi>♭; mais acima, <hi rend="italic">E</hi>♯, ou <hi rend="italic">F natural</hi>; mais acima, <hi rend="italic">F</hi>♯, ou <hi rend="italic">G</hi>♭; mais acima <hi rend="italic">G natural</hi>; mais acima, <hi rend="italic">G</hi>♯, ou <hi rend="italic">A</hi>♭; mais acima <hi rend="italic">A natural</hi>; mais acima <hi rend="italic">A</hi>♯, ou <hi rend="italic">B</hi>♭; mais acima, <hi rend="italic">B natural</hi>, ou <hi rend="italic">C</hi>♭; mais acima, <hi rend="italic">B</hi>♯, ou <hi rend="italic">C natural</hi>.</p>
+                  <p rend="justify">Como a <hi rend="italic">5.</hi>
+                     <hi rend="sup italic">a</hi>
+                     <hi rend="italic">  Corda solta</hi>  he <hi rend="italic">E natural</hi>, o qual se assigna na primeira <hi rend="italic">Linha</hi>; carregando-se com firmeza no meio da primeira <hi rend="italic">Divisaõ</hi>  d'arame, será <hi rend="italic">E</hi>♯, ou <hi rend="italic">F natural</hi>; carregando-se acima, será <hi rend="italic">F</hi>♯, ou <hi rend="italic">G</hi>♭; mais acima, <hi rend="italic">G natural</hi>; mais acima <hi rend="italic">G</hi>♯, ou <hi rend="italic">A</hi>♭; mais acima, <hi rend="italic">A natural</hi>; mais acima <hi rend="italic">A</hi>♯, ou <hi rend="italic">B</hi>♭; mais acima, <hi rend="italic">B natural</hi>, ou <hi rend="italic">C</hi>♭; mais acima, <hi rend="italic">B</hi>♯, ou <hi rend="italic">C natural</hi>; mais acima, <hi rend="italic">C</hi>♯, ou <hi rend="italic">D</hi>♭; mais acima, <hi rend="italic">D natural</hi>; mais acima, <hi rend="italic">D</hi>♯, ou <hi rend="italic">E</hi>♭; mais acima, <hi rend="italic">E natural</hi>, ou <hi rend="italic">F</hi>♭.</p>
+                  <p rend="justify">Como a <hi rend="italic">4.</hi>
+                     <hi rend="sup italic">a</hi>
+                     <hi rend="italic">  Corda solta</hi>  he <hi rend="italic">G natural</hi>, o qual se assigna na segunda <hi rend="italic">Linha</hi>; carregando-se com firmeza no meio da primeira <hi rend="italic">Divisaõ</hi>  d'arame, será <hi rend="italic">G</hi>♯, ou <hi rend="italic">A</hi>♭; carregando-se acima, será <hi rend="italic">A natural</hi>; mais acima, será <hi rend="italic">A</hi>♯, ou <hi rend="italic">B</hi>♭; mais acima, será <hi rend="italic">B natural</hi>, ou <hi rend="italic">C</hi>♭; mais acima, <hi rend="italic">B</hi>♯, ou <hi rend="italic">C natural</hi>; mais acima, <hi rend="italic">C</hi>♯, ou <hi rend="italic">D</hi>♭; mais acima, <hi rend="italic">D natural</hi>; mais acima, <hi rend="italic">D</hi>♯, ou <hi rend="italic">E</hi>♭; mais acima, <hi rend="italic">E natural</hi>, ou <hi rend="italic">F</hi>♭; mais acima, <hi rend="italic">E</hi>♯, ou <hi rend="italic">F natural</hi>; mais acima, <hi rend="italic">F</hi>♯, ou <hi rend="italic">G</hi>♭; mais acima finalmente, será <hi rend="italic">G natural</hi>; e porque as outras tres <hi rend="italic">Cordas</hi>  saõ affinadas em <hi rend="italic">Oitavas</hi>  destas que deixo designadas; por tanto, a mesma <hi rend="italic">Divisaõ</hi>, e <hi rend="italic">Signos</hi>  que competem á <hi rend="italic">6.</hi>
+                     <hi rend="sup italic">a</hi>
+                     <hi rend="italic">  Corda</hi>, seráõ os mesmos que competiráõ á <hi rend="italic">3.</hi>
+                     <hi rend="sup italic">a</hi>; os da <hi rend="italic">5.</hi>
+                     <hi rend="sup italic">a</hi>, os mesmos que competiráõ á <hi rend="italic">2.</hi>
+                     <hi rend="sup italic">a</hi>; e os da <hi rend="italic">4.</hi>
+                     <hi rend="sup italic">a</hi>, os mesmos que competiráõ ás <hi rend="italic">Primas</hi>; com a differença, de que os consideraremos <hi rend="italic">Oitava</hi>  acima: e para mais facilitar aos Principiantes neste conhecimento, tracei a seguinte <hi rend="italic">Estampa</hi>, na qual poderáõ vêr com toda a individuaçaõ, quanto neste §. deixo referido, a saber: naõ só os <hi rend="italic">Signos</hi>  que saõ <hi rend="italic">Sustenidos</hi>, vindo da parte das <hi rend="italic">cravelhas</hi>  para a do <hi rend="italic">cavallête</hi>, como pelo contrario os <hi rend="italic">Signos</hi>  b-<hi rend="italic">molados</hi>, vindo da parte do <hi rend="italic">cavallête</hi>  para as <hi rend="italic">cravelhas</hi>; circunstancia esta, que he muito necessaria, naõ só para o perfeito conhecimento dos <hi rend="italic">Transportes</hi>, como juntamente para bem decifrar tudo o que pertence ao Mechanismo deste Instrumento.</p>
+                  <p rend="justify">_</p>
+                  <p rend="justify">
+                     <hi rend="italic">Advirta-se que todos os signos que levaõ este signal</hi>  ♮, <hi rend="italic">saõ naturaes</hi>.</p>
+               </div>
+               <div type="div3">
+                  <head>§. XII.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Da Affinaçaõ.</hi>
+                  </p>
+                  <p rend="justify">Retezado naturalmente o <hi rend="italic">Bordaõ</hi>  de <hi rend="italic">C.</hi>, e considerado na sua propria consistencia, isto he, que nem esteja demaziadamente retezado, nem lasso, para se affinar a 5.<hi rend="sup">a</hi>
+                     <hi rend="italic">Corda</hi>, ou <hi rend="italic">Bordaõ</hi>, que he <hi rend="italic">E.</hi>, procure-se este <hi rend="italic">Signo</hi>  na 6.<hi rend="sup">a</hi>
+                     <hi rend="italic">Corda</hi>, no meio da 3.<hi rend="sup">a</hi>, e 4.<hi rend="sup">a</hi>
+                     <hi rend="italic">Divisaõ</hi>, e ferindo-se com a maõ direita esta 6.<hi rend="sup">a</hi>
+                     <hi rend="italic">Corda</hi>, logo que sentirmos o seu som, uniremos o som da 5.<hi rend="sup">a</hi>  com o que der a referida 6.<hi rend="sup">a</hi>, e logo que estiver affinada, se pasará a 4.<hi rend="sup">a</hi>.</p>
+                  <p rend="justify">Para se affinar a 4.<hi rend="sup">a</hi>
+                     <hi rend="italic">Corda</hi>, que he <hi rend="italic">G</hi>, procure-se este <hi rend="italic">Signo</hi>  na 5.<hi rend="sup">a</hi>
+                     <hi rend="italic">Corda</hi>, no meio da 2.<hi rend="sup">a</hi>, e 3.<hi rend="sup">a</hi>
+                     <hi rend="italic">Divisaõ</hi>, e ferindo-se com a maõ direita esta 5.<hi rend="sup">a</hi>
+                     <hi rend="italic">Corda</hi>, logo que sentirmos o seu som, uniremos o som da 4.<hi rend="sup">a</hi>  com o que der a referida 5.<hi rend="sup">a</hi>, e se passará á 3.<hi rend="sup">a</hi>, 2.<hi rend="sup">a</hi>  e 1.<hi rend="sup">a</hi>, que se affinaráõ, ou procurando os <hi rend="italic">Signos</hi>, que lhes competem nas <hi rend="italic">Cordas</hi>  antecedentes, ou affinando-as em <hi rend="italic">Oitavas</hi>  das tres primeiras, o que tudo vem a ser o mesmo, e facilmente se poderá colligir pela experiencia, e pelos seguintes[71]</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">EXEMPLOS.</hi>
+                  </p>
+                  <p rend="justify">_</p>
+               </div>
+               <div type="div3">
+                  <head>§. XIII.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Da Posiçaõ, e Numeros dos dedos.</hi>
+                  </p>
+                  <p rend="justify">Posta a <hi rend="italic">Guitarra</hi>, naõ muito junta ao peito, com o <hi rend="italic">braço</hi>  para a parte esquerda, algum tanto levantado para o ar, e o <hi rend="italic">bojo,</hi>  ou <hi rend="italic">cabaço</hi>, que fica na parte direita, mais baixo, quero dizer, sustida desta sorte a Guitarra no pulso da maõ direita, e no meio da chave da maõ esquerda, se observará, que os dedos que lhe competem, se numeraõ, e haõ de entender deste modo: como o dedo <hi rend="italic">polex</hi>, chamado vulgarmente <hi rend="italic">polegar</hi>, naõ faz figura na maõ esquerda, por estar fóra da posiçaõ de ferir as <hi rend="italic">Cordas</hi>, por isso se deve entender, que o primeiro dedo da maõ esquerda, he o que fica logo acima do <hi rend="italic">polegar</hi>, chamado <hi rend="italic">index</hi>; e pela sua ordem os outros, sendo o <hi rend="italic">minimo</hi>, chamado vulgarmente <hi rend="italic">mendinho</hi>, o 4.<hi rend="sup">o</hi>, ou ultimo. Na maõ direita porém, os dedos que competem, e devem ferir as <hi rend="italic">Cordas</hi>, saõ os tres primeiros, que vem a ser o <hi rend="italic">polegar</hi>, o 2.<hi rend="sup">o</hi>, e 3.<hi rend="sup">o</hi>; e os demais só em casos extraordinarios se usará delles.</p>
+               </div>
+               <div type="div3">
+                  <head>§. XIV.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Da Pestana postiça, que se atarracha nos boracos da Guitarra, para augmentar o Tom.</hi>
+                  </p>
+                  <p rend="justify">Quando se quizer tocar algum <hi rend="italic">Minuete</hi>, <hi rend="italic">Marcha</hi>, ou outra qualquer <hi rend="italic">Peça</hi>, por algum <hi rend="italic">Tom</hi>  mais alto, que o <hi rend="italic">Tom natural</hi>  de <hi rend="italic">C</hi>, por evitar o fazer <hi rend="italic">Pestana</hi>  com o dedo <hi rend="italic">index</hi>, póde usar-se da <hi rend="italic">Pestana postiça</hi>, a qual he huma <hi rend="italic">travessa</hi>  pequena de marfim, ou d'osso, correspondente á largura do <hi rend="italic">braço</hi>  da <hi rend="italic">Guitarra</hi>, que por baixo traz hum bocado de camurça, ou pelica collada, com que cobre o seu extremo inferior, que assenta sobre as <hi rend="italic">Cordas</hi>, e que tem hum boraco no meio, pelo qual se mete hum perafuso, que atravessando naõ só a referida <hi rend="italic">Pestana</hi>, como tambem o <hi rend="italic">braço</hi>  da <hi rend="italic">Guitarra</hi>, que para isto mesmo tem pelo braço acima quatro boracos; em cada hum destes, atarrachada que seja a dita <hi rend="italic">Pestana</hi>, se poderá formar o <hi rend="italic">Tom</hi>  que se pertender, os quaes saõ do modo, que relato no §. seguinte[72].</p>
+               </div>
+               <div type="div3">
+                  <head>§. XV.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Dos Tons accidentaes, que se fórmaõ com a Pestana postiça.</hi>
+                  </p>
+                  <p rend="justify">Como os boracos, que as <hi rend="italic">Guitarras</hi>  ordinariamente trazem, naõ passaõ de quatro posta a travessa, que serve de <hi rend="italic">Pestana</hi>, bem atarrachada no primeiro boraco, formará o <hi rend="italic">Tom</hi>  de <hi rend="italic">D</hi>, com 3.<hi rend="sup">a</hi>
+                     <hi rend="italic">Maior</hi>: no segundo, formará o <hi rend="italic">Tom</hi>  de <hi rend="italic">D♯♯</hi>, (que raras vezes se encontra) com 3.<hi rend="sup">a</hi>
+                     <hi rend="italic">Maior</hi>; ou o <hi rend="italic">Tom E</hi>♭, chamado vulgarmente d'<hi rend="italic">E-la-fa</hi>, com 3.<hi rend="sup">a</hi>
+                     <hi rend="italic">Maior</hi>: no terceiro, formará o <hi rend="italic">Tom</hi>  de <hi rend="italic">E</hi>, chamado vulgarmente d'<hi rend="italic">E-la-mi</hi>, com 3.<hi rend="sup">a</hi>
+                     <hi rend="italic">Maior</hi>: e finalmente no quarto, formará o <hi rend="italic">Tom</hi>  de <hi rend="italic">F</hi>, com 3.<hi rend="sup">a</hi>
+                     <hi rend="italic">Maior</hi>[73].</p>
+               </div>
+               <div type="div3">
+                  <head>§. XVI.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Da Ordem dos dedos, que devem carregar as Cordas, e Notas dos Tons accidentaes, estando o index servindo de Pestana.</hi>
+                  </p>
+                  <p rend="justify">Como os dedos da maõ esquerda saõ, e se devem considerar, como <hi rend="italic">cavallêtes</hi>  moveis, por meio dos quaes sentimos os differentes sons de qualquer <hi rend="italic">Peça</hi>, deve-se por tanto saber, que os dedos que competem ás differentes <hi rend="italic">Notas</hi>  de cada <hi rend="italic">Tom</hi>, na distancia de hum <hi rend="italic">Diapasaõ</hi>, segundo a ordem da sua <hi rend="italic">Escála Diatonica</hi>, estando o dedo <hi rend="italic">index</hi>  servindo de <hi rend="italic">Pestana</hi>, se entenderáõ do modo seguinte.</p>
+                  <p rend="justify">A 1.<hi rend="sup">a</hi>
+                     <hi rend="italic">Nota</hi>  do <hi rend="italic">Tom</hi>, diz-se nas 3.<hi rend="sup">a</hi>s <hi rend="italic">Cordas soltas</hi>.</p>
+                  <p rend="justify">A 2.<hi rend="sup">a</hi>
+                     <hi rend="italic">Nota</hi>, diz-se nas mesmas <hi rend="italic">Cordas</hi>, carregando-se com o dedo immediato ao <hi rend="italic">mendinho</hi>  no meio que fica entre a 1.<hi rend="sup">a</hi>, e 2.<hi rend="sup">a</hi>
+                     <hi rend="italic">Divisaõ</hi>[74].</p>
+                  <p rend="justify">A 3.<hi rend="sup">a</hi>
+                     <hi rend="italic">Nota</hi>, diz-se nas 3.<hi rend="sup">as</hi>
+                     <hi rend="italic">Cordas soltas</hi>.</p>
+                  <p rend="justify">A 4.<hi rend="sup">a</hi>, diz-se nas mesmas <hi rend="italic">Cordas</hi>, carregando-se com o dedo <hi rend="italic">grande</hi>  no meio que fica entre o dedo que fórma a <hi rend="italic">Pestana</hi>, e a 1.<hi rend="sup">a</hi>
+                     <hi rend="italic">Divisaõ</hi>.</p>
+                  <p rend="justify">A 5.<hi rend="sup">a</hi>, diz-se nas <hi rend="italic">Primas soltas</hi>.</p>
+                  <p rend="justify">A 6.<hi rend="sup">a</hi>, diz-se nas mesmas <hi rend="italic">Cordas</hi>, carregando-se com o dedo immediato ao <hi rend="italic">mendinho</hi>  no meio que fica entre a 1.<hi rend="sup">a</hi>, e 2.<hi rend="sup">a</hi>
+                     <hi rend="italic">Divisaõ</hi>.</p>
+                  <p rend="justify">A 7.<hi rend="sup">a</hi>, diz-se nas mesmas <hi rend="italic">Cordas</hi>, carregando-se com o dedo <hi rend="italic">mendinho</hi>  no meio que fica entre a 3.<hi rend="sup">a</hi>, e 4.<hi rend="sup">a</hi>
+                     <hi rend="italic">Divisaõ</hi>.</p>
+                  <p rend="justify">A 8.<hi rend="sup">a</hi>  finalmente, diz-se tambem nas mesmas <hi rend="italic">Cordas</hi>, carregando-se com o mesmo <hi rend="italic">mendinho</hi>  no meio que fica entre a 4.<hi rend="sup">a</hi>, e 5.<hi rend="sup">a</hi>
+                     <hi rend="italic">Divisaõ</hi>, como na pratica melhor se poderá entender[75].</p>
+               </div>
+               <div type="div3">
+                  <head>§. XVII.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Da Posiçaõ dos dedos na Guitarra com Teclas.</hi>
+                  </p>
+                  <p rend="justify">Como algumas <hi rend="italic">Guitarras</hi>  trazem por esquipaçaõ, hum pequeno <hi rend="italic">Teclado</hi>  com seis <hi rend="italic">Teclas</hi>, no fim, ou na parte inferior do <hi rend="italic">bojo</hi>  da mesma <hi rend="italic">Guitarra</hi>[76]; deve-se advertir, que a posiçaõ dos dedos da maõ esquerda he a mesma, como se naõ tivesse <hi rend="italic">Teclas</hi>; porém a da maõ direita he differente, pois se póde tocar com todos os dedos; e muitas vezes com hum só dedo se póde tocar em duas <hi rend="italic">Teclas</hi>.</p>
+               </div>
+               <div type="div3">
+                  <head>§. XVIII.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Dos Transportes.</hi>
+                  </p>
+                  <p rend="justify">Chama-se <hi rend="italic">Transporte</hi>, á elevaçaõ que se faz do <hi rend="italic">Tom natural</hi>  de <hi rend="italic">C</hi>, para outro <hi rend="italic">accidental</hi>, em que para o formar nos servimos de huma <hi rend="italic">Pestana postiça</hi>, ou do dedo <hi rend="italic">index</hi>, que atravessado com firmeza, bem no meio de duas <hi rend="italic">Divisoens</hi>  d'arame, suppre pela mesma <hi rend="italic">Pestana</hi>.</p>
+                  <p rend="justify">Na <hi rend="italic">Guitarra</hi>  pódem haver tantos <hi rend="italic">Transportes</hi>, quantos saõ os <hi rend="italic">meios</hi>  que ficaõ entre as <hi rend="italic">Divisoens</hi>, que circulaõ o <hi rend="italic">ponto</hi>  do <hi rend="italic">braço</hi>  da mesma <hi rend="italic">Guitarra</hi>; porque assim como no meio de cada duas <hi rend="italic">Divisoens</hi>, ou com a <hi rend="italic">Pestana</hi>  atarrachada, ou com o supplemento do dedo <hi rend="italic">index</hi>, se póde formar hum <hi rend="italic">Tom accidental</hi>, como já se disse no §. XVI.; da mesma sorte tantos pódem ser os seus <hi rend="italic">Transportes</hi>[77].</p>
+               </div>
+               <div type="div3">
+                  <head>§. XIX.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Do modo como se deve formar a Pestana com o dedo index, para dedilhar.</hi>
+                  </p>
+                  <p rend="justify">Como as <hi rend="italic">Cordas</hi>  deste instrumento saõ affinadas em 3.<hi rend="sup">a</hi>, deve-se advertir, que como em qualquer parte que se atravesse o dedo <hi rend="italic">index</hi>, servindo de <hi rend="italic">Pestana</hi>, se fórma hum <hi rend="italic">Tom</hi>  de 3.<hi rend="sup">a</hi>
+                     <hi rend="italic">Maior</hi>, com tudo, como a largura do <hi rend="italic">braço</hi>  da <hi rend="italic">Guitarra</hi>  he grande, e muitas vezes o dedo da <hi rend="italic">Pestana</hi>, por enfraquecer, naõ póde bem abranger a sua extensaõ; e além disto, porque as <hi rend="italic">Cordas</hi>  d'arame serem mais os dedos, do que as de tripa, por esta causa, para dedilhar em qualquer dos <hi rend="italic">Tons accidentaes</hi>, bastará atravessar o dedo <hi rend="italic">index</hi>  da <hi rend="italic">Pestana</hi>  nas tres primeiras <hi rend="italic">Cordas agudas</hi>, ou nas tres ultimas, sendo a <hi rend="italic">Musica grave</hi>, como tudo melhor se observará nas seis <hi rend="italic">Sonatas</hi>, que compûz.</p>
+               </div>
+               <div type="div3">
+                  <head>§. XX.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Do modo como se devem tocar algumas Posturas chêas de vozes.</hi>
+                  </p>
+                  <p rend="justify">Quando algumas vezes se quizer tocar com a maõ aberta, em algumas <hi rend="italic">Posturas chêas de vozes</hi>, nunca será fincando primeiramente as costas das unhas, mas sim correr-se-haõ rapidamente todas com a polpa do segundo dedo da maõ direita, dando a pancada sempre debaixo para cima, isto he, das <hi rend="italic">Primas</hi>  para as outras <hi rend="italic">Cordas</hi>; porém quando se quizer fazer maior estrépito, ou restulhada, poder-se-ha fazer com as costas das unhas dos quatro dedos, sem o <hi rend="italic">polegar</hi>, dando a pancada de cima para baixo, isto he, dos <hi rend="italic">Bordoens</hi>  para as demais <hi rend="italic">Cordas</hi>.</p>
+               </div>
+               <div type="div3">
+                  <head>§. XXI.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Do modo como se devem tocar as Figuras que tiverem duas, tres, e mais cabeças pegadas em differentes distancias, ou duas caudas.</hi>
+                  </p>
+                  <p rend="justify">Quando duas, tres, ou mais <hi rend="italic">cabeças</hi>  das <hi rend="italic">Notas</hi>, ou <hi rend="italic">Figuras</hi>, estaõ perpendicularmente unidas em diversas distancias, devem-se ferir, ou tocar todas juntas, com dous, ou tres dedos, que de ordinario devem ser o primeiro, segundo, e terceiro. Quando porém, alguma <hi rend="italic">Figura</hi>  tiver duas <hi rend="italic">caudas</hi>, huma para a parte superior, e outra para a inferior, he para se dar <hi rend="italic">dobrada</hi>  em duas differentes <hi rend="italic">Cordas</hi>, como v. g. o <hi rend="italic">Signo G</hi>. do <hi rend="italic">Espaço</hi>  acima da <hi rend="italic">5.</hi>
+                     <hi rend="sup italic">a</hi>
+                     <hi rend="italic">  Linha</hi>, se tivesse duas <hi rend="italic">caudas</hi>, era para se dar tambem o mesmo <hi rend="italic">Signo</hi>  na <hi rend="italic">2.</hi>
+                     <hi rend="sup italic">a</hi>
+                     <hi rend="italic">  Corda E</hi>.</p>
+               </div>
+               <div type="div3">
+                  <head>§. XXII.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Do Estylo, e de quando se deve usar de Apojos de Capricho.</hi>
+                  </p>
+                  <p rend="justify">Para se tocar qualquer <hi rend="italic">Peça</hi>  com flexibilidade, bom modo, e gosto; e finalmente com huma viva, e tocante expressaõ, a que chamaõ <hi rend="italic">Estyllo</hi>; se attenderá muito aos <hi rend="italic">Apojos</hi>  de <hi rend="italic">Capricho</hi>, que o mais das vezes, e quasi sempre se devem suppor, e entender, ainda que naõ venhaõ expressos; porque a <hi rend="italic">Musica</hi>  sendo (se possivel for) toda <hi rend="italic">Apojada</hi>, nunca já mais será defeituosa, o que pelo contrario succederá, usando-se de outros quaesquer signaes, como por exemplo, muitos <hi rend="italic">Trinos</hi>, <hi rend="italic">Portamentos</hi>, e outros deste genero, sem que positivamente venhaõ expressos no papel; e para isto se fazer com a precisa regularidade, se observaráõ as seguintes <hi rend="italic">Regras</hi>.</p>
+                  <div type="div4">
+                     <head>REGRA I.</head>
+                     <p rend="justify">Todas as vezes, que do <hi rend="italic">ponto</hi>, ou <hi rend="italic">Signo</hi> de huma <hi rend="italic">Corda solta</hi> se passar para o <hi rend="italic">ponto</hi>, ou <hi rend="italic">Signo</hi> da <hi rend="italic">Nota superior</hi>, por exemplo: do <hi rend="italic">G</hi> das <hi rend="italic">Primas</hi> para <hi rend="italic">A</hi>; ou do <hi rend="italic">E</hi> das <hi rend="italic">Segundas</hi> para <hi rend="italic">F</hi>; deve-se ferir antes a <hi rend="italic">Corda solta</hi> com a maõ direita, e logo sem demora cobrir com o dedo, ou dedos da maõ esquerda o <hi rend="italic">ponto</hi>, ou <hi rend="italic">pontos</hi>, que vierem notados no papel; e esta mesma <hi rend="italic">Regra</hi> se observará tambem pelo contrario, descendo da <hi rend="italic">Corda carregada</hi> para a <hi rend="italic">solta</hi>.</p>
+                  </div>
+                  <div type="div4">
+                     <head>REGRA II.</head>
+                     <p rend="justify">Vindo escritas no papel tres <hi rend="italic">Figuras</hi>, que desçaõ <hi rend="italic">gradatim</hi> com <hi rend="italic">3-Que-altera</hi> expressos, ou sub-entendidos; ou ainda mesmo huma <hi rend="italic">Colchêa</hi> com duas <hi rend="italic">Semi-Colchêas</hi> pegadas, e consecutivas, sempre antes da primeira <hi rend="italic">Figura</hi> se poderá dar hum <hi rend="italic">Apojo</hi>, que será sempre o <hi rend="italic">Signo superior</hi> em distancia de hum, ou meio <hi rend="italic">ponto</hi>, segundo o pedir a <hi rend="italic">formaçaõ</hi>, ou <hi rend="italic">composiçaõ</hi> do <hi rend="italic">Tom</hi> por onde se toca: e vindo seis <hi rend="italic">Figuras</hi> com <hi rend="italic">6-Que-altera</hi>, o referido <hi rend="italic">Apojo</hi> se poderá dar antes das tres <hi rend="italic">Figuras</hi> ultimas.</p>
+                  </div>
+                  <div type="div4">
+                     <head>REGRA III.</head>
+                     <p rend="justify">Quando o <hi rend="italic">Andamento</hi> da <hi rend="italic">Musica</hi> naõ for muito apressado, e as <hi rend="italic">Figuras</hi> descerem <hi rend="italic">gradatim</hi>, póde-se dar em cada huma dellas hum <hi rend="italic">Apojo</hi>, que será sempre a <hi rend="italic">Nota superior</hi>.</p>
+                  </div>
+                  <div type="div4">
+                     <head>REGRA IV.</head>
+                     <p rend="justify">Se duas, tres, quatro, ou mais <hi rend="italic">Figuras</hi> estiverem notadas em hum mesmo <hi rend="italic">Signo</hi>, na ultima se poderá dar hum <hi rend="italic">Apojo</hi>; porém se vier alguma <hi rend="italic">ligada</hi>, se dará o dito <hi rend="italic">Apojo</hi> na <hi rend="italic">Figura</hi>, que vier depois da <hi rend="italic">Ligadura</hi>.</p>
+                  </div>
+                  <div type="div4">
+                     <head>REGRA V.</head>
+                     <p rend="justify">Finalmente toda a <hi rend="italic">Figura</hi>, que vier escrita antes de qualquer <hi rend="italic">Pausa</hi>, naõ vindo notada com este signal, que serve, como já se disse, para se dar <hi rend="italic">solta</hi>, sempre antes della se poderá dar hum <hi rend="italic">Apojo</hi>.</p>
+                     <p rend="justify">Estes preceitos sendo arbitrarios, naõ deixaõ de ser observados na praxe; porque como os <hi rend="italic">Apojos</hi>, a que chamo de <hi rend="italic">Capricho</hi>[78], servem de tanto ornamento á <hi rend="italic">Musica</hi>; e porque com elles esta nunca já mais he desagradavel; segue-se, que huma vez que se tire do Instrumento hum bom som, que naõ seja suffocado, nem surdo; sendo assim, em qualquer <hi rend="italic">Peça</hi>  que se houver de tocar com estes signaes de expressaõ, estou certo, que se faráõ expectaveis naõ só dos Sabios, e inteligentes Professores, como inda mesmo dos que nada entendem de <hi rend="italic">Musica</hi>.</p>
+                  </div>
+               </div>
+               <div type="div3">
+                  <head>§. XXIII.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Do modo como se devem dizer as Figuras Ligadas.</hi>
+                  </p>
+                  <p rend="justify">Quando o Principiante vir sobre duas, tres, quatro, ou mais <hi rend="italic">Figuras</hi>, huma <hi rend="italic">Linha curva</hi>, a que na <hi rend="italic">Musica</hi>  chamamos <hi rend="italic">Ligadura</hi>, indica este signal, que a maõ direita deve ferir a <hi rend="italic">Corda</hi>  que pertence ao <hi rend="italic">Signo</hi>  da primeira <hi rend="italic">Figura</hi>, e as demais devem dizer-se debaixo da mesma pancada; pondo os dedos da maõ esquerda nos <hi rend="italic">Signos</hi>  das <hi rend="italic">Figuras</hi>  que vierem <hi rend="italic">Notadas</hi>.</p>
+               </div>
+               <div type="div3">
+                  <head>§. XXIV.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Da Escála Diatonica.</hi>
+                  </p>
+                  <p rend="justify">Depois de instruido o Principiante nestes documentos, passará á seguinte <hi rend="italic">Escála</hi>, que exponho, numerando por cima de cada <hi rend="italic">Nota</hi>  as <hi rend="italic">Cordas soltas</hi>, que demonstro com hum <hi rend="italic">s</hi>, e as que devem ser feridas, com o numero dos dedos que lhes competem.</p>
+                  <p rend="justify">_ [Ouvir]</p>
+               </div>
+               <div type="div3">
+                  <head>§. XXV.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Dos trinta e dous Intervallos, que se achaõ na extençaõ do braço da Guitarra.</hi>
+                  </p>
+                  <p rend="justify">Contando successiva, e <hi rend="italic">Diatonicamente</hi>  os <hi rend="italic">pontos</hi>, e meios <hi rend="italic">pontos</hi>  que a <hi rend="italic">Guitarra</hi>  encerra dentro dos seus limites, isto he, contando do <hi rend="italic">C</hi>  do primeiro <hi rend="italic">Bordaõ</hi>, até o <hi rend="italic">G</hi>, ultimo <hi rend="italic">ponto</hi>  das <hi rend="italic">Primas</hi>, he certo que encerra trinta e duas distancias, ou <hi rend="italic">Intervallos</hi>, como se póde vêr no seguinte</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">EXEMPLO.</hi>
+                  </p>
+                  <p rend="justify">_ [Ouvir]</p>
+               </div>
+               <div type="div3">
+                  <head>§. XXVI.</head>
+                  <p rend="justify">
+                     <hi rend="italic">Entoação primaria, em que se mostraõ numericamente os dedos, que competem aos Signos na distancia de duas Oitavas, contando do</hi> C <hi rend="italic">da 6.</hi>
+                     <hi rend="sup italic">a</hi>
+                     <hi rend="italic">  Corda até o</hi> C <hi rend="italic">que fica acima das Primas.</hi>
+                  </p>
+                  <p rend="justify">_ [Ouvir]</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Valor das Minimas com Vozes.</hi>
+                  </p>
+                  <p rend="justify">_ [Ouvir]</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Valor das Seminimas.</hi>
+                  </p>
+                  <p rend="justify">_ [Ouvir]</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Valor das Colchêas.</hi>
+                  </p>
+                  <p rend="justify">_ [Ouvir]</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Valor das Semicolchêas.</hi>
+                  </p>
+                  <p rend="justify">_ [Ouvir]</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Valor das Minimas, e Seminimas.</hi>
+                  </p>
+                  <p rend="justify">_ [Ouvir]</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Valor das Seminimas, e Colchêas.</hi>
+                  </p>
+                  <p rend="justify">_ [Ouvir]</p>
+                  <p rend="justify">
+                     <hi rend="bold italic">Valor do Ponto de augmentaçaõ.</hi>
+                  </p>
+                  <p rend="justify">_ [Ouvir]</p>
+                  <p rend="justify">FIM.</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>INDEX</head>
+               <p rend="justify">
+                  <hi rend="bold">DO QUE SE CONTEM NESTE VOLUME.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold">PARTE I</hi>
+               </p>
+               <table rend="frame" xml:id="Table3">
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. I.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Da Musica.</hi>
+                     </cell>
+                     <cell>Pag. 9</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. II.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Dos Signos.</hi>
+                     </cell>
+                     <cell>ibid.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. III.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Das Linhas, e Espaços.</hi>
+                     </cell>
+                     <cell>ibid.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. IV.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Das Claves.</hi>
+                     </cell>
+                     <cell>10.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. V.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Do Conhecimento dos Signos.</hi>
+                     </cell>
+                     <cell>ibid.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. VI.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Dos Accidentes.</hi>
+                     </cell>
+                     <cell>11.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. VII.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Da Ordem de assignar os Accidentes.</hi>
+                     </cell>
+                     <cell>ibid.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. VIII.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Dos Accidentes Originais, e Accidentaes.</hi>
+                     </cell>
+                     <cell>ibid.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. IX.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Dos Tempos.</hi>
+                     </cell>
+                     <cell>ibid.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. X.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Do Compaço.</hi>
+                     </cell>
+                     <cell>12.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. XI.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Das Figuras.</hi>
+                     </cell>
+                     <cell>ibid.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. XII.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Do Valor das Figuras.</hi>
+                     </cell>
+                     <cell>13.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. XIII.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Da Sincopa, ou Contra-tempo.</hi>
+                     </cell>
+                     <cell>ibid.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. XIV.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Da Derivaçaõ dos Tempos Numerarios.</hi>
+                     </cell>
+                     <cell>ibid.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. XV.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Da Numeraçaõ das tres primeiras Pausas nos Tempos Numerarios.</hi>  </cell>
+                     <cell>ibid.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. XVI.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Dos Andamentos.</hi>
+                     </cell>
+                     <cell>14.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. XVII.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Dos Signaes Significativos.</hi>
+                     </cell>
+                     <cell>15.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. XVIII.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Dos Signaes Expressivos.</hi>
+                     </cell>
+                     <cell>16.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. XIX.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Do Tom.</hi>
+                     </cell>
+                     <cell>17.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. XX.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Da Divisaõ do Tom.</hi>
+                     </cell>
+                     <cell>ibid.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. XXI.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Do Conhecimento do Tom.</hi>
+                     </cell>
+                     <cell>ibid.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. XXII.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Do Accompanhamento.</hi>
+                     </cell>
+                     <cell>18.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. XXIII.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Do como se numéraõ os Intervallos, e Notas de cada Tom.</hi>
+                     </cell>
+                     <cell>19.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. XXIV.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Da Differença das Especies.</hi>
+                     </cell>
+                     <cell>ibid.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. XXV.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Das Especies, com que se accompanhaõ as Notas de cada Tom.</hi>
+                     </cell>
+                     <cell>20.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. XXVI.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Da Reducçaõ dos Acordes antecedentes nas posturas da Guitarra.</hi>
+                     </cell>
+                     <cell>21.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. XXVII.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Da Analogia, e Transiçoens ordinarias dos Tons de 3.</hi>
+                        <hi rend="sup italic">a</hi>
+                        <hi rend="italic">  Maior.</hi>
+                     </cell>
+                     <cell>ibid.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. XXVIII. </hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Da Analogia, e Transiçoens ordinarias dos Tons de 3.</hi>
+                        <hi rend="sup italic">a</hi>
+                        <hi rend="italic">  Menor.</hi>
+                     </cell>
+                     <cell>23.</cell>
+                  </row>
+               </table>
+               <p rend="justify">
+                  <hi rend="bold">PARTE II</hi>
+               </p>
+               <table rend="frame" xml:id="Table4">
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. I.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Da Invençaõ, e serventia da Guitarra.</hi>
+                     </cell>
+                     <cell>25</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. II.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">De como deve sêr construida a Guitarra, e das qualidades que nella se</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> <hi rend="italic">requerem para sêr bem affinada.</hi>
+                     </cell>
+                     <cell>26.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. III.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Da Perfeiçaõ da Guitarra.</hi>
+                     </cell>
+                     <cell>27.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. IV.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Advertencia ao Curioso.</hi>
+                     </cell>
+                     <cell>ibid.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. V.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Das Cordas.</hi>
+                     </cell>
+                     <cell>ibid.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. VI.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Do Numero das Cordas.</hi>
+                     </cell>
+                     <cell>ibid.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. VII.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Do Modo como se devem pôr as Cordas.</hi>
+                     </cell>
+                     <cell>28.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. VIII.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Do Modo como se devem ferir as Cordas.</hi>
+                     </cell>
+                     <cell>ibid.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. IX.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Do Som solto.</hi>
+                     </cell>
+                     <cell>ibid.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. X.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Dos Signos, que competem a cada huma das Cordas.</hi>
+                     </cell>
+                     <cell>29.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. XI.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Das Doze Divisoens d'arame, a que chamao</hi> Trastes,</cell>
+                     <cell>ibid.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi rend="italic"> as quaes dividem todos os meios pontos, que se achaõ</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi rend="italic"> no braço da Guitarra, e da Numeraçaõ de todos os Signos,</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi rend="italic"> assim naturaes, como accidentaes, que competem a cada</hi>
+                     </cell>
+                     <cell/>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi rend="italic"> huma das Cordas deste Instrumento.</hi>
+                     </cell>
+                     <cell>ibid.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. XII.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Da Affinaçaõ.</hi>
+                     </cell>
+                     <cell>31.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. XIII.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Da Posiçaõ, e Numeraçaõ dos dedos.</hi>
+                     </cell>
+                     <cell>ibid.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. XIV.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Da Pestana postiça, que se atarracha nos boracos da Guitarra para</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> <hi rend="italic">augmentar o Tom.</hi>
+                     </cell>
+                     <cell>32.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. XV.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Dos Tons accidentaes, que se fórmaõ com a Pestana postiça.</hi>
+                     </cell>
+                     <cell>ibid.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. XVI.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Da Ordem dos dedos, que devem carregar as Cordas, e Notas dos</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> <hi rend="italic">Tons accidentaes, estando o index servindo de Pestana.</hi>
+                     </cell>
+                     <cell>33.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. XVII.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Da Posiçaõ dos dedos na Guitarra com Teclas.</hi>
+                     </cell>
+                     <cell>ibid.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. XVIII. </hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Dos Transportes.</hi>
+                     </cell>
+                     <cell>34.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. XIX.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Do Modo como se deve formar a Pestana com o dedo index para dedilhar.</hi>
+                     </cell>
+                     <cell>ibid.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. XX.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Do Modo como se devem tocar algumas posturas cheias de vozes.</hi>
+                     </cell>
+                     <cell>ibid.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. XXI.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Do Modo como se devem tocar as Figuras, que tiverem duas, tres, e mais</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> <hi rend="italic">cabeças pegadas em differentes distancias, ou duas caudas.</hi>
+                     </cell>
+                     <cell>35.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. XXII.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Do Estylo e de quando se deve usar dos Apojos de Capricho.</hi>
+                     </cell>
+                     <cell>ibid.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. XXIII.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Do Modo como se devem dizer as Figuras ligadas.</hi>
+                     </cell>
+                     <cell>36.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. XXIV.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Da Escála Diatonica.</hi>
+                     </cell>
+                     <cell>37.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. XXV.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Dos Trinta e dous intervallos, que se achaõ na extensaõ do braço</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi rend="italic"> da Guitarra.</hi>
+                     </cell>
+                     <cell>ibid.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="bold">§. XXVI.</hi>
+                     </cell>
+                     <cell>
+                        <hi rend="italic">Entoaçaõ primaria, em que se mostraõ numericamente os dedos, que</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>  <hi rend="italic">competem aos Signos na distancia de duas Oitavas, contando do</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> C <hi rend="italic">da 6.</hi>
+                        <hi rend="sup italic">a</hi>
+                        <hi rend="italic">  Corda, até o</hi> C <hi rend="italic">que fica acima das Primas.</hi>
+                     </cell>
+                     <cell>ibid.</cell>
+                  </row>
+               </table>
+               <p rend="justify">
+                  <hi rend="italic">Segue-se huma Collecçaõ de alguns Minuetes, Marchas,</hi>
+                  <lb/>
+                  <hi rend="italic">Contradanças, etc. para uso, e desembaraço dos Principiantes.</hi>
+               </p>
+               <p rend="justify">FIM.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>ERRATAS.</head>
+               <p rend="justify">Na pagina 20., linhas 5., onde se lê: <hi rend="italic">a Septima póde tambem ser Maior, Menor, e Superflua</hi>, deve-se lêr: <hi rend="italic">a Septima póde tambem ser Maior, Menor, e Diminuta</hi>; e o que seja septima Diminuta, póde-se vêr na Nota 3 da mesma pagina.</p>
+               <p rend="justify">Na mesma pagina, linhas 10., onde se lê: <hi rend="italic">os exemplos, que ponho nestes Tons</hi>, deve-se lêr: <hi rend="italic">os exemplos, que ponho neste Tom</hi>.</p>
+               <p rend="justify">No Epigraphe da Collecçaõ dos Minuetes, Marchas, Contradanças, etc., aonde se lê: <hi rend="italic">in somnes</hi>, deve-se lêr: <hi rend="italic">insomnes</hi>.</p>
+               <p rend="justify">COLLECÇAÕ</p>
+               <p rend="justify">DE ALGUNS</p>
+               <p rend="justify">MINUETES, MARCHAS,</p>
+               <p rend="justify">CONTRADANÇAS,</p>
+               <p rend="justify">E OUTRAS PEÇAS MAIS USUAES,</p>
+               <p rend="justify">COM ACCOMPANHAMENTO DE SEGUNDA GUITARRA,</p>
+               <p rend="justify">TUDO PELO TOM NATURAL DE <hi rend="italic">C</hi>;</p>
+               <p rend="justify">E</p>
+               <p rend="justify">HUMA TOCATA</p>
+               <p rend="justify">PELO TOM DE <hi rend="italic">F</hi>,</p>
+               <p rend="justify">PARA USO, E DESEMBARAÇO DOS</p>
+               <p rend="justify">PRINCIPIANTES.</p>
+               <p rend="justify">
+                  <hi rend="italic">Musica enim curas abigit, insomnes infantes compescit vagientes laborantum mittigat labores, fessos reparat artus, ac perturbatos reformat animos.</hi>
+               </p>
+               <p rend="justify">
+                  <lb/>Ex Boetio Cap. I.</p>
+               <p rend="justify">
+                  <hi rend="bold italic">Primeira Guitarra.</hi>
+               </p>
+               <p rend="justify">_</p>
+               <lg>
+                  <l>[MINUETE.]</l>
+                  <l>[MARCHA Ingleza.]</l>
+                  <l>[MARCHA do Primeiro Regimento do Porto.]</l>
+                  <l>[MINUETE de Bocherini, chamado dos Hungaros.]</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="bold italic">Segunda Guitarra.</hi>
+               </p>
+               <p rend="justify">_</p>
+               <lg>
+                  <l>[MINUETE.]</l>
+                  <l>[MARCHA Ingleza.]</l>
+                  <l>[MARCHA do Primeiro Regimento do Porto.]</l>
+                  <l>[MINUETE de Bocherini, chamado dos Hungaros.]</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="bold italic">Primeira Guitarra.</hi>
+               </p>
+               <p rend="justify">_</p>
+               <lg>
+                  <l>[MINUETE.]</l>
+                  <l>[MARCHA do Baile dos Hungaros.]</l>
+                  <l>[MINUETE da Inviada.]</l>
+                  <l>[MINUETE da Saudade.]</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="bold italic">Segunda Guitarra.</hi>
+               </p>
+               <p rend="justify">_</p>
+               <lg>
+                  <l>[MINUETE.]</l>
+                  <l>[MARCHA do Baile dos Hungaros.]</l>
+                  <l>[MINUETE da Inviada.]</l>
+                  <l>[MINUETE da Saudade.]</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="bold italic">Primeira Guitarra.</hi>
+               </p>
+               <p rend="justify">_</p>
+               <lg>
+                  <l>[FANFARRE. <hi rend="italic">Allegro Assai.</hi>]</l>
+                  <l>[MINUETE Inglez.]</l>
+                  <l>[MINUETE da Côrte.]</l>
+                  <l>[Segundo MINUETE Inglez.]</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="bold italic">Segunda Guitarra.</hi>
+               </p>
+               <p rend="justify">_</p>
+               <lg>
+                  <l>[FANFARRE. <hi rend="italic">Allegro Assai.</hi>]</l>
+                  <l>[MINUETE Inglez.]</l>
+                  <l>[MINUETE da Côrte.]</l>
+                  <l>[Segundo MINUETE Inglez.]</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="bold italic">Primeira Guitarra.</hi>
+               </p>
+               <p rend="justify">_</p>
+               <lg>
+                  <l>[CONTRADANÇA. <hi rend="italic">Allegro assai</hi>.]</l>
+                  <l>[MINUETE.]</l>
+                  <l>[GAVOTA. <hi rend="italic">Allegro</hi>]</l>
+                  <l>[FANFARRE. <hi rend="italic">Allegro assai</hi>.]</l>
+                  <l>[GIGA INGLEZA <hi rend="italic">Allegro assai</hi>.]</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="bold italic">Segunda Guitarra.</hi>
+               </p>
+               <p rend="justify">_</p>
+               <lg>
+                  <l>[CONTRADANÇA. <hi rend="italic">Allegro assai</hi>.]</l>
+                  <l>[MINUETE]</l>
+                  <l>[GAVOTA. <hi rend="italic">Allegro</hi>]</l>
+                  <l>[FANFARRE. <hi rend="italic">Allegro assai</hi>.]</l>
+                  <l>[GIGA INGLEZA <hi rend="italic">Allegro assai</hi>.]</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="bold italic">Primeira Guitarra.</hi>
+               </p>
+               <p rend="justify">_</p>
+               <lg>
+                  <l>[MARCHA.]</l>
+                  <l>[MINUETE.]</l>
+                  <l>[MARCHA.]</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="bold italic">Segunda Guitarra.</hi>
+               </p>
+               <p rend="justify">_</p>
+               <lg>
+                  <l>[MARCHA.]</l>
+                  <l>[MINUETE.]</l>
+                  <l>[MARCHA.]</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="bold italic">Primeira Guitarra.</hi>
+               </p>
+               <p rend="justify">_</p>
+               <lg>
+                  <l>[CONTRADANÇA.]</l>
+                  <l>[ALLEGRO.]</l>
+                  <l>[MINUETE.]</l>
+                  <l>[CONTRADANÇA dos Saltoens.]</l>
+                  <l>[RETIRADA Militar. <hi rend="italic">Allegro assai.</hi>]</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="bold italic">Segunda Guitarra.</hi>
+               </p>
+               <p rend="justify">_</p>
+               <lg>
+                  <l>[CONTRADANÇA.]</l>
+                  <l>[ALLEGRO.]</l>
+                  <l>[MINUETE.]</l>
+                  <l>[CONTRADANÇA dos Saltoens.]</l>
+                  <l>[RETIRADA Militar. <hi rend="italic">Allegro assai.</hi>]</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="bold italic">Primeira Guitarra.</hi>
+               </p>
+               <p rend="justify">_</p>
+               <lg>
+                  <l>[MARCHA.]</l>
+                  <l>[GAVOTA. <hi rend="italic">Allegro assai.</hi>]</l>
+                  <l>[ANDANTINO.]</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="bold italic">Segunda Guitarra.</hi>
+               </p>
+               <p rend="justify">_</p>
+               <lg>
+                  <l>[MARCHA.]</l>
+                  <l>[GAVOTA. <hi rend="italic">Allegro assai.</hi>]</l>
+                  <l>[ANDANTINO.]</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="bold italic">Primeira Guitarra.</hi>
+               </p>
+               <p rend="justify">_</p>
+               <lg>
+                  <l>[GIGA INGLEZA. <hi rend="italic">Allegro assai.</hi>]</l>
+                  <l>[PASTORELLA. <hi rend="italic">Andantino moderato.</hi>]</l>
+                  <l>[FANFARRE. <hi rend="italic">Allegro assai.</hi>]</l>
+                  <l>[PASTORELLA. <hi rend="italic">Andantino moderato.</hi>]</l>
+                  <l>[COTILHAÕ. <hi rend="italic">Presto.</hi>]</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="bold italic">Segunda Guitarra.</hi>
+               </p>
+               <p rend="justify">_</p>
+               <lg>
+                  <l>[GIGA INGLEZA. <hi rend="italic">Allegro assai.</hi>]</l>
+                  <l>[PASTORELLA. <hi rend="italic">Andantino moderato.</hi>]</l>
+                  <l>[FANFARRE. <hi rend="italic">Allegro assai.</hi>]</l>
+                  <l>[PASTORELLA. <hi rend="italic">Andantino moderato.</hi>]</l>
+                  <l>[COTILHAÕ. <hi rend="italic">Presto.</hi>]</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="bold italic">Primeira Guitarra.</hi>
+               </p>
+               <p rend="justify">_</p>
+               <lg>
+                  <l>[RETIRADA Militar. <hi rend="italic">Allegro assai</hi>.]</l>
+                  <l>[RETIRADA Militar. <hi rend="italic">Presto</hi>.]</l>
+                  <l>[ALLEGRO.]</l>
+                  <l>[MALBRUCH. <hi rend="italic">Andantino</hi>.]</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="bold italic">Segunda Guitarra.</hi>
+               </p>
+               <p rend="justify">_</p>
+               <lg>
+                  <l>[RETIRADA Militar. <hi rend="italic">Allegro assai</hi>.]</l>
+                  <l>[RETIRADA Militar. <hi rend="italic">Presto</hi>.]</l>
+                  <l>[ALLEGRO.]</l>
+                  <l>[MALBRUCH. <hi rend="italic">Andantino</hi>.]</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="bold italic">Primeira Guitarra.</hi>
+               </p>
+               <p rend="justify">_</p>
+               <lg>
+                  <l>[CONTRADANÇA.]</l>
+                  <l>[MINUETE do Principe.]</l>
+                  <l>[MINUETE.]</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Para se tocarem alguns destes</hi>  Minuetes, Allegros, Marchas, etc <hi rend="italic">nos seus competentes</hi>  Tons accidentaes, <hi rend="italic">por naõ cançar o dedo index, póde-se usar da</hi>  Pestana postiça, <hi rend="italic">a qual bem atarrachada em qualquer dos quatro boracos, formará hum dos</hi>  Tons, <hi rend="italic">que ficaõ apontados no</hi>  §. XV., pag. 32.</p>
+               <p rend="justify">
+                  <hi rend="bold italic">Segunda Guitarra.</hi>
+               </p>
+               <p rend="justify">_</p>
+               <lg>
+                  <l>[CONTRADANÇA.]</l>
+                  <l>[MINUETE do Principe.]</l>
+                  <l>[MINUETE.]</l>
+               </lg>
+               <p rend="justify">
+                  <hi rend="italic">Fim das Peças desta Collecçaõ, escriptas no</hi>  Tom natural <hi rend="italic">de</hi>  C: <hi rend="italic">segue-se huma Tocata pelo</hi>  Tom <hi rend="italic">de</hi>  F.</p>
+               <p rend="justify">
+                  <hi rend="bold italic">Primeira Guitarra.</hi>
+               </p>
+               <lg>
+                  <l>TOCATA</l>
+                  <l>DO</l>
+                  <l>SENHOR FRANCISCO GERARDO.</l>
+               </lg>
+               <p rend="justify">_</p>
+               <p rend="justify">[ALLEGRO.]<lb/>
+               </p>
+               <p rend="justify">
+                  <hi rend="italic">Instruido que seja o Principiante nestas piquenas Peças, que ajuntei para seu desembaraço, poderá começar a tocar, naõ só as seis Sonatas, que ultimamente compuz, as quaes correm impressas em Holanda, mas tambem outras quaesquer, pois que com esta rezumida instrucçaõ o considero apto, para decifrar outra qualquer obra, que se lhe apresente.</hi>
+               </p>
+               <p rend="justify">
+                  <hi rend="bold italic">Segunda Guitarra.</hi>
+               </p>
+               <lg>
+                  <l>TOCATA</l>
+                  <l>DO</l>
+                  <l>SENHOR FRANCISCO GERARDO.</l>
+               </lg>
+               <p rend="justify">_</p>
+               <p rend="justify">[ALLEGRO.]<lb/>
+               </p>
+               <p rend="justify">FIM.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>NOTAS DE RODAPÉ</head>
+               <p rend="justify">[1] As tres primeiras figuras já se naõ usaõ na Musica moderna, e muito principalmente na da Guitarra; o que está em praxe saõ as suas competentes pausas, e nada mais: advertindo porém, que a pausa de Maxima saõ verdadeiramente duas de Longa.</p>
+               <p rend="justify">[2]  Na ordem destas Figuras qualquer que se nomeie a diante, vale sempre ametade da que lhe fica antecedente; e assim, huma <hi rend="italic">Minima</hi>, vale ametade de hum <hi rend="italic">Semibreve</hi>: huma <hi rend="italic">Seminima</hi>, ametade de huma <hi rend="italic">Minima</hi>: huma <hi rend="italic">Colchêa</hi>, ametade de huma <hi rend="italic">Seminima</hi>, etc. De sorte que, se gastarmos v. g. hum minuto em hum <hi rend="italic">Semibreve</hi>, gastaremos meio em huma <hi rend="italic">Minima</hi>; e assim nas demais á proporçaõ destas.</p>
+               <p rend="justify">[3]  No tempo de 3 por 1, (que raras vezes se encontra) a pausa de <hi rend="italic">Semibreve</hi>  vale huma parte do Compaço, a de <hi rend="italic">Breve</hi>  vale 1 Compaço, a de <hi rend="italic">Longa</hi>  2, e duas juntas 4.</p>
+               <p rend="justify">[4]  Na Peça de Musica, que na sua frente tiver este vocabulo <hi rend="italic">Largo</hi>, se o <hi rend="italic">Tempo</hi>  for <hi rend="italic">Quaternario</hi>, ha de fazer-se o compaço de oito partes, dando duas pancadas em cada huma parte; sendo <hi rend="italic">Ternario</hi>, ha de fazer-se de seis; e sendo <hi rend="italic">Binario</hi>, de quatro.</p>
+               <p rend="justify">[5] <hi rend="italic">Adagio</hi>, he hum adverbio Italiano, que significa <hi rend="italic">devagar</hi>.</p>
+               <p rend="justify">[6] <hi rend="italic">Andante</hi>, he o partecipio do verbo Italiano <hi rend="italic">andare</hi>, andar, ir, etc.</p>
+               <p rend="justify">[7]  Por esta palavra naõ se deve julgar, que hum tal <hi rend="italic">Andamento</hi>  seja proprio unicamente para assumptos alegres: muitas vezes se applicaõ a transportes de furor, de cólera, e de desesperaçaõ, que naõ saõ menos, que a alegria.</p>
+               <p rend="justify">[8] <hi rend="italic">Presto</hi>, significa <hi rend="italic">rápido</hi>, e ajuntando-lhe este adverbio Italiano <hi rend="italic">assai</hi>, que quer dizer <hi rend="italic">muito</hi>; como v. g. <hi rend="italic">Presto assai</hi>, ou <hi rend="italic">Largo assai</hi>, <hi rend="italic">etc.</hi>  significa o mesmo, que o superlativo <hi rend="italic">muito depressa</hi>, <hi rend="italic">muito devagar</hi>, <hi rend="italic">etc.</hi>
+               </p>
+               <p rend="justify">[9]  Os Francezes servem-se do adverbio <hi rend="italic">Tendrement</hi>, que em Portuguez significa <hi rend="italic">Ternamente</hi>, para exprimir o mesmo, que <hi rend="italic">amoroso</hi>: mas o caracter <hi rend="italic">amoroso</hi>  tem mais accento, e respira hum naõ sei que de menos insipido, e mais apaixonado.</p>
+               <p rend="justify">[10]  Adiante de pausa, nunca se deve pôr <hi rend="italic">Ponto de augmentaçaõ</hi>, porque este unicamente augmenta o sôm, e naõ a espéra; porém como alguns Compositores erradamente o assignaõ, deve-se estar prompto para tambem assim o decifrar.</p>
+               <p rend="justify">[11]  Os nossos Antigos, chamavaõ a este signal <hi rend="italic">Caldeiraõ</hi>; Francisco Ignacio Solano, chama-lhe <hi rend="italic">Nota Coroada</hi>; e outros muitos, <hi rend="italic">Ponto de repouso</hi>. De ordinario este signal, serve para que a parte principal faça aqui á sua vontade alguma passagem, a que os Italianos chamaõ <hi rend="italic">Cadenza</hi>, em quanto todas as mais prolongaõ, e sustentaõ o som, que lhes he indicado, ou páraõ inteiramente. Mas se este signal está sobre a <hi rend="italic">Nota final</hi>  de huma só parte, entaõ se chama <hi rend="italic">Ponto de Orgaõ</hi>, e indica, que he necessario continuar o som desta <hi rend="italic">Nota</hi>, até que as outras partes cheguem á sua conclusaõ natural.</p>
+               <p rend="justify">[12]  Como os signaes demonstrativos, destes dous termos do idioma Italiano, <hi rend="italic">Al segno</hi>, e <hi rend="italic">Sino al segno</hi>, saõ na pintura iguaes, e muitas vezes alguns Copistas os pintaõ por differentes modos; com tudo, quem determina a sua regular repetiçaõ, saõ os mesmos termos, os quaes se assignaõ quasi sempre antes do signal expresso; e se entenderáõ do modo, que no texto deixo referido.</p>
+               <p rend="justify">[13]  Esta figurinha, a que chamamos <hi rend="italic">Apojo</hi>, o mais das vezes assigna-se no signo acima da figura expressa, que lhe precede; porém tambem se acha na debaixo, em distancia de meio ponto.</p>
+               <p rend="justify">[14]  Alguns Compositores, para designarem o <hi rend="italic">Portamento</hi>  de tres figuras, como vem a ser: a expressa; a debaixo em distancia de meio ponto; e a superior em distancia de hum, ou meio ponto; usaõ deste signal _ ; porém deve saber-se, que as que vierem com este signal _ he para se darem soltas, e batidas, e sem algum <hi rend="italic">Portamento</hi>.</p>
+               <p rend="justify">[15]  Alguns Compositores, para designarem o crescer, e esforçar o som, quando he do brando para o forte, usaõ deste signal _, e do forte para o brando, deste _; os quaes signaes vem muitas vezes sobre as figuras de maior valor, como <hi rend="italic">Semibreves</hi>, <hi rend="italic">Minimas</hi>, <hi rend="italic">etc.</hi>; e isto principalmente na Musica composta para instrumentos d'arco.</p>
+               <p rend="justify">[16]  Os Italianos em lugar de <hi rend="italic">piano</hi>, usaõ muitas vezes deste termo <hi rend="italic">sotto voce</hi>, que mostra que se deve tocar, e cantar a meia voz. <hi rend="italic">Mezzo forte</hi>, e <hi rend="italic">Mezza voce</hi>  significaõ o mesmo.</p>
+               <p rend="justify">[17] <hi rend="italic">Diapasaõ</hi>, he hum termo da antiga Musica, com o qual exprimiaõ os Gregos o <hi rend="italic">Intervallo</hi>, ou <hi rend="italic">Consonancia</hi>  de huma <hi rend="italic">Oitava</hi>.</p>
+               <p rend="justify">[18]  Será o Tom de <hi rend="italic">C</hi>  com 3.<hi rend="sup">a</hi>
+                  <hi rend="italic">Maior</hi>, quando observarmos, que a sua <hi rend="italic">Quinta</hi>, que he <hi rend="italic">G</hi>, naõ vem <hi rend="italic">alterada</hi>: e será o Tom de <hi rend="italic">A</hi>  com 3.<hi rend="sup">a</hi>
+                  <hi rend="italic">Menor</hi>, todas as vezes, que o dito <hi rend="italic">G</hi>  vier <hi rend="italic">alterado</hi>; e esta mesma reflexaõ se fará a respeito dos demais <hi rend="italic">Tons</hi>, attendendo sempre ás suas <hi rend="italic">Quintas</hi>.</p>
+               <p rend="justify">[19] <hi rend="italic">Acorde</hi>, he a uniaõ de dous, ou muitos sons, exprimidos ao mesmo tempo, e que fórmaõ todos juntos hum todo harmónico.</p>
+               <p rend="justify">[20] <hi rend="italic">Accompanhar</hi>, he ferir em hum instrumento, adequado com cada <hi rend="italic">Nota</hi>  do <hi rend="italic">Basso</hi>, os sons que deve ter.</p>
+               <p rend="justify">[21] <hi rend="italic">Genero Chromatico</hi>, he hum <hi rend="italic">Genero</hi>, ou <hi rend="italic">Composiçaõ de Musica</hi>, que procede por muitos meios pontos consecutivos. A palavra <hi rend="italic">Chromatico</hi>  deriva-se de hum vocabulo Grego, que significa <hi rend="italic">Côr</hi>; e isto ou seja porque os Gregos indicavaõ este Genero com caracteres vermelhos, ou seja porque o <hi rend="italic">Genero Chromatico</hi>  he medio entre outros dous, assim como a côr vermelha he media entre o branco, e preto. <hi rend="italic">Boecio</hi>  attribue a <hi rend="italic">Timótheo de Mileto</hi>, a invençaõ deste <hi rend="italic">Genero</hi>, mas <hi rend="italic">Atheneo</hi>  a dá a <hi rend="italic">Epigonces</hi>.</p>
+               <p rend="justify">[22] <hi rend="italic">Basso Contínuo</hi>, he huma das partes a mais grave, e que dura pelo espaço de toda a <hi rend="italic">Peça</hi>. O seu principal uso, além de regular a harmonía, he de sustentar a voz, e de conservar o <hi rend="italic">Tom</hi>. Dizem, que hum <hi rend="italic">Ludovico Vianna</hi>, de quem nos resta hum Tratado, fôra o que no principio do derradeiro seculo a pôs primeiramente em uso.</p>
+               <p rend="justify">[23]  Subir <hi rend="italic">Diathonicamente</hi>, he subir por degráos conjunctos, e naõ separados, como por exemplo: tocando-se a <hi rend="italic">Escala da Guitarra</hi>, demonstrada na segunda Parte, pelos Signos <hi rend="italic">C</hi>, <hi rend="italic">D</hi>, <hi rend="italic">E</hi>, <hi rend="italic">F</hi>, <hi rend="italic">G</hi>, <hi rend="italic">A</hi>, <hi rend="italic">B</hi>, <hi rend="italic">C</hi>.</p>
+               <p rend="justify">[24]  A primeira <hi rend="italic">Nota</hi>  do <hi rend="italic">Tom</hi>, chama-se <hi rend="italic">Tonica</hi>; a quinta <hi rend="italic">Dominante</hi>; a quarta, que he a quinta inferior abaixo da <hi rend="italic">Tonica</hi>, chama-se <hi rend="italic">Sub-Dominante</hi>; a terceira chama-se <hi rend="italic">Mediante</hi>; e a septima <hi rend="italic">Sensivel</hi>.</p>
+               <p rend="justify">[25]  A <hi rend="italic">Regra da Oitava</hi>, he huma fórmula harmónica, publicada a primeira vez por <hi rend="italic">Delaire</hi>  em 1700, a qual na <hi rend="italic">Marcha Diathonica</hi>  do <hi rend="italic">Basso</hi>, determina o <hi rend="italic">Acorde</hi>  conveniente a cada gráo do <hi rend="italic">Tom</hi>, tanto de 3.<hi rend="sup">a</hi>  maior, como menor; e tanto subindo, como descendo.</p>
+               <p rend="justify">[26]  Estes dous <hi rend="italic">Numeros</hi>  10, e 11, já se naõ usaõ. O 9 he o <hi rend="italic">Duplo</hi>  da <hi rend="italic">Segunda</hi>; o 10 da <hi rend="italic">Terceira</hi>; o 11 da <hi rend="italic">Quarta</hi>; assim como o 8 da primeira.</p>
+               <p rend="justify">[27]  O que he 2.<hi rend="sup">a</hi>  para cima, he 7.<hi rend="sup">a</hi>  para baixo; o que he 3.<hi rend="sup">a</hi>  para cima, he 6.<hi rend="sup">a</hi>  para baixo; o que he 4.<hi rend="sup">a</hi>  para cima, he 5.<hi rend="sup">a</hi>  para baixo; o que he 5.<hi rend="sup">a</hi>  para cima, he 4.<hi rend="sup">a</hi>  para baixo; o que he 6.<hi rend="sup">a</hi>  para cima, he 3.<hi rend="sup">a</hi>  para baixo; o que he finalmente 7.<hi rend="sup">a</hi>  para cima, he 2.<hi rend="sup">a</hi>  para baixo.</p>
+               <p rend="justify">[28] <hi rend="italic">Especies</hi>, saõ os numeros, com que designamos os <hi rend="italic">Acordes</hi>.</p>
+               <p rend="justify">[29]  Toda a <hi rend="italic">Especie</hi>, que for <hi rend="italic">Superflua</hi>, ou <hi rend="italic">Diminuta</hi>, he <hi rend="italic">Falsa</hi>.</p>
+               <p rend="justify">[30]  A <hi rend="italic">Terceira</hi>  póde ser tambem <hi rend="italic">Diminuta</hi>, mas he contando-se de <hi rend="italic">C</hi>♯, para <hi rend="italic">E</hi>♭.</p>
+               <p rend="justify">[31]  Duas <hi rend="italic">Quintas Perfeitas</hi>  seguidas saõ prohibidas, assim como duas <hi rend="italic">Oitavas</hi>.</p>
+               <p rend="justify">[32]  A <hi rend="italic">Sexta</hi>  póde tambem ser <hi rend="italic">Diminuta</hi>, mas he contando-se de <hi rend="italic">C</hi>♯ para <hi rend="italic">A</hi>♭.</p>
+               <p rend="justify">[33]  A <hi rend="italic">Septima</hi>  póde tambem ser <hi rend="italic">Diminuta</hi>, e he contando-se de <hi rend="italic">C</hi>♯ para <hi rend="italic">B</hi>♭.</p>
+               <p rend="justify">[34]  A <hi rend="italic">Nona</hi>, a <hi rend="italic">Decima</hi>, e a <hi rend="italic">Undecima</hi>, que saõ o <hi rend="italic">duplo</hi>  da <hi rend="italic">Segunda</hi>, <hi rend="italic">Terceira</hi>, e <hi rend="italic">Quarta Nota</hi>  do <hi rend="italic">Tom</hi>; por estas se poderá vêr, o que pódem vir a ser.</p>
+               <p rend="justify">[35]  Toda a <hi rend="italic">Nota</hi>, que naõ tiver sobre si estes <hi rend="italic">Numeros</hi>  [4/2] ou [6/4], levaõ sempre <hi rend="italic">Terceira</hi>, ainda que naõ venha <hi rend="italic">expressa</hi>.</p>
+               <p rend="justify">[36]  Todo o <hi rend="italic">Numero</hi>, que tiver hum <hi rend="italic">risco</hi>  no fim da sua cauda, assim como hum [6|], hum [4|], hum [2|]; indica ter a <hi rend="italic">Especie Maior</hi>, ou <hi rend="italic">Superflua</hi>.</p>
+               <p rend="justify">[37]  Hum ♯ posto sobre qualquer <hi rend="italic">Nota</hi>, indica <hi rend="italic">Terceira Maior</hi>; hum ♭, indica <hi rend="italic">Terceira Menor</hi>; e hum ♮;, indica <hi rend="italic">Terceira Maior</hi>  na Composiçaõ dos b-<hi rend="italic">moes</hi>; e <hi rend="italic">Menor</hi>  na dos <hi rend="italic">Sustenidos</hi>.</p>
+               <p rend="justify">[38]  Sendo o <hi rend="italic">Tom</hi>  de 3.<hi rend="sup">a</hi>
+                  <hi rend="italic">Menor</hi>, a 6.<hi rend="sup">a</hi>  ha de ser tambem <hi rend="italic">Menor</hi>.</p>
+               <p rend="justify">[39]  A 7.<hi rend="sup">a</hi>, e 6.<hi rend="sup">a</hi>  nos <hi rend="italic">Tons</hi>  de 3.<hi rend="sup">a</hi>
+                  <hi rend="italic">Menor</hi>  subindo, saõ ordinariamente <hi rend="italic">Maiores</hi>, e <hi rend="italic">Menores</hi>  descendo, e muitas vezes a 7.<hi rend="sup">a</hi>  nestes <hi rend="italic">Tons</hi>  descendo, se accompanha com 2.<hi rend="sup">a</hi>, 4<hi rend="sup">a</hi>
+                  <hi rend="italic">Superflua</hi>, e 6.<hi rend="sup">a</hi>, que se numera com a 4<hi rend="sup">a</hi>, quando vem depois da 5.<hi rend="sup">a</hi>.</p>
+               <p rend="justify">[40]  A <hi rend="italic">Tonica</hi>, a <hi rend="italic">Dominante</hi>, e a <hi rend="italic">Sub-Dominante</hi>, chamaõ-se <hi rend="italic">Notas Fundamentaes</hi>; porque na sua ressonancia se achaõ inclusas todas as outras.</p>
+               <p rend="justify">[41]  Esta 4.<hi rend="sup">a</hi>
+                  <hi rend="italic">alterada</hi>, fica sendo 7.<hi rend="sup">a</hi>
+                  <hi rend="italic">Maior</hi>  do <hi rend="italic">Tom</hi>  para onde se passa.</p>
+               <p rend="justify">[42]  Esta 7.<hi rend="sup">a</hi>
+                  <hi rend="italic">Menor</hi>, fica sendo 4.<hi rend="sup">a</hi>  do <hi rend="italic">Tom</hi>  para onde se passa, accompanhada com [[4|]/2].</p>
+               <p rend="justify">[43]  Esta 5.<hi rend="sup">a</hi>
+                  <hi rend="italic">alterada</hi>, fica sendo 7.<hi rend="sup">a</hi>
+                  <hi rend="italic">Maior</hi>  do <hi rend="italic">Tom</hi>  para onde se passa.</p>
+               <p rend="justify">[44]  Esta 1.<hi rend="sup">a</hi>
+                  <hi rend="italic">Nota alterada</hi>, fica sendo 7.<hi rend="sup">a</hi>
+                  <hi rend="italic">Maior</hi>  do <hi rend="italic">Tom</hi>  para onde se passa.</p>
+               <p rend="justify">[45]  Esta 2.<hi rend="sup">a</hi>
+                  <hi rend="italic">Nota alterada</hi>, fica sendo 7.<hi rend="sup">a</hi>
+                  <hi rend="italic">Maior</hi>  do <hi rend="italic">Tom</hi>  para onde se passa.</p>
+               <p rend="justify">[46]  Além destas <hi rend="italic">Transiçoens</hi>, póde haver outras, que por arbitrio introduzíraõ os Compositores nas suas <hi rend="italic">Obras</hi>; porém como saõ raras, e porque naõ deixa de ser erro, o separarmo-nos muito do <hi rend="italic">Tom principal</hi>; por esta razaõ, he que julgando eu serem estas <hi rend="italic">Transiçoens</hi>  as mais <hi rend="italic">naturaes</hi>, e necessarias, as escrevi.</p>
+               <p rend="justify">[47]  Esta 3.<hi rend="sup">a</hi>
+                  <hi rend="italic">Nota</hi>, fica sendo a 1.<hi rend="sup">a</hi>  do <hi rend="italic">Tom</hi>.</p>
+               <p rend="justify">[48]  A 3.<hi rend="sup">a</hi>
+                  <hi rend="italic">Maior</hi>, fica sendo 7.<hi rend="sup">a</hi>
+                  <hi rend="italic">Maior</hi>  do <hi rend="italic">Tom</hi>  para onde se passa; e a 7.<hi rend="sup">a</hi>
+                  <hi rend="italic">Menor</hi>, fica sendo 4.<hi rend="sup">a</hi>  accompanhada com [[4|]/2].</p>
+               <p rend="justify">[49]  Esta 4.<hi rend="sup">a</hi>
+                  <hi rend="italic">alterada</hi>, fica sendo 7.<hi rend="sup">a</hi>
+                  <hi rend="italic">Maior</hi>  do <hi rend="italic">Tom</hi>  para onde se passa; porém quando a mesma 4.<hi rend="sup">a</hi>
+                  <hi rend="italic">alterada</hi>  vem com 5.<hi rend="sup">a</hi>, e 7.<hi rend="sup">a</hi>
+                  <hi rend="italic">Diminutas</hi>, ordinariamente naõ se passa para o <hi rend="italic">Tom</hi>  da 5.<hi rend="sup">a</hi>, mas sim fica-se no mesmo <hi rend="italic">Tom</hi>.</p>
+               <p rend="justify">[50]  Esta 2.<hi rend="sup">a</hi>
+                  <hi rend="italic">Menor</hi>, fica sendo 4.<hi rend="sup">a</hi>  do <hi rend="italic">Tom</hi>  para onde se passa, accompanhada com [[4|]/2]; a 3.<hi rend="sup">a</hi>  fica sendo 5.<hi rend="sup">a</hi>  accompanhada com 7.<hi rend="sup">a</hi>; e a 5.<hi rend="sup">a</hi>  fica sendo 7.<hi rend="sup">a</hi>
+                  <hi rend="italic">Maior</hi>  do <hi rend="italic">Tom</hi>  para onde se passa.</p>
+               <p rend="justify">[51]  Esta 3.<hi rend="sup">a</hi>
+                  <hi rend="italic">Menor</hi>, fica sendo 4.<hi rend="sup">a</hi>  do <hi rend="italic">Tom</hi>  para onde se passa, accompanhada com [[4|]/2]; e a 6.<hi rend="sup">a</hi>
+                  <hi rend="italic">Maior</hi>, fica sendo 7.<hi rend="sup">a</hi>
+                  <hi rend="italic">Maior</hi>  do mesmo <hi rend="italic">Tom</hi>.</p>
+               <p rend="justify">[52]  A 5.<hi rend="sup">a</hi>
+                  <hi rend="italic">Diminuta</hi>, vem a ser 4.<hi rend="sup">a</hi>  do <hi rend="italic">Tom</hi>  para onde se passa, accompanhada com 2.<hi rend="sup">a</hi>, e 4.<hi rend="sup">a</hi>; e a 6.<hi rend="sup">a</hi>  fica sendo 5.<hi rend="sup">a</hi>.</p>
+               <p rend="justify">[53] <hi rend="italic">Escala</hi>  he o nome que se dá á successaõ <hi rend="italic">Diatonica</hi>  de sette differentes sons, como v. g. notados nas casas dos <hi rend="italic">Signos</hi>
+                  <hi rend="italic">C</hi>, <hi rend="italic">D</hi>, <hi rend="italic">E</hi>, <hi rend="italic">F</hi>, <hi rend="italic">G</hi>, <hi rend="italic">A</hi>, <hi rend="italic">B</hi>; e isto porque estas <hi rend="italic">Notas</hi>  nos <hi rend="italic">Pautados</hi>  das nossas <hi rend="italic">Musicas</hi>, se achaõ dispostos á maneira de <hi rend="italic">Escaloens</hi>.</p>
+               <p rend="justify">[54]  As referidas <hi rend="italic">Sonatas</hi>  correm impressas, separadas desta Obra; e foraõ dedicadas a S. A. R., a Senhora D. Carlota Joaquina, <hi rend="italic">Princeza do Brazil</hi>.</p>
+               <p rend="justify">[55]  O <hi rend="italic">Ponto</hi>  he huma regra de páo preto, <hi rend="italic">Mogne</hi>, ou de outra qualquer qualidade, que cobre a superficie de todo o braço da <hi rend="italic">Guitarra</hi>.</p>
+               <p rend="justify">[56]  O <hi rend="italic">Bojo</hi>, ou <hi rend="italic">Cabaço</hi>  da <hi rend="italic">Guitarra</hi>, costuma ser redondo para a parte do <hi rend="italic">cavallête</hi>, e estreito para a parte do <hi rend="italic">ponto</hi>, como se póde vêr na Estampa, que vai depois do §. XI.; porém muitos diversificaõ no seu feitio.</p>
+               <p rend="justify">[57] <hi rend="italic">Pestana</hi>, he o frizo levantado na parte das <hi rend="italic">cravelhas</hi>, em que pousaõ as <hi rend="italic">Cordas</hi>: este, o mais das vezes, he de marfim, ou d'osso.</p>
+               <p rend="justify">[58]  A <hi rend="italic">Regra</hi>  destas <hi rend="italic">Divisoens harmonicas</hi>, he ao que os Antigos, pelo invento do seu <hi rend="italic">Manicordio</hi>, chamavaõ <hi rend="italic">Canon harmonicus</hi>.</p>
+               <p rend="justify">[59] <hi rend="italic">Mr. Taylor</hi>, célebre Geometra Ingles, foi o primeiro que demonstrou as leis das <hi rend="italic">Vibraçoens</hi>  das <hi rend="italic">Cordas</hi>  na sua estimavel Obra, intitulada: <hi rend="italic">Methodus incrementorum directa, &amp; inversa</hi>, 1715; e estas mesmas leis foraõ tambem demonstradas por <hi rend="italic">Mr. Joaõ Bernouilli</hi>, no segundo Tomo das <hi rend="italic">Memorias da Academia Imperial de Petersbourg</hi>.</p>
+               <p rend="justify">[60]  Das <hi rend="italic">Guitarras</hi>  que vem de Inglaterra, he o melhor Auctor <hi rend="italic">Mr. Simpson</hi>; e nesta Cidade do Porto, he <hi rend="italic">Luis Cardoso Soares Sevilhano</hi>, que hoje em pouco desmerece ao referido <hi rend="italic">Simpson</hi>.</p>
+               <p rend="justify">[61]  Estas <hi rend="italic">Cordas</hi>  devem-se escolher limpas, e que naõ tragaõ ferruge; porque sendo assim estalaõ com facilidade: as de marca de <hi rend="italic">Viado</hi>  saõ as melhores, e tambem ha outras de huma nova fabrica, que trazem a marca junta ao numero, algum tanto confusa, á similhança de huma folha de vide, que tambem naõ provaõ mal.</p>
+               <p rend="justify">[62]  O Carrinho das <hi rend="italic">Primas</hi>, e <hi rend="italic">Segundas</hi>  devem ser de arame branco; e o das <hi rend="italic">Quartas</hi>  amarelo.</p>
+               <p rend="justify">[63]  Chamaõ-se <hi rend="italic">dobradas</hi>  as quatro primeiras, por competir a cada huma dellas duas <hi rend="italic">Cordas</hi>  de igual numero; e chamaõ-se as duas ultimas <hi rend="italic">singélas</hi>, por competir a cada huma hum só <hi rend="italic">Bordaõ</hi>.</p>
+               <p rend="justify">[64]  Se a <hi rend="italic">Guitarra</hi>  for de cravelhas, naõ se fará o dito circulo, senaõ no pé, e a ponta da parte superior, se meterá no boraco da competente cravelha; e dando depois na <hi rend="italic">Corda</hi>  huma pequena volta, se andará logo com a mesma <hi rend="italic">cravelha</hi>, de sorte que fique a <hi rend="italic">Corda</hi>  preza, com a dobra para a parte de fóra; e logo que isto esteja feito, se levará até o ponto necessario da sua affinaçaõ.</p>
+               <p rend="justify">[65]  Quando se puzer alguma <hi rend="italic">Corda</hi>  nova, logo que esta chegue ao som, ou ponto necessario, corra-se humas poucas de vezes com o segundo dedo da maõ esquerda (que he o maior) por todos os meios pontos, que vaõ da parte das cravelhas para o cavallete, e tambem pelo contrario, que ella estenderá, e ficará firme no som que se requer; e no acto da <hi rend="italic">affinaçaõ</hi>, a cara deve estar algum tanto separada, para que, se a <hi rend="italic">Corda</hi>  quebrar, lhe naõ succeda algum desastre, principalmente nos olhos, como já tem acontecido.</p>
+               <p rend="justify">[66]  Cada huma das <hi rend="italic">Cordas</hi>, tanto da <hi rend="italic">Guitarra</hi>, como de outro qualquer instrumento, he hum <hi rend="italic">Corpo Sonoro</hi>; porque só cada huma dellas he a que póde dar immediatamente o som. A caixa, ou cabaço, que naõ faz mais do que repercutir, e reflectir o som, naõ he <hi rend="italic">Corpo Sonoro</hi>, nem faz parte delle.</p>
+               <p rend="justify">[67]  Deve-se tocar <hi rend="italic">solto</hi>, todas as vezes, que sobre as <hi rend="italic">Figuras</hi>  da <hi rend="italic">Musica</hi>  vier este signal _; e tambem quando as mesmas <hi rend="italic">Figuras</hi>  tiverem atraz, e adiante de si alguma <hi rend="italic">Pausa</hi>.</p>
+               <p rend="justify">[68]  Quando o <hi rend="italic">Corpo sonoro</hi>  sáhe do seu estado de <hi rend="italic">repouso</hi>, chama-se <hi rend="italic">Vibraçaõ</hi>, a cada hum dos seus aballos, leves, mas sensiveis, frequentes, e successivos: e estas <hi rend="italic">Vibraçoens</hi>  communicadas ao ár, levaõ ao ouvido, por este vehicolo, a sensaçaõ do som, e este som he <hi rend="italic">grave</hi>, ou <hi rend="italic">agudo</hi>, segundo as <hi rend="italic">Vibraçoens</hi>  saõ mais, ou menos frequentes no mesmo tempo.</p>
+               <p rend="justify">[69]  No <hi rend="italic">meio</hi>, entende-se, naõ no meio do arame, mas sim no centro, ou claro, que fica entre as <hi rend="italic">Divisoens</hi>, como se mostra no ponto, que vai no meio dos dous riscos seguintes. _</p>
+               <p rend="justify">[70] <hi rend="italic">Acima</hi>, deve entender-se, vindo da parte das cravelhas para a parte do cavallete, e naõ pelo contrario, como muitos erradamente o entendem, porque assim como o som vai subindo, da mesma sorte os dedos.</p>
+               <p rend="justify">[71]  Este modo do affinar, he o mais seguro, estando as doze <hi rend="italic">Divisoens</hi>  de <hi rend="italic">ponto</hi>  proporcionadamente distribuidas; porém quando houver algum instrumento já affinado, como v. g. o <hi rend="italic">Cravo</hi>, por onde a <hi rend="italic">Guitarra</hi>  se ajuste; entaõ se pedirá ao que tocar o dito <hi rend="italic">Cravo</hi>, que dê o competente <hi rend="italic">Signo</hi>  de <hi rend="italic">C</hi>, e logo se unirá o som da 6.<hi rend="sup">a</hi>
+                  <hi rend="italic">Corda</hi>, ou <hi rend="italic">Bordaõ</hi>  ao que der o mesmo <hi rend="italic">C</hi>; e as demais <hi rend="italic">Cordas</hi>  se affinaráõ segundo a norma, que no <hi rend="italic">Texto</hi>  relato.</p>
+               <p rend="justify">[72]  Quando se tirar a <hi rend="italic">Pestana postiça</hi>, attenda-se muito á <hi rend="italic">Guitarra</hi>; porque como a referida <hi rend="italic">Pestana</hi>  puxa muito pelas <hi rend="italic">Cordas</hi>, e estas ordinariamente se desaffinaõ, he por esta razaõ, que de novo se deve tornar a affinar.</p>
+               <p rend="justify">[73]  Querendo-se, além destes, formar mais <hi rend="italic">Tons</hi>  sem a <hi rend="italic">Pestana postiça</hi>, só com o dedo <hi rend="italic">index</hi>  atravessado no meio da 2.<hi rend="sup">a</hi>, e 3.<hi rend="sup">a</hi>
+                  <hi rend="italic">Divisaõ</hi>, acima do sitio em que se formou o <hi rend="italic">Tom</hi>  de <hi rend="italic">F</hi>, que he, segundo a ordem das <hi rend="italic">Divisoens</hi>  de todo o <hi rend="italic">braço</hi>  da <hi rend="italic">Guitarra</hi>, no meio da 6.<hi rend="sup">a</hi>, ou 7.<hi rend="sup">a</hi>
+                  <hi rend="italic">Divisaõ</hi>, formará o <hi rend="italic">Tom</hi>  de <hi rend="italic">G</hi>, com 3.<hi rend="sup">a</hi>
+                  <hi rend="italic">Maior</hi>: mais acima em outra tanta distancia, que he, segundo a mesma ordem da <hi rend="italic">Guitarra</hi>, no meio da 8.<hi rend="sup">a</hi>, e 9.<hi rend="sup">a</hi>
+                  <hi rend="italic">Divisaõ</hi>, formará o <hi rend="italic">Tom</hi>  de <hi rend="italic">A</hi>, com 3.<hi rend="sup">a</hi>
+                  <hi rend="italic">Maior</hi>: e finalmente no meio de duas <hi rend="italic">Divisoens</hi>, sejaõ ellas quaes forem, póde-se formar hum <hi rend="italic">Tom</hi>  de 3.<hi rend="sup">a</hi>
+                  <hi rend="italic">Maior</hi>, relativo sempre ao <hi rend="italic">Signo</hi>, em que a <hi rend="italic">Peça</hi>  de <hi rend="italic">Musica</hi>  tem a sua origem.</p>
+               <p rend="justify">[74]  Esta 1.<hi rend="sup">a</hi>, e 2.<hi rend="sup">a</hi>
+                  <hi rend="italic">Divisaõ</hi>, saõ as que ficaõ acima do dedo que faz a <hi rend="italic">Pestana</hi>.</p>
+               <p rend="justify">[75]  Estas mesmas <hi rend="italic">Notas</hi>  podem dizer-se 8.<hi rend="sup">a</hi>  abaixo, seguindo em tudo a mesma ordem de dedos, nas 6.<hi rend="sup">a</hi>, 5.<hi rend="sup">as</hi>, e 4.<hi rend="sup">as</hi>
+                  <hi rend="italic">Cordas</hi>  da <hi rend="italic">Guitarra</hi>; e quem souber correr, tanto nas <hi rend="italic">Cordas graves</hi>, como nas <hi rend="italic">agudas</hi>, as oito differentes <hi rend="italic">Notas</hi>, que fórmaõ hum <hi rend="italic">Diapasaõ</hi>, isto basta para o poder fazer em todos os demais <hi rend="italic">Tons</hi>.</p>
+               <p rend="justify">[76]  Este Instrumento com <hi rend="italic">Teclas</hi>, he agradavel ao <hi rend="italic">Tom natural</hi>  de <hi rend="italic">C</hi>; porém sendo <hi rend="italic">Musica accidental</hi>, em que occorraõ alguns <hi rend="italic">Transportes</hi>, nunca se pódem bem dizer; porque como a força do pulso da maõ direita se contrapoem á do pulso da maõ esquerda, e estes a poucos espaços se achaõ enfraquecidos; he por esta causa que já mais se pódem dizer com distincçaõ, e firmeza os <hi rend="italic">pontos</hi>  dos referidos <hi rend="italic">Transportes</hi>.</p>
+               <p rend="justify">[77]  Quando ha <hi rend="italic">Transportes</hi>, he o primeiro dedo da maõ esquerda o maior, por motivo do <hi rend="italic">index</hi>  estar atravessado para formar a <hi rend="italic">Pestana</hi>. Dos dedos da maõ direita, he sempre o <hi rend="italic">polegar</hi>  o primeiro; e por sua ordem os outros, como já se tem dito.</p>
+               <p rend="justify">[78]  Quando se derem <hi rend="italic">Apojos</hi>, naõ só os de <hi rend="italic">Capricho</hi>, como tambem os que vierem apontados, a maõ direita ferirá a <hi rend="italic">Corda</hi>  do <hi rend="italic">Signo</hi>  do <hi rend="italic">Apojo</hi>, e logo rapidamente se passará para a <hi rend="italic">Figura</hi>  expressa, que se dirá sempre <hi rend="italic">ligada</hi>  debaixo da mesma pancada da <hi rend="italic">Figura Apojada</hi>.</p>
+               <p rend="justify">
+                  <hi rend="bold">NOTAS:</hi>
+               </p>
+               <p rend="justify">Nesta versão eletrônica, a notação [8/5/3], por exemplo, representa os números 8, 5 e 3 escritos verticalmente acima um do outro no texto original.</p>
+               <p rend="justify">[6|], [4|] e [2|] representam os números 6, 4 e 2 com um risco escrito no fim da sua cauda.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

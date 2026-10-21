@@ -1,0 +1,3031 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le petit-neveu de Grécourt, ou, Étrennes gaillardes / Recueil de Contes en vers, réimprimés sur l'édition de 1782</title>
+            <author/>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>2024-01-01T19:37:27Z</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p rend="start color(#000000)">odts/fr-odts/LePetit-NeveuDeGr_2019.epub.odt</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage/>
+         <textClass>
+            <keywords scheme="unknown">
+               <list>
+                  <item/>
+               </list>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <listChange>
+            <change>
+               <name/>
+               <date>2024-01-01T19:37:27Z</date>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head>Le petit-neveu de Grécourt, ou, Étrennes gaillardes / Recueil de Contes en vers, réimprimés sur l'édition de 1782</head>
+         <p rend="color(#000000)">{{GUTENBERG_LICENSE}}</p>
+         <p rend="start color(#000000)">odts/fr-odts/LePetit-NeveuDeGr_2019.epub.odt</p>
+         <head>LE<lb/>
+            <hi rend="bold">PETIT-NEVEU</hi>
+            <lb/>DE GRÉCOURT</head>
+         <p>OU<lb/>
+            <hi rend="italic">Étrennes Gaillardes</hi>
+         </p>
+         <p>Recueil de Contes en vers, réimprimé sur l'édition de 1782.</p>
+         <p>[SCIENTIA DUCE I L]</p>
+         <p>PARIS<lb/>Isidore LISEUX, Éditeur<lb/>Quai Malaquais, n<hi rend="sup">o</hi>  5</p>
+         <p>1883</p>
+         <p>
+            <hi rend="italic">Tiré</hi>
+            <lb/>
+            <hi rend="italic">à cent cinquante exemplaires numérotés</hi>
+         </p>
+         <p>
+            <hi rend="italic">N</hi>
+            <hi rend="sup italic">o</hi>
+            <hi rend="italic">  10</hi>
+         </p>
+         <pb/>
+         <div type="div1">
+            <head>Le petit-neveu de Grécourt, ou, Étrennes gaillardes / Recueil de Contes en vers, réimprimés sur l'édition de 1782</head>
+            <pb/>
+            <div type="div2">
+               <head>AVIS DE L'ÉDITEUR</head>
+               <p rend="justify">On ne s'attend pas à de longues recherches bibliographiques sur ce léger recueil de gaietés: ce serait faire trop d'honneur à un petit vagabond, sans feu ni lieu, et sans histoire. Tout ce que nous en savons, c'est que d'abord mis au monde, en 1781 ou 1782, sous le titre de <hi rend="italic">Petit-Neveu de Grécourt…</hi>
+                  <hi rend="italic">  à Gibraltar, chez les Moines</hi>, il a été vite adopté par Cazin, qui en a donné deux éditions, avec un titre nouveau: <hi rend="italic">Étrennes gaillardes</hi>
+                  <hi rend="italic">, dédiées à ma commère… à Lampsaque, de l'imprimerie du Dieu des Jardins</hi>, 1782 et 1784. Voilà donc, à bien compter, trois éditions, lesquelles doivent se valoir, vu le mérite à peu près égal des imprimeurs: le Dieu des Jardins, au XVIII<hi rend="sup">e</hi> siècle, n'avait sûrement pas de plus dignes émules que les Moines, de Gibraltar ou d'ailleurs.</p>
+               <p rend="justify">Maintenant, qui a composé ce volume? Un homme de goût, évidemment. On a pensé que ce pouvait bien être Félix Nogaret, à cause des initiales Y X, dont signe l'éditeur; mais ce n'est là, qu'une supposition fort aventurée. Nogaret avait le bonheur de posséder un X dans son prénom: d'accord; mais tous les anonymes n'ont-ils pas le même droit à l'X? Et quant au goût de Félix Nogaret, qui passe avec plus de raison pour avoir fait les insipides huitains de l'<hi rend="italic">Arétin Français</hi>, n'est-il pas trop douteux pour justifier l'attribution?</p>
+               <p rend="justify">La chose, en somme, est de minime importance. Quel que soit l'Amateur qui a recueilli ces bluettes, acceptons-les pour elles-mêmes et ne leur demandons pas plus qu'elles ne peuvent tenir. Elles ont été glanées un peu partout: cependant, la majeure partie n'en est guère connue; elles sont lestes, court-vêtues, provocantes, et si elles donnent au Lecteur une heure ou deux d'amusement, nous aurions grand tort de regretter les quelques feuilles de joli papier que nous avons sacrifiées pour cette modeste édition.</p>
+               <p rend="justify">I. L.</p>
+               <p rend="justify">Paris, le 20 Juillet 1883.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>A MA COMMÈRE</head>
+               <p rend="justify">Ce n'est pas une Épître dédicatoire que je vous adresse, c'est une simple Lettre que je vous écris; n'y cherchez donc ni tournures délicates, ni périphrases ingénieuses, ni tout ce qui sent l'Auteur. Je ne le suis pas, Dieu merci: je ne suis qu'un Éditeur gai et gaillard; j'ai consacré quinze ou vingt jours, plus ou moins, à rassembler des Contes joyeux, pour vous rendre une fois le plaisir que vous m'avez donné mille. De toutes les Francomtoises qui embellissent et récréent la Capitale, vous êtes sans contredit la plus aimable: votre taille est svelte, vos yeux sont noirs et vifs, vos genoux charnus et ronds, vos mains potelées, vos joues parées des plus belles couleurs; enfin vous êtes à trente ans ce qu'une autre femme est à vingt. Vous croyez peut-être, ma chère Commère, que ma franchise ordinaire a fait place au ton complimenteur, détrompez-vous: tel je suis en parlant, tel en écrivant, et je vais vous répéter ce que je vous ai dit vingt fois sans que votre amour-propre en ait paru blessé, tant vous êtes modeste! Votre sein n'est ni plus ferme, ni plus rond qu'un autre, votre petit pied fait mentir le proverbe; mais ces légères imperfections servent d'ombres au tableau: vous n'en êtes pas moins chère à tous ceux qui vous connoissent, on ne parle de vous qu'avec feu, et je sais bien pourquoi: c'est que dans un siècle où chacun vante beaucoup l'humanité, vous êtes humaine autant qu'on peut l'être. Avec quel désintéressement ne venez-vous pas au secours d'une foule d'Amateurs! votre main s'ouvre pour les uns, et votre cœur pour les autres. Vous savez que la faiblesse humaine et vos charmes changent une offrande libre en un impôt forcé, et malgré cela, vous ne rançonnez personne. Le pauvre Abbé Piquet, le petit Vicaire de notre Paroisse, et le Père Briffard, que j'ai rencontrés ce matin, me le disaient encore; tel Géomètre le démontre, et tel Musicien le chante à qui veut l'entendre. Si tous ces Messieurs publient votre générosité sur les toits, puis-je faire moins que de l'élever jusqu'aux nues, moi que vous avez distingué dans la foule, moi à qui vous avez accordé tant de faveurs piquantes pour le seul plaisir de m'en accorder, moi enfin à qui vous avez avoué en rougissant que j'avais fait votre conquête? Je serais le plus ingrat des hommes, ma Commère, si je ne continuais pas à vous voir sur le même pied, surtout lorsque mes facultés et votre manière d'agir à mon égard s'accordent si bien ensemble. Cependant il ne sera pas dit que je ne cherche pas à m'acquitter envers vous; je sais que vous aimez la belle littérature, je vous ai surprise plus d'une fois le <hi rend="italic">Moyen de parvenir</hi> à la main, et je me suis même aperçu que, douée d'une imagination très vive, vous vous trouvez, à la suite de vos lectures, dans des dispositions qui tournent à bien pour vous, et à mal pour moi; mais dussé-je risquer de nouvelles fatigues, je vous offre ce petit Recueil, en vous priant de le lire, de le recommander à vos amis, et surtout de l'envoyer à Besançon. Sur ce, ma Commère, je vous baise les mains. Ne soyez pas étonnée que je ne vous fasse aujourd'hui ma cour que par écrit: notre dernière entrevue m'a mis pour quelque temps hors d'état de vous la faire autrement; ce qui n'empêche pas que mon amour ne réponde au vôtre.</p>
+               <p rend="justify">Votre Compère,<lb/>Y. X. ***.</p>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>LE<lb/>
+                  <hi rend="bold">Petit-Neveu de Grécourt</hi>
+                  <lb/>OU<lb/>Étrennes Gaillardes</head>
+               <div type="div3">
+                  <head>LA FEMME SANS CHOSE</head>
+                  <p rend="justify">Le trait suivant, Lecteur, est d'assez bon aloi:</p>
+                  <p rend="justify">Je le tiens de Monsieur Géronte,</p>
+                  <p rend="justify">Lequel me l'a donné pour une histoire, et moi</p>
+                  <p rend="justify">Je vous le donne pour un Conte:</p>
+                  <p rend="justify">Car il faut, tant qu'on peut, être de bonne foi.</p>
+                  <p rend="justify">C'est tout près de Paris que se passe la scène.</p>
+                  <p rend="justify">Un Grenadier (La Rose étoit son nom)</p>
+                  <p rend="justify">Jeune, bien fait, bon compagnon,</p>
+                  <p rend="justify">Étant en semestre à Surène,</p>
+                  <p rend="justify">De Thérèse un beau jour lorgna le pied mignon.</p>
+                  <p rend="justify">«Corbleu!» dit-il, «la bonne aubaine!</p>
+                  <p rend="justify">»Qui pourroit l'attirer à soi</p>
+                  <p rend="justify">»Auroit un vrai morceau de Roi,</p>
+                  <p rend="justify">»Ou tout au moins de Capitaine.»</p>
+                  <p rend="justify">Il aborde à l'instant Thérèse sans façon,</p>
+                  <p rend="justify">D'un air joyeux lui conte sa fleurette</p>
+                  <p rend="justify">Et lui porte la main au-dessous du menton.</p>
+                  <p rend="justify">Son geste, son habit, son ton</p>
+                  <p rend="justify">Plurent beaucoup à la fillette:</p>
+                  <p rend="justify">Bref, quelques jours après la retrouvant seulette,</p>
+                  <p rend="justify">Dans le fond d'une grange à sa dévotion,</p>
+                  <p rend="justify">Il ne put résister à la tentation,</p>
+                  <p rend="justify">Et l'affaire fut bientôt faite.</p>
+                  <p rend="justify">N'en parlons plus; ajoutons seulement</p>
+                  <p rend="justify">Que depuis cet heureux moment,</p>
+                  <p rend="justify">Thérèse et son ami, tous les jours en cachette,</p>
+                  <p rend="justify">Alloient au même lieu se rendre exactement.</p>
+                  <p rend="justify">Thérèse y vint un soir, elle étoit inquiète</p>
+                  <p rend="justify">Et paraissoit rêver profondément.</p>
+                  <p rend="justify">En regardant La Rose, elle reste muette.</p>
+                  <p rend="justify">«Qu'as-tu,» lui dit-il, «mon enfant,</p>
+                  <p rend="justify">»Et qui peut te causer une peine secrète?</p>
+                  <p rend="justify">»Ne cache rien à ton Amant,</p>
+                  <p rend="justify">»Parle.» Thérèse enfin parla naïvement:</p>
+                  <p rend="justify">—«On me dit que je suis gentille;</p>
+                  <p rend="justify">»Mais la serai-je encor longtemps?</p>
+                  <p rend="justify">»Vienne Saint-Nicolas, j'aurai mes vingt-deux ans,</p>
+                  <p rend="justify">»Et je ne veux pas mourir fille.</p>
+                  <p rend="justify">»Je sais que le Meunier du village voisin</p>
+                  <p rend="justify">»A mon père en secret a demandé ma main;</p>
+                  <p rend="justify">»Et mon père a dit oui: suffit que j'y consente,</p>
+                  <p rend="justify">»J'épouserai Colas pas plus tard que demain</p>
+                  <p rend="justify">»Conseille-moi!—Colas, parbleu! c'est mon cousin,»</p>
+                  <p rend="justify">Reprit le Grenadier, «car sa mère est ma tante;</p>
+                  <p rend="justify">»Ce garçon là n'est pas malin,</p>
+                  <p rend="justify">»Mais il a malgré ça quelque chose qui tente;</p>
+                  <p rend="justify">»C'est deux cents bons écus de rente:</p>
+                  <p rend="justify">»Si je les avois, je… Mais puisque je n'ai rien,</p>
+                  <p rend="justify">»Épouse-le, tu feras bien.</p>
+                  <p rend="justify">»J'exige seulement…—Quoi?—Tu sais bien, ma chère,</p>
+                  <p rend="justify">»Que je dois te quitter dans vingt jours au plus tard;</p>
+                  <p rend="justify">»Avant le temps fixé pour mon départ</p>
+                  <p rend="justify">»La noce, dis-tu, peut se faire.</p>
+                  <p rend="justify">»En ce cas je prétends à ton benêt d'époux</p>
+                  <p rend="justify">»De ses droits conjugaux interdire l'usage:</p>
+                  <p rend="justify">»Si donc il t'invitait à des ébats trop doux,</p>
+                  <p rend="justify">»Dès la première nuit brusque le personnage,</p>
+                  <p rend="justify">»Dusses-tu le mettre en courroux.</p>
+                  <p rend="justify">»Quand je serai parti, je lui donne carrière;</p>
+                  <p rend="justify">»Mais jusque-là, Madame la Meunière,</p>
+                  <p rend="justify">»De Monsieur le Meunier je serois trop jaloux.</p>
+                  <p rend="justify">»—Comment? tu veux que, sans défense,</p>
+                  <p rend="justify">»Dès la première nuit, seulette entre deux draps,</p>
+                  <p rend="justify">»Avec un homme…? Allons, tu te moques, je pense.</p>
+                  <p rend="justify">»Qui pourroit se tirer d'un pareil embarras?</p>
+                  <p rend="justify">»J'aurois beau faire la mutine,</p>
+                  <p rend="justify">»Beau me fâcher, beau le gronder,</p>
+                  <p rend="justify">»Colas croiroit que je badine;</p>
+                  <p rend="justify">»Il seroit le plus fort, il faudroit bien céder.</p>
+                  <p rend="justify">»—D'accord, mais si je peux par un bon stratagème</p>
+                  <p rend="justify">»Lui fermer ce qu'il croit ouvert?…</p>
+                  <p rend="justify">»—Pour te prouver combien je t'aime,</p>
+                  <p rend="justify">»Je consens volontiers à le prendre sans vert.</p>
+                  <p rend="justify">»—Eh bien! avertis-moi la veille de la noce,</p>
+                  <p rend="justify">»Et nous agirons de concert,</p>
+                  <p rend="justify">»Afin que, comme un sot, il donne dans la bosse.»</p>
+                  <p rend="justify">A point nommé La Rose est averti:</p>
+                  <p rend="justify">Imaginez un peu ce qu'il fit à Thérèse.</p>
+                  <p rend="justify">(Vous avez vu qu'à tout la belle a consenti</p>
+                  <p rend="justify">Pour empêcher que Colas ne la baise).</p>
+                  <p rend="justify">Il colle artistement sur un certain endroit,</p>
+                  <p rend="justify">Que point ne veux nommer, que pourtant on devine,</p>
+                  <p rend="justify">Une peau de mouton douce, fraîche et très fine.</p>
+                  <p rend="justify">Le pli le plus léger, il l'efface du doigt,</p>
+                  <p rend="justify">Et partout, ainsi qu'on le croit.</p>
+                  <p rend="justify">Appliquant une main experte et libertine,</p>
+                  <p rend="justify">Il fait si bien qu'on n'aperçoit</p>
+                  <p rend="justify">Ni le creux du vallon, ni le duvet qui croît</p>
+                  <p rend="justify">Sur le penchant de la colline.</p>
+                  <p rend="justify">Ceci peut sembler fort, mais un amant adroit</p>
+                  <p rend="justify">Exécute aisément tout ce qu'il imagine,</p>
+                  <p rend="justify">Mieux encor qu'on ne le conçoit.</p>
+                  <p rend="justify">Et puis, ami Lecteur, un peu de complaisance;</p>
+                  <p rend="justify">Prêtez-vous à l'illusion,</p>
+                  <p rend="justify">Et vous croirez qu'après cette opération</p>
+                  <p rend="justify">Thérèse n'en eut plus… du moins en apparence.</p>
+                  <p rend="justify">Au fait. Le lendemain elle épouse Colas:</p>
+                  <p rend="justify">En sortant de l'église on vint faire bombance,</p>
+                  <p rend="justify">On but du petit vin, on servit de grands plats;</p>
+                  <p rend="justify">Mais parlons du souper, lequel suivit la danse:</p>
+                  <p rend="justify">Le souper d'une noce est le meilleur repas.</p>
+                  <p rend="justify">Le marié, droit comme un échalas,</p>
+                  <p rend="justify">D'aller se mettre au lit brûloit d'impatience.</p>
+                  <p rend="justify">La Rose, riant aux éclats,</p>
+                  <p rend="justify">Par des couplets gaillards égayoit l'assistance,</p>
+                  <p rend="justify">S'approchoit de Colas, et lui disoit tout bas:</p>
+                  <p rend="justify">«Cousin, tu m'as bien l'air d'un croqueur de pucelles;</p>
+                  <p rend="justify">»Gageons que cette nuit tu ne dormiras pas:</p>
+                  <p rend="justify">»La mariée est des plus belles;</p>
+                  <p rend="justify">»Demain, les yeux battus et les membres bien las,</p>
+                  <p rend="justify">»Tu nous en diras des nouvelles.»</p>
+                  <p rend="justify">Tout en parlant de bagatelles,</p>
+                  <p rend="justify">On entendit sonner minuit:</p>
+                  <p rend="justify">Lors au lit nuptial chaque époux fut conduit,</p>
+                  <p rend="justify">Et l'on éteignit les chandelles:</p>
+                  <p rend="justify">On sait déjà tout ce qui se passa.</p>
+                  <p rend="justify">Colas, dont on se peint aisément la surprise,</p>
+                  <p rend="justify">Pour fêter sa commère en vain se trémoussa,</p>
+                  <p rend="justify">Tentant dix fois l'assaut, et dix fois lâchant prise.</p>
+                  <p rend="justify">D'un jeu si déplaisant enfin il se lassa,</p>
+                  <p rend="justify">Et fut toute la nuit dans une horrible crise.</p>
+                  <p rend="justify">Au point du jour, mon Jocrisse à grands pas</p>
+                  <p rend="justify">Va chez le Grenadier en poussant des hélas!</p>
+                  <p rend="justify">—«Si vous saviez, cousin La Rose,</p>
+                  <p rend="justify">»Ma femme, elle n'a pas de…—Quoi?</p>
+                  <p rend="justify">»—De… la… de…—Quoi donc?—Aidez-moi!</p>
+                  <p rend="justify">»Eh bien! elle n'a pas… elle n'a pas de chose!</p>
+                  <p rend="justify">»—Ah! parbleu, n'est-ce que cela?</p>
+                  <p rend="justify">»On peut remédier à cet accident-là;</p>
+                  <p rend="justify">»Et je ne sais pourquoi tu t'inquiètes:</p>
+                  <p rend="justify">»Beaucoup de femmes n'en ont pas;</p>
+                  <p rend="justify">»Mais je leur en fais, moi.—Comment, vous leur en faites!</p>
+                  <p rend="justify">»—J'en fis un l'an dernier à celle de Lucas;</p>
+                  <p rend="justify">»Tu pourrois même aller la trouver de ce pas,</p>
+                  <p rend="justify">»Et par des questions secrètes…</p>
+                  <p rend="justify">»En observant surtout de lui parler bien bas,</p>
+                  <p rend="justify">»Peut-être avoueroit-elle…—Ah! que je serois aise</p>
+                  <p rend="justify">»Si vous pouviez ce soir en faire un à Thérèse!</p>
+                  <p rend="justify">»—Ce soir, le terme est un peu court;</p>
+                  <p rend="justify">»Mais apporte au logis avant la fin du jour</p>
+                  <p rend="justify">»Douze livres de crin, douze francs pour ma peine;</p>
+                  <p rend="justify">»Pars demain, va passer huit jours chez ta marraine,</p>
+                  <p rend="justify">»Imagine quelque détour</p>
+                  <p rend="justify">»Afin de lui cacher le sujet qui t'amène:</p>
+                  <p rend="justify">»Dis-lui que par malheur tu deviens un peu sourd,</p>
+                  <p rend="justify">»Et qu'on t'a conseillé de voyager en plaine.</p>
+                  <p rend="justify">»Sur le chose de ta Chrétienne</p>
+                  <p rend="justify">»Sois plus muet que la bouche d'un four,</p>
+                  <p rend="justify">»Entends-tu bien, Colas?—Oh! qu'à cela ne tienne!</p>
+                  <p rend="justify">»—C'est aujourd'hui lundi, je fixe ton retour</p>
+                  <p rend="justify">»Au Mardi de l'autre semaine:</p>
+                  <p rend="justify">»Ce jour-là tu pourras sans gêne</p>
+                  <p rend="justify">»Faire un petit Colas.—Ah! Thérèse, ah! mamour,</p>
+                  <p rend="justify">»Mardi j'en aurai donc l'étrenne!</p>
+                  <p rend="justify">»—Adieu, cousin.—Bonsoir.» Une heure après</p>
+                  <p rend="justify">Le crin est envoyé, les douze francs sont prêts;</p>
+                  <p rend="justify">Et comme une franche pécore,</p>
+                  <p rend="justify">Colas le lendemain partit avant l'aurore.</p>
+                  <p rend="justify">Vous jugez bien que notre amant</p>
+                  <p rend="justify">Sut mettre à profit son absence.</p>
+                  <p rend="justify">A Thérèse il fit un enfant,</p>
+                  <p rend="justify">Puis il vendit le crin pour en avoir l'argent,</p>
+                  <p rend="justify">Et riant du cousin docile à la défense,</p>
+                  <p rend="justify">Il regagna son Régiment.</p>
+                  <p rend="justify">Colas, au bout de la huitaine,</p>
+                  <p rend="justify">Croyant avec raison l'ouverture certaine,</p>
+                  <p rend="justify">Revient trouver sa femme en faisant les yeux doux,</p>
+                  <p rend="justify">—«Couchons-nous,» lui dit-il, «ma reine.»</p>
+                  <p rend="justify">Thérèse au lit suit son époux;</p>
+                  <p rend="justify">Là, sans compliment il l'engaîne.</p>
+                  <p rend="justify">Le jeu fini, Colas visita son domaine;</p>
+                  <p rend="justify">Et lorsqu'en tous les coins il eut passé la main:</p>
+                  <p rend="justify">—«Ouais!» s'écria-t-il, «cousin,</p>
+                  <p rend="justify">»Par ma foi, je vous garde une bonne semonce:</p>
+                  <p rend="justify">»Vous m'avez demandé douze livres de crin,</p>
+                  <p rend="justify">»Et je n'en trouve pas une once!»</p>
+               </div>
+               <div type="div3">
+                  <head>LA CROYANCE FONDÉE</head>
+                  <p rend="justify">Un jour que Madame dormoit,</p>
+                  <p rend="justify">Monsieur fêtoit sa Chambrière;</p>
+                  <p rend="justify">Celle-ci qui la danse aimoit,</p>
+                  <p rend="justify">Remuoit fort bien la charnière:</p>
+                  <p rend="justify">Or la Coquine, toute fière,</p>
+                  <p rend="justify">Lui dit: «Monsieur, sur votre foi,</p>
+                  <p rend="justify">»Qui le fait mieux, Madame ou moi?</p>
+                  <p rend="justify">»—C'est toi, Barbe, sans contredit.</p>
+                  <p rend="justify">»—Saint Jean!» dit-elle, «je le croi;</p>
+                  <p rend="justify">»Car tout le monde me le dit.»</p>
+               </div>
+               <div type="div3">
+                  <head>LA DÉCLARATION MILITAIRE</head>
+                  <p rend="justify">A MADAME ***</p>
+                  <lg>
+                     <l>Puisque vous m'avez dit souvent</l>
+                     <l>Que vous n'aimez pas la morale.</l>
+                     <l>On m'a fait un conte plaisant.</l>
+                     <l>Il faut que je vous en régale:</l>
+                     <l>Un Mousquetaire soupiroit</l>
+                     <l>Pour Fatime, beauté sévère;</l>
+                     <l>Quel est celui qui me diroit</l>
+                     <l>Comment soupire un Mousquetaire?</l>
+                     <l>Depuis si longtemps un bruit court</l>
+                     <l>Que, dans le délai le plus court,</l>
+                     <l>Ces Messieurs font toujours l'affaire!</l>
+                     <l>Le pourquoi n'est plus un mystère;</l>
+                     <l>Mars qui s'entend avec l'Amour</l>
+                     <l>Est exempt du préliminaire.</l>
+                     <l>Mon Héros, qu'on nommoit Valcour,</l>
+                     <l>Et qui certe auroit eu vergogne</l>
+                     <l>D'en être à son troisième jour</l>
+                     <l>Sans finir la douce besogne,</l>
+                     <l>Pour la finir n'épargna rien;</l>
+                     <l>Si, qu'à son deuxième entretien,</l>
+                     <l>Bien résolu de passer outre,</l>
+                     <l>Il s'écria: «Je voudrois bien,</l>
+                     <l>«Madame, vous…—Quoi donc?—Vous foutre.»</l>
+                     <l>Foutre est un mot très indécent;</l>
+                     <l>Fatime se mit en colère,</l>
+                     <l>Et dit:—«Monsieur le Militaire,</l>
+                     <l>»Vous êtes un impertinent.</l>
+                     <l>»—Un impertinent soit, ma chère;</l>
+                     <l>»J'en agis toujours rondement,</l>
+                     <l>»Et ne réponds au compliment</l>
+                     <l>»Que par trois mots: laissez-moi faire.»</l>
+                     <l>Entre ses bras il vous la prend.</l>
+                     <l>On devine que la Commère</l>
+                     <l>Se débat, ou bien fait semblant:</l>
+                     <l>Plus elle feint, plus il la serre.</l>
+                     <l>Bref, il la pousse vivement.</l>
+                     <l>Elle, tout en se débattant,</l>
+                     <l>De tomber dans une bergère;</l>
+                     <l>Lui d'avoir, en moins d'un instant</l>
+                     <l>Fait quatre ou cinq tours à Cythère.</l>
+                     <l>Mademoiselle, en se pâmant,</l>
+                     <l>De lui demander doucement</l>
+                     <l>S'il peut encore en faire autant?</l>
+                     <l>Et Monsieur, toujours plus galant,</l>
+                     <l>De ne pas rester en arrière.</l>
+                     <l>Mon Lecteur, qui sait que souvent</l>
+                     <l>Le plus vigoureux assaillant</l>
+                     <l>Après trois exploits tombe à terre,</l>
+                     <l>Ne doit pas trouver surprenant</l>
+                     <l>Qu'ayant fait six fois la carrière,</l>
+                     <l>Sans prendre haleine seulement,</l>
+                     <l>Mon coquin, d'un air triomphant,</l>
+                     <l>Enflé de sa valeur guerrière,</l>
+                     <l>Dit à Fatime en la quittant:</l>
+                     <l>—«Pour foutre, vive un Mousquetaire!»</l>
+                     <l>Ni que Fatime souriant</l>
+                     <l>Prenne le parti de se taire;</l>
+                     <l>Car un Auteur qui n'est pas sot,</l>
+                     <l>Sur <hi rend="italic">foutre</hi>  a donné cette glose:</l>
+                     <l>Les Dames pardonnent le mot</l>
+                     <l>A celui qui fait bien la chose.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LA RÉPONSE SENSÉE</head>
+                  <p rend="justify">CONTE</p>
+                  <p rend="justify">Ces jours passés, une Catin</p>
+                  <p rend="justify">Dit à Pattu le Médecin:</p>
+                  <p rend="justify">«Je vous paierai, coûte que coûte;</p>
+                  <p rend="justify">»Tirez-moi d'un grand embarras;</p>
+                  <p rend="justify">»Monsieur, vous avez vu des <hi rend="italic">cas</hi>:</p>
+                  <p rend="justify">»Les cas sont-ils barbus?—Sans doute.</p>
+                  <p rend="justify">»—Pourquoi le mien ne l'est-il pas?</p>
+                  <p rend="justify">»—En voici la raison, écoute,»</p>
+                  <p rend="justify">Lui répond gravement Pattu;</p>
+                  <p rend="justify">«Ne sais-tu pas un vieux Proverbe,</p>
+                  <p rend="justify">»Qui dit qu'en un sentier battu</p>
+                  <p rend="justify">»On ne vit jamais pousser d'herbe?»</p>
+               </div>
+               <div type="div3">
+                  <head>LA PLAINTE INJUSTE</head>
+                  <lg>
+                     <l>A la campagne, un jour qu'il faisoit beau,</l>
+                     <l>Gilet fut voir Madame du Martelle.</l>
+                     <l>Bien fut reçu dans l'antique Château:</l>
+                     <l>Pour le traiter, on mit tout par écuelle;</l>
+                     <l>Mais il se plaint que la ronde femelle</l>
+                     <l>L'ait fait coucher auprès d'un grand Valet.</l>
+                     <l>Or de la Dame à tort se plaint Gilet:</l>
+                     <l>Mieux n'eût choisi, si c'eût été pour elle.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>BADINAGE IN-PROMPTU</head>
+                  <p rend="justify">
+                     <hi rend="italic">En voyant la Statue de la Pucelle d'Orléans dans la place publique de cette Ville.</hi>
+                  </p>
+                  <p rend="justify">Passants, respectez celle</p>
+                  <p rend="justify">Que vous voyez céans:</p>
+                  <p rend="justify">C'est la seule pucelle</p>
+                  <p rend="justify">Qui soit dans Orléans.</p>
+               </div>
+               <div type="div3">
+                  <head>LA BELLE ACCOMMODANTE</head>
+                  <p rend="justify">Léon, poussé d'humeur folâtre,</p>
+                  <p rend="justify">Regardoit à son aise un jour</p>
+                  <p rend="justify">Les jambes plus blanches qu'albâtre</p>
+                  <p rend="justify">De Lise, objet de son amour.</p>
+                  <p rend="justify">Tantôt il s'attache à la gauche,</p>
+                  <p rend="justify">Tantôt la droite le débauche;</p>
+                  <p rend="justify">«Je ne sais plus,» dit-il, «laquelle regarder;</p>
+                  <p rend="justify">»Une égale beauté fait un combat entre elles.</p>
+                  <p rend="justify">»—Ah!» dit Lise, «ami, sans tarder,</p>
+                  <p rend="justify">»Mettez-vous entre deux, pour finir leurs querelles!»</p>
+               </div>
+               <div type="div3">
+                  <head>IN-PROMPTU</head>
+                  <lg>
+                     <l>Vous me priez toujours de vous faire des vers,</l>
+                     <l>Je vous l'ai dit vingt fois, Madame, en bonne prose:</l>
+                     <l>Je les ferois tout de travers;</l>
+                     <l>J'aime mieux vous faire autre chose.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>COUPLET</head>
+                  <lg>
+                     <l>Air: <hi rend="italic">La faridondaine, la faridondon.</hi>
+                     </l>
+                     <l>Pendant six mois, notre voisin</l>
+                     <l>Crut sa femme hydropique;</l>
+                     <l>Mais en criant un beau matin:</l>
+                     <l>«Aye! aye! J'ai la colique,»</l>
+                     <l>Elle accoucha d'un gros garçon,</l>
+                     <l>La faridondaine, la faridondon,</l>
+                     <l>Qui ressemble au pauvre mari,</l>
+                     <l>Biribi,</l>
+                     <l>A la façon de Barbari,</l>
+                     <l>Mon ami.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>BOUQUET A M<hi rend="sup">lle</hi> ***</head>
+                  <lg>
+                     <l>En ce jour que je dois fêter,</l>
+                     <l>Je vous présente ma personne;</l>
+                     <l>C'est le bouquet que je vous donne,</l>
+                     <l>Mais voudrez-vous bien le porter?</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LA RAGE D'AMOUR</head>
+                  <p rend="justify">CONTE</p>
+                  <p rend="justify">A Cupidon la jeune et belle Amynthe</p>
+                  <p rend="justify">Malgré l'hymen sacrifioit toujours;</p>
+                  <p rend="justify">Son pauvre époux toujours étoit en crainte</p>
+                  <p rend="justify">Qu'elle ne fît de nouvelles amours.</p>
+                  <p rend="justify">Il ne pouvoit en siller la paupière;</p>
+                  <p rend="justify">Veilles, soucis l'eurent tôt emporté.</p>
+                  <p rend="justify">Lui mort, Amynthe, en pleine liberté,</p>
+                  <p rend="justify">A son humeur donna belle carrière;</p>
+                  <p rend="justify">On en jasa; son Curé crut devoir</p>
+                  <p rend="justify">L'en avertir: «Vous vous perdez, Madame,</p>
+                  <p rend="justify">»Changez de vie, ou c'est fait de votre âme!</p>
+                  <p rend="justify">»—Hélas! Monsieur, je voudrois le pouvoir,»</p>
+                  <p rend="justify">Lui répondit la trop fringante veuve;</p>
+                  <p rend="justify">«Mais plaignez-moi, tel est mon ascendant,</p>
+                  <p rend="justify">»Que je ne puis avoir l'esprit content,</p>
+                  <p rend="justify">»Si chaque mois je n'ai pratique neuve.</p>
+                  <p rend="justify">»Cela me vient d'un accident fatal:</p>
+                  <p rend="justify">»A quatorze ans d'un chien je fus mordue,</p>
+                  <p rend="justify">»Chien enragé. Pour prévenir le mal,</p>
+                  <p rend="justify">»L'avis commun fut qu'il me falloit nue</p>
+                  <p rend="justify">»Plonger en mer. Nue on me dépouilla.</p>
+                  <p rend="justify">»Honteuse alors de me voir sans chemise,</p>
+                  <p rend="justify">»Incontinent je portai la main là…</p>
+                  <p rend="justify">»Où vous savez, sans jamais lâcher prise.</p>
+                  <p rend="justify">»On me plongea; mais qu'est-il arrivé?</p>
+                  <p rend="justify">«C'est que mon corps, ô pudeur trop funeste!</p>
+                  <p rend="justify">»Partout ailleurs du mal fut préservé,</p>
+                  <p rend="justify">»Hors cet endroit où la rage me reste.»</p>
+               </div>
+               <div type="div3">
+                  <head>LE PRÉTENDU MALIN</head>
+                  <p rend="justify">Jean recherchoit pour l'hyménée</p>
+                  <p rend="justify">Pâquette l'émerillonnée;</p>
+                  <p rend="justify">Chacun disoit à Jean: «Pâquette a mauvais bruit,</p>
+                  <p rend="justify">»Son honneur est un grand peut-être.</p>
+                  <p rend="justify">»—Oh!» dit Jean, «la première nuit</p>
+                  <p rend="justify">»Je saurai bien le reconnoître.»</p>
+               </div>
+               <div type="div3">
+                  <head>LA GAGEURE</head>
+                  <lg>
+                     <l>Deux Penaillons, voulant prendre un ébat</l>
+                     <l>Pour égayer l'ennui du Monastère,</l>
+                     <l>Gageoient un jour deux flacons de muscat</l>
+                     <l>A qui plutôt auroit dit son Bréviaire:</l>
+                     <l>Ce n'est du tout agir Chrétiennement.</l>
+                     <l>Avant d'entrer en si plaisante lice,</l>
+                     <l>Nos deux Frocards se prêtèrent serment</l>
+                     <l>De ne sauter un mot du saint Office.</l>
+                     <l>Le serment fait, les voilà donc en train</l>
+                     <l>De marmoter; quand l'un, gagnant la fin.</l>
+                     <l>Dit: «Je n'ai plus qu'un bout de patenôtre.</l>
+                     <l>»—Ah! malheureux, tu m'as fourbé vraiment,</l>
+                     <l>»Car je ne suis qu'au milieu,» répond l'autre,</l>
+                     <l>«Et j'ai passé tout le commencement!«</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LE PAIEMENT D'AVANCE</head>
+                  <p rend="justify">Dans Paris plus d'un Bourgeois,</p>
+                  <p rend="justify">N'ayant maîtresse ni femme,</p>
+                  <p rend="justify">Pour un écu tous les mois</p>
+                  <p rend="justify">S'en va rafraîchir sa flamme.</p>
+                  <p rend="justify">Témoin Monsieur Rogaton,</p>
+                  <p rend="justify">Qui sait où le bât le blesse,</p>
+                  <p rend="justify">Et de temps en temps, dit-on,</p>
+                  <p rend="justify">Cède à l'humaine faiblesse.</p>
+                  <p rend="justify">L'autre jour une drôlesse</p>
+                  <p rend="justify">L'aperçut de son balcon,</p>
+                  <p rend="justify">Et la voilà qui l'invite</p>
+                  <p rend="justify">Par un <hi rend="italic">st, st</hi>  redoublé.</p>
+                  <p rend="justify">Mon homme de monter vite</p>
+                  <p rend="justify">Sitôt qu'il est appelé;</p>
+                  <p rend="justify">Il entre; elle de lui dire:</p>
+                  <p rend="justify">«Mon fils, sois le bienvenu;</p>
+                  <p rend="justify">»C'est moi qu'on nomme Zelmire:</p>
+                  <p rend="justify">»Ce nom, je crois, est connu.</p>
+                  <p rend="justify">»Ici l'on trouve à sa guise,</p>
+                  <p rend="justify">»Blancheur, fraîcheur, fermeté;</p>
+                  <p rend="justify">»Ces trois mots sont ma devise.</p>
+                  <p rend="justify">»Je suis en bonne santé;</p>
+                  <p rend="justify">»Dans mes bras tout Paris tombe;</p>
+                  <p rend="justify">»J'ai la gorge de Duté</p>
+                  <p rend="justify">»Et les fesses de Colombe.</p>
+                  <p rend="justify">»Viens t'asseoir à mon côté</p>
+                  <p rend="justify">»Et mets-moi vite à l'épreuve;</p>
+                  <p rend="justify">»Mais auparavant fais preuve</p>
+                  <p rend="justify">»De ta générosité.</p>
+                  <p rend="justify">»—Dis-moi combien tu demandes?</p>
+                  <p rend="justify">»—Combien? Six livres, mon cher,</p>
+                  <p rend="justify">»Et douze si tu marchandes;</p>
+                  <p rend="justify">»C'est un prix fait en hiver.</p>
+                  <p rend="justify">Mons Rogaton sur la bouche</p>
+                  <p rend="justify">Un gros baiser lui colla;</p>
+                  <p rend="justify">Zelmire, d'un air farouche:</p>
+                  <p rend="justify">—«Il faut mettre six francs là,</p>
+                  <p rend="justify">»Et sois sûr que sans cela</p>
+                  <p rend="justify">»Je ne veux pas qu'on me touche.</p>
+                  <p rend="justify">»Dépêchons, il se fait tard;</p>
+                  <p rend="justify">»Six francs, ou bats en retraite.»</p>
+                  <p rend="justify">Rogaton les lui départ.</p>
+                  <p rend="justify">La Commère, satisfaite,</p>
+                  <p rend="justify">Ses charmes lors dévoila,</p>
+                  <p rend="justify">En lui disant: «Me voilà</p>
+                  <p rend="justify">»Comme le bon Dieu m'a faite.</p>
+                  <p rend="justify">»—Ah! Ciel! je suis infecté!</p>
+                  <p rend="justify">»Ici que n'ai-je apporté</p>
+                  <p rend="justify">»De l'ambre ou de la civette?</p>
+                  <p rend="justify">»Cache, cache tes attraits,»</p>
+                  <p rend="justify">Dit l'autre, «je gagerois</p>
+                  <p rend="justify">»Que tu n'as pas fait toilette.</p>
+                  <p rend="justify">»Fi!—Si tu n'es pas content,</p>
+                  <p rend="justify">»Tu peux regagner la porte.</p>
+                  <p rend="justify">»—Eh bien! rends-moi vitement</p>
+                  <p rend="justify">»Mes six francs, et que je sorte.</p>
+                  <p rend="justify">»—Tes six francs? oh! doucement:</p>
+                  <p rend="justify">»Je ne fais point de corvée;</p>
+                  <p rend="justify">»On ne rend jamais l'argent</p>
+                  <p rend="justify">»Lorsque la toile est levée.»</p>
+               </div>
+               <div type="div3">
+                  <head>IN-PROMPTU</head>
+                  <p rend="justify">
+                     <hi rend="italic">Chanté dans la maison de M. le Marquis de L***, à V***, le jour qu'on y pendit la Crémaillère.</hi>
+                  </p>
+                  <lg>
+                     <l>Sur l'air: <hi rend="italic">La bonne aventure, ô gué.</hi>
+                     </l>
+                     <l>Comme de vrais <hi rend="italic">sans souci</hi>,</l>
+                     <l>Donnons-nous carrière;</l>
+                     <l>Près des Dames que voici,</l>
+                     <l>Liberté plénière!</l>
+                     <l>Surtout point d'Amant transi,</l>
+                     <l>Car rien ne doit pendre ici,</l>
+                     <l>Que la Crémaillère, ô gué,</l>
+                     <l>Que la Crémaillère!</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LA CALOMNIE FOUDROYÉE</head>
+                  <p rend="justify">«Oui, vous feriez en vain le délicat,</p>
+                  <p rend="justify">»Monsieur l'Abbé, je ne serois pas dupe;</p>
+                  <p rend="justify">»Avouez, croyez-moi, que vous aimez la jupe.</p>
+                  <p rend="justify">»Et sur ce point n'ayons plus d'altercat.</p>
+                  <p rend="justify">»—Mais, Madame, jetez les yeux sur mon rabat…</p>
+                  <p rend="justify">»—Toutes vos raisons sont frivoles…</p>
+                  <p rend="justify">»—Vous êtes incrédule et voulez un éclat?</p>
+                  <p rend="justify">»Eh bien! retenez ces paroles:</p>
+                  <p rend="justify">»Du cotillon je fais si peu d'état,</p>
+                  <p rend="justify">»Que je donnerois cent pistoles</p>
+                  <p rend="justify">»Pour que personne n'en portât!»</p>
+               </div>
+               <div type="div3">
+                  <head>LA FENTE</head>
+                  <p rend="justify">CONTE</p>
+                  <lg>
+                     <l>Orante avoit fait emplette</l>
+                     <l>D'un quarteau de vieux Rota;</l>
+                     <l>Sa chambrière Pâquette,</l>
+                     <l>Un beau matin le goûta</l>
+                     <l>Et le trouva bon sans doute.</l>
+                     <l>Elle y revint: Jean l'aida.</l>
+                     <l>Verre à verre, goutte à goutte</l>
+                     <l>La feuillette se vida.</l>
+                     <l>Au bout d'une quarantaine</l>
+                     <l>Il advint que le Patron,</l>
+                     <l>Qui croit la feuillette pleine,</l>
+                     <l>Va pour en prendre l'étrenne.</l>
+                     <l>L'eut-il? Vous savez que non.</l>
+                     <l>Abusé dans son attente,</l>
+                     <l>D'abord il est stupéfait,</l>
+                     <l>Puis songeant que le vin tente</l>
+                     <l>Et se doutant du méfait,</l>
+                     <l>Il appelle sa servante</l>
+                     <l>Et lui dit ce qu'elle sait.</l>
+                     <l>Pourtant elle s'émerveille:</l>
+                     <l>Jamais, jamais on n'a vu</l>
+                     <l>Une aventure pareille!</l>
+                     <l>—«Certe, qui l'auroit prévu?»</l>
+                     <l>Répondit-elle à son maître,</l>
+                     <l>«D'où peut provenir cela?</l>
+                     <l>»Quelque fente aura peut-être</l>
+                     <l>»Causé cet accident-là;</l>
+                     <l>»Nous pourrons le reconnoître.»</l>
+                     <l>Elle va prendre un flambeau.</l>
+                     <l>L'allume, vient, fait sa ronde:</l>
+                     <l>Rien ne manquoit au tonneau.</l>
+                     <l>—«Morgué! le tour est nouveau;</l>
+                     <l>»Voyons par-dessous», dit-elle.</l>
+                     <l>Au même instant la donzelle,</l>
+                     <l>En se baissant, met au jour</l>
+                     <l>Ce qui plaît dans une belle,</l>
+                     <l>Morceau digne de l'amour.</l>
+                     <l>Et pour parler sans détour,</l>
+                     <l>Le parois de sa Chapelle</l>
+                     <l>Que couvroit un jupon court.</l>
+                     <l>—«C'est assez», lui dit Orante,</l>
+                     <l>En lorgnant le défilé,</l>
+                     <l>«Viens que je bouche la fente</l>
+                     <l>»Par où mon vin a coulé.»</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LE REPENTIR SINCÈRE</head>
+                  <lg>
+                     <l>Avec la brune et la blonde</l>
+                     <l>Un Prieur Bénédictin</l>
+                     <l>Prit tant d'ébats, qu'un matin</l>
+                     <l>Il gagna le mal immonde.</l>
+                     <l>Voyant son chose maigri,</l>
+                     <l>L'horreur du crime le frappe;</l>
+                     <l>«Fin,» dit-il, «qui m'y rattrape…</l>
+                     <l>»Avant que je sois guéri!»</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>L'ARMURE DE VÉNUS</head>
+                  <lg>
+                     <l>Vénus manioit près de Mars</l>
+                     <l>Son casque, son glaive, ses dards,</l>
+                     <l>Armes de défense et d'attaque.</l>
+                     <l>Mais le Dieu lui cria soudain:</l>
+                     <l>«Belle, j'en ai sous ma casaque</l>
+                     <l>»De plus propres pour votre main.»</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>A MA MAITRESSE</head>
+                  <lg>
+                     <l>
+                        <hi rend="italic">Qui, la veille en dinant chez moi, avait paru désirer un serin que j'avais.</hi>
+                     </l>
+                     <l>Reçois la cage et le serin charmant</l>
+                     <l>Dont tu louois hier l'agréable ramage:</l>
+                     <l>Il en reste encore un à ton fidèle amant;</l>
+                     <l>Mais c'est à toi de lui donner la cage.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Les Désolations et les Consolations.</hi>
+                  </head>
+                  <p rend="justify">VAUDEVILLE</p>
+                  <lg>
+                     <l>Cloris avec un gros Seigneur,</l>
+                     <l>L'hiver dernier, perdit sa fleur;</l>
+                     <l>C'est ce qui la désole.</l>
+                     <l>Mais alors elle n'avoit rien,</l>
+                     <l>Et maintenant elle a du bien;</l>
+                     <l>C'est ce qui la console.</l>
+                     <l>Lise avoit Lindor pour amant,</l>
+                     <l>Sa mère la met au Couvent;</l>
+                     <l>C'est ce qui la désole.</l>
+                     <l>Un Directeur qui vaut de l'or,</l>
+                     <l>Près d'elle remplace Lindor;</l>
+                     <l>C'est ce qui la console.</l>
+                     <l>Lisimon est bien convaincu</l>
+                     <l>Que son voisin le fait cocu;</l>
+                     <l>C'est ce qui le désole.</l>
+                     <l>En secret le drille malin</l>
+                     <l>Rend la pareille à son voisin;</l>
+                     <l>C'est ce qui le console.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>ÉLÉGIE</head>
+                  <lg>
+                     <l>Au diable soit la donzelle</l>
+                     <l>Qui, me prenant par la main,</l>
+                     <l>Me fit rebrousser chemin,</l>
+                     <l>Et me conduisit chez elle!</l>
+                     <l>Sot que je fus ce jour-là!</l>
+                     <l>En arrivant dans sa chambre,</l>
+                     <l>Sur un lit parfumé d'ambre</l>
+                     <l>Ses charmes elle étala.</l>
+                     <l>Las! j'en perdis la parole.</l>
+                     <l>Que faire? j'étois vaincu:</l>
+                     <l>Jean Chouart joua son rôle;</l>
+                     <l>Barbe gagna son écu,</l>
+                     <l>Moi, je gagnai la vérole.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>ÉPIGRAMME</head>
+                  <p rend="justify">L'épousé, la première nuit,</p>
+                  <p rend="justify">Rassuroit sa femme farouche.</p>
+                  <p rend="justify">«Mordez-moi,» dit-il, «s'il vous cuit,</p>
+                  <p rend="justify">»Voilà mon doigt en votre bouche.»</p>
+                  <p rend="justify">Elle y consent, il s'escarmouche;</p>
+                  <p rend="justify">Et quand il l'eut bien déhousée;</p>
+                  <p rend="justify">«Or ça,» dit-il, «tendre Rouzée,</p>
+                  <p rend="justify">»Vous ai-je fait du mal ainsi?</p>
+                  <p rend="justify">»—Ah donc!» répondit l'épousée.</p>
+                  <p rend="justify">«Je ne vous ai pas mors aussi!»</p>
+               </div>
+               <div type="div3">
+                  <head>LE TRIOMPHE DE LA MAROTTE<lb/>OU<lb/>L'ESPRIT DE MES CONFRÈRES</head>
+                  <p rend="justify">CHANSON</p>
+                  <lg>
+                     <l>Sur l'air: <hi rend="italic">O reguingué, ô lon lan la.</hi>
+                     </l>
+                     <l>Entre les différents états</l>
+                     <l>Qui font vivre l'homme ici-bas,</l>
+                     <l>On ne démêle qu'altercas,</l>
+                     <l>Peines d'esprit, vains embarras:</l>
+                     <l>Chez le Héros, chez le Pagnote,</l>
+                     <l>Tout n'est que sottise et marotte.</l>
+                     <l>La débauche plaît au Rentier,</l>
+                     <l>Le faux point d'honneur au Guerrier,</l>
+                     <l>L'opulence entiche un Caissier,</l>
+                     <l>L'amour-propre le monde entier;</l>
+                     <l>Petits-Maîtres, Gens de maltote,</l>
+                     <l>Chacun a son bien de marotte.</l>
+                     <l>Mais laissant au joug de leurs fers</l>
+                     <l>Tant de personnages divers,</l>
+                     <l>L'Église fournit à mes vers</l>
+                     <l>De quoi blasonner ses travers;</l>
+                     <l>Le plus mince porte-calotte</l>
+                     <l>Donne prise à quelque marotte.</l>
+                     <l>Le Pape avec les Cardinaux,</l>
+                     <l>Vénérables Grippeminauds,</l>
+                     <l>Pasteurs quelque peu larronneaux,</l>
+                     <l>Font voir en tondant leurs troupeaux,</l>
+                     <l>Malgré les statuts de la rote,</l>
+                     <l>L'appât du lucre pour marotte.</l>
+                     <l>Un Évêque dûment renté,</l>
+                     <l>Plein d'embonpoint et de santé;</l>
+                     <l>Au séjour de la volupté,</l>
+                     <l>Dans une sainte oisiveté,</l>
+                     <l>Sur le duvet qui le dorlotte</l>
+                     <l>Laisse appercevoir sa marotte.</l>
+                     <l>J'aime un Chanoine fortuné</l>
+                     <l>Qui, dans son fauteuil cantonné,</l>
+                     <l>Prémédite après déjeuner</l>
+                     <l>L'assortiment de son dîner,</l>
+                     <l>Et qui baptise d'Ostrogote</l>
+                     <l>La loi contraire à sa marotte.</l>
+                     <l>Abbés charmants, petits collets,</l>
+                     <l>Pour qui la mitre a tant d'attraits,</l>
+                     <l>Aussi souples que des valets,</l>
+                     <l>En rôdant autour des Palais,</l>
+                     <l>J'opine ce qui vous balotte;</l>
+                     <l>Les grandeurs sont votre marotte.</l>
+                     <l>La gouvernante d'un Curé,</l>
+                     <l>Sous un parentage ignoré,</l>
+                     <l>Prend en vain le ton maniéré;</l>
+                     <l>Je dis au bon Prêtre leurré:</l>
+                     <l>L'amour entre vous et Javotte</l>
+                     <l>N'a-t-il point mis quelque marotte?</l>
+                     <l>Les Moines, par plus d'un endroit,</l>
+                     <l>Méritent qu'on leur fasse droit;</l>
+                     <l>D'abord viennent ceux de Benoît,</l>
+                     <l>Gens absolus, vrais pisse-froid;</l>
+                     <l>Craignez cette race dévote,</l>
+                     <l>L'intolérance est leur marotte.</l>
+                     <l>Un Bernardin au lansquenet</l>
+                     <l>Fouette la carte en prestolet,</l>
+                     <l>Hausse le temps, et d'un buffet</l>
+                     <l>Range les cristaux au parfait,</l>
+                     <l>Fredonne quelque air de gavotte:</l>
+                     <l>Telle est au juste sa marotte.</l>
+                     <l>Le Célestin entre deux draps</l>
+                     <l>Couloit des jours sans embarras;</l>
+                     <l>Du Latin qu'il n'entendoit pas,</l>
+                     <l>Laissant l'usage aux Savantas,</l>
+                     <l>Il trouvoit dans une marmotte</l>
+                     <l>Le symbole de sa marotte.</l>
+                     <l>Un gros Carme à triple menton,</l>
+                     <l>Prélude fort bien sur le ton</l>
+                     <l>Propre à l'amoureuse chanson;</l>
+                     <l>Mais au lutrin c'est un oison:</l>
+                     <l>Il prouve en écorchant la note,</l>
+                     <l>Qu'un autre accord fait sa marotte.</l>
+                     <l>Voulez-vous au fond d'un cellier</l>
+                     <l>Goûter de ce jus singulier</l>
+                     <l>Qui repose sur le chantier?</l>
+                     <l>Prenez pour guide un Cordelier;</l>
+                     <l>Bientôt en sifflant la linotte,</l>
+                     <l>Il démasquera sa marotte.</l>
+                     <l>Le Capucin peu délicat,</l>
+                     <l>Né pour choquer notre odorat,</l>
+                     <l>Tantôt zélé, tantôt pied-plat,</l>
+                     <l>Emprunte la griffe du chat,</l>
+                     <l>Et des bribes qu'il escamotte,</l>
+                     <l>Dresse un trophée à sa marotte.</l>
+                     <l>Prêcheurs, Soccolants, Augustins,</l>
+                     <l>Petits et grands Observantins,</l>
+                     <l>Famille d'Archi-patelins,</l>
+                     <l>Vrais escrocs, adroits carabins,</l>
+                     <l>Orgueilleux au sein de la crotte,</l>
+                     <l>L'impudence est votre marotte.</l>
+                     <l>Hermaphrodites incertains,</l>
+                     <l>Moitié Moines, moitié mondains,</l>
+                     <l>Trinitaires, Génovéfains,</l>
+                     <l>Antonistes, plats aigrefins,</l>
+                     <l>L'eau de senteur, la papillotte</l>
+                     <l>Manifestent votre marotte.</l>
+                     <l>Chartreux saintement désœuvrés,</l>
+                     <l>Et vous rebondis Prémontrés,</l>
+                     <l>Cafards, on le sait, attitrés,</l>
+                     <l>Au demeurant baudets jurés,</l>
+                     <l>Ma Muse ombrageuse et capotte</l>
+                     <l>Ne voit goutte à votre marotte.</l>
+                     <l>Disciples du grand Loyola,</l>
+                     <l>Après vous il faut dire, holà!</l>
+                     <l>Quiconque franchit ce point-là,</l>
+                     <l>Ne craint Charybde ni Scylla.</l>
+                     <l>Pascal, Auteur de haute note,</l>
+                     <l>A su frapper votre marotte.</l>
+                     <l>Fine fleur d'un sexe rusé,</l>
+                     <l>Tour à tour chéri, méprisé,</l>
+                     <l>Tendres Nonnains, si j'ai glosé</l>
+                     <l>Sur le raz et sur le frisé,</l>
+                     <l>Vous méritez bien qu'on vous cote</l>
+                     <l>Dans les fastes de la marotte.</l>
+                     <l>Héritières du vain caquet</l>
+                     <l>De cet éloquent perroquet,</l>
+                     <l>Naguère chanté par Gresset,</l>
+                     <l>Je vais prononcer votre arrêt:</l>
+                     <l>Le babil et l'humeur bigote</l>
+                     <l>Sont votre éternelle marotte.</l>
+                     <l>Indigne de former des nœuds,</l>
+                     <l>La coquette attise nos feux,</l>
+                     <l>La prude évite leurs aveux,</l>
+                     <l>La volage reste entre deux;</l>
+                     <l>Tandis que la froide vieillotte</l>
+                     <l>Regrette en secret leur marotte.</l>
+                     <l>Prédicateur hors de saison,</l>
+                     <l>Quel fruit produira mon sermon?</l>
+                     <l>Du vent, rien plus. Jamais chanson</l>
+                     <l>Ne fit un Saint d'un Pantalon.</l>
+                     <l>Dans la liste que je fagotte,</l>
+                     <l>Moi-même j'ai double marotte.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LES CINQ POINTS</head>
+                  <p rend="justify">A MADEMOISELLE DE ***</p>
+                  <lg>
+                     <l>Fleur de quinze ans, si Dieu vous sauve et gard,</l>
+                     <l>J'ai en amours trouvé cinq points exprès:</l>
+                     <l>Premièrement, s'offre à vous le regard,</l>
+                     <l>Puis le parler, puis le baiser après;</l>
+                     <l>L'attouchement le baiser suit de près,</l>
+                     <l>Et tous ceux-là tendent au dernier point,</l>
+                     <l>Lequel est…—Quoi?—Je ne le dirai point;</l>
+                     <l>Mais s'il vous plaît en ma chambre vous rendre,</l>
+                     <l>Je me mettrai volontiers en pourpoint,</l>
+                     <l>Voire tout nud, pour vous le faire apprendre.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>L'UN POUR L'AUTRE</head>
+                  <p rend="justify">CONTE</p>
+                  <lg>
+                     <l>Près de s'unir à sa discrète amie,</l>
+                     <l>Le bon Damis, chez elle, un beau matin,</l>
+                     <l>Sur un sopha la trouvant endormie,</l>
+                     <l>Osa risquer un geste libertin;</l>
+                     <l>Mais par malheur s'éveille la Donzelle,</l>
+                     <l>Et ses beaux yeux encore appesantis:</l>
+                     <l>«Mon cher Louis, ah! tu vaux trop,» dit-elle,</l>
+                  </lg>
+                  <p rend="justify">(Louis étoit un valet du logis),</p>
+                  <p rend="justify">«Toute la nuit, tu m'as prouvé ton zèle;</p>
+                  <p rend="justify">»Le jour au moins, repose-toi, Louis.»</p>
+               </div>
+               <div type="div3">
+                  <head>LA PRÉSENCE D'ESPRIT</head>
+                  <lg>
+                     <l>Martin menoit son cochon au marché,</l>
+                     <l>Avec Suzon, qui dans la plaine grande,</l>
+                     <l>Pria Martin de faire le péché</l>
+                     <l>De l'un sur l'autre, et Martin lui demande:</l>
+                     <l>«Mais, qui tiendroit notre cochon, friande?</l>
+                     <l>»—Qui?» dit Suzon, «bon remède il y a.»</l>
+                     <l>Lors le cochon à sa jambe lia,</l>
+                     <l>Puis Martin grimpe, et lourdement engaîne.</l>
+                     <l>Le porc eut peur, et Suzon s'écria:</l>
+                     <l>«Serre, Martin! notre cochon m'entraîne.»</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LA DÉFENSE BIEN OBSERVÉE</head>
+                  <p rend="justify">«Quoi! maman me laisse seulette?</p>
+                  <p rend="justify">»Pour moi j'en suis presque en courroux;</p>
+                  <p rend="justify">»Il semble qu'exprès avec vous</p>
+                  <p rend="justify">»Je voulois rester tête à tête;</p>
+                  <p rend="justify">»Mais non, Monsieur, n'en croyez rien;</p>
+                  <p rend="justify">»Vraiment je vous le défends bien.</p>
+                  <p rend="justify">»Pour favoriser le mystère,</p>
+                  <p rend="justify">»Ma porte est fermée aux verroux;</p>
+                  <p rend="justify">»Ici, sans crainte des jaloux,</p>
+                  <p rend="justify">»On pourroit jouir et se taire;</p>
+                  <p rend="justify">»Mais non, Monsieur, n'en faites rien;</p>
+                  <p rend="justify">»Vraiment je vous le défends bien.</p>
+                  <p rend="justify">»Prêt à rire de ma colère,</p>
+                  <p rend="justify">»Peut-être que mon négligé,</p>
+                  <p rend="justify">»Mon mouchoir un peu dérangé,</p>
+                  <p rend="justify">»Vont vous rendre trop téméraire;</p>
+                  <p rend="justify">»Mais non, Monsieur, qu'il n'en soit rien;</p>
+                  <p rend="justify">»Vraiment je vous le défends bien.</p>
+                  <p rend="justify">»Dans vos yeux je lis votre audace,</p>
+                  <p rend="justify">»Vos regards dévorent mon sein;</p>
+                  <p rend="justify">»Vous allez y porter la main,</p>
+                  <p rend="justify">»Votre bouche en prendra la place;</p>
+                  <p rend="justify">»Mais non, Monsieur, n'en faites rien;</p>
+                  <p rend="justify">»Vraiment je vous le défends bien.</p>
+                  <p rend="justify">»Mais que vois-je? ma jarretière</p>
+                  <p rend="justify">»Se défait et tombe à mes pieds;</p>
+                  <p rend="justify">»Souffrir que vous la rattachiez!</p>
+                  <p rend="justify">»Oh! pour cela je suis trop fière!</p>
+                  <p rend="justify">»Non, non, Monsieur, n'en faites rien;</p>
+                  <lg>
+                     <l>»Vraiment je vous le défends bien.»</l>
+                     <l>Comprenant enfin la défense,</l>
+                     <l>Par degré Damon s'enhardit,</l>
+                     <l>A la belle il désobéit,</l>
+                     <l>Pour prouver son obéissance.</l>
+                     <l>Jusques au bout il fit si bien,</l>
+                     <l>Qu'on ne lui défendit plus rien.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LE DÉGEL</head>
+                  <lg>
+                     <l>Un jour d'hiver Robin, tout éperdu,</l>
+                     <l>Vint à Catin présenter sa requête,</l>
+                     <l>Pour dégeler son chose morfondu,</l>
+                     <l>Qui ne pouvoit quasi lever la tête.</l>
+                     <l>Incontinent Catin fut toute prête;</l>
+                     <l>Robin aussi prend courage et s'accroche;</l>
+                     <l>On se remue, on se joue, on se hoche.</l>
+                     <l>Puis quand ce vint au naturel devoir,</l>
+                     <l>«Ah!» dit Catin, «le grand dégel approche!</l>
+                     <l>»—Oui,» répond-il, «je sens qu'il va pleuvoir.»</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>HISTOIRE VÉRITABLE ET REMARQUABLE D'UN ABBÉ</head>
+                  <p rend="justify">Qui avoit donné un rendez-vous à une femme mariée; le mari, instruit de ce rendez-vous, mit à sa chaste épouse une ceinture fort usitée en Italie.</p>
+                  <p rend="justify">Air: <hi rend="italic">Tarare, pon, pon.</hi>
+                  </p>
+                  <p rend="justify">C'est approchant comm' ça,</p>
+                  <p rend="justify">Vers Novembre</p>
+                  <p rend="justify">Ou Décembre,</p>
+                  <p rend="justify">Que Flore me donna</p>
+                  <p rend="justify">Un rendez-vous pour ça.</p>
+                  <p rend="justify">En entrant dans sa chambre,</p>
+                  <p rend="justify">Flore dit: «Ah! pour ça,</p>
+                  <p rend="justify">»Ah! l'abbé, sent-on l'ambre</p>
+                  <p rend="justify">»Comm' ça?»</p>
+                  <p rend="justify">—«La Dulac[1]  est comm' ça,»</p>
+                  <p rend="justify">Réplique</p>
+                  <p rend="justify">L'Abbé R'lique;</p>
+                  <p rend="justify">«Mais son ambre a cela</p>
+                  <p rend="justify">»De me rendre comm' ça.</p>
+                  <p rend="justify">»—Abbé,» dit-elle, «unique,</p>
+                  <p rend="justify">»L'on ne voit sonica,</p>
+                  <p rend="justify">»Qu'un Ecclésiastique</p>
+                  <p rend="justify">»Comm' ça.</p>
+                  <p rend="justify">»Je ne suis pas comm' ça,</p>
+                  <p rend="justify">»Si preste:</p>
+                  <p rend="justify">»Malepeste!</p>
+                  <p rend="justify">»Mon mari jaloux m'a</p>
+                  <p rend="justify">»Mise en cage comm' ça;</p>
+                  <p rend="justify">»La ceinture funeste</p>
+                  <p rend="justify">»Que vous me voyez là,</p>
+                  <p rend="justify">»Vous interdit un geste</p>
+                  <p rend="justify">»Comm' ça.»</p>
+                  <p rend="justify">—«Je n'ai rien vu comm' ça;</p>
+                  <p rend="justify">»Le traître!»</p>
+                  <p rend="justify">Dit le Prêtre,</p>
+                  <p rend="justify">«Ce chien de mari-là!</p>
+                  <p rend="justify">»Gêner un cœur comm' ça!</p>
+                  <p rend="justify">»Sans que j'en sois le maître.</p>
+                  <p rend="justify">»Cette vue a déjà</p>
+                  <p rend="justify">»Fait que je cesse d'être</p>
+                  <p rend="justify">»Comm' ça.»</p>
+                  <p rend="justify">—«Une histoire comm' ça,»</p>
+                  <p rend="justify">Dit la Belle,</p>
+                  <p rend="justify">«Est nouvelle;</p>
+                  <p rend="justify">»Quel tour plaisant c'est là!</p>
+                  <p rend="justify">»L'Abbé, j'en ris comm' ça.»</p>
+                  <p rend="justify">L'abbé, riant comme elle,</p>
+                  <p rend="justify">Fait ses adieux, s'en va,</p>
+                  <p rend="justify">Laissant la Demoiselle</p>
+                  <p rend="justify">Comm' ça.</p>
+                  <p rend="justify">[1]  Marchande renommée pour les odeurs et les parfums.</p>
+               </div>
+               <div type="div3">
+                  <head>L'EXPÉDIENT FACILE</head>
+                  <p rend="justify">Martin étoit dedans un bois taillis</p>
+                  <p rend="justify">Avec Alix, qui, de tendre manière,</p>
+                  <p rend="justify">Lui dit: «Martin, le long de ces palis,</p>
+                  <p rend="justify">»Ta mie Alix d'amour te fait prière.</p>
+                  <p rend="justify">»—Mais,» dit Martin, «si quelqu'un par derrière</p>
+                  <p rend="justify">»Nous surprenoit, ce seroit grand vergogne?</p>
+                  <p rend="justify">»—Bon, bon! du cul vous ferez signe arrière,</p>
+                  <p rend="justify">»Passez chemin, laissez faire besogne.»</p>
+               </div>
+               <div type="div3">
+                  <head>ON FAIT CE QU'ON PEUT</head>
+                  <lg>
+                     <l>Blaise, dont jadis le crédit</l>
+                     <l>Voloit de Paris jusqu'au Gange,</l>
+                     <l>Est plus déchu que l'on ne dit.</l>
+                     <l>Il s'endette du pain qu'il mange;</l>
+                     <l>Et Catin, pour gagner de quoi</l>
+                     <l>Mettre une chemise sur soi,</l>
+                     <l>Lui met des cornes sur la tête:</l>
+                     <l>Voyez quelle diversité!</l>
+                     <l>Pour chasser la nécessité,</l>
+                     <l>Blaise emprunte, et sa femme prête.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LE QUIPROQUO OU COLIN-MAILLARD</head>
+                  <lg>
+                     <l>Un jour deux Capucins, l'un père et l'autre Frère,</l>
+                     <l>En regagnant Paris, passoient par Bagnolet;</l>
+                     <l>Les filles, ce jour-là, pour fêter Sainte Claire,</l>
+                     <l>S'égayoient et dansoient au son du flageolet.</l>
+                     <l>«—Mes compagnes,» s'écria Rose,</l>
+                     <l>«D'un excellent projet je veux vous faire part:</l>
+                     <l>»Voilà Frère François, avec Père Bernard;</l>
+                     <l>»Qu'on les fasse approcher, et puis qu'on leur propose</l>
+                     <l>»De jouer à Colin-Maillard;</l>
+                     <l>»Je gage mon sabot qu'ils acceptent la chose.»</l>
+                     <l>Rose savoit de bonne part</l>
+                     <l>Que jamais Capucins ne craignirent la glose.</l>
+                     <l>On les appela donc, et le couple gaillard</l>
+                     <l>Eut bientôt mis besace et bâton à l'écart.</l>
+                     <l>Ils tirèrent au sort, à ce que dit l'histoire;</l>
+                     <l>L'un étoit jeune, l'autre vieux,</l>
+                     <l>Et grâce à la bonté notoire</l>
+                     <l>De l'être prévoyant qui fait tout pour le mieux,</l>
+                     <l>Le sort échut au jeune, on lui banda les yeux.</l>
+                     <l>Vous le voyez d'ici tourner à l'aveuglette,</l>
+                     <l>Aller à droite, à gauche, à grands, à petits pas,</l>
+                     <l>Les deux jarrets tendus aussi bien que les bras,</l>
+                     <l>Et le corps en avant comme un Chasseur qui guette.</l>
+                     <l>Il avoit tant tourné qu'enfin il étoit las,</l>
+                     <l>Quand par bonheur une fillette</l>
+                     <l>Vint le tirer par sa jaquette;</l>
+                     <l>C'étoit Rose, il la jette à bas;</l>
+                     <l>Et portant une main légère</l>
+                     <l>A certain endroit défendu:</l>
+                     <l>«C'est vous!» dit-il, «Révérend Père,</l>
+                     <l>»Votre barbe vous a vendu.»</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>L'INOCULATION</head>
+                  <p rend="justify">CONTE</p>
+                  <p rend="justify">«La petite vérole est un mal, belle Agnès,</p>
+                  <p rend="justify">»Dont, passé dix-huit ans, on ne guérit jamais,»</p>
+                  <p rend="justify">Dit un jeune Esculape, «ou du moins, c'est bien rare;</p>
+                  <p rend="justify">»Vous en avez quatorze; à mes soins fiez-vous,</p>
+                  <p rend="justify">»Que d'un poison traître et barbare</p>
+                  <p rend="justify">»Je sauve avec vos jours des charmes aussi doux;</p>
+                  <p rend="justify">»Souffrez enfin… que je vous inocule.</p>
+                  <p rend="justify">»—Oh! vous me ferez mal.—Très peu.</p>
+                  <p rend="justify">»Vous verrez que ce n'est qu'un jeu;</p>
+                  <p rend="justify">»Votre frayeur est ridicule.</p>
+                  <p rend="justify">»—A demain.—Aujourd'hui.—Non, non—Soit, à demain.»</p>
+                  <p rend="justify">Le lendemain, Agnès toujours tremble et résiste;</p>
+                  <p rend="justify">Notre inoculateur, comme on le croit, persiste;</p>
+                  <p rend="justify">Il fait l'insertion autre part que Tronchin.</p>
+                  <p rend="justify">Agnès crie, ensuite se prête</p>
+                  <p rend="justify">A ses efforts. L'opération faite,</p>
+                  <p rend="justify">—«Que n'allez-vous,» dit-elle, «votre train?</p>
+                  <p rend="justify">»Vous n'auriez qu'à m'avoir manquée!»</p>
+                  <p rend="justify">Il double, il triple, il cesse.—«Encore un autre grain,</p>
+                  <p rend="justify">»Quand j'en devrois être marquée!»</p>
+               </div>
+               <div type="div3">
+                  <head>LA MUETTE</head>
+                  <p rend="justify">CHANSON</p>
+                  <p rend="justify">Air: <hi rend="italic">Je vous prêterai mon manchon.</hi>
+                  </p>
+                  <p rend="justify">Dans un bosquet, près de Lisette,</p>
+                  <p rend="justify">Colin parloit de ses amours;</p>
+                  <p rend="justify">La belle faisoit la muette,</p>
+                  <p rend="justify">Par signe approuvant son discours.</p>
+                  <p rend="justify">«Que dois-je,» dit-il, «penser de ce geste;</p>
+                  <p rend="justify">»Si ton cœur ne me dit le reste?</p>
+                  <p rend="justify">»Mais, Mamzelle Louison, répondez donc,</p>
+                  <p rend="justify">»Dites oui ou non,</p>
+                  <p rend="justify">»Comment trouvez-vous ça?</p>
+                  <p rend="justify">»Suis-je bien là?</p>
+                  <p rend="justify">»Comment trouvez-vous ça?»</p>
+                  <p rend="justify">Dans son silence elle s'obstine;</p>
+                  <p rend="justify">Colin, pour la faire jaser,</p>
+                  <p rend="justify">Sur la bouche de la mutine</p>
+                  <p rend="justify">Prend et reprend un doux baiser.</p>
+                  <p rend="justify">«Je sens,» dit-il, «qu'il augmente ma flamme;</p>
+                  <p rend="justify">»Mon feu passe-t-il dans ton âme?</p>
+                  <p rend="justify">»Mais, Mamzelle Louison, etc.»</p>
+                  <p rend="justify">«Ma foi je n'y puis rien comprendre,»</p>
+                  <p rend="justify">Dit-il, en découvrant son sein;</p>
+                  <p rend="justify">«Quoi! faut-il, pour te faire entendre,</p>
+                  <p rend="justify">»Promener là-dessus ma main?</p>
+                  <p rend="justify">»Je vois, je sens que mon âme est joyeuse;</p>
+                  <p rend="justify">»Ah! tu n'es donc pas chatouilleuse?</p>
+                  <p rend="justify">»Mais, Mamzelle Louison, etc.»</p>
+                  <p rend="justify">Pas un mot, pas une parole.</p>
+                  <p rend="justify">«Ma foi,» dit-il, «tu parleras;</p>
+                  <p rend="justify">»Je suis pressé, le temps s'envole.»</p>
+                  <p rend="justify">Soudain il la prend dans ses bras.</p>
+                  <p rend="justify">Puis avec elle il tombe sur l'herbette:</p>
+                  <p rend="justify">«Eh bien! à qui tient-il, Lisette?…</p>
+                  <p rend="justify">»Mais, Mamzelle Louison, etc.»</p>
+                  <p rend="justify">Lise, d'un œil mourant et tendre.</p>
+                  <p rend="justify">De Colin imite l'ardeur;</p>
+                  <p rend="justify">Et sans songer à se défendre</p>
+                  <p rend="justify">Souffrit qu'il fût trois fois vainqueur.</p>
+                  <p rend="justify">«Eh bien!» dit-il, «sens-tu comme je t'aime,</p>
+                  <p rend="justify">»A présent m'aimes-tu de même?</p>
+                  <p rend="justify">»Mais, Mamzelle Louison, etc.»</p>
+                  <p rend="justify">—«Ah! fort bien!» lui répond Lisette,</p>
+                  <p rend="justify">Laissant échapper un soupir;</p>
+                  <p rend="justify">»Le désir me rendoit muette,</p>
+                  <p rend="justify">»Mais je parle, grâce au plaisir.</p>
+                  <p rend="justify">»Ami, tu peux à présent sans obstacle</p>
+                  <p rend="justify">»M'interroger.—Ah, quel miracle!</p>
+                  <p rend="justify">»Quoi! Mamzelle Louison, vous parlez donc?</p>
+                  <p rend="justify">»Le tour est bon;</p>
+                  <p rend="justify">»Vous parlerez demain</p>
+                  <p rend="justify">»Avec Colin,</p>
+                  <p rend="justify">»Vous parlerez demain.»</p>
+               </div>
+               <div type="div3">
+                  <head>L'OBSTACLE</head>
+                  <p rend="justify">CONTE</p>
+                  <lg>
+                     <l>A quoi bon prodiguer les mots?</l>
+                     <l>Tous nos Conteurs, pour l'ordinaire,</l>
+                     <l>S'épuisent en avant-propos;</l>
+                     <l>N'en faisons point, allons droit à l'affaire.</l>
+                     <l>Un Jouvenceau taillé pour plaire,</l>
+                     <l>Après avoir bien soupiré,</l>
+                     <l>Menti, promis et conjuré</l>
+                  </lg>
+                  <p rend="justify">(C'est des amants le langage vulgaire),</p>
+                  <lg>
+                     <l>Parvint près de sa belle au moment désiré:</l>
+                     <l>Il touchoit à son but, quand, par triste aventure,</l>
+                     <l>Sans pouvoir avancer d'un pas,</l>
+                     <l>Il se démène, il souffle, il sue, il jure;</l>
+                     <l>On peut, je crois jurer en pareil cas.</l>
+                     <l>Disons le fait: Dame Nature</l>
+                     <l>Avoit fermé d'amour la gentille serrure,</l>
+                     <l>Si bien que la clef n'entroit pas.</l>
+                     <l>Certain barreau… mais on m'entend de reste;</l>
+                     <l>Qu'Amour, jeunes beautés, veuille vous préserver</l>
+                     <l>D'un accident aussi funeste!</l>
+                     <l>Ainsi soit-il. Venons à notre Amant:</l>
+                     <l>Le désir de ses sens par l'obstacle s'enflamme.</l>
+                     <l>Il redouble d'efforts, mais inutilement;</l>
+                     <l>D'amour et de colère il enrage en son âme:</l>
+                     <l>On peut se fourvoyer, quand on marche à tâton.</l>
+                     <l>Son chalumeau, déjà baissant d'un ton,</l>
+                     <l>Dans le sentier voisin… Arrêtons, et pour cause:</l>
+                     <l>Car ce sentier… ma foi, je n'ose</l>
+                     <l>Vous le nommer; mais je peux, sans qu'on glose,</l>
+                     <l>Dire que sa Vénus ne fut plus qu'un Giton.</l>
+                     <l>A ce nouvel assaut n'étant point préparée,</l>
+                     <l>En vain la belle <hi rend="italic">imperforée</hi>
+                     </l>
+                     <l>Lui crie: «Arrêtez donc, quel est votre dessein?</l>
+                     <l>»—Rien de plus simple que la chose,»</l>
+                     <l>Répond le gars; «chez vous je trouve porte close:</l>
+                     <l>»J'écris mon nom chez le voisin.»</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LE TRIBUT CONJUGAL</head>
+                  <p rend="justify">La Marquise de Montuza</p>
+                  <p rend="justify">Étant presque sexagénaire,</p>
+                  <p rend="justify">Aimoit un jeune Mousquetaire</p>
+                  <p rend="justify">Qui, pour ses écus, l'épousa.</p>
+                  <p rend="justify">La première nuit le compère</p>
+                  <p rend="justify">Lui dit, en lui serrant la main:</p>
+                  <p rend="justify">«Madame, en vertu de l'hymen</p>
+                  <p rend="justify">»Ne puis-je pas, sans vous déplaire…?</p>
+                  <p rend="justify">»Vous m'entendez…—Oui mon poulet,</p>
+                  <p rend="justify">»Fais tout ce que tu voudras faire…»</p>
+                  <p rend="justify">Le Mousquetaire fit un pet.</p>
+               </div>
+               <div type="div3">
+                  <head>LE CONSEIL INUTILE</head>
+                  <p rend="justify">«Madame, il se répand un bruit qui vous outrage:</p>
+                  <p rend="justify">»Monsieur le Président, dit-on,</p>
+                  <p rend="justify">»Sans respecter les nœuds du mariage,</p>
+                  <p rend="justify">»Tous les jours en secret fait un petit Giton</p>
+                  <p rend="justify">»Du Chevalier qui de votre maison</p>
+                  <p rend="justify">»Occupe le troisième étage.</p>
+                  <p rend="justify">»Chassez donc, croyez-moi, ce vilain personnage,</p>
+                  <p rend="justify">»Pour fermer la bouche aux railleurs,</p>
+                  <p rend="justify">»Et surtout pour votre avantage:</p>
+                  <p rend="justify">»Votre époux ne doit pas aller répandre ailleurs</p>
+                  <p rend="justify">»Un bien qui n'est qu'à votre usage.</p>
+                  <p rend="justify">»—C'est bien dit: cependant si vous le trouvez bon,</p>
+                  <p rend="justify">»Madame, vos conseils n'auront pas mon suffrage;</p>
+                  <p rend="justify">»Vous ne connaissez pas le Chevalier Cléon:</p>
+                  <p rend="justify">»Ce bon ami, cet honnête garçon</p>
+                  <p rend="justify">»Ne veut rien avoir à personne;</p>
+                  <p rend="justify">»Il n'est pas tel qu'il vous paroît,</p>
+                  <p rend="justify">»Il me rend avec intérêt</p>
+                  <p rend="justify">»Ce que le Président lui donne.»</p>
+               </div>
+               <div type="div3">
+                  <head>LA CONFIDENCE</head>
+                  <p rend="justify">«Babet, vous avez du chagrin?</p>
+                  <p rend="justify">»—Oui vraiment, je suis désolée.</p>
+                  <p rend="justify">»—Et de quoi?—De ce que Martin</p>
+                  <lg>
+                     <l>»Cet hiver-ci m'a violée.</l>
+                     <l>»—Ciel…! contez-moi vite cela.</l>
+                     <l>»—Ah! Monsieur, c'étoit un Dimanche:</l>
+                     <l>J'avois mis, ce Dimanche-là,</l>
+                     <l>Une jupe de Perse blanche;</l>
+                     <l>Martin me vit et m'appela.</l>
+                     <l>Le traître étoit dans une grange,</l>
+                     <l>J'y fus sans trop savoir pourquoi.</l>
+                     <l>«Babet,» me dit-il, «sur ma foi,</l>
+                     <l>»Vous êtes belle comme un Ange!»</l>
+                     <l>Lors il me mena dans un coin,</l>
+                     <l>Et là près d'un grand tas de foin,</l>
+                     <l>De beaux compliments il me berce.</l>
+                     <l>Je riois: il me saute au cou,</l>
+                     <l>Me fait tomber à la renverse,</l>
+                     <l>Et puis prenant je ne sais où</l>
+                     <l>Un… chose roide comme un clou:</l>
+                     <l>«Lève,» me dit-il, «ou je perce!»</l>
+                     <l>Je levai ma jupe de Perse,</l>
+                     <l>De crainte qu'il n'y fît un trou.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LE CHAPELAIN</head>
+                  <p rend="justify">CHANSON</p>
+                  <lg>
+                     <l>Sur l'Air: <hi rend="italic">Ne vlà-t-il pas que j'aime.</hi>
+                     </l>
+                     <l>Il me falloit faire une fin</l>
+                     <l>Comme tout bon Apôtre;</l>
+                     <l>Je suis devenu Chapelain,</l>
+                     <l>Ce poste en vaut un autre.</l>
+                     <l>Iris m'offroit à desservir</l>
+                     <l>Sa gentille Chapelle:</l>
+                     <l>Je n'ai jamais su qu'obéir</l>
+                     <l>Aux ordres d'une belle.</l>
+                     <l>Elle est au fond d'un bois couvert,</l>
+                     <l>Gardé par le mystère;</l>
+                     <l>Son sanctuaire n'est ouvert</l>
+                     <l>Qu'à mon seul ministère.</l>
+                     <l>Un double autel de marbre blanc</l>
+                     <l>Est de sa dépendance;</l>
+                     <l>Mais ce bénéfice important</l>
+                     <l>Oblige à résidence.</l>
+                     <l>Sans Vicaire, de jour, de nuit,</l>
+                     <l>Suivant les anciens rites,</l>
+                     <l>Je fais l'office à petit bruit</l>
+                     <l>Avec deux Acolytes.</l>
+                     <l>Quoi qu'en puissent dire les gens,</l>
+                     <l>Même aux Fêtes de Vierge,</l>
+                     <l>Dans ma Chapelle, en tous les temps,</l>
+                     <l>Je n'allume qu'un cierge.</l>
+                     <l>Gros Prieurs et brillants Prélats</l>
+                     <l>Tout engraissés d'offrande,</l>
+                     <l>Non, non, je ne troquerois pas</l>
+                     <l>Avec vous de Prébende.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LE MARCHAND DE LOTO</head>
+                  <p rend="justify">ÉTRENNES AUX DAMES</p>
+                  <lg>
+                     <l>A mon loto, soir et matin,</l>
+                     <l>Sous vos doigts un brillant destin</l>
+                     <l>Portera des boules heureuses;</l>
+                     <l>Ce que j'assure, je le sais:</l>
+                     <l>Si vous en êtes curieuses,</l>
+                     <l>Mesdames, faites-en l'essai</l>
+                     <l>A mon loto.</l>
+                     <l>Un peu de secours fait grand bien;</l>
+                     <l>Tant soit peu d'art ne nuit à rien,</l>
+                     <l>Il faut quelquefois s'en permettre;</l>
+                     <l>C'est mon avis; on ne sauroit</l>
+                     <l>Le dédaigner et se promettre</l>
+                     <l>Tout l'avantage qu'on auroit</l>
+                     <l>A mon loto.</l>
+                     <l>Jamais une joueuse habile</l>
+                     <l>Ne tint son sachet immobile:</l>
+                     <l>Il faut l'agiter prestement.</l>
+                     <l>Il faut que mollement pressée</l>
+                     <l>Entre ses doigts légèrement</l>
+                     <l>La boule ait été caressée,</l>
+                     <l>A mon loto.</l>
+                     <l>Selon son goût ou son talent,</l>
+                     <l>On a le tirer prompt ou lent:</l>
+                     <l>Il n'y faut aucune science,</l>
+                     <l>Ou s'il en faut, il en faut peu;</l>
+                     <l>Un quart d'heure d'expérience</l>
+                     <l>Suffit pour bien jouer le jeu,</l>
+                     <l>A mon loto.</l>
+                     <l>De celles qu'un ambe contente.</l>
+                     <l>Il se plaît à tromper l'attente,</l>
+                     <l>Fi de l'ambe! il est trop commun.</l>
+                     <l>D'un terne la chance est mesquine;</l>
+                     <l>D'un terne? Oui, de deux jours l'un,</l>
+                     <l>Je puis vous répondre d'un quine,</l>
+                     <l>A mon loto.</l>
+                     <l>Au quaterne, par accident,</l>
+                     <l>S'il se réduit en attendant,</l>
+                     <l>La perte est bientôt réparée.</l>
+                     <l>Le jour qui suit ce jour fatal,</l>
+                     <l>On peut compter sur la rentrée</l>
+                     <l>De l'intérêt du capital,</l>
+                     <l>A mon loto.</l>
+                     <l>Mais de la superbe machine</l>
+                     <l>Le pouvoir merveilleux décline</l>
+                     <l>De jour en jour; c'est son défaut.</l>
+                     <l>Je vous en préviens, blonde, ou brune;</l>
+                     <l>Vous n'avez que le temps qu'il faut,</l>
+                     <l>Si vous voulez faire fortune</l>
+                     <l>A mon loto.</l>
+                     <l>Ma demeure est à Vaugirard,</l>
+                     <l>Tout vis-à-vis maître Abélard,</l>
+                     <l>Qui montre aux enfants la musique:</l>
+                     <l>L'on se pourvoit, ou l'on souscrit.</l>
+                     <l>Sous mon enseigne magnifique,</l>
+                     <l>En lettres d'or, il est écrit:</l>
+                  </lg>
+                  <p rend="justify">AU GRAND LOTO.</p>
+               </div>
+               <div type="div3">
+                  <head>LE LENDEMAIN DES NOCES</head>
+                  <p rend="justify">FOLIE DIALOGUÉE</p>
+                  <p rend="justify">«Hier soir, ma chère maman,</p>
+                  <p rend="justify">»Tout bas vous me fîtes entendre</p>
+                  <p rend="justify">»Que la nuit je devois m'attendre</p>
+                  <p rend="justify">»A passer un mauvais moment.</p>
+                  <p rend="justify">»Tout en tremblant, pauvre innocente,</p>
+                  <p rend="justify">»J'attendois cet instant fatal…</p>
+                  <p rend="justify">»Hélas! le bon Monsieur Chrysante</p>
+                  <p rend="justify">»Ne m'a pas fait le moindre mal.</p>
+                  <p rend="justify">»—Est-il vrai, ma fille?—Au contraire,</p>
+                  <p rend="justify">»Il ne m'a fait que du plaisir.</p>
+                  <p rend="justify">»Quand nous fûmes au lit: Ma chère,</p>
+                  <p rend="justify">»Je puis t'embrasser à loisir,</p>
+                  <p rend="justify">»Dit-il; aussitôt il me baise</p>
+                  <p rend="justify">»Sur chaque joue… et même…—Eh bien,</p>
+                  <p rend="justify">»Comment tu rougis, ma Thérèse?…</p>
+                  <p rend="justify">»Qu'a-t-il fait? ne me cache rien.</p>
+                  <p rend="justify">»—Vous m'aviez, qu'il vous en souvienne,</p>
+                  <p rend="justify">»Défendu de rien refuser…</p>
+                  <p rend="justify">»—Sans doute. Auroit-il?…—Sur la mienne</p>
+                  <p rend="justify">»Sa bouche prit un doux baiser.</p>
+                  <p rend="justify">»—Et puis?…—Il me dit à l'oreille:</p>
+                  <p rend="justify">»Bonsoir, et s'endormit soudain.</p>
+                  <p rend="justify">»—Ma pauvre enfant!… Et ce matin?</p>
+                  <p rend="justify">»—Ah! plus tendre encor que la veille.</p>
+                  <p rend="justify">»II me dit d'un air caressant:</p>
+                  <p rend="justify">»Ma chère femme, je t'adore,</p>
+                  <p rend="justify">»Et me le prouve en m'embrassant.</p>
+                  <p rend="justify">»—Et puis?…—Puis il m'embrasse encore.</p>
+                  <p rend="justify">»—Ensuite?—Du lit il descend,</p>
+                  <p rend="justify">»Afin, dit-il, que je repose:</p>
+                  <p rend="justify">»Peut-on être plus complaisant?</p>
+                  <p rend="justify">»—Il ne t'a pas fait autre chose?</p>
+                  <p rend="justify">»—Eh! non; c'est l'homme le plus doux:</p>
+                  <p rend="justify">»Maman, vous lui faites injure…</p>
+                  <p rend="justify">»Quoi! vous pleurez?… Mais je vous jure</p>
+                  <p rend="justify">»Que je n'ai pas de mon époux</p>
+                  <p rend="justify">»Reçu la moindre égratignure!»</p>
+               </div>
+               <div type="div3">
+                  <head>LE CONFESSEUR EXEMPLAIRE</head>
+                  <p rend="justify">Au temps de Pâque, aux pieds de Père Jule,</p>
+                  <p rend="justify">Se confessoit un jeune Garnement,</p>
+                  <p rend="justify">Et des péchés dont fait dénombrement,</p>
+                  <p rend="justify">Cil de Sodome honoroit la cédule.</p>
+                  <p rend="justify">—«Qu'ai-je entendu! Ciel! quel égarement</p>
+                  <p rend="justify">»Que de pécheurs aux infernales flammes,</p>
+                  <p rend="justify">»Livrés pour ce dont vous vous accusez!</p>
+                  <p rend="justify">»Défaites-vous de ces amours infâmes,</p>
+                  <p rend="justify">»De notre sexe, ô mon cher fils, n'usez,</p>
+                  <p rend="justify">»Et, comme moi, ne voyez que des femmes.»</p>
+               </div>
+               <div type="div3">
+                  <head>L'ESPRIT FORT</head>
+                  <p rend="justify">CONTE</p>
+                  <p rend="justify">Aux pieds d'un Directeur, Climène, un beau matin,</p>
+                  <p rend="justify">Avec un repentir sincère,</p>
+                  <p rend="justify">Déclara nettement que le petit Colin</p>
+                  <p rend="justify">N'étoit pas le fils de son père.</p>
+                  <p rend="justify">—«Halte là!» dit le Confesseur,</p>
+                  <p rend="justify">«Pour un <hi rend="italic">Confiteor</hi>  vous n'en serez pas quitte;</p>
+                  <p rend="justify">»Il en faut deux au moins, ce crime fait horreur.</p>
+                  <p rend="justify">»Faut-il qu'injustement votre enfant déshérite</p>
+                  <p rend="justify">»Un légitime successeur?</p>
+                  <p rend="justify">»Il faut, Madame, vous résoudre</p>
+                  <p rend="justify">»A confesser le fait à votre époux,</p>
+                  <p rend="justify">»Sans quoi je ne puis vous absoudre.»</p>
+                  <p rend="justify">L'avouer ne se pouvoit pas.</p>
+                  <p rend="justify">La voilà dans un embarras</p>
+                  <p rend="justify">Qu'on ne peut exprimer, car enfin l'aventure</p>
+                  <p rend="justify">Étoit à digérer trop dure.</p>
+                  <p rend="justify">Il fallut succomber, et, d'un mortel chagrin,</p>
+                  <p rend="justify">Tomber dans une maladie</p>
+                  <p rend="justify">Qui pensa lui coûter la vie.</p>
+                  <p rend="justify">Sur le rapport du Médecin,</p>
+                  <p rend="justify">Son époux connoissant que la mélancolie</p>
+                  <p rend="justify">Alloit couper la trame de ses jours,</p>
+                  <p rend="justify">La pria d'en dire la cause.</p>
+                  <p rend="justify">Elle veut l'en instruire, et jamais elle n'ose.</p>
+                  <p rend="justify">—«Ose tout,» dit-il, «mes amours:</p>
+                  <p rend="justify">«Rien ne me déplaira, pourvu qu'on te guérisse;</p>
+                  <p rend="justify">»Quoi! faut-il qu'un secret te donne la jaunisse,</p>
+                  <p rend="justify">»Et qu'une femme meure, à faute de parler?</p>
+                  <p rend="justify">»Cela seroit nouveau.—Je vais tout révéler,</p>
+                  <p rend="justify">»Puisqu'aussi bien,» dit-elle, «un repos favorable</p>
+                  <p rend="justify">»Doit terminer bientôt mon état déplorable.</p>
+                  <p rend="justify">»J'étois à la maison des champs,</p>
+                  <p rend="justify">»Où je faisois la ménagère,</p>
+                  <p rend="justify">»Quand la voisine Alix, par des discours touchants,</p>
+                  <p rend="justify">»Auxquels on ne résiste guère,</p>
+                  <p rend="justify">»Me prouva qu'avoir des enfants</p>
+                  <p rend="justify">»Étoit à vous chose impossible;</p>
+                  <p rend="justify">»Me prôna les malheurs de la stérilité,</p>
+                  <p rend="justify">»Qui chez les Juifs passoit pour un défaut terrible;</p>
+                  <p rend="justify">»Puis dans un jour charmant me fit voir la beauté</p>
+                  <p rend="justify">»D'une heureuse fécondité.</p>
+                  <p rend="justify">»Je me rendis, hélas! à cette douce amorce,</p>
+                  <p rend="justify">»Et Lucas, le Valet de notre Métayer,</p>
+                  <p rend="justify">»Avec moi se trouvant un jour dans le grenier,</p>
+                  <p rend="justify">»Je me souvins d'Alix, et je manquai de force.</p>
+                  <p rend="justify">»Il est, cela soit dit sans vous mettre en courroux,</p>
+                  <p rend="justify">»A faire des enfants plus habile que vous.</p>
+                  <p rend="justify">»Je lui parlai d'amour, il comprit mon langage,</p>
+                  <p rend="justify">»Et sur un sac de blé, sac funeste et maudit!</p>
+                  <p rend="justify">»Faut-il en dire davantage?</p>
+                  <p rend="justify">»De ce malheureux sac, notre Colin sortit.</p>
+                  <p rend="justify">»A Lucas je donnai, je pense,</p>
+                  <p rend="justify">»Quelques boisseaux de blé pour toute récompense.</p>
+                  <p rend="justify">»Si je vous ai trahi, je meurs, pardonnez-moi;</p>
+                  <p rend="justify">»A cela près, toujours je vous gardai ma foi.</p>
+                  <p rend="justify">»—N'est-ce pas de mon blé que tu payas l'ouvrage?»</p>
+                  <p rend="justify">Lui répondit Damis, nullement effrayé.</p>
+                  <p rend="justify">«Cet enfant est à moi, puisque je l'ai payé;</p>
+                  <p rend="justify">»Ne m'en parle pas davantage.»</p>
+               </div>
+               <div type="div3">
+                  <head>COUPLET</head>
+                  <p rend="justify">Sur l'air de <hi rend="italic">Nina</hi>.</p>
+                  <p rend="justify">Après avoir fourni trois fois</p>
+                  <p rend="justify">L'amoureuse carrière,</p>
+                  <p rend="justify">Le pauvre Colin aux abois</p>
+                  <p rend="justify">Ne pouvoit plus rien faire.</p>
+                  <p rend="justify">Sa Maîtresse, ainsi le voyant,</p>
+                  <p rend="justify">S'écria tout en pleurant:</p>
+                  <p rend="justify">«Ah! quel tourment,</p>
+                  <p rend="justify">»Quand l'instrument</p>
+                  <p rend="justify">»Duquel le plaisir dépend,</p>
+                  <p rend="justify">»Pend!»</p>
+               </div>
+               <div type="div3">
+                  <head>ÉPIGRAMME</head>
+                  <lg>
+                     <l>Un jour Fanchon la Couturière</l>
+                     <l>Acheta d'un Fripier un lit pour vingt écus;</l>
+                     <l>Elle a gagné, dit-on, deux cents louis dessus:</l>
+                     <l>Ah! c'est une grande usurière!</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LE CAS DÉCIDÉ</head>
+                  <p rend="justify">Un jeune Peintre au Prieur des Grands-Carmes</p>
+                  <p rend="justify">Vint s'accuser d'un cas assez nouveau:</p>
+                  <p rend="justify">«Père, j'ai peint Vénus sortant de l'eau,</p>
+                  <p rend="justify">»Ses bras, son cul, sa gorge et tous ses charmes.</p>
+                  <p rend="justify">»D'abord j'en fus amoureux comme un fou;</p>
+                  <p rend="justify">»Et, pour jouir un peu mieux qu'en peinture,</p>
+                  <p rend="justify">»Je m'avisai…—De quoi?—De faire un trou</p>
+                  <p rend="justify">»Dans ma Déesse, et par cette ouverture,</p>
+                  <p rend="justify">»Un beau garçon que je mis en posture,</p>
+                  <p rend="justify">»M'introduisit, vous devinez bien où.</p>
+                  <p rend="justify">»Or, estimez la chose en conscience.</p>
+                  <p rend="justify">»En tout ceci, mon principal dessein</p>
+                  <p rend="justify">»Fut de jouir d'un objet féminin:</p>
+                  <p rend="justify">»Le péché n'est de Rome ou de Florence.</p>
+                  <p rend="justify">»—Mon cher enfant, je comprends votre cas,»</p>
+                  <p rend="justify">Dit le Pater; «la plaisante folie!</p>
+                  <p rend="justify">»Je vous absous, mais n'y retournez pas,</p>
+                  <p rend="justify">»Car, dans le fond, c'est pure bougrerie.»</p>
+               </div>
+               <div type="div3">
+                  <head>LE FAUX JUPITER</head>
+                  <p rend="justify">J'ai toujours craint les gens portant soutane;</p>
+                  <p rend="justify">D'un saint habit couvrant un cœur profane,</p>
+                  <p rend="justify">Que de bons tours ces Messieurs-là nous font!</p>
+                  <p rend="justify">Séduire Agnès, planter cornes au front,</p>
+                  <p rend="justify">Ce sont pour eux misères, peccadilles.</p>
+                  <p rend="justify">O gens de bien ayant femmes ou filles!</p>
+                  <p rend="justify">N'oubliez pas ce salutaire avis:</p>
+                  <p rend="justify">Si par malheur entre en votre logis</p>
+                  <p rend="justify">Homme d'Église, ou Capucin, ou Prêtre,</p>
+                  <p rend="justify">Je vous le dis: chassez vite le traître;</p>
+                  <p rend="justify">Il vient chercher aventure pour lui,</p>
+                  <p rend="justify">Ou bien peut-être intriguer pour autrui.</p>
+                  <p rend="justify">D'un vilain nom ce dernier cas s'appelle;</p>
+                  <p rend="justify">Mais à l'honneur la cafarde séquelle</p>
+                  <p rend="justify">A de tout temps préféré les écus:</p>
+                  <p rend="justify">Quoi qu'on propose à ces crânes tondus,</p>
+                  <p rend="justify">En les payant on est sûr de leur zèle.</p>
+                  <p rend="justify">Pour appuyer mon avis là-dessus,</p>
+                  <p rend="justify">Je veux vous dire une histoire assez belle</p>
+                  <p rend="justify">Touchant Pauline et son ami Mundus.</p>
+                  <p rend="justify">Pauline étoit une jeune Romaine,</p>
+                  <p rend="justify">Veuve à vingt ans, et belle comme Hélène,</p>
+                  <p rend="justify">Mais prude outrée, avare de faveurs,</p>
+                  <p rend="justify">Et de l'amour dédaignant les douceurs.</p>
+                  <p rend="justify">De mille amants à toute heure entourée,</p>
+                  <p rend="justify">Elle aimoit bien à s'en voir adorée,</p>
+                  <p rend="justify">Mais rien de plus: «Non,» disoit-elle, «non,</p>
+                  <p rend="justify">»Ne vantez point l'attrait imaginaire</p>
+                  <p rend="justify">»D'un vain plaisir qui n'en a que le nom;</p>
+                  <p rend="justify">»Faut-il des sens pour aimer et pour plaire?</p>
+                  <p rend="justify">»Eh! laissons-les au stupide vulgaire.</p>
+                  <p rend="justify">»Pour moi, j'exige un amour de raison,</p>
+                  <p rend="justify">»Pur, dégagé des nœuds de la matière,</p>
+                  <p rend="justify">»Tel en un mot que le prescrit Platon.</p>
+                  <p rend="justify">»Je n'aimerai jamais d'autre manière.»</p>
+                  <lg>
+                     <l>Tous ses amants jeunes, pleins de désirs,</l>
+                     <l>Peu satisfaits d'un amour sans plaisirs,</l>
+                     <l>De ses sermons bientôt se rebutèrent:</l>
+                     <l>L'un après l'autre enfin ils la quittèrent.</l>
+                     <l>Un seul resta, ce fut le beau Mundus,</l>
+                     <l>Bien fait, galant, et digne de sa flamme.</l>
+                     <l>Par des cadeaux, par des soins assidus,</l>
+                     <l>Il n'avoit pu toucher encor la Dame.</l>
+                     <l>Las de se plaindre, enfin le pauvre amant,</l>
+                     <l>Pour réussir, eut recours à la ruse:</l>
+                     <l>Tout galant homme en auroit fait autant,</l>
+                     <l>Et quant à moi, de bon cœur je l'excuse.</l>
+                     <l>Pauline étoit dévote à Jupiter:</l>
+                     <l>D'une Dévote un Directeur est maître;</l>
+                     <l>L'adroit Mundus en sut bien profiter.</l>
+                     <l>De Jupiter il gagne le Grand-Prêtre,</l>
+                     <l>Et lui fait part de son tendre projet.</l>
+                     <l>Le Directeur, mis dans la confidence,</l>
+                     <l>Très bien instruit, très bien payé d'avance,</l>
+                     <l>Court chez Pauline, et lui parle en secret.</l>
+                     <l>«A quel bonheur vous êtes réservée!</l>
+                     <l>»Ma chère fille, ah! réjouissez-vous:</l>
+                     <l>»Au rang des Dieux vous serez élevée,</l>
+                     <l>»Et vous verrez la terre à vos genoux.</l>
+                     <l>»Oui, cette nuit, ce n'est pas un mensonge,</l>
+                     <l>»Le Roi des Dieux a daigné dans un songe</l>
+                     <l>»Me révéler ses décrets absolus,</l>
+                     <l>»Et de sa part, je viens ici moi-même</l>
+                     <l>»Vous annoncer, quel honneur! qu'il vous aime.</l>
+                     <l>»—Moi!» dit d'un ton modestement confus</l>
+                     <l>La belle prude.—«Oui, vous,» répond le Prêtre,</l>
+                     <l>«Et dès ce soir il exige de vous</l>
+                     <l>»Dans son saint Temple un entretien bien doux.</l>
+                     <l>»Lorsque la nuit sera prête à paroître,</l>
+                     <l>»Courez, volez à la gloire, au plaisir.</l>
+                     <l>»Hâtez-vous donc, et quoi qu'on vous demande,</l>
+                     <l>»Quand le Ciel parle, on ne doit qu'obéir.»</l>
+                     <l>Après ces mots prononcés en Prophète,</l>
+                     <l>Il laisse là sa dévote inquiète,</l>
+                     <l>Rêvant tout bas à ce propos flatteur,</l>
+                     <l>Et ne croyant qu'à peine un tel bonheur.</l>
+                     <l>Tout en rêvant, elle fait sa toilette:</l>
+                     <l>Quoique dévote, on est un peu coquette.</l>
+                     <l>Dans le miroir ses appas répétés</l>
+                     <l>Frappent d'abord ses regards enchantés;</l>
+                     <l>En se voyant, elle commence à croire</l>
+                     <l>Que Jupiter, tout Jupiter qu'il est,</l>
+                     <l>Peut bien l'aimer sans manquer à sa gloire:</l>
+                     <l>Elle est si belle! elle-même se plaît,</l>
+                     <l>Et par degrés s'attendrit et soupire.</l>
+                     <l>Bientôt ses yeux pleins d'un tendre délire</l>
+                     <l>Avidement parcourent son beau corps:</l>
+                     <l>Dieux! que d'attraits à la fois elle admire!</l>
+                     <l>Gorge d'albâtre et mille autres trésors,</l>
+                     <l>Trône charmant de l'amoureux empire,</l>
+                     <l>Tout redoublant sa vive émotion,</l>
+                     <l>Redouble aussi sa bonne opinion:</l>
+                     <l>Sa vanité s'en nourrit et l'augmente.</l>
+                     <l>Certain désir qui tout bas la tourmente,</l>
+                     <l>S'y joint encor: bref, pour conclusion,</l>
+                     <l>Dès que la nuit lui parut assez sombre,</l>
+                     <l>Notre dévote, à la faveur de l'ombre,</l>
+                     <l>D'un pas léger que le désir conduit,</l>
+                     <l>Arrive au Temple: un Prêtre l'introduit.</l>
+                     <l>Là son amant prodiguant la dépense,</l>
+                     <l>Avoit orné galamment le réduit</l>
+                     <l>Qui devoit voir triompher sa constance,</l>
+                     <l>Et se livrant au plus heureux espoir,</l>
+                     <l>D'une Chapelle avoit fait un boudoir:</l>
+                     <l>L'art s'y joignoit à la magnificence.</l>
+                     <l>Pauline arrive à ce charmant séjour,</l>
+                     <l>Ivre à la fois et d'orgueil et d'amour;</l>
+                     <l>Elle va voir le Roi des Dieux lui-même!</l>
+                     <l>Elle entre… O Ciel! Quelle surprise extrême!</l>
+                     <l>Elle s'écrie: «Ah! Mundus, quoi! c'est vous!</l>
+                     <l>»—Oui,» lui dit-il, tombant à ses genoux,</l>
+                     <l>«Oui, c'est Mundus dont l'amoureuse adresse,</l>
+                     <l>»En vous trompant, vous prépare en ces lieux</l>
+                     <l>»Tous les plaisirs qui suivent la tendresse.</l>
+                     <l>»Pour un moment, nous sommes seuls tous deux;</l>
+                     <l>»Si vous vouliez, quel moment plein de charmes!»</l>
+                     <l>Il prend sa main, il la baigne de larmes,</l>
+                     <l>Il fait valoir ses transports et ses feux.</l>
+                     <l>Pauline reste immobile, interdite;</l>
+                     <l>Son amour-propre, un reste de pudeur</l>
+                     <l>Parlent encor dans le fond de son cœur:</l>
+                     <l>Mais le désir par ces délais s'irrite;</l>
+                     <l>Son teint s'anime et sa gorge palpite;</l>
+                     <l>Ses yeux, chargés d'une douce langueur,</l>
+                     <l>A son amant laissent voir sa faiblesse.</l>
+                     <l>Il en profite, il ose, il prie, il presse;</l>
+                     <l>Pauline enfin ne peut lui résister,</l>
+                     <l>Et dans les bras de sa belle Maîtresse,</l>
+                     <l>L'heureux Mundus, pour prix de son adresse,</l>
+                     <l>Jusques au bout remplaça Jupiter.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LE SOMMEIL DE VÉNUS</head>
+                  <p rend="justify">CHANSON</p>
+                  <lg>
+                     <l>Sur l'air: <hi rend="italic">ô Filii et Filiæ</hi>
+                     </l>
+                     <l>Mars trouva Vénus à Paphos;</l>
+                     <l>La belle dormoit sur le dos:</l>
+                     <l>«Voyons,» dit-il, «tout ce qu'elle a,</l>
+                     <l>»Alleluia!»</l>
+                     <l>Il alla déranger soudain</l>
+                     <l>L'écharpe qui couvroit son sein;</l>
+                     <l>Plus blanc que neige il le trouva.</l>
+                     <l>Alleluia!</l>
+                     <l>Sa main eut la témérité</l>
+                     <l>D'en tâter la rotondité;</l>
+                     <l>Le sentant ferme, il s'écria:</l>
+                     <l>«Alleluia!»</l>
+                     <l>Enivré de si doux plaisirs,</l>
+                     <l>Il forma de nouveau désirs,</l>
+                     <l>Et de baisers se régala.</l>
+                     <l>Alleluia!</l>
+                     <l>De cent façons pour l'admirer,</l>
+                     <l>Il se mit à la revirer:</l>
+                     <l>Ce qui s'augmente s'augmenta.</l>
+                     <l>Alleluia!</l>
+                     <l>Vénus, fermant toujours les yeux,</l>
+                     <l>Se plaça pourtant de son mieux,</l>
+                     <l>Et le Guerrier en profita.</l>
+                     <l>Alleluia!</l>
+                     <l>«Bon, bon,» disoit Mars qui sentoit</l>
+                     <l>Qu'en dormant on le secondoit,</l>
+                     <l>«Dormez toujours comme cela.</l>
+                     <l>Alleluia!»</l>
+                     <l>A peine un jeu se finissoit</l>
+                     <l>Qu'un autre se recommençoit:</l>
+                     <l>Trois jours entiers cela dura.</l>
+                     <l>Alleluia!</l>
+                     <l>Mais enfin Vénus s'éveillant,</l>
+                     <l>Dit au Dieu, presque en rougissant:</l>
+                     <l>—«Eh! quoi, Monsieur, vous étiez là!</l>
+                     <l>»Alleluia!»</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>QUATRAIN</head>
+                  <p rend="justify">A MADAME ***, DONT LE MARI EST BOITEUX ET JALOUX</p>
+                  <lg>
+                     <l>Comme Vénus vous êtes belle,</l>
+                     <l>Vulcain est aussi votre Époux,</l>
+                     <l>Et je voudrois faire pour vous</l>
+                     <l>Tout ce que Mars faisoit pour elle.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>L'ENTHOUSIASME GASCON</head>
+                  <p rend="justify">Ces jours passés, dans un cercle gaillard,</p>
+                  <p rend="justify">On demandoit ce qui plaisoit aux Dames?</p>
+                  <p rend="justify">—«Les petits soins,» dit un jeune Mignard.</p>
+                  <p rend="justify">—«Par la sambleu!» s'écrie un vieux paillard,</p>
+                  <p rend="justify">«Mon bel ami, tu connois bien les femmes!</p>
+                  <p rend="justify">»Si tu ne veux passer pour un nigaud,</p>
+                  <p rend="justify">»Tranche et dis-nous: C'est un vit qu'il leur faut,</p>
+                  <p rend="justify">»Car les fourreaux sont tous faits pour les lames.</p>
+                  <p rend="justify">»—Sandis! mon cher,» cria certain Gascon,</p>
+                  <p rend="justify">«Embrasse-moi, tu parles comme un con.»</p>
+               </div>
+               <div type="div3">
+                  <head>LE CRI DU CŒUR</head>
+                  <p rend="justify">Père Brichard exploitait Sœur Colette,</p>
+                  <p rend="justify">Sans débrider pour la sixième fois,</p>
+                  <p rend="justify">Et deux encor: tant qu'enfin la Nonnette,</p>
+                  <p rend="justify">Qui, se lassant, les comptoit par ses doigts,</p>
+                  <p rend="justify">Lui dit: «Pater, c'est assez nous ébattre:</p>
+                  <p rend="justify">»Oui, je le jure, et de par Saint Julien,</p>
+                  <p rend="justify">»Qu'au jeu d'amour vous seul en valez quatre.</p>
+                  <p rend="justify">»—Par la corbleu! suis-je Carme pour rien?»</p>
+               </div>
+               <div type="div3">
+                  <head>LA BÉNÉDICTION TROP CHÈRE<lb/>OU<lb/>LE CONSEIL D'ALIX</head>
+                  <p rend="justify">Le grand Colas et la jeune Denise,</p>
+                  <p rend="justify">Amoureux, pauvres et contents,</p>
+                  <p rend="justify">Suivis de leurs parents, s'en alloient à l'église</p>
+                  <p rend="justify">Dire un oui, faire une sottise</p>
+                  <p rend="justify">Dont maint époux s'est repenti longtemps.</p>
+                  <p rend="justify">Tout étoit disposé pour cette grande fête;</p>
+                  <p rend="justify">On commence, et déjà messire Jean s'apprête</p>
+                  <p rend="justify">A prononcer le conjungo fatal,</p>
+                  <p rend="justify">Quand tout à coup un scrupule l'arrête:</p>
+                  <p rend="justify">«Avant que d'achever, il ne seroit pas mal,»</p>
+                  <p rend="justify">Leur dit-il, «de faire une pause.</p>
+                  <p rend="justify">»Or, dites-moi, s'il vous plaît, et pour cause,</p>
+                  <p rend="justify">»Ce que vous me donnez pour le droit pastoral?</p>
+                  <p rend="justify">»—Nous avons mis soixante sols ensemble,</p>
+                  <p rend="justify">»Que vous prendrez, si bon vous semble,»</p>
+                  <p rend="justify">Répond Colas, surpris de cette question.</p>
+                  <p rend="justify">—«Soixante sols! je serois un pauvre homme</p>
+                  <p rend="justify">»De donner pour si peu ma bénédiction.</p>
+                  <p rend="justify">»Maître Colas, amplifiez la somme,</p>
+                  <p rend="justify">»Mettez encor vingt sols avec l'écu.</p>
+                  <p rend="justify">»—Quatre francs pour être cocu!»</p>
+                  <p rend="justify">S'écria tout haut un bon drôle;</p>
+                  <p rend="justify">«Messire Jean, quel monopole!</p>
+                  <p rend="justify">»J'en donnerois volontiers neuf,</p>
+                  <p rend="justify">»Et plus encor, pour être veuf.</p>
+                  <p rend="justify">»—Oui, je veux quatre francs sans rabattre une obole;</p>
+                  <p rend="justify">»Laissons les discours superflus:</p>
+                  <p rend="justify">»Quatre francs, ou n'en parlons plus;</p>
+                  <p rend="justify">»Robin, ôte-moi mon étole.»</p>
+                  <p rend="justify">Denise alors prit la parole.</p>
+                  <p rend="justify">—«Colas et moi,» dit-elle, «avions deux petits lits;</p>
+                  <p rend="justify">»Nous venons de les vendre à la commère Alix</p>
+                  <p rend="justify">»Pour avoir une grande couche.</p>
+                  <p rend="justify">»Que je suis malheureuse, hélas!</p>
+                  <p rend="justify">»Messire Jean, que la pitié vous touche!</p>
+                  <p rend="justify">»Où donc ira coucher Colas,</p>
+                  <p rend="justify">»Si vous ne nous mariez pas?</p>
+                  <p rend="justify">»—Vraiment voilà bien du mystère!»</p>
+                  <p rend="justify">Dit la commère Alix; «jour de Dieu! laissez faire;</p>
+                  <p rend="justify">»Messire Jean y perdra son Latin.</p>
+                  <p rend="justify">»Quand je fus promise à Lubin,</p>
+                  <p rend="justify">»Défunt notre Curé voulut agir de même,</p>
+                  <p rend="justify">»Mais il ne fut pas le plus fin;</p>
+                  <p rend="justify">»Lucas et moi d'accord, nous allâmes bon train;</p>
+                  <p rend="justify">»Si qu'au bout de neuf mois, approchant le Carême,</p>
+                  <p rend="justify">»Mon ladre de Curé se vit réduit enfin</p>
+                  <p rend="justify">»A faire au même jour mariage et baptême,</p>
+                  <p rend="justify">»Le tout pour un écu. Faites comme je fis,</p>
+                  <p rend="justify">»C'est un profit tout clair.—Je suis de votre avis,»</p>
+                  <p rend="justify">Répart Denise; «eh bien! Colas, prenons l'avance;</p>
+                  <p rend="justify">»Le Ciel sait nos intentions,</p>
+                  <p rend="justify">»Il sait aussi notre indigence;</p>
+                  <p rend="justify">»Il voit notre Curé manquer de complaisance:</p>
+                  <p rend="justify">»Celui-ci répondra de ce que nous ferons;</p>
+                  <p rend="justify">»Et puisque sans argent il ne veut pas qu'on danse,</p>
+                  <p rend="justify">»Allons, et mettons-lui le plus que nous pourrons</p>
+                  <p rend="justify">»De péchés sur la conscience.»</p>
+               </div>
+               <div type="div3">
+                  <head>ÉPITRE CONSOLANTE A UN COCU</head>
+                  <lg>
+                     <l>Consolez-vous, Monsieur Fumet;</l>
+                     <l>Gens de Robe, Gens à Plumet</l>
+                     <l>Ont un destin pareil au vôtre:</l>
+                     <l>C'est le bon Dieu qui le permet.</l>
+                     <l>Le grand Prophète Mahomet</l>
+                     <l>N'en fut pas plus exempt qu'un autre.</l>
+                     <l>Il prit pour femme Cadigha.</l>
+                     <l>Celle-ci, d'humeur un peu chaude,</l>
+                     <l>Dans son cher époux distingua</l>
+                     <l>Des façons qui sentoient le Claude;</l>
+                     <l>Lors Dieu sait comme elle intrigua!</l>
+                     <l>Un ribaud plut à la ribaude:</l>
+                     <l>Ce ribaud qui la subjugua</l>
+                     <l>Étoit un gros Prieur de Carmes.</l>
+                     <l>Mahomet le sut, le nargua,</l>
+                     <l>Et prit un croissant pour ses armes.</l>
+                     <l>Bel avis aux gens délicats!</l>
+                     <l>Quand il auroit fait des éclats,</l>
+                     <l>Quand il auroit battu sa femme,</l>
+                     <l>Au jour marqué pour son trépas,</l>
+                     <l>En auroit-il moins rendu l'âme?</l>
+                     <l>Ce fut, suivant un érudit,</l>
+                     <l>A Médine qu'il la rendit:</l>
+                     <l>En mangeant un gigot maudit,</l>
+                     <l>Il lui prit une sueur froide</l>
+                     <l>Qui le força d'aller au lit.</l>
+                     <l>Au fait: quand on l'ensevelit</l>
+                     <l>On lui trouva le <hi rend="italic">caiche</hi> roide</l>
+                  </lg>
+                  <p rend="justify">(<hi rend="italic">Caiche</hi>  est synonyme de vit).</p>
+                  <p rend="justify">Soudain le bruit s'en répandit.</p>
+                  <p rend="justify">Sa veuve accourt, elle s'écrie:</p>
+                  <p rend="justify">«Ah! certes, j'aurois eu grand tort</p>
+                  <p rend="justify">»D'avoir passé plus d'une envie</p>
+                  <p rend="justify">»Avec un Moine, vrai butor,</p>
+                  <p rend="justify">»Si mon époux qui disoit d'or</p>
+                  <p rend="justify">»L'avoit porté pendant sa vie</p>
+                  <p rend="justify">»Comme il le porte après sa mort!»</p>
+               </div>
+               <div type="div3">
+                  <head>L'AVOCAT POUSSÉ A BOUT</head>
+                  <p rend="justify">Un Avocat fut consulté</p>
+                  <p rend="justify">Par un Tendron d'aimable mine,</p>
+                  <p rend="justify">Qu'un Gars avoit trop insulté.</p>
+                  <p rend="justify">L'homme de Loi, qui l'examine,</p>
+                  <p rend="justify">Trouve, sous sa simple étamine,</p>
+                  <p rend="justify">Deux grands yeux pleins de volupté;</p>
+                  <p rend="justify">Certain air de naïveté</p>
+                  <p rend="justify">Peint sur sa figure enfantine;</p>
+                  <p rend="justify">Un sein par l'Amour agité,</p>
+                  <p rend="justify">Qui se soulève, se mutine,</p>
+                  <p rend="justify">Et semble en sa captivité</p>
+                  <p rend="justify">Appeler une main lutine,</p>
+                  <p rend="justify">Qui lui rende la liberté.</p>
+                  <p rend="justify">Notre Avocat est transporté:</p>
+                  <p rend="justify">Il lorgne une taille divine,</p>
+                  <p rend="justify">Des pieds mignons et délicats;</p>
+                  <p rend="justify">Et ce qu'il voit de tant d'appas</p>
+                  <p rend="justify">Ne vaut pas ce qu'il en devine.</p>
+                  <p rend="justify">Avec ces titres de faveur,</p>
+                  <p rend="justify">On peut compter sur la ferveur</p>
+                  <p rend="justify">Du Légiste le plus austère.</p>
+                  <p rend="justify">Le nôtre, expert dans tous les droits,</p>
+                  <p rend="justify">Avoit, dit-on, plus d'une fois</p>
+                  <p rend="justify">Pris ses licences à Cythère.</p>
+                  <p rend="justify">Enfin, près de la belle assis,</p>
+                  <p rend="justify">Il veut, sans détour, sans mystère,</p>
+                  <p rend="justify">De son cas savoir le précis.</p>
+                  <p rend="justify">—«Las!» dit la belle désolée,</p>
+                  <p rend="justify">»Je vais rappeler mon esprit,</p>
+                  <p rend="justify">»Et vous conter comment s'y prit</p>
+                  <p rend="justify">»Le fripon qui m'a violée.</p>
+                  <p rend="justify">»Il avoit un air tendre et doux,</p>
+                  <p rend="justify">»La taille la mieux découplée,</p>
+                  <p rend="justify">»Et le regard… tout comme vous.»</p>
+                  <p rend="justify">Notre grave Jurisconsulte,</p>
+                  <p rend="justify">Flatté d'avoir les mêmes traits,</p>
+                  <p rend="justify">En ressent une joie occulte;</p>
+                  <p rend="justify">Et, rajeuni par tant d'attraits,</p>
+                  <p rend="justify">S'approche encore un peu plus près</p>
+                  <p rend="justify">De la beauté qui le consulte.</p>
+                  <p rend="justify">—«Poursuivez ce récit,» dit-il,</p>
+                  <p rend="justify">«Car votre affaire m'intéresse.</p>
+                  <p rend="justify">»—Ah! Monsieur, qu'il étoit subtil!</p>
+                  <p rend="justify">»Que l'Amour inspire d'adresse!</p>
+                  <p rend="justify">»Ses yeux sur mes foibles attraits</p>
+                  <p rend="justify">»Se promenoient avec ivresse.»</p>
+                  <p rend="justify">L'Avocat, qu'un même feu presse,</p>
+                  <p rend="justify">N'a pas des regards plus discrets.</p>
+                  <p rend="justify">«Ce n'est pas tout: sa main hardie</p>
+                  <p rend="justify">»Saisit la mienne au même instant.»</p>
+                  <p rend="justify">Vous sentez, sans que je le die,</p>
+                  <p rend="justify">Que l'Avocat en fait autant.</p>
+                  <p rend="justify">«Ce n'est pas tout: sa perfidie</p>
+                  <p rend="justify">»Méditoit un autre dessein;</p>
+                  <p rend="justify">»Et toujours plus audacieuse,</p>
+                  <p rend="justify">»Bientôt sa main licencieuse</p>
+                  <p rend="justify">»Fourrage les lis de mon sein.»</p>
+                  <p rend="justify">Notre Avocat, sur ce modèle,</p>
+                  <p rend="justify">Glissant une furtive main</p>
+                  <p rend="justify">A travers la gaze infidèle,</p>
+                  <p rend="justify">Enfile le même chemin.</p>
+                  <p rend="justify">«Ce n'est pas tout: d'un air farouche,</p>
+                  <p rend="justify">»A ses feux je veux m'opposer;</p>
+                  <p rend="justify">»Déterminée à tout oser,</p>
+                  <p rend="justify">»Sa bouche se colle à ma bouche.»</p>
+                  <p rend="justify">L'Avocat, que l'exemple touche,</p>
+                  <p rend="justify">Ravit un semblable baiser…</p>
+                  <p rend="justify">Ravit! je faux, on le lui donne;</p>
+                  <p rend="justify">On feint de n'y pas consentir:</p>
+                  <p rend="justify">Mais c'est pour mieux faire sentir</p>
+                  <p rend="justify">Le prix de ce qu'on abandonne.</p>
+                  <p rend="justify">Femmes, osez me démentir!</p>
+                  <p rend="justify">Celle qui jamais ne pardonne,</p>
+                  <p rend="justify">Est trop sujette au repentir.</p>
+                  <p rend="justify">«Ce n'est pas tout: son feu redouble,</p>
+                  <p rend="justify">»Il me transporte malgré moi;</p>
+                  <p rend="justify">»Les genoux tremblants, et l'œil trouble…</p>
+                  <p rend="justify">»Je ne sais plus ce que je voi.»</p>
+                  <p rend="justify">L'Avocat, non moins troublé qu'elle.</p>
+                  <p rend="justify">Répète une leçon si belle;</p>
+                  <p rend="justify">Tous deux bientôt perdent la voix;</p>
+                  <p rend="justify">Tous deux se plongent à la fois</p>
+                  <p rend="justify">Dans une extase mutuelle.</p>
+                  <p rend="justify">Notre Avocat crut jusqu'au bout</p>
+                  <p rend="justify">Avoir imité son modèle.</p>
+                  <p rend="justify">—«Ce n'est pas tout,» dit la Donzelle.</p>
+                  <p rend="justify">«—Comment, diable! ce n'est pas tout!</p>
+                  <p rend="justify">»Qu'avoit-il de plus à vous faire?</p>
+                  <p rend="justify">»Vous m'étonnez! dites, ma chère,</p>
+                  <p rend="justify">»Comment la chose se passa?</p>
+                  <p rend="justify">»—Eh! mais voici tout le mystère,</p>
+                  <p rend="justify">»Monsieur, c'est qu'il recommença.»</p>
+               </div>
+               <div type="div3">
+                  <head>LE DÉLUGE</head>
+                  <p rend="justify">«Cap dé bious!» disoit un Gascon</p>
+                  <p rend="justify">A sa moitié, qui faisoit la niaise,</p>
+                  <p rend="justify">«Pour la première fois, Fanchon,</p>
+                  <p rend="justify">»Il me semble qu'ici je suis bien à mon aise.</p>
+                  <p rend="justify">»—Las!» dit-elle, «mon cher, je suis neuve à tel jeu;</p>
+                  <p rend="justify">»Appelez un Frater, et je le ferai juge</p>
+                  <p rend="justify">»Que mes eaux seulement ont passé par ce lieu.</p>
+                  <p rend="justify">»—Vos eaux! sandis!» repart le Gascon qui prend feu;</p>
+                  <p rend="justify">«Dites donc les eaux du déluge.»</p>
+               </div>
+               <div type="div3">
+                  <head>
+                     <hi rend="italic">Ægri salivantis solatium</hi>
+                  </head>
+                  <lg>
+                     <l>Des beautés de Paris, ô toi la moins farouche,</l>
+                     <l>Ce fut peu d'un écu que tu reçus de moi,</l>
+                     <l>En retour du plaisir que je pris sur ta couche:</l>
+                     <l>Car depuis plus d'un an que j'eus affaire à toi,</l>
+                     <l>L'eau m'en vient encore à la bouche.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>DIALOGUE ENTRE DEUX SERVANTES</head>
+                  <p rend="justify">«Eh bien! notre nouveau Curé?</p>
+                  <p rend="justify">»—Ah! palsangué! c'est un brave homme.</p>
+                  <p rend="justify">»Le premier étoit bon, mais je veux qu'on m'assomme,</p>
+                  <p rend="justify">»Si le second n'est meilleur à mon gré.</p>
+                  <p rend="justify">«—Comment cela?—Comment? Tiens, juges-en, commère:</p>
+                  <p rend="justify">»Il me donne par ans quarante bons écus,</p>
+                  <p rend="justify">»Voire quelque chose de plus;</p>
+                  <p rend="justify">»J'ai la clef de la cave et je n'ai rien à faire.</p>
+                  <p rend="justify">»—Et la nuit…?—Oh! la nuit nous faisons lit à part;</p>
+                  <p rend="justify">»Messire Arlot est un saint prêtre,</p>
+                  <p rend="justify">»Qui ne ressemble en rien à messire Chouart.</p>
+                  <p rend="justify">»—Dieu me garde d'un pareil maître!</p>
+                  <p rend="justify">»Il me feroit mourir d'ennui:</p>
+                  <p rend="justify">»Oh! que j'aime bien mieux servir chez son vicaire!</p>
+                  <p rend="justify">»Je n'ai que dix écus et je fais maigre chère,</p>
+                  <p rend="justify">»Mais du moins on couche avec lui.»</p>
+               </div>
+               <div type="div3">
+                  <head>LE SALAMALEC LYONNOIS</head>
+                  <p rend="justify">CONTE</p>
+                  <p rend="justify">Jamais ne fut nation plus civile</p>
+                  <p rend="justify">Que la Françoise, il le faut avouer;</p>
+                  <p rend="justify">L'envoyé Turc pourroit bien s'en louer,</p>
+                  <p rend="justify">Après l'honneur qu'à Lyon, la grand ville,</p>
+                  <p rend="justify">Des magistrats en passant il reçut.</p>
+                  <p rend="justify">Ces magistrats crurent frapper au but,</p>
+                  <p rend="justify">S'ils régaloient l'Excellence Ottomane</p>
+                  <p rend="justify">D'un compliment en langage Ottoman:</p>
+                  <p rend="justify">«Car,» disoient-ils, «parler par Truchement,</p>
+                  <p rend="justify">»C'est une mort: en langue Musulmane</p>
+                  <p rend="justify">»Un Musulman il nous faut saluer.»</p>
+                  <p rend="justify">L'invention leur sembloit mémorable;</p>
+                  <p rend="justify">Le point étoit comment l'effectuer?</p>
+                  <p rend="justify">Où rencontrer un harangueur capable?</p>
+                  <p rend="justify">Un homme expert dans le salamalec?</p>
+                  <p rend="justify">Notez qu'alors tenoit auberge illec</p>
+                  <p rend="justify">Certain quidam, déserteur de mosquée,</p>
+                  <p rend="justify">De mauvais Turc devenu bon Chrétien.</p>
+                  <p rend="justify">«C'est notre fait,» dirent ces gens de bien.</p>
+                  <p rend="justify">La chose au Sire étant communiquée,</p>
+                  <p rend="justify">Il l'approuva:—«Laissez faire,» dit-il,</p>
+                  <p rend="justify">«François Sélim, c'est ainsi qu'on me nomme.</p>
+                  <p rend="justify">»Nul mieux que moi, Dieu merci! ne sait comme</p>
+                  <p rend="justify">»La tête on doit courber jusqu'au nombril,</p>
+                  <p rend="justify">»Rabattre en arc les mains sur sa poitrine,</p>
+                  <p rend="justify">»Se reculer, s'avancer à propos,</p>
+                  <p rend="justify">»<hi rend="italic">Et cætera</hi>; suffit: de ma doctrine</p>
+                  <p rend="justify">»Tenez-vous sûrs et soyez en repos.</p>
+                  <p rend="justify">»Vous me verrez à la mode Turquesque</p>
+                  <p rend="justify">»Faire cent tours qui surprendront vos yeux;</p>
+                  <p rend="justify">»Telle action vous paroîtra burlesque</p>
+                  <p rend="justify">»Qui cache au fond sens très mystérieux.</p>
+                  <p rend="justify">»Or en ceci la grande politique</p>
+                  <p rend="justify">»Est de me suivre en tout d'un pas égal:</p>
+                  <p rend="justify">»Souvenez-vous de cet avis unique,</p>
+                  <p rend="justify">»Vous ne sauriez, me suivant, faire mal.»</p>
+                  <p rend="justify">De point en point on promit de le suivre;</p>
+                  <p rend="justify">On le suivit jusqu'au moindre <hi rend="italic">iota</hi>.</p>
+                  <p rend="justify">L'ambassadeur bien fort s'en contenta;</p>
+                  <p rend="justify">Mais ce qui, plus que tout, le transporta,</p>
+                  <p rend="justify">Fut qu'un Chrétien parlât Turc comme un livre.</p>
+                  <p rend="justify">—«Il n'est,» dit-il, «assesseur du Divan,</p>
+                  <p rend="justify">»Qui mieux que vous entende notre langue.</p>
+                  <p rend="justify">»—Pas ne vous doit surprendre ma harangue,»</p>
+                  <p rend="justify">Répond Sélim, «je suis né Musulman.</p>
+                  <p rend="justify">»—Né Musulman? Vous l'êtes donc encore?</p>
+                  <p rend="justify">»—Moi? point du tout. Je me suis converti,</p>
+                  <p rend="justify">»Et c'est le Dieu des Chrétiens que j'adore.</p>
+                  <p rend="justify">»—Ah! par Mahom! vous en avez menti,</p>
+                  <p rend="justify">»Et Musulman jamais vous ne naquîtes,</p>
+                  <p rend="justify">»Ou vous n'avez pas changé de parti.</p>
+                  <lg>
+                     <l>»Je ne puis croire au moins ce que vous dites,</l>
+                     <l>»Si je n'en vois un signe fort précis.</l>
+                     <l>»—A moi ne tienne!»—Êtes-vous circoncis?</l>
+                     <l>»—Vous allez voir.» Lors sa misère nue</l>
+                     <l>Le compagnon étale à découvert.</l>
+                     <l>Les Magistrats, à cette étrange vue,</l>
+                     <l>Quoique étonnés, pour n'être pris sans vert,</l>
+                     <l>Suivant leur guide, imitant sa posture,</l>
+                     <l>Firent leur cour en forme et sans tarder,</l>
+                     <l>Chacun selon le talent que nature,</l>
+                     <l>Petit ou grand, lui voulut accorder.</l>
+                     <l>L'ordre fut rare, et l'histoire rapporte</l>
+                     <l>Que l'Ottoman salué de la sorte,</l>
+                     <l>Crainte de pis, s'enfuit sans dire adieu.</l>
+                     <l>Tout au rebours les Donzelles du lieu</l>
+                     <l>Prirent grand goût à la cérémonie:</l>
+                     <l>Et telle fut leur jubilation,</l>
+                     <l>Que maintenant nulle ne se soucie</l>
+                     <l>De voir, après cette réception,</l>
+                     <l>Ambassadeur, s'il ne vient de Turquie.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LA COLÈRE NAÏVE</head>
+                  <p rend="justify">Dans un verger, la friande Colette</p>
+                  <p rend="justify">Au point du jour attendoit Augustin;</p>
+                  <p rend="justify">Lucas la vit, et lui dit: «Ouais! poulette,</p>
+                  <p rend="justify">»Que cherchez-vous en ce lieu si matin?</p>
+                  <p rend="justify">»—Un nid, Lucas.—C'est bien fait, péronnelle,»</p>
+                  <p rend="justify">Lui répondit le villageois rusé;</p>
+                  <p rend="justify">«Mais pour le prendre où donc est votre échelle?</p>
+                  <p rend="justify">»Tenez, tout franc, le détour est usé;</p>
+                  <p rend="justify">»Vous cherchez… là… n'est-il pas vrai, ma belle?…»</p>
+                  <p rend="justify">Poursuit Lucas, qui la voit se fâcher.</p>
+                  <p rend="justify">—«Eh! oui, méchant, puisses-tu,» lui dit-elle,</p>
+                  <p rend="justify">«Avoir perdu ce que je viens chercher!»</p>
+               </div>
+               <div type="div3">
+                  <head>PARTANT QUITTE</head>
+                  <p rend="justify">CONTE</p>
+                  <p rend="justify">Alain disoit: «Ma femme, écoute-moi:</p>
+                  <p rend="justify">»Je t'avouerai qu'avant que d'être à toi,</p>
+                  <p rend="justify">»Bien jeune encor, je fis une folie:</p>
+                  <p rend="justify">»J'eus une fille; elle est, ma foi, jolie;</p>
+                  <p rend="justify">»Prends-la chez toi, faute de nourrisson;</p>
+                  <p rend="justify">»Je veux de toi qu'elle prenne leçon:</p>
+                  <p rend="justify">»Tu l'aimeras, car elle te ressemble.</p>
+                  <p rend="justify">»—Et moi, j'ai fait,» dit-elle, «un beau garçon;</p>
+                  <p rend="justify">»Il nous faudra les marier ensemble.»</p>
+               </div>
+               <div type="div3">
+                  <head>LE FIN MENTEUR</head>
+                  <p rend="justify">En tremblant, un jour Éloi</p>
+                  <p rend="justify">Fut chez un pharmacopole:</p>
+                  <p rend="justify">«Sauf respect, je… voudrois…—Quoi?</p>
+                  <p rend="justify">»—De l'onguent pour la <hi rend="italic">vérole</hi>.</p>
+                  <p rend="justify">»—Combien?—Deux onces, je croi.»</p>
+                  <p rend="justify">Le voyant saisi d'effroi,</p>
+                  <p rend="justify">Purgon lui dit:—«Ah! compère,</p>
+                  <p rend="justify">»C'est pour toi, la chose est claire,</p>
+                  <p rend="justify">»Car tu me parais bien sec.</p>
+                  <p rend="justify">»—Oh! non: c'est pour mon cher père</p>
+                  <p rend="justify">»Qui veut me frotter avec.»</p>
+               </div>
+               <div type="div3">
+                  <head>LE PARDON</head>
+                  <p rend="justify">CONTE</p>
+                  <lg>
+                     <l>A son voisin la gentille Isabelle</l>
+                     <l>Fut se plaindre de son époux,</l>
+                     <l>Qui toujours lui cherchoit querelle.</l>
+                     <l>—«Croyez-moi,» dit-il, «vengez-vous.»</l>
+                     <l>Le conseil plut fort à la belle;</l>
+                     <l>Le galant fut choisi pour servir son courroux.</l>
+                     <l>A chaque heure du jour, c'étoit nouvelle plainte;</l>
+                     <l>Notre couple à l'envi signaloit son ardeur;</l>
+                     <l>Mais la colère du vengeur</l>
+                     <l>En moins de huit jours fut éteinte:</l>
+                     <l>De tout on se lasse à la fin.</l>
+                     <l>La belle, que toujours la vengeance aiguillonne,</l>
+                     <l>Six fois fut se plaindre un matin:</l>
+                     <l>—«Oh! pour le coup,» dit le voisin,</l>
+                     <l>«Je suis Chrétien, je lui pardonne.»</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LE MENSONGE ÉVIDENT</head>
+                  <p rend="justify">En bavolet, en simple jupon court.</p>
+                  <p rend="justify">Sur son balcon dame Alix appuyée</p>
+                  <p rend="justify">Lorgnoit les passants un beau jour.</p>
+                  <p rend="justify">Depuis longtemps, aux mystères d'amour</p>
+                  <p rend="justify">La belle étoit initiée.</p>
+                  <p rend="justify">Un sien neveu, nommé Valcour,</p>
+                  <p rend="justify">Garçon alerte et d'assez bonne mise,</p>
+                  <p rend="justify">Entre en sa chambre; il la voit, et soudain</p>
+                  <p rend="justify">Le fripon sent naître en son sein</p>
+                  <p rend="justify">Un mouvement de paillardise;</p>
+                  <p rend="justify">Si bien que derrière elle il se glisse sans bruit,</p>
+                  <p rend="justify">Soulève le jupon d'une main libertine,</p>
+                  <p rend="justify">Et puis, ainsi qu'on l'imagine,</p>
+                  <p rend="justify">S'ajuste, pousse et s'introduit.</p>
+                  <p rend="justify">—«Eh! mais, voyez l'extravagance!»</p>
+                  <p rend="justify">Dit Alix à notre éventé;</p>
+                  <p rend="justify">«Valcour… vous me foutez, je pense?…</p>
+                  <p rend="justify">»—Moi? non, ma tante, en vérité…</p>
+                  <p rend="justify">»—Comment, non, coquin que vous êtes?</p>
+                  <p rend="justify">»Ne sens-je pas ce que vous faites?</p>
+                  <p rend="justify">»Et vous l'osez nier! c'est par trop fort aussi…</p>
+                  <p rend="justify">»—Vous êtes donc bien mécontente?»</p>
+                  <p rend="justify">Dit Lindor d'un ton radouci;</p>
+                  <p rend="justify">«Eh bien! je vais m'ôter, ma tante,</p>
+                  <p rend="justify">»Si vous voulez.—Non, restez-y:</p>
+                  <p rend="justify">»Mais je n'aime pas que l'on mente.»</p>
+               </div>
+               <div type="div3">
+                  <head>LA MÉTAMORPHOSE</head>
+                  <p rend="justify">CONTE ÉPIGRAMMATIQUE</p>
+                  <lg>
+                     <l>Gertrude à vingt ans fut jolie;</l>
+                     <l>Elle avoit deux petits tetons</l>
+                     <l>Qu'Ariste aimoit à la folie,</l>
+                     <l>Et nommoit ses petits fripons.</l>
+                     <l>Ariste fit un long voyage,</l>
+                     <l>Et revint après vingt-cinq ans,</l>
+                     <l>Je laisse à penser quel ravage</l>
+                     <l>Chez Gertrude avoit fait le temps!</l>
+                     <l>Sur les fripons, par habitude,</l>
+                     <l>Ariste jeta ses regards:</l>
+                     <l>«Ah! mes petits fripons, Gertrude,</l>
+                     <l>»Sont devenus de grands pendards!»</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LE MALADROIT</head>
+                  <p rend="justify">Certain benêt voulant fêter sa femme,</p>
+                  <p rend="justify">Point ne pouvoit attraper le milieu.</p>
+                  <p rend="justify">«Trop haut! trop bas!» lui répétoit la Dame.</p>
+                  <p rend="justify">«—Y suis-je?—Non!—Pour le mettre en son lieu,</p>
+                  <p rend="justify">»Ma chère Alix, ton aide je réclame.</p>
+                  <p rend="justify">»—Quoi! ne pouvez,» lui dit-elle en courroux,</p>
+                  <p rend="justify">«Trouver ce que cherchez depuis une heure?</p>
+                  <p rend="justify">»C'est pourtant là l'office d'un époux!</p>
+                  <p rend="justify">»J'enrage: point ne connois, ou je meure!</p>
+                  <p rend="justify">»D'homme qui soit plus maladroit que vous!»</p>
+               </div>
+               <div type="div3">
+                  <head>LE PLAISIR SANS REMORDS</head>
+                  <p rend="justify">CONTE</p>
+                  <lg>
+                     <l>Le vieux Cassandre est un compère,</l>
+                     <l>Qui malgré son âge, la nuit,</l>
+                     <l>Quelquefois encor fait du bruit;</l>
+                     <l>Et sa Pernelle une commère,</l>
+                     <l>Qui, sans mentir, entre deux draps,</l>
+                     <l>A son mari ne cède guère.</l>
+                     <l>La nuit surtout du Mardi-gras,</l>
+                     <l>Ils s'amusèrent… voici comme:</l>
+                     <l>A son lit Cassandre montant,</l>
+                     <l>Vint à faire un… cela s'entend…</l>
+                     <l>Pernelle, alors au premier somme,</l>
+                     <l>Que ce bruit éveille à l'instant,</l>
+                     <l>Se met à rire, à rire tant,</l>
+                     <l>Qu'elle en fait elle-même autant.</l>
+                     <l>Vous jugez bien que le bonhomme</l>
+                     <l>Riposta bientôt d'un second:</l>
+                     <l>Pernelle aussitôt lui répond.</l>
+                     <l>Cassandre veut, quoi qu'il en coûte,</l>
+                     <l>Par un nouveau lui répartir;</l>
+                     <l>Mais… le sommeil le prend en route.</l>
+                     <l>Après tant de plaisir, sans doute,</l>
+                     <l>Il est bien permis de dormir.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LES DEUX CLYSTÈRES</head>
+                  <lg>
+                     <l>Cloris, tandis qu'à votre père,</l>
+                     <l>Diafoirus donne un clystère,</l>
+                     <l>Vous en recevez un d'un jeune Praticien:</l>
+                     <l>Mais que ces anodins diffèrent l'un de l'autre!</l>
+                     <l>Votre père à l'instant est délivré du sien,</l>
+                     <l>Et vous ne la serez que dans neuf mois du vôtre.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LE DOUBLE AVEU</head>
+                  <p rend="justify">CONTE</p>
+                  <p rend="justify">Un grand Seigneur, frappé de mort subite,</p>
+                  <p rend="justify">Droit aux enfers fut conduit au plus vite.</p>
+                  <p rend="justify">Du Styx à peine il eut touché le bord,</p>
+                  <p rend="justify">Que son cocher s'offre à ses yeux d'abord.</p>
+                  <p rend="justify">—«Vous, Monseigneur, dans ce lieu de souffrance?</p>
+                  <p rend="justify">»Puis-je savoir quel crime, quelle offense?…</p>
+                  <p rend="justify">»—Mon cher Vincent, j'ai tout sacrifié</p>
+                  <p rend="justify">»Pour enrichir le fils que ma moitié,</p>
+                  <p rend="justify">»Cette adorable et vertueuse femme,</p>
+                  <p rend="justify">»M'avoit donné, seul gage de sa flamme.</p>
+                  <p rend="justify">»Mais toi, Vincent, quel est donc le sujet</p>
+                  <p rend="justify">»De ton malheur? Toi, sage domestique?…</p>
+                  <p rend="justify">»—Ah! Monseigneur, ce maudit fils unique,</p>
+                  <p rend="justify">»Hélas! je suis ici pour l'avoir fait.»</p>
+               </div>
+               <div type="div3">
+                  <head>LES SOULIERS</head>
+                  <p rend="justify">CONTE</p>
+                  <lg>
+                     <l>De tous ses amoureux, Babet, dans son printemps,</l>
+                     <l>Exigeoit, pour le prix de ses faveurs secrètes,</l>
+                     <l>Deux paires de souliers: aujourd'hui les grisettes</l>
+                     <l>Rougiroient d'accepter de si minces présents.</l>
+                     <l>Babet s'en contentoit, souliers alloient pleuvants.</l>
+                     <l>L'or, quand on est jolie, est fugace, il va vite:</l>
+                     <l>On le gagne aisément, on le ménage peu;</l>
+                     <l>Babet l'avoit senti; souliers restoient au gîte,</l>
+                     <l>Ils devenoient ressource. On conçoit qu'à ce jeu</l>
+                     <l>Fallut bientôt à la commère,</l>
+                     <l>Pour loger les souliers, une maison entière.</l>
+                     <l>Le cuir haussa de prix: le Prince le taxa,</l>
+                     <l>Mainte bourse s'emplit, maint fermier s'engraissa;</l>
+                     <l>Tel est chez nous le train des choses,</l>
+                     <l>Toujours les grands effets ont de petites causes.</l>
+                     <l>Babet vieillit, le cuir baissa;</l>
+                     <l>Adieu vous dit joli visage,</l>
+                     <l>Taille fine, élégant corsage,</l>
+                     <l>Enfin adieu tous ses appas!</l>
+                     <l>L'âge a beau nous rider, il ne nous change pas.</l>
+                     <l>On se travaille en vain, le goût reste le même.</l>
+                     <l>Celui de Babet pour l'amour,</l>
+                     <l>Bien loin de s'affoiblir, avoit crû chaque jour.</l>
+                     <l>Que faire en ce besoin extrême?</l>
+                     <l>Le temps de but à but étoit plus que passé,</l>
+                     <l>Il fallut des souliers implorer l'assistance:</l>
+                     <l>Grâce à sa sage prévoyance,</l>
+                     <l>L'Amant venu nus pieds, s'en retournait chaussé;</l>
+                     <l>Elle habilla par bas les deux tiers de Florence.</l>
+                     <l>Sur quoi certain voisin, d'elle un jour s'enquérant</l>
+                     <l>De ce tas de souliers qu'elle alloit répandant,</l>
+                     <l>Babet que le métier n'avait point rendu fausse,</l>
+                     <l>Lui dit:—«Mon cher ami, l'hiver vit de l'été.</l>
+                     <l>»Je rends à mes Amants ce qu'ils m'avoient prêté:</l>
+                     <l>»Je les déchaussois, je les chausse.»</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>QUI PERD GAGNE</head>
+                  <p rend="justify">CONTE</p>
+                  <p rend="justify">«Jeanne, va fermer la targette,»</p>
+                  <p rend="justify">Disoit, en s'endormant, Lucas à sa moitié.</p>
+                  <p rend="justify">—«Vas-y, toi,» répondit Jeannette;</p>
+                  <p rend="justify">«L'homme est fait pour être sur pié,</p>
+                  <p rend="justify">»La femme pour dormir.—Que je sois estropié</p>
+                  <p rend="justify">»Si j'y vais!» dit Lucas.—«Que le Diable m'emporte</p>
+                  <p rend="justify">»Si j'y vais!» dit Jeannette.—«On ouvrira la porte.</p>
+                  <p rend="justify">»—Je m'en gausse.—Et moi je m'en ris.</p>
+                  <p rend="justify">»J'encague les voleurs, je n'ai pas une obole.</p>
+                  <p rend="justify">»—Et si l'on te prend tes habits?</p>
+                  <p rend="justify">»—Je resterai couché, c'est ce qui me console.</p>
+                  <p rend="justify">»—Oh çà! tiens, mon mari, convenons entre nous:</p>
+                  <p rend="justify">»Celui qui lâchera la première parole</p>
+                  <lg>
+                     <l>»Ira verrouiller l'huis.—Tope,» reprit l'époux,</l>
+                     <l>«Je suis muet, bonsoir!—Moi, j'ai la langue morte!»</l>
+                     <l>Pendant que nos époux disputoient de la sorte,</l>
+                     <l>Auprès de leur logis certain Carme passoit;</l>
+                     <l>Le vent éteignit sa bougie.</l>
+                     <l>Comme au travers de l'huis leur lampe paraissoit,</l>
+                     <l>Mon gaillard, disciple d'Élie,</l>
+                     <l>Frappe; on ne répond point. Il baisse le loquet:</l>
+                     <l>—«Pardon! de votre somme, amis, je vous dérange;</l>
+                     <l>»Mais mon abord céans ne doit vous alarmer:</l>
+                     <l>»Ma bougie est éteinte, et je viens l'allumer.»</l>
+                     <l>Mot. «Holà!» dit le Moine, à cet accueil étrange;</l>
+                     <l>«M'entendez-vous, mes bonnes gens?</l>
+                     <l>»Je n'ai, je le répète, aucuns desseins méchants.»</l>
+                     <l>Mot encore. Il s'avance; il voit deux grosses faces,</l>
+                     <l>Qui, les yeux bien ouverts, rioient entre leurs dents.</l>
+                     <l>Jeanne comptoit au plus vingt ans:</l>
+                     <l>Le Frocard lui trouva des grâces.</l>
+                     <l>Son visage, ses traits, lui semblèrent piquants:</l>
+                     <l>On est à peu de frais aimable aux yeux d'un Moine;</l>
+                     <l>Il n'est belle ou laidron, qui ne lui soit idoine.</l>
+                     <l>Le Carme, encor qu'il fût perplex,</l>
+                     <l>Jugeant que ce silence étoit une gageure,</l>
+                     <l>Résolut in petto de pousser l'aventure.</l>
+                     <l>Un teton paroissoit, il y porte l'index:</l>
+                     <l>Le mari reste coi, la femme se résigne.</l>
+                     <l>Réduit à pérorer par signe,</l>
+                     <l>Le grivois parla puissamment.</l>
+                     <l>Or, voilà, je ne sais comment,</l>
+                     <l>Que d'abord près du lit, le Jean-chouart du Frère</l>
+                     <l>Tôt après fut dedans: oh! jugez de la chère!</l>
+                     <l>Lucas voyoit et souffroit tout.</l>
+                     <l>Plus discrète qu'on ne peut dire,</l>
+                     <l>Jeanne, bien qu'on poussât sa patience à bout,</l>
+                     <l>N'eût pas parlé pour un Empire.</l>
+                     <l>Le moine se montra digne enfant du Carmel,</l>
+                     <l>Fort affamé, peu sensuel.</l>
+                     <l>Le temps vient de partir, mon gaillard fit retraite.</l>
+                     <l>Il n'étoit pas sorti, que la dame Jeannette</l>
+                     <l>Chanta goguette à son époux:</l>
+                     <l>«Voyez ce gueux,» dit-elle, en feignant du courroux,</l>
+                     <l>«De me laisser manquer de semblable manière!</l>
+                     <l>»Et par un Moine encor! je suis d'une colère!…</l>
+                     <l>»Va, je me vengerai, je te le garantis.</l>
+                     <l>»—Femme,» répond Lucas, «allez verrouiller l'huis:</l>
+                     <l>»Vous avez parlé la première!»</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>IN-PROMPTU</head>
+                  <p rend="justify">PARODIE D'UN COUPLET DES AMOURS D'ÉTÉ</p>
+                  <lg>
+                     <l>Sur l'air: <hi rend="italic">En plein, plan.</hi>
+                     </l>
+                     <l>Qu'une vérole est amère,</l>
+                     <l>Et q'c'est méchante affaire!</l>
+                     <l>Je l'ai bien pour mes six francs,</l>
+                     <l>En plein, plan,</l>
+                     <l>Rlan, tan, plan, tirelire,</l>
+                     <l>Lan, plan.</l>
+                     <l>Il y a des bien honnêt's gens,</l>
+                     <l>Qu'en ont une plus chère.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>L'EXCUSE INGÉNIEUSE</head>
+                  <p rend="justify">Dans un endroit obscur, trouvant une Duchesse,</p>
+                  <p rend="justify">Un jeune Mousquetaire osa porter la main</p>
+                  <p rend="justify">Sous le jupon de son Altesse.</p>
+                  <p rend="justify">Elle jette un cri, c'est en vain:</p>
+                  <p rend="justify">Mon étourdi, qu'un vif aiguillon presse,</p>
+                  <p rend="justify">Jusques au bout allant son train,</p>
+                  <p rend="justify">Claquoit et reclaquoit sans cesse.</p>
+                  <p rend="justify">«Finirez-vous donc, libertin?</p>
+                  <p rend="justify">»A moi quelqu'un! la Fleur, Champagne, la Jeunesse!»</p>
+                  <p rend="justify">Ces Messieurs, qui buvoient au Cabaret voisin,</p>
+                  <p rend="justify">N'entendoient pas la voix de leur Maîtresse.</p>
+                  <p rend="justify">Mon polisson lâche prise à la fin.</p>
+                  <p rend="justify">—«Ah! malheureux, tu payeras demain</p>
+                  <p rend="justify">»Ce trait d'audace et de scélératesse:</p>
+                  <p rend="justify">»Crois que ton trépas est certain!</p>
+                  <p rend="justify">»—Pardonnez un moment d'ivresse,»</p>
+                  <p rend="justify">Reprit le Mousquetaire avec un air serein;</p>
+                  <p rend="justify">«J'ai fait sans doute une sottise,</p>
+                  <p rend="justify">»Et vous m'en voyez confondu:</p>
+                  <p rend="justify">»Que voulez-vous que je vous dise?</p>
+                  <p rend="justify">»Las! je suis un homme foutu,</p>
+                  <p rend="justify">»Si vous avez le cœur aussi dur que le cu!»</p>
+               </div>
+               <div type="div3">
+                  <head>L'OBSERVATEUR EN SECOND</head>
+                  <p rend="justify">OU L'ART D'AIMER</p>
+                  <lg>
+                     <l>J'ai vu dans les Écrits d'un grand Observateur,</l>
+                     <l>Émule d'Hamilton et Poëte des Grâces,</l>
+                     <l>Le véritable sens que l'on donne au mot <hi rend="italic">cœur</hi>.</l>
+                     <l>En admirant B… j'ai marché sur ses traces.</l>
+                     <l>Or, écoutez, ami Lecteur,</l>
+                     <l>Et vous saurez de moi ce qu'il vous faut entendre</l>
+                     <l>Alors que la beauté qui vous a su charmer</l>
+                     <l>Vous avoûra d'une voix douce et tendre,</l>
+                     <l>Qu'elle vous permet de l'aimer.</l>
+                     <l>
+                        <hi rend="italic">Aimer</hi>  n'est pas un mot de sens tout à fait vide:</l>
+                     <l>Anacréon, Properce et le galant Ovide</l>
+                     <l>Employèrent souvent ce mot-là comme il faut.</l>
+                     <l>Devinez donc ce que pense une Dame</l>
+                     <l>Dont les attraits sont par l'âge effacés,</l>
+                     <l>Quand elle vient se plaindre, en nous vantant sa flamme,</l>
+                     <l>Que Monsieur son époux ne l'aime point assez?</l>
+                     <l>Qu'une fille me plaît, qu'elle est intéressante,</l>
+                     <l>Quand le besoin d'aimer en secret la tourmente!</l>
+                     <l>Comme elle je ressens ce besoin, ces ardeurs;</l>
+                     <l>Pourquoi ne pas unir nos besoins et nos cœurs?</l>
+                     <l>Elle diroit bientôt, d'une voix expirante:</l>
+                     <l>Ah! quand on aime bien, qu'on goûte de douceurs!</l>
+                     <l>Mais n'aime pas qui veut, c'est là ce qui me fâche!</l>
+                     <l>Tantôt bien, tantôt mal, on remplit cette tâche:</l>
+                     <l>J'en vois même plusieurs, que je saurois nommer,</l>
+                     <l>Qui, malgré leurs efforts, ne peuvent plus aimer.</l>
+                     <l>Mélidore adoroit (on verra par la suite</l>
+                     <l>Qu'ici tout autre mot ne peut être adopté),</l>
+                     <l>Adoroit donc une beauté</l>
+                     <l>Dans l'art d'aimer assez instruite;</l>
+                     <l>Notre amant jeune et sans détour,</l>
+                     <l>Dans cet art charmant vrai novice,</l>
+                     <l>Depuis plus de six mois qu'il étoit au supplice,</l>
+                     <l>N'avoit encore osé déclarer son amour.</l>
+                     <l>Aux pieds de Lise enfin il se jette un beau jour,</l>
+                     <l>Et pour lui peindre son martyre,</l>
+                     <l>Pousse de grands Hélas! verse des pleurs, soupire,</l>
+                     <l>Veut lui parler et reste court.</l>
+                     <l>L'amante, en le voyant, pensa crever de rire,</l>
+                     <l>Et sans prendre pitié du trouble qu'elle inspire,</l>
+                     <l>De l'amant à ses pieds, ni de son embarras,</l>
+                     <l>Lui répond froidement:—«Non, vous ne m'aimez pas.</l>
+                     <l>»—Je ne vous aime pas?… L'amour le plus sincère</l>
+                     <l>»N'est-il donc à vos yeux qu'une vaine chimère?</l>
+                     <l>»Quand je brûle d'un feu qui ne peut s'exprimer,</l>
+                     <l>»Quand tout mon sang pour vous…—Ce n'est pas là m'aimer,</l>
+                     <l>»Et moi, je prétends que l'on m'aime.</l>
+                     <l>»—Je vous l'ai déjà dit, ma tendresse est extrême;</l>
+                     <l>»Votre volonté seule est ma suprême loi;</l>
+                     <l>»De grâce, commandez.—Eh bien donc, aimez-moi!»</l>
+                     <l>Désespéré, confus, notre amant se retire;</l>
+                     <l>D'abord il veut se pendre, et puis il réfléchit</l>
+                     <l>Que ce seroit tomber d'un malheur dans un pire.</l>
+                     <l>Ensuite il cherche en son esprit</l>
+                     <l>Le sens de chaque mot, et ce qu'Églé veut dire?</l>
+                     <l>L'Amour enfin daigne l'instruire:</l>
+                     <l>Avec un si grand Maître une leçon suffit.</l>
+                     <l>Quelques jours écoulés, il vole chez sa Dame,</l>
+                     <l>Plein d'espoir et surtout bien résolu dans l'âme,</l>
+                     <l>De mettre, s'il se peut, la leçon à profit.</l>
+                     <l>Il entre… Il la voit seule… Il prend un peu d'audace…</l>
+                     <l>Et fit… ce que j'aurois voulu faire à sa place.</l>
+                     <l>Pendant les amoureux ébats,</l>
+                     <l>L'Amant disoit à sa Maîtresse:</l>
+                     <l>«Peux-tu te plaindre encor que je ne t'aime pas?</l>
+                     <l>»Peux-tu douter de ma tendresse?»</l>
+                     <l>La belle lui repart:—«Non, le fait est certain,</l>
+                     <l>»Tu m'aimes maintenant, j'en ai la preuve en main.»</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>ÉPIGRAMME CONTRE UN SOT POLITIQUE</head>
+                  <lg>
+                     <l>Des Gazettes de la Tamise,</l>
+                     <l>Quand tu saurois le résultat,</l>
+                     <l>Faudroit-il te vanter d'être, comme un Moïse,</l>
+                     <l>Savant dans le métier que fait un Potentat?</l>
+                     <l>Ta femme me l'a dit: ta sottise est sans bornes,</l>
+                     <l>Et si tu ressemblois à cet homme d'État,</l>
+                     <l>Ce ne seroit que par les cornes.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LE CURÉ COMPLAISANT</head>
+                  <p rend="justify">«Lisez tout bas ce guide-âne,</p>
+                  <p rend="justify">»Monsieur, vous m'épouvantez;</p>
+                  <p rend="justify">»Ah! quels grands mots! Libertés…</p>
+                  <p rend="justify">»De l'Église Gallicane!</p>
+                  <p rend="justify">»Comment! je crois, Dieu me damne!</p>
+                  <p rend="justify">»Que je les ai répétés.</p>
+                  <p rend="justify">»—Venez sur cette Ottomane,</p>
+                  <p rend="justify">»Prendre place à mes côtés.</p>
+                  <p rend="justify">»Or, maintenant, écoutez:</p>
+                  <p rend="justify">»Levez ce jupon de panne,</p>
+                  <p rend="justify">»Et sur le dos vous mettez;</p>
+                  <p rend="justify">»Les deux cuisses écartez:</p>
+                  <p rend="justify">»Moi, j'entr'ouvre ma soutane…</p>
+                  <p rend="justify">»—Je crois que vous me foutez?</p>
+                  <p rend="justify">»—Non, c'est pour vous montrer, Jeanne,</p>
+                  <p rend="justify">»Ce qu'on nomme Libertés</p>
+                  <p rend="justify">»De l'Église Gallicane.»</p>
+               </div>
+               <div type="div3">
+                  <head>ÉPIGRAMME</head>
+                  <p rend="justify">Un auteur, dont le nom passera d'âge en âge,</p>
+                  <p rend="justify">Montrant un jour son fils, disoit:</p>
+                  <p rend="justify">«Voilà mon plus mauvais ouvrage.</p>
+                  <p rend="justify">»—Monsieur,» reprit Damon, caustique personnage,</p>
+                  <p rend="justify">«Est-il sûr que vous l'ayez fait?»</p>
+               </div>
+               <div type="div3">
+                  <head>LA QUESTION RÉSOLUE</head>
+                  <lg>
+                     <l>Trois rivaux voyant leur maîtresse</l>
+                     <l>Que l'on vient de blesser au sein,</l>
+                     <l>Aussitôt l'un tombe en faiblesse;</l>
+                     <l>L'autre court après l'assassin;</l>
+                     <l>Le troisième bande la plaie.</l>
+                     <l>Par ce moyen chacun essaie</l>
+                     <l>De montrer qui l'aime le mieux.</l>
+                     <l>Si mon avis on me demande,</l>
+                     <l>Je répondrois qu'il saute aux yeux:</l>
+                     <l>Car je suis pour celui qui bande.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>LE FAGOT</head>
+                  <p rend="justify">CONTE</p>
+                  <p rend="justify">Deux nouveaux mariés font le sujet du conte.</p>
+                  <p rend="justify">Tous deux, jeunes, s'aimoient tous deux;</p>
+                  <p rend="justify">Mais un débat s'émut entre eux.</p>
+                  <p rend="justify">Il étoit vif, elle étoit prompte.</p>
+                  <p rend="justify">Un semblable débat fut autrefois, dit-on,</p>
+                  <p rend="justify">Entre Jupiter et Junon:</p>
+                  <p rend="justify">Mais Junon de dépit saisie</p>
+                  <p rend="justify">Ne tarda guère à se venger</p>
+                  <p rend="justify">Du jugement de Tirésie.</p>
+                  <p rend="justify">Une femme, pour bien juger,</p>
+                  <p rend="justify">Veut qu'on juge à sa fantaisie.</p>
+                  <p rend="justify">Nos deux jeunes époux étoient donc courroucés,</p>
+                  <p rend="justify">De quoi? D'être trop peu la nuit en paix laissés,</p>
+                  <p rend="justify">De dormir trop peu l'un et l'autre:</p>
+                  <p rend="justify">«Est-ce ma faute?—C'est la vôtre.</p>
+                  <p rend="justify">»—N'est-ce pas vous qui me pincez?</p>
+                  <p rend="justify">»—N'est-ce pas vous qui m'agacez?»</p>
+                  <p rend="justify">Telle étoit chaque jour leur plainte mutuelle;</p>
+                  <p rend="justify">Mais ils n'avoient qu'un lit, ce n'étoit pas assez</p>
+                  <p rend="justify">Pour mettre fin à leur querelle.</p>
+                  <p rend="justify">—«Eh bien! pour vous montrer,» dit-elle,</p>
+                  <p rend="justify">»Que je ne veux vous dire mot,</p>
+                  <p rend="justify">»Mettons entre nous un fagot.»</p>
+                  <p rend="justify">Là-dessus la nuit vient, sème le ciel d'étoiles,</p>
+                  <p rend="justify">Et couvre l'univers de ses plus sombres voiles;</p>
+                  <p rend="justify">Tout invite au sommeil, et le fagot se met</p>
+                  <p rend="justify">Pour garant du repos que chacun se promet.</p>
+                  <p rend="justify">Le couple conjugal dormit comme une souche.</p>
+                  <p rend="justify">Mais quand de tous ses sens l'usage suspendu</p>
+                  <p rend="justify">Après un long sommeil lui fut enfin rendu,</p>
+                  <p rend="justify">L'épouse, vers l'époux nonchalamment tournée,</p>
+                  <p rend="justify">Lui dit: «Au moins vous ne vous plaindrez pas</p>
+                  <p rend="justify">»Que de votre repos je ne fais point de cas.</p>
+                  <p rend="justify">»—Et moi,» répond l'époux, «vous ai-je importunée?»</p>
+                  <p rend="justify">A la seconde nuit, c'est à recommencer.</p>
+                  <p rend="justify">Le fagot revient se placer.</p>
+                  <p rend="justify">«Bonsoir, mon cœur.—Bonsoir, m'amie.»</p>
+                  <p rend="justify">Au milieu de la nuit pourtant</p>
+                  <p rend="justify">L'épouse assez mal endormie,</p>
+                  <p rend="justify">Se tourne et se retourne tant,</p>
+                  <p rend="justify">Que le fagot la pique, et qu'elle se récrie:</p>
+                  <p rend="justify">«Peste soit du fagot, et de qui l'a planté!»</p>
+                  <p rend="justify">L'époux, que le fagot n'avoit pas bien traité,</p>
+                  <p rend="justify">—«Qu'avez-vous,» dit-il, «je vous prie,</p>
+                  <p rend="justify">»A tant pousser de mon côté?</p>
+                  <p rend="justify">»Le fagot, grâce à vous, m'a fort mal ajusté.</p>
+                  <p rend="justify">»—Mon Dieu!» cria l'épouse, alors toute attendrie,</p>
+                  <p rend="justify">«Que je voie…» et pour voir le fagot fut ôté.</p>
+                  <p rend="justify">Mais elle ne vit rien qu'une certaine épine…</p>
+                  <p rend="justify">Lors prenant et serrant son époux dans ses bras:</p>
+                  <p rend="justify">—«Mon ami,» lui dit la coquine,</p>
+                  <p rend="justify">«Pour te venger, au lieu de me faire la mine,</p>
+                  <p rend="justify">»Pique-moi tant que tu pourras!»</p>
+               </div>
+               <div type="div3">
+                  <head>LA DEMANDE SINGULIÈRE</head>
+                  <p rend="justify">Au temps prescrit par notre mère Église,</p>
+                  <p rend="justify">Chez son évêque un jeune rustre alla;</p>
+                  <p rend="justify">Puis il lui dit: «Monseigneur, me voilà;</p>
+                  <p rend="justify">»J'ai nom Jacquot, baillez-moi la prêtrise.»</p>
+                  <p rend="justify">Le Prélat rit et lui répond:—«Nigaud,</p>
+                  <p rend="justify">»Crois-tu mener si vite cette affaire?</p>
+                  <p rend="justify">»Va, mon enfant, pour être prêtre, il faut</p>
+                  <p rend="justify">»Qu'un homme ait fait trois ans de Séminaire.»</p>
+                  <p rend="justify">Jacquot repart:—«Je le sais, mais aussi</p>
+                  <p rend="justify">»Informez-vous de tout notre village:</p>
+                  <p rend="justify">»Mon père étoit vicaire, et, Dieu merci!</p>
+                  <p rend="justify">»Tout fils de maître est franc d'apprentissage.»</p>
+               </div>
+               <div type="div3">
+                  <head>L'AVOCAT RAISONNABLE</head>
+                  <p rend="justify">Un Avocat, revenant dans son logis après deux ans d'absence, y retrouva un gros garçon qu'il ne croyoit pas avoir laissé; au lieu de s'emporter contre sa femme, il fit l'in-promptu suivant:</p>
+                  <p rend="justify">IN-PROMPTU</p>
+                  <lg>
+                     <l>Air: <hi rend="italic">Du Vaudeville de la Rosière.</hi>
+                     </l>
+                     <l>Sur cet article délicat,</l>
+                     <l>Un autre courroit au grimoire;</l>
+                     <l>Mais moi, comme un franc Avocat,</l>
+                     <l>C'est la loi que je veux en croire;</l>
+                     <l>Or si je consulte la Loi,</l>
+                     <l>L'enfant de ma femme est à moi.</l>
+                     <l>Je sais bien qu'avant mon départ,</l>
+                     <l>Madame écoutoit les fleurettes,</l>
+                     <l>Et qu'elle avoit sa bonne part</l>
+                     <l>Du foible qu'on donne aux coquettes;</l>
+                     <l>Mais si je consulte la Loi,</l>
+                     <l>L'enfant de ma femme est à moi.</l>
+                     <l>Plus je regarde le poupon,</l>
+                     <l>Moins je trouve qu'il me ressemble:</l>
+                     <l>Il a la bouche de Cliton,</l>
+                     <l>Ses yeux, son nez: aye! aye! je tremble;</l>
+                     <l>Mais si je consulte la Loi,</l>
+                     <l>L'enfant de ma femme est à moi.</l>
+                     <l>Sur un doute pareil au mien,</l>
+                     <l>Rondon plaida sa ménagère,</l>
+                     <l>A cela que gagna-t-il? Rien.</l>
+                     <l>Le juge dit au pauvre hère:</l>
+                     <l>«Va-t'en donc consulter la Loi,</l>
+                     <l>»L'enfant de ta femme est à toi.»</l>
+                     <l>Tous les jours, j'en suis convaincu,</l>
+                     <l>Le plus galant homme peut être</l>
+                     <l>Ce que l'on appelle cocu;</l>
+                     <l>Mais, sans chercher à le paroître,</l>
+                     <l>Il dit: «N'écoutons que la Loi,</l>
+                     <l>»L'enfant de ma femme est à moi.»</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>COUPLET A MADEMOISELLE ***</head>
+                  <lg>
+                     <l>Air: <hi rend="italic">Du Vaudeville d'Epicure.</hi>
+                     </l>
+                     <l>C'est peu d'être jeune et jolie:</l>
+                     <l>Sans l'amour, que sert la beauté?</l>
+                     <l>Pour être une fille accomplie,</l>
+                     <l>Il faut un peu de volupté.</l>
+                     <l>Victoire, soyez moins sévère,</l>
+                     <l>Le plaisir n'est que dans vos yeux:</l>
+                     <l>Si vous voulez me laisser faire,</l>
+                     <l>Je le logerai beaucoup mieux.</l>
+                  </lg>
+               </div>
+               <div type="div3">
+                  <head>L'ÉPOUSE NAÏVE</head>
+                  <p rend="justify">Blaise aimoit certaine donzelle.</p>
+                  <p rend="justify">Il l'épousa. Dès la première nuit,</p>
+                  <p rend="justify">En la caressant, il lui dit:</p>
+                  <p rend="justify">«J'ai peur que nos plaisirs dans quelque temps, ma belle,</p>
+                  <p rend="justify">»Ne te causent bien du tourment…</p>
+                  <p rend="justify">»—Ne crains rien,» lui répond la naïve femelle;</p>
+                  <p rend="justify">«Blaise, j'accouche heureusement.»</p>
+                  <p rend="justify">FIN</p>
+               </div>
+            </div>
+            <pb/>
+            <div type="div2">
+               <head>TABLE</head>
+               <table rend="frame" xml:id="Table1">
+                  <row>
+                     <cell>Avis de l'Éditeur</cell>
+                     <cell>V</cell>
+                  </row>
+                  <row>
+                     <cell>A ma Commère</cell>
+                     <cell>1</cell>
+                  </row>
+                  <row>
+                     <cell>La Femme sans chose</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>La Croyance fondée</cell>
+                     <cell>12</cell>
+                  </row>
+                  <row>
+                     <cell>La Déclaration militaire</cell>
+                     <cell>13</cell>
+                  </row>
+                  <row>
+                     <cell>La Réponse sensée</cell>
+                     <cell>15</cell>
+                  </row>
+                  <row>
+                     <cell>La Plainte injuste</cell>
+                     <cell>16</cell>
+                  </row>
+                  <row>
+                     <cell>Badinage in-promptu</cell>
+                     <cell>17</cell>
+                  </row>
+                  <row>
+                     <cell>La Belle accommodante</cell>
+                     <cell>17</cell>
+                  </row>
+                  <row>
+                     <cell>In-promptu</cell>
+                     <cell>18</cell>
+                  </row>
+                  <row>
+                     <cell>Couplet</cell>
+                     <cell>18</cell>
+                  </row>
+                  <row>
+                     <cell>Bouquet à Mademoiselle ***</cell>
+                     <cell>19</cell>
+                  </row>
+                  <row>
+                     <cell>La Rage d'amour</cell>
+                     <cell>19</cell>
+                  </row>
+                  <row>
+                     <cell>Le Prétendu malin</cell>
+                     <cell>20</cell>
+                  </row>
+                  <row>
+                     <cell>La Gageure</cell>
+                     <cell>21</cell>
+                  </row>
+                  <row>
+                     <cell>Le Paiement d'avance</cell>
+                     <cell>21</cell>
+                  </row>
+                  <row>
+                     <cell>Impromptu</cell>
+                     <cell>24</cell>
+                  </row>
+                  <row>
+                     <cell>La Calomnie foudroyée</cell>
+                     <cell>24</cell>
+                  </row>
+                  <row>
+                     <cell>La Fente</cell>
+                     <cell>25</cell>
+                  </row>
+                  <row>
+                     <cell>Le Repentir sincère</cell>
+                     <cell>27</cell>
+                  </row>
+                  <row>
+                     <cell>L'Armure de Vénus</cell>
+                     <cell>27</cell>
+                  </row>
+                  <row>
+                     <cell>A ma Maîtresse</cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>Les Désolations et les Consolations, vaudeville</cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>Élégie</cell>
+                     <cell>29</cell>
+                  </row>
+                  <row>
+                     <cell>Épigramme</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>Le Triomphe de la Marotte</cell>
+                     <cell>31</cell>
+                  </row>
+                  <row>
+                     <cell>Les Cinq points</cell>
+                     <cell>37</cell>
+                  </row>
+                  <row>
+                     <cell>L'Un pour l'autre</cell>
+                     <cell>37</cell>
+                  </row>
+                  <row>
+                     <cell>La Présence d'esprit</cell>
+                     <cell>38</cell>
+                  </row>
+                  <row>
+                     <cell>La Défense bien observée, chanson</cell>
+                     <cell>39</cell>
+                  </row>
+                  <row>
+                     <cell>Le Dégel</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>Histoire véritable, etc., d'un Abbé qui</cell>
+                     <cell>41</cell>
+                  </row>
+                  <row>
+                     <cell>L'Expédient facile</cell>
+                     <cell>43</cell>
+                  </row>
+                  <row>
+                     <cell>On fait ce qu'on peut</cell>
+                     <cell>44</cell>
+                  </row>
+                  <row>
+                     <cell>Le Qui pro Quo, ou Colin-Maillard</cell>
+                     <cell>44</cell>
+                  </row>
+                  <row>
+                     <cell>L'Inoculation, conte</cell>
+                     <cell>46</cell>
+                  </row>
+                  <row>
+                     <cell>La Muette, chanson</cell>
+                     <cell>47</cell>
+                  </row>
+                  <row>
+                     <cell>L'Obstacle, conte</cell>
+                     <cell>49</cell>
+                  </row>
+                  <row>
+                     <cell>Le Tribut conjugal</cell>
+                     <cell>51</cell>
+                  </row>
+                  <row>
+                     <cell>Le Conseil inutile</cell>
+                     <cell>52</cell>
+                  </row>
+                  <row>
+                     <cell>La Confidence</cell>
+                     <cell>53</cell>
+                  </row>
+                  <row>
+                     <cell>Le Chapelain, chanson</cell>
+                     <cell>54</cell>
+                  </row>
+                  <row>
+                     <cell>Le Marchand de loto</cell>
+                     <cell>55</cell>
+                  </row>
+                  <row>
+                     <cell>Le Lendemain des noces</cell>
+                     <cell>58</cell>
+                  </row>
+                  <row>
+                     <cell>Le Confesseur exemplaire</cell>
+                     <cell>59</cell>
+                  </row>
+                  <row>
+                     <cell>L'Esprit fort</cell>
+                     <cell>60</cell>
+                  </row>
+                  <row>
+                     <cell>Couplet</cell>
+                     <cell>62</cell>
+                  </row>
+                  <row>
+                     <cell>Épigramme</cell>
+                     <cell>63</cell>
+                  </row>
+                  <row>
+                     <cell>Le Cas décidé</cell>
+                     <cell>63</cell>
+                  </row>
+                  <row>
+                     <cell>Le Faux Jupiter</cell>
+                     <cell>64</cell>
+                  </row>
+                  <row>
+                     <cell>Le Sommeil de Vénus</cell>
+                     <cell>69</cell>
+                  </row>
+                  <row>
+                     <cell>Quatrain à Madame ***</cell>
+                     <cell>71</cell>
+                  </row>
+                  <row>
+                     <cell>L'Enthousiasme Gascon</cell>
+                     <cell>72</cell>
+                  </row>
+                  <row>
+                     <cell>Le Cri du cœur</cell>
+                     <cell>72</cell>
+                  </row>
+                  <row>
+                     <cell>La Bénédiction trop chère, où le conseil d'Alix</cell>
+                     <cell>73</cell>
+                  </row>
+                  <row>
+                     <cell>Épître consolante à un cocu</cell>
+                     <cell>75</cell>
+                  </row>
+                  <row>
+                     <cell>L'Avocat poussé à bout</cell>
+                     <cell>77</cell>
+                  </row>
+                  <row>
+                     <cell>Le Déluge</cell>
+                     <cell>80</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi rend="italic">Ægri salivantis solatium</hi>
+                     </cell>
+                     <cell>81</cell>
+                  </row>
+                  <row>
+                     <cell>Dialogue entre deux servantes</cell>
+                     <cell>81</cell>
+                  </row>
+                  <row>
+                     <cell>Le Salamalec Lyonnois</cell>
+                     <cell>82</cell>
+                  </row>
+                  <row>
+                     <cell>La Colère naïve</cell>
+                     <cell>85</cell>
+                  </row>
+                  <row>
+                     <cell>Partant quitte</cell>
+                     <cell>86</cell>
+                  </row>
+                  <row>
+                     <cell>Le fin Menteur</cell>
+                     <cell>87</cell>
+                  </row>
+                  <row>
+                     <cell>Le Pardon</cell>
+                     <cell>87</cell>
+                  </row>
+                  <row>
+                     <cell>Le Mensonge évident</cell>
+                     <cell>88</cell>
+                  </row>
+                  <row>
+                     <cell>La Métamorphose</cell>
+                     <cell>89</cell>
+                  </row>
+                  <row>
+                     <cell>Le Maladroit</cell>
+                     <cell>90</cell>
+                  </row>
+                  <row>
+                     <cell>Le Plaisir sans remords</cell>
+                     <cell>91</cell>
+                  </row>
+                  <row>
+                     <cell>Les deux Clystères</cell>
+                     <cell>92</cell>
+                  </row>
+                  <row>
+                     <cell>Le double Aveu</cell>
+                     <cell>92</cell>
+                  </row>
+                  <row>
+                     <cell>Les Souliers</cell>
+                     <cell>95</cell>
+                  </row>
+                  <row>
+                     <cell>Qui perd gagne</cell>
+                     <cell>95</cell>
+                  </row>
+                  <row>
+                     <cell>In-promptu—Parodie d'un couplet des Amours d'été</cell>
+                     <cell>97</cell>
+                  </row>
+                  <row>
+                     <cell>L'Excuse ingénieuse</cell>
+                     <cell>98</cell>
+                  </row>
+                  <row>
+                     <cell>L'Observateur en second, ou l'Art d'aimer</cell>
+                     <cell>99</cell>
+                  </row>
+                  <row>
+                     <cell>Épigramme contre un sot politique</cell>
+                     <cell>102</cell>
+                  </row>
+                  <row>
+                     <cell>Le Curé complaisant</cell>
+                     <cell>102</cell>
+                  </row>
+                  <row>
+                     <cell>Épigramme</cell>
+                     <cell>103</cell>
+                  </row>
+                  <row>
+                     <cell>La Question résolue</cell>
+                     <cell>104</cell>
+                  </row>
+                  <row>
+                     <cell>Le Fagot</cell>
+                     <cell>104</cell>
+                  </row>
+                  <row>
+                     <cell>La Demande singulière</cell>
+                     <cell>106</cell>
+                  </row>
+                  <row>
+                     <cell>L'Avocat raisonnable</cell>
+                     <cell>107</cell>
+                  </row>
+                  <row>
+                     <cell>Couplet à Mademoiselle ***</cell>
+                     <cell>109</cell>
+                  </row>
+                  <row>
+                     <cell>L'Épouse naïve</cell>
+                     <cell>109</cell>
+                  </row>
+               </table>
+               <lg>
+                  <l>IMPRIMÉ</l>
+                  <l>PAR</l>
+                  <l>CHARLES UNSINGER</l>
+                  <l>83, Rue du Bac</l>
+                  <l>PARIS</l>
+               </lg>
+               <p rend="justify">Isidore LISEUX, Libraire-Éditeur<lb/>Quai Malaquais, n<hi rend="sup">o</hi>  5.</p>
+               <p rend="justify">ÉDITIONS RÉSERVÉES</p>
+               <p rend="justify">Sous cette désignation générale, nous avons l'intention de faire paraître une série de volumes curieux de divers formats, imprimés à un très petit nombre d'exemplaires et non destinés au commerce de la Nouveauté. Le <hi rend="italic">Petit-Neveu de Grécourt</hi>  est le premier de cette série.</p>
+               <p rend="justify">Les couvertures ne porteront aucune indication de prix.</p>
+               <p rend="justify">Le prix net de souscription pour Amateurs ou Libraires, indistinctement, sera communiqué par avis individuel. Les Amateurs qui souscriront par l'entremise des Libraires, s'entendront avec eux pour la commission à leur payer en sus du prix net.</p>
+               <p rend="justify">Aussitôt parus, les volumes entreront de plain-pied dans la Librairie ancienne, et le prix originaire de souscription ne pourra plus être donné qu'à titre de simple renseignement.</p>
+               <p rend="justify">
+                  <hi rend="italic">Envoi franco recommandé contre Mandat ou Chèque.</hi>
+               </p>
+               <p rend="justify">Paris.—Typ Ch. Unsinger, 83, rue du Bac.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
